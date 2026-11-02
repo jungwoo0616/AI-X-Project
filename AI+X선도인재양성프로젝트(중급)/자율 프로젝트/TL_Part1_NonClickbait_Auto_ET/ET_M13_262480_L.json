@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262480",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘더 배트맨’ 올해 최고 오프닝 스코어…‘19만’↑",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘더 배트맨’이 올해 최고 오프닝 스코어를 기록했다.\n20만명에 육박하는 관객들이 몰렸다.\n2일 영진위 영화관입장권 통합전산망 집계결과 ‘더 배트맨’은 개봉일인 1일 19만2341명이 관람해 박스오피스 1위에 올랐다.\n누적관객수 19만8534명이다.\n2022년 개봉한 영화 중 개봉일 최다 관객 기록이다. ‘더 배트맨’의 기록은 ‘다크 나이트 라이즈’(오프닝 44만명) 이후 ‘배트맨’ 시리즈 오프닝 역대 2위에 해당하는 성적이다.\n또한 팬데믹 이후 워너브러더스 영화 ‘테넷’(오프닝 14만), ‘듄’(오프닝 6.1만)보다도 월등히 높은 성적이다.\n북미에서도 3월4일 개봉 첫부 1억 달러 이상의 흥행 수익이 예상돼 전세계적으로도 극장가에 다시 한 번 활기를 불어넣을 것으로 기대된다. ‘더 배트맨’은 자비 없는 배트맨과 그를 뒤흔드는 수수께끼 빌런 리들러와의 대결을 통해 히어로 무비 사상 가장 사실적이면서 인정사정없는 폭투 액션과 강력하고 무자비한 배트맨의 등장을 알린다. ‘혹성탈출’ 트릴로지의 맷 리브스 감독이 메가폰을 잡았고, ‘테넷’의 로버트 패틴슨이 배트맨 역으로 히어로의 세대교체를 알린다. ‘더 배트맨’은 전국 극장가에서 절찬 상영 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘더 배트맨’이 올해 최고 오프닝 스코어를 기록했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20만명에 육박하는 관객들이 몰렸다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2일 영진위 영화관입장권 통합전산망 집계결과 ‘더 배트맨’은 개봉일인 1일 19만2341명이 관람해 박스오피스 1위에 올랐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누적관객수 19만8534명이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2022년 개봉한 영화 중 개봉일 최다 관객 기록이다. ‘더 배트맨’의 기록은 ‘다크 나이트 라이즈’(오프닝 44만명) 이후 ‘배트맨’ 시리즈 오프닝 역대 2위에 해당하는 성적이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 팬데믹 이후 워너브러더스 영화 ‘테넷’(오프닝 14만), ‘듄’(오프닝 6.1만)보다도 월등히 높은 성적이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "북미에서도 3월4일 개봉 첫부 1억 달러 이상의 흥행 수익이 예상돼 전세계적으로도 극장가에 다시 한 번 활기를 불어넣을 것으로 기대된다. ‘더 배트맨’은 자비 없는 배트맨과 그를 뒤흔드는 수수께끼 빌런 리들러와의 대결을 통해 히어로 무비 사상 가장 사실적이면서 인정사정없는 폭투 액션과 강력하고 무자비한 배트맨의 등장을 알린다. ‘혹성탈출’ 트릴로지의 맷 리브스 감독이 메가폰을 잡았고, ‘테넷’의 로버트 패틴슨이 배트맨 역으로 히어로의 세대교체를 알린다. ‘더 배트맨’은 전국 극장가에서 절찬 상영 중이다.",
+				"sentenceSize": 284
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더 배트맨’ 올해 최고 오프닝 스코어…‘19만’↑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

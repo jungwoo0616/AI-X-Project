@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276699",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "대마초 흡연 혐의로 자숙 중인 '탑' SNS 근황",
+		"newsSubTitle": "",
+		"newsContent": "'빅뱅' 탑이 SNS에서 활동한 순간이 포착돼 네티즌의 눈길을 끌고 있다.\n지난 16일 탑은 개인 SNS 계정으로 한 외국 아티스트 게시물에 '좋아요'버튼을 눌렀다.\n이를 포착한 한 네티즌이 그의 SNS 활동을 캡처했고, 온라인 커뮤니티를 중심으로 순식간에 소식이 전해졌다.\n네티즌들은 탑의 SNS 활동에 대해 각각 상반된 반응을 보였다.\n일부 네티즌들은 \\\"보고 싶다\\\", \\\"건강 잘 챙겨라\\\"등 댓글을 통해 그에게 안부를 전했지만, 한편에선 \\\"한가로이 인스타그램 하고 있을 때인가 싶다\\\" \\\"기본적인 자숙 따위는 없는 거냐\\\"며 부정적인 반응을 보였다.\n이에 탑은 '좋아요'버튼을 취소했다.\n한편 탑은 대마초 흡연 혐의로 불구속 기소를 받았다.\n지난 9일 약물 과다 복용으로 중환자실에 입원한 지 나흘 만에 서울 이대목동병원을 퇴원했다.\n이후 다른 병원으로 옮겨 치료를 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'빅뱅' 탑이 SNS에서 활동한 순간이 포착돼 네티즌의 눈길을 끌고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 16일 탑은 개인 SNS 계정으로 한 외국 아티스트 게시물에 '좋아요'버튼을 눌렀다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 포착한 한 네티즌이 그의 SNS 활동을 캡처했고, 온라인 커뮤니티를 중심으로 순식간에 소식이 전해졌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네티즌들은 탑의 SNS 활동에 대해 각각 상반된 반응을 보였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일부 네티즌들은 \\\"보고 싶다\\\", \\\"건강 잘 챙겨라\\\"등 댓글을 통해 그에게 안부를 전했지만, 한편에선 \\\"한가로이 인스타그램 하고 있을 때인가 싶다\\\" \\\"기본적인 자숙 따위는 없는 거냐\\\"며 부정적인 반응을 보였다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 탑은 '좋아요'버튼을 취소했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 탑은 대마초 흡연 혐의로 불구속 기소를 받았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 9일 약물 과다 복용으로 중환자실에 입원한 지 나흘 만에 서울 이대목동병원을 퇴원했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 다른 병원으로 옮겨 치료를 받고 있다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대마초 흡연 혐의로 자숙 중인 '탑' SNS 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

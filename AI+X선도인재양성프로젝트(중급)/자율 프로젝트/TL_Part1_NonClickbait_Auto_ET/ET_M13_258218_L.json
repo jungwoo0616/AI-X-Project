@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258218",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신예 이승규, 제이지엔터테인먼트 전속계약",
+		"newsSubTitle": "",
+		"newsContent": "신예 이승규가 제이지엔터테인먼트와 전속 계약을 체결했다.\n제이지엔터테인먼트에 따르면 “선과 악이 공존하는 얼굴을 가졌으며, 매력적인 보이스를 갖춘 기대가 되는 신예 이승규와 전속계약을 체결했다”고 14일 전했다.\n이승규는 최근 웹드라마 ‘@계정을 삭제하였습니다’에서 차현진역으로 주인공 유민재(신소현 분)가 낙원고 다닐 때 사귀던 전남친으로, 유민재가 매일 꾸는 악몽에 등장하는 잊지못한 첫사랑으로 등장하며 눈길을 끌었다.\n또한, 뮤지컬 더 데이, 랑 유관순, 연극 10분, 위드 유, 버스 등에서 주연으로 활약하며 드라마 뿐만 아니라 공연에서도 실력을 갖춘 신예 배우다.\n제이지엔터테인먼트는 “이승규는 실제 성격이 다정하고 섬세하며, 훈훈한 비주얼을 갖춘 호감이 큰 신인 연기자다. 앞으로 공연 뿐만 아니라 드라마, 영화를 통해 다양한 활동을 할 수 있도록 아낌없는 지원을 할 예정이니 지켜봐주시고 많은 관심 부탁드린다.”라고 전했다.\n제이지엔터테인먼트는 배우 송건희, 최민제가 소속되어 있는 배우 전문 매니지트먼트다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신예 이승규가 제이지엔터테인먼트와 전속 계약을 체결했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제이지엔터테인먼트에 따르면 “선과 악이 공존하는 얼굴을 가졌으며, 매력적인 보이스를 갖춘 기대가 되는 신예 이승규와 전속계약을 체결했다”고 14일 전했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이승규는 최근 웹드라마 ‘@계정을 삭제하였습니다’에서 차현진역으로 주인공 유민재(신소현 분)가 낙원고 다닐 때 사귀던 전남친으로, 유민재가 매일 꾸는 악몽에 등장하는 잊지못한 첫사랑으로 등장하며 눈길을 끌었다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한, 뮤지컬 더 데이, 랑 유관순, 연극 10분, 위드 유, 버스 등에서 주연으로 활약하며 드라마 뿐만 아니라 공연에서도 실력을 갖춘 신예 배우다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제이지엔터테인먼트는 “이승규는 실제 성격이 다정하고 섬세하며, 훈훈한 비주얼을 갖춘 호감이 큰 신인 연기자다. 앞으로 공연 뿐만 아니라 드라마, 영화를 통해 다양한 활동을 할 수 있도록 아낌없는 지원을 할 예정이니 지켜봐주시고 많은 관심 부탁드린다.”라고 전했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제이지엔터테인먼트는 배우 송건희, 최민제가 소속되어 있는 배우 전문 매니지트먼트다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신예 이승규, 제이지엔터테인먼트 전속계약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

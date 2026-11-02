@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258195",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘돌싱글즈2’ 이다은♥윤남기, 소고기 데이트",
+		"newsSubTitle": "",
+		"newsContent": "‘돌싱글즈2’ 윤남기와 이다은이 데이트 현장을 공개했다.\n윤남기는 14일 자신의 SNS에 “소고기. 찐 표정. 살려줘♥ 남다”라는 글과 함께 사진을 올렸다.\n이다은도 SNS에 “소고기 냠냠 in 가로수길 #남다커플 #남다”라는 글과 함께 사진을 공개했다.\n이들이 올린 사진에는 식당에서 데이트하는 이다은, 윤남기 모습이 담겼다.\n이다은은 “휴..오빠..ㅋㅋㅋㅋㅋㅋㅋㅋㅋ”라는 댓글을 남겼고, 윤남기는 “헤헤 예뻐”라는 글도 남겼다.\n이다은과 윤남기는 지난 9일 방송된 MBN ‘돌싱글즈2’를 통해 재혼 소식을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘돌싱글즈2’ 윤남기와 이다은이 데이트 현장을 공개했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤남기는 14일 자신의 SNS에 “소고기. 찐 표정. 살려줘♥ 남다”라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이다은도 SNS에 “소고기 냠냠 in 가로수길 #남다커플 #남다”라는 글과 함께 사진을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들이 올린 사진에는 식당에서 데이트하는 이다은, 윤남기 모습이 담겼다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이다은은 “휴..오빠..ㅋㅋㅋㅋㅋㅋㅋㅋㅋ”라는 댓글을 남겼고, 윤남기는 “헤헤 예뻐”라는 글도 남겼다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이다은과 윤남기는 지난 9일 방송된 MBN ‘돌싱글즈2’를 통해 재혼 소식을 전했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘돌싱글즈2’ 이다은♥윤남기, 소고기 데이트",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280270",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "오달수와 열애설, '채국희' 누구?…\\\"영화 도둑들에서 사모님으로 열연\\\"",
+		"newsSubTitle": "",
+		"newsContent": "오달수와 열애 채국희 감초배우 오달수와 열애설에 휩싸인 배우 채국희에 이목이 쏠리고 있다.\n채국희는 배우 채시라의 여동생으로 뮤지컬과 연극, 영화와 드라마 등 전방위에서 활약 중인 실력파 배우다.\n지난 1994년 데뷔 후 그동안 뮤지컬 '카르멘' '마네킹' '지하철 1호선'과 연극 '왕세자 실종 사건' '그녀의 봄' '트로이 여인들' '마리화나' 등에서 활약했다.\n특히 '마리화나'에서는 열애설의 주인공인오달수와 호흡을 맞춘 바 있다.\n채국희는 지난 2012년 개봉한 천만 영화 '도둑들'에도 모습을 드러냈다.\n그는 영화에서 마카오 박(김윤석)과 손을 잡은 사기꾼 사모님 역을 맡아 강렬한 인상을 줬다. '도둑들'에서 채국희는 오달수와 함께 연기했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오달수와 열애 채국희 감초배우 오달수와 열애설에 휩싸인 배우 채국희에 이목이 쏠리고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "채국희는 배우 채시라의 여동생으로 뮤지컬과 연극, 영화와 드라마 등 전방위에서 활약 중인 실력파 배우다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 1994년 데뷔 후 그동안 뮤지컬 '카르멘' '마네킹' '지하철 1호선'과 연극 '왕세자 실종 사건' '그녀의 봄' '트로이 여인들' '마리화나' 등에서 활약했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 '마리화나'에서는 열애설의 주인공인오달수와 호흡을 맞춘 바 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "채국희는 지난 2012년 개봉한 천만 영화 '도둑들'에도 모습을 드러냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 영화에서 마카오 박(김윤석)과 손을 잡은 사기꾼 사모님 역을 맡아 강렬한 인상을 줬다. '도둑들'에서 채국희는 오달수와 함께 연기했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오달수와 열애설, '채국희' 누구?…\\\"영화 도둑들에서 사모님으로 열연\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

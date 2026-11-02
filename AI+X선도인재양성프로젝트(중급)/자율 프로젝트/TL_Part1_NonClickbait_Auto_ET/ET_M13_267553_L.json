@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267553",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘성실남’ 최강창민, 무엇 때문에 현타가 왔을까?",
+		"newsSubTitle": "",
+		"newsContent": "그룹 동방신기 멤버 최강창민이 허무한 마음을 달랬다.\n최강창민은 20일 새벽 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 스포츠 경기 관람 중인 사진을 게재했다.\n최강창민은 20일 새벽에 치러진 ‘2021-2022시즌 프리미어리그 30라운드’ 맨체스터 유나이티드(이하 맨유)와 리버풀의 ‘노스웨스트더비’를 시청하고 있는 모습을 사진으로 담았다.\n최강창민은 경기 도중 응원하는 팀이 지고 있는지 “난 왜 후반까지 굳이 보려 하고 있는 걸까”라며 한탄하는 글을 올렸다.\n해당 경기에서 맨유는 전반전에만 2골을 먹히며 좋지 못한 경기력을 드러내고 있었다.\n한편 최강창민은 2020년 비연예인 여성과 결혼했고, 최근 두 번째 미니앨범 ‘데블’을 발매했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 동방신기 멤버 최강창민이 허무한 마음을 달랬다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최강창민은 20일 새벽 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 스포츠 경기 관람 중인 사진을 게재했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최강창민은 20일 새벽에 치러진 ‘2021-2022시즌 프리미어리그 30라운드’ 맨체스터 유나이티드(이하 맨유)와 리버풀의 ‘노스웨스트더비’를 시청하고 있는 모습을 사진으로 담았다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최강창민은 경기 도중 응원하는 팀이 지고 있는지 “난 왜 후반까지 굳이 보려 하고 있는 걸까”라며 한탄하는 글을 올렸다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 경기에서 맨유는 전반전에만 2골을 먹히며 좋지 못한 경기력을 드러내고 있었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 최강창민은 2020년 비연예인 여성과 결혼했고, 최근 두 번째 미니앨범 ‘데블’을 발매했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘성실남’ 최강창민, 무엇 때문에 현타가 왔을까?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

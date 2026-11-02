@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278054",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'컬투쇼' 권혁수, 이상형 묻자 \\\"예쁜 여자는 다 좋아…여친과 장난 많이 친다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'두시탈출 컬투쇼' 권혁수가 이상형을 언급했다.\n20일 방송한 SBS 파워FM '두시탈출 컬투쇼'에는 권혁수가 게스트로 출연했다.\n이날 이상형을 묻는 질문에 권혁수는 \\\"예쁜 여자 좋아한다. 예전부터 이연희의 팬이다\\\"고 밝혔다.\n이어서 그는 \\\"예쁜 여자라면 다 좋다. 이상형이 여럿이다\\\"라고 말해 웃음을 자아냈다.\n또한 권혁수는 \\\"여자친구를 사귀면 많이 장난을 치는 편이다. 그래서 혼나면 조용해지고, 또 조용한 걸로 혼나면 다시 장난친다\\\"라며 연애 스타일에 대해 밝혔다.\n한편 권혁수는 지난 2012년부터 tvN 'SNL 코리아'에 꾸준히 출연하면서 인기를 얻고 있다.\n온라인 중앙일보 [사진 SBS 파워FM '두시탈출 컬투쇼' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'두시탈출 컬투쇼' 권혁수가 이상형을 언급했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 방송한 SBS 파워FM '두시탈출 컬투쇼'에는 권혁수가 게스트로 출연했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이상형을 묻는 질문에 권혁수는 \\\"예쁜 여자 좋아한다. 예전부터 이연희의 팬이다\\\"고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어서 그는 \\\"예쁜 여자라면 다 좋다. 이상형이 여럿이다\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 권혁수는 \\\"여자친구를 사귀면 많이 장난을 치는 편이다. 그래서 혼나면 조용해지고, 또 조용한 걸로 혼나면 다시 장난친다\\\"라며 연애 스타일에 대해 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 권혁수는 지난 2012년부터 tvN 'SNL 코리아'에 꾸준히 출연하면서 인기를 얻고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS 파워FM '두시탈출 컬투쇼' 캡처]",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'컬투쇼' 권혁수, 이상형 묻자 \\\"예쁜 여자는 다 좋아…여친과 장난 많이 친다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

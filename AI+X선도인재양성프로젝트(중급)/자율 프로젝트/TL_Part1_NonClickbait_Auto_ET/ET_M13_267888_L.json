@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267888",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "파격! 임영웅이 볶았다",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 완벽한 비주얼을 자랑하고 있다.\n23일 오전 공식 SNS 채널을 통해 임영웅의 첫 정규 앨범 ‘IM HERO’(아임 히어로) 콘셉트 포토 버전 2가 공개됐다.\n사진 속 임영웅은 한층 더 물오른 비주얼로 눈길을 끄는가 하면, 이전에는 시도하지 않았던 헤어스타일로 ‘IM HERO’를 통해 다채로운 변신을 선보일 것을 예고하고 있다.\n임영웅이 앞서 공개된 콘셉트 포토 버전 1로 청량한 매력을 뽐내왔다면, 이번에는 매혹적이면서도 흠잡을 데 없는 분위기를 드러내며 팬들을 사로잡고 있다.\n앞으로도 임영웅은 정규 1집 발매를 앞두고 다양한 콘텐츠를 순차 공개하며 팬들을 위해 준비한 선물들을 하나씩 전할 예정이다.\n모두의 기대와 관심을 받고 있는 임영웅의 ‘IM HERO’는 오는 5월 2일 공개되며, 5월 6일부터 대규모 전국투어 콘서트도 개최된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 완벽한 비주얼을 자랑하고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 오전 공식 SNS 채널을 통해 임영웅의 첫 정규 앨범 ‘IM HERO’(아임 히어로) 콘셉트 포토 버전 2가 공개됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 임영웅은 한층 더 물오른 비주얼로 눈길을 끄는가 하면, 이전에는 시도하지 않았던 헤어스타일로 ‘IM HERO’를 통해 다채로운 변신을 선보일 것을 예고하고 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅이 앞서 공개된 콘셉트 포토 버전 1로 청량한 매력을 뽐내왔다면, 이번에는 매혹적이면서도 흠잡을 데 없는 분위기를 드러내며 팬들을 사로잡고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞으로도 임영웅은 정규 1집 발매를 앞두고 다양한 콘텐츠를 순차 공개하며 팬들을 위해 준비한 선물들을 하나씩 전할 예정이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모두의 기대와 관심을 받고 있는 임영웅의 ‘IM HERO’는 오는 5월 2일 공개되며, 5월 6일부터 대규모 전국투어 콘서트도 개최된다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파격! 임영웅이 볶았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277907",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'라디오스타' 이선빈, 해맑은 미소로 \\\"하회탈 신났대요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘라디오스타’ 이선빈이 본방 사수를 독려했다.\n지난 30일 이선빈은 자신의 인스타그램에 \\\"하회탈 신났대요. 못난이 내일 밤 11시 10분 라디오스타에서 만나요\\\"라는 말과 함께 한 장의 사진을 올렸다.\n공개된 사진 속에는 MBC '라디오스타' 촬영에 들어가는 이선빈의 모습이 나타나있다.\n사진 속 이선빈은 양 팔을 들고 행복한 표정을 짓고 있다.\n이선빈의 뒤로 이날 '라디오스타'에 함께 출연하는 사이먼도미닉과 그레이의 모습도 보인다.\n한편, 이선빈 등이 출연하는 '라디오스타'는 31일 밤 11시 10분에 방송될 예정이다.\n온라인 중앙일보 [사진 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘라디오스타’ 이선빈이 본방 사수를 독려했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 30일 이선빈은 자신의 인스타그램에 \\\"하회탈 신났대요. 못난이 내일 밤 11시 10분 라디오스타에서 만나요\\\"라는 말과 함께 한 장의 사진을 올렸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 MBC '라디오스타' 촬영에 들어가는 이선빈의 모습이 나타나있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 이선빈은 양 팔을 들고 행복한 표정을 짓고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이선빈의 뒤로 이날 '라디오스타'에 함께 출연하는 사이먼도미닉과 그레이의 모습도 보인다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 이선빈 등이 출연하는 '라디오스타'는 31일 밤 11시 10분에 방송될 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 인스타그램]",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'라디오스타' 이선빈, 해맑은 미소로 \\\"하회탈 신났대요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

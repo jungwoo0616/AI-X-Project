@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259677",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "비틀스 마지막 무대, 영화관서 아이맥스로 상영",
+		"newsSubTitle": "",
+		"newsContent": "전설이 된 영국 록밴드 비틀스의 마지막 공연이 담긴 다큐멘터리 ‘비틀즈 겟 백:루프탑 콘서트’가 아이맥스(IMAX)로 상영된다.\n월트디즈니컴퍼니 코리아는 다음 달 11∼13일 ‘비틀즈 겟 백:루프탑 콘서트’를 극장에서 상영한다고 28일 밝혔다.\n영화는 지난달 온라인 동영상 서비스(OTT) 디즈니플러스에서 공개된 다큐멘터리 ‘비틀즈 겟 백’ 중 콘서트 위주로 편집한 1시간짜리 버전이다.\n비틀스 명반 ‘렛 잇 비’(Let It Be) 제작 과정과 해체 전 마지막 라이브 공연 비하인드 스토리를 담은 다큐멘터리 전체 분량은 8시간에 달한다. ‘반지의 제왕’ 피터 잭슨 감독은 약 60시간에 달하는 미공개 영상과 150시간 이상 오디오 자료를 토대로 다큐멘터리를 완성했고, 디즈니플러스에 3부로 나뉘어 공개됐다.\n1969년 런던을 들끓게 했던 루프톱 콘서트는 비틀스 해체 전 존 레넌, 폴 매카트니, 조지 해리슨, 링고 스타가 모두 참여한 마지막 콘서트다.\n영화는 CGV 용산아이파크몰, 왕십리, 대전, 광주터미널, 서면 등 5개 극장 아미맥스 상영관에서 만날 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전설이 된 영국 록밴드 비틀스의 마지막 공연이 담긴 다큐멘터리 ‘비틀즈 겟 백:루프탑 콘서트’가 아이맥스(IMAX)로 상영된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "월트디즈니컴퍼니 코리아는 다음 달 11∼13일 ‘비틀즈 겟 백:루프탑 콘서트’를 극장에서 상영한다고 28일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영화는 지난달 온라인 동영상 서비스(OTT) 디즈니플러스에서 공개된 다큐멘터리 ‘비틀즈 겟 백’ 중 콘서트 위주로 편집한 1시간짜리 버전이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비틀스 명반 ‘렛 잇 비’(Let It Be) 제작 과정과 해체 전 마지막 라이브 공연 비하인드 스토리를 담은 다큐멘터리 전체 분량은 8시간에 달한다. ‘반지의 제왕’ 피터 잭슨 감독은 약 60시간에 달하는 미공개 영상과 150시간 이상 오디오 자료를 토대로 다큐멘터리를 완성했고, 디즈니플러스에 3부로 나뉘어 공개됐다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1969년 런던을 들끓게 했던 루프톱 콘서트는 비틀스 해체 전 존 레넌, 폴 매카트니, 조지 해리슨, 링고 스타가 모두 참여한 마지막 콘서트다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화는 CGV 용산아이파크몰, 왕십리, 대전, 광주터미널, 서면 등 5개 극장 아미맥스 상영관에서 만날 수 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비틀스 마지막 무대, 영화관서 아이맥스로 상영",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

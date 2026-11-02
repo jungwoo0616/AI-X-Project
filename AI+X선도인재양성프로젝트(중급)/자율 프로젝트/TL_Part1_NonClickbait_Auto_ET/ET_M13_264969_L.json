@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264969",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘서른, 아홉’ 이태환, 인간 리트리버가 여기 있네",
+		"newsSubTitle": "",
+		"newsContent": "배우 이태환이 대형견 같은 매력을 뽐냈다.\n이태환은 방송 중인 종합편성채널 JTBC 수목극 ‘서른, 아홉’에서 ‘차이나타운’ 사장 겸 셰프 박현준으로 분해 모태솔로 ‘장주희’(김지현)과 핑크빛 연애 세포를 자극하고 있다.\n극 중 박현준은 시한부라는 정찬영(전미도)의 비밀을 알게 된 장주희의 옆에서 술 한잔 기울이며 묵묵히 이야기를 들어주기도 하고, 진상 손님 때문에 퇴사하게 된 장주희에게 가게 아르바이트를 제안하는 등 아웅다웅하면서도 속 깊은 배려로 장주희의 마음속에 진하게 스며들고 있다.\n마치 장주희 앞에서는 인간 리트리버 같은 매력을 뿜어낸다.\n이와 함께 공개된 비하인드 사진에서도 이태환은 ‘멍뭉미’를 가득 뿜어낸다.\n188cm 훤칠한 키가 돋보이는 전신 사진부터 보기만 해도 무장해제되는 환한 미소와 부드러운 눈빛까지 여심을 설레게 한다.\n과연 전미도의 버킷리스트처럼 이태환과 김지현의 핑크빛 전선이 해피 엔딩을 맞이할 수 있을지, 그 결과는 매주 수, 목요일 밤 10시 30분에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이태환이 대형견 같은 매력을 뽐냈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이태환은 방송 중인 종합편성채널 JTBC 수목극 ‘서른, 아홉’에서 ‘차이나타운’ 사장 겸 셰프 박현준으로 분해 모태솔로 ‘장주희’(김지현)과 핑크빛 연애 세포를 자극하고 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "극 중 박현준은 시한부라는 정찬영(전미도)의 비밀을 알게 된 장주희의 옆에서 술 한잔 기울이며 묵묵히 이야기를 들어주기도 하고, 진상 손님 때문에 퇴사하게 된 장주희에게 가게 아르바이트를 제안하는 등 아웅다웅하면서도 속 깊은 배려로 장주희의 마음속에 진하게 스며들고 있다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마치 장주희 앞에서는 인간 리트리버 같은 매력을 뿜어낸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 함께 공개된 비하인드 사진에서도 이태환은 ‘멍뭉미’를 가득 뿜어낸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "188cm 훤칠한 키가 돋보이는 전신 사진부터 보기만 해도 무장해제되는 환한 미소와 부드러운 눈빛까지 여심을 설레게 한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "과연 전미도의 버킷리스트처럼 이태환과 김지현의 핑크빛 전선이 해피 엔딩을 맞이할 수 있을지, 그 결과는 매주 수, 목요일 밤 10시 30분에 만나볼 수 있다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘서른, 아홉’ 이태환, 인간 리트리버가 여기 있네",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

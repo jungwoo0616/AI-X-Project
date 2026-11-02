@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274782",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이리스 ‘WANNA KNOW’ 화려한 분위기",
+		"newsSubTitle": "",
+		"newsContent": "그룹 IRRIS(아이리스·아이엘, 니나, 윤슬, 리브)가 독특한 분위기를 예고했다 . IRRIS는 지난 4일 사회관계망서비스(SNS)를 통해 미니 1집 ‘WANNA KNOW’(워너 노) 뮤직비디오 티저 영상을 공개했다.\n영상 속 IRRIS는 웅장함이 느껴지는 공간 속 검은색, 흰색 의상을 입고 있는 모습이다.\n네 멤버는 흩날리는 붉은 꽃잎을 배경으로 카리스마를 발산하고 있다 . 데뷔곡 ‘WANNA KNOW’는 중독성 높은 멜로디와 역동적인 리듬이 포인트인 곡으로, 모든 것을 주며 사랑했던 상대를 향한 답답한 마음이 재치 있는 가사로 표현됐다.\nIRRIS는 그리스어 ‘이리스( ρις)’에서 유래한 ‘IRIS’에서 착안한 팀명으로 내면의 영혼을 비추어 빛나는 여신들을 의미한다.\nIRRIS는 차별화된 메시지로 K-POP 시장에 새로운 빛을 밝힌다는 포부를 담았다.\n한편 IRRIS의 미니 1집 ‘WANNA KNOW’는 오는 6일 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 IRRIS(아이리스·아이엘, 니나, 윤슬, 리브)가 독특한 분위기를 예고했다 . IRRIS는 지난 4일 사회관계망서비스(SNS)를 통해 미니 1집 ‘WANNA KNOW’(워너 노) 뮤직비디오 티저 영상을 공개했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영상 속 IRRIS는 웅장함이 느껴지는 공간 속 검은색, 흰색 의상을 입고 있는 모습이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네 멤버는 흩날리는 붉은 꽃잎을 배경으로 카리스마를 발산하고 있다 . 데뷔곡 ‘WANNA KNOW’는 중독성 높은 멜로디와 역동적인 리듬이 포인트인 곡으로, 모든 것을 주며 사랑했던 상대를 향한 답답한 마음이 재치 있는 가사로 표현됐다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IRRIS는 그리스어 ‘이리스( ρις)’에서 유래한 ‘IRIS’에서 착안한 팀명으로 내면의 영혼을 비추어 빛나는 여신들을 의미한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IRRIS는 차별화된 메시지로 K-POP 시장에 새로운 빛을 밝힌다는 포부를 담았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 IRRIS의 미니 1집 ‘WANNA KNOW’는 오는 6일 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이리스 ‘WANNA KNOW’ 화려한 분위기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

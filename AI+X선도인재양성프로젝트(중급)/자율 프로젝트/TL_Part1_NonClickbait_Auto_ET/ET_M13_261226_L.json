@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261226",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, '고운 자태→엽기' 화보 비하인드",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 아이유(IU, 이지은)가 화보 비하인드 촬영 비하인드 사진을 공개했다.\n17일 오전 아이유는 자신의 인스타그램에 별다른 설명 없이 사진들을 게재했다.\n공개된 사진 속 아이유는 명품 브랜드 G사의 의상을 입고서 셀카를 찍는 모습이다.\n셀카로도 고운 미모를 자랑한 그는 화보 속 사진과 분위기 다르게 독특한 디자인의 안경을 쓰고 익살스런 셀카를 찍기도 했다.\n또 다른 사진 속 아이유는 체크 패턴의 블레이저와 팬츠에 청키한 화이트 스니커즈를 연출해 스타일리쉬한 모습도 보였다.\n한편, 1993년생으로 만 29세가 되는 아이유는 지난해 12월 스페셜 미니 앨범 ‘조각집’을 발매했고, 아이돌차트에서 집계한 1월 5주차 아이돌차트 아차랭킹 1위에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 아이유(IU, 이지은)가 화보 비하인드 촬영 비하인드 사진을 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 오전 아이유는 자신의 인스타그램에 별다른 설명 없이 사진들을 게재했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 아이유는 명품 브랜드 G사의 의상을 입고서 셀카를 찍는 모습이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "셀카로도 고운 미모를 자랑한 그는 화보 속 사진과 분위기 다르게 독특한 디자인의 안경을 쓰고 익살스런 셀카를 찍기도 했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진 속 아이유는 체크 패턴의 블레이저와 팬츠에 청키한 화이트 스니커즈를 연출해 스타일리쉬한 모습도 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 1993년생으로 만 29세가 되는 아이유는 지난해 12월 스페셜 미니 앨범 ‘조각집’을 발매했고, 아이돌차트에서 집계한 1월 5주차 아이돌차트 아차랭킹 1위에 올랐다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, '고운 자태→엽기' 화보 비하인드",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

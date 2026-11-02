@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167840",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "서울 시내 야경 한눈에 보이는 집으로 이사한 기안84",
+    "newsSubTitle": "",
+    "newsContent": "웹툰 작가 기안84가 서울 시내 야경이 한눈에 보이는 집으로 이사했다.\n기안84는 지난 12일 자신의 페이스북에 \\\"서울 이사 옴\\\"이라는 글과 함께 사진 두 장을 공개했다.\n기안84는 침대 위에 앉아서 사진을 찍었다.\n창밖으로는 서울의 야경이 펼쳐졌다.\n기안84는 MBC '나 혼자 산다'에 처음 출연할 당시 집을 마련하지 못해 네이버 본사에서 숙식을 해결했다.\n이후 경기도 성남의 한 아파트로 이사한 뒤에도 에어컨 없이 지내는 모습을 보였다.\n기안84의 새로운 집에 팬들은 응원의 말을 보냈다.\n누리꾼들은 \\\"기안84 출세했다\\\", \\\"성공한 모습을 보니 내가 다 뿌듯하다\\\" 등의 댓글을 달았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "웹툰 작가 기안84가 서울 시내 야경이 한눈에 보이는 집으로 이사했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기안84는 지난 12일 자신의 페이스북에 \\\"서울 이사 옴\\\"이라는 글과 함께 사진 두 장을 공개했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기안84는 침대 위에 앉아서 사진을 찍었다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "창밖으로는 서울의 야경이 펼쳐졌다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기안84는 MBC '나 혼자 산다'에 처음 출연할 당시 집을 마련하지 못해 네이버 본사에서 숙식을 해결했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 경기도 성남의 한 아파트로 이사한 뒤에도 에어컨 없이 지내는 모습을 보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기안84의 새로운 집에 팬들은 응원의 말을 보냈다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "누리꾼들은 \\\"기안84 출세했다\\\", \\\"성공한 모습을 보니 내가 다 뿌듯하다\\\" 등의 댓글을 달았다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "웹툰 작가 기안84, 이사한 새로운 집은 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276693",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "인도와 인도네시아가 '다른 나라'냐고 묻는 연예인",
+		"newsSubTitle": "",
+		"newsContent": "인도와 인도네시아가 다른 줄 몰랐다고 말한 배우 이시언의 발언이 화제다.\n16일 방송된 MBC '나 혼자 산다'에서는 모델 한혜진이 인도네시아 발리로 화보 촬영을 떠난 모습이 그려졌다.\n이날 요가를 배우던 한혜진의 VCR 영상을 지켜보던 이시언은 현지 요가 강사가 화면에 나오자 \\\"달심 닮았다\\\"고 말했다. '달심'은 평소 이시언이 한혜진에게 닮았다고 놀리는 게임 캐릭터다.\n이시언이 \\\"달심 역시 고향이 인도\\\"라고 말했고, 한혜진이 \\\"저긴 인도네시아다\\\"라고 설명했다.\n그러자 이시언은 \\\"인도랑 인도네시아랑 다른 나라였냐\\\"고 놀라워했다.\n한혜진은 \\\"이 정도면 설정\\\"이라고 나무랐다.\n그러자 전현무는 \\\"웃기려고 그런거면 사과하고 진짜 몰랐다면 알려드리겠다\\\"고 정색한 얼굴로 말해 웃음을 자아냈다.\n이시언은 끝까지 인도와 인도네시아가 다른 국가임을 인정하지 않고 믿을 수 없다는 모습을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인도와 인도네시아가 다른 줄 몰랐다고 말한 배우 이시언의 발언이 화제다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 방송된 MBC '나 혼자 산다'에서는 모델 한혜진이 인도네시아 발리로 화보 촬영을 떠난 모습이 그려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 요가를 배우던 한혜진의 VCR 영상을 지켜보던 이시언은 현지 요가 강사가 화면에 나오자 \\\"달심 닮았다\\\"고 말했다. '달심'은 평소 이시언이 한혜진에게 닮았다고 놀리는 게임 캐릭터다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이시언이 \\\"달심 역시 고향이 인도\\\"라고 말했고, 한혜진이 \\\"저긴 인도네시아다\\\"라고 설명했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 이시언은 \\\"인도랑 인도네시아랑 다른 나라였냐\\\"고 놀라워했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한혜진은 \\\"이 정도면 설정\\\"이라고 나무랐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러자 전현무는 \\\"웃기려고 그런거면 사과하고 진짜 몰랐다면 알려드리겠다\\\"고 정색한 얼굴로 말해 웃음을 자아냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이시언은 끝까지 인도와 인도네시아가 다른 국가임을 인정하지 않고 믿을 수 없다는 모습을 보였다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인도와 인도네시아가 '다른 나라'냐고 묻는 연예인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168031",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'하하가 속을 썩이나?' 별인지 소찬휘인지 헷갈리는 사진",
+    "newsSubTitle": "",
+    "newsContent": "20일 온라인상에서 사진 한장을 두고 이 인물이 누구인지에 관한 논쟁이 벌어지고 있다.\n최근 한 온라인 커뮤니티에는 '별 왜 저렇게 됐어. 하하가 속 많이 썩이나?'라고 질문하는 글이 올라왔다.\n이 질문은 현재 다수의 온라인 커뮤니티 등지로 퍼지며 네티즌에게 웃음을 선사하고 있다.\n글쓴이는 \\\"별이 확 늙었다\\\"며 \\\"하하가 속을 많이 썩이는 것 같다\\\"고 추측했다.\n그러자 이를 본 한 네티즌은 \\\"별이 아니라 소찬휘다\\\"라고 말했다.\n사진 속 인물이 별인지 소찬휘인지를 놓고 댓글이 이어지기도 했다.\n사진은 지난해 7월 MBC '듀엣 가요제' 왕중왕전에 출연한 소찬휘의 모습이다.\n당시 소찬휘는 김민재와 팀을 이뤄 SG워너비의 '살다가'를 열창했다.\n사진 속 인물이 소찬휘라고 확신한 한 네티즌은 \\\"소찬휘 의문의 1패 아니냐\\\"고 했고, \\\"너무 웃기다\\\"의 반응이 대다수였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "20일 온라인상에서 사진 한장을 두고 이 인물이 누구인지에 관한 논쟁이 벌어지고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에는 '별 왜 저렇게 됐어. 하하가 속 많이 썩이나?'라고 질문하는 글이 올라왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 질문은 현재 다수의 온라인 커뮤니티 등지로 퍼지며 네티즌에게 웃음을 선사하고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "글쓴이는 \\\"별이 확 늙었다\\\"며 \\\"하하가 속을 많이 썩이는 것 같다\\\"고 추측했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 이를 본 한 네티즌은 \\\"별이 아니라 소찬휘다\\\"라고 말했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진 속 인물이 별인지 소찬휘인지를 놓고 댓글이 이어지기도 했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사진은 지난해 7월 MBC '듀엣 가요제' 왕중왕전에 출연한 소찬휘의 모습이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당시 소찬휘는 김민재와 팀을 이뤄 SG워너비의 '살다가'를 열창했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사진 속 인물이 소찬휘라고 확신한 한 네티즌은 \\\"소찬휘 의문의 1패 아니냐\\\"고 했고, \\\"너무 웃기다\\\"의 반응이 대다수였다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "닮아도 너무 닮은 두 사람? 우연찮게 같이 거론된 '별과 소찬휘'... 그 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

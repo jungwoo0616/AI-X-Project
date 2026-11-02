@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171156",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "소녀시대 유리, ‘돌핀’으로 스크린 복귀[공식]",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 소녀시대 멤버 겸 배우 권유리가 독립영화 ‘돌핀’으로 스크린에 복귀한다. 14일 소속사 SM엔터테인먼트는 “권유리가 독립영화 ‘돌핀’(감독 배두리)에 주인공 나영 역으로 출연을 확정 지었다”라고 밝혔다.\n극중 권유리가 연기할 나영은 작은 마을에서 태어나 그곳을 한 번도 벗어난 적 없는 지역 소식지 직원. 가족과 마을 사람들을 살뜰히 보살피는 낙으로 살아가는 인물이다.\n권유리는 변화를 두려워하던 나영이 볼링을 배우며 닫혔던 마음의 문을 열고 희망을 갖게 되는 과정을 현실감 넘치는 연기로 표현할 예정이다.\n지금까지 다양한 드라마, 영화 등에 출연해 필모그래피를 쌓아온 권유리. 그는 최근 종영한 드라마 ‘보쌈-운명을 훔치다’에서 화인옹주 수경 역을 맡아 안정적인 연기력으로 MBN 드라마 역대 최고 시청률 기록을 이끌었다.\n이처럼 배우로서 앞으로 행보가 주목되고 있는 상황에서 권유리는 차기작으로 독립영화 ‘돌핀’을 선택했다.\n과연 권유리는 어떤 모습으로 관객들의 감성과 공감을 이끌어낼지 관심이 집중된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 소녀시대 멤버 겸 배우 권유리가 독립영화 ‘돌핀’으로 스크린에 복귀한다. 14일 소속사 SM엔터테인먼트는 “권유리가 독립영화 ‘돌핀’(감독 배두리)에 주인공 나영 역으로 출연을 확정 지었다”라고 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "극중 권유리가 연기할 나영은 작은 마을에서 태어나 그곳을 한 번도 벗어난 적 없는 지역 소식지 직원. 가족과 마을 사람들을 살뜰히 보살피는 낙으로 살아가는 인물이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "권유리는 변화를 두려워하던 나영이 볼링을 배우며 닫혔던 마음의 문을 열고 희망을 갖게 되는 과정을 현실감 넘치는 연기로 표현할 예정이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지금까지 다양한 드라마, 영화 등에 출연해 필모그래피를 쌓아온 권유리. 그는 최근 종영한 드라마 ‘보쌈-운명을 훔치다’에서 화인옹주 수경 역을 맡아 안정적인 연기력으로 MBN 드라마 역대 최고 시청률 기록을 이끌었다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이처럼 배우로서 앞으로 행보가 주목되고 있는 상황에서 권유리는 차기작으로 독립영화 ‘돌핀’을 선택했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과연 권유리는 어떤 모습으로 관객들의 감성과 공감을 이끌어낼지 관심이 집중된다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBN 드라마 역대 최고 시청률 기록한 '이 배우'의 다음 행보는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

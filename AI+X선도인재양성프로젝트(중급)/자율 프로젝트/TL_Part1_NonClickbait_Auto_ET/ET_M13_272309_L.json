@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272309",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "송해 ‘전국노래자랑’ 현장녹화 불참",
+		"newsSubTitle": "",
+		"newsContent": "방송인 송해가 2년 만에 재개된 KBS1 음악 프로그램 ‘전국노래자랑’ 현장 녹화에 불참하는 것으로 전해졌다.\n연합뉴스에 따르면 4일 전라남도 영광군 법성포 뉴타운 특설무대에서 진행된 ‘전국노래자랑’ 현장 녹화에서는 송해를 대신해 작곡가 이호섭과 임수민 아나운서가 진행을 맡았다.\n송해 측은 “건강에 큰 이상이 있는 것은 아니다”라며 “나이가 있다보니 지방까지 장시간 이동이 부담스러워 현장 녹화에는 참여하지 못했다”고 설명했다.\n송해는 올해 1월과 지난달 컨디션 난조로 병원에 입원했고 지난 3월에는 코로나19 확진 판정을 받으며 건강에 대한 우려를 낳았다.\n다만 송해는 ‘전국노래자랑’ 하차를 예고하지는 않았다.\n송해는 현재 제작진과 스튜디오 녹화로 방송에 계속 참여하는 방안을 논의하고 있는 것으로 알려졌다. ‘전국노래자랑’ 현장 녹화가 이뤄진 것은 약 2년 만이다.\n코로나19 확산세가 이어지자 2020년 3월부터 현장 녹화가 중단돼 왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 송해가 2년 만에 재개된 KBS1 음악 프로그램 ‘전국노래자랑’ 현장 녹화에 불참하는 것으로 전해졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스에 따르면 4일 전라남도 영광군 법성포 뉴타운 특설무대에서 진행된 ‘전국노래자랑’ 현장 녹화에서는 송해를 대신해 작곡가 이호섭과 임수민 아나운서가 진행을 맡았다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송해 측은 “건강에 큰 이상이 있는 것은 아니다”라며 “나이가 있다보니 지방까지 장시간 이동이 부담스러워 현장 녹화에는 참여하지 못했다”고 설명했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송해는 올해 1월과 지난달 컨디션 난조로 병원에 입원했고 지난 3월에는 코로나19 확진 판정을 받으며 건강에 대한 우려를 낳았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 송해는 ‘전국노래자랑’ 하차를 예고하지는 않았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송해는 현재 제작진과 스튜디오 녹화로 방송에 계속 참여하는 방안을 논의하고 있는 것으로 알려졌다. ‘전국노래자랑’ 현장 녹화가 이뤄진 것은 약 2년 만이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코로나19 확산세가 이어지자 2020년 3월부터 현장 녹화가 중단돼 왔다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송해 ‘전국노래자랑’ 현장녹화 불참",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

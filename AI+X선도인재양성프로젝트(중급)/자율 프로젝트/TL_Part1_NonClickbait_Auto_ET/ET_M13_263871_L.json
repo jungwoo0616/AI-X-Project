@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263871",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김용건, 2세 친자 확인 후 ‘가족 관계 등록’",
+		"newsSubTitle": "",
+		"newsContent": "배우 김용건씨가 39세 연하 비연예인 사이에서 낳은 아들의 가족 관계 등록을 진행 중이다.\n15일 ‘더팩트’ 취재에 따르면 김용건과 A씨는 지난 7일 서울의 모 대학병원에 친자확인을 신청 했으며 14일 친자 결과를 통보받은 것으로 확인됐다.\n유전자 DNA 검사(친자확인) 부분에 대해 김용건의 측근 B씨는 이날 “A씨의 임신 사실이 알려진 뒤 단지 나이 차이가 많다는 이유로 구설에 오른 적이 있기에 불필요한 오해나 잡음이 재발되지 않게 하려는 의도였다”고 설명했다.\nB씨는 “김용건은 출산 후 아이 아빠로서 누구보다 기쁨을 감추지 못하면서도 여러가지 상황을 고려해 속내를 주변에 드러내지 못한 것으로 안다”고 말했다.\n앞서 A씨는 지난해 8월 김용건과의 임신 사실을 폭로하며 그를 임신 중절 강요 혐의로 고소했다.\n그러나 김용건과의 합의 끝에 지난해 11월 아이를 출산했다.\n김용건은 “A씨의 마음을 헤아리지 못했다”면서 “향후 태어날 아기의 양육을 적극적으로 지원하겠다”고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김용건씨가 39세 연하 비연예인 사이에서 낳은 아들의 가족 관계 등록을 진행 중이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 ‘더팩트’ 취재에 따르면 김용건과 A씨는 지난 7일 서울의 모 대학병원에 친자확인을 신청 했으며 14일 친자 결과를 통보받은 것으로 확인됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유전자 DNA 검사(친자확인) 부분에 대해 김용건의 측근 B씨는 이날 “A씨의 임신 사실이 알려진 뒤 단지 나이 차이가 많다는 이유로 구설에 오른 적이 있기에 불필요한 오해나 잡음이 재발되지 않게 하려는 의도였다”고 설명했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "B씨는 “김용건은 출산 후 아이 아빠로서 누구보다 기쁨을 감추지 못하면서도 여러가지 상황을 고려해 속내를 주변에 드러내지 못한 것으로 안다”고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 A씨는 지난해 8월 김용건과의 임신 사실을 폭로하며 그를 임신 중절 강요 혐의로 고소했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 김용건과의 합의 끝에 지난해 11월 아이를 출산했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김용건은 “A씨의 마음을 헤아리지 못했다”면서 “향후 태어날 아기의 양육을 적극적으로 지원하겠다”고 밝힌 바 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김용건, 2세 친자 확인 후 ‘가족 관계 등록’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

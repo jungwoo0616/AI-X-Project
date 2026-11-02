@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261775",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "네이처, 23일 ‘삿포로눈축제 K-POP 페스티벌’ 오프닝 무대 오른다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 NATURE(네이처)가 ‘삿포로눈축제 K-POP 페스티벌’에 출연한다.\n네이처는 오는 23일 열리는 ‘제72회 삿포로눈축제 14th K-POP FESTIVAL 2022 ONTACT 생중계 LIVE’(이하 ‘삿포로눈축제 K-POP 페스티벌’) 무대에 오른다. ‘삿포로눈축제 K-POP 페스티벌’은 국가단 스페셜로 꾸며지는 가운데, 네이처는 오프닝 무대에 올라 공연의 화려한 포문을 연다. 또 네이처 멤버 루와 하루가 국가단의 미니 팬미팅 MC를 맡아 지원사격에 나선다.\n특히 유창한 영어 실력을 가진 루와 일본 출신 하루가 진행에 나서 글로벌 팬들의 소통을 이어주는 역할을 할 뿐만 아니라, 매끄러운 진행 실력을 발휘하며 자리를 빛낼 예정이다.\n최근 스페셜 앨범 ‘RICA RICA(리카 리카)’를 발매하며 컴백한 네이처는 중독성 있는 음악과 퍼포먼스로 많은 사랑을 받고 있으며, 각종 음악 방송과 다채로운 콘텐츠를 넘나들며 활발한 활동을 펼치고 있다.\n네이처와 국가단이 출연하는 ‘삿포로눈축제 K-POP 페스티벌’은 23일 오후 7시에 만나볼 수 있다.\n시청 티켓 구매에 관한 자세한 사항은 NPO 일한문화교류회 공식 사이트와 온라인송출플랫폼 FCLIVE를 통해 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 NATURE(네이처)가 ‘삿포로눈축제 K-POP 페스티벌’에 출연한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이처는 오는 23일 열리는 ‘제72회 삿포로눈축제 14th K-POP FESTIVAL 2022 ONTACT 생중계 LIVE’(이하 ‘삿포로눈축제 K-POP 페스티벌’) 무대에 오른다. ‘삿포로눈축제 K-POP 페스티벌’은 국가단 스페셜로 꾸며지는 가운데, 네이처는 오프닝 무대에 올라 공연의 화려한 포문을 연다. 또 네이처 멤버 루와 하루가 국가단의 미니 팬미팅 MC를 맡아 지원사격에 나선다.",
+				"sentenceSize": 221
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 유창한 영어 실력을 가진 루와 일본 출신 하루가 진행에 나서 글로벌 팬들의 소통을 이어주는 역할을 할 뿐만 아니라, 매끄러운 진행 실력을 발휘하며 자리를 빛낼 예정이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 스페셜 앨범 ‘RICA RICA(리카 리카)’를 발매하며 컴백한 네이처는 중독성 있는 음악과 퍼포먼스로 많은 사랑을 받고 있으며, 각종 음악 방송과 다채로운 콘텐츠를 넘나들며 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이처와 국가단이 출연하는 ‘삿포로눈축제 K-POP 페스티벌’은 23일 오후 7시에 만나볼 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시청 티켓 구매에 관한 자세한 사항은 NPO 일한문화교류회 공식 사이트와 온라인송출플랫폼 FCLIVE를 통해 확인 가능하다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이처, 23일 ‘삿포로눈축제 K-POP 페스티벌’ 오프닝 무대 오른다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

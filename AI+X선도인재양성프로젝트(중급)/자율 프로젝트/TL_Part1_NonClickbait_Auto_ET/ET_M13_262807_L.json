@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262807",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅, 아이돌차트 49주 연속 1위",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 2월 4주 차 아이돌차트 평점 랭킹에서 최다 득표자로 선정되며 49주 연속 1위를 차지했다.\n아이돌 차트에 따르면 지난 2월25일부터 3월3일까지 집계된 평점랭킹에서 임영웅은 62만 3,105표를 얻어 최다득표를 기록했다.\n이로써 임영웅은 아이돌차트 평점랭킹에서 49주 연속 1위라는 기염을 토했다.\n2위는 이찬원(29만 5,336표)이 차지했다.\n이어 3위는 김호중(13만 4,289표), 영탁, 지민(방탄소년단), 뷔(방탄소년단), 송가인, 정국(방탄소년단), 진(방탄소년단), 제이홉(방탄소년단) 순으로 집계됐다.\n스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 6만 3,707개를 받았다.\n이어 이찬원(2만 9,607개), 김호중(1만 2,704개), 영탁, 송가인, 지민, 뷔, 이병찬, 정국, 이솔로몬 순으로 ‘좋아요’ 수를 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 2월 4주 차 아이돌차트 평점 랭킹에서 최다 득표자로 선정되며 49주 연속 1위를 차지했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이돌 차트에 따르면 지난 2월25일부터 3월3일까지 집계된 평점랭킹에서 임영웅은 62만 3,105표를 얻어 최다득표를 기록했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로써 임영웅은 아이돌차트 평점랭킹에서 49주 연속 1위라는 기염을 토했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2위는 이찬원(29만 5,336표)이 차지했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 3위는 김호중(13만 4,289표), 영탁, 지민(방탄소년단), 뷔(방탄소년단), 송가인, 정국(방탄소년단), 진(방탄소년단), 제이홉(방탄소년단) 순으로 집계됐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 6만 3,707개를 받았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 이찬원(2만 9,607개), 김호중(1만 2,704개), 영탁, 송가인, 지민, 뷔, 이병찬, 정국, 이솔로몬 순으로 ‘좋아요’ 수를 기록했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 아이돌차트 49주 연속 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

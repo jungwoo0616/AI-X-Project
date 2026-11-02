@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281159",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "빅뱅 수익 올해 1500억, 초대박 아이돌…유아인은 더 벌어…",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅의 2015년 한 해 수익이 공개됐다.\n14일 방송된 tvN '명단공개 2015'에서는 '올해 인생 황금기를 보낸 스타' 라는 주제로 순위를 매겼다.\n빅뱅은 3위에 올랐다.\n방송에 따르면 빅뱅은 앨범과 음원판매량으로 115억원의 수익을 냈으며, 월드투어 공연 수익은 1400억원 이상으로 추정된다.\n그 결과 빅뱅의 올해 총 수익을 1,500억원으로 추정했다. '올해 인생 황금기를 보낸 스타' 1위는 유아인이 차지했다.\n유아인의 영화 '사도' 출연료는 4억 5천만원, 드라마 '육룡이 나르샤'에서는 회당 7천만원을 받는 것으로 알려졌다.\n2위는 영화 '국제시장' '베테랑'으로 쌍천만 배우가 된 황정민으로 올해 6편 이상의 광고를 촬영해 수십억원의 수익을 올린 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅의 2015년 한 해 수익이 공개됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 방송된 tvN '명단공개 2015'에서는 '올해 인생 황금기를 보낸 스타' 라는 주제로 순위를 매겼다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빅뱅은 3위에 올랐다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송에 따르면 빅뱅은 앨범과 음원판매량으로 115억원의 수익을 냈으며, 월드투어 공연 수익은 1400억원 이상으로 추정된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 결과 빅뱅의 올해 총 수익을 1,500억원으로 추정했다. '올해 인생 황금기를 보낸 스타' 1위는 유아인이 차지했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유아인의 영화 '사도' 출연료는 4억 5천만원, 드라마 '육룡이 나르샤'에서는 회당 7천만원을 받는 것으로 알려졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2위는 영화 '국제시장' '베테랑'으로 쌍천만 배우가 된 황정민으로 올해 6편 이상의 광고를 촬영해 수십억원의 수익을 올린 것으로 알려졌다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅뱅 수익 올해 1500억, 초대박 아이돌…유아인은 더 벌어…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

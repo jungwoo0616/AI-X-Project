@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262537",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수, 패션쇼를 팬미팅으로 바꾸다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크 지수가 명품 브랜드 뮤즈로 아름다운 면모를 자랑했다.\n지수는 2일 자신의 SNS에 명품 브랜드의 행사에 참석한 모습을 공개했다.\n지수는 노란색 격자무늬 원피스와 검은색 구두를 신고 여성스러운 매력을 한껏 자랑했다.\n지수의 귀여운 미소와 완벽한 비율이 많은 팬을 열광하게 만들었다.\n지수는 프랑스 파리 패션위크 런웨이쇼 디올 패션위크 출연으로 또 한 번 엄청난 인기를 끌어 팬들을 끝없이 매료시켰다.\n앞서 지수는 지난달 28일 파리패션위크 일정에 참석하기 위해 인천국제공항을 통해 프랑스 파리로 출국했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크 지수가 명품 브랜드 뮤즈로 아름다운 면모를 자랑했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수는 2일 자신의 SNS에 명품 브랜드의 행사에 참석한 모습을 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지수는 노란색 격자무늬 원피스와 검은색 구두를 신고 여성스러운 매력을 한껏 자랑했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지수의 귀여운 미소와 완벽한 비율이 많은 팬을 열광하게 만들었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지수는 프랑스 파리 패션위크 런웨이쇼 디올 패션위크 출연으로 또 한 번 엄청난 인기를 끌어 팬들을 끝없이 매료시켰다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 지수는 지난달 28일 파리패션위크 일정에 참석하기 위해 인천국제공항을 통해 프랑스 파리로 출국했다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수, 패션쇼를 팬미팅으로 바꾸다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

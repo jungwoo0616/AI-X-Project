@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260558",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘결미야’ 권진영, 남편 생일 축가에 노발대발",
+		"newsSubTitle": "",
+		"newsContent": "오성욱이 아내 권진영을 위해 서프라이즈 이벤트를 준비한다.\n오는 11일 밤 10시 30분 방송되는 채널 IHQ 예능 프로그램 ‘결혼은 미친 짓이야’(이하 결미야) 14회에서는 아내 권진영의 생일을 맞아 다양한 이벤트를 선물하는 오성욱의 모습이 공개된다.\n최근 진행된 녹화에서 오성욱은 “사랑하는 와이프의 생일이다”라며 직접 미역국을 끓이기에 나선다.\n그러나 미역국에 간장을 통째로 넣는가 하면, 미리 풀어놓은 계란을 싱크대에 쏟는 ‘요리 똥손’ 모습으로 웃음을 안긴다.\n미역국을 맛본 권진영은 “엄청 짜다”며 몸서리친다.\n당황한 오성욱은 다음 이벤트 장소로 향했고, 권진영에게 수제화를 선물하기 위해 직접 신발을 신겨주는 사랑꾼 면모로 설렘을 유발한다.\n이후 분위기 있는 레스토랑에서 이승기의 ‘내 여자라니까’ 노래 선물을 예고한 오성욱. 그러나 권진영은 “하지 마. 하면 죽여버린다”라고 외쳐 녹화 현장을 웃음바다로 만든다. ‘오서방’ 오성욱의 서프라이즈 이벤트는 오는 11일 밤 10시 30분, 채널 IHQ에서 방송되는 ‘결미야’ 14회에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오성욱이 아내 권진영을 위해 서프라이즈 이벤트를 준비한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 11일 밤 10시 30분 방송되는 채널 IHQ 예능 프로그램 ‘결혼은 미친 짓이야’(이하 결미야) 14회에서는 아내 권진영의 생일을 맞아 다양한 이벤트를 선물하는 오성욱의 모습이 공개된다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 진행된 녹화에서 오성욱은 “사랑하는 와이프의 생일이다”라며 직접 미역국을 끓이기에 나선다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 미역국에 간장을 통째로 넣는가 하면, 미리 풀어놓은 계란을 싱크대에 쏟는 ‘요리 똥손’ 모습으로 웃음을 안긴다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미역국을 맛본 권진영은 “엄청 짜다”며 몸서리친다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당황한 오성욱은 다음 이벤트 장소로 향했고, 권진영에게 수제화를 선물하기 위해 직접 신발을 신겨주는 사랑꾼 면모로 설렘을 유발한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 분위기 있는 레스토랑에서 이승기의 ‘내 여자라니까’ 노래 선물을 예고한 오성욱. 그러나 권진영은 “하지 마. 하면 죽여버린다”라고 외쳐 녹화 현장을 웃음바다로 만든다. ‘오서방’ 오성욱의 서프라이즈 이벤트는 오는 11일 밤 10시 30분, 채널 IHQ에서 방송되는 ‘결미야’ 14회에서 확인할 수 있다.",
+				"sentenceSize": 172
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘결미야’ 권진영, 남편 생일 축가에 노발대발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

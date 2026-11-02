@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272492",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "선미, 6월 말 컴백 확정[공식]",
+		"newsSubTitle": "",
+		"newsContent": "‘솔로 퀸’ 선미가 이달 말 신곡으로 돌아온다.\n선미 소속사 어비스컴퍼니는 오늘 8일 “선미가 6월 말을 목표로 컴백 준비 중이다”라고 밝혔다.\n소속사에 따르면 선미는 최근 LA에서 뮤직비디오 및 자켓 촬영을 마친 상태이며 컴백 준비 막바지에 한창이다.\n이번 앨범은 지난해 8월 세 번째 미니앨범 ‘6분의1’ 이후 10개월 만에 발매되는 선미의 솔로곡으로 팬들의 관심을 모은다.\n그동안 선미는 다양한 방송과 음악으로 활발한 활동을 펼쳤으며, 지난달에는 ‘선미야클럽’ OST ‘Fellowship’의 가창뿐만 아니라 작사, 작곡에 참여해 싱어송라이터의 면모를 드러낸 바 있다.\n한편, 선미는 이달 말 새 디지털 싱글로 컴백 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘솔로 퀸’ 선미가 이달 말 신곡으로 돌아온다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "선미 소속사 어비스컴퍼니는 오늘 8일 “선미가 6월 말을 목표로 컴백 준비 중이다”라고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 선미는 최근 LA에서 뮤직비디오 및 자켓 촬영을 마친 상태이며 컴백 준비 막바지에 한창이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 앨범은 지난해 8월 세 번째 미니앨범 ‘6분의1’ 이후 10개월 만에 발매되는 선미의 솔로곡으로 팬들의 관심을 모은다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그동안 선미는 다양한 방송과 음악으로 활발한 활동을 펼쳤으며, 지난달에는 ‘선미야클럽’ OST ‘Fellowship’의 가창뿐만 아니라 작사, 작곡에 참여해 싱어송라이터의 면모를 드러낸 바 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 선미는 이달 말 새 디지털 싱글로 컴백 예정이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "선미, 6월 말 컴백 확정[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

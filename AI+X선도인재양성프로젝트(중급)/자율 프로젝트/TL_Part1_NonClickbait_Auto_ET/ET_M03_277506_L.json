@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277506",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "우리 사실 친해요, 지드래곤X이민정",
+		"newsSubTitle": "",
+		"newsContent": "빅뱅 지드래곤과 배우 이민정이 남다른 친분을 뽐냈다.\n지난 14일 YG 푸드 대표는 자신의 인스타그램에 \\\"늘 chic하고 멋진 GD. 모두들 숨기지 않고 GD 광팬임을 자처~!\\\"라는 글과 함께 사진을 공개했다.\n사진에는 노희영 대표를 비롯해 지드래곤, 이민정의 화기애애한 모습이 담겨있다.\n지드래곤은 휴대전화를 들고 통화하는 중에도 카메라를 향해 브이(V)를 그리는 여유를 보였다.\n또 이민정은 한 아이의 엄마라고는 믿기지 않을 만큼 상큼한 미모를 뽐내며 지드래곤과 다정한 포즈를 취해 눈길을 끈다.\n이를 본 네티즌들은 \\\"의외의 조합\\\" 이라면서도 이들의 우정을 반기고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅뱅 지드래곤과 배우 이민정이 남다른 친분을 뽐냈다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 14일 YG 푸드 대표는 자신의 인스타그램에 \\\"늘 chic하고 멋진 GD. 모두들 숨기지 않고 GD 광팬임을 자처~!\\\"라는 글과 함께 사진을 공개했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 노희영 대표를 비롯해 지드래곤, 이민정의 화기애애한 모습이 담겨있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지드래곤은 휴대전화를 들고 통화하는 중에도 카메라를 향해 브이(V)를 그리는 여유를 보였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 이민정은 한 아이의 엄마라고는 믿기지 않을 만큼 상큼한 미모를 뽐내며 지드래곤과 다정한 포즈를 취해 눈길을 끈다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 \\\"의외의 조합\\\" 이라면서도 이들의 우정을 반기고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리 사실 친해요, 지드래곤X이민정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276180",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'오뚜기 3세' 함연지 \\\"300억? 주식 있는지도 몰랐다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "오뚜기 일가 3세인 뮤지컬 배우 함연지가 방송에 출연해 자신이 가지고 있는 주식에 대해 언급했다.\n1992년생인 함연지는 오뚜기 창업주인 고(故) 함태호 명예회장의 손녀이자 함영준 오뚜기 회장의 장녀로 오뚜기 주식을 증여받았다.\n함연지는 22일 오후 방송된 KBS 2TV '해피투게더4'에 출연해 \\\"기사가 나올 때까지 (주식 관련 내용을) 몰랐다\\\"고 말했다.\n그는 \\\"주식이 있는 줄은 알았는데 그 분야에 대해 아는 것도 아니고 이해가 가는 액수가 아니다\\\"라며 \\\"공연을 해서 들어오는 공연료가 이해하는 범위\\\"라고 했다.\n이어 \\\"주식 부자 기사를 보고 엄마에게 전화해서 '이렇게 있냐'고 물어봤다\\\"며 \\\"엄마도 잘 모르는 것 같았다\\\"고 덧붙였다.\n앞서 재벌닷컴이 지난 9월 공개한 '상장사 100억원 이상 연예인 주식 부자 현황'에 따르면 함연지는 이수만 SM엔터테인먼트 회장(2112억원), 박진영 JYP엔터테인먼트 이사(2047억원), 양현석 YG엔터테인먼트 대표(1492억원), 배용준 전 키이스트 대주주(440억원) 뒤를 이어 '연예인 주식 부자' 5위를 기록했다.\n재벌닷컴에 따르면 그는 313억원의 주식을 보유하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오뚜기 일가 3세인 뮤지컬 배우 함연지가 방송에 출연해 자신이 가지고 있는 주식에 대해 언급했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1992년생인 함연지는 오뚜기 창업주인 고(故) 함태호 명예회장의 손녀이자 함영준 오뚜기 회장의 장녀로 오뚜기 주식을 증여받았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "함연지는 22일 오후 방송된 KBS 2TV '해피투게더4'에 출연해 \\\"기사가 나올 때까지 (주식 관련 내용을) 몰랐다\\\"고 말했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"주식이 있는 줄은 알았는데 그 분야에 대해 아는 것도 아니고 이해가 가는 액수가 아니다\\\"라며 \\\"공연을 해서 들어오는 공연료가 이해하는 범위\\\"라고 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 \\\"주식 부자 기사를 보고 엄마에게 전화해서 '이렇게 있냐'고 물어봤다\\\"며 \\\"엄마도 잘 모르는 것 같았다\\\"고 덧붙였다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 재벌닷컴이 지난 9월 공개한 '상장사 100억원 이상 연예인 주식 부자 현황'에 따르면 함연지는 이수만 SM엔터테인먼트 회장(2112억원), 박진영 JYP엔터테인먼트 이사(2047억원), 양현석 YG엔터테인먼트 대표(1492억원), 배용준 전 키이스트 대주주(440억원) 뒤를 이어 '연예인 주식 부자' 5위를 기록했다.",
+				"sentenceSize": 182
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "재벌닷컴에 따르면 그는 313억원의 주식을 보유하고 있다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'오뚜기 3세' 함연지 \\\"300억? 주식 있는지도 몰랐다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

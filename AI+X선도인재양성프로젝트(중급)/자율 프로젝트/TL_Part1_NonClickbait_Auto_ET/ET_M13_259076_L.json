@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259076",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 홍지윤 “열받게 해킹하지 마세요”",
+		"newsSubTitle": "",
+		"newsContent": "트로트 가수 홍지윤이 SNS 해킹을 당했다.\n홍지윤은 24일 자신의 동생 인스타그램 스토리에 자신이 인스타그램이 해킹당했다는 소식을 알렸다.\n홍지윤은 동생 인스타 스토리에 “안녕하세요 홍지윤입니다. 제 인스타가 해킹을 당해서 동생 아이디를 빌려 씁니다. 진짜 열 받게 해킹하지 마세요”라는 글을 올렸다.\n가수 홍지윤은 ‘미스트롯 2’에 출연하여 준우승을 차지했고 이후 예능에 활발하게 출연하여 자신의 이름을 알리고 있었다.\n또 홍지윤은 2022년 1월 17일 기준 유튜브 구독자 수 33,300명을 유지하고 있고 SNS 인스타그램은 약 6만900명 팔로워를 보유했었다.\n최근 방송인 박은지는 누군가 자신의 인스타그램 계정 해킹을 시도한 사실을 밝힌 적이 있다.\n■홍지윤 인스타그램 입장 전문 안녕하세요.\n홍지윤입니다.\n제 인스타가 해킹을 당해서 동생 아이디를 빌려 씁니다.\n진짜 ‘킹’받게 해킹하지 마세요.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트로트 가수 홍지윤이 SNS 해킹을 당했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍지윤은 24일 자신의 동생 인스타그램 스토리에 자신이 인스타그램이 해킹당했다는 소식을 알렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍지윤은 동생 인스타 스토리에 “안녕하세요 홍지윤입니다. 제 인스타가 해킹을 당해서 동생 아이디를 빌려 씁니다. 진짜 열 받게 해킹하지 마세요”라는 글을 올렸다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가수 홍지윤은 ‘미스트롯 2’에 출연하여 준우승을 차지했고 이후 예능에 활발하게 출연하여 자신의 이름을 알리고 있었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 홍지윤은 2022년 1월 17일 기준 유튜브 구독자 수 33,300명을 유지하고 있고 SNS 인스타그램은 약 6만900명 팔로워를 보유했었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 방송인 박은지는 누군가 자신의 인스타그램 계정 해킹을 시도한 사실을 밝힌 적이 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "■홍지윤 인스타그램 입장 전문 안녕하세요.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "홍지윤입니다.",
+				"sentenceSize": 7
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제 인스타가 해킹을 당해서 동생 아이디를 빌려 씁니다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "진짜 ‘킹’받게 해킹하지 마세요.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 홍지윤 “열받게 해킹하지 마세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

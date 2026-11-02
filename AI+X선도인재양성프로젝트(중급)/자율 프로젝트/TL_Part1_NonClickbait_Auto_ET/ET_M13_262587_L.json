@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262587",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘이재명 지지’ 박혜경 “잘뽑고 맘놓고 살자”…이재명 “‘촛불’ 인연…좋은 정치로” 화답",
+		"newsSubTitle": "",
+		"newsContent": "가수 박혜경이 지난 1일 자신의 페이스북에 “다시는 광화문 나가지 말아야죠. 잘 뽑고 맘 놓고 편히 살아야죠”라며 제20대 대통령 선거 더불어민주당 이재명 후보에 대한 공개 지지 선언을 했다.\n이에 이재명 후보는 2일 “6년 전 겨울, ‘촛불광장’에서 뵈었을 때가 떠오른다”고 운을 뗀 후, “‘굽힘 없이 지금 있는 그대로 쭉 가시면 된다’던 응원의 말씀을 기억하고 있다”고 화답했다.\n이어 “앞으로도 두려움 없이 가겠다”고 밝혔다.\n전날 박씨는 페이스북에 이 후보 선거 벽보 앞에서 찍은 사진을 게재하며 “다시는 광화문 나가지 말아야죠. 잘 뽑고 맘 놓고 편히 살아야죠. 똑똑한 일꾼 뽑으려고요”라며 이 후보 지지 의사를 밝혔다.\n한편 박혜경은 “이재명 후보의 현명함에 요즘 반하고 있다. 저는 당보다 이 분 보고 투표한다”며 노인복지 정책과 애견정책을 첫손에 꼽았다.\n앞서 무술감독 정두홍, 배우 이원종, 개그맨 강성범, 배우 정무성, 배우 손병호 등이 이재명 후보를 공개 지지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박혜경이 지난 1일 자신의 페이스북에 “다시는 광화문 나가지 말아야죠. 잘 뽑고 맘 놓고 편히 살아야죠”라며 제20대 대통령 선거 더불어민주당 이재명 후보에 대한 공개 지지 선언을 했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 이재명 후보는 2일 “6년 전 겨울, ‘촛불광장’에서 뵈었을 때가 떠오른다”고 운을 뗀 후, “‘굽힘 없이 지금 있는 그대로 쭉 가시면 된다’던 응원의 말씀을 기억하고 있다”고 화답했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “앞으로도 두려움 없이 가겠다”고 밝혔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전날 박씨는 페이스북에 이 후보 선거 벽보 앞에서 찍은 사진을 게재하며 “다시는 광화문 나가지 말아야죠. 잘 뽑고 맘 놓고 편히 살아야죠. 똑똑한 일꾼 뽑으려고요”라며 이 후보 지지 의사를 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 박혜경은 “이재명 후보의 현명함에 요즘 반하고 있다. 저는 당보다 이 분 보고 투표한다”며 노인복지 정책과 애견정책을 첫손에 꼽았다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 무술감독 정두홍, 배우 이원종, 개그맨 강성범, 배우 정무성, 배우 손병호 등이 이재명 후보를 공개 지지했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘이재명 지지’ 박혜경 “잘뽑고 맘놓고 살자”…이재명 “‘촛불’ 인연…좋은 정치로” 화답",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

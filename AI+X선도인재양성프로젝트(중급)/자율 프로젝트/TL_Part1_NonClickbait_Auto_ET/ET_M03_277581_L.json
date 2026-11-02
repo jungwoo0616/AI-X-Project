@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277581",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "류수영 박하선, 1월 말 결혼…'연예인 부부' 탄생",
+		"newsSubTitle": "",
+		"newsContent": "배우 류수영 박하선 커플이 2년 반 교제 끝에 결혼한다.\n양 소속사 측은 \\\"류수영과 박하선이 1월 말 결혼한다. 자세한 내용은 곧 공식입장을 통해 알릴 것\\\"이라 6일 밝혔다.\n두 사람은 2013년 방송된 MBC '투윅스' 출연을 계기로 인연이 닿아 연인으로 발전했다.\n이들은 지난해 말 양가 상견례를 마친 것으로 알려졌다.\n류수영은 1999년 SBS '최고의 밥상'으로 데뷔, '투윅스' '마이 프린세스' 등에서 출연했다.\n박하선은 2005년 SBS '사랑은 기적이 필요해'로 데뷔, 최근 tvN '혼술남녀'에 노량진 강사 박하나 역으로 눈길을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 류수영 박하선 커플이 2년 반 교제 끝에 결혼한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양 소속사 측은 \\\"류수영과 박하선이 1월 말 결혼한다. 자세한 내용은 곧 공식입장을 통해 알릴 것\\\"이라 6일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 2013년 방송된 MBC '투윅스' 출연을 계기로 인연이 닿아 연인으로 발전했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 지난해 말 양가 상견례를 마친 것으로 알려졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "류수영은 1999년 SBS '최고의 밥상'으로 데뷔, '투윅스' '마이 프린세스' 등에서 출연했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박하선은 2005년 SBS '사랑은 기적이 필요해'로 데뷔, 최근 tvN '혼술남녀'에 노량진 강사 박하나 역으로 눈길을 끌었다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "류수영 박하선, 1월 말 결혼…'연예인 부부' 탄생",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

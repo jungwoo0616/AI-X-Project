@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267261",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "제주에 프레디 머큐리 동상 건립…스위스 이어 두 번째",
+		"newsSubTitle": "",
+		"newsContent": "전설적인 영국 록밴드 퀸 프론트맨이자 영화 ‘보헤미안 랩소디’ 주인공 실제 모델인 고 프레디 머큐리의 동상이 제주에 세워진다.\n18일 ‘프레디 머큐리 공인 동상 유치위원회’ 등에 따르면 이달 21일 오후 2시 제주시 애월읍의 한 해안가 언덕에서 프레디 머큐리 기념 동상 제막식이 열린다.\n프레디 머큐리의 공인 동상이 세워지는 건 스위스 몽트뢰에 이어 두 번째다.\n행사는 네이버 위 윌 록 유‘(We will rock you), 다음카카오 ’퀸 포에버‘(Queen Forever) 팬클럽 회원들과 동상 유치위원장 백순엽씨 등이 8년여간 준비한 끝에 이뤄졌다.\n위원회 측은 “2019년 1월 퀸 내한 공연 당시 기타리스트 브라이언 메이, 매니저 필심스 등과 만났고, 퀸 측은 사전 제작된 동상 모형을 보고 만족해하며 공인 기념 동상으로 승인했다”고 설명했다.\n동상은 제주 해안의 특성을 고려해 해풍과 염분에 강한 구조로 만들어졌다.\n프레디 머큐리 키인 177cm 크기로 제작된 동상은 한 손을 든 채 주먹을 불끈 쥔 모습을 표현했다.\n브라이언 메이는 동상 모형을 보며 “한국 친구들이 놀랍고 아름답다. 한국의 아름다운 섬에 동상이 세워진다니 더욱 기쁘다”고 축하 인사를 건넸다고 위원회는 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전설적인 영국 록밴드 퀸 프론트맨이자 영화 ‘보헤미안 랩소디’ 주인공 실제 모델인 고 프레디 머큐리의 동상이 제주에 세워진다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 ‘프레디 머큐리 공인 동상 유치위원회’ 등에 따르면 이달 21일 오후 2시 제주시 애월읍의 한 해안가 언덕에서 프레디 머큐리 기념 동상 제막식이 열린다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프레디 머큐리의 공인 동상이 세워지는 건 스위스 몽트뢰에 이어 두 번째다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "행사는 네이버 위 윌 록 유‘(We will rock you), 다음카카오 ’퀸 포에버‘(Queen Forever) 팬클럽 회원들과 동상 유치위원장 백순엽씨 등이 8년여간 준비한 끝에 이뤄졌다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위원회 측은 “2019년 1월 퀸 내한 공연 당시 기타리스트 브라이언 메이, 매니저 필심스 등과 만났고, 퀸 측은 사전 제작된 동상 모형을 보고 만족해하며 공인 기념 동상으로 승인했다”고 설명했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "동상은 제주 해안의 특성을 고려해 해풍과 염분에 강한 구조로 만들어졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "프레디 머큐리 키인 177cm 크기로 제작된 동상은 한 손을 든 채 주먹을 불끈 쥔 모습을 표현했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "브라이언 메이는 동상 모형을 보며 “한국 친구들이 놀랍고 아름답다. 한국의 아름다운 섬에 동상이 세워진다니 더욱 기쁘다”고 축하 인사를 건넸다고 위원회는 전했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제주에 프레디 머큐리 동상 건립…스위스 이어 두 번째",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

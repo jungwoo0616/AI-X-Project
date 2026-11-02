@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170850",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘9월 컴백’ 넬, 두 번째 티저 공개",
+    "newsSubTitle": "",
+    "newsContent": "대한민국 대표 모던록 밴드 넬(NELL)의 새 컴백 티저 이미지가 공개됐다.\n소속사 스페이스보헤미안은 지난 10일 오후 6시 공식 SNS에 넬의 두 번째 티저 이미지를 게재해 새 앨범을 향한 기대를 증폭시켰다.\n검은색 배경에 흰 글씨로 적힌 ‘아무 생각도 하지 않을 거라 다짐하면서도, 이 다짐 역시 생각임을 너무 잘 알고 있었다’라는 의문의 메시지가 과연 무슨 뜻을 담고 있는 것인지 궁금증을 한껏 높였다.\n앞서 넬은 지난 2일 새 앨범명으로 예상되는 ‘모멘츠 인 비트윈(Moments in between)’이 담긴 이미지를 깜짝 공개했다.\n이와 함께 업로드한 숫자 ‘202109’로 오는 9월 컴백을 알려 음악 팬들의 뜨거운 반응을 얻었다.\n넬은 ‘기억을 걷는 시간’, ‘한계’, ‘마음을 잃다’, ‘섬’, ‘그리고, 남겨진 것들’, ‘지구가 태양을 네 번’, ‘스테이(Stay)’, ‘백야’, ‘오분 뒤에 봐’ 등 다수의 명곡을 보유한 ‘레전드 밴드’다.\n넬만의 독보적인 감성과 색깔로 만들어진 대체불가한 음악적 세계로 리스너들의 꾸준한 사랑을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한민국 대표 모던록 밴드 넬(NELL)의 새 컴백 티저 이미지가 공개됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 스페이스보헤미안은 지난 10일 오후 6시 공식 SNS에 넬의 두 번째 티저 이미지를 게재해 새 앨범을 향한 기대를 증폭시켰다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "검은색 배경에 흰 글씨로 적힌 ‘아무 생각도 하지 않을 거라 다짐하면서도, 이 다짐 역시 생각임을 너무 잘 알고 있었다’라는 의문의 메시지가 과연 무슨 뜻을 담고 있는 것인지 궁금증을 한껏 높였다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 넬은 지난 2일 새 앨범명으로 예상되는 ‘모멘츠 인 비트윈(Moments in between)’이 담긴 이미지를 깜짝 공개했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 함께 업로드한 숫자 ‘202109’로 오는 9월 컴백을 알려 음악 팬들의 뜨거운 반응을 얻었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "넬은 ‘기억을 걷는 시간’, ‘한계’, ‘마음을 잃다’, ‘섬’, ‘그리고, 남겨진 것들’, ‘지구가 태양을 네 번’, ‘스테이(Stay)’, ‘백야’, ‘오분 뒤에 봐’ 등 다수의 명곡을 보유한 ‘레전드 밴드’다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "넬만의 독보적인 감성과 색깔로 만들어진 대체불가한 음악적 세계로 리스너들의 꾸준한 사랑을 받고 있다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대한민국 대표 모던록 밴드인 그들, 새 컴백 티저로 팬들 기대감 증폭",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

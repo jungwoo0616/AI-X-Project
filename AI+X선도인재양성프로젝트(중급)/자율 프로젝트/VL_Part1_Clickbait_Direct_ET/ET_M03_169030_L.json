@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169030",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘복면가왕’ 클레오파트라 김연우 산들과 합창무대 '가창력 폭발'",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕' 클레오파트라 김연우가 B1A4 산들과 깜짝 무대를 꾸며 화제다.\n두 사람은 26일 방송된 MBC 예능프로그램 '일밤-복면가왕'에서 깜작 등장해 토이의 '여전히 아름다운지'를 열창하는 모습이 방송 되었다.\n판정단은 클레오파트라 가면을 쓴 채 먼저 등장한 산들을 보고 김연우인 줄 착각했지만 곧 김연우가 무대 뒤에서 모습을 드러내자 놀라움을 감추지 못하며 자리에서 벌떡 일어났다.\n이어 두 사람은 감미로운 듀엣으로 환상의 호흡을 선보이며 무대를 채웠다.\n한편 ‘복면가왕’은 복면을 쓴 가수가 편견 없이 경연을 벌이는 프로그램으로 매주 일요일 4시 50분에 방송된다.\n온라인 중앙일보 복면가왕[사진 MBC'복면가왕 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕' 클레오파트라 김연우가 B1A4 산들과 깜짝 무대를 꾸며 화제다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람은 26일 방송된 MBC 예능프로그램 '일밤-복면가왕'에서 깜작 등장해 토이의 '여전히 아름다운지'를 열창하는 모습이 방송 되었다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "판정단은 클레오파트라 가면을 쓴 채 먼저 등장한 산들을 보고 김연우인 줄 착각했지만 곧 김연우가 무대 뒤에서 모습을 드러내자 놀라움을 감추지 못하며 자리에서 벌떡 일어났다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 두 사람은 감미로운 듀엣으로 환상의 호흡을 선보이며 무대를 채웠다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 ‘복면가왕’은 복면을 쓴 가수가 편견 없이 경연을 벌이는 프로그램으로 매주 일요일 4시 50분에 방송된다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 복면가왕[사진 MBC'복면가왕 방송화면 캡처]",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕' 판정단 벌떡 일어나게 한 그는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

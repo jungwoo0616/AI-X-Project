@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284034",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 부산 시민과 함께한 즐거운 ‘일탈’",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘김제동의 톡투유-걱정 말아요 그대’는 ‘일탈’을 주제로 400여 청중과 이야기를 나눈다.\n이날 방송은 부산의 동아대학교에서 녹화가 진행됐다.\n경상도 출신의 개그맨 허경환도 나와 일탈에 대해 청중들과 이야기를 나눈다.\n녹화 시작과 동시에 청중들은 화끈한 사투리로 화려한 입담을 선보여 출연진을 놀라게 한다.\n특히 청중 가운데 한 여성은 김제동에게 적극적으로 자신의 애정을 고백한다.\n김제동은 “꿈을 꾸는 것 같다”며 기분을 표현한다.\n하지만 이 여성은 “조금 더 일찍 만났으면 좋았을 텐데 자신이 유부녀라 안타깝다”고 밝혀 김제동을 혼란에 빠트린다.\n일탈에 대한 전문가 분석도 이어진다.\n정신과 전문의 서천석 박사는 “사람은 누구나 일탈하고 싶은 욕망과 두려움을 동시에 가지고 있다”며 현대인의 내면에 숨어있는 일탈 본능에 대해 이야기한다.\n스타강사 최진기는 “일탈의 기준은 사회 분위기에 따라 상대적으로 적용된다”며 우리 사회의 일탈 기준에 대한 견해를 들려준다. 8일 오후 11시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘김제동의 톡투유-걱정 말아요 그대’는 ‘일탈’을 주제로 400여 청중과 이야기를 나눈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 방송은 부산의 동아대학교에서 녹화가 진행됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경상도 출신의 개그맨 허경환도 나와 일탈에 대해 청중들과 이야기를 나눈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "녹화 시작과 동시에 청중들은 화끈한 사투리로 화려한 입담을 선보여 출연진을 놀라게 한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 청중 가운데 한 여성은 김제동에게 적극적으로 자신의 애정을 고백한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김제동은 “꿈을 꾸는 것 같다”며 기분을 표현한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 이 여성은 “조금 더 일찍 만났으면 좋았을 텐데 자신이 유부녀라 안타깝다”고 밝혀 김제동을 혼란에 빠트린다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일탈에 대한 전문가 분석도 이어진다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정신과 전문의 서천석 박사는 “사람은 누구나 일탈하고 싶은 욕망과 두려움을 동시에 가지고 있다”며 현대인의 내면에 숨어있는 일탈 본능에 대해 이야기한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스타강사 최진기는 “일탈의 기준은 사회 분위기에 따라 상대적으로 적용된다”며 우리 사회의 일탈 기준에 대한 견해를 들려준다. 8일 오후 11시 방송된다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 부산 시민과 함께한 즐거운 ‘일탈’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

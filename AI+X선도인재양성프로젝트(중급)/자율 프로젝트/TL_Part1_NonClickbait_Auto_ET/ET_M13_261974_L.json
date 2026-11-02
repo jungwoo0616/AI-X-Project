@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261974",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘엠카’ 비투비, 오늘 ‘노래’ 최초 무대",
+		"newsSubTitle": "",
+		"newsContent": "그룹 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 신곡 컴백 무대를 최초 공개한다.\n비투비는 오늘(24일) 방송되는 Mnet ‘엠카운트다운’에서 세 번째 정규 앨범 ‘Be Together’의 타이틀곡 ‘노래 (The Song)’ 첫 컴백 무대를 선보인다.\n타이틀곡 ‘노래 (The Song)’는 멤버 임현식의 자작곡으로 서정적이고 무게감 있는 사운드와 더욱 깊어진 비투비의 목소리가 완벽한 조화를 이루어낸 비투비표 발라드이다.\n앞서 비투비는 타이틀곡 ‘노래 (The Song)’를 발표하고 국내 음원차트 벅스와 지니에서 정상을 차지하는가 하면 수록곡까지 전부 차트 상위권에 줄 세우며 성공적인 컴백을 알렸다.\n더불어 3집 정규 앨범 ‘Be Together’는 아이튠즈 톱 앨범(Top Album) 부문에서 영국, 뉴질랜드, 브라질, 터키, 아랍에미리트 등 21개 지역에서 1위(2월 22일 기준)에 이름을 올렸으며, 케이팝 톱 앨범(K Pop Top Album) 차트 부분에서는 캐나다, 미국, 오스트레일리아, 영국을 비롯한 14개 지역에서 정상을 차지해 글로벌 인기몰이 중이다.\n한편, 비투비의 신곡 ‘노래 (The Song)’의 첫 컴백 무대는 오늘(24일) 오후 6시 방송되는 Mnet ‘엠카운트다운’에서 만날 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 신곡 컴백 무대를 최초 공개한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비투비는 오늘(24일) 방송되는 Mnet ‘엠카운트다운’에서 세 번째 정규 앨범 ‘Be Together’의 타이틀곡 ‘노래 (The Song)’ 첫 컴백 무대를 선보인다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "타이틀곡 ‘노래 (The Song)’는 멤버 임현식의 자작곡으로 서정적이고 무게감 있는 사운드와 더욱 깊어진 비투비의 목소리가 완벽한 조화를 이루어낸 비투비표 발라드이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 비투비는 타이틀곡 ‘노래 (The Song)’를 발표하고 국내 음원차트 벅스와 지니에서 정상을 차지하는가 하면 수록곡까지 전부 차트 상위권에 줄 세우며 성공적인 컴백을 알렸다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더불어 3집 정규 앨범 ‘Be Together’는 아이튠즈 톱 앨범(Top Album) 부문에서 영국, 뉴질랜드, 브라질, 터키, 아랍에미리트 등 21개 지역에서 1위(2월 22일 기준)에 이름을 올렸으며, 케이팝 톱 앨범(K Pop Top Album) 차트 부분에서는 캐나다, 미국, 오스트레일리아, 영국을 비롯한 14개 지역에서 정상을 차지해 글로벌 인기몰이 중이다.",
+				"sentenceSize": 207
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 비투비의 신곡 ‘노래 (The Song)’의 첫 컴백 무대는 오늘(24일) 오후 6시 방송되는 Mnet ‘엠카운트다운’에서 만날 수 있다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엠카’ 비투비, 오늘 ‘노래’ 최초 무대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

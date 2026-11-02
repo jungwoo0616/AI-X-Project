@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258472",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "타블로 “자동 업데이트로 10년 동안 쓴 가사 사라져”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에픽하이 타블로가 자신이 10년 동안 쓴 창작물이 한순간 사라졌다고 토로했다.\n타블로는 지난 17일 자신의 트위터에 “ios가 자동 업데이트되었고 노트 어플리케이션에서 모든 메모와 함께 지난 10년 동안 쓴 가사들이 지워졌다”고 전했다.\niOS는 애플 사가 생산하는 기기에 탑재되는 독자 운영체제로 일부 사용자들 사이에서 초기화 오류가 지적돼왔다.\n이러한 가능성에 대비해 이용자들은 업데이트 전 데이터를 백업을 해두기도 한다.\n이를 본 누리꾼들은 “힙합사가 3년 퇴보했다” “자동 백업 됐을 수 있으니 확인해 보세요” “‘자동 업데이트’ 기능을 꺼놓아야 한다” 등의 심심한 위로를 보냈다.\n한편 타블로가 속한 에픽하이는 한국 가수 최초로 미국 최대 음악 축제 ‘코첼라’에 세 번째로 초청됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에픽하이 타블로가 자신이 10년 동안 쓴 창작물이 한순간 사라졌다고 토로했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "타블로는 지난 17일 자신의 트위터에 “ios가 자동 업데이트되었고 노트 어플리케이션에서 모든 메모와 함께 지난 10년 동안 쓴 가사들이 지워졌다”고 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "iOS는 애플 사가 생산하는 기기에 탑재되는 독자 운영체제로 일부 사용자들 사이에서 초기화 오류가 지적돼왔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이러한 가능성에 대비해 이용자들은 업데이트 전 데이터를 백업을 해두기도 한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 본 누리꾼들은 “힙합사가 3년 퇴보했다” “자동 백업 됐을 수 있으니 확인해 보세요” “‘자동 업데이트’ 기능을 꺼놓아야 한다” 등의 심심한 위로를 보냈다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 타블로가 속한 에픽하이는 한국 가수 최초로 미국 최대 음악 축제 ‘코첼라’에 세 번째로 초청됐다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "타블로 “자동 업데이트로 10년 동안 쓴 가사 사라져”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

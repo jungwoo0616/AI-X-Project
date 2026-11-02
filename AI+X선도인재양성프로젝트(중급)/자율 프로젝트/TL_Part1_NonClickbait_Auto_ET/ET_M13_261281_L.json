@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261281",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘엠카’ 남윤수, 미연 없이 MC 1주년 “초심 그대로 열심히 할 것”",
+		"newsSubTitle": "",
+		"newsContent": "‘엠카’ MC 남윤수가 1주년을 기념했다.\n17일 오후 방송된 Mnet ‘엠카운트다운’에서는 MC 1주년을 맞은 남윤수의 모습이 전파를 탔다.\n이날 첫 무대는 Rumble-G(럼블지)가 ‘Every Other(에브리 아더)’로 강렬하게 포문을 열었다.\n럼블지는 몽환미 가득한 분위기 속 걸 크러시를 폭발시켰다.\nMC 남윤수는 “부득이하게 혼자 인사를 드리게 됐다. 오늘 MC를 맡은 지 1년이 되어가는 날이다. 달달 떨면서 신고식을 치른 게 엊그제 같은데 1년이 됐다. 미연 씨와 듀엣 노래도 했는데 제 인생에 잊을 수 없는 날이다. 떨리는 마음으로 시작했던 ‘엠카’, 이제는 집같이 편안한 곳이 됐다. 1년 동안 함께 해주신 시청자 여러분 진심으로 감사하다”라고 인사했다.\n이어 그는 “초심 그대로 열심히 할 테니까 앞으로도 응원 많이 부탁드리겠다”라며 태연, 에이핑크, 윈필, 원호의 무대를 예고해 기대감을 자아냈다.\n2월 셋째 주 1위 후보는 김민석과 비비지가 붙었다.\n한편 ‘엠카운트다운’은 매주 목요일 오후 6시 Mnet에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘엠카’ MC 남윤수가 1주년을 기념했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 오후 방송된 Mnet ‘엠카운트다운’에서는 MC 1주년을 맞은 남윤수의 모습이 전파를 탔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 첫 무대는 Rumble-G(럼블지)가 ‘Every Other(에브리 아더)’로 강렬하게 포문을 열었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "럼블지는 몽환미 가득한 분위기 속 걸 크러시를 폭발시켰다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MC 남윤수는 “부득이하게 혼자 인사를 드리게 됐다. 오늘 MC를 맡은 지 1년이 되어가는 날이다. 달달 떨면서 신고식을 치른 게 엊그제 같은데 1년이 됐다. 미연 씨와 듀엣 노래도 했는데 제 인생에 잊을 수 없는 날이다. 떨리는 마음으로 시작했던 ‘엠카’, 이제는 집같이 편안한 곳이 됐다. 1년 동안 함께 해주신 시청자 여러분 진심으로 감사하다”라고 인사했다.",
+				"sentenceSize": 203
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 그는 “초심 그대로 열심히 할 테니까 앞으로도 응원 많이 부탁드리겠다”라며 태연, 에이핑크, 윈필, 원호의 무대를 예고해 기대감을 자아냈다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2월 셋째 주 1위 후보는 김민석과 비비지가 붙었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 ‘엠카운트다운’은 매주 목요일 오후 6시 Mnet에서 방송된다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엠카’ 남윤수, 미연 없이 MC 1주년 “초심 그대로 열심히 할 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279951",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'백년손님' 김준현에 남재현 장모, 뭐라고 했길래?…",
+		"newsSubTitle": "",
+		"newsContent": "'백년손님' 김준현에 남재현 장모, 뭐라고 했길래?…\n개그맨 김준현이 몸무게를 공개했다.\n7일 밤 11시 15분 방송된 SBS '자기야-백년손님'에는 김준현이 등장해 화제다.\n이날 방송에서 김준현은 남재현을 따라 그의 처가 후포리를 찾았다.\n남재현의 장인은 김준현의 몸무게를 궁금해했고,이에 김준현은 \\\"100kg이 넘는다. 120kg\\\"이라고 솔직하게 답했다.\n이에 대해 남재현 장모는 \\\"그건 사람 무게가 아니다. 황소 무게다\\\"라며 놀라움을 표해 네티즌들의 폭소를 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'백년손님' 김준현에 남재현 장모, 뭐라고 했길래?…",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개그맨 김준현이 몸무게를 공개했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일 밤 11시 15분 방송된 SBS '자기야-백년손님'에는 김준현이 등장해 화제다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 방송에서 김준현은 남재현을 따라 그의 처가 후포리를 찾았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남재현의 장인은 김준현의 몸무게를 궁금해했고,이에 김준현은 \\\"100kg이 넘는다. 120kg\\\"이라고 솔직하게 답했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 대해 남재현 장모는 \\\"그건 사람 무게가 아니다. 황소 무게다\\\"라며 놀라움을 표해 네티즌들의 폭소를 자아냈다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'백년손님' 김준현에 남재현 장모, 뭐라고 했길래?…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

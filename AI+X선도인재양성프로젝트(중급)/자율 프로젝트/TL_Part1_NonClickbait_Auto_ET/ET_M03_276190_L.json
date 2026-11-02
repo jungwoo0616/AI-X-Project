@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276190",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“앤젤리나 졸리, 아들 매덕스와 한국 대학 방문”",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 앤젤리나 졸리(43)가 내한 일정으로 한국 대학 투어도 계획하고 있는 것으로 전해졌다 3일(현지시간) 미국 피플지는 졸리가 이번 한국 방문에 동행한 장남 매덕스(17)와 함께 대학 캠퍼스를 방문한다고 전했다.\n매덕스는 평소 한국어 공부에 큰 관심을 보였다고 매체는 덧붙였다.\n앞서 트위터, 인스타그램 등 소셜네트워크서비스(SNS)에는 깜짝 방한한 졸리의 목격담이 올라와 화제가 됐다.\n목격담에 따르면 졸리는 이날 서울 종로구 삼청동 한 고깃집에서 일행과 식사하고, 삼청동 거리를 거닐었다.\n졸리가 이번에 방한한 것은 국내 한 입양 기관에서 봉사 활동을 하기 위해서인 것으로 알려졌다.\n졸리는 유엔난민기구(UNHCR) 특사로 활동하는 것은 물론 매년 약 100억원을 저개발국·사회단체 등에 기부하고, 다양한 봉사 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 앤젤리나 졸리(43)가 내한 일정으로 한국 대학 투어도 계획하고 있는 것으로 전해졌다 3일(현지시간) 미국 피플지는 졸리가 이번 한국 방문에 동행한 장남 매덕스(17)와 함께 대학 캠퍼스를 방문한다고 전했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매덕스는 평소 한국어 공부에 큰 관심을 보였다고 매체는 덧붙였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 트위터, 인스타그램 등 소셜네트워크서비스(SNS)에는 깜짝 방한한 졸리의 목격담이 올라와 화제가 됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "목격담에 따르면 졸리는 이날 서울 종로구 삼청동 한 고깃집에서 일행과 식사하고, 삼청동 거리를 거닐었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "졸리가 이번에 방한한 것은 국내 한 입양 기관에서 봉사 활동을 하기 위해서인 것으로 알려졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "졸리는 유엔난민기구(UNHCR) 특사로 활동하는 것은 물론 매년 약 100억원을 저개발국·사회단체 등에 기부하고, 다양한 봉사 활동을 펼치고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“앤젤리나 졸리, 아들 매덕스와 한국 대학 방문”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

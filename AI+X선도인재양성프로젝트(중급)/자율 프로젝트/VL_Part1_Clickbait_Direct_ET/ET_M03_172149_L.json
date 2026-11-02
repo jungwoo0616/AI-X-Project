@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172149",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'신과 함께' 재연재 시작한 주호민의 뜻밖의 고충",
+    "newsSubTitle": "",
+    "newsContent": "최근 인기 웹툰 '신과 함께' 재연재를 시작한 주호민 작가가 근거 없는 억측에 억울한 심정을 토로했다.\n주호민은 21일 자신의 인스타그램에 \\\"재연재 원고 그대로 올리고 있는 건데 낚시꾼 한명이 엄청난 조업을 하고 있다\\\"며 짤막한 글을 남겼다.\n이와 함께 공개한 사진에는 포털사이트에 제공되는 '신과 함께' 웹툰 페이지에 달린 네티즌의 댓글이 담겨 있다.\n몇몇 네티즌들은 \\\"재연재해주기로 했으면 그대로 올려야지 왜 컷을 빼느냐\\\"고 항의했다.\n이 같은 글은 3000여개가 넘는 '좋아요'를 받으며 베스트 댓글이 됐다.\n그러나 이들의 주장과 달리 빠진 컷은 없었다는 게 주호민의 설명이다.\n이를 접한 네티즌들은 \\\"베스트 댓글만 보고 깜빡 속을 뻔했다\\\"며 어이없다는 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 인기 웹툰 '신과 함께' 재연재를 시작한 주호민 작가가 근거 없는 억측에 억울한 심정을 토로했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주호민은 21일 자신의 인스타그램에 \\\"재연재 원고 그대로 올리고 있는 건데 낚시꾼 한명이 엄청난 조업을 하고 있다\\\"며 짤막한 글을 남겼다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 공개한 사진에는 포털사이트에 제공되는 '신과 함께' 웹툰 페이지에 달린 네티즌의 댓글이 담겨 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "몇몇 네티즌들은 \\\"재연재해주기로 했으면 그대로 올려야지 왜 컷을 빼느냐\\\"고 항의했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 같은 글은 3000여개가 넘는 '좋아요'를 받으며 베스트 댓글이 됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 이들의 주장과 달리 빠진 컷은 없었다는 게 주호민의 설명이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 접한 네티즌들은 \\\"베스트 댓글만 보고 깜빡 속을 뻔했다\\\"며 어이없다는 반응을 보였다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주호민 '신과 함께' 재연재하자 논란... 어떤 댓글이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

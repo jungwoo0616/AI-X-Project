@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275182",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“과격한 움직임 어렵다” 김준수, 무대 구성 변경",
+		"newsSubTitle": "",
+		"newsContent": "그룹 JYJ 가수 김준수가 다리 통증을 호소해 공연 무대 구성을 변경했다.\n소속사 팜트리아일랜드는 지난 9일 인스타그램을 통해 “앞서 8일 김준수의 일본 단독 콘서트 진행 중 아티스트의 오른쪽 종아리 통증이 지속됐다”고 전했다.\n소속사는 “어제(8일) 공연 진행 도중, 김준수의 오른쪽 종아리 근육에 통증이 지속되어 과격한 움직임이 어려운 상태”라며 “당사는 아티스트를 보호해야 할 의무가 있는 소속사로서 현시점에서 격렬한 안무 및 퍼포먼스 등을 자제하고 김준수의 건강을 최우선으로 생각해야 하는 것이 옳다고 판단했다”고 밝혔다.\n이어 “가수 본인의 의지가 강했으나 건강과 안전을 최우선으로 고려해 당일(9일)과 다음날 공연에서의 가수의 움직임을 최소화하기로 했다”고 덧붙였다.\n소속사는 “당사는 아티스트의 건강과 안전을 최우선 순위에 두고, 김준수가 언제나 건강한 모습으로 팬 여러분과 함께할 수 있도록 최선을 다하겠다”고 글을 마쳤다.\n김준수는 앞서 8일부터 3일간 일본 도쿄에서 단독 공연을 진행했다.\n그는 그룹 동방신기 출신으로 소속사 팜트리아일랜드의 대표 겸 가수로 활발히 활동하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 JYJ 가수 김준수가 다리 통증을 호소해 공연 무대 구성을 변경했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 팜트리아일랜드는 지난 9일 인스타그램을 통해 “앞서 8일 김준수의 일본 단독 콘서트 진행 중 아티스트의 오른쪽 종아리 통증이 지속됐다”고 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “어제(8일) 공연 진행 도중, 김준수의 오른쪽 종아리 근육에 통증이 지속되어 과격한 움직임이 어려운 상태”라며 “당사는 아티스트를 보호해야 할 의무가 있는 소속사로서 현시점에서 격렬한 안무 및 퍼포먼스 등을 자제하고 김준수의 건강을 최우선으로 생각해야 하는 것이 옳다고 판단했다”고 밝혔다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “가수 본인의 의지가 강했으나 건강과 안전을 최우선으로 고려해 당일(9일)과 다음날 공연에서의 가수의 움직임을 최소화하기로 했다”고 덧붙였다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 “당사는 아티스트의 건강과 안전을 최우선 순위에 두고, 김준수가 언제나 건강한 모습으로 팬 여러분과 함께할 수 있도록 최선을 다하겠다”고 글을 마쳤다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김준수는 앞서 8일부터 3일간 일본 도쿄에서 단독 공연을 진행했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 그룹 동방신기 출신으로 소속사 팜트리아일랜드의 대표 겸 가수로 활발히 활동하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“과격한 움직임 어렵다” 김준수, 무대 구성 변경",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

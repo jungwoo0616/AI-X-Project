@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268086",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "에이프릴 출신 윤채경, 에이엠나인과 전속계약…윤균상과 한솥밥[공식]",
+		"newsSubTitle": "",
+		"newsContent": "전 걸그룹 에이프릴(APRIL) 출신 윤채경이 매니지먼트 에이엠나인과 전속계약을 맺었다.\n윤채경의 소속사가 될 매니지먼트 에이엠나인 관계자는 25일 스포츠경향에 “윤채경은 매니지먼트 에이엠나인과 전속계약을 맺은 것이 맞다”고 밝혔다.\n윤채경은 DSP 5인조 걸그룹 퓨리티 멤버로 데뷔한 뒤 2014년에 팀이 해체되어, 서바이벌 프로그램 카라 프로젝트와 프로듀스 101에 참가했다.\n프로듀스 101 최종회에서 탈락하게 한 후, 윤채경은 레이첼과 함께 2016년 11월 11일 에이프릴에 합류했다.\n또 윤채경은 프로젝트 걸그룹 C.I.V.A, I.B.I 에서도 활약하며 다수의 걸그룹 활약 경력을 갖추게 됐다.\n올해 초 에이프릴이 해체된 후, 지난 22일 윤채경은 DSP 미디어와 계약 해지를 하며 배우로서의 활약을 예고한 바 있다.\n한편, 매니지먼트 에이엠나인에는 현재 배우 윤균상, 오나라가 소속되어 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 걸그룹 에이프릴(APRIL) 출신 윤채경이 매니지먼트 에이엠나인과 전속계약을 맺었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤채경의 소속사가 될 매니지먼트 에이엠나인 관계자는 25일 스포츠경향에 “윤채경은 매니지먼트 에이엠나인과 전속계약을 맺은 것이 맞다”고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤채경은 DSP 5인조 걸그룹 퓨리티 멤버로 데뷔한 뒤 2014년에 팀이 해체되어, 서바이벌 프로그램 카라 프로젝트와 프로듀스 101에 참가했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프로듀스 101 최종회에서 탈락하게 한 후, 윤채경은 레이첼과 함께 2016년 11월 11일 에이프릴에 합류했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 윤채경은 프로젝트 걸그룹 C.I.V.A, I.B.I 에서도 활약하며 다수의 걸그룹 활약 경력을 갖추게 됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 초 에이프릴이 해체된 후, 지난 22일 윤채경은 DSP 미디어와 계약 해지를 하며 배우로서의 활약을 예고한 바 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 매니지먼트 에이엠나인에는 현재 배우 윤균상, 오나라가 소속되어 있다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이프릴 출신 윤채경, 에이엠나인과 전속계약…윤균상과 한솥밥[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

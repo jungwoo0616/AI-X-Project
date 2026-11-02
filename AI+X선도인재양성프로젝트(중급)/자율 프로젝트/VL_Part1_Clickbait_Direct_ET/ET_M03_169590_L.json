@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169590",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "손나은이 인스타 사진 삭제한 이유",
+    "newsSubTitle": "",
+    "newsContent": "손나은이 자신의 인스타그램에 있는 본인 사진을 삭제했다.\n최근 온라인 커뮤니티에 손나은의 사진이 올라오며 \\\"손나은 인스타그램에서 삭제되었던 사진\\\"이라고 설명했다.\n사진 속 손나은은 코에 크림을 묻힌 채 포즈를 취하고 있다.\n그의 천진난만한 모습에는 귀여움이 한가득 배어있었다.\n하지만 글쓴이는 손나은이 해당 사진을 삭제했다고 말하며 또 다른 사진을 한장 소개했다.\n손나은은 이전 사진과 유사해 보이지만 한결 밝아진 톤의 사진을 올린 것이다.\n이에 글쓴이는 \\\"보정해서 다시 올라옴\\\"이라고 소개했다.\n이를 본 네티즌은 \\\"귀여워라ㅜㅜ\\\" \\\"예쁜 데 귀엽기까지...\\\" \\\"보정을 안 한 게 더 예뻐\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "손나은이 자신의 인스타그램에 있는 본인 사진을 삭제했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 손나은의 사진이 올라오며 \\\"손나은 인스타그램에서 삭제되었던 사진\\\"이라고 설명했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 손나은은 코에 크림을 묻힌 채 포즈를 취하고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그의 천진난만한 모습에는 귀여움이 한가득 배어있었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 글쓴이는 손나은이 해당 사진을 삭제했다고 말하며 또 다른 사진을 한장 소개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "손나은은 이전 사진과 유사해 보이지만 한결 밝아진 톤의 사진을 올린 것이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 글쓴이는 \\\"보정해서 다시 올라옴\\\"이라고 소개했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 네티즌은 \\\"귀여워라ㅜㅜ\\\" \\\"예쁜 데 귀엽기까지...\\\" \\\"보정을 안 한 게 더 예뻐\\\" 등 반응을 보였다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "손나은, 인스타 사진 화들짝 놀라 급히 삭제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

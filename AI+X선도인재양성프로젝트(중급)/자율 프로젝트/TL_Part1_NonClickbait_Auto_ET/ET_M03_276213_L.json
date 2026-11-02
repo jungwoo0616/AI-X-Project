@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276213",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최진실 10주기…환희·준희·이영자 한 자리 모인다",
+		"newsSubTitle": "",
+		"newsContent": "2일은 배우 최진실이 세상을 떠난 지 10년이 되는 날이다.\n최진실은 만 39세이던 지난 2008년 10월2일 오전 6시15분쯤 서울 서초구 잠원동 자택에서 숨진 채 발견됐다.\n경찰은 부검 결과 등을 토대로 그가 스스로 목숨을 끊었다고 결론 내렸다.\n이날 오전 열리는 그의 10주기 추도식에는 어머니 정옥숙씨, 아들 환희(17)군, 딸 준희(15)양 등이 참석하는 것으로 알려졌다.\n환희군과 준희양은 그동안 학업 문제 등을 이유로 추도식에 참석하지 못했다고 한다.\n추도식에는 생전 고인과 각별했던 방송인 이영자·홍진경 등도 참석할 예정이다.\n1988년 광고 모델로 연예계에 데뷔한 최진실은 '약속' '질투' '별은 내 가슴에' 등 드라마에 출연, 90년대 최고의 톱스타로 활약했다.\n2000년 12월 프로야구 스타 조성민과 결혼해 화제를 낳았으나 2004년 8월 이혼했다.\n이후 갖가지 악성 루머와 댓글에 시달리다 극단적인 선택을 한 것으로 알려졌다.\n2010년 3월에는 동생인 배우 최진영, 2013년 1월에는 전남편 조성민이 잇달아 스스로 목숨을 끊었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2일은 배우 최진실이 세상을 떠난 지 10년이 되는 날이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최진실은 만 39세이던 지난 2008년 10월2일 오전 6시15분쯤 서울 서초구 잠원동 자택에서 숨진 채 발견됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경찰은 부검 결과 등을 토대로 그가 스스로 목숨을 끊었다고 결론 내렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 오전 열리는 그의 10주기 추도식에는 어머니 정옥숙씨, 아들 환희(17)군, 딸 준희(15)양 등이 참석하는 것으로 알려졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "환희군과 준희양은 그동안 학업 문제 등을 이유로 추도식에 참석하지 못했다고 한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추도식에는 생전 고인과 각별했던 방송인 이영자·홍진경 등도 참석할 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "1988년 광고 모델로 연예계에 데뷔한 최진실은 '약속' '질투' '별은 내 가슴에' 등 드라마에 출연, 90년대 최고의 톱스타로 활약했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2000년 12월 프로야구 스타 조성민과 결혼해 화제를 낳았으나 2004년 8월 이혼했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 갖가지 악성 루머와 댓글에 시달리다 극단적인 선택을 한 것으로 알려졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2010년 3월에는 동생인 배우 최진영, 2013년 1월에는 전남편 조성민이 잇달아 스스로 목숨을 끊었다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최진실 10주기…환희·준희·이영자 한 자리 모인다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

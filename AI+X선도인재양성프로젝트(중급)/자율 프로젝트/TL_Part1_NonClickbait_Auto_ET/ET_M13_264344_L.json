@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264344",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "정호영, 3년 누적 적자에 폐업 위기(당나귀 귀)",
+		"newsSubTitle": "",
+		"newsContent": "미슐랭 셰프 정호영의 레스토랑이 폐업 위기에 처했다.\n20일 KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 중식 대가 여경래와 일식 장인 정호영 셰프의 만남이 그려진다.\n이날 정호영이 운영 중인 비스트로에 중식계의 살아있는 전설 여경래와 독보적인 여성 셰프 박은영이 손님으로 찾아왔다.\n여경래는 가게에 손님이 없다는 정호영의 SNS를 보고 매상을 올려 주기 위해 일부러 방문했다.\n미슐랭이 인정한 일식 장인 정호영이 선보이는 환상적인 맛과 비주얼의 향연에 여경래, 박은영 셰프도 연신 감탄사를 연발했다고. 하지만 이처럼 중식 대가가 극찬한 맛에도 불구하고 최근 하루 손님이 0팀인 날이 있을 정도로 장사가 되지 않아 정호영은 폐업까지 고려하고 있는 심각한 상태라는데.\n그럼에도 불구하고 정호영은 지난 3년 간 누적된 적자를 장사가 잘 되는 다른 가게에서 벌어들인 매출로 메꾸면서까지 가게를 유지하고 있다고 해 과연 그가 끝까지 희망의 끈을 놓지 않는 진짜 이유는 무엇일지 궁금증을 더하고 있다.\n한편, 여경래 또한 15년 동안 자식처럼 키워온 소중한 가게의 문을 닫을 수밖에 없게 됐다는 가슴 아픈 소식을 전했다고 해 그 사연에 관심이 집중되고 있다.\n코로나19로 힘든 시간을 버텨내고 있는 두 셰프의 동병상련 이야기는 20일 일요일 오후 5시 KBS2 ‘사장님 귀는 당나귀 귀’에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미슐랭 셰프 정호영의 레스토랑이 폐업 위기에 처했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 중식 대가 여경래와 일식 장인 정호영 셰프의 만남이 그려진다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 정호영이 운영 중인 비스트로에 중식계의 살아있는 전설 여경래와 독보적인 여성 셰프 박은영이 손님으로 찾아왔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여경래는 가게에 손님이 없다는 정호영의 SNS를 보고 매상을 올려 주기 위해 일부러 방문했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미슐랭이 인정한 일식 장인 정호영이 선보이는 환상적인 맛과 비주얼의 향연에 여경래, 박은영 셰프도 연신 감탄사를 연발했다고. 하지만 이처럼 중식 대가가 극찬한 맛에도 불구하고 최근 하루 손님이 0팀인 날이 있을 정도로 장사가 되지 않아 정호영은 폐업까지 고려하고 있는 심각한 상태라는데.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그럼에도 불구하고 정호영은 지난 3년 간 누적된 적자를 장사가 잘 되는 다른 가게에서 벌어들인 매출로 메꾸면서까지 가게를 유지하고 있다고 해 과연 그가 끝까지 희망의 끈을 놓지 않는 진짜 이유는 무엇일지 궁금증을 더하고 있다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 여경래 또한 15년 동안 자식처럼 키워온 소중한 가게의 문을 닫을 수밖에 없게 됐다는 가슴 아픈 소식을 전했다고 해 그 사연에 관심이 집중되고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코로나19로 힘든 시간을 버텨내고 있는 두 셰프의 동병상련 이야기는 20일 일요일 오후 5시 KBS2 ‘사장님 귀는 당나귀 귀’에서 공개된다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정호영, 3년 누적 적자에 폐업 위기(당나귀 귀)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

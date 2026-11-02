@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284393",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'솔로' 지코, 또 홈런쳤다..믿고 듣는 경지 올랐나",
+		"newsSubTitle": "",
+		"newsContent": "그룹 블락비의 지코가 또 홈런을 쳤다.\n지코는 3일 자정 발표한 곡 '보이즈 앤 걸스'로 국내 최대 음원 사이트 멜론을 비롯해 엠넷, 벅스, 올레뮤직, 지니, 네이버, 몽키3에서 모두 1위를 차지했다.\n지코는 지난 10월 19일 곡 '말해 yes or no'로 음원 차트 1위를 정복한 바 있는데, 이번 신곡으로 또 한 번 음원 사이트 왕좌에 당당히 앉았다.\n지코는 발표하는 곡마다 음원 사이트 정상을 찍으며 '믿고 듣는' 반열에 오른 것으로 보인다.\n아이돌로 시작해 다양한 무대와 프로그램을 통해 실력을 차츰 인정받기 시작하고, 솔로로서도 실력을 드러내며 얻은 결과로 분석된다.\n1위를 차지한 곡 '보이즈 앤 걸스'는 지코의 세련된 음악성을 곳곳에서 느낄 수 있는 곡이다.\n청량감 넘치는 리듬과 지코특유의 박자감 있는 랩, 세련된 멜로디라인이 돋보이는 노래다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 블락비의 지코가 또 홈런을 쳤다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지코는 3일 자정 발표한 곡 '보이즈 앤 걸스'로 국내 최대 음원 사이트 멜론을 비롯해 엠넷, 벅스, 올레뮤직, 지니, 네이버, 몽키3에서 모두 1위를 차지했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지코는 지난 10월 19일 곡 '말해 yes or no'로 음원 차트 1위를 정복한 바 있는데, 이번 신곡으로 또 한 번 음원 사이트 왕좌에 당당히 앉았다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지코는 발표하는 곡마다 음원 사이트 정상을 찍으며 '믿고 듣는' 반열에 오른 것으로 보인다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이돌로 시작해 다양한 무대와 프로그램을 통해 실력을 차츰 인정받기 시작하고, 솔로로서도 실력을 드러내며 얻은 결과로 분석된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "1위를 차지한 곡 '보이즈 앤 걸스'는 지코의 세련된 음악성을 곳곳에서 느낄 수 있는 곡이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "청량감 넘치는 리듬과 지코특유의 박자감 있는 랩, 세련된 멜로디라인이 돋보이는 노래다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'솔로' 지코, 또 홈런쳤다..믿고 듣는 경지 올랐나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

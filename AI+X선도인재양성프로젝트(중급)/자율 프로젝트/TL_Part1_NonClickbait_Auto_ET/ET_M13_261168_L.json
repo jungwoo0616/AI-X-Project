@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261168",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘고양 방송영상밸리’ 기반시설 착공, 2026년 6월 완공",
+		"newsSubTitle": "",
+		"newsContent": "경기도와 경기주택도시공사(GH)는 오는 17일 기반시설 착공을 시작으로 ‘경기고양 방송영상밸리 도시개발사업’을 본격 추진한다고 16일 밝혔다.\n경기고양 방송영상밸리 사업은 고양시 일산동구 장항동·대화동 일원 70만1984㎡에 6738억원을 투입해 방송영상특화단지를 조성하는 사업이다.\n2019년 구역 지정 및 개발계획 승인과 사업시행자 지정에 이어 지난해 4월 실시계획 인가 고시 및 손실보상을 마쳤다.\n지난달 공사업체(동광건설)와 계약을 체결했으며 2026년 6월 공사를 마무리할 예정이다.\n도는 방송영상밸리에 대형 방송사를 유치하기 위한 전략 용역을 진행 중이다.\n이를 통해 기업 실수요 발굴과 부지공급 특화전략 수립 등의 방안을 마련할 예정이다.\n인근 한류월드, K-컬처밸리, 일산테크노밸리 등과 연계해 방송·영상 클러스터로 발전시킬 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경기도와 경기주택도시공사(GH)는 오는 17일 기반시설 착공을 시작으로 ‘경기고양 방송영상밸리 도시개발사업’을 본격 추진한다고 16일 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경기고양 방송영상밸리 사업은 고양시 일산동구 장항동·대화동 일원 70만1984㎡에 6738억원을 투입해 방송영상특화단지를 조성하는 사업이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2019년 구역 지정 및 개발계획 승인과 사업시행자 지정에 이어 지난해 4월 실시계획 인가 고시 및 손실보상을 마쳤다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 공사업체(동광건설)와 계약을 체결했으며 2026년 6월 공사를 마무리할 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "도는 방송영상밸리에 대형 방송사를 유치하기 위한 전략 용역을 진행 중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 통해 기업 실수요 발굴과 부지공급 특화전략 수립 등의 방안을 마련할 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인근 한류월드, K-컬처밸리, 일산테크노밸리 등과 연계해 방송·영상 클러스터로 발전시킬 계획이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘고양 방송영상밸리’ 기반시설 착공, 2026년 6월 완공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

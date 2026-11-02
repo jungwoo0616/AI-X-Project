@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276544",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "브라질 방송서 '인종차별' 당했다는 한국 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "한국 혼성그룹 '카드(KARD)'가 브라질 방송에서 인종차별을 당했다는 주장이 제기돼 논란이 일고 있다.\n카드는 지난 15일(현지시각) 브라질 버라이어티 쇼 'Turma Do Vovo Raul'에 출연했다.\n진행자인 라울 길(Raul Gil)은 카드에게 \\\"브라질에 온 지 며칠 됐냐\\\" \\\"관광지 어딜 가봤냐\\\" 등의 질문을 던졌고, 카드는 \\\"2주 정도 됐다\\\" \\\"리우데자네이루, 살바도르, 포르탈레자를 가봤다. 아름다웠다\\\"고 답했다.\n라울은 이어 남성 2명, 여성 2명으로 이루어진 신인 혼성 그룹인 카드에게 \\\"이 중 사귀는 멤버가 있냐\\\"고 질문했고, 멤버들은 이에 당황한 기색을 드러내며 \\\"전혀 없다\\\"고 말했다.\n카드의 대답에 팬들의 환호가 나오자 라울은 \\\"그렇다면 당신들이 카드 멤버들과 결혼할 것이냐\\\"고 관중들에게 물은 뒤 \\\"(결혼하면) 당신들도 눈이 얇아질 것\\\"이라며 양손 검지를 자신의 두 눈 옆에 대고 눈가를 양쪽으로 추켜 올렸다.\n가로로 길게 '찢어진' 눈을 가진 아시아인을 조롱하는 뜻으로 해석될 여지가 있는 포즈였다.\n통역사는 라울의 인종 차별적인 발언을 카드에게 전하지 않았다.\n방송 이후 라울의 행동을 놓고 인종 차별을 지적하는 네티즌의 반응이 이어지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국 혼성그룹 '카드(KARD)'가 브라질 방송에서 인종차별을 당했다는 주장이 제기돼 논란이 일고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카드는 지난 15일(현지시각) 브라질 버라이어티 쇼 'Turma Do Vovo Raul'에 출연했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "진행자인 라울 길(Raul Gil)은 카드에게 \\\"브라질에 온 지 며칠 됐냐\\\" \\\"관광지 어딜 가봤냐\\\" 등의 질문을 던졌고, 카드는 \\\"2주 정도 됐다\\\" \\\"리우데자네이루, 살바도르, 포르탈레자를 가봤다. 아름다웠다\\\"고 답했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라울은 이어 남성 2명, 여성 2명으로 이루어진 신인 혼성 그룹인 카드에게 \\\"이 중 사귀는 멤버가 있냐\\\"고 질문했고, 멤버들은 이에 당황한 기색을 드러내며 \\\"전혀 없다\\\"고 말했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카드의 대답에 팬들의 환호가 나오자 라울은 \\\"그렇다면 당신들이 카드 멤버들과 결혼할 것이냐\\\"고 관중들에게 물은 뒤 \\\"(결혼하면) 당신들도 눈이 얇아질 것\\\"이라며 양손 검지를 자신의 두 눈 옆에 대고 눈가를 양쪽으로 추켜 올렸다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가로로 길게 '찢어진' 눈을 가진 아시아인을 조롱하는 뜻으로 해석될 여지가 있는 포즈였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "통역사는 라울의 인종 차별적인 발언을 카드에게 전하지 않았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방송 이후 라울의 행동을 놓고 인종 차별을 지적하는 네티즌의 반응이 이어지고 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브라질 방송서 '인종차별' 당했다는 한국 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

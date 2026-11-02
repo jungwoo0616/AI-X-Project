@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266232",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "레드벨벳 슬기, 주먹 불끈 건강한 근황 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 레드벨벳 슬기가 코로나19 확진 후 근황을 전했다.\n슬기는 6일 자신의 사회관계망서비스(SNS)에 “아쉬운 Feel My Rhythm”이라는 글과 함께 사진을 게재했다.\n이어 “저는 건강하게 회복했으니 걱정마세요! 걱정해주신 모든 분들 감사합니다”라는 말을 덧붙였다.\n슬기는 지난달 30일 코로나19 확진 판정을 받았다.\n같은 팀 멤버 웬디도 확진 판정을 받았고, 레드벨벳은 예정된 일정을 취소했다.\n모든 일정이 중단된 가운데 슬기는 오랜만에 팬들에게 건강한 안부를 전하며 안심시켰다.\n한편, 슬기가 속한 레드벨벳은 지난 3월 21일 새 미니앨범 ‘더 리브 페스티벌 2022 - 필 마이 리듬’(The ReVe Festival 2022 - Feel My Rhythm)을 발매했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 레드벨벳 슬기가 코로나19 확진 후 근황을 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슬기는 6일 자신의 사회관계망서비스(SNS)에 “아쉬운 Feel My Rhythm”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “저는 건강하게 회복했으니 걱정마세요! 걱정해주신 모든 분들 감사합니다”라는 말을 덧붙였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "슬기는 지난달 30일 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 팀 멤버 웬디도 확진 판정을 받았고, 레드벨벳은 예정된 일정을 취소했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모든 일정이 중단된 가운데 슬기는 오랜만에 팬들에게 건강한 안부를 전하며 안심시켰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 슬기가 속한 레드벨벳은 지난 3월 21일 새 미니앨범 ‘더 리브 페스티벌 2022 - 필 마이 리듬’(The ReVe Festival 2022 - Feel My Rhythm)을 발매했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레드벨벳 슬기, 주먹 불끈 건강한 근황 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259809",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영탁 ‘설 음식 함께 만들고 싶은 스타’ 1위",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁이 설 음식을 함께 만들고 싶은 스타 1위로 선정됐다.\n지난 1월 24일부터 1월 30일까지 아이돌차트에서 진행된 ‘설 음식을 함께 만들고 싶은 스타는?’ 설문에서 영탁은 총 투표수 12만 6363 중 6만 76표(투표율 약 48%)를 획득하며 1위에 올랐다.\n2위는 4만 3894표(투표율 약 35%)를 획득한 방탄소년단의 멤버 뷔가 차지했다.\n뒤를 이어 이솔로몬(7730표), AB6IX 박우진(2568표), 홍자(2454표), 트와이스 모모(1879표), 정동하(1516표), 로켓펀치 윤경(1414표), 김준수(1058표), 이무진(867표), 있지 예지(836표), 에이핑크 정은지(488표), 인피니트 남우현(350표), 휘인(307표), 비비(282표), 펜타곤 홍석(229표), 효린(149표), 케플러 휴닝바히에(131표), 골든차일드 홍주찬(103표), 뱀뱀(32표)순으로 집계됐다.\n설문조사의 결과는 아이돌차트 ‘POLL’ 메뉴에서 확인 가능하다.\n현재 ‘비율이 좋아 패딩 CF에 찰떡인 스타는?’이란 주제로 설문이 진행중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁이 설 음식을 함께 만들고 싶은 스타 1위로 선정됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1월 24일부터 1월 30일까지 아이돌차트에서 진행된 ‘설 음식을 함께 만들고 싶은 스타는?’ 설문에서 영탁은 총 투표수 12만 6363 중 6만 76표(투표율 약 48%)를 획득하며 1위에 올랐다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2위는 4만 3894표(투표율 약 35%)를 획득한 방탄소년단의 멤버 뷔가 차지했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뒤를 이어 이솔로몬(7730표), AB6IX 박우진(2568표), 홍자(2454표), 트와이스 모모(1879표), 정동하(1516표), 로켓펀치 윤경(1414표), 김준수(1058표), 이무진(867표), 있지 예지(836표), 에이핑크 정은지(488표), 인피니트 남우현(350표), 휘인(307표), 비비(282표), 펜타곤 홍석(229표), 효린(149표), 케플러 휴닝바히에(131표), 골든차일드 홍주찬(103표), 뱀뱀(32표)순으로 집계됐다.",
+				"sentenceSize": 254
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설문조사의 결과는 아이돌차트 ‘POLL’ 메뉴에서 확인 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 ‘비율이 좋아 패딩 CF에 찰떡인 스타는?’이란 주제로 설문이 진행중이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁 ‘설 음식 함께 만들고 싶은 스타’ 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

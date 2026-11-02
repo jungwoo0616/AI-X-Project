@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270529",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "다비치 이해리, 예비 신부의 아름다움",
+		"newsSubTitle": "",
+		"newsContent": "그룹 다비치의 멤버 이해리가 아름다운 미모 근황을 전했다.\n17일 이해리는 자신의 인스타그램에 “팡파레 잘 듣고 있습니까”라는 문구와 함께 사진 3장을 게재했다.\n이해리는 입술을 모으고 셀피를 찍었다.\n귀여운 표정을 지어 사랑스러운 분위기를 자아냈다.\n또 다른 사진에서는 거울 셀피를 찍어 보는 이들의 시선을 사로잡았다.\n이 사진을 접한 누리꾼들은 “귀엽다”, “10번 넘게 듣고 있다”, “믿고 듣는 다비치” 등 댓글을 달아 신곡 ‘팡파레’에 대한 찬사를 건넸다.\n한편 이해리는 지난 16일 다비치의 새 미니앨범 ‘시즌 노트(Season Note)’의 타이틀곡 ‘팡파레’을 발매했다.\n또 이해리는 오는 7월 비연예인 남자친구와 결혼식을 올리는 것을 밝혀 화제가 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 다비치의 멤버 이해리가 아름다운 미모 근황을 전했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 이해리는 자신의 인스타그램에 “팡파레 잘 듣고 있습니까”라는 문구와 함께 사진 3장을 게재했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이해리는 입술을 모으고 셀피를 찍었다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "귀여운 표정을 지어 사랑스러운 분위기를 자아냈다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진에서는 거울 셀피를 찍어 보는 이들의 시선을 사로잡았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 사진을 접한 누리꾼들은 “귀엽다”, “10번 넘게 듣고 있다”, “믿고 듣는 다비치” 등 댓글을 달아 신곡 ‘팡파레’에 대한 찬사를 건넸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이해리는 지난 16일 다비치의 새 미니앨범 ‘시즌 노트(Season Note)’의 타이틀곡 ‘팡파레’을 발매했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 이해리는 오는 7월 비연예인 남자친구와 결혼식을 올리는 것을 밝혀 화제가 됐다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다비치 이해리, 예비 신부의 아름다움",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

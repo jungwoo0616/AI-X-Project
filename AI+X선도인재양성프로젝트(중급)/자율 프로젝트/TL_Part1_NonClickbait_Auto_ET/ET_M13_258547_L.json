@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258547",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "산다라박, ‘토스트 2개= 3일 식량’ 소식좌 인증",
+		"newsSubTitle": "",
+		"newsContent": "그룹 투애니원 출신 산다라박이 자신의 소식을 인증했다.\n산다라박은 18일 자신의 인스타그램 스토리에 놀라운 내용의 글과 함께 사진을 게재했다.\n한 네티즌이 자신이 보내준 식량을 먹었냐고 묻자 산다라박은 “고마워. 나 이정도면 한 3일 먹지”라고 말했다.\n사진에는 달걀 샌드위치와 치즈가 오른 토스트가 담겨있다.\n평소 소식을 하는 것으로 알려진 산다라박의 일상이 놀라움을 자아낸다.\n한편 산다라박은 과거 한 방송을 통해 평생 38kg로 살다가 최근 7kg을 찌웠다고 밝힌 바 있다.\n또 산다라박은 MBC FM4U ‘두시의 데이트 뮤지, 안영미입니다’의 속 코너 ‘두데 프렌즈’에 출연하여 자신이 소식가라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 투애니원 출신 산다라박이 자신의 소식을 인증했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "산다라박은 18일 자신의 인스타그램 스토리에 놀라운 내용의 글과 함께 사진을 게재했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한 네티즌이 자신이 보내준 식량을 먹었냐고 묻자 산다라박은 “고마워. 나 이정도면 한 3일 먹지”라고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진에는 달걀 샌드위치와 치즈가 오른 토스트가 담겨있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "평소 소식을 하는 것으로 알려진 산다라박의 일상이 놀라움을 자아낸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 산다라박은 과거 한 방송을 통해 평생 38kg로 살다가 최근 7kg을 찌웠다고 밝힌 바 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 산다라박은 MBC FM4U ‘두시의 데이트 뮤지, 안영미입니다’의 속 코너 ‘두데 프렌즈’에 출연하여 자신이 소식가라고 밝혔다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "산다라박, ‘토스트 2개= 3일 식량’ 소식좌 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

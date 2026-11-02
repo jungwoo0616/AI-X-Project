@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263074",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이정재, 블랙핑크 제니 선물에 “고마워”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이정재가 블랙핑크 제니에게 받은 선물 인증샷을 올렸다.\n이정재는 지난 5일 자신의 인스타그램에 “Thank you”라는 글과 함께 제니의 계정을 태그하고 영상을 게재했다.\n공개된 영상 속에는 제니가 모델로 있는 G사의 대형 선물 박스를 여는 이정재의 모습이 담겨 있다.\n상자 속에는 커다란 꽃다발과 제니가 모델로 있는 안경 브랜드 G사의 선글라스가 있었고, 이정재는 직접 선글라스를 쓰고 포즈를 취해 눈길을 끌었다.\n또 영상 속에는 ‘To. 이정재 선배님’이라는 문구와 제니의 친필 사인이 등장했다.\n이정재와 제니는 지난해 11월 미국 로스앤젤레스에서 열린 라크마 아트 필름 갈라(LACMA Art + Film Gala)에서 함께 찍은 사진으로 화제가 되기도 했다.\n한편 이정재는 최근 미국 로스앤젤레스에서 열린 제28회 SAG(미국배우조합상)에서 넷플릭스‘오징어게임’으로 TV시리즈 남우주연상을 받았고, 지난 6일 제37회 인디펜던트 스피릿 어워즈 시상식(미국독립영화시상식)에서 TV 부문 남우주연상 수상자로 호명됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이정재가 블랙핑크 제니에게 받은 선물 인증샷을 올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이정재는 지난 5일 자신의 인스타그램에 “Thank you”라는 글과 함께 제니의 계정을 태그하고 영상을 게재했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속에는 제니가 모델로 있는 G사의 대형 선물 박스를 여는 이정재의 모습이 담겨 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상자 속에는 커다란 꽃다발과 제니가 모델로 있는 안경 브랜드 G사의 선글라스가 있었고, 이정재는 직접 선글라스를 쓰고 포즈를 취해 눈길을 끌었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 영상 속에는 ‘To. 이정재 선배님’이라는 문구와 제니의 친필 사인이 등장했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이정재와 제니는 지난해 11월 미국 로스앤젤레스에서 열린 라크마 아트 필름 갈라(LACMA Art + Film Gala)에서 함께 찍은 사진으로 화제가 되기도 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이정재는 최근 미국 로스앤젤레스에서 열린 제28회 SAG(미국배우조합상)에서 넷플릭스‘오징어게임’으로 TV시리즈 남우주연상을 받았고, 지난 6일 제37회 인디펜던트 스피릿 어워즈 시상식(미국독립영화시상식)에서 TV 부문 남우주연상 수상자로 호명됐다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이정재, 블랙핑크 제니 선물에 “고마워”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

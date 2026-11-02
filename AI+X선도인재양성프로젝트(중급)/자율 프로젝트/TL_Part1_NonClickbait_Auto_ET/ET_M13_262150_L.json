@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262150",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "스윙스, 우크라이나 사태에 “차라리 외계인이랑 싸웠으면”",
+		"newsSubTitle": "",
+		"newsContent": "가수 스윙스가 러시아의 우크라이나 침공 사태에 안타까움을 내비쳤다.\n스윙스는 25일 자신의 사회관계망서비스(SNS)에 “이런 말 한다고 바뀔 것도 없고 그 나라 사람들이 혹시나 해서 듣는다고 해서 위로가 될지는 모르겠다”라며 “러시아·우크라이나 사태에 더 이상 다치는 사람과 잃는 재산 없이 잘 해결됐으면 정말로 좋겠다”라고 했다.\n그는 “이 시대에 과학의 발전으로 너무 공개적으로 이런 일이 눈앞에 벌어지는 것이 받아들이기 힘들다”면서 “차라리 외계인이랑 싸웠으면 하는 마음이다”라고 말했다.\n이어 “인간은 참 아름답고 신을 닮았지만 또 이럴 때 보면 너무 복잡하고 무섭다”라며 “저쪽 나라 분들 서로 잘 풀어서 양쪽 다 멈췄으면 좋겠다”라며 말을 마쳤다.\n한편, 볼로디미르 젤렌스키 우크라이나 대통령이 24일(현지시간) 러시아군의 대규모 침공에 직면한 우크라이나에 국가총동원령을 내렸다.\n국가총동원령은 국가 및 국제 비상사태와 관련하여 군사력과 국가 인프라를 전시체제로 전환하고 인적자원과 물자를 총동원하는 조치를 말한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 스윙스가 러시아의 우크라이나 침공 사태에 안타까움을 내비쳤다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스윙스는 25일 자신의 사회관계망서비스(SNS)에 “이런 말 한다고 바뀔 것도 없고 그 나라 사람들이 혹시나 해서 듣는다고 해서 위로가 될지는 모르겠다”라며 “러시아·우크라이나 사태에 더 이상 다치는 사람과 잃는 재산 없이 잘 해결됐으면 정말로 좋겠다”라고 했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “이 시대에 과학의 발전으로 너무 공개적으로 이런 일이 눈앞에 벌어지는 것이 받아들이기 힘들다”면서 “차라리 외계인이랑 싸웠으면 하는 마음이다”라고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “인간은 참 아름답고 신을 닮았지만 또 이럴 때 보면 너무 복잡하고 무섭다”라며 “저쪽 나라 분들 서로 잘 풀어서 양쪽 다 멈췄으면 좋겠다”라며 말을 마쳤다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 볼로디미르 젤렌스키 우크라이나 대통령이 24일(현지시간) 러시아군의 대규모 침공에 직면한 우크라이나에 국가총동원령을 내렸다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국가총동원령은 국가 및 국제 비상사태와 관련하여 군사력과 국가 인프라를 전시체제로 전환하고 인적자원과 물자를 총동원하는 조치를 말한다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스윙스, 우크라이나 사태에 “차라리 외계인이랑 싸웠으면”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

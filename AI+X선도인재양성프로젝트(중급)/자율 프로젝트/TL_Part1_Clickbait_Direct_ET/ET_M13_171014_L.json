@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171014",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘복면가왕’ 임성은 “보라카이서 스파숍 사업...무대 20년만”",
+    "newsSubTitle": "",
+    "newsContent": "‘복면가왕’ 하모니카의 정체는 영턱스클럽 임성은으로 밝혀졌다.\n29일 오후 방송된 MBC ‘복면가왕’에서는 가왕 비대면남친에 도전하는 복면 가수 4인의 무대가 펼쳐졌다.\n이날 2라운드 두 번째 무대는 하모니카와 빈대떡 신사의 대결로 펼쳐졌다.\n하모니카는 임재범 ‘낙인’을 선곡했다.\n그는 허스키한 보이스로 짙은 감성을 선사했다.\n빈대떡 신사는 김추자 ‘님은 먼 곳에’를 선곡해 중후한 목소리로 시선을 단번에 집중시켰다.\n대결 결과 18 대 3으로 빈대떡 신사가 승리해 3R에 진출했다.\n이어 복면을 벗은 하모니카의 정체는 ‘정’을 부른 임성은이었다.\n임성은은 무대에 선 것에 관해 “20년 된 것 같다. 보라카이로 가서 스파숍 사업을 하고 있는데 너무 정신이 없다. 노래 들을 생각도 못했고 부를 생각은 더더욱 못 했다. 너무 좋았다”라고 말했다. ‘정’의 무대에 신봉선은 “제가 고등학교 1학년 때였다. 다들 쉬는 시간마다 교실 뒤에서 나이스 춤을 췄다. 춤추다 실내화 날아가고 했던 추억이 있다. 저희같이 영턱스클럽에 추억이 있는 친구들에게 선물로 나와주셔서 너무 감사하다”라고 전해 훈훈함을 자아냈다.\n한편 MBC ‘복면가왕’은 매주 일요일 오후 6시 5분에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘복면가왕’ 하모니카의 정체는 영턱스클럽 임성은으로 밝혀졌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 오후 방송된 MBC ‘복면가왕’에서는 가왕 비대면남친에 도전하는 복면 가수 4인의 무대가 펼쳐졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 2라운드 두 번째 무대는 하모니카와 빈대떡 신사의 대결로 펼쳐졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하모니카는 임재범 ‘낙인’을 선곡했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 허스키한 보이스로 짙은 감성을 선사했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "빈대떡 신사는 김추자 ‘님은 먼 곳에’를 선곡해 중후한 목소리로 시선을 단번에 집중시켰다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대결 결과 18 대 3으로 빈대떡 신사가 승리해 3R에 진출했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 복면을 벗은 하모니카의 정체는 ‘정’을 부른 임성은이었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "임성은은 무대에 선 것에 관해 “20년 된 것 같다. 보라카이로 가서 스파숍 사업을 하고 있는데 너무 정신이 없다. 노래 들을 생각도 못했고 부를 생각은 더더욱 못 했다. 너무 좋았다”라고 말했다. ‘정’의 무대에 신봉선은 “제가 고등학교 1학년 때였다. 다들 쉬는 시간마다 교실 뒤에서 나이스 춤을 췄다. 춤추다 실내화 날아가고 했던 추억이 있다. 저희같이 영턱스클럽에 추억이 있는 친구들에게 선물로 나와주셔서 너무 감사하다”라고 전해 훈훈함을 자아냈다.",
+        "sentenceSize": 255
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 MBC ‘복면가왕’은 매주 일요일 오후 6시 5분에 만나볼 수 있다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘복면가왕’ 20년 만의 무대... '하모니카'의 정체는 '이 사람'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262334",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이미주, “심시매” 코로나19 자가격리 근황",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 확진을 받은 가수 이미주가 자가격리 중 일상을 전했다.\n28일 이미주는 자신의 인스타그램 스토리에 “하…심시매(심심해)”라는 글과 함께 영상을 올렸다.\n이날 공개된 사진 속에는 카메라를 바라보고 있는 이미주의 모습이 담겼다.\n이미주는 청초한 민낯으로 시선을 사로잡았다.\n앞서 이미주는 지난 23일 코로나19에 확진돼 자가격리 중이다.\n한편, 걸그룹 ‘러블리즈’로 활동하던 이미주는 안테나로 이적한 뒤 ‘놀면 뭐하니’ ‘tmi쇼’ 등 예능에서 종횡무진 활약을 이어 나가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 확진을 받은 가수 이미주가 자가격리 중 일상을 전했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 이미주는 자신의 인스타그램 스토리에 “하…심시매(심심해)”라는 글과 함께 영상을 올렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 공개된 사진 속에는 카메라를 바라보고 있는 이미주의 모습이 담겼다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이미주는 청초한 민낯으로 시선을 사로잡았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 이미주는 지난 23일 코로나19에 확진돼 자가격리 중이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 걸그룹 ‘러블리즈’로 활동하던 이미주는 안테나로 이적한 뒤 ‘놀면 뭐하니’ ‘tmi쇼’ 등 예능에서 종횡무진 활약을 이어 나가고 있다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이미주, “심시매” 코로나19 자가격리 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

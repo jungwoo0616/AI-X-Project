@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262955",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "우아! 나나·우연, 첫 투표 인증샷",
+		"newsSubTitle": "",
+		"newsContent": "그룹 woo!ah!(우아!)의 나나와 우연이 제20대 대통령 선거 사전 투표에 참여했다.\n나나와 우연은 지난 5일 woo!ah!(우아!)의 공식 SNS에 사전 투표에 참여 인증샷을 공개했다.\n나나와 우연은 각각 서울 논현1, 방배2 사전 투표소에서 사전 투표에 참여했다.\n투표에 참여한 이후 나나는 “의미있고 뿌듯했던 첫 투표! 저도 했답니다”라며 “여러분도 모두 모두 투표하세요!”라고 소감을 밝혔다.\n또 우연은 “사전투표하고 왔어요! 아침 일찍 가서 빠르게 하고 왔습니다”라며 “첫 투표라 더 뿌듯하고 의미 있었던 것 같아요! 와우들도 모두 투표하세요”라고 말했다.\n한편, woo!ah!(우아!)는 지난 달 디지털 싱글 ‘별 따러 가자’를 통해 다채로운 매력을 발산했다.\n최근에는 온·오프라인을 통해 활발하게 활동하며 팬들과 만나고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 woo!ah!(우아!)의 나나와 우연이 제20대 대통령 선거 사전 투표에 참여했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "나나와 우연은 지난 5일 woo!ah!(우아!)의 공식 SNS에 사전 투표에 참여 인증샷을 공개했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "나나와 우연은 각각 서울 논현1, 방배2 사전 투표소에서 사전 투표에 참여했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투표에 참여한 이후 나나는 “의미있고 뿌듯했던 첫 투표! 저도 했답니다”라며 “여러분도 모두 모두 투표하세요!”라고 소감을 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 우연은 “사전투표하고 왔어요! 아침 일찍 가서 빠르게 하고 왔습니다”라며 “첫 투표라 더 뿌듯하고 의미 있었던 것 같아요! 와우들도 모두 투표하세요”라고 말했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, woo!ah!(우아!)는 지난 달 디지털 싱글 ‘별 따러 가자’를 통해 다채로운 매력을 발산했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에는 온·오프라인을 통해 활발하게 활동하며 팬들과 만나고 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우아! 나나·우연, 첫 투표 인증샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

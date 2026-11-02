@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284999",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이미도, \\\"마동석 외모에 유희열 감성가진 남자\\\"…\\\"그런 남자분 있으면 내거다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "아빠는 딸 이미도가 화제인 가운데, 아빠는 딸 이미도의 과거 발언이 다시금 이목을 끈다.\n이미도는 과거 방송된 SBS 파워FM '김창렬의 올드스쿨'(이하 올드스쿨)에 출연해 DJ 김창렬이 \\\"이상형이 무엇이냐\\\"고 묻자 \\\"마동석의 외모에 유희열의 감성을 가진 남자\\\"라고 이상형을 털어 놓았다.\n이어 이미도는 \\\"그런 남자분 있으면 내거다\\\"라고 밝혔다.\n앞서 그는 한 매체와의 인터뷰에서도 \\\"마동석과 우결을 찍고 싶다\\\"고 말한 바 있다.\n한편 이미도는 윤제문, 정소민, 신구, 이일화와 함께 영화 '아빠는 딸'(가제, 김형협 감독, 영화사 김치주식회사 제작)에 출연한다.\n온라인 중앙일보 [사진 중앙DB] 아빠는 딸 이미도",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아빠는 딸 이미도가 화제인 가운데, 아빠는 딸 이미도의 과거 발언이 다시금 이목을 끈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이미도는 과거 방송된 SBS 파워FM '김창렬의 올드스쿨'(이하 올드스쿨)에 출연해 DJ 김창렬이 \\\"이상형이 무엇이냐\\\"고 묻자 \\\"마동석의 외모에 유희열의 감성을 가진 남자\\\"라고 이상형을 털어 놓았다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 이미도는 \\\"그런 남자분 있으면 내거다\\\"라고 밝혔다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 그는 한 매체와의 인터뷰에서도 \\\"마동석과 우결을 찍고 싶다\\\"고 말한 바 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 이미도는 윤제문, 정소민, 신구, 이일화와 함께 영화 '아빠는 딸'(가제, 김형협 감독, 영화사 김치주식회사 제작)에 출연한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 중앙DB] 아빠는 딸 이미도",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이미도, \\\"마동석 외모에 유희열 감성가진 남자\\\"…\\\"그런 남자분 있으면 내거다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

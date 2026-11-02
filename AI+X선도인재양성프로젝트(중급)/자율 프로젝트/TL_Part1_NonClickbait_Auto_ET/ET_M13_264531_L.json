@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264531",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘임영웅 정수기’ 디자인 세계정복",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅을 모델로 내세운 청호나이스 ‘언택트 얼음정수기’가 세계 최고 디자인상을 받았다.\n청호나이스는 22일 언택트 얼음정수기 550 모델이 ‘레드닷 디자인 어워드2022’ 노베이티브 프로덕트 부문 본상을 수상했다고 밝혔다.\n독일 노르트하임 베스트팔렘 디자인센터가 주관하는 레드닷 디자인 어워드는 세계 3대 디자인상으로 꼽히는 유수의 디자인상이다.\n청호 언택트 얼음정수기 550은 터치 없이 사용할 수 있는 제품으로 정수, 냉수, 온수, 얼음 등을 차례로 인식하는 것이 특징이다.\n특히 임영웅이 광고모델로 나서 ‘임영웅 정수기’라는 별칭도 얻었다.\n이주형 청호나이스 디자인부문장은 “세계적 디자인 어워드 수상으로 제품 디자인 우수성과 기능성을 국제적으로 인정 받았다”며 “더욱 편리한 생활환경을 제공하기 위해 시대에 맞는 제품 디자인을 선보일 수 있게 노력하겠다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅을 모델로 내세운 청호나이스 ‘언택트 얼음정수기’가 세계 최고 디자인상을 받았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "청호나이스는 22일 언택트 얼음정수기 550 모델이 ‘레드닷 디자인 어워드2022’ 노베이티브 프로덕트 부문 본상을 수상했다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "독일 노르트하임 베스트팔렘 디자인센터가 주관하는 레드닷 디자인 어워드는 세계 3대 디자인상으로 꼽히는 유수의 디자인상이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "청호 언택트 얼음정수기 550은 터치 없이 사용할 수 있는 제품으로 정수, 냉수, 온수, 얼음 등을 차례로 인식하는 것이 특징이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 임영웅이 광고모델로 나서 ‘임영웅 정수기’라는 별칭도 얻었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이주형 청호나이스 디자인부문장은 “세계적 디자인 어워드 수상으로 제품 디자인 우수성과 기능성을 국제적으로 인정 받았다”며 “더욱 편리한 생활환경을 제공하기 위해 시대에 맞는 제품 디자인을 선보일 수 있게 노력하겠다”고 했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘임영웅 정수기’ 디자인 세계정복",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

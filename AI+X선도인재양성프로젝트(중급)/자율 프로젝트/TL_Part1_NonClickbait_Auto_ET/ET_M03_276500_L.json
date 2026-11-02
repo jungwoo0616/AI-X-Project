@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276500",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이효리, 이상순에 \\\"재혼하면 가만두지 않겠어\\\"",
+		"newsSubTitle": "",
+		"newsContent": "이상순과 이효리가 사랑꾼 면모를 보였다.\n23일 방송된 JTBC 예능프로그램 '효리네 민박'에서는 민박집 오픈 넷째 날을 맞은 이효리·이상순 부부의 모습이 그려졌다.\n이날 이효리는 민박객 중 삼남매가 고백한 이야기를 떠올렸다.\n삼남매의 첫째는 \\\"(어머니가)급성 위암으로 갑자기 돌아가셨다. 그때 하민이가 다섯 살, 둘째 예원이가 초등학생 이었으니까\\\"라고 힘들었던 시절을 떠올렸다.\n이효리는 이상순에게 자신이 죽으면 어떻게 할 것인지 물었다.\n이에 이상순은 이효리가 죽으면 자신도 죽을 것이라고 말했다.\n이효리는 \\\"재혼하면 가만두지 않겠어\\\"라고 질투를 보이기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이상순과 이효리가 사랑꾼 면모를 보였다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 방송된 JTBC 예능프로그램 '효리네 민박'에서는 민박집 오픈 넷째 날을 맞은 이효리·이상순 부부의 모습이 그려졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이효리는 민박객 중 삼남매가 고백한 이야기를 떠올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼남매의 첫째는 \\\"(어머니가)급성 위암으로 갑자기 돌아가셨다. 그때 하민이가 다섯 살, 둘째 예원이가 초등학생 이었으니까\\\"라고 힘들었던 시절을 떠올렸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이효리는 이상순에게 자신이 죽으면 어떻게 할 것인지 물었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 이상순은 이효리가 죽으면 자신도 죽을 것이라고 말했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이효리는 \\\"재혼하면 가만두지 않겠어\\\"라고 질투를 보이기도 했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이효리, 이상순에 \\\"재혼하면 가만두지 않겠어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

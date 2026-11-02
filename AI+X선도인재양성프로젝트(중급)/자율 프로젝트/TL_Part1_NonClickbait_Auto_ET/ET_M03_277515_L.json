@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277515",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "소속사가 너무 공평해서 화난 아이돌 반응",
+		"newsSubTitle": "",
+		"newsContent": "온라인 커뮤니티서 \\\"소속사가 너무 공평해서 소속 아이돌이 화남\\\"이란 글이 네티즌들의 이목을 끌고 있다.\n지난 14일 블락비 공식 트위터는 \\\"#박경 MINI LIVE 'Duet'\\\"라는 제목과 함께 \\\"박경 앨범을 구매하신 분들 중 300명 추첨\\\"이란 글을 남겼다.\n이에 블락비의 멤버 재효가 \\\"저도 앨범 사야지 갈 수 있나요...?\\\"라고 질문했다.\n그러자 블락비 공식 트위터는 \\\"네~당연하지요^^\\\"라고 단호한 태도의 답변을 남겼다.\n블락비 공식 트위터의 단호한 대답에 재효는 \\\"장난? 너 누구니? 혼구녕 나볼래?\\\"라는 답글을 남겨 네티즌들을 폭소케 했다.\n네티즌들은 \\\"재효, 왜 이리 귀엽니\\\" \\\"블락비 영원하세요\\\"라며 긍정적인 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "온라인 커뮤니티서 \\\"소속사가 너무 공평해서 소속 아이돌이 화남\\\"이란 글이 네티즌들의 이목을 끌고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 14일 블락비 공식 트위터는 \\\"#박경 MINI LIVE 'Duet'\\\"라는 제목과 함께 \\\"박경 앨범을 구매하신 분들 중 300명 추첨\\\"이란 글을 남겼다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 블락비의 멤버 재효가 \\\"저도 앨범 사야지 갈 수 있나요...?\\\"라고 질문했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 블락비 공식 트위터는 \\\"네~당연하지요^^\\\"라고 단호한 태도의 답변을 남겼다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "블락비 공식 트위터의 단호한 대답에 재효는 \\\"장난? 너 누구니? 혼구녕 나볼래?\\\"라는 답글을 남겨 네티즌들을 폭소케 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 \\\"재효, 왜 이리 귀엽니\\\" \\\"블락비 영원하세요\\\"라며 긍정적인 반응을 보였다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소속사가 너무 공평해서 화난 아이돌 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

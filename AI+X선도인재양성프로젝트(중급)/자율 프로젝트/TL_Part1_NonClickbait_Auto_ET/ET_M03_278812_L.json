@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278812",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "혜리, 물에 젖은 헤어 섹시해 \\\"탄탄한 복근까지\\\"",
+		"newsSubTitle": "",
+		"newsContent": "걸스데이 혜리가 완벽한 몸매를 뽐냈다.\n혜리는 최근 패션지 퍼스트룩 3월호 화보 촬영을 진행했다.\n드라마 ‘응답하라 1988’에서 귀여운 매력을 선보였던 덕선은 없었다.\n파격적인 스포티룩을 과감하게 소화한 혜리는 반전 매력을 선보였다.\n군살 없는 8등신 각선미에 탄탄한 복근을 과시했다.\n강렬한 눈빛으로 카메라를 응시하는 카리스마도 드러냈다.\n여기에 물에 젖은 듯한 촉촉한 헤어는 섹시미를 더했다.\n화보 관계자는 “음악을 들으며 자유자재로 몸을 움직이며 매혹적인 포즈를 선사했다”며 “혜리의 작은 얼굴과 긴 팔다리의 완벽한 조화를 이뤘다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸스데이 혜리가 완벽한 몸매를 뽐냈다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "혜리는 최근 패션지 퍼스트룩 3월호 화보 촬영을 진행했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "드라마 ‘응답하라 1988’에서 귀여운 매력을 선보였던 덕선은 없었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파격적인 스포티룩을 과감하게 소화한 혜리는 반전 매력을 선보였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "군살 없는 8등신 각선미에 탄탄한 복근을 과시했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강렬한 눈빛으로 카메라를 응시하는 카리스마도 드러냈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 물에 젖은 듯한 촉촉한 헤어는 섹시미를 더했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "화보 관계자는 “음악을 들으며 자유자재로 몸을 움직이며 매혹적인 포즈를 선사했다”며 “혜리의 작은 얼굴과 긴 팔다리의 완벽한 조화를 이뤘다”고 전했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "혜리, 물에 젖은 헤어 섹시해 \\\"탄탄한 복근까지\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

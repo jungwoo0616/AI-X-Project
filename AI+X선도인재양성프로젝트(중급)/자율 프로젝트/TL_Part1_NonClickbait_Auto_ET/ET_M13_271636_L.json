@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271636",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "홍성흔, 심각한 게임 중독 진단(살림남2)",
+		"newsSubTitle": "",
+		"newsContent": "홍성흔이 게임 중독 검사에서 심각한 결과를 받았다.\n28일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 게임 중독 문제로 고민하는 홍성흔, 김정임 부부의 이야기가 그려진다.\n홍성흔은 여느 때처럼 딸 화리의 방문 앞에 있는 컴퓨터 책상에 앉아 게임 삼매경에 빠졌다.\n시끄러운 소리 때문에 공부에 방해를 받은 화리가 “몇 살이야, 게임 좀 그만해!”라고 언성을 높이자, 홍성흔은 “취미인데 그것도 이해 못 해주냐”며 맞섰고, 결국 부녀 갈등에 또다시 불이 붙었다.\n사실 이들 부녀는 홍성흔의 게임 문제로 꾸준히 갈등을 빚어왔었다.\n게임에 지나치게 집착하는 홍성흔의 태도에 심각성을 느낀 김정임은 게임 중독 검사를 권했다.\n결국 관련 기관을 찾아 검사를 받은 홍성흔은 치료가 필요할 정도로 심각한 상태라는 진단을 받고 큰 충격에 빠졌다.\n한편, 김정임은 홍성흔이 게임에 빠진 이유를 털어놓으며 눈물을 쏟았다고 해 도대체 홍성흔에게 어떤 사연이 있는 것인지 궁금증이 모아진다.\n홍성흔이 게임 중독에 빠진 이유는 28일(토) 밤 9시 20분 KBS2 ‘살림남2’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "홍성흔이 게임 중독 검사에서 심각한 결과를 받았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 게임 중독 문제로 고민하는 홍성흔, 김정임 부부의 이야기가 그려진다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍성흔은 여느 때처럼 딸 화리의 방문 앞에 있는 컴퓨터 책상에 앉아 게임 삼매경에 빠졌다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시끄러운 소리 때문에 공부에 방해를 받은 화리가 “몇 살이야, 게임 좀 그만해!”라고 언성을 높이자, 홍성흔은 “취미인데 그것도 이해 못 해주냐”며 맞섰고, 결국 부녀 갈등에 또다시 불이 붙었다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사실 이들 부녀는 홍성흔의 게임 문제로 꾸준히 갈등을 빚어왔었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "게임에 지나치게 집착하는 홍성흔의 태도에 심각성을 느낀 김정임은 게임 중독 검사를 권했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결국 관련 기관을 찾아 검사를 받은 홍성흔은 치료가 필요할 정도로 심각한 상태라는 진단을 받고 큰 충격에 빠졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 김정임은 홍성흔이 게임에 빠진 이유를 털어놓으며 눈물을 쏟았다고 해 도대체 홍성흔에게 어떤 사연이 있는 것인지 궁금증이 모아진다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "홍성흔이 게임 중독에 빠진 이유는 28일(토) 밤 9시 20분 KBS2 ‘살림남2’에서 확인할 수 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍성흔, 심각한 게임 중독 진단(살림남2)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

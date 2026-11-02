@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278033",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마일리 사이러스, 리암 헴스워스 향한 4차원 사랑법",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 스타 마일리 사이러스가 약혼자 리암 헴스워스를 위한 타투를 새겼다.\n지난 10일(현지시간 기준) 미국 연예 매체 US 위클리는 \\\"마일리 사이러스가 지난 주에 약혼자 리암 헴스워스를 위해 베지마이트 타투를 했다\\\"라고 보도했다.\n보도에 따르면 마일리 사이러스는 호주 출신인 리암 헴스워스가 좋아하는 호주 전통 스프레드 베지마이트 타투를 새긴 것. 마일리 사이러스는 할리우드 4차원 스타답게 특이한 방식으로 리암 헴스워스를 향한 사랑을 표현해 눈길을 끌고 있다.\n특히 마일리 사이러스의 왼쪽 팔 뒤에 새긴 베지마이트 타투는 타투리스트의 인스타그램에 깜짝 공개돼 팬들의 이목을 더욱 집중시키고 있다.\n한편, 마일리 사이러스-리암 헴스워스 커플은 임신 소식을 알려 화제를 모은 바 있다.\n온라인 중앙일보 [사진 dr.woo 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 스타 마일리 사이러스가 약혼자 리암 헴스워스를 위한 타투를 새겼다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 10일(현지시간 기준) 미국 연예 매체 US 위클리는 \\\"마일리 사이러스가 지난 주에 약혼자 리암 헴스워스를 위해 베지마이트 타투를 했다\\\"라고 보도했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 마일리 사이러스는 호주 출신인 리암 헴스워스가 좋아하는 호주 전통 스프레드 베지마이트 타투를 새긴 것. 마일리 사이러스는 할리우드 4차원 스타답게 특이한 방식으로 리암 헴스워스를 향한 사랑을 표현해 눈길을 끌고 있다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 마일리 사이러스의 왼쪽 팔 뒤에 새긴 베지마이트 타투는 타투리스트의 인스타그램에 깜짝 공개돼 팬들의 이목을 더욱 집중시키고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 마일리 사이러스-리암 헴스워스 커플은 임신 소식을 알려 화제를 모은 바 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 dr.woo 인스타그램]",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마일리 사이러스, 리암 헴스워스 향한 4차원 사랑법",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

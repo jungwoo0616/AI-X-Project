@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264700",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘사운드트랙#1’ 한소희 “우정 vs 사랑? 사랑 택할 것”",
+		"newsSubTitle": "",
+		"newsContent": "배우 한소희가 사랑과 우정 사이 사랑을 택하겠다고 밝혔다.\n한소희는 23일 오전 온라인생중계된 OTT플랫폼 디즈니+ ‘사운드트랙 #1’ 제작발표회에서 “사랑과 우정 중에 선택해야하는 상황이 온다면, 난 사랑이다”고 말했다.\n그는 작사가 은수 역을 맡았다며 “‘은수’는 짝사랑이 상처 받으면서까지 저 사람을 사랑하는 마음이 미련하다고 생각하는 캐릭터”라고 소개했다.\n이어 “나도 짝사랑의 감정을 알지만 은수처럼 생각할 수도 있겠다고 생각했다”고 말했다.\n또한 짝사랑을 인스턴트 식품에 비유하며 “몸에 안 좋은 걸 알면서도 어쩔 수 없이 계속하게 되는 게 짝사랑이 아닐까 싶다”고 설명했다. ‘사운드트랙 #1’은 20년 지기 절친인 두 남녀가 2주 동안 한 집에 머물게 되면서 서로의 마음을 알아가는 뮤직 로맨스다.\n이날 오후 4시 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한소희가 사랑과 우정 사이 사랑을 택하겠다고 밝혔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한소희는 23일 오전 온라인생중계된 OTT플랫폼 디즈니+ ‘사운드트랙 #1’ 제작발표회에서 “사랑과 우정 중에 선택해야하는 상황이 온다면, 난 사랑이다”고 말했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 작사가 은수 역을 맡았다며 “‘은수’는 짝사랑이 상처 받으면서까지 저 사람을 사랑하는 마음이 미련하다고 생각하는 캐릭터”라고 소개했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “나도 짝사랑의 감정을 알지만 은수처럼 생각할 수도 있겠다고 생각했다”고 말했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 짝사랑을 인스턴트 식품에 비유하며 “몸에 안 좋은 걸 알면서도 어쩔 수 없이 계속하게 되는 게 짝사랑이 아닐까 싶다”고 설명했다. ‘사운드트랙 #1’은 20년 지기 절친인 두 남녀가 2주 동안 한 집에 머물게 되면서 서로의 마음을 알아가는 뮤직 로맨스다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 오후 4시 공개된다.",
+				"sentenceSize": 14
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘사운드트랙#1’ 한소희 “우정 vs 사랑? 사랑 택할 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

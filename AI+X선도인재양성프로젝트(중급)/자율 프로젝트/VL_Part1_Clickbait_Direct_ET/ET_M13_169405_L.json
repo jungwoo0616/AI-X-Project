@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169405",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘감정장인’ 잔나비, 이번엔 여성뮤지션과 호흡",
+    "newsSubTitle": "",
+    "newsContent": "밴드 잔나비가 새로운 뮤직 프로젝트로 돌아온다.\n잔나비 소속사 페포니뮤직은 잔나비 보컬 최정훈이 오는 18일 ‘투트랙 프로젝트’ 두 번째 음원 ‘사랑을 사랑하게 될 때까지’를 발매한다고 13일 밝혔다. ‘투트랙 프로젝트’는 싱어송라이터이자 작사가 조동희와 작곡가 조동익이 공동 프러듀싱을 맡은 기획이다.\n하나의 노래를 두 명 남녀 뮤지션이 각각 버전으로 선보이는 신규 음악 프로젝트다.\n최정훈이 먼저 합류를 알렸으나 그와 함께 같은 노래를 부를 여성 뮤지션은 아직 알려지지 않았다.\n두번째 음원 ‘사랑을 사랑하게 될 때까지’는 절제된 어쿠스틱 멜로이와 일렉트로닉 사운드의 조화가 어우러진 곡이다.\n최정훈이 음색을 더해 듣는 이들의 마음을 채울 예정이다.\n소속사는 “감정 장인 잔나비가 이번에는 어떤 감성으로 ‘사랑을 사랑하게 될 때까지’ 이야기를 펼쳐 보일지 관심이 집중된다”며 “세부 일정은 뮤직카우 사이트 및 모바일 앱에서 공개된다”고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "밴드 잔나비가 새로운 뮤직 프로젝트로 돌아온다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "잔나비 소속사 페포니뮤직은 잔나비 보컬 최정훈이 오는 18일 ‘투트랙 프로젝트’ 두 번째 음원 ‘사랑을 사랑하게 될 때까지’를 발매한다고 13일 밝혔다. ‘투트랙 프로젝트’는 싱어송라이터이자 작사가 조동희와 작곡가 조동익이 공동 프러듀싱을 맡은 기획이다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하나의 노래를 두 명 남녀 뮤지션이 각각 버전으로 선보이는 신규 음악 프로젝트다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최정훈이 먼저 합류를 알렸으나 그와 함께 같은 노래를 부를 여성 뮤지션은 아직 알려지지 않았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두번째 음원 ‘사랑을 사랑하게 될 때까지’는 절제된 어쿠스틱 멜로이와 일렉트로닉 사운드의 조화가 어우러진 곡이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최정훈이 음색을 더해 듣는 이들의 마음을 채울 예정이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속사는 “감정 장인 잔나비가 이번에는 어떤 감성으로 ‘사랑을 사랑하게 될 때까지’ 이야기를 펼쳐 보일지 관심이 집중된다”며 “세부 일정은 뮤직카우 사이트 및 모바일 앱에서 공개된다”고 전했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "잔나비, ‘투트랙 프로젝트’로 돌아와... 여성 뮤지션과 호흡에 전세계 팬들 기대감 폭발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

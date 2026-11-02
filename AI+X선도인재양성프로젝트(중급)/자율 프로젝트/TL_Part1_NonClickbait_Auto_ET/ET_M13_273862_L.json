@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273862",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "“영화 속 비행기는 내 것” 톰 크루즈, ‘탑건: 매버릭’ 뒷이야기 공개",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘탑건: 매버릭’ 주연 배우 톰 크루즈가 극 중 나오는 비행기가 자신의 것이라고 밝혔다.\n톰 크루즈는 23일 오후 11시 방송되는 KBS 2TV 연예 정보 프로그램 ‘연중라이브’에 출연한다.\n이날 톰 크루즈는 ‘탑건: 매버릭’의 뒷이야기를 밝힌다.\n그는 “이 영화에서 출연하는 비행기는 사실 내 것이다”라고 말해 놀라움을 자아낼 예정이다.\n또한 “프리미어 내한 행사에 온 모든 분이 기억에 남는다”고 말하며 한국 팬들에게 애정을 표현한다. ‘탑건: 매버릭’은 36년 만에 공개된 영화 ‘탑건’의 후속작이다.\n최고의 파일럿으로 평가받는 매버릭(톰 크루즈 분)이 자신이 졸업한 파일럿 훈련 학교의 교관으로 발탁되며 겪는 이야기를 그린 작품이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘탑건: 매버릭’ 주연 배우 톰 크루즈가 극 중 나오는 비행기가 자신의 것이라고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "톰 크루즈는 23일 오후 11시 방송되는 KBS 2TV 연예 정보 프로그램 ‘연중라이브’에 출연한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 톰 크루즈는 ‘탑건: 매버릭’의 뒷이야기를 밝힌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “이 영화에서 출연하는 비행기는 사실 내 것이다”라고 말해 놀라움을 자아낼 예정이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 “프리미어 내한 행사에 온 모든 분이 기억에 남는다”고 말하며 한국 팬들에게 애정을 표현한다. ‘탑건: 매버릭’은 36년 만에 공개된 영화 ‘탑건’의 후속작이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최고의 파일럿으로 평가받는 매버릭(톰 크루즈 분)이 자신이 졸업한 파일럿 훈련 학교의 교관으로 발탁되며 겪는 이야기를 그린 작품이다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“영화 속 비행기는 내 것” 톰 크루즈, ‘탑건: 매버릭’ 뒷이야기 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

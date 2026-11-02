@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169041",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김동욱 새 프로필 ‘청량X카리스마’",
+    "newsSubTitle": "",
+    "newsContent": "배우 김동욱이 새 프로필 사진을 공개됐다.\n키이스트는 23일 공식 SNS를 통해 김동욱의 새로운 프로필 컷을 여러 장 공개했다.\n공개된 사진 속 김동욱은 내추럴한 스타일링과 함께 청량함과 부드러운 카리스마를 오가는 분위기로 이목을 집중시켰다.\n설렘을 유발하는 달콤한 미소의 사진부터 ‘믿고 보는 배우’의 포스가 풍기는 흑백 사진까지 상반된 매력이 돋보인다.\n이목구비가 더욱 선명하게 드러나는 흑백 사진은 한결 여유로워진 그의 깊은 눈빛과 카리스마가 시선을 끈다.\n새 프로필 사진을 공개한 김동욱은 현재 tvN 월화드라마 ‘너는 나의 봄’에서 정신과 의사 주영도 역을 맡아 힐링 로맨스로 시청자들과 만나고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김동욱이 새 프로필 사진을 공개됐다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "키이스트는 23일 공식 SNS를 통해 김동욱의 새로운 프로필 컷을 여러 장 공개했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 김동욱은 내추럴한 스타일링과 함께 청량함과 부드러운 카리스마를 오가는 분위기로 이목을 집중시켰다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "설렘을 유발하는 달콤한 미소의 사진부터 ‘믿고 보는 배우’의 포스가 풍기는 흑백 사진까지 상반된 매력이 돋보인다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이목구비가 더욱 선명하게 드러나는 흑백 사진은 한결 여유로워진 그의 깊은 눈빛과 카리스마가 시선을 끈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "새 프로필 사진을 공개한 김동욱은 현재 tvN 월화드라마 ‘너는 나의 봄’에서 정신과 의사 주영도 역을 맡아 힐링 로맨스로 시청자들과 만나고 있다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 사진에 여러 가지 모습이... 매력 넘치는 배우 김동욱, 새 프로필 사진 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

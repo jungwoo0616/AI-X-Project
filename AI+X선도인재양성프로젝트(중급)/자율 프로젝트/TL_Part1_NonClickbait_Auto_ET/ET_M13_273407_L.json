@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273407",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "하이브 세무조사 받는다…악재 이은 악재",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 소속사 하이브가 회사 설립 후 처음으로 국세청 세무조사를 받는다.\n머니투데이에 따르면 서울지방국세청은 서울 용산구 소재 하이브 사옥에서 조사관을 보내 회계장부 일체를 확보했다.\n이번 조사는 하이브 설립 후 처음으로 받는 세무조사로 주로 연예기획사 세무조사를 맡는 서울청조사 1국이 파견됐다.\n국세청은 이번 세무조사에서 하이브의 사업확장과 해외 자회사 설립 등 사업 전반에 대한 사안을 검토할 것으로 예상되고 있다.\n하이브는 방탄소년단의 팀 활동 중단 선언으로 인해 주가 폭락 사태를 맞이했다.\n주요 증권사 또한 하이브의 목표 주가를 하향 조정하면서 방탄소년단 팀 활동에 따른 타격을 제시했다.\n일각에서는 방탄소년단이 윤석열 대통령 취임식에 참석하지 않은 것이 이번 세무조사의 빌미가 된 것이 아니냐는 해석도 나오고 있다.\n앞서 대통령취임준비위원은 방탄소년단의 취임식 공연을 논의했으나 예상 등의 문제로 방탄소년단을 초청하지 않기로 결정했다.\n대통령직인수위원회가 하이브를 방문해 방탄소년단 군 면제를 언급하기도 했으나 여론의 반발에 부딪혀 현재 논의가 재차 중단된 상태다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 소속사 하이브가 회사 설립 후 처음으로 국세청 세무조사를 받는다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머니투데이에 따르면 서울지방국세청은 서울 용산구 소재 하이브 사옥에서 조사관을 보내 회계장부 일체를 확보했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 조사는 하이브 설립 후 처음으로 받는 세무조사로 주로 연예기획사 세무조사를 맡는 서울청조사 1국이 파견됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국세청은 이번 세무조사에서 하이브의 사업확장과 해외 자회사 설립 등 사업 전반에 대한 사안을 검토할 것으로 예상되고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하이브는 방탄소년단의 팀 활동 중단 선언으로 인해 주가 폭락 사태를 맞이했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주요 증권사 또한 하이브의 목표 주가를 하향 조정하면서 방탄소년단 팀 활동에 따른 타격을 제시했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일각에서는 방탄소년단이 윤석열 대통령 취임식에 참석하지 않은 것이 이번 세무조사의 빌미가 된 것이 아니냐는 해석도 나오고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 대통령취임준비위원은 방탄소년단의 취임식 공연을 논의했으나 예상 등의 문제로 방탄소년단을 초청하지 않기로 결정했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대통령직인수위원회가 하이브를 방문해 방탄소년단 군 면제를 언급하기도 했으나 여론의 반발에 부딪혀 현재 논의가 재차 중단된 상태다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하이브 세무조사 받는다…악재 이은 악재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

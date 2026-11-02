@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285178",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'스타골든벨' 소녀 리아 섹시화보…\\\"어렸을 때부터 색기있다는 소리 들어\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'스타골든벨' 소녀 리아 섹시화보…\\\"어렸을 때부터 색기있다는 소리 들어\\\" SNL 코리아에서 앵커로 활약 중인 방송인 리아가 화보에서 섹시한 매력을 뽐냈다.\n리아는 지난 24일 공개된 남성지 맥심의 화보에서 자신의 섹시함을 과감히 드러냈다.\n과거 (스타골든벨)에서 영어로 퀴즈를 내며 환하게 웃는 꼬마의 모습은 찾아볼 수 없었다.\n리아는 홀릴 듯한 눈빛과 늘씬한 각선미를 자랑했다.\n리아는 섹시하다는 칭찬에 “많이 듣던 이야기”라고 답했다.\n그는 “어렸을 때부터 눈빛이 예사롭지 않다는 말을 많이 들었다”며 “색기가 있다는 말이었던 것 같다”고 말해 눈길을 끌었다.\n그는 이상형을 묻는 질문에 “한 번 더 생각하게 만드는 남자”를 꼽으며, 재미있고 독특한 남자를 볼 때 그런 생각이 든다고 했다.\n리아는 “그런 남자는 꼭 나쁜 남자더라”라는 말을 덧붙였다.\n리아는 화보를 통해 로맨틱하면서도 도도한 모습을 보였다.\n프로 모델 뺨치는 능숙함으로 파격적인 포즈와 다양한 표정을 구사하면서 촬영장에 준비된 음악에 맞춰 춤을 추거나 노래를 따라 부르는 등 촬영을 즐기는 모습을 보였다는 후문이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'스타골든벨' 소녀 리아 섹시화보…\\\"어렸을 때부터 색기있다는 소리 들어\\\" SNL 코리아에서 앵커로 활약 중인 방송인 리아가 화보에서 섹시한 매력을 뽐냈다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "리아는 지난 24일 공개된 남성지 맥심의 화보에서 자신의 섹시함을 과감히 드러냈다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과거 (스타골든벨)에서 영어로 퀴즈를 내며 환하게 웃는 꼬마의 모습은 찾아볼 수 없었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리아는 홀릴 듯한 눈빛과 늘씬한 각선미를 자랑했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리아는 섹시하다는 칭찬에 “많이 듣던 이야기”라고 답했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “어렸을 때부터 눈빛이 예사롭지 않다는 말을 많이 들었다”며 “색기가 있다는 말이었던 것 같다”고 말해 눈길을 끌었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 이상형을 묻는 질문에 “한 번 더 생각하게 만드는 남자”를 꼽으며, 재미있고 독특한 남자를 볼 때 그런 생각이 든다고 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "리아는 “그런 남자는 꼭 나쁜 남자더라”라는 말을 덧붙였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "리아는 화보를 통해 로맨틱하면서도 도도한 모습을 보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "프로 모델 뺨치는 능숙함으로 파격적인 포즈와 다양한 표정을 구사하면서 촬영장에 준비된 음악에 맞춰 춤을 추거나 노래를 따라 부르는 등 촬영을 즐기는 모습을 보였다는 후문이다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'스타골든벨' 소녀 리아 섹시화보…\\\"어렸을 때부터 색기있다는 소리 들어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

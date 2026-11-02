@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275480",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "함소원, 돌아갈 수 없는 20대 시절 공개",
+		"newsSubTitle": "",
+		"newsContent": "방송인 함소원이 20대 시절을 공개했다.\n함소원은 14일 자신의 사회관계망서비스(SNS)에 20대 시절 활동했던 사진을 게재했다.\n지금과 비교했을 때 아주 큰 변화는 없는 사진이었다.\n함소원은 “그럼요. 20대로 돌아갈 수 없지요”라며 흐르는 세월을 아쉬워했다.\n한편 함소원은 지난 2018년 18세 연하 중국인 남편 진화와 결혼해 슬하에 딸 하나를 두고 있다.\n두 사람은 부부 동반 예능에 출연하는 등 활발한 활동을 했지만, 거짓말 논란을 비롯해 여러 논란으로 인해 출연하던 방송을 모두 하차했다.\n함소원은 현재 중국 위주로 활동하는 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 함소원이 20대 시절을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "함소원은 14일 자신의 사회관계망서비스(SNS)에 20대 시절 활동했던 사진을 게재했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지금과 비교했을 때 아주 큰 변화는 없는 사진이었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "함소원은 “그럼요. 20대로 돌아갈 수 없지요”라며 흐르는 세월을 아쉬워했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 함소원은 지난 2018년 18세 연하 중국인 남편 진화와 결혼해 슬하에 딸 하나를 두고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 부부 동반 예능에 출연하는 등 활발한 활동을 했지만, 거짓말 논란을 비롯해 여러 논란으로 인해 출연하던 방송을 모두 하차했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "함소원은 현재 중국 위주로 활동하는 중이다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "함소원, 돌아갈 수 없는 20대 시절 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

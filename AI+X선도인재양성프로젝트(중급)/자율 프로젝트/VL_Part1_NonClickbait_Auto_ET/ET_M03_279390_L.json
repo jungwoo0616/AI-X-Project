@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279390",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'어남택 박보검' 응답하라 1988, 역대 케이블 최고 시청률 \\\"새로운 역사\\\"",
+		"newsSubTitle": "",
+		"newsContent": "슈퍼스타 K2 앞질렀다…15일 순간 최고 21.7% tvN '응답하라 1988'이 방송 역사를 새로 썼다.\ntvN은 오늘(16일) “15일 밤 방송된 '응답하라 1988'(이하 응팔)의 19화가 시청률 18.6%(이하 닐슨코리아), 순간 최고 시청률 21.7%를 기록했다”고 밝혔다.\n이는 역대 케이블 프로그램 최고 시청률 이며, 종전 최고 기록이던 슈퍼스타K2'(2010년 10월22일) 마지막회의 평균 시청률 18.1%를 0.5%포인트 앞지른 성적이다. 당시 엠넷과 KMTV에 동시 중계했던 '슈퍼스타K2'는 엠넷 18.0%, KMTV 0.1%를 기록해 합계 시청률 18.1%로 집계됐다.\n순간 최고 시청률은 21.2%로 기록됐다.\n덕선(혜리 분)의 남편이 택이(박보검)으로 밝혀져 기대치가 높아지는 가운데 오늘(16일)방송될 마지막 회에서 응팔이 또 어떠한 역사를 기록할지 주목된다.\n온라인중앙일보 응답하라 1988 마지막회 응답하라 1988 마지막회",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "슈퍼스타 K2 앞질렀다…15일 순간 최고 21.7% tvN '응답하라 1988'이 방송 역사를 새로 썼다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "tvN은 오늘(16일) “15일 밤 방송된 '응답하라 1988'(이하 응팔)의 19화가 시청률 18.6%(이하 닐슨코리아), 순간 최고 시청률 21.7%를 기록했다”고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 역대 케이블 프로그램 최고 시청률 이며, 종전 최고 기록이던 슈퍼스타K2'(2010년 10월22일) 마지막회의 평균 시청률 18.1%를 0.5%포인트 앞지른 성적이다. 당시 엠넷과 KMTV에 동시 중계했던 '슈퍼스타K2'는 엠넷 18.0%, KMTV 0.1%를 기록해 합계 시청률 18.1%로 집계됐다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "순간 최고 시청률은 21.2%로 기록됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "덕선(혜리 분)의 남편이 택이(박보검)으로 밝혀져 기대치가 높아지는 가운데 오늘(16일)방송될 마지막 회에서 응팔이 또 어떠한 역사를 기록할지 주목된다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인중앙일보 응답하라 1988 마지막회 응답하라 1988 마지막회",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'어남택 박보검' 응답하라 1988, 역대 케이블 최고 시청률 \\\"새로운 역사\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

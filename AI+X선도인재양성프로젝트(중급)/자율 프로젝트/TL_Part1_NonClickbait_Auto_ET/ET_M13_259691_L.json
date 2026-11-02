@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259691",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "쉬고있는 방탄소년단, 3월 서울콘서트로 복귀할까",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단이 설 연휴에도 조용한 휴식기를 보낼 전망이다.\n방탄소년단 일곱 멤버들은 지난달 미국 로스앤젤레스 콘서트를 마치고 두 번째 장기휴가를 즐기고 있는 것으로 전해졌다.\n멤버들은 각각 휴가를 즐기고 있는 자신의 모습을 팬들에게 공유해오고 있다.\n방탄소년단 멤버들은 오는 3월에 진행되는 서울 콘서트까지 장기휴가를 보낼 것으로 관측되고 있다.\n방탄소년단의 3월 콘서트는 변동 사항 없이 예정대로 준비 중인 것으로 알려졌다.\n코로나19 오미크론 확산세의 변수가 있지만, 예정된 콘서트가 개최될 가능성이 현재로서는 높다.\n방탄소년단을 국내에서 보고 싶어 하는 ‘아미’(팬덤 명칭)의 열망도 여느 때보다 뜨거운 상황이다.\n방탄소년단 소속사 빅히트뮤직은 지난달 6일 “방탄소년단의 이번 장기휴가는 쉼 없이 활동해 온 방탄소년단이 아티스트로서, 창작자로서 새로운 영감과 에너지를 채울 수 있는 재충전의 시간이 될 것”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단이 설 연휴에도 조용한 휴식기를 보낼 전망이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단 일곱 멤버들은 지난달 미국 로스앤젤레스 콘서트를 마치고 두 번째 장기휴가를 즐기고 있는 것으로 전해졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "멤버들은 각각 휴가를 즐기고 있는 자신의 모습을 팬들에게 공유해오고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방탄소년단 멤버들은 오는 3월에 진행되는 서울 콘서트까지 장기휴가를 보낼 것으로 관측되고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단의 3월 콘서트는 변동 사항 없이 예정대로 준비 중인 것으로 알려졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코로나19 오미크론 확산세의 변수가 있지만, 예정된 콘서트가 개최될 가능성이 현재로서는 높다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방탄소년단을 국내에서 보고 싶어 하는 ‘아미’(팬덤 명칭)의 열망도 여느 때보다 뜨거운 상황이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방탄소년단 소속사 빅히트뮤직은 지난달 6일 “방탄소년단의 이번 장기휴가는 쉼 없이 활동해 온 방탄소년단이 아티스트로서, 창작자로서 새로운 영감과 에너지를 채울 수 있는 재충전의 시간이 될 것”이라고 했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쉬고있는 방탄소년단, 3월 서울콘서트로 복귀할까",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

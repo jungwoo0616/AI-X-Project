@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276136",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'사생활 논란' 강타, SM타운 日공연 불참 \\\"컨디션 난조\\\"",
+		"newsSubTitle": "",
+		"newsContent": "사생활로 논란에 휩싸인 그룹 H.O.T 강타(40)가 SM타운 일본 콘서트에 불참한다.\n강타는 3일부터 5일까지 도쿄돔에서 열리는 SM 콘서트 'SM타운 인 재팬 2019'에서 공연할 예정이었다.\n강타의 소속사 SM엔터테인먼트는 이날 공식 홈페이지를 통해 \\\"강타가 컨디션 난조로 'SM타운 도쿄 콘서트'에 출연하지 못하게 됐다\\\"고 밝혔다.\n이어 \\\"강타가 무대에 오르기 위해 노력했으나 결국 어렵다고 판단했다\\\"며 \\\"공연 직전 이같은 소식을 전하게 돼 죄송하다\\\"고 전했다.\n강타는 최근 레이싱모델 우주안, 배우 정유미와 열애설에 휩싸였으나 이를 부인하거나 관계를 정리했다고 해명했다.\n이어 오정연 전 KBS 아나운서가 강타와 교제했을 당시 그가 바람을 피웠다고 SNS에 폭로해 또다시 도마 위에 올랐다.\n강타는 현재 SNS를 비공개로 전환한 상태며 어떠한 입장도 내놓지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사생활로 논란에 휩싸인 그룹 H.O.T 강타(40)가 SM타운 일본 콘서트에 불참한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강타는 3일부터 5일까지 도쿄돔에서 열리는 SM 콘서트 'SM타운 인 재팬 2019'에서 공연할 예정이었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강타의 소속사 SM엔터테인먼트는 이날 공식 홈페이지를 통해 \\\"강타가 컨디션 난조로 'SM타운 도쿄 콘서트'에 출연하지 못하게 됐다\\\"고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"강타가 무대에 오르기 위해 노력했으나 결국 어렵다고 판단했다\\\"며 \\\"공연 직전 이같은 소식을 전하게 돼 죄송하다\\\"고 전했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강타는 최근 레이싱모델 우주안, 배우 정유미와 열애설에 휩싸였으나 이를 부인하거나 관계를 정리했다고 해명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 오정연 전 KBS 아나운서가 강타와 교제했을 당시 그가 바람을 피웠다고 SNS에 폭로해 또다시 도마 위에 올랐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강타는 현재 SNS를 비공개로 전환한 상태며 어떠한 입장도 내놓지 않고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사생활 논란' 강타, SM타운 日공연 불참 \\\"컨디션 난조\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

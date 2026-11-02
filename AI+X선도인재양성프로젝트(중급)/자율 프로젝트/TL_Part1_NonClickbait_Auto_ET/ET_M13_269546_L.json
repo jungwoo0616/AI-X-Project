@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269546",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘박군♥’ 한영 “내 방송 보고 울긴 처음” 무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "가수 한영이 남편 박군에 대한 애정을 보였다.\n한영은 8일 자신의 사회관계망서비스(SNS) 인스타그램에 “내가 나온 방송보고 울긴 처음”이라며 SBS 예능프로그램 ‘미운 우리 새끼(이하 미우새)’의 방송 화면을 찍어 올렸다.\n한영은 이어 #저 #지영이맞아요 #넘감동이자나 #멋진프로포즈 #멋진추억 #만들수있게도와주셔서 #감사해요 #이상민 #임원희 #미우새제작진 이라는 해시태그를 달아 신랑 박군 뿐만아니라 ‘미우새’ 제작진과 이상민과 임원희에 대한 고마움을 표현했다.\n이날 방송에서는 한영에게 프로포즈하는 박군의 모습이 공개돼 시청자들의 마음을 훈훈하게 달궜다.\n누리꾼들은 해당 게시물에 “꽃길만 걷길 바라요” “늘 행복하세요” “보면서 같이 울컥했어요ㅠㅠ 넘 감동이예요” 등 긍정적인 반응을 보이며 두 사람을 축하했다.\n가수 한영은 지난 3월 7일 결혼 소식을 직접 알린 뒤 지난달 26일 서울 모처에서 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 한영이 남편 박군에 대한 애정을 보였다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한영은 8일 자신의 사회관계망서비스(SNS) 인스타그램에 “내가 나온 방송보고 울긴 처음”이라며 SBS 예능프로그램 ‘미운 우리 새끼(이하 미우새)’의 방송 화면을 찍어 올렸다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한영은 이어 #저 #지영이맞아요 #넘감동이자나 #멋진프로포즈 #멋진추억 #만들수있게도와주셔서 #감사해요 #이상민 #임원희 #미우새제작진 이라는 해시태그를 달아 신랑 박군 뿐만아니라 ‘미우새’ 제작진과 이상민과 임원희에 대한 고마움을 표현했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 방송에서는 한영에게 프로포즈하는 박군의 모습이 공개돼 시청자들의 마음을 훈훈하게 달궜다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 해당 게시물에 “꽃길만 걷길 바라요” “늘 행복하세요” “보면서 같이 울컥했어요ㅠㅠ 넘 감동이예요” 등 긍정적인 반응을 보이며 두 사람을 축하했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가수 한영은 지난 3월 7일 결혼 소식을 직접 알린 뒤 지난달 26일 서울 모처에서 결혼식을 올렸다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘박군♥’ 한영 “내 방송 보고 울긴 처음” 무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

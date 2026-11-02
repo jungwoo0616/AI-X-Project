@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277566",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "“위안부 문제 떠들면서…” ‘너의 이름은’ 흥행에 日 트위터 망언",
+		"newsSubTitle": "",
+		"newsContent": "신카이 마코토가 감독을 맡은 일본 애니메이션 ‘너의 이름은’이 개봉 후 100만 관객을 돌파하며 인기를 얻고 있는 가운데, 국내 흥행을 위안부 소녀상과 함께 거론한 일본 '넷우익' 트위터의 댓글들이 온라인에서 화제다.\n넷우익은 인터넷에서 활동하며 극우적인 의견을 일삼는 일본 네티즌을 지칭한다.\n이들의 트위터에서는 일본 애니메이션에 열광적인 반응을 보이면서 소녀상을 설치한다며 ‘지조 없는 행동’ ‘이중적인 반일감정’이라며 비꼬고 있다.\n한 트위터 글은 “한국에서 ‘너의 이름은’이 1위가 되는 것과 위안부 동상의 문제가 재현되는 타이밍은 참으로 지금의 한국을 상징하는군”이라고 말했고 “‘하울’ 이후 13년 만에 ‘너의 이름은’이 한국 1위라고 생각하면 소녀상? 참 지조 없는 나라이다”라고 말했다.\n또 “‘너의 이름은’이 1등을 할 정도로 일본영화를 보면서 위안부 문제에는 눈의 색이 변한다. 한국 사람은 모순의 생물이지?” “왜 영화관 앞에 위안부 소녀상을 설치하지 않아? 왜 영화관 앞에서 욱일기를 태우지 않아?”처럼 다소 말이 안 되는 억지주장을 펼치기도 했다.\n이에 대해 국내 누리꾼들은 “1위 한 번 한 것 가지고 호들갑이다” “역시 SNS는 재밌는 존재다” 같은 반응들을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신카이 마코토가 감독을 맡은 일본 애니메이션 ‘너의 이름은’이 개봉 후 100만 관객을 돌파하며 인기를 얻고 있는 가운데, 국내 흥행을 위안부 소녀상과 함께 거론한 일본 '넷우익' 트위터의 댓글들이 온라인에서 화제다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷우익은 인터넷에서 활동하며 극우적인 의견을 일삼는 일본 네티즌을 지칭한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들의 트위터에서는 일본 애니메이션에 열광적인 반응을 보이면서 소녀상을 설치한다며 ‘지조 없는 행동’ ‘이중적인 반일감정’이라며 비꼬고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 트위터 글은 “한국에서 ‘너의 이름은’이 1위가 되는 것과 위안부 동상의 문제가 재현되는 타이밍은 참으로 지금의 한국을 상징하는군”이라고 말했고 “‘하울’ 이후 13년 만에 ‘너의 이름은’이 한국 1위라고 생각하면 소녀상? 참 지조 없는 나라이다”라고 말했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 “‘너의 이름은’이 1등을 할 정도로 일본영화를 보면서 위안부 문제에는 눈의 색이 변한다. 한국 사람은 모순의 생물이지?” “왜 영화관 앞에 위안부 소녀상을 설치하지 않아? 왜 영화관 앞에서 욱일기를 태우지 않아?”처럼 다소 말이 안 되는 억지주장을 펼치기도 했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 대해 국내 누리꾼들은 “1위 한 번 한 것 가지고 호들갑이다” “역시 SNS는 재밌는 존재다” 같은 반응들을 보이고 있다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“위안부 문제 떠들면서…” ‘너의 이름은’ 흥행에 日 트위터 망언",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

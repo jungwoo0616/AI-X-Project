@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278051",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "서우, 큐브 엔터테인먼트와 전속계약…활발한 연기활동 기대",
+		"newsSubTitle": "",
+		"newsContent": "배우 서우가 큐브 엔터테인먼트와 계약했다.\n서우는 최근 큐브 엔터테인먼트와 전속 계약을 체결, 체계적인 매니지먼트 시스템 하에 본격적인 연기 활동을 재개할 계획이다.\n그는 지난 2월 전 소속사와의 계약 만료 후 여러 매니지먼트사들로부터 러브콜을 받았지만 고심 끝에 큐브 엔터테인먼트와 손을 잡게 됐다.\n큐브 엔터테인먼트는 인기그룹 비스트를 비롯해 현아, 비투비, 씨엘씨(CLC), 펜타곤, 나종찬, 허경환, 김기리, 최대훈 등 가수와 예능인·배우들이 소속된 종합 엔터테인먼트 회사. 큐브 엔터테인먼트 측은 “좋은 배우와 함께 일을 할 수 있게 돼 기쁘다”며 “체계적이고 안정적인 시스템 하에서 서우와 좋은 시너지를 될 수 있도록 최선을 다하겠다”고 밝혔다.\n한편 서우는 지난 2007년 영화 ‘아들’로 데뷔한 이후 영화 ‘파주’와 드라마 ‘탐나는 도다’ ‘제왕의 딸 수백향’ ‘욕망의 불꽃’ 등에 출연하며 활발한 연기 활동을 펼쳤다.\n온라인 중앙일보 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 서우가 큐브 엔터테인먼트와 계약했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서우는 최근 큐브 엔터테인먼트와 전속 계약을 체결, 체계적인 매니지먼트 시스템 하에 본격적인 연기 활동을 재개할 계획이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 지난 2월 전 소속사와의 계약 만료 후 여러 매니지먼트사들로부터 러브콜을 받았지만 고심 끝에 큐브 엔터테인먼트와 손을 잡게 됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "큐브 엔터테인먼트는 인기그룹 비스트를 비롯해 현아, 비투비, 씨엘씨(CLC), 펜타곤, 나종찬, 허경환, 김기리, 최대훈 등 가수와 예능인·배우들이 소속된 종합 엔터테인먼트 회사. 큐브 엔터테인먼트 측은 “좋은 배우와 함께 일을 할 수 있게 돼 기쁘다”며 “체계적이고 안정적인 시스템 하에서 서우와 좋은 시너지를 될 수 있도록 최선을 다하겠다”고 밝혔다.",
+				"sentenceSize": 198
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 서우는 지난 2007년 영화 ‘아들’로 데뷔한 이후 영화 ‘파주’와 드라마 ‘탐나는 도다’ ‘제왕의 딸 수백향’ ‘욕망의 불꽃’ 등에 출연하며 활발한 연기 활동을 펼쳤다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠]",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서우, 큐브 엔터테인먼트와 전속계약…활발한 연기활동 기대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

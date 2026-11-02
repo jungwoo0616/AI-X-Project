@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277380",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "류화영, '티아라 불화설' 언급하며 눈물 펑펑",
+		"newsSubTitle": "",
+		"newsContent": "전 '티아라' 멤버 류화영이 그룹 탈퇴에 대해 언급했다.\n류화영은 1일 방송된 tvN '현장토크쇼 택시'에서 티아라를 탈퇴하게 된 이유를 밝히며 눈물을 보였다.\n류화영은 \\\"처음부터 꿈은 배우였다. 그런데 전 소속사 사장님이 목소리가 좋다며 래퍼를 권유했다\\\"며 \\\"거기에 넘어갔다\\\"고 당시를 회상했다.\n이어 진행자인 이영자가 \\\"본의 아니게 그만 둬야 했을 때는 어땠냐\\\"고 묻자 그는 \\\"아, 그 사건이요\\\"라며 \\\"방에 틀어박혀 혼자 울었다\\\"고 털어놨다.\n뒤이은 이야기는 다음 주 방송에 공개될 예정으로 알려져 궁금증을 자아냈다.\n티아라는 2012년 류화영의 탈퇴 과정에서 왕따설 등에 휩싸이며 구설에 오른 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 '티아라' 멤버 류화영이 그룹 탈퇴에 대해 언급했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "류화영은 1일 방송된 tvN '현장토크쇼 택시'에서 티아라를 탈퇴하게 된 이유를 밝히며 눈물을 보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "류화영은 \\\"처음부터 꿈은 배우였다. 그런데 전 소속사 사장님이 목소리가 좋다며 래퍼를 권유했다\\\"며 \\\"거기에 넘어갔다\\\"고 당시를 회상했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 진행자인 이영자가 \\\"본의 아니게 그만 둬야 했을 때는 어땠냐\\\"고 묻자 그는 \\\"아, 그 사건이요\\\"라며 \\\"방에 틀어박혀 혼자 울었다\\\"고 털어놨다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뒤이은 이야기는 다음 주 방송에 공개될 예정으로 알려져 궁금증을 자아냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "티아라는 2012년 류화영의 탈퇴 과정에서 왕따설 등에 휩싸이며 구설에 오른 바 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "류화영, '티아라 불화설' 언급하며 눈물 펑펑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

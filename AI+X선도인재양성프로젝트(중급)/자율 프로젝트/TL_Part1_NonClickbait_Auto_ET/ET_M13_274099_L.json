@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274099",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘톡파원 25시’ 송강호·박찬욱 수상 소감 공개",
+		"newsSubTitle": "",
+		"newsContent": "지난 5월 개최된 2022 칸 영화제의 뒷이야기가 공개된다.\n오늘(27일) 오후 9시 방송되는 JTBC 예능 프로그램 ‘톡파원 25시’에서는 제75회 칸 영화제의 뒷이야기를 소개한다.\n이날 영화 전문 기자 출신 저널리스트 백은하가 특별 게스트로 출연해 ‘헤어질 결심’, ‘브로커’ 시사회의 입장 방법과 복장 규정을 소개한다.\n또한 이번 영화제에서 수상한 배우 송강호와 박찬욱 감독의 소감을 공개한다. 2019년 영화 ‘기생충’으로 황금종려상을 받은 봉준호 감독의 뒷이야기와 칸 영화제 75주년 기념 한정품도 공개된다.\n출연진이 앞다투어 한정품을 차지하려는 모습이 웃음을 자아낼 예정이다.\n최초로 공개되는 이번 칸 영화제 뒷이야기는 27일 오후 9시 JTBC에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 5월 개최된 2022 칸 영화제의 뒷이야기가 공개된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(27일) 오후 9시 방송되는 JTBC 예능 프로그램 ‘톡파원 25시’에서는 제75회 칸 영화제의 뒷이야기를 소개한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 영화 전문 기자 출신 저널리스트 백은하가 특별 게스트로 출연해 ‘헤어질 결심’, ‘브로커’ 시사회의 입장 방법과 복장 규정을 소개한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 이번 영화제에서 수상한 배우 송강호와 박찬욱 감독의 소감을 공개한다. 2019년 영화 ‘기생충’으로 황금종려상을 받은 봉준호 감독의 뒷이야기와 칸 영화제 75주년 기념 한정품도 공개된다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "출연진이 앞다투어 한정품을 차지하려는 모습이 웃음을 자아낼 예정이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최초로 공개되는 이번 칸 영화제 뒷이야기는 27일 오후 9시 JTBC에서 확인할 수 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘톡파원 25시’ 송강호·박찬욱 수상 소감 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

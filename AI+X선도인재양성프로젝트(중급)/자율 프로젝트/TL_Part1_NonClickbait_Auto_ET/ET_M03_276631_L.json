@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276631",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'네티즌 대공감'한 한국인을 고문하는 여덟가지 방법",
+		"newsSubTitle": "",
+		"newsContent": "한국인을 괴롭힐 수 있는 여덟 가지 방법이 네티즌들의 공감을 사고 있다.\n최근 한 온라인커뮤니티에는 '효과적인 한국인 고문법'이라는 제목의 글이 올라왔다.\n한국인들의 특성을 고려해 '못하게 하면' 답답해할 만한 것들을 꼽은 것이다.\n이 방법에는 '라면을 먹을 때 김치를 안 주는 것'과 '인터넷 속도를 10mb 이하로 줄이는 것', 그리고 '식후에 커피를 못 마시게 하는 것', '버스가 완전히 정차하고 난 뒤 자리에서 일어나게 한다는 것'이 있다.\n이외에도 '삼겹살에 소주를 못 먹게 하는 것'과 '요거트를 먹을 때 뚜껑을 핥지 못하게 하는 것' '화장실에 갈 때 핸드폰을 못 가지고 가게 하는 것' '엘리베이터에서 닫힘 버튼을 누르지 못하게 하는 것' 등이 있다.\n이를 본 네티즌들은 \\\"상상만 해도 소름 돋는다\\\" \\\"인터넷 속도 10mb가 어떤 것인지 감도 안 온다\\\" \\\"글만 봐도 고통받는 느낌이다\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인을 괴롭힐 수 있는 여덟 가지 방법이 네티즌들의 공감을 사고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한 온라인커뮤니티에는 '효과적인 한국인 고문법'이라는 제목의 글이 올라왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국인들의 특성을 고려해 '못하게 하면' 답답해할 만한 것들을 꼽은 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 방법에는 '라면을 먹을 때 김치를 안 주는 것'과 '인터넷 속도를 10mb 이하로 줄이는 것', 그리고 '식후에 커피를 못 마시게 하는 것', '버스가 완전히 정차하고 난 뒤 자리에서 일어나게 한다는 것'이 있다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이외에도 '삼겹살에 소주를 못 먹게 하는 것'과 '요거트를 먹을 때 뚜껑을 핥지 못하게 하는 것' '화장실에 갈 때 핸드폰을 못 가지고 가게 하는 것' '엘리베이터에서 닫힘 버튼을 누르지 못하게 하는 것' 등이 있다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 \\\"상상만 해도 소름 돋는다\\\" \\\"인터넷 속도 10mb가 어떤 것인지 감도 안 온다\\\" \\\"글만 봐도 고통받는 느낌이다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'네티즌 대공감'한 한국인을 고문하는 여덟가지 방법",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

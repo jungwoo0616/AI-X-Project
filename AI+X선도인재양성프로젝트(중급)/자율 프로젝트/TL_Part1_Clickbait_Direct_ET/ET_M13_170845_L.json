@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170845",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "지드래곤 근황 공개, GD가 입으면 ‘패션’",
+    "newsSubTitle": "",
+    "newsContent": "빅뱅 지드래곤이 화려한 패션을 자신만의 개성으로 소화했다.\n지드래곤은 10일 자신의 인스타그램에 사진 여러 장을 게재했다.\n사진 속 지드래곤은 얼굴을 가린 채 거울 셀카를 찍고 있다.\n그는 화려한 진주 목걸이와 꽃무늬 셔츠를 매치해 패셔니스타의 면모를 뽐냈다.\n특히 하늘색으로 칠한 네일 아트가 시선을 끌었다.\n사진을 본 누리꾼들은 “얼굴 보여줘” “앨범 내라 권지용” “그립다” “사랑해요” “내가 저 옷 입으면 어떻게 될까” 등의 반응을 보였다.\n한편, YG엔터테인먼트는 지난해 11월 지드래곤이 새 앨범을 작업 중이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "빅뱅 지드래곤이 화려한 패션을 자신만의 개성으로 소화했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지드래곤은 10일 자신의 인스타그램에 사진 여러 장을 게재했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 지드래곤은 얼굴을 가린 채 거울 셀카를 찍고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 화려한 진주 목걸이와 꽃무늬 셔츠를 매치해 패셔니스타의 면모를 뽐냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 하늘색으로 칠한 네일 아트가 시선을 끌었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 본 누리꾼들은 “얼굴 보여줘” “앨범 내라 권지용” “그립다” “사랑해요” “내가 저 옷 입으면 어떻게 될까” 등의 반응을 보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, YG엔터테인먼트는 지난해 11월 지드래곤이 새 앨범을 작업 중이라고 밝혔다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빅뱅의 지드래곤, 화려한 이것으로 누리꾼들 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

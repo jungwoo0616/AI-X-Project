@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277395",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "허각 \\\"주량 소주 3병…오늘은 오돌뼈가 생각나네요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 허각이 애주가임을 인증했다.\n31일 서울 마포구 서교동 레드빅스페이스에서 열린 다섯 번째 미니앨범 '연서' 발매 음감회에서 허각은 \\\"술을 굉장히 좋아하는 편이다\\\"고 말했다.\n그는 \\\"흡연은 안 하는데 금주는 못하겠더라\\\"며 \\\"한번 마시면 두세 병은 금방 비우는 편\\\"이라고 밝혔다.\n그는 또 '좋아하는 안주가 있냐'는 질문에 \\\"그때 그때 다른데, 오늘 같은 날은 오돌뼈나 닭발이 생각난다. 소주에 먹으면 좋겠다\\\"며 미소 지었다.\n허각이 이날 발표한 타이틀곡 '혼자, 한 잔'은 떠나간 연인에 대한 그리움을 술 한 잔으로 표현했다.\n텅빈 술잔을 이별 후의 공허한 마음에 빗대 상실감과 고독감을 노래했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 허각이 애주가임을 인증했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 서울 마포구 서교동 레드빅스페이스에서 열린 다섯 번째 미니앨범 '연서' 발매 음감회에서 허각은 \\\"술을 굉장히 좋아하는 편이다\\\"고 말했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"흡연은 안 하는데 금주는 못하겠더라\\\"며 \\\"한번 마시면 두세 병은 금방 비우는 편\\\"이라고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 또 '좋아하는 안주가 있냐'는 질문에 \\\"그때 그때 다른데, 오늘 같은 날은 오돌뼈나 닭발이 생각난다. 소주에 먹으면 좋겠다\\\"며 미소 지었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허각이 이날 발표한 타이틀곡 '혼자, 한 잔'은 떠나간 연인에 대한 그리움을 술 한 잔으로 표현했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "텅빈 술잔을 이별 후의 공허한 마음에 빗대 상실감과 고독감을 노래했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허각 \\\"주량 소주 3병…오늘은 오돌뼈가 생각나네요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

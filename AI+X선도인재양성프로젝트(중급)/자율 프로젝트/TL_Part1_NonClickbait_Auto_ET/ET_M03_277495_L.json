@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277495",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"의리없는 X\\\"…악플을 본 소녀시대 태연의 반응",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 소녀시대 멤버 태연(28)이 악플러에게 일침을 날렸다.\n17일 태연은 인스타그램에 자신이 모델로 있는 화장품 브랜드 '바닐라코'의 제품을 들고 있는 사진을 게재했다.\n이를 본 한 악플러는 사진에 \\\"서현은 솔로곡 홍보해줬는데 너는 왜 안해주냐\\\"며 \\\"의리없는 X. 쌍꺼풀·코 수술 망해서 흘러내리는 얼굴 감추느라 스노우 캠만 올리는 거 반박하라\\\"고 댓글을 달았다.\n그러자 태연은 \\\"응\\\"이라며 \\\"거울 봐\\\"라고 일침을 가했다.\n이를 본 팬들은 \\\"언니 사이다\\\" \\\"고소해라\\\" 등의 반응을 보였다.\n한편 태연은 '제31회 골든디스크 어워즈'에서 디지털 음원 부문 본상을 수상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 소녀시대 멤버 태연(28)이 악플러에게 일침을 날렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 태연은 인스타그램에 자신이 모델로 있는 화장품 브랜드 '바닐라코'의 제품을 들고 있는 사진을 게재했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 본 한 악플러는 사진에 \\\"서현은 솔로곡 홍보해줬는데 너는 왜 안해주냐\\\"며 \\\"의리없는 X. 쌍꺼풀·코 수술 망해서 흘러내리는 얼굴 감추느라 스노우 캠만 올리는 거 반박하라\\\"고 댓글을 달았다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 태연은 \\\"응\\\"이라며 \\\"거울 봐\\\"라고 일침을 가했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 본 팬들은 \\\"언니 사이다\\\" \\\"고소해라\\\" 등의 반응을 보였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 태연은 '제31회 골든디스크 어워즈'에서 디지털 음원 부문 본상을 수상했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"의리없는 X\\\"…악플을 본 소녀시대 태연의 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

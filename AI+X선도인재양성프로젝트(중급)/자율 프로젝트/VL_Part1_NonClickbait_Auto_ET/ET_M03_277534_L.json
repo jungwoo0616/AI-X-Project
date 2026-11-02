@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277534",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "도깨비 ‘공유’ 팬 인증한 로이킴",
+		"newsSubTitle": "",
+		"newsContent": "가수 로이킴이 tvN 드라마 ‘도깨비’의 애청자임을 인증했다.\n12일 로이킴이 자신의 페이스북에 사진 한 장을 올렸다.\n사진 속 로이킴은 푸른빛을 띠는 검에 찔린채 카메라를 바라보고 있다.\n극 중 도깨비(공유)는 이 검에 찔리면 검이 뽑히기 전까지 죽지 않고 영원히 살 수 있다.\n하지만 검을 뽑지 않으면 도깨비의 신부(김고은)가 죽기 때문에 도깨비는 신부가 죽을 위기에 처할 때마다 구한다.\n이 검은 도깨비 신부 눈에만 보인다.\n로이킴은 “내 검이 보이면 댓글로 연락줘요. 급함. 아픔”이라고 말했고 이에 팬들이 “검이 보이는 데 혹시 내가 도깨비 신부냐” \\\"나 검이 보이는 데 운명인가봐\\\"라고 답해 웃음을 자아냈다.\n로이킴이 부른 도깨비 OST ‘Heaven’은 13일 드라마와 함께 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 로이킴이 tvN 드라마 ‘도깨비’의 애청자임을 인증했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 로이킴이 자신의 페이스북에 사진 한 장을 올렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 로이킴은 푸른빛을 띠는 검에 찔린채 카메라를 바라보고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "극 중 도깨비(공유)는 이 검에 찔리면 검이 뽑히기 전까지 죽지 않고 영원히 살 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 검을 뽑지 않으면 도깨비의 신부(김고은)가 죽기 때문에 도깨비는 신부가 죽을 위기에 처할 때마다 구한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 검은 도깨비 신부 눈에만 보인다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로이킴은 “내 검이 보이면 댓글로 연락줘요. 급함. 아픔”이라고 말했고 이에 팬들이 “검이 보이는 데 혹시 내가 도깨비 신부냐” \\\"나 검이 보이는 데 운명인가봐\\\"라고 답해 웃음을 자아냈다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "로이킴이 부른 도깨비 OST ‘Heaven’은 13일 드라마와 함께 공개될 예정이다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도깨비 ‘공유’ 팬 인증한 로이킴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

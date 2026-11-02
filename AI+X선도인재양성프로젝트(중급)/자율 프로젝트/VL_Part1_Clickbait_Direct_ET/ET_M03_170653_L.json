@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170653",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "민효린 과거 셀카부터 새로운 셀카까지…동안 미모 여전하네!",
+    "newsSubTitle": "",
+    "newsContent": "민효린이 화제다.\n민효린은 과거 자신의 인스타그램을 통해 셀카 사진을 게재, 동안 미모를 자랑했다.\n공개된 사진 속 그녀는 무표정을 유지한 채 셀카를 찍고 있다.\n특히 여전한 동안 미모와 매끈한 피부가 시선을 사로잡았다.\n또 민효린은 25일 자신의 인스타그램에 하트모양 이모티콘으로 가득한 사진 한 장을 공개, 거울 앞에서 포즈를 취하고 있는 민효린의 모습이 담겨있다.\n민효린은 배꼽티를 입고 있어 눈길을 끈다.\n온라인 중앙일보 [사진=민효린 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "민효린이 화제다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "민효린은 과거 자신의 인스타그램을 통해 셀카 사진을 게재, 동안 미모를 자랑했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 그녀는 무표정을 유지한 채 셀카를 찍고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 여전한 동안 미모와 매끈한 피부가 시선을 사로잡았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 민효린은 25일 자신의 인스타그램에 하트모양 이모티콘으로 가득한 사진 한 장을 공개, 거울 앞에서 포즈를 취하고 있는 민효린의 모습이 담겨있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "민효린은 배꼽티를 입고 있어 눈길을 끈다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진=민효린 인스타그램]",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "동안 미모 민효린, 매끈한 피부에 배꼽티까지... 이러니 태양이 불타오르나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

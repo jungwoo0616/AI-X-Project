@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272000",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "무더위, 비를 부르는 몸짱 여신 류세비",
+		"newsSubTitle": "",
+		"newsContent": "배우 겸 모델 류세비가 보디프로필 사진을 공개했다.\n류세비는 지난 31일 자신의 SNS인스타그램에 빗 속에서 비키니 차림으로 행복하게 춤을 추고 있는 사진을 올렸다.\n그는 “춤춰라, 아무도 바라보고 있지 않은 것 처럼. 사랑하라, 한번도 상처받지 않은 것 처럼. 노래하라, 아무도 듣고 있지 않은 것 처럼. 일하라, 돈이 필요하지 않은 것처럼. 살아가라, 오늘이 마지막 날인 것 처럼”이라는 알프레드 디 수자의 시 한 구절을 함께 적었다.\n누리꾼들은 “섹시퀸” “퍼펙트 보디” “보기만해도 시원하다” “비를 부르는 요정” “무더위가 싹 가시네요” 등 다양한 반응을 보였다.\n류세비는 2018년 머슬마니아 세계대회 비키니 쇼트 부문 3위 수상 경력의 몸짱 스타다.\n작은 키에도 완벽한 비율을 자랑하며 맥스큐 표지모델 등으로 활약했다.\n건강 TV등에 출연해 몸매와 건강 관리 노하우 등을 전수했다. .",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 겸 모델 류세비가 보디프로필 사진을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "류세비는 지난 31일 자신의 SNS인스타그램에 빗 속에서 비키니 차림으로 행복하게 춤을 추고 있는 사진을 올렸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “춤춰라, 아무도 바라보고 있지 않은 것 처럼. 사랑하라, 한번도 상처받지 않은 것 처럼. 노래하라, 아무도 듣고 있지 않은 것 처럼. 일하라, 돈이 필요하지 않은 것처럼. 살아가라, 오늘이 마지막 날인 것 처럼”이라는 알프레드 디 수자의 시 한 구절을 함께 적었다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 “섹시퀸” “퍼펙트 보디” “보기만해도 시원하다” “비를 부르는 요정” “무더위가 싹 가시네요” 등 다양한 반응을 보였다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "류세비는 2018년 머슬마니아 세계대회 비키니 쇼트 부문 3위 수상 경력의 몸짱 스타다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "작은 키에도 완벽한 비율을 자랑하며 맥스큐 표지모델 등으로 활약했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "건강 TV등에 출연해 몸매와 건강 관리 노하우 등을 전수했다. .",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "무더위, 비를 부르는 몸짱 여신 류세비",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

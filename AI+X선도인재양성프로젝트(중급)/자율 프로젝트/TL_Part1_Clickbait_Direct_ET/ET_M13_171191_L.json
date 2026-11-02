@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171191",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "신예 드리핀, 추석맞이 한복 인터뷰 자태 공개",
+    "newsSubTitle": "",
+    "newsContent": "그룹 드리핀이 추석 연휴를 앞두고 한복 매거진과 트레일러 영상을 공개했다.\n드리핀의 소속사 울림엔터테인먼트는 지난 18일 공식 사회관계망서비스(SNS) 및 유튜브 채널을 통해 드리핀의 한복 매거진과 트레일러를 공개했다.\n한복 매거진 속의 드리핀은 한복을 차려입고 각각 돋보이는 복색을 뽐냈다.\n고운 색색의 한복을 소화하며 귀공자, 도련님 같은 고풍스러운 분위기를 자아냈다 또한 드리핀은 드리밍(팬덤)에게 “즐겁고 행복하고 풍성한 한가위 되길 바란다”는 추석인사를 남겨 깊은 팬사랑도 표현했다.\n트레일러에서는 매거진과 180도 다른 장난기 넘치는 드리핀의 모습을 만날 수 있다.\n드리핀은 특유의 풋풋하고 발랄한 매력을 발산하면서 기분 에너지를 선사한다.\n드리핀은 지난 6월 발매한 첫 싱글 ‘프리 패스(Free Pass)’로 활발한 활동을 펼쳤다. ‘프리 패스’로 아이튠즈 톱 K팝 싱글차트 6개 국가 및 지역 톱 10에 이름을 올려 ‘글로벌 루키’의 저력을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 드리핀이 추석 연휴를 앞두고 한복 매거진과 트레일러 영상을 공개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "드리핀의 소속사 울림엔터테인먼트는 지난 18일 공식 사회관계망서비스(SNS) 및 유튜브 채널을 통해 드리핀의 한복 매거진과 트레일러를 공개했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한복 매거진 속의 드리핀은 한복을 차려입고 각각 돋보이는 복색을 뽐냈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고운 색색의 한복을 소화하며 귀공자, 도련님 같은 고풍스러운 분위기를 자아냈다 또한 드리핀은 드리밍(팬덤)에게 “즐겁고 행복하고 풍성한 한가위 되길 바란다”는 추석인사를 남겨 깊은 팬사랑도 표현했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "트레일러에서는 매거진과 180도 다른 장난기 넘치는 드리핀의 모습을 만날 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "드리핀은 특유의 풋풋하고 발랄한 매력을 발산하면서 기분 에너지를 선사한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "드리핀은 지난 6월 발매한 첫 싱글 ‘프리 패스(Free Pass)’로 활발한 활동을 펼쳤다. ‘프리 패스’로 아이튠즈 톱 K팝 싱글차트 6개 국가 및 지역 톱 10에 이름을 올려 ‘글로벌 루키’의 저력을 보였다.",
+        "sentenceSize": 119
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 드리핀 '이것' 앞두고 깜짝 화보 영상 공개!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

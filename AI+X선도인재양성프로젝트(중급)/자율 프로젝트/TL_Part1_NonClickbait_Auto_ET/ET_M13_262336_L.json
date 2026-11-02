@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262336",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘♥박군’ 한영, “머리 좀 기른거 보여요?”",
+		"newsSubTitle": "",
+		"newsContent": "배우 한영이 근황을 공개했다.\n28일 한영은 자신의 사회 관계망 서비스(SNS) 계정에 “오랜만에 올리는데 머리 기른 거 좀 보여요~??? 자르고 싶은 거 오늘도 잘 참았다고요~”라는 글과 함께 사진을 게재했다.\n사진 속 한영은 파스텔 색상 재킷을 입고 셀카를 찍고 있다.\n또 한영은 뚜렷한 이목구비로 미모를 자랑한다.\n한영은 동안 비주얼로 놀라움을 자아낸다.\n앞서 한영은 가수 박군과의 열애를 인정하며 “예쁜 만남을 이어갈 수 있도록 따뜻한 시선으로 응원 부탁드린다”고 했다.\n또 한영은 SBS FiL 예능 프로그램 ‘당신의 일상을 밝히는가’에 출연, SBS Plus 예능 프로그램 ‘러브샷’ 진행을 맡은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한영이 근황을 공개했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 한영은 자신의 사회 관계망 서비스(SNS) 계정에 “오랜만에 올리는데 머리 기른 거 좀 보여요~??? 자르고 싶은 거 오늘도 잘 참았다고요~”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 한영은 파스텔 색상 재킷을 입고 셀카를 찍고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 한영은 뚜렷한 이목구비로 미모를 자랑한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한영은 동안 비주얼로 놀라움을 자아낸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 한영은 가수 박군과의 열애를 인정하며 “예쁜 만남을 이어갈 수 있도록 따뜻한 시선으로 응원 부탁드린다”고 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 한영은 SBS FiL 예능 프로그램 ‘당신의 일상을 밝히는가’에 출연, SBS Plus 예능 프로그램 ‘러브샷’ 진행을 맡은 바 있다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘♥박군’ 한영, “머리 좀 기른거 보여요?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

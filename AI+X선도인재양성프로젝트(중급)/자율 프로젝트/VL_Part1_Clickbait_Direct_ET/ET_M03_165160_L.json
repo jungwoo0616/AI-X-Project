@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165160",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "카라 박규리 '재벌 3세' 송자호와 2년 열애 끝 결별",
+    "newsSubTitle": "",
+    "newsContent": "그룹 카라 출신 가수 겸 배우 박규리(33)가 송자호(26) 피카프로젝트 공동 대표이사와 2년간의 열애 끝에 결별했다.\n박규리의 에이전트를 담당하는 크리에이티브 꽃은 10일 \\\"박규리가 최근 송자호와 결별했다\\\"고 밝혔다.\n두 사람은 2019년 미술 전시회에서 만나 연인으로 발전했다.\n송씨가 건설사 동원건설의 송승헌 전 회장 장손이라는 사실이 알려지면서 화제가 됐다.\n송씨는 지난 6월 22일 면허취소 수준의 만취 상태로 음주운전을 한 혐의로 경찰에 입건된 바 있다.\n당시 송씨는 동승한 여성을 감금했다는 의혹도 받았으나 송씨 측 법률대리인은 \\\"전혀 감금한 사실이 없다\\\"며 \\\"택시나 버스를 타고 귀가할 수 있도록 대로변에 내려다 주려고 했었던 것뿐\\\"이라고 반박했다.\n박규리는 2007년 카라로 데뷔한 뒤 배우로 전향해 영화, 드라마, 뮤지컬 등 다양한 분야에서 활동해왔다.\n최근에는 예술 전시회 기획자로 나서기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 카라 출신 가수 겸 배우 박규리(33)가 송자호(26) 피카프로젝트 공동 대표이사와 2년간의 열애 끝에 결별했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박규리의 에이전트를 담당하는 크리에이티브 꽃은 10일 \\\"박규리가 최근 송자호와 결별했다\\\"고 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 2019년 미술 전시회에서 만나 연인으로 발전했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송씨가 건설사 동원건설의 송승헌 전 회장 장손이라는 사실이 알려지면서 화제가 됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송씨는 지난 6월 22일 면허취소 수준의 만취 상태로 음주운전을 한 혐의로 경찰에 입건된 바 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 송씨는 동승한 여성을 감금했다는 의혹도 받았으나 송씨 측 법률대리인은 \\\"전혀 감금한 사실이 없다\\\"며 \\\"택시나 버스를 타고 귀가할 수 있도록 대로변에 내려다 주려고 했었던 것뿐\\\"이라고 반박했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박규리는 2007년 카라로 데뷔한 뒤 배우로 전향해 영화, 드라마, 뮤지컬 등 다양한 분야에서 활동해왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근에는 예술 전시회 기획자로 나서기도 했다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음주운전으로 입건된 재벌 3세와 2년 열애 끝 결별",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

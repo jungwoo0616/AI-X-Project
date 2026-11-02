@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269533",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘미우새’ 싸이 “데뷔 당시 흥 주체 못 한 조폭 막내 루머 있었다”",
+		"newsSubTitle": "",
+		"newsContent": "‘미운 우리 새끼’ 싸이가 루머에 대해 말했다.\n8일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’에서는 데뷔 에피소드를 전한 싸이의 모습이 전파를 탔다.\n이날 싸이는 회식자리에서 막춤으로 데뷔하게 됐냐는 신동엽에 “당시 이정현 씨랑 같은 회사였다. 소속사 사장님이 제 비주얼에 진노하셔서 얼굴 없는 가수로 활동할 예정이었다”라고 설명했다.\n이어 그는 “그냥 음악만 내려고 했는데 이정현 씨가 ‘와’로 1위 하고 회사 회식을 갔다. 제가 테이블 위에 올라가서 마이크 전선을 가랑이 사이에 끼웠는데 사장님이 음악을 멈췄다. 그걸 방송 나가서 하자더라. 그 춤을 보고 나니 생긴 게 말이 된다더라”라고 말해 폭소케 했다.\n2001년 ‘새’로 데뷔한 싸이는 당시 각종 루머를 몰고 다녔다.\n고위층 자녀, 아버지가 PD라는 루머 속 가장 황당했던 것을 묻자 싸이는 “조폭이라는 루머가.. 흥을 주체하지 못한 조폭 막내라는 말이 굉장히 많았다. 저럴 리가 없다”라고 말했다.\n한편 SBS 예능프로그램 ‘미운 우리 새끼’는 매주 일요일 오후 9시 10분에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘미운 우리 새끼’ 싸이가 루머에 대해 말했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’에서는 데뷔 에피소드를 전한 싸이의 모습이 전파를 탔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 싸이는 회식자리에서 막춤으로 데뷔하게 됐냐는 신동엽에 “당시 이정현 씨랑 같은 회사였다. 소속사 사장님이 제 비주얼에 진노하셔서 얼굴 없는 가수로 활동할 예정이었다”라고 설명했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 그는 “그냥 음악만 내려고 했는데 이정현 씨가 ‘와’로 1위 하고 회사 회식을 갔다. 제가 테이블 위에 올라가서 마이크 전선을 가랑이 사이에 끼웠는데 사장님이 음악을 멈췄다. 그걸 방송 나가서 하자더라. 그 춤을 보고 나니 생긴 게 말이 된다더라”라고 말해 폭소케 했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2001년 ‘새’로 데뷔한 싸이는 당시 각종 루머를 몰고 다녔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고위층 자녀, 아버지가 PD라는 루머 속 가장 황당했던 것을 묻자 싸이는 “조폭이라는 루머가.. 흥을 주체하지 못한 조폭 막내라는 말이 굉장히 많았다. 저럴 리가 없다”라고 말했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 SBS 예능프로그램 ‘미운 우리 새끼’는 매주 일요일 오후 9시 10분에 만나볼 수 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘미우새’ 싸이 “데뷔 당시 흥 주체 못 한 조폭 막내 루머 있었다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

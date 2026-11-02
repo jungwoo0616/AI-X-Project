@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264821",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이세영, 피맛나고 척추가 아픈 이유",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 이세영이 성형수술 후 고통을 밝혔다.\n이세영은 24일 인스타그램 스토리에 “갑자기 목소리가 쉬고 갈라짐. 피맛남. 척추가 아픔”라고 밝혔다.\n이세영은 성형수술 후유증인지 코로나19 확진인지 밝히지 않았다.\n앞서 이세영은 쌍꺼풀 수술에 이어 코 성형 수술 과정을 공개해 화제를 모았다.\n그는 “콧대가 아예 없었고 다 필러였다”며 필러를 맞을 때 마다 원래 있던 필러들이 밀리며 코가 퍼져 수술을 결정했다고 밝혔다.\n이후 이세영은 코 성형 수술을 한 뒤 회복 과정을 유튜브 영상으로 남겼다.\n이세영은 “모양은 딱 제가 원했던 거다. 끝이 동글동글하면서도 높았으면 좋겠지만 콧구멍이 집은 것처럼 보이지 않는 것이다. 콧볼 교정은 안했다. 자연스럽게 올라가는 걸 했고 굉장히 만족스럽다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 이세영이 성형수술 후 고통을 밝혔다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이세영은 24일 인스타그램 스토리에 “갑자기 목소리가 쉬고 갈라짐. 피맛남. 척추가 아픔”라고 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이세영은 성형수술 후유증인지 코로나19 확진인지 밝히지 않았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 이세영은 쌍꺼풀 수술에 이어 코 성형 수술 과정을 공개해 화제를 모았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “콧대가 아예 없었고 다 필러였다”며 필러를 맞을 때 마다 원래 있던 필러들이 밀리며 코가 퍼져 수술을 결정했다고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 이세영은 코 성형 수술을 한 뒤 회복 과정을 유튜브 영상으로 남겼다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이세영은 “모양은 딱 제가 원했던 거다. 끝이 동글동글하면서도 높았으면 좋겠지만 콧구멍이 집은 것처럼 보이지 않는 것이다. 콧볼 교정은 안했다. 자연스럽게 올라가는 걸 했고 굉장히 만족스럽다”고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이세영, 피맛나고 척추가 아픈 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

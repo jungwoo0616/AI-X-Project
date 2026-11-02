@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261629",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수, 명품 D사 가방 넘는 고혹적인 미모",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크(BLACK PINK) 지수가 고혹적인 미모를 자랑했다.\n19일 지수는 자신의 인스타그램에 사진 두 장과 영상 하나를 게재했다.\n공개된 사진 속 지수는 길게 빛나는 검은 머리에 반짝거리는 파란색 드레스를 입고 있어 그의 미모를 더욱 빛나게 하고 있다.\n지수의 모습은 고상함과 고혹함을 동시에 발산한다.\n다른 사진 속 지수는 마이크를 잡으며 노래를 부르는 포즈를 잡은 모습이 담겼다.\n특히 사진 속 지수는 세련된 무드와 고혹적인 미모로 팬들의 눈길을 사로잡았다.\n이 사진을 접한 누리꾼들은 “인간 D사 지수”, “그녀의 솔로를 기다립니다”, “세젤예 지수” 등 다양한 반응을 보였다.\n한편 지수는 최근 종영한 JTBC 드라마 ‘설강화’에서 여주인공 은영로 역을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크(BLACK PINK) 지수가 고혹적인 미모를 자랑했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 지수는 자신의 인스타그램에 사진 두 장과 영상 하나를 게재했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 지수는 길게 빛나는 검은 머리에 반짝거리는 파란색 드레스를 입고 있어 그의 미모를 더욱 빛나게 하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지수의 모습은 고상함과 고혹함을 동시에 발산한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다른 사진 속 지수는 마이크를 잡으며 노래를 부르는 포즈를 잡은 모습이 담겼다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 사진 속 지수는 세련된 무드와 고혹적인 미모로 팬들의 눈길을 사로잡았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 사진을 접한 누리꾼들은 “인간 D사 지수”, “그녀의 솔로를 기다립니다”, “세젤예 지수” 등 다양한 반응을 보였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 지수는 최근 종영한 JTBC 드라마 ‘설강화’에서 여주인공 은영로 역을 맡았다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수, 명품 D사 가방 넘는 고혹적인 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

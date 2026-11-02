@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260023",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘쾌남’ 이대원, 화장품 모델 전격 발탁",
+		"newsSubTitle": "",
+		"newsContent": "트로트 가수 이대원이 화장품 모델로 전격 발탁됐다.\n이대원은 (주)스테미코리아의 뷰티 브랜드 ‘닥터시스’의 전속 모델로 낙점돼, 최근 광고 촬영을 마쳤다.\n이번 광고에서 이대원은 맑고 흰 피부를 강조한 귀공자 자태를 보여주는 한편, 데님 셔츠와 블랙 셔츠를 입은 광고 컷에서는 섹시하면서도 야성미 넘치는 반전 매력을 선보였다.\n이대원의 소속사 가한콘텐츠미디어 측은 “지난 해 12월 열린 AFC 격투기 경기에 참여한 이대원이 8전 8승 기록을 세웠는데, 그때 경기를 직관한 광고주가 이대원에게 깊은 인상을 받아 뷰티 브랜드 광고를 제안했다”고 모델 발탁 배경을 밝혔다.\n이어 “부드러운 외모에, 거친 야성미를 가진 이대원만의 대체불가 매력이 브랜드와 잘 어우러져 광고 촬영을 일사천리로 마친 것 같다. 이대원이 모델로 나선 바이오 엑소좀 스킨케어 라인이 많은 사랑을 받을 수 있도록, 광고 모델로도 최선을 다할 것”이라고 덧붙였다.\n한편 ‘내일은 미스터트롯’ 출신으로 큰 인기를 모은 이대원은 영탁이 선물한 노래 ‘챔피언’을 비롯해, ‘원샷’, ‘오빠집에 놀러와’ 등으로 맹활약 중이다.\n또한 지난 해 12월 열린 ‘엔젤스파이팅 챔피언십(AFC)18’에서 70kg급 스페셜 매치에 참여해, 무려 8전 8승이라는 대기록을 세워 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트로트 가수 이대원이 화장품 모델로 전격 발탁됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이대원은 (주)스테미코리아의 뷰티 브랜드 ‘닥터시스’의 전속 모델로 낙점돼, 최근 광고 촬영을 마쳤다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 광고에서 이대원은 맑고 흰 피부를 강조한 귀공자 자태를 보여주는 한편, 데님 셔츠와 블랙 셔츠를 입은 광고 컷에서는 섹시하면서도 야성미 넘치는 반전 매력을 선보였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이대원의 소속사 가한콘텐츠미디어 측은 “지난 해 12월 열린 AFC 격투기 경기에 참여한 이대원이 8전 8승 기록을 세웠는데, 그때 경기를 직관한 광고주가 이대원에게 깊은 인상을 받아 뷰티 브랜드 광고를 제안했다”고 모델 발탁 배경을 밝혔다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “부드러운 외모에, 거친 야성미를 가진 이대원만의 대체불가 매력이 브랜드와 잘 어우러져 광고 촬영을 일사천리로 마친 것 같다. 이대원이 모델로 나선 바이오 엑소좀 스킨케어 라인이 많은 사랑을 받을 수 있도록, 광고 모델로도 최선을 다할 것”이라고 덧붙였다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘내일은 미스터트롯’ 출신으로 큰 인기를 모은 이대원은 영탁이 선물한 노래 ‘챔피언’을 비롯해, ‘원샷’, ‘오빠집에 놀러와’ 등으로 맹활약 중이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 지난 해 12월 열린 ‘엔젤스파이팅 챔피언십(AFC)18’에서 70kg급 스페셜 매치에 참여해, 무려 8전 8승이라는 대기록을 세워 화제를 모았다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘쾌남’ 이대원, 화장품 모델 전격 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

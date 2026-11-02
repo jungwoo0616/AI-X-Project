@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274262",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "에델 라인클랑, 내달 9일 온다",
+		"newsSubTitle": "",
+		"newsContent": "크로스 오버 그룹 에델 라인클랑이 한층 업그레이드된 매력으로 돌아온다.\n에델 라인클랑(조형균, 이충주, 김동현, 안세권)의 소속사 아츠로이엔티는 지난 26일부터 29일 4일간 0시에 공식 SNS를 통해 정규 2집 ‘책장을 넘긴다’의 개인 티저 이미지를 순차적으로 공개하며 컴백을 알렸다.\n공개된 개인 티저 이미지 속 에델 라인클랑 멤버 4인은 독보적인 매력을 발산하고 있다.\n특히 느와르 영화의 한 장면을 보는 듯한 개인 컷은 그동안 볼 수 없었던 매력적인 무드를 연출해 정규 2집에 대한 기대감을 높인다.\n또한 각자의 개성을 담아낸 수트 스타일은 에델 라인클랑 특유의 유니크한 감성과 고급스러운 카리스마를 느끼게 해주어 4년 만에 공개되는 정규 2집 ‘책장을 넘긴다’의 전체 콘셉트에 대한 궁금증을 자아내고 있다.\n개인 티저 이미지까지 공개한 에델 라인클랑은 오는 30일 정규 2집의 구성이 담긴 팩샷을 공개할 예정이며 이후 티저 영상, 하이라이트 메들리, 뮤직비디오 등의 콘텐츠를 순차적으로 선보인다.\n한편, 대체 불가한 하모니로 사랑받는 크로스오버 그룹 에델 라인클랑은 오는 7월 9일 4년 만에 정규 2집 ‘책장을 넘긴다’ 발표 후 본격적인 활동에 나선다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "크로스 오버 그룹 에델 라인클랑이 한층 업그레이드된 매력으로 돌아온다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에델 라인클랑(조형균, 이충주, 김동현, 안세권)의 소속사 아츠로이엔티는 지난 26일부터 29일 4일간 0시에 공식 SNS를 통해 정규 2집 ‘책장을 넘긴다’의 개인 티저 이미지를 순차적으로 공개하며 컴백을 알렸다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 개인 티저 이미지 속 에델 라인클랑 멤버 4인은 독보적인 매력을 발산하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 느와르 영화의 한 장면을 보는 듯한 개인 컷은 그동안 볼 수 없었던 매력적인 무드를 연출해 정규 2집에 대한 기대감을 높인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 각자의 개성을 담아낸 수트 스타일은 에델 라인클랑 특유의 유니크한 감성과 고급스러운 카리스마를 느끼게 해주어 4년 만에 공개되는 정규 2집 ‘책장을 넘긴다’의 전체 콘셉트에 대한 궁금증을 자아내고 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개인 티저 이미지까지 공개한 에델 라인클랑은 오는 30일 정규 2집의 구성이 담긴 팩샷을 공개할 예정이며 이후 티저 영상, 하이라이트 메들리, 뮤직비디오 등의 콘텐츠를 순차적으로 선보인다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 대체 불가한 하모니로 사랑받는 크로스오버 그룹 에델 라인클랑은 오는 7월 9일 4년 만에 정규 2집 ‘책장을 넘긴다’ 발표 후 본격적인 활동에 나선다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에델 라인클랑, 내달 9일 온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

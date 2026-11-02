@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259659",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유재석 측 “오늘(28일) PCR 검사 예정”…조세호 확진여파[공식]",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유재석이 코로나19 PCR 검사를 받는다.\n소속사 안테나는 28일 스포츠경향에 “소속 아티스트 유재석이 오늘(28일) 코로나19 검사를 받을 예정”이라고 밝혔다. ‘유퀴즈 온 더 블록’에 출연 중인 유재석은 함께 녹화를 마친 조세호가 코로나19에 확진됨에 따라 검사를 진행하는 것으로 알려졌다.\n유재석은 지난해 11월 13일 코로나19에 돌파 감염됐다가 12월 21일 격리해제된 바 있다.\n지난 20일에는 SBS ‘런닝맨’ 녹화를 함께했던 슈퍼주니어 은혁이 확진됨에 따라 코로나19 검사를 받았으며, 음성 판정을 받았다.\n조세호 소속사 이미지나인컴스는 28일 공식 입장을 내고 “조세호는 어제(27일) 코로나19 확진자와 동선이 겹침에 따라 선제적으로 병원을 방문해 코로나19 PCR 검사를 진행했고, 금일(28일) 오후 최종 확진 판정을 받았다”고 전했다.\n소속사에 따르면 조세호는 지난해 12월 코로나19 백신 부스터샷 접종까지 완료했으며, 현재 증상은 경미한 상태다.\n한편 조세호는 오는 29일 예정된 ‘고생끝에 밥이온다’ 녹화를 비롯해 주말에 예정된 광고 촬영, 다음 주 진행할 ‘유 퀴즈 온 더 블럭’ 녹화에 참석하지 않는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유재석이 코로나19 PCR 검사를 받는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 안테나는 28일 스포츠경향에 “소속 아티스트 유재석이 오늘(28일) 코로나19 검사를 받을 예정”이라고 밝혔다. ‘유퀴즈 온 더 블록’에 출연 중인 유재석은 함께 녹화를 마친 조세호가 코로나19에 확진됨에 따라 검사를 진행하는 것으로 알려졌다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유재석은 지난해 11월 13일 코로나19에 돌파 감염됐다가 12월 21일 격리해제된 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 20일에는 SBS ‘런닝맨’ 녹화를 함께했던 슈퍼주니어 은혁이 확진됨에 따라 코로나19 검사를 받았으며, 음성 판정을 받았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조세호 소속사 이미지나인컴스는 28일 공식 입장을 내고 “조세호는 어제(27일) 코로나19 확진자와 동선이 겹침에 따라 선제적으로 병원을 방문해 코로나19 PCR 검사를 진행했고, 금일(28일) 오후 최종 확진 판정을 받았다”고 전했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사에 따르면 조세호는 지난해 12월 코로나19 백신 부스터샷 접종까지 완료했으며, 현재 증상은 경미한 상태다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 조세호는 오는 29일 예정된 ‘고생끝에 밥이온다’ 녹화를 비롯해 주말에 예정된 광고 촬영, 다음 주 진행할 ‘유 퀴즈 온 더 블럭’ 녹화에 참석하지 않는다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유재석 측 “오늘(28일) PCR 검사 예정”…조세호 확진여파[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

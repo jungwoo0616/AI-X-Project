@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278275",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "슈가맨 디바, 과거 왕따설, 걸그룹 폭행설 해명 \\\"인사성 중요하잖아요?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘슈가맨’에 출연한 디바가 활동 당시의 왕따설과 폭행설에 대해 설명했다.\n지난 5일 오후 방송된 JTBC 예능 ‘투유프로젝트-슈가맨’에서는 디바와 투야 두 걸그룹이 슈가맨으로 출연했다.\n이날 방송에서 MC 유재석은 “디바에게 활동 당시 소문이 있었다”며 “하나는 지니 왕따설이고, 또 하나는 걸그룹 폭행설이었다.”라고 당시의 소문에 대해 언급했다.\n이에 디바의 멤버 비키는 “지니 왕따설은 걸그룹이 친분에 의해 모인 게 아니지 않냐”며 “그러다보니 서로 견제하고 시기, 질투하고 그런 게 있었다.”고 당시의 상황을 설명했다.\n이 말에 왕따설 당사자인 지니는 “나는 그렇게 생각하지 않는다”며 “내가 어리고 예뻐서 그랬던 것 같다”고 너스레를 떨어 웃음을 자아냈다.\n이어 “그 때는 그런 게 있었지만 지금은 서로 너무 잘 지내고 있다”고 덧붙였다.\n디바 민경은 걸그룹 폭행설에 대한 소문에는 “전혀 아니다”라며 “인사성이 중요하지 않냐? 한 걸그룹이 인사를 하지 않기에 ‘그렇게 하면 안되지’라고 몇 번 얘기를 했는데 그게 소문이 나면서 매니저들이 ‘디바에게는 인사를 해야겠구나’라는 생각을 했던 것 같다”고 말했다.\n한편 '슈가맨'은 매주 화요일 오후 11시10분에 방송된다 온라인중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘슈가맨’에 출연한 디바가 활동 당시의 왕따설과 폭행설에 대해 설명했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 5일 오후 방송된 JTBC 예능 ‘투유프로젝트-슈가맨’에서는 디바와 투야 두 걸그룹이 슈가맨으로 출연했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 MC 유재석은 “디바에게 활동 당시 소문이 있었다”며 “하나는 지니 왕따설이고, 또 하나는 걸그룹 폭행설이었다.”라고 당시의 소문에 대해 언급했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 디바의 멤버 비키는 “지니 왕따설은 걸그룹이 친분에 의해 모인 게 아니지 않냐”며 “그러다보니 서로 견제하고 시기, 질투하고 그런 게 있었다.”고 당시의 상황을 설명했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 말에 왕따설 당사자인 지니는 “나는 그렇게 생각하지 않는다”며 “내가 어리고 예뻐서 그랬던 것 같다”고 너스레를 떨어 웃음을 자아냈다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “그 때는 그런 게 있었지만 지금은 서로 너무 잘 지내고 있다”고 덧붙였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "디바 민경은 걸그룹 폭행설에 대한 소문에는 “전혀 아니다”라며 “인사성이 중요하지 않냐? 한 걸그룹이 인사를 하지 않기에 ‘그렇게 하면 안되지’라고 몇 번 얘기를 했는데 그게 소문이 나면서 매니저들이 ‘디바에게는 인사를 해야겠구나’라는 생각을 했던 것 같다”고 말했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 '슈가맨'은 매주 화요일 오후 11시10분에 방송된다 온라인중앙일보",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈가맨 디바, 과거 왕따설, 걸그룹 폭행설 해명 \\\"인사성 중요하잖아요?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

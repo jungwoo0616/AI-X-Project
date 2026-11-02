@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265325",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[단독] 가수 김양, 영화 ‘봉필이 학교가다!’ 캐스팅",
+		"newsSubTitle": "",
+		"newsContent": "가수 김양이 영화 ‘봉필이 학교가다!’에 캐스팅 됐다고 제작사가 관계자가 29일 전했다.\n제작사 측은 “가수 김양이 영화 ‘봉필이 학교가다!’ 출연을 확정짓고, 본격 연기 활동에 박차를 가한다”고 전했다. ‘봉필이 학교가다!’는 라떼적 쌈짱 출신인 봉필이가 돈을 벌기 위해, 다시 고등학교에 입학하면서 벌어지는 코미디 학원물이다.\n김양은 ‘봉필이 학교가다!’에서 준성 어머니 역을 맡았다.\n극중 준성모는 의원 아내로 세간 시선에 예민해, 일말의 가십거리도 허용치 않는 전형적인 권력층 인물이다.\n막상 준성이 학폭의 피해자가 되자 이를 막기 위해, 봉필을 고등학교로 밀어넣는다.\n영화 ‘봉필이 학교가다!’는 오는 4월 크랭크인 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김양이 영화 ‘봉필이 학교가다!’에 캐스팅 됐다고 제작사가 관계자가 29일 전했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제작사 측은 “가수 김양이 영화 ‘봉필이 학교가다!’ 출연을 확정짓고, 본격 연기 활동에 박차를 가한다”고 전했다. ‘봉필이 학교가다!’는 라떼적 쌈짱 출신인 봉필이가 돈을 벌기 위해, 다시 고등학교에 입학하면서 벌어지는 코미디 학원물이다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김양은 ‘봉필이 학교가다!’에서 준성 어머니 역을 맡았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "극중 준성모는 의원 아내로 세간 시선에 예민해, 일말의 가십거리도 허용치 않는 전형적인 권력층 인물이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "막상 준성이 학폭의 피해자가 되자 이를 막기 위해, 봉필을 고등학교로 밀어넣는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 ‘봉필이 학교가다!’는 오는 4월 크랭크인 한다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독] 가수 김양, 영화 ‘봉필이 학교가다!’ 캐스팅",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

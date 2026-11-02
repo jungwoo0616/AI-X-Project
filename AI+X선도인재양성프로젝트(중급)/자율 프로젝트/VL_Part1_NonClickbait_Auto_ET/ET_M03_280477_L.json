@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280477",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "MBC 연기대상, 신동엽 이성경 열창에 \\\"누가봐도 라이브\\\"",
+		"newsSubTitle": "",
+		"newsContent": "MBC 연기대상, 신동엽 이성경 열창에 \\\"누가봐도 라이브\\\" MBC 연기대상에서 신동엽이 이성경의 노래에 장난스럽게 반응했다.\n신동엽은 30일 오후 상암 MBC에서 열린 2015 MBC 연기대상에서 이성경의 축하 무대를 보고 “누가봐도 라이브 같은 느낌”이라고 말했다.\n이어 “가수들도 춤추면서 노래하는 게 쉽지 않다. 대단하다. 이 무대를 위해서 한 달 가까이 준비했다고 들었다”라고 칭찬했다.\n이성경은 30일 저녁 8시55분 방송된 '2015 MBC 연기대상'에서 'Finally'와 'Love on top' 특별공연 무대를 펼쳤다.\n이날 이성경은 'Finally' 무대에서 롱코트를 입고 등장, 차분하고 청아한 목소리로 노래를 열창하기 시작해 이목을 집중시켰다.\n한 해 동안 사랑 받은 MBC 드라마와 출연 배우들을 만날 수 있는 MBC 연기대상은 방송인 신동엽과 배우 이성경이 진행을 맡았다.\n온라인 중앙일보 MBC 연기대상",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC 연기대상, 신동엽 이성경 열창에 \\\"누가봐도 라이브\\\" MBC 연기대상에서 신동엽이 이성경의 노래에 장난스럽게 반응했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신동엽은 30일 오후 상암 MBC에서 열린 2015 MBC 연기대상에서 이성경의 축하 무대를 보고 “누가봐도 라이브 같은 느낌”이라고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “가수들도 춤추면서 노래하는 게 쉽지 않다. 대단하다. 이 무대를 위해서 한 달 가까이 준비했다고 들었다”라고 칭찬했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이성경은 30일 저녁 8시55분 방송된 '2015 MBC 연기대상'에서 'Finally'와 'Love on top' 특별공연 무대를 펼쳤다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 이성경은 'Finally' 무대에서 롱코트를 입고 등장, 차분하고 청아한 목소리로 노래를 열창하기 시작해 이목을 집중시켰다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한 해 동안 사랑 받은 MBC 드라마와 출연 배우들을 만날 수 있는 MBC 연기대상은 방송인 신동엽과 배우 이성경이 진행을 맡았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 MBC 연기대상",
+				"sentenceSize": 17
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MBC 연기대상, 신동엽 이성경 열창에 \\\"누가봐도 라이브\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

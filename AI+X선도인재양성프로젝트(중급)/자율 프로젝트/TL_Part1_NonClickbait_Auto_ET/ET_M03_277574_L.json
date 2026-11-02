@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277574",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "AOA 민아 “장래희망은 김고은…공유 만나고 싶어”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 AOA 민아(24)가 장래희망을 말했다.\n민아는 7일 밤 11시 방송된 JTBC ‘아는 형님’에 출연해 “장래희망은 김고은”이라며 “공유 만나고 싶다”고 말했다.\n이에 강호동은 \\\"도깨비 만나고 싶나\\\"라며 \\\"내 별명이 먹깨비인데\\\"라고 말해 웃음을 자아냈다.\n민아는 공유에게 “조만간 한 번 뵀으면 좋겠다. 촬영 열심히 해라”며 영상 편지를 전해 눈길을 끌었다.\n설현은 “행복한 사람”이 꿈이라고 했다.\n지민은 “내 꿈은 내 집 장만이다. 7년 동안 숙소 생활했다. 그냥 내 집이 갖고 싶다”고 말했다.\n혜정은 “여유 있는 사람이 되고 싶다. 여유가 있으면 행복이 따라올 거다. 행복의 정의에는 돈도 있고 밥도 있다”고 털어놨다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 AOA 민아(24)가 장래희망을 말했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "민아는 7일 밤 11시 방송된 JTBC ‘아는 형님’에 출연해 “장래희망은 김고은”이라며 “공유 만나고 싶다”고 말했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 강호동은 \\\"도깨비 만나고 싶나\\\"라며 \\\"내 별명이 먹깨비인데\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민아는 공유에게 “조만간 한 번 뵀으면 좋겠다. 촬영 열심히 해라”며 영상 편지를 전해 눈길을 끌었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설현은 “행복한 사람”이 꿈이라고 했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지민은 “내 꿈은 내 집 장만이다. 7년 동안 숙소 생활했다. 그냥 내 집이 갖고 싶다”고 말했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "혜정은 “여유 있는 사람이 되고 싶다. 여유가 있으면 행복이 따라올 거다. 행복의 정의에는 돈도 있고 밥도 있다”고 털어놨다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AOA 민아 “장래희망은 김고은…공유 만나고 싶어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

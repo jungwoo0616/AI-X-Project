@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263141",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "크리스틴 스튜어트, 푸틴에 손가락 욕설",
+		"newsSubTitle": "",
+		"newsContent": "올해 유력한 아카데미 여우주연상 후보로 꼽히는 크리스틴 스튜어트(31)가 우크라이나를 침공한 러시아 푸틴 대통령에 손가락 욕설을 날려 화제다.\n크리스틴 스튜어트는 6일(이하 현지시간) 미국 캘리포니아에서 열린 제 37회 인디펜던트 스피릿 어워즈에 참석했다.\n이날 시상식에서 진행자인 닉 오프먼은 “진행에 앞서 우크라이나 전쟁과 전 세계의 불공정한 분쟁으로 피해를 입은 이들에게 잠시나마 행운을 빌고 싶다”면서 “우린 평화로운 해결을 희망한다. 특히, 꺼져라 푸틴. 블라디미르 푸틴은 집에 돌아가라. 이를 위해 우리 모두 푸틴에게 경의를 표하며 그를 떠나보내자”고 말했다.\n이에 크리스틴 스튜어트는 가운데 손가락을 들어올려 전쟁을 일으켜 무고한 희생을 발생 시킨 푸틴을 향해 욕설을 날렸다.\n크리스틴 스튜어트는 영화 ‘스펜서’에서 다이애나 왕세자비로 분해 전세계 영화제에서 27개의 여우주연상을 휩쓸었다.\n2022 골든글로브 여우주연상 후보에 이어 2022 아카데미 시상식에도 여우주연상 후보에 올랐다.\n한편, 인디펜던트 스피릿 어워즈는 미국의 권위 있는 독립영화 시상식으로 배우 이정재가 넷플릭스 ‘오징어 게임’으로 TV부문 남우주연상을 수상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 유력한 아카데미 여우주연상 후보로 꼽히는 크리스틴 스튜어트(31)가 우크라이나를 침공한 러시아 푸틴 대통령에 손가락 욕설을 날려 화제다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크리스틴 스튜어트는 6일(이하 현지시간) 미국 캘리포니아에서 열린 제 37회 인디펜던트 스피릿 어워즈에 참석했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 시상식에서 진행자인 닉 오프먼은 “진행에 앞서 우크라이나 전쟁과 전 세계의 불공정한 분쟁으로 피해를 입은 이들에게 잠시나마 행운을 빌고 싶다”면서 “우린 평화로운 해결을 희망한다. 특히, 꺼져라 푸틴. 블라디미르 푸틴은 집에 돌아가라. 이를 위해 우리 모두 푸틴에게 경의를 표하며 그를 떠나보내자”고 말했다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 크리스틴 스튜어트는 가운데 손가락을 들어올려 전쟁을 일으켜 무고한 희생을 발생 시킨 푸틴을 향해 욕설을 날렸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "크리스틴 스튜어트는 영화 ‘스펜서’에서 다이애나 왕세자비로 분해 전세계 영화제에서 27개의 여우주연상을 휩쓸었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2022 골든글로브 여우주연상 후보에 이어 2022 아카데미 시상식에도 여우주연상 후보에 올랐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 인디펜던트 스피릿 어워즈는 미국의 권위 있는 독립영화 시상식으로 배우 이정재가 넷플릭스 ‘오징어 게임’으로 TV부문 남우주연상을 수상했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "크리스틴 스튜어트, 푸틴에 손가락 욕설",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

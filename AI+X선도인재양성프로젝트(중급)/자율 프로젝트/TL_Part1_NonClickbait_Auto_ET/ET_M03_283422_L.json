@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283422",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'병역회피 논란' 골퍼 배상문, 현역 입대 \\\"군생활 성실하게 하겠다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'배상문 입대' '병역회피 논란' 골퍼 배상문 입대 \\\"군생활 잘 하고 올게요\\\" 배상문(29)이 11월17일 오후 강원도 춘천 102 보충대로 군입대했다.\n배상문은 지난 13일 새로운 매니지먼트사 올댓스포츠를 통해 “그동안 병역 문제로 국민들께 좋지 못한 모습을 보여드려 죄송하다. 성실하게 국방의 의무를 다한 뒤 다시 프로골퍼로 복귀해 좋은 모습을 보여드릴 수 있도록 노력하겠다”고 말했다.\n미국프로골프(PGA) 투어에서 활동하는 배상문은 지난 2014년 12월 대구경북지방병무청이 국외여행 기간 연장을 불허해 귀국하라고 통보했으나, 귀국하지 않아 2015년 2월 병역법 위반으로 대구 남부 경찰서에 고발됐다.\n배상문은 대구경북지방병무청을 상대로 소송을 냈다가 패소했고, 9월 귀국해 군 입대를 약속한 뒤 ‘2015 프레지던츠컵’에 출전했다.\nPGA 투어 역시 배상문을 배려해 전역 후 1년간 출전권을 보장하기로 했다.\n배상문은 오는 2017-2018시즌에 PGA 투어에 복귀할 수 있다.\n한편 배상문은 PGA 투어 통산 2승을 기록하고 있다. '배상문 입대' 온라인 중앙일보 '배상문 입대'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'배상문 입대' '병역회피 논란' 골퍼 배상문 입대 \\\"군생활 잘 하고 올게요\\\" 배상문(29)이 11월17일 오후 강원도 춘천 102 보충대로 군입대했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배상문은 지난 13일 새로운 매니지먼트사 올댓스포츠를 통해 “그동안 병역 문제로 국민들께 좋지 못한 모습을 보여드려 죄송하다. 성실하게 국방의 의무를 다한 뒤 다시 프로골퍼로 복귀해 좋은 모습을 보여드릴 수 있도록 노력하겠다”고 말했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국프로골프(PGA) 투어에서 활동하는 배상문은 지난 2014년 12월 대구경북지방병무청이 국외여행 기간 연장을 불허해 귀국하라고 통보했으나, 귀국하지 않아 2015년 2월 병역법 위반으로 대구 남부 경찰서에 고발됐다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배상문은 대구경북지방병무청을 상대로 소송을 냈다가 패소했고, 9월 귀국해 군 입대를 약속한 뒤 ‘2015 프레지던츠컵’에 출전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "PGA 투어 역시 배상문을 배려해 전역 후 1년간 출전권을 보장하기로 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배상문은 오는 2017-2018시즌에 PGA 투어에 복귀할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 배상문은 PGA 투어 통산 2승을 기록하고 있다. '배상문 입대' 온라인 중앙일보 '배상문 입대'",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'병역회피 논란' 골퍼 배상문, 현역 입대 \\\"군생활 성실하게 하겠다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

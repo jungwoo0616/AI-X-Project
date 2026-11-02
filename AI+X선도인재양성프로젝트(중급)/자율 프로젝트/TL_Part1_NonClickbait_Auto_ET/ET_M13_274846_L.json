@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274846",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘욱일승천기 논란’ 마룬 5, 홈페이지 이미지 교체",
+		"newsSubTitle": "",
+		"newsContent": "욱일승천기 사용 논란을 빚은 밴드 마룬 5(Maroon 5)가 해당 사진을 삭제했다.\n마룬 5 공식 홈페이지에 올라왔던 욱일승천기 형상 이미지가 삭제됐다.\n해당 이미지가 있던 자리는 단체 사진 이미지로 대체됐다.\n앞서 마룬 5는 지난 2일 홈페이지를 통해 욱일승천기 디자인과 함께 내한 공연을 예고했다.\n이 소식이 알려지자 한국 팬들은 “내한 공연에 전범기를 활용하는 게 말이 되냐”, “한국 팬에 대한 모욕” 등 비판의 목소리를 내며 논란이 커졌다.\n이에 관해 서경덕 성신여대 교수는 5일 해당 문양을 삭제하라는 항의 메일을 보내기도 했다.\n마룬 5는 오는 11월 30일 서울 고척스카이돔에서 3년 만에 내한 공연을 펼친다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "욱일승천기 사용 논란을 빚은 밴드 마룬 5(Maroon 5)가 해당 사진을 삭제했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마룬 5 공식 홈페이지에 올라왔던 욱일승천기 형상 이미지가 삭제됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 이미지가 있던 자리는 단체 사진 이미지로 대체됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 마룬 5는 지난 2일 홈페이지를 통해 욱일승천기 디자인과 함께 내한 공연을 예고했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 소식이 알려지자 한국 팬들은 “내한 공연에 전범기를 활용하는 게 말이 되냐”, “한국 팬에 대한 모욕” 등 비판의 목소리를 내며 논란이 커졌다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 관해 서경덕 성신여대 교수는 5일 해당 문양을 삭제하라는 항의 메일을 보내기도 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마룬 5는 오는 11월 30일 서울 고척스카이돔에서 3년 만에 내한 공연을 펼친다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘욱일승천기 논란’ 마룬 5, 홈페이지 이미지 교체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

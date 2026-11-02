@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275960",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘임채무의 낭만닥터’ 송훈 셰프가 떴다",
+		"newsSubTitle": "",
+		"newsContent": "‘낭만닥터’에 스타 셰프 송훈이 출연한다.\n오는 24일 방송되는 ENA ‘임채무의 낭만닥터(이하 ‘낭만닥터’)’의 스틸컷이 공개됐다.\n21일 공개된 스틸컷에는 송훈 셰프가 이문식과 함께 요리를 하는 모습으로, 대한민국 대표 스타 셰프인 그가 무슨 일로 ‘낭만닥터’ 촬영 현장을 찾게 됐는지 궁금증을 자아낸다.\n첫 번째 사진 속 송훈 셰프는 일상복을 입은 채 낭만 캠핑카 앞에서 요리 중인 모습이다.\n그런 송훈 셰프의 옆에 선 이문식은 깜짝 놀란 듯한 얼굴로, 정형외과 전문의 이태훈 원장은 양손을 들어 ‘쌍따봉’까지 날려 보인다.\n두 번째 사진 속 송훈 셰프는 요리복으로 갈아입고, 이문식과 진지하게 대화를 나누고 있다.\n두 사람의 앞에는 무려 네 개의 가스버너가 준비돼 있어 대체 어떤 요리가 펼쳐질지 기대가 모인다.\n무슨 상황을 앞두고 두 사람이 함께 요리에 나서는 것인지도 궁금해진다. ‘낭만닥터’ 사상 최초의 게스트인 송훈 셰프의 출연 소식이 알려지며 큰 재미를 예고한 ENA ‘임채무의 낭만닥터’는 24일 본방송을 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘낭만닥터’에 스타 셰프 송훈이 출연한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 24일 방송되는 ENA ‘임채무의 낭만닥터(이하 ‘낭만닥터’)’의 스틸컷이 공개됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일 공개된 스틸컷에는 송훈 셰프가 이문식과 함께 요리를 하는 모습으로, 대한민국 대표 스타 셰프인 그가 무슨 일로 ‘낭만닥터’ 촬영 현장을 찾게 됐는지 궁금증을 자아낸다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "첫 번째 사진 속 송훈 셰프는 일상복을 입은 채 낭만 캠핑카 앞에서 요리 중인 모습이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런 송훈 셰프의 옆에 선 이문식은 깜짝 놀란 듯한 얼굴로, 정형외과 전문의 이태훈 원장은 양손을 들어 ‘쌍따봉’까지 날려 보인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 번째 사진 속 송훈 셰프는 요리복으로 갈아입고, 이문식과 진지하게 대화를 나누고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람의 앞에는 무려 네 개의 가스버너가 준비돼 있어 대체 어떤 요리가 펼쳐질지 기대가 모인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "무슨 상황을 앞두고 두 사람이 함께 요리에 나서는 것인지도 궁금해진다. ‘낭만닥터’ 사상 최초의 게스트인 송훈 셰프의 출연 소식이 알려지며 큰 재미를 예고한 ENA ‘임채무의 낭만닥터’는 24일 본방송을 통해 확인할 수 있다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘임채무의 낭만닥터’ 송훈 셰프가 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

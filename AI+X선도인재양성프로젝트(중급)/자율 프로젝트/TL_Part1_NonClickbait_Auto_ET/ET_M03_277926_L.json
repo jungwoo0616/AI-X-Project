@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277926",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'아는 형님' 김진경의 몸매 관리법은? \\\"씹는 고형식은 점심에만\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘아는 형님’ 김진경이 몸매 관리법에 대해 언급했다.\n지난 27일 방송된 JTBC ‘아는 형님’에서는 배우 성훈과 모델 김진경이 새로운 전학생으로 등장했다.\n이날 김진경은 “나랑 친한 언니들이 자주 하는 말이 ‘너는 뼈도 안 썩을 거야’다”라고 말해 눈길을 끌었다.\n이어 “나는 아침과 저녁은 과일과 채소를 갈아서 스무디처럼 먹는다. 점심만 씹어 먹는 고형식을 먹는다. 현미밥이나 샐러드를 먹는다. 술도 일절 못마신다”고 말했다.\n그러자 서장훈은 “너 그러다가 오십부터 마셔”고 조언해 웃음을 자아냈다.\n한편 JTBC '아는 형님'은 매주 토요일 오후 11시에 방송된다.\n온라인 중앙일보 [사진 JTBC 화면 캡쳐]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘아는 형님’ 김진경이 몸매 관리법에 대해 언급했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 27일 방송된 JTBC ‘아는 형님’에서는 배우 성훈과 모델 김진경이 새로운 전학생으로 등장했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김진경은 “나랑 친한 언니들이 자주 하는 말이 ‘너는 뼈도 안 썩을 거야’다”라고 말해 눈길을 끌었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “나는 아침과 저녁은 과일과 채소를 갈아서 스무디처럼 먹는다. 점심만 씹어 먹는 고형식을 먹는다. 현미밥이나 샐러드를 먹는다. 술도 일절 못마신다”고 말했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 서장훈은 “너 그러다가 오십부터 마셔”고 조언해 웃음을 자아냈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 JTBC '아는 형님'은 매주 토요일 오후 11시에 방송된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC 화면 캡쳐]",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'아는 형님' 김진경의 몸매 관리법은? \\\"씹는 고형식은 점심에만\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171219",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "펜싱 김정환X구본길 vs 헬스 김종국의 국가대표급 근육 대결",
+    "newsSubTitle": "",
+    "newsContent": "SBS’미운 우리 새끼’에서는 김희철과 김종국이 대한민국 펜싱 금메달리스트인 김정환과 구본길 선수를 만나 국가대표급 재미를 선사한다.\n이날, 김희철은 김종국과 함께 동갑내기 절친인 펜싱 국가대표 선수 김정환의 집을 찾아가 기대감을 모았다.\n특히, 수백 개의 금메달로 가득 찬 금빛 하우스 모습에 母벤져스는 놀라움을 감추지 못했다.\n그 와중에 김종국은 김정환의 국가대표 유니폼과 금메달을 장착해보며 선수보다 더 선수같은 비주얼을 뽐내 스튜디오를 웃음바다로 만들었다.\n한편, 김정환은 운동선수에게 가장 중요하다는 남다른 근성 훈련법을 자랑해 모두를 깜짝 놀라게 했다.\n다름 아닌 매운맛 참기 훈련을 통해 멘탈을 키운다는 것. 이어 세상 화끈한 마라탕을 대접하며 맵부심을 부리기 시작한 김정환은 운동인의 근성을 논하며 김종국을 도발하기 시작했다.\n옆에 있던 구본길 역시 김종국에게‘바캉스 근육’이라고 놀리며 천하의 김종국을 들었다 놨다 했다고. 잠시 후, 진짜 국가대표 구본길과 헬스 국가대표 김종국의 긴장감 넘치는 근육 대결이 펼쳐져 손에 땀을 쥐게 했다.\n하지만 그에게 도발하던 모습은 온데간데없이 속수무책으로 당하는 구본길의 모습에 현장은 물론 스튜디오 전체가 초토화됐다는 후문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS’미운 우리 새끼’에서는 김희철과 김종국이 대한민국 펜싱 금메달리스트인 김정환과 구본길 선수를 만나 국가대표급 재미를 선사한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날, 김희철은 김종국과 함께 동갑내기 절친인 펜싱 국가대표 선수 김정환의 집을 찾아가 기대감을 모았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히, 수백 개의 금메달로 가득 찬 금빛 하우스 모습에 母벤져스는 놀라움을 감추지 못했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 와중에 김종국은 김정환의 국가대표 유니폼과 금메달을 장착해보며 선수보다 더 선수같은 비주얼을 뽐내 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 김정환은 운동선수에게 가장 중요하다는 남다른 근성 훈련법을 자랑해 모두를 깜짝 놀라게 했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다름 아닌 매운맛 참기 훈련을 통해 멘탈을 키운다는 것. 이어 세상 화끈한 마라탕을 대접하며 맵부심을 부리기 시작한 김정환은 운동인의 근성을 논하며 김종국을 도발하기 시작했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "옆에 있던 구본길 역시 김종국에게‘바캉스 근육’이라고 놀리며 천하의 김종국을 들었다 놨다 했다고. 잠시 후, 진짜 국가대표 구본길과 헬스 국가대표 김종국의 긴장감 넘치는 근육 대결이 펼쳐져 손에 땀을 쥐게 했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 그에게 도발하던 모습은 온데간데없이 속수무책으로 당하는 구본길의 모습에 현장은 물론 스튜디오 전체가 초토화됐다는 후문이다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SBS `미운 오리 새끼`에서 김희철과 김종국 만나는 '이 사람'은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

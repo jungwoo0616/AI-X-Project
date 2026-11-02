@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277110",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M] 전소미 아빠 매튜, 영화 '보통사람'에 출연",
+		"newsSubTitle": "",
+		"newsContent": "아이오아이(I.O.I) 전소미 아버지 매튜 도우마가 '보통사람'(3월23일 개봉, 김봉한 감독)에 카메오로 출연한다.\n한 예능 프로그램에서 \\\"사진기자로 활동할 당시 독도에 출입한 최초의 외신기자\\\"라고 밝히기도 했다.\n그의 실제 삶과 극중 캐릭터의 높은 싱크로율때문에 예비 관객들의 관심이 높아지고 있다.\n실제 외신 기자 출신인 매튜 도우마는 극중에서도 외신 기자 역으로 등장할 예정이다.\n손현주, 장혁 등이 출연하는 '보통사람'은 보통의 삶을 살던 강력계 형사 성진이 연쇄 살인사건에 휘말리며 삶이 송두리째 흔들리게 되는 이야기를 담았다.\n전소미의 아버지 매튜 도우마는 한국에 온지 22년 째로 재치 있는 입담과 남다른 유머로 예능 프로그램에서 존재감을 발휘했었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이오아이(I.O.I) 전소미 아버지 매튜 도우마가 '보통사람'(3월23일 개봉, 김봉한 감독)에 카메오로 출연한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 예능 프로그램에서 \\\"사진기자로 활동할 당시 독도에 출입한 최초의 외신기자\\\"라고 밝히기도 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그의 실제 삶과 극중 캐릭터의 높은 싱크로율때문에 예비 관객들의 관심이 높아지고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제 외신 기자 출신인 매튜 도우마는 극중에서도 외신 기자 역으로 등장할 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손현주, 장혁 등이 출연하는 '보통사람'은 보통의 삶을 살던 강력계 형사 성진이 연쇄 살인사건에 휘말리며 삶이 송두리째 흔들리게 되는 이야기를 담았다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전소미의 아버지 매튜 도우마는 한국에 온지 22년 째로 재치 있는 입담과 남다른 유머로 예능 프로그램에서 존재감을 발휘했었다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] 전소미 아빠 매튜, 영화 '보통사람'에 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

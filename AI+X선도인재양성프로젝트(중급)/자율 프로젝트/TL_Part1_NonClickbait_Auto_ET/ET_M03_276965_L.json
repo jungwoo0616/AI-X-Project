@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276965",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "일라이 아내 지연수 \\\"레이싱 모델 복귀…열심히 하면 1년 안에 집 장만\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 유키스 멤버 일라이 아내 지연수가 '살림남2'에서 레이싱 모델 복귀를 선언했다.\n지연수는 12일 오후 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 남편 일라이에게 \\\"서울 모터쇼에서 연락이 왔다. 내가 다시 일하는 것 어떻게 생각하느냐\\\"고 말했다.\n이어 지연수는 \\\"결혼과 출산으로 2년 넘게 쉬었는데 기회가 왔을 때 잡지 않으면 놓칠 것 같은 불안감이 있다\\\"고 털어놨다.\n그러면서 지연수는 \\\"내가 열심히만 하면 우린 1년 안에 집 산다\\\"고 자신했다.\n이에 일라이는 아내의 매니저를 자처했다.\n일라이는 \\\"노출 의상 입어?\\\"라고 물어보는 등 아내의 의상을 신경썼고, 지연수는 모터쇼와 서킷의 차이를 알려줬다.\n이후 지연수는 레이싱 모델 비법을 소개하면서 한껏 들뜬 모습을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 유키스 멤버 일라이 아내 지연수가 '살림남2'에서 레이싱 모델 복귀를 선언했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지연수는 12일 오후 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 남편 일라이에게 \\\"서울 모터쇼에서 연락이 왔다. 내가 다시 일하는 것 어떻게 생각하느냐\\\"고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 지연수는 \\\"결혼과 출산으로 2년 넘게 쉬었는데 기회가 왔을 때 잡지 않으면 놓칠 것 같은 불안감이 있다\\\"고 털어놨다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 지연수는 \\\"내가 열심히만 하면 우린 1년 안에 집 산다\\\"고 자신했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 일라이는 아내의 매니저를 자처했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일라이는 \\\"노출 의상 입어?\\\"라고 물어보는 등 아내의 의상을 신경썼고, 지연수는 모터쇼와 서킷의 차이를 알려줬다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 지연수는 레이싱 모델 비법을 소개하면서 한껏 들뜬 모습을 보였다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일라이 아내 지연수 \\\"레이싱 모델 복귀…열심히 하면 1년 안에 집 장만\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

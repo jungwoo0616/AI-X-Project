@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277718",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'혜리 닮은꼴' 라붐 솔빈의 통통 튀는 매력",
+		"newsSubTitle": "",
+		"newsContent": "'혜리 닮은꼴'로 유명세를 탄 솔빈의 매력적인 사진이 화제다.\n최근 화보 촬영을 진행한 솔빈은 인터뷰에서 '혜리 닮은꼴'에 대해 \\\"혜리 선배님은 저보다 훨씬 예쁘고 매력적이다. 죄송하면서도 감사하다\\\"라고 밝힌 바 있다.\n인터뷰가 알려지면서 솔빈에 대한 네티즌들의 관심이 높아졌고, 네티즌들은 솔빈의 매력에 흠뻑 빠진 상황이다.\n솔빈이 속한 라붐은 올해로 데뷔 3년차를 맞는 그룹이다.\n특히 솔빈은 97년생이라고는 믿기지 않을 정도로 통통 튀는, 성숙한 매력을 선보여 화제가 되고 있다.\n솔빈의 매력적인 사진들은 아래에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'혜리 닮은꼴'로 유명세를 탄 솔빈의 매력적인 사진이 화제다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 화보 촬영을 진행한 솔빈은 인터뷰에서 '혜리 닮은꼴'에 대해 \\\"혜리 선배님은 저보다 훨씬 예쁘고 매력적이다. 죄송하면서도 감사하다\\\"라고 밝힌 바 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인터뷰가 알려지면서 솔빈에 대한 네티즌들의 관심이 높아졌고, 네티즌들은 솔빈의 매력에 흠뻑 빠진 상황이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "솔빈이 속한 라붐은 올해로 데뷔 3년차를 맞는 그룹이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 솔빈은 97년생이라고는 믿기지 않을 정도로 통통 튀는, 성숙한 매력을 선보여 화제가 되고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "솔빈의 매력적인 사진들은 아래에서 확인할 수 있다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'혜리 닮은꼴' 라붐 솔빈의 통통 튀는 매력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

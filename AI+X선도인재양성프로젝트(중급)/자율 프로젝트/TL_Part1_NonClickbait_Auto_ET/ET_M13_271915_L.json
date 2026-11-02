@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271915",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "빅톤 도한세 “보컬·랩·사운드 자신 있어, 우리의 강점”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅톤이 그들만의 강점을 밝혔다.\n도한세는 31일 서울 광진구 예스24라이브홀에서 진행된 미니 7집 ‘카오스’ 발매 쇼케이스에서 “보컬, 랩, 사운드면에서 정말 자신있다. 그게 저희만의 실력의 차이점이라고 생각한다”고 말했다.\n이어 “또 멤버들 각자 꾸준히 개인 활동을 해왔는데, 그러면서 좋은 모습 보여줘 각자 위치에서 팀을 빛내고 있다고 생각한다”고 전했다.\n최병찬 역시 “모든 그룹이 그들만의 매력이 있지만 우리만의 실력과 끈끈함 있다. 개인 활동 역시 빅톤을 알리는 데 큰 기여하고 있다고 생각한다”고 했다.\n빅톤의 미니 7집 ‘카오스’는 시간 3부작의 두 번째 시리즈로, 첫 시리즈인 전작 ‘크로노그래프’에서 공간을 탈출한 멤버들이 주체가 되지 못한 채 정해진 미래를 받으들이며 살아가는 혼란과 혼돈의 스토리를 담았다.\n타이틀곡 ‘스투피드 어클락’은 화려한 베이스라인과 멤버들의 유니크한 보컬이 조화를 이루는 팝 댄스 곡이다.\n이외에도 ‘보니 앤드 클라이드’ ‘잉크’ ‘스테이’ ‘인 러브’ ‘디어. 영’까지 총 6곡이 수록됐다.\n31일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅톤이 그들만의 강점을 밝혔다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "도한세는 31일 서울 광진구 예스24라이브홀에서 진행된 미니 7집 ‘카오스’ 발매 쇼케이스에서 “보컬, 랩, 사운드면에서 정말 자신있다. 그게 저희만의 실력의 차이점이라고 생각한다”고 말했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “또 멤버들 각자 꾸준히 개인 활동을 해왔는데, 그러면서 좋은 모습 보여줘 각자 위치에서 팀을 빛내고 있다고 생각한다”고 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최병찬 역시 “모든 그룹이 그들만의 매력이 있지만 우리만의 실력과 끈끈함 있다. 개인 활동 역시 빅톤을 알리는 데 큰 기여하고 있다고 생각한다”고 했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빅톤의 미니 7집 ‘카오스’는 시간 3부작의 두 번째 시리즈로, 첫 시리즈인 전작 ‘크로노그래프’에서 공간을 탈출한 멤버들이 주체가 되지 못한 채 정해진 미래를 받으들이며 살아가는 혼란과 혼돈의 스토리를 담았다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이틀곡 ‘스투피드 어클락’은 화려한 베이스라인과 멤버들의 유니크한 보컬이 조화를 이루는 팝 댄스 곡이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이외에도 ‘보니 앤드 클라이드’ ‘잉크’ ‘스테이’ ‘인 러브’ ‘디어. 영’까지 총 6곡이 수록됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "31일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅톤 도한세 “보컬·랩·사운드 자신 있어, 우리의 강점”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

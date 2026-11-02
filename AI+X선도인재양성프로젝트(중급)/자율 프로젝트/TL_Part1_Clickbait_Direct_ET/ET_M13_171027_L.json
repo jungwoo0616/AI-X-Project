@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171027",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "박재정, 딩고 ‘킬링 보이스’ 입성",
+    "newsSubTitle": "",
+    "newsContent": "가수 박재정이 딩고 뮤직 ‘킬링 보이스’ 출격을 예고했다 박재정은 31일 자신의 인스타그램에 “킬링보이스 저녁 7시에 공개됩니다”라는 글과 함께 ‘킬링 보이스’ 섬네일 사진을 게재했다. ‘킬링 보이스’는 아티스트들이 직접 선정한 세트리스트로 모든 이들을 ‘킬링’하는 ‘보이스’를 라이브로 생생하게 즐길 수 있는 콘텐츠다.\n앞서 해당 콘텐츠에는 아이유, 성시경, 백지영 빅마마 등이 출연해 화제를 모았다.\n특히 아이유는 조회수 2780만 뷰를 기록하며 파괴력 있는 콘텐츠 파워를 입증했다.\n박재정의 출연 소식에 누리꾼들은 “이날만을 기다려왔습니다” “와 드디어 진짜” “나올 줄 알았어” 등의 반응을 보였다.\n앞서 박재정의 ‘킬링 보이스’ 출연을 바랐던 팬들은 자체 Fanmade(팬메이드)영상까지 만들어 올리며 그의 딩고 입성을 고대해왔다.\n팬 영상 조회 수는 11만 뷰를 기록했다.\n한편, ‘킬링 보이스’ 박재정 편은 오늘(31일) 오후 7시 유튜브 채널 ‘딩고 뮤직’에서 최초 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 박재정이 딩고 뮤직 ‘킬링 보이스’ 출격을 예고했다 박재정은 31일 자신의 인스타그램에 “킬링보이스 저녁 7시에 공개됩니다”라는 글과 함께 ‘킬링 보이스’ 섬네일 사진을 게재했다. ‘킬링 보이스’는 아티스트들이 직접 선정한 세트리스트로 모든 이들을 ‘킬링’하는 ‘보이스’를 라이브로 생생하게 즐길 수 있는 콘텐츠다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 해당 콘텐츠에는 아이유, 성시경, 백지영 빅마마 등이 출연해 화제를 모았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 아이유는 조회수 2780만 뷰를 기록하며 파괴력 있는 콘텐츠 파워를 입증했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박재정의 출연 소식에 누리꾼들은 “이날만을 기다려왔습니다” “와 드디어 진짜” “나올 줄 알았어” 등의 반응을 보였다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 박재정의 ‘킬링 보이스’ 출연을 바랐던 팬들은 자체 Fanmade(팬메이드)영상까지 만들어 올리며 그의 딩고 입성을 고대해왔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "팬 영상 조회 수는 11만 뷰를 기록했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, ‘킬링 보이스’ 박재정 편은 오늘(31일) 오후 7시 유튜브 채널 ‘딩고 뮤직’에서 최초 공개된다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박재정의 '킬링 보이스' 입성을 축하하며 이것까지 만들어 환영하는 팬들",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271321",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방송콘텐츠 6년 동안 해외 불법 송출한 중국인 구속",
+		"newsSubTitle": "",
+		"newsContent": "문화체육관광부가 대전지방검찰청과 협력 수사로 한국 방송 콘텐츠를 6년간 해외에 불법 송출한 중국 국적 사범 2명을 입건했다고 25일 전했다 국내에서 검거된 1명은 구속기소하고 중국에서 방송송출 설비를 원격 관리한 공범 1명은 검찰에서 보완 수사를 통해 증거를 확보하고 범죄인인도 절차를 진행하고 있다.\n검거된 송출책들은 2016년부터 경기도 안산에 수십여 대의 위성 방송 수신기(셋톱박스)와 방송송출 장비 등을 갖추고 KBS, 연합뉴스TV 등 국내 정규방송과 종합편성채널 28곳의 실시간 방송 영상을 저작물 이용 계약을 맺지 않고 해외에 무단 송출했다.\n검거는 문체부와 대전지검, KBS 등 민관협업으로 이뤄졌다.\n문체부 특별사법경찰과 대전지검 특허범죄조사부는 수사 개시부터 압수수색, 구속까지 유기적으로 협력했다고 문체부는 설명했다.\n또 지난해 과학기술정보통신부 종합감사에서 불법 방송 시청용 기기인 EVPAD 유통 금지와 불법 IPTV 단속 관련 법제화 필요성이 제기된 가운데 EVPAD 국내 송출책을 검거한 첫 사례라고 전했다.\n정부는 국가 간 경계가 없는 온라인 범죄 특성을 이용해 지적재산권을 침해하는 행위에 대해 국제공조 수사를 추진하는 등 온라인상 범죄를 근절하는 데 수사력을 집중할 방침이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "문화체육관광부가 대전지방검찰청과 협력 수사로 한국 방송 콘텐츠를 6년간 해외에 불법 송출한 중국 국적 사범 2명을 입건했다고 25일 전했다 국내에서 검거된 1명은 구속기소하고 중국에서 방송송출 설비를 원격 관리한 공범 1명은 검찰에서 보완 수사를 통해 증거를 확보하고 범죄인인도 절차를 진행하고 있다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "검거된 송출책들은 2016년부터 경기도 안산에 수십여 대의 위성 방송 수신기(셋톱박스)와 방송송출 장비 등을 갖추고 KBS, 연합뉴스TV 등 국내 정규방송과 종합편성채널 28곳의 실시간 방송 영상을 저작물 이용 계약을 맺지 않고 해외에 무단 송출했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "검거는 문체부와 대전지검, KBS 등 민관협업으로 이뤄졌다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문체부 특별사법경찰과 대전지검 특허범죄조사부는 수사 개시부터 압수수색, 구속까지 유기적으로 협력했다고 문체부는 설명했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 지난해 과학기술정보통신부 종합감사에서 불법 방송 시청용 기기인 EVPAD 유통 금지와 불법 IPTV 단속 관련 법제화 필요성이 제기된 가운데 EVPAD 국내 송출책을 검거한 첫 사례라고 전했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정부는 국가 간 경계가 없는 온라인 범죄 특성을 이용해 지적재산권을 침해하는 행위에 대해 국제공조 수사를 추진하는 등 온라인상 범죄를 근절하는 데 수사력을 집중할 방침이라고 밝혔다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방송콘텐츠 6년 동안 해외 불법 송출한 중국인 구속",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

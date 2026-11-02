@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274523",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "알렉사, 첫 미니콘서트 홍대 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "알렉사(AleXa)가 국내 팬들을 위해 특별한 이벤트를 연다. 알렉사는 오늘(2일) 오후 7시 홍대 스페이스브릭에서 미니 콘서트 ‘웰컴 투 원더랜드’를 개최하며 국내 팬들과 교류하는 시간을 갖는다.\n이는 알렉사의 국내 첫 단독 공연으로 관심이 집중되고 있다.\n알렉사는 처음 진행하는 단독 콘서트인 만큼 현장을 찾은 팬들과 특별한 시간을 보내기 위해 다채로운 무대 구성과 알찬 셋리스트를 준비했다.\n미국 대규모 경연 프로그램 ‘아메리칸 송 콘테스트(American Song Contest, 이하 ASC)’의 우승곡 ‘원더랜드’를 비롯해 K팝 퍼포먼스의 정수를 보여주는 화려한 무대로 꾸민다.\n뿐만 아니라 오랜 기간 곁을 지켜준 팬들을 위해 깜짝 이벤트도 준비했다고. 특히 아쉽게 현장을 찾지 못한 팬들을 위해 KBS WORLD 오리지널 콘텐츠 ‘Welcome to Wonderland’에서도 현장을 중계한다.\n알렉사는 파워풀한 K팝 퍼포먼스의 정수를 선보이며 걸크러시한 매력으로 세계인을 사로잡은 글로벌 아티스트로, K팝 최초 미국 경연 우승자 타이틀까지 거머쥐며 국내외로 활발한 활동을 펼치고 있다. ‘K팝의 새 역사’를 쓴 만큼 이번 콘서트 역시 많은 이들의 기대가 모아지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "알렉사(AleXa)가 국내 팬들을 위해 특별한 이벤트를 연다. 알렉사는 오늘(2일) 오후 7시 홍대 스페이스브릭에서 미니 콘서트 ‘웰컴 투 원더랜드’를 개최하며 국내 팬들과 교류하는 시간을 갖는다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 알렉사의 국내 첫 단독 공연으로 관심이 집중되고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "알렉사는 처음 진행하는 단독 콘서트인 만큼 현장을 찾은 팬들과 특별한 시간을 보내기 위해 다채로운 무대 구성과 알찬 셋리스트를 준비했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국 대규모 경연 프로그램 ‘아메리칸 송 콘테스트(American Song Contest, 이하 ASC)’의 우승곡 ‘원더랜드’를 비롯해 K팝 퍼포먼스의 정수를 보여주는 화려한 무대로 꾸민다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뿐만 아니라 오랜 기간 곁을 지켜준 팬들을 위해 깜짝 이벤트도 준비했다고. 특히 아쉽게 현장을 찾지 못한 팬들을 위해 KBS WORLD 오리지널 콘텐츠 ‘Welcome to Wonderland’에서도 현장을 중계한다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "알렉사는 파워풀한 K팝 퍼포먼스의 정수를 선보이며 걸크러시한 매력으로 세계인을 사로잡은 글로벌 아티스트로, K팝 최초 미국 경연 우승자 타이틀까지 거머쥐며 국내외로 활발한 활동을 펼치고 있다. ‘K팝의 새 역사’를 쓴 만큼 이번 콘서트 역시 많은 이들의 기대가 모아지고 있다.",
+				"sentenceSize": 154
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알렉사, 첫 미니콘서트 홍대 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

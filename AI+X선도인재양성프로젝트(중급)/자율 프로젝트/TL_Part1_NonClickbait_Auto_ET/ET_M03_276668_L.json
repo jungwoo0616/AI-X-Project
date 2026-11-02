@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276668",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "씨스타 해체 후 갑자기 나이 바뀐 보라",
+		"newsSubTitle": "",
+		"newsContent": "최근 보라의 프로필 상 나이가 바뀌어 화제가 되고 있다.\n현재 포털사이트에 보라의 이름을 검색하면 1989년 12월 30일생으로 소개된다.\n그러나 보라는 앞서 '빠른 90년생'으로 알려졌다.\n포털사이트 내 프로필이 업데이트되기 전에는 1990년 1월 30일생이라고 소개됐다.\n실제로 KBS2TV '청출불패 시즌 2'에 출연했을 당시에도 \\\"빠른 90년생이다\\\"라고 자신을 소개한 바 있다.\n그런데 그룹 씨스타 해체 이후 소속사가 바뀌면서 프로필 상의 생년월일도 89년생에서 90년생으로 바뀌어 네티즌들의 눈길을 끈 것이다.\n이를 본 네티즌들은 \\\"태어난 날과 호적상 생일의 차이인가?\\\" \\\"왜 갑자기 바뀐 거지?\\\" \\\"나이를 한 살 속인 건가?\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 보라의 프로필 상 나이가 바뀌어 화제가 되고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현재 포털사이트에 보라의 이름을 검색하면 1989년 12월 30일생으로 소개된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 보라는 앞서 '빠른 90년생'으로 알려졌다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "포털사이트 내 프로필이 업데이트되기 전에는 1990년 1월 30일생이라고 소개됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제로 KBS2TV '청출불패 시즌 2'에 출연했을 당시에도 \\\"빠른 90년생이다\\\"라고 자신을 소개한 바 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런데 그룹 씨스타 해체 이후 소속사가 바뀌면서 프로필 상의 생년월일도 89년생에서 90년생으로 바뀌어 네티즌들의 눈길을 끈 것이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌들은 \\\"태어난 날과 호적상 생일의 차이인가?\\\" \\\"왜 갑자기 바뀐 거지?\\\" \\\"나이를 한 살 속인 건가?\\\" 등의 반응을 보였다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "씨스타 해체 후 갑자기 나이 바뀐 보라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

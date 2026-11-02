@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275974",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "세븐틴, 7연속 밀리언셀러",
+		"newsSubTitle": "",
+		"newsContent": "그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 7개 앨범 연속 ‘밀리언셀러’를 달성했다.\n21일 음반 판매량 집계 사이트 한터차트에 따르면, 지난 18일 발매된 세븐틴의 정규 4집 리패키지 앨범 ‘SECTOR 17’(섹터 17)의 판매량이 총 103만 2,238장으로 집계됐다.\n특히, ‘SECTOR 17’은 발매 첫날에만 93만 5,138장 판매된 데 이어 발매 3일 만에 ‘밀리언셀러’를 달성했다.\n세븐틴은 7개 앨범 연속 밀리언 셀러 달성과 함께 K-팝 아티스트 중 리패키지 앨범으로 ‘초동 밀리언셀러’를 달성한 유일한 아티스트라는 대기록을 작성했다.\n세븐틴은 ‘SECTOR 17’으로 일본도 접수했다.\n일본 최대 음원 사이트인 라인뮤직에서 ‘SECTOR 17’과 타이틀곡 ‘_WORLD’가 각각 앨범과 음원 실시간차트 1위를 차지한 뒤, 7월 19~20일 자 앨범과 음원 데일리 차트에서도 정상에 올랐다.\n세븐틴은 ‘SECTOR 17’으로 컴백과 동시에 각종 글로벌 차트에서 두각을 나타내고 있다.\n전 세계를 ‘세븐틴표 청량’으로 물들이고 있는 이들이 ‘SECTOR 17’으로 세울 신기록 행진에 기대감이 높아지고 있다.\n한편, 세븐틴은 오늘(21일) 방송되는 Mnet ‘엠카운트다운’에 출연해 리더즈(에스쿱스, 호시, 우지)의 유닛곡 ‘CHEERS’와 타이틀곡 ‘_WORLD’ 무대를 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 7개 앨범 연속 ‘밀리언셀러’를 달성했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 음반 판매량 집계 사이트 한터차트에 따르면, 지난 18일 발매된 세븐틴의 정규 4집 리패키지 앨범 ‘SECTOR 17’(섹터 17)의 판매량이 총 103만 2,238장으로 집계됐다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히, ‘SECTOR 17’은 발매 첫날에만 93만 5,138장 판매된 데 이어 발매 3일 만에 ‘밀리언셀러’를 달성했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세븐틴은 7개 앨범 연속 밀리언 셀러 달성과 함께 K-팝 아티스트 중 리패키지 앨범으로 ‘초동 밀리언셀러’를 달성한 유일한 아티스트라는 대기록을 작성했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세븐틴은 ‘SECTOR 17’으로 일본도 접수했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일본 최대 음원 사이트인 라인뮤직에서 ‘SECTOR 17’과 타이틀곡 ‘_WORLD’가 각각 앨범과 음원 실시간차트 1위를 차지한 뒤, 7월 19~20일 자 앨범과 음원 데일리 차트에서도 정상에 올랐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세븐틴은 ‘SECTOR 17’으로 컴백과 동시에 각종 글로벌 차트에서 두각을 나타내고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전 세계를 ‘세븐틴표 청량’으로 물들이고 있는 이들이 ‘SECTOR 17’으로 세울 신기록 행진에 기대감이 높아지고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 세븐틴은 오늘(21일) 방송되는 Mnet ‘엠카운트다운’에 출연해 리더즈(에스쿱스, 호시, 우지)의 유닛곡 ‘CHEERS’와 타이틀곡 ‘_WORLD’ 무대를 펼칠 예정이다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐틴, 7연속 밀리언셀러",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276928",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태어나 처음 레몬 맛 본 윌리엄의 '심쿵' 표정",
+		"newsSubTitle": "",
+		"newsContent": "‘순둥이’ 윌리엄의 레몬 먹는 모습이 화제다.\n27일 온라인상에서 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다' 180회의 예고편이 공개됐다.\n영상 속에서 샘 해밍턴은 이제 막 이유식을 먹기 시작한 윌리엄이 다양한 맛을 경험할 수 있도록 미각 교육을 시작했다.\n삶은 호박을 쥐여주자 윌리엄은 방긋 웃으며 맛있게 먹었다.\n아빠에게 줬다 뺐는 귀여운 모습도 보였다.\n그 다음으로 레몬을 먹여주자 윌리엄은 신맛에 놀라 표정을 찡그렸다.\n그러나 힘들어하면서도 양손을 써가며 계속 레몬을 먹었다.\n입가로 레몬즙이 흘러도 아랑곳하지 않았다.\n레몬을 열정적으로 먹는 윌리엄을 본 샘 해밍턴은 “너 왜 계속 먹지?”라며 놀라워했다.\n레몬에 중독된 윌리엄의 모습이 담긴 '슈퍼맨이 돌아온다' 180회는 이번주 일요일 오후 4시 50분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘순둥이’ 윌리엄의 레몬 먹는 모습이 화제다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 온라인상에서 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다' 180회의 예고편이 공개됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에서 샘 해밍턴은 이제 막 이유식을 먹기 시작한 윌리엄이 다양한 맛을 경험할 수 있도록 미각 교육을 시작했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삶은 호박을 쥐여주자 윌리엄은 방긋 웃으며 맛있게 먹었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아빠에게 줬다 뺐는 귀여운 모습도 보였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 다음으로 레몬을 먹여주자 윌리엄은 신맛에 놀라 표정을 찡그렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 힘들어하면서도 양손을 써가며 계속 레몬을 먹었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "입가로 레몬즙이 흘러도 아랑곳하지 않았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "레몬을 열정적으로 먹는 윌리엄을 본 샘 해밍턴은 “너 왜 계속 먹지?”라며 놀라워했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "레몬에 중독된 윌리엄의 모습이 담긴 '슈퍼맨이 돌아온다' 180회는 이번주 일요일 오후 4시 50분에 방송된다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태어나 처음 레몬 맛 본 윌리엄의 '심쿵' 표정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

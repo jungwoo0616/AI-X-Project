@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281430",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "쇼타임 성규, \\\"최근 우현과 다퉜다\\\"…무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "'쇼타임 인피니트' 성규가 \\\"우현과 최근 다퉜다\\\"고 전했다.\n성규는 10일 오후 2시 서울 여의도CGV에서 열린 케이블채널 MBC에브리원 예능 프로그램 '쇼타임 인피니트' 제작발표회에서 이같이 밝혔다, 성규는 \\\"최근 우현과 사소한 다툼이 있었다\\\"며 \\\"대화로 풀었다. 소주 한잔하고 풀 나이가 됐다\\\"고 말했다.\n성규는 이어 \\\"사실 싸웠다기보다 서로 삐쳐서 3일정도 얘기를 안 했다\\\"고 덧붙였다.\n또한 \\\"우리 그룹은 타 그룹에 비해 디스도 많이 하는데 친해서 가능한 일\\\"이라고 설명해 이목을 끌었다.\n한편 '쇼타임 인피니트'는 김성규 장동우 남우현 호야 이성열 엘 이성종 등 7인 7색의 매력을 가진 그룹 인피니트가 가수 활동 6년차에 접어들면서 가진 고민과 성찰, 멤버 간의 관계를 통 해 진정한 아티스트가 되는 과정을 그릴 예정으로 10일 오후 6시 첫 방송된다.\n온라인 중앙일보 [사진 일간스포츠] 쇼타임",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'쇼타임 인피니트' 성규가 \\\"우현과 최근 다퉜다\\\"고 전했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "성규는 10일 오후 2시 서울 여의도CGV에서 열린 케이블채널 MBC에브리원 예능 프로그램 '쇼타임 인피니트' 제작발표회에서 이같이 밝혔다, 성규는 \\\"최근 우현과 사소한 다툼이 있었다\\\"며 \\\"대화로 풀었다. 소주 한잔하고 풀 나이가 됐다\\\"고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "성규는 이어 \\\"사실 싸웠다기보다 서로 삐쳐서 3일정도 얘기를 안 했다\\\"고 덧붙였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 \\\"우리 그룹은 타 그룹에 비해 디스도 많이 하는데 친해서 가능한 일\\\"이라고 설명해 이목을 끌었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 '쇼타임 인피니트'는 김성규 장동우 남우현 호야 이성열 엘 이성종 등 7인 7색의 매력을 가진 그룹 인피니트가 가수 활동 6년차에 접어들면서 가진 고민과 성찰, 멤버 간의 관계를 통 해 진정한 아티스트가 되는 과정을 그릴 예정으로 10일 오후 6시 첫 방송된다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠] 쇼타임",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쇼타임 성규, \\\"최근 우현과 다퉜다\\\"…무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

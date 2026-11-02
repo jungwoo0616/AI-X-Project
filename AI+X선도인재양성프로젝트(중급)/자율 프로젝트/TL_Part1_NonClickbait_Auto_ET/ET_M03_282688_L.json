@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282688",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'라디오스타' 황미영, 모태솔로 고백 \\\"남자와 단둘이 술을 먹어도…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'황미영' '라디오스타' 황미영이 연애 경험이 없음을 털어 놓았다.\n18일 밤 방송된 MBC 예능프로그램 '황금어장-라디오스타'는 걸그룹 브라운아이드걸스 나르샤, 배우 박준면, 황미영, 개그우먼 홍윤화가 출연한 '마성의 치.매.녀(치명적인 매력을 담은 녀)' 특집으로 꾸며졌다.\n이날 방송에서 황미영은 \\\"남자에게 애교가 없는 편이라고?\\\"라는 김국진의 물음에 \\\"남자를 만난 적이 한 번도 없다. 기본적으로 내가 자신감이 좀 없어서 벽을 쳤던 것 같기도 하다. 그리고 뭐 그렇게 훅 들어온 사람도 없었다\\\"고 밝혔다.\n이어 \\\"내가 문제가 좀 있다. 술을 먹으면 정신력으로 계속 버티는데, 그래서 남자와 단 둘이 술을 먹어도 걔를 집까지 바래다준다\\\"고 털어놨다.\n이를 들은 박준면은 \\\"그렇게 이겨 먹으면 안 돼. 무너져야지. 틈이 있어야 돼. 이길 필요가 없어\\\"라고 충고해 출연진들을 폭소케했다.\n온라인 일간스포츠 [사진=MBC 방송화면 캡쳐] 라디오스타 황미영",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'황미영' '라디오스타' 황미영이 연애 경험이 없음을 털어 놓았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 밤 방송된 MBC 예능프로그램 '황금어장-라디오스타'는 걸그룹 브라운아이드걸스 나르샤, 배우 박준면, 황미영, 개그우먼 홍윤화가 출연한 '마성의 치.매.녀(치명적인 매력을 담은 녀)' 특집으로 꾸며졌다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 황미영은 \\\"남자에게 애교가 없는 편이라고?\\\"라는 김국진의 물음에 \\\"남자를 만난 적이 한 번도 없다. 기본적으로 내가 자신감이 좀 없어서 벽을 쳤던 것 같기도 하다. 그리고 뭐 그렇게 훅 들어온 사람도 없었다\\\"고 밝혔다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"내가 문제가 좀 있다. 술을 먹으면 정신력으로 계속 버티는데, 그래서 남자와 단 둘이 술을 먹어도 걔를 집까지 바래다준다\\\"고 털어놨다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 들은 박준면은 \\\"그렇게 이겨 먹으면 안 돼. 무너져야지. 틈이 있어야 돼. 이길 필요가 없어\\\"라고 충고해 출연진들을 폭소케했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 일간스포츠 [사진=MBC 방송화면 캡쳐] 라디오스타 황미영",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'라디오스타' 황미영, 모태솔로 고백 \\\"남자와 단둘이 술을 먹어도…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

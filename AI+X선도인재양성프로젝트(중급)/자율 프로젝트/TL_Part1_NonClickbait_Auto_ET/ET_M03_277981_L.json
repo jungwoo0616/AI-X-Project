@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277981",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "호빗 집 팔아요…10억원에 부동산 매물로 나와",
+		"newsSubTitle": "",
+		"newsContent": "‘반지의 제왕’과 ‘호빗’의 꼬마 주인공 호빗족(族)의 집은 나즈막한 언덕에 굴을 파고 만들어졌다.\n집 안엔 온갖 먹거리가 잔뜩 재어져 있다.\n좀처럼 집밖으로 나오기가 싫을 정도로 안락하다.\n이와 같은 호빗 집이 소설과 영화가 아닌 현실에서도 있다.\n영국의 부동산 거래 사이트 ‘WM 사이크스&선’에서 호빗 집이 매물로 나왔다.\n가격은 70만 파운드(약 10억원). 영국 동부 캠브리지셔(cambridgeshire)주의 홈(Holme)에 있는 집이다.\n호빗 집 스타일로 건축됐다.\n침실 4개에 수영장과 연주실이 달려 있고, 1에이커(0.4㏊)의 부지에 장미정원도 꾸며졌다.\n럭셔리 호빗 집이다.\n이곳 말고도 호빗 집은 여러 개 있다.\n뉴질랜드엔 ‘반지의 제왕’과 ‘호빗’을 찍은 촬영장이 관광지인 ‘호비튼’으로 개발됐다.\n피터 잭슨 감독과 함께 특수효과팀으로 ‘반지의 제왕’과 ‘호빗’을 찍은 사이먼 데일(Simon Dale)이라는 영국인은 자신의 집을 3000 파운드(약 440만원)을 들여 호빗 집으로 개조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘반지의 제왕’과 ‘호빗’의 꼬마 주인공 호빗족(族)의 집은 나즈막한 언덕에 굴을 파고 만들어졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "집 안엔 온갖 먹거리가 잔뜩 재어져 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "좀처럼 집밖으로 나오기가 싫을 정도로 안락하다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 같은 호빗 집이 소설과 영화가 아닌 현실에서도 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영국의 부동산 거래 사이트 ‘WM 사이크스&선’에서 호빗 집이 매물로 나왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가격은 70만 파운드(약 10억원). 영국 동부 캠브리지셔(cambridgeshire)주의 홈(Holme)에 있는 집이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "호빗 집 스타일로 건축됐다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "침실 4개에 수영장과 연주실이 달려 있고, 1에이커(0.4㏊)의 부지에 장미정원도 꾸며졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "럭셔리 호빗 집이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이곳 말고도 호빗 집은 여러 개 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "뉴질랜드엔 ‘반지의 제왕’과 ‘호빗’을 찍은 촬영장이 관광지인 ‘호비튼’으로 개발됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "피터 잭슨 감독과 함께 특수효과팀으로 ‘반지의 제왕’과 ‘호빗’을 찍은 사이먼 데일(Simon Dale)이라는 영국인은 자신의 집을 3000 파운드(약 440만원)을 들여 호빗 집으로 개조했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "호빗 집 팔아요…10억원에 부동산 매물로 나와",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

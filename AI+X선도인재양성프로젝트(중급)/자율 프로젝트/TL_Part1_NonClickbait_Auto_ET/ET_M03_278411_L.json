@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278411",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'님과 함께' 장동민 나비, \\\"여보라고 불러\\\"…닭살 커플 인정합니다",
+		"newsSubTitle": "",
+		"newsContent": "'님과 함께2'에 출연한 나비-장동민 커플이 오나미-허경환 가상부부를 방문했다.\n15일 방송된 JTBC '님과 함께 시즌2-최고의 사랑'에는 나비-장동민 커플이 출연했다.\n이날 방송에서는 장동민이 먼저 오나미-허경환 가상부부의 신혼집을 방문해 나비를 기다렸다.\n이전까지 시어머니처럼 오나미에게 잔소리를 늘어놓던 장동민은 나비가 오자 다정하게 인사하며 살갑게 대해 평소와는 다른 모습을 보였다.\n이후 오나미는 나비가 장동민을 '오빠'라고 부르자 놀라워했다.\n그러자 나비는 \\\"평소에는 오빠라고 부르지 않지만 오늘은 그렇게 부르기로 했다\\\"고 말했고, 오나미가 \\\"그럼 평소에 어떻게 부르냐\\\"고 묻자 나비와 장동민은 동시에 \\\"여보\\\"라고 외치며 닭살 커플의 모습을 보였다.\n온라인 중앙일보 [사진 JTBC '님과 함께2' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'님과 함께2'에 출연한 나비-장동민 커플이 오나미-허경환 가상부부를 방문했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 방송된 JTBC '님과 함께 시즌2-최고의 사랑'에는 나비-장동민 커플이 출연했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서는 장동민이 먼저 오나미-허경환 가상부부의 신혼집을 방문해 나비를 기다렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이전까지 시어머니처럼 오나미에게 잔소리를 늘어놓던 장동민은 나비가 오자 다정하게 인사하며 살갑게 대해 평소와는 다른 모습을 보였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 오나미는 나비가 장동민을 '오빠'라고 부르자 놀라워했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러자 나비는 \\\"평소에는 오빠라고 부르지 않지만 오늘은 그렇게 부르기로 했다\\\"고 말했고, 오나미가 \\\"그럼 평소에 어떻게 부르냐\\\"고 묻자 나비와 장동민은 동시에 \\\"여보\\\"라고 외치며 닭살 커플의 모습을 보였다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC '님과 함께2' 캡처]",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'님과 함께' 장동민 나비, \\\"여보라고 불러\\\"…닭살 커플 인정합니다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

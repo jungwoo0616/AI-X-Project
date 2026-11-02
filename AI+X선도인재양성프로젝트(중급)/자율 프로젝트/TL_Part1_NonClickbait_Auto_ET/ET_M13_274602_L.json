@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274602",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "MC그리, 동생 생일 맞아 고깔모자 쓴 래퍼",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 MC그리가 동생 생일 축하에 망가짐을 두려워 하지 않았다.\n그리는 3일 자신의 사회관계망서비스(SNS)에 “동생 생일기념 본가 방문”이라는 글과 함께 사진을 게재했다.\n공개한 사진에서 그리는 ‘디즈니’의 미키마우스 꼬깔모자를 쓰고 포즈를 취했다.\n새로 생긴 동생을 위해 래퍼로서 귀여운 모자를 쓰는 것도 마다하지 않았다.\n한편 그리는 방송인 김구라의 아들로 2016년 래퍼로 데뷔했다.\n지난해 아버지 김구라가 둘째를 얻으면서 23살 차이의 동생이 생겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 MC그리가 동생 생일 축하에 망가짐을 두려워 하지 않았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그리는 3일 자신의 사회관계망서비스(SNS)에 “동생 생일기념 본가 방문”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 그리는 ‘디즈니’의 미키마우스 꼬깔모자를 쓰고 포즈를 취했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새로 생긴 동생을 위해 래퍼로서 귀여운 모자를 쓰는 것도 마다하지 않았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 그리는 방송인 김구라의 아들로 2016년 래퍼로 데뷔했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 아버지 김구라가 둘째를 얻으면서 23살 차이의 동생이 생겼다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MC그리, 동생 생일 맞아 고깔모자 쓴 래퍼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

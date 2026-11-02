@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268841",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘오늘 컴백’ 임영웅, 유튜브 조회수 13억 8천 넘겼다",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅의 유튜브 누적 조회수가 13억 8천만 회를 넘겼다.\n2일 임영웅의 유튜브 채널 정보에 따르면 임영웅의 유튜브 채널 ‘임영웅’은 누적 조회수 13억 8천만 회를 돌파했다.(오전 9시 50분 기준 1,381,682,094회) 임영웅은 그간 유튜브 계정을 통해 커버 영상과 트로트 버스킹 영상, 브이로그 등 자신의 일상과 음악을 공유하며 팬들과 소통했다.\n특히 그는 최근 ‘우리들의 블루스’ 뮤직비디오를 공개하며 지난 1일 유튜브 유튜브 인기 뮤직 비디오 1위(4월 22일~4월 28일 기준)를 기록했다.\n최근 임영웅은 유튜브를 통해 오늘 공개하는 정규 1집 앨범의 뮤직비디오 티저 영상을 공개하며 화제를 모았다.\n해당 영상은 공개 3일 만에 조회수 45만을 기록하며 ‘임영웅 파워’를 입증했다.\n한편 임영웅은 오늘(2일) 오후 6시 온라인 음원 사이트를 통해 데뷔 첫 정규 앨범 ‘아임 히어로(IM HERO)’를 발표한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅의 유튜브 누적 조회수가 13억 8천만 회를 넘겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 임영웅의 유튜브 채널 정보에 따르면 임영웅의 유튜브 채널 ‘임영웅’은 누적 조회수 13억 8천만 회를 돌파했다.(오전 9시 50분 기준 1,381,682,094회) 임영웅은 그간 유튜브 계정을 통해 커버 영상과 트로트 버스킹 영상, 브이로그 등 자신의 일상과 음악을 공유하며 팬들과 소통했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 그는 최근 ‘우리들의 블루스’ 뮤직비디오를 공개하며 지난 1일 유튜브 유튜브 인기 뮤직 비디오 1위(4월 22일~4월 28일 기준)를 기록했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 임영웅은 유튜브를 통해 오늘 공개하는 정규 1집 앨범의 뮤직비디오 티저 영상을 공개하며 화제를 모았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 영상은 공개 3일 만에 조회수 45만을 기록하며 ‘임영웅 파워’를 입증했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 임영웅은 오늘(2일) 오후 6시 온라인 음원 사이트를 통해 데뷔 첫 정규 앨범 ‘아임 히어로(IM HERO)’를 발표한다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘오늘 컴백’ 임영웅, 유튜브 조회수 13억 8천 넘겼다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

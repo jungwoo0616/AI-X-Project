@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272274",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "오민석, 신동미와 키스 후 “집에 가자”...윤시윤 방해로 실패 (현재는 아름다워)",
+		"newsSubTitle": "",
+		"newsContent": "‘현재는 아름다워’ 오민석이 윤시윤에게 방해당했다.\n4일 오후 방송된 KBS2 주말드라마 ‘현재는 아름다워’에서는 신동미와 입맞춤 후 집에 가자고 말한 오민석이 윤시윤에게 방해당해 분노하는 장면이 전파를 탔다.\n이날 이윤재(오민석)는 썸을 끝내자는 심해준(신동미)에게 “나는 안 만나는 거 안 되겠는데”라고 말했다.\n심해준 얼굴을 붙잡은 이윤재는 그에게 입을 맞췄다.\n갑자기 어색해진 분위기에 심해준은 이제 어떻게 하냐고 물었고 이윤재는 “집에 가자”라고 말했다.\n이때 의뢰인 전화인지 확인하던 심해준은 이현재(윤시윤)에게서 전화가 왔고 새우튀김을 가져다준다는 말에 “나 지금 밖이야. 네가 뭔데 참견이야”라고 거절했다.\n결국 집에 일찍 들어가겠다고 말한 심해준에 이윤재는 “얘는 뭔데. 자기가 뭔데 빨리 오라 마라야”라고 분노했다.\n요즘 자기가 힘들어해서 이현재가 신경 써주는 거라 말한 심해준은 이윤재에게 각자 집으로 가자고 말했다.\n한편 KBS2 주말드라마 ‘현재는 아름다워’는 오후 8시에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘현재는 아름다워’ 오민석이 윤시윤에게 방해당했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 오후 방송된 KBS2 주말드라마 ‘현재는 아름다워’에서는 신동미와 입맞춤 후 집에 가자고 말한 오민석이 윤시윤에게 방해당해 분노하는 장면이 전파를 탔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이윤재(오민석)는 썸을 끝내자는 심해준(신동미)에게 “나는 안 만나는 거 안 되겠는데”라고 말했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "심해준 얼굴을 붙잡은 이윤재는 그에게 입을 맞췄다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "갑자기 어색해진 분위기에 심해준은 이제 어떻게 하냐고 물었고 이윤재는 “집에 가자”라고 말했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이때 의뢰인 전화인지 확인하던 심해준은 이현재(윤시윤)에게서 전화가 왔고 새우튀김을 가져다준다는 말에 “나 지금 밖이야. 네가 뭔데 참견이야”라고 거절했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결국 집에 일찍 들어가겠다고 말한 심해준에 이윤재는 “얘는 뭔데. 자기가 뭔데 빨리 오라 마라야”라고 분노했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "요즘 자기가 힘들어해서 이현재가 신경 써주는 거라 말한 심해준은 이윤재에게 각자 집으로 가자고 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 KBS2 주말드라마 ‘현재는 아름다워’는 오후 8시에 만나볼 수 있다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오민석, 신동미와 키스 후 “집에 가자”...윤시윤 방해로 실패 (현재는 아름다워)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

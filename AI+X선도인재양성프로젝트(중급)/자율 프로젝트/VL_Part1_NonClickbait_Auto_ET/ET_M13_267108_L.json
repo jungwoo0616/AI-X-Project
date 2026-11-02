@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267108",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "베리베리 ‘VERIVERY SERIES O’ 스페셜 티저 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 베리베리가 정규 1집 스페셜 티저를 공개했다.\n베리베리는 16일 사회관계망서비스(SNS)를 통해 첫 정규 앨범 ‘VERIVERY SERIES O [ROUND 3 : WHOLE]’ 스페셜 티저 이미지를 선보였다.\n공개된 흑백 사진에는 각각 다른 특징을 지닌 베리베리 멤버들의 손이 담겼다.\n일곱 멤버들 모두 반지를 끼고 있는 모습으로, 투명한 유리구슬이나 총, 나침반 등 특별한 오브제 사용해 신보 콘셉트에 대한 궁금증을 자극했다.\n이번 신보는 베리베리가 데뷔 3년 만에 발매하는 첫 정규 앨범으로 타이틀곡 ‘Undercover’를 비롯한 13개의 트랙이 수록된다.\n멤버 호영이 타이틀곡 ‘Undercover’ 작사에 참여했으며 동헌, 계현, 연호, 용승 등이 수록곡 ‘Childhood’, ‘Velocity’, ‘잠깐, 봄(Our spring), ’Fine’ 작사, 작곡에 참여해 팀의 색깔을 더했다. 한편 베리베리 정규 1집 ‘VERIVERY SERIES O [ROUND 3 : WHOLE]’은 오는 25일 오후 6시 전 온라인 음원사이트 등을 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 베리베리가 정규 1집 스페셜 티저를 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "베리베리는 16일 사회관계망서비스(SNS)를 통해 첫 정규 앨범 ‘VERIVERY SERIES O [ROUND 3 : WHOLE]’ 스페셜 티저 이미지를 선보였다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 흑백 사진에는 각각 다른 특징을 지닌 베리베리 멤버들의 손이 담겼다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일곱 멤버들 모두 반지를 끼고 있는 모습으로, 투명한 유리구슬이나 총, 나침반 등 특별한 오브제 사용해 신보 콘셉트에 대한 궁금증을 자극했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 신보는 베리베리가 데뷔 3년 만에 발매하는 첫 정규 앨범으로 타이틀곡 ‘Undercover’를 비롯한 13개의 트랙이 수록된다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "멤버 호영이 타이틀곡 ‘Undercover’ 작사에 참여했으며 동헌, 계현, 연호, 용승 등이 수록곡 ‘Childhood’, ‘Velocity’, ‘잠깐, 봄(Our spring), ’Fine’ 작사, 작곡에 참여해 팀의 색깔을 더했다. 한편 베리베리 정규 1집 ‘VERIVERY SERIES O [ROUND 3 : WHOLE]’은 오는 25일 오후 6시 전 온라인 음원사이트 등을 통해 발매된다.",
+				"sentenceSize": 222
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베리베리 ‘VERIVERY SERIES O’ 스페셜 티저 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

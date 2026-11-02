@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_286163",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'마션', 韓 극장가 점령…개봉 6일만 200만 관객 돌파",
+		"newsSubTitle": "",
+		"newsContent": "영화 '마션'(리들리 스콧 감독)이 개봉 6일째를 맞은 오늘(13일) 200만 관객을 돌파한다.\n영화진흥위원회 영화관입장권통합전산망에 따르면 지난 12일 '마션'은 12만6912명의 관객을 모으며, 누적 관객 수 194만1869명을 기록했다.\n주말에만 100만 관객을 사로잡은 '마션'의 흥행 질주가 심상치 않다.\n현재 한국 극장가를 유일무이하게 독주 중이다.\n평일임에도 홀로 10만 관객을 넘어섰다.\n천만 관객을 돌파한 영화 '인터스텔라'와 '아바타'를 떠올리게 하는 위력을 자랑하고 있다.\n이들을 넘어서는 대기록을 세울 수 있을지 귀추가 주목된다. '마션'은 화성을 탐사하던 중 고립된 한 남자를 구하기 위해 NASA의 팀원들과 지구인이 펼치는 구출 작전을 그린 작품이다.\n맷 데이먼이 출연했으며, 리들리 스콧이 연출을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 '마션'(리들리 스콧 감독)이 개봉 6일째를 맞은 오늘(13일) 200만 관객을 돌파한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영화진흥위원회 영화관입장권통합전산망에 따르면 지난 12일 '마션'은 12만6912명의 관객을 모으며, 누적 관객 수 194만1869명을 기록했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주말에만 100만 관객을 사로잡은 '마션'의 흥행 질주가 심상치 않다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 한국 극장가를 유일무이하게 독주 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "평일임에도 홀로 10만 관객을 넘어섰다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "천만 관객을 돌파한 영화 '인터스텔라'와 '아바타'를 떠올리게 하는 위력을 자랑하고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이들을 넘어서는 대기록을 세울 수 있을지 귀추가 주목된다. '마션'은 화성을 탐사하던 중 고립된 한 남자를 구하기 위해 NASA의 팀원들과 지구인이 펼치는 구출 작전을 그린 작품이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "맷 데이먼이 출연했으며, 리들리 스콧이 연출을 맡았다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'마션', 韓 극장가 점령…개봉 6일만 200만 관객 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

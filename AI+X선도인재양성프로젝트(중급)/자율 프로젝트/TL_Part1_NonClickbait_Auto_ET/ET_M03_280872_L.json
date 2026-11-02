@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280872",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "슈가맨 정재욱, 공백기간 동안 취미로 주식해서 20억 벌었다?",
+		"newsSubTitle": "",
+		"newsContent": "'슈가맨' 정재욱이 화제다.\n정재욱은 과거 한 매체와의 인터뷰에서 \\\"직장인의 삶을 살았다. 매일 컴퓨터 모니터를 켜고 매달렸다\\\"며 공백기에 주식 투자에 몰두했던 사연을 털어놓았다.\n그는 \\\"클릭 한 번에 수천만 원이 왔다 갔다 한다. 한순간도 주가에 눈을 뗄 수가 없었다. 운이 좋아서 큰돈을 만졌다. 하지만 사람 사는 게 아니더라. 이건 아니다 싶었다\\\"고 밝혔다.\n이어 정재욱은 \\\"쉽게 번 돈은 쉽게 나간다. 흥청망청 사람들과 어울렸는데 점점 혼자가 되더라\\\"고 덧붙였다.\n정재욱 소속사 측에 따르면 정재욱은 3년간의 공백 기간 동안 취미로 시작한 주식으로 20억 원의 수익을 냈다.\n이는 투자금의 10배 이상으로 놀라움을 자아냈다.\n특히 정재욱은 기업 재무제표를 보고 공부하는 것뿐만 아니라 애널리스트들에게 상담까지 받을 정도로 열성을 다했다.\n관계자는 \\\"록 음악에 뜻을 품고 있던 정재욱이 더 질 좋은 음악을 위해 돈을 벌겠다며 시작한 주식투자에 재미를 붙였다\\\"고 설명해 눈길을 끌었다.\n온라인 중앙일보 '슈가맨 정재욱'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'슈가맨' 정재욱이 화제다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정재욱은 과거 한 매체와의 인터뷰에서 \\\"직장인의 삶을 살았다. 매일 컴퓨터 모니터를 켜고 매달렸다\\\"며 공백기에 주식 투자에 몰두했던 사연을 털어놓았다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"클릭 한 번에 수천만 원이 왔다 갔다 한다. 한순간도 주가에 눈을 뗄 수가 없었다. 운이 좋아서 큰돈을 만졌다. 하지만 사람 사는 게 아니더라. 이건 아니다 싶었다\\\"고 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 정재욱은 \\\"쉽게 번 돈은 쉽게 나간다. 흥청망청 사람들과 어울렸는데 점점 혼자가 되더라\\\"고 덧붙였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정재욱 소속사 측에 따르면 정재욱은 3년간의 공백 기간 동안 취미로 시작한 주식으로 20억 원의 수익을 냈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 투자금의 10배 이상으로 놀라움을 자아냈다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 정재욱은 기업 재무제표를 보고 공부하는 것뿐만 아니라 애널리스트들에게 상담까지 받을 정도로 열성을 다했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "관계자는 \\\"록 음악에 뜻을 품고 있던 정재욱이 더 질 좋은 음악을 위해 돈을 벌겠다며 시작한 주식투자에 재미를 붙였다\\\"고 설명해 눈길을 끌었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 '슈가맨 정재욱'",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈가맨 정재욱, 공백기간 동안 취미로 주식해서 20억 벌었다?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276339",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "테디·블랙핑크 제니 열애설…YG \\\"금시초문\\\" (공식)",
+		"newsSubTitle": "",
+		"newsContent": "그룹 원타임 출신 프로듀서 테디(39)와 걸그룹 제니(21)가 열애설에 휩싸였으나 YG엔터테인먼트 측이 이를 부인했다.\nYG 측은 14일 테디와 제니가 열애 중이라는 미디어펜의 보도에 대해 \\\"열애설은 금시초문이다\\\"라고 밝혔다.\n테디는 지난 1998년 원타임 멤버로 가요계에 데뷔했다.\n이후 프로듀서로 활동하며 빅뱅, 2NE1, 블랙핑크 등 YG 가수들의 대표 히트곡을 양산했다.\n제니는 지난해 블랙핑크 멤버로 데뷔했다.\n이후 '불장난', '휘파람', '마지막처럼' 등의 곡으로 인기를 얻었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 원타임 출신 프로듀서 테디(39)와 걸그룹 제니(21)가 열애설에 휩싸였으나 YG엔터테인먼트 측이 이를 부인했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YG 측은 14일 테디와 제니가 열애 중이라는 미디어펜의 보도에 대해 \\\"열애설은 금시초문이다\\\"라고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "테디는 지난 1998년 원타임 멤버로 가요계에 데뷔했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 프로듀서로 활동하며 빅뱅, 2NE1, 블랙핑크 등 YG 가수들의 대표 히트곡을 양산했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제니는 지난해 블랙핑크 멤버로 데뷔했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 '불장난', '휘파람', '마지막처럼' 등의 곡으로 인기를 얻었다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테디·블랙핑크 제니 열애설…YG \\\"금시초문\\\" (공식)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

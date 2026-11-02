@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267234",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김재중 “근육 -10kg, 애기 몸 됐다”…정신연령은?",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 김재중(37)이 잠시 운동을 내려놓은 가운데, 사라진 근육에 아쉬움을 내비쳤다.\n김재중은 17일 자신의 사회관계망서비스(SNS)에 “애기 몸이 됐다. 근육량 -10kg”라면서 사진을 게재했다.\n그는 “드라마 촬영이 끝나기 2달 전부터 내려놓게 됐던 운동... 근육으로만 10kg이나 빠져버렸다. 건강을 위해서는 적당한 운동은 해야겠지만 당분간 슬림함을 유지할 듯..”이라고 설명했다.\n사진 속 김재중은 운동 중 자신의 모습을 찍고 있다.\n비록 근육량은 감소했지만 훈훈한 소년미가 전해진다.\n이에 근육량이 감소하면서 정신연령도 어려졌을까 궁금했던 걸까.\n김재중은 재미 삼아 진행한 듯한 ‘정신연령 테스트 결과’를 공유했다.\n첫 번째 테스트 결과 “당신의 정신연령은 29살(본인 나이보다 8살 더 적음), 천진난만함”이라고 적혀있다.\n한 번 더 진행한 결과 “정신연령은 34살(3살 더 적음), 마음가짐이 어림”이 나왔다.\n한편 김재중은 국내외를 오가며 음반, 드라마, 방송 등으로 꾸준한 활동을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 김재중(37)이 잠시 운동을 내려놓은 가운데, 사라진 근육에 아쉬움을 내비쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김재중은 17일 자신의 사회관계망서비스(SNS)에 “애기 몸이 됐다. 근육량 -10kg”라면서 사진을 게재했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “드라마 촬영이 끝나기 2달 전부터 내려놓게 됐던 운동... 근육으로만 10kg이나 빠져버렸다. 건강을 위해서는 적당한 운동은 해야겠지만 당분간 슬림함을 유지할 듯..”이라고 설명했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 김재중은 운동 중 자신의 모습을 찍고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비록 근육량은 감소했지만 훈훈한 소년미가 전해진다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 근육량이 감소하면서 정신연령도 어려졌을까 궁금했던 걸까.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김재중은 재미 삼아 진행한 듯한 ‘정신연령 테스트 결과’를 공유했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "첫 번째 테스트 결과 “당신의 정신연령은 29살(본인 나이보다 8살 더 적음), 천진난만함”이라고 적혀있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한 번 더 진행한 결과 “정신연령은 34살(3살 더 적음), 마음가짐이 어림”이 나왔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 김재중은 국내외를 오가며 음반, 드라마, 방송 등으로 꾸준한 활동을 이어가고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김재중 “근육 -10kg, 애기 몸 됐다”…정신연령은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

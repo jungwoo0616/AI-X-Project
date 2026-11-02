@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266958",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "중국 방송, ‘코로나19 방역 성과’ 홍보하려다 비난 받아",
+		"newsSubTitle": "",
+		"newsContent": "도시 봉쇄 중인 중국 상하이시의 한 방송사가 코로나19 방역 성과를 홍보하는 프로그램을 편성했다가 비판 여론에 부닥쳐 방송을 미뤘다.\n둥팡위성TV는 13일 저녁 코로나19 방역에 기여한 의료진과 공무원의 노고를 홍보하는 프로그램을 편성했다.\n프로그램에는 홍콩 스타 류더화(유덕화), 리밍(여명), 앨런 탐을 비롯해 중화권 스타들이 여럿 참여했다.\n하지만 해당 프로그램의 방송이 예고되자 무기한 봉쇄로 시민들의 고통이 커지는 가운데 무슨 짓이냐는 비판이 거세게 일었다고 홍콩 언론이 14일 전했다.\n한 누리꾼은 중국 소셜미디어 웨이보에 “올해 들어 내가 들은 가장 어처구니없는 일”이라며 “둥팡위성TV는 (봉쇄로)소득을 잃고 몇 주간 굶주리고 있는 이들을 격려하겠다고 대부분의 사람이 200년에서 1천년 간 일해야 벌 수 있는 돈을 연봉으로 받은 이들을 (프로그램에) 초대했다”고 지적했다.\n누리꾼들은 둥팡위성TV가 에너지를 쏟아야 할 것은 현실에 눈감은 이런 프로그램이 아니라, 상하이 봉쇄 기간 무엇이 잘못됐는지에 대해 조사하는 것이라고 목소리를 높였다.\n도시 봉쇄로 인한 식료품 공급 부족과 가격 급등, 제때 치료를 받지 못하는 환자들, 돌봄을 받지 못하는 독거노인 등의 문제 등도 열거했다.\n비난이 빗발치자 둥팡위성TV는 성명을 통해 해당 프로그램의 방송 일정을 재조정하겠다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도시 봉쇄 중인 중국 상하이시의 한 방송사가 코로나19 방역 성과를 홍보하는 프로그램을 편성했다가 비판 여론에 부닥쳐 방송을 미뤘다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "둥팡위성TV는 13일 저녁 코로나19 방역에 기여한 의료진과 공무원의 노고를 홍보하는 프로그램을 편성했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프로그램에는 홍콩 스타 류더화(유덕화), 리밍(여명), 앨런 탐을 비롯해 중화권 스타들이 여럿 참여했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 해당 프로그램의 방송이 예고되자 무기한 봉쇄로 시민들의 고통이 커지는 가운데 무슨 짓이냐는 비판이 거세게 일었다고 홍콩 언론이 14일 전했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한 누리꾼은 중국 소셜미디어 웨이보에 “올해 들어 내가 들은 가장 어처구니없는 일”이라며 “둥팡위성TV는 (봉쇄로)소득을 잃고 몇 주간 굶주리고 있는 이들을 격려하겠다고 대부분의 사람이 200년에서 1천년 간 일해야 벌 수 있는 돈을 연봉으로 받은 이들을 (프로그램에) 초대했다”고 지적했다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 둥팡위성TV가 에너지를 쏟아야 할 것은 현실에 눈감은 이런 프로그램이 아니라, 상하이 봉쇄 기간 무엇이 잘못됐는지에 대해 조사하는 것이라고 목소리를 높였다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "도시 봉쇄로 인한 식료품 공급 부족과 가격 급등, 제때 치료를 받지 못하는 환자들, 돌봄을 받지 못하는 독거노인 등의 문제 등도 열거했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비난이 빗발치자 둥팡위성TV는 성명을 통해 해당 프로그램의 방송 일정을 재조정하겠다고 밝혔다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국 방송, ‘코로나19 방역 성과’ 홍보하려다 비난 받아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

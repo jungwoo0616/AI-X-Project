@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273312",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘빅마우스’ 스틸컷 공개…이종석, 천재 사기꾼으로 변신",
+		"newsSubTitle": "",
+		"newsContent": "배우 이종석이 천재 사기꾼으로 새로운 변신을 꾀한다.\nMBC는 오는 7월 방송되는 드라마 ‘빅마우스’의 스틸컷을 공개했다.\n사진 속에서 이종석은 번듯한 정장과 죄수복을 입은 모습이 대비되고 있다.\n이종석은 극 중에서 생계형 변호사 ‘박창호’역을 맡는다.\n낮은 재판 승률을 기록하던 박창호는 우연히 맡게 된 살인 사건에서 거대한 세력의 음모로 천재 사기꾼 ‘빅마우스(Big Mouse)’라는 오명을 쓴다. ‘빅마우스’ 제작진은 “이종석은 권력의 소용돌이에 휘말린 주인공의 심경 변화를 완벽하게 그려낼 예정”이라며 “어디에서도 본 적 없었던 이종석의 색다른 매력을 기대하셔도 좋다”고 전했다.\n이종석의 새로운 변신은 오는 7월 MBC 드라마 ‘빅마우스’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이종석이 천재 사기꾼으로 새로운 변신을 꾀한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "MBC는 오는 7월 방송되는 드라마 ‘빅마우스’의 스틸컷을 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에서 이종석은 번듯한 정장과 죄수복을 입은 모습이 대비되고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이종석은 극 중에서 생계형 변호사 ‘박창호’역을 맡는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "낮은 재판 승률을 기록하던 박창호는 우연히 맡게 된 살인 사건에서 거대한 세력의 음모로 천재 사기꾼 ‘빅마우스(Big Mouse)’라는 오명을 쓴다. ‘빅마우스’ 제작진은 “이종석은 권력의 소용돌이에 휘말린 주인공의 심경 변화를 완벽하게 그려낼 예정”이라며 “어디에서도 본 적 없었던 이종석의 색다른 매력을 기대하셔도 좋다”고 전했다.",
+				"sentenceSize": 187
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이종석의 새로운 변신은 오는 7월 MBC 드라마 ‘빅마우스’에서 확인할 수 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘빅마우스’ 스틸컷 공개…이종석, 천재 사기꾼으로 변신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

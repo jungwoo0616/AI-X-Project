@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168971",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "백종원 콩나물 불고기·밥·찌개 푸짐한 비주얼…\\\"재료값 만원 남짓\\\"",
+    "newsSubTitle": "",
+    "newsContent": "백종원 콩나물 레시피 공개…불고기·밥·찌개 다 만든다!\n백종원 콩나물 요리 레시피가 공개됐다.\n11일 방송된 tvN '집밥 백선생'에서 백종원 콩나물불고기 레시피가 소개됐다.\n백종원 콩나물불고기 레시피는 콩나물과 대패삽겹살이 주 재료. 소스는 백종원 닭갈비 소스를 이용하면 된다.\n백종원 콩나물불고기 레시피는 콩나물과 각종 채소(파, 양파, 버섯) 등을 넣고 대패 삼겹살과 깻잎, 여기에 백종원 닭갈비 소스를 넣고 볶으면 된다.\n물은 넣지 않고, 콩나물에서 나온 물로만 조리하며, 프라이팬에 콩나물과 파 양파 버섯 등을 큼직하게 썰어 올리면 완성이다.\n백종원 콩나물불고기는 약 1만 원 가량으로 푸짐하게 즐길 수 있다.\n한편 백종원 콩나물불고기 레시피 외에 '집밥백선생'에서는 백종원 콩나물밥, 백종원 콩나물찌개 등이 소개됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "백종원 콩나물 레시피 공개…불고기·밥·찌개 다 만든다!",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백종원 콩나물 요리 레시피가 공개됐다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "11일 방송된 tvN '집밥 백선생'에서 백종원 콩나물불고기 레시피가 소개됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "백종원 콩나물불고기 레시피는 콩나물과 대패삽겹살이 주 재료. 소스는 백종원 닭갈비 소스를 이용하면 된다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "백종원 콩나물불고기 레시피는 콩나물과 각종 채소(파, 양파, 버섯) 등을 넣고 대패 삼겹살과 깻잎, 여기에 백종원 닭갈비 소스를 넣고 볶으면 된다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "물은 넣지 않고, 콩나물에서 나온 물로만 조리하며, 프라이팬에 콩나물과 파 양파 버섯 등을 큼직하게 썰어 올리면 완성이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "백종원 콩나물불고기는 약 1만 원 가량으로 푸짐하게 즐길 수 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 백종원 콩나물불고기 레시피 외에 '집밥백선생'에서는 백종원 콩나물밥, 백종원 콩나물찌개 등이 소개됐다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백종원, 콩나물 요리 레시피 공개... 저렴한 재료값은 얼마?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

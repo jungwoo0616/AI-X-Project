@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281718",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "비, 과거 터질 듯한 구릿빛 몸매 화제…'김태희가 반한 근육질?'",
+		"newsSubTitle": "",
+		"newsContent": "비에 관심이 뜨거운 가운데 비의 탄탄한 근육질 몸매가 다시금 화제다.\n비는 과거 자신의 인스타그램에 호주에서 찍은 사진을 게재했다.\n올린 사진 속 비는 선글라스와 스냅백을 매치한 채 남다른 패션센스를 선보였다.\n특히, 민소매 차림으로 탄탄한 상체를 선보이는 모습으로 이목을 끌고 있다.\n한편 비는 지난 5일 오후 중국 청두에서 열린 제9회 미구후이 음악성전 시상식에서 '올해 가장 환영받은 해외 가수상'을 수상한 바 있다.\n온라인 중앙일보 비 [사진 비 인스타그램 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비에 관심이 뜨거운 가운데 비의 탄탄한 근육질 몸매가 다시금 화제다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비는 과거 자신의 인스타그램에 호주에서 찍은 사진을 게재했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올린 사진 속 비는 선글라스와 스냅백을 매치한 채 남다른 패션센스를 선보였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히, 민소매 차림으로 탄탄한 상체를 선보이는 모습으로 이목을 끌고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 비는 지난 5일 오후 중국 청두에서 열린 제9회 미구후이 음악성전 시상식에서 '올해 가장 환영받은 해외 가수상'을 수상한 바 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 비 [사진 비 인스타그램 캡처]",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비, 과거 터질 듯한 구릿빛 몸매 화제…'김태희가 반한 근육질?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

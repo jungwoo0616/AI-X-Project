@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268830",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박군♥한영, 붙임머리도 직접 떼어 주고…꿀 같은 신혼 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 한영과 박군이 꿀같은 신혼 생활을 공개했다.\n한영은 1일 자신의 사회관계망서비스(SNS) 인스타그램에 “벌레잡고 그런거 아니구요~ 붙임머리 떼어주는 중이에요~”라는 글과 함께 박군과의 사진을 공개했다.\n사진 속 박군은 집중한 표정으로 아내의 머리카락을 손질하는 모습이다.\n그는 편안한 옷차림으로 다정한 신랑의 면모를 보였다.\n한영은 게시물에 #사서고생중 #오늘은미용사 #세상집중 #고마워 #덕분에시원해 #샴푸개운하게해볼께 라는 해시태그를 덧붙이며 남편에 대한 애정을 표현했다.\n해당 게시물에 누리꾼은 “너무 사랑스럽다” “박군의 초집중 입술이 귀엽다” “보는 내가 다 흐뭇하다”며 두 부부에 대한 애정을 보였다.\n한편 한영과 박군은 지난 3월 7일 결혼 소식을 직접 알린 뒤 지난달 26일 서울 모처에서 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 한영과 박군이 꿀같은 신혼 생활을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한영은 1일 자신의 사회관계망서비스(SNS) 인스타그램에 “벌레잡고 그런거 아니구요~ 붙임머리 떼어주는 중이에요~”라는 글과 함께 박군과의 사진을 공개했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 박군은 집중한 표정으로 아내의 머리카락을 손질하는 모습이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 편안한 옷차림으로 다정한 신랑의 면모를 보였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한영은 게시물에 #사서고생중 #오늘은미용사 #세상집중 #고마워 #덕분에시원해 #샴푸개운하게해볼께 라는 해시태그를 덧붙이며 남편에 대한 애정을 표현했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 게시물에 누리꾼은 “너무 사랑스럽다” “박군의 초집중 입술이 귀엽다” “보는 내가 다 흐뭇하다”며 두 부부에 대한 애정을 보였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 한영과 박군은 지난 3월 7일 결혼 소식을 직접 알린 뒤 지난달 26일 서울 모처에서 결혼식을 올렸다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박군♥한영, 붙임머리도 직접 떼어 주고…꿀 같은 신혼 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

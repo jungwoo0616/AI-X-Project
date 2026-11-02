@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260583",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘방과후 설렘’ 도전조 B 주역 홍혜주, 서공예 졸업",
+		"newsSubTitle": "",
+		"newsContent": "MBC‘방과후 설렘’에 출연 중인 홍혜주가 고등학교를 졸업했다.\n홍혜주는 10일 서울공연에술고등학교를 졸업하며‘방과후 설렘’ 측을 통해 3장의 셀카를 공개해 팬들의 이목을 끌었다.\n공개된 사진 속 홍혜주는 서울공연예술고등학교를 대표하는 노란 색상의 교복을 단정하게 입고 밝게 웃으며 상큼한 매력을 발산했다.\n홍혜주는 매주 일요일 밤 9시 MBC, 네이버 NOW.에서 방영되는‘방과후 설렘’에 출연 중이다.\n앞서 홍혜주는‘방과후 설렘’ 10회 세미파이널 방송에서 그의 강점인 댄스로 시선을 사로잡았을 뿐 아니라, 도전조 B를 승리로 이끄는 주역이 되기도 했다.\n홍혜주를 포함해, 세미파이널에 진출한 21명의 연습생들은 오는 13일 밤 9시 네이버 NOW.에서 방과후 설렘 온라인 팬미팅‘겨울캠프’ 두 번째 이야기를 진행, 다채로운 매력으로 팬들에게 색다른 추억을 선사할 예정이다.\n한편,‘방과후 설렘’은‘2022 베이징 동계올림픽’으로 한 주간 쉬어간 후, 20일 밤 11시에 MBC와 네이버 NOW.에서 세미파이널이 동시 방영될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC‘방과후 설렘’에 출연 중인 홍혜주가 고등학교를 졸업했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍혜주는 10일 서울공연에술고등학교를 졸업하며‘방과후 설렘’ 측을 통해 3장의 셀카를 공개해 팬들의 이목을 끌었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 홍혜주는 서울공연예술고등학교를 대표하는 노란 색상의 교복을 단정하게 입고 밝게 웃으며 상큼한 매력을 발산했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍혜주는 매주 일요일 밤 9시 MBC, 네이버 NOW.에서 방영되는‘방과후 설렘’에 출연 중이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 홍혜주는‘방과후 설렘’ 10회 세미파이널 방송에서 그의 강점인 댄스로 시선을 사로잡았을 뿐 아니라, 도전조 B를 승리로 이끄는 주역이 되기도 했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍혜주를 포함해, 세미파이널에 진출한 21명의 연습생들은 오는 13일 밤 9시 네이버 NOW.에서 방과후 설렘 온라인 팬미팅‘겨울캠프’ 두 번째 이야기를 진행, 다채로운 매력으로 팬들에게 색다른 추억을 선사할 예정이다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편,‘방과후 설렘’은‘2022 베이징 동계올림픽’으로 한 주간 쉬어간 후, 20일 밤 11시에 MBC와 네이버 NOW.에서 세미파이널이 동시 방영될 예정이다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘방과후 설렘’ 도전조 B 주역 홍혜주, 서공예 졸업",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

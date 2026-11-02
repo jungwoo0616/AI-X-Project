@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277490",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신곡 ‘행복한 척’ 1위 확인 뒤 막춤 추는 수지",
+		"newsSubTitle": "",
+		"newsContent": "수지가 자신의 신곡이 음원 차트에서 1위에 오르자 막춤을 추며 기쁨을 표현했다.\n지난 18일 공개된 ‘오프 더 레코드, 수지’ 에피소드 2에서는 수지가 자신의 신곡 ‘행복한 척’이 음원차트에서 1위에 올라 기쁨을 만끽했다.\n수지는 휴대폰으로 신곡 반응을 수시로 확인했고 음원 차트에서 1위를 달성하자 침대에 뛰어들고 춤을 추고 가족에게 전화하는 등 다양한 방법으로 행복감을 표출했다.\n수지는 이후에도 1시간 단위로 차트에 변동이 없는지 확인했고 그때마다 각기 다른 표정과 말투로 기분 좋음을 표현했다.\n이날 수지의 친구들이 신곡 발매를 축하해 모였다.\n친구이자 배우 임주은이 “수지 계속 뭐하고 있었어?”라고 묻자 또 다른 친구 배우 장희령이 “1시간마다 차트 확인하고 있어”라고 답했다.\n임주은이 “진짜 재밌없게 있었네”라고 말하자 수지는 “그게 제일 재밌어. 내가 1위 할 때만”이라고 답해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "수지가 자신의 신곡이 음원 차트에서 1위에 오르자 막춤을 추며 기쁨을 표현했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 18일 공개된 ‘오프 더 레코드, 수지’ 에피소드 2에서는 수지가 자신의 신곡 ‘행복한 척’이 음원차트에서 1위에 올라 기쁨을 만끽했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수지는 휴대폰으로 신곡 반응을 수시로 확인했고 음원 차트에서 1위를 달성하자 침대에 뛰어들고 춤을 추고 가족에게 전화하는 등 다양한 방법으로 행복감을 표출했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수지는 이후에도 1시간 단위로 차트에 변동이 없는지 확인했고 그때마다 각기 다른 표정과 말투로 기분 좋음을 표현했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 수지의 친구들이 신곡 발매를 축하해 모였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "친구이자 배우 임주은이 “수지 계속 뭐하고 있었어?”라고 묻자 또 다른 친구 배우 장희령이 “1시간마다 차트 확인하고 있어”라고 답했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "임주은이 “진짜 재밌없게 있었네”라고 말하자 수지는 “그게 제일 재밌어. 내가 1위 할 때만”이라고 답해 웃음을 자아냈다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신곡 ‘행복한 척’ 1위 확인 뒤 막춤 추는 수지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

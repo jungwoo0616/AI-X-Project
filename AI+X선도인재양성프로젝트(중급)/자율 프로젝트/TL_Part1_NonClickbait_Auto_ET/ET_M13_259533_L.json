@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259533",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘엠카’ 별, 강렬 걸크러시 그룹 ‘마마돌’로 감동의 음방 데뷔",
+		"newsSubTitle": "",
+		"newsContent": "가수 별이 마마돌로 음악방송 데뷔 무대를 가졌다.\n27일 방송된 Mnet ‘엠카운트다운’에서는 그룹 ‘마마돌’의 멤버로 ‘우아힙’ 무대를 꾸민 별의 모습이 그려졌다.\n마마돌은 블랙&베이지 컬러의 의상을 입고 화려하게 등장했다.\n멤버들은 걸크러쉬를 뽐내며 각자 자신의 파트를 소화하는 것은 물론, 칼군무까지 완벽하게 선보였다.\n노래에 맞춰 춤을 추고 카메라를 향해 아이컨택하는 이들의 모습은 전성기 시절의 모습 그 자체였다.\n별은 가수다운 안정적인 가창력과 무대매너로 중심을 잡아주고 파워풀한 목소리로 화끈한 분위기를 고조시켰다.\n별이 출연 중인 tvN ‘엄마는 아이돌’은 출산과 육아로 잠시 우리 곁을 떠났던 스타들이 완성형 아이돌로 돌아오는 레전드 맘들의 컴백 프로젝트로, 매주 금요일 오후 8시 40분에 방영된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 별이 마마돌로 음악방송 데뷔 무대를 가졌다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 방송된 Mnet ‘엠카운트다운’에서는 그룹 ‘마마돌’의 멤버로 ‘우아힙’ 무대를 꾸민 별의 모습이 그려졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마마돌은 블랙&베이지 컬러의 의상을 입고 화려하게 등장했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "멤버들은 걸크러쉬를 뽐내며 각자 자신의 파트를 소화하는 것은 물론, 칼군무까지 완벽하게 선보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노래에 맞춰 춤을 추고 카메라를 향해 아이컨택하는 이들의 모습은 전성기 시절의 모습 그 자체였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "별은 가수다운 안정적인 가창력과 무대매너로 중심을 잡아주고 파워풀한 목소리로 화끈한 분위기를 고조시켰다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "별이 출연 중인 tvN ‘엄마는 아이돌’은 출산과 육아로 잠시 우리 곁을 떠났던 스타들이 완성형 아이돌로 돌아오는 레전드 맘들의 컴백 프로젝트로, 매주 금요일 오후 8시 40분에 방영된다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엠카’ 별, 강렬 걸크러시 그룹 ‘마마돌’로 감동의 음방 데뷔",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

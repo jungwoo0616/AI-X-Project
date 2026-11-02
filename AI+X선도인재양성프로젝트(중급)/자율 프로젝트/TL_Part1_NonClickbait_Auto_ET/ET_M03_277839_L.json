@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277839",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "엑소 레이 日 출국 직전 인천공항서 실신",
+		"newsSubTitle": "",
+		"newsContent": "엑소 레이가 인천공항에서 실신한 것으로 알려져 팬들의 우려를 사고 있다.\n레이는 11일 오후 인천공항을 통해 일본 홋카이도로 출국할 예정이었다.\n하지만 레이는 비행기 탑승 직전 갑작스럽게 쓰러진 것으로 알려졌다.\n레이는 실신 직후 의식이 없었던 것으로 전해졌으며, 출동한 소방대원들에 의해 병원으로 옮겨졌다.\n다른 엑소 멤버들 또한 예정됐던 비행기 스케줄을 취소했다.\n엑소는 오는 12일과 13일 이틀간 일본 홋카이도 마코 마나이 세 키스이 하임 아이스 아레나에서 단독 콘서트 개최를 앞두고 있었다.\n하지만 레이의 건강 상태에 따라 일정 소화 여부 또한 원점으로 돌아갔다.\n우려스러운 점은 이번이 처음이 아니라는 사실이다.\n레이는 앞서 지난 5월 중국 동방TV '극한도전' 하이난 특집 방송 중 잠시 화장실을 다녀오겠다며 자리를 옮기던 중 갑자기 쓰러졌다.\n당시 실신한 원인은 과로였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엑소 레이가 인천공항에서 실신한 것으로 알려져 팬들의 우려를 사고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "레이는 11일 오후 인천공항을 통해 일본 홋카이도로 출국할 예정이었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 레이는 비행기 탑승 직전 갑작스럽게 쓰러진 것으로 알려졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "레이는 실신 직후 의식이 없었던 것으로 전해졌으며, 출동한 소방대원들에 의해 병원으로 옮겨졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다른 엑소 멤버들 또한 예정됐던 비행기 스케줄을 취소했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엑소는 오는 12일과 13일 이틀간 일본 홋카이도 마코 마나이 세 키스이 하임 아이스 아레나에서 단독 콘서트 개최를 앞두고 있었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 레이의 건강 상태에 따라 일정 소화 여부 또한 원점으로 돌아갔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "우려스러운 점은 이번이 처음이 아니라는 사실이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "레이는 앞서 지난 5월 중국 동방TV '극한도전' 하이난 특집 방송 중 잠시 화장실을 다녀오겠다며 자리를 옮기던 중 갑자기 쓰러졌다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "당시 실신한 원인은 과로였다.",
+				"sentenceSize": 16
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엑소 레이 日 출국 직전 인천공항서 실신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

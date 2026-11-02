@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276624",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "치마 입고 화보 찍은 남자 아이돌이 한 말",
+		"newsSubTitle": "",
+		"newsContent": "치마를 입고 화보 촬영을 진행한 그룹 뉴이스트 멤버 렌(최민기)이 올린 게시물이 화제다.\n과거 뉴이스트 렌은 자신의 인스타그램을 통해 화보를 공개했다.\n이 사진은 중국의 한 온라인 쇼핑몰 광고의 화보다.\n사진 속 그는 긴 머리를 한 채 치마와 원피스 등을 입고 남다른 미모를 뽐내고 있다.\n그는 사진과 함께 \\\"패션이 사람을 만든다. 나는 남자인가, 여자인가? 나는 사람이다(Am I a boy or a girl? I am a man)\\\"이라는 글을 덧붙였다.\n해당 광고는 '패션이 사람을 만든다'는 취지를 가지고 남성인 렌에게 치마, 원피스 등의 스타일링을 한 것으로 알려졌다.\n한편 Mnet '프로듀스 101 시즌 2'에 출연해 큰 인기를 끈 뉴이스트 렌은 오는 8월 3일 JTBC '양세찬의 텐2'에 출연을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "치마를 입고 화보 촬영을 진행한 그룹 뉴이스트 멤버 렌(최민기)이 올린 게시물이 화제다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 뉴이스트 렌은 자신의 인스타그램을 통해 화보를 공개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 사진은 중국의 한 온라인 쇼핑몰 광고의 화보다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 그는 긴 머리를 한 채 치마와 원피스 등을 입고 남다른 미모를 뽐내고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 사진과 함께 \\\"패션이 사람을 만든다. 나는 남자인가, 여자인가? 나는 사람이다(Am I a boy or a girl? I am a man)\\\"이라는 글을 덧붙였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 광고는 '패션이 사람을 만든다'는 취지를 가지고 남성인 렌에게 치마, 원피스 등의 스타일링을 한 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 Mnet '프로듀스 101 시즌 2'에 출연해 큰 인기를 끈 뉴이스트 렌은 오는 8월 3일 JTBC '양세찬의 텐2'에 출연을 앞두고 있다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치마 입고 화보 찍은 남자 아이돌이 한 말",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

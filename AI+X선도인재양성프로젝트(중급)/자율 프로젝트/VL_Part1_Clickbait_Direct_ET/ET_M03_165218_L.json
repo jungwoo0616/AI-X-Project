@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165218",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이콘 바비, 망가 그려진 옷 입고 출국길 올라…일부 네티즌 '설전'",
+    "newsSubTitle": "",
+    "newsContent": "그룹 아이콘 멤버 바비(본명 김지원·21)가 망가(일본만화를 뜻하는 말)가 그려진 옷을 입고 출국길에 올라 일부 네티즌 사이에서 갑론을박이 벌어졌다.\n22일 트위터에는 바비가 출국길에 오르는 모습이 포착된 사진이 다수 올라왔다.\n이를 접한 일부 네티즌은 \\\"옷이 도대체 뭐냐\\\"며 반문했다.\n한 네티즌은 바비가 입은 옷이 선정적인 내용을 담고 있다는 글을 트위터에 올리기도 했다.\n대다수 네티즌은 신중한 입장이다.\n아직 바비가 이 옷을 입은 것이 자의인지 타의인지 알려지지 않았기 때문이다.\n트위터상에서는 바비가 입은 옷을 두고 일부 네티즌이 설전을 벌이기도 했다.\n\\\"이번 사건 경우 바비라는 인간을 욕하는 사람이 없었으면 한다\\\" \\\"애초에 옷 문제지 인신공격으로 이어지면 안 된다\\\"와 같은 글이 올라왔다.\n바비가 망가가 그려진 옷을 입고 등장한 사진은 이날 온라인 커뮤니티 등지로도 확산하고 있다.\n한 네티즌은 \\\"망측하다\\\"고 말했고, 또 다른 네티즌은 \\\"그림체가 불쾌하다\\\"고 의견을 적었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 아이콘 멤버 바비(본명 김지원·21)가 망가(일본만화를 뜻하는 말)가 그려진 옷을 입고 출국길에 올라 일부 네티즌 사이에서 갑론을박이 벌어졌다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 트위터에는 바비가 출국길에 오르는 모습이 포착된 사진이 다수 올라왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이를 접한 일부 네티즌은 \\\"옷이 도대체 뭐냐\\\"며 반문했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 네티즌은 바비가 입은 옷이 선정적인 내용을 담고 있다는 글을 트위터에 올리기도 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대다수 네티즌은 신중한 입장이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아직 바비가 이 옷을 입은 것이 자의인지 타의인지 알려지지 않았기 때문이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "트위터상에서는 바비가 입은 옷을 두고 일부 네티즌이 설전을 벌이기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"이번 사건 경우 바비라는 인간을 욕하는 사람이 없었으면 한다\\\" \\\"애초에 옷 문제지 인신공격으로 이어지면 안 된다\\\"와 같은 글이 올라왔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "바비가 망가가 그려진 옷을 입고 등장한 사진은 이날 온라인 커뮤니티 등지로도 확산하고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한 네티즌은 \\\"망측하다\\\"고 말했고, 또 다른 네티즌은 \\\"그림체가 불쾌하다\\\"고 의견을 적었다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "망가 그려진 옷 입고 출국길 올라…일부 네티즌 \"옷이 도대체 뭐냐?\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

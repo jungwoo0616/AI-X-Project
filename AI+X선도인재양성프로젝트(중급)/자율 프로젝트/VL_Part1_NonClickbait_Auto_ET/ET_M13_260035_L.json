@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260035",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "브브걸 유나, “맛이 안 난다” 코로나 후유증?",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 브레이브걸스 유나가 코로나19 감염 확진 판정을 받은 후 후유증을 토로했다.\n4일 유나는 자신의 인스타그램 스토리에 자가격리 근황을 담은 사진 한 장을 게재했다.\n사진 속에는 거울 셀카를 찍은 유나의 모습이 담겨 있었다.\n이어 “4일차쯤 짜파게티를 끓였는데 맛이 안 났다. 그 이후 카레도 생마들도 맛이 안 느껴졌다. 휴 그래도 8일차다^,^..”라는 글을 덧붙였다.\n앞서 소속사 브레이브엔터테인먼트는 지난 28일 “브레이브걸스의 멤버 유나가 오늘 코로나19 확진 판정을 받았다”며 “어제 갑작스러운 컨디션 난조로 선제적 검사 차원에서 PCR 검사를 진행했고 이날 오전 양성 판정을 받았다”고 밝혔다.\n한편, 유나가 속한 브레이브걸스는 제36회 골든디스크어워즈 베스트 그룹상, 제31회 하이원 서울가요대상 본상을 수상하며 거침없는 대세 걸그룹의 행보를 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 브레이브걸스 유나가 코로나19 감염 확진 판정을 받은 후 후유증을 토로했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 유나는 자신의 인스타그램 스토리에 자가격리 근황을 담은 사진 한 장을 게재했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 거울 셀카를 찍은 유나의 모습이 담겨 있었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “4일차쯤 짜파게티를 끓였는데 맛이 안 났다. 그 이후 카레도 생마들도 맛이 안 느껴졌다. 휴 그래도 8일차다^,^..”라는 글을 덧붙였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 소속사 브레이브엔터테인먼트는 지난 28일 “브레이브걸스의 멤버 유나가 오늘 코로나19 확진 판정을 받았다”며 “어제 갑작스러운 컨디션 난조로 선제적 검사 차원에서 PCR 검사를 진행했고 이날 오전 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 유나가 속한 브레이브걸스는 제36회 골든디스크어워즈 베스트 그룹상, 제31회 하이원 서울가요대상 본상을 수상하며 거침없는 대세 걸그룹의 행보를 보이고 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브브걸 유나, “맛이 안 난다” 코로나 후유증?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

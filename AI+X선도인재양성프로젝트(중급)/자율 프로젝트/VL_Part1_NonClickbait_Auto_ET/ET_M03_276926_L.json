@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276926",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "라붐 솔빈 인스타그램에 '악플' 쏟아진 까닭",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 '라붐' 솔빈의 소셜네트워크서비스(SNS)가 화제가 됐다.\n솔빈은 지난 29일 자신의 인스타그램에 연예계 동료 '다이아' 정채연에게 받은 선물 인증샷을 게재한 뒤 \\\"축하 케이크 고마워 잘 먹을게♥\\\"라고 글을 남겨 고마움을 드러냈다.\n이는 전날 방송된 KBS2 '뮤직뱅크'에서 라붐이 '휘휘'로 1위 한 것을 축하하는 선물이었다.\n라붐은 이날 유력 후보였던 가수 아이유를 제치고 1위를 해 특히 주목을 받았다.\n그러나 이후 인터넷상엔 라붐의 소속사 음반 사재기 의혹이 제기됐고, 솔빈의 게시물엔 이에 대한 불만을 드러낸 일부 네티즌의 댓글이 달렸다.\n이 가운데 솔빈을 향한 도를 지나친 악성 댓글도 이어지고 있어 라붐 팬들의 반발도 나온 상태다.\n한편 라붐 소속사 글로벌에이치미디어는 사재기 의혹과 관련해 \\\"우리는 유통사에 수수료를 떼고 앨범을 보내는 것으로 끝이다. 어디서 어떻게 팔려나갔는지 모른다\\\"며 사재기 의혹을 일축했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 '라붐' 솔빈의 소셜네트워크서비스(SNS)가 화제가 됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "솔빈은 지난 29일 자신의 인스타그램에 연예계 동료 '다이아' 정채연에게 받은 선물 인증샷을 게재한 뒤 \\\"축하 케이크 고마워 잘 먹을게♥\\\"라고 글을 남겨 고마움을 드러냈다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전날 방송된 KBS2 '뮤직뱅크'에서 라붐이 '휘휘'로 1위 한 것을 축하하는 선물이었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라붐은 이날 유력 후보였던 가수 아이유를 제치고 1위를 해 특히 주목을 받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 이후 인터넷상엔 라붐의 소속사 음반 사재기 의혹이 제기됐고, 솔빈의 게시물엔 이에 대한 불만을 드러낸 일부 네티즌의 댓글이 달렸다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 가운데 솔빈을 향한 도를 지나친 악성 댓글도 이어지고 있어 라붐 팬들의 반발도 나온 상태다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 라붐 소속사 글로벌에이치미디어는 사재기 의혹과 관련해 \\\"우리는 유통사에 수수료를 떼고 앨범을 보내는 것으로 끝이다. 어디서 어떻게 팔려나갔는지 모른다\\\"며 사재기 의혹을 일축했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라붐 솔빈 인스타그램에 '악플' 쏟아진 까닭",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

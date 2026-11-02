@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268806",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘복면가왕’ 이도진, 족집게 떴다",
+		"newsSubTitle": "",
+		"newsContent": "이도진이 족집게 분석으로 복면가수의 정체를 맞췄다.\n이도진은 지난 1일 방송된 MBC ‘복면가왕’에서 트로트 루키로 참석했다.\n이날 이도진은 무대에 오른 가수들을 향해 아낌없는 환호와 응원의 리액션을 선사하며 판정단의 한 축으로 분위기를 이끌었다.\n이날 절친한 복면가수를 위해 전화 연결에 응한 장민호는 “같은 오디션 프로그램에서 나왔다”라고 말하자 이에 바로 이도진은 “알겠다”면서 장민호에게 화답했다.\n특히 1라운드에서 ‘별들이게 물어봐’ 코너에서 어린시절 사진 힌트를 보자마자 이도진은 복면가수를 바로 도대윤으로 추측했던 것. 더불어 이도진은 “함께 그룹을 준비하다가 대윤이가 미국으로 가게 됐다”라며 아쉬운 마음을 드러냈다.\n한편 이도진은 최근 신곡 ‘그대 내게 다시 올까요’로 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이도진이 족집게 분석으로 복면가수의 정체를 맞췄다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이도진은 지난 1일 방송된 MBC ‘복면가왕’에서 트로트 루키로 참석했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이도진은 무대에 오른 가수들을 향해 아낌없는 환호와 응원의 리액션을 선사하며 판정단의 한 축으로 분위기를 이끌었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 절친한 복면가수를 위해 전화 연결에 응한 장민호는 “같은 오디션 프로그램에서 나왔다”라고 말하자 이에 바로 이도진은 “알겠다”면서 장민호에게 화답했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 1라운드에서 ‘별들이게 물어봐’ 코너에서 어린시절 사진 힌트를 보자마자 이도진은 복면가수를 바로 도대윤으로 추측했던 것. 더불어 이도진은 “함께 그룹을 준비하다가 대윤이가 미국으로 가게 됐다”라며 아쉬운 마음을 드러냈다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이도진은 최근 신곡 ‘그대 내게 다시 올까요’로 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘복면가왕’ 이도진, 족집게 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

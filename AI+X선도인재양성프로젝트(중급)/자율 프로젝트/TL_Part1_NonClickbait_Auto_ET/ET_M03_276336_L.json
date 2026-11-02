@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276336",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“정수기 월 임대료보다 저렴” 생수 사먹는 김생민(영상)",
+		"newsSubTitle": "",
+		"newsContent": "월 임대료를 내야하는 정수기보다 6개 한 묶음에 1980원에 파는 생수를 구입하는 개그맨 김생민이 화제를 모으고 있다.\n16일 방송된 JTBC ‘냉장고를 부탁해’에서는 김생민이 게스트로 출연했다.\n김생민의 냉장고를 열어 본 진행자 김성주는 “생수도 드시네요. 저는 물 끓여 드실 줄 알았다” 놀라워했다.\n그러면서 “이게 합리적인 소비입니까”라고 물었다.\n이에 김생민은 “결혼했을 때는 정수기를 사용했다. 계속 갈고갈고 하다가 삭은 거예요. 10년이 넘어 가니까. 그래서 ‘이거는 버려야 한다’는 얘기가 나왔다. 그때 가족 회의가 열렸다”고 말했다.\n이어 “‘여보, 이 정수기에 대해서는 어떻게 생각해’ 물었다. ‘한 달에 1만 2000원부터 5만원까지 있는데. 저게 생수는 6병에 1980원이야’라고. 저걸 6개(모두 36병)를 사오면 한 달 반을 먹을 수 있다. 1만 2000원에 한 달 반. 제가 시뮬레이션을 돌리고 있다”고 말했다.\n그러면서 “‘수돗물 서울시에서 광고하는 거 있잖아 아리수라고’라고 말했더니 아내가 ‘오빠 그것까지는 그만해. 이 XXXX야’라고 했다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "월 임대료를 내야하는 정수기보다 6개 한 묶음에 1980원에 파는 생수를 구입하는 개그맨 김생민이 화제를 모으고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 방송된 JTBC ‘냉장고를 부탁해’에서는 김생민이 게스트로 출연했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김생민의 냉장고를 열어 본 진행자 김성주는 “생수도 드시네요. 저는 물 끓여 드실 줄 알았다” 놀라워했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “이게 합리적인 소비입니까”라고 물었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 김생민은 “결혼했을 때는 정수기를 사용했다. 계속 갈고갈고 하다가 삭은 거예요. 10년이 넘어 가니까. 그래서 ‘이거는 버려야 한다’는 얘기가 나왔다. 그때 가족 회의가 열렸다”고 말했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “‘여보, 이 정수기에 대해서는 어떻게 생각해’ 물었다. ‘한 달에 1만 2000원부터 5만원까지 있는데. 저게 생수는 6병에 1980원이야’라고. 저걸 6개(모두 36병)를 사오면 한 달 반을 먹을 수 있다. 1만 2000원에 한 달 반. 제가 시뮬레이션을 돌리고 있다”고 말했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러면서 “‘수돗물 서울시에서 광고하는 거 있잖아 아리수라고’라고 말했더니 아내가 ‘오빠 그것까지는 그만해. 이 XXXX야’라고 했다”고 전했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“정수기 월 임대료보다 저렴” 생수 사먹는 김생민(영상)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

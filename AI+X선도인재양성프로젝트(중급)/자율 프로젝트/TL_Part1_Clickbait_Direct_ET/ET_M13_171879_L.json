@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171879",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이가은, 햇살처럼 눈부신 광고 B컷 공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 이가은이 광고 촬영 비하인드 사진을 통해 청순미를 자랑했다.\n5일 이가은의 소속사 높은엔터테인먼트는 최근 요거트 브랜드 모델로 발탁된 이가은의 광고 비하인드 사진을 공개했다.\n사진 속 이가은은 따뜻한 햇살을 받으며 사랑스러운 미소를 짓고 있다.\n흰색 티셔츠에 투명한 메이크업 그리고 뒤를 묶어 올린 머리 스타일로 청초한 매력을 한껏 끌어올렸다.\n이어 자연스러운 하늘색 티셔츠를 자신만의 분위기로 소화한 이가은은 한 손에는 아이스크림을 쥔 채 부드러운 미소를 짓고 있다.\n광고 촬영 당일 이가은은 콘셉트에 맞는 다채로운 표정 연기와 넘치는 끼로 상큼함을 발산한 것은 물론 밝은 미소로 현장 분위기를 화기애애하게 만들었다는 후문이다.\n이가은은 tvN 드라마 ‘하이클래스’를 통해 성공적인 연기 데뷔를 한 후 JTBC 드라마 ‘디 엠파이어:법의 제국’에서 로스쿨 학생 장지이 역을 맡아 새로운 매력으로 시청자를 찾을 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이가은이 광고 촬영 비하인드 사진을 통해 청순미를 자랑했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 이가은의 소속사 높은엔터테인먼트는 최근 요거트 브랜드 모델로 발탁된 이가은의 광고 비하인드 사진을 공개했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 이가은은 따뜻한 햇살을 받으며 사랑스러운 미소를 짓고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흰색 티셔츠에 투명한 메이크업 그리고 뒤를 묶어 올린 머리 스타일로 청초한 매력을 한껏 끌어올렸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 자연스러운 하늘색 티셔츠를 자신만의 분위기로 소화한 이가은은 한 손에는 아이스크림을 쥔 채 부드러운 미소를 짓고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "광고 촬영 당일 이가은은 콘셉트에 맞는 다채로운 표정 연기와 넘치는 끼로 상큼함을 발산한 것은 물론 밝은 미소로 현장 분위기를 화기애애하게 만들었다는 후문이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이가은은 tvN 드라마 ‘하이클래스’를 통해 성공적인 연기 데뷔를 한 후 JTBC 드라마 ‘디 엠파이어:법의 제국’에서 로스쿨 학생 장지이 역을 맡아 새로운 매력으로 시청자를 찾을 예정이다.",
+        "sentenceSize": 106
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이가은, '이것'으로 청순미 자랑해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258576",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "허성태 ‘SNL코리아’ 호스트 확정",
+		"newsSubTitle": "",
+		"newsContent": "배우 허성태가 ‘SNL코리아 시즌2’ 호스트로 나선다.\n쿠팡플레이에 따르면 허성태가 출연하는 ‘SNL코리아 시즌2’(SNL코리아) 6회가 오는 29일 방송된다.\n허성태가 출연하는 ‘SNL코리아’는 작품 속 강렬한 카리스마를 벗어던지고 짜릿한 반전 매력을 선보일 것을 예고했다.\n허성태는 “‘SNL코리아’에 함께하게 돼 영광이다. 설 연휴 시작을 즐거운 시간 보내실 수 있도록 최선을 다해 준비하겠다”고 출연 소감을 전했다.\n허성태 출연편에 앞서 오는 22일 방송되는 ‘SNL코리아’ 5회에서는 배우 이동휘가 출연한다.\n다양한 개성을 가진 배우들의 호스트 출연을 연이어 확정하고 있는 ‘SNL코리아’는 매주 토요일 오후 10시 쿠팡플레이에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 허성태가 ‘SNL코리아 시즌2’ 호스트로 나선다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "쿠팡플레이에 따르면 허성태가 출연하는 ‘SNL코리아 시즌2’(SNL코리아) 6회가 오는 29일 방송된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "허성태가 출연하는 ‘SNL코리아’는 작품 속 강렬한 카리스마를 벗어던지고 짜릿한 반전 매력을 선보일 것을 예고했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허성태는 “‘SNL코리아’에 함께하게 돼 영광이다. 설 연휴 시작을 즐거운 시간 보내실 수 있도록 최선을 다해 준비하겠다”고 출연 소감을 전했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허성태 출연편에 앞서 오는 22일 방송되는 ‘SNL코리아’ 5회에서는 배우 이동휘가 출연한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다양한 개성을 가진 배우들의 호스트 출연을 연이어 확정하고 있는 ‘SNL코리아’는 매주 토요일 오후 10시 쿠팡플레이에서 공개된다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허성태 ‘SNL코리아’ 호스트 확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

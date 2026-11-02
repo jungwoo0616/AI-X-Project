@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276892",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "외할머니 병문안 갔다 '묻지마 테러'로 숨진 중국 여배우",
+		"newsSubTitle": "",
+		"newsContent": "지난 1일(현지 시간) 중국 매체 소후닷컴은 중국에서 배우로 활동하는 리우지에가 괴한의 공격으로 사망했다고 보도했다.\n지난달 29일 리우지에는 남자친구와 함께 외할머니의 병문안을 위해 쿤밍 의과대학 병원에 들렀다.\n병동에서 마주친 술 취한 남성 한 명이 리우지에를 보고 다짜고짜 욕을 하며 화를 내기 시작했다.\n그녀의 남자친구가 남성을 향해 소리치자 흥분한 남성은 칼을 꺼내 들고 마구 휘둘렀다.\n이 남성의 공격에 리우지에는 현장에서 즉사했고 남자친구는 중상을 입었다.\n흉기는 리우지에의 심장을 정확히 찌른 것으로 조사됐다.\n현장 목격자에 따르면 “한 여성이 바닥에 쓰러진 채로 피를 흘리고 있었다. 응급조치를 시도했지만 이미 숨을 거둔 상태였다”고 증언했다.\n현지 경찰은 범행을 저지른 남성을 체포해 조사하는 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 1일(현지 시간) 중국 매체 소후닷컴은 중국에서 배우로 활동하는 리우지에가 괴한의 공격으로 사망했다고 보도했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 29일 리우지에는 남자친구와 함께 외할머니의 병문안을 위해 쿤밍 의과대학 병원에 들렀다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "병동에서 마주친 술 취한 남성 한 명이 리우지에를 보고 다짜고짜 욕을 하며 화를 내기 시작했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그녀의 남자친구가 남성을 향해 소리치자 흥분한 남성은 칼을 꺼내 들고 마구 휘둘렀다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 남성의 공격에 리우지에는 현장에서 즉사했고 남자친구는 중상을 입었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "흉기는 리우지에의 심장을 정확히 찌른 것으로 조사됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현장 목격자에 따르면 “한 여성이 바닥에 쓰러진 채로 피를 흘리고 있었다. 응급조치를 시도했지만 이미 숨을 거둔 상태였다”고 증언했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현지 경찰은 범행을 저지른 남성을 체포해 조사하는 중이다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "외할머니 병문안 갔다 '묻지마 테러'로 숨진 중국 여배우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167404",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“윤석열 취임식, 방탄소년단 말고 노엘·김흥국 섭외적절”",
+    "newsSubTitle": "",
+    "newsContent": "검찰 고발사주 의혹 제보자 조성은이 윤석열 당선인 취임식 방탄소년단 공연 섭외 논란을 비꼬았다.\n조성은은 6일 페이스북에 오는 5월 10일로 예정된 윤석열 당선인 제 20대 대통령 취임식에 방탄소년단 축하 공연을 검토 중이라고 밝히자 입장을 바꾼 취임준비위를 보도한 기사를 공유하며 “래퍼 노엘(장용준)과 가수 김흥국을 특별공연으로 하면 적절할 듯 하다”고 적었다.\n이와 함께 “어퍼컷 안무랑도 맞고”라며 비판했다.\n노엘은 장제원 당선인 비서실장의 아들로 폭행, 음주운전 및 운전자 바꿔치기, 무면허 운전, 경찰관 폭행 등 여러 차례 사회적 물의를 빚어 현재 구속된 상태다.\n김흥국은 윤석열 당선인의 대선 후보 유세 기간 내내 지지를 호소해왔다.\n취임준비위 측이 방탄소년단을 취임식 공연에 섭외하겠다고 밝히자 이를 두고 부정적 여론이 일었고 취임준비위 관계자가 ‘출연진 비공개’를 들며 조심스러운 입장을 내놓은 상황이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "검찰 고발사주 의혹 제보자 조성은이 윤석열 당선인 취임식 방탄소년단 공연 섭외 논란을 비꼬았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조성은은 6일 페이스북에 오는 5월 10일로 예정된 윤석열 당선인 제 20대 대통령 취임식에 방탄소년단 축하 공연을 검토 중이라고 밝히자 입장을 바꾼 취임준비위를 보도한 기사를 공유하며 “래퍼 노엘(장용준)과 가수 김흥국을 특별공연으로 하면 적절할 듯 하다”고 적었다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 “어퍼컷 안무랑도 맞고”라며 비판했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노엘은 장제원 당선인 비서실장의 아들로 폭행, 음주운전 및 운전자 바꿔치기, 무면허 운전, 경찰관 폭행 등 여러 차례 사회적 물의를 빚어 현재 구속된 상태다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김흥국은 윤석열 당선인의 대선 후보 유세 기간 내내 지지를 호소해왔다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "취임준비위 측이 방탄소년단을 취임식 공연에 섭외하겠다고 밝히자 이를 두고 부정적 여론이 일었고 취임준비위 관계자가 ‘출연진 비공개’를 들며 조심스러운 입장을 내놓은 상황이다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'노엘과 김흥국이 적절할 듯', 윤석열 취임식 비꼰 사람은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

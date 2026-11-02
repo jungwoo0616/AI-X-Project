@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260314",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장성규, 中 누리꾼에 호소 “아들 성희롱만큼은…”",
+		"newsSubTitle": "",
+		"newsContent": "장성규가 아들을 향한 성희롱 댓글을 자제할 것을 요청했다.\n장성규는 8일 오후 자신의 사회관계망서비스(SNS)에 “중국분들..다 좋은데 제 아들의 소중이만큼은 건드리지 말아 주세요 정중히 부탁드려요”라는 글과 함께 해당 악플을 공개했다.\n앞서 장성규는 자신의 인스타그램에 “이 장면을 반칙이라고 하는 것이 반칙. #눈 뜨고 코 베이징 #어베이징한 결과 #베이징하다징해”라며 중국의 편파 판정에 문제를 제기했다.\n해당 악플은 이 게시글을 접한 향한 일부 중국 누리꾼들의 소행인 것으로 보인다.\n이날 황대헌은 2022 베이징 올림픽 쇼트트랙 남자 1000m 준결승 1조에서 조 1위를 차지했지만 실격 처리 당했고, 이준서도 준결승 2조에서 2위를 차지했지만 경기 후에 실격 됐다.\n남자 쇼트트랙 1000m는 결승에 오르지 못했다.\n한편 장성규는 2019년 JTBC 아나운서에서 프리랜서로 전향한 뒤 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장성규가 아들을 향한 성희롱 댓글을 자제할 것을 요청했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장성규는 8일 오후 자신의 사회관계망서비스(SNS)에 “중국분들..다 좋은데 제 아들의 소중이만큼은 건드리지 말아 주세요 정중히 부탁드려요”라는 글과 함께 해당 악플을 공개했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 장성규는 자신의 인스타그램에 “이 장면을 반칙이라고 하는 것이 반칙. #눈 뜨고 코 베이징 #어베이징한 결과 #베이징하다징해”라며 중국의 편파 판정에 문제를 제기했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 악플은 이 게시글을 접한 향한 일부 중국 누리꾼들의 소행인 것으로 보인다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 황대헌은 2022 베이징 올림픽 쇼트트랙 남자 1000m 준결승 1조에서 조 1위를 차지했지만 실격 처리 당했고, 이준서도 준결승 2조에서 2위를 차지했지만 경기 후에 실격 됐다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "남자 쇼트트랙 1000m는 결승에 오르지 못했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 장성규는 2019년 JTBC 아나운서에서 프리랜서로 전향한 뒤 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장성규, 中 누리꾼에 호소 “아들 성희롱만큼은…”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

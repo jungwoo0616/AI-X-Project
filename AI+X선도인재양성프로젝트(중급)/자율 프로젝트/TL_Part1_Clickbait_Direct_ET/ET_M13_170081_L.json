@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170081",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "크래비티, 순백의 아홉 왕자",
+    "newsSubTitle": "",
+    "newsContent": "그룹 크래비티(CRAVITY)가 순백의 카리스마로 180도 다른 매력을 뽐냈다.\n크래비티는 최근 공식 SNS를 통해 후속곡 ‘VENI VIDI VICI(베니 비디 비치)’의 세 번째 콘셉트 포토를 게재했다.\n공개된 이미지 속 크래비티는 유닛과 단체 이미지를 통해 멤버 간 눈부신 비주얼 케미를 드러낸 것은 물론, 올 화이트 의상으로 화사한 분위기를 선보이며 은은한 아우라까지 자랑해 보였다.\n또한 이번 콘셉트 포토에서 주요 장치로 쓰이고 있는 새하얀 문이 다시 한번 등장해 기대치를 더하는가 하면, 문고리를 잡아 돌리는 제스처로 새로운 세계를 향한 크래비티의 질주가 임박했음을 알리고 있다. ‘VENI VIDI VICI’는 크래비티 첫 정규앨범의 메인 프로듀싱을 맡은 크루 PCDC가 작사 및 작곡에 참여한 곡으로, 더욱 업그레이드된 음악 세계관을 비롯해 중독성 있는 기타 사운드와 그루브한 리듬이 인상적이다.\n고품격 비주얼을 담은 콘셉트 포토를 모두 공개한 크래비티는 ‘VENI VIDI VICI’를 통해 그룹이 지닌 감각적인 색깔을 담아 퍼포먼스는 기본, 완성도 높은 무대로 글로벌 팬들을 만날 계획이다.\n크래비티는 오는 7일 ‘VENI VIDI VICI’ 스페셜 비디오를 공개하고 후속 활동을 시작한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 크래비티(CRAVITY)가 순백의 카리스마로 180도 다른 매력을 뽐냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "크래비티는 최근 공식 SNS를 통해 후속곡 ‘VENI VIDI VICI(베니 비디 비치)’의 세 번째 콘셉트 포토를 게재했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 이미지 속 크래비티는 유닛과 단체 이미지를 통해 멤버 간 눈부신 비주얼 케미를 드러낸 것은 물론, 올 화이트 의상으로 화사한 분위기를 선보이며 은은한 아우라까지 자랑해 보였다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 이번 콘셉트 포토에서 주요 장치로 쓰이고 있는 새하얀 문이 다시 한번 등장해 기대치를 더하는가 하면, 문고리를 잡아 돌리는 제스처로 새로운 세계를 향한 크래비티의 질주가 임박했음을 알리고 있다. ‘VENI VIDI VICI’는 크래비티 첫 정규앨범의 메인 프로듀싱을 맡은 크루 PCDC가 작사 및 작곡에 참여한 곡으로, 더욱 업그레이드된 음악 세계관을 비롯해 중독성 있는 기타 사운드와 그루브한 리듬이 인상적이다.",
+        "sentenceSize": 234
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고품격 비주얼을 담은 콘셉트 포토를 모두 공개한 크래비티는 ‘VENI VIDI VICI’를 통해 그룹이 지닌 감각적인 색깔을 담아 퍼포먼스는 기본, 완성도 높은 무대로 글로벌 팬들을 만날 계획이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "크래비티는 오는 7일 ‘VENI VIDI VICI’ 스페셜 비디오를 공개하고 후속 활동을 시작한다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "크래비티, '베니 비디 비치' 포토 속… 은은하게 유혹하는 순백 카리스마 뽐내",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

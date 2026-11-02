@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272466",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방통위, 혁신형 중기 방송광고 지원사업 2차 공모",
+		"newsSubTitle": "",
+		"newsContent": "방송통신위원회(방통위)가 한국방송광고진흥공사(코바코)와 혁신형 중소기업을 대상으로 하는 2022년도 방송광고 제작비 지원 사업의 2차 공모를 시행한다고 7일 밝혔다.\n공모 접수는 오는 20일 오후 4시까지 코바코 중소기업 방송광고 지원 사업 전용 홈페이지에서 이뤄진다.\n방통위는 2차 공모에서 TV광고 12개사, 라디오광고 5개사 등 총 17개사를 선정할 계획이다.\nTV광고는 제작비 50% 범위에서 최대 4500만원까지, 라디오광고는 제작비의 70% 범위에서 최대 300만원까지 선정된 기업에 지원된다.\n맞춤형 컨설팅을 통해 방송광고 제작과 송출을 포함한 마케팅 전반에 대한 체계적인 지원도 제공된다.\n지난 2월 1차 공모를 통해 선정된 TV광고 19개사, 라디오광고 11개사 등 30개사는 방송광고를 이미 제작 중이다.\n방통위는 2015년부터 우수한 기술력을 가지고 있으나 낮은 인지도와 마케팅 능력 부족으로 어려움을 겪는 혁신형 중소기업을 대상으로 방송광고 제작비 지원 사업을 하고 있다.\n㈜컬리(마켓컬리), ㈜자코모 등이 광고 제작비를 지원받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신위원회(방통위)가 한국방송광고진흥공사(코바코)와 혁신형 중소기업을 대상으로 하는 2022년도 방송광고 제작비 지원 사업의 2차 공모를 시행한다고 7일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공모 접수는 오는 20일 오후 4시까지 코바코 중소기업 방송광고 지원 사업 전용 홈페이지에서 이뤄진다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방통위는 2차 공모에서 TV광고 12개사, 라디오광고 5개사 등 총 17개사를 선정할 계획이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "TV광고는 제작비 50% 범위에서 최대 4500만원까지, 라디오광고는 제작비의 70% 범위에서 최대 300만원까지 선정된 기업에 지원된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "맞춤형 컨설팅을 통해 방송광고 제작과 송출을 포함한 마케팅 전반에 대한 체계적인 지원도 제공된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2월 1차 공모를 통해 선정된 TV광고 19개사, 라디오광고 11개사 등 30개사는 방송광고를 이미 제작 중이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방통위는 2015년부터 우수한 기술력을 가지고 있으나 낮은 인지도와 마케팅 능력 부족으로 어려움을 겪는 혁신형 중소기업을 대상으로 방송광고 제작비 지원 사업을 하고 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "㈜컬리(마켓컬리), ㈜자코모 등이 광고 제작비를 지원받았다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방통위, 혁신형 중기 방송광고 지원사업 2차 공모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

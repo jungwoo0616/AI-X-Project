@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269650",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "춘천 촬영 영화·드라마 제작 현장에 응급의료 지원체계 구축",
+		"newsSubTitle": "",
+		"newsContent": "강원 춘천지역에서 촬영하는 영화 제작 현장에 응급의료 지원 시스템이 구축된다.\n봄내영화종합촬영소는 9일 춘천 상상마당에서 ‘영화제작 산업 자문 및 보건의 위촉식’을 가졌다.\n위촉식은 영화계 스태프나 배우의 근로 환경 개선을 위해 마련했다.\n영화 촬영 현장에 많은 인원이 동원됨에 따라 제작 과정에서 발생할 수 있는 안전사고 등 위험을 사전에 차단하려는 취지다.\n협약에 따라 촬영 현장에 의무실은 물론 전문 보건의를 배치하고, 심폐소생술 교육도 진행한다.\n춘천은 올해만 국내 유명 제작사가 참여한 영화, 드라마, 온라인동영상서비스(OTT) 등 20여 편이 넘는 촬영이 이뤄질 정도로 ‘영화 로케이션 성지’로 부상하고 있다.\n지난해는 총 22편에 달하는 영화나 드라마 등을 촬영했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강원 춘천지역에서 촬영하는 영화 제작 현장에 응급의료 지원 시스템이 구축된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "봄내영화종합촬영소는 9일 춘천 상상마당에서 ‘영화제작 산업 자문 및 보건의 위촉식’을 가졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "위촉식은 영화계 스태프나 배우의 근로 환경 개선을 위해 마련했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영화 촬영 현장에 많은 인원이 동원됨에 따라 제작 과정에서 발생할 수 있는 안전사고 등 위험을 사전에 차단하려는 취지다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "협약에 따라 촬영 현장에 의무실은 물론 전문 보건의를 배치하고, 심폐소생술 교육도 진행한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "춘천은 올해만 국내 유명 제작사가 참여한 영화, 드라마, 온라인동영상서비스(OTT) 등 20여 편이 넘는 촬영이 이뤄질 정도로 ‘영화 로케이션 성지’로 부상하고 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해는 총 22편에 달하는 영화나 드라마 등을 촬영했다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "춘천 촬영 영화·드라마 제작 현장에 응급의료 지원체계 구축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

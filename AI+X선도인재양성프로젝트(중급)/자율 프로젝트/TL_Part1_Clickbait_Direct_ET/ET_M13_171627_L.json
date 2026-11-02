@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171627",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘며느라기2’ 뭉클함 자아낸 ‘엄마’ 문희경",
+    "newsSubTitle": "",
+    "newsContent": "배우 문희경이 완벽한 캐릭터 소화력으로 혀를 내두르게 만들었다.\n문희경은 15일 오전 10시 방송된 카카오TV 오리지널 ‘며느라기2...ing’에 출연했다.\n이날 방송에서 박하선의 시어머니인 박기동 역을 맡은 문희경은 매순간 자식들을 위하는 전형적인 어머니의 모습을 생동감 있게 전하며 깊은 인상을 남겼다.\n문희경은 장을 보며 가격을 꼼꼼하게 따지는 모습부터 딸을 찾아온 사위의 갑작스러운 방문에도 매몰차게 대하지 못하는 면모로 시청자에게 공감을 안겼다.\n또한 문희경은 이혼을 결심한 딸의 곁을 지켜주며 든든한 지원자로서 나서는 모습을 보여줘 단순히 시어머니뿐만이 아닌 따뜻한 어머니의 내면을 표현해 극의 몰입도를 한껏 높였다.\n앞서 ‘며느라기’ 시즌 1에서 문희경은 자신 또한 한평생 며느리로 살아온 여성으로서 입체적인 면모를 갖고 있는 시어머니 캐릭터를 선보인 바, 시즌 2에서는 어떻게 극을 이끌어나갈지 궁금증을 높이고 있다.\n한편, 문희경의 탁월한 캐릭터 소화력을 엿볼 수 있는 ‘며느라기2...ing’는 매주 토요일 오전 10시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 문희경이 완벽한 캐릭터 소화력으로 혀를 내두르게 만들었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문희경은 15일 오전 10시 방송된 카카오TV 오리지널 ‘며느라기2...ing’에 출연했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 박하선의 시어머니인 박기동 역을 맡은 문희경은 매순간 자식들을 위하는 전형적인 어머니의 모습을 생동감 있게 전하며 깊은 인상을 남겼다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문희경은 장을 보며 가격을 꼼꼼하게 따지는 모습부터 딸을 찾아온 사위의 갑작스러운 방문에도 매몰차게 대하지 못하는 면모로 시청자에게 공감을 안겼다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 문희경은 이혼을 결심한 딸의 곁을 지켜주며 든든한 지원자로서 나서는 모습을 보여줘 단순히 시어머니뿐만이 아닌 따뜻한 어머니의 내면을 표현해 극의 몰입도를 한껏 높였다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 ‘며느라기’ 시즌 1에서 문희경은 자신 또한 한평생 며느리로 살아온 여성으로서 입체적인 면모를 갖고 있는 시어머니 캐릭터를 선보인 바, 시즌 2에서는 어떻게 극을 이끌어나갈지 궁금증을 높이고 있다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 문희경의 탁월한 캐릭터 소화력을 엿볼 수 있는 ‘며느라기2...ing’는 매주 토요일 오전 10시에 방송된다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'며느라기2' 문희경, 이 역할 맡아 깊은 감동 선사",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277356",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "걸그룹 이미지 버리고 '아재' 자처한 한 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 구구단의 멤버 김세정이 꾸밈 없는 모습이 화제다.\n최근 온라인 커뮤니티에 '김세정이 무릎담요를 줍는 방법'이란 제목의 글이 올라왔다.\n김세정은 짧은 치마를 입었음에도 불구, 다리를 활짝 벌린 채 털털하게 담요를 줍는다.\n이런 김세정의 모습에 네티즌들은 \\\"역시 세정이 형\\\" \\\"김세정 아재\\\"와 같은 반응을 보였다.\n김세정은 여러차례 방송에선 나와 털털한 모습을 보여주며 '세정이 형' '김세정 아재'와 같은 별명을 얻었다.\nSBS '꽃놀이패'에서는 청국장에 조기구이를 정신없이 먹으며 아재 말투를 선보였고, MBC '복면가왕'에서는 직접 \\\"제가 평소 아재스러운 분위기로 비치다 보니 중후한 여성의 이미지를 보여드리고 싶었다\\\"라고 언급하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 구구단의 멤버 김세정이 꾸밈 없는 모습이 화제다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 '김세정이 무릎담요를 줍는 방법'이란 제목의 글이 올라왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김세정은 짧은 치마를 입었음에도 불구, 다리를 활짝 벌린 채 털털하게 담요를 줍는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이런 김세정의 모습에 네티즌들은 \\\"역시 세정이 형\\\" \\\"김세정 아재\\\"와 같은 반응을 보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김세정은 여러차례 방송에선 나와 털털한 모습을 보여주며 '세정이 형' '김세정 아재'와 같은 별명을 얻었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SBS '꽃놀이패'에서는 청국장에 조기구이를 정신없이 먹으며 아재 말투를 선보였고, MBC '복면가왕'에서는 직접 \\\"제가 평소 아재스러운 분위기로 비치다 보니 중후한 여성의 이미지를 보여드리고 싶었다\\\"라고 언급하기도 했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "걸그룹 이미지 버리고 '아재' 자처한 한 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

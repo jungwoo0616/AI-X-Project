@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279414",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[사진] 한국 진출한 日유명 모델, 화보 보니",
+		"newsSubTitle": "",
+		"newsContent": "맥심 2월호 표지모델로 시노자키 아이가 발탁됐다는 소식에 온라인 커뮤니티가 들썩이고 있다.\n지난 15일 한 온라인 커뮤니티에 '맥심 2월호 표지모델'이라는 게시글이 올라왔다.\n화제의 주인공은 일본의 대표적인 그라비아 모델인 시노자키 아이였다.\n2006년 연예계에 데뷔한 그녀는 아이같은 얼굴에 글래머러스한 몸매로 일본 뿐만 아니라 한국에서도 많은 사랑을 받고 있다.\n한편 시노자키 아이는 모델 뿐만 아니라 가수로도 많은 활동을 해 최근까지도 싱글앨범을 발매하는 등 가창력을 인정받았다.\n온라인 중앙일보 [사진 온라인 커뮤니티]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "맥심 2월호 표지모델로 시노자키 아이가 발탁됐다는 소식에 온라인 커뮤니티가 들썩이고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 15일 한 온라인 커뮤니티에 '맥심 2월호 표지모델'이라는 게시글이 올라왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화제의 주인공은 일본의 대표적인 그라비아 모델인 시노자키 아이였다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2006년 연예계에 데뷔한 그녀는 아이같은 얼굴에 글래머러스한 몸매로 일본 뿐만 아니라 한국에서도 많은 사랑을 받고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 시노자키 아이는 모델 뿐만 아니라 가수로도 많은 활동을 해 최근까지도 싱글앨범을 발매하는 등 가창력을 인정받았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 온라인 커뮤니티]",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[사진] 한국 진출한 日유명 모델, 화보 보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

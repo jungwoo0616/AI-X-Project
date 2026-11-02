@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276432",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "22살 한달 5천만원 벌던 이상민 \\\"홍대서 돈뿌려\\\"",
+		"newsSubTitle": "",
+		"newsContent": "사업으로 수십억의 빚을 진 것으로 알려진 방송인 이상민이 과거 룰라 전성기 시절 수입을 공개했다.\n30일 방송된 SBS '미운 우리 새끼'에서는 이상민이 룰라 멤버 김지현, 채리나를 비롯해, 이상민과 친분이 있는 이지혜, 황보를 초대했다.\n이상민은 직접 요리를 대접하며 손님들을 맞았고 손님들과 함께 과거 이야기를 꽃피웠다.\n이상민과 룰라 멤버들은 \\\"과거 룰라 멤버 1인당 한 달 평균 수입이 2천만 원에서 5천만 원 정도 됐다\\\"고 회상했다.\n그러면서 어린 시절에 큰 돈을 만지게 된 당시를 회상했고 이상민이 22살에 월 5천만원을 벌게됐을 때 '허세병'에 걸린 일화도 소개됐다.\n김지현은 \\\"당시 이상민은 걸어다니는 명품\\\"이라고 말하면서 \\\"이상민이 홍대 클럽에서 돈을 쫙 부린 적도 있다\\\"고 증언했다.\n이상민은 손사래를 치며 \\\"그 정도면 미친 사람이지\\\"라며 민망해 했고 \\\"그리고 내가 다 주웠지?\\\"라고 물어보며 '자진 납세'를 했다.\n김지현은 \\\"어\\\"라고 대답해 당시 상황을 다시 한번 확인시켰다.\n한편 최근 브라운관을 종횡무진하는 방송인 이상민은 지난 5월 한 방송에서 자신의 빚 68억에 대해 \\\"앞으로 2~3년 안에 다 갚을 수 있지 않을까 생각한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사업으로 수십억의 빚을 진 것으로 알려진 방송인 이상민이 과거 룰라 전성기 시절 수입을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 SBS '미운 우리 새끼'에서는 이상민이 룰라 멤버 김지현, 채리나를 비롯해, 이상민과 친분이 있는 이지혜, 황보를 초대했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이상민은 직접 요리를 대접하며 손님들을 맞았고 손님들과 함께 과거 이야기를 꽃피웠다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이상민과 룰라 멤버들은 \\\"과거 룰라 멤버 1인당 한 달 평균 수입이 2천만 원에서 5천만 원 정도 됐다\\\"고 회상했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 어린 시절에 큰 돈을 만지게 된 당시를 회상했고 이상민이 22살에 월 5천만원을 벌게됐을 때 '허세병'에 걸린 일화도 소개됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김지현은 \\\"당시 이상민은 걸어다니는 명품\\\"이라고 말하면서 \\\"이상민이 홍대 클럽에서 돈을 쫙 부린 적도 있다\\\"고 증언했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이상민은 손사래를 치며 \\\"그 정도면 미친 사람이지\\\"라며 민망해 했고 \\\"그리고 내가 다 주웠지?\\\"라고 물어보며 '자진 납세'를 했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김지현은 \\\"어\\\"라고 대답해 당시 상황을 다시 한번 확인시켰다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 최근 브라운관을 종횡무진하는 방송인 이상민은 지난 5월 한 방송에서 자신의 빚 68억에 대해 \\\"앞으로 2~3년 안에 다 갚을 수 있지 않을까 생각한다\\\"고 말했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "22살 한달 5천만원 벌던 이상민 \\\"홍대서 돈뿌려\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

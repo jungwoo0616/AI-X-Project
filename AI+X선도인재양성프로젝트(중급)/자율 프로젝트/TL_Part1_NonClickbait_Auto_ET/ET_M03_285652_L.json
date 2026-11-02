@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285652",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[사진] 미즈하라 키코, 과감한 포즈로 도발적 매력 선보여",
+		"newsSubTitle": "",
+		"newsContent": "아시아에서 주목 받는 일본 모델 겸 배우 미즈하라 키코의 가을화보가 코스모폴리탄 11월호를 통해 공개됐다.\n코스모폴리탄이 영 캐릭터 브랜드 SJYP와 함께한 이번 화보에서 미즈하라 키코는 때로는 소녀 같기도, 때로는 거칠지만 부드러운 모습의 숙녀의 모습을 보여주며 다양한 매력을 발산했다.\n같은 소재에 다른 실루엣의 데님을 레이어드 하거나 퍼 재킷을 입고 갈대밭에 누운 키코 모습은 마치 영화 레옹의 ‘마틸다’를 연상케 한다.\n키코는 앞으로 모델 뿐 아니라 마음을 표현할 수 있는 배우로도 성장해나가고 싶다고 밝혔다.\n이어 한국 여배우로는 공효진을 좋아한다고 전했다. “웃음과 함께 진한 감동까지 동시에 전하는 자연스러운 연기에 아주 뛰어나다. 우리 주위에서 흔히 볼 수 있을 것 같은 일상적인 느낌이 오히려 더 특별하다”고 말하며 자신도 사람들을 기분 좋게 하는 역할을 해보고 싶다고 전했다.\n몽환적이면서 소녀스러움이 묻어나기도 하는 미즈하라 키코의 더 많은 화보와 인터뷰는 코스모폴리탄 11월호와 웹사이트를 통해 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아시아에서 주목 받는 일본 모델 겸 배우 미즈하라 키코의 가을화보가 코스모폴리탄 11월호를 통해 공개됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코스모폴리탄이 영 캐릭터 브랜드 SJYP와 함께한 이번 화보에서 미즈하라 키코는 때로는 소녀 같기도, 때로는 거칠지만 부드러운 모습의 숙녀의 모습을 보여주며 다양한 매력을 발산했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "같은 소재에 다른 실루엣의 데님을 레이어드 하거나 퍼 재킷을 입고 갈대밭에 누운 키코 모습은 마치 영화 레옹의 ‘마틸다’를 연상케 한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "키코는 앞으로 모델 뿐 아니라 마음을 표현할 수 있는 배우로도 성장해나가고 싶다고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 한국 여배우로는 공효진을 좋아한다고 전했다. “웃음과 함께 진한 감동까지 동시에 전하는 자연스러운 연기에 아주 뛰어나다. 우리 주위에서 흔히 볼 수 있을 것 같은 일상적인 느낌이 오히려 더 특별하다”고 말하며 자신도 사람들을 기분 좋게 하는 역할을 해보고 싶다고 전했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "몽환적이면서 소녀스러움이 묻어나기도 하는 미즈하라 키코의 더 많은 화보와 인터뷰는 코스모폴리탄 11월호와 웹사이트를 통해 만나볼 수 있다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[사진] 미즈하라 키코, 과감한 포즈로 도발적 매력 선보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171425",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "영탁 팬클럽, 아름다운 나눔ing",
+    "newsSubTitle": "",
+    "newsContent": "가수 영탁의 팬클럽이 아름다운 나눔을 이어가고 있다.\n팬클럽은 15일, 지난 1일 대구 동구에 이어 2차로 강원 양구군 관내의 어려운 이웃들을 위해 우리쌀 370Kg을 전달했다.\n이는 가수 영탁이 공식행사를 한 지역에 영탁이 받은 따뜻한 사랑을 지역 사회에 되돌려주는 팬클럽의 나눔 활동이다.\n이른바‘365일 쌀앙해’ 이웃사랑 쌀 기부 릴레이 행사로 영탁이 모델로 활동하고 있는 MG 새마을금고와 함께해 의미를 더했다.\n팬클럽은 이날 “15일 1시 양구군청에서 조인묵 양구군수와 최규현 새마을금고 양구본점 이사장을 통해 가수 영탁과 팬클럽의 따뜻한 마음(쌀370kg)을 전해 드렸다”며 “특히 이번에 후원한 쌀은 과거 배고팠던 시절 서민들에게 쌀을 빌려준 양곡은행의 설립 취지를 이어받은 철원 새마을금고에서 운영하는 미곡 종합 처리장을 통해 공수한 우리쌀이라서 더욱 의미가 있다”고 밝혔다.\n또한 “가수 영탁의 멋진 무대와 더불어 소중한 우리 쌀도 어려운 우리 이웃들에게 따뜻한 위로가 되었으면 좋겠다”며 “영탁 팬클럽은 아티스트 영탁과 함께 우리 사회에 힘이 되는 선하고 능동적인 팬덤으로 오래오래 함께 할 것이다”라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 영탁의 팬클럽이 아름다운 나눔을 이어가고 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "팬클럽은 15일, 지난 1일 대구 동구에 이어 2차로 강원 양구군 관내의 어려운 이웃들을 위해 우리쌀 370Kg을 전달했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 가수 영탁이 공식행사를 한 지역에 영탁이 받은 따뜻한 사랑을 지역 사회에 되돌려주는 팬클럽의 나눔 활동이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이른바‘365일 쌀앙해’ 이웃사랑 쌀 기부 릴레이 행사로 영탁이 모델로 활동하고 있는 MG 새마을금고와 함께해 의미를 더했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "팬클럽은 이날 “15일 1시 양구군청에서 조인묵 양구군수와 최규현 새마을금고 양구본점 이사장을 통해 가수 영탁과 팬클럽의 따뜻한 마음(쌀370kg)을 전해 드렸다”며 “특히 이번에 후원한 쌀은 과거 배고팠던 시절 서민들에게 쌀을 빌려준 양곡은행의 설립 취지를 이어받은 철원 새마을금고에서 운영하는 미곡 종합 처리장을 통해 공수한 우리쌀이라서 더욱 의미가 있다”고 밝혔다.",
+        "sentenceSize": 207
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 “가수 영탁의 멋진 무대와 더불어 소중한 우리 쌀도 어려운 우리 이웃들에게 따뜻한 위로가 되었으면 좋겠다”며 “영탁 팬클럽은 아티스트 영탁과 함께 우리 사회에 힘이 되는 선하고 능동적인 팬덤으로 오래오래 함께 할 것이다”라고 덧붙였다.",
+        "sentenceSize": 134
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영탁 팬클럽, 대구 동구에 '이것' 전달해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

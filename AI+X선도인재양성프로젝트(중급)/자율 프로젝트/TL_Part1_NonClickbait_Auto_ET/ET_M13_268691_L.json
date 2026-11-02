@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268691",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이수영, 13년 만의 정규 10집 발매 앞서 선공개곡 ‘덧’으로 컴백 신호탄",
+		"newsSubTitle": "",
+		"newsContent": "가수 이수영이 정규 10집 발매에 앞서 선공개곡으로 설레는 마음을 전한다.\n이수영은 29일 오후 6시 온라인 음원사이트를 통해 열 번째 정규앨범 선공개 싱글 ‘덧’을 발매했다. ‘덧’은 지난 2009년 발매된 정규 9집 ‘DAZZLE’ 이후 이수영이 13년 만에 발표하는 정규 10집에 수록 예정인 트랙으로, 아티스트 특유의 독보적인 감성과 애절함이 돋보이는 발라드 곡이다.\n지난날을 잊고 싶으면서도 놓고 싶지 않은 마음의 이중성을 ‘혓바늘’에 빗댄 이 곡은 추억, 그리움, 아픔이라는 단어들이 ‘사랑’으로 치환되는 모순을 이수영 특유의 호소력 짙은 보이스로 표현해 리스너들 귓가를 사로잡을 전망이다.\n누구나 한 번쯤 경험해 봤을 평범하면서도 특별한 이야기를 작사가 김이나의 감성적 언어로 풀어냈으며 뮤지션 프롬, 권영찬이 작곡한 아름답고 서정적인 멜로디에 이수영의 특별한 음색이 더해져 완성도 높은 곡이 탄생했다.\n이수영이 13년 만에 발표하는 정규 10집의 마중물 역할을 톡톡히 할 선공개곡 ‘덧’ 음원과 뮤직비디오는 29일 오후 6시에 공개가 됐다.\n이수영만의 독보적인 음악 세계를 만끽할 수 있는 정규 10집은 오는 5월 중 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이수영이 정규 10집 발매에 앞서 선공개곡으로 설레는 마음을 전한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수영은 29일 오후 6시 온라인 음원사이트를 통해 열 번째 정규앨범 선공개 싱글 ‘덧’을 발매했다. ‘덧’은 지난 2009년 발매된 정규 9집 ‘DAZZLE’ 이후 이수영이 13년 만에 발표하는 정규 10집에 수록 예정인 트랙으로, 아티스트 특유의 독보적인 감성과 애절함이 돋보이는 발라드 곡이다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난날을 잊고 싶으면서도 놓고 싶지 않은 마음의 이중성을 ‘혓바늘’에 빗댄 이 곡은 추억, 그리움, 아픔이라는 단어들이 ‘사랑’으로 치환되는 모순을 이수영 특유의 호소력 짙은 보이스로 표현해 리스너들 귓가를 사로잡을 전망이다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누구나 한 번쯤 경험해 봤을 평범하면서도 특별한 이야기를 작사가 김이나의 감성적 언어로 풀어냈으며 뮤지션 프롬, 권영찬이 작곡한 아름답고 서정적인 멜로디에 이수영의 특별한 음색이 더해져 완성도 높은 곡이 탄생했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이수영이 13년 만에 발표하는 정규 10집의 마중물 역할을 톡톡히 할 선공개곡 ‘덧’ 음원과 뮤직비디오는 29일 오후 6시에 공개가 됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이수영만의 독보적인 음악 세계를 만끽할 수 있는 정규 10집은 오는 5월 중 공개될 예정이다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이수영, 13년 만의 정규 10집 발매 앞서 선공개곡 ‘덧’으로 컴백 신호탄",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

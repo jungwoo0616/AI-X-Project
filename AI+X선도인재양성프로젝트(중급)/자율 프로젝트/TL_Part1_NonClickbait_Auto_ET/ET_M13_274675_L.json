@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274675",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유슬기X현아…폭염보다 뜨거운 걸",
+		"newsSubTitle": "",
+		"newsContent": "댄서 유슬기와 현아가 폭염을 뚫은 화끈한 의상으로 시선을 사로잡았다.\n유슬기는 4일 자신의 SNS 인스타그램에 “슈퍼노바. 더웠지만 재밌었다”라는 글과 함께 가수 현아와 함께 찍은 사진을 올렸다.\n두 사람은 란제리 스타일의 무대 의상을 입고 포즈를 취하고 있다.\n두 사람은 지난 2일과 3일 서울 잠실 종합운동장 보조경기장 특설무대에서 펼쳐진 ‘슈퍼노바 페스티벌 2022’ 무대에 오른 것으로 보인다.\n현아는 남자친구인 던과 함께 섹시한 무대를 선보였으며, MFBTY, 래퍼 다베이비와 24K골든의 무대도 펼쳐졌다.\n특히 24K골든은 ‘슈퍼노바 페스티벌 2022’를 통해 최초로 내한 공연을 펼쳐 눈길을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 유슬기와 현아가 폭염을 뚫은 화끈한 의상으로 시선을 사로잡았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유슬기는 4일 자신의 SNS 인스타그램에 “슈퍼노바. 더웠지만 재밌었다”라는 글과 함께 가수 현아와 함께 찍은 사진을 올렸다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 란제리 스타일의 무대 의상을 입고 포즈를 취하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 지난 2일과 3일 서울 잠실 종합운동장 보조경기장 특설무대에서 펼쳐진 ‘슈퍼노바 페스티벌 2022’ 무대에 오른 것으로 보인다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현아는 남자친구인 던과 함께 섹시한 무대를 선보였으며, MFBTY, 래퍼 다베이비와 24K골든의 무대도 펼쳐졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 24K골든은 ‘슈퍼노바 페스티벌 2022’를 통해 최초로 내한 공연을 펼쳐 눈길을 끌었다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유슬기X현아…폭염보다 뜨거운 걸",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259852",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘어서와’ 맥주회사 부사장, 김빠진 맥주 vs 따뜻한 맥주 선택은?",
+		"newsSubTitle": "",
+		"newsContent": "‘어서와 한국은 처음이지’ 에서 OB 맥주 부사장 나탈리의 반전 매력이 공개된다.\n3일 방송되는 MBC에브리원 예능 ‘어서와 한국은 처음이지’에는 한국살이 3년 차 브라질 출신 나탈리, 한국살이 8년 차 브라질 출신 마테우스가 출연한다.\n이날 방송에는 대형 맥주 제조 회사인 ‘오비맥주’ 부사장 나탈리의 반전 매력이 공개된다.\n나탈리는 ‘친환경 비닐 포장’에 대한 직원의 발표 중 “자재 능력에는 이상이 없나” “소비자들은 느낄 수 있나”라며 날카로운 질문을 쏟아붓는다.\n그러나 부하직원들과의 모임에서는 게임을 즐기며 다정한 면모를 뽐낸다.\n특히 ‘김빠진 맥주’와 ‘따뜻한 맥주’ 중 하나를 정해야 하는 밸런스 게임에서 “아무것도 못 고르겠다”라며 곤란해하는 나탈리의 귀여운 모습이 스튜디오를 웃음바다로 만든다.\n그런가 하면 나탈리는 덴마크에서 온 비비 부부와 퇴근 후 특별한 저녁 시간을 보낸다.\n함께 찾아간 곳은 돼지 특수부위 식당. 나탈리는 난생 처음 보는 볼살을 쌈장에 찍어 먹으며 무한 만족을 나타낸다.\n비비는 생막창의 비주얼에 충격을 받았으나, 곧바로 “훈제 향이 난다”라며 고소한 맛에 감탄한다.\n돼지 특수부위와 사랑에 빠진 나탈리와 비비 부부의 모습은 3일 목요일 저녁 8시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘어서와 한국은 처음이지’ 에서 OB 맥주 부사장 나탈리의 반전 매력이 공개된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 방송되는 MBC에브리원 예능 ‘어서와 한국은 처음이지’에는 한국살이 3년 차 브라질 출신 나탈리, 한국살이 8년 차 브라질 출신 마테우스가 출연한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에는 대형 맥주 제조 회사인 ‘오비맥주’ 부사장 나탈리의 반전 매력이 공개된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나탈리는 ‘친환경 비닐 포장’에 대한 직원의 발표 중 “자재 능력에는 이상이 없나” “소비자들은 느낄 수 있나”라며 날카로운 질문을 쏟아붓는다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 부하직원들과의 모임에서는 게임을 즐기며 다정한 면모를 뽐낸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 ‘김빠진 맥주’와 ‘따뜻한 맥주’ 중 하나를 정해야 하는 밸런스 게임에서 “아무것도 못 고르겠다”라며 곤란해하는 나탈리의 귀여운 모습이 스튜디오를 웃음바다로 만든다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그런가 하면 나탈리는 덴마크에서 온 비비 부부와 퇴근 후 특별한 저녁 시간을 보낸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "함께 찾아간 곳은 돼지 특수부위 식당. 나탈리는 난생 처음 보는 볼살을 쌈장에 찍어 먹으며 무한 만족을 나타낸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "비비는 생막창의 비주얼에 충격을 받았으나, 곧바로 “훈제 향이 난다”라며 고소한 맛에 감탄한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "돼지 특수부위와 사랑에 빠진 나탈리와 비비 부부의 모습은 3일 목요일 저녁 8시 30분에 방송된다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘어서와’ 맥주회사 부사장, 김빠진 맥주 vs 따뜻한 맥주 선택은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266952",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "연예인·일반인 대상 딥페이크 불법영상 차단, 1년만에 8배 증가",
+		"newsSubTitle": "",
+		"newsContent": "방송통신심의위원회(방심위)는 올해 1분기 유명 여자 아이돌 또는 일반인을 대상으로 한 불법 성적 허위영상물 ‘딥페이크’ 963건을 시정요구(접속차단)했다고 14일 밝혔다.\n이는 지난해 같은 기간 시정요구 건수 116건보다 8배 늘어난 수치다.\n딥페이크 영상물 963건 중 99%인 954건은 대상이 여자 연예인이었고, 나머지 1%인 9건은 대상이 일반 여성이었다.\n방심위 디지털성범죄심의소위원회는 올해 1분기 64차례 회의를 열고 이런 불법 성적 허위영상을 비롯한 디지털 성범죄정보 1만223건에 대해 시정요구를 의결했다.\n경찰청과 한국여성인권진흥원이 신고를 받는 불법촬영물 건도 3년간 지속적인 증가세를 보이고 있다.\n올해 1분기 이들 기관이 받은 불법촬영물 신고는 1494건으로 전년 267건보다 459% 증가한 것으로 나타났다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신심의위원회(방심위)는 올해 1분기 유명 여자 아이돌 또는 일반인을 대상으로 한 불법 성적 허위영상물 ‘딥페이크’ 963건을 시정요구(접속차단)했다고 14일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 지난해 같은 기간 시정요구 건수 116건보다 8배 늘어난 수치다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "딥페이크 영상물 963건 중 99%인 954건은 대상이 여자 연예인이었고, 나머지 1%인 9건은 대상이 일반 여성이었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방심위 디지털성범죄심의소위원회는 올해 1분기 64차례 회의를 열고 이런 불법 성적 허위영상을 비롯한 디지털 성범죄정보 1만223건에 대해 시정요구를 의결했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경찰청과 한국여성인권진흥원이 신고를 받는 불법촬영물 건도 3년간 지속적인 증가세를 보이고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 1분기 이들 기관이 받은 불법촬영물 신고는 1494건으로 전년 267건보다 459% 증가한 것으로 나타났다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연예인·일반인 대상 딥페이크 불법영상 차단, 1년만에 8배 증가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277005",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'결별 후 공식 석상' 설리가 카메라를 볼 때마다 던진 말",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 에프엑스 출신 설리(본명 최진리·23)가 결별 후 첫 공식 석상에 섰다.\n설리는 5일 자신이 모델로 활동하는 한 뷰티 브랜드 행사장에 모습을 드러냈다.\n등이 파인 원피스를 입고 나타난 설리는 자신을 찍는 수많은 취재진 앞에 당당히 포즈를 잡았다.\n이날 보그코리아 측은 공식 인스타그램을 통해 \\\"설리가 카메라를 향해 상큼한 인사를 건넨다\\\"며 영상을 공개했다.\n영상에서 설리는 \\\"여러분 안녕하세요. 설리입니다\\\"라며 반갑게 손을 흔들었다.\n또, 양손을 브이(V) 자로 만들어 귀여운 포즈를 짓기도 했다.\n설리는 다음날인 6일 한 여성의류 브랜드 행사장에서도 모습을 비췄다.\n설리는 포토월에 서기 전 '안녕하세요'라고 취재진에게 고개를 숙여 인사한 뒤 포즈를 잡았다.\n한편 설리와 그룹 다이나믹 듀오 멤버 최자(본명 최재호·37)는 2년 7개월간의 열애에 마침표를 찍고 지난달 6일 결별을 인정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 에프엑스 출신 설리(본명 최진리·23)가 결별 후 첫 공식 석상에 섰다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "설리는 5일 자신이 모델로 활동하는 한 뷰티 브랜드 행사장에 모습을 드러냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "등이 파인 원피스를 입고 나타난 설리는 자신을 찍는 수많은 취재진 앞에 당당히 포즈를 잡았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 보그코리아 측은 공식 인스타그램을 통해 \\\"설리가 카메라를 향해 상큼한 인사를 건넨다\\\"며 영상을 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상에서 설리는 \\\"여러분 안녕하세요. 설리입니다\\\"라며 반갑게 손을 흔들었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또, 양손을 브이(V) 자로 만들어 귀여운 포즈를 짓기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "설리는 다음날인 6일 한 여성의류 브랜드 행사장에서도 모습을 비췄다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "설리는 포토월에 서기 전 '안녕하세요'라고 취재진에게 고개를 숙여 인사한 뒤 포즈를 잡았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 설리와 그룹 다이나믹 듀오 멤버 최자(본명 최재호·37)는 2년 7개월간의 열애에 마침표를 찍고 지난달 6일 결별을 인정했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'결별 후 공식 석상' 설리가 카메라를 볼 때마다 던진 말",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

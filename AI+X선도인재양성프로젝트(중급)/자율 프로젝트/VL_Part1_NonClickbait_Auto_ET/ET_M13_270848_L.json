@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270848",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조권 “2AM 콘서트 엽니다” SNS",
+		"newsSubTitle": "",
+		"newsContent": "가수 조권이 오랜만에 근황을 전했다.\n오늘(20일) 조권은 자신의 SNS 채널을 통해 “다시 모인 완전체, 드디어 9년 만에 저희 2AM 콘서트가 열립니다!”라는 글과 함께 사진을 게재했다.\n공개된 사진 속 조권을 비롯해 정진운, 이창민, 임슬옹이 나란히 서서 카메라를 향해 포즈를 취하고 있다.\n특히 완전체로 뭉친 2AM의 훈훈한 모습은 콘서트를 오랜 시간 기다려온 팬들을 설레게 만들었다.\n조권은 다양한 예능 프로그램과 노래, 뮤지컬을 넘나들며 만능 엔터테이너의 면모를 입증했고, 유튜브 채널 ‘조권의 보권말권’을 통해 팬들과 소통 중이다.\n한편, 조권이 속한 그룹 2AM 단독 콘서트 ‘2am Concert 22 S/S’는 6월 11일 오후 6시, 12일 오후 5시 양일간 서울 블루스퀘어 마스터카드홀에서 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 조권이 오랜만에 근황을 전했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(20일) 조권은 자신의 SNS 채널을 통해 “다시 모인 완전체, 드디어 9년 만에 저희 2AM 콘서트가 열립니다!”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 조권을 비롯해 정진운, 이창민, 임슬옹이 나란히 서서 카메라를 향해 포즈를 취하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 완전체로 뭉친 2AM의 훈훈한 모습은 콘서트를 오랜 시간 기다려온 팬들을 설레게 만들었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조권은 다양한 예능 프로그램과 노래, 뮤지컬을 넘나들며 만능 엔터테이너의 면모를 입증했고, 유튜브 채널 ‘조권의 보권말권’을 통해 팬들과 소통 중이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 조권이 속한 그룹 2AM 단독 콘서트 ‘2am Concert 22 S/S’는 6월 11일 오후 6시, 12일 오후 5시 양일간 서울 블루스퀘어 마스터카드홀에서 진행된다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조권 “2AM 콘서트 엽니다” SNS",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

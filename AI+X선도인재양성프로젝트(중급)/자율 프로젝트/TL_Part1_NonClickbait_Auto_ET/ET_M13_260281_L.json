@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260281",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "개그우먼 이수지 “황대헌·이준서 선수 울지마요…1등은 우리 것”",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 이수지가 쇼트트랙 편파 판정에 대해 분노했다.\n이수지는 8일 자신의 사회관계망서비스(SNS)에 쇼트트랙 경기 화면 사진을 업로드했다.\n이수지는 그러면서 “황대헌, 이준서 선수 화이팅. 우리 선수들 힘내요, 울지마요”라고 말했다.\n이수지는 이어 “1등은 우리 것, 한복도 우리 것, 김치도 우리 것, 그만 우깁시다”라며 중국의 편파 판정에 대해 비판했다.\n이에 가수 알리 또한 “진짜 너무 속터진다”라는 반응을 보였고, 코미디언 김혜선도 “미쳤구만”이라는 댓글을 남겼다.\n앞서 이날 황대헌은 2022 베이징 올림픽 쇼트트랙 남자 1000m 준결승 1조에서 조 1위를 차지했지만 실격 처리 당했고, 이준서도 준결승 2조에서 2위를 차지했지만 경기 후에 실격 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 이수지가 쇼트트랙 편파 판정에 대해 분노했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수지는 8일 자신의 사회관계망서비스(SNS)에 쇼트트랙 경기 화면 사진을 업로드했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이수지는 그러면서 “황대헌, 이준서 선수 화이팅. 우리 선수들 힘내요, 울지마요”라고 말했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이수지는 이어 “1등은 우리 것, 한복도 우리 것, 김치도 우리 것, 그만 우깁시다”라며 중국의 편파 판정에 대해 비판했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 가수 알리 또한 “진짜 너무 속터진다”라는 반응을 보였고, 코미디언 김혜선도 “미쳤구만”이라는 댓글을 남겼다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 이날 황대헌은 2022 베이징 올림픽 쇼트트랙 남자 1000m 준결승 1조에서 조 1위를 차지했지만 실격 처리 당했고, 이준서도 준결승 2조에서 2위를 차지했지만 경기 후에 실격 됐다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개그우먼 이수지 “황대헌·이준서 선수 울지마요…1등은 우리 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

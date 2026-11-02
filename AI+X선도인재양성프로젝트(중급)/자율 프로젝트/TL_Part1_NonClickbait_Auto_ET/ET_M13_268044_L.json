@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268044",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "다크비에 취할 수밖에…",
+		"newsSubTitle": "",
+		"newsContent": "그룹 다크비(DKB)가 신곡 뮤직비디오 1차 티저를 공개했다.\n소속사 브레이브 엔터테인먼트는 25일 자정, 공식 유튜브 채널과 SNS를 통해 다크비의 네 번째 미니앨범 ‘REBEL’의 타이틀곡 ‘안취해 (Sober)’ 뮤직비디오 1차 티저 영상을 게재했다.\n공개된 뮤직비디오 1차 티저 속 위협적인 메두사에 맞서 현실 세계와 이세계를 넘나들며 자유분방한 매력을 맘껏 발산하는 멤버들의 모습이 눈길을 끌었다.\n또한 심장을 울리는 강렬한 비트에 맞춰 완벽 퍼포먼스를 선보이며 신곡에 대한 기대감을 고조시켰다.\n오는 28일(목) 발매되는 다크비의 네 번째 미니앨범의 타이틀곡 ‘안취해 (Sober)’는 힙합, 트랩 리듬을 베이스로 한 곡으로 그루브하면서 세련된 멤버들의 보이스가 돋보이는 곡이다.\n한편, 다크비의 네 번째 미니앨범 ‘REBEL’은 오는 28일(목) 오후 6시, 각종 음원 사이트를 통해 공개된다.\n또한 앨범 발매 하루 전인 27일(수) 쇼케이스를 통해 컴백 전야제를 갖는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 다크비(DKB)가 신곡 뮤직비디오 1차 티저를 공개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 브레이브 엔터테인먼트는 25일 자정, 공식 유튜브 채널과 SNS를 통해 다크비의 네 번째 미니앨범 ‘REBEL’의 타이틀곡 ‘안취해 (Sober)’ 뮤직비디오 1차 티저 영상을 게재했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 뮤직비디오 1차 티저 속 위협적인 메두사에 맞서 현실 세계와 이세계를 넘나들며 자유분방한 매력을 맘껏 발산하는 멤버들의 모습이 눈길을 끌었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 심장을 울리는 강렬한 비트에 맞춰 완벽 퍼포먼스를 선보이며 신곡에 대한 기대감을 고조시켰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오는 28일(목) 발매되는 다크비의 네 번째 미니앨범의 타이틀곡 ‘안취해 (Sober)’는 힙합, 트랩 리듬을 베이스로 한 곡으로 그루브하면서 세련된 멤버들의 보이스가 돋보이는 곡이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 다크비의 네 번째 미니앨범 ‘REBEL’은 오는 28일(목) 오후 6시, 각종 음원 사이트를 통해 공개된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 앨범 발매 하루 전인 27일(수) 쇼케이스를 통해 컴백 전야제를 갖는다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다크비에 취할 수밖에…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

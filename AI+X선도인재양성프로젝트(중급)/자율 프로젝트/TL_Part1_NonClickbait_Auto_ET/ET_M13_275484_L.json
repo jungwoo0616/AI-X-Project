@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275484",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "봄날의 햇살 하윤경이 그린 박은빈···싱크로율 100%",
+		"newsSubTitle": "",
+		"newsContent": "배우 하윤경이 직접 그린 박은빈 초상화를 공개했다.\n하윤경은 13일 자신의 사회관계망서비스(SNS)에 “우영우 초상화”라는 글과 함께 사진을 게재했다.\n공개한 사진은 촬영 준비 중인 박은빈의 뒷모습과 하윤경이 그린 박은빈 그림이다.\n간단하게 그린 그림이지만 포인트를 확실하게 짚어 높은 싱크로율을 자랑했다.\n사진을 본 박은빈은 “고마워 ㅊㅅㅇ”이라고 화답했다.\n한편 하윤경은 ENA ‘이상한 변호사 우영우’에서 최수연으로, 우영우 역의 박은빈과 열연을 펼치고 있다.\n특히 13일 방송된 5화에서는 우영우가 로스쿨 시절부터 늘 자신을 도와주고 보살펴준 최수연을 ‘봄날의 햇살’로 표현했다.\n이를 들은 최수연이 눈물 짓는 장면이 보이면서 시청자들에게 감동을 안겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 하윤경이 직접 그린 박은빈 초상화를 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하윤경은 13일 자신의 사회관계망서비스(SNS)에 “우영우 초상화”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진은 촬영 준비 중인 박은빈의 뒷모습과 하윤경이 그린 박은빈 그림이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "간단하게 그린 그림이지만 포인트를 확실하게 짚어 높은 싱크로율을 자랑했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진을 본 박은빈은 “고마워 ㅊㅅㅇ”이라고 화답했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 하윤경은 ENA ‘이상한 변호사 우영우’에서 최수연으로, 우영우 역의 박은빈과 열연을 펼치고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 13일 방송된 5화에서는 우영우가 로스쿨 시절부터 늘 자신을 도와주고 보살펴준 최수연을 ‘봄날의 햇살’로 표현했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 들은 최수연이 눈물 짓는 장면이 보이면서 시청자들에게 감동을 안겼다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "봄날의 햇살 하윤경이 그린 박은빈···싱크로율 100%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

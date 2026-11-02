@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276868",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "한 번 보면 귀여워서 계속 보게된다는 지성 딸 영상",
+		"newsSubTitle": "",
+		"newsContent": "배우 지성이 딸 지유 양의 깜찍한 모습을 공개했다.\n지성은 지난 7일 자신의 소셜네트워크서비스(SNS)에 \\\"곽지유. 순이와 함께. 24개월의 신기한 세상\\\"이라는 글과 함께 짧은 영상을 게재했다.\n영상 속 지유양은 공항 무빙워크에서 자신만큼 큰 크기의 인형을 끌어안은 채 주변을 두리번거리며 신기해한다.\n아버지 지성과 어머니 이보영의 미모를 똑 닮은 모습이 눈길을 끈다.\n해당 영상은 하루 만에 조회 수 35만회를 넘기며 큰 인기를 얻었다.\n한편 지난 2013년 결혼한 지성 이보영 부부는 지난 2015년 6월 딸 지유를 품에 안았다.\n#곽지유 #지유 #JIYU 순이와 함께.. 24개월의 신기한 세상 지성(@justin_jisung)님의 공유 게시물님, 2017 5월 6 오후 10:14 PDT 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 지성이 딸 지유 양의 깜찍한 모습을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지성은 지난 7일 자신의 소셜네트워크서비스(SNS)에 \\\"곽지유. 순이와 함께. 24개월의 신기한 세상\\\"이라는 글과 함께 짧은 영상을 게재했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 지유양은 공항 무빙워크에서 자신만큼 큰 크기의 인형을 끌어안은 채 주변을 두리번거리며 신기해한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아버지 지성과 어머니 이보영의 미모를 똑 닮은 모습이 눈길을 끈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 영상은 하루 만에 조회 수 35만회를 넘기며 큰 인기를 얻었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지난 2013년 결혼한 지성 이보영 부부는 지난 2015년 6월 딸 지유를 품에 안았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "#곽지유 #지유 #JIYU 순이와 함께.. 24개월의 신기한 세상 지성(@justin_jisung)님의 공유 게시물님, 2017 5월 6 오후 10:14 PDT 온라인 중앙일보",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한 번 보면 귀여워서 계속 보게된다는 지성 딸 영상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

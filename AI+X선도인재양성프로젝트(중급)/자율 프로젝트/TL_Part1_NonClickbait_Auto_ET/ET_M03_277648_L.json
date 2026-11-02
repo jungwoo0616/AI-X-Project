@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277648",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'대박이 엄마 아빠' 이동국·이수진 결혼 11주년",
+		"newsSubTitle": "",
+		"newsContent": "'대박이 아빠 엄마' 이동국·이수진 부부가 결혼 11주년을 맞았다.\n이수진 씨는 19일 자신의 인스타그램에 동영상을 올렸다.\n게시된 영상 속에는 11년 전 많은 사람들의 관심을 받으며 진행된 부부의 결혼식 모습이 담겨 있었다.\n당시 부부는 조각같은 외모로 많은 팬들의 주목을 받았다.\n하루 전 게시된 사진에는 \\\"11주년, 결혼기념일, 늘 지금처럼 영원히\\\"라는 글과 함께 부부가 식사하는 모습을 공개되기도 했다.\n네티즌들은 \\\"꼭 신혼부부 같다\\\", \\\"평생 행복하시기를\\\" 등의 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'대박이 아빠 엄마' 이동국·이수진 부부가 결혼 11주년을 맞았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수진 씨는 19일 자신의 인스타그램에 동영상을 올렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시된 영상 속에는 11년 전 많은 사람들의 관심을 받으며 진행된 부부의 결혼식 모습이 담겨 있었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 부부는 조각같은 외모로 많은 팬들의 주목을 받았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하루 전 게시된 사진에는 \\\"11주년, 결혼기념일, 늘 지금처럼 영원히\\\"라는 글과 함께 부부가 식사하는 모습을 공개되기도 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 \\\"꼭 신혼부부 같다\\\", \\\"평생 행복하시기를\\\" 등의 반응을 보이고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'대박이 엄마 아빠' 이동국·이수진 결혼 11주년",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

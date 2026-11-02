@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170259",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "서범준, 카리스마 발산[화보]",
+    "newsSubTitle": "",
+    "newsContent": "KBS 주말드라마 ‘현재는 아름다워’에서 사랑을 받는 배우 서범준의 화보와 인터뷰가 30일 데이즈드 6월호에서 공개됐다.\n극 중 수재의 스윗한 모습을 뒤로하고 강한 붓 터치처럼 카리스마를 발산했다.\n막내 커플로 시청자들의 귀여움을 한 몸에 받고 있는 서범준은 최예빈에 대해서도 입을 열었다.\n그는 “처음 만났을 때도 어색하지 않았어요. 이제는 예빈 씨가 정말 유나처럼 느껴져요”라며 호흡을 자랑했다.\n수재라는 인물에 관해 묻자, “처음 대본을 받았을 땐 수재를 이해할 수 없었어요. 철부지로만 보였는데 계속해서 수재에 대해 생각하다 보니 저도 모르게 수재의 사고방식을 갖게 되더라고요”라며 수재에 대한 애정을 드러냈다. ‘가족’, ‘결혼’처럼 보편적인 주제를 다룬 드라마에 대해 서범준은 “‘가족이란 무엇일까?’가 참 쉬운 질문인 줄 알았는데 생각할수록 꼬리를 물게 하는, 몹시 어려운 질문이더라고요. 가족에 대해 다시 한번 생각하게 해 준 작품이에요”라고 말했다.\n성장하는 배우 서범준의 더 많은 화보와 인터뷰는 ‘데이즈드’와 홈페이지, SNS 채널에서 만날수있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "KBS 주말드라마 ‘현재는 아름다워’에서 사랑을 받는 배우 서범준의 화보와 인터뷰가 30일 데이즈드 6월호에서 공개됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "극 중 수재의 스윗한 모습을 뒤로하고 강한 붓 터치처럼 카리스마를 발산했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "막내 커플로 시청자들의 귀여움을 한 몸에 받고 있는 서범준은 최예빈에 대해서도 입을 열었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “처음 만났을 때도 어색하지 않았어요. 이제는 예빈 씨가 정말 유나처럼 느껴져요”라며 호흡을 자랑했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수재라는 인물에 관해 묻자, “처음 대본을 받았을 땐 수재를 이해할 수 없었어요. 철부지로만 보였는데 계속해서 수재에 대해 생각하다 보니 저도 모르게 수재의 사고방식을 갖게 되더라고요”라며 수재에 대한 애정을 드러냈다. ‘가족’, ‘결혼’처럼 보편적인 주제를 다룬 드라마에 대해 서범준은 “‘가족이란 무엇일까?’가 참 쉬운 질문인 줄 알았는데 생각할수록 꼬리를 물게 하는, 몹시 어려운 질문이더라고요. 가족에 대해 다시 한번 생각하게 해 준 작품이에요”라고 말했다.",
+        "sentenceSize": 260
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성장하는 배우 서범준의 더 많은 화보와 인터뷰는 ‘데이즈드’와 홈페이지, SNS 채널에서 만날수있다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스위트 '수재'의 일탈, 불꽃 카리스마 '서범준'으로 변신 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

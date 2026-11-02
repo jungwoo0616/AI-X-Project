@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277840",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'가려진 시간' 강동원 20살 차 신은수에 \\\"오빠라고 해\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'가려진 시간' 강동원이 스무살 차이인 신은수와의 관계에 대해 언급했다.\n11일 오전 서울 강남구 압구정 CGV에서 열린 영화 '가려진 시간'(감독 엄태화) 제작보고회에는 엄태화 감독과 배우 강동원, 신은수가 참석했다.\n강동원은 스무살 나이 차이의 배우 신은수에 대해 \\\"현장에서 장난을 많이 쳤다. '선배님'이라고 하더라. 그래서 '편하게 오빠라고 해'라고 했다. 그런데 (오빠라고) 잘 못 부르더라.\\\"라고 말했다.\n이어 강동원은 \\\"그런데 신은수가 매니저에게 '오빠'라고 하더라. 나보다 좀 들어보였는데 몇 살 어리더라. 아무리봐도 내가 더 어려보이는데 오빠라고 하라고 했다\\\"고 밝혔다.\n이 말을 들은 신은수는 \\\"난 정말 불편했다. 너무 대선배님이지 않나. 처음에는 엄청 그랬는데 나중에는 괜찮아졌다\\\"라고 대답해 현장에 웃음을 자아냈다. '가려진 시간'은 화노도에서 일어난 의문의 실종사건 후 단 며칠 만에 어른이 되어 나타난 성민(강동원)과 유일하게 그를 믿어준 단 한 소녀 수린(신은수), 그리고 세상은 몰랐던 특별한 이야기를 그린 작품이다.\n오는 11월 개봉 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'가려진 시간' 강동원이 스무살 차이인 신은수와의 관계에 대해 언급했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 오전 서울 강남구 압구정 CGV에서 열린 영화 '가려진 시간'(감독 엄태화) 제작보고회에는 엄태화 감독과 배우 강동원, 신은수가 참석했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강동원은 스무살 나이 차이의 배우 신은수에 대해 \\\"현장에서 장난을 많이 쳤다. '선배님'이라고 하더라. 그래서 '편하게 오빠라고 해'라고 했다. 그런데 (오빠라고) 잘 못 부르더라.\\\"라고 말했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 강동원은 \\\"그런데 신은수가 매니저에게 '오빠'라고 하더라. 나보다 좀 들어보였는데 몇 살 어리더라. 아무리봐도 내가 더 어려보이는데 오빠라고 하라고 했다\\\"고 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 말을 들은 신은수는 \\\"난 정말 불편했다. 너무 대선배님이지 않나. 처음에는 엄청 그랬는데 나중에는 괜찮아졌다\\\"라고 대답해 현장에 웃음을 자아냈다. '가려진 시간'은 화노도에서 일어난 의문의 실종사건 후 단 며칠 만에 어른이 되어 나타난 성민(강동원)과 유일하게 그를 믿어준 단 한 소녀 수린(신은수), 그리고 세상은 몰랐던 특별한 이야기를 그린 작품이다.",
+				"sentenceSize": 202
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 11월 개봉 예정이다.",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가려진 시간' 강동원 20살 차 신은수에 \\\"오빠라고 해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262982",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "프로미스나인 새롬·채영·규리 코로나19 확진[공식]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 프로미스나인 멤버 이새롬·이채영·장규리가 코로나19 확진 판정을 받았다.\n프로미스나인 소속사 플레디스엔터테인먼트는 6일 공식 사회관계망서비스(SNS)와 팬 커뮤니티 플랫폼 위버스를 통해 “멤버 이새롬·이채영·장규리가 코로나19에 확진됐다”고 밝혔다.\n소속사에 따르면 이채영은 지난 4일 기침 및 인후통, 미열 증상을 보여 검사한 결과 5일 양성 판정을 받았다.\n기존 증상 외 다른 증상은 없으며 현재 재택 치료 중이다.\n이새롬과 장규리는 지난 5일 진행한 자가진단키트 검사에서 양성으로 확인됐다.\n소속사는 “이새롬은 기침 및 인후통, 장규리는 인후통 이외 다른 증상은 없으며 재택 치료 중”이라고 전했다.\n이로써 프로미스나인 멤버 9명 중 4명이 확진이다.\n소속사는 “확진된 멤버들은 당분간 스케줄 참여가 어렵다”며 “아티스트의 건강을 최우선 순위에 두고 건강한 모습으로 팬 여러분을 만날 수 있도록 치료와 회복에 최선을 다하겠다”고 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 프로미스나인 멤버 이새롬·이채영·장규리가 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프로미스나인 소속사 플레디스엔터테인먼트는 6일 공식 사회관계망서비스(SNS)와 팬 커뮤니티 플랫폼 위버스를 통해 “멤버 이새롬·이채영·장규리가 코로나19에 확진됐다”고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 이채영은 지난 4일 기침 및 인후통, 미열 증상을 보여 검사한 결과 5일 양성 판정을 받았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 증상 외 다른 증상은 없으며 현재 재택 치료 중이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이새롬과 장규리는 지난 5일 진행한 자가진단키트 검사에서 양성으로 확인됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사는 “이새롬은 기침 및 인후통, 장규리는 인후통 이외 다른 증상은 없으며 재택 치료 중”이라고 전했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이로써 프로미스나인 멤버 9명 중 4명이 확진이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소속사는 “확진된 멤버들은 당분간 스케줄 참여가 어렵다”며 “아티스트의 건강을 최우선 순위에 두고 건강한 모습으로 팬 여러분을 만날 수 있도록 치료와 회복에 최선을 다하겠다”고 알렸다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "프로미스나인 새롬·채영·규리 코로나19 확진[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

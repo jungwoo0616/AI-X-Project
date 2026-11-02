@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273505",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "후배들 상담 나선 장윤정, 첫 콘서트 관객 절반 나간 사연 공개",
+		"newsSubTitle": "",
+		"newsContent": "장윤정을 안타깝게 한 트로트 후배들의 고민이 소개된다.\n19일 KBS2에서 방송되는 예능 ‘사장님 귀는 당나귀 귀’(이하 당나귀 귀)에서는 금쪽같은 후배들을 위한 장윤정의 고민 상담 시간이 펼쳐진다.\n이날 산 좋고 물 맑은 북한산에서 단합대회를 연 장윤정은 후배들의 고민에 가수 선배이자 인생 선배로서 조언을 건넸다.\n후배들은 장윤정에게 쓴 편지를 통해 생계를 위해 편의점 아르바이트를 병행해야 하는 사정 등 어디서도 들을 수 없었던 속내를 털어놨다.\n이에 장윤정은 “단점만 생각하면 한도 끝도 없이 우울해진다” “일단 잘 하는 것, 사람들이 좋아하는 것부터 해서 사랑을 받아야 한다”는 등의 현실적인 이야기를 들려줬다.\n그런가하면 장윤정은 무명시절 담배연기가 자욱한 라이브 카페에서 노래 알바를 하다가 목소리가 나오지 않게 됐던 사연과 첫 콘서트에서 관객의 절반이 나가 당황했던 일화도 전했다.\n후배 가수 뿐 아니라 인생의 전환점에서 불안해하는 이들에게 위로를 건넬 장윤정의 상담 내용은 19일 오후 5시 KBS2 ‘당나귀 귀’에서 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장윤정을 안타깝게 한 트로트 후배들의 고민이 소개된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 KBS2에서 방송되는 예능 ‘사장님 귀는 당나귀 귀’(이하 당나귀 귀)에서는 금쪽같은 후배들을 위한 장윤정의 고민 상담 시간이 펼쳐진다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 산 좋고 물 맑은 북한산에서 단합대회를 연 장윤정은 후배들의 고민에 가수 선배이자 인생 선배로서 조언을 건넸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "후배들은 장윤정에게 쓴 편지를 통해 생계를 위해 편의점 아르바이트를 병행해야 하는 사정 등 어디서도 들을 수 없었던 속내를 털어놨다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 장윤정은 “단점만 생각하면 한도 끝도 없이 우울해진다” “일단 잘 하는 것, 사람들이 좋아하는 것부터 해서 사랑을 받아야 한다”는 등의 현실적인 이야기를 들려줬다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런가하면 장윤정은 무명시절 담배연기가 자욱한 라이브 카페에서 노래 알바를 하다가 목소리가 나오지 않게 됐던 사연과 첫 콘서트에서 관객의 절반이 나가 당황했던 일화도 전했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "후배 가수 뿐 아니라 인생의 전환점에서 불안해하는 이들에게 위로를 건넬 장윤정의 상담 내용은 19일 오후 5시 KBS2 ‘당나귀 귀’에서 볼 수 있다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "후배들 상담 나선 장윤정, 첫 콘서트 관객 절반 나간 사연 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

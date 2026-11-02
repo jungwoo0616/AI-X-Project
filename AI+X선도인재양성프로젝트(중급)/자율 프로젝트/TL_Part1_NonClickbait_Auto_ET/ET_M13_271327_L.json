@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271327",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "미드 ‘FBI’, 청소년 강도 행각 나오는 에피소드 결방…텍사스 초등학교 총격 참사 영향?",
+		"newsSubTitle": "",
+		"newsContent": "24일(현지시간) 미국 텍사스 초등학교에서 총기 난사 사건이 벌어지자 미 CBS 방송이 자사 드라마 ‘FBI’의 시즌4 최종회 방영을 취소했다고 현지 언론이 전했다.\n선 공개된 시놉시스에 따르면 이날 결방한 에피소드 제목은 ‘돌아온 탕아’로, 공교롭게도 학생이 치명적 강도 행각을 벌이는 내용을 담고 있다.\n이날 텍사스주 초등학교에서 총기를 난사해 어린 학생과 교사를 살해한 범인도 18세 고등학생이었다.\n방송 내용이 실제 참사를 연상시킬 수 있다는 점에서 불필요한 논란이 발생할 수 있다고 보고 CBS가 결방을 결정한 것으로 관측된다.\n예정됐던 방송 시간에는 같은 시즌 12번째 에피소드 ‘압박을 받으며’를 대신 방송했다.\n결방된 에피소드가 나중에라도 전파를 탈지는 불분명하다고 현지 언론은 보도했다.\n드라마는 FBI 합동수사팀이 각종 범죄를 해결한다는 내용의 수사물로 2018년부터 방영됐다.\n스트리밍 서비스 애플TV플러스도 자체 제작한 드라마 ‘피지컬’ 시즌2 공개를 앞두고 레드카펫 행사를 이날 열 예정이었으나 취소했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "24일(현지시간) 미국 텍사스 초등학교에서 총기 난사 사건이 벌어지자 미 CBS 방송이 자사 드라마 ‘FBI’의 시즌4 최종회 방영을 취소했다고 현지 언론이 전했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "선 공개된 시놉시스에 따르면 이날 결방한 에피소드 제목은 ‘돌아온 탕아’로, 공교롭게도 학생이 치명적 강도 행각을 벌이는 내용을 담고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 텍사스주 초등학교에서 총기를 난사해 어린 학생과 교사를 살해한 범인도 18세 고등학생이었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송 내용이 실제 참사를 연상시킬 수 있다는 점에서 불필요한 논란이 발생할 수 있다고 보고 CBS가 결방을 결정한 것으로 관측된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예정됐던 방송 시간에는 같은 시즌 12번째 에피소드 ‘압박을 받으며’를 대신 방송했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결방된 에피소드가 나중에라도 전파를 탈지는 불분명하다고 현지 언론은 보도했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "드라마는 FBI 합동수사팀이 각종 범죄를 해결한다는 내용의 수사물로 2018년부터 방영됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스트리밍 서비스 애플TV플러스도 자체 제작한 드라마 ‘피지컬’ 시즌2 공개를 앞두고 레드카펫 행사를 이날 열 예정이었으나 취소했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미드 ‘FBI’, 청소년 강도 행각 나오는 에피소드 결방…텍사스 초등학교 총격 참사 영향?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

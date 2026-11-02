@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276795",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "디카프리오가 사귀기 시작했다는 21살 연하 모델",
+		"newsSubTitle": "",
+		"newsContent": "레오나르도 디카프리오가 21살 연하의 새로운 모델과 새로운 사랑을 싹 틔우고 있는 것으로 보인다.\n27일(현지시간) 미국 E뉴스는 레오나르도 디카프리오와 모델 벨라 하디드가 칸에서 핑크빛 분위기를 연출했다고 보도했다.\n두 사람의 열애는 아직 공식 확인된 바는 없다.\n두 사람이 포착된 곳은 지난 25일(현지시간) 열린 amfAR 자선 갈라에서였다.\n이 매체는 벨라 하디드가 디카프리오의 자리를 찾아가 이야기를 나눴고 두 사람의 사이가 로맨스를 키워가는 중인 것인지 친구 관계인지 의문이라고 전했다.\n레오나르도 디카프리오는 전 연인인 모델 니나 아그달과의 결별했다는 소식이 불과 며칠되지 않은 상황이다.\n레오나르도 디카프리오는 최근 니나 아그달과 1년 열애 끝에 이별했으며, 톱모델 벨라 하디드는 지난해 11월 팝스타 위켄드와 1년 열애 끝에 결별했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레오나르도 디카프리오가 21살 연하의 새로운 모델과 새로운 사랑을 싹 틔우고 있는 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일(현지시간) 미국 E뉴스는 레오나르도 디카프리오와 모델 벨라 하디드가 칸에서 핑크빛 분위기를 연출했다고 보도했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람의 열애는 아직 공식 확인된 바는 없다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람이 포착된 곳은 지난 25일(현지시간) 열린 amfAR 자선 갈라에서였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 매체는 벨라 하디드가 디카프리오의 자리를 찾아가 이야기를 나눴고 두 사람의 사이가 로맨스를 키워가는 중인 것인지 친구 관계인지 의문이라고 전했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "레오나르도 디카프리오는 전 연인인 모델 니나 아그달과의 결별했다는 소식이 불과 며칠되지 않은 상황이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "레오나르도 디카프리오는 최근 니나 아그달과 1년 열애 끝에 이별했으며, 톱모델 벨라 하디드는 지난해 11월 팝스타 위켄드와 1년 열애 끝에 결별했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "디카프리오가 사귀기 시작했다는 21살 연하 모델",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263107",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "판빙빙, 한국 거리에서 목격…옷차림이 수상하다",
+		"newsSubTitle": "",
+		"newsContent": "판빙빙이 한국 거리에서 목격됐다.\n다수의 중화권 매체는 6일 JTBC 드라마 ‘인사이더’에 출연하는 판빙빙이 한국에서 포착됐다고 보도했다.\n이날 중국 SNS 웨이보에는 판빙빙이 촬영 중인 사진이 확산됐다.\n사진 속 판빙빙은 긴 생머리를 하나로 묶고, 어두운 계열의 바지와 점퍼 등 수수한 옷차림으로 거리를 걷고 있다.\n이에 판빙빙이 ‘인사이더’에서 맡은 역할에 궁금증이 더해지고 있다.\n중국 톱 배우 자리를 지켜오던 판빙빙은 지난 2018년 출연료 이면 계약서를 작성한 사실이 발각됐으며, 중국 당국은 1500억원에 육박하는 추징금 및 벌금을 부과했다.\n이후 오랜 시간 중국 활동을 하지 못하고 있다.\n한편, 배우 강하늘, 이유영 등이 출연하는 ‘인사이더’는 잠입수사를 하던 사법연수생이 나락으로 떨어진 뒤, 교도소 도박판에서 고군분투하는 액션 서스펜스극이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "판빙빙이 한국 거리에서 목격됐다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다수의 중화권 매체는 6일 JTBC 드라마 ‘인사이더’에 출연하는 판빙빙이 한국에서 포착됐다고 보도했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 중국 SNS 웨이보에는 판빙빙이 촬영 중인 사진이 확산됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 판빙빙은 긴 생머리를 하나로 묶고, 어두운 계열의 바지와 점퍼 등 수수한 옷차림으로 거리를 걷고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 판빙빙이 ‘인사이더’에서 맡은 역할에 궁금증이 더해지고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중국 톱 배우 자리를 지켜오던 판빙빙은 지난 2018년 출연료 이면 계약서를 작성한 사실이 발각됐으며, 중국 당국은 1500억원에 육박하는 추징금 및 벌금을 부과했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 오랜 시간 중국 활동을 하지 못하고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 배우 강하늘, 이유영 등이 출연하는 ‘인사이더’는 잠입수사를 하던 사법연수생이 나락으로 떨어진 뒤, 교도소 도박판에서 고군분투하는 액션 서스펜스극이다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "판빙빙, 한국 거리에서 목격…옷차림이 수상하다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

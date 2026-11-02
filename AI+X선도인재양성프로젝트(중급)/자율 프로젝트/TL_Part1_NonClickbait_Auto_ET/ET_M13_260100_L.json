@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260100",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이상윤, 연극 ‘라스트세션’ 복귀…코로나19 완치",
+		"newsSubTitle": "",
+		"newsContent": "배우 이상윤이 코로나19 완치 후 일상으로 돌아왔다.\n이상윤은 5일 자신의 사회관계망서비스(SNS)를 통해 복귀 소식과 함께 출연 중인 연극 ‘라스트 세션’ 사진을 올렸다.\n이상윤은 “먼저 저 때문에 관람에 피해 보신 관객 여러분들 그리고 우리 라스트세션 팀 모두에게 죄송하다는 말씀드리고 싶다”며 “격리기간을 잘 마치고 다시 건강한 모습으로 돌아왔다”고 밝혔다.\n이어 “오늘 공연을 시작으로 남은 일정 잘 마칠 수 있도록 노력하겠다”며 “걱정해주신 모든 분들께 감사 인사 함께 올린다”고 전했다.\n끝으로 이상윤은 “하루빨리 코로나로부터 자유로운 날이 오길 진심으로 기도한다”고 덧붙였다 이상윤 소속사 제이와이드 컴퍼니 측은 지난달 29일 “이상윤이 양성 판정을 받고 집에서 자가격리 중이며 심각한 증상은 없는 상태”라고 밝혔다.\n이상윤은 백신 2차 접종까지 완료했지만, 코로나19에 확진된 돌파 감염 사례였다.\n당시 ‘라스트 세션’ 측은 “다른 출연 배우와 스태프는 현재까지 모두 음성인 상태”라고 알렸다.\n한편 이상윤은 연극 ‘라스트 세션’에서 ‘C.S. 루이스’ 역을 맡아 열연을 펼친다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이상윤이 코로나19 완치 후 일상으로 돌아왔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이상윤은 5일 자신의 사회관계망서비스(SNS)를 통해 복귀 소식과 함께 출연 중인 연극 ‘라스트 세션’ 사진을 올렸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이상윤은 “먼저 저 때문에 관람에 피해 보신 관객 여러분들 그리고 우리 라스트세션 팀 모두에게 죄송하다는 말씀드리고 싶다”며 “격리기간을 잘 마치고 다시 건강한 모습으로 돌아왔다”고 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “오늘 공연을 시작으로 남은 일정 잘 마칠 수 있도록 노력하겠다”며 “걱정해주신 모든 분들께 감사 인사 함께 올린다”고 전했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "끝으로 이상윤은 “하루빨리 코로나로부터 자유로운 날이 오길 진심으로 기도한다”고 덧붙였다 이상윤 소속사 제이와이드 컴퍼니 측은 지난달 29일 “이상윤이 양성 판정을 받고 집에서 자가격리 중이며 심각한 증상은 없는 상태”라고 밝혔다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이상윤은 백신 2차 접종까지 완료했지만, 코로나19에 확진된 돌파 감염 사례였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당시 ‘라스트 세션’ 측은 “다른 출연 배우와 스태프는 현재까지 모두 음성인 상태”라고 알렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이상윤은 연극 ‘라스트 세션’에서 ‘C.S. 루이스’ 역을 맡아 열연을 펼친다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이상윤, 연극 ‘라스트세션’ 복귀…코로나19 완치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

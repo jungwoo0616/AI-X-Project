@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260005",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "배우 박재민, 베이징올림픽 KBS 해설진 됐다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 박재민이 ‘2022 베이징 올림픽’ 해설진으로 참여한다.\n소속사 에스팀은 4일 공식 보도자료를 통해 박재민이 ‘2022 베이징 올림픽’ KBS 해설진으로 활약한다고 밝혔다.\n박재민은 국제스키연맹(FIS) 알파인, 하프파이프 국제심판 자격증을 보유하고 있는 배우이자 전문 스포츠인으로 지난 ‘2018 평창 올림픽’ 당시 재치 있는 입담과 전문적인 해설로 호평받았다. ‘2020 도쿄 올림픽’에서는 한국 3대3 농구 연맹 이사이자 대한민국농구협회 심판 자격으로 해설을 맡아 스포츠에 대한 남다른 애정을 보여줬다.\n박재민은 연기 활동을 중심으로 각종 예능과 라디오 DJ, 국제 행사 MC 등 여러 분야에서 활동하는 배우다.\n지난해에는 연극 ‘리어왕’에 출연해 불꽃 같은 연기를 선보이며 배우로서의 입지 또한 굳혔다.\n한편 배우 박재민이 해설진으로 활약하는 ‘2022 베이징 올림픽’ 경기는 KBS에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박재민이 ‘2022 베이징 올림픽’ 해설진으로 참여한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 에스팀은 4일 공식 보도자료를 통해 박재민이 ‘2022 베이징 올림픽’ KBS 해설진으로 활약한다고 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박재민은 국제스키연맹(FIS) 알파인, 하프파이프 국제심판 자격증을 보유하고 있는 배우이자 전문 스포츠인으로 지난 ‘2018 평창 올림픽’ 당시 재치 있는 입담과 전문적인 해설로 호평받았다. ‘2020 도쿄 올림픽’에서는 한국 3대3 농구 연맹 이사이자 대한민국농구협회 심판 자격으로 해설을 맡아 스포츠에 대한 남다른 애정을 보여줬다.",
+				"sentenceSize": 187
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박재민은 연기 활동을 중심으로 각종 예능과 라디오 DJ, 국제 행사 MC 등 여러 분야에서 활동하는 배우다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해에는 연극 ‘리어왕’에 출연해 불꽃 같은 연기를 선보이며 배우로서의 입지 또한 굳혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 배우 박재민이 해설진으로 활약하는 ‘2022 베이징 올림픽’ 경기는 KBS에서 확인할 수 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 박재민, 베이징올림픽 KBS 해설진 됐다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272723",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "시인 나태주 “내 팬, BTS 제이홉→태연...이종석과 시집 출간” (주접이 풍년)",
+		"newsSubTitle": "",
+		"newsContent": "‘주접이 풍년’ 시인 나태주가 등장했다.\n9일 오후 방송된 KBS2 ‘주접이 풍년’에서는 태권 트롯맨 나태주 특집 시인 나태주가 출연했다.\n이날 바닥에 깔린 매트와 객석에 태권도복 입은 태주 날개의 모습이 나태주 팬다운 면모를 자랑했다.\n태권도 배운 적 있냐 묻는 말에 장민호는 “기본이죠! 기본”이라며 급발진했고 이태곤은 “여섯 살 때부터 도장 다녔다. 2단 하고 그만뒀다”라고 밝혔다.\n한국인이 가장 사랑하는 시인 나태주가 등장해 깜짝 놀라게 했다.\n발간하는 시집마다 베스트셀러에 등극하는 나태주 시인은 “나태주라는 사람이 공주까지 왔었다. 성실하고 붙임성 있더라. 그 나태주가 오라면 가야지”라고 말했다.\n팬들 중 유명한 분이 많냐는 질문에 시인 나태주는 “BTS 제이홉, 소녀시대 태연 씨, 이종석 씨는 여러 번 만났다. 이종석 씨는 드라마에서 제 시를 읽은 인연으로 책도 냈다. 그 책이 중국어로 번역돼서 중국으로 나갔다”라고 전했다.\n한편 KBS2 ‘주접이 풍년’은 매주 목요일 오후 8시 30분에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘주접이 풍년’ 시인 나태주가 등장했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 오후 방송된 KBS2 ‘주접이 풍년’에서는 태권 트롯맨 나태주 특집 시인 나태주가 출연했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 바닥에 깔린 매트와 객석에 태권도복 입은 태주 날개의 모습이 나태주 팬다운 면모를 자랑했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "태권도 배운 적 있냐 묻는 말에 장민호는 “기본이죠! 기본”이라며 급발진했고 이태곤은 “여섯 살 때부터 도장 다녔다. 2단 하고 그만뒀다”라고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국인이 가장 사랑하는 시인 나태주가 등장해 깜짝 놀라게 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발간하는 시집마다 베스트셀러에 등극하는 나태주 시인은 “나태주라는 사람이 공주까지 왔었다. 성실하고 붙임성 있더라. 그 나태주가 오라면 가야지”라고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "팬들 중 유명한 분이 많냐는 질문에 시인 나태주는 “BTS 제이홉, 소녀시대 태연 씨, 이종석 씨는 여러 번 만났다. 이종석 씨는 드라마에서 제 시를 읽은 인연으로 책도 냈다. 그 책이 중국어로 번역돼서 중국으로 나갔다”라고 전했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 KBS2 ‘주접이 풍년’은 매주 목요일 오후 8시 30분에 만나볼 수 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시인 나태주 “내 팬, BTS 제이홉→태연...이종석과 시집 출간” (주접이 풍년)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

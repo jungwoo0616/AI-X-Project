@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267352",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "이찬원 ‘골든티켓어워즈’ 2관왕",
+		"newsSubTitle": "",
+		"newsContent": "‘찬또배기’ 이찬원이 ‘골든티켓어워즈’의 국내 콘서트 뮤지션상, 인기상 2관왕의 영광을 차지했다.\n내일은 ‘미스터트롯’이 배출한 스타인 이찬원은 지난해 코로나19 상황 속에서도 활발한 활동을 이어가며 티켓파워를 과시, 국내 콘서트 뮤지션상을 수상했다.\n이찬원은 인기상도 수상하며 2관왕의 영예를 안았다.\n인터파크측은 19일 제16회 ‘골든티켓어워즈’의 수상자를 공개, 인물 부문에서 이러한 수상 결과가 나왔다고 밝혔다. ‘골든티켓어워즈’는 2021년 3월 1일부터 2022년 2월 28일까지(관람일 기준) 공연된 9435 편의 공연 중 작품상, 장르별 인물 인기상을 선정했다.\n뮤지컬 남녀, 연극 남녀, 국내 콘서트 뮤지션, 클래식·무용·전통예술 아티스트 부문, 중소극장 뮤지컬 배우, 씬스틸러 배우, 인기상으로 나눠 수상자를 선정한 인물 부문에는 모두 9개 분야에서 113명의 아티스트들이 치열한 경합을 벌였다.\n이번 제16회 골든티켓어워즈에선 3월 29일부터 4월 8일까지 11일간 총 6만 3782명이 투표에 참여했다.\n한편, 이찬원은 2022 장민호X이찬원 콘서트 ‘민원만족’을 오는 5월 6일, 8일 서울 공연을 시작으로 5월 21일 대전, 5월 29일 인천, 6월 5일 전주에서 진행 할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘찬또배기’ 이찬원이 ‘골든티켓어워즈’의 국내 콘서트 뮤지션상, 인기상 2관왕의 영광을 차지했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "내일은 ‘미스터트롯’이 배출한 스타인 이찬원은 지난해 코로나19 상황 속에서도 활발한 활동을 이어가며 티켓파워를 과시, 국내 콘서트 뮤지션상을 수상했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이찬원은 인기상도 수상하며 2관왕의 영예를 안았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터파크측은 19일 제16회 ‘골든티켓어워즈’의 수상자를 공개, 인물 부문에서 이러한 수상 결과가 나왔다고 밝혔다. ‘골든티켓어워즈’는 2021년 3월 1일부터 2022년 2월 28일까지(관람일 기준) 공연된 9435 편의 공연 중 작품상, 장르별 인물 인기상을 선정했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뮤지컬 남녀, 연극 남녀, 국내 콘서트 뮤지션, 클래식·무용·전통예술 아티스트 부문, 중소극장 뮤지컬 배우, 씬스틸러 배우, 인기상으로 나눠 수상자를 선정한 인물 부문에는 모두 9개 분야에서 113명의 아티스트들이 치열한 경합을 벌였다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 제16회 골든티켓어워즈에선 3월 29일부터 4월 8일까지 11일간 총 6만 3782명이 투표에 참여했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 이찬원은 2022 장민호X이찬원 콘서트 ‘민원만족’을 오는 5월 6일, 8일 서울 공연을 시작으로 5월 21일 대전, 5월 29일 인천, 6월 5일 전주에서 진행 할 예정이다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이찬원 ‘골든티켓어워즈’ 2관왕",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

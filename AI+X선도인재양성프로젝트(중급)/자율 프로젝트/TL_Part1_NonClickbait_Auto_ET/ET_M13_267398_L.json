@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267398",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘강철부대2’ 대테러 연합 미션, 승패 가른 ‘이것’은",
+		"newsSubTitle": "",
+		"newsContent": "최강 조합 7DT는 명예 회복에 성공했을까 19일(화) 방송되는 채널A와 SKY채널 예능 프로그램 ‘강철부대2’ 9회에서는 ‘해상 대테러 연합미션’ 최종 결과가 공개된다.\n이날 방송에서는 ‘해상 대테러 연합미션’을 모두 마친 SART(특수탐색구조대대)와 해병대(해병대특수수색대), HID(국군정보사령부특임대)와 특전사(육군 특수전사령부), 707(제707특수임무단)과 UDT(해군특수전전단) 대원들은 최종 결과를 확인하기 위해 한자리에 모인다.\n총상 1개당 작전 완료 기록에서 1분씩 추가되는 치명적인 패널티 때문에 모두의 예상을 뒤엎는 결과가 발생하게 된다.\n팀별로 도열한 강철부대원들 앞에 등장한 마스터 최영재는 “1, 2위 연합팀의 작전 완료 기록이 불과 ○○초 차이”라는 충격적인 결과를 발표해 모두를 놀라게 했다. ‘데스매치’를 치르게 된 한 대원은 “총상만 아니었어도 독보적으로 1등 하는 상황이었는데”라며 아쉬워했다.\n그뿐만 아니라, 앞서 대테러 미션에서 최강 조합으로 기대를 한몸에 받았던 7DT(707, UDT)가 윤종진 팀장의 진두지휘 아래 과연 최단 시간을 기록하며 명예 회복에 성공했을지 귀추가 주목된다.\n채널A와 SKY채널(4월 29일부터 ENA채널로 변경) ‘강철부대2’ 9회는 19일(화) 밤 9시 20분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최강 조합 7DT는 명예 회복에 성공했을까 19일(화) 방송되는 채널A와 SKY채널 예능 프로그램 ‘강철부대2’ 9회에서는 ‘해상 대테러 연합미션’ 최종 결과가 공개된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 방송에서는 ‘해상 대테러 연합미션’을 모두 마친 SART(특수탐색구조대대)와 해병대(해병대특수수색대), HID(국군정보사령부특임대)와 특전사(육군 특수전사령부), 707(제707특수임무단)과 UDT(해군특수전전단) 대원들은 최종 결과를 확인하기 위해 한자리에 모인다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "총상 1개당 작전 완료 기록에서 1분씩 추가되는 치명적인 패널티 때문에 모두의 예상을 뒤엎는 결과가 발생하게 된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팀별로 도열한 강철부대원들 앞에 등장한 마스터 최영재는 “1, 2위 연합팀의 작전 완료 기록이 불과 ○○초 차이”라는 충격적인 결과를 발표해 모두를 놀라게 했다. ‘데스매치’를 치르게 된 한 대원은 “총상만 아니었어도 독보적으로 1등 하는 상황이었는데”라며 아쉬워했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그뿐만 아니라, 앞서 대테러 미션에서 최강 조합으로 기대를 한몸에 받았던 7DT(707, UDT)가 윤종진 팀장의 진두지휘 아래 과연 최단 시간을 기록하며 명예 회복에 성공했을지 귀추가 주목된다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "채널A와 SKY채널(4월 29일부터 ENA채널로 변경) ‘강철부대2’ 9회는 19일(화) 밤 9시 20분에 방송된다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘강철부대2’ 대테러 연합 미션, 승패 가른 ‘이것’은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

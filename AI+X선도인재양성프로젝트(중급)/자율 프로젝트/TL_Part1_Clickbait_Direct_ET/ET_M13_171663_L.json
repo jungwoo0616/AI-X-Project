@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171663",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘재혼 임박’ 이다은♥윤남기에 이덕연·김계성 응원",
+    "newsSubTitle": "",
+    "newsContent": "‘돌싱글즈2’ 이다은이 재혼을 앞둔 윤남기와 달달한 커플 사진을 공개했다.\n이다은은 7일 자신의 SNS에 “#럽스타그램 #남다 #남다커플”이라는 글과 함께 윤남기와 찍은 두 장의 커플 사진을 게재했다.\n사진에는 이다은과 윤남기의 애정 가득한 모습이 담겨있다. ‘돌싱글즈2’에 함께 출연한 출연진들도 응원의 댓글을 남겼다.\n이덕연은 “더 올려주세여…더…”, 김계성은 “점점 더 행복해 지는 것 같다! 보기 좋아:)”라고 했다.\n한편 이다은과 윤남기는 MBN ‘돌싱글즈2’에서 만나 실제 연인으로 발전해 재혼을 앞두고 있다.\n오는 3월 두 사람의 재혼 준비 과정을 담은 스핀오프 ‘돌싱글즈 외전’이 방송될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘돌싱글즈2’ 이다은이 재혼을 앞둔 윤남기와 달달한 커플 사진을 공개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이다은은 7일 자신의 SNS에 “#럽스타그램 #남다 #남다커플”이라는 글과 함께 윤남기와 찍은 두 장의 커플 사진을 게재했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 이다은과 윤남기의 애정 가득한 모습이 담겨있다. ‘돌싱글즈2’에 함께 출연한 출연진들도 응원의 댓글을 남겼다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이덕연은 “더 올려주세여…더…”, 김계성은 “점점 더 행복해 지는 것 같다! 보기 좋아:)”라고 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이다은과 윤남기는 MBN ‘돌싱글즈2’에서 만나 실제 연인으로 발전해 재혼을 앞두고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 3월 두 사람의 재혼 준비 과정을 담은 스핀오프 ‘돌싱글즈 외전’이 방송될 예정이다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'돌싱글즈2' 남다커플, '이것' 앞두고 달달한 커플 사진 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

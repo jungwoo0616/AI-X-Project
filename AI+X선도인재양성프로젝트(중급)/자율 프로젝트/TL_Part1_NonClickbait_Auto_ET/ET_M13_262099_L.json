@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262099",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "오뚜기 3세 함연지 “전시회 다녀왔어요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 함연지가 전시회를 다녀온 근황을 공개했다.\n함연지는 24일 자신의 사회관계망서비스(SNS)를 통해 “웨스 앤더슨의 영화미술을 사랑한 사진가 부부가 전세계를 여행하며 찍은 사진 전시회”라며 여러 장의 사진을 게시했다.\n그는 “그의 구도에 영감받아 찍은 인스타 여행 사진전은 (영화와) 좀 거리는 있겠다만 우린 모두 앤더슨의 팬”이라며 전시회에 다녀온 소감을 말했다.\n또 그는 전시회에 게재된 영화 ‘그랜드 부다페스트 호텔’의 명대사 “시작의 끝이 끝부분이 시작되는 순간이었다”가 가장 와닿았다고 밝혔다.\n사진 속 그는 가죽자켓과 청바지, 그리고 갈색 가방으로 캐주얼한 패션을 보여줬다.\n누리꾼들은 그의 사진에 “예쁘다” “머리 잘 어울린다” “가방 정보를 알려달라”며 그의 사진에 긍정적인 반응을 보였다.\n함연지는 함영준(62) 오뚜기 회장의 딸이다.\n지난 2017년 동갑내기 남편과 7년 연애 후 결혼했다.\n최근 디즈니 영화 ‘엔칸토 : 마법의 세계’ 의 주인공 미라벨 역 한국어 더빙에 참여해 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 함연지가 전시회를 다녀온 근황을 공개했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "함연지는 24일 자신의 사회관계망서비스(SNS)를 통해 “웨스 앤더슨의 영화미술을 사랑한 사진가 부부가 전세계를 여행하며 찍은 사진 전시회”라며 여러 장의 사진을 게시했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “그의 구도에 영감받아 찍은 인스타 여행 사진전은 (영화와) 좀 거리는 있겠다만 우린 모두 앤더슨의 팬”이라며 전시회에 다녀온 소감을 말했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그는 전시회에 게재된 영화 ‘그랜드 부다페스트 호텔’의 명대사 “시작의 끝이 끝부분이 시작되는 순간이었다”가 가장 와닿았다고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 그는 가죽자켓과 청바지, 그리고 갈색 가방으로 캐주얼한 패션을 보여줬다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 그의 사진에 “예쁘다” “머리 잘 어울린다” “가방 정보를 알려달라”며 그의 사진에 긍정적인 반응을 보였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "함연지는 함영준(62) 오뚜기 회장의 딸이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 2017년 동갑내기 남편과 7년 연애 후 결혼했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근 디즈니 영화 ‘엔칸토 : 마법의 세계’ 의 주인공 미라벨 역 한국어 더빙에 참여해 화제를 모았다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오뚜기 3세 함연지 “전시회 다녀왔어요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

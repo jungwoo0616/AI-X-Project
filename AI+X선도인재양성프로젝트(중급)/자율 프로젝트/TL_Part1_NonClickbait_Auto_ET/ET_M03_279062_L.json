@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279062",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "파파야 고나은, 슬림하고 탄탄한 몸매 과시 \\\"35살 맞아?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "사진 = 파파야 고나은 인스타그램 파파야 고나은 파파야 고나은의 건강한 몸매가 화제다 26일 방송된 JTBC ‘투유 프로젝트-슈가맨’에서 파파야가 출연한 가운데 파파야 고나은의 인스타그램 사진이 재조명되고 있다.\n고나은은 헬스장 거울앞에서 셀카를 찍으며 슬림하면서도 건강한 몸매를 과시했다.\n한편 슈가맨에서 파파야 고나은은 활동 중단 이유에 대해 “당시 지쳐있던 상태에서, 소속사 사장님이 두 분이 계셨다”며 “양 쪽의 사이가 안 좋아지면서 엄마 따라갈래? 아빠 따라갈래? 이런 느낌이었다”고 설명했다.\n이에 옆에 있던 주연정은 “저희 둘(고나은 포함)은 엄마를 따라가고, 혼자(조은새) 아빠 따라간 상황”이라고 말해 당시 상황을 설명했다.\n또한 고나은은 “같은 소속사에 엄정화, 코요테, 이동건 등의 잘나가는 선배들이 있었다”며 “저희한테까지 미처 관심이 가지 않았나? …”밝혀 눈길을 끌었다.\n한편 파파야의 고나은 주연정 조은새는 각각 배우, 보험설계사, 트로트 가수 등으로 활동중이라고 밝혔다.\n온라인중앙일보 파파야 고나은 파파야 고나은",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사진 = 파파야 고나은 인스타그램 파파야 고나은 파파야 고나은의 건강한 몸매가 화제다 26일 방송된 JTBC ‘투유 프로젝트-슈가맨’에서 파파야가 출연한 가운데 파파야 고나은의 인스타그램 사진이 재조명되고 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고나은은 헬스장 거울앞에서 셀카를 찍으며 슬림하면서도 건강한 몸매를 과시했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한편 슈가맨에서 파파야 고나은은 활동 중단 이유에 대해 “당시 지쳐있던 상태에서, 소속사 사장님이 두 분이 계셨다”며 “양 쪽의 사이가 안 좋아지면서 엄마 따라갈래? 아빠 따라갈래? 이런 느낌이었다”고 설명했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 옆에 있던 주연정은 “저희 둘(고나은 포함)은 엄마를 따라가고, 혼자(조은새) 아빠 따라간 상황”이라고 말해 당시 상황을 설명했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 고나은은 “같은 소속사에 엄정화, 코요테, 이동건 등의 잘나가는 선배들이 있었다”며 “저희한테까지 미처 관심이 가지 않았나? …”밝혀 눈길을 끌었다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 파파야의 고나은 주연정 조은새는 각각 배우, 보험설계사, 트로트 가수 등으로 활동중이라고 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인중앙일보 파파야 고나은 파파야 고나은",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파파야 고나은, 슬림하고 탄탄한 몸매 과시 \\\"35살 맞아?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

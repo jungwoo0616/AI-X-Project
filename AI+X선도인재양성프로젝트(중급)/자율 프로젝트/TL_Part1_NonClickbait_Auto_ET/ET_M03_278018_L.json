@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278018",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'나 혼자 산다' 장우혁, 최초 집공개…아침에는 요가와 명상",
+		"newsSubTitle": "",
+		"newsContent": "HOT 출신 장우혁이 MBC ‘나혼자산다’에 출연했다.\n15일 방송된 MBC ‘나혼자산다’에서 장우혁은 “자취 15년차 H.O.T. 출신 장우혁이다. 20년 만에 집을 마련했다”고 말했다.\n집 인테리어까지 도맡아 했다는 장우혁은 아침에 일어나자마자 요가와 명상으로 모두를 놀라게 만들었다.\n이에 대해 장우혁은 “예전 가수 생활을 할 때 외적인 모습에 치중을 많이 했다. 다이어트도 많이 했다. 그래서 심적으로 많이 지쳤다. 요가하고 명상을 하면서 도움을 받았다. 그 이후로 명상을 자주하고 있다”고 말했다.\n세수를 마친 장우혁은 피부 관리에 신경쓰는 모습을 보이기도 했다.\n밥을 다 먹고 난 뒤에는 각종 영양제를 먹어 건강에 신경 썼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "HOT 출신 장우혁이 MBC ‘나혼자산다’에 출연했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 방송된 MBC ‘나혼자산다’에서 장우혁은 “자취 15년차 H.O.T. 출신 장우혁이다. 20년 만에 집을 마련했다”고 말했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "집 인테리어까지 도맡아 했다는 장우혁은 아침에 일어나자마자 요가와 명상으로 모두를 놀라게 만들었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 대해 장우혁은 “예전 가수 생활을 할 때 외적인 모습에 치중을 많이 했다. 다이어트도 많이 했다. 그래서 심적으로 많이 지쳤다. 요가하고 명상을 하면서 도움을 받았다. 그 이후로 명상을 자주하고 있다”고 말했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세수를 마친 장우혁은 피부 관리에 신경쓰는 모습을 보이기도 했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "밥을 다 먹고 난 뒤에는 각종 영양제를 먹어 건강에 신경 썼다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'나 혼자 산다' 장우혁, 최초 집공개…아침에는 요가와 명상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

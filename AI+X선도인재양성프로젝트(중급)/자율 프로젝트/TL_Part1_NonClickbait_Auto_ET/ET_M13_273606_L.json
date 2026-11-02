@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273606",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘드림콘서트 트롯’ 김의영, 무더위 날렸다",
+		"newsSubTitle": "",
+		"newsContent": "가수 김의영이 ‘드림콘서트 트롯’ 무대에 올라 ‘도찐개찐’으로 환호를 받았다.\n김의영은 19일 오후 서울 잠실종합운동장에서 개최된 제1회 ‘드림콘서트 트롯’에서 ‘도찐개찐’을 열창, 관중들의 열기를 한층 끌어올렸다.\n제1회 ‘드림콘서트 트롯’는 남진을 비롯해 설운도, 진성, 김용임, 한혜진, 그 뒤의 계보를 잇는 송가인, 김호중, 박군, 양지은, 조정민, 김의영, 강혜연, 이도진, 홍자, 홍지윤, 영기, 나상도, 정다경, 조명섭, 안성훈, 전유진, 요요미, 나태주, 김나희, 황윤성, 풍금, 은가은, 윤서령, 박구윤, 류지광 등 정상급 가수들이 트로트를 사랑하는 많은 트롯 팬들과 함께 무대를 꾸몄다.\n이날 김의영은 핑크 색상의 미니원피스로 러블리한 분위기를 자아내며 무대에 올라 시선을 사로잡았으며, 시원하게 뿜어져 나오는 김의영의 성량과 함께 매치되어 흥이 넘치는 무대를 선사했다.\n김의영은 TV조선 ‘미스트롯 2’ 출연을 통해 최종 톱 5에 올랐으며, 트롯 팬들 사이에서는 특유의 시원한 음색으로 ‘캡사이신 보이스’라는 별칭까지 얻으며 트롯계의 라이징 스타로 떠올랐다.\n한편 김의영은 ‘드림콘서트 트롯’ 이후 다채로운 콘텐츠를 통해 대중 앞에 나설 것을 예고해 기대를 모으고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김의영이 ‘드림콘서트 트롯’ 무대에 올라 ‘도찐개찐’으로 환호를 받았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김의영은 19일 오후 서울 잠실종합운동장에서 개최된 제1회 ‘드림콘서트 트롯’에서 ‘도찐개찐’을 열창, 관중들의 열기를 한층 끌어올렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제1회 ‘드림콘서트 트롯’는 남진을 비롯해 설운도, 진성, 김용임, 한혜진, 그 뒤의 계보를 잇는 송가인, 김호중, 박군, 양지은, 조정민, 김의영, 강혜연, 이도진, 홍자, 홍지윤, 영기, 나상도, 정다경, 조명섭, 안성훈, 전유진, 요요미, 나태주, 김나희, 황윤성, 풍금, 은가은, 윤서령, 박구윤, 류지광 등 정상급 가수들이 트로트를 사랑하는 많은 트롯 팬들과 함께 무대를 꾸몄다.",
+				"sentenceSize": 217
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 김의영은 핑크 색상의 미니원피스로 러블리한 분위기를 자아내며 무대에 올라 시선을 사로잡았으며, 시원하게 뿜어져 나오는 김의영의 성량과 함께 매치되어 흥이 넘치는 무대를 선사했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김의영은 TV조선 ‘미스트롯 2’ 출연을 통해 최종 톱 5에 올랐으며, 트롯 팬들 사이에서는 특유의 시원한 음색으로 ‘캡사이신 보이스’라는 별칭까지 얻으며 트롯계의 라이징 스타로 떠올랐다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김의영은 ‘드림콘서트 트롯’ 이후 다채로운 콘텐츠를 통해 대중 앞에 나설 것을 예고해 기대를 모으고 있다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘드림콘서트 트롯’ 김의영, 무더위 날렸다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

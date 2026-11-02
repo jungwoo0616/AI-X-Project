@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267154",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "장원영, 취향저격한 음식은? (당나귀 귀)",
+		"newsSubTitle": "",
+		"newsContent": "‘맛잘알’ 걸그룹 아이브(IVE) 장원영의 군침을 자극한 제주 토속 음식은 무엇일까.\n오늘(17일) 저녁 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 유명 맛 칼럼니스트와 함께 하는 정호영 셰프의 제주도 식도락 여행이 그려진다.\n장원영은 영상에서 멜(멸치) 각재기(전갱이) 조림 등 총 11종의 제주 토속 음식이 나올 때마다 “맛이 궁금해요”, “너무 맛있겠다”라며 입맛만 다셨다.\n그는 직접 먹어볼 수 없는 ‘그림 속에 떡’같은 상황에 서글퍼했다.\n그런 가운데 “제주의 봄은 멸치로부터 온다”는 칼럼니스트의 감상평에 장원영은 “시인 같으세요”라 감탄했다고 해 그가 쓴 칼럼에 실리기만 하면 백년 맛집으로 인증을 받는 것과 다름없다는 ‘요리 시인’은 과연 누구일지 궁금증을 더한다.\n정호영과 함께 하는 제주 토속 음식 투어와 장원영을 입덕시킨 맛 칼럼니스트의 정체는 오늘(17일) 오후 5시 KBS 2TV ‘사장님 귀는 당나귀 귀’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘맛잘알’ 걸그룹 아이브(IVE) 장원영의 군침을 자극한 제주 토속 음식은 무엇일까.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(17일) 저녁 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 유명 맛 칼럼니스트와 함께 하는 정호영 셰프의 제주도 식도락 여행이 그려진다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장원영은 영상에서 멜(멸치) 각재기(전갱이) 조림 등 총 11종의 제주 토속 음식이 나올 때마다 “맛이 궁금해요”, “너무 맛있겠다”라며 입맛만 다셨다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 직접 먹어볼 수 없는 ‘그림 속에 떡’같은 상황에 서글퍼했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런 가운데 “제주의 봄은 멸치로부터 온다”는 칼럼니스트의 감상평에 장원영은 “시인 같으세요”라 감탄했다고 해 그가 쓴 칼럼에 실리기만 하면 백년 맛집으로 인증을 받는 것과 다름없다는 ‘요리 시인’은 과연 누구일지 궁금증을 더한다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정호영과 함께 하는 제주 토속 음식 투어와 장원영을 입덕시킨 맛 칼럼니스트의 정체는 오늘(17일) 오후 5시 KBS 2TV ‘사장님 귀는 당나귀 귀’에서 확인할 수 있다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장원영, 취향저격한 음식은? (당나귀 귀)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

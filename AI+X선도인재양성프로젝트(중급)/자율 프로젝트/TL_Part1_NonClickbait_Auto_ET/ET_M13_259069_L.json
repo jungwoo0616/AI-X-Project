@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259069",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "치즈(CHEEZE), 2년 만에 ‘사랑의 계절’로 찾아온다",
+		"newsSubTitle": "",
+		"newsContent": "가수 치즈(CHEEZE)가 다음달 2년 만의 단독 콘서트 ‘무드 필름 : 사랑의 계절’로 찾아온다.\nCHEEZE는 웹툰 ‘소녀의 세계’ 협업 음원 ‘이렇게 좋아해 본 적이 없어요’와 드라마 ‘갯마을 차차차’ 삽입곡 ‘마이 로맨스’(My Romance) 등을 발표한 여성 가수다.\nCHEEZE는 지난해부터는 기존 음악을 재조명하는 ‘무드 필름’이라는 영상 콘텐츠를 선보여왔다.\n매직스트로베리사운드는 “이번 공연에서는 다채로운 사랑에 관한 이야기를 치즈의 목소리로 만나볼 수 있을 것”이라고 소개했다.\nCHEEZE의 콘서트 ‘무드 필름 : 사랑의 계절’은 2월 18~19일 서울 용산구 한남동 블루스퀘어 마스터카드홀에서 열린다.\n한편 CHEEZE는 2011년 디지털 싱글 앨범 ‘나홀로 집에 (Home Alone)’으로 데뷔했다. ‘각기 다른 치즈의 풍미처럼 감정의 다양한 형태를 현재에 투영해 노래하는 가수’로 소개된다.\n어쿠스틱 팝, 발라드, 댄스 곡까지 폭넓은 음악적 영역을 소화하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 치즈(CHEEZE)가 다음달 2년 만의 단독 콘서트 ‘무드 필름 : 사랑의 계절’로 찾아온다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CHEEZE는 웹툰 ‘소녀의 세계’ 협업 음원 ‘이렇게 좋아해 본 적이 없어요’와 드라마 ‘갯마을 차차차’ 삽입곡 ‘마이 로맨스’(My Romance) 등을 발표한 여성 가수다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CHEEZE는 지난해부터는 기존 음악을 재조명하는 ‘무드 필름’이라는 영상 콘텐츠를 선보여왔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매직스트로베리사운드는 “이번 공연에서는 다채로운 사랑에 관한 이야기를 치즈의 목소리로 만나볼 수 있을 것”이라고 소개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CHEEZE의 콘서트 ‘무드 필름 : 사랑의 계절’은 2월 18~19일 서울 용산구 한남동 블루스퀘어 마스터카드홀에서 열린다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 CHEEZE는 2011년 디지털 싱글 앨범 ‘나홀로 집에 (Home Alone)’으로 데뷔했다. ‘각기 다른 치즈의 풍미처럼 감정의 다양한 형태를 현재에 투영해 노래하는 가수’로 소개된다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "어쿠스틱 팝, 발라드, 댄스 곡까지 폭넓은 음악적 영역을 소화하고 있다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치즈(CHEEZE), 2년 만에 ‘사랑의 계절’로 찾아온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

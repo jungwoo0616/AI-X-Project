@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260510",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘어서와’ 조셉×오스틴×테오, 환상의 가자미 요리 한 상",
+		"newsSubTitle": "",
+		"newsContent": "미슐랭 셰프 조셉이 겨울 맞이 특별식을 선보인다.\n오는 10일 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에는 한식 어벤져스 3인방 오스틴, 조셉, 테오가 출연해 맛깔나는 강원도 여행을 떠나는 모습이 그려진다.\n이날 방송에서는 오스틴, 조셉, 테오가 겨울 제철 황태 전문 식당에 방문해 난생처음 보는 황태 강정에 “끝내준다”, “맥주와 잘 어울릴 거 같다”라며 극찬한다.\n황태국밥을 먹어본 조셉은 “식감이 좋다”며 엄지를 치켜세운다.\n셰프 테오는 “요리에 따라 황태를 말리는 정도가 다른 것 같다”라며 디테일한 시식 평을 선보인다.\n이어 세 사람은 배에서 ‘직접’ 낚은 가자미로 요리를 시작하는데. 먼저 오스틴과 테오가 손수 만든 양념을 이용해 시래기 가자미조림을 선보여 감탄을 자아낸다.\n이때 조셉이 “호주식 캠핑 요리를 만들겠다”며 은박지로 감싼 가자미를 프라이팬에 찌는 독특한 방식을 소개한다.\n셰프 조셉의 음식을 맛본 친구들은 “(맛이) 맑고 깨끗하다”, “풍미가 깊다”며 극찬을 보낸다.\n모두의 입맛을 사로잡은 조셉표 호주식 가자미 요리는 방송을 통해 공개될 예정이다. ‘한식 어벤져스’ 오스틴, 조셉, 테오의 겨울 제철 요리는 2월 10일 목요일 저녁 8시 30분 MBC에브리원 ‘어서와 한국은 처음이지’에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미슐랭 셰프 조셉이 겨울 맞이 특별식을 선보인다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 10일 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에는 한식 어벤져스 3인방 오스틴, 조셉, 테오가 출연해 맛깔나는 강원도 여행을 떠나는 모습이 그려진다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서는 오스틴, 조셉, 테오가 겨울 제철 황태 전문 식당에 방문해 난생처음 보는 황태 강정에 “끝내준다”, “맥주와 잘 어울릴 거 같다”라며 극찬한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "황태국밥을 먹어본 조셉은 “식감이 좋다”며 엄지를 치켜세운다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "셰프 테오는 “요리에 따라 황태를 말리는 정도가 다른 것 같다”라며 디테일한 시식 평을 선보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 세 사람은 배에서 ‘직접’ 낚은 가자미로 요리를 시작하는데. 먼저 오스틴과 테오가 손수 만든 양념을 이용해 시래기 가자미조림을 선보여 감탄을 자아낸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이때 조셉이 “호주식 캠핑 요리를 만들겠다”며 은박지로 감싼 가자미를 프라이팬에 찌는 독특한 방식을 소개한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "셰프 조셉의 음식을 맛본 친구들은 “(맛이) 맑고 깨끗하다”, “풍미가 깊다”며 극찬을 보낸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "모두의 입맛을 사로잡은 조셉표 호주식 가자미 요리는 방송을 통해 공개될 예정이다. ‘한식 어벤져스’ 오스틴, 조셉, 테오의 겨울 제철 요리는 2월 10일 목요일 저녁 8시 30분 MBC에브리원 ‘어서와 한국은 처음이지’에서 만나볼 수 있다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘어서와’ 조셉×오스틴×테오, 환상의 가자미 요리 한 상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

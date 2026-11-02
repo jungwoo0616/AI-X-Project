@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271077",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "배트맨 첫 등장한 DC 만화책, 미국서 22억에 낙찰",
+		"newsSubTitle": "",
+		"newsContent": "할리우드에서 수 차례 영화로 만들어진 슈퍼히어로 캐릭터 ‘배트맨’이 첫 등장한 83년 전 만화책이 22억원에 팔렸다고 현지 언론이 22일(현지시간) 전했다.\n이 만화책은 1939년에 발간된 디텍티브 코믹스(DC) 27권 중 하나로, 배트맨은 여기에 처음 등장해 유명해지기 시작했다.\n미국 경매 업체 골딘 옥션에서 이 만화책은 174만달러(22억1763만원)에 낙찰됐다.\n골딘 측은 “(이 책)단 여섯 쪽으로 배트맨 신화가 시작돼 전설이 됐다”고 말했다.\n경매에 앞서 켄 골딘 회장은 “이 책은 만화책의 성배중 하나로 여겨진다”며 “또 배트맨이 시작된 곳이자, 슈퍼영웅 열풍을 불러일으킨 책”이라고 CNN 방송에 밝혔다.\n그는 “이 책이 나오면서부터 배트맨은 단순한 캐릭터에 머물지 않았다”며 “배트맨은 사람들이 우러러보는 상징으로 진화했다”고도 덧붙였다.\n2020년 경매에서는 DC 27권 중 또 다른 하나가 150만달러(19억원)에 낙찰된 적이 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드에서 수 차례 영화로 만들어진 슈퍼히어로 캐릭터 ‘배트맨’이 첫 등장한 83년 전 만화책이 22억원에 팔렸다고 현지 언론이 22일(현지시간) 전했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 만화책은 1939년에 발간된 디텍티브 코믹스(DC) 27권 중 하나로, 배트맨은 여기에 처음 등장해 유명해지기 시작했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국 경매 업체 골딘 옥션에서 이 만화책은 174만달러(22억1763만원)에 낙찰됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "골딘 측은 “(이 책)단 여섯 쪽으로 배트맨 신화가 시작돼 전설이 됐다”고 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경매에 앞서 켄 골딘 회장은 “이 책은 만화책의 성배중 하나로 여겨진다”며 “또 배트맨이 시작된 곳이자, 슈퍼영웅 열풍을 불러일으킨 책”이라고 CNN 방송에 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “이 책이 나오면서부터 배트맨은 단순한 캐릭터에 머물지 않았다”며 “배트맨은 사람들이 우러러보는 상징으로 진화했다”고도 덧붙였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2020년 경매에서는 DC 27권 중 또 다른 하나가 150만달러(19억원)에 낙찰된 적이 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배트맨 첫 등장한 DC 만화책, 미국서 22억에 낙찰",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

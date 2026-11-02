@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276285",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이유 콘서트 전광판에 우연히 찍힌 톱스타 커플",
+		"newsSubTitle": "",
+		"newsContent": "지난 10월 31일 결혼식을 올린 배우 송중기·송혜교 부부가 데이트를 즐기는 모습이 포착됐다.\n9일 열린 가수 아이유의 콘서트에서다.\n이날 서울 잠실 체육관에서는 아이유의 단독 콘서트가 열렸다.\n콘서트 이후 온라인 커뮤니티와 소셜네트워크서비스(SNS)에서는 두 사람이 콘서트를 관람하는 모습이 올라오기도 했다.\n특히 두 사람의 모습이 전광판에 우연히 노출되기도 했다.\n이후 송혜교는 자신의 인스타그램에 아이유 콘서트 인증 사진을 올리기도 했다.\n송중기와 송혜교는 아이유의 팬으로 잘 알려져 있다.\n지난 7월 영화 '군함도' 개봉 당시 송중기는 \\\"현장에서 일하는 태도나 아이유를 좋아하는 음악 취향까지 송혜교와 닮았다\\\"고 말한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 10월 31일 결혼식을 올린 배우 송중기·송혜교 부부가 데이트를 즐기는 모습이 포착됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 열린 가수 아이유의 콘서트에서다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 서울 잠실 체육관에서는 아이유의 단독 콘서트가 열렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "콘서트 이후 온라인 커뮤니티와 소셜네트워크서비스(SNS)에서는 두 사람이 콘서트를 관람하는 모습이 올라오기도 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 두 사람의 모습이 전광판에 우연히 노출되기도 했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 송혜교는 자신의 인스타그램에 아이유 콘서트 인증 사진을 올리기도 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송중기와 송혜교는 아이유의 팬으로 잘 알려져 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 7월 영화 '군함도' 개봉 당시 송중기는 \\\"현장에서 일하는 태도나 아이유를 좋아하는 음악 취향까지 송혜교와 닮았다\\\"고 말한 바 있다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유 콘서트 전광판에 우연히 찍힌 톱스타 커플",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277445",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유진·기태영, 7년 만에 처음 내놓은 동반 화보",
+		"newsSubTitle": "",
+		"newsContent": "유진·기태영 부부가 부부동반 화보를 통해 애정을 과시했다.\n유진·기태영 부부가 최근 매거진 '인스타일'과 생애 첫 동반 화보 촬영을 진행했다.\n결혼 7년차에 접어든 두 사람은 촬영 현장에서 서로 껴안고 기대는 등의 모습을 연출하며 애정을 드러냈다.\n이날 기태영은 아내 유진을 가리키며 \\\"내 인생의 터닝포인트\\\"라고 지칭했다.\n그는 \\\"제 인생은 아내를 만나기 전과 후로 나뉜다\\\"며 \\\"유진이를 만나 예전보다 타인에 대한 마음도 많이 열었고, 성격도 밝아졌다\\\"고 전했다.\n특히 부부는 촬영 현장에서도 서로에 대한 배려를 보여주며 촬영장 관계자들의 부러움을 샀다는 후문이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유진·기태영 부부가 부부동반 화보를 통해 애정을 과시했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유진·기태영 부부가 최근 매거진 '인스타일'과 생애 첫 동반 화보 촬영을 진행했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼 7년차에 접어든 두 사람은 촬영 현장에서 서로 껴안고 기대는 등의 모습을 연출하며 애정을 드러냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 기태영은 아내 유진을 가리키며 \\\"내 인생의 터닝포인트\\\"라고 지칭했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 \\\"제 인생은 아내를 만나기 전과 후로 나뉜다\\\"며 \\\"유진이를 만나 예전보다 타인에 대한 마음도 많이 열었고, 성격도 밝아졌다\\\"고 전했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 부부는 촬영 현장에서도 서로에 대한 배려를 보여주며 촬영장 관계자들의 부러움을 샀다는 후문이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유진·기태영, 7년 만에 처음 내놓은 동반 화보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

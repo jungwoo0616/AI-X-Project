@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259367",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 제니, 700만 유튜버의 고민…",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크 제니가 유튜브 업로드에 관한 얘기를 나눴다.\n25일 유튜브 채널 ‘Jennierubyjane Official’에는 ‘HERA photo shoot vlog’라는 제목의 영상이 올라왔다.\n제니는 화장품 광고 촬영 전 대기실에서 메이크업을 받으며 유튜브 업로드에 관한 얘기를 했다.\n제니는 “오늘은 꼭 (영상을 많이) 찍어서 (유튜브에) 올릴 수 있었으면 좋겠다.”라고 말했다.\n이어 담당 헤어스타일리스트가 “유튜버 대단한 거야”라고 말하자 제니는 “진짜 대단한 것 같아”라고 덧붙였다.\n제니는 이날 영상에 ‘고양이 게임’ 소개와 화장품 광고 촬영 3일치 현장을 찍어 올렸다.\n또 제니는 헤라에서 준비한 풍선을 보고 풍선 세우기를 도전하는 엉뚱한 매력도 발산했다.\n한편, 제니는 유튜브 구독자 772만명이며, 인스타그램의 팔로워 수 6,160만명으로 자타가 공인하는 인플루언서로 활약 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크 제니가 유튜브 업로드에 관한 얘기를 나눴다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 유튜브 채널 ‘Jennierubyjane Official’에는 ‘HERA photo shoot vlog’라는 제목의 영상이 올라왔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제니는 화장품 광고 촬영 전 대기실에서 메이크업을 받으며 유튜브 업로드에 관한 얘기를 했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제니는 “오늘은 꼭 (영상을 많이) 찍어서 (유튜브에) 올릴 수 있었으면 좋겠다.”라고 말했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 담당 헤어스타일리스트가 “유튜버 대단한 거야”라고 말하자 제니는 “진짜 대단한 것 같아”라고 덧붙였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제니는 이날 영상에 ‘고양이 게임’ 소개와 화장품 광고 촬영 3일치 현장을 찍어 올렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 제니는 헤라에서 준비한 풍선을 보고 풍선 세우기를 도전하는 엉뚱한 매력도 발산했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 제니는 유튜브 구독자 772만명이며, 인스타그램의 팔로워 수 6,160만명으로 자타가 공인하는 인플루언서로 활약 중이다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 제니, 700만 유튜버의 고민…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

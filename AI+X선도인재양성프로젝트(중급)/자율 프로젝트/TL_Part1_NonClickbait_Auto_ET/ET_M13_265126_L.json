@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265126",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "하이브 첫 걸그룹 이름은 ‘르세라핌’",
+		"newsSubTitle": "",
+		"newsContent": "하이브와 산하 레이블 쏘스뮤직이 협력해 론칭하는 첫 걸그룹의 이름은 ‘르세라핌(LE SSERAFIM)’이었다.\n쏘스뮤직은 28일 0시 팀의 공식 SNS를 개설하고 로고모션 필름을 업로드하면서 그룹명을 공개했다.\n이번 영상에는 ‘IM FEARLESS’라는 문구가 하나하나 쪼개지면서 ‘LE SSERAFIM’으로 재탄생하는 과정이 담겼다.\n영상 말미에는 ‘르세라핌’이라고 읊조리는 매혹적인 목소리가 삽입돼 팬들의 귀를 사로잡았다.\n르세라핌은 ‘IM FEARLESS’를 애너그램(문자의 배열을 바꾸어 새로운 단어나 문장을 만드는 놀이) 방식으로 만든 이름으로, 세상의 시선에 흔들리지 않고 두려움 없이 앞으로 나아가겠다는 자기 확신과 강한 의지를 내포한다.\n한편, 르세라핌은 하이브와 쏘스뮤직이 협력해 론칭하는 첫 걸그룹으로 사쿠라, 김채원 등을 멤버로 해 오는 5월 데뷔 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하이브와 산하 레이블 쏘스뮤직이 협력해 론칭하는 첫 걸그룹의 이름은 ‘르세라핌(LE SSERAFIM)’이었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "쏘스뮤직은 28일 0시 팀의 공식 SNS를 개설하고 로고모션 필름을 업로드하면서 그룹명을 공개했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 영상에는 ‘IM FEARLESS’라는 문구가 하나하나 쪼개지면서 ‘LE SSERAFIM’으로 재탄생하는 과정이 담겼다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상 말미에는 ‘르세라핌’이라고 읊조리는 매혹적인 목소리가 삽입돼 팬들의 귀를 사로잡았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "르세라핌은 ‘IM FEARLESS’를 애너그램(문자의 배열을 바꾸어 새로운 단어나 문장을 만드는 놀이) 방식으로 만든 이름으로, 세상의 시선에 흔들리지 않고 두려움 없이 앞으로 나아가겠다는 자기 확신과 강한 의지를 내포한다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 르세라핌은 하이브와 쏘스뮤직이 협력해 론칭하는 첫 걸그룹으로 사쿠라, 김채원 등을 멤버로 해 오는 5월 데뷔 예정이다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하이브 첫 걸그룹 이름은 ‘르세라핌’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

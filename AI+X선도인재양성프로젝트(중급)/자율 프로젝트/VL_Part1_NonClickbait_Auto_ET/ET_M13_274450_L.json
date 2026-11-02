@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274450",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "대세 너덜트 ‘노출, Oh No’[화보]",
+		"newsSubTitle": "",
+		"newsContent": "인기 유튜버 너덜트(NERDULT)가 남성잡지 맥심(MAXIM)의 화보에 떴다.\n너덜트는 감독 유현규, PD 전상협, 임재형 등 세 남자로 구성된 팀으로 유튜브를 시작한 지 1년도 안 돼 1억 뷰 이상, 구독자 121만 명으로 급성장했다.\n더욱 놀라운 것은 채널에 올라온 영상이 불과 약 30여개 인데, 영상마다 수백만의 조회수를 기록하여 총 조회수 1억 이상을 기록했다는 것이다.\n특히 군대, 중고거래, 게임 등 우리의 일상에서 흔히 접하고 상상해봤을 이야기를 자신들만의 시선으로 유쾌하게 풀어내는 것이 너덜트의 인기 비결이라는 점. 이같은 유명세에 최근엔 유명 스타들도 특별 출연을 하면서 화제몰이를 하고 있다.\n너덜트는 “남성 잡지 하면 맥심이니까 좋은 기회라는 생각에나왔다. 맥심이라 (섹시하게) 막 셔츠 앞섬 풀고 찍어야 하나 걱정했는데, 노출은 없었다”고 했다.\n이 어“요즘 우리 특유의 썸네일까지따라 하는 채널도 많다. 그러나 우리는 또 다른 유행을 만들고싶다”라고 포부를 밝혔다.\n한편 너덜트는 지난 3월 ‘이달의 인플루언서’로 선정되기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인기 유튜버 너덜트(NERDULT)가 남성잡지 맥심(MAXIM)의 화보에 떴다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "너덜트는 감독 유현규, PD 전상협, 임재형 등 세 남자로 구성된 팀으로 유튜브를 시작한 지 1년도 안 돼 1억 뷰 이상, 구독자 121만 명으로 급성장했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "더욱 놀라운 것은 채널에 올라온 영상이 불과 약 30여개 인데, 영상마다 수백만의 조회수를 기록하여 총 조회수 1억 이상을 기록했다는 것이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 군대, 중고거래, 게임 등 우리의 일상에서 흔히 접하고 상상해봤을 이야기를 자신들만의 시선으로 유쾌하게 풀어내는 것이 너덜트의 인기 비결이라는 점. 이같은 유명세에 최근엔 유명 스타들도 특별 출연을 하면서 화제몰이를 하고 있다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "너덜트는 “남성 잡지 하면 맥심이니까 좋은 기회라는 생각에나왔다. 맥심이라 (섹시하게) 막 셔츠 앞섬 풀고 찍어야 하나 걱정했는데, 노출은 없었다”고 했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 어“요즘 우리 특유의 썸네일까지따라 하는 채널도 많다. 그러나 우리는 또 다른 유행을 만들고싶다”라고 포부를 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 너덜트는 지난 3월 ‘이달의 인플루언서’로 선정되기도 했다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대세 너덜트 ‘노출, Oh No’[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

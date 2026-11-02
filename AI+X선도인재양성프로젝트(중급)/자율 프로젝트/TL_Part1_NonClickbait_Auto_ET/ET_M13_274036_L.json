@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274036",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘다시, 첫사랑’ 이뤄볼까",
+		"newsSubTitle": "",
+		"newsContent": "다시, 첫사랑을 이룰 ‘설레는 프로그램’이 온다.\n케이블채널 MBC 에브리원 ‘다시, 첫사랑’ 측은 25일 개별 포스터를 공개했다. ‘다시, 첫사랑’은 다양한 이유로 이별 혹은 서로를 포기해야만 했던 첫사랑 커플들이 각자 풋풋한 추억, 설렘, 아쉬움을 안고 다시 모여 진짜 사랑과 마주하는 설렘 소환 연애 리얼리티 프로그램이다.\n앞서 포스터, 티저 영상 등을 공개하며 첫 방송에 대한 관심을 키어왔다.\n공개된 개별 포스터에선 설렘 가득한 표정의 출연자들이 눈길을 끈다.\n저마다 빛나는 개성으로 매력을 어필하는 이들은 환하게 웃으며 프로그램의 설레는 분위기를 대신 보여준다.\n이들의 첫사랑 사연과 헤어진 이유, 그리고 이들이 다시 첫사랑을 시작하게 될지 혹은 새로운 사랑을 찾아 나설지 여부는 오는 27일 밤 10시 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "다시, 첫사랑을 이룰 ‘설레는 프로그램’이 온다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "케이블채널 MBC 에브리원 ‘다시, 첫사랑’ 측은 25일 개별 포스터를 공개했다. ‘다시, 첫사랑’은 다양한 이유로 이별 혹은 서로를 포기해야만 했던 첫사랑 커플들이 각자 풋풋한 추억, 설렘, 아쉬움을 안고 다시 모여 진짜 사랑과 마주하는 설렘 소환 연애 리얼리티 프로그램이다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 포스터, 티저 영상 등을 공개하며 첫 방송에 대한 관심을 키어왔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 개별 포스터에선 설렘 가득한 표정의 출연자들이 눈길을 끈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "저마다 빛나는 개성으로 매력을 어필하는 이들은 환하게 웃으며 프로그램의 설레는 분위기를 대신 보여준다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들의 첫사랑 사연과 헤어진 이유, 그리고 이들이 다시 첫사랑을 시작하게 될지 혹은 새로운 사랑을 찾아 나설지 여부는 오는 27일 밤 10시 만나볼 수 있다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘다시, 첫사랑’ 이뤄볼까",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

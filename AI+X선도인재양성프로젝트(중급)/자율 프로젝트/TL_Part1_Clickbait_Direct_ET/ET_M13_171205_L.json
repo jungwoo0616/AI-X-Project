@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171205",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘정자왕’ 김구라, 둘째 아이 생겼다",
+    "newsSubTitle": "",
+    "newsContent": "방송인 김구라가 둘째 아이를 가졌다.\n마이데일리에 따르면 김구라의 둘째 부인 A씨는 추석 연휴 직전 둘째 아이를 출산했다.\n김구라의 둘째 아이는 출산 예정 시기보다 이른 시기에 태어냈고 인큐베이터 치료를 받고 있는 상황인 것으로 전해졌다.\n현재 김구라는 아기의 건강 회복에 전념하며 출산 소식을 알리지 않아 왔고 아내와 둘째의 건강 회복에만 힘쓰고 있는 것으로 알려졌다.\n둘째 아이와 김구라의 아들 래퍼 그리(김동현)과의 나이 차는 스물 두살 차이다.\n김구라는 2014년 전 아내가 약 17억원의 채무를 진 사실을 알게 됐고 2015년 협의이혼했다.\n결혼 생활 당시 김구라는 전 아내의 빚을 수차례 갚아준 것으로 알려져 있다.\n김구라는 12세 연하의 현 아내와 혼인신고를 마친 뒤 동거를 시작했고 이를 방송 프로그램에서도 공개했다.\n김구라는 지난 7월 16일 방송된 JTBC 예능 프로그램 ‘내가 키운다’에 출연해 “둘째 계획이 없으시냐”는 김나영의 기습 질문에 당황한 모습을 보이기도 했다.\n김현숙은 “예전에 방송에서 정자왕이지 않으셨냐”고 재차 물었고 출연진들은 “둘째가 충분히 가능하다”고 입을 모았다.\n이에 김구라는 “알았다”고만 답해 웃음을 안겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 김구라가 둘째 아이를 가졌다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마이데일리에 따르면 김구라의 둘째 부인 A씨는 추석 연휴 직전 둘째 아이를 출산했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김구라의 둘째 아이는 출산 예정 시기보다 이른 시기에 태어냈고 인큐베이터 치료를 받고 있는 상황인 것으로 전해졌다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 김구라는 아기의 건강 회복에 전념하며 출산 소식을 알리지 않아 왔고 아내와 둘째의 건강 회복에만 힘쓰고 있는 것으로 알려졌다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "둘째 아이와 김구라의 아들 래퍼 그리(김동현)과의 나이 차는 스물 두살 차이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김구라는 2014년 전 아내가 약 17억원의 채무를 진 사실을 알게 됐고 2015년 협의이혼했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결혼 생활 당시 김구라는 전 아내의 빚을 수차례 갚아준 것으로 알려져 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김구라는 12세 연하의 현 아내와 혼인신고를 마친 뒤 동거를 시작했고 이를 방송 프로그램에서도 공개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김구라는 지난 7월 16일 방송된 JTBC 예능 프로그램 ‘내가 키운다’에 출연해 “둘째 계획이 없으시냐”는 김나영의 기습 질문에 당황한 모습을 보이기도 했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김현숙은 “예전에 방송에서 정자왕이지 않으셨냐”고 재차 물었고 출연진들은 “둘째가 충분히 가능하다”고 입을 모았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 김구라는 “알았다”고만 답해 웃음을 안겼다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 김구라, 재혼 상대와 '이것' 소식 전해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

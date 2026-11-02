@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268362",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "미연 “초심으로 돌아가 탄생한 앨범, 편안하게 다가갈 것”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 (여자)아이들의 미연이 솔로 가수로서 색다른 모습을 보여줄 것을 예고했다.\n미연은 27일 서울 마포구에 위치한 한 카페에서 진행된 첫 미니앨범 ‘마이(MY)’ 발매 기자간담회에서 “솔로 앨범에는 하고 싶은 음악 보여주고 싶었던 것을 다양하게 담아봤다”고 말문을 열었다.\n이어 “처음 가수를 꿈꿨던 초심으로 돌아가 뭘 하고 싶나 보여주고 싶나 고민하다 탄생한 앨범”이라며 “어떤 음악을 시도해보겠다는 변화라기 보다 편안하게 다가갈 수 있는 음악을 들려주고 싶었다. 콘셉츄얼 했던 (여자)아이들의 음악과 다르게 다가갈 수 있을 거라고 생각했다”고 설명했다.\n그러면서 “오랜 연습생 기간을 거쳐 데뷔한 후에는 행복한 일들이 많았다. 그래서인지 제가 들려주고 싶은 노래는 긍정적이고 밝은 노래 많다. 이번 앨범과 제가 전달하고 하고 싶은 이야기가 잘 맞았다. 앞으로도 이런 음악을 해나가고 싶다”고 밝혔다.\n미연의 첫 미니앨범 ‘마이’는 데뷔 4년 만에 처음 선보이는 솔로 앨범으로, 미연의 약자 ‘MY’와 ‘나’라는 의미를 포괄한 중의적 표현해 미연의 이야기로 가득 채운 앨범이다.\n타이틀곡 ‘드라이브’를 포함하여 ‘로즈’, ‘소프틀리’, ‘띠아모(TE AMO)’, ‘차징(Charging)’, ‘소나기’까지 총 여섯 트랙으로 이루어졌다.\n27일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 (여자)아이들의 미연이 솔로 가수로서 색다른 모습을 보여줄 것을 예고했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미연은 27일 서울 마포구에 위치한 한 카페에서 진행된 첫 미니앨범 ‘마이(MY)’ 발매 기자간담회에서 “솔로 앨범에는 하고 싶은 음악 보여주고 싶었던 것을 다양하게 담아봤다”고 말문을 열었다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “처음 가수를 꿈꿨던 초심으로 돌아가 뭘 하고 싶나 보여주고 싶나 고민하다 탄생한 앨범”이라며 “어떤 음악을 시도해보겠다는 변화라기 보다 편안하게 다가갈 수 있는 음악을 들려주고 싶었다. 콘셉츄얼 했던 (여자)아이들의 음악과 다르게 다가갈 수 있을 거라고 생각했다”고 설명했다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “오랜 연습생 기간을 거쳐 데뷔한 후에는 행복한 일들이 많았다. 그래서인지 제가 들려주고 싶은 노래는 긍정적이고 밝은 노래 많다. 이번 앨범과 제가 전달하고 하고 싶은 이야기가 잘 맞았다. 앞으로도 이런 음악을 해나가고 싶다”고 밝혔다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미연의 첫 미니앨범 ‘마이’는 데뷔 4년 만에 처음 선보이는 솔로 앨범으로, 미연의 약자 ‘MY’와 ‘나’라는 의미를 포괄한 중의적 표현해 미연의 이야기로 가득 채운 앨범이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이틀곡 ‘드라이브’를 포함하여 ‘로즈’, ‘소프틀리’, ‘띠아모(TE AMO)’, ‘차징(Charging)’, ‘소나기’까지 총 여섯 트랙으로 이루어졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "27일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미연 “초심으로 돌아가 탄생한 앨범, 편안하게 다가갈 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

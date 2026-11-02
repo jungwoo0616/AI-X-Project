@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274971",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "에스파 ‘Girls’ 블랙맘바와 전투 예고",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에스파(aespa)가 미니 2집 ‘Girls’(걸스) 뮤직비디오 티저를 공개했다.\n소속사 SM엔터테인먼트는 7일 0시 사회관계망서비스(SNS)를 통해 ‘Girls’ 뮤직비디오 티저 영상을 선보였다.\n에스파 네 명의 모습으로 시작된 영상은 이내 카리나, 윈터, 지젤, 닝닝의 개인 컷으로 전환된다.\n멤버들은 각자의 공간을 배경으로 강렬한 분위기를 드러낸 모습이다.\n특히 영상에는 에스파가 아바타 ‘ae’(아이)와 연결을 방해하는 존재인 ‘Black Mama’(블랙맘바)와 전투하는 스토리를 예고, 열띤 반응을 얻고 있다.\n타이틀 곡 ‘Girls’는 강렬한 워블 베이스와 거친 텍스처의 신스 사운드가 돋보이는 댄스곡으로, 멤버들의 보컬과 랩핑이 인상적이다.\n한편 에스파 미니 2집 ‘Girls’는 오는 8일 오후 1시 음원 공개되며, 이날 한국과 미국 동시에 음반으로 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에스파(aespa)가 미니 2집 ‘Girls’(걸스) 뮤직비디오 티저를 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 SM엔터테인먼트는 7일 0시 사회관계망서비스(SNS)를 통해 ‘Girls’ 뮤직비디오 티저 영상을 선보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "에스파 네 명의 모습으로 시작된 영상은 이내 카리나, 윈터, 지젤, 닝닝의 개인 컷으로 전환된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "멤버들은 각자의 공간을 배경으로 강렬한 분위기를 드러낸 모습이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 영상에는 에스파가 아바타 ‘ae’(아이)와 연결을 방해하는 존재인 ‘Black Mama’(블랙맘바)와 전투하는 스토리를 예고, 열띤 반응을 얻고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이틀 곡 ‘Girls’는 강렬한 워블 베이스와 거친 텍스처의 신스 사운드가 돋보이는 댄스곡으로, 멤버들의 보컬과 랩핑이 인상적이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 에스파 미니 2집 ‘Girls’는 오는 8일 오후 1시 음원 공개되며, 이날 한국과 미국 동시에 음반으로 발매된다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스파 ‘Girls’ 블랙맘바와 전투 예고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275636",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘내일만사는’ 탁재훈, 밤무대 근황 포착",
+		"newsSubTitle": "",
+		"newsContent": "[스포츠경향=이선명 기자] 방송인 탁재훈의 ‘뜻밖의 근황’이 전해졌다.\n탁재훈의 근황을 알린 것은 포스터 한 장이다.\n해당 포스터에 따르면 그는 지난 14일 경남 김해시에 위치한 한 나이트클럽 무대에 올랐다.\n15일에는 가수 류지광도 이 나이트클럽 무대에 출연했다.\n해당 포스터에는 ‘내일까지 사는 남자들아!, 000에 가면 오늘만 사는 여자들이 있다’ 등의 호객 문구가 적혀져 있다.\n탁재훈을 두고 ‘돌싱포맨’이라고 소개했다.\n탁재훈은 현재 SBS 예능 프로그램 ‘돌싱포맨’에 출연 중이다.\n자신의 유튜브 채널 ‘탁재훈의 탁사장’도 진행 중에 있다.\n나이트클럽 야간 무대의 경우, 일부 유명 연예인을 기준으로 출연료가 최소 2~3000만원에 달해 선호하는 무대로도 알려져 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "[스포츠경향=이선명 기자] 방송인 탁재훈의 ‘뜻밖의 근황’이 전해졌다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "탁재훈의 근황을 알린 것은 포스터 한 장이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 포스터에 따르면 그는 지난 14일 경남 김해시에 위치한 한 나이트클럽 무대에 올랐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "15일에는 가수 류지광도 이 나이트클럽 무대에 출연했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 포스터에는 ‘내일까지 사는 남자들아!, 000에 가면 오늘만 사는 여자들이 있다’ 등의 호객 문구가 적혀져 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "탁재훈을 두고 ‘돌싱포맨’이라고 소개했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "탁재훈은 현재 SBS 예능 프로그램 ‘돌싱포맨’에 출연 중이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자신의 유튜브 채널 ‘탁재훈의 탁사장’도 진행 중에 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "나이트클럽 야간 무대의 경우, 일부 유명 연예인을 기준으로 출연료가 최소 2~3000만원에 달해 선호하는 무대로도 알려져 있다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘내일만사는’ 탁재훈, 밤무대 근황 포착",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277944",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'진짜사나이' 솔비 첫방 소감 \\\"오늘은 시작에 불과...\\\" 의지 충만",
+		"newsSubTitle": "",
+		"newsContent": "가수 솔비가 (진짜사나이)에 출연해 화제를 모은 가운데 첫 방송 인증 사진을 공개했다.\n솔비는 21일 자신의 인스타그램에 “아 보기만해도 숨 막히고 땀나고 긴장되고. 갈수록 더 스펙터클, 판타스틱한 일들이 벌어집니다. 오늘은 시작에 불과한거죠. 히히. (진짜사나이) 4차원 부사관 후보생 솔비. 부끄부끄”라는 글과 함께 한 장의 사진을 공개했다.\n공개된 사진 속 솔비는 군복을 단정하게 차려입고 곧은 자세로 정면을 응시하고 있다.\n솔비의 표정에서 긴장감이 감도는 촬영 현장의 분위기를 느낄 수 있다.\n이를 본 누리꾼은 “전투복이 잘 어울리시네요” “오 ㅋㅋㅋㅋ 뭔가 열심히 해보려는 의지가 보여서 멋있어요!! 근데 탄띠 터질라그러네” 등의 응원과 격려를 보내고 있다.\n한편, 솔비가 출연한 MBC (일밤-진짜사나이)는 연예인들이 군부대를 찾아가 군인들의 훈련과 일상을 직접 체험하는 프로그램으로 매주 일요일 오후 6시 45분에 방송된다.\n온라인 중앙일보 [사진 솔비 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 솔비가 (진짜사나이)에 출연해 화제를 모은 가운데 첫 방송 인증 사진을 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "솔비는 21일 자신의 인스타그램에 “아 보기만해도 숨 막히고 땀나고 긴장되고. 갈수록 더 스펙터클, 판타스틱한 일들이 벌어집니다. 오늘은 시작에 불과한거죠. 히히. (진짜사나이) 4차원 부사관 후보생 솔비. 부끄부끄”라는 글과 함께 한 장의 사진을 공개했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 솔비는 군복을 단정하게 차려입고 곧은 자세로 정면을 응시하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "솔비의 표정에서 긴장감이 감도는 촬영 현장의 분위기를 느낄 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 본 누리꾼은 “전투복이 잘 어울리시네요” “오 ㅋㅋㅋㅋ 뭔가 열심히 해보려는 의지가 보여서 멋있어요!! 근데 탄띠 터질라그러네” 등의 응원과 격려를 보내고 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 솔비가 출연한 MBC (일밤-진짜사나이)는 연예인들이 군부대를 찾아가 군인들의 훈련과 일상을 직접 체험하는 프로그램으로 매주 일요일 오후 6시 45분에 방송된다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 솔비 인스타그램]",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'진짜사나이' 솔비 첫방 소감 \\\"오늘은 시작에 불과...\\\" 의지 충만",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

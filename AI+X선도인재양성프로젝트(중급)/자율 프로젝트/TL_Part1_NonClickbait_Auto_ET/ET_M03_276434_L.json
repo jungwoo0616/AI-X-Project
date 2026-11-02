@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276434",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"작작 울어라\\\" 울음 터뜨린 조이에 김구라의 반응",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 레드벨벳 조이가 '복면가왕'에 출연해 눈물을 보였다.\n30일 방송된 MBC '복면가왕'에서 조이는 반다나 가면을 벗고 얼굴을 드러냈다.\n조이는 이날 소감으로 \\\"레드벨벳이 데뷔한 지 4년 차다. 아는 게 많은 것 같으면서도 모르는 게 많은 혼란스러운 연차\\\"라며 \\\"사람들의 시선이 무서워졌다\\\"고 울컥해 안타까움을 자아냈다.\n그는 \\\"회사에 들어오기 전에는 노래 잘한다고 생각했는데 연예계에 들어오니 잘하는 분들 정말 많았다\\\"며 \\\"어느샌가 화장실에 숨어서만 노래를 하고 있더라. 자신감이 많이 떨어졌다\\\"고 고백했다.\n이어 \\\"이번 무대를 통해 용기를 얻고 자신감을 찾아서 앞으로 더 좋은 모습 보여드릴 수 있을 것 같다\\\"고 말했다.\n이에 패널로 출연한 지수는 \\\"한번 듣고 음색에 꽂혀서 계속 찾아 들었다. 그러니 울지 마시라\\\"고 위로를 건넸다.\n김구라도 분위기를 전환하고자 \\\"(누가 보면) 저렇게 완벽하고 다 갖췄는데 '더 이상 어떻게 가지려고 해' 이럴 수 있다. 그러니 작작 울어라\\\"라고 농담을 던지며 그를 위로했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 레드벨벳 조이가 '복면가왕'에 출연해 눈물을 보였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 MBC '복면가왕'에서 조이는 반다나 가면을 벗고 얼굴을 드러냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조이는 이날 소감으로 \\\"레드벨벳이 데뷔한 지 4년 차다. 아는 게 많은 것 같으면서도 모르는 게 많은 혼란스러운 연차\\\"라며 \\\"사람들의 시선이 무서워졌다\\\"고 울컥해 안타까움을 자아냈다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"회사에 들어오기 전에는 노래 잘한다고 생각했는데 연예계에 들어오니 잘하는 분들 정말 많았다\\\"며 \\\"어느샌가 화장실에 숨어서만 노래를 하고 있더라. 자신감이 많이 떨어졌다\\\"고 고백했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 \\\"이번 무대를 통해 용기를 얻고 자신감을 찾아서 앞으로 더 좋은 모습 보여드릴 수 있을 것 같다\\\"고 말했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 패널로 출연한 지수는 \\\"한번 듣고 음색에 꽂혀서 계속 찾아 들었다. 그러니 울지 마시라\\\"고 위로를 건넸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김구라도 분위기를 전환하고자 \\\"(누가 보면) 저렇게 완벽하고 다 갖췄는데 '더 이상 어떻게 가지려고 해' 이럴 수 있다. 그러니 작작 울어라\\\"라고 농담을 던지며 그를 위로했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"작작 울어라\\\" 울음 터뜨린 조이에 김구라의 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

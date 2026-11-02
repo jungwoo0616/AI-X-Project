@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261217",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘화이트 드림’ 드리핀, 스키 캠프 떠났다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 드리핀(DRIPPIN, 차준호 황윤성 김동윤 이협 주창욱 알렉스 김민서)이 특별한 겨울 여행을 떠났다.\n지난 16일 Mnet 디지털 스튜디오 M2 공식 유튜브 채널을 통해 공개된 드리핀 첫 단독 리얼리티 ‘화이트 드림(White Dream): 드리핀의 특별한 스키캠프(이하 ’화이트 드림‘)’ 1화에서는 드리핀이 2박 3일간 스키 캠프를 떠나는 모습이 그려졌다.\n이날 연습실에서 신곡 ‘빌런(Villain)’ 안무를 맞춰보던 드리핀 앞에 스키 캠프에 대한 내용이 적힌 가정통신문이 도착했다.\n가정통신문을 읽어내려가던 드리핀은 “좋은 추억을 쌓자”며 설레는 표정으로 스키장에 가서 할 일을 이야기해 보는 이들의 흐뭇한 미소를 자아냈다.\n강원도 평창에 위치한 스키장에 도착한 드리핀은 7인 7색 스키복을 입고 스키와 보드 타기에 나섰다.\n알렉스와 황윤성이 각각 스키와 보드를 능숙하게 탄 반면 이협은 스키를 탄 채 몸을 가누지 못해 비틀거렸고, 김민서 역시 보드 위로 일어서지 못하는 등 멤버들의 극과 극 스키 실력이 큰 웃음을 안겼다.\n드리핀의 첫 단독 리얼리티 ‘화이트 드림’은 매주 수요일 오후 7시 Mnet과 오후 8시 M2 공식 유튜브 채널을 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 드리핀(DRIPPIN, 차준호 황윤성 김동윤 이협 주창욱 알렉스 김민서)이 특별한 겨울 여행을 떠났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 16일 Mnet 디지털 스튜디오 M2 공식 유튜브 채널을 통해 공개된 드리핀 첫 단독 리얼리티 ‘화이트 드림(White Dream): 드리핀의 특별한 스키캠프(이하 ’화이트 드림‘)’ 1화에서는 드리핀이 2박 3일간 스키 캠프를 떠나는 모습이 그려졌다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 연습실에서 신곡 ‘빌런(Villain)’ 안무를 맞춰보던 드리핀 앞에 스키 캠프에 대한 내용이 적힌 가정통신문이 도착했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가정통신문을 읽어내려가던 드리핀은 “좋은 추억을 쌓자”며 설레는 표정으로 스키장에 가서 할 일을 이야기해 보는 이들의 흐뭇한 미소를 자아냈다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강원도 평창에 위치한 스키장에 도착한 드리핀은 7인 7색 스키복을 입고 스키와 보드 타기에 나섰다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "알렉스와 황윤성이 각각 스키와 보드를 능숙하게 탄 반면 이협은 스키를 탄 채 몸을 가누지 못해 비틀거렸고, 김민서 역시 보드 위로 일어서지 못하는 등 멤버들의 극과 극 스키 실력이 큰 웃음을 안겼다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "드리핀의 첫 단독 리얼리티 ‘화이트 드림’은 매주 수요일 오후 7시 Mnet과 오후 8시 M2 공식 유튜브 채널을 통해 공개된다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘화이트 드림’ 드리핀, 스키 캠프 떠났다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169248",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "에스콰이어, ‘지진희·CL·박성진’과 함께한 특별한 캠페인 공개",
+    "newsSubTitle": "",
+    "newsContent": "패션 매거진 ‘에스콰이어’ 10월호를 통해 각기 다른 무드의 비주얼이 담긴 화보와 영상이 공개되어 화제를 모은다.\n에스콰이어는 이번 화보를 통해 몽블랑과 함께 ‘What Moves You, Makes You(내가 정한 삶의 방향이 나를 만든다)’ 캠페인을 진행하며 3인의 특별한 마크 메이커를 공개했다.\n각 분야에서 열정을 다하며, 자신이 원하는 삶을 구축하고 있는 ‘지진희’, ‘CL’, ‘박성진’이 그 주인공이다.\n도전과 모험을 즐길 줄 아는 그들은 몽블랑에서 새롭게 선보이는 울트라블랙 컬렉션을 통해 다양한 메시지를 전달한다.\n먼저, 연기를 통해 사람들에게 감동을 주는 배우 지진희는 몽블랑의 캠페인 정신을 제대로 구현하며, 워치, 레진 파인라이너 등과 함께 완벽하게 어우러져 깊은 인상을 준다.\n그리고 자신만의 스타일을 표현하는 데에 주저하지 않는 뮤지션 ‘CL’은 엠보싱 처리된 M 패턴 디자인의 슬링백과 헤드폰 등 울트라블랙 컬렉션의 레더 제품을 트렌디하게 소화하며 화보의 완성도를 높였다.\n마지막으로 모델이자 뮤지션인 박성진은 몽블랑의 아이덴티티를 잘 보여주는 올 블랙 컬러를 자유자재로 연출하며, 특유의 포스로 영 에너지를 표출해 시선을 끈다.\n이름 그 자체로 기대감을 자아내는 3인의 마크 메이커와 몽블랑이 함께한 이미지 및 영상은 ‘에스콰이어’ 10월호와 JTBC PLUS(에스콰이어, 엘르, 바자, 코스모폴리탄)의 SNS를 통해 공개될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "패션 매거진 ‘에스콰이어’ 10월호를 통해 각기 다른 무드의 비주얼이 담긴 화보와 영상이 공개되어 화제를 모은다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에스콰이어는 이번 화보를 통해 몽블랑과 함께 ‘What Moves You, Makes You(내가 정한 삶의 방향이 나를 만든다)’ 캠페인을 진행하며 3인의 특별한 마크 메이커를 공개했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "각 분야에서 열정을 다하며, 자신이 원하는 삶을 구축하고 있는 ‘지진희’, ‘CL’, ‘박성진’이 그 주인공이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "도전과 모험을 즐길 줄 아는 그들은 몽블랑에서 새롭게 선보이는 울트라블랙 컬렉션을 통해 다양한 메시지를 전달한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "먼저, 연기를 통해 사람들에게 감동을 주는 배우 지진희는 몽블랑의 캠페인 정신을 제대로 구현하며, 워치, 레진 파인라이너 등과 함께 완벽하게 어우러져 깊은 인상을 준다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그리고 자신만의 스타일을 표현하는 데에 주저하지 않는 뮤지션 ‘CL’은 엠보싱 처리된 M 패턴 디자인의 슬링백과 헤드폰 등 울트라블랙 컬렉션의 레더 제품을 트렌디하게 소화하며 화보의 완성도를 높였다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "마지막으로 모델이자 뮤지션인 박성진은 몽블랑의 아이덴티티를 잘 보여주는 올 블랙 컬러를 자유자재로 연출하며, 특유의 포스로 영 에너지를 표출해 시선을 끈다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이름 그 자체로 기대감을 자아내는 3인의 마크 메이커와 몽블랑이 함께한 이미지 및 영상은 ‘에스콰이어’ 10월호와 JTBC PLUS(에스콰이어, 엘르, 바자, 코스모폴리탄)의 SNS를 통해 공개될 예정이다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "특별한 도전과 모험을 즐기는 몽블랑, 새로운 컬렉션 선보인다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

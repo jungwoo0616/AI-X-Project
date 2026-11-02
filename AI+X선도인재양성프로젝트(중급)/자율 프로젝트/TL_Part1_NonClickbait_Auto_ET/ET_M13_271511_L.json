@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271511",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 로제-지수, 미모 대결 “쉽지 않네”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 블랙핑크의 로제와 지수가 사진 대결을 펼쳤다.\n26일 로제는 자신의 사회관계망서비스(SNS) 인스타그램을 통해 지수를 태그하며 “커몬커몬”이라는 글과 함께 사진 한 장을 게시했다.\n사진 속 로제는 거울 앞에서 사진을 찍고 있다.\n사진 속 로제는 흰 티셔츠와 청바지에 크롭 자켓을 매치하며 어두운 공간 속에서도 완벽한 아우라를 보였다.\n이날 로제의 게시물을 확인한 지수는 “쉽지 않다”며 자신의 인스타그램에 사진을 게시했다.\n사진 속 지수는 로제와 같은 공간 속에서 비슷한 포즈를 짓고 있다.\n사진 속 지수는 편안한 옷차림에도 빛나는 미모로 시선을 사로잡았다.\n두 사람의 재치있는 게시물에 팬들은 “이런 귀요미들” “지수 로제 조합은 귀여워서 너무 좋다” “지수 로제 웃기고 너무 귀엽다”며 두 사람의 우정에 긍정적인 반응을 보였다.\n한편 지수와 로제가 속한 그룹 블랙핑크는 지난 26일 서울 중구 주한영국대사관에서 열린 엘리자베스 2세 영국 여왕의 즉위 70주년과 생일을 기념하는 공식 행사에 참여했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 블랙핑크의 로제와 지수가 사진 대결을 펼쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 로제는 자신의 사회관계망서비스(SNS) 인스타그램을 통해 지수를 태그하며 “커몬커몬”이라는 글과 함께 사진 한 장을 게시했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 로제는 거울 앞에서 사진을 찍고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 로제는 흰 티셔츠와 청바지에 크롭 자켓을 매치하며 어두운 공간 속에서도 완벽한 아우라를 보였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 로제의 게시물을 확인한 지수는 “쉽지 않다”며 자신의 인스타그램에 사진을 게시했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진 속 지수는 로제와 같은 공간 속에서 비슷한 포즈를 짓고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사진 속 지수는 편안한 옷차림에도 빛나는 미모로 시선을 사로잡았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 사람의 재치있는 게시물에 팬들은 “이런 귀요미들” “지수 로제 조합은 귀여워서 너무 좋다” “지수 로제 웃기고 너무 귀엽다”며 두 사람의 우정에 긍정적인 반응을 보였다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 지수와 로제가 속한 그룹 블랙핑크는 지난 26일 서울 중구 주한영국대사관에서 열린 엘리자베스 2세 영국 여왕의 즉위 70주년과 생일을 기념하는 공식 행사에 참여했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 로제-지수, 미모 대결 “쉽지 않네”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

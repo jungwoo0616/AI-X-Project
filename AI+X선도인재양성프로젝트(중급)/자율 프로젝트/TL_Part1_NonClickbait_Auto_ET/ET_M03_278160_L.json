@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278160",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'대박' 최민수, 윤진서에 지시 \\\"여진구·장근석 형제의 매듭 풀어라\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'대박' 최민수가 윤진서에게 무거운 명령을 내렸다.\n9일 방송된 '대박' 13회에서는 장근석(대길 역)과 여진구(연잉군 역)의 만남을 탐탁치 않아 하는 최민수(숙종 역)의 모습이 그려졌다.\n여진구와 장근석이 전광렬(이인좌 역)을 잡기 위해 가까운 사이로 지내고 있다는 것을 알아챈 최민수는 두 사람의 어머니인 윤진서(최 숙빈 역)를 불러 \\\"두 녀석이 이인좌 그 자에게 이를 갈고 있는듯 한데 참으로 위험해 보인다. 괜찮겠느냐\\\"고 물었다.\n윤진서가 당황하자 최민수는 \\\"형제인지도 모르는 두 녀석이 이리저리하다가 서로에게 칼날이라도 겨누게 되면 어쩔 것인가. 둘 사이의 매듭을 풀어라. 풀리지 않는다면 끊어내라. 자네가 그 두 녀석의 어미이며 모든 역사의 시작이니\\\"라며 형제간의 매듭을 풀어낼 것을 지시했다.\n이어지는 장면에서는 방을 나온 윤진서가 충격을 이기지 못하고 졸도하는 모습이 그려져 눈길을 끌었다.\n온라인 중앙일보 [사진 SBS '대박' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'대박' 최민수가 윤진서에게 무거운 명령을 내렸다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 방송된 '대박' 13회에서는 장근석(대길 역)과 여진구(연잉군 역)의 만남을 탐탁치 않아 하는 최민수(숙종 역)의 모습이 그려졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여진구와 장근석이 전광렬(이인좌 역)을 잡기 위해 가까운 사이로 지내고 있다는 것을 알아챈 최민수는 두 사람의 어머니인 윤진서(최 숙빈 역)를 불러 \\\"두 녀석이 이인좌 그 자에게 이를 갈고 있는듯 한데 참으로 위험해 보인다. 괜찮겠느냐\\\"고 물었다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤진서가 당황하자 최민수는 \\\"형제인지도 모르는 두 녀석이 이리저리하다가 서로에게 칼날이라도 겨누게 되면 어쩔 것인가. 둘 사이의 매듭을 풀어라. 풀리지 않는다면 끊어내라. 자네가 그 두 녀석의 어미이며 모든 역사의 시작이니\\\"라며 형제간의 매듭을 풀어낼 것을 지시했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어지는 장면에서는 방을 나온 윤진서가 충격을 이기지 못하고 졸도하는 모습이 그려져 눈길을 끌었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS '대박' 캡처]",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'대박' 최민수, 윤진서에 지시 \\\"여진구·장근석 형제의 매듭 풀어라\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

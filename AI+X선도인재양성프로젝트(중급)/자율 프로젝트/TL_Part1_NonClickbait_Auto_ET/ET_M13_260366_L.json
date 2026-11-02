@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260366",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "브루스 윌리스 ‘최악의 연기’ 美 골든 라즈베리상 불명예",
+		"newsSubTitle": "",
+		"newsContent": "미국 할리우드 스타 브루스 윌리스가 한해 최악의 영화를 가리는 골든 라즈베리상에서 ‘최악의 연기’ 특별상을 수상하게 됐다.\n7일(현지시간) CNN 방송과 로스앤젤레스타임스(LAT)에 따르면 윌리스는 지난해 개봉한 영화 중 8편에서 최악의 연기를 펼쳐 특별상 단독 후보에 올랐다.\n윌리스는 이들 저예산 영화에서 전직 경찰과 군 장성, 미국 중앙정보국(CIA) 첩보원 등의 역할을 맡았고, ‘아메리칸 시즈’, ‘에이펙스’, ‘아웃 오브 데스’ 등 3편은 영화비평 사이트 로튼 토마토 평론가 점수에서 0점을 받았다.\nLAT는 “골든 라즈베리가 ‘다이 하드’(윌리스의 옛 흥행작) 스타만을 위한 특별 카테고리를 만들었다”고 꼬집었다.\n이와 함께 벤 애플렉과 멜 깁슨, 자레드 레토, 메간 폭스 등 스타도 ‘최악의 남녀 연기상’ 후보로 선정됐다.\n최다 후보 불명예에 오른 작품은 넷플릭스 ‘다이애나 더 뮤지컬’이었다. ‘다이애나 더 뮤지컬’은 동명의 브로드웨이 뮤지컬을 화면으로 옮긴 넷플릭스 촬영 버전으로, 최악의 영화, 각본, 감독, 남녀 주연·조연상 등 8개 부문에 걸쳐 9차례 후보로 지명됐다.\n다이애나 브로드웨이 뮤지컬은 흥행 부진으로 33차례 공연만 하고 작년 12월 막을 내렸다.\n골든 라즈베리상은 1980년 만들어졌고 매년 아카데미상 시상식 하루 전에 수상작과 배우를 공개한다.\n올해 시상 결과는 3월 26일 발표된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 할리우드 스타 브루스 윌리스가 한해 최악의 영화를 가리는 골든 라즈베리상에서 ‘최악의 연기’ 특별상을 수상하게 됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일(현지시간) CNN 방송과 로스앤젤레스타임스(LAT)에 따르면 윌리스는 지난해 개봉한 영화 중 8편에서 최악의 연기를 펼쳐 특별상 단독 후보에 올랐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윌리스는 이들 저예산 영화에서 전직 경찰과 군 장성, 미국 중앙정보국(CIA) 첩보원 등의 역할을 맡았고, ‘아메리칸 시즈’, ‘에이펙스’, ‘아웃 오브 데스’ 등 3편은 영화비평 사이트 로튼 토마토 평론가 점수에서 0점을 받았다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LAT는 “골든 라즈베리가 ‘다이 하드’(윌리스의 옛 흥행작) 스타만을 위한 특별 카테고리를 만들었다”고 꼬집었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 함께 벤 애플렉과 멜 깁슨, 자레드 레토, 메간 폭스 등 스타도 ‘최악의 남녀 연기상’ 후보로 선정됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최다 후보 불명예에 오른 작품은 넷플릭스 ‘다이애나 더 뮤지컬’이었다. ‘다이애나 더 뮤지컬’은 동명의 브로드웨이 뮤지컬을 화면으로 옮긴 넷플릭스 촬영 버전으로, 최악의 영화, 각본, 감독, 남녀 주연·조연상 등 8개 부문에 걸쳐 9차례 후보로 지명됐다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다이애나 브로드웨이 뮤지컬은 흥행 부진으로 33차례 공연만 하고 작년 12월 막을 내렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "골든 라즈베리상은 1980년 만들어졌고 매년 아카데미상 시상식 하루 전에 수상작과 배우를 공개한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올해 시상 결과는 3월 26일 발표된다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브루스 윌리스 ‘최악의 연기’ 美 골든 라즈베리상 불명예",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

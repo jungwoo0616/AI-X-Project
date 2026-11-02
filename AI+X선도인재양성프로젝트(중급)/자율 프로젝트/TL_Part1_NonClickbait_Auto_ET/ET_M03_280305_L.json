@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280305",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유아인, 최우수상 수상소감 …\\\"다그치고 다그치며 배우의 길 가겠다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "유아인 수상소감 유아인이 ‘SBS연기대상’에서 남자 최우수연기상을 수상했다.\n12월 31일 서울 삼성동 코엑스에서 오후 8시55분부터 생방송으로 펼쳐진 '2015 SBS 어워즈 페스티벌 연기대상'(이하 SBS연기대상)은 SBS 창사 25주년을 맞이해 '함께 만드는 기쁨! 함께 만드는 드라마!'라는 슬로건 아래, 유준상 임지연 이휘재의 사회로 진행했다.\n이 날 유아인은 '육룡이나르샤'를 통해 장편드라마 부문 남자 최우수연기상 트로피를 거머쥐었다.\n유아인은 “내가 최우수라는 연기를 펼쳤는지 모르겠다. ‘육룡이 나르샤’라는 긴 드라마에 참여하는 것 자체가 큰 도전이었다. 많이 배우면서 임하고 있다”고 소감을 전했다.\n또 유아인은 “상패 하나에 많은 야심이 뭉쳐있고 힘겨루기를 하기도 한다”라며 수상자 선정의 암투를 암시하는 듯한 발언으로 이슈가 되기도했다.\n그는 “배우의 일은 카메라가 돌고 있을 때 가장 순수하게 연기하는 것이다. 영악하고 여우 같아지고 괴물 같아지는 순간이 많지만 좋은 배우가 뭔지 수준 높은 연기가 뭔지 끊임없이 다그치고 다그치며 좋은 배우의 길을 걷겠다”는 소감을 남겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유아인 수상소감 유아인이 ‘SBS연기대상’에서 남자 최우수연기상을 수상했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12월 31일 서울 삼성동 코엑스에서 오후 8시55분부터 생방송으로 펼쳐진 '2015 SBS 어워즈 페스티벌 연기대상'(이하 SBS연기대상)은 SBS 창사 25주년을 맞이해 '함께 만드는 기쁨! 함께 만드는 드라마!'라는 슬로건 아래, 유준상 임지연 이휘재의 사회로 진행했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 날 유아인은 '육룡이나르샤'를 통해 장편드라마 부문 남자 최우수연기상 트로피를 거머쥐었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유아인은 “내가 최우수라는 연기를 펼쳤는지 모르겠다. ‘육룡이 나르샤’라는 긴 드라마에 참여하는 것 자체가 큰 도전이었다. 많이 배우면서 임하고 있다”고 소감을 전했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 유아인은 “상패 하나에 많은 야심이 뭉쳐있고 힘겨루기를 하기도 한다”라며 수상자 선정의 암투를 암시하는 듯한 발언으로 이슈가 되기도했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “배우의 일은 카메라가 돌고 있을 때 가장 순수하게 연기하는 것이다. 영악하고 여우 같아지고 괴물 같아지는 순간이 많지만 좋은 배우가 뭔지 수준 높은 연기가 뭔지 끊임없이 다그치고 다그치며 좋은 배우의 길을 걷겠다”는 소감을 남겼다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유아인, 최우수상 수상소감 …\\\"다그치고 다그치며 배우의 길 가겠다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

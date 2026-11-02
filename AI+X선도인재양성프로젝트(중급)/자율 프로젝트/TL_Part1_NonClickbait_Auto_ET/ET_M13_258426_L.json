@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258426",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘안다행’ 신지 “김종민, 여전히 민폐”",
+		"newsSubTitle": "",
+		"newsContent": "‘안싸우면 다행이야’ 김종민이 24년 만에 코요태 멤버들에게 인정받는다. 17일 오후 9시 방송하는 MBC ‘안싸우면 다행이야’(연출 김명진 노승욱 장효종, 작가 권정희, 이하 ‘안다행’)에서 코요태 김종민, 신지, 빽가의 첫 섬 생활이 공개된다.\n김종민은 본격적인 자급자족에 앞서 “야생 버라이어티 15년을 했다”며 허세를 부린다.\n하지만 섬 입성부터 난항을 겪자 명불허전 허당미를 드러낸다.\n신지는 김종민에 “여전히 민폐”라며 ‘김종민폐’라는 별명을 떠올린다.\n김종민의 진가는 극한의 상황에서 빛을 발한다.\n그는 갯바위에서 식재료를 찾으면서 신지 구박을 받은 것도 잠시, 섬 경력자들도 잡기 힘든 대왕 문어를 잡아 놀라움을 자아낸다. “미쳤나 봐”라며 비명 같은 감탄사를 뱉은 신지는 김종민에 “리더님, 동생들 기 살려준다”고 극찬한다. ‘빽토커’들 역시 ‘안다행’ 역대 가장 큰 사이즈를 자랑하는 문어에 “대형사건”이라며 입을 다물지 못한다는 귀띔이다.\n모두를 놀라게 만든 김종민 대왕 문어 사냥기는 17일 밤 9시 MBC ‘안다행’을 통해 안방극장에 배달된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘안싸우면 다행이야’ 김종민이 24년 만에 코요태 멤버들에게 인정받는다. 17일 오후 9시 방송하는 MBC ‘안싸우면 다행이야’(연출 김명진 노승욱 장효종, 작가 권정희, 이하 ‘안다행’)에서 코요태 김종민, 신지, 빽가의 첫 섬 생활이 공개된다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김종민은 본격적인 자급자족에 앞서 “야생 버라이어티 15년을 했다”며 허세를 부린다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 섬 입성부터 난항을 겪자 명불허전 허당미를 드러낸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신지는 김종민에 “여전히 민폐”라며 ‘김종민폐’라는 별명을 떠올린다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김종민의 진가는 극한의 상황에서 빛을 발한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 갯바위에서 식재료를 찾으면서 신지 구박을 받은 것도 잠시, 섬 경력자들도 잡기 힘든 대왕 문어를 잡아 놀라움을 자아낸다. “미쳤나 봐”라며 비명 같은 감탄사를 뱉은 신지는 김종민에 “리더님, 동생들 기 살려준다”고 극찬한다. ‘빽토커’들 역시 ‘안다행’ 역대 가장 큰 사이즈를 자랑하는 문어에 “대형사건”이라며 입을 다물지 못한다는 귀띔이다.",
+				"sentenceSize": 194
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모두를 놀라게 만든 김종민 대왕 문어 사냥기는 17일 밤 9시 MBC ‘안다행’을 통해 안방극장에 배달된다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘안다행’ 신지 “김종민, 여전히 민폐”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274707",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "박은빈, 우영우 변호사의 꽃미소",
+		"newsSubTitle": "",
+		"newsContent": "박은빈이 ‘이상한 변호사 우영우’ 현장 사진을 공개했다.\n박은빈은 4일 자신의 사회관계망서비스(SNS)에 “THANK YOU, 이상한 변호사 우영우 사랑해주셔서 감사합니다”라는 글과 함께 사진을 게재했다.\n공개한 사진에서 박은빈은 꽃다발을 들고 환한 웃음을 보였다.\n박은빈 특유의 귀여움과 청순함을 물씬 느낄 수 있는 현장 사진이었다.\n박은빈은 지난달 29일 시작한 ENA ‘이상한 변호사 우영우’에서 변호사 우영우 역을 맡았다.\n우영우는 자폐 스펙트럼을 가진 천재로 따뜻한 마음을 가진 변호사로 변신했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박은빈이 ‘이상한 변호사 우영우’ 현장 사진을 공개했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박은빈은 4일 자신의 사회관계망서비스(SNS)에 “THANK YOU, 이상한 변호사 우영우 사랑해주셔서 감사합니다”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 박은빈은 꽃다발을 들고 환한 웃음을 보였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박은빈 특유의 귀여움과 청순함을 물씬 느낄 수 있는 현장 사진이었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박은빈은 지난달 29일 시작한 ENA ‘이상한 변호사 우영우’에서 변호사 우영우 역을 맡았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우영우는 자폐 스펙트럼을 가진 천재로 따뜻한 마음을 가진 변호사로 변신했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박은빈, 우영우 변호사의 꽃미소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

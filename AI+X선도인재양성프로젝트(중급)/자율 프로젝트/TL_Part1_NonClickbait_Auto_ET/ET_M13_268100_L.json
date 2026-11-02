@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268100",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "영상물등급위원회, OTT 자가등급평가 시스템 구축",
+		"newsSubTitle": "",
+		"newsContent": "영상물등급위원회가 온라인 동영상 서비스(OTT) 콘텐츠 자가등급평가 시스템을 구축해 시범사업에 들어간다고 25일 밝혔다.\n시스템은 OTT 사업자가 온라인 자가등급평가표 설문 항목(40개)을 프로그램에 입력하면 즉시 ‘권장 등급’ 결과를 알려 준다.\n작품별 주요 등급 결정사항을 세부적으로 파악하고, 데이터베이스화할 수도 있다.\n영상물등급위원회는 2020년부터 자율등급 기준을 세우고, 시스템 활용단계로 나아가기 위해 연구팀을 구성하는 등의 노력 끝에 지난달 자가등급평가시스템 개발을 완료했다.\n위원회는 시스템 개발 완료 후 지난달 17일부터 31일까지 티빙, 웨이브, 왓챠, 넷플릭스, 디즈니+, 애플TV+, 쿠팡 등 주요 OTT 사업자를 대상으로 찾아가는 자가등급평가 시스템 현장교육을 했다.\n위원회는 앞으로 OTT 사업자가 직접 참여하는 시범사업도 추진할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영상물등급위원회가 온라인 동영상 서비스(OTT) 콘텐츠 자가등급평가 시스템을 구축해 시범사업에 들어간다고 25일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시스템은 OTT 사업자가 온라인 자가등급평가표 설문 항목(40개)을 프로그램에 입력하면 즉시 ‘권장 등급’ 결과를 알려 준다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "작품별 주요 등급 결정사항을 세부적으로 파악하고, 데이터베이스화할 수도 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상물등급위원회는 2020년부터 자율등급 기준을 세우고, 시스템 활용단계로 나아가기 위해 연구팀을 구성하는 등의 노력 끝에 지난달 자가등급평가시스템 개발을 완료했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위원회는 시스템 개발 완료 후 지난달 17일부터 31일까지 티빙, 웨이브, 왓챠, 넷플릭스, 디즈니+, 애플TV+, 쿠팡 등 주요 OTT 사업자를 대상으로 찾아가는 자가등급평가 시스템 현장교육을 했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "위원회는 앞으로 OTT 사업자가 직접 참여하는 시범사업도 추진할 계획이다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영상물등급위원회, OTT 자가등급평가 시스템 구축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

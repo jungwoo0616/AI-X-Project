@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171631",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "케플러 ‘FIRST IMPACT’ 오리콘 주간 앨범 연속 2위[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 케플러(Kep1er)의 인기가 일본에서도 이어지고 있다.\n소속사 웨이크원, 스윙엔터테인먼트는 17일 케플러의 데뷔 앨범 ‘FIRST IMPACT’(퍼스트 임팩트)가 일본 오리콘 ‘주간 합산 앨범 차트’에서 2위를 차지했다고 밝혔다.\n오리콘 ‘주간 합산 앨범 차트’는 앨범 판매량과 디지털 앨범 지수(디지털 음원 다운로드 수), 스트리밍 지수 등을 각각 기준에 맞는 포인트로 환산 후 집계된다.\n앞서 ‘오리콘 주간 앨범 차트’(집계 기간: 2022년 1월 3일~2022년 1월 9일)에서도 2위에 올랐던 케플러는 ‘오리콘 주간 합산 앨범 차트’에서도 연달아 2위를 기록하며 일본 현지 내 상승세를 실감하게 했다.\n이 밖에도 케플러는 애플뮤직과 아이튠즈 일본 앨범 차트, 일본 라인뮤직, 빌보드 재팬, 유튜브 재팬 등 일본 음원 차트에서 성과를 이뤄내며 글로벌 팬덤을 구축하고 있다.\n한편 케플러는 데뷔 타이틀곡 ‘WA DA DA’로 활발히 활동할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 케플러(Kep1er)의 인기가 일본에서도 이어지고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 웨이크원, 스윙엔터테인먼트는 17일 케플러의 데뷔 앨범 ‘FIRST IMPACT’(퍼스트 임팩트)가 일본 오리콘 ‘주간 합산 앨범 차트’에서 2위를 차지했다고 밝혔다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오리콘 ‘주간 합산 앨범 차트’는 앨범 판매량과 디지털 앨범 지수(디지털 음원 다운로드 수), 스트리밍 지수 등을 각각 기준에 맞는 포인트로 환산 후 집계된다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 ‘오리콘 주간 앨범 차트’(집계 기간: 2022년 1월 3일~2022년 1월 9일)에서도 2위에 올랐던 케플러는 ‘오리콘 주간 합산 앨범 차트’에서도 연달아 2위를 기록하며 일본 현지 내 상승세를 실감하게 했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 밖에도 케플러는 애플뮤직과 아이튠즈 일본 앨범 차트, 일본 라인뮤직, 빌보드 재팬, 유튜브 재팬 등 일본 음원 차트에서 성과를 이뤄내며 글로벌 팬덤을 구축하고 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 케플러는 데뷔 타이틀곡 ‘WA DA DA’로 활발히 활동할 예정이다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 케플러 데뷔 앨범 ‘FIRST IMPACT’ 인기 여기까지 이어져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275049",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "수지, 완벽한 안나와 다른 엉성한 스키 실력",
+		"newsSubTitle": "",
+		"newsContent": "수지가 극 중 도도하고 세련된 이미지와 180도 다른 순수한 매력을 보여줬다.\n수지는 7일 자신의 사회관계망서비스(SNS)에 “연기라구요 연기!!!!!”라는 글과 함께 영상을 게재했다.\n공개한 영상을 보면 수지는 스키장에서 진행한 촬영 때 스키를 타고 있다.\n하지만 다소 엉성한 폼과 스키 실력으로 보는 이들을 웃음 짓게 했다.\n쿠팡플레이 ‘안나’에서 완벽한 사람이 되기 위해 도도하고, 철두철미하게 행동하는 ‘안나’와 180도 다른 모습이었다.\n한편 수지는 지난달 24일 공개한 드라마 ‘안나’에서 사소한 거짓말로 다른 사람의 인생을 살게 된 여자 ‘안나’ 역을 맡아 열연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "수지가 극 중 도도하고 세련된 이미지와 180도 다른 순수한 매력을 보여줬다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수지는 7일 자신의 사회관계망서비스(SNS)에 “연기라구요 연기!!!!!”라는 글과 함께 영상을 게재했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 영상을 보면 수지는 스키장에서 진행한 촬영 때 스키를 타고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 다소 엉성한 폼과 스키 실력으로 보는 이들을 웃음 짓게 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "쿠팡플레이 ‘안나’에서 완벽한 사람이 되기 위해 도도하고, 철두철미하게 행동하는 ‘안나’와 180도 다른 모습이었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 수지는 지난달 24일 공개한 드라마 ‘안나’에서 사소한 거짓말로 다른 사람의 인생을 살게 된 여자 ‘안나’ 역을 맡아 열연 중이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수지, 완벽한 안나와 다른 엉성한 스키 실력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

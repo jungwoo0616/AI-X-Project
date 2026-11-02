@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277024",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "입대한 서인국 4일 만에 집으로 돌아온 사연 보니",
+		"newsSubTitle": "",
+		"newsContent": "가수이자 배우 서인국이 지난 28일 입대했지만 나흘 만인 31일 집으로 돌아왔다.\n31일 서인국 소속사 젤리피쉬에 따르면 서인국은 지난 28일 육군 현역으로 경기도 연천군 5사단 신병교육대대에 입소했지만 이날 저녁 군으로부터 귀가 명령을 받았다.\n귀가 사유는 ‘좌측 발목 거골의 골연골병변’이다.\n서인국은 향후 지방병무청에서 재신체검사를 받을 예정이다.\n골연골병변이란 발목 관절에 거골이란 뼈에 이상이 있는 병이다.\n거골은 발목을 이루는 뼈 중에 가장 위에 있어 체중을 발에 전달하는 역할을 한다.\n축구를 하다가 접질려 인대가 파열돼 이상이 오기도 하고, 발목을 전혀 다치지 않아도 발생할 수 있다.\n대부분 골연골병변은 평지를 다닐 때 큰 통증을 느끼지 못한다.\n하지만 뛰거나 내리막 길을 걸을 때만 통증이 나타날 때도 있다.\n엑스레이보다는 MRI 촬영을 통해 진단 받아야 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수이자 배우 서인국이 지난 28일 입대했지만 나흘 만인 31일 집으로 돌아왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 서인국 소속사 젤리피쉬에 따르면 서인국은 지난 28일 육군 현역으로 경기도 연천군 5사단 신병교육대대에 입소했지만 이날 저녁 군으로부터 귀가 명령을 받았다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "귀가 사유는 ‘좌측 발목 거골의 골연골병변’이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서인국은 향후 지방병무청에서 재신체검사를 받을 예정이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "골연골병변이란 발목 관절에 거골이란 뼈에 이상이 있는 병이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "거골은 발목을 이루는 뼈 중에 가장 위에 있어 체중을 발에 전달하는 역할을 한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "축구를 하다가 접질려 인대가 파열돼 이상이 오기도 하고, 발목을 전혀 다치지 않아도 발생할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대부분 골연골병변은 평지를 다닐 때 큰 통증을 느끼지 못한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 뛰거나 내리막 길을 걸을 때만 통증이 나타날 때도 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "엑스레이보다는 MRI 촬영을 통해 진단 받아야 한다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "입대한 서인국 4일 만에 집으로 돌아온 사연 보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

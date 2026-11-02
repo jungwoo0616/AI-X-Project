@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274702",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "에스파 ‘Girls’는 캐주얼하게",
+		"newsSubTitle": "세계관 시즌 1의 마지막 에피소드 ‘Girls’",
+		"newsContent": "그룹 에스파(aespa)가 멤버별 티저 이미지를 공개했다.\n지난 2일부터 5일 에스파는 SNS 공식 계정을 통해 멤버 카리나, 지젤, 윈터, 닝닝의 개인 티저 이미지를 순차적으로 공개했다.\n공개된 티저 이미지 속 멤버들은 눈부신 비주얼과 캐주얼한 모습으로 미모를 뽐내며 뜨거운 반응을 얻었다.\n에스파의 이번 타이틀 곡 ‘Girls(걸스)’는 강렬한 워블 베이스와 거친텍스처의 신스 사운드가 돋보이는 댄스곡이다.\n가사 속 에스파는 아이-에스파(ae-aespa)와 함께 ‘BlackMamba(블랙맘바)’와 본격적인 전투를 펼친 후 조력자 나이비스(nævis)와 함께 새로운 이야기를 이어가는 내용을 담아, 세계관 시즌 1의 마지막 에피소드를 마무리한다.\n한편, 에스파의 두 번째 미니앨범 ‘Girls’는 7월 8일 오후 1시 음원 공개되며, 이날 음반으로도 한국과 미국 동시 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에스파(aespa)가 멤버별 티저 이미지를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2일부터 5일 에스파는 SNS 공식 계정을 통해 멤버 카리나, 지젤, 윈터, 닝닝의 개인 티저 이미지를 순차적으로 공개했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 티저 이미지 속 멤버들은 눈부신 비주얼과 캐주얼한 모습으로 미모를 뽐내며 뜨거운 반응을 얻었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에스파의 이번 타이틀 곡 ‘Girls(걸스)’는 강렬한 워블 베이스와 거친텍스처의 신스 사운드가 돋보이는 댄스곡이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가사 속 에스파는 아이-에스파(ae-aespa)와 함께 ‘BlackMamba(블랙맘바)’와 본격적인 전투를 펼친 후 조력자 나이비스(nævis)와 함께 새로운 이야기를 이어가는 내용을 담아, 세계관 시즌 1의 마지막 에피소드를 마무리한다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 에스파의 두 번째 미니앨범 ‘Girls’는 7월 8일 오후 1시 음원 공개되며, 이날 음반으로도 한국과 미국 동시 발매된다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스파 ‘Girls’는 캐주얼하게",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270216",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "태연 초심 다잡나, 의미심장 SNS",
+		"newsSubTitle": "",
+		"newsContent": "그룹 소녀시대 멤버 태연이 의미심장 글을 공유했다.\n태연은 15일 본인 소셜미디어를 통해 “정작, 문제에 경각심을 가져야 하는 사람은 아무 생각이 없으니까 주변이 힘들고, 네가 힘들 수밖에 없지”라는 글귀를 게재했다.\n이는 안상현 작가의 에세이 ‘네가 혼자서 울지 않았으면 좋겠다’의 한 구절이다.\n태연은 이어 검은색 바탕에 “초심”이라고 적어 올렸다.\n이에 태연에 무슨 일이 있는 것 아닌지 팬들의 우려와 누리꾼들의 궁금증을 자아냈다.\n한편 태연은 최근 tvN 토일드라마 ‘우리들의 블루스’ OST ‘내 곁에’를 발매했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 소녀시대 멤버 태연이 의미심장 글을 공유했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "태연은 15일 본인 소셜미디어를 통해 “정작, 문제에 경각심을 가져야 하는 사람은 아무 생각이 없으니까 주변이 힘들고, 네가 힘들 수밖에 없지”라는 글귀를 게재했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 안상현 작가의 에세이 ‘네가 혼자서 울지 않았으면 좋겠다’의 한 구절이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "태연은 이어 검은색 바탕에 “초심”이라고 적어 올렸다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 태연에 무슨 일이 있는 것 아닌지 팬들의 우려와 누리꾼들의 궁금증을 자아냈다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 태연은 최근 tvN 토일드라마 ‘우리들의 블루스’ OST ‘내 곁에’를 발매했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태연 초심 다잡나, 의미심장 SNS",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

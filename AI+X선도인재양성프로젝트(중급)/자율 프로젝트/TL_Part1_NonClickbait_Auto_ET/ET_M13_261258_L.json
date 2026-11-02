@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261258",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘고끝밥’ 황제성 결국 돌파감염, 모든 스케줄 연기",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 황제성이 양성 판정을 받았다.\n황제성 소속사 IHQ는 17일 “이날 오전 황제성이 미열 증상으로 인해 코로나19 PCR(유전자증폭) 검사를 실시했고, 양성 판정을 받았다”고 밝혔다.\n이어 “황제성은 2차 백신 접종까지 마친 상태로 예정돼 있던 모든 스케줄을 연기하고 방역 당국의 지침에 따라 자가격리 및 필요한 조치를 취하고 있다”고 했다.\n황제성은 NQQ 예능 프로그램 ‘고생 끝에 밥이 온다’를 비롯해 다수의 예능 프로그램에 출연 중이다.\n황제성은 ‘고생 끝에 밥이 온다’에 함께 출연했던 문세윤이 양성 판정을 받자 15일 선제 검사 결과 음성을 받았으나 결국 양성 판정을 받게 됐다.\n소속사는 “황제성의 건강이 회복될 수 있도록 치료에 최선을 다하겠다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 황제성이 양성 판정을 받았다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "황제성 소속사 IHQ는 17일 “이날 오전 황제성이 미열 증상으로 인해 코로나19 PCR(유전자증폭) 검사를 실시했고, 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “황제성은 2차 백신 접종까지 마친 상태로 예정돼 있던 모든 스케줄을 연기하고 방역 당국의 지침에 따라 자가격리 및 필요한 조치를 취하고 있다”고 했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "황제성은 NQQ 예능 프로그램 ‘고생 끝에 밥이 온다’를 비롯해 다수의 예능 프로그램에 출연 중이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "황제성은 ‘고생 끝에 밥이 온다’에 함께 출연했던 문세윤이 양성 판정을 받자 15일 선제 검사 결과 음성을 받았으나 결국 양성 판정을 받게 됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사는 “황제성의 건강이 회복될 수 있도록 치료에 최선을 다하겠다”고 했다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘고끝밥’ 황제성 결국 돌파감염, 모든 스케줄 연기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262023",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅, 마스크에도 독보적 아우라",
+		"newsSubTitle": "",
+		"newsContent": "임영웅이 훈훈한 근황을 공개했다.\n가수 임영웅은 24일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “미주알고주알모래알”이라는 글과 함께 사진을 게시했다.\n사진 속 그는 편안한 옷차림을 하고 운동화를 신은 채 모래알을 만지고 있었다.\n멀리서 찍힌 사진이었지만 그의 훤칠한 비율이 돋보인다.\n팬들은 그의 사진에 “보고 싶다” “언제나 응원한다” “마스크를 썼지만 너무 잘생겼다”며 뜨거운 반응을 보였다.\n한편 임영웅은 지난 16일 인스타그램에 컬링 국가대표 ‘팀킴’을 비롯한 올림픽 국가대표 선수들을 응원하며 화제가 되었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "임영웅이 훈훈한 근황을 공개했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가수 임영웅은 24일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “미주알고주알모래알”이라는 글과 함께 사진을 게시했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그는 편안한 옷차림을 하고 운동화를 신은 채 모래알을 만지고 있었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "멀리서 찍힌 사진이었지만 그의 훤칠한 비율이 돋보인다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 그의 사진에 “보고 싶다” “언제나 응원한다” “마스크를 썼지만 너무 잘생겼다”며 뜨거운 반응을 보였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 임영웅은 지난 16일 인스타그램에 컬링 국가대표 ‘팀킴’을 비롯한 올림픽 국가대표 선수들을 응원하며 화제가 되었다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 마스크에도 독보적 아우라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260584",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "피오, 내달 28일 해병대 자원입대[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 피오(표지훈)이 해병대에 입대한다.\n소속사 아티스트컴퍼니 관계자는 10일 스포츠경향에 “피오가 최근 해병대에 지원해 합격 통보를 받았다”며 “오는 3월 28일 입대 예정이다”라고 전했다.\n이어 소속사는 “피오가 본인 의사로 해병대에 자원했다. 코로나19로 인해 입대 장소와 시간은 공개하지 않을 방침”이라며 “현재 출연 중인 공연 ‘플레이백’은 입대 전에 막을 내리고 출연 중인 방송들도 입대 전에 스케줄을 소화한 뒤 정리할 예정”이라고 설명했다.\n1993년 생인 피오는 올해 한국 나이로 30세가 되며 군 복무를 이행해야 하는 나이가 됐다.\n한편 피오는 지난 2011년 그룹 블락비로 데뷔해 tvN ‘신서유기 시리즈’, ‘대탈출’ 등 다수의 예능과 드라마 ‘남자친구’ ‘호텔 델루나’ ‘경우의 수’ ‘마우스’ 등 연기자로서 왕성한 활동을 이어오고 있다.\n오는 13일까지 공연되는 연극 ‘플레이백’에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 피오(표지훈)이 해병대에 입대한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 아티스트컴퍼니 관계자는 10일 스포츠경향에 “피오가 최근 해병대에 지원해 합격 통보를 받았다”며 “오는 3월 28일 입대 예정이다”라고 전했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 소속사는 “피오가 본인 의사로 해병대에 자원했다. 코로나19로 인해 입대 장소와 시간은 공개하지 않을 방침”이라며 “현재 출연 중인 공연 ‘플레이백’은 입대 전에 막을 내리고 출연 중인 방송들도 입대 전에 스케줄을 소화한 뒤 정리할 예정”이라고 설명했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1993년 생인 피오는 올해 한국 나이로 30세가 되며 군 복무를 이행해야 하는 나이가 됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 피오는 지난 2011년 그룹 블락비로 데뷔해 tvN ‘신서유기 시리즈’, ‘대탈출’ 등 다수의 예능과 드라마 ‘남자친구’ ‘호텔 델루나’ ‘경우의 수’ ‘마우스’ 등 연기자로서 왕성한 활동을 이어오고 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 13일까지 공연되는 연극 ‘플레이백’에 출연 중이다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피오, 내달 28일 해병대 자원입대[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

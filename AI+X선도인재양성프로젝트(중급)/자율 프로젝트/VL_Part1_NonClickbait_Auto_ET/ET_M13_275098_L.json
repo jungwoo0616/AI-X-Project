@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275098",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이근, 살인자 비난 악플에 “너도 조심해”",
+		"newsSubTitle": "",
+		"newsContent": "해군특수전전단(UDT/SEAL) 장교 출신 유튜버 이근(38)이 자신의 영상에 댓글을 통해 ‘살인자’라고 비난한 네티즌에게 대응했다.\n이근은 7일 자신의 유튜브 채널에 ‘테러리스트 몸통에 총을 쐈는데 쉽게 안 죽었다’라는 영상을 게재했다.\n이 영상에서 이근은 총탄, 방탄조끼 등 다양한 군 물풀을 소개했다.\n이근의 행보 특성상 악플은 꽤 달리고 있다.\n이에 이근은 정면 대응해 왔고, 이번에도 똑같이 응수했다.\n한 네티즌이 이근의 우크라이나 의용군 참전을 두고 “얼마나 젋은 러시아 애들을 죽였으면 그리도 살인기술을 가르치면서 유튜브 하는 거냐. 아주 역겹다. 살인자 이근은 물러가라”라는 댓글을 달았다.\n이에 이근은 해당 댓글을 가장 위로 고정했다.\n이어 “응. 너도 조심해”라고 대응했다.\n이 댓글은 가장 위로 고정됐기 때문에 많은 사람들이 볼 수 있었고, 악플에 대해 비판하는 댓글을 달렸다.\n한편 이근은 최근 우크라이나 국제의용군 참전 후 무릎 십자인대 부상으로 재활을 위해 귀국했다.\n이근은 이에 따라 여권법 위반 혐의로 경찰 조사 후 검찰에 불구속 송치됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "해군특수전전단(UDT/SEAL) 장교 출신 유튜버 이근(38)이 자신의 영상에 댓글을 통해 ‘살인자’라고 비난한 네티즌에게 대응했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이근은 7일 자신의 유튜브 채널에 ‘테러리스트 몸통에 총을 쐈는데 쉽게 안 죽었다’라는 영상을 게재했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 영상에서 이근은 총탄, 방탄조끼 등 다양한 군 물풀을 소개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이근의 행보 특성상 악플은 꽤 달리고 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 이근은 정면 대응해 왔고, 이번에도 똑같이 응수했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한 네티즌이 이근의 우크라이나 의용군 참전을 두고 “얼마나 젋은 러시아 애들을 죽였으면 그리도 살인기술을 가르치면서 유튜브 하는 거냐. 아주 역겹다. 살인자 이근은 물러가라”라는 댓글을 달았다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 이근은 해당 댓글을 가장 위로 고정했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 “응. 너도 조심해”라고 대응했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 댓글은 가장 위로 고정됐기 때문에 많은 사람들이 볼 수 있었고, 악플에 대해 비판하는 댓글을 달렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 이근은 최근 우크라이나 국제의용군 참전 후 무릎 십자인대 부상으로 재활을 위해 귀국했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이근은 이에 따라 여권법 위반 혐의로 경찰 조사 후 검찰에 불구속 송치됐다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이근, 살인자 비난 악플에 “너도 조심해”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

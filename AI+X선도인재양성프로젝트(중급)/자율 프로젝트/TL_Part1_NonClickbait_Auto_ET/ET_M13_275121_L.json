@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275121",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서정희, 암 투병기 “이러다 죽는구나 했어요”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 서정희가 항암치료 과정을 공개했다.\n서정희는 9일 자신의 사회관계망서비스(SNS)에 투병 중인 근황을 공개했다.\n서정희는 “속 울렁거림을 입덧처럼 24시간 하면 바늘로 온몸을 찌르는 듯한 신경통과 망치로 때리는 근육통과 3주에 한번씩 돌아오는 항암사이클, 잠시 좋아지는 회복기를 맞을 때 살았다 좋아하는 것도 잠시 다시 반복되는 고열과 씨름하며 피로감에 시달린 시간들이 이제 기억이 안나려 합니다”라며 힘겨운 투병 생활을 하고 있다고 밝혔다.\n이어 “항암 4차도 죽음이었습니다. 고열이 1, 2, 3차때와 같이 꼬박 삼일 이러다 죽는구나 했어요. 온몸에 빨갛게 도너츠처럼 부황 뜬 것처럼 피부가 붉게 부어오르기 시작했어요. 부위는 매번 다르게요.신기해요.종양교수님도 신기하다고 했으니까요.그수많은 환자들중에 저는 좀더 독특하게 반응한 것들이 있었어요. 한웅큼의 온갖 약을 먹으니 림프 지나가는 팔다리가 코기리 팔다리같이 부었어요. 제 몸이 하마 같아 보였어요”라며 항암 치료 부작용에 따른 고됨도 밝혔다.\n현재 경과에 대해서는 “지금은 열이 없다”, “이제 항암 4차까지 잘 마쳤다”라며 호전되고 있음을 밝혔다.\n한편 서정희는 지난달 딸 서동주의 유튜브 채널을 통해 암 투병 소식을 전했다.\n서동주 역시 방송을 통해 어머니 서정희의 소식을 알리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 서정희가 항암치료 과정을 공개했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서정희는 9일 자신의 사회관계망서비스(SNS)에 투병 중인 근황을 공개했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서정희는 “속 울렁거림을 입덧처럼 24시간 하면 바늘로 온몸을 찌르는 듯한 신경통과 망치로 때리는 근육통과 3주에 한번씩 돌아오는 항암사이클, 잠시 좋아지는 회복기를 맞을 때 살았다 좋아하는 것도 잠시 다시 반복되는 고열과 씨름하며 피로감에 시달린 시간들이 이제 기억이 안나려 합니다”라며 힘겨운 투병 생활을 하고 있다고 밝혔다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “항암 4차도 죽음이었습니다. 고열이 1, 2, 3차때와 같이 꼬박 삼일 이러다 죽는구나 했어요. 온몸에 빨갛게 도너츠처럼 부황 뜬 것처럼 피부가 붉게 부어오르기 시작했어요. 부위는 매번 다르게요.신기해요.종양교수님도 신기하다고 했으니까요.그수많은 환자들중에 저는 좀더 독특하게 반응한 것들이 있었어요. 한웅큼의 온갖 약을 먹으니 림프 지나가는 팔다리가 코기리 팔다리같이 부었어요. 제 몸이 하마 같아 보였어요”라며 항암 치료 부작용에 따른 고됨도 밝혔다.",
+				"sentenceSize": 258
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 경과에 대해서는 “지금은 열이 없다”, “이제 항암 4차까지 잘 마쳤다”라며 호전되고 있음을 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 서정희는 지난달 딸 서동주의 유튜브 채널을 통해 암 투병 소식을 전했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서동주 역시 방송을 통해 어머니 서정희의 소식을 알리고 있다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서정희, 암 투병기 “이러다 죽는구나 했어요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

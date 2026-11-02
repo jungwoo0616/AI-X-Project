@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278055",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'뷰티풀 마인드' 오늘 첫 방송…장혁 수갑 채운 박소담 '눈길'",
+		"newsSubTitle": "",
+		"newsContent": "‘뷰티풀 마인드’에서 장혁과 박소담의 강렬한 첫만남이 눈길을 끈다, 20일 KBS2 '뷰티풀 마인드' 1회 중 교통계 순경 계진성(박소담 분)이 의사 이영오(장혁 분)를 의료법 위반으로 수갑을 채우는 사진이 공개됐다.\n두 사람이 첫 만남부터 이렇게 얽힌 데에는 환자의 생사가 오가는 사건이 연루되어 있는 것으로 알려져 궁금증을 자아낸다.\n특히 수갑을 차고도 의미심장한 미소를 보이는 영오의 얼굴이 주목받고 있다.\n접점이라고는 전혀 없을 것 같던 진성과 영오는 첫 만남 이후 더욱 의미심장한 관계를 이어갈 예정이다.\n한편, 드라마 ‘뷰티풀 마인드’는 세상에서 가장 안전해야 할 병원에서 어느 날 갑자기 환자들이 죽어나가는 기묘한 사건이 발생하면서 펼쳐지는 메디컬 드라마. 20일 밤 10시에 첫 방송된다.\n온라인 중앙일보 [사진 KBS2 제공]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘뷰티풀 마인드’에서 장혁과 박소담의 강렬한 첫만남이 눈길을 끈다, 20일 KBS2 '뷰티풀 마인드' 1회 중 교통계 순경 계진성(박소담 분)이 의사 이영오(장혁 분)를 의료법 위반으로 수갑을 채우는 사진이 공개됐다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "두 사람이 첫 만남부터 이렇게 얽힌 데에는 환자의 생사가 오가는 사건이 연루되어 있는 것으로 알려져 궁금증을 자아낸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 수갑을 차고도 의미심장한 미소를 보이는 영오의 얼굴이 주목받고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "접점이라고는 전혀 없을 것 같던 진성과 영오는 첫 만남 이후 더욱 의미심장한 관계를 이어갈 예정이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 드라마 ‘뷰티풀 마인드’는 세상에서 가장 안전해야 할 병원에서 어느 날 갑자기 환자들이 죽어나가는 기묘한 사건이 발생하면서 펼쳐지는 메디컬 드라마. 20일 밤 10시에 첫 방송된다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS2 제공]",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'뷰티풀 마인드' 오늘 첫 방송…장혁 수갑 채운 박소담 '눈길'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274972",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "데이브레이크, 3년 만 여름 콘서트 개최 “역대급 공연 만들겠다”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "밴드 ‘데이브레이크’가 3년 만에 여름 브랜드 콘서트 ‘썸머 매드니스(SUMMER MADNESS) 2022’를 개최한다고 6일 밝혔다.\n2013년부터 2019년까지 매년 진행됐던 데이브레이크의 여름 콘서트 ‘썸머 매드니스’는 코로나19로 인해 2020년부터 잠정 연기됐다.\n이후 오랜만의 재개된 여름 콘서트 개최 소식에 팬들의 기대감이 모이고 있다.\n이번 공연의 부제는 ‘SPARK’로 “3년 동안 표현하지 못했던 모든 에너지를 점화해 불꽃처럼 표출하고 참아왔던 모든 것을 한 번에 터트리는 역대급 공연을 만들겠다”는 데이브레이크의 다짐을 엿볼 수 있다.\n소속사 관계자는 “이번 공연에서는 데이브레이크만의 청량함이 가득한 곡부터 팬들도 열정적으로 즐길 수 있는 곡까지 그 어느 때보다 알찬 구성으로 진행될 예정”이라고 설명했다.\n한편 ‘꽃길 밴드’ ‘국민 밴드’라는 애칭을 보유한 데이브레이크는 ‘들었다 놨다’, ‘꽃길만 걷게 해줄게’, ‘Hot Fresh ‘, ‘좋다’ 등 듣기만 해도 행복해지는 감성 곡들을 발매해왔다. 최근에는 신예 밴드 루시(LUCY)와의 컬래버레이션’으로 ‘쉬운 답’,‘Oh-eh’라는 곡을 연달아 발표하며 음악적 발자취를 넓히고 있다.\n데이브레이크가 여는 3년 만의 여름 브랜드 콘서트‘썸머 매드니스(SUMMER MADNESS) 2022’는 8월 14일 오후 7시 30분, 15일 오후 5시 양일간 YES24 라이브홀에서 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "밴드 ‘데이브레이크’가 3년 만에 여름 브랜드 콘서트 ‘썸머 매드니스(SUMMER MADNESS) 2022’를 개최한다고 6일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2013년부터 2019년까지 매년 진행됐던 데이브레이크의 여름 콘서트 ‘썸머 매드니스’는 코로나19로 인해 2020년부터 잠정 연기됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 오랜만의 재개된 여름 콘서트 개최 소식에 팬들의 기대감이 모이고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공연의 부제는 ‘SPARK’로 “3년 동안 표현하지 못했던 모든 에너지를 점화해 불꽃처럼 표출하고 참아왔던 모든 것을 한 번에 터트리는 역대급 공연을 만들겠다”는 데이브레이크의 다짐을 엿볼 수 있다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사 관계자는 “이번 공연에서는 데이브레이크만의 청량함이 가득한 곡부터 팬들도 열정적으로 즐길 수 있는 곡까지 그 어느 때보다 알찬 구성으로 진행될 예정”이라고 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘꽃길 밴드’ ‘국민 밴드’라는 애칭을 보유한 데이브레이크는 ‘들었다 놨다’, ‘꽃길만 걷게 해줄게’, ‘Hot Fresh ‘, ‘좋다’ 등 듣기만 해도 행복해지는 감성 곡들을 발매해왔다. 최근에는 신예 밴드 루시(LUCY)와의 컬래버레이션’으로 ‘쉬운 답’,‘Oh-eh’라는 곡을 연달아 발표하며 음악적 발자취를 넓히고 있다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "데이브레이크가 여는 3년 만의 여름 브랜드 콘서트‘썸머 매드니스(SUMMER MADNESS) 2022’는 8월 14일 오후 7시 30분, 15일 오후 5시 양일간 YES24 라이브홀에서 진행된다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "데이브레이크, 3년 만 여름 콘서트 개최 “역대급 공연 만들겠다”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

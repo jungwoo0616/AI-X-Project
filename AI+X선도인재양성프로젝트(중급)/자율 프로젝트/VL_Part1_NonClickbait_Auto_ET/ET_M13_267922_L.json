@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267922",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이정현, 득녀 소감…“세상 모든 어머니들 존경”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이정현이 행복한 엄마가 됐다.\n이정현은 23일 자신의 사회관계망서비스(SNS)에 출산 소식을 알렸다.\n앞서 이정현의 소속사 파인트리엔터테인먼트는 “지난 20일 이정현은 서울의 한 병원에서 건강한 여자아이를 출산했다. 산모와 아이는 모두 건강한 상태이며, 기쁜 마음으로 안정을 취하고 있다”라고 밝혔다.\n이정현은 SNS를 통해 “축복이가 무사히 세상 밖으로 나왔습니다. 축복이를 실제로 맞이한 순간의 감동은 정말 잊을 수 없어요. 제 배 안에서 새로운 생명이 태어났다는 사실과 제가 정말 엄마가 되었다는 게 도무지 믿기질 않아요. 이 세상의 모든 어머니들 정말 존경합니다”라고 밝혔다.\n또한 “축복이도 아주 건강하고요. 저도 회복이 너무 빨라서 주치의 교수님, 병원 관계자분들 모두 놀라시네요. 저를 위해 기도해 준 모든 분들 정말 감사드려요”라며 건강한 아이 소식과 함께 도움을 준 지인들에게 감사한 마음을 표현했다.\n공개된 사진에서 이정현은 금방이라도 울음을 터뜨릴 듯한 표정으로 막 세상 밖에 나온 아이를 응시했다.\n출산의 현장에서 ‘엄마’만이 느낄 수 있는 감동이 고스란히 느껴졌다.\n한편 이정현은 지난 2019년 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이정현이 행복한 엄마가 됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이정현은 23일 자신의 사회관계망서비스(SNS)에 출산 소식을 알렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 이정현의 소속사 파인트리엔터테인먼트는 “지난 20일 이정현은 서울의 한 병원에서 건강한 여자아이를 출산했다. 산모와 아이는 모두 건강한 상태이며, 기쁜 마음으로 안정을 취하고 있다”라고 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이정현은 SNS를 통해 “축복이가 무사히 세상 밖으로 나왔습니다. 축복이를 실제로 맞이한 순간의 감동은 정말 잊을 수 없어요. 제 배 안에서 새로운 생명이 태어났다는 사실과 제가 정말 엄마가 되었다는 게 도무지 믿기질 않아요. 이 세상의 모든 어머니들 정말 존경합니다”라고 밝혔다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 “축복이도 아주 건강하고요. 저도 회복이 너무 빨라서 주치의 교수님, 병원 관계자분들 모두 놀라시네요. 저를 위해 기도해 준 모든 분들 정말 감사드려요”라며 건강한 아이 소식과 함께 도움을 준 지인들에게 감사한 마음을 표현했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공개된 사진에서 이정현은 금방이라도 울음을 터뜨릴 듯한 표정으로 막 세상 밖에 나온 아이를 응시했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "출산의 현장에서 ‘엄마’만이 느낄 수 있는 감동이 고스란히 느껴졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이정현은 지난 2019년 결혼했다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이정현, 득녀 소감…“세상 모든 어머니들 존경”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

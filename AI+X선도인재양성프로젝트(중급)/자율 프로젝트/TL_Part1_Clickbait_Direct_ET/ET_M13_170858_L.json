@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170858",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘1호가 될 순 없어’ 1년 만 작별 인사[종합]",
+    "newsSubTitle": "",
+    "newsContent": "JTBC 예능 프로그램 ‘1호가 될 순 없어’(이하 ‘1호가’)가 1년 여 끝에 막을 내린다. 11일 JTBC에 따르면 ‘1호가’가 오는 29일 방송을 끝으로 종영한다.\n지난해 4월 첫 방송된 최양락·팽현숙, 박준형·김지혜, 강재준·이은형, 김민기·홍윤화, 김학래·임미숙 등 개그맨 부부들이 출연해 솔직한 일상과 재치있는 입담으로 화제를 모았다. ‘개그맨 부부들의 리얼리티’라는 신선한 콘셉트 설정으로 ‘1호가’는 꾸준히 4%의 시청률을 웃돌며 관찰예능 홍수 속에서도 순항했다.\n높은 화제성만큼 탈도 많았다.\n도박, 바람이라는 다소 자극적인 키워드가 등장하면서 시청자들의 반감을 사게 된 것. 특정 출연진의 비도덕적 행위가 예능 소재로 다뤄지는 것에 불편한 시선을 보이는 시청자들이 많았다.\n또 초창기 초점을 맞췄던 개그맨 부부들의 이야기에서 벗어나 특정 출연진의 자식이 등장하는 비중이 늘어나면서 ‘연예인 자식 띄우기’ 예능이라는 비판을 받기도 했다.\n한편 매주 일요일 오후 10시 편성된 ‘1호가’ 후속으로는 JTBC 드라마 ‘인간실격’이 편성될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JTBC 예능 프로그램 ‘1호가 될 순 없어’(이하 ‘1호가’)가 1년 여 끝에 막을 내린다. 11일 JTBC에 따르면 ‘1호가’가 오는 29일 방송을 끝으로 종영한다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 4월 첫 방송된 최양락·팽현숙, 박준형·김지혜, 강재준·이은형, 김민기·홍윤화, 김학래·임미숙 등 개그맨 부부들이 출연해 솔직한 일상과 재치있는 입담으로 화제를 모았다. ‘개그맨 부부들의 리얼리티’라는 신선한 콘셉트 설정으로 ‘1호가’는 꾸준히 4%의 시청률을 웃돌며 관찰예능 홍수 속에서도 순항했다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "높은 화제성만큼 탈도 많았다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "도박, 바람이라는 다소 자극적인 키워드가 등장하면서 시청자들의 반감을 사게 된 것. 특정 출연진의 비도덕적 행위가 예능 소재로 다뤄지는 것에 불편한 시선을 보이는 시청자들이 많았다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 초창기 초점을 맞췄던 개그맨 부부들의 이야기에서 벗어나 특정 출연진의 자식이 등장하는 비중이 늘어나면서 ‘연예인 자식 띄우기’ 예능이라는 비판을 받기도 했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 매주 일요일 오후 10시 편성된 ‘1호가’ 후속으로는 JTBC 드라마 ‘인간실격’이 편성될 예정이다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "1년 동안 시청자들의 사랑을 듬뿍 받은 '이것' 끝내 종영",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

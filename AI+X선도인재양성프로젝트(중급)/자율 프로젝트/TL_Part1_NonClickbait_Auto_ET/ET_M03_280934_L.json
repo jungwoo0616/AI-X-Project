@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280934",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'스타워즈 신드롬' 개봉과 동시에 기록 경신…한국에서는?",
+		"newsSubTitle": "",
+		"newsContent": "영화 '스타워즈: 깨어난 포스'(Star Wars: The Force Awakens)가 연일 신기록을 세우며 신드롬을 일으키고 있다.\n스타워즈는 미국 캐나다 공식 개봉일인 18일(현지시간) 하루 동안 1억2천50만 달러(1천424억 원) 티켓 판매고를 올렸다.\n이는 기존 1위였던 '해리 포터와 죽음의 성물 2부'를 넘어선 기록이다.\n이어 20일(현지시간) USA 투데이는 영화 배급사 월트 디즈니는 스타워즈 개봉 첫 주말 박스오피스(흥행수익)가 2억3천800만 달러(약 2천818억 원)라고 밝혔다고 보도했다.\n앞서 스타워즈는 공식 개봉 전날인 17일 밤 일부 극장에서 조기 상영을 해 5천700만 달러(674억 원)의 흥행수익을 거뒀다.\n스타워즈는 20일까지 2억8천만 달러(3천315억 원)에 가까운 성적을 세우며 또 다시 기록 경신에 나설 예정이라고 신문은 전했다.\n스타워즈는 아울러 영국과 독일, 호주, 브라질 등에서도 첫날 매표 기록을 세웠으며, 20일 한국영화진흥회에 따르면 '스타워즈'의 한국 관객수는 37만 1892명으로, 한국 박스오피스 2위다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 '스타워즈: 깨어난 포스'(Star Wars: The Force Awakens)가 연일 신기록을 세우며 신드롬을 일으키고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스타워즈는 미국 캐나다 공식 개봉일인 18일(현지시간) 하루 동안 1억2천50만 달러(1천424억 원) 티켓 판매고를 올렸다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 기존 1위였던 '해리 포터와 죽음의 성물 2부'를 넘어선 기록이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 20일(현지시간) USA 투데이는 영화 배급사 월트 디즈니는 스타워즈 개봉 첫 주말 박스오피스(흥행수익)가 2억3천800만 달러(약 2천818억 원)라고 밝혔다고 보도했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 스타워즈는 공식 개봉 전날인 17일 밤 일부 극장에서 조기 상영을 해 5천700만 달러(674억 원)의 흥행수익을 거뒀다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스타워즈는 20일까지 2억8천만 달러(3천315억 원)에 가까운 성적을 세우며 또 다시 기록 경신에 나설 예정이라고 신문은 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스타워즈는 아울러 영국과 독일, 호주, 브라질 등에서도 첫날 매표 기록을 세웠으며, 20일 한국영화진흥회에 따르면 '스타워즈'의 한국 관객수는 37만 1892명으로, 한국 박스오피스 2위다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'스타워즈 신드롬' 개봉과 동시에 기록 경신…한국에서는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

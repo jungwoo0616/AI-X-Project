@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171940",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정우성·이정재 공동명의로 330억 청담동 빌딩 매입…\\\"사업 확장 목적\\\"",
+    "newsSubTitle": "",
+    "newsContent": "정우성과 이정재가 공동명의로 서울 강남 청담동 빌딩을 330억 원에 매입했다는 보도에 대해 소속사가 입장을 밝혔다.\n25일 이데일리는 정우성과 이정재가 지난 5월 청담동에 위치한 빌딩을 매입했다고 보도했다.\n매입가는 330억 원이고 정우성과 이정재 지분은 각각 50%다.\n해당 보도에 따르면 정우성과 이정재는 각각 약 53억원가량을 부담했고, 223억원은 대출금으로 충당했다.\n해당 보도에 대해 아티스트컴퍼니 측은 뉴스엔에 \\\"영화와 드라마 제작 등 사업 영역을 확장, 다각화하기 위한 것\\\"이라고 밝혔다.\n아티스트컴퍼니는 두 사람이 2016년 공동 설립한 소속사다.\n한편 두 사람은 1999년 개봉한 김성수 감독의 '태양은 없다' 이후 21년 만에 한 작품에서 호흡을 맞춘다.\n이정재의 감독 데뷔작 영화 '헌트'에 두 사람이 모두 출연한다. 2021년 크랭크인이 예정돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정우성과 이정재가 공동명의로 서울 강남 청담동 빌딩을 330억 원에 매입했다는 보도에 대해 소속사가 입장을 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 이데일리는 정우성과 이정재가 지난 5월 청담동에 위치한 빌딩을 매입했다고 보도했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매입가는 330억 원이고 정우성과 이정재 지분은 각각 50%다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 보도에 따르면 정우성과 이정재는 각각 약 53억원가량을 부담했고, 223억원은 대출금으로 충당했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해당 보도에 대해 아티스트컴퍼니 측은 뉴스엔에 \\\"영화와 드라마 제작 등 사업 영역을 확장, 다각화하기 위한 것\\\"이라고 밝혔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아티스트컴퍼니는 두 사람이 2016년 공동 설립한 소속사다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 두 사람은 1999년 개봉한 김성수 감독의 '태양은 없다' 이후 21년 만에 한 작품에서 호흡을 맞춘다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이정재의 감독 데뷔작 영화 '헌트'에 두 사람이 모두 출연한다. 2021년 크랭크인이 예정돼 있다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정우성·이정재 공동명의로 이 건물 매입",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

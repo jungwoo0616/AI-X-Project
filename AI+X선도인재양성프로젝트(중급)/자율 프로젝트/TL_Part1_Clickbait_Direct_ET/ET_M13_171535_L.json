@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171535",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "화사 ‘Bless U’ 시크한 분위기",
+    "newsSubTitle": "",
+    "newsContent": "그룹 마마무 화사가 신보의 수록곡 무드 샘플러를 공개했다.\n화사는 18일 사회적관계망서비스(SNS)를 통해 두 번째 싱글 앨범 ‘Guilty Pleasure’(길티 플레저)의 수록곡 ‘Bless U’(블레스 유) 무드 샘플러와 콘셉트 포토를 선보였다.\n흑백 톤의 영상 속 화사는 레트로 스타일링을 소화한 채 촬영에 몰입한 듯 집중한 모습이다.\n여기에 수록곡 ‘Bless U’의 기타 리프 사운드가 더해져 클래식한 분위기를 높였다.\n함께 공개된 콘셉트 포토에서는 슬릭 헤어스타일링으로 시크한 분위기를 뽐냈으며 자신만의 카리스마 담아내 감탄을 자아냈다.\n이번 신보는 지난해 6월 발매한 ‘Maria’(마리아) 이후 1년 5개월 만의 솔로 앨범으로 화사가 곡 작업에 참여해 진정성을 더했다.\n타이틀곡 ‘I’m a 빛’(암어빛)은 외국 프로듀서진들과 협업한 곡으로 화사가 노랫말을 써 한층 성장한 음악적 역량을 보여줄 전망이다.\n한편 화사의 두 번째 싱글 앨범 ‘Guilty Pleasure’는 오는 24일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 마마무 화사가 신보의 수록곡 무드 샘플러를 공개했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "화사는 18일 사회적관계망서비스(SNS)를 통해 두 번째 싱글 앨범 ‘Guilty Pleasure’(길티 플레저)의 수록곡 ‘Bless U’(블레스 유) 무드 샘플러와 콘셉트 포토를 선보였다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "흑백 톤의 영상 속 화사는 레트로 스타일링을 소화한 채 촬영에 몰입한 듯 집중한 모습이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기에 수록곡 ‘Bless U’의 기타 리프 사운드가 더해져 클래식한 분위기를 높였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "함께 공개된 콘셉트 포토에서는 슬릭 헤어스타일링으로 시크한 분위기를 뽐냈으며 자신만의 카리스마 담아내 감탄을 자아냈다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 신보는 지난해 6월 발매한 ‘Maria’(마리아) 이후 1년 5개월 만의 솔로 앨범으로 화사가 곡 작업에 참여해 진정성을 더했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "타이틀곡 ‘I’m a 빛’(암어빛)은 외국 프로듀서진들과 협업한 곡으로 화사가 노랫말을 써 한층 성장한 음악적 역량을 보여줄 전망이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 화사의 두 번째 싱글 앨범 ‘Guilty Pleasure’는 오는 24일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화사, 진정성 더한 신보... 곡 작업에 직접 참여한 '이 곡'이 타이틀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282249",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김우빈♥신민아, 바쁜 스케줄도 사랑을 막을 순 없다",
+		"newsSubTitle": "",
+		"newsContent": "연예계 대표 커플 배우 김우빈(26)과 신민아(31)이 각자 바쁜 스케줄에도 예쁜 사랑을 키워가고 있다.\n김우빈 측 관계자는 30일 일간스포츠에 \\\"김우빈은 KBS 새 수목극 '함부로 애틋하게' 촬영을 시작했다. 신민아 역시 현재 방영 중인 KBS 월화극 '오 마이 비너스' 촬영으로 바쁘다\\\"면서 \\\"각자 스케줄로 바쁘지만, 변함없는 애정을 자랑하고 있다\\\"고 전했다.\n앞서 김우빈과 신민아의 열애는 최근 방송된 MBC '라디오스타'를 통해 다시금 이목을 집중시켰다.\nMC들이 게스트로 출연한 황미영과 김우빈이 전화 통화를 하자 \\\"연애는 잘하고 있어요?\\\"라고 신민아와의 열애를 언급했던 것. 김우빈은 \\\"네? 잘 안 들립니다\\\"라고 답해 큰 웃음을 안겼던 바 있다.\n한편 김우빈과 신민아는 광고에 함께 출연하며 친분을 이어오다 자연스레 연인 관계로 발전했다.\n지난 7월 데이트 중인 모습이 포착, 열애 사실을 인정하며 연예계 대표 커플로 자리를 잡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연예계 대표 커플 배우 김우빈(26)과 신민아(31)이 각자 바쁜 스케줄에도 예쁜 사랑을 키워가고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김우빈 측 관계자는 30일 일간스포츠에 \\\"김우빈은 KBS 새 수목극 '함부로 애틋하게' 촬영을 시작했다. 신민아 역시 현재 방영 중인 KBS 월화극 '오 마이 비너스' 촬영으로 바쁘다\\\"면서 \\\"각자 스케줄로 바쁘지만, 변함없는 애정을 자랑하고 있다\\\"고 전했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 김우빈과 신민아의 열애는 최근 방송된 MBC '라디오스타'를 통해 다시금 이목을 집중시켰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC들이 게스트로 출연한 황미영과 김우빈이 전화 통화를 하자 \\\"연애는 잘하고 있어요?\\\"라고 신민아와의 열애를 언급했던 것. 김우빈은 \\\"네? 잘 안 들립니다\\\"라고 답해 큰 웃음을 안겼던 바 있다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김우빈과 신민아는 광고에 함께 출연하며 친분을 이어오다 자연스레 연인 관계로 발전했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 7월 데이트 중인 모습이 포착, 열애 사실을 인정하며 연예계 대표 커플로 자리를 잡았다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김우빈♥신민아, 바쁜 스케줄도 사랑을 막을 순 없다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282737",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "34-24-26 이하늬, C컵몸매 비결? \\\"매일 몸무게 체크한다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'이하늬' 이하늬 몸매에 대한 관심이 뜨겁다.\n배우 이하늬는 과거 방송된 tvN '명단공개 2015'에서 시청자가 뽑은 가장 예쁜 몸을 가진 스타 TOP 20에서 4위를 차지했다.\n이하늬는 미스 유니버스 대회 출전 당시 34-24-36의 환상적인 몸매를 자랑해 화제를 모았다.\n이하늬는 아침에는 요거트와 사과, 점심에는 한식 위주, 저녁에는 닭가슴살 샐러드를 즐겨 먹는 것으로 알려졌다.\n또 이하늬는 식단 관리뿐 아니라 필라테스, 발레 등 운동을 병행하는 것으로 알려졌고 한 방송에서 \\\"난 가슴 사이즈가 C컵이다\\\"며 \\\"매일 몸무게 체크를 하는 편이다\\\"고 말했다.\n이외에도 3위는 배우 김사랑, 2위는 배우 전지현, 1위는 배우 김혜수였다. '이하늬' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'이하늬' 이하늬 몸매에 대한 관심이 뜨겁다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 이하늬는 과거 방송된 tvN '명단공개 2015'에서 시청자가 뽑은 가장 예쁜 몸을 가진 스타 TOP 20에서 4위를 차지했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이하늬는 미스 유니버스 대회 출전 당시 34-24-36의 환상적인 몸매를 자랑해 화제를 모았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이하늬는 아침에는 요거트와 사과, 점심에는 한식 위주, 저녁에는 닭가슴살 샐러드를 즐겨 먹는 것으로 알려졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 이하늬는 식단 관리뿐 아니라 필라테스, 발레 등 운동을 병행하는 것으로 알려졌고 한 방송에서 \\\"난 가슴 사이즈가 C컵이다\\\"며 \\\"매일 몸무게 체크를 하는 편이다\\\"고 말했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외에도 3위는 배우 김사랑, 2위는 배우 전지현, 1위는 배우 김혜수였다. '이하늬' 온라인 중앙일보",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "34-24-26 이하늬, C컵몸매 비결? \\\"매일 몸무게 체크한다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

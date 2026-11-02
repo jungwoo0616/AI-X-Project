@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276503",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김종국, 현직 헬스트레이너 출신 전소민 남동생 보더니",
+		"newsSubTitle": "",
+		"newsContent": "‘런닝맨’에 전소민 훈남 동생이 등장했다.\n23일 방송된 SBS '런닝맨' 492회는 7주년 '패밀리 특집'으로 꾸며진 가운데 멤버들이 각자 초대한 '패밀리'와 함께 여름 휴가 레이스를 펼치는 모습이 그려졌다.\n김종국, 송지효, 전소민은 실제 가족을 초대했고, 유재석은 개그맨 조세호, 지석진은 개그맨 김수용, 이광수는 배우 태항호, 하하는 친구 박근식, 양세찬은 에이핑크의 손나은을 초대했다.\n이날 전소민은 남동생을 초대했는데 탄탄한 근육질 몸매와 배우 못지않은 훈남 외모로 등장부터 모두의 시선을 사로잡았다. ‘런닝맨’ 공식 몸짱 김종국도 전소민 남동생의 완벽한 근육 몸매에 연신 감탄했다.\n그는 함께 출연한 멤버들의 ‘패밀리’들 중 자신의 외모 순위를 1위로 꼽았고, 김수용을 꼴찌로 지목해 웃음을 자아냈다.\n전소민 동생 전욱민은 보디빌더 대회에서 여러 차례 수상 경력이 있는 현직 헬스트레이너로 밝혀졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘런닝맨’에 전소민 훈남 동생이 등장했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 방송된 SBS '런닝맨' 492회는 7주년 '패밀리 특집'으로 꾸며진 가운데 멤버들이 각자 초대한 '패밀리'와 함께 여름 휴가 레이스를 펼치는 모습이 그려졌다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김종국, 송지효, 전소민은 실제 가족을 초대했고, 유재석은 개그맨 조세호, 지석진은 개그맨 김수용, 이광수는 배우 태항호, 하하는 친구 박근식, 양세찬은 에이핑크의 손나은을 초대했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 전소민은 남동생을 초대했는데 탄탄한 근육질 몸매와 배우 못지않은 훈남 외모로 등장부터 모두의 시선을 사로잡았다. ‘런닝맨’ 공식 몸짱 김종국도 전소민 남동생의 완벽한 근육 몸매에 연신 감탄했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 함께 출연한 멤버들의 ‘패밀리’들 중 자신의 외모 순위를 1위로 꼽았고, 김수용을 꼴찌로 지목해 웃음을 자아냈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전소민 동생 전욱민은 보디빌더 대회에서 여러 차례 수상 경력이 있는 현직 헬스트레이너로 밝혀졌다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김종국, 현직 헬스트레이너 출신 전소민 남동생 보더니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

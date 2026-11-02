@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273976",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "음콘협 “방탄소년단 병역특례 제외는 차별”",
+		"newsSubTitle": "",
+		"newsContent": "국내 주요 음반제작사 유통사, 해외 직배사로 구성된 사단법인 한국음악콘텐츠협회(음콘협)이 방탄소년단의 병역 특례를 촉구하고 나섰다.\n음콘협은 24일 “순수예술인에 비해 대중문화예술인이 불공정하게 차별 대우를 받고 있다”고 밝혔다.\n음콘협은 지난 18일 반 클라이번 국제피아노콩쿠르에서 우승한 피아니스트 임윤찬이 2019년 만 15세 나이로 윤이상국제음악콩쿠르에서 우승하며 대체복무가 확정된 것을 이에 대한 방증이라고 주장했다.\n현행법상 클래식, 국악 콩쿠르와 같은 순수예술 분야에서 우승할 경우 10대 중반에도 대체 복무 대상이 될 수 있다.\n대중문화예술인의 경우 국가에서 공을 인정받고 훈·포장을 수여받아도 병역 연기만을 받을 수 있다.\n음콘협 최광호 사무총장은 “예술·체육요원에 대한 병역특례 조항은 1973년 국가 인지도 향상을 위해 ‘국위선양’ 및 ‘문화창달’을 목적으로 최초 도입된 것”이라며 “대중문화예술인은 유수의 글로벌 시상식 및 해외 차트에서 활약하고 UN 총회 참석, 백악관 입성 등 국위선양의 역사를 쓰고 있음에도 그 대상이 되지 못했다”고 했다.\n그러면서 “애초에 예술분야에서 대중문화예술인을 제외시킨 것 자체가 문제”라며 “최근 반도체 전문 인력에 대한 병역특례 확대는 검토하고 있어 대중문화예술인에 대한 차별 논란은 지속적으로 거론되고 있다”고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 주요 음반제작사 유통사, 해외 직배사로 구성된 사단법인 한국음악콘텐츠협회(음콘협)이 방탄소년단의 병역 특례를 촉구하고 나섰다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "음콘협은 24일 “순수예술인에 비해 대중문화예술인이 불공정하게 차별 대우를 받고 있다”고 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "음콘협은 지난 18일 반 클라이번 국제피아노콩쿠르에서 우승한 피아니스트 임윤찬이 2019년 만 15세 나이로 윤이상국제음악콩쿠르에서 우승하며 대체복무가 확정된 것을 이에 대한 방증이라고 주장했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현행법상 클래식, 국악 콩쿠르와 같은 순수예술 분야에서 우승할 경우 10대 중반에도 대체 복무 대상이 될 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대중문화예술인의 경우 국가에서 공을 인정받고 훈·포장을 수여받아도 병역 연기만을 받을 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "음콘협 최광호 사무총장은 “예술·체육요원에 대한 병역특례 조항은 1973년 국가 인지도 향상을 위해 ‘국위선양’ 및 ‘문화창달’을 목적으로 최초 도입된 것”이라며 “대중문화예술인은 유수의 글로벌 시상식 및 해외 차트에서 활약하고 UN 총회 참석, 백악관 입성 등 국위선양의 역사를 쓰고 있음에도 그 대상이 되지 못했다”고 했다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러면서 “애초에 예술분야에서 대중문화예술인을 제외시킨 것 자체가 문제”라며 “최근 반도체 전문 인력에 대한 병역특례 확대는 검토하고 있어 대중문화예술인에 대한 차별 논란은 지속적으로 거론되고 있다”고 강조했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "음콘협 “방탄소년단 병역특례 제외는 차별”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

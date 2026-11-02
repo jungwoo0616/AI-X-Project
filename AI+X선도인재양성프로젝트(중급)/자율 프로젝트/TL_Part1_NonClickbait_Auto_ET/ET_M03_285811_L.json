@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285811",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "고객 갑질 논란, 고개 숙인채 무릎 꿇은 직원들 영상공개 논란",
+		"newsSubTitle": "",
+		"newsContent": "인천 대형 백화점에서 점원 2명이 바닥에 무릎을 꿇고 고객에게 사과하는 영상이 공개돼 논란이 되고 있다.\nSNS 등에 올라 온 이 영상은 지난 16일 오후 3시 신세계백화점 인천점에서 한 고객이 찍었다.\n영상에서는 여성 고객 A씨가 주머니에 손을 넣고 다리를 꼬은 채 의자에 앉아 애프터서비스(AS) 문제로 점원들을 다그쳤다.\n점원들은 무릎을 꿇은 채 두 손을 가지런히 모으고 고개를 들지 못했다.\n현장에 출동한 인천 남동경찰서 문학지구대에 따르면 A씨의 어머니가 백화점을 찾아 7~8년 전 20만원을 주고 산 목걸이와 팔찌의 AS를 요청했다.\n이에 점원들은 “품질보증서도 없고 기간이 오래돼 수리하면 고객이 80%를 부담해야 한다\\\"고 설명했다.\nA씨 어머니는 그냥 되돌아갔다.\n이후 A씨는 16일 오후 3시쯤 매장을 방문해“직원들이 어머니에게 모욕감을 주고 안 좋은 조리를 했다.\n본사에서 무료로 AS해 준다고 했다”고 따졌다.\n이때 직원들이“무릎 꿇고 사과하면 되겠느냐”며 스스로 무릎을 꿇었다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인천 대형 백화점에서 점원 2명이 바닥에 무릎을 꿇고 고객에게 사과하는 영상이 공개돼 논란이 되고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SNS 등에 올라 온 이 영상은 지난 16일 오후 3시 신세계백화점 인천점에서 한 고객이 찍었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에서는 여성 고객 A씨가 주머니에 손을 넣고 다리를 꼬은 채 의자에 앉아 애프터서비스(AS) 문제로 점원들을 다그쳤다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "점원들은 무릎을 꿇은 채 두 손을 가지런히 모으고 고개를 들지 못했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현장에 출동한 인천 남동경찰서 문학지구대에 따르면 A씨의 어머니가 백화점을 찾아 7~8년 전 20만원을 주고 산 목걸이와 팔찌의 AS를 요청했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 점원들은 “품질보증서도 없고 기간이 오래돼 수리하면 고객이 80%를 부담해야 한다\\\"고 설명했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "A씨 어머니는 그냥 되돌아갔다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 A씨는 16일 오후 3시쯤 매장을 방문해“직원들이 어머니에게 모욕감을 주고 안 좋은 조리를 했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "본사에서 무료로 AS해 준다고 했다”고 따졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이때 직원들이“무릎 꿇고 사과하면 되겠느냐”며 스스로 무릎을 꿇었다고 밝혔다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고객 갑질 논란, 고개 숙인채 무릎 꿇은 직원들 영상공개 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

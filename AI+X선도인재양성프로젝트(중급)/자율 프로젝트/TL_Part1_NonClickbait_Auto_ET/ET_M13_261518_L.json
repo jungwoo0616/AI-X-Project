@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261518",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이규혁, 혼전임신설 부인 “결혼 후 아이 계획”",
+		"newsSubTitle": "",
+		"newsContent": "전 스피드스케이팅 선수 이규혁이 손담비와 혼전임신설을 부인했다.\n이규혁은 지난 19일 방송된 채널 IHQ ‘은밀한 뉴스룸’에 출연해 이상화 선수와의 일화, 피겨와 스피드 스케이팅의 차이점, 선수촌 생활 등에 대해 얘기했다.\n이규혁은 5월 가수 손담비와의 결혼을 앞두고 불거진 ‘혼전임신설’을 부인하며 “결혼 후에 아이를 갖길 계획하고 있다”고 말했다.\n한편, 손담비와 이규혁은 오는 5월 13일 결혼식을 올릴 예정이다.\n손담비는 지난 1월 25일 자신의 SNS에 “함께 있으면 가장 나다운 모습이 되는 사람과 5월 결혼한다”면서“결혼 후에도 꾸준히 활동하면서 좋은 모습 보여드리고, 여러분과 소통하는 손담비가 되겠다”고 말했다.\n갑작스러운 두 사람의 결혼 소식에 ‘혼전임신설’이 돌았다.\n손담비는 공개 열애 후 두 사람이 함께 운동하는 사진을 올리는가 하면, 커플티셔츠를 입고 키스하는 모습을 공개하는 등 애정표현을 아끼지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 스피드스케이팅 선수 이규혁이 손담비와 혼전임신설을 부인했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이규혁은 지난 19일 방송된 채널 IHQ ‘은밀한 뉴스룸’에 출연해 이상화 선수와의 일화, 피겨와 스피드 스케이팅의 차이점, 선수촌 생활 등에 대해 얘기했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이규혁은 5월 가수 손담비와의 결혼을 앞두고 불거진 ‘혼전임신설’을 부인하며 “결혼 후에 아이를 갖길 계획하고 있다”고 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편, 손담비와 이규혁은 오는 5월 13일 결혼식을 올릴 예정이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손담비는 지난 1월 25일 자신의 SNS에 “함께 있으면 가장 나다운 모습이 되는 사람과 5월 결혼한다”면서“결혼 후에도 꾸준히 활동하면서 좋은 모습 보여드리고, 여러분과 소통하는 손담비가 되겠다”고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "갑작스러운 두 사람의 결혼 소식에 ‘혼전임신설’이 돌았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손담비는 공개 열애 후 두 사람이 함께 운동하는 사진을 올리는가 하면, 커플티셔츠를 입고 키스하는 모습을 공개하는 등 애정표현을 아끼지 않았다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이규혁, 혼전임신설 부인 “결혼 후 아이 계획”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278034",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'가화만사성' 김소연 웨딩드레스 자태, 이상욱 아내 되나?",
+		"newsSubTitle": "",
+		"newsContent": "김소연의 웨딩드레스 모습이 포착됐다.\n배우 김소연의 소속사 나무엑터스는 공식 페이스북에 MBC 주말드라마 ‘가화만사성’ 촬영 사진을 게재했다. ‘가화만사성’에서 김소연은 여주인공 봉해령 역을 맡아 열연을 펼치고 있다.\n지난 39회 방송 분에서는 시한부 선고를 받은 전 남편 현기(이필모 분)의 애절한 부탁과 전 시어머니 장경옥(서이숙 분)의 방해에도 불구하고 지건(이상우 분)과 결혼을 결심하는 해령의 이야기가 그려져 관심을 모았다.\n특히 방송 말미 예고에서는 그동안 수 많은 장애물이 있었던 해령에게 아버지 봉삼봉(김영철 분)이 한 달 안에 결혼을 하라고 허락하는 장면이 담겨있어 어떤 전개가 펼쳐질지 호기심을 증폭시켰다.\n김소연은 50부작의 긴 호흡 드라마에서 초반에는 아들을 잃은 깊은 슬픔부터 남편의 외도를 목격한 참담함까지 섬세한 감정 연기로 박수를 받았다면, 중반 부가 지나면서는 지건과의 알콩달콩한 로맨스도 완벽히 소화하며 호평 받고 있다.\nMBC 주말드라마 ‘가화만사성’은 매주 주말 오후 8시 45분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김소연의 웨딩드레스 모습이 포착됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 김소연의 소속사 나무엑터스는 공식 페이스북에 MBC 주말드라마 ‘가화만사성’ 촬영 사진을 게재했다. ‘가화만사성’에서 김소연은 여주인공 봉해령 역을 맡아 열연을 펼치고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 39회 방송 분에서는 시한부 선고를 받은 전 남편 현기(이필모 분)의 애절한 부탁과 전 시어머니 장경옥(서이숙 분)의 방해에도 불구하고 지건(이상우 분)과 결혼을 결심하는 해령의 이야기가 그려져 관심을 모았다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 방송 말미 예고에서는 그동안 수 많은 장애물이 있었던 해령에게 아버지 봉삼봉(김영철 분)이 한 달 안에 결혼을 하라고 허락하는 장면이 담겨있어 어떤 전개가 펼쳐질지 호기심을 증폭시켰다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김소연은 50부작의 긴 호흡 드라마에서 초반에는 아들을 잃은 깊은 슬픔부터 남편의 외도를 목격한 참담함까지 섬세한 감정 연기로 박수를 받았다면, 중반 부가 지나면서는 지건과의 알콩달콩한 로맨스도 완벽히 소화하며 호평 받고 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "MBC 주말드라마 ‘가화만사성’은 매주 주말 오후 8시 45분에 방송된다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가화만사성' 김소연 웨딩드레스 자태, 이상욱 아내 되나?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

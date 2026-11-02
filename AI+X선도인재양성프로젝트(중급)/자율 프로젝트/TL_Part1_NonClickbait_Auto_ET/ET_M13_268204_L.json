@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268204",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박군♥한영, 오늘(26일) 결혼",
+		"newsSubTitle": "",
+		"newsContent": "가수 박군과 가수 겸 배우 한영이 26일 서울 모처에서 결혼식을 올린다.\n비공개 스몰웨딩 형식으로 두 사람은 양가 어른과 친지들 앞에서 백년가약을 맺는다.\n박군과 한영은 지난해 SBS FiL 프로그램 ‘당신의 일상을 밝히는가’에서 MC로 활동하며 연인으로 발전했다.\n두 사람은 지난 2월 열애 소식이 보도된 후 직접 결혼 소식을 알렸다.\n박군은 지난달 7일 “짧은 연예인 생활 동안 많은 사랑과 기회가 주어져 앞만 보고 달렸지만, 흔들릴 때마다 옆에서 잡아주고 위로해주던 한영과 예쁜 사랑을 키워나가게 됐다”며 “앞으로 더욱더 성실하고 책임감 있게 활동하겠다”고 밝혔다.\n한영 또한 “저희는 사실 결혼 소식을 준비하고 있었다”며 “동료로 만나 힘들고 아픈 시간을 서로 격려하고 위로하며 연인이 됐고 이제 가족이 돼 서로를 아껴주고 지켜주고자 한다”고 전했다.\n박군은 2019년 ‘한잔해’로 데뷔한 트로트 가수로 SBS 예능 프로그램 ‘트롯신이 떴다2’ 준결승에 진출해 얼굴을 알렸다.\n현재는 채널A ‘강철부대’, SBS ‘미운 우리 새끼’ 등 예능 프로그램에서 활약하고 있다.\n한영은 1998년 슈퍼모델 선발대회 출신으로 2005년 트로트 그룹 LPG로 데뷔했다.\n2010년 이후로는 배우로 전향해 여러 드라마에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박군과 가수 겸 배우 한영이 26일 서울 모처에서 결혼식을 올린다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비공개 스몰웨딩 형식으로 두 사람은 양가 어른과 친지들 앞에서 백년가약을 맺는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박군과 한영은 지난해 SBS FiL 프로그램 ‘당신의 일상을 밝히는가’에서 MC로 활동하며 연인으로 발전했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 지난 2월 열애 소식이 보도된 후 직접 결혼 소식을 알렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박군은 지난달 7일 “짧은 연예인 생활 동안 많은 사랑과 기회가 주어져 앞만 보고 달렸지만, 흔들릴 때마다 옆에서 잡아주고 위로해주던 한영과 예쁜 사랑을 키워나가게 됐다”며 “앞으로 더욱더 성실하고 책임감 있게 활동하겠다”고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한영 또한 “저희는 사실 결혼 소식을 준비하고 있었다”며 “동료로 만나 힘들고 아픈 시간을 서로 격려하고 위로하며 연인이 됐고 이제 가족이 돼 서로를 아껴주고 지켜주고자 한다”고 전했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박군은 2019년 ‘한잔해’로 데뷔한 트로트 가수로 SBS 예능 프로그램 ‘트롯신이 떴다2’ 준결승에 진출해 얼굴을 알렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재는 채널A ‘강철부대’, SBS ‘미운 우리 새끼’ 등 예능 프로그램에서 활약하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한영은 1998년 슈퍼모델 선발대회 출신으로 2005년 트로트 그룹 LPG로 데뷔했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2010년 이후로는 배우로 전향해 여러 드라마에 출연했다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박군♥한영, 오늘(26일) 결혼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

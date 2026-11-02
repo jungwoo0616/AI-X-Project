@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264632",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단 ‘Her’허허 웃지요",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 미국 빌보드 차트에서 꾸준한 인기를 얻고 있다.\n미국 음악 전문 매체 빌보드가 22일(현지시간) 발표한 최신 차트(3월 26일 자)에 따르면, 방탄소년단이 지난 2017년 9월 발매한 LOVE YOURSELF 承 ‘Her’ 앨범이 ‘톱 앨범 세일즈’ 차트에 40위로 재진입했다.\n이 앨범은 발매된 지 4년 반이 지났음에도 여전히 차트에 오르며 인기를 과시했다.\n방탄소년단이 콜드플레이와 협업해 작년 9월 24일 발매한 ‘My Universe’는 ‘빌보드 글로벌(미국 제외)’ 25위와 ‘빌보드 글로벌 200’ 37위를 차지, 두 차트에서 25주 연속 상위권을 유지했다.\n두 차트는 전 세계 200개 이상 국가/지역의 스트리밍과 판매량을 집계해 순위를 매긴다. ‘My Universe’는 이외에도 ‘핫 얼터너티브 송’ 14위, ‘얼터너티브 디지털 송 세일즈’ 15위, ‘록 디지털 송 세일즈’ 25위, ‘빌보드 캐나다 AC’ 16위를 기록했다.\n방탄소년단은 ‘빌보드 글로벌 200’과 ‘빌보드 글로벌(미국 제외)’ 에 ‘My Universe’를 포함해 4곡씩 순위에 올렸다. ‘빌보드 글로벌 200’ 차트에서 ‘Butter’가 45위, ‘Dynamite’가 47위, ‘Permission to Dance’가 132위를 차지했고, ‘빌보드 글로벌(미국 제외)’ 차트에서는 ‘Butter’가 32위, ‘Dynamite’가 34위, ‘Permission to Dance’가 67위에 자리했다.\n한편, 방탄소년단은 내달 3일 미국 라스베이거스에서 개최되는 미국 최고 권위의 대중음악 시상식 ‘그래미 어워드(GRAMMY AWARDS)’에서 3년 연속 공연을 펼친다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 미국 빌보드 차트에서 꾸준한 인기를 얻고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 음악 전문 매체 빌보드가 22일(현지시간) 발표한 최신 차트(3월 26일 자)에 따르면, 방탄소년단이 지난 2017년 9월 발매한 LOVE YOURSELF 承 ‘Her’ 앨범이 ‘톱 앨범 세일즈’ 차트에 40위로 재진입했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 앨범은 발매된 지 4년 반이 지났음에도 여전히 차트에 오르며 인기를 과시했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방탄소년단이 콜드플레이와 협업해 작년 9월 24일 발매한 ‘My Universe’는 ‘빌보드 글로벌(미국 제외)’ 25위와 ‘빌보드 글로벌 200’ 37위를 차지, 두 차트에서 25주 연속 상위권을 유지했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 차트는 전 세계 200개 이상 국가/지역의 스트리밍과 판매량을 집계해 순위를 매긴다. ‘My Universe’는 이외에도 ‘핫 얼터너티브 송’ 14위, ‘얼터너티브 디지털 송 세일즈’ 15위, ‘록 디지털 송 세일즈’ 25위, ‘빌보드 캐나다 AC’ 16위를 기록했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방탄소년단은 ‘빌보드 글로벌 200’과 ‘빌보드 글로벌(미국 제외)’ 에 ‘My Universe’를 포함해 4곡씩 순위에 올렸다. ‘빌보드 글로벌 200’ 차트에서 ‘Butter’가 45위, ‘Dynamite’가 47위, ‘Permission to Dance’가 132위를 차지했고, ‘빌보드 글로벌(미국 제외)’ 차트에서는 ‘Butter’가 32위, ‘Dynamite’가 34위, ‘Permission to Dance’가 67위에 자리했다.",
+				"sentenceSize": 247
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 방탄소년단은 내달 3일 미국 라스베이거스에서 개최되는 미국 최고 권위의 대중음악 시상식 ‘그래미 어워드(GRAMMY AWARDS)’에서 3년 연속 공연을 펼친다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 ‘Her’허허 웃지요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274121",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오늘은 비아이X츄 ‘자장가’ 듣는 날",
+		"newsSubTitle": "",
+		"newsContent": "가수 비아이(B.I)와 츄가 달콤한 듀엣송으로 찾아온다.\n오늘(27일) 비아이와 츄의 듀엣곡 ‘자장가’의 음원과 라이브 클립 영상이 딩고를 통해 공개된다.\n앞서 딩고는 지난 23일 비아이와 츄의 사진을 공개하며 둘의 듀엣곡을 예고했다.\n두 사람의 컬래버 소식은 음원 발매 전부터 음악 팬들의 뜨거운 관심을 한 몸에 받았다. ‘자장가’는 사랑하는 사람과 하는 통화에서 느끼는 자장가 같은 노래로, 많은 사람들이 이 노래를 듣고 달콤한 꿈을 꾸길 바라며 만들어진 곡이다.\n특히 “하늘 끝자락의 오로라, 춤추는 구름은 연보라”와 같은 가사는 마치 동화 속의 한 장면같은 느낌을 주며 달콤한 느낌을 배가시켰다.\n독보적인 음색으로 감성을 자극하는 비아이와 부드러운 가창력과 음색의 소유자 츄가 어떤 음악으로 리스너들의 마음을 달콤하게 물들일지 기대가 모아진다.\n비아이와 츄의 듀엣곡 ‘자장가’의 음원과 라이브 클립 영상은 27일 오후 6시 딩고 공식 유튜브 채널과 각종 음원 사이트에서 만날 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 비아이(B.I)와 츄가 달콤한 듀엣송으로 찾아온다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(27일) 비아이와 츄의 듀엣곡 ‘자장가’의 음원과 라이브 클립 영상이 딩고를 통해 공개된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 딩고는 지난 23일 비아이와 츄의 사진을 공개하며 둘의 듀엣곡을 예고했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람의 컬래버 소식은 음원 발매 전부터 음악 팬들의 뜨거운 관심을 한 몸에 받았다. ‘자장가’는 사랑하는 사람과 하는 통화에서 느끼는 자장가 같은 노래로, 많은 사람들이 이 노래를 듣고 달콤한 꿈을 꾸길 바라며 만들어진 곡이다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 “하늘 끝자락의 오로라, 춤추는 구름은 연보라”와 같은 가사는 마치 동화 속의 한 장면같은 느낌을 주며 달콤한 느낌을 배가시켰다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "독보적인 음색으로 감성을 자극하는 비아이와 부드러운 가창력과 음색의 소유자 츄가 어떤 음악으로 리스너들의 마음을 달콤하게 물들일지 기대가 모아진다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "비아이와 츄의 듀엣곡 ‘자장가’의 음원과 라이브 클립 영상은 27일 오후 6시 딩고 공식 유튜브 채널과 각종 음원 사이트에서 만날 수 있다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오늘은 비아이X츄 ‘자장가’ 듣는 날",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

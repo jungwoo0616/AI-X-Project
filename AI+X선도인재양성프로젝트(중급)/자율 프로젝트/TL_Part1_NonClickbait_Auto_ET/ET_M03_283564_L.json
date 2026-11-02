@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283564",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "화려한유혹 김호진, 차예련 이혼 서류 발견하고 '폭풍분노'",
+		"newsSubTitle": "",
+		"newsContent": "화려한유혹 김호진 화려한 유혹 김호진이 극중 아내 역을 맡은 차예련이 이혼준비를 하고 있다는 사실을 알았다.\n최근 방영된 MBC 월화드라마 ‘화려한 유혹’에서는 권무혁(김호진 분)이 강일주(차예련 분)가 작성한 이혼 서류를 발견했다.\n이날 권무혁은 앞서 강일주가 옷장 앞에서 뭔가 감추는 것을 확인한 후 강일주가 없는 틈을 타 옷장을 뒤졌다.\n여기저기를 뒤진 결과 끝에 권무혁은 이혼 서류를 발견했다.\n김호진은 분노하며 아버지 권수명(김창완 분)을 찾아갔다.\n그는 “일주와 이혼하면, 아버지가 나에게 간첩 질 시킨 것 다 공개할 것”이라고 선전포고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "화려한유혹 김호진 화려한 유혹 김호진이 극중 아내 역을 맡은 차예련이 이혼준비를 하고 있다는 사실을 알았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 방영된 MBC 월화드라마 ‘화려한 유혹’에서는 권무혁(김호진 분)이 강일주(차예련 분)가 작성한 이혼 서류를 발견했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 권무혁은 앞서 강일주가 옷장 앞에서 뭔가 감추는 것을 확인한 후 강일주가 없는 틈을 타 옷장을 뒤졌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기저기를 뒤진 결과 끝에 권무혁은 이혼 서류를 발견했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김호진은 분노하며 아버지 권수명(김창완 분)을 찾아갔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “일주와 이혼하면, 아버지가 나에게 간첩 질 시킨 것 다 공개할 것”이라고 선전포고했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화려한유혹 김호진, 차예련 이혼 서류 발견하고 '폭풍분노'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

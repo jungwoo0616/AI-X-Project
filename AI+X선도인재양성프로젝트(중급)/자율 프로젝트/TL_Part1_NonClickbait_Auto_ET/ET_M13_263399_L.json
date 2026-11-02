@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263399",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘음원 강자’ 윤하, 리패키지 앨범 프리뷰 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 윤하가 리패키지 앨범 예약 판매를 시작한다.\n윤하는 10일 오후 3시부터 각종 음반 판매 사이트를 통해 정규 6집 리패키지 앨범 ‘END THEORY : Final Edition(엔드 띠어리 : 파이널 에디션)’의 예약 판매를 오픈한다.\n이에 앞서 윤하는 지난 9일 공식 유튜브 채널을 통해 신보의 Inst. 프리뷰 영상을 공개하며 컴백 기대감을 고조시켰다.\n영상에는 리패키지 앨범에 새롭게 수록된 ‘살별’, ‘사건의 지평선’, ‘Black hole(블랙홀)’ 등 세 곡의 연주 음악 일부가 담겨있다. ‘END THEORY : Final Edition’은 지난해 11월 발매한 정규 6집 ‘END THEORY(엔드 띠어리)’에 수록된 11개 트랙에 세 개의 신곡을 더해 정규 6집의 세계관을 총망라한 앨범이다.\n타이틀곡 ‘사건의 지평선’은 블랙홀의 경계인 사건의 지평선, 예측되지 않는 이별 그 너머의 이야기를 그린다.\n한편, 윤하의 정규 6집 리패키지 앨범 ‘END THEORY : Final Edition’은 30일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 윤하가 리패키지 앨범 예약 판매를 시작한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤하는 10일 오후 3시부터 각종 음반 판매 사이트를 통해 정규 6집 리패키지 앨범 ‘END THEORY : Final Edition(엔드 띠어리 : 파이널 에디션)’의 예약 판매를 오픈한다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 앞서 윤하는 지난 9일 공식 유튜브 채널을 통해 신보의 Inst. 프리뷰 영상을 공개하며 컴백 기대감을 고조시켰다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상에는 리패키지 앨범에 새롭게 수록된 ‘살별’, ‘사건의 지평선’, ‘Black hole(블랙홀)’ 등 세 곡의 연주 음악 일부가 담겨있다. ‘END THEORY : Final Edition’은 지난해 11월 발매한 정규 6집 ‘END THEORY(엔드 띠어리)’에 수록된 11개 트랙에 세 개의 신곡을 더해 정규 6집의 세계관을 총망라한 앨범이다.",
+				"sentenceSize": 196
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘사건의 지평선’은 블랙홀의 경계인 사건의 지평선, 예측되지 않는 이별 그 너머의 이야기를 그린다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 윤하의 정규 6집 리패키지 앨범 ‘END THEORY : Final Edition’은 30일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘음원 강자’ 윤하, 리패키지 앨범 프리뷰 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

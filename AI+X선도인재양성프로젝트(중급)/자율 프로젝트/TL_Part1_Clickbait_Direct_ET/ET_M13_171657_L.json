@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171657",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘해군병장’ 박보검, 이발사 자격증 취득",
+    "newsSubTitle": "",
+    "newsContent": "배우 박보검이 자기 개발에 성공했다.\n군 관계자는 2일 “박보검 병장이 지난해 12월 국가기술자격검정인 이용기능사(이발사) 실기시험에 합격한 것으로 안다”고 밝혔다.\n박보검은 시험 합격 전 동료 병사들의 이발을 해준 것으로도 알려졌다.\n군에서는 병사들의 자기 개발의 일환으로 다양한 분야의 자격증 취득을 권장하고 있다.\n계룡대에서 복무 중인 박보검은 자신의 연차 휴가를 소진해 진해 해군 교육사령부에서 시험을 치른 것으로 전해졌다.\n박보검은 재작년 해군 군악·의장대대 문화홍보병 건반 파트에 지원해 실기 및 면접시험을 거쳐 합격해 같은해 8월부터 군 복무를 시작했다.\n그의 전역 예정일은 오는 4월 30일이다.\n박보검은 최근 해군 홍보 영상에 출연해 건반병으로 활동하고 있는 근황을 알리기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박보검이 자기 개발에 성공했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "군 관계자는 2일 “박보검 병장이 지난해 12월 국가기술자격검정인 이용기능사(이발사) 실기시험에 합격한 것으로 안다”고 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박보검은 시험 합격 전 동료 병사들의 이발을 해준 것으로도 알려졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "군에서는 병사들의 자기 개발의 일환으로 다양한 분야의 자격증 취득을 권장하고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "계룡대에서 복무 중인 박보검은 자신의 연차 휴가를 소진해 진해 해군 교육사령부에서 시험을 치른 것으로 전해졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박보검은 재작년 해군 군악·의장대대 문화홍보병 건반 파트에 지원해 실기 및 면접시험을 거쳐 합격해 같은해 8월부터 군 복무를 시작했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그의 전역 예정일은 오는 4월 30일이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박보검은 최근 해군 홍보 영상에 출연해 건반병으로 활동하고 있는 근황을 알리기도 했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 박보검, 이곳에서 이발사 자격증 취득한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274461",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지드래곤 “세계관 충돌아냐?” 셀카 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅의 지드래곤(권지용)이 근황을 공개했다.\n지드래곤은 1일 자신의 사회관계망서비스(SNS)를 통해 자신의 사진 여러 장을 공개했다.\n사진 속 지드래곤은 ‘제 인생의 일부가 아니라 전부가 되어주세요’라는 문구가 적힌 필터를 적용해 장난스러운 표정을 짓는가 하면, 안경을 쓴 채 무심하게 카메라를 바라보고 있다.\n지드래곤은 최근 자신의 인스타그램을 통해 다양한 콘셉트의 셀카를 공개하며 화제가 되었다.\n누리꾼들은 온라인 커뮤니티를 통해 “지드래곤이 이런 대사라니 세계관 충돌같다” “요새 인스타 자주해서 너무 좋다” “너무 귀엽다” 등의 반응을 보이며 그의 근황을 반겼다.\n한편 지드래곤은 지난 4월 빅뱅 완전체로 곡 ‘봄여름가을겨울’을 발표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅의 지드래곤(권지용)이 근황을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지드래곤은 1일 자신의 사회관계망서비스(SNS)를 통해 자신의 사진 여러 장을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 지드래곤은 ‘제 인생의 일부가 아니라 전부가 되어주세요’라는 문구가 적힌 필터를 적용해 장난스러운 표정을 짓는가 하면, 안경을 쓴 채 무심하게 카메라를 바라보고 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지드래곤은 최근 자신의 인스타그램을 통해 다양한 콘셉트의 셀카를 공개하며 화제가 되었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 온라인 커뮤니티를 통해 “지드래곤이 이런 대사라니 세계관 충돌같다” “요새 인스타 자주해서 너무 좋다” “너무 귀엽다” 등의 반응을 보이며 그의 근황을 반겼다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지드래곤은 지난 4월 빅뱅 완전체로 곡 ‘봄여름가을겨울’을 발표했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지드래곤 “세계관 충돌아냐?” 셀카 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

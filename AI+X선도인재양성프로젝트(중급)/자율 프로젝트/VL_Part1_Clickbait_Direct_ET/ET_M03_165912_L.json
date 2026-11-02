@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165912",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] '스노든' 그가 미국 정부의 진실을 폭로하기까지",
+    "newsSubTitle": "[매거진M] '스노든' 리뷰",
+    "newsContent": "스노든감독 올리버 스톤 출연 조셉 고든 레빗, 셰일린 우들리, 멜리사 레오 장르 전기, 드라마, 스릴러 상영 시간 134분 등급 15세 관람가 개봉일 2월 9일 줄거리 정치적으로 보수적인 성향의 에드워드 스노든(조셉 고든 레빗)은 2006년 CIA(미국중앙정보국)에 입사한다.\n이후 NSA(미국국가안보국)의 정보 분석원으로 일하던 그는 점차 미국 정부가 테러 방지라는 명목 아래 비윤리적인 일을 하고 있다는 사실을 알게 된다.\n★★★ 스노든은 2013년 미국 정부가 개인 정보를 무차별 수집하고 있다는 사실을 폭로해 전 세계적 파장을 일으킨 인물이다.\n이 영화는 애국심 넘치던 청년인 그가 CIA와 NSA에서 어떤 사건을 거쳐 미국 정부의 위선을 깨닫고, 그 과정에서 어떤 혼란을 겪었는지 그려 보인다.\n그 묘사가 꽤 상세하긴 하지만 극적 재미를 찾긴 힘들다.\n그 점이, 이토록 중대한 문제를 장르영화의 재미로 포장해서는 안 된다는 의지처럼 보이는 동시에, 극영화의 전략적 실패로 느껴지기도 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스노든감독 올리버 스톤 출연 조셉 고든 레빗, 셰일린 우들리, 멜리사 레오 장르 전기, 드라마, 스릴러 상영 시간 134분 등급 15세 관람가 개봉일 2월 9일 줄거리 정치적으로 보수적인 성향의 에드워드 스노든(조셉 고든 레빗)은 2006년 CIA(미국중앙정보국)에 입사한다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이후 NSA(미국국가안보국)의 정보 분석원으로 일하던 그는 점차 미국 정부가 테러 방지라는 명목 아래 비윤리적인 일을 하고 있다는 사실을 알게 된다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "★★★ 스노든은 2013년 미국 정부가 개인 정보를 무차별 수집하고 있다는 사실을 폭로해 전 세계적 파장을 일으킨 인물이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 영화는 애국심 넘치던 청년인 그가 CIA와 NSA에서 어떤 사건을 거쳐 미국 정부의 위선을 깨닫고, 그 과정에서 어떤 혼란을 겪었는지 그려 보인다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 묘사가 꽤 상세하긴 하지만 극적 재미를 찾긴 힘들다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 점이, 이토록 중대한 문제를 장르영화의 재미로 포장해서는 안 된다는 의지처럼 보이는 동시에, 극영화의 전략적 실패로 느껴지기도 한다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미국 정부, 테러 방지를 내세운 킹받는 얌체짓?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

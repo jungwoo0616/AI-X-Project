@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283228",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "라디오스타 이상훈, 최시원과 전화통화… “잘 다녀오겠습니다”",
+		"newsSubTitle": "",
+		"newsContent": "라디오스타 이상훈, 최시원과 전화통화… “잘 다녀오겠습니다” 입대를 앞둔 최시원이 '라디오스타'를 통해 시청자들에게 인사를 전했다.\n18일 방송된 MBC '라디오스타'는 '대국민에게 고하는 미안합니다' 특집으로 꾸며져 김상혁, 미나, 이상훈, 이민웅이 출연했다.\n이날 이상훈은 “‘그녀는 예뻤다’에서 최시원 씨와 호흡을 맞췄는데 전화할 정도로 친하느냐”는 MC들의 물음에 “전화번호는 안다”고 답했다.\n이어 “전화도 가끔, 2번 정도 했다. 너무 떨린다”며 최시원과의 전화 통화를 시도했다.\n전화를 받은 최시원은 “상훈이 형이라며, 스피커폰인거 보니 방송인 것 같다. 방송이라 너무 어색한 것 같다. 우리 원래 친하지 않냐”고 답했다.\n이어 최시원은 시청자들에게 인사를 해달라는 요청에 \\\"시청자 여러분 날씨가 많이 추워지고 있는데 건강 유의하시고 행복한 일만 가득하길 바란다. 잘 다녀오겠다\\\"고 전했다.\n한편 최시원은 오늘(19일) 최강창민과 함께 입대해 의경으로 군복무를 할 예정이다. ‘라디오스타 최시원’ ‘라디오스타 최시원’ 온라인 중앙일보 [사진 MBC ‘라디오스타’ 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "라디오스타 이상훈, 최시원과 전화통화… “잘 다녀오겠습니다” 입대를 앞둔 최시원이 '라디오스타'를 통해 시청자들에게 인사를 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 방송된 MBC '라디오스타'는 '대국민에게 고하는 미안합니다' 특집으로 꾸며져 김상혁, 미나, 이상훈, 이민웅이 출연했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이상훈은 “‘그녀는 예뻤다’에서 최시원 씨와 호흡을 맞췄는데 전화할 정도로 친하느냐”는 MC들의 물음에 “전화번호는 안다”고 답했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “전화도 가끔, 2번 정도 했다. 너무 떨린다”며 최시원과의 전화 통화를 시도했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전화를 받은 최시원은 “상훈이 형이라며, 스피커폰인거 보니 방송인 것 같다. 방송이라 너무 어색한 것 같다. 우리 원래 친하지 않냐”고 답했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 최시원은 시청자들에게 인사를 해달라는 요청에 \\\"시청자 여러분 날씨가 많이 추워지고 있는데 건강 유의하시고 행복한 일만 가득하길 바란다. 잘 다녀오겠다\\\"고 전했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 최시원은 오늘(19일) 최강창민과 함께 입대해 의경으로 군복무를 할 예정이다. ‘라디오스타 최시원’ ‘라디오스타 최시원’ 온라인 중앙일보 [사진 MBC ‘라디오스타’ 캡처]",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라디오스타 이상훈, 최시원과 전화통화… “잘 다녀오겠습니다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

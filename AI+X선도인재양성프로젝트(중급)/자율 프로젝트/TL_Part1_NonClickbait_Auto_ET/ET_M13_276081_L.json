@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276081",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "션, 광복절 기념 기부마라톤 개최",
+		"newsSubTitle": "",
+		"newsContent": "가수 션이 의미있는 선행을 펼친다.\n션은 오는 23일 오후 1시 한 패션브랜드의 팝업 행사에 참여한다.\n그는 팝업 행사를 통해 발생한 판매 수익금 중 815만 원을 ‘2022 815 런’에 기부할 계획이다. ‘815 런’은 션이 독립유공자의 헌신과 희생을 기억하기 위해 한국해비타트와 2020년부터 매년 광복절에 개최하는 기부마라톤이다.\n션은 올해도 이 행사에 참여, 마라톤풀코스(42.195km)의 두 배에 가까운 81.5km를 완주해 힘을 보탠다.\n아울러 그의 기부금은 독립유공자 후손을 위한 보금자리 집짓기에 쓰일 예정이다. ‘2022 815 런’ 참여 신청은 한국해비타트 홈페이지에서 8월 8일까지 진행되며 총 모집 인원은 3500명이다.\n참가자는 개인 기량에 따라 3.1km, 4.5km, 8.15km 중 원하는 코스를 각각 선택해 달리면 된다.\n한편 션은 ‘착한 러닝’으로 다양한 기부 문화 형성에 앞장서는 것을 비롯해 매년 연탄 배달 봉사활동, 독립유공자 후손지원, 화보 수익금 기부, 국내외 어린이 후원 등 지속적으로 선한 영향력을 떨치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 션이 의미있는 선행을 펼친다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "션은 오는 23일 오후 1시 한 패션브랜드의 팝업 행사에 참여한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 팝업 행사를 통해 발생한 판매 수익금 중 815만 원을 ‘2022 815 런’에 기부할 계획이다. ‘815 런’은 션이 독립유공자의 헌신과 희생을 기억하기 위해 한국해비타트와 2020년부터 매년 광복절에 개최하는 기부마라톤이다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "션은 올해도 이 행사에 참여, 마라톤풀코스(42.195km)의 두 배에 가까운 81.5km를 완주해 힘을 보탠다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아울러 그의 기부금은 독립유공자 후손을 위한 보금자리 집짓기에 쓰일 예정이다. ‘2022 815 런’ 참여 신청은 한국해비타트 홈페이지에서 8월 8일까지 진행되며 총 모집 인원은 3500명이다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "참가자는 개인 기량에 따라 3.1km, 4.5km, 8.15km 중 원하는 코스를 각각 선택해 달리면 된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 션은 ‘착한 러닝’으로 다양한 기부 문화 형성에 앞장서는 것을 비롯해 매년 연탄 배달 봉사활동, 독립유공자 후손지원, 화보 수익금 기부, 국내외 어린이 후원 등 지속적으로 선한 영향력을 떨치고 있다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "션, 광복절 기념 기부마라톤 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

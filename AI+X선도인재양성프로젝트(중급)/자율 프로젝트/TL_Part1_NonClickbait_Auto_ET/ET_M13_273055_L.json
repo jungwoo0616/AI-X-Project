@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273055",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘짙은 메이크업’ 이요원, 과거 파격화보 재조명[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 이요원의 파격적인 모습을 담은 화보가 다시금 화제가 됐다.\n최근 JTBC 드라마 ‘그린마더스클럽’을 마친 이요원은 드라마에서 보인 단아함과 상반되는 과거 패션 화보가 다시 회자되고 있다.\n2013년 진행된 ‘고딕’ 콘셉트의 화보 속 이요원은 짙은 화장에 굵은 액세서리는 물론, 패션 타투까지 소화하며 ‘센 언니’의 자태를 보였다.\n위아래로 가득 붙인 속눈썹과 살구색 입술의 대비가 이목구비를 뚜렷하게 부각하는가 하면, 결을 살린 자연스러운 눈썹과 과감한 언더라인은 뇌쇄적인 눈빛을 강조했다.\n이요원은 최근 막을 내린 ‘그린마더스클럽’을 통해 데뷔 후 최초로 엄마 역할에 도전해 연기변신을 시도했다.\n캐릭터에 녹아든 감정연기는 물론 얽히고설킨 관계 속에서 중심을 잃지 않으며 드라마를 이끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이요원의 파격적인 모습을 담은 화보가 다시금 화제가 됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 JTBC 드라마 ‘그린마더스클럽’을 마친 이요원은 드라마에서 보인 단아함과 상반되는 과거 패션 화보가 다시 회자되고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2013년 진행된 ‘고딕’ 콘셉트의 화보 속 이요원은 짙은 화장에 굵은 액세서리는 물론, 패션 타투까지 소화하며 ‘센 언니’의 자태를 보였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "위아래로 가득 붙인 속눈썹과 살구색 입술의 대비가 이목구비를 뚜렷하게 부각하는가 하면, 결을 살린 자연스러운 눈썹과 과감한 언더라인은 뇌쇄적인 눈빛을 강조했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이요원은 최근 막을 내린 ‘그린마더스클럽’을 통해 데뷔 후 최초로 엄마 역할에 도전해 연기변신을 시도했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "캐릭터에 녹아든 감정연기는 물론 얽히고설킨 관계 속에서 중심을 잃지 않으며 드라마를 이끌었다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘짙은 메이크업’ 이요원, 과거 파격화보 재조명[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

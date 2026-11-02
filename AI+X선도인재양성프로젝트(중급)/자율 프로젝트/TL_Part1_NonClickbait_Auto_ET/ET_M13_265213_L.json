@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265213",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "인도, 초대형 멀티플렉스 탄생…1, 2위 극장 체인 합병",
+		"newsSubTitle": "",
+		"newsContent": "인도 영화산업계에서 스크린 수 1500여개의 대형 멀티플렉스 업체가 탄생했다.\n28일(현지시간) 현지 언론에 따르면 인도 멀티플렉스 영화관 1위 업체 PVR와 2위 INOX 레저는 전날 양사의 합병 계획을 발표했다.\n신설되는 멀티플렉스 업체 ‘PVR INOX’는 109개 도시에서 1546개의 스크린을 보유하게 됐다.\nPVR와 INOX 레저는 각각 871개와 675개 스크린을 갖고 있다.\n현재 인도 멀티플렉스 스크린 수가 3200여개라는 점을 고려하면 PVR INOX가 절반가량을 점유하게 되는 셈이다.\n인도에는 멀티플렉스 외 단일 스크린 영화관도 약 6300여개가 있다.\n전문가들은 PVR와 INOX 레저의 합병이 상당한 시너지를 일으킬 것으로 보고 있다.\nPVR는 인도 북, 서, 남부, INOX 레저는 동부에 영화관이 많기 때문이다.\nPVR INOX는 앞으로 매년 180∼200개 스크린을 새롭게 선보일 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인도 영화산업계에서 스크린 수 1500여개의 대형 멀티플렉스 업체가 탄생했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일(현지시간) 현지 언론에 따르면 인도 멀티플렉스 영화관 1위 업체 PVR와 2위 INOX 레저는 전날 양사의 합병 계획을 발표했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신설되는 멀티플렉스 업체 ‘PVR INOX’는 109개 도시에서 1546개의 스크린을 보유하게 됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "PVR와 INOX 레저는 각각 871개와 675개 스크린을 갖고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 인도 멀티플렉스 스크린 수가 3200여개라는 점을 고려하면 PVR INOX가 절반가량을 점유하게 되는 셈이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인도에는 멀티플렉스 외 단일 스크린 영화관도 약 6300여개가 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전문가들은 PVR와 INOX 레저의 합병이 상당한 시너지를 일으킬 것으로 보고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "PVR는 인도 북, 서, 남부, INOX 레저는 동부에 영화관이 많기 때문이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "PVR INOX는 앞으로 매년 180∼200개 스크린을 새롭게 선보일 계획이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인도, 초대형 멀티플렉스 탄생…1, 2위 극장 체인 합병",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

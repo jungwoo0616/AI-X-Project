@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170708",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "카라 강지영, 데뷔 13주년 기념",
+    "newsSubTitle": "",
+    "newsContent": "그룹 카라 출신 강지영이 데뷔 13주년을 자축했다.\n강지영은 24일 사회관계망서비스(SNS)를 통해 “축하해, 사랑해”라는 문구와 함께 데뷔일인 2008년 7월 24일을 기념했다.\n첨부한 사진에는 카라 멤버 니콜, 박규리, 한승연, 故 구하라와 함께 찍은 화보 사진을 공개했다.\n이에 누리꾼들 또한 SNS 댓글을 통해 데뷔 13주년 축하 메시지를 남겼다.\n한편 강지영은 2008년 카라 멤버로 데뷔해 ‘허니’, ‘프리티 걸’,’미스터’,‘스탭’등 다수의 히트곡을 남겼다.\n현재 일본에서 배우로서 왕성한 활동을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 카라 출신 강지영이 데뷔 13주년을 자축했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강지영은 24일 사회관계망서비스(SNS)를 통해 “축하해, 사랑해”라는 문구와 함께 데뷔일인 2008년 7월 24일을 기념했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첨부한 사진에는 카라 멤버 니콜, 박규리, 한승연, 故 구하라와 함께 찍은 화보 사진을 공개했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 누리꾼들 또한 SNS 댓글을 통해 데뷔 13주년 축하 메시지를 남겼다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 강지영은 2008년 카라 멤버로 데뷔해 ‘허니’, ‘프리티 걸’,’미스터’,‘스탭’등 다수의 히트곡을 남겼다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 일본에서 배우로서 왕성한 활동을 펼치고 있다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "카라 강지영, SNS에 올린 옛날 사진... 무슨 일인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

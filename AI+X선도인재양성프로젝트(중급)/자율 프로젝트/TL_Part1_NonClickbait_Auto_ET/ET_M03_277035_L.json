@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277035",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'겨울왕국' 오리지널 충격 결말...\\\"안나와 엘사, 자매 아냐\\\"",
+		"newsSubTitle": "",
+		"newsContent": "전 세계를 \\\"렛잇고~\\\" 열풍에 빠지게 한 영화 '겨울왕국'의 오리지널 결말이 공개됐다.\n지난 29일(현지 시간) 디즈니 영화 '겨울왕국'(2013)의 메인 프로듀서 피터 델 베초는 위클리 엔터테인먼트와 인터뷰를 가졌다.\n피터 델 베초는 \\\"처음 시작했을 때 안나와 엘사는 자매가 아니었다. 왕족도 아니었다\\\"고 밝혔다.\n그의 말에 따르면 얼음여왕 엘사는 당초 스스로를 '스노우 퀸'이라 부르는 악당으로 순수 악의 상징이었다.\n반면 안나는 이에 맞서는 여성 영웅이었다.\n순수함의 상징인 안나는 악당 엘사에 맞서 정의를 실현하는 캐릭터였다.\n이에 따른 영화의 결말은 안나가 엘사가 만든 스노우 몬스터들과 거대한 전쟁을 벌이는 이야기였다고 한다.\n하지만 결말을 바꾼 이유에 대해 \\\"이전에 본 것 같은 느낌을 받았고 만족스럽지 못했다. 엘사에게 감정적인 연결을 느끼지도 못했고 캐릭터의 개연성이 없었다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 세계를 \\\"렛잇고~\\\" 열풍에 빠지게 한 영화 '겨울왕국'의 오리지널 결말이 공개됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 29일(현지 시간) 디즈니 영화 '겨울왕국'(2013)의 메인 프로듀서 피터 델 베초는 위클리 엔터테인먼트와 인터뷰를 가졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "피터 델 베초는 \\\"처음 시작했을 때 안나와 엘사는 자매가 아니었다. 왕족도 아니었다\\\"고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 말에 따르면 얼음여왕 엘사는 당초 스스로를 '스노우 퀸'이라 부르는 악당으로 순수 악의 상징이었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면 안나는 이에 맞서는 여성 영웅이었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "순수함의 상징인 안나는 악당 엘사에 맞서 정의를 실현하는 캐릭터였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 따른 영화의 결말은 안나가 엘사가 만든 스노우 몬스터들과 거대한 전쟁을 벌이는 이야기였다고 한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 결말을 바꾼 이유에 대해 \\\"이전에 본 것 같은 느낌을 받았고 만족스럽지 못했다. 엘사에게 감정적인 연결을 느끼지도 못했고 캐릭터의 개연성이 없었다\\\"고 설명했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'겨울왕국' 오리지널 충격 결말...\\\"안나와 엘사, 자매 아냐\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277196",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "뮤징뱅크MC 시절, 출근길 '레전드 미모' 보여준 아이린",
+		"newsSubTitle": "",
+		"newsContent": "레드벨벳 아이린의 사진이 화제다.\n최근 페이스북 페이지 '아이돌 이슈'에 \\\"뮤직뱅크 MC 시절 아이린 출근길 레전드 모음\\\"이라는 제목의 게시물이 올라왔다.\n글쓴이는 '꽃, 화관, 헤어밴드, 베레모 이 때 실시간으로 사진 뜰 때마다 난리였는데...'라며 아이린의 사진을 공개했다.\n사진 속 아이린은 꽃보다 아름다운 미모를 자랑하며 보는 이의 마음을 훔쳤다.\n다음은 아이린의 출근길 레전드 사진이다.\n이를 본 네티즌은 \\\"사람을 얼굴로 입덕시킬 수 있구나...를 느낌\\\"이라고 말하며 \\\"여신여신! 너무 이쁘다\\\"라며 아이린의 미모를 극찬했다.\n또 다른 네티즌은 \\\"미친 게 분명하다. 저게 사람 외모니 인형이지... 주현아 사랑해\\\"라며 감출 수 없는 마음을 표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레드벨벳 아이린의 사진이 화제다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 페이스북 페이지 '아이돌 이슈'에 \\\"뮤직뱅크 MC 시절 아이린 출근길 레전드 모음\\\"이라는 제목의 게시물이 올라왔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 '꽃, 화관, 헤어밴드, 베레모 이 때 실시간으로 사진 뜰 때마다 난리였는데...'라며 아이린의 사진을 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 아이린은 꽃보다 아름다운 미모를 자랑하며 보는 이의 마음을 훔쳤다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음은 아이린의 출근길 레전드 사진이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌은 \\\"사람을 얼굴로 입덕시킬 수 있구나...를 느낌\\\"이라고 말하며 \\\"여신여신! 너무 이쁘다\\\"라며 아이린의 미모를 극찬했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 다른 네티즌은 \\\"미친 게 분명하다. 저게 사람 외모니 인형이지... 주현아 사랑해\\\"라며 감출 수 없는 마음을 표했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뮤징뱅크MC 시절, 출근길 '레전드 미모' 보여준 아이린",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

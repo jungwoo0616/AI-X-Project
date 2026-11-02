@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266840",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘쇼 챔피언’ DKZ, 여심 훔친 ‘사랑도둑’",
+		"newsSubTitle": "",
+		"newsContent": "아이돌그룹 DKZ(디케이지)가 팬들의 마음을 훔쳤다.\nDKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 13일 오후 6시 방송된 MBC M ‘쇼! 챔피언’에 출연, 신곡 ‘사랑도둑(Cupid)’으로 팬심 저격에 나섰다.\nDKZ는 귀여운 소년미가 돋보이는 청량 비주얼로 이목을 집중시키는가 하면, 잔망미 넘치는 퍼포먼스에 장난기 넘치는 표정 연기까지 더해 무대를 장악했다.\nDKZ 멤버들은 완벽한 시너지와 케미로 팬들을 웃음 짓게 만든 것은 물론, 힙한 청량함이 가득한 6인 6색 매력과 함께 귀를 사로잡는 음색을 자랑했다.\n무대 위 주체할 수 없는 끼를 대방출한 DKZ는 지난 12일 여섯 번째 싱글 ‘CHASE EPISODE 2. MAUM’의 ‘사랑도둑(Cupid)’로 컴백, 음원 공개 직후 12일 오후 7시 기준 멜론 최신 차트 13위(발매 1주내 기준), 벅스 실시간 차트 10위로 차트인에 성공하는 뜨거운 기염을 토하기도 했다.\n본격 K-POP 주역으로 떠오르고 있는 DKZ는 앞으로도 다채로운 활동과 음악으로 글로벌 팬들을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌그룹 DKZ(디케이지)가 팬들의 마음을 훔쳤다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "DKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 13일 오후 6시 방송된 MBC M ‘쇼! 챔피언’에 출연, 신곡 ‘사랑도둑(Cupid)’으로 팬심 저격에 나섰다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "DKZ는 귀여운 소년미가 돋보이는 청량 비주얼로 이목을 집중시키는가 하면, 잔망미 넘치는 퍼포먼스에 장난기 넘치는 표정 연기까지 더해 무대를 장악했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "DKZ 멤버들은 완벽한 시너지와 케미로 팬들을 웃음 짓게 만든 것은 물론, 힙한 청량함이 가득한 6인 6색 매력과 함께 귀를 사로잡는 음색을 자랑했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무대 위 주체할 수 없는 끼를 대방출한 DKZ는 지난 12일 여섯 번째 싱글 ‘CHASE EPISODE 2. MAUM’의 ‘사랑도둑(Cupid)’로 컴백, 음원 공개 직후 12일 오후 7시 기준 멜론 최신 차트 13위(발매 1주내 기준), 벅스 실시간 차트 10위로 차트인에 성공하는 뜨거운 기염을 토하기도 했다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "본격 K-POP 주역으로 떠오르고 있는 DKZ는 앞으로도 다채로운 활동과 음악으로 글로벌 팬들을 만날 예정이다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘쇼 챔피언’ DKZ, 여심 훔친 ‘사랑도둑’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276331",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강제 추방 에이미 2년 만에 입국",
+		"newsSubTitle": "",
+		"newsContent": "마약류관리법 위반으로 2015년 강제 출국된 에이미(35)가 동생 결혼식 참석차 2년 만에 한국을 다시 찾았다.\n에이미는 20일 오전 6시 10분쯤 인천국제공항을 통해 입국했다.\n단발머리에 검정색 티셔츠와 검정색 마스크를 착용한 에이미는 다소 후덕해진 모습이었다.\n2012년 프로포폴 투약 혐의로 징역 8월, 집행유예 2년을 선고받았던 에이미는 집행유예 기간이던 2014년 9월 다시 졸피뎀 투약한 혐의로 기소돼 벌금 500만원과 강제 출국 처분을 받았다.\n에이미는 동생 결혼식에 참석하기 위해 LA대한민국 총영사관에 입국 허가 신청서를 냈다.\n에이미는 5일 간의 체류 뒤 다시 미국으로 돌아간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마약류관리법 위반으로 2015년 강제 출국된 에이미(35)가 동생 결혼식 참석차 2년 만에 한국을 다시 찾았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에이미는 20일 오전 6시 10분쯤 인천국제공항을 통해 입국했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "단발머리에 검정색 티셔츠와 검정색 마스크를 착용한 에이미는 다소 후덕해진 모습이었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2012년 프로포폴 투약 혐의로 징역 8월, 집행유예 2년을 선고받았던 에이미는 집행유예 기간이던 2014년 9월 다시 졸피뎀 투약한 혐의로 기소돼 벌금 500만원과 강제 출국 처분을 받았다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "에이미는 동생 결혼식에 참석하기 위해 LA대한민국 총영사관에 입국 허가 신청서를 냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에이미는 5일 간의 체류 뒤 다시 미국으로 돌아간다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강제 추방 에이미 2년 만에 입국",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

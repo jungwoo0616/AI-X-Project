@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273850",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[단독]김희재 ‘아는형님’ 출격…청하-세븐과 호흡",
+		"newsSubTitle": "",
+		"newsContent": "가수 김희재가 ‘아는 형님’에 출격한다.\n김희재를 비롯해 가수 청하, 세븐은 23일 경기도 고양시 장항동 JTBC 스튜디오 일산에서 진행되는 JTBC 예능 프로그램 ‘아는 형님’ 녹화 일정에 참석한다.\n김희재가 ‘아는 형님’에 출연하는 것은 약 2년 만이다.\n그는 2020년 5월 ‘미스터트롯’ 특집으로 임영웅, 영탁, 김호중, 정동원, 장민호, 이찬원 등과 함께 출연해 예능감을 뽐냈다.\n그가 간만에 ‘아는 형님’에 나와 어떠한 예능감을 보일 지에도 관심이 쏠리고 있다.\n최근 종영한 MBC드라마 ‘지금부터, 쇼타임!’에서 배우로도 도전한 김희재는 현재 전국투어 일정에 돌입한 상태다.\n김희재는 내달 9~10일 서울 장충체육관에서 두 번째 전국투어 단독 콘서트 일정을 공지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김희재가 ‘아는 형님’에 출격한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김희재를 비롯해 가수 청하, 세븐은 23일 경기도 고양시 장항동 JTBC 스튜디오 일산에서 진행되는 JTBC 예능 프로그램 ‘아는 형님’ 녹화 일정에 참석한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김희재가 ‘아는 형님’에 출연하는 것은 약 2년 만이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 2020년 5월 ‘미스터트롯’ 특집으로 임영웅, 영탁, 김호중, 정동원, 장민호, 이찬원 등과 함께 출연해 예능감을 뽐냈다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그가 간만에 ‘아는 형님’에 나와 어떠한 예능감을 보일 지에도 관심이 쏠리고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 종영한 MBC드라마 ‘지금부터, 쇼타임!’에서 배우로도 도전한 김희재는 현재 전국투어 일정에 돌입한 상태다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김희재는 내달 9~10일 서울 장충체육관에서 두 번째 전국투어 단독 콘서트 일정을 공지했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]김희재 ‘아는형님’ 출격…청하-세븐과 호흡",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

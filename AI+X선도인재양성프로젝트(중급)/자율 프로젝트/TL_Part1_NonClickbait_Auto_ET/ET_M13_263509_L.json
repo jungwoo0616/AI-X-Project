@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263509",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단 지민 “‘아미’ 감기 걸릴까 걱정, 춥지 않도록 열심히 하겠다”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단 지민이 ‘팬바보’ 면모를 보였다.\n방탄소년단은 10일 서울 잠실종합운동장 주경기장에서 ‘퍼미션 투 댄스 온 스테이지 - 서울’ 공연을 개최했다.\n이날 공연은 지난 2019년 10월 서울 올림픽주경기장에서 개최된 ‘2019 BTS 월드 투어 러브 유어셀프: 스피크 유어셀프’ 공연 이후 무려 2년 5개월 만에 국내에서 치러진 공연이다.\n2020년 2월 예정됐던 ‘맵 오브 더 솔 투어’가 코로나19 팬데믹으로 인해 전면 취소 되면서 방탄소년단과 팬들은 오랜 기다림을 이어왔다.\n제이홉은 “우리 모두 함께 즐길 수 있는 무대 준비했다. 마음껏 즐겨주길 바란다”고 말하며 분위기를 끌어올렸다.\n지민은 “날이 추워 걱정을 많이 했다. 리허설 하면서 생각보다 추워서 여러분들이 감기에 걸릴까 걱정도 했는데, 여러분이 춥지 않도록 열심히 하겠다”고 공연을 즐길 것을 당부했다.\n마지막으로 슈가는 “함성이 없어 아쉬운 부분도 있겠지만 어쨋든 2년 반만에 함께 있다는 게 제일 중요한 것 아니겠나”며 “진짜 많이 기다렸고 설렜고 긴장도 많이 됐다. 우리 함께 즐겨보자”고 밝혀 우렁찬 박수가 쏟아졌다.\n방탄소년단은 지난해 11월 미국 로스앤젤레스에서 열린 ‘퍼미션 투 댄스 온 스테이지 - LA’ 공연을 시작으로, 10일과 12일, 13일에 진행하는 서울에서 공연을, 다음달 미국 라스베가스에서 공연을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단 지민이 ‘팬바보’ 면모를 보였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단은 10일 서울 잠실종합운동장 주경기장에서 ‘퍼미션 투 댄스 온 스테이지 - 서울’ 공연을 개최했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 공연은 지난 2019년 10월 서울 올림픽주경기장에서 개최된 ‘2019 BTS 월드 투어 러브 유어셀프: 스피크 유어셀프’ 공연 이후 무려 2년 5개월 만에 국내에서 치러진 공연이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2020년 2월 예정됐던 ‘맵 오브 더 솔 투어’가 코로나19 팬데믹으로 인해 전면 취소 되면서 방탄소년단과 팬들은 오랜 기다림을 이어왔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제이홉은 “우리 모두 함께 즐길 수 있는 무대 준비했다. 마음껏 즐겨주길 바란다”고 말하며 분위기를 끌어올렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지민은 “날이 추워 걱정을 많이 했다. 리허설 하면서 생각보다 추워서 여러분들이 감기에 걸릴까 걱정도 했는데, 여러분이 춥지 않도록 열심히 하겠다”고 공연을 즐길 것을 당부했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마지막으로 슈가는 “함성이 없어 아쉬운 부분도 있겠지만 어쨋든 2년 반만에 함께 있다는 게 제일 중요한 것 아니겠나”며 “진짜 많이 기다렸고 설렜고 긴장도 많이 됐다. 우리 함께 즐겨보자”고 밝혀 우렁찬 박수가 쏟아졌다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방탄소년단은 지난해 11월 미국 로스앤젤레스에서 열린 ‘퍼미션 투 댄스 온 스테이지 - LA’ 공연을 시작으로, 10일과 12일, 13일에 진행하는 서울에서 공연을, 다음달 미국 라스베가스에서 공연을 이어간다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 지민 “‘아미’ 감기 걸릴까 걱정, 춥지 않도록 열심히 하겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275584",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송혜교, 파리의 ‘단발 여신’",
+		"newsSubTitle": "",
+		"newsContent": "배우 송혜교가 근황을 공개했다.\n송혜교는 15일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 한 잡지매체와 함께한 영상을 공개했다.\n영상 속 송혜교는 프랑스 파리에서 열린 패션쇼에 참석한 모습이다.\n그는 이날 깔끔한 단발에 차분한 메이크업으로 도회적이면서도 우아한 스타일을 선보였다.\n송혜교는 체크 무늬의 정장을 입은 채 카메라를 향해 포즈를 취하는가 하면 패션쇼를 감상하고 있다.\n멀리서도 독보적으로 시선을 끄는 그의 미모가 놀라움을 자아낸다.\n한편 송혜교는 지난 9일 한국으로 귀국했다.\n그는 공개 예정인 넷플릭스 오리지널 시리즈 ‘더 글로리’에 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송혜교가 근황을 공개했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송혜교는 15일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 한 잡지매체와 함께한 영상을 공개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 송혜교는 프랑스 파리에서 열린 패션쇼에 참석한 모습이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 이날 깔끔한 단발에 차분한 메이크업으로 도회적이면서도 우아한 스타일을 선보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송혜교는 체크 무늬의 정장을 입은 채 카메라를 향해 포즈를 취하는가 하면 패션쇼를 감상하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "멀리서도 독보적으로 시선을 끄는 그의 미모가 놀라움을 자아낸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 송혜교는 지난 9일 한국으로 귀국했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 공개 예정인 넷플릭스 오리지널 시리즈 ‘더 글로리’에 출연한다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송혜교, 파리의 ‘단발 여신’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

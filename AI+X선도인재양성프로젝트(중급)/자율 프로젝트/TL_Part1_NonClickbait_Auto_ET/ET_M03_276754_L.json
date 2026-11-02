@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276754",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "딸 예은 앞세워 200억 횡령한 목사의 실제 설교 영상",
+		"newsSubTitle": "",
+		"newsContent": "유명 연예인인 딸을 앞세워 신도들에게 신뢰감을 준 뒤 투자를 유도해 200억목사가 원더걸스 예은의 아버지란 사실이 알려졌다.\n5일 방송된 채널A '풍문으로 들었쇼'에서는 목사 아버지 때문에 논란을 겪은 예은의 사연을 소개하면서 경찰이 제공한 박씨의 사기 설교 영상이 공개됐다.\n예은의 아버지로 알려진 박씨는 성도들의 신앙심을 이용해 투자를 유도하는 말을 한다.\n박씨는 \\\"헌금했다고 생각하라\\\"며 \\\"투자를 하면 높은 배당금을 주겠다\\\"고 했다. '풍문쇼'의 패널은 피해자의 증언을 소개하면서 \\\"박씨가 딸 예은의 유명세로 평소 신뢰감을 쌓았다\\\"며 이같이 말했다.\n한 패널은 예은 아버지에 대해 \\\"본인의 딸인 예은씨를 마케팅 대상으로 삼은 것이나 다름없다\\\"고 말했다.\n또 다른 패널은 \\\"사건 이후 예은씨와 연락을 했다\\\"며 \\\"예은씨가 200억을 어떻게 갚아야할지 모르겠다며 많이 충격을 받은 상태였다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유명 연예인인 딸을 앞세워 신도들에게 신뢰감을 준 뒤 투자를 유도해 200억목사가 원더걸스 예은의 아버지란 사실이 알려졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 방송된 채널A '풍문으로 들었쇼'에서는 목사 아버지 때문에 논란을 겪은 예은의 사연을 소개하면서 경찰이 제공한 박씨의 사기 설교 영상이 공개됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예은의 아버지로 알려진 박씨는 성도들의 신앙심을 이용해 투자를 유도하는 말을 한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박씨는 \\\"헌금했다고 생각하라\\\"며 \\\"투자를 하면 높은 배당금을 주겠다\\\"고 했다. '풍문쇼'의 패널은 피해자의 증언을 소개하면서 \\\"박씨가 딸 예은의 유명세로 평소 신뢰감을 쌓았다\\\"며 이같이 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한 패널은 예은 아버지에 대해 \\\"본인의 딸인 예은씨를 마케팅 대상으로 삼은 것이나 다름없다\\\"고 말했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 다른 패널은 \\\"사건 이후 예은씨와 연락을 했다\\\"며 \\\"예은씨가 200억을 어떻게 갚아야할지 모르겠다며 많이 충격을 받은 상태였다\\\"고 전했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "딸 예은 앞세워 200억 횡령한 목사의 실제 설교 영상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

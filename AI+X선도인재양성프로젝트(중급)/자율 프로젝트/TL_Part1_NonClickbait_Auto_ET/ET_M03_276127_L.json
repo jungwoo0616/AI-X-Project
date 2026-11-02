@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276127",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "FT아일랜드 이홍기 30일 입대 \\\"21사단으로 갑니다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "FT아일랜드 이홍기(29)가 오는 30일 입대한다.\n소속사 FNC엔터테인먼트는 16일 “이홍기가 오는 30일 강원도 양구에 위치한 육군 21사단 백두산부대 신병교육대에 입소한다”고 밝혔다.\n관련 보도가 나오자 이홍기는 이날 오후 인스타그램에 “맞아요. 그래요. 21사단으로 갑니다”라는 글을 남겼다.\n육군 21사단 백두산부대는 중동부 전선을 지키는 부대로 강도 높은 훈련을 시행하는 것으로 유명하다.\n지난해 7월 2PM 우영이 백두산부대 신병교육대에 입소해 군 복무 중이다.\n이홍기 역시 이곳에서 5주간의 기초군사훈련을 받은 후 현역으로 복무할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "FT아일랜드 이홍기(29)가 오는 30일 입대한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 FNC엔터테인먼트는 16일 “이홍기가 오는 30일 강원도 양구에 위치한 육군 21사단 백두산부대 신병교육대에 입소한다”고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관련 보도가 나오자 이홍기는 이날 오후 인스타그램에 “맞아요. 그래요. 21사단으로 갑니다”라는 글을 남겼다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "육군 21사단 백두산부대는 중동부 전선을 지키는 부대로 강도 높은 훈련을 시행하는 것으로 유명하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 7월 2PM 우영이 백두산부대 신병교육대에 입소해 군 복무 중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이홍기 역시 이곳에서 5주간의 기초군사훈련을 받은 후 현역으로 복무할 예정이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "FT아일랜드 이홍기 30일 입대 \\\"21사단으로 갑니다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

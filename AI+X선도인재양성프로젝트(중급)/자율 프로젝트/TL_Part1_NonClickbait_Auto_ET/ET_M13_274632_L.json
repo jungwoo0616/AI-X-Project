@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274632",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한아름 “다 지긋지긋해”, 의미심장 SNS 게재",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 티아라 출신 한아름이 의미심장한 글을 올렸다.\n한아름은 지난 3일 SNS를 통해 한 장의 사진과 “다 지긋지긋해. 앞으로 가려면 해맬 수 있지만 다시 또 일어나 해낼 수 있어요”라는 글을 올렸다.\n공개된 사진 속에는 “만일 타인이 당신에게 실수를 한다면 이렇게 생각했으면 좋겠어요. 첫 번째는 뭐 그럴 수도 있지, 두 번째는 이 새X가 왜 이러지, 세 번째는 내 인생에서 꺼져 이 XX야”라는 문구가 적혀있다.\n한아름이 이런 글귀를 공개한 이유는 악플에 관한 자기 뜻을 밝힌 것으로 보인다.\n앞서 한아름은 지난달 티빙 예능 프로그램 ‘결혼과 이혼 사이’에 출연해 남편과의 불화를 토로한 바 있다.\n방송 후 그는 SNS에 “조용히 신고하겠습니다. 함부로 하는 말들이 얼마나 큰 잘못인지 아셔야 해요”라는 글과 함께 일부 누리꾼으로부터 받은 욕설 메시지를 공개했다.\n한아름은 2019년 10월 결혼해 슬하에 아들을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 티아라 출신 한아름이 의미심장한 글을 올렸다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한아름은 지난 3일 SNS를 통해 한 장의 사진과 “다 지긋지긋해. 앞으로 가려면 해맬 수 있지만 다시 또 일어나 해낼 수 있어요”라는 글을 올렸다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 “만일 타인이 당신에게 실수를 한다면 이렇게 생각했으면 좋겠어요. 첫 번째는 뭐 그럴 수도 있지, 두 번째는 이 새X가 왜 이러지, 세 번째는 내 인생에서 꺼져 이 XX야”라는 문구가 적혀있다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한아름이 이런 글귀를 공개한 이유는 악플에 관한 자기 뜻을 밝힌 것으로 보인다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 한아름은 지난달 티빙 예능 프로그램 ‘결혼과 이혼 사이’에 출연해 남편과의 불화를 토로한 바 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송 후 그는 SNS에 “조용히 신고하겠습니다. 함부로 하는 말들이 얼마나 큰 잘못인지 아셔야 해요”라는 글과 함께 일부 누리꾼으로부터 받은 욕설 메시지를 공개했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한아름은 2019년 10월 결혼해 슬하에 아들을 두고 있다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한아름 “다 지긋지긋해”, 의미심장 SNS 게재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

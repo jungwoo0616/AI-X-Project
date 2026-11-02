@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279657",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"한 타임에 200만원\\\" 타히티 지수, 스폰 제안 \\\"불쾌하다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 타히티의 지수가 스폰서 제안에 불쾌감을 드러냈다.\n지수의 소속사 측 관계자는 11일 일간스포츠에 \\\"지수가 SNS를 통해 스폰서 제안을 받고 매우 불쾌해했다. 거듭된 제안에 강경대응할 예정이다\\\"라고 말했다.\n이어 \\\"현재 타히티 멤버들은 팬미팅 및 공연 일정으로 일본에 가 있는 상황이다. 12일 귀국하는데, 도착 후 고소할 계획\\\"이라고 덧붙였다.\n타히티 지수는 11일 자신의 인스타그램에 스폰브로커가 보낸 메시지를 캡처해 공개했다.\n공개된 메시지에는 손님과 데이트를 해주면 고액의 돈을 지불하겠다는 내용이 담겨 있다.\n메시지에는 \\\"고급페이알바 틈틈이 일하실 생각 있으신가요. 평균 한 타임에 60~200만원까지 가능합니다. 저는 멤버십으로 운영되는 모임에서 고용된 스폰 브로커인데 멤버 중 손님 한 분이 지수의 극팬입니다. 틈틈이 만나고 싶어하는데 생각 있으면 꼭 연락 주세요. 한 타임당 200~300만까지 받으실 수 있습니다\\\"라는 내용이 담겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 타히티의 지수가 스폰서 제안에 불쾌감을 드러냈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수의 소속사 측 관계자는 11일 일간스포츠에 \\\"지수가 SNS를 통해 스폰서 제안을 받고 매우 불쾌해했다. 거듭된 제안에 강경대응할 예정이다\\\"라고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"현재 타히티 멤버들은 팬미팅 및 공연 일정으로 일본에 가 있는 상황이다. 12일 귀국하는데, 도착 후 고소할 계획\\\"이라고 덧붙였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타히티 지수는 11일 자신의 인스타그램에 스폰브로커가 보낸 메시지를 캡처해 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 메시지에는 손님과 데이트를 해주면 고액의 돈을 지불하겠다는 내용이 담겨 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "메시지에는 \\\"고급페이알바 틈틈이 일하실 생각 있으신가요. 평균 한 타임에 60~200만원까지 가능합니다. 저는 멤버십으로 운영되는 모임에서 고용된 스폰 브로커인데 멤버 중 손님 한 분이 지수의 극팬입니다. 틈틈이 만나고 싶어하는데 생각 있으면 꼭 연락 주세요. 한 타임당 200~300만까지 받으실 수 있습니다\\\"라는 내용이 담겼다.",
+				"sentenceSize": 187
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"한 타임에 200만원\\\" 타히티 지수, 스폰 제안 \\\"불쾌하다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

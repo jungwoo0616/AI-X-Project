@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275310",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "옥주현, 논란에도 여전히 열일 “삼일째 야근”",
+		"newsSubTitle": "",
+		"newsContent": "뮤지컬 배우 옥주현이 바쁜 시간을 보내고 있다.\n옥주현은 12일 자신의 사회관계망서비스(SNS)에 “삼일째야근”이라는 글과 함께 사진을 게재했다.\n공개한 사진 속 옥주현은 녹음 스튜디오에서 강행군을 펼치고 있었다.\n한편 옥주현은 최근 캐스팅 개입 의혹 및 갑질로 큰 논란을 겪었다.\n10주년을 맞은 뮤지컬 ‘엘리자벳’에 자신과 친한 배우를 캐스팅하도록 개입했다는 의혹이 제기됐다.\n뮤지컬 배우 김호영이 SNS에 “아사리판은 옛말, 지금윽 옥장판”이라는 글을 올린 것이 사건의 시작이었다.\n이에 옥주현은 고소를 선언하며 점차 사건이 확대됐고, 뮤지컬 1세대 배우들까지 나서면서 점차 옥주현에 대한 비난 여론이 높아졌다.\n이후 옥주현은 사과문을 발표했지만 논란이 된 캐스팅 개입, 갑질 등에 대해서는 부정했다.\n이후 SNS에 변함 없이 뮤지컬 홍보글을 올리고, 뮤지컬 홍보를 위한 라디오 방송에도 출연하면서 그대로 스케줄을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤지컬 배우 옥주현이 바쁜 시간을 보내고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옥주현은 12일 자신의 사회관계망서비스(SNS)에 “삼일째야근”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진 속 옥주현은 녹음 스튜디오에서 강행군을 펼치고 있었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 옥주현은 최근 캐스팅 개입 의혹 및 갑질로 큰 논란을 겪었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "10주년을 맞은 뮤지컬 ‘엘리자벳’에 자신과 친한 배우를 캐스팅하도록 개입했다는 의혹이 제기됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뮤지컬 배우 김호영이 SNS에 “아사리판은 옛말, 지금윽 옥장판”이라는 글을 올린 것이 사건의 시작이었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 옥주현은 고소를 선언하며 점차 사건이 확대됐고, 뮤지컬 1세대 배우들까지 나서면서 점차 옥주현에 대한 비난 여론이 높아졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 옥주현은 사과문을 발표했지만 논란이 된 캐스팅 개입, 갑질 등에 대해서는 부정했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 SNS에 변함 없이 뮤지컬 홍보글을 올리고, 뮤지컬 홍보를 위한 라디오 방송에도 출연하면서 그대로 스케줄을 이어가고 있다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "옥주현, 논란에도 여전히 열일 “삼일째 야근”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

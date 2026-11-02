@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171022",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "방심위, 20대 대선 선거방송심의위 구성",
+    "newsSubTitle": "",
+    "newsContent": "방송통신심의위원회는 30일 전체회의를 열고 제20대 대통령선거 선거방송심의위원회의 위원을 구성했다고 밝혔다.\n선거방송심의위원회 위촉 대상자는 정일윤 전 진주MBC 대표이사 사장, 권혁남 전 한국언론학회장, 김일곤 경남대 경영학부 초빙교수, 박수택 전 SBS기자, 정영식 전 서울시선거관리위원회 사무처장, 구본진 법무법인 로플렉스 대표변호사, 김언경 미디어인권연구소 뭉클 소장, 이나연 성신여대 미디어커뮤니케이션학과 교수, 박동순 한국YWCA연합회 국장 등 9명이다. ‘공직선거법’ 제8조의2에 따라 운영되는 선거방송심의위원회는 선거방송의 공정성을 유지하기 위해 설치되는 합의제 기구다.\n국회 교섭단체를 둔 정당 2곳과 중앙선거관리위원회, 방송사, 방송학계, 대한변호사협회, 언론인단체, 시민단체 등의 추천을 받은 위원 9명으로 구성된다.\n운영 기간은 올해 9월 1일부터 대통령 선거일(2022년 3월 9일) 후 30일인 내년 4월 8일까지다.\n심의 대상은 9월 1일부터 선거일의 투표 마감 시각까지 선거방송이다.\n선거방송심의위원회는 9월 1일 위촉식 후 첫 회의를 열고 호선을 통해 위원장과 부위원장을 선출할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송통신심의위원회는 30일 전체회의를 열고 제20대 대통령선거 선거방송심의위원회의 위원을 구성했다고 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "선거방송심의위원회 위촉 대상자는 정일윤 전 진주MBC 대표이사 사장, 권혁남 전 한국언론학회장, 김일곤 경남대 경영학부 초빙교수, 박수택 전 SBS기자, 정영식 전 서울시선거관리위원회 사무처장, 구본진 법무법인 로플렉스 대표변호사, 김언경 미디어인권연구소 뭉클 소장, 이나연 성신여대 미디어커뮤니케이션학과 교수, 박동순 한국YWCA연합회 국장 등 9명이다. ‘공직선거법’ 제8조의2에 따라 운영되는 선거방송심의위원회는 선거방송의 공정성을 유지하기 위해 설치되는 합의제 기구다.",
+        "sentenceSize": 266
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국회 교섭단체를 둔 정당 2곳과 중앙선거관리위원회, 방송사, 방송학계, 대한변호사협회, 언론인단체, 시민단체 등의 추천을 받은 위원 9명으로 구성된다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "운영 기간은 올해 9월 1일부터 대통령 선거일(2022년 3월 9일) 후 30일인 내년 4월 8일까지다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심의 대상은 9월 1일부터 선거일의 투표 마감 시각까지 선거방송이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선거방송심의위원회는 9월 1일 위촉식 후 첫 회의를 열고 호선을 통해 위원장과 부위원장을 선출할 예정이다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "선거방송의 공정성을 유지하기 위해 설치된 이 기구... 위원 구성해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

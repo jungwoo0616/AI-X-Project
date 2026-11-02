@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278342",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "한밤 이수민, \\\"걸그룹 데뷔 꿈꾼적 있다\\\" 꿈 접은 이유는?",
+		"newsSubTitle": "",
+		"newsContent": "보니하니의 ‘초통령’으로 인기를 모은 이수민이 걸그룹 데뷔를 꿈꾼 적이 있다고 고백했다.\n23일 방송된 SBS ‘한밤의 TV연예’ (이하 ‘한밤’)에서는 최근 광고계의 블루칩이 되고 있는 이수민의 인터뷰 장면이 그려졌다.\n이날 ‘한밤’은 통신사 CF 촬영장을 방문해 이수민과 진솔한 이야기를 나눴다.\n이수민은 현재 인기에 대해 “옆집 여동생 같은 편안한 느낌이라 많은 분들이 좋아해주시는 거 같다”며 겸손한 모습을 보였다.\n이어 이수민은 걸그룹 멤버가 되고 싶은 욕심이 있었냐는 묻는 질문에 ‘X’를 들었다.\n이수민은 “걸그룹을 꿈꿨던 때가 있었지만 포기했다. 저질 체력에 노래 실력이 부족하기 때문”이라고 말했다.\n이후 이수민은 시청자들을 위해 준비한 걸그룹 포미닛의 ‘미쳐’ 퍼포먼스를 완벽하게 소화해내 눈길을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보니하니의 ‘초통령’으로 인기를 모은 이수민이 걸그룹 데뷔를 꿈꾼 적이 있다고 고백했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 방송된 SBS ‘한밤의 TV연예’ (이하 ‘한밤’)에서는 최근 광고계의 블루칩이 되고 있는 이수민의 인터뷰 장면이 그려졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 ‘한밤’은 통신사 CF 촬영장을 방문해 이수민과 진솔한 이야기를 나눴다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이수민은 현재 인기에 대해 “옆집 여동생 같은 편안한 느낌이라 많은 분들이 좋아해주시는 거 같다”며 겸손한 모습을 보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이수민은 걸그룹 멤버가 되고 싶은 욕심이 있었냐는 묻는 질문에 ‘X’를 들었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이수민은 “걸그룹을 꿈꿨던 때가 있었지만 포기했다. 저질 체력에 노래 실력이 부족하기 때문”이라고 말했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 이수민은 시청자들을 위해 준비한 걸그룹 포미닛의 ‘미쳐’ 퍼포먼스를 완벽하게 소화해내 눈길을 끌었다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한밤 이수민, \\\"걸그룹 데뷔 꿈꾼적 있다\\\" 꿈 접은 이유는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

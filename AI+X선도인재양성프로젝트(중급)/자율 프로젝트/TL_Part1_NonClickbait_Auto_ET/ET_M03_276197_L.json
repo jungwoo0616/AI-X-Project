@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276197",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "현아 \\\"큐브 위해 몸 부서져라 일한 죄…피 말리는 시간\\\" 자필 편지",
+		"newsSubTitle": "",
+		"newsContent": "가수 현아가 큐브엔터테인먼트와 계약해지에 앞서 자필 편지를 보낸 것으로 알려졌다.\n현아는 자필 편지를 통해 억울함을 토로했다.\n15일 현대주간에 의해 공개된 편지에 따르면 현아는 \\\"잘 아시겠지만 저는 오늘날 큐브엔터테인먼트가 있기까지 몸이 부서져라 열심히 활동한 죄밖에 없습니다\\\"고 적었다.\n이어 \\\"제가 얼마나 죽을죄를 지었는지 모르지만, (열애설 후) 9월 초부터 모든 스케줄이 지금껏 취소되었다\\\"고 적었다.\n현아는 \\\"10월 4일까지 주주총회 소집 관련 통보를 받지 못했다\\\"며 \\\"핑계를 대고 시간을 끌며 지연시키고 있다. 저는 하루하루 피를 말리는 시간이다\\\"며 10월 15일까지 답신을 달라고 독촉했다.\n이어 \\\"저의 마음과 상관없이 큐브로부터 퇴출당해 저의 이미지는 땅에 떨어지고 명예는 실추됐다. 아름다운 옛정을 생각하신다면 아름답게 원만히 해결되기를 소망한다\\\"고 적었다.\n한편 현아는 이던과 열애설에 대해 \\\"2016년 5월부터 교제를 이어오고 있다\\\"고 밝혔으나 큐브 측이 이를 부인하며 마찰을 빚었다.\n결국 큐브엔터테인먼트는 15일 보도자료를 내고 \\\"현아와 계약 해지에 합의했다. 지금까지 함께 해준 아티스트와 팬들에게 다시 한번 진심으로 감사드린다\\\"고 최종 입장을 발표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 현아가 큐브엔터테인먼트와 계약해지에 앞서 자필 편지를 보낸 것으로 알려졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현아는 자필 편지를 통해 억울함을 토로했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "15일 현대주간에 의해 공개된 편지에 따르면 현아는 \\\"잘 아시겠지만 저는 오늘날 큐브엔터테인먼트가 있기까지 몸이 부서져라 열심히 활동한 죄밖에 없습니다\\\"고 적었다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"제가 얼마나 죽을죄를 지었는지 모르지만, (열애설 후) 9월 초부터 모든 스케줄이 지금껏 취소되었다\\\"고 적었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현아는 \\\"10월 4일까지 주주총회 소집 관련 통보를 받지 못했다\\\"며 \\\"핑계를 대고 시간을 끌며 지연시키고 있다. 저는 하루하루 피를 말리는 시간이다\\\"며 10월 15일까지 답신을 달라고 독촉했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"저의 마음과 상관없이 큐브로부터 퇴출당해 저의 이미지는 땅에 떨어지고 명예는 실추됐다. 아름다운 옛정을 생각하신다면 아름답게 원만히 해결되기를 소망한다\\\"고 적었다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 현아는 이던과 열애설에 대해 \\\"2016년 5월부터 교제를 이어오고 있다\\\"고 밝혔으나 큐브 측이 이를 부인하며 마찰을 빚었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "결국 큐브엔터테인먼트는 15일 보도자료를 내고 \\\"현아와 계약 해지에 합의했다. 지금까지 함께 해준 아티스트와 팬들에게 다시 한번 진심으로 감사드린다\\\"고 최종 입장을 발표했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현아 \\\"큐브 위해 몸 부서져라 일한 죄…피 말리는 시간\\\" 자필 편지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258301",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "슈퍼주니어 동해 “무릎 수술 잘 끝났어요”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 슈퍼주니어 동해가 무릎 수술 후 근황을 공개했다.\n동해는 16일 자신의 사회관계망서비스(SNS)를 통해 사진 한 장을 게재하며 “기도해주신 덕분에 수술이 아주 잘 끝났다”고 전했다.\n이어 “빨리 회복하고 재활해서 좋은 모습으로 무대에서 만나자”며 앞으로의 계획을 언급하기도 했다.\n팬들은 댓글을 통해 “화이팅”, “너무 무리하지 마 푹 쉬어요”, “수술 잘 돼서 기뻐요” 등의 응원을 보내기도 했다.\n앞서 동해는 지난해 11월 2일 열린 슈퍼주니어-D&E 정규 1집 발매 기념 기자간담회에서 “무릎이 이렇게 안 좋아질 줄 몰랐다. 의사 선생님이 수술까지 해야 한다고 말씀하셨다”고 밝힌 바 있다.\n한편 동해는 슈퍼주니어 정규 10집 활동을 비롯해 슈퍼주니어-D&E 정규 1집, 솔로 싱글 등 누구보다 바쁜 2021년을 보냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 슈퍼주니어 동해가 무릎 수술 후 근황을 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "동해는 16일 자신의 사회관계망서비스(SNS)를 통해 사진 한 장을 게재하며 “기도해주신 덕분에 수술이 아주 잘 끝났다”고 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “빨리 회복하고 재활해서 좋은 모습으로 무대에서 만나자”며 앞으로의 계획을 언급하기도 했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들은 댓글을 통해 “화이팅”, “너무 무리하지 마 푹 쉬어요”, “수술 잘 돼서 기뻐요” 등의 응원을 보내기도 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 동해는 지난해 11월 2일 열린 슈퍼주니어-D&E 정규 1집 발매 기념 기자간담회에서 “무릎이 이렇게 안 좋아질 줄 몰랐다. 의사 선생님이 수술까지 해야 한다고 말씀하셨다”고 밝힌 바 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 동해는 슈퍼주니어 정규 10집 활동을 비롯해 슈퍼주니어-D&E 정규 1집, 솔로 싱글 등 누구보다 바쁜 2021년을 보냈다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈퍼주니어 동해 “무릎 수술 잘 끝났어요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

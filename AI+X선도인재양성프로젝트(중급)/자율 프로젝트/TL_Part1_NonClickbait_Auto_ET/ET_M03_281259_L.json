@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281259",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "주미연, 트라우마 이겨낸 무대 \\\"가슴을 찌른다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘K팝스타5’에선 주미연이 무대공포증을 이기고 멋진 무대를 선보였다.\n13일 방송된 SBS ‘일요일이 좋다-서바이벌 오디션 K팝 스타 시즌5’(이하 ‘K팝스타5’)에서는 2라운드 랭킹오디션이 펼쳐졌다.\n주미연은 “고등학교 때는 남들 앞에서 노래하는 것을 좋아했지만, 입시에 실패한 후 남들 앞에서 노래하는 게 두렵다. 외모 콤플렉스도 있어서 더 커진 것 같다”며 무대공포증에 대해 언급했다.\n주미연은 “가끔 노래하는 무대에 올랐다가도 벌벌 떨다가 무대를 망치고 내려온적도 있었다. 그 이후 한 2년 동안 노래를 안하고 집에만 있기도 했다”고 털어놨다.\n이어 주미연은 엠씨더맥스의 ‘그대는 눈물겹다’를 열창했고 유희열은 “가사 한 줄 한 줄이 가슴을 찌른다”고 평했다.\n양현석은 “노래를 잘 하는 것에 플러스 하나 더 장점이 있다. 기존에 없던 목소리다. 목소리가 송곳같다. 자꾸 가슴을 찌른다”고 전했다.\n박진영 역시 “세대마다 이런 목소리를 가진 여가수가 있다. 살짝 올드하게 들릴 수 있는 톤인데 올드하지 않다. 매일 듣고 싶다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘K팝스타5’에선 주미연이 무대공포증을 이기고 멋진 무대를 선보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 방송된 SBS ‘일요일이 좋다-서바이벌 오디션 K팝 스타 시즌5’(이하 ‘K팝스타5’)에서는 2라운드 랭킹오디션이 펼쳐졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주미연은 “고등학교 때는 남들 앞에서 노래하는 것을 좋아했지만, 입시에 실패한 후 남들 앞에서 노래하는 게 두렵다. 외모 콤플렉스도 있어서 더 커진 것 같다”며 무대공포증에 대해 언급했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주미연은 “가끔 노래하는 무대에 올랐다가도 벌벌 떨다가 무대를 망치고 내려온적도 있었다. 그 이후 한 2년 동안 노래를 안하고 집에만 있기도 했다”고 털어놨다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 주미연은 엠씨더맥스의 ‘그대는 눈물겹다’를 열창했고 유희열은 “가사 한 줄 한 줄이 가슴을 찌른다”고 평했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양현석은 “노래를 잘 하는 것에 플러스 하나 더 장점이 있다. 기존에 없던 목소리다. 목소리가 송곳같다. 자꾸 가슴을 찌른다”고 전했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박진영 역시 “세대마다 이런 목소리를 가진 여가수가 있다. 살짝 올드하게 들릴 수 있는 톤인데 올드하지 않다. 매일 듣고 싶다”고 말했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "주미연, 트라우마 이겨낸 무대 \\\"가슴을 찌른다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

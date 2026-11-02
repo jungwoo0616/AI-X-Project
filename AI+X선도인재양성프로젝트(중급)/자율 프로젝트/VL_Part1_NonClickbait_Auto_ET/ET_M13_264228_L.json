@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264228",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 로제, 깔끔한 여름맞이[화보]",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크(BLACK PINK) 멤버 로제가 깔끔한 여름 데일룩을 완성했다.\n5252바이오아이오아이(5252 BY OIOI)가 블랙핑크 로제와 함께 2022 썸머 시즌을 위한 새로운 시그니처 컬렉션과 베이직 컬렉션을 금일(18일) 공개한다.\n로제는 군더더기 없는 깔끔한 스타일링을 통해 특유의 경쾌한 무드를 더했다.\n특히 로제는 로고가 프린트된 화이트 티셔츠와 데님 숏 스커트를 매치해 특별한 액세서리 없이도 편안하고 시크한 스타일로 여름을 위한 데일리 룩의 정석을 완성했다.\n한편, 5252바이오아이오아이는 3월 18일, 오후 6시부터 공식 홈페이지를 통해 뉴시즌 컬렉션과 함께 블랙핑크 로제의 새로운 화보 이미지도 공개한다.\n자세한 사항은 브랜드 공식 홈페이지와 SNS 등을 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크(BLACK PINK) 멤버 로제가 깔끔한 여름 데일룩을 완성했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5252바이오아이오아이(5252 BY OIOI)가 블랙핑크 로제와 함께 2022 썸머 시즌을 위한 새로운 시그니처 컬렉션과 베이직 컬렉션을 금일(18일) 공개한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로제는 군더더기 없는 깔끔한 스타일링을 통해 특유의 경쾌한 무드를 더했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 로제는 로고가 프린트된 화이트 티셔츠와 데님 숏 스커트를 매치해 특별한 액세서리 없이도 편안하고 시크한 스타일로 여름을 위한 데일리 룩의 정석을 완성했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 5252바이오아이오아이는 3월 18일, 오후 6시부터 공식 홈페이지를 통해 뉴시즌 컬렉션과 함께 블랙핑크 로제의 새로운 화보 이미지도 공개한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자세한 사항은 브랜드 공식 홈페이지와 SNS 등을 통해 확인할 수 있다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 로제, 깔끔한 여름맞이[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

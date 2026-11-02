@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261264",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신세경, 칼단발 변신…누가 꽃이야?",
+		"newsSubTitle": "",
+		"newsContent": "배우 신세경이 근황을 공개했다.\n신세경은 17일 자신의 사회관계망서비스(SNS)에 꽃다발을 들고 밝게 웃고 있는 영상을 올렸다.\n영상 속 그는 기존에 고수하던 긴 머리를 자르고 단발로 변신한 모습을 보여줬다.\n해당 게시물에 배우 임수향은 “천사가 단발을 했다”며 감탄했고, 소녀시대 수영 역시 “세상에 세상에” 라며 찬사 행렬에 동참했다.\n누리꾼들은 “살아 움직이는 인형이다” “누가 꽃인지 모르겠다” “청순하고 아름답고 예쁘다”며 긍정적인 반응을 보였다.\n신세경은 1998년 서태지의 5집 포스터 모델로 데뷔했다.\n2009년부터 2010년까지 방영된 MBC 시트콤 ‘지붕 뚫고 하이킥’에 출연하여 스타덤에 올랐다.\n지난해 10월 다큐멘터리 영화 ‘어나더 레코드’에서 주연을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 신세경이 근황을 공개했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신세경은 17일 자신의 사회관계망서비스(SNS)에 꽃다발을 들고 밝게 웃고 있는 영상을 올렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 그는 기존에 고수하던 긴 머리를 자르고 단발로 변신한 모습을 보여줬다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물에 배우 임수향은 “천사가 단발을 했다”며 감탄했고, 소녀시대 수영 역시 “세상에 세상에” 라며 찬사 행렬에 동참했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 “살아 움직이는 인형이다” “누가 꽃인지 모르겠다” “청순하고 아름답고 예쁘다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신세경은 1998년 서태지의 5집 포스터 모델로 데뷔했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2009년부터 2010년까지 방영된 MBC 시트콤 ‘지붕 뚫고 하이킥’에 출연하여 스타덤에 올랐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 10월 다큐멘터리 영화 ‘어나더 레코드’에서 주연을 맡았다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신세경, 칼단발 변신…누가 꽃이야?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

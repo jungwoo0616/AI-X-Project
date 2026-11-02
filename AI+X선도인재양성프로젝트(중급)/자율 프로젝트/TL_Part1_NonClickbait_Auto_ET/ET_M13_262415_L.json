@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262415",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "올레나, 계좌 공개하며 “우크라이나에 기부해주세요”",
+		"newsSubTitle": "",
+		"newsContent": "우크라이나 출신 방송인 겸 모델 올레나가 한국 팬들을 향해 도움의 손길을 요청했다.\n올레나는 지난달 28일 자신의 SNS 인스타그램 스토리에 우크라이나 중앙은행 계좌를 공개하며 “여기로 보내면 우크라이나 정부에 기부하실 수 있다. 송금 승인 시간이 좀 걸리긴 하다”는 글을 남겼다.\n그는 “전쟁에 직접 지원하는 게 개인 윤리관상 꺼름칙하면 적십자를 추천드린다”라고 한국인들에게 호소했다.\n그는 지난달 24일 러시아의 침공으로 인해 자신의 고향 우크라이나에서 벌어지고 있는 끔찍한 전쟁 상황을 실시간으로 공유하며 “한국에서도 알아야 한다”고 목소리를 높이기도 했다.\n올레나는 MBC every1 예능 프로그램 ‘대한 외국인’에 출연 중인 우크라이나 출신 모델이다.\n최근 MBC 공식 유튜브 채널 ‘엠빅뉴스’ 측이 코미디언 출신인 우크라이나 젤렌스키 대통령을 두고 ‘아마추어 같은 정치 행보’라고 표현하자 “한국 뉴스가 이렇게 말도 안 되는 영상을 만드는 게 부끄럽지도 않나”면서 “2022년 언론의 행태가 마치 80년대 독재정권 뉴스에서 나올 법한 스탠스를 취하고 있다”라고 지적한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우크라이나 출신 방송인 겸 모델 올레나가 한국 팬들을 향해 도움의 손길을 요청했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올레나는 지난달 28일 자신의 SNS 인스타그램 스토리에 우크라이나 중앙은행 계좌를 공개하며 “여기로 보내면 우크라이나 정부에 기부하실 수 있다. 송금 승인 시간이 좀 걸리긴 하다”는 글을 남겼다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “전쟁에 직접 지원하는 게 개인 윤리관상 꺼름칙하면 적십자를 추천드린다”라고 한국인들에게 호소했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 지난달 24일 러시아의 침공으로 인해 자신의 고향 우크라이나에서 벌어지고 있는 끔찍한 전쟁 상황을 실시간으로 공유하며 “한국에서도 알아야 한다”고 목소리를 높이기도 했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올레나는 MBC every1 예능 프로그램 ‘대한 외국인’에 출연 중인 우크라이나 출신 모델이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 MBC 공식 유튜브 채널 ‘엠빅뉴스’ 측이 코미디언 출신인 우크라이나 젤렌스키 대통령을 두고 ‘아마추어 같은 정치 행보’라고 표현하자 “한국 뉴스가 이렇게 말도 안 되는 영상을 만드는 게 부끄럽지도 않나”면서 “2022년 언론의 행태가 마치 80년대 독재정권 뉴스에서 나올 법한 스탠스를 취하고 있다”라고 지적한 바 있다.",
+				"sentenceSize": 183
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올레나, 계좌 공개하며 “우크라이나에 기부해주세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

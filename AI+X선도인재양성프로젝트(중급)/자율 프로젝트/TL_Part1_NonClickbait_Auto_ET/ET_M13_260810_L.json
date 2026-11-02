@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260810",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘100만 유튜버’ 유정호, 사기혐의로 5년 실형",
+		"newsSubTitle": "",
+		"newsContent": "지인들에게 15억원을 빌린 뒤 갚지 않은 혐의로 재판에 넘겨진 100만 유튜버 유정호가 실형을 선고받은 것으로 전해졌다.\n매일신문에 따르면 대구지법 서부지원 제1형사부(부장판사 김정일)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의로 넘겨진 유정호에게 징역 5년을 선고했다.\n유정호는 배모씨에게 ‘지인들에게서 빌린 돈을 사기당했으니 빚을 대신 갚아달라’며 15억5000만원을 가로챈 혐의를 받았다.\n유정호는 해당 자금을 도박빚으로 탕진한 것으로 전해졌다.\n보도에 따르면 재판부는 “피해자가 자신의 부탁을 들어주지 않을 수 없는 상황임을 잘 알면서 이를 이용해 피해자를 기망하고 15억여 원에 이르는 돈을 가로 채 그 죄질이 나쁘다”며 “자신의 범행을 인정하지 않고 피해 회복이 되지 않은 점, 피해자가 엄벌을 탄원하는 점 등을 감안했다”고 판단했다.\n구속된 상태에서 재판을 받은 유정호의 항소 여부에 대해서는 알려지지 않았다. ‘선한 이미지’로 약 100만명이 넘는 구독자 수를 모은 유정호는 최근 사기 혐의가 알려지자 논란이 일었다.\n그는 재판을 받으면서 자신의 무죄를 주장하고 있는 것으로도 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지인들에게 15억원을 빌린 뒤 갚지 않은 혐의로 재판에 넘겨진 100만 유튜버 유정호가 실형을 선고받은 것으로 전해졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매일신문에 따르면 대구지법 서부지원 제1형사부(부장판사 김정일)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의로 넘겨진 유정호에게 징역 5년을 선고했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유정호는 배모씨에게 ‘지인들에게서 빌린 돈을 사기당했으니 빚을 대신 갚아달라’며 15억5000만원을 가로챈 혐의를 받았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유정호는 해당 자금을 도박빚으로 탕진한 것으로 전해졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보도에 따르면 재판부는 “피해자가 자신의 부탁을 들어주지 않을 수 없는 상황임을 잘 알면서 이를 이용해 피해자를 기망하고 15억여 원에 이르는 돈을 가로 채 그 죄질이 나쁘다”며 “자신의 범행을 인정하지 않고 피해 회복이 되지 않은 점, 피해자가 엄벌을 탄원하는 점 등을 감안했다”고 판단했다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구속된 상태에서 재판을 받은 유정호의 항소 여부에 대해서는 알려지지 않았다. ‘선한 이미지’로 약 100만명이 넘는 구독자 수를 모은 유정호는 최근 사기 혐의가 알려지자 논란이 일었다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 재판을 받으면서 자신의 무죄를 주장하고 있는 것으로도 알려졌다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘100만 유튜버’ 유정호, 사기혐의로 5년 실형",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

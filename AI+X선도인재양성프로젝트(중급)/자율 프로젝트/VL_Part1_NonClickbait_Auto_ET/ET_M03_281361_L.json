@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281361",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "제시카 고메즈, ‘이것이 톱 모델의 보디라인’",
+		"newsSubTitle": "",
+		"newsContent": "제시카 고메즈의 화보 촬영 영상이 화제다.\n최근 동영상 전문 사이트를 통해 제시카 고메즈의 의류 화보 촬영장 영상이 공개됐다.\n공개된 영상 속 제시카는 풍만한 몸매와 남성 팬들의 마음을 사로잡는 몽환적인 표정으로 톱 모델다운 위엄을 뽐낸다.\n특히 가슴 주요 부위를 의상으로 겨우 가린 포즈는 아찔함을 더해 시선을 사로잡는다.\n접한 네티즌들은 \\\"제시카 고메즈 몸매 놀랍다\\\", \\\"바위는 복받았네\\\", \\\"제시카 고메즈 때문에 일을 못하겠네\\\" 등 다양한 반응을 보였다.\n온라인 중앙일보 사진=유투브 캡처",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제시카 고메즈의 화보 촬영 영상이 화제다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 동영상 전문 사이트를 통해 제시카 고메즈의 의류 화보 촬영장 영상이 공개됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속 제시카는 풍만한 몸매와 남성 팬들의 마음을 사로잡는 몽환적인 표정으로 톱 모델다운 위엄을 뽐낸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 가슴 주요 부위를 의상으로 겨우 가린 포즈는 아찔함을 더해 시선을 사로잡는다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "접한 네티즌들은 \\\"제시카 고메즈 몸매 놀랍다\\\", \\\"바위는 복받았네\\\", \\\"제시카 고메즈 때문에 일을 못하겠네\\\" 등 다양한 반응을 보였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 사진=유투브 캡처",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제시카 고메즈, ‘이것이 톱 모델의 보디라인’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

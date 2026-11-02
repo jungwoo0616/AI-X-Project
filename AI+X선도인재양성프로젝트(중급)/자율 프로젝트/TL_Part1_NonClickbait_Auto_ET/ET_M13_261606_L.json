@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261606",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유승호, 새 둥지→“YG와 긍정적 논의 중”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 유승호가 YG엔터테인먼트와의 동행을 긍정적으로 검토 중이다.\n21일 스포츠경향 취재 결과 유승호는 이전 소속사 스토리제이컴퍼니와 계약을 종료하고, 새로운 소속사로 YG엔터테인먼트와 논의 중인 것으로 확인됐다.\nYG는 오늘(21일) 스포츠경향에 “YG엔터테인먼트와 배우 유승호와는 계약을 긍정적으로 진행하고 있다”고 밝혔다.\n유승호는 지난 2000년 드라마 ‘가시고기’에서 아역 배우로 데뷔해 2002년 영화 ‘집으로’를 통해 대중에게 본격적으로 이름을 알렸다. ‘국민 남동생’ 수식어를 거머쥐며 드라마 ‘태왕사신기’ ‘선덕여왕’ ‘공부의 신’ ‘보고 싶다’ 등에 출연했던 유승호는 지난 2013년 21살의 나이로 입대해 군 복무를 마치고 보다 성숙해진 모습으로 연기에 복귀했다.\n이후 드라마 ‘리멤버’ ‘군주’ ‘로봇이 아니야’ ‘복수가 돌아왔다’ ‘메모리스트’와 영화 ‘마음이’ ‘조선마술사’ ‘봉이 김선달’ 등 사극과 현대극, 로맨틱 코미디와 장르물까지 다양한 작품에서 활약했다.\n현재 방송 중인 KBS 2TV 월·화 드라마 ‘꽃 피면 달 생각하고’에서 원칙에 죽고 원칙에 사는 조선 최고의 감찰관 남영 역할로 시청자와 만나고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유승호가 YG엔터테인먼트와의 동행을 긍정적으로 검토 중이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 스포츠경향 취재 결과 유승호는 이전 소속사 스토리제이컴퍼니와 계약을 종료하고, 새로운 소속사로 YG엔터테인먼트와 논의 중인 것으로 확인됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "YG는 오늘(21일) 스포츠경향에 “YG엔터테인먼트와 배우 유승호와는 계약을 긍정적으로 진행하고 있다”고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유승호는 지난 2000년 드라마 ‘가시고기’에서 아역 배우로 데뷔해 2002년 영화 ‘집으로’를 통해 대중에게 본격적으로 이름을 알렸다. ‘국민 남동생’ 수식어를 거머쥐며 드라마 ‘태왕사신기’ ‘선덕여왕’ ‘공부의 신’ ‘보고 싶다’ 등에 출연했던 유승호는 지난 2013년 21살의 나이로 입대해 군 복무를 마치고 보다 성숙해진 모습으로 연기에 복귀했다.",
+				"sentenceSize": 198
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 드라마 ‘리멤버’ ‘군주’ ‘로봇이 아니야’ ‘복수가 돌아왔다’ ‘메모리스트’와 영화 ‘마음이’ ‘조선마술사’ ‘봉이 김선달’ 등 사극과 현대극, 로맨틱 코미디와 장르물까지 다양한 작품에서 활약했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 방송 중인 KBS 2TV 월·화 드라마 ‘꽃 피면 달 생각하고’에서 원칙에 죽고 원칙에 사는 조선 최고의 감찰관 남영 역할로 시청자와 만나고 있다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유승호, 새 둥지→“YG와 긍정적 논의 중”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

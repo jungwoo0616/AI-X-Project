@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165234",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이돌 비하 논란에 휩싸인 자이언티 신곡 가사",
+    "newsSubTitle": "",
+    "newsContent": "가수 자이언티의 신곡 가사가 아이돌을 비하한 게 아니냐는 논란에 휩싸였다.\n자이언티가 1일 0시 발매한 신곡 '콤플렉스'의 가사가 논란이 되고 있다.\n노래에 등장하는 가사 때문이다.\n문제가 된 표현은 다음과 같다. '내가 아이돌이었으면 좋겠어. 춤 잘 추고 잘생긴 놈 dance. 사랑 노래만 쓰면 되니까. 노래 못하면 벗으면 되니까' 이에 대해 일부 네티즌들은 \\\"노래 못하면 벗으면 된다니 아이돌을 노골적으로 비하한게 아니냐\\\"며 문제를 제기했다.\n하지만 자이언티는 \\\"절대로 아이돌 비하 발언은 아니다\\\"며 논란을 부정했다.\n이어 그는 \\\"그 긴 시간 동안 연습생 생활을 거쳐 정말 희박한 경쟁률을 뚫고 데뷔에 성공해 무대에 오른 그분들을 감히 비하할 수 있다고 생각하지 않는다\\\" \\\"길이 다르고, 길이 다르기 때문에 오히려 이야기할 수 있는 부분이라고 생각했다. 한 가지 분명히 말씀드리고 싶은 건 절대 비하 발언이 아니고 화를 내지 말아 달라는 말씀이다\\\"고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 자이언티의 신곡 가사가 아이돌을 비하한 게 아니냐는 논란에 휩싸였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자이언티가 1일 0시 발매한 신곡 '콤플렉스'의 가사가 논란이 되고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "노래에 등장하는 가사 때문이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문제가 된 표현은 다음과 같다. '내가 아이돌이었으면 좋겠어. 춤 잘 추고 잘생긴 놈 dance. 사랑 노래만 쓰면 되니까. 노래 못하면 벗으면 되니까' 이에 대해 일부 네티즌들은 \\\"노래 못하면 벗으면 된다니 아이돌을 노골적으로 비하한게 아니냐\\\"며 문제를 제기했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 자이언티는 \\\"절대로 아이돌 비하 발언은 아니다\\\"며 논란을 부정했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 그는 \\\"그 긴 시간 동안 연습생 생활을 거쳐 정말 희박한 경쟁률을 뚫고 데뷔에 성공해 무대에 오른 그분들을 감히 비하할 수 있다고 생각하지 않는다\\\" \\\"길이 다르고, 길이 다르기 때문에 오히려 이야기할 수 있는 부분이라고 생각했다. 한 가지 분명히 말씀드리고 싶은 건 절대 비하 발언이 아니고 화를 내지 말아 달라는 말씀이다\\\"고 전했다.",
+        "sentenceSize": 194
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이돌 비하 논란에 휩싸인 신곡 가사... 노래 못하면 벗으면 된다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

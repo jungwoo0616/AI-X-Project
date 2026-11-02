@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260354",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘스우파’ 핫한 그녀들 힙합으로 ‘퇴근길 스트레스 타파’",
+		"newsSubTitle": "",
+		"newsContent": "엠넷 ‘스트릿 우먼 파이터’로 화제를 몰고 온 ‘핫한 언니들’ 모니카·허니제이·가비가 각각 자신만의 ‘합함’을 뽐냈다.\n모니카·허니제이·가비는 8일 자신의 SNS에 한껏 멋스럽게 꾸민 모습을 공개했다.\n모니카는 사진과 함께 “나를 기다려(Wait for me)”라는 글을 올려 팬들의 궁금증을 자아냈다.\n허니제이는 “오늘도 #기카노보”라는 글과 함께 사진을 게재했다.\n여기에 한 누리꾼이 “기카노보 뭔지 설명해주실 분... 혹시 기본 카메라 노 보정인가요?”라고 묻자 허니제이가 “넹 made by me...☆”라고 대답했다.\n기본 카메라로 보정 하지 않은 사진이라는 의미였다.\n가비는 “나 보고 싶다 그랬다면서?!♥ 허세가 잔뜩 들린 선배”라는 글과 함께 사진을 게재했다. ‘힙한 언니들’답게 각자의 개성으로 멋스러움을 표현했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엠넷 ‘스트릿 우먼 파이터’로 화제를 몰고 온 ‘핫한 언니들’ 모니카·허니제이·가비가 각각 자신만의 ‘합함’을 뽐냈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모니카·허니제이·가비는 8일 자신의 SNS에 한껏 멋스럽게 꾸민 모습을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모니카는 사진과 함께 “나를 기다려(Wait for me)”라는 글을 올려 팬들의 궁금증을 자아냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허니제이는 “오늘도 #기카노보”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 한 누리꾼이 “기카노보 뭔지 설명해주실 분... 혹시 기본 카메라 노 보정인가요?”라고 묻자 허니제이가 “넹 made by me...☆”라고 대답했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기본 카메라로 보정 하지 않은 사진이라는 의미였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가비는 “나 보고 싶다 그랬다면서?!♥ 허세가 잔뜩 들린 선배”라는 글과 함께 사진을 게재했다. ‘힙한 언니들’답게 각자의 개성으로 멋스러움을 표현했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘스우파’ 핫한 그녀들 힙합으로 ‘퇴근길 스트레스 타파’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167481",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "김용준, 26일 ‘그때, 우린’ 발매[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 SG워너비 김용준이 4개월 만에 신곡을 발매한다.\n소속사 더블에이치티엔이는 지난 20일 공식 유튜브 채널을 통해 김용준의 새 싱글 ‘그때, 우린’의 첫 번째 뮤직비디오 티저를 공개했다.\n공개된 뮤직비디오 티저에는 휘날리는 커튼을 배경으로 유리병에 형형색색의 모래가 담겨 있어 눈길을 끌었다.\n특히 김용준의 미성이 등장해 아련한 분위기를 자아냈다. ‘그때, 우린’은 지난 1월 김용준이 발매한 첫 솔로곡 ‘이쁘지나 말지’ 이후 4개월 만에 선보이는 싱글이다.\n김용준은 이번 신곡을 통해 ‘보컬 장인’의 저력을 보여줄 전망이다.\n한편 김용준의 새 싱글 ‘그때, 우린’은 오는 26일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 SG워너비 김용준이 4개월 만에 신곡을 발매한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 더블에이치티엔이는 지난 20일 공식 유튜브 채널을 통해 김용준의 새 싱글 ‘그때, 우린’의 첫 번째 뮤직비디오 티저를 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 뮤직비디오 티저에는 휘날리는 커튼을 배경으로 유리병에 형형색색의 모래가 담겨 있어 눈길을 끌었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 김용준의 미성이 등장해 아련한 분위기를 자아냈다. ‘그때, 우린’은 지난 1월 김용준이 발매한 첫 솔로곡 ‘이쁘지나 말지’ 이후 4개월 만에 선보이는 싱글이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김용준은 이번 신곡을 통해 ‘보컬 장인’의 저력을 보여줄 전망이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김용준의 새 싱글 ‘그때, 우린’은 오는 26일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SG워너비 김용준, 싱글 앨범 뮤직비디오 티저 공개... 누리꾼 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

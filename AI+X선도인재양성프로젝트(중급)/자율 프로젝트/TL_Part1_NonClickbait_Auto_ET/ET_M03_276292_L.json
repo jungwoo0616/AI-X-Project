@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276292",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "초등학생때부터 남달랐던 장윤주의 초현실적 비율",
+		"newsSubTitle": "",
+		"newsContent": "모델 장윤주가 초등학생 시절 사진을 공개했다.\n장윤주는 지난 3일 인스타그램에 \\\"자료사진 찾다 오랜만에 ㅎㅎ\\\"라며 초등학생 시절 사진 두 장을 공개했다. '추억소환' '초등학생윤주' '언니옷입고찰칵' '귀염둥이죠?'라는 문구를 더했다.\n사진에는 단정한 차림을 한 어릴 적 장윤주의 모습이 담겨 있다.\n초등학생 때라고는 믿기 힘든 체격이 눈길을 끈다.\n체격에 비해 많이 작은 얼굴 크기에 네티즌들은 더욱 감탄했다.\n네티즌들은 \\\"초등학생 때부터 남다른 키를 가졌다\\\" \\\"떡잎부터 다르다는 말은 이럴 때 쓰는 거다\\\" \\\"키가 큰 것뿐만 아니라 다리가 말도 안 되게 길다\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 장윤주가 초등학생 시절 사진을 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장윤주는 지난 3일 인스타그램에 \\\"자료사진 찾다 오랜만에 ㅎㅎ\\\"라며 초등학생 시절 사진 두 장을 공개했다. '추억소환' '초등학생윤주' '언니옷입고찰칵' '귀염둥이죠?'라는 문구를 더했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 단정한 차림을 한 어릴 적 장윤주의 모습이 담겨 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "초등학생 때라고는 믿기 힘든 체격이 눈길을 끈다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "체격에 비해 많이 작은 얼굴 크기에 네티즌들은 더욱 감탄했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 \\\"초등학생 때부터 남다른 키를 가졌다\\\" \\\"떡잎부터 다르다는 말은 이럴 때 쓰는 거다\\\" \\\"키가 큰 것뿐만 아니라 다리가 말도 안 되게 길다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "초등학생때부터 남달랐던 장윤주의 초현실적 비율",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

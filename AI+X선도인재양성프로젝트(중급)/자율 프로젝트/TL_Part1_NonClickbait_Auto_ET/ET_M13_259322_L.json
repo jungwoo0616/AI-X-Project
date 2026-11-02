@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259322",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘내 이름은 캐디’ 안정환×김성주, 필드 위의 톰과 제리",
+		"newsSubTitle": "",
+		"newsContent": "안정환이 뜻밖의 전력 질주로 웃음을 안겼다.\n26일 방송되는 ‘내 이름은 캐디’에서 안정환은 김성주와 뺏고 뺏기는 쟁탈전을 벌이며 필드에서 승부욕을 불태웠다.\n지난주 방송에 이어 김정은, 최기환, 홍성흔과 함께 골프 경기를 치른 캐디 이승철, 김성주, 안정환은 네 번째 홀에서도 역할에 충실하며 원활한 진행을 도왔다.\n안정환은 홍성흔을 위해 먼 거리를 달려가, 자신의 선글라스를 타격 기준점으로 잡으라며 잔디에 꽂아주었고, 이를 본 최기환이 “저도 방향 좀 찍어주세요”라며 캐디인 김성주에게 요청했다.\n이에 김성주는 안정환이 꽂아 놓은 선글라스를 뽑아 최기환의 위치로 옮겨 두자 안정환은 버럭 화를 내며 “형 방송 나가면 이미지 안 좋아질 거야”라고 말해 웃음을 안겼다.\n또 최기환은 힘들게 달려온 김성주를 향해 “골프채 주세요”라며 요청했고 김성주는 “저기까지 뛰어갔다 왔으면 채는 직접 가져와야지. 까마득한 후배가…”라며 서운함을 분노로 표출해 촬영장을 폭소케 만들었다.\n한편 안정환은 남 잘 되는 꼴은 못보겠다며 마지막까지 전력 질주로 최기환의 타격 기준점인 선글라스를 다시 뽑아 재미를 유발했다.\n방송은 오늘 밤 9시 채널 IHQ에서 시청할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안정환이 뜻밖의 전력 질주로 웃음을 안겼다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 방송되는 ‘내 이름은 캐디’에서 안정환은 김성주와 뺏고 뺏기는 쟁탈전을 벌이며 필드에서 승부욕을 불태웠다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난주 방송에 이어 김정은, 최기환, 홍성흔과 함께 골프 경기를 치른 캐디 이승철, 김성주, 안정환은 네 번째 홀에서도 역할에 충실하며 원활한 진행을 도왔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안정환은 홍성흔을 위해 먼 거리를 달려가, 자신의 선글라스를 타격 기준점으로 잡으라며 잔디에 꽂아주었고, 이를 본 최기환이 “저도 방향 좀 찍어주세요”라며 캐디인 김성주에게 요청했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 김성주는 안정환이 꽂아 놓은 선글라스를 뽑아 최기환의 위치로 옮겨 두자 안정환은 버럭 화를 내며 “형 방송 나가면 이미지 안 좋아질 거야”라고 말해 웃음을 안겼다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 최기환은 힘들게 달려온 김성주를 향해 “골프채 주세요”라며 요청했고 김성주는 “저기까지 뛰어갔다 왔으면 채는 직접 가져와야지. 까마득한 후배가…”라며 서운함을 분노로 표출해 촬영장을 폭소케 만들었다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 안정환은 남 잘 되는 꼴은 못보겠다며 마지막까지 전력 질주로 최기환의 타격 기준점인 선글라스를 다시 뽑아 재미를 유발했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방송은 오늘 밤 9시 채널 IHQ에서 시청할 수 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘내 이름은 캐디’ 안정환×김성주, 필드 위의 톰과 제리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

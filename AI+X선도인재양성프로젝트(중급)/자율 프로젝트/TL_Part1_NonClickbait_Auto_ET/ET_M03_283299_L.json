@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283299",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "빅뱅·아이콘, 2015 MAMA 무대 출연 확정, \\\"취향저격 빵야빵야빵야~\\\" 기대",
+		"newsSubTitle": "",
+		"newsContent": "빅뱅 아이콘 빅뱅과 아이콘은 12월 2일 홍콩에서 열리는 ‘2015 엠넷 아시안 뮤직 어워즈(Mnet Asian Music Awards·이하 MAMA)’ 무대에 참석하기로 결정했다.\n빅뱅은 지난 5월부터 8월까지 매달 ‘M’, ‘A’, ‘D’, ‘E’ 프로젝트 싱글 앨범을 발매, 발표하는 곡마다 큰 인기를 누리며 올해 독보적인 활약을 펼쳤다.\n아이콘은 지난 9월 말 ‘취향저격’으로 화려한 데뷔 신고식을 치렀다.\n각종 음원 사이트와 음악방송에서 1위를 차지하는 등 ‘괴물 신인’다운 면모를 보였다.\n올 한해 가요계를 뒤돌아 볼 때 YG 빅뱅과 아이콘을 빼놓을 수 없는 상황에서 양현석 YG대표 프로듀서는 최근 MAMA 주최 측에 일정 조율 등과 관련 노골적인 불만을 드러내 관심이 쏠리기도 했다. ‘MAMA’는 CJ E&M이 주최하는 아시아 대표 음악 시상식이다.\n올해 7회째. 1999년 ‘Mnet 영상음악대상’으로 시작해 2009년을 기점으로 ‘MAMA’로 변모했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅뱅 아이콘 빅뱅과 아이콘은 12월 2일 홍콩에서 열리는 ‘2015 엠넷 아시안 뮤직 어워즈(Mnet Asian Music Awards·이하 MAMA)’ 무대에 참석하기로 결정했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅뱅은 지난 5월부터 8월까지 매달 ‘M’, ‘A’, ‘D’, ‘E’ 프로젝트 싱글 앨범을 발매, 발표하는 곡마다 큰 인기를 누리며 올해 독보적인 활약을 펼쳤다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이콘은 지난 9월 말 ‘취향저격’으로 화려한 데뷔 신고식을 치렀다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각종 음원 사이트와 음악방송에서 1위를 차지하는 등 ‘괴물 신인’다운 면모를 보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올 한해 가요계를 뒤돌아 볼 때 YG 빅뱅과 아이콘을 빼놓을 수 없는 상황에서 양현석 YG대표 프로듀서는 최근 MAMA 주최 측에 일정 조율 등과 관련 노골적인 불만을 드러내 관심이 쏠리기도 했다. ‘MAMA’는 CJ E&M이 주최하는 아시아 대표 음악 시상식이다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 7회째. 1999년 ‘Mnet 영상음악대상’으로 시작해 2009년을 기점으로 ‘MAMA’로 변모했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅뱅·아이콘, 2015 MAMA 무대 출연 확정, \\\"취향저격 빵야빵야빵야~\\\" 기대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

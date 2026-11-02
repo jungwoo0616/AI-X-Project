@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274034",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘불후의 명곡’ 이찬원·이무진이 울었다",
+		"newsSubTitle": "",
+		"newsContent": "가수 이찬원과 이무진이 동시에 눈물을 흘렸다.\n이찬원과 이무진은 25일 오후 방송되는 KBS2 ‘불후의 명곡’에서 ‘아티스트 백지영’ 편에 도전한 가수들의 무대에 울컥 눈물을 쏟았다.\n이날 MC 이찬원과 이무진은 국경을 초월한 듀엣 폴포츠와 완이화의 ‘잊지 말아요’ 무대에 눈시울을 적셨다.\n두 사람이 만들어낸 감동의 하모니에 눈물샘이 툭 건드려졌다고. 특히 미얀마 소녀 완이화의 숨겨진 사연에 현장은 안타까움으로 물들었다.\n완이화는 “내가 ‘불후의 명곡’ 무대에 서길 소망했던 어머니가 얼마 전 돌아가셨다. 돌아가신 어머니에게 들려주고 싶다”며 애틋함과 그림움으로 가득 찬 ‘잊지 말아요’ 무대를 선사했다.\n그의 진심에 관객석과 토크 대기실 곳곳은 울음으로 넘쳐났다.\n이밖에도 ‘불후의 명곡’에선 서은광, 김기태, 카드, 프로미스나인 등도 출연해 불꽃 튀는 전쟁을 벌였다.\n이찬원과 이무진을 울린 ‘잊지 말아요’ 무대는 이날 오후 6시10분에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이찬원과 이무진이 동시에 눈물을 흘렸다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이찬원과 이무진은 25일 오후 방송되는 KBS2 ‘불후의 명곡’에서 ‘아티스트 백지영’ 편에 도전한 가수들의 무대에 울컥 눈물을 쏟았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 MC 이찬원과 이무진은 국경을 초월한 듀엣 폴포츠와 완이화의 ‘잊지 말아요’ 무대에 눈시울을 적셨다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람이 만들어낸 감동의 하모니에 눈물샘이 툭 건드려졌다고. 특히 미얀마 소녀 완이화의 숨겨진 사연에 현장은 안타까움으로 물들었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "완이화는 “내가 ‘불후의 명곡’ 무대에 서길 소망했던 어머니가 얼마 전 돌아가셨다. 돌아가신 어머니에게 들려주고 싶다”며 애틋함과 그림움으로 가득 찬 ‘잊지 말아요’ 무대를 선사했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그의 진심에 관객석과 토크 대기실 곳곳은 울음으로 넘쳐났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에도 ‘불후의 명곡’에선 서은광, 김기태, 카드, 프로미스나인 등도 출연해 불꽃 튀는 전쟁을 벌였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이찬원과 이무진을 울린 ‘잊지 말아요’ 무대는 이날 오후 6시10분에 만나볼 수 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘불후의 명곡’ 이찬원·이무진이 울었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

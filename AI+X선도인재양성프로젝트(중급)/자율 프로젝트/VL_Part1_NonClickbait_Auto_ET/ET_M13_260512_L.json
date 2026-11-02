@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260512",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘맛녀석’ 김민경→문세윤, 보리굴비&간장게장 습격사건",
+		"newsSubTitle": "",
+		"newsContent": "뚱5가 밥도둑으로 활약한다.\n오는 11일(금) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 364회에서는 ‘밥도둑 특집’으로 보리굴비와 간장게장을 먹으러 나서는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 공개된다.\n뚱5는 최근 진행된 녹화에서 유도적, 나홀로민경, 뚱정재, 홍발장, 김꺽정 등으로 변신해 웃음을 안길 예정이다.\n이들은 첫 번째 맛집에서 보리굴비와 함께 17공기의 밥을 훔친다.\n특히 김민경은 “난 우리 어머니가 굴비를 좋아하는지 몰랐다”라면서 이와 관련된 에피소드를 고백해 녹화 현장을 눈물바다로 만들었다.\n한편 밥도둑으로 변신한 뚱5의 활약은 오는 11일 저녁 8시, 채널 IHQ에서 방송되는 ‘맛있는 녀석들’ 364회에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뚱5가 밥도둑으로 활약한다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 11일(금) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 364회에서는 ‘밥도둑 특집’으로 보리굴비와 간장게장을 먹으러 나서는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 공개된다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뚱5는 최근 진행된 녹화에서 유도적, 나홀로민경, 뚱정재, 홍발장, 김꺽정 등으로 변신해 웃음을 안길 예정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 첫 번째 맛집에서 보리굴비와 함께 17공기의 밥을 훔친다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 김민경은 “난 우리 어머니가 굴비를 좋아하는지 몰랐다”라면서 이와 관련된 에피소드를 고백해 녹화 현장을 눈물바다로 만들었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 밥도둑으로 변신한 뚱5의 활약은 오는 11일 저녁 8시, 채널 IHQ에서 방송되는 ‘맛있는 녀석들’ 364회에서 확인할 수 있다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘맛녀석’ 김민경→문세윤, 보리굴비&간장게장 습격사건",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

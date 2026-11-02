@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276099",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "손담비, 스케이팅 국가대표 출신 이규혁과 열애…친구에서 연인으로",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 손담비(38)가 전 스피드 스케이팅 국가대표 출신 이규혁(43) 감독과 열애 중이다.\n2일 손담비 소속사 에이치앤드엔터테인먼트는 “손담비씨가 이규혁 감독과 만남을 갖고 있다”며 “두 사람은 친구로 지내다 3개월 전부터 교제를 시작했다”고 밝혔다.\n손담비는 2007년 가수로 데뷔해 ‘미쳤어’, ‘토요일 밤에’ 등 히트곡을 냈으며, 드라마 ‘드림’, ‘동백꽃 필 무렵’ 등에 출연하며 배우로 활동하고 있다.\n현재는 iHQ 예능 ‘언니가 쏜다’ MC를 맡고 있다.\n이규혁은 1991년 스피드 스케이팅 국가대표로 선발돼 올림픽 무대에 6번섰으며, 2014년 소치 동계올림픽을 끝으로 선수 생활을 은퇴했다.\n현재 iHQ 스피드 스케이팅팀 감독을 맡고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 손담비(38)가 전 스피드 스케이팅 국가대표 출신 이규혁(43) 감독과 열애 중이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 손담비 소속사 에이치앤드엔터테인먼트는 “손담비씨가 이규혁 감독과 만남을 갖고 있다”며 “두 사람은 친구로 지내다 3개월 전부터 교제를 시작했다”고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손담비는 2007년 가수로 데뷔해 ‘미쳤어’, ‘토요일 밤에’ 등 히트곡을 냈으며, 드라마 ‘드림’, ‘동백꽃 필 무렵’ 등에 출연하며 배우로 활동하고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재는 iHQ 예능 ‘언니가 쏜다’ MC를 맡고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이규혁은 1991년 스피드 스케이팅 국가대표로 선발돼 올림픽 무대에 6번섰으며, 2014년 소치 동계올림픽을 끝으로 선수 생활을 은퇴했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 iHQ 스피드 스케이팅팀 감독을 맡고 있다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손담비, 스케이팅 국가대표 출신 이규혁과 열애…친구에서 연인으로",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263817",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이들 “첫 정규, 다섯명 아이들의 남다른 모습 보여줄 것”(여자)",
+		"newsSubTitle": "",
+		"newsContent": "그룹 (여자)아이들이 새 앨범을 설명했다.\n민니는 14일 온라인으로 진행된 첫 정규 앨범 ‘아이 네버 다이(I NEVER DIE)’ 발매 쇼케이스에서 앨범 수록곡 ‘올레디’와 ‘이스케이프’ 작업에 참여한 것과 관련 “첫 정규인 만큼 신경을 많이 썼다. 프로듀싱 다 참여한 곡이니까 수록곡 하나 하나까지 예쁘게 들어주셨으면 좋겠다”고 말했다.\n우기 역시 수록곡 ‘폴라로이드’에 참여한 것과 관련 “영광이다. 항상 곡을 쓰고 있는데 정규 앨범에 실을 수 있고 팬들에게 들려줄 수 있어 행복하다”라고 전했다.\n소연은 “이번 앨범은 전체적으로, 비주얼적으로도 신경을 많이 썼다. 다섯명 아이들의 남다른 모습을 보여주고 싶었다”고 해 기대를 높였다. (여자)아이들의 첫 정규 앨범 ‘아이 네버 다이’는 세상의 모든 편견에 대한 (여자)아이들 감정과 생각들을 고스란히 담아낸 앨범이다.\n타이틀곡 ‘톰보이’를 비롯해 록, 팝, 알앤비, 힙합 등 다채로운 장르의 아홉 트랙을 담았으며, 멤버들이 전곡 작곡, 작사에 참여해 프로듀싱 능력은 물론 (여자)아이들의 자유분방하고도 강렬한 색채를 여실히 보여준다.\n14일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 (여자)아이들이 새 앨범을 설명했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "민니는 14일 온라인으로 진행된 첫 정규 앨범 ‘아이 네버 다이(I NEVER DIE)’ 발매 쇼케이스에서 앨범 수록곡 ‘올레디’와 ‘이스케이프’ 작업에 참여한 것과 관련 “첫 정규인 만큼 신경을 많이 썼다. 프로듀싱 다 참여한 곡이니까 수록곡 하나 하나까지 예쁘게 들어주셨으면 좋겠다”고 말했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우기 역시 수록곡 ‘폴라로이드’에 참여한 것과 관련 “영광이다. 항상 곡을 쓰고 있는데 정규 앨범에 실을 수 있고 팬들에게 들려줄 수 있어 행복하다”라고 전했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소연은 “이번 앨범은 전체적으로, 비주얼적으로도 신경을 많이 썼다. 다섯명 아이들의 남다른 모습을 보여주고 싶었다”고 해 기대를 높였다. (여자)아이들의 첫 정규 앨범 ‘아이 네버 다이’는 세상의 모든 편견에 대한 (여자)아이들 감정과 생각들을 고스란히 담아낸 앨범이다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘톰보이’를 비롯해 록, 팝, 알앤비, 힙합 등 다채로운 장르의 아홉 트랙을 담았으며, 멤버들이 전곡 작곡, 작사에 참여해 프로듀싱 능력은 물론 (여자)아이들의 자유분방하고도 강렬한 색채를 여실히 보여준다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "14일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이들 “첫 정규, 다섯명 아이들의 남다른 모습 보여줄 것”(여자)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

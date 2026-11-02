@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263427",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "이석훈, 오늘(10일) 정규 1집 예약판매 시작",
+		"newsSubTitle": "",
+		"newsContent": "가수 이석훈이 신보 예약 판매를 시작한다.\n소속사 C9엔터테인먼트는 10일 오후 3시부터 각종 음반 사이트를 통해 이석훈 정규 1집 ‘같은 자리’ 예약 판매가 시작된다고 밝혔다.\n이번 앨범에는 88페이지 분량의 포토북을 비롯해 포토 카드, 3CUTS 포토, 트랙리스트 스티커, 포스터 등이 수록됐다.\n이석훈의 첫 솔로 정규앨범인 만큼 다채로운 콘텐츠로 구성됐다는 평이다.\n이석훈이 약 2년 만에 발매하는 신보 ‘같은 자리’에는 매일 같은 날들, 같은 자리에서 떠올릴 수 있는 수많은 감정에 대한 이야기가 담겨 있다.\n타이틀곡 ‘사랑은 또’를 비롯해 ‘사연’, ‘하루의 끝’, ‘우리가 우리가 아닌 지금’, ‘Your smile’(유어 스마일), ‘왠지’, ‘오랜만에 느껴보는 설렘이야’, ‘용기’, ‘그대는 그대로 그대를’, ‘지붕’까지 완성도 높은 10곡이 수록된다.\n한편 이석훈의 정규 1집 ‘같은 자리’는 오는 24일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이석훈이 신보 예약 판매를 시작한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 C9엔터테인먼트는 10일 오후 3시부터 각종 음반 사이트를 통해 이석훈 정규 1집 ‘같은 자리’ 예약 판매가 시작된다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 앨범에는 88페이지 분량의 포토북을 비롯해 포토 카드, 3CUTS 포토, 트랙리스트 스티커, 포스터 등이 수록됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이석훈의 첫 솔로 정규앨범인 만큼 다채로운 콘텐츠로 구성됐다는 평이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이석훈이 약 2년 만에 발매하는 신보 ‘같은 자리’에는 매일 같은 날들, 같은 자리에서 떠올릴 수 있는 수많은 감정에 대한 이야기가 담겨 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이틀곡 ‘사랑은 또’를 비롯해 ‘사연’, ‘하루의 끝’, ‘우리가 우리가 아닌 지금’, ‘Your smile’(유어 스마일), ‘왠지’, ‘오랜만에 느껴보는 설렘이야’, ‘용기’, ‘그대는 그대로 그대를’, ‘지붕’까지 완성도 높은 10곡이 수록된다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이석훈의 정규 1집 ‘같은 자리’는 오는 24일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이석훈, 오늘(10일) 정규 1집 예약판매 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

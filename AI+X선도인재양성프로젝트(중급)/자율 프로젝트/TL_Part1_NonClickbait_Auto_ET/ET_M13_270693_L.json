@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270693",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "T1419, 美 유력 언론 대서특필…“남미 진출 임박”",
+		"newsSubTitle": "",
+		"newsContent": "미국 유력 언론사 레메즈클라(REMZCLA)가 보이그룹 T1419(티일사일구)를 집중 조명했다.\n지난 18일 미국 내 중남미 문화 전문 채널 레메즈클라는 T1419의 ‘CAMPEON(캄페온)’ 커버 영상에 대해 보도했다.\nT1419는 지난 18일 공식 SNS 채널을 통해 남미의 유명 래퍼 대디양키(Daddy Yankee)의 신곡 ‘CAMPEON’ 커버 영상을 업로드했다.\n해당 영상에서 멤버들은 완벽한 칼군무는 물론 스페인어 노래와 랩까지 소화해 글로벌 팬들의 뜨거운 반응을 얻었다.\n레메즈클라는 이 점에 특히 주목해 “스페인어 노래와 랩을 커버한 역대 최초 K팝 그룹”이라고 강조했다.\n이 매체는 “며칠 전 T1419가 대디양키의 ‘Bombon(봄본)’ 챌린지에 참여했다. 대디양키가 이를 직접 SNS에 공유하면서 라틴 팬들의 관심이 쏟아졌다. 이에 두 아티스트의 컬래버레이션에 대한 요청이 쇄도했다”며 커버 영상의 탄생 배경을 설명했다.\n또 레메즈클라는 “T1419의 남미 팬덤이 이번 커버에 얼마나 열광했는지는 말할 필요도 없다”며 이들의 뜨거운 남미 인기에 주목하기도 했다.\n마지막으로 매체는 이들의 정식 남미 진출을 예측한 팬의 SNS 게시물을 인용하며 “과연 이 추측이 맞을지”라고 덧붙여 T1419의 남미 진출 가능성을 점쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 유력 언론사 레메즈클라(REMZCLA)가 보이그룹 T1419(티일사일구)를 집중 조명했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 18일 미국 내 중남미 문화 전문 채널 레메즈클라는 T1419의 ‘CAMPEON(캄페온)’ 커버 영상에 대해 보도했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "T1419는 지난 18일 공식 SNS 채널을 통해 남미의 유명 래퍼 대디양키(Daddy Yankee)의 신곡 ‘CAMPEON’ 커버 영상을 업로드했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 영상에서 멤버들은 완벽한 칼군무는 물론 스페인어 노래와 랩까지 소화해 글로벌 팬들의 뜨거운 반응을 얻었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레메즈클라는 이 점에 특히 주목해 “스페인어 노래와 랩을 커버한 역대 최초 K팝 그룹”이라고 강조했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 매체는 “며칠 전 T1419가 대디양키의 ‘Bombon(봄본)’ 챌린지에 참여했다. 대디양키가 이를 직접 SNS에 공유하면서 라틴 팬들의 관심이 쏟아졌다. 이에 두 아티스트의 컬래버레이션에 대한 요청이 쇄도했다”며 커버 영상의 탄생 배경을 설명했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 레메즈클라는 “T1419의 남미 팬덤이 이번 커버에 얼마나 열광했는지는 말할 필요도 없다”며 이들의 뜨거운 남미 인기에 주목하기도 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "마지막으로 매체는 이들의 정식 남미 진출을 예측한 팬의 SNS 게시물을 인용하며 “과연 이 추측이 맞을지”라고 덧붙여 T1419의 남미 진출 가능성을 점쳤다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "T1419, 美 유력 언론 대서특필…“남미 진출 임박”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276098",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "싱글맘 김나영, 가수 마이큐와 열애…\\\"11월 연인으로 발전\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김나영과 가수 마이큐가 열애 중이다.\n16일 김나영 소속사 스카이이앤엠은 “마이큐와 만남을 이어가고 있다”며 “11월부터 연인으로 발전했고 여러가지로 조심스러운 게 많은 상황이다. 따뜻한 시선으로 지켜봐주셨으면 좋겠다”고 밝혔다.\n김나영과 마이큐는 지난 10월 한 화보 촬영장에서 처음 만났다.\n당시 스태프들이 준비한 김나영 생일파티에 마이큐가 참석하게 되면서 친분이 쌓였고 연인으로 발전했다.\n이후 김나영은 마이큐 전시회를 찾고, 지인 결혼식에도 함께 모습을 드러낸 것으로 전해졌다.\n방송과 패션 등 다양한 분야에서 활약 중인 김나영은 JTBC ‘내가 키운다’에 출연하며 두 아이들과 생활하는 모습을 공개해 응원과 공감을 얻고 있다.\n마이큐는 2007년 앨범 ‘스타일 뮤직’으로 데뷔했다.\n가수뿐만 아니라 화가로도 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김나영과 가수 마이큐가 열애 중이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 김나영 소속사 스카이이앤엠은 “마이큐와 만남을 이어가고 있다”며 “11월부터 연인으로 발전했고 여러가지로 조심스러운 게 많은 상황이다. 따뜻한 시선으로 지켜봐주셨으면 좋겠다”고 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김나영과 마이큐는 지난 10월 한 화보 촬영장에서 처음 만났다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 스태프들이 준비한 김나영 생일파티에 마이큐가 참석하게 되면서 친분이 쌓였고 연인으로 발전했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 김나영은 마이큐 전시회를 찾고, 지인 결혼식에도 함께 모습을 드러낸 것으로 전해졌다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송과 패션 등 다양한 분야에서 활약 중인 김나영은 JTBC ‘내가 키운다’에 출연하며 두 아이들과 생활하는 모습을 공개해 응원과 공감을 얻고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마이큐는 2007년 앨범 ‘스타일 뮤직’으로 데뷔했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가수뿐만 아니라 화가로도 활동 중이다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싱글맘 김나영, 가수 마이큐와 열애…\\\"11월 연인으로 발전\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

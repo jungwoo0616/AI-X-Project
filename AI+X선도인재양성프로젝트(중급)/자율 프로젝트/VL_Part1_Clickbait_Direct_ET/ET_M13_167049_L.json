@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167049",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "창원 ‘2021 K팝 월드 페스티벌’ 성황리 개최…11월 3일 본방송",
+    "newsSubTitle": "",
+    "newsContent": "경남 창원시가 최근 온라인으로 생중계한 ‘2021 K팝 월드 페스티벌’이 호응 속에 성료됐다고 18일 밝혔다.\n외교부와 문화체육관광부 해외문화홍보원, KBS가 공동 주최하고 시가 후원하는 K팝 월드 페스티벌은 K팝을 사랑하는 전 세계인이 참가해 노래와 퍼포먼스 실력을 겨루는 한류 문화축제로 올해로 10주년을 맞았다.\n올해 축제에는 배우 유인나가 사회를 맡은 가운데 몬스타엑스, 더보이즈, 오마이걸, 에스파 등 스타들의 공연도 풍성하게 펼쳐졌다.\n스타들 각 무대는 창원과 한국의 명소를 배경으로 사전녹화돼 상영됐다.\n올해는 코로나19 유행 상황을 고려해 본선에 진출한 미국·나이지리아·라오스 등 국적의 10개 팀이 국내에 입국해 무대를 선보이는 대신 각국 명소를 배경으로 온라인을 통해 이색적인 무대를 선보였다.\n올해는 특히 ‘HOW K-POP SAVED ME’(케이팝은 어떻게 나를 구했나)를 주제로 해외 출연자들이 K팝으로 변화된 일상을 소개하는 코너도 마련해 전 세계적 K팝 열기를 보여줬다.\n축제 본방송은 11월 3일 오후 10시 40분부터 KBS2 를 통해 이뤄진다.\n이어 같은 달 6일에는 KBS월드를 통해 해외 120여 개국에 방송이 될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "경남 창원시가 최근 온라인으로 생중계한 ‘2021 K팝 월드 페스티벌’이 호응 속에 성료됐다고 18일 밝혔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "외교부와 문화체육관광부 해외문화홍보원, KBS가 공동 주최하고 시가 후원하는 K팝 월드 페스티벌은 K팝을 사랑하는 전 세계인이 참가해 노래와 퍼포먼스 실력을 겨루는 한류 문화축제로 올해로 10주년을 맞았다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해 축제에는 배우 유인나가 사회를 맡은 가운데 몬스타엑스, 더보이즈, 오마이걸, 에스파 등 스타들의 공연도 풍성하게 펼쳐졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스타들 각 무대는 창원과 한국의 명소를 배경으로 사전녹화돼 상영됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해는 코로나19 유행 상황을 고려해 본선에 진출한 미국·나이지리아·라오스 등 국적의 10개 팀이 국내에 입국해 무대를 선보이는 대신 각국 명소를 배경으로 온라인을 통해 이색적인 무대를 선보였다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해는 특히 ‘HOW K-POP SAVED ME’(케이팝은 어떻게 나를 구했나)를 주제로 해외 출연자들이 K팝으로 변화된 일상을 소개하는 코너도 마련해 전 세계적 K팝 열기를 보여줬다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "축제 본방송은 11월 3일 오후 10시 40분부터 KBS2 를 통해 이뤄진다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 같은 달 6일에는 KBS월드를 통해 해외 120여 개국에 방송이 될 예정이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 세계에 방송된 창원 '2021 K팝 월드 페스티벌'의 특별한 관전 포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

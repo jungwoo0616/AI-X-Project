@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168931",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다크팬더 효린·지코·파로알토 콜라보 기념 라이브 방송 '기대 UP'",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 씨스타 효린, 블락비 지코, 래퍼 팔로알토가 26일 밤 11시 방송되는 네이버 V앱에서 특별 라이브를 선보인다.\n오늘 음원사이트에는 효린, 블락비 지코, 팔로알토가 콜라보레이션한 프로젝트 '다크팬더(DARK PANDA)'가 공개됐다.\n이에 효린과 지코, 팔로알토는 V앱 스페셜 라이브를 통해 팬들에게 인사를 전한다.\nV 라이브에서 프로젝트 앨범 발매에 대한 소감과 함께 다양한 이야기를 전할 계획이다.\n세 사람이 호흡을 맞춘 '다크팬더(DARK PANDA)' 는 '인간의 어둠과 빛'이란 가볍지 않은 주제를 통해 대중성 보다는 진정성을 전달한다.\n묵직하며 몽환적인 분위기 안에서 진정성 있는 메시지를 담아 구슬픈 감성을 극대화한 것이 특징이다.\n한편 이날 방송에는 효린, 지코, 팔로알토 외 또 다른 스타의 출연이 예고됐다.\n온라인 중앙일보 [사진=스타쉽엔터테인먼트]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 씨스타 효린, 블락비 지코, 래퍼 팔로알토가 26일 밤 11시 방송되는 네이버 V앱에서 특별 라이브를 선보인다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘 음원사이트에는 효린, 블락비 지코, 팔로알토가 콜라보레이션한 프로젝트 '다크팬더(DARK PANDA)'가 공개됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 효린과 지코, 팔로알토는 V앱 스페셜 라이브를 통해 팬들에게 인사를 전한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "V 라이브에서 프로젝트 앨범 발매에 대한 소감과 함께 다양한 이야기를 전할 계획이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세 사람이 호흡을 맞춘 '다크팬더(DARK PANDA)' 는 '인간의 어둠과 빛'이란 가볍지 않은 주제를 통해 대중성 보다는 진정성을 전달한다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "묵직하며 몽환적인 분위기 안에서 진정성 있는 메시지를 담아 구슬픈 감성을 극대화한 것이 특징이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이날 방송에는 효린, 지코, 팔로알토 외 또 다른 스타의 출연이 예고됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진=스타쉽엔터테인먼트]",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오는 26일 네이버 V앱 특별 라이브에 출연하는 스타 명단은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262313",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘전진♥’류이서, 민낯도 자체발광",
+		"newsSubTitle": "",
+		"newsContent": "류이서가 여전히 빛나는 미모를 자랑했다.\n그룹 신화의 멤버 전진의 아내인 류이서는 27일 자신의 사회관계망서비스(SNS) 인스타그램에 “우리 지니(전진)가 사진을 잘 찍긴 하네요. 고마워라”며 사진 두 장을 게시했다.\n사진 속 그는 햇빛을 받으며 거울을 응시하고 있다.\n맑은 피부와 또렷한 이목구비가 시선을 사로잡는다.\n이에 누리꾼은 “사진 찍히는 대상에 애정이 가득 담기면 사진이 잘 나오더라. 전진님의 사랑이 느껴진다” “두 사람 행복해보여 좋다”며 두 사람의 신혼 생활을 응원했다.\n또 “역시 러블리 이서님” “분위기 대박이다. 옆모습도 너무 아름답다”며 류이서의 미모를 칭찬하기도 했다.\n류이서는 지난 2020년 9월 전진과 결혼했다.\n두 사람은 지난해 10월 SBS 예능프로그램 ‘동상이몽2 - 너는 내 운명’에 출연해 화제가 된 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "류이서가 여전히 빛나는 미모를 자랑했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그룹 신화의 멤버 전진의 아내인 류이서는 27일 자신의 사회관계망서비스(SNS) 인스타그램에 “우리 지니(전진)가 사진을 잘 찍긴 하네요. 고마워라”며 사진 두 장을 게시했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그는 햇빛을 받으며 거울을 응시하고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "맑은 피부와 또렷한 이목구비가 시선을 사로잡는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 누리꾼은 “사진 찍히는 대상에 애정이 가득 담기면 사진이 잘 나오더라. 전진님의 사랑이 느껴진다” “두 사람 행복해보여 좋다”며 두 사람의 신혼 생활을 응원했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 “역시 러블리 이서님” “분위기 대박이다. 옆모습도 너무 아름답다”며 류이서의 미모를 칭찬하기도 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "류이서는 지난 2020년 9월 전진과 결혼했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 사람은 지난해 10월 SBS 예능프로그램 ‘동상이몽2 - 너는 내 운명’에 출연해 화제가 된 바 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘전진♥’류이서, 민낯도 자체발광",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

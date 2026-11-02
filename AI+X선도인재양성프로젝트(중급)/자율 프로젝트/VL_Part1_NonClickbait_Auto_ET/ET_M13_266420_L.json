@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266420",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "강수정, tvN ‘70억의 선택’으로 4년 만에 MC 복귀",
+		"newsSubTitle": "",
+		"newsContent": "‘홍콩댁’ 강수정이 tvN의 신규 건강정보 프로그램 ‘70억의 선택’으로 국내 복귀 신호탄을 쏜 후 화제가 모아졌다.\nKBS 아나운서 출신으로 각종 예능 프로그램에 활약하며 다재다능을 뽐내던 강수정은 지난 2008년 결혼 이후 홍콩에서 지내며 ‘홍콩댁’으로서의 근황을 개인 SNS(사회관계망서비스)로 전하다가 최근 한국 입국소식이 알려져 화제가 됐다.\n그는 복귀 프로그램으로 tvN의 신규 건강 정보 프로그램 ‘70억의 선택’에 MC로 낙점돼 촬영 소식을 전했다.\n그는 2020년 한 예능 프로그램에 깜짝 출연을 한 것 외에는 MC로는 4년 만에 정식 복귀다. ‘70억의 선택’은 전 세계인의 다양하고 이색적인 건강비법을 알아보는 신개념 건강 프로그램으로 오는 28일 첫 방송된다.\n인도의 럭키와 미국의 칼, 프랑스의 사라, 폴란드의 프셰므, 아프가니스탄의 비다, 가나의 글라디스까지 각국을 대표하는 글로벌 패널과 의학전문기자 홍혜걸, 가정의학과 전문의 전지혜, 한의사 신동진이 출연한다.\n개그맨 황제성과 함께 호흡을 맞추는 강수정의 복귀작 tvN ‘70억의 선택’은 오는 28일부터 매주 목요일 오전 9시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘홍콩댁’ 강수정이 tvN의 신규 건강정보 프로그램 ‘70억의 선택’으로 국내 복귀 신호탄을 쏜 후 화제가 모아졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS 아나운서 출신으로 각종 예능 프로그램에 활약하며 다재다능을 뽐내던 강수정은 지난 2008년 결혼 이후 홍콩에서 지내며 ‘홍콩댁’으로서의 근황을 개인 SNS(사회관계망서비스)로 전하다가 최근 한국 입국소식이 알려져 화제가 됐다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 복귀 프로그램으로 tvN의 신규 건강 정보 프로그램 ‘70억의 선택’에 MC로 낙점돼 촬영 소식을 전했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 2020년 한 예능 프로그램에 깜짝 출연을 한 것 외에는 MC로는 4년 만에 정식 복귀다. ‘70억의 선택’은 전 세계인의 다양하고 이색적인 건강비법을 알아보는 신개념 건강 프로그램으로 오는 28일 첫 방송된다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인도의 럭키와 미국의 칼, 프랑스의 사라, 폴란드의 프셰므, 아프가니스탄의 비다, 가나의 글라디스까지 각국을 대표하는 글로벌 패널과 의학전문기자 홍혜걸, 가정의학과 전문의 전지혜, 한의사 신동진이 출연한다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개그맨 황제성과 함께 호흡을 맞추는 강수정의 복귀작 tvN ‘70억의 선택’은 오는 28일부터 매주 목요일 오전 9시에 방송된다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강수정, tvN ‘70억의 선택’으로 4년 만에 MC 복귀",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

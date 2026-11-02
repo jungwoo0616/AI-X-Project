@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261652",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "팝스타 저스틴 비버, 코로나19 확진으로 라스베이거스 공연 취소",
+		"newsSubTitle": "",
+		"newsContent": "캐나다 가수 저스틴 비버가 20일(현지시간)로 예정이 된 미국 라스베이거스 공연을 하루 앞두고 코로나19 확진 판정을 받아 공연을 취소했다.\n미국 정치전문매체 더힐에 따르면 비버는 이날 미국 라스베이거스 T-모바일 아레나에서 미국과 캐나다 등 북미주 52개 도시 순회공연 첫 무대를 화려하게 장식하려 했으나 하루 전인 19일 코로나19 확진 판정을 받았다.\n저스틴 비버의 ‘저스티스 투어’는 성명을 통해 “저스티스 투어 패밀리에 코로나19 확진자가 나와 불행하게도 공연을 취소하게 됐다”고 밝혔다.\n또 “저스틴은 이를 너무 아쉬워하고 있지만, 그는 동료들의 건강과 안전을 먼저 생각한다”고 덧붙였다.\n이번에 취소된 라스베이거스 공연은 오는 6월 28일 개최가 될 예정이다.\n라스베이거스 외에 다른 도시의 순회공연 일정 중 취소된 곳은 없는 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "캐나다 가수 저스틴 비버가 20일(현지시간)로 예정이 된 미국 라스베이거스 공연을 하루 앞두고 코로나19 확진 판정을 받아 공연을 취소했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 정치전문매체 더힐에 따르면 비버는 이날 미국 라스베이거스 T-모바일 아레나에서 미국과 캐나다 등 북미주 52개 도시 순회공연 첫 무대를 화려하게 장식하려 했으나 하루 전인 19일 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "저스틴 비버의 ‘저스티스 투어’는 성명을 통해 “저스티스 투어 패밀리에 코로나19 확진자가 나와 불행하게도 공연을 취소하게 됐다”고 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “저스틴은 이를 너무 아쉬워하고 있지만, 그는 동료들의 건강과 안전을 먼저 생각한다”고 덧붙였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번에 취소된 라스베이거스 공연은 오는 6월 28일 개최가 될 예정이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "라스베이거스 외에 다른 도시의 순회공연 일정 중 취소된 곳은 없는 것으로 알려졌다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팝스타 저스틴 비버, 코로나19 확진으로 라스베이거스 공연 취소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

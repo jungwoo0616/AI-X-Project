@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285744",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[화보]나라-나나-하니, '모델돌의 품격'",
+		"newsSubTitle": "",
+		"newsContent": "헬로비너스, 애프터스쿨, EXID 이름만 들어도 '섹시'란 단어가 느껴지는 걸그룹이다.\n특히 나라, 나나, 하니는 이들 멤버 중 섹시함으로는 단연 톱 중 톱이다.\n19일 오후 서울 동대문디자인플라자(DDP)에서 열린 '2016 S/S 헤라서울패션위크'에서 나라, 나나, 하니는 셀러브리티로 초청돼 섹시미를 한껏 뽐냈다.\n헬로비너스 나라는 미니 원피스에 드러난 각선미가 단연 돋보였다.\n키의 절반 이상을 차지하는 늘씬한 다리라인은 섹시미를 더욱 돋보이게 했다.\n애프터스쿨 나나는 항상 따라다니는 '모델돌'이란 수식어에 걸맞은 자태를 뽐냈다.\n스키니진에 블랙 상의로 가벼운 캐주얼룩을 연출, 여기에 롱코트를 레이어드해 모델보다 더 모델같은 모습을 선보였다.\nEXID의 하니는 화려한 프린트가 들어간 상의에 블랙 톤의 미니 원피스로 귀여운 이미지를 전달했다.\n무대 위에서 섹시하고 건강미 넘치는 모습과는 사뭇 다른 모습이었다.\n한편 '2016 S/S 헤라서울패션위크'는 16일부터 21일까지 6일간 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "헬로비너스, 애프터스쿨, EXID 이름만 들어도 '섹시'란 단어가 느껴지는 걸그룹이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특히 나라, 나나, 하니는 이들 멤버 중 섹시함으로는 단연 톱 중 톱이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "19일 오후 서울 동대문디자인플라자(DDP)에서 열린 '2016 S/S 헤라서울패션위크'에서 나라, 나나, 하니는 셀러브리티로 초청돼 섹시미를 한껏 뽐냈다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "헬로비너스 나라는 미니 원피스에 드러난 각선미가 단연 돋보였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "키의 절반 이상을 차지하는 늘씬한 다리라인은 섹시미를 더욱 돋보이게 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애프터스쿨 나나는 항상 따라다니는 '모델돌'이란 수식어에 걸맞은 자태를 뽐냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스키니진에 블랙 상의로 가벼운 캐주얼룩을 연출, 여기에 롱코트를 레이어드해 모델보다 더 모델같은 모습을 선보였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "EXID의 하니는 화려한 프린트가 들어간 상의에 블랙 톤의 미니 원피스로 귀여운 이미지를 전달했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "무대 위에서 섹시하고 건강미 넘치는 모습과는 사뭇 다른 모습이었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 '2016 S/S 헤라서울패션위크'는 16일부터 21일까지 6일간 진행된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[화보]나라-나나-하니, '모델돌의 품격'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

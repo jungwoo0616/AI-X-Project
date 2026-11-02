@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276508",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"성형수술 어디 했어요\\\" 질문에 얼짱 고두림의 반응",
+		"newsSubTitle": "",
+		"newsContent": "배우 한가인 닮은꼴로 이름을 알린 방송인 고두림이 성형설에 입을 열었다.\n1인 방송진행자(BJ)로 활동 중인 고두림은 최근 방송에서 \\\"(팬들이) 자꾸 저한테 피부관리나 성형수술했느냐 묻는데, 솔직히 말해서 저 그런 거 할 돈 없다\\\"고 밝혔다.\n그는 \\\"얼굴 중에 좀 더 예뻤으면 하는 부분들이 있다\\\"면서도 \\\"이렇게 고치면 뭐하겠냐. 본판이 있는데 거기서 거기다\\\"고 말했다.\n한 팬이 코 성형 여부를 묻자 \\\"코 필러 시술 후 염증이 심해서 제거했다\\\"고 답했다.\n고두림은 앞서 한 방송에서 쌍꺼풀 수술 사실을 고백한 바 있다.\n가슴 성형에 대해선 \\\"하지 않았다\\\"며 \\\"학창시절 한국무용을 해 가슴을 압박했던 적이 많았다. 무용을 그만두고 서울에 와서 잘 먹고 편안한 옷을 입으면서 자연스레 가슴이 커졌다\\\"고 설명했다.\n인터넷 얼짱 출신 고두림은 '얼짱시대 시즌7'을 통해 이름을 알리며 가수, 연기 등 다방면에서 활동했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한가인 닮은꼴로 이름을 알린 방송인 고두림이 성형설에 입을 열었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1인 방송진행자(BJ)로 활동 중인 고두림은 최근 방송에서 \\\"(팬들이) 자꾸 저한테 피부관리나 성형수술했느냐 묻는데, 솔직히 말해서 저 그런 거 할 돈 없다\\\"고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"얼굴 중에 좀 더 예뻤으면 하는 부분들이 있다\\\"면서도 \\\"이렇게 고치면 뭐하겠냐. 본판이 있는데 거기서 거기다\\\"고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 팬이 코 성형 여부를 묻자 \\\"코 필러 시술 후 염증이 심해서 제거했다\\\"고 답했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고두림은 앞서 한 방송에서 쌍꺼풀 수술 사실을 고백한 바 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가슴 성형에 대해선 \\\"하지 않았다\\\"며 \\\"학창시절 한국무용을 해 가슴을 압박했던 적이 많았다. 무용을 그만두고 서울에 와서 잘 먹고 편안한 옷을 입으면서 자연스레 가슴이 커졌다\\\"고 설명했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인터넷 얼짱 출신 고두림은 '얼짱시대 시즌7'을 통해 이름을 알리며 가수, 연기 등 다방면에서 활동했다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"성형수술 어디 했어요\\\" 질문에 얼짱 고두림의 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

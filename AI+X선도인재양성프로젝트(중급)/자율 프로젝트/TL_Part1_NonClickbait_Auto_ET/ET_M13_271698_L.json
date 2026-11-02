@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271698",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘미우새’ 윤균상, 소주 30병 대주가...병뚜껑 공예 재능 ‘눈길’",
+		"newsSubTitle": "",
+		"newsContent": "‘미운 우리 새끼’ 윤균상이 재능을 공개했다.\n29일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’에서는 배우 윤균상이 출연했다.\n이날 서장훈은 윤균상에게 “대식가이기도 하지만 대주가로 유명하다. 친구랑 둘이서 소주 30병을 마신적이 있다고?”라고 물었다.\n술을 많이 마셔 생긴 재주가 있다는 윤균상에 병뚜껑 공예가 공개됐다.\n사진을 본 윤균상은 “이거 어디서 나셨지? 저거 제가 박나래 누나 만들어 준 거일 거예요. 나래라고 있잖아요”라고 설명했다.\n방송에 나가면 안 되냐는 신동엽에 윤균상은 “너무 오랜만에 봐서 신기해서요”라고 둘러댔다.\n이를 본 서장훈은 박나래가 아닌 다른 나래 아니냐고 의혹을 증폭시켰다.\n손으로 뭔가 하는 걸 좋아한다는 윤균상은 “되게 많이 만들었다. 휴지로 장미 만들고 했다”라고 설명했고 신동엽과 서장훈은 돈 안 쓰고 이성에게 어필하려고 한 거라고 몰아가 웃음 짓게 했다.\n한편 SBS 예능프로그램 ‘미운 우리 새끼’는 매주 일요일 오후 9시 10분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘미운 우리 새끼’ 윤균상이 재능을 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’에서는 배우 윤균상이 출연했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 서장훈은 윤균상에게 “대식가이기도 하지만 대주가로 유명하다. 친구랑 둘이서 소주 30병을 마신적이 있다고?”라고 물었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "술을 많이 마셔 생긴 재주가 있다는 윤균상에 병뚜껑 공예가 공개됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진을 본 윤균상은 “이거 어디서 나셨지? 저거 제가 박나래 누나 만들어 준 거일 거예요. 나래라고 있잖아요”라고 설명했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송에 나가면 안 되냐는 신동엽에 윤균상은 “너무 오랜만에 봐서 신기해서요”라고 둘러댔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 서장훈은 박나래가 아닌 다른 나래 아니냐고 의혹을 증폭시켰다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "손으로 뭔가 하는 걸 좋아한다는 윤균상은 “되게 많이 만들었다. 휴지로 장미 만들고 했다”라고 설명했고 신동엽과 서장훈은 돈 안 쓰고 이성에게 어필하려고 한 거라고 몰아가 웃음 짓게 했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 SBS 예능프로그램 ‘미운 우리 새끼’는 매주 일요일 오후 9시 10분에 방송된다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘미우새’ 윤균상, 소주 30병 대주가...병뚜껑 공예 재능 ‘눈길’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263261",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "SM 엔터테인먼트, 산불 피해에 5억 기부[공식]",
+		"newsSubTitle": "",
+		"newsContent": "SM엔터테인먼트가 경북 울진·강원 삼척 등 산불 피해 이웃돕기를 위해 5억원을 기부했다.\n8일 희망브리지는 “이수만 SM 총괄 프로듀서와 SM엔터테인먼트가 산불 피해복구와 이재민의 일상 복귀를 위해 써달라며 5억원의 기부금을 보내왔다”라고 밝혔다.\n이에 SM엔터테인먼트 관계자는 “산불이 하루빨리 진화돼 피해지역이 복구되기를 바란다”라며 “이번 기부가 피해를 입은 이웃들에게 조금이나마 힘이 되기를 희망한다”고 말했다.\n현재 중앙대책본부 발표에 따르면 오늘 오전 6시 집계 기준으로 강원도 산불의 전체 피해 추정 면적(산불영향구역 면적)은 2만1천772ha로, 역대 최대규모인 2000년 동해안 지역 산불의 피해면적(2만3천794ha)에 육박한다.\n문 대통령은 오늘 경북 울진과 강원 삼척지역에 이어 강원도 강릉시와 동해시를 특별재난지역으로 선포했다.\n이에 김우빈·신민아·임영웅·장성규·박민영· 전현무·송혜교 등 많은 스타들이 이재민들을 지원하기 위해 성금을 기탁하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SM엔터테인먼트가 경북 울진·강원 삼척 등 산불 피해 이웃돕기를 위해 5억원을 기부했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 희망브리지는 “이수만 SM 총괄 프로듀서와 SM엔터테인먼트가 산불 피해복구와 이재민의 일상 복귀를 위해 써달라며 5억원의 기부금을 보내왔다”라고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 SM엔터테인먼트 관계자는 “산불이 하루빨리 진화돼 피해지역이 복구되기를 바란다”라며 “이번 기부가 피해를 입은 이웃들에게 조금이나마 힘이 되기를 희망한다”고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 중앙대책본부 발표에 따르면 오늘 오전 6시 집계 기준으로 강원도 산불의 전체 피해 추정 면적(산불영향구역 면적)은 2만1천772ha로, 역대 최대규모인 2000년 동해안 지역 산불의 피해면적(2만3천794ha)에 육박한다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문 대통령은 오늘 경북 울진과 강원 삼척지역에 이어 강원도 강릉시와 동해시를 특별재난지역으로 선포했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 김우빈·신민아·임영웅·장성규·박민영· 전현무·송혜교 등 많은 스타들이 이재민들을 지원하기 위해 성금을 기탁하고 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SM 엔터테인먼트, 산불 피해에 5억 기부[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

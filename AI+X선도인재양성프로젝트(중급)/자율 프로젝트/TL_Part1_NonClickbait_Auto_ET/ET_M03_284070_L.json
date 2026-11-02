@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284070",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "자기야 김인석, 안젤라박과 촬영 중 딥키스 \\\"뽀뽀는 너무 흔하다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "안젤라박-김인석 부부의 수위 높은 키스가 다시금 화제가 되고 있다.\n과거 방송된 케이블채널 tvN '현장토크쇼 택시(이하 택시)'에서는 '연애 말고 결혼' 특집으로 개그맨 김인석과 방송인 안젤라박 부부가 게스트로 출연했다.\n당시 안젤라박과 김인석의 웨딩 파티에 초대 받은 브라이언은 \\\"뽀뽀는 너무 흔하다. 진짜 로맨틱한 키스를 한 번 봤으면 좋겠다\\\"라고 말했다.\n안젤라박은 당황했으나 김인석은 와인을 들이킨 후 안젤라박을 와락 껴안고 딥키스를 해 이목을 집중시켰다.\n이를 보고있던 MC 이영자, 오만석과 박수홍, 브라이언, 박휘순, 윤성호는 놀라워하며 환호성을 외쳤다.\n한편 지난 5일 방송된 SBS 예능 프로그램 '자기야-백년손님'에서는 개그맨 김인석이 출연해 유쾌한 입담을 자랑했다.\n온라인 중앙일보 자기야 김인석 [tvN ‘현장토크쇼 택시’ 방송화면 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안젤라박-김인석 부부의 수위 높은 키스가 다시금 화제가 되고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된 케이블채널 tvN '현장토크쇼 택시(이하 택시)'에서는 '연애 말고 결혼' 특집으로 개그맨 김인석과 방송인 안젤라박 부부가 게스트로 출연했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 안젤라박과 김인석의 웨딩 파티에 초대 받은 브라이언은 \\\"뽀뽀는 너무 흔하다. 진짜 로맨틱한 키스를 한 번 봤으면 좋겠다\\\"라고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안젤라박은 당황했으나 김인석은 와인을 들이킨 후 안젤라박을 와락 껴안고 딥키스를 해 이목을 집중시켰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 보고있던 MC 이영자, 오만석과 박수홍, 브라이언, 박휘순, 윤성호는 놀라워하며 환호성을 외쳤다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지난 5일 방송된 SBS 예능 프로그램 '자기야-백년손님'에서는 개그맨 김인석이 출연해 유쾌한 입담을 자랑했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 자기야 김인석 [tvN ‘현장토크쇼 택시’ 방송화면 캡처]",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자기야 김인석, 안젤라박과 촬영 중 딥키스 \\\"뽀뽀는 너무 흔하다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

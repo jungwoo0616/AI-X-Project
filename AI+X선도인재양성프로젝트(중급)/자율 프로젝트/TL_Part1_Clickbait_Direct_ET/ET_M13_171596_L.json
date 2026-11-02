@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171596",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "허니제이, ‘힙’한 언니의 크리스마스룩",
+    "newsSubTitle": "",
+    "newsContent": "허니제이, ‘힙’한 언니의 크리스마스 파티룩 댄스크루 홀리뱅 허니제이가 ‘힙’한 크리스마스 패션을 선보였다.\n허니제이는 26일 자신의 SNS 인스타그램에 “메리 크리스마스♥”라며 사진 두 장을 올렸다.\n사진 속 허니제이는 핑크색 페이크 퍼 코트에 V넥으로 깊이 패인 톱을 입고 카메라를 응시하고 있다. ‘스우파’ 콘서트를 마치고 찍은 사진으로 보인다.\n허니제이는 엠넷 ‘스트릿 우먼 파이터’ 에 출연한 후 힙한 스타일로 연예계 패셔니스타로 떠올랐다.\n명품과 힙합 의상을 믹스매치해 섹시하게 스타일링한 룩으로 연일 화제를 모으고 있다.\n특히 SNS에 올리는 사진들에서 마치 화보를 방불케하는 포즈를 선보이며 팬들로부터 큰 호응을 얻었다.\n허니제이는 현재 여고생들의 춤싸움을 그린 엠넷 ‘스트릿 걸스 파이터’에 마스터이자 저지로 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "허니제이, ‘힙’한 언니의 크리스마스 파티룩 댄스크루 홀리뱅 허니제이가 ‘힙’한 크리스마스 패션을 선보였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "허니제이는 26일 자신의 SNS 인스타그램에 “메리 크리스마스♥”라며 사진 두 장을 올렸다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 허니제이는 핑크색 페이크 퍼 코트에 V넥으로 깊이 패인 톱을 입고 카메라를 응시하고 있다. ‘스우파’ 콘서트를 마치고 찍은 사진으로 보인다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허니제이는 엠넷 ‘스트릿 우먼 파이터’ 에 출연한 후 힙한 스타일로 연예계 패셔니스타로 떠올랐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "명품과 힙합 의상을 믹스매치해 섹시하게 스타일링한 룩으로 연일 화제를 모으고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 SNS에 올리는 사진들에서 마치 화보를 방불케하는 포즈를 선보이며 팬들로부터 큰 호응을 얻었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "허니제이는 현재 여고생들의 춤싸움을 그린 엠넷 ‘스트릿 걸스 파이터’에 마스터이자 저지로 출연 중이다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "허니제이, 이것 마치고 찍은 사진... 과감한 복장",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

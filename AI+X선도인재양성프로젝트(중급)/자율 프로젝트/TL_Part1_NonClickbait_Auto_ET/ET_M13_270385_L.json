@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270385",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "남주혁, 세상 밖으로 나가자[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 남주혁이 세상 밖에서 활동이 가능한 여름철 룩을 선보였다.\n글로벌 아웃도어 브랜드 컬럼비아(대표 배정원)가 전속모델 남주혁과 함께한 2022 여름 시즌 화보를 공개했다.\n이번 화보는 ‘자연과 함께 만드는 오리지널 사운드 트랙, MADE FOR OUTSIDE’(메이드 포어 아웃사이드)라는 메시지를 통해 답답한 일상에서 벗어나 자연과 함께하는 아웃도어 액티비티의 즐거움을 전했다.\n화보 속 남주혁은 싱그러운 초록빛 자연을 배경으로 낚시나 캠핑 등 다양한 액티비티를 즐기며 자유로운 아웃도어 순간을 표현했다.\n남주혁은 그래픽이 돋보이는 반팔 티셔츠부터 비비드한 컬러감과 오버핏이 특징인 바하마 셔츠 및 팬츠 셋업을 매치해 더욱 멋스러운 여름 스타일링을 완성했다.\n남주혁은 이 외에도 다양한 아이템을 매치해 아웃도어 액티비티부터 일상생활까지 아우르는 트렌디한 썸머룩을 제안했다.\n컬럼비아와 남주혁이 함께한 2022 여름 화보는 17일부터 컬럼비아 공식 홈페이지와 SNS 채널을 통해 확인할 수 있으며, 화보 속 제품은 컬럼비아 공식 온라인몰 및 전국 매장에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 남주혁이 세상 밖에서 활동이 가능한 여름철 룩을 선보였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 아웃도어 브랜드 컬럼비아(대표 배정원)가 전속모델 남주혁과 함께한 2022 여름 시즌 화보를 공개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 화보는 ‘자연과 함께 만드는 오리지널 사운드 트랙, MADE FOR OUTSIDE’(메이드 포어 아웃사이드)라는 메시지를 통해 답답한 일상에서 벗어나 자연과 함께하는 아웃도어 액티비티의 즐거움을 전했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화보 속 남주혁은 싱그러운 초록빛 자연을 배경으로 낚시나 캠핑 등 다양한 액티비티를 즐기며 자유로운 아웃도어 순간을 표현했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남주혁은 그래픽이 돋보이는 반팔 티셔츠부터 비비드한 컬러감과 오버핏이 특징인 바하마 셔츠 및 팬츠 셋업을 매치해 더욱 멋스러운 여름 스타일링을 완성했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "남주혁은 이 외에도 다양한 아이템을 매치해 아웃도어 액티비티부터 일상생활까지 아우르는 트렌디한 썸머룩을 제안했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "컬럼비아와 남주혁이 함께한 2022 여름 화보는 17일부터 컬럼비아 공식 홈페이지와 SNS 채널을 통해 확인할 수 있으며, 화보 속 제품은 컬럼비아 공식 온라인몰 및 전국 매장에서 만나볼 수 있다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남주혁, 세상 밖으로 나가자[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

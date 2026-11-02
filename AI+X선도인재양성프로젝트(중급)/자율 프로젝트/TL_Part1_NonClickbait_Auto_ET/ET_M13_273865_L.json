@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273865",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘외계+인’ 류준열 “김태리에 다음에 뭐 할래?”…두 번째 호흡 만족",
+		"newsSubTitle": "",
+		"newsContent": "배우 류준열이 영화 ‘외계+인’으로 배우 김태리에게 신뢰감을 보였다.\n류준열은 23일 오전 서울 영등포구 콘래드 서울에서 진행된 영화 ‘외계+인’ 1부(감독 최동훈) 제작보고회에서 “김태리와 이번 작품으로 두번째 호흡을 맞춘 건데 정말 좋았다. 많이 의지할 수 있었다. 그래서 ‘다음 작품은 뭐 할래?’라고 묻기도 했다”며 김태리를 향한 신뢰를 내비쳤다.\n두 사람은 앞서 영화 ‘리틀 포레스트’에서 호흡을 맞춘 바 있다.\n함께 자리한 김태리는“영화 첫 촬영이 우리 촬영이라 정말 긴장되고 떨렸다. 그런데 현장에 갔는데 류준열이 있더라. 너무 편했고, 덕분에 즐겁고 재밌게 촬영했다”며 류준열과의 호흡에 만족해했다.\n그러면서 “류준열이 나한테 의지했다고 하는데, 단언컨데 내가 더 의지했다”며 고마움을 전했다. ‘외계+인’은 고려 말 소문 속의 신검을 차지하려는 도사들과 외계인이 출몰하는 2022년 현재 사이에 시간의 문이 열리며 펼쳐지는 기상천외한 이야기를 그린 영화다.\n장르는 SF, 액션, 판타지다.\n다음 달 20일 개봉된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 류준열이 영화 ‘외계+인’으로 배우 김태리에게 신뢰감을 보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "류준열은 23일 오전 서울 영등포구 콘래드 서울에서 진행된 영화 ‘외계+인’ 1부(감독 최동훈) 제작보고회에서 “김태리와 이번 작품으로 두번째 호흡을 맞춘 건데 정말 좋았다. 많이 의지할 수 있었다. 그래서 ‘다음 작품은 뭐 할래?’라고 묻기도 했다”며 김태리를 향한 신뢰를 내비쳤다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 앞서 영화 ‘리틀 포레스트’에서 호흡을 맞춘 바 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "함께 자리한 김태리는“영화 첫 촬영이 우리 촬영이라 정말 긴장되고 떨렸다. 그런데 현장에 갔는데 류준열이 있더라. 너무 편했고, 덕분에 즐겁고 재밌게 촬영했다”며 류준열과의 호흡에 만족해했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 “류준열이 나한테 의지했다고 하는데, 단언컨데 내가 더 의지했다”며 고마움을 전했다. ‘외계+인’은 고려 말 소문 속의 신검을 차지하려는 도사들과 외계인이 출몰하는 2022년 현재 사이에 시간의 문이 열리며 펼쳐지는 기상천외한 이야기를 그린 영화다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장르는 SF, 액션, 판타지다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다음 달 20일 개봉된다.",
+				"sentenceSize": 14
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘외계+인’ 류준열 “김태리에 다음에 뭐 할래?”…두 번째 호흡 만족",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276231",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태풍 ‘쁘라삐룬’ 언급하며 신곡 홍보한 마마무 휘인",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 ‘마마무’ 휘인이 태풍 ‘쁘라삐룬’을 이용해 신곡을 홍보했다는 논란에 대해 사과했다.\n휘인은 4일 마마무 공식 팬카페에 올린 글에서 “어리석고 경솔했던 글로 인해 상처받고 불편하셨던 모든 분께 사과의 마음을 전하고 싶다”고 밝혔다.\n그러면서 “앞으로 더 신중하고 조심스럽게 생각하고 행동하도록 노력하겠다”고 덧붙였다.\n휘인은 지난 1일 신곡 ‘장마’를 발매하면서 “쁘라삐룬과 함께 곁들여 듣는 장마”라는 글을 올렸다.\n휘인은 해당 글을 삭제했지만, 이를 캡처한 게시물이 인터넷상 확산하면서 논란이 일었다.\n당초 한반도를 강타할 것으로 알려졌던 7호 태풍 쁘라삐룬은 일본 쪽으로 방향을 꺾으면서 4일 오전 경남지역을 거쳐 동해 상으로 빠져나갔다.\n태풍 쁘라삐룬과 장마전선의 영향으로 집중호우가 쏟아지면서 전날까지 전국 곳곳에서 사상자(사망3, 부상3, 실종1)가 발생했다.\n일부 지역에서는 농작물 침수나 농경지 유실 등의 피해가 조사됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 ‘마마무’ 휘인이 태풍 ‘쁘라삐룬’을 이용해 신곡을 홍보했다는 논란에 대해 사과했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "휘인은 4일 마마무 공식 팬카페에 올린 글에서 “어리석고 경솔했던 글로 인해 상처받고 불편하셨던 모든 분께 사과의 마음을 전하고 싶다”고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “앞으로 더 신중하고 조심스럽게 생각하고 행동하도록 노력하겠다”고 덧붙였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휘인은 지난 1일 신곡 ‘장마’를 발매하면서 “쁘라삐룬과 함께 곁들여 듣는 장마”라는 글을 올렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "휘인은 해당 글을 삭제했지만, 이를 캡처한 게시물이 인터넷상 확산하면서 논란이 일었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당초 한반도를 강타할 것으로 알려졌던 7호 태풍 쁘라삐룬은 일본 쪽으로 방향을 꺾으면서 4일 오전 경남지역을 거쳐 동해 상으로 빠져나갔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "태풍 쁘라삐룬과 장마전선의 영향으로 집중호우가 쏟아지면서 전날까지 전국 곳곳에서 사상자(사망3, 부상3, 실종1)가 발생했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일부 지역에서는 농작물 침수나 농경지 유실 등의 피해가 조사됐다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태풍 ‘쁘라삐룬’ 언급하며 신곡 홍보한 마마무 휘인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

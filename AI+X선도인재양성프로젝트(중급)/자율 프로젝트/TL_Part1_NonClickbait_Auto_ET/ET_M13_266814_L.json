@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266814",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘갓파더’ 내주부터 화요일 밤에 본다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "‘갓파더’가 봄맞이 개편으로 방송 시간을 하루 앞당겨 색다른 재미를 선사할 전망이다.\nKBS2 예능 프로그램 ‘新 가족관계증명서 갓파더’(이하 ‘갓파더’) 측에 따르면 오는 19일부터 화요일 밤 10시 40분으로 편성을 변경한다.\n오늘(13일)까진 수요일 밤 10시 40분 안방을 찾으며, 다음 주부턴 새로운 시간대로 시청자들을 만나는 것. ‘갓파더’는 시간대를 옮긴 만큼, 보다 차별화된 부자(父子)와 모녀(母女)의 이야기로 화요일 밤 안방을 사로잡을 것으로 보인다. ‘갓파더’는 일반적인 부자와 모녀 관계의 틀을 깬 새로운 ‘가족 예능’으로 주목받고 있다.\n특히 야외 캠핑 그리고 복불복 여행 등 매회 트렌디한 에피소드로 풍성한 재미를 선사하는 중. 이에 향후 방송에도 뜨거운 관심이 집중된다. ‘갓파더’ 측은 “앞으로도 부자와 모녀의 특색 있는 이야기로 색다른 가족 관계를 그릴 예정”이라며 “변함없는 관심과 사랑을 부탁드린다”고 당부했다.\n한편, ‘갓파더’는 현실에서 보여줄 수 없었던 가족 간의 ‘찐 마음’을 새롭게 만난 부자(父子)와 모녀(母女)를 통해 알아가는 초밀착 관찰 예능 프로그램이다.\n오는 19일부터 매주 화요일 밤 10시 40분 방송한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘갓파더’가 봄맞이 개편으로 방송 시간을 하루 앞당겨 색다른 재미를 선사할 전망이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS2 예능 프로그램 ‘新 가족관계증명서 갓파더’(이하 ‘갓파더’) 측에 따르면 오는 19일부터 화요일 밤 10시 40분으로 편성을 변경한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오늘(13일)까진 수요일 밤 10시 40분 안방을 찾으며, 다음 주부턴 새로운 시간대로 시청자들을 만나는 것. ‘갓파더’는 시간대를 옮긴 만큼, 보다 차별화된 부자(父子)와 모녀(母女)의 이야기로 화요일 밤 안방을 사로잡을 것으로 보인다. ‘갓파더’는 일반적인 부자와 모녀 관계의 틀을 깬 새로운 ‘가족 예능’으로 주목받고 있다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 야외 캠핑 그리고 복불복 여행 등 매회 트렌디한 에피소드로 풍성한 재미를 선사하는 중. 이에 향후 방송에도 뜨거운 관심이 집중된다. ‘갓파더’ 측은 “앞으로도 부자와 모녀의 특색 있는 이야기로 색다른 가족 관계를 그릴 예정”이라며 “변함없는 관심과 사랑을 부탁드린다”고 당부했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, ‘갓파더’는 현실에서 보여줄 수 없었던 가족 간의 ‘찐 마음’을 새롭게 만난 부자(父子)와 모녀(母女)를 통해 알아가는 초밀착 관찰 예능 프로그램이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 19일부터 매주 화요일 밤 10시 40분 방송한다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘갓파더’ 내주부터 화요일 밤에 본다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

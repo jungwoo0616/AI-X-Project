@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278035",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'옥중화' 진세연, 눈물 흘리며 고수와 애틋한 포옹",
+		"newsSubTitle": "",
+		"newsContent": "'옥중화' 고수와 진세연이 포옹을 나눴다.\n지난 9일 방송된 MBC 주말드라마 '옥중화'에서는 옥녀(진세연)가 감옥에서 눈물을 쏟으며 태원(고수)에게 기대는 모습이 그려졌다.\n이날 옥녀와 태원은 비리혐의로 재판을 받게 됐다.\n옥녀는 자칫 잘못하면 관비가 될 처지에 놓였지만 탈옥을 거부했다.\n그러나 지서리의 도움으로 옥녀와 태원은 감옥에서 잠시 재회하게 됐다.\n옥녀는 \\\"최악의 경우니까 걱정말라\\\"며 태원을 안심 시켰지만, \\\"사실은 겁나요. 관비가 되면 헤어져야 할 사람들, 다신 못볼거라고 생각하면 정말 무서워요\\\"라고 말하며 눈물을 흘렸다.\n이에 태원은 안타까운 심정으로 옥녀를 안았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'옥중화' 고수와 진세연이 포옹을 나눴다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 9일 방송된 MBC 주말드라마 '옥중화'에서는 옥녀(진세연)가 감옥에서 눈물을 쏟으며 태원(고수)에게 기대는 모습이 그려졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 옥녀와 태원은 비리혐의로 재판을 받게 됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "옥녀는 자칫 잘못하면 관비가 될 처지에 놓였지만 탈옥을 거부했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 지서리의 도움으로 옥녀와 태원은 감옥에서 잠시 재회하게 됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "옥녀는 \\\"최악의 경우니까 걱정말라\\\"며 태원을 안심 시켰지만, \\\"사실은 겁나요. 관비가 되면 헤어져야 할 사람들, 다신 못볼거라고 생각하면 정말 무서워요\\\"라고 말하며 눈물을 흘렸다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 태원은 안타까운 심정으로 옥녀를 안았다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'옥중화' 진세연, 눈물 흘리며 고수와 애틋한 포옹",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263488",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "있지, H&M 모델 발탁…초록초록해",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 패션 브랜드 H&M은 봄/여름 캠페인의 모델로 그룹 ‘있지(ITZY)’를 발탁했다고 10일 밝혔다.\nITZY(있지)는 밝은 자신감과 매력넘치는 패션 스타일로 H&M과 함께 레트로 스트리트 트렌드를 보여줄 예정이다.\n트랜디한 ITZY(있지)만의 스타일은 오는 3월 말부터 ‘H&M with ITZY’ 캠페인에서 H&M 전국 매장과 온라인, 광고를 통해 만나볼 수 있다.\nITZY가 선보일 스타일은 2022년 컬러 트렌드인 그린을 포인트로 스트리트 감성이 담긴 ‘댄스 프랙티스 룩’과 페미닌한 에브리데이 스타일인 ‘오프데이 룩’, 두 가지다.\nITZY(있지) 멤버 모두 각각의 개성과 스타일을 보여주는 다양한 룩을 선보일 예정이다.\n한편 ITZY(있지)는 오는 4월 6일 일본에서 첫 싱글 ‘볼티지’를 선보일 예정이며, 4월 9일 첫 공식 팬미팅 ‘ITZY The 1st Fan Meeting “있지 믿지, 날자!”’를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 패션 브랜드 H&M은 봄/여름 캠페인의 모델로 그룹 ‘있지(ITZY)’를 발탁했다고 10일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ITZY(있지)는 밝은 자신감과 매력넘치는 패션 스타일로 H&M과 함께 레트로 스트리트 트렌드를 보여줄 예정이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "트랜디한 ITZY(있지)만의 스타일은 오는 3월 말부터 ‘H&M with ITZY’ 캠페인에서 H&M 전국 매장과 온라인, 광고를 통해 만나볼 수 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ITZY가 선보일 스타일은 2022년 컬러 트렌드인 그린을 포인트로 스트리트 감성이 담긴 ‘댄스 프랙티스 룩’과 페미닌한 에브리데이 스타일인 ‘오프데이 룩’, 두 가지다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ITZY(있지) 멤버 모두 각각의 개성과 스타일을 보여주는 다양한 룩을 선보일 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ITZY(있지)는 오는 4월 6일 일본에서 첫 싱글 ‘볼티지’를 선보일 예정이며, 4월 9일 첫 공식 팬미팅 ‘ITZY The 1st Fan Meeting “있지 믿지, 날자!”’를 개최한다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "있지, H&M 모델 발탁…초록초록해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278418",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'슈가맨' 차수경, 속이 살짝 비치는 옷으로 드러나는 \\\"고품격 미모\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'슈가맨'에 출연한 차수경이 화제인 가운데, 과거 차수경의 SNS에 올라온 사진도 눈길을 끈다.\n지난 2015년 차수경은 \\\"인스타...시작~ 아직 복잡해 보인다ㅜ근데 그 # 샾 이런건 왜쓰는건가요...허허;;\\\"라는 글과 함께 한장의 사진을 게시했다.\n사진 속 속이 살짝 비치는 옷을 입고 와인잔을 들고 있는 차수경의 모습에 누리꾼들은 열띤 반응을 보였다.\n한편 15일 방송된 JTBC '슈가맨'에는 '한국의 머라이어 캐리'라고 불렸던 차수경이 출연했다.\n이날 방송에서 차수경은 자신의 히트곡인 '용서 못해'를 불렀고, 이어서 머라이어 캐리의 'Emotions'를 불러달라는 유재석의 요청에 응해 'Emotions'를 완벽하게 소화해 놀라움을 이끌어냈다.\n온라인 중앙일보 [사진 차수경 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'슈가맨'에 출연한 차수경이 화제인 가운데, 과거 차수경의 SNS에 올라온 사진도 눈길을 끈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2015년 차수경은 \\\"인스타...시작~ 아직 복잡해 보인다ㅜ근데 그 # 샾 이런건 왜쓰는건가요...허허;;\\\"라는 글과 함께 한장의 사진을 게시했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 속이 살짝 비치는 옷을 입고 와인잔을 들고 있는 차수경의 모습에 누리꾼들은 열띤 반응을 보였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 15일 방송된 JTBC '슈가맨'에는 '한국의 머라이어 캐리'라고 불렸던 차수경이 출연했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에서 차수경은 자신의 히트곡인 '용서 못해'를 불렀고, 이어서 머라이어 캐리의 'Emotions'를 불러달라는 유재석의 요청에 응해 'Emotions'를 완벽하게 소화해 놀라움을 이끌어냈다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 차수경 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'슈가맨' 차수경, 속이 살짝 비치는 옷으로 드러나는 \\\"고품격 미모\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

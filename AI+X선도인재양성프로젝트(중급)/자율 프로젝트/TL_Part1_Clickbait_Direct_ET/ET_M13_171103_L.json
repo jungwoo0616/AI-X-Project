@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171103",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘더쇼’ 윤서령, 화려한 데뷔 무대 ‘척하면 척이지’",
+    "newsSubTitle": "",
+    "newsContent": "‘더쇼’ 윤서령, 화려한 데뷔 무대 ‘척하면 척이지’ ‘트롯 비타민’ 가수 윤서령이 화려한 데뷔 무대를 장식했다.\n윤서령은 7일 오후 6시 방송된 SBS MTV ‘더쇼’에 출연, 데뷔곡 ‘척하면 척이지’ 무대로 넘치는 끼를 발산했다.\n10대 트롯 대표의 화려한 데뷔를 알린 윤서령은 트롯계 아이돌다운 완벽한 비주얼은 물론, 돋보이는 포인트 안무와 여유로운 무대 매너로 시선을 사로잡았다.\n윤서령은 가슴이 뻥 뚫리는 시원한 가창력과 함께 매력적인 보이스를 자랑하는가 하면, 윤서령표 신명나는 흥을 대방출해 차세대 트롯 대표로 입지를 다졌다.\n윤서령의 데뷔곡 ‘척하면 척이지’는 사랑하는 사람과 오랜 믿음으로 척하면 척인 사랑을 표현한 곡으로, 김호중 ‘나보다 더 사랑해요’를 비롯해 영탁 ‘찐이야’, 박현빈 ‘샤방샤방’, 조항조 ‘고맙소’ 등의 히트곡을 탄생시킨 작곡팀 알고보니혼수상태와 국내 최고 세션맨들이 함께했다.\n윤서령은 앞으로도 음악활동을 비롯해 다채로운 방송활동으로 대중을 만날 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘더쇼’ 윤서령, 화려한 데뷔 무대 ‘척하면 척이지’ ‘트롯 비타민’ 가수 윤서령이 화려한 데뷔 무대를 장식했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤서령은 7일 오후 6시 방송된 SBS MTV ‘더쇼’에 출연, 데뷔곡 ‘척하면 척이지’ 무대로 넘치는 끼를 발산했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "10대 트롯 대표의 화려한 데뷔를 알린 윤서령은 트롯계 아이돌다운 완벽한 비주얼은 물론, 돋보이는 포인트 안무와 여유로운 무대 매너로 시선을 사로잡았다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤서령은 가슴이 뻥 뚫리는 시원한 가창력과 함께 매력적인 보이스를 자랑하는가 하면, 윤서령표 신명나는 흥을 대방출해 차세대 트롯 대표로 입지를 다졌다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤서령의 데뷔곡 ‘척하면 척이지’는 사랑하는 사람과 오랜 믿음으로 척하면 척인 사랑을 표현한 곡으로, 김호중 ‘나보다 더 사랑해요’를 비롯해 영탁 ‘찐이야’, 박현빈 ‘샤방샤방’, 조항조 ‘고맙소’ 등의 히트곡을 탄생시킨 작곡팀 알고보니혼수상태와 국내 최고 세션맨들이 함께했다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "윤서령은 앞으로도 음악활동을 비롯해 다채로운 방송활동으로 대중을 만날 예정이다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'트롯 비타민' 가수 윤서령, '이 작곡팀'과 데뷔곡 '척하면 척이지' 작업",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

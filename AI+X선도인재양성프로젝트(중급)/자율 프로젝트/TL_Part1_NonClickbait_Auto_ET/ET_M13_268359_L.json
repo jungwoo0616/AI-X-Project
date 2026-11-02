@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268359",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "미연 “솔로 데뷔곡, (여자)아이들 음악과 달라 새로운 모습”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 (여자)아이들의 미연이 신보를 소개했다.\n미연은 27일 서울 마포구에 위치한 한 카페에서 진행된 첫 미니앨범 ‘마이(MY))’ 발매 기자간담회에서 “앨범명 ‘마이’는 이름의 이니셜인 ‘MY’를 을 따기도 했고 ‘나’라는 중의적 의미를 담았다. 타이틀곡 ‘드라이브’에 대해서도“(여자)아이들로 했던 음악과는 다르고 그동안 불러온 음악과도 거리가 있다”며 “저의 새로운 모습, 또 편안한 모습 보여드리고 싶다고 생각했다.\n봄 날씨와도 잘 어울린다고 생각해 기분 좋게 들을 수 있지 않을까”라고 설명해 기대를 높였다.\n미연의 첫 미니앨범 ‘마이’는 데뷔 4년 만에 처음 선보이는 솔로 앨범으로, 미연의 약자 ‘MY’와 ‘나’라는 의미를 포괄한 중의적 표현해 미연의 이야기로 가득 채운 앨범이다.\n타이틀곡 ‘드라이브’를 포함하여 ‘로즈’, ‘소프틀리’, ‘떼아모(TE AMO)’,‘차징(Charging)’, ‘소나기’까지 총 여섯 트랙으로 이루어졌다.\n27일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 (여자)아이들의 미연이 신보를 소개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미연은 27일 서울 마포구에 위치한 한 카페에서 진행된 첫 미니앨범 ‘마이(MY))’ 발매 기자간담회에서 “앨범명 ‘마이’는 이름의 이니셜인 ‘MY’를 을 따기도 했고 ‘나’라는 중의적 의미를 담았다. 타이틀곡 ‘드라이브’에 대해서도“(여자)아이들로 했던 음악과는 다르고 그동안 불러온 음악과도 거리가 있다”며 “저의 새로운 모습, 또 편안한 모습 보여드리고 싶다고 생각했다.",
+				"sentenceSize": 210
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "봄 날씨와도 잘 어울린다고 생각해 기분 좋게 들을 수 있지 않을까”라고 설명해 기대를 높였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미연의 첫 미니앨범 ‘마이’는 데뷔 4년 만에 처음 선보이는 솔로 앨범으로, 미연의 약자 ‘MY’와 ‘나’라는 의미를 포괄한 중의적 표현해 미연의 이야기로 가득 채운 앨범이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘드라이브’를 포함하여 ‘로즈’, ‘소프틀리’, ‘떼아모(TE AMO)’,‘차징(Charging)’, ‘소나기’까지 총 여섯 트랙으로 이루어졌다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "27일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미연 “솔로 데뷔곡, (여자)아이들 음악과 달라 새로운 모습”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

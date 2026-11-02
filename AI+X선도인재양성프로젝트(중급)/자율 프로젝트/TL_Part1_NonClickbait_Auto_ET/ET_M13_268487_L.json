@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268487",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유승준, 두 번째 비자발급 소송 패소",
+		"newsSubTitle": "",
+		"newsContent": "가수 유승준(45·미국명 스티브 승준 유)이 한국 비자 발급 소송에서 또다시 패소했다.\n28일 서울행정법원 행정5부(김순열 부장판사)는 유씨가 주 로스앤젤레스(LA) 총영사를 상대로 낸 여권·사증(비자) 발급 거부처분 취소 소송을 원고 패소로 판결했다.\n유씨는 지난 2002년 병역을 기피하기 위해 한국 국적을 포기했다는 논란이 일었고 이에 법무부는 유승준에 대해 입국 금지 조치를 내렸다.\n이로 인해 유승준은 지금까지 한국에 들어오지 못하고 있다.\n유씨는 지난 2015년 10월 재외동포(F-4) 비자 발급을 신청했지만 LA 총영사관이 이를 거부하자 소송을 제기했고 지난 2020년 3월 승소 판결을 받았다.\n하지만 외교부가 비자 발급을 거부하자 유씨는 행정소송을 냈으나 오늘 또다시 패소했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 유승준(45·미국명 스티브 승준 유)이 한국 비자 발급 소송에서 또다시 패소했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 서울행정법원 행정5부(김순열 부장판사)는 유씨가 주 로스앤젤레스(LA) 총영사를 상대로 낸 여권·사증(비자) 발급 거부처분 취소 소송을 원고 패소로 판결했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유씨는 지난 2002년 병역을 기피하기 위해 한국 국적을 포기했다는 논란이 일었고 이에 법무부는 유승준에 대해 입국 금지 조치를 내렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로 인해 유승준은 지금까지 한국에 들어오지 못하고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유씨는 지난 2015년 10월 재외동포(F-4) 비자 발급을 신청했지만 LA 총영사관이 이를 거부하자 소송을 제기했고 지난 2020년 3월 승소 판결을 받았다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 외교부가 비자 발급을 거부하자 유씨는 행정소송을 냈으나 오늘 또다시 패소했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유승준, 두 번째 비자발급 소송 패소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

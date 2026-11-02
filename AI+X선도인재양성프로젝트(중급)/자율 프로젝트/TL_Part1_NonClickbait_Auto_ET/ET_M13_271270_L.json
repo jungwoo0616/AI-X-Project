@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271270",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘블랙’, 악마 중의 악마 정남규 파헤친다",
+		"newsSubTitle": "",
+		"newsContent": "채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다(이하 블랙)’가 서울 서남부 지역 일대를 공포에 떨게 했던 연쇄살인마 정남규의 내면을 파헤친다.\n27일 방송될 ‘블랙’의 예고편은 “2004년 서울 경기 일대는 공포에 휩싸였다”라는 스토리텔러 장진의 설명과 함께 시작됐다.\n이어 뉴스를 통해 연쇄살인범 정남규의 모습이 공개됐다.\n장진은 “무차별적인 공격과 살해 사건이 열흘이 멀다 하고 계속됐다”고 덧붙이며 오로지 살인만이 목적이었던 정남규의 범행 행적을 예고했다.\n정남규는 살인을 통해 행복함을 느꼈고, 사건 발생 지역 일대의 주민들은 불안에 떨었다.\n프로파일러 권일용은 “세상에 악마가 있다면 바로 이 자가 아닐까”라며 그의 잔인함에 혀를 내둘렀고, 게스트 소유는 “너무 소름 끼친다”며 분노했다.\n2년 4개월 동안 13명을 잔혹하게 살해한 연쇄살인마 정남규의 행적과, 그의 비정상적인 심리에 대한 고찰은 27일 금요일 밤 11시에 방송되는 채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다’에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다(이하 블랙)’가 서울 서남부 지역 일대를 공포에 떨게 했던 연쇄살인마 정남규의 내면을 파헤친다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 방송될 ‘블랙’의 예고편은 “2004년 서울 경기 일대는 공포에 휩싸였다”라는 스토리텔러 장진의 설명과 함께 시작됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 뉴스를 통해 연쇄살인범 정남규의 모습이 공개됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장진은 “무차별적인 공격과 살해 사건이 열흘이 멀다 하고 계속됐다”고 덧붙이며 오로지 살인만이 목적이었던 정남규의 범행 행적을 예고했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정남규는 살인을 통해 행복함을 느꼈고, 사건 발생 지역 일대의 주민들은 불안에 떨었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로파일러 권일용은 “세상에 악마가 있다면 바로 이 자가 아닐까”라며 그의 잔인함에 혀를 내둘렀고, 게스트 소유는 “너무 소름 끼친다”며 분노했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2년 4개월 동안 13명을 잔혹하게 살해한 연쇄살인마 정남규의 행적과, 그의 비정상적인 심리에 대한 고찰은 27일 금요일 밤 11시에 방송되는 채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다’에서 공개된다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘블랙’, 악마 중의 악마 정남규 파헤친다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

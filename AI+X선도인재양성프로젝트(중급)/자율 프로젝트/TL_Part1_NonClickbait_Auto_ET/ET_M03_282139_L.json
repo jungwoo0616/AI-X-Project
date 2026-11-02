@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282139",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "MC몽 축가, 매주 팬들 결혼식장 찾아가 축가 불러줘… 사진 공개돼 '화제'",
+		"newsSubTitle": "",
+		"newsContent": "MC몽, 팬들 결혼식장 찾아가 축가 불러 \\\"공연 때 약속 지켰다\\\" 가수 MC몽이 매주 팬들의 결혼식장을 직접 방문해 축가를 불러주는 사진이 공개돼 화제다.\nMC몽 매니지먼트를 담당하고 있는 드림티엔터테인먼트는 \\\"MC몽이 지난 10월부터 매주 주말 결혼을 하는 팬들의 결혼식장을 직접 찾아가 축가를 불러주고 있다\\\"고 밝혔다.\n이는 MC몽이 지난 9월 개최한 단독콘서트 '몽스터'를 관람한 팬들 중 결혼을 앞둔 커플들에게 축가를 불러주기로 한 약속을 이행하는 것으로 제주, 광주, 포항, 남원 등 전국에 분포된 팬들의 결혼식장을 찾아갔다.\n매니지먼트사 관계자는 “MC몽은 지난 10월 4일부터 현재까지 총 7쌍의 커플에게 축가로 ‘아이 러브유 오 땡큐’를 불러줬다”며 “결혼식 축가 이벤트는 MC몽의 콘서트가 진행되는 한 계속 이어질 것으로 안다”고 말했다.\nMC몽은 지난 9월 홍대부근 400석 규모의 소극장에서 총 6회에 걸쳐 단독 콘서트 ‘몽스터’를 진행했으며 공연을 통해 3000여 명의 팬들을 만났다.\n한편, MC몽은 오는 20일 오후 6시 코엑스홀 D2에서 '몽스터2'라는 타이틀로 2015 연말 콘서트를 갖는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MC몽, 팬들 결혼식장 찾아가 축가 불러 \\\"공연 때 약속 지켰다\\\" 가수 MC몽이 매주 팬들의 결혼식장을 직접 방문해 축가를 불러주는 사진이 공개돼 화제다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "MC몽 매니지먼트를 담당하고 있는 드림티엔터테인먼트는 \\\"MC몽이 지난 10월부터 매주 주말 결혼을 하는 팬들의 결혼식장을 직접 찾아가 축가를 불러주고 있다\\\"고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 MC몽이 지난 9월 개최한 단독콘서트 '몽스터'를 관람한 팬들 중 결혼을 앞둔 커플들에게 축가를 불러주기로 한 약속을 이행하는 것으로 제주, 광주, 포항, 남원 등 전국에 분포된 팬들의 결혼식장을 찾아갔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매니지먼트사 관계자는 “MC몽은 지난 10월 4일부터 현재까지 총 7쌍의 커플에게 축가로 ‘아이 러브유 오 땡큐’를 불러줬다”며 “결혼식 축가 이벤트는 MC몽의 콘서트가 진행되는 한 계속 이어질 것으로 안다”고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MC몽은 지난 9월 홍대부근 400석 규모의 소극장에서 총 6회에 걸쳐 단독 콘서트 ‘몽스터’를 진행했으며 공연을 통해 3000여 명의 팬들을 만났다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, MC몽은 오는 20일 오후 6시 코엑스홀 D2에서 '몽스터2'라는 타이틀로 2015 연말 콘서트를 갖는다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MC몽 축가, 매주 팬들 결혼식장 찾아가 축가 불러줘… 사진 공개돼 '화제'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275235",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘금요힙합’ 힙합 유튜버 빅쇼트 부고",
+		"newsSubTitle": "",
+		"newsContent": "힙합 유튜버 빅쇼트(이승현)의 부고 소식이 전해졌다.\n11일 오후 고인의 인스타그램 스토리에는 “이승현(빅쇼트)의 누나입니다. 승현이가 7월 9일 하늘나라로 갔습니다”라는 글이 게재됐다.\n래퍼 니니 블라세(유안진)와 허클베리피(박상혁), 원슈타인(정지원)은 고인을 추모하는 댓글을 남겼다.\n고인은 힙합 커뮤니티 힙합플레이야와의 협업으로 ‘금요힙합’이라는 콘텐츠를 진행했다.\n유튜브와 트위치 온라인 방송으로 팬들과 소통하기도 했다.\n하지만 지난 1월 12일 유튜브 영상 업로드 후 소식이 끊겼다.\n해당 소식이 전해지면서 고인의 인스타그램과 유튜브 채널에는 추모 댓글이 이어지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "힙합 유튜버 빅쇼트(이승현)의 부고 소식이 전해졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 오후 고인의 인스타그램 스토리에는 “이승현(빅쇼트)의 누나입니다. 승현이가 7월 9일 하늘나라로 갔습니다”라는 글이 게재됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "래퍼 니니 블라세(유안진)와 허클베리피(박상혁), 원슈타인(정지원)은 고인을 추모하는 댓글을 남겼다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고인은 힙합 커뮤니티 힙합플레이야와의 협업으로 ‘금요힙합’이라는 콘텐츠를 진행했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유튜브와 트위치 온라인 방송으로 팬들과 소통하기도 했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 지난 1월 12일 유튜브 영상 업로드 후 소식이 끊겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 소식이 전해지면서 고인의 인스타그램과 유튜브 채널에는 추모 댓글이 이어지고 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘금요힙합’ 힙합 유튜버 빅쇼트 부고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

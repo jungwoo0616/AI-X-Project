@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262760",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘어쩌다 사장2’ 조인성 “결혼, 안한 것 아니라 못한 것”",
+		"newsSubTitle": "",
+		"newsContent": "배우 조인성이 결혼 질문에 답했다.\n3일 오후 방송된 tvN 예능 ‘어쩌다 사장2’에서는 마트에 온 손님들이 조인성 표 우동을 맛보다 그에게 결혼 관련한 질문을 했다.\n이날 한 손님은 조인성에게 “장모님은 계시냐”고 물었다.\n이에 또 다른 손님이 “아직 결혼을 안 했는데 어떻게 장모가 있겠느냐”고 말해 웃음을 자아냈다.\n일행이 “아직 결혼을 안했냐”고 놀라워했고, 조인성은 “못 간거다. (장가를) 안 간 게 아니라 못 간 것”이라고 답했다.\n손님은 “왜 아직 못 갔냐. 서로 사위 삼으려고 하겠는데”라고 했고, 조인성은 쑥쓰러운 모습을 보였다.\n이어 손님이 “여기 있는 사람 다 장가 안 갔나”라고 묻자, 조인성은 “차태현 선배님은 갔다. 애가 셋이다”라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 조인성이 결혼 질문에 답했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 오후 방송된 tvN 예능 ‘어쩌다 사장2’에서는 마트에 온 손님들이 조인성 표 우동을 맛보다 그에게 결혼 관련한 질문을 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 한 손님은 조인성에게 “장모님은 계시냐”고 물었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 또 다른 손님이 “아직 결혼을 안 했는데 어떻게 장모가 있겠느냐”고 말해 웃음을 자아냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일행이 “아직 결혼을 안했냐”고 놀라워했고, 조인성은 “못 간거다. (장가를) 안 간 게 아니라 못 간 것”이라고 답했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손님은 “왜 아직 못 갔냐. 서로 사위 삼으려고 하겠는데”라고 했고, 조인성은 쑥쓰러운 모습을 보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 손님이 “여기 있는 사람 다 장가 안 갔나”라고 묻자, 조인성은 “차태현 선배님은 갔다. 애가 셋이다”라고 말했다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘어쩌다 사장2’ 조인성 “결혼, 안한 것 아니라 못한 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

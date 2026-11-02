@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267560",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이석훈, 장애인의 날 특집 방송 ‘봄날의 기적’ MC 출연",
+		"newsSubTitle": "",
+		"newsContent": "가수 이석훈이 20일 오후 방송된 장애인의 날 특집 방송 MBC ‘봄날의 기적’의 MC를 맡았다.\n밀알복지재단과 MBC가 장애인의 날을 맞이해 준비한 특집 방송 ‘봄날의 기적’은 후원을 통해 형편이 어려운 저소득가정 장애아동들이 적기에 치료를 받을 수 있도록 도울 수 있는 프로그램이다.\n올해로 4회를 맞이한 이번 방송에서는 ‘늦지 않게 지켜주세요’라는 부제를 통해 장애아동조기 치료의 필요성을 호소했다.\n이석훈은 방송인 도경완, 배우 표예진과 ‘봄날의 기적’ MC로 참여해 부드러운 진행으로 시청자들의 관심을 유도했다.\n이석훈은 현재 KBS2 ‘국민동요 프로젝트 아기싱어’와 MBC FM4U ‘이석훈의 브런치카페’의 DJ로 활약하고 있다.\n또 최근에는 데뷔 14년 만에 첫 솔로 정규앨범 ‘같은 자리’를 발매했을 뿐만 아니라, 소극장 콘서트 ‘다시, 쓰임’을 개최하며 팬들과 만나는 등 공연과 방송, 라디오 등을 넘나들며 다채로운 활동을 이어가고 있다.\n이석훈이 출연하는 장애인의 날 특집 방송 MBC ‘봄날의 기적’은 이날 오후 6시 5분에 방송됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이석훈이 20일 오후 방송된 장애인의 날 특집 방송 MBC ‘봄날의 기적’의 MC를 맡았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "밀알복지재단과 MBC가 장애인의 날을 맞이해 준비한 특집 방송 ‘봄날의 기적’은 후원을 통해 형편이 어려운 저소득가정 장애아동들이 적기에 치료를 받을 수 있도록 도울 수 있는 프로그램이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해로 4회를 맞이한 이번 방송에서는 ‘늦지 않게 지켜주세요’라는 부제를 통해 장애아동조기 치료의 필요성을 호소했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이석훈은 방송인 도경완, 배우 표예진과 ‘봄날의 기적’ MC로 참여해 부드러운 진행으로 시청자들의 관심을 유도했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이석훈은 현재 KBS2 ‘국민동요 프로젝트 아기싱어’와 MBC FM4U ‘이석훈의 브런치카페’의 DJ로 활약하고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 최근에는 데뷔 14년 만에 첫 솔로 정규앨범 ‘같은 자리’를 발매했을 뿐만 아니라, 소극장 콘서트 ‘다시, 쓰임’을 개최하며 팬들과 만나는 등 공연과 방송, 라디오 등을 넘나들며 다채로운 활동을 이어가고 있다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이석훈이 출연하는 장애인의 날 특집 방송 MBC ‘봄날의 기적’은 이날 오후 6시 5분에 방송됐다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이석훈, 장애인의 날 특집 방송 ‘봄날의 기적’ MC 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

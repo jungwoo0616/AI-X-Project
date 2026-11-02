@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277155",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "일라이 \\\"부모님 몰래 11살 연상 아내와 혼인신고\\\"",
+		"newsSubTitle": "",
+		"newsContent": "유키스로 데뷔한 일라이가 11상 연상 아내를 소개했다.\n15일 방송된 'KBS 살림남2'에서는 일라이가 아내, 아들과 함께 미국 워싱턴에 계신 부모님을 찾아 뵙는 모습이 그려졌다.\n이날 일라이의 본가를 방문한 지연수는 넓은 집에 깜짝 놀라며 \\\"이층에 방이 대체 몇개냐?\\\"고 감탄했다.\n일라이는 \\\"가족들과 다 함께 모여 밥을 먹는 것은 10년만\\\"이라며 \\\"그 안에 식구가 세 식구 더 늘었다\\\"고 말했다.\n일라이는 \\\"부모님께 말을 안하고 혼인신고를 해서 많이 서운해하셨을 것\\\"이라고 운을 뗐고 부모님은 \\\"정말 서운했다. 우리 아들은 봐도 연수는 안 본다 했었다\\\"고 말해 당시 가족 갈등이 컸음을 드러냈다.\n일라이부모님은 \\\"누군지도 모르고 처음에는 하늘이 무너지는 기분이었다\\\"며 \\\"이후 일본 공연에 갔던 아들 일라이가 '나는 연수 사랑해'라고 말해 이러다가 아들을 못 볼 수 도 있겠다는 생각이 들었다\\\"고 말했다.\n일라이엄마는 \\\"처음 공개 발표 전에 아들에게 이야기를 들었다. 일주일 내내 밥을 못먹었다. 나이 차이 때문에 반대를 하는데 이걸 받아들이지 못하면 안되겠더라. 받아들이니 며늘 아기가 예뻤다. 참 착하더라\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유키스로 데뷔한 일라이가 11상 연상 아내를 소개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 방송된 'KBS 살림남2'에서는 일라이가 아내, 아들과 함께 미국 워싱턴에 계신 부모님을 찾아 뵙는 모습이 그려졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 일라이의 본가를 방문한 지연수는 넓은 집에 깜짝 놀라며 \\\"이층에 방이 대체 몇개냐?\\\"고 감탄했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일라이는 \\\"가족들과 다 함께 모여 밥을 먹는 것은 10년만\\\"이라며 \\\"그 안에 식구가 세 식구 더 늘었다\\\"고 말했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일라이는 \\\"부모님께 말을 안하고 혼인신고를 해서 많이 서운해하셨을 것\\\"이라고 운을 뗐고 부모님은 \\\"정말 서운했다. 우리 아들은 봐도 연수는 안 본다 했었다\\\"고 말해 당시 가족 갈등이 컸음을 드러냈다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일라이부모님은 \\\"누군지도 모르고 처음에는 하늘이 무너지는 기분이었다\\\"며 \\\"이후 일본 공연에 갔던 아들 일라이가 '나는 연수 사랑해'라고 말해 이러다가 아들을 못 볼 수 도 있겠다는 생각이 들었다\\\"고 말했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일라이엄마는 \\\"처음 공개 발표 전에 아들에게 이야기를 들었다. 일주일 내내 밥을 못먹었다. 나이 차이 때문에 반대를 하는데 이걸 받아들이지 못하면 안되겠더라. 받아들이니 며늘 아기가 예뻤다. 참 착하더라\\\"라고 말했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일라이 \\\"부모님 몰래 11살 연상 아내와 혼인신고\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

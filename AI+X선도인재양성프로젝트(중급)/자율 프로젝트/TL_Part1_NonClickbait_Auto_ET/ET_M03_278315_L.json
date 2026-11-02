@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278315",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'슈가맨' 차지연, 실제 성격에 대해 \\\"자학 심해…외모·실력 컴플렉스\\\"",
+		"newsSubTitle": "",
+		"newsContent": "차지연이 ‘슈가맨’ 출연으로 화제인 가운데 차지연이 자신의 성격에 대해 언급한 발언도 눈길을 끈다.\n지난 29일 방송된 JTBC '투유 프로젝트-슈가맨'에는 차지연이 쇼맨으로 출연했다.\n이날 방송에서 차지연은 밴드 플라워의 '앤드리스'를 재해석한 '2016 앤드리스'를 훌륭하게 소화해내면서 폭발적인 반응을 얻었다.\n한편 차지연은 과거 한 매체와의 인터뷰에서 자신의 무대에 대해 \\\"불만스럽다. 망언이 아니라 진심이다\\\"라고 털어놨다.\n이어서 차지연은 자신의 성격에 대해 \\\"겉으로 밝은 게 가식이 아니고 저 자신이 맞는데 이면의 저는 어둡다\\\"며 \\\"자학을 심하게 한다. 외모나 실력이 다 콤플렉스다. 다이어트도 그래서 하고 있다\\\"고 덧붙였다.\n온라인 중앙일보 [사진 중앙포토]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "차지연이 ‘슈가맨’ 출연으로 화제인 가운데 차지연이 자신의 성격에 대해 언급한 발언도 눈길을 끈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 29일 방송된 JTBC '투유 프로젝트-슈가맨'에는 차지연이 쇼맨으로 출연했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 차지연은 밴드 플라워의 '앤드리스'를 재해석한 '2016 앤드리스'를 훌륭하게 소화해내면서 폭발적인 반응을 얻었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 차지연은 과거 한 매체와의 인터뷰에서 자신의 무대에 대해 \\\"불만스럽다. 망언이 아니라 진심이다\\\"라고 털어놨다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어서 차지연은 자신의 성격에 대해 \\\"겉으로 밝은 게 가식이 아니고 저 자신이 맞는데 이면의 저는 어둡다\\\"며 \\\"자학을 심하게 한다. 외모나 실력이 다 콤플렉스다. 다이어트도 그래서 하고 있다\\\"고 덧붙였다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 중앙포토]",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'슈가맨' 차지연, 실제 성격에 대해 \\\"자학 심해…외모·실력 컴플렉스\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

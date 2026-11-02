@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_286243",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "냉장고를 부탁해 하석진 김영광 \\\"일반인 킬러\\\" VS \\\"모델 킬러\\\"…무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "김영광이 배우 하석진을 일반인 킬러로 칭했다.\n배우 김영광은 9월 21일 방송된 JTBC ‘냉장고를 부탁해’에서 하석진의 비밀을 폭로해 웃음을 자아냈다.\n이날 김영광은 \\\"하석진에 대해 알고 있는 거 없냐\\\"는 말을 듣고 \\\"석진이 형이 일반인 킬러다\\\"고 답해 하석진을 깜짝 놀라게 했다.\n이를 듣던 정형돈은 거꾸로 하석진에게 \\\"김영광은 어떤 킬러냐\\\"고 물었다.\n이에 하석진은 \\\"(김영광은) 모델 킬러 같다\\\"고 응수해 김영광을 난처하게 만들었다.\n온라인 중앙일보 [사진 JTBC ‘냉장고를 부탁해’ 방송 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김영광이 배우 하석진을 일반인 킬러로 칭했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 김영광은 9월 21일 방송된 JTBC ‘냉장고를 부탁해’에서 하석진의 비밀을 폭로해 웃음을 자아냈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김영광은 \\\"하석진에 대해 알고 있는 거 없냐\\\"는 말을 듣고 \\\"석진이 형이 일반인 킬러다\\\"고 답해 하석진을 깜짝 놀라게 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 듣던 정형돈은 거꾸로 하석진에게 \\\"김영광은 어떤 킬러냐\\\"고 물었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 하석진은 \\\"(김영광은) 모델 킬러 같다\\\"고 응수해 김영광을 난처하게 만들었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC ‘냉장고를 부탁해’ 방송 캡처]",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "냉장고를 부탁해 하석진 김영광 \\\"일반인 킬러\\\" VS \\\"모델 킬러\\\"…무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

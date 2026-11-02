@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260686",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문]허성태, 코로나19 확진",
+		"newsSubTitle": "",
+		"newsContent": "배우 허성태가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n허성태 소속사 한아름컴퍼니는 11일 오전에 “허성태는 지난 10일 확진자와 밀접 접촉 후 자가키트 검사에서 양성반응이 나와 곧바로 PCR 검사를 진행 결과 코로나 확진 판정을 받았습니다”고 밝혔다.\n소속사는 “백신은 2차 접종까지 마쳤으며, 3차 접종을 앞둔 상황이었다. 현재 건강상의 특별한 문제는 없다”고 전했다.\n이어 소속사는 “허성태는 코로나19 확진 판정에 따라 현재 예정된 모든 일정을 중단한 상태”라고 덧붙였다.\n허성태는 2022년 새해 설날 ‘SNL 코리아 시즌2’를 통해 전천후 활약을 예고한 바 있다.\n그는 JTBC 드라마 ‘인사이더’ KBS 드라마 ‘붉은단심’ 출연, 영화 ‘소년들’ ‘헌트’ 등의 개봉을 앞두고 있었다.\n■이하 한아름컴퍼니 전문.안녕하세요 한아름컴퍼니 입니다.\n허성태 배우는 지난 10일 확진자와 밀접 접촉 후 자가키트 검사에서 양성반응이 나와 곧바로 PCR 검사를 진행, 오늘(11일) 코로나 확진 판정을 받았습니다.\n허성태 배우는 코로나19 백신 2차 접종까지 완료 한 상태 였으며, 3차 접종을 앞둔 상태였습니다.\n현재 예정된 모든 일정은 중단한 상태입니다.\n또한 허성태 배우는 현재 큰 증상은 없는 상태이며, 당사는 보건 당국의 지침에 따라 아티스트의 건강과 회복에 최선의 노력을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 허성태가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "허성태 소속사 한아름컴퍼니는 11일 오전에 “허성태는 지난 10일 확진자와 밀접 접촉 후 자가키트 검사에서 양성반응이 나와 곧바로 PCR 검사를 진행 결과 코로나 확진 판정을 받았습니다”고 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “백신은 2차 접종까지 마쳤으며, 3차 접종을 앞둔 상황이었다. 현재 건강상의 특별한 문제는 없다”고 전했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 소속사는 “허성태는 코로나19 확진 판정에 따라 현재 예정된 모든 일정을 중단한 상태”라고 덧붙였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허성태는 2022년 새해 설날 ‘SNL 코리아 시즌2’를 통해 전천후 활약을 예고한 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 JTBC 드라마 ‘인사이더’ KBS 드라마 ‘붉은단심’ 출연, 영화 ‘소년들’ ‘헌트’ 등의 개봉을 앞두고 있었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "■이하 한아름컴퍼니 전문.안녕하세요 한아름컴퍼니 입니다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "허성태 배우는 지난 10일 확진자와 밀접 접촉 후 자가키트 검사에서 양성반응이 나와 곧바로 PCR 검사를 진행, 오늘(11일) 코로나 확진 판정을 받았습니다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "허성태 배우는 코로나19 백신 2차 접종까지 완료 한 상태 였으며, 3차 접종을 앞둔 상태였습니다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재 예정된 모든 일정은 중단한 상태입니다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또한 허성태 배우는 현재 큰 증상은 없는 상태이며, 당사는 보건 당국의 지침에 따라 아티스트의 건강과 회복에 최선의 노력을 다하겠습니다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문]허성태, 코로나19 확진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

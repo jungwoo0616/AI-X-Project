@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272917",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "송가인 전주 콘서트, 명품 라이브 향연",
+		"newsSubTitle": "",
+		"newsContent": "송가인이 누구도 흉내 낼 수 없는 명품 콘서트를 만들었다.\n지난 11일 전주에 위치한 한국소리문화의전당 야외공연장에서는 송가인의 전국 투어 ‘2022 송가인전국투어 콘서트-연가(戀歌)’가 열렸다.\n코로나19로 인해 3년여 만에 열린 이번 콘서트는 막강한 티켓 파워를입증했다.\n이날 공연장은 가족 관객은 물론 부모님, 연인 등 전 세대를 아우르는 장이었다.\n공연 전부터 공연장 근처 곳곳에는 팬들이 모여 흥을 돋우었고 축제의 분위기를 이어가기도 했다.\n오프닝 공연을 마친 송가인은 객석을 가득 메운 팬들을 바라보며 다채로운 무대를 선사했다.\n송가인은 20곡이 넘는 곡들을 가슴을 울리는 깊은 감성으로 라이브를 선보여 감동을 배가시켰고 관객들은 송가인이 차린 음악의 성찬을 함께했다.\n공연 중간중간 팬들과 친근하게 소통하며 입담을 과시하기도 했다.\n투어 시작 전부터 큰 기대를 모았던 송가인은 이번 콘서트를 통해 명품 콘서트가 무엇인지 보여주고 있다.\n이날 공연에서 송가인은 “여러분들이 즐겨 주시는 모습을 보니까 저도 힘내서 열심히 멋진 공연을 할 수있었다. 함께 추억을 나눌 수 있어 행복했다”라고 감사의 인사를 전했다.\n한편, 송가인은 다음 달 9일 인천 송도컨벤시아 등에서도 전국 투어 콘서트를 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "송가인이 누구도 흉내 낼 수 없는 명품 콘서트를 만들었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 11일 전주에 위치한 한국소리문화의전당 야외공연장에서는 송가인의 전국 투어 ‘2022 송가인전국투어 콘서트-연가(戀歌)’가 열렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코로나19로 인해 3년여 만에 열린 이번 콘서트는 막강한 티켓 파워를입증했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 공연장은 가족 관객은 물론 부모님, 연인 등 전 세대를 아우르는 장이었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공연 전부터 공연장 근처 곳곳에는 팬들이 모여 흥을 돋우었고 축제의 분위기를 이어가기도 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오프닝 공연을 마친 송가인은 객석을 가득 메운 팬들을 바라보며 다채로운 무대를 선사했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송가인은 20곡이 넘는 곡들을 가슴을 울리는 깊은 감성으로 라이브를 선보여 감동을 배가시켰고 관객들은 송가인이 차린 음악의 성찬을 함께했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공연 중간중간 팬들과 친근하게 소통하며 입담을 과시하기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "투어 시작 전부터 큰 기대를 모았던 송가인은 이번 콘서트를 통해 명품 콘서트가 무엇인지 보여주고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이날 공연에서 송가인은 “여러분들이 즐겨 주시는 모습을 보니까 저도 힘내서 열심히 멋진 공연을 할 수있었다. 함께 추억을 나눌 수 있어 행복했다”라고 감사의 인사를 전했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한편, 송가인은 다음 달 9일 인천 송도컨벤시아 등에서도 전국 투어 콘서트를 이어간다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송가인 전주 콘서트, 명품 라이브 향연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

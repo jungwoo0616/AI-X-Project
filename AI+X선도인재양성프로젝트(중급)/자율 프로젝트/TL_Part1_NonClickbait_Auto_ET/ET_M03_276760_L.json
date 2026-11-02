@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276760",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "MBC·SBS 이어 KBS도 드라마에 '유사 중간광고' 삽입",
+		"newsSubTitle": "",
+		"newsContent": "공영방송 KBS가 MBCㆍSBS에 이어 드라마 중간, 사실상 중간광고 성격의 ‘유사 중간광고’를 삽입했다. ‘프리미엄CM’(PCM)라고 불리는 ‘유사 중간광고’는 70분 분량의 예능이나 드라마를 1부와 2부로 쪼개 광고를 내보내는 방식이다.\n현행 방송법상 지상파 방송에는 중간광고가 제한되기 때문에 나온 일종의 ‘꼼수 광고’라는 지적이다.\nKBS는 지난 2일 금토드라마 ‘최고의 한방’ 첫방을 35분씩 쪼개 1부와 2부로 나눠 내보냈다.\n그리고 그 사이 15초 분량의 광고 4편으로 끼워 내보내게 됐다.\n지난 4월 프리미엄CM을 끼워넣은 MBC드라마 ‘군주’와 SBS ‘수상한 파트너’ 대열에 KBS도 동참한 셈이다.\n현재까지 KBS는 드라마 이외 프리미엄CM을 적용하고 있지는 않다.\n하지만 MBCㆍSBS가 다수의 예능 프로그램에도 프리미엄CM을 적용하고 있어 시간 문제라는 관측도 있다.\n방송통신위원회는 앞서 MBCㆍSBS 방송사의 프리미엄CM이 논란이 되자 두 차례 방송사 편성책임자와 회의를 갖고 시청권 침해 해소 방안 등 방송사의 자구책 마련을 요청한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공영방송 KBS가 MBCㆍSBS에 이어 드라마 중간, 사실상 중간광고 성격의 ‘유사 중간광고’를 삽입했다. ‘프리미엄CM’(PCM)라고 불리는 ‘유사 중간광고’는 70분 분량의 예능이나 드라마를 1부와 2부로 쪼개 광고를 내보내는 방식이다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현행 방송법상 지상파 방송에는 중간광고가 제한되기 때문에 나온 일종의 ‘꼼수 광고’라는 지적이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KBS는 지난 2일 금토드라마 ‘최고의 한방’ 첫방을 35분씩 쪼개 1부와 2부로 나눠 내보냈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그리고 그 사이 15초 분량의 광고 4편으로 끼워 내보내게 됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 4월 프리미엄CM을 끼워넣은 MBC드라마 ‘군주’와 SBS ‘수상한 파트너’ 대열에 KBS도 동참한 셈이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재까지 KBS는 드라마 이외 프리미엄CM을 적용하고 있지는 않다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 MBCㆍSBS가 다수의 예능 프로그램에도 프리미엄CM을 적용하고 있어 시간 문제라는 관측도 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방송통신위원회는 앞서 MBCㆍSBS 방송사의 프리미엄CM이 논란이 되자 두 차례 방송사 편성책임자와 회의를 갖고 시청권 침해 해소 방안 등 방송사의 자구책 마련을 요청한 것으로 알려졌다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MBC·SBS 이어 KBS도 드라마에 '유사 중간광고' 삽입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

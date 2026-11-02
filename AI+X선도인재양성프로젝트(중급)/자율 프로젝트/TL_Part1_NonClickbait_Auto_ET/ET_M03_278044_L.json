@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278044",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'함부로 애틋하게' 수지, OST 셀프 홍보…돋보이는 미모",
+		"newsSubTitle": "",
+		"newsContent": "수지가 '함부로 애틋하게' OST 셀프 홍보에 나섰다.\n지난 30일 수지는 자신의 인스타그램에 \\\"#함부로애틋하게 ost 선공개 하지롱 몇시간 뒤에! 오는 12시에 !!\\\"라는 글과 함께 한 장의 사진을 공개했다.\n공개된 사진은 카메라를 응시하고 있는 수지의 모습을 담고 있다.\n큰 눈망울과 여신 미모가 아련한 분위기를 자아내 눈길을 끌었다.\n수지가 부른 OST 'Ring My Bell'은 드라마 방영에 앞서 1일 선공개됐다. 'Ring My Bell'은 경쾌한 기타리듬과 수지의 달콤한 목소리가 잘 어우러진 곡. 극 중 신준영(김우빈 분)을 향한 노을(배수지 분)의 설레는 마음을 표현했다.\n한편 수지, 김우빈 주연의 KBS2 '함부로 애틋하게'는 오는 7월 6일 첫 방송을 앞두고 있다.\n온라인 중앙일보 [사진 수지 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "수지가 '함부로 애틋하게' OST 셀프 홍보에 나섰다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 30일 수지는 자신의 인스타그램에 \\\"#함부로애틋하게 ost 선공개 하지롱 몇시간 뒤에! 오는 12시에 !!\\\"라는 글과 함께 한 장의 사진을 공개했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 카메라를 응시하고 있는 수지의 모습을 담고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "큰 눈망울과 여신 미모가 아련한 분위기를 자아내 눈길을 끌었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수지가 부른 OST 'Ring My Bell'은 드라마 방영에 앞서 1일 선공개됐다. 'Ring My Bell'은 경쾌한 기타리듬과 수지의 달콤한 목소리가 잘 어우러진 곡. 극 중 신준영(김우빈 분)을 향한 노을(배수지 분)의 설레는 마음을 표현했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 수지, 김우빈 주연의 KBS2 '함부로 애틋하게'는 오는 7월 6일 첫 방송을 앞두고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 수지 인스타그램]",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'함부로 애틋하게' 수지, OST 셀프 홍보…돋보이는 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

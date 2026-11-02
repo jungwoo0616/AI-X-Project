@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169806",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "짐캐리 전 연인 카트리나 화이트 죽음에 \\\"너무나 충격적이고 슬프다\\\" 애도",
+    "newsSubTitle": "",
+    "newsContent": "'짐캐리' 짐캐리 전 여자친구 카트리나 화이트 사망, 짐캐리 \\\"너무나 충격적이고 슬프다\\\" 미국 코미디언 짐캐리(53)의 전 연인인 카트리나 화이트(28)의 사망 소식이 전해졌다.\n미국 연예매체 피플닷컴은 29일(현지 시각) \\\"짐 캐리 여자친구인 메이크업 아티스트 카트리오나 화이트가 지난 28일 LA 인근 자신의 아파트에서 사망했다\\\"고 보도했다.\n카트리나 화이트와 짐 캐리는 지난 2012년 함께 작업을 한 것이 인연이 돼 연인 관계로 발전했다.\n짐 캐리는 대변인을 통해서 \\\"너무나 충격적이고 슬프다\\\"며 \\\"그녀는 너무나 착하고 순수했다. 누구나 사랑하고 사랑했을 존재다\\\"고 애도를 전했다.\n두 사람은 공개연애를 해왔으며 SNS를 통해 서로에 대한 애정을 공개하기도 했다.\n하지만 두 사람의 연인 관계는 수 차례 위기를 맞았고 실제로 화이트가 사망하기 전인 지난 5월 부터 결별 했다는 보도가 지속적으로 나온 바 있다.\n카트리나 화이트는 유서를 통해 짐 캐리와 헤어졌다고 밝힌 것으로 알려졌다. '짐캐리' 온라인 중앙일보 '짐캐리'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'짐캐리' 짐캐리 전 여자친구 카트리나 화이트 사망, 짐캐리 \\\"너무나 충격적이고 슬프다\\\" 미국 코미디언 짐캐리(53)의 전 연인인 카트리나 화이트(28)의 사망 소식이 전해졌다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 연예매체 피플닷컴은 29일(현지 시각) \\\"짐 캐리 여자친구인 메이크업 아티스트 카트리오나 화이트가 지난 28일 LA 인근 자신의 아파트에서 사망했다\\\"고 보도했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "카트리나 화이트와 짐 캐리는 지난 2012년 함께 작업을 한 것이 인연이 돼 연인 관계로 발전했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "짐 캐리는 대변인을 통해서 \\\"너무나 충격적이고 슬프다\\\"며 \\\"그녀는 너무나 착하고 순수했다. 누구나 사랑하고 사랑했을 존재다\\\"고 애도를 전했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 공개연애를 해왔으며 SNS를 통해 서로에 대한 애정을 공개하기도 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 두 사람의 연인 관계는 수 차례 위기를 맞았고 실제로 화이트가 사망하기 전인 지난 5월 부터 결별 했다는 보도가 지속적으로 나온 바 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "카트리나 화이트는 유서를 통해 짐 캐리와 헤어졌다고 밝힌 것으로 알려졌다. '짐캐리' 온라인 중앙일보 '짐캐리'",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "끔찍한 자살로 생 마감한 짐 캐리 전 여자친구... 유서에 진실 담겼다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260904",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이지훈 “코로나19 확진 일주일만…격리 해제 통보”",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 이지훈이 코로나19에 확진됐다가 격리 해제됐다.\n14일 이지훈은 자신의 SNS 인스타그램에 “PCR 검사일로부터 일주일 만에 격리 해제 통보와 자가키트 음성 판정을 받았다”며 완치 판정 소식을 알렸다.\n이어 “잔기침과 가래, 코막힘은 호전됐지만 좀 남아있는 상태다. 어젯밤까지만 해도 기운이 없었는데 그건 확실히 없어진 듯하다”라고 적었다.\n이지훈은 이어 “후각 미각상실 언급이 많은데 저는 한 30%는 느껴지더라. 맛은 다 못느끼지만 빨리 나으려고 열심히 먹었다. 걱정해주시고 도움주려 애써주신 분들 진심으로 감사드린다. 우리 모두 건강한 사회생활을 할 수 있는 날이 빨리 찾아오길 기도하겠다”고 밝혔다.\n이지훈은 지난 9일 “5일 진행한 PCR검사에서 음성 판정을 받았으나, 다음 날 오후 몸 상태에 이상이 있어 자체적으로 격리를 진행했다. 자가격리를 하면서도 자가진단키트로 검사를 4차례 이상 꾸준히 진행하였을 때에도 음성이 나왔지만 열이 39도까지 오르는 심각한 상황에 지난 7일 곧바로 재차 PCR 검사를 진행, 코로나19 최종 확진 판정을 받았다”라고 밝혔다.\n이지훈은 12일 고통을 호소하며 “나아질 기미가 안보인다. 약 기운에 무력해진다”는 글남기기도 했다.\n이지훈은 백신 2차 접종까지 마친 상태였으나 돌파감염 된 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 이지훈이 코로나19에 확진됐다가 격리 해제됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 이지훈은 자신의 SNS 인스타그램에 “PCR 검사일로부터 일주일 만에 격리 해제 통보와 자가키트 음성 판정을 받았다”며 완치 판정 소식을 알렸다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “잔기침과 가래, 코막힘은 호전됐지만 좀 남아있는 상태다. 어젯밤까지만 해도 기운이 없었는데 그건 확실히 없어진 듯하다”라고 적었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이지훈은 이어 “후각 미각상실 언급이 많은데 저는 한 30%는 느껴지더라. 맛은 다 못느끼지만 빨리 나으려고 열심히 먹었다. 걱정해주시고 도움주려 애써주신 분들 진심으로 감사드린다. 우리 모두 건강한 사회생활을 할 수 있는 날이 빨리 찾아오길 기도하겠다”고 밝혔다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이지훈은 지난 9일 “5일 진행한 PCR검사에서 음성 판정을 받았으나, 다음 날 오후 몸 상태에 이상이 있어 자체적으로 격리를 진행했다. 자가격리를 하면서도 자가진단키트로 검사를 4차례 이상 꾸준히 진행하였을 때에도 음성이 나왔지만 열이 39도까지 오르는 심각한 상황에 지난 7일 곧바로 재차 PCR 검사를 진행, 코로나19 최종 확진 판정을 받았다”라고 밝혔다.",
+				"sentenceSize": 203
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이지훈은 12일 고통을 호소하며 “나아질 기미가 안보인다. 약 기운에 무력해진다”는 글남기기도 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이지훈은 백신 2차 접종까지 마친 상태였으나 돌파감염 된 것으로 알려졌다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이지훈 “코로나19 확진 일주일만…격리 해제 통보”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

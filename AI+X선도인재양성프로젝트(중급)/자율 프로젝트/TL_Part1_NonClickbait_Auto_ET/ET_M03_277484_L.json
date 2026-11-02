@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277484",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "500억 자산가 커플 비-김태희, 신혼집 없이 부부 생활 시작?",
+		"newsSubTitle": "",
+		"newsContent": "가수 비(35)와 배우 김태희(37) 부부가 신혼집을 마련하지 않고 19일 결혼식을 올렸다고 스타뉴스가 보도했다.\n이 때문에 이날 서울 가회동 성당에서 친지와 지인 일부만 초청해 ‘작은 결혼식’을 올린 비-김태희 부부가 첫날밤을 어디에서 보냈는지 확인되지 않은 상태다.\n이 매체에 따르면 결혼식 전 비-김 부부는 서울 청담동의 한 아파트에 신혼집을 마련한 것으로 알려졌지만 이는 사실과 다르다고 한다.\n또 비가 원래 살고 있었던 삼성동 아파트엔 함께 지내던 아버지와 여동생이 계속 거주할 예정이라고 스타뉴스는 보도했다.\n이들 부부의 측근은 “둘이 신혼집을 아직 마련하지 않은 것도 작은 결혼식의 일환으로 봐달라”고 말했다.\n비-김태희 부부는 결혼 전 합계 500억원대 부동산 소유자로 알려진 상태여서 이들의 ‘No 신혼집’ 결혼 소식이 더욱 화제를 낳고 있다.\n한편 김태희는 19일 결혼식 직후 소속사를 통해 공개한 손편지에서 “서로 채워가며 열심히 살게요” “한 가정의 아내로서, 더욱 성숙한 배우의 모습으로 노력할게요”라고 적어 관심을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 비(35)와 배우 김태희(37) 부부가 신혼집을 마련하지 않고 19일 결혼식을 올렸다고 스타뉴스가 보도했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 때문에 이날 서울 가회동 성당에서 친지와 지인 일부만 초청해 ‘작은 결혼식’을 올린 비-김태희 부부가 첫날밤을 어디에서 보냈는지 확인되지 않은 상태다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 매체에 따르면 결혼식 전 비-김 부부는 서울 청담동의 한 아파트에 신혼집을 마련한 것으로 알려졌지만 이는 사실과 다르다고 한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 비가 원래 살고 있었던 삼성동 아파트엔 함께 지내던 아버지와 여동생이 계속 거주할 예정이라고 스타뉴스는 보도했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 부부의 측근은 “둘이 신혼집을 아직 마련하지 않은 것도 작은 결혼식의 일환으로 봐달라”고 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비-김태희 부부는 결혼 전 합계 500억원대 부동산 소유자로 알려진 상태여서 이들의 ‘No 신혼집’ 결혼 소식이 더욱 화제를 낳고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김태희는 19일 결혼식 직후 소속사를 통해 공개한 손편지에서 “서로 채워가며 열심히 살게요” “한 가정의 아내로서, 더욱 성숙한 배우의 모습으로 노력할게요”라고 적어 관심을 끌었다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "500억 자산가 커플 비-김태희, 신혼집 없이 부부 생활 시작?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285336",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이유비 정준영 세레나데에 \\\"또 시작이네 뭐 이런…\\\" 망신",
+		"newsSubTitle": "",
+		"newsContent": "이유비가 가수 정준영의 세레나데에 냉정한 반응을 보였다.\n25일 방송된 KBS 2TV '해피선데이-1박 2일 시즌3'에서는 'OST 이어부르기' 미션에 도전하는 정준영의 모습이 그려졌다.\n이날 정준영은 미션을 위해 이유비에게 전화를 걸어 대뜸 가수 이승철의 '그런 사람 또 없습니다'를 부르기 시작했다.\n하지만 이유비는 전화를 끊어버려 정준영을 당황케 했다.\n잠시 후 정준영은 다시 전화를 걸자 이유비는 노래 뒤를 이어불렀다.\n미션 후 멤버들은 \\\"전화는 끊긴 거냐? 끊은 거냐? 정준영이 사랑노래를 부르니 무슨 생각이 들었냐?\\\"는 질문을 던졌다.\n이에 이유비는 \\\"내가 끊었다. '또 시작이네'라는 생각이 들더라\\\"라고 말해 폭소를 유발했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이유비가 가수 정준영의 세레나데에 냉정한 반응을 보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 방송된 KBS 2TV '해피선데이-1박 2일 시즌3'에서는 'OST 이어부르기' 미션에 도전하는 정준영의 모습이 그려졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 정준영은 미션을 위해 이유비에게 전화를 걸어 대뜸 가수 이승철의 '그런 사람 또 없습니다'를 부르기 시작했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 이유비는 전화를 끊어버려 정준영을 당황케 했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "잠시 후 정준영은 다시 전화를 걸자 이유비는 노래 뒤를 이어불렀다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미션 후 멤버들은 \\\"전화는 끊긴 거냐? 끊은 거냐? 정준영이 사랑노래를 부르니 무슨 생각이 들었냐?\\\"는 질문을 던졌다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 이유비는 \\\"내가 끊었다. '또 시작이네'라는 생각이 들더라\\\"라고 말해 폭소를 유발했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이유비 정준영 세레나데에 \\\"또 시작이네 뭐 이런…\\\" 망신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

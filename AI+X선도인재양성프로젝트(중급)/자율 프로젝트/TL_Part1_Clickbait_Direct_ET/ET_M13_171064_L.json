@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171064",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "임영웅, 방탄소년단과 한솥밥? “사실무근”[종합]",
+    "newsSubTitle": "",
+    "newsContent": "트로트 가수 임영웅의 소속사가 그룹 방탄소년단 소속사 하이브 인수·합병설을 부인했다.\n임영웅의 소속사 물고기뮤직 측은 3일 하이브 한 배를 탄다는 설에 대해 사실무근이라는 입장을 밝혔다.\n앞서 이날 한 매체는 물고기뮤직과 방탄소년단 소속사 하이브의 인수·합병 움직임이 포착됐다고 주장했다.\n한편 물고기뮤직에 소속된 임영웅은 TV조선 오디션 프로그램 ‘미스터트롯’ 진으로 꼽히며 큰 인기를 얻었다.\n이후 TV조선 자회사 티조 C&C가 위탁한 뉴에라프로젝트와 매니지먼트 계약을 맺고 1년 6개월간 활동을 펼쳐왔다.\n임영웅과 뉴에라프로젝트의 계약은 오는 12일 만료될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트로트 가수 임영웅의 소속사가 그룹 방탄소년단 소속사 하이브 인수·합병설을 부인했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임영웅의 소속사 물고기뮤직 측은 3일 하이브 한 배를 탄다는 설에 대해 사실무근이라는 입장을 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 이날 한 매체는 물고기뮤직과 방탄소년단 소속사 하이브의 인수·합병 움직임이 포착됐다고 주장했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 물고기뮤직에 소속된 임영웅은 TV조선 오디션 프로그램 ‘미스터트롯’ 진으로 꼽히며 큰 인기를 얻었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 TV조선 자회사 티조 C&C가 위탁한 뉴에라프로젝트와 매니지먼트 계약을 맺고 1년 6개월간 활동을 펼쳐왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "임영웅과 뉴에라프로젝트의 계약은 오는 12일 만료될 예정이다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임영웅 소속사 하이브에 인수된다... 그 내막은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

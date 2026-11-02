@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277371",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M]'공조' 15일 만에 500만 돌파, 현빈의 공약은?",
+		"newsSubTitle": "",
+		"newsContent": "영화 '공조'(1월 18일 개봉, 김성훈 감독)가 500만 관객을 돌파했다.\n2일 영화진흥위원회의 영화관입장권 통합전산망 집계에 따르면, '공조'의 누전관객수는 504만 6,988명이다.\n개봉 15일 만에 500만 관객을 넘어선 것. 이는 18일 만에 500 만을 돌파한 '광해, 왕이 된 남자'(2012, 추창민 감독), 17일 만에 500만을 달성한 '7번 방의 선물'(2013, 이환경 감독) 보다 빠른 속도다.\n이에 현빈의 500만 관객 돌파 공약에도 관심이 쏠리고 있다.\n현빈은 지난해 12월 방송된 네이버 V라이브를 통해 \\\"500만은 큰 숫자지만, 500만 명이 된다면 불쑥 어떤 극장에 들어가서 극장에 오신 분들에게 커피를 사겠다. 커피를 마시면서 영화를 보실 수 있도록\\\" 이라는 공약을 걸었다.\n유해진 역시 \\\"굿 아이템\\\" 이라며 이에 동의했다. '공조'는 남북 최초의 비공식 합동수사를 그린 영화로 유해진, 현빈의 신선한 조합이 돋보인다.\n현재 '더 킹'(1월 18일 개봉, 한재림 감독) 등 쟁쟁한 경쟁작들 속에서 굳건히 박스오피스 1위를 지키고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 '공조'(1월 18일 개봉, 김성훈 감독)가 500만 관객을 돌파했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 영화진흥위원회의 영화관입장권 통합전산망 집계에 따르면, '공조'의 누전관객수는 504만 6,988명이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개봉 15일 만에 500만 관객을 넘어선 것. 이는 18일 만에 500 만을 돌파한 '광해, 왕이 된 남자'(2012, 추창민 감독), 17일 만에 500만을 달성한 '7번 방의 선물'(2013, 이환경 감독) 보다 빠른 속도다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 현빈의 500만 관객 돌파 공약에도 관심이 쏠리고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현빈은 지난해 12월 방송된 네이버 V라이브를 통해 \\\"500만은 큰 숫자지만, 500만 명이 된다면 불쑥 어떤 극장에 들어가서 극장에 오신 분들에게 커피를 사겠다. 커피를 마시면서 영화를 보실 수 있도록\\\" 이라는 공약을 걸었다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유해진 역시 \\\"굿 아이템\\\" 이라며 이에 동의했다. '공조'는 남북 최초의 비공식 합동수사를 그린 영화로 유해진, 현빈의 신선한 조합이 돋보인다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 '더 킹'(1월 18일 개봉, 한재림 감독) 등 쟁쟁한 경쟁작들 속에서 굳건히 박스오피스 1위를 지키고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M]'공조' 15일 만에 500만 돌파, 현빈의 공약은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

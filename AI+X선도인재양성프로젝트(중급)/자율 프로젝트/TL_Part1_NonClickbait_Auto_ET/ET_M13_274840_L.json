@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274840",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "소녀시대 서현 “언니들~ 서주현이 지켜보고있서현”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 소녀시대 서현이 ‘소시탐탐’에 출연하지 못한 아쉬움을 드러냈다.\n서현은 6일 자신의 인스타그램 스토리를 통해 “언니들~ 서주현이 지켜보고있서현” “내 맘 알죠오~??”라며 사진 두 장을 올렸다.\n사진에는 서현이 소녀시대 멤버들을 바라보고 있는 모습과 멤버들이 서현을 바라보는 듯한 구도로 합성된 모습이 담겼다.\nJTBC ‘소시탐탐’은 데뷔 15주년을 맞이한 소녀시대의 우정을 담은 예능 프로그램으로 지난 5일 첫 방송했다.\n서현은 드라마 촬영 일정으로 인해 출연하지 못했다.\n한편 ‘소시탐탐’은 매주 화요일 오후 9시 JTBC에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 소녀시대 서현이 ‘소시탐탐’에 출연하지 못한 아쉬움을 드러냈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서현은 6일 자신의 인스타그램 스토리를 통해 “언니들~ 서주현이 지켜보고있서현” “내 맘 알죠오~??”라며 사진 두 장을 올렸다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 서현이 소녀시대 멤버들을 바라보고 있는 모습과 멤버들이 서현을 바라보는 듯한 구도로 합성된 모습이 담겼다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "JTBC ‘소시탐탐’은 데뷔 15주년을 맞이한 소녀시대의 우정을 담은 예능 프로그램으로 지난 5일 첫 방송했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서현은 드라마 촬영 일정으로 인해 출연하지 못했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘소시탐탐’은 매주 화요일 오후 9시 JTBC에서 방송된다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소녀시대 서현 “언니들~ 서주현이 지켜보고있서현”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

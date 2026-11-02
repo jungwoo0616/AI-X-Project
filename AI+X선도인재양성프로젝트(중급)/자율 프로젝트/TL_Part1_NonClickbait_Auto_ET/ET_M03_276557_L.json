@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276557",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신장 이식 수술 뒤 47㎏에서 72㎏까지 찐 BJ윰댕 근황",
+		"newsSubTitle": "",
+		"newsContent": "아버지의 신장을 이식 받은 BJ윰댕이 방송으로 근황을 전했다.\n최근 윰댕은 유튜브를 통해 불어난 몸무게를 공개했다.\n키가 172㎝인 윰댕은 “평균 몸무게는 52㎏, 수술 받기 직전에는 48㎏이었다가 지난해 12월 72㎏를 기록했다. 최근에는 6㎏를 빼 66㎏이다”고 밝혔다.\n그는 “6㎏를 빼기 너무 힘들었다. 먹는 스테로이드 약이 비정상적으로 지방을 몸에 축적한다. 특히 얼굴이나 배에 살이 붙게 만들고 식욕도 폭발하게 만든다”고 전했다.\n그러면서 다이어트에 도움이 될 만한 음식들을 소개했다.\n윰댕은 배불리 젤리를 제품을 손에 들고 “지방과 콜레스테롤이 없고, 열량은 6Kcal이다. 설탕을 쓰지 않는데 단 맛이 난다”고 말했다.\n윰댕은 지난해 초 ‘lgA신병증’ 진단을 받았다.\n남편인 BJ 대도서관이 신장을 주려 했으나 맞지 않아 아버지 신장을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아버지의 신장을 이식 받은 BJ윰댕이 방송으로 근황을 전했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 윰댕은 유튜브를 통해 불어난 몸무게를 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "키가 172㎝인 윰댕은 “평균 몸무게는 52㎏, 수술 받기 직전에는 48㎏이었다가 지난해 12월 72㎏를 기록했다. 최근에는 6㎏를 빼 66㎏이다”고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “6㎏를 빼기 너무 힘들었다. 먹는 스테로이드 약이 비정상적으로 지방을 몸에 축적한다. 특히 얼굴이나 배에 살이 붙게 만들고 식욕도 폭발하게 만든다”고 전했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 다이어트에 도움이 될 만한 음식들을 소개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윰댕은 배불리 젤리를 제품을 손에 들고 “지방과 콜레스테롤이 없고, 열량은 6Kcal이다. 설탕을 쓰지 않는데 단 맛이 난다”고 말했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윰댕은 지난해 초 ‘lgA신병증’ 진단을 받았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "남편인 BJ 대도서관이 신장을 주려 했으나 맞지 않아 아버지 신장을 받았다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신장 이식 수술 뒤 47㎏에서 72㎏까지 찐 BJ윰댕 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275207",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김갑수, 장민호 커피차 선물에 함박웃음",
+		"newsSubTitle": "",
+		"newsContent": "배우 김갑수와 가수 장민호가 ‘갓파더’에서 맺은 부자의 정을 계속 이어가고 있다.\n김갑수는 드라마 ‘오늘의 웹툰’ 촬영장서 함박웃음을 터트리는 모습이 포착됐다.\n아들 장민호의 깜짝 커피차 선물이 도착한 것. 후너스엔터테인먼트는 11일 공식 사회관계망서비스(SNS)에 장민호의 커피차 선물에 행복한 미소를 짓고 있는 김갑수의 사진을 공개했다.\n공개된 사진은 ‘갑수 아버지의 영원한 아들 장민호가 쏩니다’라고 적힌 커피차와 함께 김갑수의 뿌듯한 표정이 함께 담겼다.\n김갑수와 장민호는 예능 프로그램 ‘갓파더’를 통해 부자의 연을 맺었다. ‘갓파더’에서 하차한 후에 김갑수는 사회관계망서비스(SNS)를 통해 아들 장민호에 대한 그리움을 드러내기도 했다.\n이 가운데, 장민호의 애정이 듬뿍 담긴 커피차 선물을 받은 김갑수가 쌍 엄지를 추켜세우고 손 하트를 만드는 등 온몸으로 아들 장민호의 선물에 기쁨을 표출하고 있다.\n한편, 김갑수는 오는 29일 오후 10시 첫 방송 예정인 SBS 새 금토 드라마 ‘오늘의 웹툰’에 만화계 거목 ‘백어진’ 역으로 시청자들을 찾아간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김갑수와 가수 장민호가 ‘갓파더’에서 맺은 부자의 정을 계속 이어가고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김갑수는 드라마 ‘오늘의 웹툰’ 촬영장서 함박웃음을 터트리는 모습이 포착됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아들 장민호의 깜짝 커피차 선물이 도착한 것. 후너스엔터테인먼트는 11일 공식 사회관계망서비스(SNS)에 장민호의 커피차 선물에 행복한 미소를 짓고 있는 김갑수의 사진을 공개했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진은 ‘갑수 아버지의 영원한 아들 장민호가 쏩니다’라고 적힌 커피차와 함께 김갑수의 뿌듯한 표정이 함께 담겼다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김갑수와 장민호는 예능 프로그램 ‘갓파더’를 통해 부자의 연을 맺었다. ‘갓파더’에서 하차한 후에 김갑수는 사회관계망서비스(SNS)를 통해 아들 장민호에 대한 그리움을 드러내기도 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 가운데, 장민호의 애정이 듬뿍 담긴 커피차 선물을 받은 김갑수가 쌍 엄지를 추켜세우고 손 하트를 만드는 등 온몸으로 아들 장민호의 선물에 기쁨을 표출하고 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 김갑수는 오는 29일 오후 10시 첫 방송 예정인 SBS 새 금토 드라마 ‘오늘의 웹툰’에 만화계 거목 ‘백어진’ 역으로 시청자들을 찾아간다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김갑수, 장민호 커피차 선물에 함박웃음",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

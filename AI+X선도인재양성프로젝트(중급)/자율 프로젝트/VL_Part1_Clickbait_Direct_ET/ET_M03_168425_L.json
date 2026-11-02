@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168425",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이범수 슈퍼맨이 돌아왔다, 아이들 목욕 모습 공개 \\\"거품으로 가렸네\\\"",
+    "newsSubTitle": "",
+    "newsContent": "이범수 슈퍼맨이 돌아왔다 배우 이범수 가족이 ‘슈퍼맨이 돌아왔다’에 출연한다는 소식이 전해진 가운데 이범수의 아들과 딸 모습이 화제다.\n이범수 아내 이윤진은 지난해 자신의 인스타그램에 “교묘하게 다 가려짐”이라는 글과 함께 사진을 게재했다.\n공개된 사진 속에는 목욕을 하면서 장난을 치고 있는 이범수·이윤진 부부의 아들과 딸의 모습이 담겨 있다.\n이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.\n1월 말 촬영을 시작할 예정이다.\n이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이범수 슈퍼맨이 돌아왔다 배우 이범수 가족이 ‘슈퍼맨이 돌아왔다’에 출연한다는 소식이 전해진 가운데 이범수의 아들과 딸 모습이 화제다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이범수 아내 이윤진은 지난해 자신의 인스타그램에 “교묘하게 다 가려짐”이라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 목욕을 하면서 장난을 치고 있는 이범수·이윤진 부부의 아들과 딸의 모습이 담겨 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1월 말 촬영을 시작할 예정이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.",
+        "sentenceSize": 148
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘슈퍼맨이 돌아왔다’ 이범수, 출연 고민한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165815",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘오프닝 118만명’ 기록 세운 ‘쥬라기 월드2’ 감독, 깜짝 내한",
+    "newsSubTitle": "",
+    "newsContent": "국내개봉 하루 만에 100만 넘기며 오프닝 기록을 세운 ‘쥬라기 월드 : 폴른 킹덤’(이하 쥬라기 월드2)의 후안 안토니오 바요나(Juan Antonio Bayona) 감독이 7일 깜짝 방한해 무대인사에 나섰다.\n7일 UPI코리아 측에 따르면 바요나 감독은 이날 오후 5시 50분 서울 ‘용산 CGV IMAX’(아이맥스)관에서 관객들과 만날 예정이다.\n당초 바요나 감독은 미국 하와이 시사회에 참석할 예정이었으나 도중 한국에 들러 관객들과 만나는 자리를 마련한 것으로 알려졌다.\n홍보사 측은 “바요나 감독이 갑작스럽게 방한을 결정해 오늘 오후에야 무대 인사가 결정됐다”며 “한국에서 가장 먼저 쥬라기월드2가 개봉했고, 국내 관객이 그간 쥬라기 시리즈에 각별한 관심을 보여준 데 대해 감사를 전하려는 것으로 보인다”고 전했다.\n바요나 감독은 ‘오퍼나지 : 비밀의 계단’, ‘더 임파서블’, ‘몬스터 콜’ 등으로 국내 팬에 잘 알려진 감독이다.\n전날(6일) 개봉한 ‘쥬라기월드2’는 개봉 당일 118만2374명을 동원하며 역대 최대 오프닝 기록을 경신했다.\n기존 기록은 지난 4월 25일 개봉한 ‘어벤져스: 인피니티 워’의 98만52명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국내개봉 하루 만에 100만 넘기며 오프닝 기록을 세운 ‘쥬라기 월드 : 폴른 킹덤’(이하 쥬라기 월드2)의 후안 안토니오 바요나(Juan Antonio Bayona) 감독이 7일 깜짝 방한해 무대인사에 나섰다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 UPI코리아 측에 따르면 바요나 감독은 이날 오후 5시 50분 서울 ‘용산 CGV IMAX’(아이맥스)관에서 관객들과 만날 예정이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당초 바요나 감독은 미국 하와이 시사회에 참석할 예정이었으나 도중 한국에 들러 관객들과 만나는 자리를 마련한 것으로 알려졌다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홍보사 측은 “바요나 감독이 갑작스럽게 방한을 결정해 오늘 오후에야 무대 인사가 결정됐다”며 “한국에서 가장 먼저 쥬라기월드2가 개봉했고, 국내 관객이 그간 쥬라기 시리즈에 각별한 관심을 보여준 데 대해 감사를 전하려는 것으로 보인다”고 전했다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바요나 감독은 ‘오퍼나지 : 비밀의 계단’, ‘더 임파서블’, ‘몬스터 콜’ 등으로 국내 팬에 잘 알려진 감독이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전날(6일) 개봉한 ‘쥬라기월드2’는 개봉 당일 118만2374명을 동원하며 역대 최대 오프닝 기록을 경신했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기존 기록은 지난 4월 25일 개봉한 ‘어벤져스: 인피니티 워’의 98만52명이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'쥬라기 월드2' 깜짝 무대 인사... 화들짝 놀라 '입틀막'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

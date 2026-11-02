@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275724",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "런던대 교수의 남다른 고민 “노출 화보 찍는 걸 멈출 수 없어”",
+		"newsSubTitle": "",
+		"newsContent": "30대 여교수의 특별한 취미가 공개된다.\n19일 채널S 예능 ‘진격의 할매’에서는 런던에서 온 34살 송리나씨가 할매들에게 고민을 털어놓는다.\n송씨는 미국의 명문대 칼텍(캘리포니아공과대학교)을 졸업한 뒤 예일대, 하버드대에서 석사와 박사 학위를 마치고 2년 전 영국 런던대학교 경영대 교수로 임용된 인재였다.\n그는 “제가 좋아하는 취미 때문에 살짝 고민이다”라며 “할머님들은 교수가 섹시한 취미를 갖고 있으면 안된다고 생각하시나요? 노출이 있는 섹시 화보를 찍는 게 취미”라고 물었다.\n송리나씨는 이날도 몸매를 한껏 강조한 의상을 입고 왔다.\n할매들은 “지금 이 정도 노출이냐”고 물었고, 송씨는 “이것보다 조금 더 한 노출도 있다”고 말했다.\n이어 잡지 모델 콘테스트에 지원해 송씨가 촬영한 ‘섹시 화보’들이 공개됐고, 김영옥은 “상당하긴 상당하네”라며 놀라워했다.\n박정수는 “부모님이 싫어하시긴 하겠어. 나도 내 딸이면 ‘미쳤다’고 하겠지만...제 3자로서 보기엔 예쁘네”라고 솔직히 말했다.\n하지만 딸만 셋을 둔 나문희는 “본업은 이미 잘 하고 있고, 취미생활일 뿐이잖아. 그럼 괜찮아”라며 가장 쿨한 반응을 보여 눈길을 끌었다.\n방송은 이날 오후 9시 20분.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "30대 여교수의 특별한 취미가 공개된다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 채널S 예능 ‘진격의 할매’에서는 런던에서 온 34살 송리나씨가 할매들에게 고민을 털어놓는다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송씨는 미국의 명문대 칼텍(캘리포니아공과대학교)을 졸업한 뒤 예일대, 하버드대에서 석사와 박사 학위를 마치고 2년 전 영국 런던대학교 경영대 교수로 임용된 인재였다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “제가 좋아하는 취미 때문에 살짝 고민이다”라며 “할머님들은 교수가 섹시한 취미를 갖고 있으면 안된다고 생각하시나요? 노출이 있는 섹시 화보를 찍는 게 취미”라고 물었다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송리나씨는 이날도 몸매를 한껏 강조한 의상을 입고 왔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "할매들은 “지금 이 정도 노출이냐”고 물었고, 송씨는 “이것보다 조금 더 한 노출도 있다”고 말했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 잡지 모델 콘테스트에 지원해 송씨가 촬영한 ‘섹시 화보’들이 공개됐고, 김영옥은 “상당하긴 상당하네”라며 놀라워했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박정수는 “부모님이 싫어하시긴 하겠어. 나도 내 딸이면 ‘미쳤다’고 하겠지만...제 3자로서 보기엔 예쁘네”라고 솔직히 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 딸만 셋을 둔 나문희는 “본업은 이미 잘 하고 있고, 취미생활일 뿐이잖아. 그럼 괜찮아”라며 가장 쿨한 반응을 보여 눈길을 끌었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "방송은 이날 오후 9시 20분.",
+				"sentenceSize": 17
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "런던대 교수의 남다른 고민 “노출 화보 찍는 걸 멈출 수 없어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

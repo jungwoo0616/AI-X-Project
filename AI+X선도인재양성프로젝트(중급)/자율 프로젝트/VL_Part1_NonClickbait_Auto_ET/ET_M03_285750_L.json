@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285750",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'김수현 안소희 열애설' 1년 넘게 열애 중?…\\\"사실무근, 알고 지내는 사이 \\\"",
+		"newsSubTitle": "",
+		"newsContent": "'김수현 안소희 열애설 사실무근' 19일 한 매체는 안소희가 거주하는 아파트의 주민을 인용해 두 사람이 \\\"1년 넘게 열애 중\\\"이라고 보도했다.\n이 아파트 주민은 매체에 \\\"김수현이 안소희가 사는 아파트에 극비리에 오가고 있다\\\"고 전했다.\n두 사람의 데이트 사진은 공개되지 않았다.\n김수현과 원더걸스 안소희의 열애설에 소속사 키이스트가 \\\"사실무근\\\"이라며 부인했다.\n키이스트는 19일 \\\"본인들에게 직접 확인한 결과 전혀 사실이 아니다\\\"라고 밝혔다.\n이어 관계자는 \\\"개인적으로 아는 사이인 듯 하지만 열애설은 어불성설\\\"이라면서 \\\"사실 무근\\\"이라고 거듭 강조했다.\n안소희는 최근 김수현이 소속된 키이스트와 전속 계약을 체결했다.\n키이스트 관계자는 안소희의 키이스트 계약 체결이 김수현과 무관하다고 재차 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'김수현 안소희 열애설 사실무근' 19일 한 매체는 안소희가 거주하는 아파트의 주민을 인용해 두 사람이 \\\"1년 넘게 열애 중\\\"이라고 보도했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 아파트 주민은 매체에 \\\"김수현이 안소희가 사는 아파트에 극비리에 오가고 있다\\\"고 전했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람의 데이트 사진은 공개되지 않았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김수현과 원더걸스 안소희의 열애설에 소속사 키이스트가 \\\"사실무근\\\"이라며 부인했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "키이스트는 19일 \\\"본인들에게 직접 확인한 결과 전혀 사실이 아니다\\\"라고 밝혔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 관계자는 \\\"개인적으로 아는 사이인 듯 하지만 열애설은 어불성설\\\"이라면서 \\\"사실 무근\\\"이라고 거듭 강조했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안소희는 최근 김수현이 소속된 키이스트와 전속 계약을 체결했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "키이스트 관계자는 안소희의 키이스트 계약 체결이 김수현과 무관하다고 재차 강조했다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'김수현 안소희 열애설' 1년 넘게 열애 중?…\\\"사실무근, 알고 지내는 사이 \\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

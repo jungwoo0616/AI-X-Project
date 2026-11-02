@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171098",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "빅스 혁의 손담비 ‘미쳤어’ 커버 (언니가 쏜다!)",
+    "newsSubTitle": "",
+    "newsContent": "그룹 빅스 혁이 손담비의 ‘미쳤어’와 쿨의 ‘아로하’ 커버 무대를 선보인다.\n오늘(7일) 밤 10시 30분 방송되는 채널 IHQ 예능프로그램 ‘언니가 쏜다!’ 7회에서는 게스트 혁과 함께하는 4MC(손담비, 소이현, 안영미, 곽정은)의모습이 공개된다.\n최근 진행된 녹화에서 4MC는 ‘언니상사 회식 특집’을 진행했다.\n곽정은이사, 안영미 팀장, 소이현 대리, 손담비 사원으로 구성된 언니상사는 신입사원 혁의 입사를 기념해 회식 자리를 마련했다.\n혁은 간단하게 자신을 소개한 후, “신입사원의 마음으로 장기자랑을 준비했다. 재롱 수준인데 정말 좋아하는 가수의 커버다”라면서 “의자가필요한데”라고 덧붙여 4MC의 환호성을 이끌어냈다.\n이후 그는 손담비의 ‘미쳤어’ 커버 무대로 특유의 섹시한 매력을 마음껏 뽐냈고, 달달한 보이스로 쿨의 ‘아로하’ 라이브까지완벽하게 선보여 녹화 현장 분위기를 들썩이게 만들었다는 후문이다.\n신입사원 혁이 활약할 ‘언니가 쏜다!’ 7회는 오늘(7일) 밤 10시 30분채널 IHQ와 드라맥스에서 시청할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 빅스 혁이 손담비의 ‘미쳤어’와 쿨의 ‘아로하’ 커버 무대를 선보인다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(7일) 밤 10시 30분 방송되는 채널 IHQ 예능프로그램 ‘언니가 쏜다!’ 7회에서는 게스트 혁과 함께하는 4MC(손담비, 소이현, 안영미, 곽정은)의모습이 공개된다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 진행된 녹화에서 4MC는 ‘언니상사 회식 특집’을 진행했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "곽정은이사, 안영미 팀장, 소이현 대리, 손담비 사원으로 구성된 언니상사는 신입사원 혁의 입사를 기념해 회식 자리를 마련했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혁은 간단하게 자신을 소개한 후, “신입사원의 마음으로 장기자랑을 준비했다. 재롱 수준인데 정말 좋아하는 가수의 커버다”라면서 “의자가필요한데”라고 덧붙여 4MC의 환호성을 이끌어냈다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 그는 손담비의 ‘미쳤어’ 커버 무대로 특유의 섹시한 매력을 마음껏 뽐냈고, 달달한 보이스로 쿨의 ‘아로하’ 라이브까지완벽하게 선보여 녹화 현장 분위기를 들썩이게 만들었다는 후문이다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신입사원 혁이 활약할 ‘언니가 쏜다!’ 7회는 오늘(7일) 밤 10시 30분채널 IHQ와 드라맥스에서 시청할 수 있다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'언니가 쏜다' 빅스 혁의 노래에 4MC들 환호성... 어떤 노래길래 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

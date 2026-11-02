@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270398",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이정재, 톱모델과 수줍은 투샷",
+		"newsSubTitle": "",
+		"newsContent": "배우 이정재가 톱모델 나오미 캠벨과 비현실적인 투샷으로 눈길을 끌었다.\n17일 배우 이정재는 자신의 인스타그램에 별다른 코멘트 없이 나오미 캠벨과 함께 다정하게 얼굴을 맞대고 찍은 사진을 올렸다.\n수줍은 듯한 이정재의 발그스름한 두 볼이 시선을 끈다.\n누리꾼들은 “The queen and the king!” “HOT HOT ” 등의 댓글을 이어갔다.\n이정재는 지난해 넷플릭스 ‘오징어게임’을 통해 글로벌 스타로 급부상했다.\n자신의 첫 연출 데뷔작 ‘헌트’로 배우이자 절친인 정우성과 함께 칸 영화제 레드 카펫을 밟는다. ‘헌트’는 제 75회 칸영화제 비경쟁 부문 미드나잇 스크리닝에 초청됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이정재가 톱모델 나오미 캠벨과 비현실적인 투샷으로 눈길을 끌었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 배우 이정재는 자신의 인스타그램에 별다른 코멘트 없이 나오미 캠벨과 함께 다정하게 얼굴을 맞대고 찍은 사진을 올렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수줍은 듯한 이정재의 발그스름한 두 볼이 시선을 끈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 “The queen and the king!” “HOT HOT ” 등의 댓글을 이어갔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이정재는 지난해 넷플릭스 ‘오징어게임’을 통해 글로벌 스타로 급부상했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자신의 첫 연출 데뷔작 ‘헌트’로 배우이자 절친인 정우성과 함께 칸 영화제 레드 카펫을 밟는다. ‘헌트’는 제 75회 칸영화제 비경쟁 부문 미드나잇 스크리닝에 초청됐다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이정재, 톱모델과 수줍은 투샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

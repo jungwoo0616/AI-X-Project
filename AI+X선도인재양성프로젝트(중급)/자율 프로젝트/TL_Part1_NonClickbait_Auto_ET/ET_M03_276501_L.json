@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276501",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "머라이어 캐리, 후덕해진 몸매 포착",
+		"newsSubTitle": "",
+		"newsContent": "팝스타 머라이어 캐리의 후덕해진 모습이 눈길을 끌고 있다.\n19일(현지시간) 영국 일간지 더선은 최근 진행된 머라이어 캐리의 미국 라스베이거스 무대 소식을 전하며 그의 무대 사진을 공개했다.\n사진 속 머라이어 캐리는 과거 무대에서 즐겨 입던 스타일의 의상을 입고 있다.\n반짝이는 망사 소재의 보디수트다.\n하지만 몸매는 예전 같지 않다.\n심지어 공연을 소개한 홈페이지 속 사진과도 상당히 다른 모습이다.\n더선은 이 사진과 함께 ‘왜 머라이어 캐리가 세계에서 가장 대단한 팝 디바인지 증명했다’고 무대에 대해 극찬했다.\n하지만 이 기사를 본 사람들의 반응은 무대보다 그의 몸매에 집중했다.\n일부 네티즌들은 ‘살찐 허벅지(thunder thighs)’ ‘머라이어가 임신했나요? (Is she pregnant?)’ ‘걱정 없는 머라이어(Mariah Carefree)’ 등 댓글을 달았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팝스타 머라이어 캐리의 후덕해진 모습이 눈길을 끌고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일(현지시간) 영국 일간지 더선은 최근 진행된 머라이어 캐리의 미국 라스베이거스 무대 소식을 전하며 그의 무대 사진을 공개했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 머라이어 캐리는 과거 무대에서 즐겨 입던 스타일의 의상을 입고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반짝이는 망사 소재의 보디수트다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 몸매는 예전 같지 않다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "심지어 공연을 소개한 홈페이지 속 사진과도 상당히 다른 모습이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "더선은 이 사진과 함께 ‘왜 머라이어 캐리가 세계에서 가장 대단한 팝 디바인지 증명했다’고 무대에 대해 극찬했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 이 기사를 본 사람들의 반응은 무대보다 그의 몸매에 집중했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일부 네티즌들은 ‘살찐 허벅지(thunder thighs)’ ‘머라이어가 임신했나요? (Is she pregnant?)’ ‘걱정 없는 머라이어(Mariah Carefree)’ 등 댓글을 달았다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "머라이어 캐리, 후덕해진 몸매 포착",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

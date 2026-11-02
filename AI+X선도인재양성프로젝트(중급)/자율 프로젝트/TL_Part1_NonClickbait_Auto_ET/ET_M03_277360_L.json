@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277360",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M] 현빈의 ‘물휴지 액션’, 이렇게 탄생했다",
+		"newsSubTitle": "",
+		"newsContent": "‘본’ 시리즈의 제이슨 본(맷 데이먼)에게 ‘잡지 말아 쥐기’ 필살기가 있다면, 철령에게는 ‘물에 적신 휴지’가 있다.\n기성의 행방을 추적하던 철령은, 두루마리 휴지를 물에 적셔 조직폭력배 무리를 순식간에 제압한다.\n이른바 ‘물휴지 액션’으로 통하는 이 명장면은, 오 무술감독을 비롯한 무술팀 전체가 장시간 머리를 싸매고 회의한 끝에 탄생했다.\n넥타이나 옷걸이 등 “일상적이되 무기로 활용할 수 있는 신선한 물건”을 고민하던 중, 오 무술감독은 커피가 담긴 일회용 종이컵을 떠올렸다.\n여기에 서정수 카스턴트 코디네이터가 커피가 담긴 컵 안에 휴지를 쑤셔 넣고, 이를 무기로 활용하는 아이디어를 보탰다. “수분을 머금은 휴지가 종이컵을 단단하게 지탱하기에, 실제로도 상대에게 효과적인 타격을 입힐 수 있다”는 게 오 무술감독의 설명이다.\n원래 ‘휴지를 커피 담긴 컵에 넣어서 싸운다’는 것이었던 계획은 분장·의상 등 촬영에 지장을 줄 수 있었기에, 무술팀은 커피 대신 ‘물에 젖은 휴지’로 최종 결정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘본’ 시리즈의 제이슨 본(맷 데이먼)에게 ‘잡지 말아 쥐기’ 필살기가 있다면, 철령에게는 ‘물에 적신 휴지’가 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기성의 행방을 추적하던 철령은, 두루마리 휴지를 물에 적셔 조직폭력배 무리를 순식간에 제압한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이른바 ‘물휴지 액션’으로 통하는 이 명장면은, 오 무술감독을 비롯한 무술팀 전체가 장시간 머리를 싸매고 회의한 끝에 탄생했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "넥타이나 옷걸이 등 “일상적이되 무기로 활용할 수 있는 신선한 물건”을 고민하던 중, 오 무술감독은 커피가 담긴 일회용 종이컵을 떠올렸다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 서정수 카스턴트 코디네이터가 커피가 담긴 컵 안에 휴지를 쑤셔 넣고, 이를 무기로 활용하는 아이디어를 보탰다. “수분을 머금은 휴지가 종이컵을 단단하게 지탱하기에, 실제로도 상대에게 효과적인 타격을 입힐 수 있다”는 게 오 무술감독의 설명이다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "원래 ‘휴지를 커피 담긴 컵에 넣어서 싸운다’는 것이었던 계획은 분장·의상 등 촬영에 지장을 줄 수 있었기에, 무술팀은 커피 대신 ‘물에 젖은 휴지’로 최종 결정했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] 현빈의 ‘물휴지 액션’, 이렇게 탄생했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

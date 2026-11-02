@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263490",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김숙, 고통도 웃음으로 승화시켜",
+		"newsSubTitle": "",
+		"newsContent": "송은이가 코로나19 확진으로 자가격리 첫 날 힘든 시기를 겪고 있던 김숙과 영상통화를 했다.\n비보TV 유튜브 채널엔 ‘“숙아 너 얼굴이..?” 자가 격리 중 깜짝 영통을 걸어봤습니다’라는 제목으로 영상이 게재됐다.\n지난 달 24일 코로나19 확진 판정을 받은 송은이는 김숙에게 “진짜 안괜찮은 것 같다. 약 먹었냐”며 걱정했다.\n김숙은 “먹었다. 언니 표정 좋다?”며 송은이의 상태를 물었다.\n송은이는 “나는 증상이 거의 없었잖냐”고 말했다.\n김숙은 격리 첫 날 체온이 38도까지 올라가 힘들어했다.\n송은이는 고열에 고통받는 김숙에게 “내가 내일 자정 12시에 끝난다. 한 시에 문 앞에다가 뭐 좀 걸어놓겠다”고 위로했다.\n김숙은 머리카락을 축 늘어뜨린 채 힘없이 “역시 언니밖에 없다”고 말했다.\n이어 송은이가 웃음을 보이자 김숙은 “표정 왜 이렇게 밝냐”고 발끈했다.\n두 사람은 코로나19 확진으로 고열과 근육통으로 힘든 시기를 겪고 있는 와중에도 고통을 웃음으로 승화시켰다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "송은이가 코로나19 확진으로 자가격리 첫 날 힘든 시기를 겪고 있던 김숙과 영상통화를 했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비보TV 유튜브 채널엔 ‘“숙아 너 얼굴이..?” 자가 격리 중 깜짝 영통을 걸어봤습니다’라는 제목으로 영상이 게재됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 달 24일 코로나19 확진 판정을 받은 송은이는 김숙에게 “진짜 안괜찮은 것 같다. 약 먹었냐”며 걱정했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김숙은 “먹었다. 언니 표정 좋다?”며 송은이의 상태를 물었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송은이는 “나는 증상이 거의 없었잖냐”고 말했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김숙은 격리 첫 날 체온이 38도까지 올라가 힘들어했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송은이는 고열에 고통받는 김숙에게 “내가 내일 자정 12시에 끝난다. 한 시에 문 앞에다가 뭐 좀 걸어놓겠다”고 위로했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김숙은 머리카락을 축 늘어뜨린 채 힘없이 “역시 언니밖에 없다”고 말했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이어 송은이가 웃음을 보이자 김숙은 “표정 왜 이렇게 밝냐”고 발끈했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "두 사람은 코로나19 확진으로 고열과 근육통으로 힘든 시기를 겪고 있는 와중에도 고통을 웃음으로 승화시켰다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김숙, 고통도 웃음으로 승화시켜",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

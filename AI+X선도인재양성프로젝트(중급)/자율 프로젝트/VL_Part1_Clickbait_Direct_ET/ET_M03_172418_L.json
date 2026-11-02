@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172418",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "몸 상태 '최악' 김가연에게 \\\"손자 낳아달라\\\"는 시어머니",
+    "newsSubTitle": "",
+    "newsContent": "임요환의 모친과 부친이 김가연의 셋째 아들 출산을 간절히 바라고 있다.\n지난 4일 방송된 MBN'사돈끼리'에서 김가연은 시어머니, 친정어머니와 함께 한의원을 방문했다.\n김가연의 시어머니는 제작진과의 인터뷰에서 \\\"요환이 아버지의 특명을 받았다. 며느리의 건강 상태를 보고, 셋째 손주가 가능할지 가능성을 엿보려 한다\\\"고 속내를 내비쳤다.\n그러나 담당 한의사는 김가연이 둘째를 낳고 아직 몸이 회복되지 않아, 두 어머니보다 건강 상태가 좋지 않다고 진단했다.\n이와 같은 진단에 김가연은 \\\"나 스스로도 아직까지 회복이 덜 됐음을 느낀다. 결과는 어느 정도 예상했지만, 두 어머니들보다 좋지 않다는 소리에 충격을 받았다. 이 상태로 아이를 하나 더 낳으면 내가 죽을 수도 있겠다 생각이 들었다\\\"고 털어 놨다.\n불쑥 김가연의 시어머니는 한의사에게 \\\"약을 먹으면 혹시 며느리가 임신이 가능한가\\\"라고 물었고 김가연과 친정어머니는 이에 경악했다.\n임요환은 종갓집의 25대손 종손이다.\n그에게는 두 딸이 있지만, 그의 부모는 26대손을 이을 손자가 보고 싶은 마음이 간절한 것이다.\n친정어머니는 \\\"정말 마음이 찢어지게 아팠다. 몸이 안 좋다는 얘기를 듣고도 그런 질문을 한 사돈께 많이 서운했다. 내 딸 건강에 대해선 생각하지 않는 것 같아 속상하고 힘들었다\\\"고 속마음을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "임요환의 모친과 부친이 김가연의 셋째 아들 출산을 간절히 바라고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4일 방송된 MBN'사돈끼리'에서 김가연은 시어머니, 친정어머니와 함께 한의원을 방문했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김가연의 시어머니는 제작진과의 인터뷰에서 \\\"요환이 아버지의 특명을 받았다. 며느리의 건강 상태를 보고, 셋째 손주가 가능할지 가능성을 엿보려 한다\\\"고 속내를 내비쳤다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 담당 한의사는 김가연이 둘째를 낳고 아직 몸이 회복되지 않아, 두 어머니보다 건강 상태가 좋지 않다고 진단했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 같은 진단에 김가연은 \\\"나 스스로도 아직까지 회복이 덜 됐음을 느낀다. 결과는 어느 정도 예상했지만, 두 어머니들보다 좋지 않다는 소리에 충격을 받았다. 이 상태로 아이를 하나 더 낳으면 내가 죽을 수도 있겠다 생각이 들었다\\\"고 털어 놨다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "불쑥 김가연의 시어머니는 한의사에게 \\\"약을 먹으면 혹시 며느리가 임신이 가능한가\\\"라고 물었고 김가연과 친정어머니는 이에 경악했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임요환은 종갓집의 25대손 종손이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그에게는 두 딸이 있지만, 그의 부모는 26대손을 이을 손자가 보고 싶은 마음이 간절한 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "친정어머니는 \\\"정말 마음이 찢어지게 아팠다. 몸이 안 좋다는 얘기를 듣고도 그런 질문을 한 사돈께 많이 서운했다. 내 딸 건강에 대해선 생각하지 않는 것 같아 속상하고 힘들었다\\\"고 속마음을 전했다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "환자 며느리에게 '이것' 내놓으라 하는 시어머니... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

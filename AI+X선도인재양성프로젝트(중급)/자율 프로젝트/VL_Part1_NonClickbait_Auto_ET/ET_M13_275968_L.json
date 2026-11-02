@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275968",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박서준, 강렬하거나 향기롭거나",
+		"newsSubTitle": "",
+		"newsContent": "배우 박서준이 차가운 도회미를 드러냈다.\n패션지 하퍼스 바자는 박서준의 남성적 매력이 담긴 화보를 21일 공개했다.\n이번 화보는 샤넬의 대표적 옴므 향수인 블루 드 샤넬과 함께했다.\n박서준은 블루 두 샤넬의 남성상으로 도심을 자유롭게 활보하는 콘셉트를 자신만의 무드로 표현했다.\n박서준은 각 컷마다 강렬한 눈빛으로 카리스마를 발산하고 있다.\n어두운 밤 도시를 배경으로 거침없이 질주하는 남성상을 소화해낸 것이다.\n박서준은 무언의 메시지를 던지며 화보 장인 면모를 이어나갔다.\n화보 촬영 이후 이어진 인터뷰에서 박서준은 한 번도 해 보지 않은 네 가지를 경험했다며 반려견 심바를 귀엽게 표현한 그림 실력으로 현장 스태프들의 찬사를 이끌어 내기도 했다.\n하퍼스 바자 측은 박서준은 끊임없는 도전과 자신만의 리듬으로 독보적인 필모그래피를 쌓고 있는 배우이고 이는 독한 남성 향수에서 벗어나 우아하고 매력적인 향을 가진 블루 두 샤넬과 닮아 있다고 평했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박서준이 차가운 도회미를 드러냈다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "패션지 하퍼스 바자는 박서준의 남성적 매력이 담긴 화보를 21일 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 화보는 샤넬의 대표적 옴므 향수인 블루 드 샤넬과 함께했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박서준은 블루 두 샤넬의 남성상으로 도심을 자유롭게 활보하는 콘셉트를 자신만의 무드로 표현했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박서준은 각 컷마다 강렬한 눈빛으로 카리스마를 발산하고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "어두운 밤 도시를 배경으로 거침없이 질주하는 남성상을 소화해낸 것이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박서준은 무언의 메시지를 던지며 화보 장인 면모를 이어나갔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "화보 촬영 이후 이어진 인터뷰에서 박서준은 한 번도 해 보지 않은 네 가지를 경험했다며 반려견 심바를 귀엽게 표현한 그림 실력으로 현장 스태프들의 찬사를 이끌어 내기도 했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하퍼스 바자 측은 박서준은 끊임없는 도전과 자신만의 리듬으로 독보적인 필모그래피를 쌓고 있는 배우이고 이는 독한 남성 향수에서 벗어나 우아하고 매력적인 향을 가진 블루 두 샤넬과 닮아 있다고 평했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박서준, 강렬하거나 향기롭거나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

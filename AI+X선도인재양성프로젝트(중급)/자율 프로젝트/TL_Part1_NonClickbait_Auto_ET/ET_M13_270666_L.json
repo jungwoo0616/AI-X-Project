@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270666",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "슈, 복귀 비판에도 당당…“용기는 자신을 믿는 것”",
+		"newsSubTitle": "",
+		"newsContent": "도박 논란을 딛고 최근 방송에 복귀한 SES 출신 슈(유슈영)가 근황을 알렸다.\n슈는 19일 자신의 사회관계망서비스(SNS)에 자격증 교육을 받은 사실을 알렸다.\n슈는 “제 경험으로 도움을 주기 위해서 좀 더 전문가가 되어야 하지 않을까 생각해서 시작했던 한국코치협회에 초급 코치 자격증 교육, 교육이 거의 다 끝나네요”라며 최근 받고 있는 교육이 곧 끝났다고 밝혔다.\n이어 “덮으려 하지 않고 숨기려 하지 않겠습니다. 용기는 자신을 믿는 것이고 아무도 용기를 가르쳐 줄 순 없다고 생각합니다”라며 자신을 둘러싼 비판에 당당히 맞서겠다고 밝혔다.\n한편 슈는 지난 2016년과 2018년 사이에 해외에서 26차례에 걸쳐 총 7억 9000만 원 규모의 도박을 한 혐의로 징역 6개월 집행유예 2년, 사회봉사 80시간을 선고받았다.\n자숙해오던 슈는 최근 방송에 복귀했고 이에 따라 슈의 복귀가 옳은 것인가에 대한 논란이 발생했으나, 슈는 방송활동을 재개하며 활발한 활동을 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도박 논란을 딛고 최근 방송에 복귀한 SES 출신 슈(유슈영)가 근황을 알렸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슈는 19일 자신의 사회관계망서비스(SNS)에 자격증 교육을 받은 사실을 알렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "슈는 “제 경험으로 도움을 주기 위해서 좀 더 전문가가 되어야 하지 않을까 생각해서 시작했던 한국코치협회에 초급 코치 자격증 교육, 교육이 거의 다 끝나네요”라며 최근 받고 있는 교육이 곧 끝났다고 밝혔다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “덮으려 하지 않고 숨기려 하지 않겠습니다. 용기는 자신을 믿는 것이고 아무도 용기를 가르쳐 줄 순 없다고 생각합니다”라며 자신을 둘러싼 비판에 당당히 맞서겠다고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 슈는 지난 2016년과 2018년 사이에 해외에서 26차례에 걸쳐 총 7억 9000만 원 규모의 도박을 한 혐의로 징역 6개월 집행유예 2년, 사회봉사 80시간을 선고받았다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자숙해오던 슈는 최근 방송에 복귀했고 이에 따라 슈의 복귀가 옳은 것인가에 대한 논란이 발생했으나, 슈는 방송활동을 재개하며 활발한 활동을 예고했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈, 복귀 비판에도 당당…“용기는 자신을 믿는 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

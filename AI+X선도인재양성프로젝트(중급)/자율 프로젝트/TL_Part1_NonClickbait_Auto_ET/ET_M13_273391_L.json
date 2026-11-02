@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273391",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘국악 트로트 요정’ 김다현, 선한 영향력 행사",
+		"newsSubTitle": "",
+		"newsContent": "‘국악 트로트 요정’ 가수 김다현이 선한 영향력을 행사했다.\n한국소아암재단은 17일 “김다현이 ‘선한스타 5월 가왕전’ 상금 50만 원을 희귀의약품 구입비 지원사업에 기부했다”고 전했다.\n홍승윤 이사는 “김다현의 후원에 감동받았다”며 “소아암 및 희소 난치병을 앓고 있는 환우들의 치료에 큰 도움이 될 것”이라고 밝혔다.\n희귀의약품 구입비 지원사업은 만 19세 이하 소아암 백혈병 환자 및 희소 난치병 진단을 받은 만 25세 이하 환아를 대상으로 약제비, 희귀의약품 구입비 등 고액의 비급여 약제비 마련에 어려움을 겪는 환아를 지원하는 사업이다.\n김다현은 2020년 7월 MBN 트로트 서바이벌 프로그램 ‘보이스트롯’에서 준우승을 차지한 후 현재까지 활발하게 활동하고 있다.\n최근에는 신곡 ‘하트뿅’을 발표하며 트로트계 대세로 등극했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘국악 트로트 요정’ 가수 김다현이 선한 영향력을 행사했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국소아암재단은 17일 “김다현이 ‘선한스타 5월 가왕전’ 상금 50만 원을 희귀의약품 구입비 지원사업에 기부했다”고 전했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍승윤 이사는 “김다현의 후원에 감동받았다”며 “소아암 및 희소 난치병을 앓고 있는 환우들의 치료에 큰 도움이 될 것”이라고 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "희귀의약품 구입비 지원사업은 만 19세 이하 소아암 백혈병 환자 및 희소 난치병 진단을 받은 만 25세 이하 환아를 대상으로 약제비, 희귀의약품 구입비 등 고액의 비급여 약제비 마련에 어려움을 겪는 환아를 지원하는 사업이다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김다현은 2020년 7월 MBN 트로트 서바이벌 프로그램 ‘보이스트롯’에서 준우승을 차지한 후 현재까지 활발하게 활동하고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근에는 신곡 ‘하트뿅’을 발표하며 트로트계 대세로 등극했다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘국악 트로트 요정’ 김다현, 선한 영향력 행사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

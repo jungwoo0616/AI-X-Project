@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259374",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘6시 내고향’ 신성 “저도 예쁘다고 해주세요”",
+		"newsSubTitle": "",
+		"newsContent": "가수 신성이 훈훈함으로 안방극장을 물들였다.\n신성은 26일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.\n신성은 트롯 농활 원정대 네박자 멤버 신인선과 함께 경북 김천에 방문, 프로 일꾼답게 능숙한 일솜씨와 추운 날씨에도 땀을 흥건히 흘려 이목을 집중시켰다.\n신성은 신인선만 칭찬하는 농부에게 “저도 예쁘다고 해주세요”라며 귀여운 매력을 뽐낸 것은 물론, 길에서 우연히 마주친 할머니에게 한글을 알려드리며 훈훈함을 자아냈다.\n할머니를 위해 따뜻한 실내화와 꽃을 선물한 신성은 ‘가지마오’를 열창, 가습기보이스를 선사하며 시청자의 눈과 귀를 모두 사로잡았다. ‘6시 내고향’ 스튜디오에 등장한 신성은 매끄러운 진행능력과 재치 있는 입담을 과시하며 보는 재미를 더하기도 했다.\n신성은 MBC 에브리원 ‘대한외국인’을 비롯해 KBS ‘가요무대’ EBS ‘일단해봐요 생방송 오후1시’ 등 다양한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 신성이 훈훈함으로 안방극장을 물들였다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신성은 26일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신성은 트롯 농활 원정대 네박자 멤버 신인선과 함께 경북 김천에 방문, 프로 일꾼답게 능숙한 일솜씨와 추운 날씨에도 땀을 흥건히 흘려 이목을 집중시켰다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신성은 신인선만 칭찬하는 농부에게 “저도 예쁘다고 해주세요”라며 귀여운 매력을 뽐낸 것은 물론, 길에서 우연히 마주친 할머니에게 한글을 알려드리며 훈훈함을 자아냈다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "할머니를 위해 따뜻한 실내화와 꽃을 선물한 신성은 ‘가지마오’를 열창, 가습기보이스를 선사하며 시청자의 눈과 귀를 모두 사로잡았다. ‘6시 내고향’ 스튜디오에 등장한 신성은 매끄러운 진행능력과 재치 있는 입담을 과시하며 보는 재미를 더하기도 했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신성은 MBC 에브리원 ‘대한외국인’을 비롯해 KBS ‘가요무대’ EBS ‘일단해봐요 생방송 오후1시’ 등 다양한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 신성 “저도 예쁘다고 해주세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

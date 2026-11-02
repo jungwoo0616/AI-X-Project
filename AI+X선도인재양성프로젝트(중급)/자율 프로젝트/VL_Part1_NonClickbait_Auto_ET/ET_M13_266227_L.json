@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266227",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송가인, ‘트롯스타 여자 1위’ 34주 연속 1등",
+		"newsSubTitle": "",
+		"newsContent": "가수 송가인이 트롯스타 투표에서 34주 연속 1위를 차지했다.\n송가인은 지난 3월 31일부터 4월 7일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 70,309표를 획득해 1위를 차지했다.\n34주 연속 정상에 이름을 올리며 ‘트롯스타’의 새로운 역사를 쓰고 있다.\n34주 연속 1위를 차지한 송가인은 다양한 음악프로부터 예능프로그램까지 출연하며 자신만의 시원한 보컬과 유쾌한 입담으로 팬들과 만나며 높은 인기를 누리고 있다.\n독주 체제를 이어가고 있는 송가인은 8회 연속 AGAIN(팬클럽 명)이 제작한 옥외 전광판 특전을 획득하기도 했다.\n또, 송가인은 올봄 앨범 발매와 함께 단독 콘서트를 개최한다고 알리며 팬들의 뜨거운 반응을 불러일으킨 바 있다.\n송가인은 올해 처음으로 발매하는 앨범과 콘서트에서 어떤 색다른 모습을 선보일 것인가에 귀추가 주목된다.\n송가인은 컴백과 단독 콘서트를 위해 박차를 가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 송가인이 트롯스타 투표에서 34주 연속 1위를 차지했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송가인은 지난 3월 31일부터 4월 7일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 70,309표를 획득해 1위를 차지했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "34주 연속 정상에 이름을 올리며 ‘트롯스타’의 새로운 역사를 쓰고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "34주 연속 1위를 차지한 송가인은 다양한 음악프로부터 예능프로그램까지 출연하며 자신만의 시원한 보컬과 유쾌한 입담으로 팬들과 만나며 높은 인기를 누리고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "독주 체제를 이어가고 있는 송가인은 8회 연속 AGAIN(팬클럽 명)이 제작한 옥외 전광판 특전을 획득하기도 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또, 송가인은 올봄 앨범 발매와 함께 단독 콘서트를 개최한다고 알리며 팬들의 뜨거운 반응을 불러일으킨 바 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송가인은 올해 처음으로 발매하는 앨범과 콘서트에서 어떤 색다른 모습을 선보일 것인가에 귀추가 주목된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "송가인은 컴백과 단독 콘서트를 위해 박차를 가하고 있다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송가인, ‘트롯스타 여자 1위’ 34주 연속 1등",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261841",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘아는형님’ 곽윤기·김아랑·이유빈 24일 녹화출격",
+		"newsSubTitle": "",
+		"newsContent": "곽윤기·김아랑·이유빈이 JTBC 예능 프로그램 ‘아는형님’에 출격한다.\nJTBC는 24일 진행되는 ‘아는형님’ 녹화에 쇼트트랙 국가대표 곽윤기, 김아랑, 이유빈이 게스트로 참여한다고 23일 밝혔다.\n이들이 출연하는 방송분은 내달 5일 오후 8시 40분 방송된다.\n세 사람이 보여줄 ‘케미’도 남다를 전망이다.\n이미 ‘남매 케미’로 알려진 곽윤기·김아랑 콤비에 이어 이번 동계올림픽에서 놀라운 호흡을 보여준 김아랑·이유빈 등 끈끈한 우정으로 뭉친 국가대표 선수들의 증명된 호흡과 금빛 예능감은 시청자들에게 웃음과 감동을 선사할 것이라고 JTBC는 설명했다.\nJTBC는 “이번 쇼트트랙 국가대표 선수들의 출연으로 ‘아는 형님’은 과거 펜싱 국가대표, 배구여제 김연경 선수와 같이 스포츠 스타와의 ‘찰떡궁합’을 다시 한 번 안방에 선보일 예정”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "곽윤기·김아랑·이유빈이 JTBC 예능 프로그램 ‘아는형님’에 출격한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JTBC는 24일 진행되는 ‘아는형님’ 녹화에 쇼트트랙 국가대표 곽윤기, 김아랑, 이유빈이 게스트로 참여한다고 23일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들이 출연하는 방송분은 내달 5일 오후 8시 40분 방송된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세 사람이 보여줄 ‘케미’도 남다를 전망이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이미 ‘남매 케미’로 알려진 곽윤기·김아랑 콤비에 이어 이번 동계올림픽에서 놀라운 호흡을 보여준 김아랑·이유빈 등 끈끈한 우정으로 뭉친 국가대표 선수들의 증명된 호흡과 금빛 예능감은 시청자들에게 웃음과 감동을 선사할 것이라고 JTBC는 설명했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "JTBC는 “이번 쇼트트랙 국가대표 선수들의 출연으로 ‘아는 형님’은 과거 펜싱 국가대표, 배구여제 김연경 선수와 같이 스포츠 스타와의 ‘찰떡궁합’을 다시 한 번 안방에 선보일 예정”이라고 했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘아는형님’ 곽윤기·김아랑·이유빈 24일 녹화출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

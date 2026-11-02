@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167873",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "37세 연예인의 충격적인 패션",
+    "newsSubTitle": "",
+    "newsContent": "배우 장나라가 제21회 부천국제판타스틱 영화제에서 선보인 패션이 화제를 모으고 있다.\n13일 오후 경기도 부천 시청 잔디광장에서 진행된 영화제에서 장나라는 사회를 맡았다.\n장나라는 이날 그동안 보기 힘들었던 섹시 콘셉트에 맞춰 옷을 입었다.\n올 블랙으로 등이 훤히 드러나는 원피스를 입었다.\n같이 진행을 맡은 배우 정경호도 올 블랙으로 코드를 맞췄다.\n정경호는 휘청거리는 장나라를 잡아주기도 했다.\n장나라는 최근 자신의 인스타그램을 통해 키우는 고양이에 대한 애정을 드러내며 근황을 전하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 장나라가 제21회 부천국제판타스틱 영화제에서 선보인 패션이 화제를 모으고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 오후 경기도 부천 시청 잔디광장에서 진행된 영화제에서 장나라는 사회를 맡았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장나라는 이날 그동안 보기 힘들었던 섹시 콘셉트에 맞춰 옷을 입었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올 블랙으로 등이 훤히 드러나는 원피스를 입었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "같이 진행을 맡은 배우 정경호도 올 블랙으로 코드를 맞췄다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정경호는 휘청거리는 장나라를 잡아주기도 했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장나라는 최근 자신의 인스타그램을 통해 키우는 고양이에 대한 애정을 드러내며 근황을 전하기도 했다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 번도 보여준 적 없던 패션으로 화제... 37세 여배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277685",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "컴백 앞두고 멤버들 어린시절 편집한 탑, 폭풍 업로드 공개",
+		"newsSubTitle": "",
+		"newsContent": "탑이 빅뱅 정규 앨범 공개를 앞두고 자신의 인스타그램에 멤버들의 어린 시절 모습을 공개했다.\n12일 탑은 인스타그램에 컴백 포스터를 공개했다.\n포스터 속에는 빅뱅 멤버들의 어린시절 모습을 편집해 붙여넣었다.\n한땀 한땀 멤버들의 사진을 편집해 붙인 모습에 팬들은 뜨거운 반응을 보였다.\n팬들은 \\\"오빠 태어나줘서 감사해요\\\" \\\"밤하늘이 아름다운건, 별이 있기 때문이고, 내 마음이 아름다운건,너 란 별이 있기 때문이야\\\"와 같은 반응을 보였다.\n이외에도 탑은 새 정규 앨범을 앞두고 한껏 기대에 부푼 모습을 연일 업로드를 하며 공개했다.\n풍성하게 익은 감 사진을 올려놓고는 \\\"아직 짱짱한 감, 너에게로 곧 감\\\"과 같은 멘트를 남겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "탑이 빅뱅 정규 앨범 공개를 앞두고 자신의 인스타그램에 멤버들의 어린 시절 모습을 공개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 탑은 인스타그램에 컴백 포스터를 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포스터 속에는 빅뱅 멤버들의 어린시절 모습을 편집해 붙여넣었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한땀 한땀 멤버들의 사진을 편집해 붙인 모습에 팬들은 뜨거운 반응을 보였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 \\\"오빠 태어나줘서 감사해요\\\" \\\"밤하늘이 아름다운건, 별이 있기 때문이고, 내 마음이 아름다운건,너 란 별이 있기 때문이야\\\"와 같은 반응을 보였다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외에도 탑은 새 정규 앨범을 앞두고 한껏 기대에 부푼 모습을 연일 업로드를 하며 공개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "풍성하게 익은 감 사진을 올려놓고는 \\\"아직 짱짱한 감, 너에게로 곧 감\\\"과 같은 멘트를 남겼다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "컴백 앞두고 멤버들 어린시절 편집한 탑, 폭풍 업로드 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

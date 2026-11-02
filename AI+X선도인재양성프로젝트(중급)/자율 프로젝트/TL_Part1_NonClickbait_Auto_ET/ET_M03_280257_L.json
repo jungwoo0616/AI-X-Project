@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280257",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강민경 부친, 사기·횡령 혐의…소속사 \\\"가족 개인의 일\\\"",
+		"newsSubTitle": "",
+		"newsContent": "다비치 강민경의 부친이 수억 원대 사기·횡령 혐의로 피소됐다는 소식이 전해졌다.\n4일 법무법인 유한 금성은 공식 보도자료를 통해 다비치 멤버 강민경의 부친인 강씨가 A 종교재단을 속여 수억 원대의 돈을 세금 명목으로 받아놓고, 실제로는 이 돈을 자신의 회사자금으로 유용한 혐의로 검찰 조사를 받고 있다고 밝혔다.\n이에 따르면 강씨는 종교 용지를 구입하려던 A 종교재단에 접근해 매도인을 소개해줬다.\n이후 2008년 11월 매도인 측 귀책사유로 매매계약이 해제돼 A 종교재단이 위약금을 받게 되자 세금을 핑계로 중간에서 돈을 가로챘다.\n이후 A 종교재단은 자신들은 비영리재단법인으로서 위약금에 대해 세금을 납부할 의무나 원청징수의무가 없다는 것을 알고 반환을 요구했지만, 강씨는 도리어 자신의 지위를 이용해 종교부지 건립을 방해하겠다는 식으로 겁을 준 것으로 알려졌다.\nA 종교재단은 2014년 11월 강씨를 상대로 사기·횡령 혐의로 경찰에 고소장을 제출했고, 현재 정부지방법원 고양지청에서 사건이 조사 중에 있다.\n이에 대해 강민경의 소속사 CJ E&M 측 관계자는 4일 일간스포츠에 \\\"가족의 일이기 때문에 입장을 밝히기 어려운 부분이 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "다비치 강민경의 부친이 수억 원대 사기·횡령 혐의로 피소됐다는 소식이 전해졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 법무법인 유한 금성은 공식 보도자료를 통해 다비치 멤버 강민경의 부친인 강씨가 A 종교재단을 속여 수억 원대의 돈을 세금 명목으로 받아놓고, 실제로는 이 돈을 자신의 회사자금으로 유용한 혐의로 검찰 조사를 받고 있다고 밝혔다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따르면 강씨는 종교 용지를 구입하려던 A 종교재단에 접근해 매도인을 소개해줬다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 2008년 11월 매도인 측 귀책사유로 매매계약이 해제돼 A 종교재단이 위약금을 받게 되자 세금을 핑계로 중간에서 돈을 가로챘다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 A 종교재단은 자신들은 비영리재단법인으로서 위약금에 대해 세금을 납부할 의무나 원청징수의무가 없다는 것을 알고 반환을 요구했지만, 강씨는 도리어 자신의 지위를 이용해 종교부지 건립을 방해하겠다는 식으로 겁을 준 것으로 알려졌다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "A 종교재단은 2014년 11월 강씨를 상대로 사기·횡령 혐의로 경찰에 고소장을 제출했고, 현재 정부지방법원 고양지청에서 사건이 조사 중에 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 대해 강민경의 소속사 CJ E&M 측 관계자는 4일 일간스포츠에 \\\"가족의 일이기 때문에 입장을 밝히기 어려운 부분이 있다\\\"고 말했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강민경 부친, 사기·횡령 혐의…소속사 \\\"가족 개인의 일\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

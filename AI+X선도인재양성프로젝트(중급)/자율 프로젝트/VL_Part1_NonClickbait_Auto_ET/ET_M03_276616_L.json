@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276616",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "교복 입고 남다른 얼굴 크기 뽐낸 여자 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "그룹 오마이걸 아린과 구구단 미나의 교복 입은 모습이 포착돼 네티즌들의 눈길을 끌고 있다.\n최근 한 온라인커뮤니티에는 '서울공연예술고등학교'에 재학 중인 아린과 미나의 사진이 올라왔다.\n공개된 사진 속 아린과 미나는 교복을 입고 다소곳한 포즈로 카메라를 응시하고 있다.\n작은 얼굴과 남다른 비율이 눈에 띈다.\n같은 학교 친구들과 찍은 사진에서는 상큼한 매력을 뽐내고 있다.\n이를 본 네티즌들은 \\\"둘 다 너무 예쁘다\\\" \\\"볼 때마다 예뻐지네\\\" \\\"교복 입은 모습 보니 색다르네\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 오마이걸 아린과 구구단 미나의 교복 입은 모습이 포착돼 네티즌들의 눈길을 끌고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한 온라인커뮤니티에는 '서울공연예술고등학교'에 재학 중인 아린과 미나의 사진이 올라왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 아린과 미나는 교복을 입고 다소곳한 포즈로 카메라를 응시하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "작은 얼굴과 남다른 비율이 눈에 띈다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 학교 친구들과 찍은 사진에서는 상큼한 매력을 뽐내고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 \\\"둘 다 너무 예쁘다\\\" \\\"볼 때마다 예뻐지네\\\" \\\"교복 입은 모습 보니 색다르네\\\" 등의 반응을 보였다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "교복 입고 남다른 얼굴 크기 뽐낸 여자 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

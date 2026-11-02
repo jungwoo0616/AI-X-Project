@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171567",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "규현, 솔로 앨범 1월 발매 “사계절 프로젝트 마무리”[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 슈퍼주니어 규현이 솔로 앨범으로 돌아온다.\n소속사 레이블 SJ 측은 7일 “규현이 사계절 프로젝트를 마무리하는 앨범을 내년 1월 발매한다”고 공식 입장을 밝혔다.\n이어 “구체적인 날짜는 아직 미정”이라 덧붙였다.\n규현은 지난해 7월 ‘드리밍(Dreaming)’을 시작으로 ‘내 마음을 누르는 일(Daystar)’ ‘마지막 날에(Moving On)’ ‘커피(Coffee)’ ‘투게더(Together)’ 등 각 계절에 어울리는 다양한 스타일의 신곡을 발표하는 사계절 프로젝트를 이어왔다.\n이번 신보를 통해 프로젝트를 아우를 전망이다.\n한편, 규현은 다양한 분야에서 열일 행보를 보이고 있다.\n지난 6일 첫 방송된 JTBC ‘싱어게인2’를 비롯해 iHQ ‘마시는 녀석들’ 뮤지컬 ‘프랑켄슈타인’ 등에서 활약 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 슈퍼주니어 규현이 솔로 앨범으로 돌아온다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 레이블 SJ 측은 7일 “규현이 사계절 프로젝트를 마무리하는 앨범을 내년 1월 발매한다”고 공식 입장을 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “구체적인 날짜는 아직 미정”이라 덧붙였다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "규현은 지난해 7월 ‘드리밍(Dreaming)’을 시작으로 ‘내 마음을 누르는 일(Daystar)’ ‘마지막 날에(Moving On)’ ‘커피(Coffee)’ ‘투게더(Together)’ 등 각 계절에 어울리는 다양한 스타일의 신곡을 발표하는 사계절 프로젝트를 이어왔다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 신보를 통해 프로젝트를 아우를 전망이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 규현은 다양한 분야에서 열일 행보를 보이고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 6일 첫 방송된 JTBC ‘싱어게인2’를 비롯해 iHQ ‘마시는 녀석들’ 뮤지컬 ‘프랑켄슈타인’ 등에서 활약 중이다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "슈퍼주니어 규현, '이것' 들고 1월에 돌아온다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

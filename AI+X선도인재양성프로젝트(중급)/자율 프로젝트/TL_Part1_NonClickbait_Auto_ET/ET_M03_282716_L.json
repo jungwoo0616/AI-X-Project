@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282716",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "라디오스타 홍윤화 \\\"나쁜남자한테 데인 적 있다\\\" 모델 A 누구?",
+		"newsSubTitle": "",
+		"newsContent": "'라디오스타 홍윤화' 현재 김민기와 열애중인 홍윤화가 나쁜남자를 만난 적이 있다고 고백했다.\n개그우먼 홍윤화는 11월 25일 방송된 MBC ‘황금어장-라디오스타’(이하 라스)에서 나쁜남자한테 제대로 데였던 경험을 공개했다.\n이날 홍윤화는 \\\"여성들이 나쁜남자 좋다고 하는데 진짜 나쁜남자한테 데여봐야 한다\\\"고 말문을 열었다.\n홍윤화는 \\\"잘생기고 모델 일도 하던 사람인데 어느 날 전화를 안 받더라. 그때 촉이 왔다. 전화를 딱 받았는데 한참동안 노래를 부르다가 '오빠 우리 집에 가자'란 소리가 들리더라. 실수로 전화가 받아진 거다\\\"며 \\\"그러더니 갑자기 목소리를 바꿔 '웨이터인데 손님이 휴대전화 놓고 갔다'고 했다. 내가 '뭐하냐'고 했더니 전화를 뚝 끊더라\\\"고 당시 기억을 떠올렸다.\n이를 듣고 있던 나르샤는 \\\"홍윤화씨가 얘기하는 정도는 귀여운 수준이다\\\"며 자신은 다른 여자와 동거하는 남자를 만난 적이 있다고 밝혀 놀라움을 선사했다.\n한편 이날 방송에는 나르샤, 박준면, 홍윤화, 황미영이 게스트로 출연했다. ['라디오스타 홍윤화' 사진=MBC ‘황금어장-라디오스타’ 캡처] '라디오스타 홍윤화' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'라디오스타 홍윤화' 현재 김민기와 열애중인 홍윤화가 나쁜남자를 만난 적이 있다고 고백했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개그우먼 홍윤화는 11월 25일 방송된 MBC ‘황금어장-라디오스타’(이하 라스)에서 나쁜남자한테 제대로 데였던 경험을 공개했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 홍윤화는 \\\"여성들이 나쁜남자 좋다고 하는데 진짜 나쁜남자한테 데여봐야 한다\\\"고 말문을 열었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍윤화는 \\\"잘생기고 모델 일도 하던 사람인데 어느 날 전화를 안 받더라. 그때 촉이 왔다. 전화를 딱 받았는데 한참동안 노래를 부르다가 '오빠 우리 집에 가자'란 소리가 들리더라. 실수로 전화가 받아진 거다\\\"며 \\\"그러더니 갑자기 목소리를 바꿔 '웨이터인데 손님이 휴대전화 놓고 갔다'고 했다. 내가 '뭐하냐'고 했더니 전화를 뚝 끊더라\\\"고 당시 기억을 떠올렸다.",
+				"sentenceSize": 206
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 듣고 있던 나르샤는 \\\"홍윤화씨가 얘기하는 정도는 귀여운 수준이다\\\"며 자신은 다른 여자와 동거하는 남자를 만난 적이 있다고 밝혀 놀라움을 선사했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 방송에는 나르샤, 박준면, 홍윤화, 황미영이 게스트로 출연했다. ['라디오스타 홍윤화' 사진=MBC ‘황금어장-라디오스타’ 캡처] '라디오스타 홍윤화' 온라인 중앙일보",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라디오스타 홍윤화 \\\"나쁜남자한테 데인 적 있다\\\" 모델 A 누구?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263746",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘이세용♥’ 홍영기, 공감가는 현실 육아짤",
+		"newsSubTitle": "",
+		"newsContent": "얼짱 출신 사업가 홍영기가 육아 사진들을 공개했다.\n13일 홍영기는 자신의 사회 관계망 서비스(SNS)에 “보여드린적 없는 현실육아짤들 풀어봐요”라며 “대한민국 엄마들 화이팅”이라는 글과 함께 사진들을 게재했다.\n공개한 사진 속 홍영기는 육아에 열중하는 있는 모습이다.\n홍영기는 아들에게 우유를 먹이며 휴대폰을 하고 있고 또 아들의 턱을 받치고 했다.\n또 홍영기는 잠든 아들을 내려놓지 못하고 그대로 안고 바닥에 눕기도 한다.\n또 다른 사진에서 홍영기는 기저귀가 널부러진 바닥에 아들과 같이 누워 잠을 자는 모습을 보여 육아맘들의 공감을 불러 일으켰다.\n한편 코미디TV ‘얼짱시대’에 출연해 얼굴을 알린 홍영기는 지난 2012년 3세 연하 이세용과 결혼했으며 슬하에 두 아들을 두고 있다.\n두 사람은 결혼 10년 만에 결혼식을 올린다고 알려져 화제가 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "얼짱 출신 사업가 홍영기가 육아 사진들을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 홍영기는 자신의 사회 관계망 서비스(SNS)에 “보여드린적 없는 현실육아짤들 풀어봐요”라며 “대한민국 엄마들 화이팅”이라는 글과 함께 사진들을 게재했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진 속 홍영기는 육아에 열중하는 있는 모습이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍영기는 아들에게 우유를 먹이며 휴대폰을 하고 있고 또 아들의 턱을 받치고 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 홍영기는 잠든 아들을 내려놓지 못하고 그대로 안고 바닥에 눕기도 한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 다른 사진에서 홍영기는 기저귀가 널부러진 바닥에 아들과 같이 누워 잠을 자는 모습을 보여 육아맘들의 공감을 불러 일으켰다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 코미디TV ‘얼짱시대’에 출연해 얼굴을 알린 홍영기는 지난 2012년 3세 연하 이세용과 결혼했으며 슬하에 두 아들을 두고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 사람은 결혼 10년 만에 결혼식을 올린다고 알려져 화제가 됐다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘이세용♥’ 홍영기, 공감가는 현실 육아짤",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

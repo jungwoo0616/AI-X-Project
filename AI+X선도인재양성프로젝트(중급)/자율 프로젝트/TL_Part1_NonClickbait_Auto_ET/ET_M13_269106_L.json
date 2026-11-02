@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269106",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 이번엔 ‘중단발병’ 유발하겠네…상큼 폭발[화보]",
+		"newsSubTitle": "",
+		"newsContent": "최근 영화 촬영을 마친 가수 겸 배우 아이유(이지은)가 한 아웃도어 브랜드가 공개한 화보 촬영 현장 비하인드컷에서 ‘단발병’을 유발하는 상큼함을 가감없이 드러내 화제다.\n아웃도어 브랜드 블랙야크는 4일 아이유의 화보를 공개했다.\n화보 속 아이유는 봄과 어울리는 라일락, 핑크 계열의 아웃도어 자켓과 배낭 등을 매치해 화사한 산행룩을 100% 소화해내는 동시에 앞머리를 내린 어깨 라인 기장의 헤어스타일로 상큼한 매력을 더했다.\n팬들 사이에서 늘 화제가 되는 ‘아이유의 머리 길이’에 대한 이야기가 또 다시 뜨겁게 달궈질 것으로 보인다.\n촬영 현장에서도 아이유의 뜨거운 열정이 그대로 느껴졌다는 후문이다.\n풀내음이 물씬 풍길 것만 같은 산을 그대로 옮겨 놓은 듯한 스튜디오 촬영장에서 아이유는 상황과 스타일에 맞는 다양한 표정과 제스처를 통해 제품의 장점을 더욱 잘 보여줄 수 있도록 고민하며 프로다운 면모를 여실히 드러냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 영화 촬영을 마친 가수 겸 배우 아이유(이지은)가 한 아웃도어 브랜드가 공개한 화보 촬영 현장 비하인드컷에서 ‘단발병’을 유발하는 상큼함을 가감없이 드러내 화제다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아웃도어 브랜드 블랙야크는 4일 아이유의 화보를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화보 속 아이유는 봄과 어울리는 라일락, 핑크 계열의 아웃도어 자켓과 배낭 등을 매치해 화사한 산행룩을 100% 소화해내는 동시에 앞머리를 내린 어깨 라인 기장의 헤어스타일로 상큼한 매력을 더했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들 사이에서 늘 화제가 되는 ‘아이유의 머리 길이’에 대한 이야기가 또 다시 뜨겁게 달궈질 것으로 보인다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "촬영 현장에서도 아이유의 뜨거운 열정이 그대로 느껴졌다는 후문이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "풀내음이 물씬 풍길 것만 같은 산을 그대로 옮겨 놓은 듯한 스튜디오 촬영장에서 아이유는 상황과 스타일에 맞는 다양한 표정과 제스처를 통해 제품의 장점을 더욱 잘 보여줄 수 있도록 고민하며 프로다운 면모를 여실히 드러냈다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 이번엔 ‘중단발병’ 유발하겠네…상큼 폭발[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

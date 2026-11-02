@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268563",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "청하, ‘서울체크인’ OST로 선배 김완선 노래 리메이크",
+		"newsSubTitle": "",
+		"newsContent": "가수 청하가 선배 김완선의 히트곡을 리메이크하며 티빙 오리지널 ‘서울체크인’의 OST에 합류한다.\n티빙 측은 청하가 오는 30일 정오 ‘서울체크인’의 네 번째 OST인 ‘나만의 것’을 발매한다고 밝혔다.\n이 노래는 1990년 발매된 김완선의 원곡을 약 32년 만에 리메이크한 곡으로, 부드럽고 단순해진 편곡을 통해 보컬의 매력을 극대화시켰다.\n특히 청하는 특유의 청아하고 맑은 목소리로 ‘나만의 것’을 더욱 특별하게 재해석해 섬세한 감성을 표현했다.\n특히 K팝 대표 댄스가수로 자리잡은 청하가 ‘댄스 가수’의 원조 김완선의 곡을 자신만의 스타일로 해석해 김완선이 출연하는 ‘서울체크인’을 통해 선보인다는 점에서 기대를 높인다. ‘서울체크인’은 지난 설 연휴 파일럿을 시작으로 첫 방송부터 시청 조회수, 유료가입기여자수 등에서 1위를 달리며 순항 중이다.\n프로그램의 중심인 이효리는 ‘DSP리더즈’ ‘스키장 혼성 5인조’ ‘댄스가수 유랑단’ 등 화려한 멤버 조합을 선보이면서 1990년대 추억의 이야기와 솔직한 토크, 출연자들과의 티격태격하는 호흡으로 호응을 얻고 있다. ‘서울체크인’의 네 번째 OST인 청하의 ‘나만의 것’은 오는 30일 토요일 정오 온라인 음원사이트 등을 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 청하가 선배 김완선의 히트곡을 리메이크하며 티빙 오리지널 ‘서울체크인’의 OST에 합류한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "티빙 측은 청하가 오는 30일 정오 ‘서울체크인’의 네 번째 OST인 ‘나만의 것’을 발매한다고 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 노래는 1990년 발매된 김완선의 원곡을 약 32년 만에 리메이크한 곡으로, 부드럽고 단순해진 편곡을 통해 보컬의 매력을 극대화시켰다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 청하는 특유의 청아하고 맑은 목소리로 ‘나만의 것’을 더욱 특별하게 재해석해 섬세한 감성을 표현했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 K팝 대표 댄스가수로 자리잡은 청하가 ‘댄스 가수’의 원조 김완선의 곡을 자신만의 스타일로 해석해 김완선이 출연하는 ‘서울체크인’을 통해 선보인다는 점에서 기대를 높인다. ‘서울체크인’은 지난 설 연휴 파일럿을 시작으로 첫 방송부터 시청 조회수, 유료가입기여자수 등에서 1위를 달리며 순항 중이다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로그램의 중심인 이효리는 ‘DSP리더즈’ ‘스키장 혼성 5인조’ ‘댄스가수 유랑단’ 등 화려한 멤버 조합을 선보이면서 1990년대 추억의 이야기와 솔직한 토크, 출연자들과의 티격태격하는 호흡으로 호응을 얻고 있다. ‘서울체크인’의 네 번째 OST인 청하의 ‘나만의 것’은 오는 30일 토요일 정오 온라인 음원사이트 등을 통해 발매된다.",
+				"sentenceSize": 188
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청하, ‘서울체크인’ OST로 선배 김완선 노래 리메이크",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

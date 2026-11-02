@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277620",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "요즘 대세 남자 아이돌의 관심사는 '이것'",
+		"newsSubTitle": "",
+		"newsContent": "남자 아이돌 멤버들의 '낚시' 사랑이 눈길을 끌고 있다. '월간낚시21' 2월호 표지에 익숙한 얼굴이 등장할 예정이다.\n그룹 블락비 멤버 재효다.\n월간낚시21은 낚시를 사랑하는 사람들을 위한 소식지다.\n그동안 월간낚시21의 표지에는 낚시를 좋아하는 중장년층이 많이 등장했다.\n블락비 재효는 아이돌 멤버 중 최초로 월간낚시21의 표지를 장식한다.\n재효는 평소 '바다 낚시'를 취미라고 말하며 낚시에 대한 애정을 표현했다.\n이 뿐만이 아니다.\n앞서 아이돌 그룹 비투비의 육성재는 평소 낚시를 취미라고 밝히며 \\\"꼭 낚시TV에 나가서 (낚시를 좋아하는) 삼촌 팬들을 만들고 싶다\\\"고 말하기도 했다.\n씨엔블루의 이종현 역시 낚시광으로 유명하다.\n그는 한국낚시채널 FTV의 '샤크'에 출연해 1m급 대형 부시리를 낚았다.\n이외에도 슈퍼주니어의 시원, 샤이니의 온유 등이 낚시를 취미로 삼고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "남자 아이돌 멤버들의 '낚시' 사랑이 눈길을 끌고 있다. '월간낚시21' 2월호 표지에 익숙한 얼굴이 등장할 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그룹 블락비 멤버 재효다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "월간낚시21은 낚시를 사랑하는 사람들을 위한 소식지다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 월간낚시21의 표지에는 낚시를 좋아하는 중장년층이 많이 등장했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "블락비 재효는 아이돌 멤버 중 최초로 월간낚시21의 표지를 장식한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "재효는 평소 '바다 낚시'를 취미라고 말하며 낚시에 대한 애정을 표현했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 뿐만이 아니다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 아이돌 그룹 비투비의 육성재는 평소 낚시를 취미라고 밝히며 \\\"꼭 낚시TV에 나가서 (낚시를 좋아하는) 삼촌 팬들을 만들고 싶다\\\"고 말하기도 했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "씨엔블루의 이종현 역시 낚시광으로 유명하다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그는 한국낚시채널 FTV의 '샤크'에 출연해 1m급 대형 부시리를 낚았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이외에도 슈퍼주니어의 시원, 샤이니의 온유 등이 낚시를 취미로 삼고 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "요즘 대세 남자 아이돌의 관심사는 '이것'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

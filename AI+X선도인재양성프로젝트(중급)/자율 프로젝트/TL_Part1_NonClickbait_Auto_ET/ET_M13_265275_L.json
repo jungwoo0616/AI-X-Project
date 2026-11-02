@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265275",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "AB6IX, 4월 16일 1:1 라이브콜 개최[공식]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 AB6IX(에이비식스)가 1대1 라이브콜(LIVE CALL)을 진행한다. 29일 ㈜엔씨소프트, ㈜클렙(Klap) 측은 “유니버스(UNIVERSE)가 오는 4월 16일(토) 오후 5시부터 그룹 AB6IX(에이비식스)의 1:1 LIVE CALL ‘ABBI ADVENTURE(예삐 어드벤처)’를 개최한다”고 전했다.\n유니버스 라이브콜(LIVE CALL)은 아티스트와 팬이 1대 1 영상통화를 할 수 있는 비대면 행사로, 매회 이색적인 콘셉트로 팬과 함께 특별한 순간을 보낸다.\n유니버스 1대 1 라이브콜 ‘ABBI ADVENTURE(예삐 어드벤처)’ 참여 희망자는 AB6IX 멤버(전웅, 김동현, 박우진, 이대휘) 중 영상 통화를 희망하는 멤버를 선택해 응모할 수 있으며, 멤버별 30명씩 총 120명에게 기회가 제공된다.\n응모 시작은 오는 1일(금) 오전 10시부터 5일(화) 오후 11시 59분까지 진행된다.\n참여 응모권은 유니버스 내 다양한 팬덤 활동을 통해 모은 재화 ‘클랩(KLAP)’을 사용해 교환할 수 있다.\n한편, ‘AB6IX 1:1 LIVE CALL - ABBI ADVENTURE’에 대한 자세한 정보는 유니버스(UNIVERSE) 앱 내 공지 및 공식 SNS를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 AB6IX(에이비식스)가 1대1 라이브콜(LIVE CALL)을 진행한다. 29일 ㈜엔씨소프트, ㈜클렙(Klap) 측은 “유니버스(UNIVERSE)가 오는 4월 16일(토) 오후 5시부터 그룹 AB6IX(에이비식스)의 1:1 LIVE CALL ‘ABBI ADVENTURE(예삐 어드벤처)’를 개최한다”고 전했다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유니버스 라이브콜(LIVE CALL)은 아티스트와 팬이 1대 1 영상통화를 할 수 있는 비대면 행사로, 매회 이색적인 콘셉트로 팬과 함께 특별한 순간을 보낸다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유니버스 1대 1 라이브콜 ‘ABBI ADVENTURE(예삐 어드벤처)’ 참여 희망자는 AB6IX 멤버(전웅, 김동현, 박우진, 이대휘) 중 영상 통화를 희망하는 멤버를 선택해 응모할 수 있으며, 멤버별 30명씩 총 120명에게 기회가 제공된다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "응모 시작은 오는 1일(금) 오전 10시부터 5일(화) 오후 11시 59분까지 진행된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "참여 응모권은 유니버스 내 다양한 팬덤 활동을 통해 모은 재화 ‘클랩(KLAP)’을 사용해 교환할 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, ‘AB6IX 1:1 LIVE CALL - ABBI ADVENTURE’에 대한 자세한 정보는 유니버스(UNIVERSE) 앱 내 공지 및 공식 SNS를 통해 확인할 수 있다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AB6IX, 4월 16일 1:1 라이브콜 개최[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

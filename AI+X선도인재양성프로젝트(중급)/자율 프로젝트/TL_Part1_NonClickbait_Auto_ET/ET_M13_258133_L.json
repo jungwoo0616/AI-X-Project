@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258133",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "안현모 “캐슈넛 떡국, 라이머왈 은근 중독되는 맛”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 안현모가 캐슈넛떡국을 공개했다.\n안현모는 13일 SNS에 “겨울철 따끈한 떡국은 저의 소울 푸드인데 소의 뼈를 우리지 않아도 되는 캐슈넛떡국도 한번 드셔보세요”라는 글과 함께 사진을 올렸다.\n사진에는 안현모가 직접 만든 떡국이 담겼다.\n그는 “캐슈넛을 갈아서 뽀얀 국물에 떡넣고 끓이면 되는데 너무 쉽고 고소하고 식물성 단백질로 꽉 차 건강해요~”이라고 레시피도 전했다.\n이어 “라이머왈 은근 중독되는 맛”이라며 남편의 맛 비평도 언급했다.\n안현모는 2017년 브랜뉴뮤직 레이블 수장 라이머와 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 안현모가 캐슈넛떡국을 공개했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안현모는 13일 SNS에 “겨울철 따끈한 떡국은 저의 소울 푸드인데 소의 뼈를 우리지 않아도 되는 캐슈넛떡국도 한번 드셔보세요”라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 안현모가 직접 만든 떡국이 담겼다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “캐슈넛을 갈아서 뽀얀 국물에 떡넣고 끓이면 되는데 너무 쉽고 고소하고 식물성 단백질로 꽉 차 건강해요~”이라고 레시피도 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “라이머왈 은근 중독되는 맛”이라며 남편의 맛 비평도 언급했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안현모는 2017년 브랜뉴뮤직 레이블 수장 라이머와 결혼했다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안현모 “캐슈넛 떡국, 라이머왈 은근 중독되는 맛”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

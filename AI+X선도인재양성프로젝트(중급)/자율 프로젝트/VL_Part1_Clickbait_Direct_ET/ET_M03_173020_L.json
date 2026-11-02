@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173020",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘두번째 스무살’ 김민재, 과거 ‘쇼미더머니4’ 출연… 얼굴도 잘생겼는데 랩까지?",
+    "newsSubTitle": "",
+    "newsContent": "‘두번째 스무살’ 김민재, 과거 ‘쇼미더머니4’ 출연… 얼굴도 잘생겼는데 랩까지? '두번째 스무살'에 김민재 출연 소식이 알려지며 '쇼미더머니4' 당시 모습이 재조명 되고 있다.\n과거 방송된 Mnet 힙합 서바이벌 '쇼미더머니4'에서는 109명의 도전자들이 프로듀서 앞에서 단독 무대를 펼치는 2차 오디션의 모습이 방송됐다.\n이날 1차 예선 당시 꽃미남 외모와 수준급의 랩실력을 보였던 김민재가 프로듀서들 앞에 섰다.\n김민재는 아쉽게 탈락했다.\n프로듀서들은 \\\"기대치가 높았던 것 같다. 랩은 잘했지만 매력이 없었다\\\"고 아쉬움을 드러냈다.\n버벌진트는 \\\"우겨넣는 랩을 하는 느낌을 받았다\\\"고 했고, 지누는 \\\"아쉽다\\\"고 평했고, 박재범은 \\\"잘하는데 매력이 없었다\\\"고 혹평했다.\n타블로는 \\\"배우가 랩을 이렇게 잘하기는 쉽지 않다. 랩을 계속 했으면 좋겠다\\\"고 바람을 드러내기도 했다. ‘두번째 스무살 김민재’ ‘두번째 스무살 김민재’ 온라인 중앙일보 [사진 Mnet ‘쇼미더머니4’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘두번째 스무살’ 김민재, 과거 ‘쇼미더머니4’ 출연… 얼굴도 잘생겼는데 랩까지? '두번째 스무살'에 김민재 출연 소식이 알려지며 '쇼미더머니4' 당시 모습이 재조명 되고 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 방송된 Mnet 힙합 서바이벌 '쇼미더머니4'에서는 109명의 도전자들이 프로듀서 앞에서 단독 무대를 펼치는 2차 오디션의 모습이 방송됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 1차 예선 당시 꽃미남 외모와 수준급의 랩실력을 보였던 김민재가 프로듀서들 앞에 섰다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김민재는 아쉽게 탈락했다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "프로듀서들은 \\\"기대치가 높았던 것 같다. 랩은 잘했지만 매력이 없었다\\\"고 아쉬움을 드러냈다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "버벌진트는 \\\"우겨넣는 랩을 하는 느낌을 받았다\\\"고 했고, 지누는 \\\"아쉽다\\\"고 평했고, 박재범은 \\\"잘하는데 매력이 없었다\\\"고 혹평했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "타블로는 \\\"배우가 랩을 이렇게 잘하기는 쉽지 않다. 랩을 계속 했으면 좋겠다\\\"고 바람을 드러내기도 했다. ‘두번째 스무살 김민재’ ‘두번째 스무살 김민재’ 온라인 중앙일보 [사진 Mnet ‘쇼미더머니4’ 캡처]",
+        "sentenceSize": 119
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘두번째 스무살’ 김민재, 잘생긴 얼굴로 과거 이 프로그램에 출연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

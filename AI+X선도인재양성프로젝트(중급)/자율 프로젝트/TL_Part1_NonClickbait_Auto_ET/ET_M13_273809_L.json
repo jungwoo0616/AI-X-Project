@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273809",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "OTT 넷플릭스, 구글과 광고 사업 협력?",
+		"newsSubTitle": "",
+		"newsContent": "온라인 동영상 서비스(OTT) 넷플릭스가 구글과 광고 사업 협력 방안을 논의했다고 21일(현지시간) 경제 매체 CNBC 방송이 전했다.\n넷플릭스는 프랑스 칸 국제광고제에서 구글 관계자를 만나 양사의 광고 마케팅 파트너십 가능성을 논의했다.\n빅 테크 업체 구글은 세계 최대의 검색 엔진을 기반으로 매출의 대부분을 디지털 광고에서 창출해내는 글로벌 광고 업계의 강자다.\nCNBC 방송은 “넷플릭스가 광고 사업 진출을 위해 누구와 협력할지에 시선이 집중되고 있다”며 “넷플릭스는 이르면 올해 4분기부터 광고 판매를 시작할 계획”이라고 보도했다.\n넷플릭스는 지난 1분기 유료 가입자가 11년 만에 감소한 것으로 나타나자 가입자 확보와 비용 절감 등을 위해 광고가 포함된 저가 스트리밍 서비스 출시를 구상 중이다.\nCNBC 방송은 소식통을 인용해 넷플릭스가 앞으로 2∼3개월 이내에 광고 사업 파트너를 확보하겠다는 목표를 세우고, 담당 임원과 팀을 꾸리고 있다고 전했다.\nCNBC 방송은 넷플릭스는 구글뿐만 아니라 광고 판매망과 영업 노하우 등을 갖춘 미디어 기업 컴캐스트, 스트리밍 플랫폼 로쿠도 접촉해 광고 사업 파트너십을 논의했다고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "온라인 동영상 서비스(OTT) 넷플릭스가 구글과 광고 사업 협력 방안을 논의했다고 21일(현지시간) 경제 매체 CNBC 방송이 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷플릭스는 프랑스 칸 국제광고제에서 구글 관계자를 만나 양사의 광고 마케팅 파트너십 가능성을 논의했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빅 테크 업체 구글은 세계 최대의 검색 엔진을 기반으로 매출의 대부분을 디지털 광고에서 창출해내는 글로벌 광고 업계의 강자다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CNBC 방송은 “넷플릭스가 광고 사업 진출을 위해 누구와 협력할지에 시선이 집중되고 있다”며 “넷플릭스는 이르면 올해 4분기부터 광고 판매를 시작할 계획”이라고 보도했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "넷플릭스는 지난 1분기 유료 가입자가 11년 만에 감소한 것으로 나타나자 가입자 확보와 비용 절감 등을 위해 광고가 포함된 저가 스트리밍 서비스 출시를 구상 중이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CNBC 방송은 소식통을 인용해 넷플릭스가 앞으로 2∼3개월 이내에 광고 사업 파트너를 확보하겠다는 목표를 세우고, 담당 임원과 팀을 꾸리고 있다고 전했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CNBC 방송은 넷플릭스는 구글뿐만 아니라 광고 판매망과 영업 노하우 등을 갖춘 미디어 기업 컴캐스트, 스트리밍 플랫폼 로쿠도 접촉해 광고 사업 파트너십을 논의했다고 전했다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "OTT 넷플릭스, 구글과 광고 사업 협력?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

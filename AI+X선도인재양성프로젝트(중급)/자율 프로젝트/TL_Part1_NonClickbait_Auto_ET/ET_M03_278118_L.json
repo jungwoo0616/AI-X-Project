@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278118",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'리얼극장' 정정아, 결국 눈물 \\\"아나콘다 사건, 한번이라도 따뜻하게 말해주셨으면\\\"",
+		"newsSubTitle": "",
+		"newsContent": "정정아가 아버지에 대한 서운함에 눈물을 쏟아냈다.\n24일 방송된 EBS ‘리얼극장-행복’에는 정정아가 아버지와 함께 중국으로 여행을 떠나는 모습이 그려졌다.\n이날 방송에서 정정아는 “아나콘다가 제 근육을 물고 있다가 팔을 빼니까 이빨이 박혔다”며 지난 2005년 촬영 중 아나콘다에 물렸던 아찔한 상황을 회상했다.\n당시 사건으로 해당 프로그램은 폐지됐고, 정정아는 합의금으로 천만 원을 받았다.\n이에 정정아는 “출연료를 합의금으로 받은 건데, 아버지께서 그걸 생각하면 치가 떨린다고 하시더라”며 눈물을 보였다.\n그는 이어서 “아버지가 '그 프로그램으로 많은 사람들이 생계를 꾸려가는데 네가 없애느냐, 당장 가서 빌어라'고 하셨다. 아무도 나를 비난하지 않는데 아버지만 비난했다”고 털어놨다.\n그러자 아버지 정대근 씨는 “아나콘다 물린 건 생명에 지장이 있는 게 아니다. 조금 다친 걸 일을 만드는 게 마음에 안 들었다”고 자신의 생각을 밝혔다.\n그는 여행지에서도 계속해서 정정아를 질책했다, 그러자 정정아는 “말이라도 ‘네가 그때 혼자 그런 일을 겪어서 무서웠지? 얼마나 놀랐겠니. 정아야 그런데 사는 게 그렇지 않단다’라고 이야기 했으면 이 정도로 사무치지는 않았을 것”이라며 결국 오열했다.\n온라인 중앙일보 [사진 EBS '리얼극장' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정정아가 아버지에 대한 서운함에 눈물을 쏟아냈다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 방송된 EBS ‘리얼극장-행복’에는 정정아가 아버지와 함께 중국으로 여행을 떠나는 모습이 그려졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 정정아는 “아나콘다가 제 근육을 물고 있다가 팔을 빼니까 이빨이 박혔다”며 지난 2005년 촬영 중 아나콘다에 물렸던 아찔한 상황을 회상했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 사건으로 해당 프로그램은 폐지됐고, 정정아는 합의금으로 천만 원을 받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 정정아는 “출연료를 합의금으로 받은 건데, 아버지께서 그걸 생각하면 치가 떨린다고 하시더라”며 눈물을 보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 이어서 “아버지가 '그 프로그램으로 많은 사람들이 생계를 꾸려가는데 네가 없애느냐, 당장 가서 빌어라'고 하셨다. 아무도 나를 비난하지 않는데 아버지만 비난했다”고 털어놨다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러자 아버지 정대근 씨는 “아나콘다 물린 건 생명에 지장이 있는 게 아니다. 조금 다친 걸 일을 만드는 게 마음에 안 들었다”고 자신의 생각을 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 여행지에서도 계속해서 정정아를 질책했다, 그러자 정정아는 “말이라도 ‘네가 그때 혼자 그런 일을 겪어서 무서웠지? 얼마나 놀랐겠니. 정아야 그런데 사는 게 그렇지 않단다’라고 이야기 했으면 이 정도로 사무치지는 않았을 것”이라며 결국 오열했다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 EBS '리얼극장' 캡처]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'리얼극장' 정정아, 결국 눈물 \\\"아나콘다 사건, 한번이라도 따뜻하게 말해주셨으면\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

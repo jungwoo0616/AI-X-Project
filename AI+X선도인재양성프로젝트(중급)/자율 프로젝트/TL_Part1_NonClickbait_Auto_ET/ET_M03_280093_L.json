@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280093",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "영화 '데드풀' 넘치는 매력과 거침없는 유머감각",
+		"newsSubTitle": "",
+		"newsContent": "[사진 20세기폭스코리아 제공] 2016년 최고의 작품으로 기대를 받아온 '데드풀'의 개봉일이 2월 18일로 확정됐다.\n1차 예고편을 공개하자마자 역대급 히어로의 등장으로 화제를 모으며 12시간 만에 2천만 뷰를 기록해서 화제다.\n전대미문의 히어로 '데드풀'은 넘치는 매력과 거침없는 유머 감각으로 수만 관객을 영화의 매력 속에 빠지게 할 예정이다. '데드풀'은 상식과 차원을 파괴하는, 마블 역사상 가장 매력 터지는 히어로 '데드풀'을 주인공으로 한 작품이다. '데드풀'은 마블이 탄생시킨 역대 히어로 중 가장 독특하고 유쾌하며, 파워풀한 능력을 지닌 캐릭터이다.\n이를테면 힙합 음악을 즐기며 수다스런 입담까지 온갖 매력은 다 보여줄 예정이다.\n특히'4번째 벽'이라 불리는 시간과 차원을 파괴하며 마블 유니버스와 현실 세계를 넘나드는 새로우면서도 짜릿한 장면을 영화에서 확인할 수 있다.\n이제껏 보지 못한 새로운 마블 히어로의 탄생을 기대된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "[사진 20세기폭스코리아 제공] 2016년 최고의 작품으로 기대를 받아온 '데드풀'의 개봉일이 2월 18일로 확정됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1차 예고편을 공개하자마자 역대급 히어로의 등장으로 화제를 모으며 12시간 만에 2천만 뷰를 기록해서 화제다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전대미문의 히어로 '데드풀'은 넘치는 매력과 거침없는 유머 감각으로 수만 관객을 영화의 매력 속에 빠지게 할 예정이다. '데드풀'은 상식과 차원을 파괴하는, 마블 역사상 가장 매력 터지는 히어로 '데드풀'을 주인공으로 한 작품이다. '데드풀'은 마블이 탄생시킨 역대 히어로 중 가장 독특하고 유쾌하며, 파워풀한 능력을 지닌 캐릭터이다.",
+				"sentenceSize": 187
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를테면 힙합 음악을 즐기며 수다스런 입담까지 온갖 매력은 다 보여줄 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히'4번째 벽'이라 불리는 시간과 차원을 파괴하며 마블 유니버스와 현실 세계를 넘나드는 새로우면서도 짜릿한 장면을 영화에서 확인할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이제껏 보지 못한 새로운 마블 히어로의 탄생을 기대된다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영화 '데드풀' 넘치는 매력과 거침없는 유머감각",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

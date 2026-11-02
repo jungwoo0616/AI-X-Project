@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280981",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'프로듀스101', 98명의 소녀 무대 보니…\\\"멀리서 봐도 미모가\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'프로듀스101', 98명의 소녀가 '대국민 걸그룹 프로젝트'에 참여한다 '프로듀스101' 가 화제다.\n18일 Mnet '프로듀스101' 측은 공식 페이스북을 통해 연습생들의 영상을 순차적으로 게재했다.\n공개된 '프로듀스101' 참가 연습생은 판타지오, SS, JYP, 티핑, 티핑, MJ엔터테인먼트 등의 소속이다.\n연습생들은 영상을 통해 치어리딩부터 기타 연주, 파워풀한 댄스, 연기 실력 등을 털어놓으며 각자의 매력을 뽐냈다. '프로듀스 101' 연습생들은 지난 17일 방송된 Mnet '엠카운트다운'을 통해 베일을 벗었다.\n연습생들은 화려한 퍼포먼스로 대규모 공연을 펼쳤다.\nMnet의 걸그룹 데뷔 프로젝트 '프로듀스101'(안준영 연출)은 각 기획사에 소속된 여자 연습생 101명을 대상으로 각종 미션을 펼친 후 11명의 최종 멤버들 선발하게 된다.\n이들은 Mnet 소속으로 1년간 활동하게 될 예정. 오는 1월 중순 방송된다.\n온라인 중앙일보 프로듀스 101 [사진 Mnet 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'프로듀스101', 98명의 소녀가 '대국민 걸그룹 프로젝트'에 참여한다 '프로듀스101' 가 화제다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 Mnet '프로듀스101' 측은 공식 페이스북을 통해 연습생들의 영상을 순차적으로 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 '프로듀스101' 참가 연습생은 판타지오, SS, JYP, 티핑, 티핑, MJ엔터테인먼트 등의 소속이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연습생들은 영상을 통해 치어리딩부터 기타 연주, 파워풀한 댄스, 연기 실력 등을 털어놓으며 각자의 매력을 뽐냈다. '프로듀스 101' 연습생들은 지난 17일 방송된 Mnet '엠카운트다운'을 통해 베일을 벗었다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연습생들은 화려한 퍼포먼스로 대규모 공연을 펼쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "Mnet의 걸그룹 데뷔 프로젝트 '프로듀스101'(안준영 연출)은 각 기획사에 소속된 여자 연습생 101명을 대상으로 각종 미션을 펼친 후 11명의 최종 멤버들 선발하게 된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이들은 Mnet 소속으로 1년간 활동하게 될 예정. 오는 1월 중순 방송된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 프로듀스 101 [사진 Mnet 캡처]",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'프로듀스101', 98명의 소녀 무대 보니…\\\"멀리서 봐도 미모가\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

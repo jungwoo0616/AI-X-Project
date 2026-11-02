@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269416",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "강민경, 코로나19 확진 후 심경 “3년을 잘 버텼는데…”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 다비치 멤버 강민경이 컴백을 앞두고 신종 코로나바이러스 감염증(코로나19)에 걸린 것에 관한 심경을 밝혔다.\n강민경은 지난 6일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 코로나19 확진 후 근황이 담긴 글을 전했다.\n강민경은 “3년을 잘 버텼는데 컴백을 코앞에 두고 코로나 막차에 타버렸다”며 운을 뗐다.\n또 그는 “아픈 것도 아픈 것인데 제 자신에게 화가 나고 많이 속상하네요”라며 속상한 심경을 토로했다.\n이어 그는 “이 병은 잘 먹는 것이 가장 중요한 회복 요소라고 하네요. 잘 먹고 잘 쉬고 치료에 전념할게요. 후유증이 없길 바라며 빨리 나아서 좋은 라이브 보여 드릴게요”라며 덧붙이며 자신을 걱정할 팬들을 위해 회복에 전념하겠다는 다짐을 전했다.\n앞서 강민경은 지난 6일 오후 코로나19 확진 판정을 받았으며, 5월 16일 컴백에는 차질이 없다고 소속사 측은 덧붙였다.\n한편 강민경이 속한 다비치는 오는 16일 새 미니앨범 ‘Season Note’를 발매한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 다비치 멤버 강민경이 컴백을 앞두고 신종 코로나바이러스 감염증(코로나19)에 걸린 것에 관한 심경을 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강민경은 지난 6일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 코로나19 확진 후 근황이 담긴 글을 전했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강민경은 “3년을 잘 버텼는데 컴백을 코앞에 두고 코로나 막차에 타버렸다”며 운을 뗐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그는 “아픈 것도 아픈 것인데 제 자신에게 화가 나고 많이 속상하네요”라며 속상한 심경을 토로했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 그는 “이 병은 잘 먹는 것이 가장 중요한 회복 요소라고 하네요. 잘 먹고 잘 쉬고 치료에 전념할게요. 후유증이 없길 바라며 빨리 나아서 좋은 라이브 보여 드릴게요”라며 덧붙이며 자신을 걱정할 팬들을 위해 회복에 전념하겠다는 다짐을 전했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 강민경은 지난 6일 오후 코로나19 확진 판정을 받았으며, 5월 16일 컴백에는 차질이 없다고 소속사 측은 덧붙였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 강민경이 속한 다비치는 오는 16일 새 미니앨범 ‘Season Note’를 발매한다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강민경, 코로나19 확진 후 심경 “3년을 잘 버텼는데…”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

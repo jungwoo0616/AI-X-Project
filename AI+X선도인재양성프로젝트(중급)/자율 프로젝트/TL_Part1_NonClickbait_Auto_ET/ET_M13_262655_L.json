@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262655",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최희, 힙한 패션으로 멋부리는 딸에 “아침부터 거울 좋아하네”",
+		"newsSubTitle": "",
+		"newsContent": "아나운서 출신 방송인 최희가 끼 넘치는 딸의 행동에 웃음을 터뜨렸다.\n최희는 3일 자신의 인스타그램 스토리를 통해 사진 여러 장을 게재했다.\n공개한 사진 속 최희의 딸 서후는 거울 앞에서 멋진 본인의 모습에 취해있다.\n힙한 차림에 선글라스, 밀짚모자까지 멋지게 쓰고 포즈를 취하고 있는 서후의 사랑스러움이 미소를 불러일으킨다.\n최희는 사진에 “아침부터 거울 보고 좋아하네..ㅋㅋㅋ”, “마음은 하와이”, “우리 아빠가 엄청 멋 낸 거 같은 스타일인데”라는 글을 덧붙여 딸의 힙한 패션에 대한 감상평을 남겼다.\n한편 최희는 지난 2020년 비연예인 사업가와 결혼해 슬하에 딸을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아나운서 출신 방송인 최희가 끼 넘치는 딸의 행동에 웃음을 터뜨렸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최희는 3일 자신의 인스타그램 스토리를 통해 사진 여러 장을 게재했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진 속 최희의 딸 서후는 거울 앞에서 멋진 본인의 모습에 취해있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "힙한 차림에 선글라스, 밀짚모자까지 멋지게 쓰고 포즈를 취하고 있는 서후의 사랑스러움이 미소를 불러일으킨다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최희는 사진에 “아침부터 거울 보고 좋아하네..ㅋㅋㅋ”, “마음은 하와이”, “우리 아빠가 엄청 멋 낸 거 같은 스타일인데”라는 글을 덧붙여 딸의 힙한 패션에 대한 감상평을 남겼다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 최희는 지난 2020년 비연예인 사업가와 결혼해 슬하에 딸을 두고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최희, 힙한 패션으로 멋부리는 딸에 “아침부터 거울 좋아하네”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

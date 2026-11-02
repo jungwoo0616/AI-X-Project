@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265224",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘홍현희 ♥’ 제이쓴 “나 지금 엄청난 충격”",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 홍현희의 남편인 방송인 제이쓴이 일상을 전했다.\n28일 제이쓴은 자신의 SNS에 “나 지금 엄청난 충격쓰야 얘도라”라는 글을 올렸다.\nSNS에 따르면 제이쓴은 임시 치아를 빼고 썩은 치아를 금으로 막기 위해 치과를 방문했다.\n그런데 치과에선 그의 임시 치아가 없어졌음을 확인하고 제이쓴에 “니가 먹었겠지”라고 했다.\n이에 깜짝 놀란 제이쓴을 향해 의사는 “이미 배변활동으로 몸밖으로 나왔을 거다”라고 안심시켰다.\n제이쓴은 “지난 주에 장염 박살 나게 걸렸으니 괜찮을 것 같긴 한데 의사선생님한테서 쿨한 여름의 향기가 났다”며 웃음을 더했다.\n제이쓴은 2018년 개그우먼 홍현희와 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 홍현희의 남편인 방송인 제이쓴이 일상을 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 제이쓴은 자신의 SNS에 “나 지금 엄청난 충격쓰야 얘도라”라는 글을 올렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SNS에 따르면 제이쓴은 임시 치아를 빼고 썩은 치아를 금으로 막기 위해 치과를 방문했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그런데 치과에선 그의 임시 치아가 없어졌음을 확인하고 제이쓴에 “니가 먹었겠지”라고 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 깜짝 놀란 제이쓴을 향해 의사는 “이미 배변활동으로 몸밖으로 나왔을 거다”라고 안심시켰다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제이쓴은 “지난 주에 장염 박살 나게 걸렸으니 괜찮을 것 같긴 한데 의사선생님한테서 쿨한 여름의 향기가 났다”며 웃음을 더했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제이쓴은 2018년 개그우먼 홍현희와 결혼했다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘홍현희 ♥’ 제이쓴 “나 지금 엄청난 충격”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

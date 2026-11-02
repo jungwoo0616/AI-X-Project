@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263324",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘시맨틱 에러’ 박서함·박재찬, 첫 뽀뽀 후 만남…무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "OTT플랫폼 왓챠 오리지널 ‘시맨틱 에러’ 박서함과 박재찬이 첫 뽀뽀 후 만남이 포착됐다. ‘시맨틱 에러’ 측은 9일 두 사람의 촬영 사진을 공개했다.\n앞서 공개된 ‘시맨틱 에러’ 6화 엔딩에서는 추상우(박재찬)가 잠든 장재영(박서함)에게 몰래 뽀뽀를 하는 장면이 그려져 시청자들의 마음을 두근거리게 했다.\n특히 추상우가 뽀뽀를 할 때 장재영이 깨어 있었다는 점이 설렘 지수를 더욱 높였다.\n공개된 사진 속 장재영과 추상우가 둘이서 함께 술을 마시는 건 처음인 상황. 술의 쓴맛에 얼굴을 찌푸린 추상우와 이를 의아하게 바라보는 장재영의 눈빛이 흥미롭게 느껴진다.\n술과 함께한 두 사람 사이 취중진담이 어떻게 이뤄질 지 호기심이 생긴다.\n더군다나 도둑 뽀뽀 이후 두 사람은 서로에게 하고 싶은 말이 많을 터. 과연 이 술자리에서 그날의 뽀뽀 이야기가 나올지, 나온다면 여기에 대해 두 사람은 어떤 반응을 보일지도 궁금해진다. ‘시맨틱 에러’ 7화는 이날 오후 5시 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "OTT플랫폼 왓챠 오리지널 ‘시맨틱 에러’ 박서함과 박재찬이 첫 뽀뽀 후 만남이 포착됐다. ‘시맨틱 에러’ 측은 9일 두 사람의 촬영 사진을 공개했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앞서 공개된 ‘시맨틱 에러’ 6화 엔딩에서는 추상우(박재찬)가 잠든 장재영(박서함)에게 몰래 뽀뽀를 하는 장면이 그려져 시청자들의 마음을 두근거리게 했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 추상우가 뽀뽀를 할 때 장재영이 깨어 있었다는 점이 설렘 지수를 더욱 높였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진 속 장재영과 추상우가 둘이서 함께 술을 마시는 건 처음인 상황. 술의 쓴맛에 얼굴을 찌푸린 추상우와 이를 의아하게 바라보는 장재영의 눈빛이 흥미롭게 느껴진다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "술과 함께한 두 사람 사이 취중진담이 어떻게 이뤄질 지 호기심이 생긴다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "더군다나 도둑 뽀뽀 이후 두 사람은 서로에게 하고 싶은 말이 많을 터. 과연 이 술자리에서 그날의 뽀뽀 이야기가 나올지, 나온다면 여기에 대해 두 사람은 어떤 반응을 보일지도 궁금해진다. ‘시맨틱 에러’ 7화는 이날 오후 5시 공개된다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘시맨틱 에러’ 박서함·박재찬, 첫 뽀뽀 후 만남…무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

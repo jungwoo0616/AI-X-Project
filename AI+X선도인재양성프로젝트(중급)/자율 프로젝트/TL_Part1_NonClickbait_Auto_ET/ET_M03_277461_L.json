@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277461",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이병헌 “절대 잃지 말아야 할 것? 가족”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이병헌(47)이 가족의 소중함을 전했다.\n22일 방송하는 MBC '섹션TV 연예통신'에서는 영화 '싱글라이더'에 출연하는 이병헌, 공효진, 안소희 등의 인터뷰가 공개된다.\n이날 리포터가 “절대 잃지 말아야할 것이 무엇이냐”는 질문에 이병헌은 “가족”이라고 답하며 아내 이민정과 가족에 대한 애정을 드러냈다.\n반면, 공효진과 안소희는 의외의 대답을 내놓아 촬영장을 폭소케 만들었다.\n이병헌은 공효진, 안소희와의 연기호흡에 대해 “공효진과 안소희가 내 코미디에 중독됐다”고 말했다.\n그러나 곧바로 공효진이 솔직한 속내를 전하자 이병헌은 씁쓸한 미소를 보였다.\n한편 영화 ‘싱글라이더’는 증권회사 지점장으로서 안정된 삶을 살아가던 한 가장(이병헌)이 부실 채권사건 이후 가족을 찾아 호주로 사라지면서 밝혀지는 충격적인 진실을 그린 영화다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이병헌(47)이 가족의 소중함을 전했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 방송하는 MBC '섹션TV 연예통신'에서는 영화 '싱글라이더'에 출연하는 이병헌, 공효진, 안소희 등의 인터뷰가 공개된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 리포터가 “절대 잃지 말아야할 것이 무엇이냐”는 질문에 이병헌은 “가족”이라고 답하며 아내 이민정과 가족에 대한 애정을 드러냈다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 공효진과 안소희는 의외의 대답을 내놓아 촬영장을 폭소케 만들었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이병헌은 공효진, 안소희와의 연기호흡에 대해 “공효진과 안소희가 내 코미디에 중독됐다”고 말했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 곧바로 공효진이 솔직한 속내를 전하자 이병헌은 씁쓸한 미소를 보였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 영화 ‘싱글라이더’는 증권회사 지점장으로서 안정된 삶을 살아가던 한 가장(이병헌)이 부실 채권사건 이후 가족을 찾아 호주로 사라지면서 밝혀지는 충격적인 진실을 그린 영화다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이병헌 “절대 잃지 말아야 할 것? 가족”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

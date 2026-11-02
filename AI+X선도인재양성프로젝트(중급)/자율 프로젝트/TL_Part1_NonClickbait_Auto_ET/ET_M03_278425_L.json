@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278425",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'이세돌 알파고 5국' 이소용, '아프리카 먹방' 출연…\\\"프로 입단은 다음 생에\\\" 폭소",
+		"newsSubTitle": "",
+		"newsContent": "이세돌 9단과 알파고의 5국 중계를 맡은 이소용 캐스터가 화제가 되고 있는 가운데, 과거 이소용 캐스터가 '먹방'에 출연했던 것도 눈길을 끈다.\n지난 2015년 이소용 캐스터는 친한 친구 사이인 것으로 알려진 아프리카TV 인기 BJ '프로연우'의 인터넷 방송에 출연했다.\n이날 이소용 캐스터는 프로연우와 함께 피자를 먹으며 시청자들과 이야기를 나눴다, 이날 방송에서 한 시청자가 이소용에게 \\\"프로입단에 대해 어떻게 생각하느냐\\\"고 묻자 프로연우는 \\\"프로입단 가능성 있다. 다음 생애에 있다\\\"며 \\\"다시 태어나서 해라\\\"고 말해 웃음을 자아냈다.\n이에 이소용이 황당하다는 듯한 반응을 보이자 프로연우는 \\\"다 너 위해서 하는 말이다. 삭발하고 한다고 생각해봐.\\\" 라며 만류했다.\n이에 이소용은 \\\"삭발을 왜 해\\\"라며 더욱 더 황당하다는 표정을 지어 다시한번 폭소를 이끌어냈다.\n한편 프로연우의 본명은 조연우로, 2005년 프로 기사로 입단한 이후 2015년부터 아프리카 TV에서 인기 바둑 방송 BJ로 활동하고 있다.\n온라인 중앙일보 [사진 유튜브 '프로연우' 채널 '프로연우 이소용캐스터와 피자먹방' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이세돌 9단과 알파고의 5국 중계를 맡은 이소용 캐스터가 화제가 되고 있는 가운데, 과거 이소용 캐스터가 '먹방'에 출연했던 것도 눈길을 끈다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2015년 이소용 캐스터는 친한 친구 사이인 것으로 알려진 아프리카TV 인기 BJ '프로연우'의 인터넷 방송에 출연했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이소용 캐스터는 프로연우와 함께 피자를 먹으며 시청자들과 이야기를 나눴다, 이날 방송에서 한 시청자가 이소용에게 \\\"프로입단에 대해 어떻게 생각하느냐\\\"고 묻자 프로연우는 \\\"프로입단 가능성 있다. 다음 생애에 있다\\\"며 \\\"다시 태어나서 해라\\\"고 말해 웃음을 자아냈다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이소용이 황당하다는 듯한 반응을 보이자 프로연우는 \\\"다 너 위해서 하는 말이다. 삭발하고 한다고 생각해봐.\\\" 라며 만류했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 이소용은 \\\"삭발을 왜 해\\\"라며 더욱 더 황당하다는 표정을 지어 다시한번 폭소를 이끌어냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 프로연우의 본명은 조연우로, 2005년 프로 기사로 입단한 이후 2015년부터 아프리카 TV에서 인기 바둑 방송 BJ로 활동하고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 유튜브 '프로연우' 채널 '프로연우 이소용캐스터와 피자먹방' 캡처]",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'이세돌 알파고 5국' 이소용, '아프리카 먹방' 출연…\\\"프로 입단은 다음 생에\\\" 폭소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

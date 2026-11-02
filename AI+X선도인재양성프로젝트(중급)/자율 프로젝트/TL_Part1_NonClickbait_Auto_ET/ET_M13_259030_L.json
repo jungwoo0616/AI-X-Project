@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259030",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "안희연, tvN ‘고스트 닥터’ 특별 출연",
+		"newsSubTitle": "",
+		"newsContent": "배우 안희연이 tvN 월화극 ‘고스트 닥터’에 특별 출연해 극에 활기를 더한다. 24일 오후 방송되는 ‘고스트 닥터’ 7회에서는 안희연이 이지우 역으로 특별 출연해 차영민 역 정지훈, 고승탁 역 김범과 만난다.\n안희연은 극 중 배우일 때는 이지우로, 가수일 때는 제시카라는 이름으로 등장한다.\n이지우는 차영민과 10년 전부터 얽힌 남다른 인연으로 빼놓을 수 없는 사이라고 밝혀 궁금증을 유발한다.\n공개된 스틸에는 환자복 차림의 이지우가 양손에 팔짱을 끼고 있으며, 누군가를 보고 있는 그의 눈빛은 의심으로 가득 차 있어 호기심을 자극한다.\n뿐만 아니라 이지우는 차영민은 물론 그의 영혼이 자주 들어가는 고승탁과도 남다른 호흡을 보여 극에 재미를 배가할 예정이다.\n안희연의 활약상은 24일 오후 10시30분에 방송되는 ‘고스트 닥터’를 통해 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 안희연이 tvN 월화극 ‘고스트 닥터’에 특별 출연해 극에 활기를 더한다. 24일 오후 방송되는 ‘고스트 닥터’ 7회에서는 안희연이 이지우 역으로 특별 출연해 차영민 역 정지훈, 고승탁 역 김범과 만난다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안희연은 극 중 배우일 때는 이지우로, 가수일 때는 제시카라는 이름으로 등장한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이지우는 차영민과 10년 전부터 얽힌 남다른 인연으로 빼놓을 수 없는 사이라고 밝혀 궁금증을 유발한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 스틸에는 환자복 차림의 이지우가 양손에 팔짱을 끼고 있으며, 누군가를 보고 있는 그의 눈빛은 의심으로 가득 차 있어 호기심을 자극한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뿐만 아니라 이지우는 차영민은 물론 그의 영혼이 자주 들어가는 고승탁과도 남다른 호흡을 보여 극에 재미를 배가할 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안희연의 활약상은 24일 오후 10시30분에 방송되는 ‘고스트 닥터’를 통해 볼 수 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안희연, tvN ‘고스트 닥터’ 특별 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

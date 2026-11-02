@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266517",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "비오 ‘LOVE me’ MV 티저 공개",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 비오(BE‘O)가 신곡 뮤직비디오 티저를 공개했다.\n빅플래닛메이드는 지난 10일 사회관계망서비스(SNS)를 통해 비오의 새 싱글 ‘LOVE me’(러브 미) 뮤직비디오 티저 영상을 선보였다.\n영상 속 비오는 깨진 유리 파편에 상처 입은 채 등장하며 이후 어디론가 빨려가고 있는 모습이다.\n비오는 처연한 몸부림과 표정으로 의미심장한 분위기를 자아냈고, 엔딩에서는 공중에 떠 있는 모습으로 강렬한 인상을 남겼다.\n특히 잔잔하면서도 감성적인 멜로디와 비오의 목소리가 일부 공개돼 ‘LOVE me’에 대한 궁금증을 높였다. ‘LOVE me’는 상대방이 잘못하고 있는 것을 알면서도 내가 할 수 있는 일은 ‘바보 같지만 날 사랑해줘’라고 말하는 것밖에 없다는 내용이 담겼다.\n비오가 작사, 작곡, 편곡에 참여한 곡으로 애틋하고 처절한 감성이 돋보인다.\n한편 비오의 새 싱글 ‘LOVE me’는 오는 12일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 비오(BE‘O)가 신곡 뮤직비디오 티저를 공개했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅플래닛메이드는 지난 10일 사회관계망서비스(SNS)를 통해 비오의 새 싱글 ‘LOVE me’(러브 미) 뮤직비디오 티저 영상을 선보였다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 비오는 깨진 유리 파편에 상처 입은 채 등장하며 이후 어디론가 빨려가고 있는 모습이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비오는 처연한 몸부림과 표정으로 의미심장한 분위기를 자아냈고, 엔딩에서는 공중에 떠 있는 모습으로 강렬한 인상을 남겼다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 잔잔하면서도 감성적인 멜로디와 비오의 목소리가 일부 공개돼 ‘LOVE me’에 대한 궁금증을 높였다. ‘LOVE me’는 상대방이 잘못하고 있는 것을 알면서도 내가 할 수 있는 일은 ‘바보 같지만 날 사랑해줘’라고 말하는 것밖에 없다는 내용이 담겼다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비오가 작사, 작곡, 편곡에 참여한 곡으로 애틋하고 처절한 감성이 돋보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 비오의 새 싱글 ‘LOVE me’는 오는 12일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비오 ‘LOVE me’ MV 티저 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

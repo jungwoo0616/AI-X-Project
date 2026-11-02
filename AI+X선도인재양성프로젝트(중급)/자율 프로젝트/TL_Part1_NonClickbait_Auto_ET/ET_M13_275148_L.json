@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275148",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수, 팬 설레게 하는 ‘볼하트’",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크(BLACKPINK)의 멤버 지수가 다양한 매력을 뽐냈다.\n지수는 10일 오전 자신의 사회관계망서비스(SNS) 인스타그램에 “볼하트”라는 글과 함께 사진을 게재했다.\n지수는 ‘얼빡샷’을 애교가 가득한 볼하트 포즈로 담았다.\n특히 지수는 긴 머리카락과 사슴같은 눈망울을 통해 청순미를 발산했다.\n앞서 지수는 인스타그램에 “블링크 나 많이 보고 싶었지”라는 짧은 영상을 공개했고, 또 그는 넋 놓는 사진을 게시해 팔색조 같은 면모를 자랑했다.\n한편 지수가 속한 블랙핑크는 오는 8월 1년 10개월 만에 완전체 컴백을 알려 팬들의 마음을 설레게 했다.\n또 블랙핑크는 7월 걸그룹 브랜드평판 1위를 수성하며, 오랜 공백기 속에서도 K-POP 여왕으로서 위세를 굳건하게 다지는 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크(BLACKPINK)의 멤버 지수가 다양한 매력을 뽐냈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수는 10일 오전 자신의 사회관계망서비스(SNS) 인스타그램에 “볼하트”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지수는 ‘얼빡샷’을 애교가 가득한 볼하트 포즈로 담았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 지수는 긴 머리카락과 사슴같은 눈망울을 통해 청순미를 발산했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 지수는 인스타그램에 “블링크 나 많이 보고 싶었지”라는 짧은 영상을 공개했고, 또 그는 넋 놓는 사진을 게시해 팔색조 같은 면모를 자랑했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지수가 속한 블랙핑크는 오는 8월 1년 10개월 만에 완전체 컴백을 알려 팬들의 마음을 설레게 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 블랙핑크는 7월 걸그룹 브랜드평판 1위를 수성하며, 오랜 공백기 속에서도 K-POP 여왕으로서 위세를 굳건하게 다지는 중이다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수, 팬 설레게 하는 ‘볼하트’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

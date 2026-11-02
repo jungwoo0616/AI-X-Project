@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265582",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "복지TV 전국8도 뮤비트립 ‘팔도무브먼트’ 31일 첫방송",
+		"newsSubTitle": "",
+		"newsContent": "복지TV(사장 김선우)는 코로나 종식기원과 소상공인의 부활에 힘을 북돋우고자 기획한 미디어국토대장정 뮤비트립 예능다큐멘터리 <팔도무브먼트>를 31일 오후 6시30분 첫 방송했다고 밝혔다.\n팔도무브먼트는 청년크리에티브그룹 ‘지천태 (장우준,방정민,김현재,김추리)’가 각 지역의 셀럽들과 함께 그 지역을 여행하고, 경험하며 그 지역에 숨은 관광문화콘텐츠를 뮤직비디오로 만드는 프로그램이다.\n첫번째 지역은 천년의 빛, 굴비의고장 ‘전남 영광군’에서 시작된다.\n영광 출신의 ‘립스틱짙게바르고’ 임주리, ‘기차와소나무’ 이규석, ‘영광아리랑’ 정면화를 비롯하여 트롯전국체전 준우승 출신인 트롯가수 재하, ‘맛보고가세요’혜진이, 방송인겸 라이브커머서 하지혜,복지TV 사장 김선우, 아나운서 조은설이 특별출연하고 서양화가 강종열 화백이 참여하여 영광을 화폭에 담았다.\n복지TV 김선우사장은 “ 국토대장정 팔도무브먼트는 현재 파일럿 프로그램으로 진행되지만 원래 의도대로 전국 100군데 지역의 전통시장과 소상공인들의 경제 활성화에 큰 도움을 줄 수 있는 장수프로그램이 되기를 기대한다”고 말했다.\n한편, 복지TV는 채널번호 KT 올레tv 219번, SKBtv 293번 LGU+255번, 스카이라이프 188번, 지역유선방송 99번에서 시청할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "복지TV(사장 김선우)는 코로나 종식기원과 소상공인의 부활에 힘을 북돋우고자 기획한 미디어국토대장정 뮤비트립 예능다큐멘터리 <팔도무브먼트>를 31일 오후 6시30분 첫 방송했다고 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "팔도무브먼트는 청년크리에티브그룹 ‘지천태 (장우준,방정민,김현재,김추리)’가 각 지역의 셀럽들과 함께 그 지역을 여행하고, 경험하며 그 지역에 숨은 관광문화콘텐츠를 뮤직비디오로 만드는 프로그램이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫번째 지역은 천년의 빛, 굴비의고장 ‘전남 영광군’에서 시작된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영광 출신의 ‘립스틱짙게바르고’ 임주리, ‘기차와소나무’ 이규석, ‘영광아리랑’ 정면화를 비롯하여 트롯전국체전 준우승 출신인 트롯가수 재하, ‘맛보고가세요’혜진이, 방송인겸 라이브커머서 하지혜,복지TV 사장 김선우, 아나운서 조은설이 특별출연하고 서양화가 강종열 화백이 참여하여 영광을 화폭에 담았다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "복지TV 김선우사장은 “ 국토대장정 팔도무브먼트는 현재 파일럿 프로그램으로 진행되지만 원래 의도대로 전국 100군데 지역의 전통시장과 소상공인들의 경제 활성화에 큰 도움을 줄 수 있는 장수프로그램이 되기를 기대한다”고 말했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 복지TV는 채널번호 KT 올레tv 219번, SKBtv 293번 LGU+255번, 스카이라이프 188번, 지역유선방송 99번에서 시청할 수 있다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "복지TV 전국8도 뮤비트립 ‘팔도무브먼트’ 31일 첫방송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

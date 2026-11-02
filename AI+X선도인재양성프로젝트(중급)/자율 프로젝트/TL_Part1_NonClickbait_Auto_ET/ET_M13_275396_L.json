@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275396",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘전선욱♥’ 야옹이 작가, 프랑스 홀리는 미모",
+		"newsSubTitle": "",
+		"newsContent": "웹툰 ‘여신강림’의 야옹이 작가가 근황을 공개했다.\n12일 야옹이 작가는 자신의 사회관계망서비스(SNS) 인스타그램을 통해 한 장의 사진을 공개했다.\n사진 속 야옹이 작가는 프랑스 남부에 위치한 방돌 해변가에서 산책을 하고 있는 모습이다.\n그는 가벼운 옷차림에 선글라스를 착용한 채 카메라를 향해 환히 미소짓고 있다.\n해당 게시물을 확인한 누리꾼들은 “푹 쉬고 오길 바란다” “정말 행복해 보인다” “너무 예쁘다”며 긍정적인 반응을 보였다.\n한편 야옹이 작가는 최근 연인인 전선욱 작가와 유럽여행을 떠났다.\n자신의 SNS를 통해 여행중인 일상을 공유하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "웹툰 ‘여신강림’의 야옹이 작가가 근황을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 야옹이 작가는 자신의 사회관계망서비스(SNS) 인스타그램을 통해 한 장의 사진을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 야옹이 작가는 프랑스 남부에 위치한 방돌 해변가에서 산책을 하고 있는 모습이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 가벼운 옷차림에 선글라스를 착용한 채 카메라를 향해 환히 미소짓고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물을 확인한 누리꾼들은 “푹 쉬고 오길 바란다” “정말 행복해 보인다” “너무 예쁘다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 야옹이 작가는 최근 연인인 전선욱 작가와 유럽여행을 떠났다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자신의 SNS를 통해 여행중인 일상을 공유하고 있다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘전선욱♥’ 야옹이 작가, 프랑스 홀리는 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

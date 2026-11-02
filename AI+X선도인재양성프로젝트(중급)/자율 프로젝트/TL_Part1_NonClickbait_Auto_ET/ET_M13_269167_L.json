@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269167",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이콘, 아이튠즈 18개국 1위 이어 日 음원 차트 정상",
+		"newsSubTitle": "",
+		"newsContent": "아이콘(iKON)이 아이튠즈 월드와이드 앨범 차트와 일본 주요 음원 사이트 정상을 밟았다.\nYG엔터테인먼트에 따르면 지난 3일 발매된 아이콘의 네 번째 미니앨범 ‘FLASHBACK’은 이날 브라질, 싱가포르, 태국, 터키, 인도네시아, 베트남 등 아이튠즈 18개 지역서 1위를 차지했다.\n세계 최대 팝 시장인 미국에서도 상위권(7위)에 자리잡았다.\n특히 일본 내 인기가 뜨겁다.\n앨범 타이틀곡 ‘너라는 이유(BUT YOU)’는 일본 주요 음원 사이트인 라쿠텐뮤직과 AWA의 실시간 랭킹 1위를 기록한 데 이어 수록곡 ‘용(龍)(DRAGON)’ ‘말도 안 돼(FOR REAL?)’ ‘금(GOLD)’ ‘그대 이름(NAME)’ 모두 라인뮤직 차트에 진입해 고른 사랑을 받고 있다.\n아이콘을 향한 일본 현지 팬들의 사랑과 식지 않은 열기를 확인할 수 있는 대목. 기세를 몰아 아이콘은 7월 2일부터 10일까지 일본 효고현 고베와 도쿄 2개 도시서 총 6회에 걸쳐 콘서트를 연다. 이들의 일본 투어는 약 2년 6개월 만인데다 신곡 무대에 대한 기대감까지 더해져 좋은 반응이 예상된다.\n아이콘은 2015년 데뷔와 동시에 일본 오리콘 차트 정상에 오르는가 하면 그해 ‘일본 골든디스크 대상’과 ‘일본 레코드 대상’에서 신인상을 수상하했다.\n이후 2019년에 일본 투어 총 누적 관객 수 100만 명 돌파 및 전 좌석 매진이라는 발자취를 남겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이콘(iKON)이 아이튠즈 월드와이드 앨범 차트와 일본 주요 음원 사이트 정상을 밟았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YG엔터테인먼트에 따르면 지난 3일 발매된 아이콘의 네 번째 미니앨범 ‘FLASHBACK’은 이날 브라질, 싱가포르, 태국, 터키, 인도네시아, 베트남 등 아이튠즈 18개 지역서 1위를 차지했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세계 최대 팝 시장인 미국에서도 상위권(7위)에 자리잡았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 일본 내 인기가 뜨겁다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앨범 타이틀곡 ‘너라는 이유(BUT YOU)’는 일본 주요 음원 사이트인 라쿠텐뮤직과 AWA의 실시간 랭킹 1위를 기록한 데 이어 수록곡 ‘용(龍)(DRAGON)’ ‘말도 안 돼(FOR REAL?)’ ‘금(GOLD)’ ‘그대 이름(NAME)’ 모두 라인뮤직 차트에 진입해 고른 사랑을 받고 있다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이콘을 향한 일본 현지 팬들의 사랑과 식지 않은 열기를 확인할 수 있는 대목. 기세를 몰아 아이콘은 7월 2일부터 10일까지 일본 효고현 고베와 도쿄 2개 도시서 총 6회에 걸쳐 콘서트를 연다. 이들의 일본 투어는 약 2년 6개월 만인데다 신곡 무대에 대한 기대감까지 더해져 좋은 반응이 예상된다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이콘은 2015년 데뷔와 동시에 일본 오리콘 차트 정상에 오르는가 하면 그해 ‘일본 골든디스크 대상’과 ‘일본 레코드 대상’에서 신인상을 수상하했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 2019년에 일본 투어 총 누적 관객 수 100만 명 돌파 및 전 좌석 매진이라는 발자취를 남겼다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이콘, 아이튠즈 18개국 1위 이어 日 음원 차트 정상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

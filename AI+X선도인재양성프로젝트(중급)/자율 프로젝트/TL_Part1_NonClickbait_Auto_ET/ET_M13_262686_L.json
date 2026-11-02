@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262686",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "SBS “‘골때녀’ 스핀오프·이승훈PD 복귀…결정된 부분 없다”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "SBS가 ‘골 때리는 그녀들’(이하 ‘골때녀’) 스핀오프 프로그램에 관해 입을 열었다.\nSBS 측은 3일 스포츠경향에 “‘골때녀’ 스핀오프 프로그램과 관련해서 아직 결정된 부분이 없다”고 조심스럽게 밝혔다.\n3일 한 언론 매체는 ‘골때녀’ 스핀오프 프로그램 론칭과 이승훈 PD의 복귀 사실을 보도한 바 있다.\n공개된 내용에 따르면 ‘골때녀’ 경기 조작으로 징계를 받은 이승훈 PD가 스핀오프로 연출진에 복귀하며, 오는 3월 중 촬영을 시작할 계획이다.\nSBS 측은 ‘골때녀’ 메인 프로듀서였던 이승훈 PD의 복귀 확정을 묻는 질문에는 더욱 말을 아끼며 “결정된 부분이 없다”고 거듭 말했다.\n지난해 ‘골때녀’는 출연진의 골 득점 순서를 임의로 조작해 편집했다는 의혹을 받았다.\n이에 제작진은 “일부 회차에서 편집 순서를 실제 시간순서와 다르게 방송했다”고 잘못을 인정했으며, SBS는 책임 프로듀서와 연출자 교체 및 ‘중앙 점수판 설치’, ‘전·후반 진영 교체’ 등의 개선안을 내놨다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS가 ‘골 때리는 그녀들’(이하 ‘골때녀’) 스핀오프 프로그램에 관해 입을 열었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SBS 측은 3일 스포츠경향에 “‘골때녀’ 스핀오프 프로그램과 관련해서 아직 결정된 부분이 없다”고 조심스럽게 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일 한 언론 매체는 ‘골때녀’ 스핀오프 프로그램 론칭과 이승훈 PD의 복귀 사실을 보도한 바 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 내용에 따르면 ‘골때녀’ 경기 조작으로 징계를 받은 이승훈 PD가 스핀오프로 연출진에 복귀하며, 오는 3월 중 촬영을 시작할 계획이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SBS 측은 ‘골때녀’ 메인 프로듀서였던 이승훈 PD의 복귀 확정을 묻는 질문에는 더욱 말을 아끼며 “결정된 부분이 없다”고 거듭 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 ‘골때녀’는 출연진의 골 득점 순서를 임의로 조작해 편집했다는 의혹을 받았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 제작진은 “일부 회차에서 편집 순서를 실제 시간순서와 다르게 방송했다”고 잘못을 인정했으며, SBS는 책임 프로듀서와 연출자 교체 및 ‘중앙 점수판 설치’, ‘전·후반 진영 교체’ 등의 개선안을 내놨다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SBS “‘골때녀’ 스핀오프·이승훈PD 복귀…결정된 부분 없다”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

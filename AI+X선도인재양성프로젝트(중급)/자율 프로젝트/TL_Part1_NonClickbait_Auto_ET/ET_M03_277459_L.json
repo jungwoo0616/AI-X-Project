@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277459",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "119에 전화 걸어 엄마 목숨 구한 4살 난 언어장애 아들",
+		"newsSubTitle": "",
+		"newsContent": "언어장애를 가진 4세 아이가 119에 전화를 걸어 엄마의 목숨을 구했다.\n21일 영국 일간 메트로는 엄마의 목숨을 구한 4세 소년 제이콥을 보도했다.\n사건 당일 제이콥은 집에서 무의식 상태에 빠진 엄마 젬마(33)을 발견했다.\n아들은 엄마에게 말을 걸며 깨우려고 시도했지만 엄마는 묵묵부답이었다.\n처음보는 엄마의 모습에 놀란 제이콥은 당황했다.\n하지만 그도 잠시 침착하게 구조대에 신고했다.\n제이콥은 \\\"엄마가 바닥에 있다. 말도 하지 않는다\\\"고 또박또박 말했다.\n제이콥의 신고를 받은 구조대는 즉시 출동했고, 의식을 잃었던 젬마는 목숨을 구할 수 있었다.\n엄마 젬마는 \\\"우리 아들은 심각한 언어 장애를 가지고 있어요. 단지 몇몇 단어들을 나열할 수 있을 정도에요\\\"라며 \\\"하지만 망설임 없이 신고했고 나를 구했어요. 아들은 나의 영웅이에요\\\"라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "언어장애를 가진 4세 아이가 119에 전화를 걸어 엄마의 목숨을 구했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 영국 일간 메트로는 엄마의 목숨을 구한 4세 소년 제이콥을 보도했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사건 당일 제이콥은 집에서 무의식 상태에 빠진 엄마 젬마(33)을 발견했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아들은 엄마에게 말을 걸며 깨우려고 시도했지만 엄마는 묵묵부답이었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "처음보는 엄마의 모습에 놀란 제이콥은 당황했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 그도 잠시 침착하게 구조대에 신고했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제이콥은 \\\"엄마가 바닥에 있다. 말도 하지 않는다\\\"고 또박또박 말했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "제이콥의 신고를 받은 구조대는 즉시 출동했고, 의식을 잃었던 젬마는 목숨을 구할 수 있었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "엄마 젬마는 \\\"우리 아들은 심각한 언어 장애를 가지고 있어요. 단지 몇몇 단어들을 나열할 수 있을 정도에요\\\"라며 \\\"하지만 망설임 없이 신고했고 나를 구했어요. 아들은 나의 영웅이에요\\\"라고 전했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "119에 전화 걸어 엄마 목숨 구한 4살 난 언어장애 아들",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

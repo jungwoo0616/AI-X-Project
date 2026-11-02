@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276114",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "방송인 최은경 \\\"나 확진자 아니다, 걱정말라\\\" 가짜뉴스 반박",
+		"newsSubTitle": "",
+		"newsContent": "방송인 최은경이 신종 코로나바이러스 감염증(우한 폐렴) 확진자로 오해를 받았으나 사실이 아니라고 해명했다.\n최은경은 6일 자신의 인스타그램에 “저 (신종코로나 확진환자) 아니다. 걱정말라”는 내용의 글을 올렸다.\n이날 오전 온라인 등에서 퍼진 ‘아나운서 출신 방송인 최은경이 신종코로나 확진자’라는 가짜뉴스에 반박한 것이다.\n이에 최은경은 직접 “확진자 아니다. 걱정마시라”라고 밝히며 “우리모두 조심하자. 모두 빠른 쾌유 바란다”고 전했다.\n한편 이날 오전 8시까지 국내에서 발생한 신종코로나 확진자는 총 23명이다.\n이날 추가로 확진판정을 받은 사람은 모두 4명으로 이 가운데 3명(20~22번째 환자)은 한국인으로 앞서 발생한 확진자의 접촉자 및 가족이고 1명(23번째 환자)은 관광 목적으로 입국한 중국 여성이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 최은경이 신종 코로나바이러스 감염증(우한 폐렴) 확진자로 오해를 받았으나 사실이 아니라고 해명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최은경은 6일 자신의 인스타그램에 “저 (신종코로나 확진환자) 아니다. 걱정말라”는 내용의 글을 올렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 오전 온라인 등에서 퍼진 ‘아나운서 출신 방송인 최은경이 신종코로나 확진자’라는 가짜뉴스에 반박한 것이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 최은경은 직접 “확진자 아니다. 걱정마시라”라고 밝히며 “우리모두 조심하자. 모두 빠른 쾌유 바란다”고 전했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 이날 오전 8시까지 국내에서 발생한 신종코로나 확진자는 총 23명이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 추가로 확진판정을 받은 사람은 모두 4명으로 이 가운데 3명(20~22번째 환자)은 한국인으로 앞서 발생한 확진자의 접촉자 및 가족이고 1명(23번째 환자)은 관광 목적으로 입국한 중국 여성이다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방송인 최은경 \\\"나 확진자 아니다, 걱정말라\\\" 가짜뉴스 반박",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

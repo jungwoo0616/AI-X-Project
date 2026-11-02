@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272405",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "전국투어 앞둔 김희재, 강릉에 떴다",
+		"newsSubTitle": "",
+		"newsContent": "가수 김희재가 예상 밖의 곳에서 포착됐다.\n김희재는 지난 5일 강릉종합경기장에서 열린 ‘강릉단오제 축구정기전-강릉제일고vs강릉중앙고’ 사전 공연에 참석해 팬들과 호흡을 나눴다.\n김희재의 넘치는 흥이 그대로 팬들에게 전달됐다.\n김희재의 상징색인 오렌지색 의상을 입고 나온 팬들의 열렬한 환호성과 함께 김희재는 객석 앞으로 다가가 흥 넘치는 미소로 팬심을 그대로 전달받았다.\n남다른 팬 서비스도 잊지 않았다.\n공연을 마친 김희재는 팬들과 포토타임을 가지며 자신을 찾아준 팬들에게 감사를 표했다.\n현장에 참석한 팬들은 김희재의 모습을 사회관계망서비스(SNS)와 유튜브 등에 공유하며 인증 행렬을 이어갔다.\n김희재는 현재 방영 중인 MBC 주말 드라마 ‘지금부터, 쇼타임!’에서 순경 이용렬 역으로 호연을 펼치고 있다.\n오는 7월에는 두 번째 전국투어 콘서트를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김희재가 예상 밖의 곳에서 포착됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김희재는 지난 5일 강릉종합경기장에서 열린 ‘강릉단오제 축구정기전-강릉제일고vs강릉중앙고’ 사전 공연에 참석해 팬들과 호흡을 나눴다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김희재의 넘치는 흥이 그대로 팬들에게 전달됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김희재의 상징색인 오렌지색 의상을 입고 나온 팬들의 열렬한 환호성과 함께 김희재는 객석 앞으로 다가가 흥 넘치는 미소로 팬심을 그대로 전달받았다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남다른 팬 서비스도 잊지 않았다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공연을 마친 김희재는 팬들과 포토타임을 가지며 자신을 찾아준 팬들에게 감사를 표했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현장에 참석한 팬들은 김희재의 모습을 사회관계망서비스(SNS)와 유튜브 등에 공유하며 인증 행렬을 이어갔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김희재는 현재 방영 중인 MBC 주말 드라마 ‘지금부터, 쇼타임!’에서 순경 이용렬 역으로 호연을 펼치고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "오는 7월에는 두 번째 전국투어 콘서트를 앞두고 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전국투어 앞둔 김희재, 강릉에 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

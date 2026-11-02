@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273987",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김현수 ‘5색조’ 새얼굴",
+		"newsSubTitle": "",
+		"newsContent": "배우 김현수가 다채로운 아우라를 뽐냈다.\n소속사 앤드마크는 23일 김현수의 생일을 맞이해 프로필 촬영 비하인드 컷을 공개했다.\n공개된 사진 속 김현수는 생머리부터 깔끔하게 묶은 머리를 선보이며 청순하면서도 세련된 매력을 드러냈다.\n또한 블랙 앤 화이트의 심플한 의상과 파스텔 톤의 화사한 의상을 입고 한계 없는 콘셉트 소화력을 보여줬다.\n특히 화보의 비하인드 컷임에도 불구하고 마치 A컷을 떠올리게 하는 포즈와 분위기로 시선을 사로잡았고, 풋풋함과 성숙함이 오가는 모습으로 시선을 집중시켰다.\n이처럼 다양한 매력이 담긴 비하인드를 보여준 김현수는 지난해 종영한 드라마 ‘펜트하우스’ 시리즈에서 오윤희(유진 분)의 딸이자 성악에 남다른 재능을 가진 배로나 역을 맡아, 매 시즌마다 탁월한 캐릭터 소화력과 안정적인 연기력을 보여주며 대중들의 많은 사랑을 받았다.\n한편, 최근 앤드마크와 전속계약을 맺은 김현수는 앞으로 더욱 다양한 작품을 통해 대중들과 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김현수가 다채로운 아우라를 뽐냈다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 앤드마크는 23일 김현수의 생일을 맞이해 프로필 촬영 비하인드 컷을 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 김현수는 생머리부터 깔끔하게 묶은 머리를 선보이며 청순하면서도 세련된 매력을 드러냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 블랙 앤 화이트의 심플한 의상과 파스텔 톤의 화사한 의상을 입고 한계 없는 콘셉트 소화력을 보여줬다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 화보의 비하인드 컷임에도 불구하고 마치 A컷을 떠올리게 하는 포즈와 분위기로 시선을 사로잡았고, 풋풋함과 성숙함이 오가는 모습으로 시선을 집중시켰다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이처럼 다양한 매력이 담긴 비하인드를 보여준 김현수는 지난해 종영한 드라마 ‘펜트하우스’ 시리즈에서 오윤희(유진 분)의 딸이자 성악에 남다른 재능을 가진 배로나 역을 맡아, 매 시즌마다 탁월한 캐릭터 소화력과 안정적인 연기력을 보여주며 대중들의 많은 사랑을 받았다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 최근 앤드마크와 전속계약을 맺은 김현수는 앞으로 더욱 다양한 작품을 통해 대중들과 만날 예정이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김현수 ‘5색조’ 새얼굴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

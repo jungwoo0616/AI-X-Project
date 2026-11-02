@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266060",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장원영, 카메라에 다 못 담아… 조각상 같은 완벽한 비율",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 아이브(IVE)의 멤버 장원영이 비현실적인 다리 길이를 자랑했다.\n장원영은 지난 5일 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 멘트 없이 뮤직비디오 촬영 장면으로 보이는 사진들을 게재했다.\n장원영은 반짝이는 원피스를 입고 빨간색 모자를 쓴 채 포즈를 취하고 있다.\n특히 장원영은 카메라에 다 담기지 않는 비현실적인 다리 길이로 보는 이들의 시선을 끌었다.\n또 다른 사진에서 장원영은 조각상처럼 계단에 올라서 비너스와 같은 완벽한 비율을 자랑했다.\n사진을 접한 누리꾼들은 “진짜 조각상이다”, “요번 신곡 대박”, “역시 비주얼 센터다” 등의 댓글을 달아 장원영에 관한 찬사를 아끼지 않았다.\n한편 장원영이 속한 그룹 아이브는 지난 5일 두 번째 싱글 ‘LOVE DIVE(러브 다이브)’를 발매해 괴물 신인으로서 활약을 더 할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 아이브(IVE)의 멤버 장원영이 비현실적인 다리 길이를 자랑했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장원영은 지난 5일 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 멘트 없이 뮤직비디오 촬영 장면으로 보이는 사진들을 게재했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장원영은 반짝이는 원피스를 입고 빨간색 모자를 쓴 채 포즈를 취하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 장원영은 카메라에 다 담기지 않는 비현실적인 다리 길이로 보는 이들의 시선을 끌었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진에서 장원영은 조각상처럼 계단에 올라서 비너스와 같은 완벽한 비율을 자랑했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진을 접한 누리꾼들은 “진짜 조각상이다”, “요번 신곡 대박”, “역시 비주얼 센터다” 등의 댓글을 달아 장원영에 관한 찬사를 아끼지 않았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 장원영이 속한 그룹 아이브는 지난 5일 두 번째 싱글 ‘LOVE DIVE(러브 다이브)’를 발매해 괴물 신인으로서 활약을 더 할 예정이다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장원영, 카메라에 다 못 담아… 조각상 같은 완벽한 비율",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

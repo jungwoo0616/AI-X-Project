@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171304",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이정재, 데뷔 28년 만 개인 SNS 개설",
+    "newsSubTitle": "",
+    "newsContent": "배우 이정재가 사회관계망서비스(SNS) 계정을 개설했다.\n이정재는 2일 인스타그램 계정을 개설하고 첫 게시물을 올렸다.\n차 안에서 찍은 셀카를 올린 뒤 “이렇게 하는 건가요?”라는 문구를 남겼다.\n이어 #이정재 #오징어게임 해시태그를 덧붙였다.\n뿐만 아니라 인스타그램 스토리에도 셀카를 올리기도 했다.\n이정재가 SNS로 직접 소식을 전한 건 데뷔 28년 만에 처음이다.\n이에 그가 출연한 넷플릭스 시리즈 ‘오징어 게임’의 화제와 덩달아 그의 SNS 소식까지 화제의 중심에 섰다.\n이에 넷플릭스 코리아도 화답했다.\n넷플릭스 코리아는 공식 인스타그램에 이정재의 셀카를 올린 뒤 “그렇게 하는 거 맞아요. 여러분 우리 정재리 배우 드디어 인스타 시작했습니다”고 알렸다.\n한편 지난달 17일 공개된 오징어게임은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담은 넷플릭스 시리즈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이정재가 사회관계망서비스(SNS) 계정을 개설했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이정재는 2일 인스타그램 계정을 개설하고 첫 게시물을 올렸다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "차 안에서 찍은 셀카를 올린 뒤 “이렇게 하는 건가요?”라는 문구를 남겼다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 #이정재 #오징어게임 해시태그를 덧붙였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뿐만 아니라 인스타그램 스토리에도 셀카를 올리기도 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이정재가 SNS로 직접 소식을 전한 건 데뷔 28년 만에 처음이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 그가 출연한 넷플릭스 시리즈 ‘오징어 게임’의 화제와 덩달아 그의 SNS 소식까지 화제의 중심에 섰다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 넷플릭스 코리아도 화답했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "넷플릭스 코리아는 공식 인스타그램에 이정재의 셀카를 올린 뒤 “그렇게 하는 거 맞아요. 여러분 우리 정재리 배우 드디어 인스타 시작했습니다”고 알렸다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 지난달 17일 공개된 오징어게임은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담은 넷플릭스 시리즈다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "“이렇게 하는 건가요?\" 이정재 인생 28년 만에 처음 해보는 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275199",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "TO1, 컴백 카운트다운",
+		"newsSubTitle": "",
+		"newsContent": "그룹 TO1(티오원)이 컴백 열기를 고조시킨다.\nTO1은 11일 공식 사회관계망서비스(SNS)에 새 앨범명이 적힌 스케줄러를 게재했다.\nTO1은 오는 28일 세 번째 미니 앨범 ‘와이낫(WHY NOT??)’의 발매를 앞두고 오는 12일부터 16일까지 ‘그라운드’ 버전의 멤버별∙단체∙유닛 콘셉트 포토를 차례로 공개한다. 18일에는 트랙리스트를, 19일부터 23일까지는 ‘플레이’ 버전의멤버별∙단체∙유닛 콘셉트 포토를 오픈한다. 25일부터 앨범 발매 당일인 28일까지는 뮤직비디오 티저 영상과 앨범 스니펫 영상을 순차적으로 공개하며 신보에 대한 기대감을 고조시킬 계획이다.\n스케줄러 포스터 속 거친 그래피티 요소들이 시선을 사로잡는 가운데 TO1이 이번 앨범을통해 새롭게 선보일 이미지 변신에 뜨거운 관심이 이어진다.\n특히 세상을 향한 대담한 외침과 유쾌한 물음을 담아낸 앨범명이 아홉 악동의 당찬 포부를 암시하며 기대감을 높인다.\nTO1 의미니 3집 ‘WHY NOT??’은 오는 28일 오후 6시 전 온라인 음원사이트를 통해 발매된다.\n앨범 예약 판매는 오는 12일 오후 3시부터 전 음반사이트를 통해 시작된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 TO1(티오원)이 컴백 열기를 고조시킨다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "TO1은 11일 공식 사회관계망서비스(SNS)에 새 앨범명이 적힌 스케줄러를 게재했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "TO1은 오는 28일 세 번째 미니 앨범 ‘와이낫(WHY NOT??)’의 발매를 앞두고 오는 12일부터 16일까지 ‘그라운드’ 버전의 멤버별∙단체∙유닛 콘셉트 포토를 차례로 공개한다. 18일에는 트랙리스트를, 19일부터 23일까지는 ‘플레이’ 버전의멤버별∙단체∙유닛 콘셉트 포토를 오픈한다. 25일부터 앨범 발매 당일인 28일까지는 뮤직비디오 티저 영상과 앨범 스니펫 영상을 순차적으로 공개하며 신보에 대한 기대감을 고조시킬 계획이다.",
+				"sentenceSize": 243
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스케줄러 포스터 속 거친 그래피티 요소들이 시선을 사로잡는 가운데 TO1이 이번 앨범을통해 새롭게 선보일 이미지 변신에 뜨거운 관심이 이어진다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 세상을 향한 대담한 외침과 유쾌한 물음을 담아낸 앨범명이 아홉 악동의 당찬 포부를 암시하며 기대감을 높인다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "TO1 의미니 3집 ‘WHY NOT??’은 오는 28일 오후 6시 전 온라인 음원사이트를 통해 발매된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앨범 예약 판매는 오는 12일 오후 3시부터 전 음반사이트를 통해 시작된다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "TO1, 컴백 카운트다운",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

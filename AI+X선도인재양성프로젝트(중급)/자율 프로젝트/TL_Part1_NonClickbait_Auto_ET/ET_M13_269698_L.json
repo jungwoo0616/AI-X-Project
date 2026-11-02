@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269698",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘브로커’ 강동원 “송강호와 12년 만에 재회, 호흡 더 좋아져”",
+		"newsSubTitle": "",
+		"newsContent": "배우 강동원이 송강호에 대한 애정을 표현했다.\n강동원은 10일 오전 서울 용산구 CGV용산에서 진행된 영화 ‘브로커’ 제작보고회에서 ‘의형제’(2010) 이후 12년 만에 다시 만난 송강호에 대해 “12년 전보다 호흡이 더 잘 맞았다. 나도 나이가 들다 보니 대화도 잘 맞았다”고 밝혔다.\n함께 자리한 송강호는 “‘의형제’ 이후 12년이 지났는데, 앙상블이 좋았던 기억이 있어서 이번에 처음 만났을 때에도 낯설지 않았다. 오래된 막내동생 만난 것처럼 본능적으로 ‘케미’가 나왔다”고 화답했다.\n이어 “잘 자란 것 같다. 키도 더 자란 것 같다”고 농담하며 “12년 전엔 청년 같았는데, 지금은 삶을 좀 더 이해한다고나 할까. 원숙하고 깊이가 있다. 긴 세월 동안 강동원의 성숙함을 느낄 수 있는 작업이었다”고 강동원에 대해 설명했다.\n또한 “이번 작품에선 강동원보다 멋지게 나와야겠다는 데에 집중했다. 멋지게 나왔다고 생각했는데 제작보고회에 나와보니 마음을 접었다”고 우스개소리를 해 재미를 선사했다. ‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다.\n다음 달 8일 개봉한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강동원이 송강호에 대한 애정을 표현했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강동원은 10일 오전 서울 용산구 CGV용산에서 진행된 영화 ‘브로커’ 제작보고회에서 ‘의형제’(2010) 이후 12년 만에 다시 만난 송강호에 대해 “12년 전보다 호흡이 더 잘 맞았다. 나도 나이가 들다 보니 대화도 잘 맞았다”고 밝혔다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "함께 자리한 송강호는 “‘의형제’ 이후 12년이 지났는데, 앙상블이 좋았던 기억이 있어서 이번에 처음 만났을 때에도 낯설지 않았다. 오래된 막내동생 만난 것처럼 본능적으로 ‘케미’가 나왔다”고 화답했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “잘 자란 것 같다. 키도 더 자란 것 같다”고 농담하며 “12년 전엔 청년 같았는데, 지금은 삶을 좀 더 이해한다고나 할까. 원숙하고 깊이가 있다. 긴 세월 동안 강동원의 성숙함을 느낄 수 있는 작업이었다”고 강동원에 대해 설명했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 “이번 작품에선 강동원보다 멋지게 나와야겠다는 데에 집중했다. 멋지게 나왔다고 생각했는데 제작보고회에 나와보니 마음을 접었다”고 우스개소리를 해 재미를 선사했다. ‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다음 달 8일 개봉한다.",
+				"sentenceSize": 13
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘브로커’ 강동원 “송강호와 12년 만에 재회, 호흡 더 좋아져”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277510",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "공중파 뉴스서 흑역사 만드는 여자",
+		"newsSubTitle": "",
+		"newsContent": "온라인 커뮤니티서 \\\"방송서 흑역사 만드는 여자\\\"라는 글이 네티즌들을 폭소케 했다.\nKBS 뉴스에서 \\\"14인치 어깨너비의 메디신볼이 운동 효과 만점\\\"이라는 주제로 운동하는 사람들의 모습이 방송됐다.\n그 중 흰색 긴팔티에 파란 바지를 입은 여성이 네티즌들서 화제가 됐다.\n트레이너가 공을 건네주자 여성은 공을 받으려 하지만, 공을 놓치면서 얼굴에 공을 그대로 맞고 만다.\n여성은 고통에 움찔한다.\n당황한 트레이너는 깜짝 놀라며 여성에게 괜찮냐는 몸짓으로 다가간다.\n후에 심기일전한 여성은 메디신볼을 재도전한다.\n트레이너가 공을 건네주자, 공을 받은 여성은 공을 다시 트레이너에게 던지려 한다.\n하지만 공중에서 공을 놓치고 말아 결국 다시 공에 얼굴을 강타당한다.\n그 모습에 결국 트레이너는 웃음을 참지 못한다.\n해당 영상을 접한 네티즌들은 \\\"와, 공중파서 이런 것도 방송하네\\\" \\\"뉴스에서 흑역사 생성\\\"이라며 웃음을 멈추지 못했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "온라인 커뮤니티서 \\\"방송서 흑역사 만드는 여자\\\"라는 글이 네티즌들을 폭소케 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS 뉴스에서 \\\"14인치 어깨너비의 메디신볼이 운동 효과 만점\\\"이라는 주제로 운동하는 사람들의 모습이 방송됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 중 흰색 긴팔티에 파란 바지를 입은 여성이 네티즌들서 화제가 됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트레이너가 공을 건네주자 여성은 공을 받으려 하지만, 공을 놓치면서 얼굴에 공을 그대로 맞고 만다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여성은 고통에 움찔한다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당황한 트레이너는 깜짝 놀라며 여성에게 괜찮냐는 몸짓으로 다가간다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "후에 심기일전한 여성은 메디신볼을 재도전한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "트레이너가 공을 건네주자, 공을 받은 여성은 공을 다시 트레이너에게 던지려 한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 공중에서 공을 놓치고 말아 결국 다시 공에 얼굴을 강타당한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그 모습에 결국 트레이너는 웃음을 참지 못한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "해당 영상을 접한 네티즌들은 \\\"와, 공중파서 이런 것도 방송하네\\\" \\\"뉴스에서 흑역사 생성\\\"이라며 웃음을 멈추지 못했다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공중파 뉴스서 흑역사 만드는 여자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

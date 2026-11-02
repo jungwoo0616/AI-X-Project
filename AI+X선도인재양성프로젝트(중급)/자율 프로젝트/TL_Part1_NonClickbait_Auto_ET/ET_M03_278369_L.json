@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278369",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "해피투게더3·1박2일 '특급 콜라보' 대성공…멤버들 사생활 폭로전에 '웃음 바다'",
+		"newsSubTitle": "",
+		"newsContent": "KBS2 '해피투게더3'와 '1박2일'의 '역대급 콜라보레이션'이 최고 시청률을 경신하며 대성공을 거뒀다.\n17일 방송된 '해피투게더3' 에는 '1박2일' 멤버들인 차태현·데프콘·김준호·정준영·김종민이 출연했다.\n닐슨 코리아에서 밝힌 바에 따르면 이날 방송된 '해피투게더3'의 시청률은 전국 6.3%, 수도권 6.9%로 올해 최고의 자체 시청률을 경신했다.\n이날 방송에서는 멤버들이 '1박 2일'의 뒷이야기를 나눴다.\n시즌3 시작 당시의 상황과 캐스팅에 대한 이야기, 그리고 멤버들의 사생활 폭로가 이어져 안방극장을 웃음바다로 만들었다.\n한편 '해피투게더3'는 매주 목요일 오후 11시 10분에 방송된다.\n온라인 중앙일보 [사진 KBS2 '해피투게더3' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS2 '해피투게더3'와 '1박2일'의 '역대급 콜라보레이션'이 최고 시청률을 경신하며 대성공을 거뒀다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 방송된 '해피투게더3' 에는 '1박2일' 멤버들인 차태현·데프콘·김준호·정준영·김종민이 출연했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "닐슨 코리아에서 밝힌 바에 따르면 이날 방송된 '해피투게더3'의 시청률은 전국 6.3%, 수도권 6.9%로 올해 최고의 자체 시청률을 경신했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 방송에서는 멤버들이 '1박 2일'의 뒷이야기를 나눴다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시즌3 시작 당시의 상황과 캐스팅에 대한 이야기, 그리고 멤버들의 사생활 폭로가 이어져 안방극장을 웃음바다로 만들었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 '해피투게더3'는 매주 목요일 오후 11시 10분에 방송된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS2 '해피투게더3' 캡처]",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해피투게더3·1박2일 '특급 콜라보' 대성공…멤버들 사생활 폭로전에 '웃음 바다'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

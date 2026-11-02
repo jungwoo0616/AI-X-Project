@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276372",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"나도 부모님 있는데…\\\" 키즈카페 알바하면서 겪는 서러움은?",
+		"newsSubTitle": "",
+		"newsContent": "키즈카페 아르바이트생이 일을 하며 겪는 고충이 눈길을 끌고 있다.\n지난 13일 방송된 tvN '알바트로스'에서는 방송인 유병재와 배우 정상훈이 키즈카페 일일 알바생으로 변신해 이들의 하루를 대신했다.\n유병재·정상훈은 키즈카페 알바생 박성민씨와 밥을 먹으며 일 관련 이야기를 나눴다.\n유병재는 \\\"(키즈카페 일을 해보니) 솔직히 오늘 느낌이 어땠냐면 군대에서 행군하는데 행보관이 자꾸 따라와 같이 놀아달라는 느낌을 받았다\\\"고 입을 열었다.\n그는 \\\"뭐가 제일 힘들었냐\\\"고 물으면서 \\\"나 같은 경우는 체력이 문제였다. 일찍 체력이 떨어졌다\\\"고 말했다.\n이에 박씨는 \\\"요즘 애들은 알 거를 다 안다\\\"며 \\\"과하게 장난치는 아이에게 주의를 주면 일부러 말을 안 듣거나 공을 던진다\\\"고 설명했다.\n그는 \\\"상대를 안 해주면 '너 알바 잘리고 싶어?'라고 말하는 아이도 있다\\\"면서 \\\"초등학생 나이만 돼도 '선생님. 어차피 알바잖아요'라고 하는 아이도 있다\\\"고 전했다.\n이어 \\\"아이에게 그러지 말라고 주의를 주려고 하면 부모가 나타나 '왜 우리 애한테 뭐라고 해'라고 눈치를 준다\\\"면서 \\\"나도 부모님 있는데 (서럽다)\\\"라고 말했다.\n이 말을 들은 유병재와 정상훈은 고개를 끄덕거리며 그의 고충에 공감을 나타냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "키즈카페 아르바이트생이 일을 하며 겪는 고충이 눈길을 끌고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 13일 방송된 tvN '알바트로스'에서는 방송인 유병재와 배우 정상훈이 키즈카페 일일 알바생으로 변신해 이들의 하루를 대신했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유병재·정상훈은 키즈카페 알바생 박성민씨와 밥을 먹으며 일 관련 이야기를 나눴다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유병재는 \\\"(키즈카페 일을 해보니) 솔직히 오늘 느낌이 어땠냐면 군대에서 행군하는데 행보관이 자꾸 따라와 같이 놀아달라는 느낌을 받았다\\\"고 입을 열었다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 \\\"뭐가 제일 힘들었냐\\\"고 물으면서 \\\"나 같은 경우는 체력이 문제였다. 일찍 체력이 떨어졌다\\\"고 말했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 박씨는 \\\"요즘 애들은 알 거를 다 안다\\\"며 \\\"과하게 장난치는 아이에게 주의를 주면 일부러 말을 안 듣거나 공을 던진다\\\"고 설명했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 \\\"상대를 안 해주면 '너 알바 잘리고 싶어?'라고 말하는 아이도 있다\\\"면서 \\\"초등학생 나이만 돼도 '선생님. 어차피 알바잖아요'라고 하는 아이도 있다\\\"고 전했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 \\\"아이에게 그러지 말라고 주의를 주려고 하면 부모가 나타나 '왜 우리 애한테 뭐라고 해'라고 눈치를 준다\\\"면서 \\\"나도 부모님 있는데 (서럽다)\\\"라고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 말을 들은 유병재와 정상훈은 고개를 끄덕거리며 그의 고충에 공감을 나타냈다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"나도 부모님 있는데…\\\" 키즈카페 알바하면서 겪는 서러움은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

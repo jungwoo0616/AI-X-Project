@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278256",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "송혜교 광고 거절 한 미쓰비시 어떤 기업? \\\"일제 강점기 강제 노역 주도 전범기업…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "대세 배우 송혜교가 '전범기업' 미쓰비시 광고를 거절한 사실이 화제인 가운데, 미쓰비시가 어떤 기업인지에 대한 관심이 증가하고 있다.\n일본 미쓰비시는 1873년 이와사키 야타로가 처음 설립했다. '미쓰비시(三菱)'라는 이름은 '3'을 뜻하는 '미쓰'와 물품의 한 종류이면서 마름모를 뜻하는 '비시'가 결합된 것을 의미한다.\n미쓰비씨는 자동차 공업, 중공업, 상사, 전기, 기린 맥주, 니콘 등 다양한 계열사를 지니고 있는 일본의 대표적인 대기업이다.\n미쓰비시는 20세기를 전후해 일본 경제를 지배한 기업으로, 2차 세계대전 때 유명한 제로 전투기를 정부에 납품하는 등 일본 제국주위와 함께 성장한 기업이다.\n일제 강점기 당시 우리나라 사람들을 강제 노역시키는데 앞장선 악성 전범기업이다.\n현재 미쓰비시는 일본 극우 단체와 정치가를 후원하는 것으로 알려지기도 했다.\n일본의 극우 언론사 산케이 신문과 일본의 대표적인 극우 성향 왜곡 교과서를 편찬하는 '새역사 교과서를 만드는 모음'을 후원하고 있다.\n한편, 송혜교 측은 11일 \\\"미쓰비시의 중국 자동차 광고 제안을 거절했다\\\"며 \\\"전범 기업의 홍보를 위해 광고 모델로 나설 이유가 없다\\\"고 밝혀 눈길을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대세 배우 송혜교가 '전범기업' 미쓰비시 광고를 거절한 사실이 화제인 가운데, 미쓰비시가 어떤 기업인지에 대한 관심이 증가하고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일본 미쓰비시는 1873년 이와사키 야타로가 처음 설립했다. '미쓰비시(三菱)'라는 이름은 '3'을 뜻하는 '미쓰'와 물품의 한 종류이면서 마름모를 뜻하는 '비시'가 결합된 것을 의미한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미쓰비씨는 자동차 공업, 중공업, 상사, 전기, 기린 맥주, 니콘 등 다양한 계열사를 지니고 있는 일본의 대표적인 대기업이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미쓰비시는 20세기를 전후해 일본 경제를 지배한 기업으로, 2차 세계대전 때 유명한 제로 전투기를 정부에 납품하는 등 일본 제국주위와 함께 성장한 기업이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일제 강점기 당시 우리나라 사람들을 강제 노역시키는데 앞장선 악성 전범기업이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 미쓰비시는 일본 극우 단체와 정치가를 후원하는 것으로 알려지기도 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일본의 극우 언론사 산케이 신문과 일본의 대표적인 극우 성향 왜곡 교과서를 편찬하는 '새역사 교과서를 만드는 모음'을 후원하고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 송혜교 측은 11일 \\\"미쓰비시의 중국 자동차 광고 제안을 거절했다\\\"며 \\\"전범 기업의 홍보를 위해 광고 모델로 나설 이유가 없다\\\"고 밝혀 눈길을 끌었다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송혜교 광고 거절 한 미쓰비시 어떤 기업? \\\"일제 강점기 강제 노역 주도 전범기업…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263485",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "부친사랑 공개해온 이엘, 부친상 “장례는 생략”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이엘이 부친상을 당했다.\n이엘은 10일 인스타그램에 “저희 아버지께서 조금 전 영면하셨다”며 “시국이 시국인 만큼, 장례식은 생략하기로 했다”고 밝혔다.\n이와 함께 이엘은 “마음으로 기도 부탁드린다”며 추모를 당부했다.\n이엘은 여러 방송 프로그램에서 부친과의 일화를 공개해오며 부친과의 애정을 드러내왔다.\n특히 이엘은 학교생활에 실망한 뒤 가출을 한 과거 일화를 말하며 부친의 일화를 말하기도 했다.\n이엘이 가출한 뒤 돌아오자 부친은 “네 뜻을 존중해줄 테니, 대신 네 인생 네가 책임져라”고 말하며 소주 한 잔을 사줬던 추억을 회상했다.\n부친의 말에 감명받은 이엘은 대입 검정고시에 합격했고, 이후 대학 입학까지 이어졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이엘이 부친상을 당했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이엘은 10일 인스타그램에 “저희 아버지께서 조금 전 영면하셨다”며 “시국이 시국인 만큼, 장례식은 생략하기로 했다”고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 이엘은 “마음으로 기도 부탁드린다”며 추모를 당부했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이엘은 여러 방송 프로그램에서 부친과의 일화를 공개해오며 부친과의 애정을 드러내왔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이엘은 학교생활에 실망한 뒤 가출을 한 과거 일화를 말하며 부친의 일화를 말하기도 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이엘이 가출한 뒤 돌아오자 부친은 “네 뜻을 존중해줄 테니, 대신 네 인생 네가 책임져라”고 말하며 소주 한 잔을 사줬던 추억을 회상했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부친의 말에 감명받은 이엘은 대입 검정고시에 합격했고, 이후 대학 입학까지 이어졌다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부친사랑 공개해온 이엘, 부친상 “장례는 생략”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

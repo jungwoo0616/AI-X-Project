@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263188",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "연제욱, ‘♥동갑내기 비연예인’과 4월 결혼",
+		"newsSubTitle": "",
+		"newsContent": "배우 연제욱이 2년 열애 끝에 결혼한다.\n해피메리드컴퍼니는 8일 오전 “연제욱이 동갑내기 비연예인과 2년 열애 끝에 오는 4월 3일 서울 모처에서 결혼식을 올린다”며 웨딩 화보를 공개했다.\n공개된 화보 속 연제욱과 예비 신부는 서로 바라만 봐도 눈에서 꿀이 뚝뚝 떨어지는 모습으로 시선을 사로잡는다.\n두 사람은 3년 동안 알고 지내다 2년 전부터 연인 사이로 발전해 부부의 연을 맺게 됐다.\n2005년 KBS ‘성장드라마 반올림# 2’를 통해 데뷔한 연제욱은 ‘강철중: 공공의 적 1-1’, ‘비상’, ‘서복’, ‘경관의 피’, ‘뷰티풀 마인드’, ‘미씽나인’, ‘블랙’, ‘보이스 시즌2’, ‘빅이슈’, ‘런 온’ 등 영화와 드라마를 넘나들며 다채로운 필모그래피를 쌓아왔다.\n현재 ‘트레이서’에서 박성호 과장 역으로 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 연제욱이 2년 열애 끝에 결혼한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해피메리드컴퍼니는 8일 오전 “연제욱이 동갑내기 비연예인과 2년 열애 끝에 오는 4월 3일 서울 모처에서 결혼식을 올린다”며 웨딩 화보를 공개했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 화보 속 연제욱과 예비 신부는 서로 바라만 봐도 눈에서 꿀이 뚝뚝 떨어지는 모습으로 시선을 사로잡는다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 3년 동안 알고 지내다 2년 전부터 연인 사이로 발전해 부부의 연을 맺게 됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2005년 KBS ‘성장드라마 반올림# 2’를 통해 데뷔한 연제욱은 ‘강철중: 공공의 적 1-1’, ‘비상’, ‘서복’, ‘경관의 피’, ‘뷰티풀 마인드’, ‘미씽나인’, ‘블랙’, ‘보이스 시즌2’, ‘빅이슈’, ‘런 온’ 등 영화와 드라마를 넘나들며 다채로운 필모그래피를 쌓아왔다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 ‘트레이서’에서 박성호 과장 역으로 출연 중이다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연제욱, ‘♥동갑내기 비연예인’과 4월 결혼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

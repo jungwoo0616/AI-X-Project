@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276273",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'최초 공개' 300장 넘게 조두순이 직접 썼다는 탄원서",
+		"newsSubTitle": "",
+		"newsContent": "조두순이 과거 공판 당시 제출했던 탄원서가 공개된다.\n조두순은 2008년 경기도 안산시 단원구에서 초등학생을 납치해 강간 상해한 혐의로 복역 중이다.\n2009년 수감돼 2020년 12월 만기 출소할 예정이다.\n14일 오후 9시 30분 방송되는 JTBC '이규연의 스포트라이트'는 '조두순 사건' 피해자 나영이(가명) 아버지와 인터뷰한 내용을 공개한다. 13일 공개된 예고편에서 나영이 아버지는 \\\"나영이가 '아빠 못 보는 줄 알았다'라고 말했었다\\\"며 \\\"그때만 생각하면 가슴이 뭉개진다\\\"고 말했다.\n이날 방송에서는 조두순의 탄원서도 공개된다.\n7차례에 걸쳐 작성된 총 300장이 넘는 방대한 분량이다.\n앞서 조국 청와대 민정수석은 6일 \\\"조두순에 대해 무기징역으로 처벌을 강화해 달라는 재심 청구는 불가능하다\\\"고 말했다.\n이날 조 수석의 답변은 청와대 홈페이지 '국민청원' 게시판에 접수된 사안 중 청원인 수가 20만 명을 넘길 경우 직접 답변한다는 문재인 대통령의 약속에 따라 이뤄졌다.\n이 청원에 참여한 사람은 61만명을 넘어섰다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "조두순이 과거 공판 당시 제출했던 탄원서가 공개된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조두순은 2008년 경기도 안산시 단원구에서 초등학생을 납치해 강간 상해한 혐의로 복역 중이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2009년 수감돼 2020년 12월 만기 출소할 예정이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "14일 오후 9시 30분 방송되는 JTBC '이규연의 스포트라이트'는 '조두순 사건' 피해자 나영이(가명) 아버지와 인터뷰한 내용을 공개한다. 13일 공개된 예고편에서 나영이 아버지는 \\\"나영이가 '아빠 못 보는 줄 알았다'라고 말했었다\\\"며 \\\"그때만 생각하면 가슴이 뭉개진다\\\"고 말했다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에서는 조두순의 탄원서도 공개된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "7차례에 걸쳐 작성된 총 300장이 넘는 방대한 분량이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 조국 청와대 민정수석은 6일 \\\"조두순에 대해 무기징역으로 처벌을 강화해 달라는 재심 청구는 불가능하다\\\"고 말했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 조 수석의 답변은 청와대 홈페이지 '국민청원' 게시판에 접수된 사안 중 청원인 수가 20만 명을 넘길 경우 직접 답변한다는 문재인 대통령의 약속에 따라 이뤄졌다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 청원에 참여한 사람은 61만명을 넘어섰다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'최초 공개' 300장 넘게 조두순이 직접 썼다는 탄원서",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

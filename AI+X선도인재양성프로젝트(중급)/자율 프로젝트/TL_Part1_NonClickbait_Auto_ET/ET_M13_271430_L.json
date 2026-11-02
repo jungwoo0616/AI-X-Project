@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271430",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지드래곤, 조카랑 함께한 여유로운 근황",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅(BIGBANG)의 멤버 지드래곤이 누나 권다미의 집에 방문해 조카와 여유로운 날을 보내고 있다.\n26일, 지드래곤의 누나 권다미는 사회관계망서비스(SNS) 인스타그램 스토리에 지드래곤의 근황이 담긴 사진을 게재했다.\n지드래곤은 조카의 새끼손가락에 자기 새끼손가락을 맞대는 흐뭇한 장면이 사진에 담겨있다.\n권다미는 “삼촌이랑 이든이랑♥”이라는 말을 덧붙여 두 사람의 손가락이 담긴 사진을 올렸다.\n앞서 지드래곤은 지난해 2월 블랙핑크 제니가 지드래곤의 집을 방문한 사진이 공개되며 열애설이 불거졌다.\n하지만 최근 지드래곤과 제니는 각자 SNS 계정을 언팔로우해 두 사람의 결별설이 돌았다.\n한편 지드래곤이 속한 빅뱅은 지난달 5일 4년 만에 신곡 ‘봄여름가을겨울’로 컴백했다.\n또 지난 5월 3일 ‘샤넬 2022/23 크루즈 쇼’ 참석을 위해 네덜란드 암스테르담으로 출국해 올린 근황이 화제가 된 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅(BIGBANG)의 멤버 지드래곤이 누나 권다미의 집에 방문해 조카와 여유로운 날을 보내고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일, 지드래곤의 누나 권다미는 사회관계망서비스(SNS) 인스타그램 스토리에 지드래곤의 근황이 담긴 사진을 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지드래곤은 조카의 새끼손가락에 자기 새끼손가락을 맞대는 흐뭇한 장면이 사진에 담겨있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권다미는 “삼촌이랑 이든이랑♥”이라는 말을 덧붙여 두 사람의 손가락이 담긴 사진을 올렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 지드래곤은 지난해 2월 블랙핑크 제니가 지드래곤의 집을 방문한 사진이 공개되며 열애설이 불거졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 최근 지드래곤과 제니는 각자 SNS 계정을 언팔로우해 두 사람의 결별설이 돌았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지드래곤이 속한 빅뱅은 지난달 5일 4년 만에 신곡 ‘봄여름가을겨울’로 컴백했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 지난 5월 3일 ‘샤넬 2022/23 크루즈 쇼’ 참석을 위해 네덜란드 암스테르담으로 출국해 올린 근황이 화제가 된 바 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지드래곤, 조카랑 함께한 여유로운 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

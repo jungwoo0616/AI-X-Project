@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277446",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'하울' 제친 '너의 이름은' 신카이 마코토 감독, 8일 다시 내한",
+		"newsSubTitle": "",
+		"newsContent": "일본 애니메이션 '너의 이름은.'의 신카이 마코토 감독이 다시 한국을 찾는다.\n이 영화의 수입사 미디어캐슬 측은 신카이 마코토 감독이 오는 8∼10일 내한한다고 25일 밝혔다.\n앞서 신카이 마코토 감독은 '너의 이름은.'이 한국에서 관객수 300만 명이 돌파할 경우 한국에 또 오겠다는 공약을 걸었다.\n그는 \\\"300만 명은 굉장히 큰 숫자다. 그 공약을 할 때는 300만 명이 들 것이라고 생각지 않아 말씀을 드렸다. 300만 명이 넘으면 꼭 (다시) 오겠다\\\"고 말한 바 있다.\n신카이 마코토 감독은 내한 기간 동안 관객과의 대화, 쇼케이스 등 다양한 극장 행사에 참여할 예정이다.\n이달 4일 개봉한 '너의 이름은.'은 현재까지 누적 관객 313만명을 동원하며 국내 개봉한 일본 애니메이션 가운데 최고 흥행을 기록했다.\n지금껏 실사·애니메이션을 통틀어 일본 영화 최고 흥행작은 국내 301만 명이 관람한 '하울의 움직이는 성'(2004, 미야자키 하야오 감독)이었다. '너의 이름은.'은 어느 날 갑자기 몸이 뒤바뀐 시골 소녀 미츠하와 도시 소년 타키의 이야기를 담은 이야기로, 일본에서만 이미 1600여 만명이 관람했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 애니메이션 '너의 이름은.'의 신카이 마코토 감독이 다시 한국을 찾는다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 영화의 수입사 미디어캐슬 측은 신카이 마코토 감독이 오는 8∼10일 내한한다고 25일 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 신카이 마코토 감독은 '너의 이름은.'이 한국에서 관객수 300만 명이 돌파할 경우 한국에 또 오겠다는 공약을 걸었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"300만 명은 굉장히 큰 숫자다. 그 공약을 할 때는 300만 명이 들 것이라고 생각지 않아 말씀을 드렸다. 300만 명이 넘으면 꼭 (다시) 오겠다\\\"고 말한 바 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신카이 마코토 감독은 내한 기간 동안 관객과의 대화, 쇼케이스 등 다양한 극장 행사에 참여할 예정이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이달 4일 개봉한 '너의 이름은.'은 현재까지 누적 관객 313만명을 동원하며 국내 개봉한 일본 애니메이션 가운데 최고 흥행을 기록했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지금껏 실사·애니메이션을 통틀어 일본 영화 최고 흥행작은 국내 301만 명이 관람한 '하울의 움직이는 성'(2004, 미야자키 하야오 감독)이었다. '너의 이름은.'은 어느 날 갑자기 몸이 뒤바뀐 시골 소녀 미츠하와 도시 소년 타키의 이야기를 담은 이야기로, 일본에서만 이미 1600여 만명이 관람했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'하울' 제친 '너의 이름은' 신카이 마코토 감독, 8일 다시 내한",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265289",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "골드차일드 이대열, 입대 현장 사진 공개 ‘충성!’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 골든 차일드의 이대열이 입대한다.\n이대열은 29일 소속사를 통해 입대 전 사진 두 장을 공개했다.\n사진 속 그는 편안한 옷차림을 한 채 밝은 눈웃음으로 브이 포즈를 취하는가 하면, 진지한 모습으로 카메라를 향해 경례하는 포즈를 짓기도 했다.\n이대열은 오늘(29일) 강원 철원 육군 3사단에 입소한다.\n그는 입소 당일 코로나19 확산 방지를 위해 별도의 행사는 진행하지 않았다.\n앞서 그는 지난 21일 손편지를 통해 “군대에 있는 동안 9명의 골든차일드의 모습도 많이 응원해 주시길 바란다. 무엇보다 팬들이 아프지 말고 감기 조심하고 건강하게 지내고 계셨으면 좋겠다. 국방의 의무도 최선을 다하겠다”며 인사를 전한 바 있다.\n한편 이대열은 지난 2017년 골든차일드 멤버들과 데뷔해 ‘담다디’ ‘렛미(LET ME)’ ‘워너비(WANNABE)’ 등의 곡을 발표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 골든 차일드의 이대열이 입대한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이대열은 29일 소속사를 통해 입대 전 사진 두 장을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그는 편안한 옷차림을 한 채 밝은 눈웃음으로 브이 포즈를 취하는가 하면, 진지한 모습으로 카메라를 향해 경례하는 포즈를 짓기도 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이대열은 오늘(29일) 강원 철원 육군 3사단에 입소한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 입소 당일 코로나19 확산 방지를 위해 별도의 행사는 진행하지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 그는 지난 21일 손편지를 통해 “군대에 있는 동안 9명의 골든차일드의 모습도 많이 응원해 주시길 바란다. 무엇보다 팬들이 아프지 말고 감기 조심하고 건강하게 지내고 계셨으면 좋겠다. 국방의 의무도 최선을 다하겠다”며 인사를 전한 바 있다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이대열은 지난 2017년 골든차일드 멤버들과 데뷔해 ‘담다디’ ‘렛미(LET ME)’ ‘워너비(WANNABE)’ 등의 곡을 발표했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "골드차일드 이대열, 입대 현장 사진 공개 ‘충성!’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

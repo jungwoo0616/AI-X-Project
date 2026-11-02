@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267008",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "슬리피, 비공개 웨딩사진 공개…달달한 입맞춤",
+		"newsSubTitle": "",
+		"newsContent": "가수 슬리피가 비공개 결혼식 사진을 공개했다.\n슬리피는 14일 자신의 사회관계망서비스(SNS) 인스타그램에 하트 이모티콘과 함께 결혼식 사진을 게시했다.\n사진 속 슬리피와 신부는 화려한 꽃 장식 속에서 입맞춤을 하며 다정한 모습을 보여주고 있다.\n신랑과 신부의 로맨틱한 모습이 돋보인다.\n누리꾼들은 이에 “아름답다” “정말 축하한다” “오래 오래 행복하게 살았으면 좋겠다”며 두 사람을 축하했다, 슬리피는 지난 9일 8세 연하의 비연예인 여성과 4년 열애 끝에 결혼했다.\n결혼식 축가는 가수 송가인과 영탁이 맡았으며, 사회는 코미디언 이용진과 이진호가 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 슬리피가 비공개 결혼식 사진을 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슬리피는 14일 자신의 사회관계망서비스(SNS) 인스타그램에 하트 이모티콘과 함께 결혼식 사진을 게시했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 슬리피와 신부는 화려한 꽃 장식 속에서 입맞춤을 하며 다정한 모습을 보여주고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신랑과 신부의 로맨틱한 모습이 돋보인다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 이에 “아름답다” “정말 축하한다” “오래 오래 행복하게 살았으면 좋겠다”며 두 사람을 축하했다, 슬리피는 지난 9일 8세 연하의 비연예인 여성과 4년 열애 끝에 결혼했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결혼식 축가는 가수 송가인과 영탁이 맡았으며, 사회는 코미디언 이용진과 이진호가 맡았다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슬리피, 비공개 웨딩사진 공개…달달한 입맞춤",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

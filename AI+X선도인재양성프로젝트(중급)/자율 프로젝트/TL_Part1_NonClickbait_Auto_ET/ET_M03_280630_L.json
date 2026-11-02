@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280630",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 김숙·윤정수 “누가 밑지나” 설문 대결",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘님과 함께2-최고(高)의 사랑’에서는 김숙(40)과 윤정수(43)가 “누가 더 아까운가”에 대해 설문 조사 대결을 벌인다.\n가상결혼 생활 중인 김숙과 윤정수는 연말을 맞아 오랜만에 오붓한 시간을 보낸다.\n이들은 크리스마스 트리를 만들고 샤브샤브를 만들어 먹으며 한가한 여유를 즐긴다.\n그러던 중 김숙은 한 해 감사한 분들께 안부 인사를 전하자며 지인들에게 전화를 걸기 시작한다.\n김숙은 절친으로 알려진 방송인 김성경(43)에게 전화를 걸어 새해 인사를 하며 윤정수를 소개한다.\n훈훈하게 덕담을 주고받던 분위기도 잠시, “우리 둘 중 누가 더 아깝냐”라는 김숙에 질문에 김성경은 1초의 망설임도 없이 “당연히 숙이가 더 아깝다”라고 답하며 윤정수의 가슴에 비수를 꽂는다.\n김성경의 대답을 시작으로 윤정수와 김숙은 다른 지인들에게 일일이 전화를 걸어 “누가 더 아깝냐”고 묻기 시작한다.\n한편, 기욤과 송민서 커플의 알콩달콩한 일본 여행 이야기도 확인할 수 있다. 29일 오후 9시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘님과 함께2-최고(高)의 사랑’에서는 김숙(40)과 윤정수(43)가 “누가 더 아까운가”에 대해 설문 조사 대결을 벌인다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가상결혼 생활 중인 김숙과 윤정수는 연말을 맞아 오랜만에 오붓한 시간을 보낸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 크리스마스 트리를 만들고 샤브샤브를 만들어 먹으며 한가한 여유를 즐긴다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러던 중 김숙은 한 해 감사한 분들께 안부 인사를 전하자며 지인들에게 전화를 걸기 시작한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김숙은 절친으로 알려진 방송인 김성경(43)에게 전화를 걸어 새해 인사를 하며 윤정수를 소개한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "훈훈하게 덕담을 주고받던 분위기도 잠시, “우리 둘 중 누가 더 아깝냐”라는 김숙에 질문에 김성경은 1초의 망설임도 없이 “당연히 숙이가 더 아깝다”라고 답하며 윤정수의 가슴에 비수를 꽂는다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김성경의 대답을 시작으로 윤정수와 김숙은 다른 지인들에게 일일이 전화를 걸어 “누가 더 아깝냐”고 묻기 시작한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 기욤과 송민서 커플의 알콩달콩한 일본 여행 이야기도 확인할 수 있다. 29일 오후 9시 30분에 방송된다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 김숙·윤정수 “누가 밑지나” 설문 대결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

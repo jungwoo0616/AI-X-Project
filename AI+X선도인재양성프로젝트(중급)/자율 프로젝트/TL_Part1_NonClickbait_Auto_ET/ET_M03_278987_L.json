@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278987",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마녀를 부탁해 이국주, \\\"프로그램 끝나면 결혼 했을지도\\\" 사심 가득 포부 밝혀",
+		"newsSubTitle": "",
+		"newsContent": "마녀를 부탁해 이국주 ‘마녀를 부탁해' 이국주가 프로그램에 대해 남다른 자세를 밝혔다. 5일 열린 JTBC 모바일 예능 프로그램 '마녀를 부탁해'제작발표회에 개그우먼 이국주와 송은이, 김숙, 안영미, 박나래가 참석했다.\n이국주는 \\\"사주에서 올해 남자가 생긴다고 했다.'마녀를 부탁해'에서 매주 다른 남자 게스트들에게 끼를 부리겠다.\n아마 끝날 때쯤 결혼할 지도 모르겠다\\\"라고 말해 장내를 웃음바다로 만들었다. 원하는 게스트로는 민경훈을 꼽았다. 이국주는 \\\"민경훈은 방송이 아니면 날 따로 만나주지 않는다.\n게스트로 나오시면 건물을 사드릴 의향이 있다\\\"라고 말했다.'마녀를 부탁해'는 여성 패널과 그들의 이상형이었던 남자 게스트와 함께 하는 요리 토크쇼다.\n여심, 팬심, 사심을 담아 방송에서는 다루지 못할 다양한 이야기를 나눌 것으로 기대된다.\n오는 16일부터 매주 화, 금 오전 11시 JTBC 온라인을 통해 방송된다.\n온라인중앙일보 마녀를 부탁해 이국주",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마녀를 부탁해 이국주 ‘마녀를 부탁해' 이국주가 프로그램에 대해 남다른 자세를 밝혔다. 5일 열린 JTBC 모바일 예능 프로그램 '마녀를 부탁해'제작발표회에 개그우먼 이국주와 송은이, 김숙, 안영미, 박나래가 참석했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이국주는 \\\"사주에서 올해 남자가 생긴다고 했다.'마녀를 부탁해'에서 매주 다른 남자 게스트들에게 끼를 부리겠다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아마 끝날 때쯤 결혼할 지도 모르겠다\\\"라고 말해 장내를 웃음바다로 만들었다. 원하는 게스트로는 민경훈을 꼽았다. 이국주는 \\\"민경훈은 방송이 아니면 날 따로 만나주지 않는다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "게스트로 나오시면 건물을 사드릴 의향이 있다\\\"라고 말했다.'마녀를 부탁해'는 여성 패널과 그들의 이상형이었던 남자 게스트와 함께 하는 요리 토크쇼다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여심, 팬심, 사심을 담아 방송에서는 다루지 못할 다양한 이야기를 나눌 것으로 기대된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 16일부터 매주 화, 금 오전 11시 JTBC 온라인을 통해 방송된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인중앙일보 마녀를 부탁해 이국주",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마녀를 부탁해 이국주, \\\"프로그램 끝나면 결혼 했을지도\\\" 사심 가득 포부 밝혀",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

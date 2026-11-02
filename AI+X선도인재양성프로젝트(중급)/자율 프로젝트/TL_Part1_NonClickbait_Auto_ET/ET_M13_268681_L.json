@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268681",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘류준열♥’ 혜리, in 제주 욕조",
+		"newsSubTitle": "",
+		"newsContent": "배우 혜리가 제주도 여행 중인 일상을 공유했다.\n혜리는 29일 자신의 사회관계망서비스(SNS)에 “여행 맑음 제주”라고 적고 여러 장의 사진을 올렸다.\n사진 속에는 제주도로 여행을 떠난 혜리의 다양한 모습을 담았다.\n마지막 영상은 폴짝폴짝 뛰며 자유를 만끽하는 장면이다.\n또 수영복을 입고 와인 2잔을 앞에 둔채 욕조 안에서 포즈도 취하고 있다.\n한편 혜리는 최근 종영한 KBS2 드라마 ‘꽃피면 달 생각하고’에 출연했다.\n배우 류준열과 공개 열애중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 혜리가 제주도 여행 중인 일상을 공유했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "혜리는 29일 자신의 사회관계망서비스(SNS)에 “여행 맑음 제주”라고 적고 여러 장의 사진을 올렸다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 제주도로 여행을 떠난 혜리의 다양한 모습을 담았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마지막 영상은 폴짝폴짝 뛰며 자유를 만끽하는 장면이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 수영복을 입고 와인 2잔을 앞에 둔채 욕조 안에서 포즈도 취하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 혜리는 최근 종영한 KBS2 드라마 ‘꽃피면 달 생각하고’에 출연했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "배우 류준열과 공개 열애중이다.",
+				"sentenceSize": 17
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘류준열♥’ 혜리, in 제주 욕조",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

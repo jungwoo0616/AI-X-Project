@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277716",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'은밀하게 위대하게' 멤버들에게 속아 눈물 글썽인 설현",
+		"newsSubTitle": "",
+		"newsContent": "설현이 몰래카메라에서 눈물을 글썽이는 모습을 보였다.\n4일 MBC '은밀하게 위대하게 '첫 방송에서는 AOA 초아와 지민의 의뢰로 설현 몰래카메라를 진행했다.\n이날 타로점을 본 설현은 설현은 이날 \\\"금전운, 사고운, 부상운이 있다\\\"는 점괘를 받았다.\n이후 설현은 점괘대로 상황이 발생하자 신기해하는 모습을 보였다.\n타로 운명대로 게임 중 50만 원의 상금을 받는가하면, 찜질방에서 항의하는 사람들로 인해 갑작스레 소란이 발생하기도 했다.\n마지막으로 찜질방에서는 스태프가 불길에 휩싸이며 난리가 났다.\n불길에 고통스러워하는 스태프를 보며 안타까워하던 설현은 김희철이 등장하며 모든 상황이 몰래카메라라는 사실을 알게 됐다.\n설현은 눈물을 글썽이며 \\\"울 뻔했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "설현이 몰래카메라에서 눈물을 글썽이는 모습을 보였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 MBC '은밀하게 위대하게 '첫 방송에서는 AOA 초아와 지민의 의뢰로 설현 몰래카메라를 진행했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 타로점을 본 설현은 설현은 이날 \\\"금전운, 사고운, 부상운이 있다\\\"는 점괘를 받았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 설현은 점괘대로 상황이 발생하자 신기해하는 모습을 보였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타로 운명대로 게임 중 50만 원의 상금을 받는가하면, 찜질방에서 항의하는 사람들로 인해 갑작스레 소란이 발생하기도 했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마지막으로 찜질방에서는 스태프가 불길에 휩싸이며 난리가 났다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "불길에 고통스러워하는 스태프를 보며 안타까워하던 설현은 김희철이 등장하며 모든 상황이 몰래카메라라는 사실을 알게 됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "설현은 눈물을 글썽이며 \\\"울 뻔했다\\\"고 말했다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'은밀하게 위대하게' 멤버들에게 속아 눈물 글썽인 설현",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

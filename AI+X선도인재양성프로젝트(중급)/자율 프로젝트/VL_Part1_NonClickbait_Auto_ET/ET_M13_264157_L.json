@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264157",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "씨야 출신 김연지, 코로나 확진 억울하다고 한 이유는?",
+		"newsSubTitle": "",
+		"newsContent": "그룹 씨야 출신 가수 김연지가 억울함을 호소했다.\n김연지는 16일 자신의 사회관계망서비스(SNS)를 통해 코로나 19 확진 소식을 알렸다.\n관리를 철저히 했음에도 코로나19에 확진됐다.\n이에 대해 김연지는 “진짜 억울하다. 분명히 관리하면서 잘 지내고 있었는데 검사를 받고 진행해야하는 일 때문에 검사를 꼭 병원이나 보건소에서 받고 오라고 해 받으러 갔다가 걸렸다”라며 확진 과정에서 억울한 부분이 있다고 설명했다.\n이어 “증상 없으면 자가키트로 하면 안되는건가. 목기침에 코는 꽉 막히고 두통에 몸살에 열에 그냥 뭐 감기종합세트, 나 진짜 잘 지내고 있었다고. 억울해”라며 지침을 따르지 않았다면 코로나19에 확진될 일도 없었다고 밝혔다.\n한편 김연지는 2006년 그룹 씨야 1집 ‘여인의 향기’로 데뷔했다.\n이후 뮤지컬 배우로 활동했으며 지난해 TV조선 ‘미스트롯2’에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 씨야 출신 가수 김연지가 억울함을 호소했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김연지는 16일 자신의 사회관계망서비스(SNS)를 통해 코로나 19 확진 소식을 알렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관리를 철저히 했음에도 코로나19에 확진됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 대해 김연지는 “진짜 억울하다. 분명히 관리하면서 잘 지내고 있었는데 검사를 받고 진행해야하는 일 때문에 검사를 꼭 병원이나 보건소에서 받고 오라고 해 받으러 갔다가 걸렸다”라며 확진 과정에서 억울한 부분이 있다고 설명했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “증상 없으면 자가키트로 하면 안되는건가. 목기침에 코는 꽉 막히고 두통에 몸살에 열에 그냥 뭐 감기종합세트, 나 진짜 잘 지내고 있었다고. 억울해”라며 지침을 따르지 않았다면 코로나19에 확진될 일도 없었다고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김연지는 2006년 그룹 씨야 1집 ‘여인의 향기’로 데뷔했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 뮤지컬 배우로 활동했으며 지난해 TV조선 ‘미스트롯2’에 출연했다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "씨야 출신 김연지, 코로나 확진 억울하다고 한 이유는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268117",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김세정, 유재석도 인정한 노력파",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 김세정이 노력이 담겨있는 가사를 공개했다.\n김세정은 지난 24일 자신의 사회관계망서비스(SNS) 인스타그램에 “오늘의 세상 일기 끝!”이라는 글과 함께 사진 10장을 게재했다.\n김세정은 2016년에 발매한 첫 솔로 앨범 타이틀곡 ‘꽃길’ 가사를 보다 정확하고 잘 부르기 위해 필기한 사진을 공개했다.\n이어 공개한 다른 사진에도 2020년 3월에 발매한 솔로곡 ‘화분’의 가사를 이해하기 위한 상세한 노력의 흔적이 남아있다.\n김세정은 이외에도 ‘터널’, ‘봄날은 간다’, ‘아마 난 그대를’, ‘Whale’(고래), ‘SKYLINE’(실루엣), ‘집에 가자’ 총 8곡의 가사를 분석한 종이를 올렸다.\n앞서 유재석은 지난해 1월 MBC ‘놀면 뭐하니’에서 “김세정은 내 라인”이라며, ‘열심히 하는 친구’ 중 하나로 김세정을 꼽은 바 있다.\n한편 김세정은 최근에 성황리에 종영한 SBS 월화드라마 ‘사내맞선’에서 신하리역으로 열연하며 큰 인기를 끌었고, 올해 하반기에 방영되는 SBS 드라마 ‘오늘의 웹툰’(가제)에 캐스팅을 확정지어 가수 뿐만 아니라 배우로서도 열일하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 김세정이 노력이 담겨있는 가사를 공개했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김세정은 지난 24일 자신의 사회관계망서비스(SNS) 인스타그램에 “오늘의 세상 일기 끝!”이라는 글과 함께 사진 10장을 게재했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김세정은 2016년에 발매한 첫 솔로 앨범 타이틀곡 ‘꽃길’ 가사를 보다 정확하고 잘 부르기 위해 필기한 사진을 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 공개한 다른 사진에도 2020년 3월에 발매한 솔로곡 ‘화분’의 가사를 이해하기 위한 상세한 노력의 흔적이 남아있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김세정은 이외에도 ‘터널’, ‘봄날은 간다’, ‘아마 난 그대를’, ‘Whale’(고래), ‘SKYLINE’(실루엣), ‘집에 가자’ 총 8곡의 가사를 분석한 종이를 올렸다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 유재석은 지난해 1월 MBC ‘놀면 뭐하니’에서 “김세정은 내 라인”이라며, ‘열심히 하는 친구’ 중 하나로 김세정을 꼽은 바 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김세정은 최근에 성황리에 종영한 SBS 월화드라마 ‘사내맞선’에서 신하리역으로 열연하며 큰 인기를 끌었고, 올해 하반기에 방영되는 SBS 드라마 ‘오늘의 웹툰’(가제)에 캐스팅을 확정지어 가수 뿐만 아니라 배우로서도 열일하고 있다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김세정, 유재석도 인정한 노력파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

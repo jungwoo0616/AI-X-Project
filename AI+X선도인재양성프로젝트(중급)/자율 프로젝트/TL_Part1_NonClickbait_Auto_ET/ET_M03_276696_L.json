@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276696",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"달라진 분위기\\\"…'정치부 기자' 된 방송인 조정린 근황",
+		"newsSubTitle": "",
+		"newsContent": "방송인에서 기자로 이직한 조정린(32)의 근황이 눈길을 끌었다.\n조정린은 지난 2012년 TV조선 공채 방송기자로 방송저널리스트 방송기자 신입사원 공개채용에 합격한 뒤 정치부 기자로 활동 중이다.\n조정린은 2002년 MBC 팔도모창가수왕으로 데뷔해 '논스톱5' '아찔한 소개팅' 등에 출연하며 인지도를 높였다.\n또 '섹션TV 연애통신' 등에서 리포터로 활약하며 사랑받았다.\n조정린은 이후 방송기자로 전향, 문화부에서 활동하다 사회부를 거쳐 지난해 6월부터 정치부에서 일하는 것으로 알려졌다.\n최근 한 방송에서 포착된 조정린은 과거 상큼하고 앳된 모습과 달리 성숙한 분위기를 드러냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인에서 기자로 이직한 조정린(32)의 근황이 눈길을 끌었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조정린은 지난 2012년 TV조선 공채 방송기자로 방송저널리스트 방송기자 신입사원 공개채용에 합격한 뒤 정치부 기자로 활동 중이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조정린은 2002년 MBC 팔도모창가수왕으로 데뷔해 '논스톱5' '아찔한 소개팅' 등에 출연하며 인지도를 높였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 '섹션TV 연애통신' 등에서 리포터로 활약하며 사랑받았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조정린은 이후 방송기자로 전향, 문화부에서 활동하다 사회부를 거쳐 지난해 6월부터 정치부에서 일하는 것으로 알려졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 한 방송에서 포착된 조정린은 과거 상큼하고 앳된 모습과 달리 성숙한 분위기를 드러냈다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"달라진 분위기\\\"…'정치부 기자' 된 방송인 조정린 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

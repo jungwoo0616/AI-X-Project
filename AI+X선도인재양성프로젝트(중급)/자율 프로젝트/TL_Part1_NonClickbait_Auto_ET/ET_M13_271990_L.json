@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271990",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘라스’부터 ‘골때녀’까지 오늘 대거 결방",
+		"newsSubTitle": "",
+		"newsContent": "제8회 전국동시시방선거가 1일 열린 가운데 개표방송으로 각 방송사 예능 프로그램이 대거 결방한다.\n이날 MBC 편성표에 따르면 이날 오후 9시 방송 예정이던 MBC 예능 ‘심장이 뛴다 38.5’ 10시 25분 방송 예정이던 ‘라디오스타’ 대신 ‘선택 2022 제 8회 전국동시지방선거 개표방송’이 전파를 탄다.\nSBS는 오후 9시 방송예정이었던 ‘골 때리는 그녀들’ 에 이어 스핀오프 예능인 10시 40분 ‘골 때리는 외박’까지 결방된다.\n대신 ‘2022 국민의 선택’이 방송된다.\nJTBC는 오후 9시 ‘톡파원 25’시 대신 ‘2022 우리의 선택 어울려 내일로’가 방송되며, 채널A는 오후 9시 20분 ‘요즘 남자 라이프-신랑수업’ 대신 ‘나의 선택 2022’가 자리를 채운다.\n다만 ‘옥탑방의 문제아들’ 등 KBS2 예능프로그램은 정상 방송되며 KBS1 ‘내 삶을 바꾸는 선택 2022 지방선거’를 통해 개표 현황을 생중계로 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제8회 전국동시시방선거가 1일 열린 가운데 개표방송으로 각 방송사 예능 프로그램이 대거 결방한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 MBC 편성표에 따르면 이날 오후 9시 방송 예정이던 MBC 예능 ‘심장이 뛴다 38.5’ 10시 25분 방송 예정이던 ‘라디오스타’ 대신 ‘선택 2022 제 8회 전국동시지방선거 개표방송’이 전파를 탄다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SBS는 오후 9시 방송예정이었던 ‘골 때리는 그녀들’ 에 이어 스핀오프 예능인 10시 40분 ‘골 때리는 외박’까지 결방된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대신 ‘2022 국민의 선택’이 방송된다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "JTBC는 오후 9시 ‘톡파원 25’시 대신 ‘2022 우리의 선택 어울려 내일로’가 방송되며, 채널A는 오후 9시 20분 ‘요즘 남자 라이프-신랑수업’ 대신 ‘나의 선택 2022’가 자리를 채운다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 ‘옥탑방의 문제아들’ 등 KBS2 예능프로그램은 정상 방송되며 KBS1 ‘내 삶을 바꾸는 선택 2022 지방선거’를 통해 개표 현황을 생중계로 볼 수 있다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘라스’부터 ‘골때녀’까지 오늘 대거 결방",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

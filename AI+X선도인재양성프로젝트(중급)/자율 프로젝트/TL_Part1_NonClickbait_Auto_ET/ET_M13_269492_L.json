@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269492",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "홍석천 “참 행운이었다, 수연 누나를 알게된 건”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 홍석천이 고 강수연을 추모했다.\n홍석천은 8일 자신의 SNS 인스타그램에 “참 행운이었다 연예계에 발을 들여놓은지 얼마 안되서 수연누나를 알게된 건”이라면서 “‘석천아 누난 니 그대로가 참 좋다’ 그 응원이 내겐 큰 힘이 됐었다”고 말문을 열었다.\n그러면서 그는 “‘누난 내가 아는 여자중에 젤 예뻐요’ 그랬다. 내가 그렇게 말했다. 누나는 그 특유의 보조개웃음을 보이며 ‘석천이는 바른말 잘하네’ 하며 농담하며 까르르 웃었다”고 회상했다.\n그는 또 “부산영화제 갈때마다 ‘오늘 넘 멋지게 입었네. 와줘서 고마워’ 하시던 누나의 웃음을 더이상 못보게됐다. 전화라도 더 자주 드릴껄. 맛있는거 같이 먹자고 나오라고 졸라댈걸 어려워하지말걸”이라면서 고 강수연과 나눈 대화들을 떠올렸다.\n홍석천은 “누나 이따가 보러갈게요. 아픈줄도모르고 미안해요”라며 안타까운 마음을 표현했다.\n한편, 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러진 뒤 의식불명 상태로 병원 치료를 받아오던 강수연은 7일 오후 3시 세상을 떠났다.\n향년 55세. 고인의 장례식은 영화인 장으로 치러지며, 빈소는 삼성서울병원 장례식장 지하 2층 17호다.\n조문은 8일부터 10일 오후 10시까지 가능하다.\n발인은 5월 11일이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 홍석천이 고 강수연을 추모했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍석천은 8일 자신의 SNS 인스타그램에 “참 행운이었다 연예계에 발을 들여놓은지 얼마 안되서 수연누나를 알게된 건”이라면서 “‘석천아 누난 니 그대로가 참 좋다’ 그 응원이 내겐 큰 힘이 됐었다”고 말문을 열었다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 그는 “‘누난 내가 아는 여자중에 젤 예뻐요’ 그랬다. 내가 그렇게 말했다. 누나는 그 특유의 보조개웃음을 보이며 ‘석천이는 바른말 잘하네’ 하며 농담하며 까르르 웃었다”고 회상했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 또 “부산영화제 갈때마다 ‘오늘 넘 멋지게 입었네. 와줘서 고마워’ 하시던 누나의 웃음을 더이상 못보게됐다. 전화라도 더 자주 드릴껄. 맛있는거 같이 먹자고 나오라고 졸라댈걸 어려워하지말걸”이라면서 고 강수연과 나눈 대화들을 떠올렸다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍석천은 “누나 이따가 보러갈게요. 아픈줄도모르고 미안해요”라며 안타까운 마음을 표현했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 지난 5일 서울 강남구 압구정동 자택에서 뇌출혈 증세로 쓰러진 뒤 의식불명 상태로 병원 치료를 받아오던 강수연은 7일 오후 3시 세상을 떠났다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "향년 55세. 고인의 장례식은 영화인 장으로 치러지며, 빈소는 삼성서울병원 장례식장 지하 2층 17호다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조문은 8일부터 10일 오후 10시까지 가능하다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "발인은 5월 11일이다.",
+				"sentenceSize": 13
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍석천 “참 행운이었다, 수연 누나를 알게된 건”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278459",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"쇼\\\" 가수 김원준,14세 연하 검사와 결혼…4월에 비공개로 식 올릴 것",
+		"newsSubTitle": "",
+		"newsContent": "가수 김원준이 결혼하는 것으로 알려졌다.\n4월 16일 오후 3시 서울 대검찰청에서 김원준은 14세 연하의 검사와 결혼식을 올릴 예정이다.\n김원준은 상대가 검찰청 소속 검사이기에 정확한 신원을 밝히기 꺼려하는 것으로 알려졌다.\n김원준의 소속사는 \\\"우리도 얼마전에 알았다. 김원준 씨가 결혼하는 것은 사실이다. 상견례는 이미 마쳤고 비공개로 진행될 것이다\\\"고 밝혔다.\n두 사람은 지인의 소개로 만났으며, 올해 초에 결혼을 결심한 것으로 알려졌다.\n김원준은 SNS로 '늘 아껴주시고 힘이 되어 주신 팬 분들께 감사드린다' 고 감사의 마음을 전했다.\n온라인 중앙일보 사진출처: 김제동의 톡투유",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김원준이 결혼하는 것으로 알려졌다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4월 16일 오후 3시 서울 대검찰청에서 김원준은 14세 연하의 검사와 결혼식을 올릴 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김원준은 상대가 검찰청 소속 검사이기에 정확한 신원을 밝히기 꺼려하는 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김원준의 소속사는 \\\"우리도 얼마전에 알았다. 김원준 씨가 결혼하는 것은 사실이다. 상견례는 이미 마쳤고 비공개로 진행될 것이다\\\"고 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람은 지인의 소개로 만났으며, 올해 초에 결혼을 결심한 것으로 알려졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김원준은 SNS로 '늘 아껴주시고 힘이 되어 주신 팬 분들께 감사드린다' 고 감사의 마음을 전했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 사진출처: 김제동의 톡투유",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"쇼\\\" 가수 김원준,14세 연하 검사와 결혼…4월에 비공개로 식 올릴 것",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268446",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "세븐틴 디노, 인스타 개설에…승관 ‘내 인생의 피처링”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 세븐틴의 멤버 디노가 인스타그램 계정을 만들어 화제에 올랐다.\n디노는 26일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 올렸다.\n사진 속 디노는 편안한 차림으로 카메라를 응시하지 않은 채 자유로운 모습으로 어딘가를 응시하고 있다.\n편안한 옷차림에도 불구하고 그의 훈훈한 미모가 시선을 끈다.\n디노가 새 인스타그램 계정을 만들자 세븐틴의 멤버 승관은 디노의 계정 아이디를 의식한 듯 “내 인생의 피쳐링”이라는 댓글을 달았으며, 멤버 도겸은 “노디노디 피철쓰”라며 그를 환영했다.\n소식을 들은 팬들 역시 “환영한다” “K팝의 미래가 왔다” “디노가 오다니”라며 그의 새로운 계정에 기쁨을 감추지 않았다.\n또 27일 트위터 실시간 트렌드에는 ‘디노 인스타’가 오르며 그의 새로운 소식에 대한 팬들의 큰 관심을 엿볼 수 있었다.\n한편 디노가 속한 그룹 세븐틴은 내달 27일 정규 4집 ‘Face the Sun’(페이스 더 선)을 발매할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 세븐틴의 멤버 디노가 인스타그램 계정을 만들어 화제에 올랐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "디노는 26일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 올렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 디노는 편안한 차림으로 카메라를 응시하지 않은 채 자유로운 모습으로 어딘가를 응시하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "편안한 옷차림에도 불구하고 그의 훈훈한 미모가 시선을 끈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디노가 새 인스타그램 계정을 만들자 세븐틴의 멤버 승관은 디노의 계정 아이디를 의식한 듯 “내 인생의 피쳐링”이라는 댓글을 달았으며, 멤버 도겸은 “노디노디 피철쓰”라며 그를 환영했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소식을 들은 팬들 역시 “환영한다” “K팝의 미래가 왔다” “디노가 오다니”라며 그의 새로운 계정에 기쁨을 감추지 않았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 27일 트위터 실시간 트렌드에는 ‘디노 인스타’가 오르며 그의 새로운 소식에 대한 팬들의 큰 관심을 엿볼 수 있었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 디노가 속한 그룹 세븐틴은 내달 27일 정규 4집 ‘Face the Sun’(페이스 더 선)을 발매할 예정이다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐틴 디노, 인스타 개설에…승관 ‘내 인생의 피처링”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

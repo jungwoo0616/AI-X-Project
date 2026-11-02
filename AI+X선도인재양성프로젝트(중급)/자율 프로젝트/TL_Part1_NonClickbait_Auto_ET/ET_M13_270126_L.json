@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270126",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단(BTS) 소속사 하이브 교육프로그램 총괄, 빌보드 ‘음악산업 젊은 리더’ 선정",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단(BTS) 등이 속한 하이브에서 연습생 교육 프로그램을 총괄하는 담당자가 세계 음악산업을 이끄는 ‘젊은 리더’로 선정됐다.\n하이브에서 T&D(Training&Development) 조직을 이끄는 신선정 제너럴 매니저(GM)가 13일 빌보드가 홈페이지에 공개한 ‘2022 빌보드 40 언더(Under) 40’ 명단에 올렸다. ‘빌보드 40 언더 40’은 음악 산업 전반에 미친 영향과 업적 등을 고려해 선정된 40세 미만 젊은 리더 40명 명단이다.\n신선정 GM은 하이브 T&D 사업실과 하이브 T&D 재팬을 이끌면서 한국과 일본에서 데뷔를 준비하는 연습생들의 교육에 필요한 프로그램 전반을 개발·운영중이다.\n빌보드는 이런 점을 높이 평가해 그가 음악 시장에 기여했다고 봤다.\n빌보드는 “가장 영향력 있는 K팝 레이블로 꼽히는 하이브 산하 레이블의 미래 아티스트 육성 시스템을 발전시켰고, 이를 통해 BTS, 투모로우바이투게더, 엔하이픈 등 스타 아티스트를 음악 시장에 배출하는 데 기여했다”고 선정 이유를 설명했다.\n하이브는 “연습생 교육 프로그램을 총괄하는 GM을 전 세계 40명의 젊은 리더 중 한 명으로 꼽은 것은 글로벌 음악 시장의 이목이 K팝 시스템에 쏠려있다는 것을 보여준다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단(BTS) 등이 속한 하이브에서 연습생 교육 프로그램을 총괄하는 담당자가 세계 음악산업을 이끄는 ‘젊은 리더’로 선정됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이브에서 T&D(Training&Development) 조직을 이끄는 신선정 제너럴 매니저(GM)가 13일 빌보드가 홈페이지에 공개한 ‘2022 빌보드 40 언더(Under) 40’ 명단에 올렸다. ‘빌보드 40 언더 40’은 음악 산업 전반에 미친 영향과 업적 등을 고려해 선정된 40세 미만 젊은 리더 40명 명단이다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신선정 GM은 하이브 T&D 사업실과 하이브 T&D 재팬을 이끌면서 한국과 일본에서 데뷔를 준비하는 연습생들의 교육에 필요한 프로그램 전반을 개발·운영중이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빌보드는 이런 점을 높이 평가해 그가 음악 시장에 기여했다고 봤다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빌보드는 “가장 영향력 있는 K팝 레이블로 꼽히는 하이브 산하 레이블의 미래 아티스트 육성 시스템을 발전시켰고, 이를 통해 BTS, 투모로우바이투게더, 엔하이픈 등 스타 아티스트를 음악 시장에 배출하는 데 기여했다”고 선정 이유를 설명했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하이브는 “연습생 교육 프로그램을 총괄하는 GM을 전 세계 40명의 젊은 리더 중 한 명으로 꼽은 것은 글로벌 음악 시장의 이목이 K팝 시스템에 쏠려있다는 것을 보여준다”고 밝혔다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단(BTS) 소속사 하이브 교육프로그램 총괄, 빌보드 ‘음악산업 젊은 리더’ 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274097",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영탁, 한층 댄디해지다",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁이 첫 정규 앨범 ‘MMM’ 2차 콘셉트 포토로 댄디한 비주얼을 뽐냈다.\n영탁 소속사 밀라그로는 지난 26일 공식 SNS 채널을 통해 두 번째 콘셉트 포토를 공개했다.\n사진 속 영탁은 한층 세련된 비주얼 변신을 선보였다.\n푸른색 셔츠를 착용한 영탁은 강렬한 눈빛을 드러냈으며, 화이트 셔츠를 입고 어딘가를 응시하며 아련함을 자아냈다.\n앞서 소속사 측은 지난 24일 두 번째 버전의 스포일러 이미지를 공개했다.\n영탁의 날렵한 턱선이 돋보이는 하관, 물기가 마르지 않은 손을 담아낸 스포일러 이미지로 궁금증을 일으킨 바 있다.\n최근 영탁은 스케줄러 이미지, 트랙리스트 이미지, 첫 번째 콘셉트 포토 등을 공개하며 컴백 카운트다운에 돌입했다.\n지난 2월 ‘전복 먹으러 갈래’로 사랑을 받았던 영탁이 어떤 새 음악으로 돌아올지 관심이 모인다.\n한편 영탁은 오는 7월 4일 오후 6시 첫 정규 앨범 ‘MMM’을 발매한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁이 첫 정규 앨범 ‘MMM’ 2차 콘셉트 포토로 댄디한 비주얼을 뽐냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영탁 소속사 밀라그로는 지난 26일 공식 SNS 채널을 통해 두 번째 콘셉트 포토를 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 영탁은 한층 세련된 비주얼 변신을 선보였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "푸른색 셔츠를 착용한 영탁은 강렬한 눈빛을 드러냈으며, 화이트 셔츠를 입고 어딘가를 응시하며 아련함을 자아냈다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 소속사 측은 지난 24일 두 번째 버전의 스포일러 이미지를 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영탁의 날렵한 턱선이 돋보이는 하관, 물기가 마르지 않은 손을 담아낸 스포일러 이미지로 궁금증을 일으킨 바 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 영탁은 스케줄러 이미지, 트랙리스트 이미지, 첫 번째 콘셉트 포토 등을 공개하며 컴백 카운트다운에 돌입했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 2월 ‘전복 먹으러 갈래’로 사랑을 받았던 영탁이 어떤 새 음악으로 돌아올지 관심이 모인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 영탁은 오는 7월 4일 오후 6시 첫 정규 앨범 ‘MMM’을 발매한다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁, 한층 댄디해지다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

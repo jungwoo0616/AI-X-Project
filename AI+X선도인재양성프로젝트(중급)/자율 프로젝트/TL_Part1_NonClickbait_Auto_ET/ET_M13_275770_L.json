@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275770",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "맹승지, 스폰서 제안에 “더위 먹은 사람” 일침",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 맹승지가 스폰서 제안을 한 브로커의 부적절한 메시지를 공개했다.\n18일 맹승지는 자신의 SNS에 “5억은 어려운 곳에 기부 합시다”라며 자신이 받은 DM을 모자이크 없이 공개를 했다.\n해당 DM은 맹승지에게 “안녕하세요. 의뢰가 잡혀 연락드려요. 현재 한국에 거주하시는 중국계 싱가폴 재벌가 20대 남성분께서 그쪽 픽해서 연락 드려요. 데이트 1회 5억 정도 드릴 수 있다고 하세요. 돈은 만날 때 선금이구요”라는 내용을 보냈다.\n맹승지는 이를 “더위 먹은 사람”이라고 꼬집었다.\n맹승지는 또 “한 달에 2-4회, 한 번에 1-2시간 정도 데이트가 가능할지 조심스럽게 여쭤본다. 한 번 만나 뵐 때마다 부족하지 않게 챙겨드리겠다”, “대기업 회장님들, 숨은 재력가님들, 외국계 투자가 분들 등 재력을 보유하신 분들과 여성분들을 스폰서라는 좋은 인연으로 소개시켜드리는 중개 에이전트 일을 하고 있어 그쪽 분에게 제안 드려보고자 DM 드렸다” 등 메시지도 공개를 해 망신을 줬다.\n맹승지는 MBC 20기 공채 개그맨으로 데뷔했으며 방송과 공연 무대를 오가며 맹활약 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 맹승지가 스폰서 제안을 한 브로커의 부적절한 메시지를 공개했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 맹승지는 자신의 SNS에 “5억은 어려운 곳에 기부 합시다”라며 자신이 받은 DM을 모자이크 없이 공개를 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 DM은 맹승지에게 “안녕하세요. 의뢰가 잡혀 연락드려요. 현재 한국에 거주하시는 중국계 싱가폴 재벌가 20대 남성분께서 그쪽 픽해서 연락 드려요. 데이트 1회 5억 정도 드릴 수 있다고 하세요. 돈은 만날 때 선금이구요”라는 내용을 보냈다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "맹승지는 이를 “더위 먹은 사람”이라고 꼬집었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "맹승지는 또 “한 달에 2-4회, 한 번에 1-2시간 정도 데이트가 가능할지 조심스럽게 여쭤본다. 한 번 만나 뵐 때마다 부족하지 않게 챙겨드리겠다”, “대기업 회장님들, 숨은 재력가님들, 외국계 투자가 분들 등 재력을 보유하신 분들과 여성분들을 스폰서라는 좋은 인연으로 소개시켜드리는 중개 에이전트 일을 하고 있어 그쪽 분에게 제안 드려보고자 DM 드렸다” 등 메시지도 공개를 해 망신을 줬다.",
+				"sentenceSize": 221
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "맹승지는 MBC 20기 공채 개그맨으로 데뷔했으며 방송과 공연 무대를 오가며 맹활약 중이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "맹승지, 스폰서 제안에 “더위 먹은 사람” 일침",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

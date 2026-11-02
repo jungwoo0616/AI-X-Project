@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277668",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "인스타그램 '개통' 이효리, 직접 영상 업로드",
+		"newsSubTitle": "",
+		"newsContent": "가수 이효리가 SNS를 다시 시작하며 이목을 집중시켰다.\n14일 이효리가 인스타그램 계정을 생성하고 2개의 영상을 업로드 했다.\n영상 속에는 이효리의 일상 모습이 담겼다.\n첫번째 영상 속에는 요가를 도와주고 있는 듯한 모습이 담겼다.\n두번째 영상에는 차를 타고 이동하는 이효리의 모습이 담겼다.\n자기소개란에는 \\\"매일 하루에 1분씩(Just 1 minute everday)\\\"라고 소개했다.\n아직 게시물은 2개에 불과하지만 순식간에 팔로워 수는 9130명으로 늘었다.\n팬들은 \\\"언니 돌아와주셔서 감사해요\\\" \\\"이효리님이 인스타를 시작했다\\\" \\\"뭐해 다들, 레드카펫 안깔고 쉬이스 백\\\"과 같은 반응을 보였다.\n이효리는 지난 2015년 6월 이후 블로그를 폐쇄하며 SNS를 중단했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이효리가 SNS를 다시 시작하며 이목을 집중시켰다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 이효리가 인스타그램 계정을 생성하고 2개의 영상을 업로드 했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에는 이효리의 일상 모습이 담겼다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "첫번째 영상 속에는 요가를 도와주고 있는 듯한 모습이 담겼다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두번째 영상에는 차를 타고 이동하는 이효리의 모습이 담겼다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자기소개란에는 \\\"매일 하루에 1분씩(Just 1 minute everday)\\\"라고 소개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아직 게시물은 2개에 불과하지만 순식간에 팔로워 수는 9130명으로 늘었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "팬들은 \\\"언니 돌아와주셔서 감사해요\\\" \\\"이효리님이 인스타를 시작했다\\\" \\\"뭐해 다들, 레드카펫 안깔고 쉬이스 백\\\"과 같은 반응을 보였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이효리는 지난 2015년 6월 이후 블로그를 폐쇄하며 SNS를 중단했다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스타그램 '개통' 이효리, 직접 영상 업로드",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

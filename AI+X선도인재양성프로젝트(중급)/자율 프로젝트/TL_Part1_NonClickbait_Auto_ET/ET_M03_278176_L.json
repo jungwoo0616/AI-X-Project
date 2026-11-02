@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278176",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "1박2일 윤시윤, 개명전 이름이 '대박'",
+		"newsSubTitle": "",
+		"newsContent": "'1박2일'윤시윤이 새이름을 공개했다.\n지난 1일 방송된 KBS2 '해피선데이-1박2일'에서는 새롭게 합류한 윤시윤의 모습이 전파를 탔다. '1박2일'윤시윤은 아무것도 모른채 멤버들의 손에 이끌려 여행에 나선 윤시윤은 제작진-멤버들의 환영을 받으며 소개의 시간을 가졌다.\n윤시윤은 다양한 이야기를 나누던 중 제작진은 '윤시윤과 가수 비, 에릭의 공통점'에 대해 질문했고, 제작진은 \\\"바로 연기자일 때 이름과 가수일 때 이름이 다르다는 것\\\"이며 \\\"윤시윤에게 예능에 최적화된 이름인 윤동구로 부르겠다\\\"고 말했다.\n윤동구는 윤시윤의 개명 전 이름. 멤버들은 \\\"돈 들여 개명 했더니 다시 돌아가는 것\\\"이라고 입을 모으며 \\\"동구야~\\\"라고 불러 폭소케 했다.\n한편 2일 시청률 조사회사 닐슨코리아(일일 전국기준)에 따르면 1일 오후 방송된 '1박2일'은 15.4%의 시청률을 기록했다.\n지난주 방송 15.0% 보다 0.4% 상승하며 동시간대 시청률 1위는 물론 주말 예능 1위를 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'1박2일'윤시윤이 새이름을 공개했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1일 방송된 KBS2 '해피선데이-1박2일'에서는 새롭게 합류한 윤시윤의 모습이 전파를 탔다. '1박2일'윤시윤은 아무것도 모른채 멤버들의 손에 이끌려 여행에 나선 윤시윤은 제작진-멤버들의 환영을 받으며 소개의 시간을 가졌다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤시윤은 다양한 이야기를 나누던 중 제작진은 '윤시윤과 가수 비, 에릭의 공통점'에 대해 질문했고, 제작진은 \\\"바로 연기자일 때 이름과 가수일 때 이름이 다르다는 것\\\"이며 \\\"윤시윤에게 예능에 최적화된 이름인 윤동구로 부르겠다\\\"고 말했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤동구는 윤시윤의 개명 전 이름. 멤버들은 \\\"돈 들여 개명 했더니 다시 돌아가는 것\\\"이라고 입을 모으며 \\\"동구야~\\\"라고 불러 폭소케 했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 2일 시청률 조사회사 닐슨코리아(일일 전국기준)에 따르면 1일 오후 방송된 '1박2일'은 15.4%의 시청률을 기록했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난주 방송 15.0% 보다 0.4% 상승하며 동시간대 시청률 1위는 물론 주말 예능 1위를 기록했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "1박2일 윤시윤, 개명전 이름이 '대박'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280827",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "싸이 콘서트, “처음으로 저보다 체력이 센 관객을 만났다”… 소감 전해 '눈길'",
+		"newsSubTitle": "",
+		"newsContent": "싸이 콘서트, “처음으로 저보다 체력이 센 관객을 만났다”… 소감 전해 '눈길' 싸이가 콘서트 첫날을 마친 소감을 밝혀 화제다.\n25일 오전 가수 싸이는 자신의 트위터에 \\\"드디어 첫 공연이 끝났네요. 처음으로 저보다 체력이 센 관객을 만났습니다 ㅋ 정말 행복했습니다!!\\\"라는 글을 게재했다.\n앞서 싸이는 지난 24일 오후 서울 방이동 올림픽공원 체조경기장에서 '올나잇 스탠드 2015- 공연의 갓싸이' 콘서트를 개최했다.\n1만 2500여 관객들과 함께 열정적인 콘서트를 진행했다.\n한편 싸이는 오는 26일까지 연말 콘서트 ‘올나잇 스탠드-공연의 갓싸이’를 진행할 예정이다.\n25일에 진행되는 싸이 연말 콘서트는 네이버 V앱으로도 생중계 된다. ‘싸이 콘서트’ ‘싸이 콘서트’ 온라인 중앙일보 [사진 중앙DB]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "싸이 콘서트, “처음으로 저보다 체력이 센 관객을 만났다”… 소감 전해 '눈길' 싸이가 콘서트 첫날을 마친 소감을 밝혀 화제다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 오전 가수 싸이는 자신의 트위터에 \\\"드디어 첫 공연이 끝났네요. 처음으로 저보다 체력이 센 관객을 만났습니다 ㅋ 정말 행복했습니다!!\\\"라는 글을 게재했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 싸이는 지난 24일 오후 서울 방이동 올림픽공원 체조경기장에서 '올나잇 스탠드 2015- 공연의 갓싸이' 콘서트를 개최했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1만 2500여 관객들과 함께 열정적인 콘서트를 진행했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 싸이는 오는 26일까지 연말 콘서트 ‘올나잇 스탠드-공연의 갓싸이’를 진행할 예정이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "25일에 진행되는 싸이 연말 콘서트는 네이버 V앱으로도 생중계 된다. ‘싸이 콘서트’ ‘싸이 콘서트’ 온라인 중앙일보 [사진 중앙DB]",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싸이 콘서트, “처음으로 저보다 체력이 센 관객을 만났다”… 소감 전해 '눈길'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

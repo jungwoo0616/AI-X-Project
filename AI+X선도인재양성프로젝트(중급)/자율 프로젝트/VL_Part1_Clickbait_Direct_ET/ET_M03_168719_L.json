@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168719",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'정글의 법칙' 용준형, 벌레 공포증…윤두준에게 꼭 붙어 \\\"떨어지면 불안해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "‘정글의법칙’ 용준형이 벌레 공포증을 보였다.\n13일 방송된 SBS 예능프로그램 ‘정법 보물섬 in 사모아’(이하 정글의법칙)에서는 남태평양 사모아섬에서 생존을 시작한 22기 병만족 김병만, 이원종, 강균성, 이상엽, 왕지혜, 정준영, 용준형, 윤두준의 모습이 전파를 탔다.\n이날 뒤늦게 정글에 합류한 용준형과 윤두준은 어두운 밤길을 지나 먼저 도착한 멤버들을 찾아나섰다.\n이때 용준형은 “너무 떨어지면 불안하다”면서 윤두준에게 꼭 붙어 이목을 집중시켰다.\n특히 용준형은 불빛을 따라 벌레들이 모여들자 “아! 벌레 벌레!”라며 기겁해 웃음을 끌어냈다.\n용준형은 “이제 좀 (정글에 온) 실감이 난다”며 “무섭다”고 털어 놓았다.\n온라인 중앙일보 정글의 법칙 용준형 [사진 SBS ‘정글의 법치’ 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘정글의법칙’ 용준형이 벌레 공포증을 보였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 SBS 예능프로그램 ‘정법 보물섬 in 사모아’(이하 정글의법칙)에서는 남태평양 사모아섬에서 생존을 시작한 22기 병만족 김병만, 이원종, 강균성, 이상엽, 왕지혜, 정준영, 용준형, 윤두준의 모습이 전파를 탔다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 뒤늦게 정글에 합류한 용준형과 윤두준은 어두운 밤길을 지나 먼저 도착한 멤버들을 찾아나섰다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 용준형은 “너무 떨어지면 불안하다”면서 윤두준에게 꼭 붙어 이목을 집중시켰다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 용준형은 불빛을 따라 벌레들이 모여들자 “아! 벌레 벌레!”라며 기겁해 웃음을 끌어냈다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "용준형은 “이제 좀 (정글에 온) 실감이 난다”며 “무섭다”고 털어 놓았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 정글의 법칙 용준형 [사진 SBS ‘정글의 법치’ 방송화면 캡처]",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘정글의 법칙’ 출연한 용준형, 윤두준에게 꼭 붙은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

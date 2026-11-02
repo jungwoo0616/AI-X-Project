@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275129",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "현진영, 사칭 계정 경고 “보시면 신고하세요”",
+		"newsSubTitle": "",
+		"newsContent": "가수 현진영이 사칭 계정에 분노, 신고를 부탁했다.\n현진영은 9일 자신의 사회관계망서비스(SNS)에 “또 저를 사칭하는 비공개 계정이 두개나 나타났습니다. 왜들 그럴까요?”라는 글과 함께 자신을 사칭하는 계정을 공개했다.\n현진영은 “제 와이프한테도 팔로우 신청하고 주로 여성 팬분들께 팔로우해서 DM을 보내고 있습니다. 몇 살이냐 물어보고 정신 나간 놈 같습니다”라고 밝혔다.\n현진영은 피해를 당하지 않도록 당부했다.\n그는 “이 계정이 팔로우 신청하면 무시하시고 신고하고 차단해 주세요”라고 설명했다.\n끝으로 “제발 나 좀 사칭하지마라”라고 부탁했다.\n한편 가수 현진영은 지난 1990년 데뷔했고, 2집 ‘흐린 기억 속의 기대’로 많은 사랑을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 현진영이 사칭 계정에 분노, 신고를 부탁했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현진영은 9일 자신의 사회관계망서비스(SNS)에 “또 저를 사칭하는 비공개 계정이 두개나 나타났습니다. 왜들 그럴까요?”라는 글과 함께 자신을 사칭하는 계정을 공개했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현진영은 “제 와이프한테도 팔로우 신청하고 주로 여성 팬분들께 팔로우해서 DM을 보내고 있습니다. 몇 살이냐 물어보고 정신 나간 놈 같습니다”라고 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현진영은 피해를 당하지 않도록 당부했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “이 계정이 팔로우 신청하면 무시하시고 신고하고 차단해 주세요”라고 설명했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "끝으로 “제발 나 좀 사칭하지마라”라고 부탁했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 가수 현진영은 지난 1990년 데뷔했고, 2집 ‘흐린 기억 속의 기대’로 많은 사랑을 받았다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현진영, 사칭 계정 경고 “보시면 신고하세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

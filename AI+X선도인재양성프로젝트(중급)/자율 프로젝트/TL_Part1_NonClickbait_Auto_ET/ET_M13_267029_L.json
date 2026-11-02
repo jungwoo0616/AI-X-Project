@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267029",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "옹성우가 보여준 ‘자기애’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 워너원 출신 가수 겸 배우 옹성우가 심상치 않은 ‘자기애’를 보였다.\n옹성우는 14일 자신의 사회관계망서비스(SNS)에 “자기애”라면서 여러 장의 사진을 게재했다.\n공개된 사진 속 옹성우는 헝클어진 머리를 한 채 거울에 비치는 자기의 모습을 찍고 있다.\n자기애에 심취된 채 한껏 진지하고 심각한 표정을 짓던 옹성우는 이내 웃음을 터트린다.\n한편 옹성우는 2017년 엠넷 예능 글로벌 아이돌 육성 프로젝트 ‘프로듀스 X 101 시즌2’를 통해 그룹 워너원(Wanna One)으로 데뷔, 현재 가수 겸 배우로 활동 중이다.\n옹성우는 영화 ‘인생은 아름다워’, ‘정가네 목장’, ‘서울대작전’, ‘별빛이 내린다’ 캐스팅을 발표하는 등 2022년에도 활발한 활동을 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 워너원 출신 가수 겸 배우 옹성우가 심상치 않은 ‘자기애’를 보였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옹성우는 14일 자신의 사회관계망서비스(SNS)에 “자기애”라면서 여러 장의 사진을 게재했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 옹성우는 헝클어진 머리를 한 채 거울에 비치는 자기의 모습을 찍고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자기애에 심취된 채 한껏 진지하고 심각한 표정을 짓던 옹성우는 이내 웃음을 터트린다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 옹성우는 2017년 엠넷 예능 글로벌 아이돌 육성 프로젝트 ‘프로듀스 X 101 시즌2’를 통해 그룹 워너원(Wanna One)으로 데뷔, 현재 가수 겸 배우로 활동 중이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "옹성우는 영화 ‘인생은 아름다워’, ‘정가네 목장’, ‘서울대작전’, ‘별빛이 내린다’ 캐스팅을 발표하는 등 2022년에도 활발한 활동을 예고했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "옹성우가 보여준 ‘자기애’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

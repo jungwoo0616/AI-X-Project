@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264541",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] ‘김성주子’ 김민국 “아무나 붙잡고 얘기하고 싶다” 무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김성주의 아들 김민국이 SNS에 의미심장한 글을 남겼다.\n김민국은 21일 자신의 사회관계망서비스(SNS) 인스타그램에 “아무라도 붙잡고 진득하게 얘기하고 싶다”며 “어느 주제여도 좋으니 민폐가 될 정도로 한시간 두시간 넘어가는 줄 모르게 해질녘에 시작해 참새가 울 때까지 목 타는 줄도 모르게”라며 심경을 토로했다.\n그는 이어 “말만 걸어주시라”며 “짧은 시간이겠지만 내용은 십 년 넘게 보장 해드리겠다”고 말했다.\n김민국은 최근 자신의 인스타그램을 통해 “올해로 19살이다. 10대의 시한부를 느끼고 있다”며 “요즘 점점 생각이 많아지고 있다. 솔직히 아직 20대를 맞이할 준비는 된 것 같지 않다”며 솔직한 심내를 털어놓은 바 있다.\n이하 김민국 인스타그램 전문. 아무라도 붙잡고 진득하게 얘기하고 싶다.\n어느 주제여도 좋으니 민폐가 될 정도로 한시간 두시간 넘어가는 줄 모르게 해질녘에 시작해 참새가 울을 때까지 목타는 줄도 모르게 그 모든 것에서 잠시 비껴난 구석에서 햇살조차 안드는 신발장 옆에서 샴푸 사러가는 마트길에서 말만 걸어주시라 찰나의 시간이겠지만 그 안에서의 듣고 나눴던 대화의 내용은 내 십 년 넘게 보장해드리리라",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김성주의 아들 김민국이 SNS에 의미심장한 글을 남겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김민국은 21일 자신의 사회관계망서비스(SNS) 인스타그램에 “아무라도 붙잡고 진득하게 얘기하고 싶다”며 “어느 주제여도 좋으니 민폐가 될 정도로 한시간 두시간 넘어가는 줄 모르게 해질녘에 시작해 참새가 울 때까지 목 타는 줄도 모르게”라며 심경을 토로했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 이어 “말만 걸어주시라”며 “짧은 시간이겠지만 내용은 십 년 넘게 보장 해드리겠다”고 말했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김민국은 최근 자신의 인스타그램을 통해 “올해로 19살이다. 10대의 시한부를 느끼고 있다”며 “요즘 점점 생각이 많아지고 있다. 솔직히 아직 20대를 맞이할 준비는 된 것 같지 않다”며 솔직한 심내를 털어놓은 바 있다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이하 김민국 인스타그램 전문. 아무라도 붙잡고 진득하게 얘기하고 싶다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "어느 주제여도 좋으니 민폐가 될 정도로 한시간 두시간 넘어가는 줄 모르게 해질녘에 시작해 참새가 울을 때까지 목타는 줄도 모르게 그 모든 것에서 잠시 비껴난 구석에서 햇살조차 안드는 신발장 옆에서 샴푸 사러가는 마트길에서 말만 걸어주시라 찰나의 시간이겠지만 그 안에서의 듣고 나눴던 대화의 내용은 내 십 년 넘게 보장해드리리라",
+				"sentenceSize": 182
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] ‘김성주子’ 김민국 “아무나 붙잡고 얘기하고 싶다” 무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

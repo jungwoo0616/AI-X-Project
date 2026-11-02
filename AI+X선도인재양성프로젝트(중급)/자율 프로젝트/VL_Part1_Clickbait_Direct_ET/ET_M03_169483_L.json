@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169483",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“경리·정진운 2년째 열애 중…휴가 때마다 데이트 ‘각별’”",
+    "newsSubTitle": "",
+    "newsContent": "가수 경리(29)와 정진운(28)이 열애설에 휩싸였다.\n13일 SBS funE는 경리와 정진운이 2017년쯤 연인으로 발전한 뒤 2년째 열애 중이라고 보도했다.\n지난 3월 정진운이 군 입대한 이후에도 휴가 때마다 데이트를 즐기며 각별한 애정을 드러냈다고 전했다.\n이와 대해 경리와 정진운의 소속사는 각각 “사실을 확인 중”이라고 밝혔다.\n경리와 정진운은 가수 선후배이면서 여러 예능 프로그램에서 활약했다는 공통점이 있다.\n또 2017년 12월에는 듀엣곡 ‘둘만의 크리스마스’를 발표하기도 했다.\n2AM으로 데뷔한 정진운은 지난 3월 입대해 군악대에서 복무 중이다.\n나인뮤지스로 데뷔한 경리는 지난 7월 스타제국과 전속계약 만료 후 혼자 활동 중이다.\nMBC ‘섹션TV 연예통신’에 출연 중이다.\n자신의 이름을 딴 유튜브 채널 ‘경리간길’을 통해 팬들과 소통하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 경리(29)와 정진운(28)이 열애설에 휩싸였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 SBS funE는 경리와 정진운이 2017년쯤 연인으로 발전한 뒤 2년째 열애 중이라고 보도했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 3월 정진운이 군 입대한 이후에도 휴가 때마다 데이트를 즐기며 각별한 애정을 드러냈다고 전했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 대해 경리와 정진운의 소속사는 각각 “사실을 확인 중”이라고 밝혔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경리와 정진운은 가수 선후배이면서 여러 예능 프로그램에서 활약했다는 공통점이 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 2017년 12월에는 듀엣곡 ‘둘만의 크리스마스’를 발표하기도 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2AM으로 데뷔한 정진운은 지난 3월 입대해 군악대에서 복무 중이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나인뮤지스로 데뷔한 경리는 지난 7월 스타제국과 전속계약 만료 후 혼자 활동 중이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "MBC ‘섹션TV 연예통신’에 출연 중이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "자신의 이름을 딴 유튜브 채널 ‘경리간길’을 통해 팬들과 소통하고 있다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "경리·정진운 열애 인정, 휴가 때마다 뜨거운 만남",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

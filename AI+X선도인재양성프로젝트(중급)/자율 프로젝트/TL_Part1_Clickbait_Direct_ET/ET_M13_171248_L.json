@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171248",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘104kg’ 황신영, 세쌍둥이 출산 위해 수술실行",
+    "newsSubTitle": "",
+    "newsContent": "코미디언 황신영 세쌍둥이를 출산에 임박했다.\n황신영은 27일 자신의 인스타그램 스토리에 “다녀올게요. 사랑해요”라는 글과 함께 짧은 영상을 게재했다.\n영상 속에는 들 것에 실려 출산을 하러 수술실에 입장하고 있는 황신영의 모습이 담겨있다.\n그는 수술실로 들어가는 순간에도 손을 흔들며 유쾌한 모습을 선보였다.\n한편, 황신영은 2017년 12월 5세 연상의 비연예인과 결혼했다.\n이후 지난 2월 시험관 시술을 통해 세쌍둥이를 임신했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코미디언 황신영 세쌍둥이를 출산에 임박했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "황신영은 27일 자신의 인스타그램 스토리에 “다녀올게요. 사랑해요”라는 글과 함께 짧은 영상을 게재했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속에는 들 것에 실려 출산을 하러 수술실에 입장하고 있는 황신영의 모습이 담겨있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 수술실로 들어가는 순간에도 손을 흔들며 유쾌한 모습을 선보였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 황신영은 2017년 12월 5세 연상의 비연예인과 결혼했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 지난 2월 시험관 시술을 통해 세쌍둥이를 임신했다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코미디언 황신영, 이것 때문에 수술실에 들어가다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271557",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단, 日 레코드협회 스트리밍 부문 플래티넘 획득",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 총 4곡으로 일본 레코드협회로부터 ‘플래티넘’과 ‘골드’ 인증을 받았다.\n27일 일본 레코드협회에 따르면, 방탄소년단이 2018년 5월 발표한 LOVE YOURSELF 轉 ‘Tear’의 타이틀곡 ‘FAKE LOVE’는 누적 재생수 1억 회를 돌파해 2022년 4월 기준 ‘플래티넘’ 인증 작품에 올랐다.\n또한, 2018년 8월 발매된 LOVE YOURSELF 結 ‘Answer’의 수록곡 ‘Answer : Love Myself’와 2019년 4월 공개된 ‘MAP OF THE SOUL : PERSONA’에 수록된 ‘소우주(Mikrokosmos)’, 2015년 4월 나온 ‘화양연화 pt.1’의 타이틀곡 ‘I NEED U’는 각각 누적 5,000만 회 이상 재생돼 ‘골드’ 인증을 획득했다.\n일본 레코드협회는 곡의 누적 재생 횟수(스트리밍 부문)에 따라 실버(3,000만 회 이상), 골드(5,000만 회 이상), 플래티넘(1억 회 이상), 다이아몬드(5억 회 이상)로 구분해 매달 공식 홈페이지를 통해 인증 결과를 발표한다.\n방탄소년단은 앞서 디지털 싱글 ‘Dynamite’로 누적 다운로드 횟수 50만을 넘어 ‘더블 플래티넘’ 인증(2022년 3월 기준)을 획득한 바 있다.\n특히, ‘Dynamite’는 누적 재생수 5억 회를 돌파해 2022년 1월 기준 ‘다이아몬드’ 인증 작품 명단에도 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 총 4곡으로 일본 레코드협회로부터 ‘플래티넘’과 ‘골드’ 인증을 받았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 일본 레코드협회에 따르면, 방탄소년단이 2018년 5월 발표한 LOVE YOURSELF 轉 ‘Tear’의 타이틀곡 ‘FAKE LOVE’는 누적 재생수 1억 회를 돌파해 2022년 4월 기준 ‘플래티넘’ 인증 작품에 올랐다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한, 2018년 8월 발매된 LOVE YOURSELF 結 ‘Answer’의 수록곡 ‘Answer : Love Myself’와 2019년 4월 공개된 ‘MAP OF THE SOUL : PERSONA’에 수록된 ‘소우주(Mikrokosmos)’, 2015년 4월 나온 ‘화양연화 pt.1’의 타이틀곡 ‘I NEED U’는 각각 누적 5,000만 회 이상 재생돼 ‘골드’ 인증을 획득했다.",
+				"sentenceSize": 215
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일본 레코드협회는 곡의 누적 재생 횟수(스트리밍 부문)에 따라 실버(3,000만 회 이상), 골드(5,000만 회 이상), 플래티넘(1억 회 이상), 다이아몬드(5억 회 이상)로 구분해 매달 공식 홈페이지를 통해 인증 결과를 발표한다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단은 앞서 디지털 싱글 ‘Dynamite’로 누적 다운로드 횟수 50만을 넘어 ‘더블 플래티넘’ 인증(2022년 3월 기준)을 획득한 바 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히, ‘Dynamite’는 누적 재생수 5억 회를 돌파해 2022년 1월 기준 ‘다이아몬드’ 인증 작품 명단에도 올랐다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 日 레코드협회 스트리밍 부문 플래티넘 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

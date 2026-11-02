@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269330",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "홍석천, 또 사칭 계정 생겼다 “제발”",
+		"newsSubTitle": "",
+		"newsContent": "배우 홍석천이 사칭 계정으로 인한 피해를 호소했다.\n홍석천은 6일 자신의 사회관계망서비스(SNS) 인스타그램에 “요즘들어 사칭하는 인간들이 너무 많아졌다. 다들 조심하라. 이상한 문자받으시면 꼭 신고해주시고. 제 인스타계정은 tonyhong1004 이거하나뿐이다. 절대 피해입지않게 조심해라. 인스타그램 관계자분들도 사칭계정 좀 없애주세요 제발” 이라는 글과 함께 사칭 계정의 사진을 공개했다.\n사칭 계정은 홍선천의 계정의 아이디를 흉내낼 뿐만 아니라 프로필 사진까지 본계정과 동일한 사진으로 등록해 혼선을 줄 여지가 보인다.\n누리꾼들은 해당 게시물에 “힘내시라” “신고하겠다” “홍석천님 사칭계정 3개나 신고했다”며 염려의 메시지를 보냈다.\n홍석천은 인스타그램을 통해 이미 여러 번 사칭 계정으로 인한 피해를 알린 바 있다.\n앞서 배우 정보석, 윤계상 역시 사칭 계정으로 인한 피해를 알렸다.\n한편 배우 홍석천은 최근 종영한 KBS2 드라마 ‘신사와 아가씨’에 조연으로 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 홍석천이 사칭 계정으로 인한 피해를 호소했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍석천은 6일 자신의 사회관계망서비스(SNS) 인스타그램에 “요즘들어 사칭하는 인간들이 너무 많아졌다. 다들 조심하라. 이상한 문자받으시면 꼭 신고해주시고. 제 인스타계정은 tonyhong1004 이거하나뿐이다. 절대 피해입지않게 조심해라. 인스타그램 관계자분들도 사칭계정 좀 없애주세요 제발” 이라는 글과 함께 사칭 계정의 사진을 공개했다.",
+				"sentenceSize": 191
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사칭 계정은 홍선천의 계정의 아이디를 흉내낼 뿐만 아니라 프로필 사진까지 본계정과 동일한 사진으로 등록해 혼선을 줄 여지가 보인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 해당 게시물에 “힘내시라” “신고하겠다” “홍석천님 사칭계정 3개나 신고했다”며 염려의 메시지를 보냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍석천은 인스타그램을 통해 이미 여러 번 사칭 계정으로 인한 피해를 알린 바 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 배우 정보석, 윤계상 역시 사칭 계정으로 인한 피해를 알렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 배우 홍석천은 최근 종영한 KBS2 드라마 ‘신사와 아가씨’에 조연으로 출연했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍석천, 또 사칭 계정 생겼다 “제발”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

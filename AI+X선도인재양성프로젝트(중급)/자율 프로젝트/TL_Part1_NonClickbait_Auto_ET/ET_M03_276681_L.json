@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276681",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'초아 탈퇴' 놓고 열성팬이 올린 의미심장 글",
+		"newsSubTitle": "",
+		"newsContent": "AOA 초아가 자신의 소셜네트워크서비스(SNS)를 통해 팀 탈퇴 의사를 밝힌 가운데, 이번 탈퇴를 놓고 한 열성팬의 의미심장한 글이 눈길을 끌었다.\n22일 밤 초아는 자신의 인스타그램에 \\\"소속사와 협의로 오늘부로 AOA라는 팀에서 탈퇴하여 함께 했던 멤버들의 활동을 응원하고자 한다\\\"며 장문의 글을 게재했다.\n이후 초아의 열성팬이 운영하는 것으로 추정되는 트위터 계정에는 초아의 사진 4장과 함께 \\\"22일까지 위 사진 4개 중 제가 원하는 답의 공통점을 멘션으로 맞추시는 한 분께 기프티콘을 드리겠다\\\"는 글이 게재됐다.\n공개된 사진에는 여러 행사에서 약지에 반지를 착용한 초아의 모습이 담겼다.\n이를 본 네티즌들은 이른바 '러브링'으로 불리는 한 브랜드의 반지라고 추측했다.\n이 팬은 또 약 한시간 뒤 \\\"하이고 됐고. 내일 스포츠XX이나 확인들 해라\\\"며 초아의 탈퇴 배경과 관련한 것으로 보이는 보도를 예고하기도 했다.\n한편 초아의 소속사인 FNC엔터테인먼트는 \\\"초아의 AOA 탈퇴는 서로 얘기가 오가는 상황이지 결정된 사안은 아니다\\\"며 \\\"향후 거취에 대해서는 논의 후 결정할 예정\\\"이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AOA 초아가 자신의 소셜네트워크서비스(SNS)를 통해 팀 탈퇴 의사를 밝힌 가운데, 이번 탈퇴를 놓고 한 열성팬의 의미심장한 글이 눈길을 끌었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 밤 초아는 자신의 인스타그램에 \\\"소속사와 협의로 오늘부로 AOA라는 팀에서 탈퇴하여 함께 했던 멤버들의 활동을 응원하고자 한다\\\"며 장문의 글을 게재했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 초아의 열성팬이 운영하는 것으로 추정되는 트위터 계정에는 초아의 사진 4장과 함께 \\\"22일까지 위 사진 4개 중 제가 원하는 답의 공통점을 멘션으로 맞추시는 한 분께 기프티콘을 드리겠다\\\"는 글이 게재됐다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 여러 행사에서 약지에 반지를 착용한 초아의 모습이 담겼다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 본 네티즌들은 이른바 '러브링'으로 불리는 한 브랜드의 반지라고 추측했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 팬은 또 약 한시간 뒤 \\\"하이고 됐고. 내일 스포츠XX이나 확인들 해라\\\"며 초아의 탈퇴 배경과 관련한 것으로 보이는 보도를 예고하기도 했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 초아의 소속사인 FNC엔터테인먼트는 \\\"초아의 AOA 탈퇴는 서로 얘기가 오가는 상황이지 결정된 사안은 아니다\\\"며 \\\"향후 거취에 대해서는 논의 후 결정할 예정\\\"이라고 전했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'초아 탈퇴' 놓고 열성팬이 올린 의미심장 글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

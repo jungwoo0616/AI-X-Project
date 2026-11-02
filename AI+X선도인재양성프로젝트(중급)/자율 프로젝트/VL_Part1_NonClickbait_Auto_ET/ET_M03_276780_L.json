@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276780",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최근 입대한 슈퍼주니어 규현 훈련소 근황",
+		"newsSubTitle": "",
+		"newsContent": "그룹 슈퍼주니어 멤버 규현의 훈련소 근황이 공개됐다.\n30일 육군훈련소 홈페이지에는 규현의 훈련소 사진이 올라왔다.\n공개된 사진 속 규현은 주먹을 꼭 쥔 채 카메라를 응시하고 있다.\n한층 늠름해진 모습과 다부진 눈빛이 눈길을 끈다.\n규현의 근황을 본 네티즌들은 \\\"아프지 말고 건강하게 다녀와라\\\" \\\"눈이 똘망똘망해서 귀엽네\\\" 등의 반응을 보였다.\n한편 규현은 지난 25일 충남 논산 육군훈련소에 입소했다.\n그는 4주간 기초 군사훈련을 받은 뒤 사회복무 요원으로 대체 복무할 예정이다.\n앞서 규현은 2007년 차량이 전복되는 대형 교통사고를 당해 병무청 신체검사에서 4급 판정을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 슈퍼주니어 멤버 규현의 훈련소 근황이 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 육군훈련소 홈페이지에는 규현의 훈련소 사진이 올라왔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 규현은 주먹을 꼭 쥔 채 카메라를 응시하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한층 늠름해진 모습과 다부진 눈빛이 눈길을 끈다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "규현의 근황을 본 네티즌들은 \\\"아프지 말고 건강하게 다녀와라\\\" \\\"눈이 똘망똘망해서 귀엽네\\\" 등의 반응을 보였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 규현은 지난 25일 충남 논산 육군훈련소에 입소했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 4주간 기초 군사훈련을 받은 뒤 사회복무 요원으로 대체 복무할 예정이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 규현은 2007년 차량이 전복되는 대형 교통사고를 당해 병무청 신체검사에서 4급 판정을 받았다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최근 입대한 슈퍼주니어 규현 훈련소 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281725",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'12월의 기적' 엑소 \\\"겨울 스페셜 앨범 들으며 따뜻하게 보내길\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'12월의 기적' 엑소 \\\"겨울 스페셜 앨범 들으며 따뜻하게 보내길\\\" 엑소가 겨울 앨범에 대한 기대감을 높였다.\n엑소 수호와 첸은 2일 홍콩 아시아월드 엑스포에서 열린 2015 'MAMA' 사전 인터뷰서 \\\"겨울 앨범이 나온다. 앨범을 들으며 겨울을 따뜻하게 보내길 바란다\\\"고 했다.\n이어 \\\"연말부터 내년까지 중국은 물론 동남아시아 투어를 한다\\\"며 \\\"많은 아시아팬들과 공연하며 이 겨울을 보내겠다\\\"고 덧붙였다. 'MAMA'는 Mnet이 주최하는 아시아 대표 음악 축제로 올해로 7회를 맞이했다.\n1999년 'Mnet KM 뮤직비디오 페스티벌'로 시작해 대한민국 음악 산업의 성장과 함께 꾸준히 진화를 거듭해오며 10여 년 동안 국내에서 진행하다 2010년부터는 마카오를 시작으로 2011년 싱가포르, 2012년부터 2015년까지 홍콩으로 이어지며 음악 시상식을 넘어 전 세계인들이 즐기는 최대 음악 축제로 자리잡았다.\n올해는 아시아 각국의 음악산업 발전에 기여한 프로듀서·엔지니어·공연제작자에게 수여하는 'MAMA' 전문 부문 시상을 신설했다.\nf(x)·펫샵보이즈·빅뱅·엑소·샤이니·박진영·몬스타엑스·방탄소년단·갓세븐·현아·싸이·세븐틴·산이·제시·씨엘·아이콘 등이 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'12월의 기적' 엑소 \\\"겨울 스페셜 앨범 들으며 따뜻하게 보내길\\\" 엑소가 겨울 앨범에 대한 기대감을 높였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엑소 수호와 첸은 2일 홍콩 아시아월드 엑스포에서 열린 2015 'MAMA' 사전 인터뷰서 \\\"겨울 앨범이 나온다. 앨범을 들으며 겨울을 따뜻하게 보내길 바란다\\\"고 했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"연말부터 내년까지 중국은 물론 동남아시아 투어를 한다\\\"며 \\\"많은 아시아팬들과 공연하며 이 겨울을 보내겠다\\\"고 덧붙였다. 'MAMA'는 Mnet이 주최하는 아시아 대표 음악 축제로 올해로 7회를 맞이했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1999년 'Mnet KM 뮤직비디오 페스티벌'로 시작해 대한민국 음악 산업의 성장과 함께 꾸준히 진화를 거듭해오며 10여 년 동안 국내에서 진행하다 2010년부터는 마카오를 시작으로 2011년 싱가포르, 2012년부터 2015년까지 홍콩으로 이어지며 음악 시상식을 넘어 전 세계인들이 즐기는 최대 음악 축제로 자리잡았다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해는 아시아 각국의 음악산업 발전에 기여한 프로듀서·엔지니어·공연제작자에게 수여하는 'MAMA' 전문 부문 시상을 신설했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "f(x)·펫샵보이즈·빅뱅·엑소·샤이니·박진영·몬스타엑스·방탄소년단·갓세븐·현아·싸이·세븐틴·산이·제시·씨엘·아이콘 등이 출연한다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'12월의 기적' 엑소 \\\"겨울 스페셜 앨범 들으며 따뜻하게 보내길\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

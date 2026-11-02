@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262103",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유튜버 ‘소련여자’ 지속되는 악플에 “NO WAR”",
+		"newsSubTitle": "",
+		"newsContent": "유튜버 ‘소련여자’가 해명 영상을 공개했다.\n유튜브 ‘소련여자’ 운영자인 안드레예브나 옵친니코바는 24일 자신의 유튜브 채널을 통해 ‘러시아 전쟁, 올림픽 도핑 해명합니다’ 라는 제목의 영상을 게재했다. “해당 영상은 전쟁 발발 이전에 제작된 관계로 전쟁보다 도핑 논란에 초점이 맞춰져 있는 점 양해 부탁드린다”고 시작한 영상은 “전쟁 개시 이후 영상을 공개하지 않으려 했으나 지속되는 해명 요구 및 침묵에 대한 비난으로 업로드했다”고 안내했다.\n그는 “러시아 도핑 때문에 밥그릇이 날아가게 생겼다”며 “러시아 욕하는 건 내가 전문가다. 그런데 이게 내 잘못이냐, 이 정신나간 XX들아”라고 말했다.\n이어 지속되는 해명 요청에 대해 “도핑은 절대 안 된다. 할 거면 그냥 약쟁이 올림픽 따로 열어서 강화 인간끼리 대결하는 건 어떻겠냐”고 일침을 가했다.\n그는 우크라이나 사태에 대해서는 “NO WAR. 어떤 이유로든 전쟁은 절대 안된다”고 강조했다.\n한편 ‘소련여자’는 114만 구독자를 보유하고 있는 유튜버다.\n그는 시사 풍자를 통한 블랙 코미디를 보여주며 누리꾼들의 인기를 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜버 ‘소련여자’가 해명 영상을 공개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유튜브 ‘소련여자’ 운영자인 안드레예브나 옵친니코바는 24일 자신의 유튜브 채널을 통해 ‘러시아 전쟁, 올림픽 도핑 해명합니다’ 라는 제목의 영상을 게재했다. “해당 영상은 전쟁 발발 이전에 제작된 관계로 전쟁보다 도핑 논란에 초점이 맞춰져 있는 점 양해 부탁드린다”고 시작한 영상은 “전쟁 개시 이후 영상을 공개하지 않으려 했으나 지속되는 해명 요구 및 침묵에 대한 비난으로 업로드했다”고 안내했다.",
+				"sentenceSize": 224
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “러시아 도핑 때문에 밥그릇이 날아가게 생겼다”며 “러시아 욕하는 건 내가 전문가다. 그런데 이게 내 잘못이냐, 이 정신나간 XX들아”라고 말했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 지속되는 해명 요청에 대해 “도핑은 절대 안 된다. 할 거면 그냥 약쟁이 올림픽 따로 열어서 강화 인간끼리 대결하는 건 어떻겠냐”고 일침을 가했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 우크라이나 사태에 대해서는 “NO WAR. 어떤 이유로든 전쟁은 절대 안된다”고 강조했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘소련여자’는 114만 구독자를 보유하고 있는 유튜버다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 시사 풍자를 통한 블랙 코미디를 보여주며 누리꾼들의 인기를 끌었다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜버 ‘소련여자’ 지속되는 악플에 “NO WAR”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

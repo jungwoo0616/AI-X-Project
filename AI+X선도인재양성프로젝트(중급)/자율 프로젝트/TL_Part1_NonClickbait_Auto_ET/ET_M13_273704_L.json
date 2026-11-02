@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273704",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "장근석, 4년 만에 드라마 주연 캐스팅",
+		"newsSubTitle": "",
+		"newsContent": "배우 장근석이 4년 만에 OTT 드라마로 돌아온다.\n뉴스1에 따르면 장근석은 쿠팡플레이 OTT 드라마 ‘범죄의 연대기’(가제) 주연 캐스팅을 제안받고 이를 검토 중인 것으로 오늘(21일) 알려졌다.\n출연이 확정되면 장근석은 복무 전 출연했던 SBS 드라마 ‘스위치-세상을 바꿔라’ 이후 4년 만에 연기를 선보이게 된다. ‘범죄의 연대기’는 다양한 범죄 소재를 중점으로 펼쳐지는 드라마다.\n쿠팡플레이에서 방송될 예정이지만 아직 정확한 사항은 공개되지 않았다.\n장근석은 1993년 키즈모델로 데뷔했다.\n이후 MBC 시트콤 ‘논스톱4’(2003), 수목 드라마 ‘베토벤 바이러스’(2008), KBS 2TV 수목 드라마 ‘쾌도 홍길동’(2008), SBS 수목 드라마 ‘미남이시네요’(2009), 드라마 ‘스위치-세상을 바꿔라’(2018) 등에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 장근석이 4년 만에 OTT 드라마로 돌아온다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뉴스1에 따르면 장근석은 쿠팡플레이 OTT 드라마 ‘범죄의 연대기’(가제) 주연 캐스팅을 제안받고 이를 검토 중인 것으로 오늘(21일) 알려졌다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "출연이 확정되면 장근석은 복무 전 출연했던 SBS 드라마 ‘스위치-세상을 바꿔라’ 이후 4년 만에 연기를 선보이게 된다. ‘범죄의 연대기’는 다양한 범죄 소재를 중점으로 펼쳐지는 드라마다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "쿠팡플레이에서 방송될 예정이지만 아직 정확한 사항은 공개되지 않았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장근석은 1993년 키즈모델로 데뷔했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 MBC 시트콤 ‘논스톱4’(2003), 수목 드라마 ‘베토벤 바이러스’(2008), KBS 2TV 수목 드라마 ‘쾌도 홍길동’(2008), SBS 수목 드라마 ‘미남이시네요’(2009), 드라마 ‘스위치-세상을 바꿔라’(2018) 등에 출연했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장근석, 4년 만에 드라마 주연 캐스팅",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

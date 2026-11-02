@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267473",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "마음씨까지 따뜻한 박보검, 장애어린이 위해 10km 러닝",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보검이 장애어린이들을 위한 따뜻한 마음씨를 전했다.\n20일 가수 션은 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “4월 20일 장애인의 날. 2022 MIRACLE365 VIRTUAL RUN 새벽에 보검이와 함께 장애어린이들을 위해서 10km 달렸다”라는 글과 함께 사진 두 장을 게재했다.\n션은 “직접 참가비를 내고 신청하고 함께 달려준 보검이의 응원이 장애어린이들과 가족들에게 큰 응원이 된다”며 “장애어린이들이 좀 더 살기 편한 대한민국을 꿈꿔 본다”라고 취지를 전했다.\n션은 박보검과 함께 새벽부터 러닝을 하는 모습을 사진으로 담았다.\n장애인의 날을 맞아 장애어린이를 위해 재활치료비를 지원하는 크루런에 직접 참가비를 내고 션과 함께 달린 박보검의 따뜻한 마음씨가 훈훈한 분위기를 자아냈다.\n한편 박보검은 지난 2020년 해군에 입대, 오는 4월 30일 미복귀 전역을 앞두고 있으나, 남은 휴가를 소진하겠다고 신청해 지난 2월 21일 사실상 조기 전역한 뒤 조용히 지내고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보검이 장애어린이들을 위한 따뜻한 마음씨를 전했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 가수 션은 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “4월 20일 장애인의 날. 2022 MIRACLE365 VIRTUAL RUN 새벽에 보검이와 함께 장애어린이들을 위해서 10km 달렸다”라는 글과 함께 사진 두 장을 게재했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "션은 “직접 참가비를 내고 신청하고 함께 달려준 보검이의 응원이 장애어린이들과 가족들에게 큰 응원이 된다”며 “장애어린이들이 좀 더 살기 편한 대한민국을 꿈꿔 본다”라고 취지를 전했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "션은 박보검과 함께 새벽부터 러닝을 하는 모습을 사진으로 담았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장애인의 날을 맞아 장애어린이를 위해 재활치료비를 지원하는 크루런에 직접 참가비를 내고 션과 함께 달린 박보검의 따뜻한 마음씨가 훈훈한 분위기를 자아냈다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 박보검은 지난 2020년 해군에 입대, 오는 4월 30일 미복귀 전역을 앞두고 있으나, 남은 휴가를 소진하겠다고 신청해 지난 2월 21일 사실상 조기 전역한 뒤 조용히 지내고 있다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마음씨까지 따뜻한 박보검, 장애어린이 위해 10km 러닝",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

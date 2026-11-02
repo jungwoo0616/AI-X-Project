@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278464",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이승기, 군 복무 중 신곡 발표…'내 여자라니까' 작사작곡한 싸이의 선물",
+		"newsSubTitle": "",
+		"newsContent": "현역으로 군 복무 중인 배우 겸 가수 이승기(29)가 오는 3일 싱글 '그런 사람'을 발표한다. '그런 사람'은 월드스타 싸이가 입대를 앞둔 이승기에게 선물한 노래이다.\n싸이는 이승기의 데뷔곡 ‘내 여자라니까’를 작사 작곡하며 이승기와 인연을 맺은 바 있다.\n싸이는 지난해 자신의 콘서트에 게스트로 참여한 이승기에게 고마움을 전하고자 입대 전 마지막 곡으로 직접 가사를 쓴 '그런 사람'을 선물했다.\n이승기는 입대 전 광고 촬영과 영화 작업 등으로 바쁜 일정을 소화하면서도 입대 전날까지 싸이와 곡 작업에 몰두해 녹음을 마쳤다. ‘그런 사람’은 이승기의 잔잔한 보컬에 기타, 베이스, 드럼, 현악기 사운드가 어우러진 부드러운 감성의 어쿠스틱 곡이다.\n싸이는 비욘세, 저스틴 비버, 샘 스미스 등의 곡을 작업한 미국 유명 엔지니어에게 마스터링 작업을 의뢰해 곡의 완성도를 높였다.\n음원 발매와 동시에 선보일 뮤직비디오에는 이승기가 삭발을 하며 입대 준비를 하는 모습과 이승기의 지난 활동 장면을 추억할 수 있는 영상이 함께 담길 예정이다.\n앞서 이승기는 지난달 1일 입소 직전 발표한 '나 군대 간다'로 음원차트 1위를 차지한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현역으로 군 복무 중인 배우 겸 가수 이승기(29)가 오는 3일 싱글 '그런 사람'을 발표한다. '그런 사람'은 월드스타 싸이가 입대를 앞둔 이승기에게 선물한 노래이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "싸이는 이승기의 데뷔곡 ‘내 여자라니까’를 작사 작곡하며 이승기와 인연을 맺은 바 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "싸이는 지난해 자신의 콘서트에 게스트로 참여한 이승기에게 고마움을 전하고자 입대 전 마지막 곡으로 직접 가사를 쓴 '그런 사람'을 선물했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이승기는 입대 전 광고 촬영과 영화 작업 등으로 바쁜 일정을 소화하면서도 입대 전날까지 싸이와 곡 작업에 몰두해 녹음을 마쳤다. ‘그런 사람’은 이승기의 잔잔한 보컬에 기타, 베이스, 드럼, 현악기 사운드가 어우러진 부드러운 감성의 어쿠스틱 곡이다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "싸이는 비욘세, 저스틴 비버, 샘 스미스 등의 곡을 작업한 미국 유명 엔지니어에게 마스터링 작업을 의뢰해 곡의 완성도를 높였다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "음원 발매와 동시에 선보일 뮤직비디오에는 이승기가 삭발을 하며 입대 준비를 하는 모습과 이승기의 지난 활동 장면을 추억할 수 있는 영상이 함께 담길 예정이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 이승기는 지난달 1일 입소 직전 발표한 '나 군대 간다'로 음원차트 1위를 차지한 바 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승기, 군 복무 중 신곡 발표…'내 여자라니까' 작사작곡한 싸이의 선물",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

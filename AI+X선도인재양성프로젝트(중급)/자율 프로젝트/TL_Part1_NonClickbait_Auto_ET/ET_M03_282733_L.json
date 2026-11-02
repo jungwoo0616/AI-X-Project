@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282733",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예,공연",
+		"newsTitle": "싸이 컴백에 美 빌보드 집중조명 \\\"강남스타일 이후 첫 앨범\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'싸이 컴백' 싸이의 새 앨범 발표 소식을 미국 빌보드도 집중 조명했다.\n11월 3일 오전(한국시각) 미국 빌보드는 싸이의 새 앨범 발표를 알리는 기사를 게재했다.\n빌보드는 “싸이가 전세계를 강타한 ‘강남스타일’ 이후 첫 앨범을 선보인다”라며 싸이의 새 앨범 발표 소식이 담긴 트위터 캡션 이미지를 함께 공개했다.\n이어 빌보드는 “싸이의 ‘강남스타일’은 역대 유튜브에서 가장 많이 시청한 비디오이고, 당시 미국 Billboard HOT 100에서 2위를 기록했고, 이후 발표한 싱글 ‘젠틀맨’과 스눕독이 함께한 ‘행오버’도 같은 차트에서 각각 5위와 26위를 기록했다”라며 싸이의 글로벌 인기에 대해 재조명하기도 했다.\n빌보드 싱글 차트 7주 연속 2위, 유튜브 조회수 24억 4330만뷰를 넘어서며 글로벌 인기돌풍을 일으킨 ‘강남스타일’ 이후 약 3년 5개월, 마지막 싱글이었던 ‘행오버’ 이후 1년 5개월 만에 새로운 음악으로 돌아오는 싸이에게 세계적인 관심이 다시 한번 집중되고 있다.\n싸이의 새 앨범은 12월 1일 공개된다. ['싸이 컴백' 사진=YG엔터테인먼트 제공] '싸이 컴백' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'싸이 컴백' 싸이의 새 앨범 발표 소식을 미국 빌보드도 집중 조명했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11월 3일 오전(한국시각) 미국 빌보드는 싸이의 새 앨범 발표를 알리는 기사를 게재했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빌보드는 “싸이가 전세계를 강타한 ‘강남스타일’ 이후 첫 앨범을 선보인다”라며 싸이의 새 앨범 발표 소식이 담긴 트위터 캡션 이미지를 함께 공개했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 빌보드는 “싸이의 ‘강남스타일’은 역대 유튜브에서 가장 많이 시청한 비디오이고, 당시 미국 Billboard HOT 100에서 2위를 기록했고, 이후 발표한 싱글 ‘젠틀맨’과 스눕독이 함께한 ‘행오버’도 같은 차트에서 각각 5위와 26위를 기록했다”라며 싸이의 글로벌 인기에 대해 재조명하기도 했다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빌보드 싱글 차트 7주 연속 2위, 유튜브 조회수 24억 4330만뷰를 넘어서며 글로벌 인기돌풍을 일으킨 ‘강남스타일’ 이후 약 3년 5개월, 마지막 싱글이었던 ‘행오버’ 이후 1년 5개월 만에 새로운 음악으로 돌아오는 싸이에게 세계적인 관심이 다시 한번 집중되고 있다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "싸이의 새 앨범은 12월 1일 공개된다. ['싸이 컴백' 사진=YG엔터테인먼트 제공] '싸이 컴백' 온라인 중앙일보",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싸이 컴백에 美 빌보드 집중조명 \\\"강남스타일 이후 첫 앨범\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

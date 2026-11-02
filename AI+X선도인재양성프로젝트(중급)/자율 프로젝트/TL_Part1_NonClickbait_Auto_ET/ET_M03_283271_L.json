@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283271",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유소영-손흥민 열애…심야 데이트 모습 포착",
+		"newsSubTitle": "",
+		"newsContent": "유소영-손흥민 열애…심야 데이트 모습 포착 유소영 손흥민 손흥민(23·토트넘 훗스퍼)과 걸그룹 애프터스쿨 출신 배우 유소영(29)이 열애를 인정했다.\n19일 한 매체는 손흥민과 유소영의 심야데이트 현장을 단독 포착해 보도했다.\n보도에 따르면 손흥민과 유소영은 차 안에서 이뤄지는 은밀한 데이트를 즐겼다.\n두 사람의 심야 데이트는 파주NFC 인근에서 이뤄졌다.\n유소영은 훈련에 한창인 손흥민을 배려해 늦은 시각에 파주로 직접 손흥민을 만나러 왔다.\n손흥민은 빼빼로 심야 데이트를 마치고 차에서 내린 후 유소영에게 연신 사랑이 담긴 손 키스를 발사했다.\n손흥민은 지난 10일 입국해 12일 미얀마와의 예선 5차전을 치르는 바쁜 스케쥴을 보냈다.\n하지만 라오스 출국 전 슈틸리케 감독이 준 짧은 휴식 시간을 전부 유소영에게 투자하는 남다른 애정을 보여주기도 했다.\n한 매체에 따르면 유소영은 손흥민과의 열애를 인정했다고 보도했다.\n유소영은 \\\"흥민이와 좋은 감정이다. 훈련중인 흥민이에게 힘을 불어넣어주고 싶었다. 앞으로도 애틋한 감정 예쁘게 이어가고 싶다고\\\"말했다.\n유소영의 소속사 관계자 역시 매체를 통해 \\\"본인에게 확인한 결과 열애중이다. 최근에 연인으로 발전했다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유소영-손흥민 열애…심야 데이트 모습 포착 유소영 손흥민 손흥민(23·토트넘 훗스퍼)과 걸그룹 애프터스쿨 출신 배우 유소영(29)이 열애를 인정했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 한 매체는 손흥민과 유소영의 심야데이트 현장을 단독 포착해 보도했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 손흥민과 유소영은 차 안에서 이뤄지는 은밀한 데이트를 즐겼다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람의 심야 데이트는 파주NFC 인근에서 이뤄졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유소영은 훈련에 한창인 손흥민을 배려해 늦은 시각에 파주로 직접 손흥민을 만나러 왔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손흥민은 빼빼로 심야 데이트를 마치고 차에서 내린 후 유소영에게 연신 사랑이 담긴 손 키스를 발사했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손흥민은 지난 10일 입국해 12일 미얀마와의 예선 5차전을 치르는 바쁜 스케쥴을 보냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 라오스 출국 전 슈틸리케 감독이 준 짧은 휴식 시간을 전부 유소영에게 투자하는 남다른 애정을 보여주기도 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한 매체에 따르면 유소영은 손흥민과의 열애를 인정했다고 보도했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "유소영은 \\\"흥민이와 좋은 감정이다. 훈련중인 흥민이에게 힘을 불어넣어주고 싶었다. 앞으로도 애틋한 감정 예쁘게 이어가고 싶다고\\\"말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "유소영의 소속사 관계자 역시 매체를 통해 \\\"본인에게 확인한 결과 열애중이다. 최근에 연인으로 발전했다\\\"고 전했다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유소영-손흥민 열애…심야 데이트 모습 포착",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

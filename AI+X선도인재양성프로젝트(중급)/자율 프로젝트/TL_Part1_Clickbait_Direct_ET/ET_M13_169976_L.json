@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169976",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "원어스, ‘ONEUS THEATRE’ 이어간다",
+    "newsSubTitle": "",
+    "newsContent": "‘무대천재’ 원어스(ONEUS)가 스페셜 프로젝트 ‘ONEUS THEATRE’를 이어간다.\n원어스는 지난 30일 오후 6시, 공식 SNS 채널을 통해 ‘ONEUS THEATRE’(원어스 시어터)의 두 번째 곡 ‘Life is Beautiful’(라이프 이즈 뷰티풀)의 티저 영상을 선보였다.\n영상은 불이 꺼진 강당 안, 원어스가 교복을 입고 등장해 눈길을 끈다.\n무거운 정적 속 환웅이 결심한 듯 책상 위로 올라서고, 이를 본 멤버들도 환웅을 따라 책상을 밟고 일어선다.\n영화 ‘죽은 시인의 사회’ 명장면을 재현한 것으로, 칠판 배경에는 ‘Carpe diem’(현재를 즐겨라) 문구가 적혀있다.\n이어 청량한 분위기가 물씬 풍기는 해변가로 배경이 바뀐다.\n원어스는 트로피컬 사운드가 매력적인 ‘Life is Beautiful’에 맞춰 퍼포먼스를 펼친다.\n원어스만의 에너제틱한 모습이 보는 이들에게 행복감을 선사하며 본편에 대한 기대감을 높였다. ‘ONEUS THEATRE’는 영화 콘셉트와 원어스의 퍼포먼스를 결합한 팬 콘텐츠로, 감각적인 연출과 탁월한 영상미, 여섯 멤버의 화려한 퍼포먼스가 더해져 풍부한 볼거리를 선사한다.\n한편, 원어스는 다음달 2일 ‘Life is Beautiful’의 본편 영상을 공개한 뒤, 3일 정오 각종 음원 사이트를 통해 ‘Life is Beautiful’의 음원을 전 세계 동시 공개한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘무대천재’ 원어스(ONEUS)가 스페셜 프로젝트 ‘ONEUS THEATRE’를 이어간다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "원어스는 지난 30일 오후 6시, 공식 SNS 채널을 통해 ‘ONEUS THEATRE’(원어스 시어터)의 두 번째 곡 ‘Life is Beautiful’(라이프 이즈 뷰티풀)의 티저 영상을 선보였다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상은 불이 꺼진 강당 안, 원어스가 교복을 입고 등장해 눈길을 끈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "무거운 정적 속 환웅이 결심한 듯 책상 위로 올라서고, 이를 본 멤버들도 환웅을 따라 책상을 밟고 일어선다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영화 ‘죽은 시인의 사회’ 명장면을 재현한 것으로, 칠판 배경에는 ‘Carpe diem’(현재를 즐겨라) 문구가 적혀있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 청량한 분위기가 물씬 풍기는 해변가로 배경이 바뀐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "원어스는 트로피컬 사운드가 매력적인 ‘Life is Beautiful’에 맞춰 퍼포먼스를 펼친다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "원어스만의 에너제틱한 모습이 보는 이들에게 행복감을 선사하며 본편에 대한 기대감을 높였다. ‘ONEUS THEATRE’는 영화 콘셉트와 원어스의 퍼포먼스를 결합한 팬 콘텐츠로, 감각적인 연출과 탁월한 영상미, 여섯 멤버의 화려한 퍼포먼스가 더해져 풍부한 볼거리를 선사한다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 원어스는 다음달 2일 ‘Life is Beautiful’의 본편 영상을 공개한 뒤, 3일 정오 각종 음원 사이트를 통해 ‘Life is Beautiful’의 음원을 전 세계 동시 공개한다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "교복 착용 후... 책상 밟고 일어나는 '원어스'의 아찔한 반항적 퍼포먼스",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

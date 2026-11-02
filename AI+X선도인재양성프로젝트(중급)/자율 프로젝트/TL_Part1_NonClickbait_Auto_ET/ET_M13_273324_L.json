@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273324",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘스페이스 공감’ 김재환, 록부터 발라드까지 ‘공감+소통’",
+		"newsSubTitle": "",
+		"newsContent": "가수 김재환이 ‘스페이스 공감’을 뜨겁게 달군다.\n김재환은 지난 9일 스페이스 홀에서 EBS 음악 프로그램 ‘스페이스 공감’ 다음달 8일 방송으루 위한 녹화를 진행했다.\n공연장에는 총 190여 명의 관객들이 찾았다.\n김재환은 발라드부터 록까지 다채로운 음악과 함께 화려한 퍼포먼스를 펼치며 관객들을 열광케 만들었다는 후문이다. ‘스페이스 공감’ 측은 공식 SNS를 통해 현장 분위기가 담긴 스케치 사진을 공개했다.\n공개된 사진 속 김재환은 직접 기타를 연주하고 관객과 소통하며 분위기를 뜨겁게 달궈 방송에 대한 기대감을 높였다.\n김재환은 최근 새 싱글 ‘달팽이’를 발매했다.\n신곡 ‘달팽이’는 사랑하는 이에게 더 좋은 사람이 되어가겠다는 고백을 달팽이에 비유한 감성적인 가사가 인상적인 곡이다.\n맑고 순수한 감성과 김재환 특유의 부드러운 보컬이 어우러져 더욱 진한 감동을 선사한다. ‘스페이스 공감’은 록, 팝, 재즈, 클래식, 월드뮤직, 국악 등 장르와 관계없이 오직 좋은 음악을 통해 관객과 공감하고자 하는 프로그램이다.\n김재환 편은 오는 7월 8일 오후 11시 55분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김재환이 ‘스페이스 공감’을 뜨겁게 달군다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김재환은 지난 9일 스페이스 홀에서 EBS 음악 프로그램 ‘스페이스 공감’ 다음달 8일 방송으루 위한 녹화를 진행했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공연장에는 총 190여 명의 관객들이 찾았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김재환은 발라드부터 록까지 다채로운 음악과 함께 화려한 퍼포먼스를 펼치며 관객들을 열광케 만들었다는 후문이다. ‘스페이스 공감’ 측은 공식 SNS를 통해 현장 분위기가 담긴 스케치 사진을 공개했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 사진 속 김재환은 직접 기타를 연주하고 관객과 소통하며 분위기를 뜨겁게 달궈 방송에 대한 기대감을 높였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김재환은 최근 새 싱글 ‘달팽이’를 발매했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신곡 ‘달팽이’는 사랑하는 이에게 더 좋은 사람이 되어가겠다는 고백을 달팽이에 비유한 감성적인 가사가 인상적인 곡이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "맑고 순수한 감성과 김재환 특유의 부드러운 보컬이 어우러져 더욱 진한 감동을 선사한다. ‘스페이스 공감’은 록, 팝, 재즈, 클래식, 월드뮤직, 국악 등 장르와 관계없이 오직 좋은 음악을 통해 관객과 공감하고자 하는 프로그램이다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김재환 편은 오는 7월 8일 오후 11시 55분 방송된다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘스페이스 공감’ 김재환, 록부터 발라드까지 ‘공감+소통’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

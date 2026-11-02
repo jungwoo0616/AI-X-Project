@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277026",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "손예진·김연아의 같은 옷 다른 느낌",
+		"newsSubTitle": "",
+		"newsContent": "배우 손예진과 피겨퀸 김연아가 같은 옷 다른 느낌을 연출해 주목받았다.\n두 사람은 ‘한섬 랑방 컬렉션’의 스카이블루 컬러 원피스를 입고 각기 다른 행사장에 나타나 다른 느낌을 선보였다.\n김연아는 지난달 19일 강릉 아이스 아레나에서 열린 ‘2017 ISU 4대륙 피겨선수권대회’ 갈라쇼에서 해당 의상을 입고 나타났다.\n무릎 아래까지 떨어지는 치마와 김연아의 아름다운 선이 어우러져 ‘우아함’ 느낌이 연출됐다.\n김연아는 공식 석상에 맞게 검은색 구두를 신고 차분한 웨이브 헤어스타일을 선보이며 행사장을 빛냈다.\n손예진은 지난 1월 18일 ‘제8회 올해의 영화상’ 시상식에서 김연아와 같은 원피스를 선보였다.\n그녀는 한국의 대표 청순미녀답게 화사한 미모를 선보이며 하늘색 원피스를 입고 청초함을 뽐냈다.\n손예진의 체형을 아름답게 살려주는 하늘색 원피스는 그녀의 여성미를 돋보이게 했다.\n같은 옷을 각각 다른 매력으로 소화해 낸 김연아와 손예진의 아름다움에 많은 네티즌들이 감탄했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 손예진과 피겨퀸 김연아가 같은 옷 다른 느낌을 연출해 주목받았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "두 사람은 ‘한섬 랑방 컬렉션’의 스카이블루 컬러 원피스를 입고 각기 다른 행사장에 나타나 다른 느낌을 선보였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김연아는 지난달 19일 강릉 아이스 아레나에서 열린 ‘2017 ISU 4대륙 피겨선수권대회’ 갈라쇼에서 해당 의상을 입고 나타났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무릎 아래까지 떨어지는 치마와 김연아의 아름다운 선이 어우러져 ‘우아함’ 느낌이 연출됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김연아는 공식 석상에 맞게 검은색 구두를 신고 차분한 웨이브 헤어스타일을 선보이며 행사장을 빛냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손예진은 지난 1월 18일 ‘제8회 올해의 영화상’ 시상식에서 김연아와 같은 원피스를 선보였다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그녀는 한국의 대표 청순미녀답게 화사한 미모를 선보이며 하늘색 원피스를 입고 청초함을 뽐냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "손예진의 체형을 아름답게 살려주는 하늘색 원피스는 그녀의 여성미를 돋보이게 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "같은 옷을 각각 다른 매력으로 소화해 낸 김연아와 손예진의 아름다움에 많은 네티즌들이 감탄했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손예진·김연아의 같은 옷 다른 느낌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

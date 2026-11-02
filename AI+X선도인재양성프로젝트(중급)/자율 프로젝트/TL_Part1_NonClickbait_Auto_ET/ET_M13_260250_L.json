@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260250",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박소담 측 “코로나19 완치”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 박소담이 코로나19에서 완치됐다.\n소속사 아티스트컴퍼니 측은 7일 “박소담이 코로나19 양성 판정을 받았으나 현재는 완치됐다”고 밝혔다.\n소속사는 “수술 후 병원 진료를 주기적으로 받으며, 최근 PCR 검사를 진행했는데 확진 판정을 받았다. 현재 격리 해제된 상태이며 건강에는 문제 없다”고 설명했다.\n아티스트 컴퍼니 측은 “건강이 양호하다. 앞으로 몸 회복에 전념하겠다”고 덧붙였다.\n박소담은 최근 주기적인 병원 진료를 위해 매번 PCR 검사를 받아오다 지난 설 연휴 직전에 양성 판정을 받았었다.\n박소담은 지난해 12월 정기 건강검진 과정에서 갑상선 유두암 진단을 받고 수술을 마쳤다.\n이로 인해 영화 ‘특송’ 홍보 일정에 불참하고 휴식을 취하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박소담이 코로나19에서 완치됐다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 아티스트컴퍼니 측은 7일 “박소담이 코로나19 양성 판정을 받았으나 현재는 완치됐다”고 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “수술 후 병원 진료를 주기적으로 받으며, 최근 PCR 검사를 진행했는데 확진 판정을 받았다. 현재 격리 해제된 상태이며 건강에는 문제 없다”고 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아티스트 컴퍼니 측은 “건강이 양호하다. 앞으로 몸 회복에 전념하겠다”고 덧붙였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박소담은 최근 주기적인 병원 진료를 위해 매번 PCR 검사를 받아오다 지난 설 연휴 직전에 양성 판정을 받았었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박소담은 지난해 12월 정기 건강검진 과정에서 갑상선 유두암 진단을 받고 수술을 마쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이로 인해 영화 ‘특송’ 홍보 일정에 불참하고 휴식을 취하고 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박소담 측 “코로나19 완치”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

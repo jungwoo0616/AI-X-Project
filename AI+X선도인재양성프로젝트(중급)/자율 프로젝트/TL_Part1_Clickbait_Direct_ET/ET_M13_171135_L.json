@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171135",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "고창석 “큰형 하버드 출신, 누나 미국서 교수…‘우리집에 너만 없으면’ 얘기 들어”",
+    "newsSubTitle": "",
+    "newsContent": "배우 고창석의 집안이 재조명됐다.\n지난10일 방송된 KBS 2 연예정보프로그램 ‘연중 라이브’에서는 ‘엘리트 가족을 둔 스타’를 주제로 순위를 공개했다.\n이날 방송에서 배우 고창석이 ‘엘리트 가족을 둔 스타’ 1위에 올랐다.\n고창석은 과거 한 방송에서 “큰형이 서울 법대, 하버드대를 나왔다. 지금은 로펌에서 파트너로 일하고 있다. 누나는 미국에서 교수 생활을 하고 있다”고 밝혔다.\n방송에 따르면 고창석의 형은 서울대 법대 재학 중 사법고시를 패스하고 한양대 경영학 석사와 무역학 박사과정까지 수료했다.\n이후 하버드 법대에 입학, 5개 국어를 마스터한 수재 중 수재라고. 졸업 후에는 국내 3대 로펌 중 하나에서 28년간 근무 중이다.\n부모님 역시 명문대 출신으로 고창석의 아버지는 서울대 졸업 후 건설업계 종사했으며 어머니는 연세대 국문과 출신, 할아버지는 학교 교장을 역임한 엘리트 집안이다.\n고창석은 “‘우리집에 너만 없으면’이런 얘기 많이 들었다”고 말했고, “(배우 활동을 하는)지금은 좋아하시지 않나”라는 질문에 “지금도…연세가 있으셔서 영화를 잘 안보시니까”라고 답해 웃음을 안겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 고창석의 집안이 재조명됐다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난10일 방송된 KBS 2 연예정보프로그램 ‘연중 라이브’에서는 ‘엘리트 가족을 둔 스타’를 주제로 순위를 공개했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 배우 고창석이 ‘엘리트 가족을 둔 스타’ 1위에 올랐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고창석은 과거 한 방송에서 “큰형이 서울 법대, 하버드대를 나왔다. 지금은 로펌에서 파트너로 일하고 있다. 누나는 미국에서 교수 생활을 하고 있다”고 밝혔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송에 따르면 고창석의 형은 서울대 법대 재학 중 사법고시를 패스하고 한양대 경영학 석사와 무역학 박사과정까지 수료했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 하버드 법대에 입학, 5개 국어를 마스터한 수재 중 수재라고. 졸업 후에는 국내 3대 로펌 중 하나에서 28년간 근무 중이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "부모님 역시 명문대 출신으로 고창석의 아버지는 서울대 졸업 후 건설업계 종사했으며 어머니는 연세대 국문과 출신, 할아버지는 학교 교장을 역임한 엘리트 집안이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "고창석은 “‘우리집에 너만 없으면’이런 얘기 많이 들었다”고 말했고, “(배우 활동을 하는)지금은 좋아하시지 않나”라는 질문에 “지금도…연세가 있으셔서 영화를 잘 안보시니까”라고 답해 웃음을 안겼다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'연중 라이브', 엘리트 가족을 둔 스타 '이 배우'를 공개한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273111",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘성추행 추가 혐의’ B.A.P 힘찬, 항소심 공판 8월로 연기",
+		"newsSubTitle": "",
+		"newsContent": "그룹 B.A.P 출신 힘찬(김힘찬)의 강제추행 혐의 항소심 공판이 8월로 연기됐다.\n14일 법조계에 따르면 당초 이날 서울중앙지방법원에서 열릴 예정이었던 힘찬의 강제추행 혐의 항소심 공판 기일이 오는 8월 23일로 변경됐다.\n힘찬의 법률대리인은 지난 9일 재판부에 공판 기일 변경 신청서를 제출한 것으로 알려졌다.\n힘찬은 2018년 7월 경기도 남양주시의 한 펜션에서 20대 여성 A씨를 강제추행한 혐의로 불구속 기소 됐다.\n1심 재판에서 힘찬은 징역 10개월, 50시간 성폭력 치료 프로그램 이수 명령을 선고받았으나, 1심 판결에 불복해 항소장을 제출했다.\n힘찬 측은 A씨를 공갈 혐의로 고소하는 등 자신의 혐의를 부인하다 지난 4월 12일 진행된 항소심 공판에서 혐의를 인정, 반성문을 제출했다.\n이 가운데 힘찬은 지난 4월 17일 서울 용산구 한 술집 외부 계단에서 두 명의 여성을 강제추행한 혐의로 추가 피소된 상태다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 B.A.P 출신 힘찬(김힘찬)의 강제추행 혐의 항소심 공판이 8월로 연기됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 법조계에 따르면 당초 이날 서울중앙지방법원에서 열릴 예정이었던 힘찬의 강제추행 혐의 항소심 공판 기일이 오는 8월 23일로 변경됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "힘찬의 법률대리인은 지난 9일 재판부에 공판 기일 변경 신청서를 제출한 것으로 알려졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "힘찬은 2018년 7월 경기도 남양주시의 한 펜션에서 20대 여성 A씨를 강제추행한 혐의로 불구속 기소 됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1심 재판에서 힘찬은 징역 10개월, 50시간 성폭력 치료 프로그램 이수 명령을 선고받았으나, 1심 판결에 불복해 항소장을 제출했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "힘찬 측은 A씨를 공갈 혐의로 고소하는 등 자신의 혐의를 부인하다 지난 4월 12일 진행된 항소심 공판에서 혐의를 인정, 반성문을 제출했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 가운데 힘찬은 지난 4월 17일 서울 용산구 한 술집 외부 계단에서 두 명의 여성을 강제추행한 혐의로 추가 피소된 상태다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘성추행 추가 혐의’ B.A.P 힘찬, 항소심 공판 8월로 연기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

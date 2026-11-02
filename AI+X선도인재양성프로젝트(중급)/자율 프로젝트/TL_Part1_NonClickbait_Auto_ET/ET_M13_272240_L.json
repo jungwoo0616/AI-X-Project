@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272240",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘쥬라기 월드: 도미니언’ 개봉 3일만에 100만 돌파",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘쥬라기 월드: 도미니언’이 개봉 3일 만에 100만 고지를 넘었다.\n4일 영진위 영화관입장권 통합전산망 집계결과 3일 ‘쥬라기 월드: 도미니언’은 15만2457명이 관람해 누적 관객수 102만3,064명을 돌파했다.\n박스오피스 2위의 성적이다. ‘쥬라기 월드: 도미니언’ 측은 이를 기념해 주인공 크리스 프랫과 브라이스 달라스 하워드가 대한민국 관객들을 향해 직접 감사 인사를 전하는 영상을 이날 공개했다.\n먼저 크리스 프랫은 “‘쥬라기 월드: 도미니언’이 벌써 100만 관객을 돌파했습니다”라고 말을 전했으며 브라이스 달라스 하워드는 “올해 최고 오프닝 스코어도 기록했다고 들었어요!”라며 놀라움을 자아냈다.\n이어 “정말 감사합니다”라고 말을 전하며 ‘쥬라기 월드: 도미니언’을 관람한 관객들, 특히 펜데믹 이후 최고 흥행 신기록을 만들어준 대한민국 관객들에게 감사를 표했다.\n박스오피스 1위는 ‘범죄도시2’가 여전히 지켜내고 있다.\n21만9346만명이 관람해 누적관객수 784만9432명이 완성됐다.\n3위는 ‘그대가 조국’이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘쥬라기 월드: 도미니언’이 개봉 3일 만에 100만 고지를 넘었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 영진위 영화관입장권 통합전산망 집계결과 3일 ‘쥬라기 월드: 도미니언’은 15만2457명이 관람해 누적 관객수 102만3,064명을 돌파했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박스오피스 2위의 성적이다. ‘쥬라기 월드: 도미니언’ 측은 이를 기념해 주인공 크리스 프랫과 브라이스 달라스 하워드가 대한민국 관객들을 향해 직접 감사 인사를 전하는 영상을 이날 공개했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 크리스 프랫은 “‘쥬라기 월드: 도미니언’이 벌써 100만 관객을 돌파했습니다”라고 말을 전했으며 브라이스 달라스 하워드는 “올해 최고 오프닝 스코어도 기록했다고 들었어요!”라며 놀라움을 자아냈다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “정말 감사합니다”라고 말을 전하며 ‘쥬라기 월드: 도미니언’을 관람한 관객들, 특히 펜데믹 이후 최고 흥행 신기록을 만들어준 대한민국 관객들에게 감사를 표했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박스오피스 1위는 ‘범죄도시2’가 여전히 지켜내고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "21만9346만명이 관람해 누적관객수 784만9432명이 완성됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "3위는 ‘그대가 조국’이다.",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘쥬라기 월드: 도미니언’ 개봉 3일만에 100만 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

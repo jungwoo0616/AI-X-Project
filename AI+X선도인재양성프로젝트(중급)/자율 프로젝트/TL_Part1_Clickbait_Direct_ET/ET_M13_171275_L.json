@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171275",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "채림, ‘내가 키운다’서 방송 최초 육아과정 공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 채림이 방송 최초로 아들과의 일상을 공개했다.\n지난 29일 오후 9시 방송된 JTBC ‘용감한 솔로 육아-내가 키운다’(이하 내가 키운다)에서는 채림의 육아과정이 공개된다.\n늘 다른 엄마들의 일상을 영상으로 지켜보던 채림은 자신이 주인공이 된다는 사실에 떨리는 마음을 드러냈다.\n깔끔하게 정리된 집에서 처음 보는 카메라를 신기해하던 아들 민우는 귀여운 인사를 건네며 시청자들에게 눈도장을 찍었다.\n아침을 준비하는 엄마를 도와 달걀을 젓던 민우는 엄마의 눈치를 보며 날달걀을 먹기 시작했고 영상을 보던 채림은 “저렇게 많이 먹었단 말이야?”라고 깜짝 놀라며 스튜디오를 웃음바다로 만들었다.\n채림의 아들 민우는 날달걀 뿐 아니라 낫토와 탄산수, 곰피 등 음식을 가리지 않고 모두 맛보는 모습으로 새로운 ‘미식 베이비’로 등극했다.\n식사에 이어 민우를 찾은 채림은 베이킹소다와 린스로 인공 눈을 만들어낸 후 이것저것 아이디어를 제시하며 놀이를 이어갔다.\n아이스크림 가게 놀이로 경제 공부를 하고 베이킹소다와 구연산을 활용한 화산폭발놀이로 과학 공부를 하는 두 사람의 모습에 출연자들은 채림을 향해 존경 어린 시선을 보냈다.\n또한 지난주에 이어 로아의 사랑을 얻기 위해 고군분투하는 배우 윤박과 개그맨 박성광의 모습도 이어졌다.\nJTBC 예능 ‘내가 키운다’는 매주 수요일 오후 9시에 방송되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 채림이 방송 최초로 아들과의 일상을 공개했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 29일 오후 9시 방송된 JTBC ‘용감한 솔로 육아-내가 키운다’(이하 내가 키운다)에서는 채림의 육아과정이 공개된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "늘 다른 엄마들의 일상을 영상으로 지켜보던 채림은 자신이 주인공이 된다는 사실에 떨리는 마음을 드러냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "깔끔하게 정리된 집에서 처음 보는 카메라를 신기해하던 아들 민우는 귀여운 인사를 건네며 시청자들에게 눈도장을 찍었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아침을 준비하는 엄마를 도와 달걀을 젓던 민우는 엄마의 눈치를 보며 날달걀을 먹기 시작했고 영상을 보던 채림은 “저렇게 많이 먹었단 말이야?”라고 깜짝 놀라며 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "채림의 아들 민우는 날달걀 뿐 아니라 낫토와 탄산수, 곰피 등 음식을 가리지 않고 모두 맛보는 모습으로 새로운 ‘미식 베이비’로 등극했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "식사에 이어 민우를 찾은 채림은 베이킹소다와 린스로 인공 눈을 만들어낸 후 이것저것 아이디어를 제시하며 놀이를 이어갔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아이스크림 가게 놀이로 경제 공부를 하고 베이킹소다와 구연산을 활용한 화산폭발놀이로 과학 공부를 하는 두 사람의 모습에 출연자들은 채림을 향해 존경 어린 시선을 보냈다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또한 지난주에 이어 로아의 사랑을 얻기 위해 고군분투하는 배우 윤박과 개그맨 박성광의 모습도 이어졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "JTBC 예능 ‘내가 키운다’는 매주 수요일 오후 9시에 방송되고 있다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 채림 아들 민우, 미식 베이비 등극? ‘이것’까지 먹을 줄이야...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

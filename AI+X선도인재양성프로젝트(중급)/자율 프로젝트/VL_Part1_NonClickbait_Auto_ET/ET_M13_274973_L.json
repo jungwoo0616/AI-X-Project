@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274973",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "백호, 혼자서도 잘해요…팬미팅 선예매 매진",
+		"newsSubTitle": "",
+		"newsContent": "백호의 단독 오프라인 팬미팅이 전 회차 매진됐다.\n7일 소속사 플레디스 엔터테인먼트에 따르면 지난 6일부터 진행된 BAEKHO FAN MEETING ‘BAEKAITON’ 팬클럽 선예매 티켓은 예매 시작과 동시에 3회차 전석 매진됐다.\n이번 팬미팅은 오는 21일 백호의 생일을 앞두고 개최된다는 점에서 팬들의 이목이 쏠리고 있다.\n이번 단독 팬미팅의 타이틀 ‘BAEKAITON’은 백호와 휴가(VACATION)의 합성어로, 백호와 팬들이 함께 보내는 여름 휴가를 콘셉트로 한다.\n팬들과 오랜만에 대면하는 만큼 백호는 공연 준비에 매진했다는 후문. 백호가 팬들과 어떤 무대로 소통할지 궁금증이 더해진다.\n한편 BAEKHO FAN MEETING ‘BAEKAITON’은 오는 15~17일 서울 광진구 예스24 라이브홀에서 개최된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백호의 단독 오프라인 팬미팅이 전 회차 매진됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 소속사 플레디스 엔터테인먼트에 따르면 지난 6일부터 진행된 BAEKHO FAN MEETING ‘BAEKAITON’ 팬클럽 선예매 티켓은 예매 시작과 동시에 3회차 전석 매진됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 팬미팅은 오는 21일 백호의 생일을 앞두고 개최된다는 점에서 팬들의 이목이 쏠리고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 단독 팬미팅의 타이틀 ‘BAEKAITON’은 백호와 휴가(VACATION)의 합성어로, 백호와 팬들이 함께 보내는 여름 휴가를 콘셉트로 한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들과 오랜만에 대면하는 만큼 백호는 공연 준비에 매진했다는 후문. 백호가 팬들과 어떤 무대로 소통할지 궁금증이 더해진다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 BAEKHO FAN MEETING ‘BAEKAITON’은 오는 15~17일 서울 광진구 예스24 라이브홀에서 개최된다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백호, 혼자서도 잘해요…팬미팅 선예매 매진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

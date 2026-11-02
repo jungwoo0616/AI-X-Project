@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278336",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'복면가왕' 송소희, 악플에 대처하는 방법은 \\\"신경 안써…내 이름 검색도 안한다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'복면가왕'에 출연한 송소희가 화제인 가운데, 송소희가 공개한 악플 대처법도 눈길을 끈다.\n지난 2014년, 송소희는 KBS 2TV '여유만만'에 출연했다.\n이날 방송에서 \\\"인기가 많아져 악성 댓글에 시달리지 않느냐\\\"라는 질문에 송소희는 \\\"나에 대한 지적에 크게 개의치 않는다. 하지만 국악 자체를 거부하는 반응에는 마음이 불편해진다\\\"고 답했다.\n송소희는 이어서 \\\"평소 인터넷으로 이름을 검색해보지 않는다. 친구들이 '좋은 내용은 캡처해서 보내줄 테니 다른 댓글은 보지도 말라'고 한다\\\"며 친구들에게 고마운 마음을 전했다.\n한편 지난 27일 방송된 MBC '일밤-복면가왕'에서 송소희는 '어디서 좀 노셨군요'라는 가명으로 가면을 쓰고 출연했다.\n온라인 중앙일보 [사진 KBS2 '여유만만' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'복면가왕'에 출연한 송소희가 화제인 가운데, 송소희가 공개한 악플 대처법도 눈길을 끈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2014년, 송소희는 KBS 2TV '여유만만'에 출연했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 \\\"인기가 많아져 악성 댓글에 시달리지 않느냐\\\"라는 질문에 송소희는 \\\"나에 대한 지적에 크게 개의치 않는다. 하지만 국악 자체를 거부하는 반응에는 마음이 불편해진다\\\"고 답했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송소희는 이어서 \\\"평소 인터넷으로 이름을 검색해보지 않는다. 친구들이 '좋은 내용은 캡처해서 보내줄 테니 다른 댓글은 보지도 말라'고 한다\\\"며 친구들에게 고마운 마음을 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 지난 27일 방송된 MBC '일밤-복면가왕'에서 송소희는 '어디서 좀 노셨군요'라는 가명으로 가면을 쓰고 출연했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS2 '여유만만' 캡처]",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'복면가왕' 송소희, 악플에 대처하는 방법은 \\\"신경 안써…내 이름 검색도 안한다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

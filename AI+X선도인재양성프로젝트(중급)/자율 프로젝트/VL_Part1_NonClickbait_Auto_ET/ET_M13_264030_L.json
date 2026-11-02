@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264030",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이현이가 전한 코로나 후기 “죽을 정도로 아파”",
+		"newsSubTitle": "",
+		"newsContent": "모델 출신 방송인 이현이가 코로나19 확진 후기를 전했다.\n이현이는 16일 자신의 사회관계망서비스(SNS)에 코로나19 확진 후 겪은 증상을 공유했다.\n이현이는 “2주 만에 코로나를 극복했다. 2월 말에 아들이 먼저 코로나에 걸려 유치원 졸업식, 초등학교 입학식 전부 못 가고 온 가족이 다가팅 겨리했는데 3월 초 저와 둘째 아들이 연달아 확진됐다”라고 밝혔다.\n이어 “오미크론은 안 아프다더니, 백신 3차까지 맞으면 덜 아프다더니 저는 정말 이대로 죽을 수도 있겠다 싶을 정도로 아팠다”다 라며 증상이 기존에 알려진 것과 다르게 컸다고 밝혔다.\n이현이는 “병원에 전화해 약 처방을 받았지만 약도 소용없었다. 증상이 심한 케이스였던 것 같은데 저 같은 사람도 있으니 모두들 조심, 또 조심하세요”라고 당부했다.\n한편 이현이는 SBS 예능프로그램 ‘골 때리는 그녀들’에서 구척장신의 주장으로 활약하고 있다.\n이날 게재한 글에서도 “꼬박 3주만에 공을 찼다. 너무 재미있는데 폐가 터질 것 같았다”라며 여전한 축구 사랑을 과시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 출신 방송인 이현이가 코로나19 확진 후기를 전했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이현이는 16일 자신의 사회관계망서비스(SNS)에 코로나19 확진 후 겪은 증상을 공유했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이현이는 “2주 만에 코로나를 극복했다. 2월 말에 아들이 먼저 코로나에 걸려 유치원 졸업식, 초등학교 입학식 전부 못 가고 온 가족이 다가팅 겨리했는데 3월 초 저와 둘째 아들이 연달아 확진됐다”라고 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “오미크론은 안 아프다더니, 백신 3차까지 맞으면 덜 아프다더니 저는 정말 이대로 죽을 수도 있겠다 싶을 정도로 아팠다”다 라며 증상이 기존에 알려진 것과 다르게 컸다고 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이현이는 “병원에 전화해 약 처방을 받았지만 약도 소용없었다. 증상이 심한 케이스였던 것 같은데 저 같은 사람도 있으니 모두들 조심, 또 조심하세요”라고 당부했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이현이는 SBS 예능프로그램 ‘골 때리는 그녀들’에서 구척장신의 주장으로 활약하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 게재한 글에서도 “꼬박 3주만에 공을 찼다. 너무 재미있는데 폐가 터질 것 같았다”라며 여전한 축구 사랑을 과시했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이현이가 전한 코로나 후기 “죽을 정도로 아파”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

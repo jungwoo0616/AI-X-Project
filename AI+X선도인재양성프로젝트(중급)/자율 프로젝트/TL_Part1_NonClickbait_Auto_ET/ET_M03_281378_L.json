@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281378",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] ‘히든싱어’에 잔뜩 긴장한 거미",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘히든싱어 4’에 가수 거미가 열한 번째 원조 가수로 출연한다.\n거미는 호소력 있는 목소리를 가진 대한민국의 대표 R&B 여가수다. 2003년 데뷔해 그간 ‘친구라도 될 걸 그랬어’ ‘기억상실’ ‘어른아이’ 등 수많은 명곡을 남겼다.\n이날 방송에는 거미의 절친으로 알려진 가수 휘성이 연예인 판정단으로 출연한다.\n휘성은 “어렸을 때부터 같이 노래를 부르며 자라서 나만큼 거미 목소리를 잘 아는 사람은 없다”며 강한 자신감을 드러낸다.\n거미 역시 “모창 능력자가 안 찾아진다고 들었다. 모창 능력자들이 어떤 사람들일지 궁금하다”며 여유있는 모습을 보인다.\n하지만 본격적인 대결에 들어가자 거미는 “내가 노래하기에 유리한 부분 좀 다르다” “내가 노래를 어떻게 했나 모르겠다”며 잔뜩 긴장을 한다.\n연예인 판정단도 노래가 끝난 뒤 “이건 납득할 수 없는 결과” “최고의 박빙 무대”라며 찬사를 표한다.\nR&B 여왕 거미와 다섯 모창 능력자들의 환상적인 무대는 12일 오후 11시에 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘히든싱어 4’에 가수 거미가 열한 번째 원조 가수로 출연한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "거미는 호소력 있는 목소리를 가진 대한민국의 대표 R&B 여가수다. 2003년 데뷔해 그간 ‘친구라도 될 걸 그랬어’ ‘기억상실’ ‘어른아이’ 등 수많은 명곡을 남겼다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에는 거미의 절친으로 알려진 가수 휘성이 연예인 판정단으로 출연한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휘성은 “어렸을 때부터 같이 노래를 부르며 자라서 나만큼 거미 목소리를 잘 아는 사람은 없다”며 강한 자신감을 드러낸다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "거미 역시 “모창 능력자가 안 찾아진다고 들었다. 모창 능력자들이 어떤 사람들일지 궁금하다”며 여유있는 모습을 보인다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 본격적인 대결에 들어가자 거미는 “내가 노래하기에 유리한 부분 좀 다르다” “내가 노래를 어떻게 했나 모르겠다”며 잔뜩 긴장을 한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연예인 판정단도 노래가 끝난 뒤 “이건 납득할 수 없는 결과” “최고의 박빙 무대”라며 찬사를 표한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "R&B 여왕 거미와 다섯 모창 능력자들의 환상적인 무대는 12일 오후 11시에 확인할 수 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] ‘히든싱어’에 잔뜩 긴장한 거미",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

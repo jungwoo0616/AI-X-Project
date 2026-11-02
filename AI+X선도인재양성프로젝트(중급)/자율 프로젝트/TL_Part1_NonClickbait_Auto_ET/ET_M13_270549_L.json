@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270549",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "트와이스 다현, 콘서트 규모 예상케 하는 인증샷 공개",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스(TWICE) 멤버 다현이 단독 콘서트 인증샷을 올렸다.\n다현은 18일 오전 자신의 사회관계망서비스(SNS) 인스타그램 계정에 이모티콘과 함께 사진을 게재했다.\n다현은 콘서트장에서 촬영한 모습으로 자랑스러운 인증샷을 남겼다.\n트와이스가 개최하는 단독 콘서트의 규모를 얼핏 짐작게 했다.\n앞서 트와이스 소속사 JYP엔터테인먼트는 지난 16일 멤버들 개인 SNS가 오픈했다고 밝혔다.\n트와이스 멤버들은 첫 게시물로 단체 샷을 공개했다.\n한편 트와이스는 지난 14일(이하 현지시간)과 15일 양일간 미국 로스앤젤레스 ‘뱅크 오브 캘리포니아 스타디움’(Banc of California Stadium)에서 네 번째 월드투어 ‘TWICE 4TH WORLD TOUR ‘Ⅲ’’(트와이스 네 번째 월드투어 ‘쓰리’)의 미국 앙코르 콘서트를 개최하는 K-POP 최초의 걸그룹이 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스(TWICE) 멤버 다현이 단독 콘서트 인증샷을 올렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다현은 18일 오전 자신의 사회관계망서비스(SNS) 인스타그램 계정에 이모티콘과 함께 사진을 게재했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다현은 콘서트장에서 촬영한 모습으로 자랑스러운 인증샷을 남겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트와이스가 개최하는 단독 콘서트의 규모를 얼핏 짐작게 했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 트와이스 소속사 JYP엔터테인먼트는 지난 16일 멤버들 개인 SNS가 오픈했다고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "트와이스 멤버들은 첫 게시물로 단체 샷을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 트와이스는 지난 14일(이하 현지시간)과 15일 양일간 미국 로스앤젤레스 ‘뱅크 오브 캘리포니아 스타디움’(Banc of California Stadium)에서 네 번째 월드투어 ‘TWICE 4TH WORLD TOUR ‘Ⅲ’’(트와이스 네 번째 월드투어 ‘쓰리’)의 미국 앙코르 콘서트를 개최하는 K-POP 최초의 걸그룹이 됐다.",
+				"sentenceSize": 187
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 다현, 콘서트 규모 예상케 하는 인증샷 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273561",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "한영♥박군, 꿀 떨어지는 러브하우스 공개",
+		"newsSubTitle": "",
+		"newsContent": "방송인 한영이 신혼집을 공개했다.\n한영이 지난 19일 오후 9시 5분 방송된 SBS 예능프로그램 ‘미운 우리 새끼’에 출연했다.\n이날 이상민, 임원희, 최진혁은 한영의 특급 인테리어가 돋보이는 러브하우스에 방문했다.\n한영은 이들을 위한 집들이 음식을 준비하는 도중 남편 박군과 러블리한 케미를 선보이며 시청자를 웃음 짓게 한 것은 물론, 미모의 친구들까지 집에 초청해 두근두근한 분위기로 반전시켰다.\n특히 이상민과 임원희, 최진혁이 한영이 쇼호스트 시절 친분을 쌓았던 친구들에게 큰 관심을 보이자 한영은 능숙하게 소개팅 진행에 나서기도 했다.\n한편, 최근 박군과 달콤한 러브스토리로 대중들에게 설렘 가득한 감정을 선물했던 한영은 앞으로도 다양한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 한영이 신혼집을 공개했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한영이 지난 19일 오후 9시 5분 방송된 SBS 예능프로그램 ‘미운 우리 새끼’에 출연했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이상민, 임원희, 최진혁은 한영의 특급 인테리어가 돋보이는 러브하우스에 방문했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한영은 이들을 위한 집들이 음식을 준비하는 도중 남편 박군과 러블리한 케미를 선보이며 시청자를 웃음 짓게 한 것은 물론, 미모의 친구들까지 집에 초청해 두근두근한 분위기로 반전시켰다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이상민과 임원희, 최진혁이 한영이 쇼호스트 시절 친분을 쌓았던 친구들에게 큰 관심을 보이자 한영은 능숙하게 소개팅 진행에 나서기도 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 최근 박군과 달콤한 러브스토리로 대중들에게 설렘 가득한 감정을 선물했던 한영은 앞으로도 다양한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한영♥박군, 꿀 떨어지는 러브하우스 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

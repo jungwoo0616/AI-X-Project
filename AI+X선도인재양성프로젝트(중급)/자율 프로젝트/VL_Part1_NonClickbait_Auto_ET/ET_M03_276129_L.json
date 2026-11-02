@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276129",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "왕지혜, 29일 결혼…예비신랑은 연하의 비연예인",
+		"newsSubTitle": "",
+		"newsContent": "배우 왕지혜(33)가 오는 29일 연인과 백년가약을 맺는다.\n소속사 스토리제이컴퍼니는 16일 보도자료를 통해 왕지혜의 결혼 소식을 알렸다.\n소속사에 따르면 예비 신랑은 연하의 비연예인으로, 두 사람은 1년간 교제했다.\n예식은 서울 모처에서 가족, 친지를 비롯한 가까운 지인만 초대해 소규모로 치른다.\n소속사는 \\\"한 가정을 이루게 된 왕지혜의 앞날에 따뜻한 축복을 보내주시기 바라며, 왕지혜는 앞으로 배우로서 더 좋은 연기로 보답할 것\\\"이라고 했다.\n왕지혜는 2003년 MBC TV 드라마 '1%의 어떤 것'으로 데뷔해 영화 '뷰티풀 선데이', '식객: 김치전쟁' 등과 드라마 '친구, 우리들의 전설', '개인의 취향', '보스를 지켜라', '총각네 야채가게', '호텔킹', '사랑은 방울방울' 등 다수 작품에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 왕지혜(33)가 오는 29일 연인과 백년가약을 맺는다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 스토리제이컴퍼니는 16일 보도자료를 통해 왕지혜의 결혼 소식을 알렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 예비 신랑은 연하의 비연예인으로, 두 사람은 1년간 교제했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예식은 서울 모처에서 가족, 친지를 비롯한 가까운 지인만 초대해 소규모로 치른다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 \\\"한 가정을 이루게 된 왕지혜의 앞날에 따뜻한 축복을 보내주시기 바라며, 왕지혜는 앞으로 배우로서 더 좋은 연기로 보답할 것\\\"이라고 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "왕지혜는 2003년 MBC TV 드라마 '1%의 어떤 것'으로 데뷔해 영화 '뷰티풀 선데이', '식객: 김치전쟁' 등과 드라마 '친구, 우리들의 전설', '개인의 취향', '보스를 지켜라', '총각네 야채가게', '호텔킹', '사랑은 방울방울' 등 다수 작품에 출연했다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "왕지혜, 29일 결혼…예비신랑은 연하의 비연예인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271992",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "국립전파연구원·관세청, 수입 방송통신기자재 안전성 집중점검",
+		"newsSubTitle": "",
+		"newsContent": "과학기술정보통신부 소속 국립전파연구원이 관세청과 함께 이달 2∼29일 수입되는 방송통신 기자재 전자파 적합성 기준 준수 여부를 집중적으로 검사한다고 1일 밝혔다.\n정부에 따르면 이는 기기가 전자파를 발생해 다른 정보통신·전자 기기를 오작동시키거나 다른 기기에서 나오는 전자파로 해당 기기가 오작동하는지 파악하는 검사다.\n합동단속 주요 대상은 여름철을 앞두고 수입량이 증가하는 선풍기, 가습기, 제빙기, 전기 잔디깎이, 해충퇴치기 등이다.\n또 지난해 적합성 평가 사후관리 단계에서 부적합이 많이 발생한 프로젝터, 웹캠, 마사지기 등도 포함됐다.\n불법 촬영에 사용될 개연성이 있는 변형 카메라도 단속 대상이다.\n양 기관은 인천세관, 부산세관 등으로 반입되는 기기를 집중적으로 점검한다.\n적합성 평가 표시 부착과 기술기준 부합 여부 등이 주요 점검 항목이다.\n적발되면 통관 보류 등 제재를 받는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부 소속 국립전파연구원이 관세청과 함께 이달 2∼29일 수입되는 방송통신 기자재 전자파 적합성 기준 준수 여부를 집중적으로 검사한다고 1일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정부에 따르면 이는 기기가 전자파를 발생해 다른 정보통신·전자 기기를 오작동시키거나 다른 기기에서 나오는 전자파로 해당 기기가 오작동하는지 파악하는 검사다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "합동단속 주요 대상은 여름철을 앞두고 수입량이 증가하는 선풍기, 가습기, 제빙기, 전기 잔디깎이, 해충퇴치기 등이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 지난해 적합성 평가 사후관리 단계에서 부적합이 많이 발생한 프로젝터, 웹캠, 마사지기 등도 포함됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "불법 촬영에 사용될 개연성이 있는 변형 카메라도 단속 대상이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양 기관은 인천세관, 부산세관 등으로 반입되는 기기를 집중적으로 점검한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "적합성 평가 표시 부착과 기술기준 부합 여부 등이 주요 점검 항목이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "적발되면 통관 보류 등 제재를 받는다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국립전파연구원·관세청, 수입 방송통신기자재 안전성 집중점검",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

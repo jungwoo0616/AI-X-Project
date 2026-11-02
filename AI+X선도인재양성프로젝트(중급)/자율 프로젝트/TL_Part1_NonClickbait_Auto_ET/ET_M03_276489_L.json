@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276489",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이수근은 잘 하는데 엑소 카이는 못 한다는 '이것'",
+		"newsSubTitle": "",
+		"newsContent": "운동으로 다져진 탄탄한 몸매를 자랑하는 엑소 카이가 절대 할 수 없다는 행동이 시청자들의 웃음을 자아냈다.\n지난 22일 JTBC '아는형님'에 출연한 엑소 멤버들은 애교, 노래, 퍼포먼스 등 각각 매력을 뽐내며 시청자들을 사로잡았다.\n그러던 중 멤버 카이는 자신의 장점을 ‘몸매’라고 꼽아 출연자들의 주목을 받았다.\n몸매를 보여달라는 요청에 카이는 셔츠를 올려 ‘초콜릿 복근’을 선보였다.\n이에 강호동은 이수근을 비교 대상으로 내세웠고 이수근은 ‘으르렁’ 노래에 맞춰 뱃살을 파도치듯 움직이게 해 스튜디오를 웃음바다로 만들었다.\n하지만 카이는 그럴 수 없었다.\n복부가 지방이 아닌 근육으로 가득 차 있던 카이는 이수근의 배를 쓰다듬으며 “이게 난 없어”라고 말했고 이수근은 ‘배를 내미는’ 자체가 안 되는 카이의 모습에 의아해해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "운동으로 다져진 탄탄한 몸매를 자랑하는 엑소 카이가 절대 할 수 없다는 행동이 시청자들의 웃음을 자아냈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일 JTBC '아는형님'에 출연한 엑소 멤버들은 애교, 노래, 퍼포먼스 등 각각 매력을 뽐내며 시청자들을 사로잡았다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러던 중 멤버 카이는 자신의 장점을 ‘몸매’라고 꼽아 출연자들의 주목을 받았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "몸매를 보여달라는 요청에 카이는 셔츠를 올려 ‘초콜릿 복근’을 선보였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 강호동은 이수근을 비교 대상으로 내세웠고 이수근은 ‘으르렁’ 노래에 맞춰 뱃살을 파도치듯 움직이게 해 스튜디오를 웃음바다로 만들었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 카이는 그럴 수 없었다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "복부가 지방이 아닌 근육으로 가득 차 있던 카이는 이수근의 배를 쓰다듬으며 “이게 난 없어”라고 말했고 이수근은 ‘배를 내미는’ 자체가 안 되는 카이의 모습에 의아해해 웃음을 자아냈다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이수근은 잘 하는데 엑소 카이는 못 한다는 '이것'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

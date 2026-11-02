@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274489",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "함소원 베트남 미인대회 등장 “따뜻한 인간미 갖겠다”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 함소원이 베트남 미인대회 심사 현장을 공개했다.\n함소원은 1일 자신의 인스타그램에 베트남 미인대회 참가 영상을 게재했다.\n공개한 영상에서 함소원은 미인대회에서 마이크를 잡고 인사말을 전했다.\n그는 “26년 전 한국의 아름다움을 세계에 알리기 위해 미스코리아에 참가했었는데요. 오늘은 베트남에 와 있습니다. 저는 외적인 모습보다 내면적으로 더 건강하고 따뜻한 인간미를 갖고자 노력합니다. 오늘보다 내일이 더 찬란하게 빛나는, 선한 아름다움을 알리고 지키도록 영원히 노력 하겠습니다”라고 말했다.\n함소원은 SNS에 “조용히 미인대회 참가한 예쁜 후배들 보고 심사하고 오면 되는 줄 알고 갔는데 이런 갑자기 제 소개를 미인 대회 출신 중 가장 어려 보이고 관리를 잘하셨다는 멘트 말씀에 기분이 좋아져서 무대에 올라갔습니다. 더 관리 잘해서 몇 년 후에, 몇십 년 후에도또 초청되서 다녀오고 싶네요. 여러분 저 내면적으로도 또 외면적으로도 더 관리하겠습니다. 더 건강하고 따뜻한 인간미 있는 함소원이 되겠습니다”라는 글을 남겼다.\n한편 함소원은 지난 1997년 미스코리아 대회에 출전해 경기 진에 선정됐다.\n이후 배우, 가수 등으로 활동했고 2017년 중국 출신 방송인 진화와 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 함소원이 베트남 미인대회 심사 현장을 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "함소원은 1일 자신의 인스타그램에 베트남 미인대회 참가 영상을 게재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 영상에서 함소원은 미인대회에서 마이크를 잡고 인사말을 전했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “26년 전 한국의 아름다움을 세계에 알리기 위해 미스코리아에 참가했었는데요. 오늘은 베트남에 와 있습니다. 저는 외적인 모습보다 내면적으로 더 건강하고 따뜻한 인간미를 갖고자 노력합니다. 오늘보다 내일이 더 찬란하게 빛나는, 선한 아름다움을 알리고 지키도록 영원히 노력 하겠습니다”라고 말했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "함소원은 SNS에 “조용히 미인대회 참가한 예쁜 후배들 보고 심사하고 오면 되는 줄 알고 갔는데 이런 갑자기 제 소개를 미인 대회 출신 중 가장 어려 보이고 관리를 잘하셨다는 멘트 말씀에 기분이 좋아져서 무대에 올라갔습니다. 더 관리 잘해서 몇 년 후에, 몇십 년 후에도또 초청되서 다녀오고 싶네요. 여러분 저 내면적으로도 또 외면적으로도 더 관리하겠습니다. 더 건강하고 따뜻한 인간미 있는 함소원이 되겠습니다”라는 글을 남겼다.",
+				"sentenceSize": 240
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 함소원은 지난 1997년 미스코리아 대회에 출전해 경기 진에 선정됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 배우, 가수 등으로 활동했고 2017년 중국 출신 방송인 진화와 결혼했다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "함소원 베트남 미인대회 등장 “따뜻한 인간미 갖겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

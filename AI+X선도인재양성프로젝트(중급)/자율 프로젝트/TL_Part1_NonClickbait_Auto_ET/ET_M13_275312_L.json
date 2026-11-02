@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275312",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이돌 그룹 출신 A씨, 보이스피싱 범행 후 자수",
+		"newsSubTitle": "",
+		"newsContent": "아이돌 그룹 출신 A씨가 보이스피싱 범행 후 자수했다.\n12일 MBN 단독 보도에 따르면 A씨는 지난달 16일 경기 여주경찰서를 찾아 “내가 보이스피싱 수거책으로 피해자로부터 600만 원을 건네받았다”고 자백했다.\nA씨는 아이돌 그룹 출신이자 연기자인 30대 남성으로 파악됐다.\n진술 내용에 따르면 경제적 어려움을 겪던 A씨는 인터넷을 통해 ‘고액 알바 자리가 있다’는 정보를 받고 일을 시작했다.\n이후 소개받은 일이 보이스피싱 범죄라는 것을 깨닫고 바로 경찰서를 찾았다.\n경기남부경찰청은 2건의 추가 피해를 확인한 뒤 공범 3명을 더 검거한 것으로 알려졌다.\n경찰은 사기 등의 혐의로 A씨를 불구속 입건한 뒤 추가 공범 등에 대한 수사를 진행할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌 그룹 출신 A씨가 보이스피싱 범행 후 자수했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 MBN 단독 보도에 따르면 A씨는 지난달 16일 경기 여주경찰서를 찾아 “내가 보이스피싱 수거책으로 피해자로부터 600만 원을 건네받았다”고 자백했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 아이돌 그룹 출신이자 연기자인 30대 남성으로 파악됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "진술 내용에 따르면 경제적 어려움을 겪던 A씨는 인터넷을 통해 ‘고액 알바 자리가 있다’는 정보를 받고 일을 시작했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 소개받은 일이 보이스피싱 범죄라는 것을 깨닫고 바로 경찰서를 찾았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경기남부경찰청은 2건의 추가 피해를 확인한 뒤 공범 3명을 더 검거한 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경찰은 사기 등의 혐의로 A씨를 불구속 입건한 뒤 추가 공범 등에 대한 수사를 진행할 예정이다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이돌 그룹 출신 A씨, 보이스피싱 범행 후 자수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

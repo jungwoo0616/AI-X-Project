@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275611",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "정호근, 오은영 부동산 정보 맞혔다...박나래 결혼에는 “기다려” (금쪽상담소)",
+		"newsSubTitle": "",
+		"newsContent": "‘금쪽상담소’ 정호근이 박나래 결혼을 예측했다.\n15일 오후 방송된 채널A ‘오은영의 금쪽상담소’에서는 배우 겸 무속인 정호근이 출연했다.\n이날 정호근은 자리에 앉아 갑자기 허공을 보다 수제자들에게 시선을 돌렸다.\n그는 오은영을 빤히 보더니 “오 박사님 뵀을 때 화면이 확실히 실물의 눈과 전혀 다르게 나온다. 실물의 눈은 굉장히 고혹적이시다. 사람의 마음이 굉장히 편안해진다. 선생님 눈이 보물이다”라고 말했다.\n이어 정호근은 “새롭게 집을 장만하거나 병원을 증축한다거나 하는 생각이 드는데 제가 열거한 것 중에 해당 사항이 있습니까?”라고 물었고 오은영은 “있을 것 같은데요?”라고 말해 깜짝 놀라게 했다.\n올해 38세인 박나래는 결혼에 관해 물었고 정호근은 “기다리세요. 올해와 내년에 인연이 생겨도 눈에 콩깍지가 씌면 안 된다. 덤덤하게 받아들여야 더 좋은 배필로 내 인생이 높이 올라가고 편안해진다”라고 밝혔다.\n실망하던 박나래는 “있기는 있네”라며 위안했다.\n한편 채널A ‘금쪽상담소’는 매주 금요일 오후 9시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘금쪽상담소’ 정호근이 박나래 결혼을 예측했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 오후 방송된 채널A ‘오은영의 금쪽상담소’에서는 배우 겸 무속인 정호근이 출연했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 정호근은 자리에 앉아 갑자기 허공을 보다 수제자들에게 시선을 돌렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 오은영을 빤히 보더니 “오 박사님 뵀을 때 화면이 확실히 실물의 눈과 전혀 다르게 나온다. 실물의 눈은 굉장히 고혹적이시다. 사람의 마음이 굉장히 편안해진다. 선생님 눈이 보물이다”라고 말했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 정호근은 “새롭게 집을 장만하거나 병원을 증축한다거나 하는 생각이 드는데 제가 열거한 것 중에 해당 사항이 있습니까?”라고 물었고 오은영은 “있을 것 같은데요?”라고 말해 깜짝 놀라게 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 38세인 박나래는 결혼에 관해 물었고 정호근은 “기다리세요. 올해와 내년에 인연이 생겨도 눈에 콩깍지가 씌면 안 된다. 덤덤하게 받아들여야 더 좋은 배필로 내 인생이 높이 올라가고 편안해진다”라고 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실망하던 박나래는 “있기는 있네”라며 위안했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 채널A ‘금쪽상담소’는 매주 금요일 오후 9시 30분에 방송된다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정호근, 오은영 부동산 정보 맞혔다...박나래 결혼에는 “기다려” (금쪽상담소)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

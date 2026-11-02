@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171129",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘식스센스2’ 미주, 김선호 vs 이상이에 “엄마, 아빠 고르는 것 같아”",
+    "newsSubTitle": "",
+    "newsContent": "‘식스센스2’ 이상엽이 최초로 게스트를 빼앗았다.\n10일 오후 방송된 tvN ‘식스센스2’에서는 배우 이상이가 게스트로 출연했다.\n이날 유재석은 이상이 등장에 “성철이와 더불어 한예종 10학번 출신이다. 과대다”라고 소개했다.\n이에 이상이는 “학번에서만 과대였지 그런 거 아니다”라고 겸손을 보였다.\n수줍어하는 미주에 이상엽은 “김선호야 이상이야”라고 물었고 미주는 “어떻게 해. 엄마, 아빠? 엄마, 아빠 고르라는 것 같은데”라고 말해 폭소케 했다.\n또한 ‘한다다’에서 형제로 만난 사이인 두 사람은 포옹으로 둘만의 세계를 만들었다.\n그 모습에 미주는 “주제나 빨리 말해요”라고 투덜거렸고 제시 또한 “둘이 친한 게 되게 별로다”라고 말했다.\n한편 tvN ‘식스센스2’는 매주 금요일 오후 8시 40분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘식스센스2’ 이상엽이 최초로 게스트를 빼앗았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 오후 방송된 tvN ‘식스센스2’에서는 배우 이상이가 게스트로 출연했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 유재석은 이상이 등장에 “성철이와 더불어 한예종 10학번 출신이다. 과대다”라고 소개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 이상이는 “학번에서만 과대였지 그런 거 아니다”라고 겸손을 보였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수줍어하는 미주에 이상엽은 “김선호야 이상이야”라고 물었고 미주는 “어떻게 해. 엄마, 아빠? 엄마, 아빠 고르라는 것 같은데”라고 말해 폭소케 했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 ‘한다다’에서 형제로 만난 사이인 두 사람은 포옹으로 둘만의 세계를 만들었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 모습에 미주는 “주제나 빨리 말해요”라고 투덜거렸고 제시 또한 “둘이 친한 게 되게 별로다”라고 말했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 tvN ‘식스센스2’는 매주 금요일 오후 8시 40분에 방송된다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이상엽의 곤란한 질문에 망설이던 미주, 미주가 선택한 사람은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

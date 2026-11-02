@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278785",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "라디오스타 강하늘, \\\"과거 두 달에 한 번 꼴로 클럽에…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'라디오스타'에 출연한 배우 강하늘이 과거 클럽에 자주 다닌 사실을 털어놓았다.\n17일 방송된 MBC '라디오스타'에는 강하늘, 김신영, 김동현, 한재영이 게스트로 출연해 예능감을 뽐냈다.\n이날 방송에서 강하늘은 \\\"과거 두 달에 한 번 꼴로 클럽에 다녔다\\\"고 밝혔다.\n이어 클럽에서 췄던 댄스까지 공개해 웃음을 자아냈다.\nMC들이 댄스 요청을 하자 강하늘은 \\\"제가 하는 행위는 춤이 아니다\\\"라고 당황스러워하면서도 멈칫멈칫 몸을 움직이다 걸터앉으며 눈웃음을 발사해 여심을 흔들었다.\n온라인 중앙일보 [사진=MBC 방송화면 캡쳐]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'라디오스타'에 출연한 배우 강하늘이 과거 클럽에 자주 다닌 사실을 털어놓았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 방송된 MBC '라디오스타'에는 강하늘, 김신영, 김동현, 한재영이 게스트로 출연해 예능감을 뽐냈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 강하늘은 \\\"과거 두 달에 한 번 꼴로 클럽에 다녔다\\\"고 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 클럽에서 췄던 댄스까지 공개해 웃음을 자아냈다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MC들이 댄스 요청을 하자 강하늘은 \\\"제가 하는 행위는 춤이 아니다\\\"라고 당황스러워하면서도 멈칫멈칫 몸을 움직이다 걸터앉으며 눈웃음을 발사해 여심을 흔들었다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진=MBC 방송화면 캡쳐]",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라디오스타 강하늘, \\\"과거 두 달에 한 번 꼴로 클럽에…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

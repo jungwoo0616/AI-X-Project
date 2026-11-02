@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167199",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "제26회 원주인권영화제 10∼11일 온라인 개최",
+    "newsSubTitle": "",
+    "newsContent": "원주시민연대가 ‘제26회 원주인권영화제’를 10∼11일 이틀간 온라인으로 진행한다고 9일 밝혔다.\n원주인권영화제는 우리나라에서 가장 오래된 인권영화제로 올해 26회를 맞는다.\n올해 주제는 평화와 공존이며, 개막작은 조정래 감독의 ‘광대’로 남북이 공동 제작한 뮤지컬 영화이다.\n통일을 준비하기 위한 영화로 북한 청소년이 남한으로 수학여행을 오고 소녀와늬 만남 모습을 재미있게 그린 장은연 감독의 ‘소년, 소녀를 만나다’와 원주 평화의 소녀상 건립 및 닥종이 인형전과 6년간의 캠페인을 담은 황남윤 감독의 ‘평화의 소녀상을 보셨습니까’, 이주노동자의 삶을 조명한 ‘비닐하우스는 집이 아니다’, 제주 4·3사건을 다룬 ‘레드 헌트’ 등 총 6편이 상영된다.\n인권주간을 맞아 원주시민 30명이 참여한 세계인권선언문 낭독 유튜브를 제작, 10일 세계인권선언일에 상영한다.\n상영 영화 관람은 홈페이지와 원주시민연대 홈페이지를 접속하면 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원주시민연대가 ‘제26회 원주인권영화제’를 10∼11일 이틀간 온라인으로 진행한다고 9일 밝혔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "원주인권영화제는 우리나라에서 가장 오래된 인권영화제로 올해 26회를 맞는다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올해 주제는 평화와 공존이며, 개막작은 조정래 감독의 ‘광대’로 남북이 공동 제작한 뮤지컬 영화이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "통일을 준비하기 위한 영화로 북한 청소년이 남한으로 수학여행을 오고 소녀와늬 만남 모습을 재미있게 그린 장은연 감독의 ‘소년, 소녀를 만나다’와 원주 평화의 소녀상 건립 및 닥종이 인형전과 6년간의 캠페인을 담은 황남윤 감독의 ‘평화의 소녀상을 보셨습니까’, 이주노동자의 삶을 조명한 ‘비닐하우스는 집이 아니다’, 제주 4·3사건을 다룬 ‘레드 헌트’ 등 총 6편이 상영된다.",
+        "sentenceSize": 210
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인권주간을 맞아 원주시민 30명이 참여한 세계인권선언문 낭독 유튜브를 제작, 10일 세계인권선언일에 상영한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상영 영화 관람은 홈페이지와 원주시민연대 홈페이지를 접속하면 된다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제26회 원주인권영화제 온라인으로 개최... 언제부터 시작될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

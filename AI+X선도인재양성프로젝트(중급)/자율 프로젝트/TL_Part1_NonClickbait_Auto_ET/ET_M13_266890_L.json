@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266890",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘유퀴즈’ 세월호 8주기 추모 “평생 무뎌지지 않겠지만…”",
+		"newsSubTitle": "",
+		"newsContent": "‘유퀴즈’가 세월호 참사를 추모했다.\n지난 13일 방송된 tvN 예능 ‘유 퀴즈 온 더 블럭’은 ‘현장 출동’ 특집으로 꾸며졌다.\n이날 방송에는 생사의 기로에 놓인 현장의 부름에 가장 먼저 달려가는 자기님들이 출연해 여러 에피소드를 방출했다.\n고속도로 순찰대 암행순찰팀 김영태 경위, 울진·삼척 산불 진화에 참여한 산불 공중진화대 라상훈 팀장, 죽은 이들의 메시지를 가장 먼저 듣는 검시조사관 김진영, 전자발찌 대상자를 감시하는 무도실무관 안병헌 등 남다른 사명감을 지닌 이들의 사연이 공개됐다.\n방송 말미에는 “상실의 슬픔이 사명감을 뒤덮고 삶을 짓누르기도 하지만 때로는 또 다른 상실을 막으려 현장에 다시 뛰어드는 이유가 되기도 한다”라며 “상처처럼 마음에 남아 평생 아픔은 무뎌지지 않겠지만 그 아픔 안고 살기에 여덟 해째 꽃이 필 때에도 주변 한 번 살피게 되기를”라는 문구가 등장했다.\n활짝핀 봄꽃을 배경으로 세월호 추모 리본 사진이 보여 보는 이들을 뭉클하게 했다.\n세월호 참사는 2014년 4월 16일 인천에서 제주로 향하던 여객선 세월호가 진도 인근 해상에서 침몰하면서 승객 304명이 사망·실종된 대형 참사다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘유퀴즈’가 세월호 참사를 추모했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 13일 방송된 tvN 예능 ‘유 퀴즈 온 더 블럭’은 ‘현장 출동’ 특집으로 꾸며졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에는 생사의 기로에 놓인 현장의 부름에 가장 먼저 달려가는 자기님들이 출연해 여러 에피소드를 방출했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고속도로 순찰대 암행순찰팀 김영태 경위, 울진·삼척 산불 진화에 참여한 산불 공중진화대 라상훈 팀장, 죽은 이들의 메시지를 가장 먼저 듣는 검시조사관 김진영, 전자발찌 대상자를 감시하는 무도실무관 안병헌 등 남다른 사명감을 지닌 이들의 사연이 공개됐다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방송 말미에는 “상실의 슬픔이 사명감을 뒤덮고 삶을 짓누르기도 하지만 때로는 또 다른 상실을 막으려 현장에 다시 뛰어드는 이유가 되기도 한다”라며 “상처처럼 마음에 남아 평생 아픔은 무뎌지지 않겠지만 그 아픔 안고 살기에 여덟 해째 꽃이 필 때에도 주변 한 번 살피게 되기를”라는 문구가 등장했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "활짝핀 봄꽃을 배경으로 세월호 추모 리본 사진이 보여 보는 이들을 뭉클하게 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세월호 참사는 2014년 4월 16일 인천에서 제주로 향하던 여객선 세월호가 진도 인근 해상에서 침몰하면서 승객 304명이 사망·실종된 대형 참사다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘유퀴즈’ 세월호 8주기 추모 “평생 무뎌지지 않겠지만…”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

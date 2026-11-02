@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282478",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'복면가왕' 아로미, 정체는 '뽀로로' 성우 이선으로 밝혀져…'작은 체구의 내공'",
+		"newsSubTitle": "",
+		"newsContent": "'복면가왕' 아로미가 뽀로로 성우 이선으로 밝혀졌다.\n29일 오후 방송된 MBC 예능 '일밤-복면가왕'(이하 복면가왕) 18대 가왕 1라운드에서 머리가 커서 슬픈 파라오와 왕눈이 친구 아로미의 대결이 펼쳐졌다.\n두 사람은 고 이원진의 '시작되는 연인들을 위해'를 열창했다.\n파라오는 탄탄한 근육질 몸매로, 기운찬 목소리를 자랑하며 무대를 가득채웠고, 아로미는 작은 체구로도 내공이 느껴지는 가창력을 선보였다.\n판정단의 투표 결과, 파라오가 56대 43표로 13표 차이로 아로미를 꺾고 2라운드로 진출했다.\n한편 '복면가왕'은 정체를 숨기고 오로지 목소리 하나로 노래 대결을 벌이는 프로그램으로 일요일 오후 4시 50분 전파를 탄다.\n온라인 중앙일보 [사진 MBC ‘복면가왕’ 방송화면 캡처] ‘복면가왕’ 아로미",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'복면가왕' 아로미가 뽀로로 성우 이선으로 밝혀졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 오후 방송된 MBC 예능 '일밤-복면가왕'(이하 복면가왕) 18대 가왕 1라운드에서 머리가 커서 슬픈 파라오와 왕눈이 친구 아로미의 대결이 펼쳐졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 고 이원진의 '시작되는 연인들을 위해'를 열창했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파라오는 탄탄한 근육질 몸매로, 기운찬 목소리를 자랑하며 무대를 가득채웠고, 아로미는 작은 체구로도 내공이 느껴지는 가창력을 선보였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "판정단의 투표 결과, 파라오가 56대 43표로 13표 차이로 아로미를 꺾고 2라운드로 진출했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 '복면가왕'은 정체를 숨기고 오로지 목소리 하나로 노래 대결을 벌이는 프로그램으로 일요일 오후 4시 50분 전파를 탄다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC ‘복면가왕’ 방송화면 캡처] ‘복면가왕’ 아로미",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'복면가왕' 아로미, 정체는 '뽀로로' 성우 이선으로 밝혀져…'작은 체구의 내공'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

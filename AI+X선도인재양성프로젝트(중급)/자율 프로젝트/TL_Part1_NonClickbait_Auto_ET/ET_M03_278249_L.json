@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278249",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[화보] \\\"오늘은 꼭 투표하실거죠?\\\" 스타들의 투표 인증샷 이어져",
+		"newsSubTitle": "",
+		"newsContent": "제20대 국회의원 선거일인 13일, 연예인들이 '투표 인증샷'을 SNS를 통해 공개했다.\n한편 중앙선거관리위원회에 따르면, 특정 후보의 선거 벽보와 함께 촬영하거나 손가락으로 숫자를 표현하면 불법이지만, 투표를 독려하는 글이나 사진은 허용된다.\n또한 기표 여부와 상관없이 기표소 안에서는 투표용지를 촬영하는 행위가 금지된다.\n이를 어길 시 공직선거법 위반에 해당, 3년 이하의 징역이나 600만원 이하의 벌금에 처해질 수 있다.\n하지만 투표소 입구나 주변 등 기표소를 벗어난 곳에서의 촬영은 가능하다.\n온라인중앙일보 [사진 뉴시스, 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제20대 국회의원 선거일인 13일, 연예인들이 '투표 인증샷'을 SNS를 통해 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한편 중앙선거관리위원회에 따르면, 특정 후보의 선거 벽보와 함께 촬영하거나 손가락으로 숫자를 표현하면 불법이지만, 투표를 독려하는 글이나 사진은 허용된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 기표 여부와 상관없이 기표소 안에서는 투표용지를 촬영하는 행위가 금지된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 어길 시 공직선거법 위반에 해당, 3년 이하의 징역이나 600만원 이하의 벌금에 처해질 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 투표소 입구나 주변 등 기표소를 벗어난 곳에서의 촬영은 가능하다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인중앙일보 [사진 뉴시스, 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[화보] \\\"오늘은 꼭 투표하실거죠?\\\" 스타들의 투표 인증샷 이어져",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

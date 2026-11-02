@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171737",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "강태오, ‘서른, 아홉’ 특별출연…이태환과 우정 자랑",
+    "newsSubTitle": "",
+    "newsContent": "배우 강태오가 종합편성채널 JTBC 수목극 ‘서른, 아홉’에 특별출연했다.\n강태오는 30일 방송된 ‘서른, 아홉’에서 극 중 차이나타운 셰프이자 사장인 이태환(박현준)의 친구로 깜짝 등장했다.\n이태환 친구로 등장한 강태오는 김지현(장주희) 대신 차이나타운 아르바이트생으로 출연했다.\n이날 강태오는 2분 남짓의 짧은 등장이었지만, 능청스러우면서 유쾌한 매력으로 극에 활기와 재미를 더했다.\n특히, 소속사 맨오브크리에이션의 한 식구이기도 한 강태오와 이태환은 현장에서도 찐친 케미를 발산하며 화기애애한 촬영 분위기를 만들었다는 후문이다.\n이번 강태오의 특별 출연은 이태환 뿐만 아니라 전작 JTBC ‘런 온’을 함께 했던 김상호 감독과의 인연도 있다. ‘런 온’에서 주연으로 출연했던 강태오는 ‘서른, 아홉’ 특별 출연 요청을 받자마자 흔쾌히 출연을 결정하며 화끈한 의리를 보여줬다고. ‘서른, 아홉’ 최종회는 31일 오후 10시30분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 강태오가 종합편성채널 JTBC 수목극 ‘서른, 아홉’에 특별출연했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강태오는 30일 방송된 ‘서른, 아홉’에서 극 중 차이나타운 셰프이자 사장인 이태환(박현준)의 친구로 깜짝 등장했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이태환 친구로 등장한 강태오는 김지현(장주희) 대신 차이나타운 아르바이트생으로 출연했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 강태오는 2분 남짓의 짧은 등장이었지만, 능청스러우면서 유쾌한 매력으로 극에 활기와 재미를 더했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히, 소속사 맨오브크리에이션의 한 식구이기도 한 강태오와 이태환은 현장에서도 찐친 케미를 발산하며 화기애애한 촬영 분위기를 만들었다는 후문이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 강태오의 특별 출연은 이태환 뿐만 아니라 전작 JTBC ‘런 온’을 함께 했던 김상호 감독과의 인연도 있다. ‘런 온’에서 주연으로 출연했던 강태오는 ‘서른, 아홉’ 특별 출연 요청을 받자마자 흔쾌히 출연을 결정하며 화끈한 의리를 보여줬다고. ‘서른, 아홉’ 최종회는 31일 오후 10시30분에 방송된다.",
+        "sentenceSize": 173
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'서른, 아홉' 특별 출연하며 이태환과 돈독한 우정 과시한 배우는 '이 사람'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

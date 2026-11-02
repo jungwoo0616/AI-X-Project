@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259684",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "미스코리아 서예진 만취음주운전, 벤츠차량 박살",
+		"newsSubTitle": "",
+		"newsContent": "2018 미스코리아 선 서예진이 만취 음주운전을 하다 사고까지 냈다.\nSBS에 따르면 서예진은 28일 서울 강남구 양재천로에서 벤츠 차량을 몰다 가로수와 충돌하는 사고를 냈다.\n사고 당시 현장에 출동한 경찰의 음주측정 결과 혈중 알코올 농도는 0.108%로 면허 취소 수치였다.\n서예진의 벤츠 차량은 에어백이 터지고 앞 범퍼가 파손되는 등 상당한 충격을 받은 것으로 보여 진다.\n서예진은 1차 음주측정을 거부하기도 했다.\n2차 음주측정을 한 뒤엔 눈물을 흘렸다.\n안위를 묻는 경찰관의 질문에 “XX 아프다”고 답하기도 했다.\n서예진은 제대로 걷지 못하고 비틀거리는 등 한눈에 봐도 술에 취한 상태였다.\n경찰관을 보고 웃는 등 이해불가 행동을 하기도 했다.\n사고현장에는 서울대 의과대학 초빙교수이자 강남 유명 피부과 원장인 부친과 모친이 모두 도착했다.\n서예진은 모친의 차량을 타고 사고 현장을 빠져 나갔다.\n서예진은 수서경찰서에 출석해 조사를 받을 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2018 미스코리아 선 서예진이 만취 음주운전을 하다 사고까지 냈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SBS에 따르면 서예진은 28일 서울 강남구 양재천로에서 벤츠 차량을 몰다 가로수와 충돌하는 사고를 냈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사고 당시 현장에 출동한 경찰의 음주측정 결과 혈중 알코올 농도는 0.108%로 면허 취소 수치였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서예진의 벤츠 차량은 에어백이 터지고 앞 범퍼가 파손되는 등 상당한 충격을 받은 것으로 보여 진다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서예진은 1차 음주측정을 거부하기도 했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2차 음주측정을 한 뒤엔 눈물을 흘렸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안위를 묻는 경찰관의 질문에 “XX 아프다”고 답하기도 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서예진은 제대로 걷지 못하고 비틀거리는 등 한눈에 봐도 술에 취한 상태였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "경찰관을 보고 웃는 등 이해불가 행동을 하기도 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사고현장에는 서울대 의과대학 초빙교수이자 강남 유명 피부과 원장인 부친과 모친이 모두 도착했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "서예진은 모친의 차량을 타고 사고 현장을 빠져 나갔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "서예진은 수서경찰서에 출석해 조사를 받을 예정이다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미스코리아 서예진 만취음주운전, 벤츠차량 박살",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

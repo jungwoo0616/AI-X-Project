@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275472",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "에스파, 걸그룹 초동기록 새로 썼다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에스파(aespa)가 미니 2집으로 걸그룹 초동 기록을 경신했다.\n14일 소속사 SM엔터테인먼트에 따르면 에스파 미니 2집 ‘Girls’(걸스)는 선주문 161만 장을 기록, K팝 걸그룹 선주문 최고 기록과 초동(발매 첫 주 판매량) 기록을 경신했다.\n14일 써클 차트(구 가온 차트)발표에 따르면 ‘Girls’는 첫 주 앨범 판매량 142만6487만 장을 기록했다.\n지난 8일 발매된 ‘Girls’는 동명의 타이틀 곡 ‘Girls’를 비롯해 다채로운 장르의 신곡 6곡과 기존 발표곡들까지 총 9곡으로 구성됐다.\n특히 그룹 세계관에 등장하는 블랙 맘바와 나비스를 적극적으로 활용한 가사로 관심을 불러일으켰다.\n한편 에스파는 14일 방송되는 Mnet ‘엠카운트다운’에 출연해, 미니 2집 타이틀곡 ‘Girls’와 수록곡 ‘도깨비불 (Illusion)’ 무대를 공개한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에스파(aespa)가 미니 2집으로 걸그룹 초동 기록을 경신했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 소속사 SM엔터테인먼트에 따르면 에스파 미니 2집 ‘Girls’(걸스)는 선주문 161만 장을 기록, K팝 걸그룹 선주문 최고 기록과 초동(발매 첫 주 판매량) 기록을 경신했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "14일 써클 차트(구 가온 차트)발표에 따르면 ‘Girls’는 첫 주 앨범 판매량 142만6487만 장을 기록했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 8일 발매된 ‘Girls’는 동명의 타이틀 곡 ‘Girls’를 비롯해 다채로운 장르의 신곡 6곡과 기존 발표곡들까지 총 9곡으로 구성됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 그룹 세계관에 등장하는 블랙 맘바와 나비스를 적극적으로 활용한 가사로 관심을 불러일으켰다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 에스파는 14일 방송되는 Mnet ‘엠카운트다운’에 출연해, 미니 2집 타이틀곡 ‘Girls’와 수록곡 ‘도깨비불 (Illusion)’ 무대를 공개한다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스파, 걸그룹 초동기록 새로 썼다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

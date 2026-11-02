@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268752",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "라비 ‘1박 2일’과 아쉬운 ‘안녕’",
+		"newsSubTitle": "",
+		"newsContent": "가수 라비(RAVI)가 ‘1박 2일’과 작별한다.\n라비는 1일 오후 6시 각종 음원 사이트를 통해 새 싱글 ‘안녕’을 발매한다. ‘안녕’은 ‘1박 2일’을 떠나는 라비의 심경과 “모든 분들에게 좋은 선물이 됐으면 좋겠다”는 마음이 담긴 노래다.\n라비가 작사·작곡에 참여했으며 멤버들과 방글이 PD 등 모든 ‘1박 2일’ 가족을 향한 진심을 전한다.\n특히 이번 신보는 라비의 ‘1박 2일’ 마지막 방송 날에 맞춰서 발매되는 만큼, 멤버들과 스태프는 물론 시청자에게도 특별한 선물이 될 예정이다.\n2년 4개월 만에 ‘1박 2일’에서 하차하는 라비는 지난 2019년 12월 ‘1박 2일’ 시즌 4 시작과 함께 합류, 남다른 예능감으로 ‘도라비’, ‘먹제자’ 등 수많은 별명을 얻었다.\n지난해 열린 ‘2021 KBS 연예대상’에서는 ‘1박 2일’로 신인상을 받으며 ‘예능 대세’로 자리매김했다.\n한편 라비는 1일 오후 6시 ‘안녕’을 발매하며 오는 5월 7일과 8일 서울 광진구 예스24 라이브홀(YES24 LIVE HALL)에서 네 번째 단독 콘서트 ‘르브아’(REVOIR)를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 라비(RAVI)가 ‘1박 2일’과 작별한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "라비는 1일 오후 6시 각종 음원 사이트를 통해 새 싱글 ‘안녕’을 발매한다. ‘안녕’은 ‘1박 2일’을 떠나는 라비의 심경과 “모든 분들에게 좋은 선물이 됐으면 좋겠다”는 마음이 담긴 노래다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "라비가 작사·작곡에 참여했으며 멤버들과 방글이 PD 등 모든 ‘1박 2일’ 가족을 향한 진심을 전한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 신보는 라비의 ‘1박 2일’ 마지막 방송 날에 맞춰서 발매되는 만큼, 멤버들과 스태프는 물론 시청자에게도 특별한 선물이 될 예정이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2년 4개월 만에 ‘1박 2일’에서 하차하는 라비는 지난 2019년 12월 ‘1박 2일’ 시즌 4 시작과 함께 합류, 남다른 예능감으로 ‘도라비’, ‘먹제자’ 등 수많은 별명을 얻었다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 열린 ‘2021 KBS 연예대상’에서는 ‘1박 2일’로 신인상을 받으며 ‘예능 대세’로 자리매김했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 라비는 1일 오후 6시 ‘안녕’을 발매하며 오는 5월 7일과 8일 서울 광진구 예스24 라이브홀(YES24 LIVE HALL)에서 네 번째 단독 콘서트 ‘르브아’(REVOIR)를 개최한다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라비 ‘1박 2일’과 아쉬운 ‘안녕’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

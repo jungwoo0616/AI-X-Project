@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273752",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단, 日오리콘 주간차트 3관왕[공식]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 일본 오리콘 주간 음악 랭킹에서 3관왕에 올랐다.\n22일 일본 오리콘이 발표한 최신 차트(6월 27일 자/집계기간 6월 13~19일)에 따르면, 방탄소년단이 지난 10일 발매한 새 앨범 ‘Proof’는 ‘주간 디지털 앨범 랭킹’에서 주간 다운로드 수 6,000건으로 2주 연속 1위에 랭크됐다.\n새 앨범 ‘Proof’는 51만 4,000장의 주간 판매량으로 오리콘 ‘주간 앨범 랭킹’에서도 1위를 차지했다.\n또한,‘Proof’의 타이틀곡 ‘Yet To Come (The Most Beautiful Moment)’은 주간 재생수 1,442만 8,730회로 ‘주간 스트리밍 랭킹’ 1위에 올랐다.\n일본 오리콘에따르면, 방탄소년단의 오리콘 ‘주간 스트리밍 랭킹’ 1위는 이번이 5번째 기록이며 ‘Yet To Come’과 함께 역대 ‘통산 1위 작품 수’ 공동 1위에서 단독선두로 올라섰다.\n방탄소년단은 특히 26주 동안 주간 재생횟수 1,000만 회(총 5곡)를 돌파, ‘아티스트별 주간 재생수 1,000만 회 이상 통산 주(週) 수’ 기록에서도 역대 1위에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 일본 오리콘 주간 음악 랭킹에서 3관왕에 올랐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 일본 오리콘이 발표한 최신 차트(6월 27일 자/집계기간 6월 13~19일)에 따르면, 방탄소년단이 지난 10일 발매한 새 앨범 ‘Proof’는 ‘주간 디지털 앨범 랭킹’에서 주간 다운로드 수 6,000건으로 2주 연속 1위에 랭크됐다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "새 앨범 ‘Proof’는 51만 4,000장의 주간 판매량으로 오리콘 ‘주간 앨범 랭킹’에서도 1위를 차지했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한,‘Proof’의 타이틀곡 ‘Yet To Come (The Most Beautiful Moment)’은 주간 재생수 1,442만 8,730회로 ‘주간 스트리밍 랭킹’ 1위에 올랐다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일본 오리콘에따르면, 방탄소년단의 오리콘 ‘주간 스트리밍 랭킹’ 1위는 이번이 5번째 기록이며 ‘Yet To Come’과 함께 역대 ‘통산 1위 작품 수’ 공동 1위에서 단독선두로 올라섰다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방탄소년단은 특히 26주 동안 주간 재생횟수 1,000만 회(총 5곡)를 돌파, ‘아티스트별 주간 재생수 1,000만 회 이상 통산 주(週) 수’ 기록에서도 역대 1위에 올랐다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 日오리콘 주간차트 3관왕[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

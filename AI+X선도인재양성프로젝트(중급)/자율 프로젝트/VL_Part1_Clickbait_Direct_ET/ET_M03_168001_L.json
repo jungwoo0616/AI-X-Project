@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168001",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'정신이슈' 정준호 \\\"불륜도 사랑…이상형 만나면 재산 정리 하겠다\\\" 폭탄 발언",
+    "newsSubTitle": "",
+    "newsContent": "'정신이슈' 정준호가 불륜에 관한 자기 생각을 솔직하게 밝혔다.\n4일 방송된 KBS 2TV '정신이슈'에서는 최근 열애를 인정한 홍상수 감독과 배우 김민희의 불륜 스캔들과 함께 '사랑과 불륜 사이, 사랑이다 vs 불륜이다'를 주제로 다뤘다.\n이날 방송에서 정준호는 \\\"이거 진짜 민감하던 데 우리 옷 벗어야 한다\\\"며 불안해했다.\n신현준은 '불륜은 사랑이 아니다'라는 쪽이었다.\n정준호는 그 반대인 '불륜도 사랑이다'를 옹호했다.\n정준호는 \\\"불륜은 사랑이 아니다. 지금 사랑하는 사람이 생기면 가정을 포기할 것이냐\\\"는 신현준의 질문에 \\\"그렇다. 정말 사랑한다면 재산을 다 정리해 주고 사랑을 택하겠다\\\"고 답해 눈길을 끌었다.\n그의 발언이 전파를 타자 네티즌 사이에서는 이를 두고 갑론을박이 벌어졌다.\n한쪽은 \\\"아무리 콘셉트라고 해도 생각 없이 말한 것 같다\\\"는 의견이고, 다른 쪽은 \\\"방송 진행상 어쩔 수 없는 발언인 것 같다\\\"는 추측을 하였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'정신이슈' 정준호가 불륜에 관한 자기 생각을 솔직하게 밝혔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 방송된 KBS 2TV '정신이슈'에서는 최근 열애를 인정한 홍상수 감독과 배우 김민희의 불륜 스캔들과 함께 '사랑과 불륜 사이, 사랑이다 vs 불륜이다'를 주제로 다뤘다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 정준호는 \\\"이거 진짜 민감하던 데 우리 옷 벗어야 한다\\\"며 불안해했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신현준은 '불륜은 사랑이 아니다'라는 쪽이었다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정준호는 그 반대인 '불륜도 사랑이다'를 옹호했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정준호는 \\\"불륜은 사랑이 아니다. 지금 사랑하는 사람이 생기면 가정을 포기할 것이냐\\\"는 신현준의 질문에 \\\"그렇다. 정말 사랑한다면 재산을 다 정리해 주고 사랑을 택하겠다\\\"고 답해 눈길을 끌었다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그의 발언이 전파를 타자 네티즌 사이에서는 이를 두고 갑론을박이 벌어졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한쪽은 \\\"아무리 콘셉트라고 해도 생각 없이 말한 것 같다\\\"는 의견이고, 다른 쪽은 \\\"방송 진행상 어쩔 수 없는 발언인 것 같다\\\"는 추측을 하였다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'정신이슈' 정준호 솔직 토크, 불륜도 사랑이다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

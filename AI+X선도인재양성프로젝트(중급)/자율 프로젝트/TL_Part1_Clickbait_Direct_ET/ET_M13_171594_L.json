@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171594",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "코바코, 빅데이터·인공지능으로 광고사기 차단 나선다",
+    "newsSubTitle": "",
+    "newsContent": "한국방송광고진흥공사(이하 코바코)는 23일 정보기술(IT) 스타트업 스토어링크, 클로저랩과 디지털 광고사기 피해 예방을 위한 업무협약(MOU)를 맺었다고 전했다.\n최근 광고 데이터를 조작하는 등 디지털 광고 효과 측정방식을 악용하는 사기가 증가하는 데 따른 것이다.\n세계적으로 디지털 광고비 약 20%가 광고사기로 낭비된다는 조사 결과도 있다.\n제휴로 스토어링크는 마케팅 빅데이터를 활용한 광고사기 업체 검색 플랫폼을 개발하고, 광고 데이터 검증 시스템을 고도화할 계획이다.\n클로저랩은 지인 추천 마케팅 플랫폼을 통해 확보한 빅데이터를 인공지능으로 학습해 광고사기를 막는 기술을 개발한다.\n코바코는 이들 업체와 디지털 광고사기 피해 예방 기술과 정보를 교류하기로 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국방송광고진흥공사(이하 코바코)는 23일 정보기술(IT) 스타트업 스토어링크, 클로저랩과 디지털 광고사기 피해 예방을 위한 업무협약(MOU)를 맺었다고 전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 광고 데이터를 조작하는 등 디지털 광고 효과 측정방식을 악용하는 사기가 증가하는 데 따른 것이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세계적으로 디지털 광고비 약 20%가 광고사기로 낭비된다는 조사 결과도 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제휴로 스토어링크는 마케팅 빅데이터를 활용한 광고사기 업체 검색 플랫폼을 개발하고, 광고 데이터 검증 시스템을 고도화할 계획이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "클로저랩은 지인 추천 마케팅 플랫폼을 통해 확보한 빅데이터를 인공지능으로 학습해 광고사기를 막는 기술을 개발한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "코바코는 이들 업체와 디지털 광고사기 피해 예방 기술과 정보를 교류하기로 했다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "디지털 광고비 20%가 '이것'으로 낭비돼... 코바코가 나선다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

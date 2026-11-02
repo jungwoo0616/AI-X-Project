@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169969",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘물어보살’ 엄마 VS 딸 ‘보험 전쟁’",
+    "newsSubTitle": "",
+    "newsContent": "보험 때문에 모녀의 갑론을박이 펼쳐진다.\n오늘(30일) 밤 8시 30분 방송되는 KBS Joy 예능프로그램 ‘무엇이든 물어보살’ 128회에서는 한 모녀가 의뢰인으로 출연한다.\n이날 엄마는 본인 보험만 11개를 들고 있다며 보험금만으로 한 달에 100만 원 이상을 쓰고 있다고 털어놓는다.\n심지어 보험 개수는 많지만 보장은 제대로 되지 않는 것들이라고. 10대인 딸은 “이런 곳에 지출을 해서인지 평소엔 나에게 돈이 없다고 한다”라고 폭로하고, 엄마는 “나도 내가 이렇게 많이 들어놓았는지 몰랐다. 지금은 아까워서 해약도 못 한다”라고 설명한다.\n뿐만 아니라 엄마가 보험을 많이 드는 모습을 보며 딸은 속상한 마음까지 느낀다고. 딸은 “이런 보험까지 드는 걸 보면 마음이 아프다”라며 보험이 필요 없다고 생각하는 이유를 밝힌다.\n이에 서장훈은 “딸 입장에선 당연한 얘기다. 하지만 딸 생각대로 그렇게 쉽게 해결되는 문제가 아니다”라며 “엄마가 왜 이렇게 보험을 많이 들었는지 생각해 봤는데, 엄마와 같은 사정이라면 그럴 수도 있을 것 같다”라고 엄마의 마음을 이해했다.\n과연 엄마가 과하게 보험을 들고 있는 이유는 무엇이고, 보살들의 조언은 무엇일까.\n궁금증을 부르는 KBS Joy ‘무엇이든 물어보살’ 128회는 오늘(30일) 밤 8시 30분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보험 때문에 모녀의 갑론을박이 펼쳐진다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(30일) 밤 8시 30분 방송되는 KBS Joy 예능프로그램 ‘무엇이든 물어보살’ 128회에서는 한 모녀가 의뢰인으로 출연한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 엄마는 본인 보험만 11개를 들고 있다며 보험금만으로 한 달에 100만 원 이상을 쓰고 있다고 털어놓는다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심지어 보험 개수는 많지만 보장은 제대로 되지 않는 것들이라고. 10대인 딸은 “이런 곳에 지출을 해서인지 평소엔 나에게 돈이 없다고 한다”라고 폭로하고, 엄마는 “나도 내가 이렇게 많이 들어놓았는지 몰랐다. 지금은 아까워서 해약도 못 한다”라고 설명한다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뿐만 아니라 엄마가 보험을 많이 드는 모습을 보며 딸은 속상한 마음까지 느낀다고. 딸은 “이런 보험까지 드는 걸 보면 마음이 아프다”라며 보험이 필요 없다고 생각하는 이유를 밝힌다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 서장훈은 “딸 입장에선 당연한 얘기다. 하지만 딸 생각대로 그렇게 쉽게 해결되는 문제가 아니다”라며 “엄마가 왜 이렇게 보험을 많이 들었는지 생각해 봤는데, 엄마와 같은 사정이라면 그럴 수도 있을 것 같다”라고 엄마의 마음을 이해했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "과연 엄마가 과하게 보험을 들고 있는 이유는 무엇이고, 보살들의 조언은 무엇일까.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "궁금증을 부르는 KBS Joy ‘무엇이든 물어보살’ 128회는 오늘(30일) 밤 8시 30분 방송된다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서장훈, 한 달에 보험료만 100만 원 이상 쓰는 엄마 옹호... 경악!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

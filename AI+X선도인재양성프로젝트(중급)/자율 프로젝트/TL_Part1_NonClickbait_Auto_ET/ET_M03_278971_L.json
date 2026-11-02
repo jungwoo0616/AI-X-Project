@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278971",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "인스타워즈 박휘순 에 과거 김태희 \\\"나는 박휘순씨 팬이다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "인스타워즈 박휘순 인스타워즈에 박휘순이 출연하여 화제가 되고 있는 가운데, 과거 배우 김태희가 자신을 박휘순의 팬이라고 밝혔던 것이 화제가 되고 있다.\n2010년 방송된 MBC '섹션TV 연예통신'에서 김태희는 일본 아이돌 카메나시 카즈야, 축구선수 정대세, 개그맨 박휘순이 자신을 이상형으로 꼽은 것에 대해서 \\\"개인적으로는 정말 박휘순씨 팬이다\\\"라고 말했다.\n당시 김태희는 \\\"박휘순이 제가 가장 좋아하는 개그 프로그램의 한 코너를 맡고 계신다\\\"며 개그콘서트에서 박휘순이 김연아로 분장한 장면이 가장 재미있었다고 설명했다.\n이에 리포터가 '모든 남자 분들이 궁금해 하시던 김태희 씨의 이상형이 박휘순 씨인 것으로 결론이 났다'며 상황을 마무리해 웃음을 자아냈다.\n한편, 9일 방송된 MBC 파일럿 프로그램 '인스타워즈'에서는 SNS에서 북유럽풍 인테리어로 화제가 된 박휘순이 일반인 패널로 등장했다.\n박휘순은 \\\"설특집에 일반 패널로 섭외가 안 돼서 일반 출연자로 나왔다\\\"고 말해 시선을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인스타워즈 박휘순 인스타워즈에 박휘순이 출연하여 화제가 되고 있는 가운데, 과거 배우 김태희가 자신을 박휘순의 팬이라고 밝혔던 것이 화제가 되고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2010년 방송된 MBC '섹션TV 연예통신'에서 김태희는 일본 아이돌 카메나시 카즈야, 축구선수 정대세, 개그맨 박휘순이 자신을 이상형으로 꼽은 것에 대해서 \\\"개인적으로는 정말 박휘순씨 팬이다\\\"라고 말했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 김태희는 \\\"박휘순이 제가 가장 좋아하는 개그 프로그램의 한 코너를 맡고 계신다\\\"며 개그콘서트에서 박휘순이 김연아로 분장한 장면이 가장 재미있었다고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 리포터가 '모든 남자 분들이 궁금해 하시던 김태희 씨의 이상형이 박휘순 씨인 것으로 결론이 났다'며 상황을 마무리해 웃음을 자아냈다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 9일 방송된 MBC 파일럿 프로그램 '인스타워즈'에서는 SNS에서 북유럽풍 인테리어로 화제가 된 박휘순이 일반인 패널로 등장했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박휘순은 \\\"설특집에 일반 패널로 섭외가 안 돼서 일반 출연자로 나왔다\\\"고 말해 시선을 끌었다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스타워즈 박휘순 에 과거 김태희 \\\"나는 박휘순씨 팬이다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

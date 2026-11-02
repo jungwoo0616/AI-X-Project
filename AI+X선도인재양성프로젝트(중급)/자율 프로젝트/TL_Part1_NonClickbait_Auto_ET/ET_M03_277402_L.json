@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277402",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'1위 달성 기념' 동물잠옷 입고 팬들 설레게 한 걸그룹 멤버",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스 정연(21)의 넘치는 애교가 네티즌의 눈을 집중시키고 있다.\n유튜브 경호 채널은 최근 동물 잠옷을 입고 있는 트와이스 정연이 담긴 직캠 영상을 게재했다.\n앞서 트와이스는 노래 '티티'(TT)가 음악방송 1위를 차지할 경우 동물 잠옷을 입겠다는 공약을 내걸었다.\n정연은 싸인에 집중하고 있는 트와이스 멤버들 앞으로 나와 자신을 찍어주는 팬들을 향해 손 인사를 건네거나 뒤로 돌아 엉덩이를 들썩거리는 등 귀여운 행동을 보였다.\n또한 그는 멤버 지효·채영의 사진을 찍어주며 멤버 간 친화력도 과시했다.\n이를 본 팬들은 \\\"사람이 이렇게 귀여울 수 있나\\\" \\\"녹는다 녹아\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스 정연(21)의 넘치는 애교가 네티즌의 눈을 집중시키고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유튜브 경호 채널은 최근 동물 잠옷을 입고 있는 트와이스 정연이 담긴 직캠 영상을 게재했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 트와이스는 노래 '티티'(TT)가 음악방송 1위를 차지할 경우 동물 잠옷을 입겠다는 공약을 내걸었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정연은 싸인에 집중하고 있는 트와이스 멤버들 앞으로 나와 자신을 찍어주는 팬들을 향해 손 인사를 건네거나 뒤로 돌아 엉덩이를 들썩거리는 등 귀여운 행동을 보였다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 그는 멤버 지효·채영의 사진을 찍어주며 멤버 간 친화력도 과시했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 팬들은 \\\"사람이 이렇게 귀여울 수 있나\\\" \\\"녹는다 녹아\\\" 등의 반응을 보였다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'1위 달성 기념' 동물잠옷 입고 팬들 설레게 한 걸그룹 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

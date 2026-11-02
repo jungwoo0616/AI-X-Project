@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166675",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘주간아’ 스테이씨, 레드벨벳 ‘사이코’ 따라잡기",
+    "newsSubTitle": "",
+    "newsContent": "스테이씨가 레드벨벳 커버에 나선다. 8일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 첫 번째 미니앨범 ‘STEREOTYPE’의 타이틀곡 ‘색안경(STEREOTYPE)’으로 컴백해 한층 더 무르익은 틴프레시 매력을 선보일 예정인 스테이씨가 첫 출연한다.\n최근 진행된 ‘주간아이돌’ 녹화에 참여한 스테이씨는 첫 출연인 만큼 만발의 준비를 해왔다.\n이날 스테이씨는 ‘Weekly Playlist’에서 레드벨벳의 ‘Psycho’ 댄스 커버를 선보였다.\n스테이씨가 각종 커버 무대를 본인들만의 스타일로 소화해내기로 유명한 만큼 더욱 기대를 모은다.\n또한, 스테이씨는 레드벨벳의 ‘Psycho’로 데뷔 전 마지막 월말 평가를 진행했었다며 남다른 의미를 가진 선곡 이유를 밝혔다.\n이어진 무대에서 스테이씨는 노래에 맞게 고혹적이면서도 성숙한 모습을 보여줬다.\n이에 2MC들은 ‘완벽 그 자체. 너무 잘 어울렸다’라고 감탄했다.\n스테이씨의 레전드 오브 레전드 커버 자리에 오를 ‘Psycho’ 무대는 9월 8일(수) 오후 8시 MBC M, 밤 12시 MBC every1에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스테이씨가 레드벨벳 커버에 나선다. 8일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 첫 번째 미니앨범 ‘STEREOTYPE’의 타이틀곡 ‘색안경(STEREOTYPE)’으로 컴백해 한층 더 무르익은 틴프레시 매력을 선보일 예정인 스테이씨가 첫 출연한다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 진행된 ‘주간아이돌’ 녹화에 참여한 스테이씨는 첫 출연인 만큼 만발의 준비를 해왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 스테이씨는 ‘Weekly Playlist’에서 레드벨벳의 ‘Psycho’ 댄스 커버를 선보였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스테이씨가 각종 커버 무대를 본인들만의 스타일로 소화해내기로 유명한 만큼 더욱 기대를 모은다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한, 스테이씨는 레드벨벳의 ‘Psycho’로 데뷔 전 마지막 월말 평가를 진행했었다며 남다른 의미를 가진 선곡 이유를 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어진 무대에서 스테이씨는 노래에 맞게 고혹적이면서도 성숙한 모습을 보여줬다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 2MC들은 ‘완벽 그 자체. 너무 잘 어울렸다’라고 감탄했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "스테이씨의 레전드 오브 레전드 커버 자리에 오를 ‘Psycho’ 무대는 9월 8일(수) 오후 8시 MBC M, 밤 12시 MBC every1에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+        "sentenceSize": 120
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'주간아이돌' 스테이씨, 커버 무대 완벽 소화... 무슨 곡?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

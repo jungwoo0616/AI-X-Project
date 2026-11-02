@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275923",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장원영, 어쩌면 천사의 현신",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아이브의 장원영이 근황을 공개했다.\n장원영은 20일 자신의 사회관계망서비스(SNS) 인스타그램에 광고 촬영 영상을 공개했다.\n영상 속 장원영은 촬영에 열중하고 있는 모습이다.\n그의 빛나는 피부와 초근접샷에도 아름다운 미모가 시선을 사로잡는다.\n해당 영상을 본 누리꾼들은 “너무 예쁘다” “원영아 정말 미쳤다” “몇 번을 계속 봤다. 어떻게 이렇게 예쁠 수 있나”라며 찬사를 아끼지 않았다.\n한편 장원영은 KBS2 음악 프로그램 ‘뮤직뱅크’의 MC로 활약하며 매끄러운 진행 실력과 밝은 에너지로 시청자들에게 사랑을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이브의 장원영이 근황을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장원영은 20일 자신의 사회관계망서비스(SNS) 인스타그램에 광고 촬영 영상을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 장원영은 촬영에 열중하고 있는 모습이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 빛나는 피부와 초근접샷에도 아름다운 미모가 시선을 사로잡는다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 영상을 본 누리꾼들은 “너무 예쁘다” “원영아 정말 미쳤다” “몇 번을 계속 봤다. 어떻게 이렇게 예쁠 수 있나”라며 찬사를 아끼지 않았다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 장원영은 KBS2 음악 프로그램 ‘뮤직뱅크’의 MC로 활약하며 매끄러운 진행 실력과 밝은 에너지로 시청자들에게 사랑을 받고 있다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장원영, 어쩌면 천사의 현신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

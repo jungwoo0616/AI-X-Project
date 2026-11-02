@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272141",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "위하준, 파워에이드 프로틴 모델 발탁",
+		"newsSubTitle": "",
+		"newsContent": "배우 위하준이 코카-콜라사의 스포츠음료 신제품 ‘파워에이드 프로틴’의 광고 모델로 발탁됐다.\n위하준은 로맨스, 액션 등 다양한 장르를 넘나들며 인상적인 연기로 국내외 팬들에게 많은 사랑을 받는 배우로, 코카-콜라사의 신제품 ‘파워에이드 프로틴’을 통해 더욱 강인하고 파워 넘치는 매력을 보여줄 예정이다.\n위하준과 함께하는 ‘파워에이드 프로틴’의 디지털 광고는 이달 온에어 예정이며, ‘한 개를 더해 한계에 도전하다’를 콘셉트로 강렬한 운동을 하는 모습을 통해 위하준의 탄탄한 몸매 관리 비법을 엿볼 수 있을 것으로 기대된다.\n코카-콜라사 관계자는 “평소 운동 매니아로 알려지며 자기관리의 끝판왕으로 손꼽히는 위하준과 운동 마니아를 위한 스포츠음료 ‘파워에이드 프로틴’의 긍정적인 시너지가 발생할 것으로 생각한다”며 “위하준과 함께 ‘파워에이드 프로틴’이 운동을 좋아하는 소비자들의 대세 음료로 자리매김하길 기대한다”고 말했다.\n한편 위하준은 지난해 넷플릭스 오리지널 시리즈 ‘오징어 게임’으로 이름을 알린 이후 다양한 장르에서 주목받았다.\n올해에는 tvN ‘작은 아씨들’을 통해 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 위하준이 코카-콜라사의 스포츠음료 신제품 ‘파워에이드 프로틴’의 광고 모델로 발탁됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "위하준은 로맨스, 액션 등 다양한 장르를 넘나들며 인상적인 연기로 국내외 팬들에게 많은 사랑을 받는 배우로, 코카-콜라사의 신제품 ‘파워에이드 프로틴’을 통해 더욱 강인하고 파워 넘치는 매력을 보여줄 예정이다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "위하준과 함께하는 ‘파워에이드 프로틴’의 디지털 광고는 이달 온에어 예정이며, ‘한 개를 더해 한계에 도전하다’를 콘셉트로 강렬한 운동을 하는 모습을 통해 위하준의 탄탄한 몸매 관리 비법을 엿볼 수 있을 것으로 기대된다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코카-콜라사 관계자는 “평소 운동 매니아로 알려지며 자기관리의 끝판왕으로 손꼽히는 위하준과 운동 마니아를 위한 스포츠음료 ‘파워에이드 프로틴’의 긍정적인 시너지가 발생할 것으로 생각한다”며 “위하준과 함께 ‘파워에이드 프로틴’이 운동을 좋아하는 소비자들의 대세 음료로 자리매김하길 기대한다”고 말했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 위하준은 지난해 넷플릭스 오리지널 시리즈 ‘오징어 게임’으로 이름을 알린 이후 다양한 장르에서 주목받았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해에는 tvN ‘작은 아씨들’을 통해 대중을 만날 예정이다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위하준, 파워에이드 프로틴 모델 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171505",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "“다시 극장으로” 전국 극장가, 6000원 할인 시작",
+    "newsSubTitle": "",
+    "newsContent": "‘위드 코로나’ (단계적 일상회복) 방역체계 전환과 함께 코로나19 유행으로 중단됐던 영화관 입장료 6000원 할인권 사용이 재개한다. 29일 영화진흥위원회(이하 영진위)에 따르면 내달 1일부터 전국 521개 극장에서 영화관 입장료 6000원 할인 이벤트가 시작된다.\n이는 지난 26일 정부에서 발표한 단계적 일상회복 방역체계 전환과 연동된 조치다.\n할인권은 CGV 롯데시네마 메가박스 씨네큐 등 전국 멀티플렉스 체인 영화관 외에 독립·예술영화전용관, 작은영화관, 개별 멀티플렉스, 지역 단관 극장 등 개별 영화관까지 전국의 521개 영화관에서 전격 진행된다.\n할인권은 선착순으로 배포되며 일주일을 기준으로 1인 2매 다운로드 할 수 있다.\n이번 영화관 할인권 배포는 다양한 영화가 개봉될 수 있도록 4주간 매주 25% 쿼터제를 도입해 개봉을 준비하는 영화들이 관객의 선택을 받을 수 있도록 할 계획이다.\n개별 영화관은 발급 한도 및 쿼터제 없이 자율적으로 운영한다.\n할인권이 적용되는 영화관 목록은 영진위 홈페이지를 통해서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘위드 코로나’ (단계적 일상회복) 방역체계 전환과 함께 코로나19 유행으로 중단됐던 영화관 입장료 6000원 할인권 사용이 재개한다. 29일 영화진흥위원회(이하 영진위)에 따르면 내달 1일부터 전국 521개 극장에서 영화관 입장료 6000원 할인 이벤트가 시작된다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 지난 26일 정부에서 발표한 단계적 일상회복 방역체계 전환과 연동된 조치다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "할인권은 CGV 롯데시네마 메가박스 씨네큐 등 전국 멀티플렉스 체인 영화관 외에 독립·예술영화전용관, 작은영화관, 개별 멀티플렉스, 지역 단관 극장 등 개별 영화관까지 전국의 521개 영화관에서 전격 진행된다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "할인권은 선착순으로 배포되며 일주일을 기준으로 1인 2매 다운로드 할 수 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 영화관 할인권 배포는 다양한 영화가 개봉될 수 있도록 4주간 매주 25% 쿼터제를 도입해 개봉을 준비하는 영화들이 관객의 선택을 받을 수 있도록 할 계획이다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개별 영화관은 발급 한도 및 쿼터제 없이 자율적으로 운영한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "할인권이 적용되는 영화관 목록은 영진위 홈페이지를 통해서 확인할 수 있다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "선착순 배포! 이것 받고 영화관 할인받자",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

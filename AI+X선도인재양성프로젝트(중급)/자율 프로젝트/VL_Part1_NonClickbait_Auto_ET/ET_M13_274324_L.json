@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274324",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "서울 용산구 인터넷방송국, 디지털스튜디오 시스템 구축",
+		"newsSubTitle": "",
+		"newsContent": "서울 용산구가 개국 12년을 맞아 인터넷방송국을 새롭게 단장하며 디지털스튜디오 방송시스템을 구축했다고 전했다.\n용산구는 4월 25일부터 두 달간 사업비 3억 4000만원을 들여 환경 개선, 디지털 방송 시스템 설치, 시범운영, 운영자 교육 등을 진행했다.\n성장현 용산구청장은 “트렌드에 맞춰 구정 홍보도 변화해야 한다”며 “용산구 브랜드 가치 향상에 디지털스튜디오가 큰 도움이 될 것”이라고 지난 28일 밝혔다.\n스튜디오를 다목적으로 활용할 수 있도록 인테리어 공사를 하고 온라인 생방송을 위한 안정적 인프라도 구축했다.\n외부 행사를 중계할 수 있도록 이동형 올인원 통합방송 시스템을 도입하기도 했다.\n디지털스튜디오 구축으로 팟캐스트, 뉴스, 좌담 촬영, 외부 행사 실시간 생중계 등이 활발해질 것으로 기대된다.\n용산구 인터넷방송국은 2010년에 개국한 후 매년 200편 이상 동영상 콘텐츠를 제작하며 지역 소식을 전하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 용산구가 개국 12년을 맞아 인터넷방송국을 새롭게 단장하며 디지털스튜디오 방송시스템을 구축했다고 전했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "용산구는 4월 25일부터 두 달간 사업비 3억 4000만원을 들여 환경 개선, 디지털 방송 시스템 설치, 시범운영, 운영자 교육 등을 진행했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "성장현 용산구청장은 “트렌드에 맞춰 구정 홍보도 변화해야 한다”며 “용산구 브랜드 가치 향상에 디지털스튜디오가 큰 도움이 될 것”이라고 지난 28일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스튜디오를 다목적으로 활용할 수 있도록 인테리어 공사를 하고 온라인 생방송을 위한 안정적 인프라도 구축했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "외부 행사를 중계할 수 있도록 이동형 올인원 통합방송 시스템을 도입하기도 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "디지털스튜디오 구축으로 팟캐스트, 뉴스, 좌담 촬영, 외부 행사 실시간 생중계 등이 활발해질 것으로 기대된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "용산구 인터넷방송국은 2010년에 개국한 후 매년 200편 이상 동영상 콘텐츠를 제작하며 지역 소식을 전하고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울 용산구 인터넷방송국, 디지털스튜디오 시스템 구축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

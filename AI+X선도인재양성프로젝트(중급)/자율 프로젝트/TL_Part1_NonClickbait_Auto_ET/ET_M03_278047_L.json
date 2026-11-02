@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278047",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이승기 측 \\\"근거 없는 악성 루머(찌라시) 강력 대응할 것\\\" 경찰에 신고 접수",
+		"newsSubTitle": "",
+		"newsContent": "군 복무중인 가수 겸 배우 이승기가 최근 온라인에 유포되고 있는 악성 루머에 대해 강경 대응에 나섰다.\n서울 강남경찰서에 따르면 지난 21일 이승기 소속사는 이승기에 관한 허위사실 유포자를 처벌해 달라는 신고를 접수했다.\n이승기 소속사 후크엔터테인먼트는 경찰청 사이버범죄신고 시스템을 통해 경찰의 수사를 의뢰한 것으로 알려졌다.\n최근 핸드폰 메신저와 온라인 커뮤니티를 중심으로 \\\"이승기의 메이크업 아티스트가 이승기의 아이를 낳아 기르고 있다\\\"는 근거 없는 루머가 급속도로 확산됐다.\n속칭 '찌라시'로 불리는 정보지에는 이 같은 루머와 함께 일반인 여성의 얼굴 사진이 함께 유포돼 또 다른 피해자를 낳았다.\n이승기의 연인으로 지목된 해당 여성 역시 찌라시 내용을 확인하고 경찰에 신고한 것으로 전해졌다.\n경찰은 조만간 소속사 관계자를 불러 정확한 내용을 파악할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "군 복무중인 가수 겸 배우 이승기가 최근 온라인에 유포되고 있는 악성 루머에 대해 강경 대응에 나섰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울 강남경찰서에 따르면 지난 21일 이승기 소속사는 이승기에 관한 허위사실 유포자를 처벌해 달라는 신고를 접수했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이승기 소속사 후크엔터테인먼트는 경찰청 사이버범죄신고 시스템을 통해 경찰의 수사를 의뢰한 것으로 알려졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 핸드폰 메신저와 온라인 커뮤니티를 중심으로 \\\"이승기의 메이크업 아티스트가 이승기의 아이를 낳아 기르고 있다\\\"는 근거 없는 루머가 급속도로 확산됐다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "속칭 '찌라시'로 불리는 정보지에는 이 같은 루머와 함께 일반인 여성의 얼굴 사진이 함께 유포돼 또 다른 피해자를 낳았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이승기의 연인으로 지목된 해당 여성 역시 찌라시 내용을 확인하고 경찰에 신고한 것으로 전해졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경찰은 조만간 소속사 관계자를 불러 정확한 내용을 파악할 방침이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승기 측 \\\"근거 없는 악성 루머(찌라시) 강력 대응할 것\\\" 경찰에 신고 접수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

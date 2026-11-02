@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277256",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "현실적이면서 비현실적인 '김과장' 샤워신",
+		"newsSubTitle": "",
+		"newsContent": "'김과장' 남궁민의 샤워신이 화제가 되고 있다.\n15일 방송된 KBS 2TV 수목드라마 '김과장'에는 김성룡(남궁민 분)의 리얼한 샤워신이 전파를 탔다.\n이 장면은 현실적이면서 비현실적인 모습으로 네티즌에게 뜨거운 호응을 받았다.\n경찰에 체포됐다 풀려난 김 과장은 샤워를 하며 분을 삭였다.\n그는 진지한 표정으로 샤워기의 물줄기를 맞았지만 쭈그리고 앉아 있는 자세에서 폭소를 유발했다.\n이를 본 네티즌은 \\\"정말 현실적이지만 남궁민의 몸은 비현실적이라 더 웃기다\\\" \\\"비누 위치가 제일 현실적\\\" 등의 반응을 보였다.\n한편 '김과장'은 16일 방송된 8회가 17.6%를 나타내며 자체최고시청률을 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'김과장' 남궁민의 샤워신이 화제가 되고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 방송된 KBS 2TV 수목드라마 '김과장'에는 김성룡(남궁민 분)의 리얼한 샤워신이 전파를 탔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 장면은 현실적이면서 비현실적인 모습으로 네티즌에게 뜨거운 호응을 받았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경찰에 체포됐다 풀려난 김 과장은 샤워를 하며 분을 삭였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 진지한 표정으로 샤워기의 물줄기를 맞았지만 쭈그리고 앉아 있는 자세에서 폭소를 유발했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌은 \\\"정말 현실적이지만 남궁민의 몸은 비현실적이라 더 웃기다\\\" \\\"비누 위치가 제일 현실적\\\" 등의 반응을 보였다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 '김과장'은 16일 방송된 8회가 17.6%를 나타내며 자체최고시청률을 기록했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현실적이면서 비현실적인 '김과장' 샤워신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

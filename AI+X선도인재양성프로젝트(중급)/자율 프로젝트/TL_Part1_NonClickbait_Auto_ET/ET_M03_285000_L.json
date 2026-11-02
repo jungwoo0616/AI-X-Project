@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285000",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'슈가맨' 최자, 설리를 향한 랩 \\\"주위 시선 차가워도 우리는 봄\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'슈가맨' 최자, 설리를 향한 랩 \\\"주위 시선 차가워도 우리는 봄\\\" '다이나믹 듀오' 최자가 연인 설리를 향한 애정이 엿보이는 랩을 해 화제다.\n어제(27일) 방송된 JTBC 예능프로그램 '투유 프로젝트-슈가맨'에는 '슈가맨' 구본승과 줄리엣, '쇼맨'으로는 가수 제시와 다이나믹 듀오가 등장했다.\n이날 최자는 역주행송 작업을 통해 선보인 가사로 MC들의 시선을 집중시켰다.\n최자는 원곡 가사를 염두에 뒀다고 설명했지만, 설리를 떠올리기에 충분했다.\n특히 '다들 미친 놈이래 나 보고. 미련한 곰이래 너 보고. 우린 안 고민해 주위 시선 아직 차가워도 서로를 보는 눈은 봄이네'라는 가사로 호기심을 불러일으켰다.\n한편 최자는 걸그룹 f(x) 멤버로 활동 중이던 설리와의 열애를 인정해 화제를 모은 바 있다.\n두 사람의 나이 차는 14살이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'슈가맨' 최자, 설리를 향한 랩 \\\"주위 시선 차가워도 우리는 봄\\\" '다이나믹 듀오' 최자가 연인 설리를 향한 애정이 엿보이는 랩을 해 화제다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "어제(27일) 방송된 JTBC 예능프로그램 '투유 프로젝트-슈가맨'에는 '슈가맨' 구본승과 줄리엣, '쇼맨'으로는 가수 제시와 다이나믹 듀오가 등장했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 최자는 역주행송 작업을 통해 선보인 가사로 MC들의 시선을 집중시켰다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최자는 원곡 가사를 염두에 뒀다고 설명했지만, 설리를 떠올리기에 충분했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 '다들 미친 놈이래 나 보고. 미련한 곰이래 너 보고. 우린 안 고민해 주위 시선 아직 차가워도 서로를 보는 눈은 봄이네'라는 가사로 호기심을 불러일으켰다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 최자는 걸그룹 f(x) 멤버로 활동 중이던 설리와의 열애를 인정해 화제를 모은 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람의 나이 차는 14살이다.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'슈가맨' 최자, 설리를 향한 랩 \\\"주위 시선 차가워도 우리는 봄\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

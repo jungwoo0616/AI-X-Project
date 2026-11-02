@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276781",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "실제로 몸무게가 60kg이라는 걸그룹 멤버",
+		"newsSubTitle": "",
+		"newsContent": "신인 걸그룹 소녀주의보가 화제를 모으고 있다.\n최근 온라인 커뮤니티에는 ‘실제로 60kg이 넘는다는 걸그룹 멤버’라는 제목으로 쇼케이스에서 팬들이 찍은 사진이 올라왔다.\n소녀주의보는 지난 25일 ‘소녀지몽’이라는 데뷔 앨범을 냈다.\n멤버들의 평균 나이는 16.6세다.\n주목을 받은 멤버는 지성이다.\n지난 23일 유튜브에 공개된 '시작된 숙소 생활' 편에서는 짜장면과 탕수육으로 허기를 달래는 모습이 담겼다.\n소녀주의보 소속사 관계자는 “쇼케이스 당시 실제로 몸무게가 60㎏였던 것으로 안다. 지금은 59㎏”라고 귀띔했다.\n팬들은 “몸무게는 숫자에 불과하다는 걸 깨닫게 해주는 존재인 것 같아” “빼짝 마른것보다 이런 몸매를 보니까 남달라 보이고 진짜 예뻐” “진짜 이대로 몸매 유지해줘라 남들과 똑같이 빼지말고...”라는 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신인 걸그룹 소녀주의보가 화제를 모으고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에는 ‘실제로 60kg이 넘는다는 걸그룹 멤버’라는 제목으로 쇼케이스에서 팬들이 찍은 사진이 올라왔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소녀주의보는 지난 25일 ‘소녀지몽’이라는 데뷔 앨범을 냈다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "멤버들의 평균 나이는 16.6세다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주목을 받은 멤버는 지성이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 23일 유튜브에 공개된 '시작된 숙소 생활' 편에서는 짜장면과 탕수육으로 허기를 달래는 모습이 담겼다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소녀주의보 소속사 관계자는 “쇼케이스 당시 실제로 몸무게가 60㎏였던 것으로 안다. 지금은 59㎏”라고 귀띔했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "팬들은 “몸무게는 숫자에 불과하다는 걸 깨닫게 해주는 존재인 것 같아” “빼짝 마른것보다 이런 몸매를 보니까 남달라 보이고 진짜 예뻐” “진짜 이대로 몸매 유지해줘라 남들과 똑같이 빼지말고...”라는 반응을 보이고 있다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "실제로 몸무게가 60kg이라는 걸그룹 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

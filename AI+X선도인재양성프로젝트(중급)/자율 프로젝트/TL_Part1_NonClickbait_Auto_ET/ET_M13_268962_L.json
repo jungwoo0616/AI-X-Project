@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268962",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "이수정, 신촌 명물쉼터 깜짝 버스킹",
+		"newsSubTitle": "",
+		"newsContent": "가수 이수정이 컴백 이벤트로 버스킹 공연을 열고 팬들과 직접 만났다.\n이수정은 지난 2일 오후 6시 신촌 연세로 명물쉼터에서 깜짝 버스킹 공연을 펼쳤다.\n이번 버스킹은 지난달 26일 발매한 이수정의 첫 번째 미니 앨범 ‘마이 네임(My Name)’ 발매 기념으로 열린 깜짝 공연으로, 이수정은 관객들과 더욱 가까이에서 소통하며 교감하는 무대를 꾸몄다.\n볼빨간사춘기의 ‘좋다고 말해’ 커버 무대로 버스킹 공연을 시작한 이수정은 이어 비오의 ‘네가 없는 밤’, 아이유의 ‘스트로베리 문(strawberry moon)’과 ‘셀러브리티(Celebrity)’를 열창해 관객들의 박수갈채를 이끌어냈다.\n특히 이수정은 마지막 곡으로 ‘마이 네임’의 타이틀곡 ‘달을 걸어서’를 부르며 공연의 열기를 더욱 뜨겁게 달궜다.\n이수정은 이번 공연을 통해 특유의 뛰어난 가창력과 짙은 감성이 묻어나는 독보적인 음색을 뽐내 ‘음색 보물’ 면모를 완벽히 발휘하며 관객들의 뜨거운 호응 속에 성공적으로 버스킹을 마무리했다.\n이수정은 오는 5일부터 29일 매주 목요일부터 일요일까지 4주간 서울 마포구 서교동 웨스트브릿지 라이브홀에서 첫 단독 콘서트를 개최, 총 16회 공연을 진행하며 팬들과 만남을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이수정이 컴백 이벤트로 버스킹 공연을 열고 팬들과 직접 만났다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수정은 지난 2일 오후 6시 신촌 연세로 명물쉼터에서 깜짝 버스킹 공연을 펼쳤다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 버스킹은 지난달 26일 발매한 이수정의 첫 번째 미니 앨범 ‘마이 네임(My Name)’ 발매 기념으로 열린 깜짝 공연으로, 이수정은 관객들과 더욱 가까이에서 소통하며 교감하는 무대를 꾸몄다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "볼빨간사춘기의 ‘좋다고 말해’ 커버 무대로 버스킹 공연을 시작한 이수정은 이어 비오의 ‘네가 없는 밤’, 아이유의 ‘스트로베리 문(strawberry moon)’과 ‘셀러브리티(Celebrity)’를 열창해 관객들의 박수갈채를 이끌어냈다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이수정은 마지막 곡으로 ‘마이 네임’의 타이틀곡 ‘달을 걸어서’를 부르며 공연의 열기를 더욱 뜨겁게 달궜다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이수정은 이번 공연을 통해 특유의 뛰어난 가창력과 짙은 감성이 묻어나는 독보적인 음색을 뽐내 ‘음색 보물’ 면모를 완벽히 발휘하며 관객들의 뜨거운 호응 속에 성공적으로 버스킹을 마무리했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이수정은 오는 5일부터 29일 매주 목요일부터 일요일까지 4주간 서울 마포구 서교동 웨스트브릿지 라이브홀에서 첫 단독 콘서트를 개최, 총 16회 공연을 진행하며 팬들과 만남을 이어갈 예정이다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이수정, 신촌 명물쉼터 깜짝 버스킹",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

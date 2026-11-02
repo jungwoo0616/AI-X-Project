@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276123",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "수지 ‘백두산’ 800만 기념 만삭 사진 공개…“안 본 사람 놀람주의”",
+		"newsSubTitle": "",
+		"newsContent": "배우 배수지가 영화 ‘백두산’ 800만 관객 돌파를 기념하며 만삭 분장 사진을 공개했다.\n17일 배수지는 자신의 인스타그램에 “#백두산 800만 돌파 기념 지영이 사진 투척 #꼬물이안뇽(안 본 사람 놀람주의)”라는 글과 함께 사진을 올렸다.\n공개된 사진 속 배수지는 만삭 임신부 분장을 한 모습으로 배를 손으로 만지고 있다.\n귀엽고 천진난만한 표정이 돋보인다.\n앞서 수지는 같은 날 “영화 ‘백두산’ 800만 돌파. 감사합니다. 큐티쁘띠”라고 적힌 종이를 들고 사진을 찍으며 관객들에게 감사 인사를 전하기도 했다.\n한편 ‘백두산’은 지난 13일 누적 관객 수 800만675명을 기록하며, 800만 관객 돌파에 성공했다.\n현재 누적 관객 수는 810만3520명이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 배수지가 영화 ‘백두산’ 800만 관객 돌파를 기념하며 만삭 분장 사진을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 배수지는 자신의 인스타그램에 “#백두산 800만 돌파 기념 지영이 사진 투척 #꼬물이안뇽(안 본 사람 놀람주의)”라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 배수지는 만삭 임신부 분장을 한 모습으로 배를 손으로 만지고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "귀엽고 천진난만한 표정이 돋보인다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 수지는 같은 날 “영화 ‘백두산’ 800만 돌파. 감사합니다. 큐티쁘띠”라고 적힌 종이를 들고 사진을 찍으며 관객들에게 감사 인사를 전하기도 했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘백두산’은 지난 13일 누적 관객 수 800만675명을 기록하며, 800만 관객 돌파에 성공했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 누적 관객 수는 810만3520명이다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수지 ‘백두산’ 800만 기념 만삭 사진 공개…“안 본 사람 놀람주의”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

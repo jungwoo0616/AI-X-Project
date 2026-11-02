@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269702",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘브로커’ 아이유 “송강호 칭찬, 인생 통틀어 인상 깊은 순간”",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 아이유가 송강호에게 칭찬을 받은 순간을 떠올렸다.\n아이유는 10일 오전 서울 용산구 CGV용산에서 진행된 영화 ‘브로커’ 제작보고회에서 송강호에게 연기 칭찬을 받았다며 “그 순간 정말 내 인생에서 몇 안 되는 인상깊은 장면이다”고 밝혔다.\n그는 “석양이 지는 순간이었다. 송강호가 촬영 끝나고 퇴근해야하는데 기다리더라. 내가 제일 늦게 끝나서 뛰어가 인사를 하면서 ‘왜 퇴근 안 하냐’고 했더니 ‘그 장면 모니터링했는데 너무 잘했다’고 칭찬했다”며 웃음을 터뜨렸다.\n이어 “그리고 멀리 송강호 선배 차량이 떠났다. 그 자리에 서있는데 슬쩍 눈물이 고였다”며 “정말 좋아서 부모에게 자랑까지 했다”고 말했다.\n이날 함께 자리한 송강호는 “아이유는 배우로서 가지고 있는 테크닉도 좋지만, 진심을 전달하는 정확한 표현들, 그리고 감정 전달의 방식들이 너무 놀라웠던 기억이 난다. 어떻게 저렇게 정확하고 빈틈없이 완벽하게 표현할 수 있을까 싶어서 따로 불러서 칭찬을 했다”며 “강동원은 칭찬을 한 적이 없다. 그 정도로 흔치 않은 일이다”고 해 웃음을 안겼다. ‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다.\n다음 달 8일 개봉한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 아이유가 송강호에게 칭찬을 받은 순간을 떠올렸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이유는 10일 오전 서울 용산구 CGV용산에서 진행된 영화 ‘브로커’ 제작보고회에서 송강호에게 연기 칭찬을 받았다며 “그 순간 정말 내 인생에서 몇 안 되는 인상깊은 장면이다”고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “석양이 지는 순간이었다. 송강호가 촬영 끝나고 퇴근해야하는데 기다리더라. 내가 제일 늦게 끝나서 뛰어가 인사를 하면서 ‘왜 퇴근 안 하냐’고 했더니 ‘그 장면 모니터링했는데 너무 잘했다’고 칭찬했다”며 웃음을 터뜨렸다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “그리고 멀리 송강호 선배 차량이 떠났다. 그 자리에 서있는데 슬쩍 눈물이 고였다”며 “정말 좋아서 부모에게 자랑까지 했다”고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 함께 자리한 송강호는 “아이유는 배우로서 가지고 있는 테크닉도 좋지만, 진심을 전달하는 정확한 표현들, 그리고 감정 전달의 방식들이 너무 놀라웠던 기억이 난다. 어떻게 저렇게 정확하고 빈틈없이 완벽하게 표현할 수 있을까 싶어서 따로 불러서 칭찬을 했다”며 “강동원은 칭찬을 한 적이 없다. 그 정도로 흔치 않은 일이다”고 해 웃음을 안겼다. ‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다.",
+				"sentenceSize": 249
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다음 달 8일 개봉한다.",
+				"sentenceSize": 13
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘브로커’ 아이유 “송강호 칭찬, 인생 통틀어 인상 깊은 순간”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272121",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "美 라디오 방송, K팝 다루는 주간 차트 쇼 첫 편성",
+		"newsSubTitle": "",
+		"newsContent": "미국 라디오 방송에서 K팝을 다루는 주간 차트 쇼가 처음 편성됐다.\n음악 스타트업 스페이스오디티는 2일 “미디어 회사 ‘88라이징’과 함께 이달 말부터 북미 최대 위성 라디오 시리우스엑스엠(SiriusXM) 채널에서 ‘케이팝 레이더’ 위클리 트렌딩 차트를 발표한다”고 전했다.\nDJ는 SBS 오디션 프로그램 ‘K팝 스타’ 출신으로 아리랑TV에서 K팝 토크쇼 ‘애프터 스쿨 클럽’(After School Club) MC로 활약해 온 가수 제이미가 맡는다 차트는 전 세계 다양한 플랫폼 데이터를 집계해 순위를 매긴다.\n유튜브 뮤직비디오 조회 수는 물론 트위터나 인스타그램 팔로워 증가량, 스포티파이 팔로워 증가량 등과 같은 팬덤 증감 수치도 반영할 예정이다.\n스페이스오디티 측은 “차트 순위는 조작이 불가능하며 누구나 확인 가능한 수치 데이터만을 사용해 공정하고 투명한 결과를 공개할 것”이라고 밝혔다.\n프로그램은 시리우스엑스엠의 88라이징 라디오 채널을 통해 매주 목요일에 방송된다.\n스페이스오디티가 운영하는 케이팝 레이더 누리집과 트위터에서는 금요일마다 구체적인 차트 순위를 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 라디오 방송에서 K팝을 다루는 주간 차트 쇼가 처음 편성됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "음악 스타트업 스페이스오디티는 2일 “미디어 회사 ‘88라이징’과 함께 이달 말부터 북미 최대 위성 라디오 시리우스엑스엠(SiriusXM) 채널에서 ‘케이팝 레이더’ 위클리 트렌딩 차트를 발표한다”고 전했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "DJ는 SBS 오디션 프로그램 ‘K팝 스타’ 출신으로 아리랑TV에서 K팝 토크쇼 ‘애프터 스쿨 클럽’(After School Club) MC로 활약해 온 가수 제이미가 맡는다 차트는 전 세계 다양한 플랫폼 데이터를 집계해 순위를 매긴다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유튜브 뮤직비디오 조회 수는 물론 트위터나 인스타그램 팔로워 증가량, 스포티파이 팔로워 증가량 등과 같은 팬덤 증감 수치도 반영할 예정이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스페이스오디티 측은 “차트 순위는 조작이 불가능하며 누구나 확인 가능한 수치 데이터만을 사용해 공정하고 투명한 결과를 공개할 것”이라고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로그램은 시리우스엑스엠의 88라이징 라디오 채널을 통해 매주 목요일에 방송된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스페이스오디티가 운영하는 케이팝 레이더 누리집과 트위터에서는 금요일마다 구체적인 차트 순위를 확인할 수 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 라디오 방송, K팝 다루는 주간 차트 쇼 첫 편성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

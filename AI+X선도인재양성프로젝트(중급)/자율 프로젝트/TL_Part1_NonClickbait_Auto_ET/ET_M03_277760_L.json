@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277760",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'비투비' 프니엘 아이돌 최초 탈모 고백 \\\"5년 전부터 탈모 진행\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 비투비 프니엘의 5년 전부터 탈모를 겪고 있다고 고백했다.\n14일 방송된 KBS2 '안녕하세요'에 출연한 프니엘은 5년 전부터 생긴 탈모현상을 털어놨다.\n프니엘은 \\\"어느날 헤어 스타일리스트 누나가 머리에 구멍이 생겼다고 했다\\\"며 \\\"병원에서도 머리카락이 70%나 빠졌다\\\"며 고백했다.\n프니엘은 아이돌 활동을 하면서 탈모를 숨겨야 했던 고충도 털어놨다. '집으로 가는 길' 활동 당시에는 베레모를 쓰며 탈모를 감췄다.\n프니엘은 \\\"베레모를 벗으면 땀이 주륵 흘러내렸다\\\"며 고충을 토로했다.\n가발을 쓸 것도 고려했지만 머리카락이 70%나 빠진 탓에 가발을 고정할 수 없었다는 사실도 고백했다.\n프니엘의 고백에 MC들은 \\\"아이돌로서 힘든 고백이었을텐데 정말 큰 마음을 먹고 출연한 것 같다\\\"고 말했다.\n이날 프니엘의 탈모 모습에 방청객들은 환호로 응원했다.\n프니엘의 두상에 MC들은 \\\"이마 라인하고 눈썹이 너무 잘생겼다\\\" \\\"앞으로 모자를 벗고 다니면 머리가 날 수도 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 비투비 프니엘의 5년 전부터 탈모를 겪고 있다고 고백했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 방송된 KBS2 '안녕하세요'에 출연한 프니엘은 5년 전부터 생긴 탈모현상을 털어놨다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프니엘은 \\\"어느날 헤어 스타일리스트 누나가 머리에 구멍이 생겼다고 했다\\\"며 \\\"병원에서도 머리카락이 70%나 빠졌다\\\"며 고백했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프니엘은 아이돌 활동을 하면서 탈모를 숨겨야 했던 고충도 털어놨다. '집으로 가는 길' 활동 당시에는 베레모를 쓰며 탈모를 감췄다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "프니엘은 \\\"베레모를 벗으면 땀이 주륵 흘러내렸다\\\"며 고충을 토로했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가발을 쓸 것도 고려했지만 머리카락이 70%나 빠진 탓에 가발을 고정할 수 없었다는 사실도 고백했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "프니엘의 고백에 MC들은 \\\"아이돌로서 힘든 고백이었을텐데 정말 큰 마음을 먹고 출연한 것 같다\\\"고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 프니엘의 탈모 모습에 방청객들은 환호로 응원했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "프니엘의 두상에 MC들은 \\\"이마 라인하고 눈썹이 너무 잘생겼다\\\" \\\"앞으로 모자를 벗고 다니면 머리가 날 수도 있다\\\"고 말했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'비투비' 프니엘 아이돌 최초 탈모 고백 \\\"5년 전부터 탈모 진행\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

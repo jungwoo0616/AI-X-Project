@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275920",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이세영, 8kg 찌운 살 없는 완벽한 드레스 자태",
+		"newsSubTitle": "",
+		"newsContent": "배우 이세영이 행복했던 어제를 회상했다.\n이세영은 20일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 “행복했던 어제”라는 글과 함께 사진 2장을 게시했다.\n이세영은 지난 19일에 열린 제1회 청룡시리즈어워즈 시상자로 참석하기 위해 드레스를 차려입은 모습을 사진으로 담았다.\n이세영은 앞서 올해 초 종영한 드라마 ‘옷소매 붉은 끝동’에서 ‘성덕임’ 역을 연기하기 위해 8kg 증량했다고 밝힌 바 있다.\n이세영은 살을 찌운 흔적을 찾아볼 수 없을 정도로 가녀린 드레스 자태를 뽐내 보는 이들의 눈길을 사로잡았다.\n한편 이세영은 오는 8월 29일에 첫 방송이 예정된 KBS 2TV 드라마 ‘법대로 사랑하다’를 차기작으로 선택했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이세영이 행복했던 어제를 회상했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이세영은 20일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 “행복했던 어제”라는 글과 함께 사진 2장을 게시했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이세영은 지난 19일에 열린 제1회 청룡시리즈어워즈 시상자로 참석하기 위해 드레스를 차려입은 모습을 사진으로 담았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이세영은 앞서 올해 초 종영한 드라마 ‘옷소매 붉은 끝동’에서 ‘성덕임’ 역을 연기하기 위해 8kg 증량했다고 밝힌 바 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이세영은 살을 찌운 흔적을 찾아볼 수 없을 정도로 가녀린 드레스 자태를 뽐내 보는 이들의 눈길을 사로잡았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이세영은 오는 8월 29일에 첫 방송이 예정된 KBS 2TV 드라마 ‘법대로 사랑하다’를 차기작으로 선택했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이세영, 8kg 찌운 살 없는 완벽한 드레스 자태",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

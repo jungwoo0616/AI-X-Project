@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273863",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김호영 “속초 가고싶다” 밝은 근황",
+		"newsSubTitle": "",
+		"newsContent": "뮤지컬 배우 김호영이 근황을 공개했다.\n김호영은 23일 자신의 사회관계망서비스(SNS) 인스타그램에 두 장의 사진을 공개하며 “속초 또 가고싶다”라는 글을 올렸다.\n사진 속 김호영은 속초의 푸른 바다 앞에서 밝은 미소를 짓고 있다.\n한편 김호영은 지난 14일 사회관계망서비스(SNS)에 사진 한 장과 “아사리판은 옛말이다. 지금은 옥장판”이는 게시물을 올리며 논란의 중심이 되었다.\n해당 게시물이 뮤지컬 배우 옥주현을 빗댄 것 아니냐는 추측이 일며 최근 공개된 뮤지컬 ‘엘리자벳’ 캐스팅 관련 의혹이 불거졌다.\n이후 옥주현은 김호영과 누리꾼들을 명예훼손으로 고소했으나 이와 관련해 지난 22일 남경주, 최정원, 박칼린 등 1세대 뮤지컬 배우들이 공식 입장문을 냈으며 김소현, 조권, 이상현 등의 뮤지컬 배우들 역시 이에 지지입장을 표명하며 논란이 거세지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤지컬 배우 김호영이 근황을 공개했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김호영은 23일 자신의 사회관계망서비스(SNS) 인스타그램에 두 장의 사진을 공개하며 “속초 또 가고싶다”라는 글을 올렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김호영은 속초의 푸른 바다 앞에서 밝은 미소를 짓고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 김호영은 지난 14일 사회관계망서비스(SNS)에 사진 한 장과 “아사리판은 옛말이다. 지금은 옥장판”이는 게시물을 올리며 논란의 중심이 되었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물이 뮤지컬 배우 옥주현을 빗댄 것 아니냐는 추측이 일며 최근 공개된 뮤지컬 ‘엘리자벳’ 캐스팅 관련 의혹이 불거졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 옥주현은 김호영과 누리꾼들을 명예훼손으로 고소했으나 이와 관련해 지난 22일 남경주, 최정원, 박칼린 등 1세대 뮤지컬 배우들이 공식 입장문을 냈으며 김소현, 조권, 이상현 등의 뮤지컬 배우들 역시 이에 지지입장을 표명하며 논란이 거세지고 있다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호영 “속초 가고싶다” 밝은 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263249",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "핫펠트, 여성의날 기념 “아직 여성 무시·조롱 세력있어”",
+		"newsSubTitle": "",
+		"newsContent": "가수 핫펠트(박예은)가 세계여성의 날을 기념했다.\n핫펠트는 8일 인스타그램에 “백여년 전, 세계 여성들은 생존권과 참정권을 위해 싸웠고 덕분에 우리는 내일 소중한 한 표를 행사할 수 있게 됐다”며 “그러나 아직도 여성의 한 표가 동등한 한 표임을 모르고 여성을 무시하고 조롱하고, 분열시키려는 사람이 있다”고 적었다.\n이어 “저는 내일 나를 위해, 언니와 조카를 위해, 모든 여성을 위해, 함께 살아가는 우리를 위해 투표하려 한다”며 “다시 한 번 세계 여성의 날을 진심으로 축하하고 기뻐한다”고 했다.\n핫펠트는 자신을 페미니스트로 자처하며 여성을 위해 목소리를 내왔다.\n핫펠트는 법무부 디지털성범죄 전문위원으로 위촉돼 활동 중이기도 하다.\n당시 핫펠트는 “뜻깊은 일에 함께하게 돼 기쁘고 영광”이라며 “전문지식은 부족하지만 피해자들 입장에서 다양한 고민을 나누고 최대한 도움이 되고 싶다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 핫펠트(박예은)가 세계여성의 날을 기념했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "핫펠트는 8일 인스타그램에 “백여년 전, 세계 여성들은 생존권과 참정권을 위해 싸웠고 덕분에 우리는 내일 소중한 한 표를 행사할 수 있게 됐다”며 “그러나 아직도 여성의 한 표가 동등한 한 표임을 모르고 여성을 무시하고 조롱하고, 분열시키려는 사람이 있다”고 적었다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “저는 내일 나를 위해, 언니와 조카를 위해, 모든 여성을 위해, 함께 살아가는 우리를 위해 투표하려 한다”며 “다시 한 번 세계 여성의 날을 진심으로 축하하고 기뻐한다”고 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "핫펠트는 자신을 페미니스트로 자처하며 여성을 위해 목소리를 내왔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "핫펠트는 법무부 디지털성범죄 전문위원으로 위촉돼 활동 중이기도 하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 핫펠트는 “뜻깊은 일에 함께하게 돼 기쁘고 영광”이라며 “전문지식은 부족하지만 피해자들 입장에서 다양한 고민을 나누고 최대한 도움이 되고 싶다”고 말했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "핫펠트, 여성의날 기념 “아직 여성 무시·조롱 세력있어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

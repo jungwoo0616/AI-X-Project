@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262132",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘우크라이나 침공’ 러시아 출신 방송인 일리야 벨랴코프 이모티콘은?",
+		"newsSubTitle": "",
+		"newsContent": "러시아가 우크라이나 침공을 강행한 24일 러시아 출신 방송인 일리야 벨랴코프가 SNS에 심경을 드러냈다.\n일리야는 이날 오후 1시쯤 자신의 트위터에 별다른 언급 없이 우크라이나 국기 이모티콘을 올렸다.\n블라디미르 푸틴 러시아 대통령은 이날 긴급연설 형식으로 “우크라이나의 위협을 용인할 수 없다”고 주장하면서 우크라이나 동부 돈바스 지역에 대한 특별 군사작전을 선언했다.\n발표 후 러시아는 우크라이나 동부와 남부, 북부 3면에서 공격을 시작해 민간인도 사망했다.\n볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 우크라이나 기반시설과 국경수비대에 미사일 공격을 감행했고 우크라이나 수도 키예프를 비롯해 많은 도시에서 폭발음이 들렸다고 주장했다.\n소련 체제 하인 1982년 블라디보스토크에서 출생한 일리야는 JTBC 예능프로그램 ‘비정상회담’을 통해 얼굴을 알린 후 러시아에 대한 다양한 정보를 방송과 유튜브에서 전달해 왔다.\n일리야 벨랴코프는 2016년 대한민국 국적으로 귀화했고 어머니가 우크라이나 출신이다.\n네티즌들은 이날 일리야의 우크라이나 국기 이모티콘이 그의 복잡한 심경을 드러낸 것으로 해석하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "러시아가 우크라이나 침공을 강행한 24일 러시아 출신 방송인 일리야 벨랴코프가 SNS에 심경을 드러냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일리야는 이날 오후 1시쯤 자신의 트위터에 별다른 언급 없이 우크라이나 국기 이모티콘을 올렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "블라디미르 푸틴 러시아 대통령은 이날 긴급연설 형식으로 “우크라이나의 위협을 용인할 수 없다”고 주장하면서 우크라이나 동부 돈바스 지역에 대한 특별 군사작전을 선언했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "발표 후 러시아는 우크라이나 동부와 남부, 북부 3면에서 공격을 시작해 민간인도 사망했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 우크라이나 기반시설과 국경수비대에 미사일 공격을 감행했고 우크라이나 수도 키예프를 비롯해 많은 도시에서 폭발음이 들렸다고 주장했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소련 체제 하인 1982년 블라디보스토크에서 출생한 일리야는 JTBC 예능프로그램 ‘비정상회담’을 통해 얼굴을 알린 후 러시아에 대한 다양한 정보를 방송과 유튜브에서 전달해 왔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일리야 벨랴코프는 2016년 대한민국 국적으로 귀화했고 어머니가 우크라이나 출신이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네티즌들은 이날 일리야의 우크라이나 국기 이모티콘이 그의 복잡한 심경을 드러낸 것으로 해석하고 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘우크라이나 침공’ 러시아 출신 방송인 일리야 벨랴코프 이모티콘은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

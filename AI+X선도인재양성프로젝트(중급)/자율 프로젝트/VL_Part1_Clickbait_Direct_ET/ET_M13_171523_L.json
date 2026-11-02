@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171523",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“할많하않” 성종 울린 울림",
+    "newsSubTitle": "",
+    "newsContent": "그룹 인피니트 성종이 울림엔터테인먼트의 2022 시즌 그리팅에서 제외됐다.\n소속사 울림엔터테인먼트는 지난 9일 인피니트 공식 SNS를 통해 2022 시즌 그리팅(스타의 사진이 담긴 신년 굿즈) 일정을 공개했다.\n공개된 일정에는 우현의 2022 시즌 그리팅 예약판매 일정과 굿즈를 구입할 수 있는 사이트 링크가 담겼다.\n그러나 일정이 공개되자 팬들은 ‘차별 대우’라며 소속사에 항의했다.\n인피니트의 다른 멤버 성종이 시즌 그리팅에서 누락됐기 때문. 특히 인피니트 중 울림 엔터테인먼트와 재계약 한 멤버는 우현과 성종 둘뿐이었기에 팬들은 더욱 분노했다.\n성종 역시 이날 자신의 인스타그램 스토리에 “할많하않(할말은 많지만 하지 않겠다)”이라는 짧은 심경 글을 게재하며 불편한 심기를 드러냈다.\n이후 팬과의 대화에서 “속상하다. 인스피릿이 속상해 하는게 더 속상하다. 내가 잘할게”등의 글을 남겼다고 전해져 안타까움을 더했다.\n한편, 성종은 지난 6월 울림엔터테인먼트와 재계약을 체결했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 인피니트 성종이 울림엔터테인먼트의 2022 시즌 그리팅에서 제외됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 울림엔터테인먼트는 지난 9일 인피니트 공식 SNS를 통해 2022 시즌 그리팅(스타의 사진이 담긴 신년 굿즈) 일정을 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 일정에는 우현의 2022 시즌 그리팅 예약판매 일정과 굿즈를 구입할 수 있는 사이트 링크가 담겼다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 일정이 공개되자 팬들은 ‘차별 대우’라며 소속사에 항의했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인피니트의 다른 멤버 성종이 시즌 그리팅에서 누락됐기 때문. 특히 인피니트 중 울림 엔터테인먼트와 재계약 한 멤버는 우현과 성종 둘뿐이었기에 팬들은 더욱 분노했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성종 역시 이날 자신의 인스타그램 스토리에 “할많하않(할말은 많지만 하지 않겠다)”이라는 짧은 심경 글을 게재하며 불편한 심기를 드러냈다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 팬과의 대화에서 “속상하다. 인스피릿이 속상해 하는게 더 속상하다. 내가 잘할게”등의 글을 남겼다고 전해져 안타까움을 더했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 성종은 지난 6월 울림엔터테인먼트와 재계약을 체결했다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인피니트 성종, 혼자 이 일정 제외돼... “할많하않\" ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

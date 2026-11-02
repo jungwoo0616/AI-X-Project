@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276920",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "손연재가 힘들었던 국가대표 시절을 회상하며 한 말",
+		"newsSubTitle": "",
+		"newsContent": "손연재가 리듬체조 선수로서의 삶이 여유가 없었다고 털어놨다.\n30일 방송된 EBS 다큐멘터리 '이것이 야생이다' 제1화에 손연재가 출연해 제작진과 인터뷰를 했다.\n전 리듬체조 국가대표 손연재는 국가대표 시절을 회상하며 \\\"당장 하루하루를 경쟁하면서 살아야 했고 체조선수로서의 일상에만 묻혀 살아가다 보니까 다른 걸 쳐다볼 여유가 없었다\\\"고 말했다.\n당장 앞만 보고 가는 게 너무 중요했기 때문에 체조 선수 시절엔 주위를 둘러볼 여유가 없었다고도 고백했다.\n또 함께 출연한 김국진과 이동하면서는 \\\"정말 오랜만에 봄에 한국에 있는 것이다. 이맘 때가 시즌 때라서, 항상 날씨가 좋으면 설레는 것보다 시합 때문에 긴장감이 더 컸다\\\"며 리듬체조 국가대표로서의 고충도 털어놨다.\n한편 이날 손연재는 김국진과 함께 수리부엉이를 찾으러 참나무 숲으로 가는 모습이 그려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "손연재가 리듬체조 선수로서의 삶이 여유가 없었다고 털어놨다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 EBS 다큐멘터리 '이것이 야생이다' 제1화에 손연재가 출연해 제작진과 인터뷰를 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전 리듬체조 국가대표 손연재는 국가대표 시절을 회상하며 \\\"당장 하루하루를 경쟁하면서 살아야 했고 체조선수로서의 일상에만 묻혀 살아가다 보니까 다른 걸 쳐다볼 여유가 없었다\\\"고 말했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당장 앞만 보고 가는 게 너무 중요했기 때문에 체조 선수 시절엔 주위를 둘러볼 여유가 없었다고도 고백했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 함께 출연한 김국진과 이동하면서는 \\\"정말 오랜만에 봄에 한국에 있는 것이다. 이맘 때가 시즌 때라서, 항상 날씨가 좋으면 설레는 것보다 시합 때문에 긴장감이 더 컸다\\\"며 리듬체조 국가대표로서의 고충도 털어놨다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 손연재는 김국진과 함께 수리부엉이를 찾으러 참나무 숲으로 가는 모습이 그려졌다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손연재가 힘들었던 국가대표 시절을 회상하며 한 말",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

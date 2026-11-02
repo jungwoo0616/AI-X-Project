@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268846",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "제이미, 이번엔 블랙 시스루 ‘아찔하게’",
+		"newsSubTitle": "",
+		"newsContent": "가수 제이미가 파격적인 패션으로 시선을 사로잡았다.\n제이미는 지난 1일 공식 SNS 채널을 통해 사진 한 장을 공개, ‘바이바이’라는 멘트를 덧붙였다.\n공개된 사진 속 제이미는 볼륨감 넘치는 몸매가 여실히 드러나는 파격적인 블랙 시스루 의상을 입고 있으며 화려한 타투와 메이크업까지 더해져 시선을 사로잡았다.\n제이미는 지난 28일 파란 비키니를 입은 사진과 “얘들아 벗자”라는 화끈한 멘트까지 남겨 화제를 불러일으킨 바 있다.\n그는 이어 공개한 이번 블랙 시스루 의상으로 누리꾼들의 이목을 집중시켰다.\n누리꾼들은 해당 게시물로 “언니 진짜 예쁘다” “나 정말 이 언니 좋아하네” “드레스 정보가 궁금하다” 등 긍정적인 반응을 보였다.\n제이미는 2월 ‘Pity Party’를 선보여 색다른 음악적 변신을 선보였으며 이에 대중들은 “완전 아티스트다”, “음악 소화 능력이 뛰어나다” 등의 긍정적인 반응을 보였다.\n한편, 제이미는 다양한 콘텐츠를 통해 대중과 소통해나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 제이미가 파격적인 패션으로 시선을 사로잡았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제이미는 지난 1일 공식 SNS 채널을 통해 사진 한 장을 공개, ‘바이바이’라는 멘트를 덧붙였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 제이미는 볼륨감 넘치는 몸매가 여실히 드러나는 파격적인 블랙 시스루 의상을 입고 있으며 화려한 타투와 메이크업까지 더해져 시선을 사로잡았다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제이미는 지난 28일 파란 비키니를 입은 사진과 “얘들아 벗자”라는 화끈한 멘트까지 남겨 화제를 불러일으킨 바 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 이어 공개한 이번 블랙 시스루 의상으로 누리꾼들의 이목을 집중시켰다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 해당 게시물로 “언니 진짜 예쁘다” “나 정말 이 언니 좋아하네” “드레스 정보가 궁금하다” 등 긍정적인 반응을 보였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제이미는 2월 ‘Pity Party’를 선보여 색다른 음악적 변신을 선보였으며 이에 대중들은 “완전 아티스트다”, “음악 소화 능력이 뛰어나다” 등의 긍정적인 반응을 보였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 제이미는 다양한 콘텐츠를 통해 대중과 소통해나갈 예정이다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제이미, 이번엔 블랙 시스루 ‘아찔하게’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

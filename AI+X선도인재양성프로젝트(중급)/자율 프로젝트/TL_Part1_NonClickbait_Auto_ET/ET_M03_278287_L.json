@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278287",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "XIA준수 5월 정규 4집으로 컴백…6월부터 아시아 투어 시작",
+		"newsSubTitle": "",
+		"newsContent": "김준수가 오는 5월, 정규 4집으로 가요계에 컴백한다.\n김준수의 소속사 씨제스 엔터테인먼트는 “어제(31일) 도쿄 국제 포럼 홀 A에서 진행된 김준수의 일본 발라드 스프링 투어 ‘2016 XIA THE BEST BALLAD SPRING TOUR CONCERT vol.2 in JAPAN’ 공연 피날레에 가수 XIA준수의 컴백을 알리는 깜짝 예고 영상이 공개되었다”고 전했다.\n영상에는 김준수가 김준수로 오는 5월 컴백한다는 내용과 함께 6월, 서울을 시작으로 나고야, 고베, 도쿄 등의 아시아 투어를 가진다는 설명이 포함됐다.\n소속사 관계자는“김준수가 오는 5월, 정규 4집으로 컴백한다.\n일본 투어가 끝나는 대로 음반 작업에 집중하고 6월부터는 서울을 시작으로 아시아 투어를 이어나갈 예정“이라고 밝혔다.\n온라인 중앙일보 [사진 씨제스 엔터테인먼트]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김준수가 오는 5월, 정규 4집으로 가요계에 컴백한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김준수의 소속사 씨제스 엔터테인먼트는 “어제(31일) 도쿄 국제 포럼 홀 A에서 진행된 김준수의 일본 발라드 스프링 투어 ‘2016 XIA THE BEST BALLAD SPRING TOUR CONCERT vol.2 in JAPAN’ 공연 피날레에 가수 XIA준수의 컴백을 알리는 깜짝 예고 영상이 공개되었다”고 전했다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에는 김준수가 김준수로 오는 5월 컴백한다는 내용과 함께 6월, 서울을 시작으로 나고야, 고베, 도쿄 등의 아시아 투어를 가진다는 설명이 포함됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사 관계자는“김준수가 오는 5월, 정규 4집으로 컴백한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일본 투어가 끝나는 대로 음반 작업에 집중하고 6월부터는 서울을 시작으로 아시아 투어를 이어나갈 예정“이라고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 씨제스 엔터테인먼트]",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "XIA준수 5월 정규 4집으로 컴백…6월부터 아시아 투어 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

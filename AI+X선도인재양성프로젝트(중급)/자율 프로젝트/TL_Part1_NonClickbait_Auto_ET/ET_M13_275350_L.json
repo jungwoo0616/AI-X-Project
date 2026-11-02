@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275350",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "[전문] 위너 김진우, 코로나19 확진",
+		"newsSubTitle": "",
+		"newsContent": "그룹 위너 김진우가 코로나19 확진 판정을 받았다.\n소속사 YG엔터테인먼트에 따르면 김진우는 12일 오후 라디오 프로그램 출연을 앞두고 사전 진행한 코로나19 검사 결과가 양성으로 나와 일정을 취소했다.\n강승윤, 송민호, 이승훈 등 위너의 나머지 멤버들의 검사 결과는 모두 음성으로 나왔다.\nYG엔터테인먼트는 “김진우를 제외한 위너의 추후 일정은 여러 상황을 지켜본 뒤 방역당국 지침에 따라 결정할 예정”이라고 전했다.\n이어 “소속 아티스트의 건강을 최우선으로 하며 아낌없이 지원하고 있다”면서 “김진우의 빠른 회복을 응원해주시면 고맙겠다”고 당부했다.\n다음은 소속사 안내문 전문YG 엔터테인먼트입니다 . 위너 멤버 김진우가 오늘 (12 일) 오후 라디오 출연을 앞두고 사전 진행한 코로나 19 검사에서 양성 판정을 받아 예정된 스케줄을 취소하였습니다 . 다른 멤버 3 명 ( 강승윤 · 송민호 · 이승훈 ) 의 검사 결과는 모두 음성이며 , 김진우를 제외한 위너의 추후 일정은 여러 상황을 지켜본 뒤 방역당국 지침에 따라 결정할 예정입니다 . 당사는 소속 아티스트의 건강을 최우선해 아낌없이 지원하고 있습니다 . 김진우의 빠른 회복을 응원해주시면 고맙겠습니다 .",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 위너 김진우가 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 YG엔터테인먼트에 따르면 김진우는 12일 오후 라디오 프로그램 출연을 앞두고 사전 진행한 코로나19 검사 결과가 양성으로 나와 일정을 취소했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강승윤, 송민호, 이승훈 등 위너의 나머지 멤버들의 검사 결과는 모두 음성으로 나왔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "YG엔터테인먼트는 “김진우를 제외한 위너의 추후 일정은 여러 상황을 지켜본 뒤 방역당국 지침에 따라 결정할 예정”이라고 전했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “소속 아티스트의 건강을 최우선으로 하며 아낌없이 지원하고 있다”면서 “김진우의 빠른 회복을 응원해주시면 고맙겠다”고 당부했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다음은 소속사 안내문 전문YG 엔터테인먼트입니다 . 위너 멤버 김진우가 오늘 (12 일) 오후 라디오 출연을 앞두고 사전 진행한 코로나 19 검사에서 양성 판정을 받아 예정된 스케줄을 취소하였습니다 . 다른 멤버 3 명 ( 강승윤 · 송민호 · 이승훈 ) 의 검사 결과는 모두 음성이며 , 김진우를 제외한 위너의 추후 일정은 여러 상황을 지켜본 뒤 방역당국 지침에 따라 결정할 예정입니다 . 당사는 소속 아티스트의 건강을 최우선해 아낌없이 지원하고 있습니다 . 김진우의 빠른 회복을 응원해주시면 고맙겠습니다 .",
+				"sentenceSize": 285
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 위너 김진우, 코로나19 확진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

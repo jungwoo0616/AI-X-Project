@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258250",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "킨다블루, 짙은 겨울의 ‘색’",
+		"newsSubTitle": "",
+		"newsContent": "신예 보컬리스트 킨다블루(KINDA BLUE)가 신곡의 뮤직비디오 티저를 공개하고 발매 임박을 알렸다.\n킨다블루는 지난 14일 공식 SNS를 통해 디지털 싱글 ‘색’의 뮤직비디오 티저를 선보이며 한층 깊어진 겨울 감성을 예고했다.\n공개된 영상에는 이별 후 각각 추억 여행을 떠난 두 남녀의 모습이 담겨있다.\n신인배우 임영준과 신이준이 위태로운 연인 호흡을 펼칠 예정인 가운데, 두 사람의 공허한 표정 연기가 먹먹함을 자아낸다.\n특히, 영상에 등장하는 바다는 킨다블루가 마마무 화사와 호흡을 맞췄던 디지털 싱글 ‘I can’t make you love me‘의 뮤직비디오에 등장하는 장소와 동일하다. 같은 공간, 색다른 무드로 킨다블루만의 독특한 스토리 라인을 예고해 기대를 더한다. 킨다블루는 오는 16일 디지털 싱글 ’색‘을 발표한다. 이 곡은 사랑을 표현하는 수단 중 하나인 ’색‘에서 영감을 받아 만들어진 노래로, 환히 빛나던 색이 이별의 순간엔 결국 바래진다는 것을 킨다블루만의 감성으로 풀어냈다. 이에 더해 신곡 ’색‘에는’슈퍼밴드2‘로 눈도장을 찍은 신예 아티스트 문수진이 피처링으로 참여, 킨다블루만의 유니크한 그루브와 문수진의 소울풀한 음색이 만나 최고의 시너지를 낼 것으로 기대된다.\n한편, 킨다블루의 신곡’색‘은 오는 16일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신예 보컬리스트 킨다블루(KINDA BLUE)가 신곡의 뮤직비디오 티저를 공개하고 발매 임박을 알렸다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "킨다블루는 지난 14일 공식 SNS를 통해 디지털 싱글 ‘색’의 뮤직비디오 티저를 선보이며 한층 깊어진 겨울 감성을 예고했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 이별 후 각각 추억 여행을 떠난 두 남녀의 모습이 담겨있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신인배우 임영준과 신이준이 위태로운 연인 호흡을 펼칠 예정인 가운데, 두 사람의 공허한 표정 연기가 먹먹함을 자아낸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히, 영상에 등장하는 바다는 킨다블루가 마마무 화사와 호흡을 맞췄던 디지털 싱글 ‘I can’t make you love me‘의 뮤직비디오에 등장하는 장소와 동일하다. 같은 공간, 색다른 무드로 킨다블루만의 독특한 스토리 라인을 예고해 기대를 더한다. 킨다블루는 오는 16일 디지털 싱글 ’색‘을 발표한다. 이 곡은 사랑을 표현하는 수단 중 하나인 ’색‘에서 영감을 받아 만들어진 노래로, 환히 빛나던 색이 이별의 순간엔 결국 바래진다는 것을 킨다블루만의 감성으로 풀어냈다. 이에 더해 신곡 ’색‘에는’슈퍼밴드2‘로 눈도장을 찍은 신예 아티스트 문수진이 피처링으로 참여, 킨다블루만의 유니크한 그루브와 문수진의 소울풀한 음색이 만나 최고의 시너지를 낼 것으로 기대된다.",
+				"sentenceSize": 376
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 킨다블루의 신곡’색‘은 오는 16일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "킨다블루, 짙은 겨울의 ‘색’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

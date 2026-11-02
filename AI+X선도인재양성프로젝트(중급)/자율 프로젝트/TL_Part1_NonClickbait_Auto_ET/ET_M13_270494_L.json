@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270494",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "르세라핌, 음방 3관왕 달성…“초심 기억할것”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 르세라핌이 ‘음방’ 3관왕을 달성하며 흥행성적을 이어간다.\n르세라핌 소속사 쏘스뮤직에 따르면 르세라핌은 지난 17일 방송된 SBS MTV ‘더쇼’에서 1위 트로티를 거머쥐었다.\n르세라핌은 지난 10일 ‘더쇼’에서 데뷔 8일 만에 첫 음악방송을 차지한 이후 13일 KBS2 ‘뮤직뱅크’ 1위에 이어 3관왕을 달성했다.\n르세라핌은 이번 ‘더쇼’ 1위 소감으로 “또 한 번 값진 상을 받게 돼 너무 영광스럽고 감사드린다”며 “우리 음악을 들어주시는 것만으로도 감사하고 앞으로도 초심을 잃지 않고 더 자랑스러운 아티스트가 될 것”이라고 말했다.\n이날 르세라핌은 블랙 앤 화이트 의상을 입고 타이틀 곡 ‘피어레스’(FEARLESS) 무대를 선보였다.\n과거에 연연하지 않고 두려움 없이 나아가자는 메시지를 담은 곡을 화려한 퍼포먼스로 뽐내 시선을 이끌었다.\n방송 말미 펼친 앙코르 무대에서는 6명 멤버 모두 머리띠를 착용하고 나와 반전 매력도 선사했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 르세라핌이 ‘음방’ 3관왕을 달성하며 흥행성적을 이어간다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르세라핌 소속사 쏘스뮤직에 따르면 르세라핌은 지난 17일 방송된 SBS MTV ‘더쇼’에서 1위 트로티를 거머쥐었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "르세라핌은 지난 10일 ‘더쇼’에서 데뷔 8일 만에 첫 음악방송을 차지한 이후 13일 KBS2 ‘뮤직뱅크’ 1위에 이어 3관왕을 달성했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "르세라핌은 이번 ‘더쇼’ 1위 소감으로 “또 한 번 값진 상을 받게 돼 너무 영광스럽고 감사드린다”며 “우리 음악을 들어주시는 것만으로도 감사하고 앞으로도 초심을 잃지 않고 더 자랑스러운 아티스트가 될 것”이라고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 르세라핌은 블랙 앤 화이트 의상을 입고 타이틀 곡 ‘피어레스’(FEARLESS) 무대를 선보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과거에 연연하지 않고 두려움 없이 나아가자는 메시지를 담은 곡을 화려한 퍼포먼스로 뽐내 시선을 이끌었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방송 말미 펼친 앙코르 무대에서는 6명 멤버 모두 머리띠를 착용하고 나와 반전 매력도 선사했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르세라핌, 음방 3관왕 달성…“초심 기억할것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278200",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "썰전 유시민 \\\"방송 보면 김구라 불쌍해 보여…잘 해줘라\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘썰전’의 유시민이 MC 김구라가 불쌍해 보인다고 말했다.\n최근 진행된 JTBC '썰전' 녹화에서는 '역대 최악의 국회'라는 오명을 얻은 채 종반으로 치닫고 있는 19대 국회에 대해 총평하는 시간을 가졌다.\n김구라가 19대 국회의 ‘워스트 의원’을 질문했고 전원책은 실명을 거론하며 대답하다 “그런 것 묻지 말라”라며 불만을 드러냈다.\n이에 유시민은 “김구라한테 잘 해줘라. 본방송 보면 MC가 너무 불쌍해 보인다”고 말했다.\n그러자 전원책은 \\\"김구라의 가장 큰 장점은 우리보다 오래 살 가능성이 크다는 것\\\"이라며 \\\"나중에 우리가 죽고 나면 후배들 앉혀놓고 우리 뒷이야기를 털 테니, (김구라에게) 잘 보여야 한다\\\"라고 말했다.\n이에 유시민은 \\\"가는 데는 순서가 없다\\\"며 전원책을 위로(?)해 웃음을 자아냈다. '썰전'은 28일 오후 10시 50분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘썰전’의 유시민이 MC 김구라가 불쌍해 보인다고 말했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 진행된 JTBC '썰전' 녹화에서는 '역대 최악의 국회'라는 오명을 얻은 채 종반으로 치닫고 있는 19대 국회에 대해 총평하는 시간을 가졌다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김구라가 19대 국회의 ‘워스트 의원’을 질문했고 전원책은 실명을 거론하며 대답하다 “그런 것 묻지 말라”라며 불만을 드러냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 유시민은 “김구라한테 잘 해줘라. 본방송 보면 MC가 너무 불쌍해 보인다”고 말했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 전원책은 \\\"김구라의 가장 큰 장점은 우리보다 오래 살 가능성이 크다는 것\\\"이라며 \\\"나중에 우리가 죽고 나면 후배들 앉혀놓고 우리 뒷이야기를 털 테니, (김구라에게) 잘 보여야 한다\\\"라고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 유시민은 \\\"가는 데는 순서가 없다\\\"며 전원책을 위로(?)해 웃음을 자아냈다. '썰전'은 28일 오후 10시 50분에 방송된다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "썰전 유시민 \\\"방송 보면 김구라 불쌍해 보여…잘 해줘라\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

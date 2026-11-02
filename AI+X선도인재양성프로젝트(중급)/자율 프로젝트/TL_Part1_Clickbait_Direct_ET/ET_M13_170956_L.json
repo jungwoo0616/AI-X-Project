@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170956",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘노는 브로2’ 구본길 \\\"금메달 따니 호칭 바뀌더라”",
+    "newsSubTitle": "",
+    "newsContent": "펜싱선수 구본길이 금메달 획득 이후 달라진 변화를 밝혔다.\n23일 E채널 예능 프로그램 ‘노는 브로 시즌2’(이하 ‘노는 브로2’) 온라인 제작발표회가 진행된 가운데 박지은PD를 비롯해 전 야구선수 박용택, 전 농구선수 전태풍, 전 축구선수 백지훈, 펜싱선수 구본길이 참석했다.\n이날 제작발표회에서 구본길 선수는 금메달을 목에 건 후 ‘노는 브로2’ 제작진들의 반응이 달라졌다고 발언해 궁금증을 불러 일으켰다.\n구본길 선수는 “스태프들 사이에 반응이 바뀌었다. 금메달을 따고 나서 촬영장에 가니 구본길 선수님으로 호칭이 바뀌더라”며 “2주 뒷면 거품이 빠지지 않을까”라고 장난스레 말했다.\n이어 “제작진이 나보다 금메달에만 관심을 갖는 것 같다”고 말해 웃음을 자아냈다.\n한편 ‘노는 브로2’는 매주 월요일 오후 8시 50분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "펜싱선수 구본길이 금메달 획득 이후 달라진 변화를 밝혔다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 E채널 예능 프로그램 ‘노는 브로 시즌2’(이하 ‘노는 브로2’) 온라인 제작발표회가 진행된 가운데 박지은PD를 비롯해 전 야구선수 박용택, 전 농구선수 전태풍, 전 축구선수 백지훈, 펜싱선수 구본길이 참석했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 제작발표회에서 구본길 선수는 금메달을 목에 건 후 ‘노는 브로2’ 제작진들의 반응이 달라졌다고 발언해 궁금증을 불러 일으켰다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "구본길 선수는 “스태프들 사이에 반응이 바뀌었다. 금메달을 따고 나서 촬영장에 가니 구본길 선수님으로 호칭이 바뀌더라”며 “2주 뒷면 거품이 빠지지 않을까”라고 장난스레 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “제작진이 나보다 금메달에만 관심을 갖는 것 같다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘노는 브로2’는 매주 월요일 오후 8시 50분 방송된다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘노는 브로 2’ 구본길, 목에 '이것' 걸고 나니 제작진 태도 바뀌었다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

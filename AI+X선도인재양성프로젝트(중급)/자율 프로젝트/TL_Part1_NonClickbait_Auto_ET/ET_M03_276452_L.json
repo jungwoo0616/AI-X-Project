@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276452",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "남우현, 친형 통해 근황 공개 '수척해진 모습?'",
+		"newsSubTitle": "",
+		"newsContent": "지난 6일 이후 SNS는 물론 외부 활동을 하지 않아 팬들의 궁금증을 자아냈던 인피니트 멤버 남우현의 근황이 전해졌다.\n남우현의 친형은 24일 자신의 소셜네트워크서비스(SNS)에 남우현과 함께 찍은 사진을 게재했다.\n모자를 쓴 채 카메라를 바라보고 있는 남우현은 살짝 여윈 듯한 모습이지만 여전히 훈훈한 외모를 자랑했다.\n해당 사진에 팬들은 \\\"오랜만에 오빠 본다. 감사하다\\\" \\\"우현아 잘 지내는 거지. 인피니트 보고 싶다\\\"라며 반가워하는 댓글을 달았다.\n한편 남우현이 속한 인피니트는 재계약 여부를 논의 중이다.\n남우현은 지난 5월 첫 솔로 앨범을 발표했으며 이후 별다른 활동 없이 휴식을 취하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 6일 이후 SNS는 물론 외부 활동을 하지 않아 팬들의 궁금증을 자아냈던 인피니트 멤버 남우현의 근황이 전해졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남우현의 친형은 24일 자신의 소셜네트워크서비스(SNS)에 남우현과 함께 찍은 사진을 게재했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모자를 쓴 채 카메라를 바라보고 있는 남우현은 살짝 여윈 듯한 모습이지만 여전히 훈훈한 외모를 자랑했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 사진에 팬들은 \\\"오랜만에 오빠 본다. 감사하다\\\" \\\"우현아 잘 지내는 거지. 인피니트 보고 싶다\\\"라며 반가워하는 댓글을 달았다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 남우현이 속한 인피니트는 재계약 여부를 논의 중이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "남우현은 지난 5월 첫 솔로 앨범을 발표했으며 이후 별다른 활동 없이 휴식을 취하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남우현, 친형 통해 근황 공개 '수척해진 모습?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

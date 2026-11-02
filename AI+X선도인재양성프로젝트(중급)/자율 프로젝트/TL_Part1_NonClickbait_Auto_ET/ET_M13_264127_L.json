@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264127",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "레드벨벳 ‘Feel My Rhythm’ 우아하다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 레드벨벳(Red Velvet)이 새 미니 앨범 단체 티저 이미지를 공개했다.\n소속사 SM엔터테인먼트는 오늘(17일) 0시 레드벨벳 SNS 계정을 통해 멤버 다섯 명의 모습이 담긴 티저 이미지를 선보였다.\n공개된 티저 이미지에는 봄의 정원을 배경으로 멤버들의 우아한 비주얼이 담겨 있어 시선을 사로잡았다.\n이번 타이틀 곡 ‘Feel My Rhythm’(필 마이 리듬)은 팝 댄스곡으로 바흐의 ‘G선상의 아리아(Air On The G String)’를 샘플링했다.\n특히 섬세하고 우아한 스트링 선율과 강렬한 트랩 비트, 환상적인 보컬 매력의 조화가 돋보이며, 시공간을 넘나들며 자유롭게 즐기는 여행의 생동감이 담겨 있다.\n앨범마다 독특한 콘셉트 소화력을 보여준 레드벨벳이 이번 ‘Feel My Rhythm’을 통해서는 어떤 음악을 선보일지 궁금증이 더해진다.\n한편 레드벨벳 새 미니 앨범 ‘The ReVe Festival 2022 - Feel My Rhythm’은 오는 21일 오후 6시 각종 음악 사이트에서 음원 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 레드벨벳(Red Velvet)이 새 미니 앨범 단체 티저 이미지를 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 SM엔터테인먼트는 오늘(17일) 0시 레드벨벳 SNS 계정을 통해 멤버 다섯 명의 모습이 담긴 티저 이미지를 선보였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 티저 이미지에는 봄의 정원을 배경으로 멤버들의 우아한 비주얼이 담겨 있어 시선을 사로잡았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 타이틀 곡 ‘Feel My Rhythm’(필 마이 리듬)은 팝 댄스곡으로 바흐의 ‘G선상의 아리아(Air On The G String)’를 샘플링했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 섬세하고 우아한 스트링 선율과 강렬한 트랩 비트, 환상적인 보컬 매력의 조화가 돋보이며, 시공간을 넘나들며 자유롭게 즐기는 여행의 생동감이 담겨 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앨범마다 독특한 콘셉트 소화력을 보여준 레드벨벳이 이번 ‘Feel My Rhythm’을 통해서는 어떤 음악을 선보일지 궁금증이 더해진다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 레드벨벳 새 미니 앨범 ‘The ReVe Festival 2022 - Feel My Rhythm’은 오는 21일 오후 6시 각종 음악 사이트에서 음원 공개된다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레드벨벳 ‘Feel My Rhythm’ 우아하다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

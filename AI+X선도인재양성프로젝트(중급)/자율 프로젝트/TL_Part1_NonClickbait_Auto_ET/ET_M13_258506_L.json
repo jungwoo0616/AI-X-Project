@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258506",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "윤형빈 “올해, 격투기 은퇴전 하고파” (대한외국인)",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 윤형빈이 은퇴전을 예고한다.\n오는 19일(수) 방송되는 MBC에브리원 ‘대한외국인’에는 개그와 노래로 끈끈하게 엮인 개그맨 윤형빈, 권재관과 라붐의 솔빈, 해인이 출연해 퀴즈 대결을 펼친다.\n개그맨 윤형빈은 지난 2014년 로드FC에서 종합격투기 선수로 데뷔, 1전 1승 무패로 100%의 승률을 자랑하는 연예계 대표 파이터다.\n이후에도 윤형빈은 종합격투기와 복싱을 수련하며 변함없는 격투기 사랑을 드러내 왔다.\n이날 MC 김용만이 “격투기 선수로 활동하고 있는데, 계속 선수로 활동할 예정이냐” 묻자 윤형빈은 “아시다시피 한 번도 패한 적 없는 무패 파이터다. 나이가 40대 중반에 접어들면서 한 번은 더 해보고 싶은 마음이 있다. 데뷔전을 잘 치른 만큼 올해 은퇴전을 꼭 해보고 싶다”라며 마지막 승부를 예고한다. ‘대한외국인’ 두 번째 출연인 윤형빈은 과거 6단계에서 아쉽게 탈락한 바 있다. 4년 만에 재도전하는 윤형빈은 “첫 번째 출연 때 몰라서 틀렸다기보다 순발력에서 밀렸다. 그동안 복싱을 하면서 순발력이 빨라졌다”라며 우승에 대한 의지를 다진다.\n무패 파이터 윤형빈의 두 번째 퀴즈 도전기는 1월 19일 수요일 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 윤형빈이 은퇴전을 예고한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 19일(수) 방송되는 MBC에브리원 ‘대한외국인’에는 개그와 노래로 끈끈하게 엮인 개그맨 윤형빈, 권재관과 라붐의 솔빈, 해인이 출연해 퀴즈 대결을 펼친다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개그맨 윤형빈은 지난 2014년 로드FC에서 종합격투기 선수로 데뷔, 1전 1승 무패로 100%의 승률을 자랑하는 연예계 대표 파이터다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후에도 윤형빈은 종합격투기와 복싱을 수련하며 변함없는 격투기 사랑을 드러내 왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 MC 김용만이 “격투기 선수로 활동하고 있는데, 계속 선수로 활동할 예정이냐” 묻자 윤형빈은 “아시다시피 한 번도 패한 적 없는 무패 파이터다. 나이가 40대 중반에 접어들면서 한 번은 더 해보고 싶은 마음이 있다. 데뷔전을 잘 치른 만큼 올해 은퇴전을 꼭 해보고 싶다”라며 마지막 승부를 예고한다. ‘대한외국인’ 두 번째 출연인 윤형빈은 과거 6단계에서 아쉽게 탈락한 바 있다. 4년 만에 재도전하는 윤형빈은 “첫 번째 출연 때 몰라서 틀렸다기보다 순발력에서 밀렸다. 그동안 복싱을 하면서 순발력이 빨라졌다”라며 우승에 대한 의지를 다진다.",
+				"sentenceSize": 306
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "무패 파이터 윤형빈의 두 번째 퀴즈 도전기는 1월 19일 수요일 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤형빈 “올해, 격투기 은퇴전 하고파” (대한외국인)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

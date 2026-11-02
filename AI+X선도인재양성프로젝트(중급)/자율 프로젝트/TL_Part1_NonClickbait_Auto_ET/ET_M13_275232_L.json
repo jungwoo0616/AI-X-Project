@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275232",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "모쿄 ‘리햅’ 뮤직비디오 공개",
+		"newsSubTitle": "",
+		"newsContent": "아티스트 모쿄(Mokyo)가 지난달 발표한 싱글 ‘리햅(Rehab)’의 뮤직비디오를 선보였다.\n모쿄는 지난 7일 공식 유튜브 채널을 통해 앞서 발표한 신곡 ‘리햅’의 뮤직비디오를 공개해 팬들의 이목을 끌었다.\n공개된 뮤직비디오는 모쿄만의 감각적인 분위기와 신비로움을 담아냈다.\n해당 영상은 아날로그 비디오테이프를 조합한 듯한 독특한 영상미로 예술적 감흥을 선사했다.\n뮤직비디오에는 모쿄가 직접 출연도 했다.\n또한 최근의 뮤직비디오에서 흔히 쓰이지 않는 4:3 화면비를 사용하는 등 독특한 프레임을 활용해 신선함을 더했다.\n이번 영상은 몽환적이면서도 환상적인 분위기를 담아내며 하나의 예술 필름을 완성했다.\n모쿄의 신곡 ‘리햅’은 1년 6개월 만의 신보이며, 모쿄의 퇴폐적인 매력을 또 다른 방식으로 담아낸 참신함으로 국내외 리스너들의 큰 호평을 받고 있다.\n한편, 모쿄의 신곡 ‘리햅’의 음원과 뮤직비디오는 각종 온라인 음원사이트 등을 통해 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아티스트 모쿄(Mokyo)가 지난달 발표한 싱글 ‘리햅(Rehab)’의 뮤직비디오를 선보였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모쿄는 지난 7일 공식 유튜브 채널을 통해 앞서 발표한 신곡 ‘리햅’의 뮤직비디오를 공개해 팬들의 이목을 끌었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 뮤직비디오는 모쿄만의 감각적인 분위기와 신비로움을 담아냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 영상은 아날로그 비디오테이프를 조합한 듯한 독특한 영상미로 예술적 감흥을 선사했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뮤직비디오에는 모쿄가 직접 출연도 했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 최근의 뮤직비디오에서 흔히 쓰이지 않는 4:3 화면비를 사용하는 등 독특한 프레임을 활용해 신선함을 더했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 영상은 몽환적이면서도 환상적인 분위기를 담아내며 하나의 예술 필름을 완성했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "모쿄의 신곡 ‘리햅’은 1년 6개월 만의 신보이며, 모쿄의 퇴폐적인 매력을 또 다른 방식으로 담아낸 참신함으로 국내외 리스너들의 큰 호평을 받고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 모쿄의 신곡 ‘리햅’의 음원과 뮤직비디오는 각종 온라인 음원사이트 등을 통해 볼 수 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모쿄 ‘리햅’ 뮤직비디오 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

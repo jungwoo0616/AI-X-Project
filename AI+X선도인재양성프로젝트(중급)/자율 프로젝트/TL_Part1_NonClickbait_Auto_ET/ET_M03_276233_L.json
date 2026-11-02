@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276233",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "비 새는 월세집 벗어나 3층 건물 매입한 예은",
+		"newsSubTitle": "",
+		"newsContent": "원더걸스 해체 이후 핫펠트라는 예명으로 활동하고 있는 가수 예은이 새로 구입한 3층 집을 공개했다.\n11일 방송된 '비혼이 행복한 소녀, 비행소녀'에서는 예은의 하우스가 공개됐다.\n예은은 \\\"12년 만에 처음으로 내 집이 생겼다. 물론 반은 은행 거지만. 원래 집은 반전세여서 월세가 계속 나가는 상황이었다\\\"라고 말했다.\n이어 \\\"집을 사야겠다는 계획이 없었는데 엄마가 돈을 모아야 하지 않겠냐고 하셔서 집을 알아봤다. 야외 공간이 중요하고, 음악 작업을 할 수 있는 조건을 만족시켜주는 곳이 있어 이사하게 됐다\\\"고 설명했다.\n예은은 청담동에서의 소중했던 추억들을 떠올리며 \\\"11년 전에 원더걸스로 데뷔를 하게 되면서 청담동에 살기 시작했고 그 뒤로는 숙소를 옮겨 다니면서 지냈는데 이제 원더걸스가 아닌 핫펠트로서의 인생을 시작한다\\\"고 말했다.\n앞서 예은은 지난달 21일 '비행소녀'에 출연해 자신이 살고 있는 청담동 집을 공개했다.\n특히 예은의 집 거실에서는 비가 줄줄 새는 탓에 플라스틱 바가지를 놔두고 있어 눈길을 끌었다.\n이에 대해 예은은 \\\"어떤 친구들은 이런 집에서 어떻게 사냐고 얘기하는데 난 아무 상관없다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "원더걸스 해체 이후 핫펠트라는 예명으로 활동하고 있는 가수 예은이 새로 구입한 3층 집을 공개했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 방송된 '비혼이 행복한 소녀, 비행소녀'에서는 예은의 하우스가 공개됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예은은 \\\"12년 만에 처음으로 내 집이 생겼다. 물론 반은 은행 거지만. 원래 집은 반전세여서 월세가 계속 나가는 상황이었다\\\"라고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"집을 사야겠다는 계획이 없었는데 엄마가 돈을 모아야 하지 않겠냐고 하셔서 집을 알아봤다. 야외 공간이 중요하고, 음악 작업을 할 수 있는 조건을 만족시켜주는 곳이 있어 이사하게 됐다\\\"고 설명했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예은은 청담동에서의 소중했던 추억들을 떠올리며 \\\"11년 전에 원더걸스로 데뷔를 하게 되면서 청담동에 살기 시작했고 그 뒤로는 숙소를 옮겨 다니면서 지냈는데 이제 원더걸스가 아닌 핫펠트로서의 인생을 시작한다\\\"고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 예은은 지난달 21일 '비행소녀'에 출연해 자신이 살고 있는 청담동 집을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 예은의 집 거실에서는 비가 줄줄 새는 탓에 플라스틱 바가지를 놔두고 있어 눈길을 끌었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 대해 예은은 \\\"어떤 친구들은 이런 집에서 어떻게 사냐고 얘기하는데 난 아무 상관없다\\\"라고 말했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비 새는 월세집 벗어나 3층 건물 매입한 예은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

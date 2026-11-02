@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270537",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "송해나-혜린-김민선, 내달 22일 여행 예능 ‘트래블리’ 출격",
+		"newsSubTitle": "",
+		"newsContent": "찐친 송해나X혜린X김민선이 여행을 떠난다.\n오는 6월 22일 채널 IHQ에서 첫 방송되는 새 예능 ‘트래블리’는 여행 좀 다녀본, 제대로 놀아본, 누구보다 트렌디한 찐친 청춘들의 100% 초밀착 러블리 여행기다. 2회에 한 번씩 연예인, 아티스트, 인플루언서 찐친들 중에서 여행 메이트를 구성해 해외여행을 떠나며, SNS를 활용한 핫 셀럽들의 여행기를 초밀착해서 보여줌으로써 감각적이고 트렌디한 여행 콘텐츠의 모든 것을 제공한다.\n이를 위해 제작진 역시 프로그램 단독 인스타그램 계정을 오픈해 MZ세대와 양방향으로 소통할 예정. ‘트래블리’의 첫 번째 여행 메이트는 나이도 직업도 다르지만 서로를 찐친이라고 부르는 모델 송해나, 걸그룹 EXID 출신 혜린, 배우 김민선이 낙점됐다.\n오늘(18일) 싱가포르로 출국한 세 사람은 4박 5일 동안 자유롭게 여행을 즐기며 시청자를 위한 SNS 이벤트 선물까지 직접 준비한다는 전언이다.\n최근 코로나19 방역 규제가 완화되면서 해외여행에 대한 MZ세대의 관심이 폭발하고 있는 만큼, 핫 셀럽들의 초밀착 여행기를 담은 ‘트래블리’가 여행 예능 부활의 신호탄이 될 것으로 기대를 모은다.\n한편 ‘트래블리’는 오는 6월 22일(수) 저녁 8시 채널 IHQ에서 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "찐친 송해나X혜린X김민선이 여행을 떠난다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 6월 22일 채널 IHQ에서 첫 방송되는 새 예능 ‘트래블리’는 여행 좀 다녀본, 제대로 놀아본, 누구보다 트렌디한 찐친 청춘들의 100% 초밀착 러블리 여행기다. 2회에 한 번씩 연예인, 아티스트, 인플루언서 찐친들 중에서 여행 메이트를 구성해 해외여행을 떠나며, SNS를 활용한 핫 셀럽들의 여행기를 초밀착해서 보여줌으로써 감각적이고 트렌디한 여행 콘텐츠의 모든 것을 제공한다.",
+				"sentenceSize": 216
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 위해 제작진 역시 프로그램 단독 인스타그램 계정을 오픈해 MZ세대와 양방향으로 소통할 예정. ‘트래블리’의 첫 번째 여행 메이트는 나이도 직업도 다르지만 서로를 찐친이라고 부르는 모델 송해나, 걸그룹 EXID 출신 혜린, 배우 김민선이 낙점됐다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오늘(18일) 싱가포르로 출국한 세 사람은 4박 5일 동안 자유롭게 여행을 즐기며 시청자를 위한 SNS 이벤트 선물까지 직접 준비한다는 전언이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 코로나19 방역 규제가 완화되면서 해외여행에 대한 MZ세대의 관심이 폭발하고 있는 만큼, 핫 셀럽들의 초밀착 여행기를 담은 ‘트래블리’가 여행 예능 부활의 신호탄이 될 것으로 기대를 모은다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘트래블리’는 오는 6월 22일(수) 저녁 8시 채널 IHQ에서 첫 방송된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송해나-혜린-김민선, 내달 22일 여행 예능 ‘트래블리’ 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

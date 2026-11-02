@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271082",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘더트롯쇼’ 장송호, ‘노래가락 차차차’로 가창력 증명",
+		"newsSubTitle": "",
+		"newsContent": "가수 장송호가 ‘노래가락 차차차’ 무대로 시청자의 취향을 저격했다.\n장송호는 23일 오후 9시 방송된 SBS MTV ‘더트롯쇼’에 출연했다.\n장송호는 ‘노래가락 차차차’로 ‘더트롯쇼’ 무대를 꾸몄고, 호소력 짙은 보이스로 전율의 귀호강 무대를 선사했다.\n장송호는 ‘노래가락 차차차’를 부르며 여유로운 무대 매너를 뽐냈고, 고음까지 안정적으로 소화해내며 어린 나이가 믿기지 않는 실력을 보여줘 시선을 집중시켰다.\n등장부터 압도적인 실력을 보여준 장송호는 마지막까지 카메라를 바라보며 청량한 매력까지 뽐내는 등 ‘트롯 프린스’다운 무대 장악력으로 ‘더트롯쇼’를 화려하게 장식했다. ‘더트롯쇼’에서 화려한 무대를 선보인 장송호는 앞서 MBN ‘보이스킹’, ‘헬로트로트’ 등을 통해 다양한 곡 소화 스펙트럼을 입증, 남다른 스타성으로 대중의 관심을 독차지하고 있다.\n장송호는 앞으로도 다채로운 무대는 물론 여러 활동으로 대중을 찾아갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 장송호가 ‘노래가락 차차차’ 무대로 시청자의 취향을 저격했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장송호는 23일 오후 9시 방송된 SBS MTV ‘더트롯쇼’에 출연했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장송호는 ‘노래가락 차차차’로 ‘더트롯쇼’ 무대를 꾸몄고, 호소력 짙은 보이스로 전율의 귀호강 무대를 선사했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장송호는 ‘노래가락 차차차’를 부르며 여유로운 무대 매너를 뽐냈고, 고음까지 안정적으로 소화해내며 어린 나이가 믿기지 않는 실력을 보여줘 시선을 집중시켰다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "등장부터 압도적인 실력을 보여준 장송호는 마지막까지 카메라를 바라보며 청량한 매력까지 뽐내는 등 ‘트롯 프린스’다운 무대 장악력으로 ‘더트롯쇼’를 화려하게 장식했다. ‘더트롯쇼’에서 화려한 무대를 선보인 장송호는 앞서 MBN ‘보이스킹’, ‘헬로트로트’ 등을 통해 다양한 곡 소화 스펙트럼을 입증, 남다른 스타성으로 대중의 관심을 독차지하고 있다.",
+				"sentenceSize": 194
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장송호는 앞으로도 다채로운 무대는 물론 여러 활동으로 대중을 찾아갈 예정이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더트롯쇼’ 장송호, ‘노래가락 차차차’로 가창력 증명",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260705",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "손담비, ♥이규혁과 커플 운동 ‘혼자 아닌 둘’",
+		"newsSubTitle": "",
+		"newsContent": "가수 손담비가 남자친구 이규혁과 커플 운동하는 일상을 공개했다.\n손담비는 11일 자신의 사회관계망서비스(SNS)를 통해 “오빠랑 커플 필라테스”라는 글과 함께 한 편의 영상을 게재했다.\n공개된 영상에는 손담비와 이규혁이 함께 필라테스를 하는 모습이 담겼다.\n이규혁은 바닥에 누워 손담비를 받쳐주고, 손담비는 자세를 유지한 뒤 일어나 이규혁에게 손뼉을 쳐줬다.\n홀로 필라테스를 해오다 이제는 둘이 돼 예비 신랑 이규혁과 함께 운동하며 달달함을 보였다.\n손담비는 최근 전 스피드 스케이팅 선수·현 스케이트 감독 이규혁과의 열애를 인정 후 결혼을 발표해 화제를 모았다.\n두 사람은 2011년 SBS ‘김연아의 키스앤크라이’에 함께 출연한 바 있다.\n오는 5월 13일 결혼식을 올릴 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 손담비가 남자친구 이규혁과 커플 운동하는 일상을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손담비는 11일 자신의 사회관계망서비스(SNS)를 통해 “오빠랑 커플 필라테스”라는 글과 함께 한 편의 영상을 게재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 손담비와 이규혁이 함께 필라테스를 하는 모습이 담겼다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이규혁은 바닥에 누워 손담비를 받쳐주고, 손담비는 자세를 유지한 뒤 일어나 이규혁에게 손뼉을 쳐줬다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홀로 필라테스를 해오다 이제는 둘이 돼 예비 신랑 이규혁과 함께 운동하며 달달함을 보였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손담비는 최근 전 스피드 스케이팅 선수·현 스케이트 감독 이규혁과의 열애를 인정 후 결혼을 발표해 화제를 모았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람은 2011년 SBS ‘김연아의 키스앤크라이’에 함께 출연한 바 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 5월 13일 결혼식을 올릴 예정이다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손담비, ♥이규혁과 커플 운동 ‘혼자 아닌 둘’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

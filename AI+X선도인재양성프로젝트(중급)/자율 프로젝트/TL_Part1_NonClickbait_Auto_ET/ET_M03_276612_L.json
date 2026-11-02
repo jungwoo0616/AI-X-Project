@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276612",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "5년만에 주말드라마로 복귀하는 박시후",
+		"newsSubTitle": "",
+		"newsContent": "배우 박시후가 KBS 드라마 '황금빛 내인생'으로 5년만에 안방 극장에 복귀한다.\n박시후는 7일 오후 서울 여의도 KBS 별관에서 진행된 주말드라마 '황금빛 내인생' 대본 리딩에 참석했다. '황금빛 내인생'은 금수저로의 신분 상승 기회를 맞이한 한 여인이 도리어 나락으로 떨어지며 그 안에서 행복을 찾는 방법을 깨닫는 드라마다.\nKBS 주말극 흥행기를 이끈 '내 딸 서영이'의 소현경 작가와 '넝쿨째 굴러온 당신'을 연출한 김형석 PD가 의기투합한 작품이다.\n특히 이 드라마는 박시후가 5년만에 지상파 드라마에 복귀하는 작품으로 화제를 모으고 있다.\n박시후는 지난 2013년 20대 연예인 지망생을 성폭행한 혐의로 피소된 바 있다.\n당시 박시후는 불기소 처분을 받았다.\n한편 '황금빛 내인생'에는 이태환과 서은수, 신혜선이 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박시후가 KBS 드라마 '황금빛 내인생'으로 5년만에 안방 극장에 복귀한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박시후는 7일 오후 서울 여의도 KBS 별관에서 진행된 주말드라마 '황금빛 내인생' 대본 리딩에 참석했다. '황금빛 내인생'은 금수저로의 신분 상승 기회를 맞이한 한 여인이 도리어 나락으로 떨어지며 그 안에서 행복을 찾는 방법을 깨닫는 드라마다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KBS 주말극 흥행기를 이끈 '내 딸 서영이'의 소현경 작가와 '넝쿨째 굴러온 당신'을 연출한 김형석 PD가 의기투합한 작품이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이 드라마는 박시후가 5년만에 지상파 드라마에 복귀하는 작품으로 화제를 모으고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박시후는 지난 2013년 20대 연예인 지망생을 성폭행한 혐의로 피소된 바 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 박시후는 불기소 처분을 받았다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 '황금빛 내인생'에는 이태환과 서은수, 신혜선이 출연한다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "5년만에 주말드라마로 복귀하는 박시후",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

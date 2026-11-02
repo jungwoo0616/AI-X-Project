@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260695",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "레드벨벳 예리의 추천곡은?",
+		"newsSubTitle": "",
+		"newsContent": "레드벨벳 예리의 음악 취향은 어떨까.\n예리는 11일 인스타그램 스토리를 통해 악동뮤지션의 최근 앨범인 ‘넥스트 에피소드(Next episode)’의 수록곡 ‘벤치(BENCH)’의 사진을 올렸다.\n함께 올린 나무와 지구, 그리고 하트 이모티콘은 ‘벤치’의 가사를 떠올리게끔 한다. ‘나무와 꽃이 내 친구 중 전부라면 난 더 이상 상처받지 않을 거야’ 라는 가사를 통해 예리 특유의 감성을 느낄 수 있다.\n악동뮤지션이 지난해 7월 발매한 앨범 ‘Next episode’는 이선희, 아이유, 자이언티, 빈지노 등 능력있는 뮤지션들과 합작하여 멜론, 지니, 벅스 등 국내 주요 음원 차트에서 상위권을 차지했다.\n특히 타이틀곡 ‘낙하’는 MBC 예능 프로그램 ‘놀면 뭐하니?’에서 유재석, 신봉선, 이미주가 패러디해 큰 화제를 모았다.\n예리는 1999년 3월 5일 태어나 걸그룹 레드벨벳에 2019년 새 멤버로 합류했다.\n현재까지 활동중이며 지난 1월 개봉한 영화 ‘블루 버스데이’의 주연을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레드벨벳 예리의 음악 취향은 어떨까.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "예리는 11일 인스타그램 스토리를 통해 악동뮤지션의 최근 앨범인 ‘넥스트 에피소드(Next episode)’의 수록곡 ‘벤치(BENCH)’의 사진을 올렸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "함께 올린 나무와 지구, 그리고 하트 이모티콘은 ‘벤치’의 가사를 떠올리게끔 한다. ‘나무와 꽃이 내 친구 중 전부라면 난 더 이상 상처받지 않을 거야’ 라는 가사를 통해 예리 특유의 감성을 느낄 수 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "악동뮤지션이 지난해 7월 발매한 앨범 ‘Next episode’는 이선희, 아이유, 자이언티, 빈지노 등 능력있는 뮤지션들과 합작하여 멜론, 지니, 벅스 등 국내 주요 음원 차트에서 상위권을 차지했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 타이틀곡 ‘낙하’는 MBC 예능 프로그램 ‘놀면 뭐하니?’에서 유재석, 신봉선, 이미주가 패러디해 큰 화제를 모았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예리는 1999년 3월 5일 태어나 걸그룹 레드벨벳에 2019년 새 멤버로 합류했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재까지 활동중이며 지난 1월 개봉한 영화 ‘블루 버스데이’의 주연을 맡았다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레드벨벳 예리의 추천곡은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

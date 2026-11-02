@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276275",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김소혜 부모 운영 카페서 트와이스 춤 추며 '무례한 행동'한 BJ",
+		"newsSubTitle": "",
+		"newsContent": "김소혜의 가족이 운영하는 카페에 찾아가 다른 아이돌 노래를 부르며 무례한 행동과 발언을 일삼는 장면을 생중계한 BJ가 온라인 상에서 뒤늦게 논란이 됐다.\n최근 각종 온라인커뮤니티를 중심으로 'IOI' 출신 김소혜 가족이 운영하는 카페에서 무례한 언행을 일삼는 장면을 생중계한 BJ가 도마에 올랐다.\n해당 BJ는 지난 4월 문제의 방송을 내보냈다.\n해당 BJ는 카페를 찾아 트와이스의 노래에 맞춰 춤을 추기 시작했다.\n방송이 최근 뒤늦게 온라인에 퍼지면서 BJ의 행동도 논란에 휩싸였다.\n지난 4월 방송에 나온 현장에 있었다고 주장한 한 네티즌은 \\\"나는 저 뒤에 있는 무리 중 한명인데, 저분이 갑자기 뜬금없이 오자마자 직원에게 트와이스 노래를 틀어달라고 하며 춤을 췄다\\\"고 밝혔다.\n이어 \\\"'아이오아이 'XX'했다' '트와이스보다 못생김' 이런 말들을 했다\\\"고 증언했다.\n카페에서 나갈 때도 '트와이스 만세'라고 외쳤다고도 전했다.\n사건이 알려지자 네티즌들은 \\\"자리에 김소혜 팬들이 많았다는 데 정말 기분 나빴겠다\\\" \\\"아무 상관 없는 카페에서 해도 문제 될 행동인데 소혜 부모님 카페라니 충격이다\\\" 등 비판의 목소리를 높였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김소혜의 가족이 운영하는 카페에 찾아가 다른 아이돌 노래를 부르며 무례한 행동과 발언을 일삼는 장면을 생중계한 BJ가 온라인 상에서 뒤늦게 논란이 됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 각종 온라인커뮤니티를 중심으로 'IOI' 출신 김소혜 가족이 운영하는 카페에서 무례한 언행을 일삼는 장면을 생중계한 BJ가 도마에 올랐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 BJ는 지난 4월 문제의 방송을 내보냈다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 BJ는 카페를 찾아 트와이스의 노래에 맞춰 춤을 추기 시작했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방송이 최근 뒤늦게 온라인에 퍼지면서 BJ의 행동도 논란에 휩싸였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 4월 방송에 나온 현장에 있었다고 주장한 한 네티즌은 \\\"나는 저 뒤에 있는 무리 중 한명인데, 저분이 갑자기 뜬금없이 오자마자 직원에게 트와이스 노래를 틀어달라고 하며 춤을 췄다\\\"고 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 \\\"'아이오아이 'XX'했다' '트와이스보다 못생김' 이런 말들을 했다\\\"고 증언했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카페에서 나갈 때도 '트와이스 만세'라고 외쳤다고도 전했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사건이 알려지자 네티즌들은 \\\"자리에 김소혜 팬들이 많았다는 데 정말 기분 나빴겠다\\\" \\\"아무 상관 없는 카페에서 해도 문제 될 행동인데 소혜 부모님 카페라니 충격이다\\\" 등 비판의 목소리를 높였다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김소혜 부모 운영 카페서 트와이스 춤 추며 '무례한 행동'한 BJ",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

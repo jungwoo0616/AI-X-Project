@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273386",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "40대 여배우 아내 살해시도 남편, 결국 구속",
+		"newsSubTitle": "",
+		"newsContent": "40대 여배우 아내를 살해하려 한 남편 A씨가 구속됐다.\n서울서부지법 박원규 영장전담 부장판사는 16일 살인미수 혐의를 받는 A씨에 대해 “증거인멸 및 도주 우려가 있다”며 구속영장을 발부했다.\nA씨는 이날 법원에 휠체어를 탄 채 출석했고, 결국 구속된 채 수사를 받을 예정이다.\nA씨는 지난 14일 아내 B씨와 딸이 등교를 위해 밖으로 나가는 틈을 노려 자택 로비 앞에서 흉기로 B씨를 여러 차례 찔러 살해하려 했다.\nB씨는 목에 상처를 입고 병원으로 옮겨졌으나 생명에는 지장이 없는 상태로 알려졌다.\nA씨는 범행 후 자해를 시도했고 주민들의 신고를 받고 출동한 경찰은 그를 현행범으로 체포했다.\nA씨는 범행 전날 B씨의 집을 여러 차례 찾아 난동을 부린 것으로도 전해졌다.\nB씨는 A씨를 두고 “가정폭력을 당했다”며 신고했고 경찰은 A씨에 대해 접근금지 명령을 내렸으나 그는 이를 어겼다.\nB씨가 슈퍼모델 출신 배우라는 점에서 세간의 관심을 받기도 했다.\n여러 예능 프로그램에 출연해왔던 B씨는 전 남편과의 결혼생활을 방송에 공개해왔다.\nB씨는 이혼했고 A씨와 재혼한 것으로 전해졌다.\n여러 연예인들이 해당 사건의 당사자로 지목되자 해명 입장을 내놓는 등 관련 파장도 이어지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "40대 여배우 아내를 살해하려 한 남편 A씨가 구속됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울서부지법 박원규 영장전담 부장판사는 16일 살인미수 혐의를 받는 A씨에 대해 “증거인멸 및 도주 우려가 있다”며 구속영장을 발부했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 이날 법원에 휠체어를 탄 채 출석했고, 결국 구속된 채 수사를 받을 예정이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A씨는 지난 14일 아내 B씨와 딸이 등교를 위해 밖으로 나가는 틈을 노려 자택 로비 앞에서 흉기로 B씨를 여러 차례 찔러 살해하려 했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "B씨는 목에 상처를 입고 병원으로 옮겨졌으나 생명에는 지장이 없는 상태로 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "A씨는 범행 후 자해를 시도했고 주민들의 신고를 받고 출동한 경찰은 그를 현행범으로 체포했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "A씨는 범행 전날 B씨의 집을 여러 차례 찾아 난동을 부린 것으로도 전해졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "B씨는 A씨를 두고 “가정폭력을 당했다”며 신고했고 경찰은 A씨에 대해 접근금지 명령을 내렸으나 그는 이를 어겼다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "B씨가 슈퍼모델 출신 배우라는 점에서 세간의 관심을 받기도 했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "여러 예능 프로그램에 출연해왔던 B씨는 전 남편과의 결혼생활을 방송에 공개해왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "B씨는 이혼했고 A씨와 재혼한 것으로 전해졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "여러 연예인들이 해당 사건의 당사자로 지목되자 해명 입장을 내놓는 등 관련 파장도 이어지고 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "40대 여배우 아내 살해시도 남편, 결국 구속",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

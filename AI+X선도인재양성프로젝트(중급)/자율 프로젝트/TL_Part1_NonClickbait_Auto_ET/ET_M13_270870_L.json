@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270870",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한영 ‘♥박군’과 알콩달콩 일상",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 한영이 박군과 함께하는 일상을 공개했다.\n한영은 지난 20일 자신의 사회관계망서비스(SNS)를 통해 사진 세 장과 함께 짧은 글을 공개했다.\n한영은 “며칠 전 새벽에 만들어 놓고, 아침에 먹으라고 하더라고요. 고생했다고 만들어주는 거래요. 근데 왜 피드 안 올리냐 그래서 올렸어요. 저도 이 정도 만들면 자랑하고 싶을 것 같아요. 칭찬 좀 해주고 가세요”라고 글을 올렸다.\n사진에는 박군이 요리한 아침상 모습이 담겼다.\n박군은 MBN 요리 프로그램 ‘알토란’에서 배운 것을 바탕으로 옥수수와 토마토를 활용해 수준급 솜씨를 펼쳤다.\n서로를 위하는 마음으로 일상을 보내는 광경이 훈훈함을 자아낸다.\n한편 한영과 박군은 지난 3월 7일 결혼 소식을 직접 알린 뒤 지난달 26일 서울 모처에서 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 한영이 박군과 함께하는 일상을 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한영은 지난 20일 자신의 사회관계망서비스(SNS)를 통해 사진 세 장과 함께 짧은 글을 공개했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한영은 “며칠 전 새벽에 만들어 놓고, 아침에 먹으라고 하더라고요. 고생했다고 만들어주는 거래요. 근데 왜 피드 안 올리냐 그래서 올렸어요. 저도 이 정도 만들면 자랑하고 싶을 것 같아요. 칭찬 좀 해주고 가세요”라고 글을 올렸다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진에는 박군이 요리한 아침상 모습이 담겼다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박군은 MBN 요리 프로그램 ‘알토란’에서 배운 것을 바탕으로 옥수수와 토마토를 활용해 수준급 솜씨를 펼쳤다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서로를 위하는 마음으로 일상을 보내는 광경이 훈훈함을 자아낸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 한영과 박군은 지난 3월 7일 결혼 소식을 직접 알린 뒤 지난달 26일 서울 모처에서 결혼식을 올렸다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한영 ‘♥박군’과 알콩달콩 일상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

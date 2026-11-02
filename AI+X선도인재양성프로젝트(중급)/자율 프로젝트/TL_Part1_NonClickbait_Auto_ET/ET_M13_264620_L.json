@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264620",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "우크라이나 출신 할리우드 배우 밀라 쿠니스, 모국 돕기 425억 모금",
+		"newsSubTitle": "",
+		"newsContent": "우크라이나 태생 미국 배우 밀라 쿠니스와 그의 남편 애슈턴 커처가 러시아군 침공을 당한 우크라이나 국민을 돕기 위해 425억원 기부금을 모금했다.\n21일(현지시간) 영화 전문 매체 데드라인 등에 따르면 쿠니스, 커처 커플은 우크라이나에 대한 인도적 지원과 난민용 임시 거처 마련을 위한 캠페인을 벌였고 약 3500만 달러(425억원)를 모금했다.\n쿠니스 부부는 300만달러(36억원) 기부금을 먼저 냈고, 실리콘밸리 억만장자이자 오라클 창업주인 래리 엘리슨을 비롯해 6만5000여 명이 이번 모금에 동참했다.\n기부금은 우크라이나 국민에게 구호물자를 보내는 물류 스타트업 플렉스포트, 난민에게 무료 임시 주택을 제공하는 숙박 공유업체 에어비앤비에 전달된다.\n쿠니스는 1983년 우크라이나에서 태어났고, 8살에 미국으로 이주했다.\n그는 온라인 모금 사이트 고펀드미에 개설한 홈페이지를 통해 “우크라이나 국민은 어려운 시기에 우리의 도움을 받을 자격이 있는 자랑스럽고 용감한 사람들”이라고 밝혔다.\n볼로디미르 젤렌스키 우크라이나 대통령은 트위터를 통해 “우리의 슬픔에 가장 먼저 응답한 사람 중 하나”라며 쿠니스 부부에게 감사 인사를 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우크라이나 태생 미국 배우 밀라 쿠니스와 그의 남편 애슈턴 커처가 러시아군 침공을 당한 우크라이나 국민을 돕기 위해 425억원 기부금을 모금했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일(현지시간) 영화 전문 매체 데드라인 등에 따르면 쿠니스, 커처 커플은 우크라이나에 대한 인도적 지원과 난민용 임시 거처 마련을 위한 캠페인을 벌였고 약 3500만 달러(425억원)를 모금했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쿠니스 부부는 300만달러(36억원) 기부금을 먼저 냈고, 실리콘밸리 억만장자이자 오라클 창업주인 래리 엘리슨을 비롯해 6만5000여 명이 이번 모금에 동참했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기부금은 우크라이나 국민에게 구호물자를 보내는 물류 스타트업 플렉스포트, 난민에게 무료 임시 주택을 제공하는 숙박 공유업체 에어비앤비에 전달된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "쿠니스는 1983년 우크라이나에서 태어났고, 8살에 미국으로 이주했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 온라인 모금 사이트 고펀드미에 개설한 홈페이지를 통해 “우크라이나 국민은 어려운 시기에 우리의 도움을 받을 자격이 있는 자랑스럽고 용감한 사람들”이라고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "볼로디미르 젤렌스키 우크라이나 대통령은 트위터를 통해 “우리의 슬픔에 가장 먼저 응답한 사람 중 하나”라며 쿠니스 부부에게 감사 인사를 전했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우크라이나 출신 할리우드 배우 밀라 쿠니스, 모국 돕기 425억 모금",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

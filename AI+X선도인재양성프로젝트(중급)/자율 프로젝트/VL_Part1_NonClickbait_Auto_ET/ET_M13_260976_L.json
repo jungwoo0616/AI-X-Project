@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260976",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "'가상 인간' 로지, SNS셀럽에서 22일 가수 데뷔",
+		"newsSubTitle": "",
+		"newsContent": "버추얼(가상) 모델 로지(Rozy)가 가요계에 데뷔한다.\n로지는 15일 공식 사회관계망서비스(SNS) 채널을 통해 “이달 22일 첫 싱글 ‘후 엠 아이’(WHO AM I)를 발표한다”고 밝히며 관련 이미지와 영상을 공개했다.\n로지의 가수 데뷔는 뮤직바인이 기획·제작을 맡았고 볼빨간사춘기의 앨범을 프로듀싱한 정재원이 참여했다.\n로지 측은 “첫 싱글 발매일인 22일은 로지에게 특별한 의미가 있다”며 “‘영원히 늙지 않는 22살’이라는 차별화된 포인트를 갖는 만큼 상징적인 의미를 담아 데뷔 일자를 정했다”고 설명했다.\n로지는 싸이더스 스튜디오 엑스가 MZ세대가 선호하는 얼굴형을 모아 탄생시킨 가상 인간이다.\n2020년부터 활동을 시작한 로지는 가상 인간 최초로 신한라이프 TV 광고에 등장해 주목받았다.\nSNS를 통해 요리를하고 전시회, 경기장에 방문하는 등 트렌디한 일상과 패션 등을 공유해왔으며, 인스타그램 팔로워가 11만명 이상에 달하는 ‘버추얼 인플루언서’로 자리매김했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "버추얼(가상) 모델 로지(Rozy)가 가요계에 데뷔한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로지는 15일 공식 사회관계망서비스(SNS) 채널을 통해 “이달 22일 첫 싱글 ‘후 엠 아이’(WHO AM I)를 발표한다”고 밝히며 관련 이미지와 영상을 공개했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로지의 가수 데뷔는 뮤직바인이 기획·제작을 맡았고 볼빨간사춘기의 앨범을 프로듀싱한 정재원이 참여했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "로지 측은 “첫 싱글 발매일인 22일은 로지에게 특별한 의미가 있다”며 “‘영원히 늙지 않는 22살’이라는 차별화된 포인트를 갖는 만큼 상징적인 의미를 담아 데뷔 일자를 정했다”고 설명했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로지는 싸이더스 스튜디오 엑스가 MZ세대가 선호하는 얼굴형을 모아 탄생시킨 가상 인간이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2020년부터 활동을 시작한 로지는 가상 인간 최초로 신한라이프 TV 광고에 등장해 주목받았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SNS를 통해 요리를하고 전시회, 경기장에 방문하는 등 트렌디한 일상과 패션 등을 공유해왔으며, 인스타그램 팔로워가 11만명 이상에 달하는 ‘버추얼 인플루언서’로 자리매김했다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가상 인간' 로지, SNS셀럽에서 22일 가수 데뷔",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

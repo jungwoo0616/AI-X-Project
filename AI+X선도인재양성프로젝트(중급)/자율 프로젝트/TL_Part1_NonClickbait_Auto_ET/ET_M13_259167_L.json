@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259167",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "'2022 펩시 파트너' 아이유, 우아+시크美 한가득",
+		"newsSubTitle": "",
+		"newsContent": "대세 아티스트 아이유(IU)가 화려함의 정점을 찍었다.\n펩시는 지난 24일 오후 8시 ‘2022 펩시 파트너’로 선정된 아이유의 파티 콘셉트 펩시 제로 슈거 포토를 공개했다.\n공개된 포토 속 아이유는 화려한 미러볼과 풍선에 둘러싸인 채 펩시 제로 슈거를 들고 포즈를 취하고 있다.\n특히 아이유는 시크한 블랙 원피스를 입고 우아한 아우라를 자랑하고 있다.\n화려한 배경보다 더 눈부신 비주얼로 대체불가 존재감을 자랑하며 글로벌 팬들의 뜨거운 뜨거운 반응을 불러일으켰다.\n또 아이유 특유의 사랑스러운 눈웃음과 긍정 에너지를 선사하는 싱그러운 미소가 보는 것만으로도 기분 좋은 매력을 선사했다.\n펩시는 ‘2022 펩시 프로젝트’에 새롭게 합류한 아이유와 함께 맛있는 펩시 제로 슈거와 일상에서 느낄 수 있는 짜릿함과 상쾌함을 담은 풍성하고 다채로운 콘텐츠를 순차적으로 공개해 대중들로부터 폭발적인 반응을 이끌어내는 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대세 아티스트 아이유(IU)가 화려함의 정점을 찍었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "펩시는 지난 24일 오후 8시 ‘2022 펩시 파트너’로 선정된 아이유의 파티 콘셉트 펩시 제로 슈거 포토를 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 포토 속 아이유는 화려한 미러볼과 풍선에 둘러싸인 채 펩시 제로 슈거를 들고 포즈를 취하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 아이유는 시크한 블랙 원피스를 입고 우아한 아우라를 자랑하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "화려한 배경보다 더 눈부신 비주얼로 대체불가 존재감을 자랑하며 글로벌 팬들의 뜨거운 뜨거운 반응을 불러일으켰다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 아이유 특유의 사랑스러운 눈웃음과 긍정 에너지를 선사하는 싱그러운 미소가 보는 것만으로도 기분 좋은 매력을 선사했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "펩시는 ‘2022 펩시 프로젝트’에 새롭게 합류한 아이유와 함께 맛있는 펩시 제로 슈거와 일상에서 느낄 수 있는 짜릿함과 상쾌함을 담은 풍성하고 다채로운 콘텐츠를 순차적으로 공개해 대중들로부터 폭발적인 반응을 이끌어내는 중이다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'2022 펩시 파트너' 아이유, 우아+시크美 한가득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

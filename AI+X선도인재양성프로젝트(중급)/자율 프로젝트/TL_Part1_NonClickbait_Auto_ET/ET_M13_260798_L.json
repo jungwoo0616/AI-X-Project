@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260798",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 씨엔블루 정용화 코로나 확진, 가요계 비상",
+		"newsSubTitle": "",
+		"newsContent": "씨엔블루 멤버 정용화가 코로나19 확진 판정을 받았다.\n씨엔블루 소속사 FNC 엔터테인먼트는 12일 “정용화가 코로나19 PCR(유전자증폭)검사 결과 양성 판정을 받았다”고 밝혔다.\n이어 “정용호는 현재 가벼운 목감기 증상만 있고, 완치 판정을 받을 때까지 방역당국의 지침에 따라 자가격리 및 필요 조치를 받으며 충분한 휴식과 함께 치료에 전념할 것”이라고 했다.\n가요계에는 잇따른 아티스트의 코로나19 확진 사례가 이어지고 있다.\n같은 날 크래비티 멤버 7명이 확진 판정을 받아 예정된 복귀 일정을 취소했다.\n■이하 정용화 코로나19 확진 입장문 전문 안녕하세요 FNC 엔터테인먼트입니다.\nCNBLUE 정용화가 코로나 19 PCR 검사 결과 양성 판정을 받았습니다.\n정용화는 현재 가벼운 목감기 증상만 있으며, 완치 판정을 받을 때까지 방역 당국의 지침에 따라 자가격리 및 필요 조치를 받으며 충분한 휴식과 함께 치료에 전념할 것입니다.\n심려 끼쳐 드린 점 양해 부탁드리며, 당사는 아티스트의 빠른 쾌유를 위해 방역 당국의 지침과 요청에 성실히 이행하며 최선의 노력을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "씨엔블루 멤버 정용화가 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "씨엔블루 소속사 FNC 엔터테인먼트는 12일 “정용화가 코로나19 PCR(유전자증폭)검사 결과 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “정용호는 현재 가벼운 목감기 증상만 있고, 완치 판정을 받을 때까지 방역당국의 지침에 따라 자가격리 및 필요 조치를 받으며 충분한 휴식과 함께 치료에 전념할 것”이라고 했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가요계에는 잇따른 아티스트의 코로나19 확진 사례가 이어지고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 날 크래비티 멤버 7명이 확진 판정을 받아 예정된 복귀 일정을 취소했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "■이하 정용화 코로나19 확진 입장문 전문 안녕하세요 FNC 엔터테인먼트입니다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CNBLUE 정용화가 코로나 19 PCR 검사 결과 양성 판정을 받았습니다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정용화는 현재 가벼운 목감기 증상만 있으며, 완치 판정을 받을 때까지 방역 당국의 지침에 따라 자가격리 및 필요 조치를 받으며 충분한 휴식과 함께 치료에 전념할 것입니다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "심려 끼쳐 드린 점 양해 부탁드리며, 당사는 아티스트의 빠른 쾌유를 위해 방역 당국의 지침과 요청에 성실히 이행하며 최선의 노력을 다하겠습니다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 씨엔블루 정용화 코로나 확진, 가요계 비상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

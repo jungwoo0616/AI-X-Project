@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171693",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "수지, 꽃보다 ‘SUZY’ 여전한 국민 첫사랑",
+    "newsSubTitle": "",
+    "newsContent": "배우 겸 가수 수지가 꽃보다 예쁜 미모를 자랑했다.\n25일 오후 수지는 자신의 사회 관계망 서비스(SNS)에 “랑콤이랑”이라는 글과 사진 여러 장을 게재했다.\n공개된 사진 속 수지는 꽃다발을 들고 화사한 미모를 자랑하고 있다.\n활짝 핀 장미꽃보다 더 아름다운 비주얼을 자랑하는 수지는 ‘국민 첫사랑’의 풋풋함과 우아함이 가미된 수지만의 매력이 느껴진다.\n수지의 환한 미소는 팬들의 마음을 설레게 한다.\n한편 수지는 쿠팡플레이의 새로운 시리즈 ‘안나’를 차기작으로 선택했다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 사는 여자의 이야기다.\n영화 ‘싱글라이더’를 통해 연출력과 작품성을 인정받은 이주영 감독이 연출과 각본을 맡았다.\n또한 수지는 지난 17일 각종 음원사이트를 통해 4년 만에 새 싱글 ‘새틀라이트(Satellite)’의 음원을 공개했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 겸 가수 수지가 꽃보다 예쁜 미모를 자랑했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 오후 수지는 자신의 사회 관계망 서비스(SNS)에 “랑콤이랑”이라는 글과 사진 여러 장을 게재했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 수지는 꽃다발을 들고 화사한 미모를 자랑하고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "활짝 핀 장미꽃보다 더 아름다운 비주얼을 자랑하는 수지는 ‘국민 첫사랑’의 풋풋함과 우아함이 가미된 수지만의 매력이 느껴진다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수지의 환한 미소는 팬들의 마음을 설레게 한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 수지는 쿠팡플레이의 새로운 시리즈 ‘안나’를 차기작으로 선택했다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 사는 여자의 이야기다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영화 ‘싱글라이더’를 통해 연출력과 작품성을 인정받은 이주영 감독이 연출과 각본을 맡았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 수지는 지난 17일 각종 음원사이트를 통해 4년 만에 새 싱글 ‘새틀라이트(Satellite)’의 음원을 공개했다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수지, 우아한 매력 발산하며 '이 브랜드' 홍보에 나서",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

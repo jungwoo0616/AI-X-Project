@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277874",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'달의 연인' 14일 추석 특집 방송…정주행 준비해",
+		"newsSubTitle": "",
+		"newsContent": "추석 연휴를 맞아 '달의 연인-보보경심려' 모아보기가 방송될 예정이다.\n12일 SBS측은 \\\"월화드라마 '달의 연인-보보경심려'와 수목드라마 '질투의 화신'이 추석 연휴 기간에도 정상방송된다\\\"면서, \\\"14일 오후 2시 20분에는 '달의 연인-보보경심려' 모아보기 방송된다\\\"고 밝혔다.\n이어 \\\"주말 드라마 '끝에서 두번째 사랑'은 결방되며, 영화 '암살'과 '뷰티인사이드'가 대체 편성된다\\\"고 전했다.\n또한 \\\"아침 연속극 '사랑이 오네요'는 정상 방송되지만, 일일드라마 '당신은 선물'은 14~16일 결방된다\\\"고 밝혔다.\n한편 SBS는 추석특집 예능프로그램으로 '내일은 시구왕'과 '부르는스타', '씬스틸러' 등을 방송한다.\n온라인 중앙일보 [사진 달의연인 제공]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "추석 연휴를 맞아 '달의 연인-보보경심려' 모아보기가 방송될 예정이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 SBS측은 \\\"월화드라마 '달의 연인-보보경심려'와 수목드라마 '질투의 화신'이 추석 연휴 기간에도 정상방송된다\\\"면서, \\\"14일 오후 2시 20분에는 '달의 연인-보보경심려' 모아보기 방송된다\\\"고 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"주말 드라마 '끝에서 두번째 사랑'은 결방되며, 영화 '암살'과 '뷰티인사이드'가 대체 편성된다\\\"고 전했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 \\\"아침 연속극 '사랑이 오네요'는 정상 방송되지만, 일일드라마 '당신은 선물'은 14~16일 결방된다\\\"고 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 SBS는 추석특집 예능프로그램으로 '내일은 시구왕'과 '부르는스타', '씬스틸러' 등을 방송한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 달의연인 제공]",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'달의 연인' 14일 추석 특집 방송…정주행 준비해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

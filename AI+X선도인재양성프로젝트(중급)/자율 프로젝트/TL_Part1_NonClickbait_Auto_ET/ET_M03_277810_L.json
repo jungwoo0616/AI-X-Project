@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277810",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "탑 오늘(25일) 의무경찰 시험 응시…빅뱅 군입대 신호탄?",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅 탑이 의무경찰 선발 시험에 응시한 것으로 알려졌다.\n탑은 25일 오전 9시 서울 기동본부 본관 2층 상무관에서 진행되는 제348차 의무경찰 선발시험에 지원했다.\n탑은 서울청 특기병으로 지원했다.\n이같은 사실은 의무경찰 홈페이지에서도 확인 가능하다.\n현재 의무경찰 홈페이지에 공개된 선발 시험 응시자 명단에는 1987년생 최승현(탑 본명)을 확인할 수 있다.\n탑은 내년 군입대를 목표로 준비하고 있으며, 빅뱅의 다른 멤버들도 군입대가 멀지 않은 상황이다.\n2006년 데뷔 이후 10년간 쉼없이 달려온 빅뱅. 2017년부터는 '나라를 지키는' 빅뱅의 모습을 볼 수 있을 듯하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅 탑이 의무경찰 선발 시험에 응시한 것으로 알려졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "탑은 25일 오전 9시 서울 기동본부 본관 2층 상무관에서 진행되는 제348차 의무경찰 선발시험에 지원했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "탑은 서울청 특기병으로 지원했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이같은 사실은 의무경찰 홈페이지에서도 확인 가능하다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 의무경찰 홈페이지에 공개된 선발 시험 응시자 명단에는 1987년생 최승현(탑 본명)을 확인할 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "탑은 내년 군입대를 목표로 준비하고 있으며, 빅뱅의 다른 멤버들도 군입대가 멀지 않은 상황이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2006년 데뷔 이후 10년간 쉼없이 달려온 빅뱅. 2017년부터는 '나라를 지키는' 빅뱅의 모습을 볼 수 있을 듯하다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "탑 오늘(25일) 의무경찰 시험 응시…빅뱅 군입대 신호탄?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

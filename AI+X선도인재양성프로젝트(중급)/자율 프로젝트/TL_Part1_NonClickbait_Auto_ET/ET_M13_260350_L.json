@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260350",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "前 AOA 신지민, 주먹 불끈 쥐고…밝은 근황",
+		"newsSubTitle": "",
+		"newsContent": "전 AOA 멤버 신지민이 연예계 은퇴 선언 후 조금씩 근황을 공개하고 있다.\n신지민은 8일 자신의 사회관계망서비스(SNS)에 헬스장에서 찍은 사진을 게재했다.\n검은 모자와 검은 마스크로 얼굴을 가리고 두 주먹을 불끈 쥐고 있다.\n지난 5일에는 SNS에 차 안에서 춤을 추는 영상을 올렸다.\n한편 신지민은 2012년 7월 그룹 AOA의 리더로 데뷔했다.\n이후 2019년 5월 탈퇴한 멤버 권민아가 활동하는 동안 타 멤버들로부터 10여 년간 괴롭힘을 당했다고 폭로해 논란이 일었다.\n그 중 팀 리더였던 신지민에 관한 논란이 불거지면서 2020년 7월 결국 팀을 탈퇴 후 연예계에서 은퇴했다.\n당시 신지민은 “다 제가 팀을 이끌기에 부족하고 잘못했다. 후회와 죄책감이 들고 같이 지내는 동안 내가 민아에 대해 잘 이해하지 못했었고 세심하게 살피지 못했다는 생각이 들었다”고 사과하고 연예계를 은퇴했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 AOA 멤버 신지민이 연예계 은퇴 선언 후 조금씩 근황을 공개하고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신지민은 8일 자신의 사회관계망서비스(SNS)에 헬스장에서 찍은 사진을 게재했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "검은 모자와 검은 마스크로 얼굴을 가리고 두 주먹을 불끈 쥐고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 5일에는 SNS에 차 안에서 춤을 추는 영상을 올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 신지민은 2012년 7월 그룹 AOA의 리더로 데뷔했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 2019년 5월 탈퇴한 멤버 권민아가 활동하는 동안 타 멤버들로부터 10여 년간 괴롭힘을 당했다고 폭로해 논란이 일었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 중 팀 리더였던 신지민에 관한 논란이 불거지면서 2020년 7월 결국 팀을 탈퇴 후 연예계에서 은퇴했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 신지민은 “다 제가 팀을 이끌기에 부족하고 잘못했다. 후회와 죄책감이 들고 같이 지내는 동안 내가 민아에 대해 잘 이해하지 못했었고 세심하게 살피지 못했다는 생각이 들었다”고 사과하고 연예계를 은퇴했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "前 AOA 신지민, 주먹 불끈 쥐고…밝은 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278058",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "젤리피쉬, 새 걸그룹 '구구단' 사진 공개…\\\"9가지 매력,9명의 소녀들\\\"",
+		"newsSubTitle": "",
+		"newsContent": "젤리피쉬 엔터테인먼트(이하 젤리피쉬)의 첫번째 걸그룹 그룹명과 단체 사진이 공개됐다.\n젤리피쉬는 17일 공식 소셜 채널을 통해 1호 걸그룹 9명 전원이 함께한 완전체 사진과 그룹명 ‘구구단’을 공개했다.\n구구단은 각자 9가지 매력을 지닌 9명의 소녀들이 희망과 꿈을 담은 노래와 퍼포먼스를 펼친다는 각오를 담은 그룹명. 발랄하고 청량한 매력으로 대중에게 친근하게 다가갈 계획이다.\n이와 함께 공개된 단체 이미지는 그동안 차례로 소개되었던 ‘비주얼 라인’ 하나, 나영, 미미와 ‘보컬 라인’ 소이, 세정, 해빈에 이어 ‘막내 라인’ 샐리, 미나, 혜연까지 구구단 멤버 전원이 모인 완전체의 모습으로 보는 이들의 시선을 단숨에 사로잡았다.\n한편 구구단은 6월말 데뷔한다.\n온라인 중앙일보 [사진 젤리피쉬 엔터테인먼트]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "젤리피쉬 엔터테인먼트(이하 젤리피쉬)의 첫번째 걸그룹 그룹명과 단체 사진이 공개됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "젤리피쉬는 17일 공식 소셜 채널을 통해 1호 걸그룹 9명 전원이 함께한 완전체 사진과 그룹명 ‘구구단’을 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "구구단은 각자 9가지 매력을 지닌 9명의 소녀들이 희망과 꿈을 담은 노래와 퍼포먼스를 펼친다는 각오를 담은 그룹명. 발랄하고 청량한 매력으로 대중에게 친근하게 다가갈 계획이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 공개된 단체 이미지는 그동안 차례로 소개되었던 ‘비주얼 라인’ 하나, 나영, 미미와 ‘보컬 라인’ 소이, 세정, 해빈에 이어 ‘막내 라인’ 샐리, 미나, 혜연까지 구구단 멤버 전원이 모인 완전체의 모습으로 보는 이들의 시선을 단숨에 사로잡았다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 구구단은 6월말 데뷔한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 젤리피쉬 엔터테인먼트]",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "젤리피쉬, 새 걸그룹 '구구단' 사진 공개…\\\"9가지 매력,9명의 소녀들\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

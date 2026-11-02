@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276942",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "설현, 4등신 굴욕사진 ‘화제’",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 AOA 설현 광고 사진이 화제다.\n과거 자신이 모델로 활동한 통신사의 광고 패널과 비교해 ‘무보정 ’몸매를 인증했지만 이번에는 굴욕적이다.\n최근 한 온라인 커뮤니티에는 ‘천안 어느 휴대폰 매장 설현 사진’이라는 제목과 함께 한장의 사진이 게재됐다.\n게시자는 “천안 어느 매장 전면 유리에 붙어있는 설현 사진입니다. 매장 유리문이 짧아 (사장님께서) 자체 편집하셨답니다. 수도권에선 설현 사진을 많이 훔쳐갔다는데 이건 안 훔쳐 갈 것 같네요”라며 “설현 키가 130이 되어버렸네요”라고 적어 폭소케 했다.\n실제로는 8등신 비율을 자랑하는 설현이 4등신으로 줄어든 전신사진이다.\n이는 휴대전화 매장문 높이가 낮아 설현의 비율을 자체 편집한 사진인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 AOA 설현 광고 사진이 화제다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 자신이 모델로 활동한 통신사의 광고 패널과 비교해 ‘무보정 ’몸매를 인증했지만 이번에는 굴욕적이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 한 온라인 커뮤니티에는 ‘천안 어느 휴대폰 매장 설현 사진’이라는 제목과 함께 한장의 사진이 게재됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "게시자는 “천안 어느 매장 전면 유리에 붙어있는 설현 사진입니다. 매장 유리문이 짧아 (사장님께서) 자체 편집하셨답니다. 수도권에선 설현 사진을 많이 훔쳐갔다는데 이건 안 훔쳐 갈 것 같네요”라며 “설현 키가 130이 되어버렸네요”라고 적어 폭소케 했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제로는 8등신 비율을 자랑하는 설현이 4등신으로 줄어든 전신사진이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 휴대전화 매장문 높이가 낮아 설현의 비율을 자체 편집한 사진인 것으로 알려졌다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "설현, 4등신 굴욕사진 ‘화제’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

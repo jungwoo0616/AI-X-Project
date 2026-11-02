@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171463",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "플루마, 신곡 ‘Freaky’ MV 티저 공개",
+    "newsSubTitle": "",
+    "newsContent": "‘힙합계 슈퍼 루키’ 플루마(PLUMA)가 신곡 뮤직비디오 티저를 공개했다.\n소속사 하이라인엔터테인먼트는 지난 20일 오후 8시 공식 유튜브 채널에 플루마의 신곡 ‘프리키’의 뮤직비디오 티저를 게재했다.\n공개된 영상에는 유쾌한 분위기 속 파티를 즐기는 플루마의 모습이 담겨 있다.\n특히 영상 마지막 부분 공개된 중독성 넘치는 비트와 멜로디는 단번에 귀를 사로잡았다.\n이번 영상에서는 피처링 주인공이 칠린호미(Chillin Homie)로 밝혀져 음악 팬들의 기대감이 최고조에 달했다. ‘쇼미더머니’에서 감각적인 랩 실력을 인정받은 칠린호미는 플루마와 환상적인 시너지 효과를 낼 것으로 기대된다.\n플루마는 지난 2019년 Mnet 음악 경연 프로그램 ‘고등래퍼3’에 출연해 대중에게 눈도장을 찍었다.\n지난해 8월 발매한 첫 번째 미니 앨범 ‘브이’(V)에서 자신만의 음악 색깔을 드러낸 플루마는 이번 신보를 통해 더욱 성장한 음악적 역량을 보여줄 예정이다.\n한편 플루마의 신곡 ‘프리키’는 오는 22일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘힙합계 슈퍼 루키’ 플루마(PLUMA)가 신곡 뮤직비디오 티저를 공개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 하이라인엔터테인먼트는 지난 20일 오후 8시 공식 유튜브 채널에 플루마의 신곡 ‘프리키’의 뮤직비디오 티저를 게재했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상에는 유쾌한 분위기 속 파티를 즐기는 플루마의 모습이 담겨 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 영상 마지막 부분 공개된 중독성 넘치는 비트와 멜로디는 단번에 귀를 사로잡았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 영상에서는 피처링 주인공이 칠린호미(Chillin Homie)로 밝혀져 음악 팬들의 기대감이 최고조에 달했다. ‘쇼미더머니’에서 감각적인 랩 실력을 인정받은 칠린호미는 플루마와 환상적인 시너지 효과를 낼 것으로 기대된다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "플루마는 지난 2019년 Mnet 음악 경연 프로그램 ‘고등래퍼3’에 출연해 대중에게 눈도장을 찍었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 8월 발매한 첫 번째 미니 앨범 ‘브이’(V)에서 자신만의 음악 색깔을 드러낸 플루마는 이번 신보를 통해 더욱 성장한 음악적 역량을 보여줄 예정이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 플루마의 신곡 ‘프리키’는 오는 22일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'힙할계 슈퍼 루키' 플루마, 이것 공개해 화제몰이 성공하나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271816",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송은이 “입술은 안 건드리는 게 좋겠지?”",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 송은이가 신기한 비주얼을 공개했다.\n송은이는 30일 자신의 SNS를 통해 영상을 올렸다.\n영상 속에는 휴대폰 어플리케이션을 이용해 입술에 보정 효과를 준 송은이 모습이 담겼다.\n도톰하면서 윤기가 나는 입술로 변신한 송은이 모습에 주변 사람들은 웃음을 터트렸다.\n송은이는 이에 “입술은 안 건드리는 게 좋겠지?”라며 고개를 끄덕였다.\n송은이는 최근 MBC 예능프로그램 ‘놀면 뭐하니?’ WSG워너비 프로젝트에 출연해 탄탄한 노래실력을 보여줬다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 송은이가 신기한 비주얼을 공개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송은이는 30일 자신의 SNS를 통해 영상을 올렸다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에는 휴대폰 어플리케이션을 이용해 입술에 보정 효과를 준 송은이 모습이 담겼다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도톰하면서 윤기가 나는 입술로 변신한 송은이 모습에 주변 사람들은 웃음을 터트렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송은이는 이에 “입술은 안 건드리는 게 좋겠지?”라며 고개를 끄덕였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송은이는 최근 MBC 예능프로그램 ‘놀면 뭐하니?’ WSG워너비 프로젝트에 출연해 탄탄한 노래실력을 보여줬다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송은이 “입술은 안 건드리는 게 좋겠지?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

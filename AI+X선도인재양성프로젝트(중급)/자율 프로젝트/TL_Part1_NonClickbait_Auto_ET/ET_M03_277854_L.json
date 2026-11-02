@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277854",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "CCTV만 보고 뺑소니범 잡아낸 11살 자동차 영재",
+		"newsSubTitle": "",
+		"newsContent": "'영재 발굴단' 에 출연했던 자동차 영재 김건의 눈부신 활약이 시청자들을 놀라게 했다.\n14일 밤 방송된 SBS '영재 발굴단'에는 김건 군이 다시 등장했다.\n방송 출연 후 김건은 실제 뺑소니 차량 검거에 결정적인 역할을 하는 등 자신만의 특별한 능력을 자랑했다.\n김건 군은 자동차 광고까지 찍었다고 덧붙였다.\n이날도 김건 군은 제작진이 내는 문제마다 족족 맞춰 냈다.\n김건 군은 매일 새로운 자동차를 공부한다고 한다.\n실제로 지난 3월 방송에서 김건 군은 안산 단원 경찰서 뺑소니 조사계를 찾아 흐릿한 영상 속 자동차 불빛만으로 차종을 맞춰 화제가 된 바 있다.\n다른 경찰서에서도 김건의 도움을 받은 것으로 알려져 시청자들의 주목을 받고 있다.\n한 경찰서에서는 학교로 김건 군에게 표창을 보내기도 했다.\n김건 군은 \\\"심심해서 한 일인데 사람들이 관심을 가져주니까 더 좋다. 대한민국 뺑소니가 모두 사라졌으면 좋겠다\\\"고 소감을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'영재 발굴단' 에 출연했던 자동차 영재 김건의 눈부신 활약이 시청자들을 놀라게 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 밤 방송된 SBS '영재 발굴단'에는 김건 군이 다시 등장했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송 출연 후 김건은 실제 뺑소니 차량 검거에 결정적인 역할을 하는 등 자신만의 특별한 능력을 자랑했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김건 군은 자동차 광고까지 찍었다고 덧붙였다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날도 김건 군은 제작진이 내는 문제마다 족족 맞춰 냈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김건 군은 매일 새로운 자동차를 공부한다고 한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제로 지난 3월 방송에서 김건 군은 안산 단원 경찰서 뺑소니 조사계를 찾아 흐릿한 영상 속 자동차 불빛만으로 차종을 맞춰 화제가 된 바 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다른 경찰서에서도 김건의 도움을 받은 것으로 알려져 시청자들의 주목을 받고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한 경찰서에서는 학교로 김건 군에게 표창을 보내기도 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김건 군은 \\\"심심해서 한 일인데 사람들이 관심을 가져주니까 더 좋다. 대한민국 뺑소니가 모두 사라졌으면 좋겠다\\\"고 소감을 밝혔다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CCTV만 보고 뺑소니범 잡아낸 11살 자동차 영재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

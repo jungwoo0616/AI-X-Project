@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283647",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "그녀는 예뻤다 신혜선, 마지막회 결말 질문에 \\\"일부러 안 봤다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'그녀는 예뻤다 신혜선' '그녀는 예뻤다 마지막회 박유환 신혜선' '그녀는 예뻤다' 신혜선-박유환이 마지막 회 엔딩을 모른다고 밝혔다.\n11일 방송된 MBC FM4U '정오의 희망곡, 김신영입니다'에는 '그녀는 예뻤다'에 출연한 배우 박유환과 신혜선이 게스트로 출연해 유쾌한 입담을 뽐냈다.\n이날 DJ 김신영은 \\\"두 분은 엔딩을 알고 있나?\\\"라는 질문을 던졌다.\n이에 박유환은 \\\"대본이 나왔다. 그런데 일부러 안 봤다\\\"라고 답했다.\n이어 신혜선은 \\\"스포일러 할까봐. 일부러 안 봤다\\\"라고 답하자, 김신영은 \\\"본인들보다 엄마들이 더 위험하다\\\"라고 말해 폭소를 유발했다.\n한편, '그녀는 예뻤다' 마지막 회는 11일 밤 10시에 방송된다. [그녀는 예뻤다 신혜선 사진=MBC FM4U '정오의 희망곡, 김신영입니다' 보이는 라디오 캡처] '그녀는 예뻤다 신혜선' '그녀는 예뻤다 마지막회 박유환 신혜선' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'그녀는 예뻤다 신혜선' '그녀는 예뻤다 마지막회 박유환 신혜선' '그녀는 예뻤다' 신혜선-박유환이 마지막 회 엔딩을 모른다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 방송된 MBC FM4U '정오의 희망곡, 김신영입니다'에는 '그녀는 예뻤다'에 출연한 배우 박유환과 신혜선이 게스트로 출연해 유쾌한 입담을 뽐냈다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 DJ 김신영은 \\\"두 분은 엔딩을 알고 있나?\\\"라는 질문을 던졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 박유환은 \\\"대본이 나왔다. 그런데 일부러 안 봤다\\\"라고 답했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 신혜선은 \\\"스포일러 할까봐. 일부러 안 봤다\\\"라고 답하자, 김신영은 \\\"본인들보다 엄마들이 더 위험하다\\\"라고 말해 폭소를 유발했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, '그녀는 예뻤다' 마지막 회는 11일 밤 10시에 방송된다. [그녀는 예뻤다 신혜선 사진=MBC FM4U '정오의 희망곡, 김신영입니다' 보이는 라디오 캡처] '그녀는 예뻤다 신혜선' '그녀는 예뻤다 마지막회 박유환 신혜선' 온라인 중앙일보",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그녀는 예뻤다 신혜선, 마지막회 결말 질문에 \\\"일부러 안 봤다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

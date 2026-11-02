@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172079",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“창렬스럽다” 고충 때문에?…김창렬, '김창열'로 활동명 변경",
+    "newsSubTitle": "",
+    "newsContent": "가격에 비해 양이 적고 볼품없다는 뜻에서 쓰이는 신조어인 ‘창렬스럽다’로 마음고생 했던 가수 김창렬이 ‘김창열’로 활동명을 바꿨다.\n김창렬이 속한 그룹 DJ DOC는 최근 7년 만에 발라드 듀엣곡 ‘사랑을 담아서’를 발표했다.\n이와 함께 앞으로 김창렬의 활동명을 본인 정자인 ‘김창열’로 쓰겠다고 밝혔다.\n김창렬은 앞서 “창렬스럽다”는 인터넷 신조어로 수년간 곤욕을 치렀다.\n2009년 편의점에 납품하는 A사의 제품 광고모델 계약을 맺고 본인 얼굴과 이름을 내건 ‘김창렬의 포장마차’ 제품을 선보인 게 화근이었다.\n해당 제품은 소비자들 사이에서 가격 대비 적은 양에 문제가 제기됐고, 이후 “창렬스럽다”는 말까지 만들어진 것이다.\n이에 김창렬은 2015년 A사에 1억여원을 청구하는 명예훼손 소송을 냈지만, 1심에 이어 항소심에서도 패소했다.\n현재 김창렬의 소셜미디어 계정은 ‘김창열’로 이름이 바뀐 상태다.\n포털사이트 프로필이나 그가 진행하는 라디오 프로그램인 ‘김창렬의 올드스쿨’ 프로그램명은 아직 바뀌지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가격에 비해 양이 적고 볼품없다는 뜻에서 쓰이는 신조어인 ‘창렬스럽다’로 마음고생 했던 가수 김창렬이 ‘김창열’로 활동명을 바꿨다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김창렬이 속한 그룹 DJ DOC는 최근 7년 만에 발라드 듀엣곡 ‘사랑을 담아서’를 발표했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 앞으로 김창렬의 활동명을 본인 정자인 ‘김창열’로 쓰겠다고 밝혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김창렬은 앞서 “창렬스럽다”는 인터넷 신조어로 수년간 곤욕을 치렀다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2009년 편의점에 납품하는 A사의 제품 광고모델 계약을 맺고 본인 얼굴과 이름을 내건 ‘김창렬의 포장마차’ 제품을 선보인 게 화근이었다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 제품은 소비자들 사이에서 가격 대비 적은 양에 문제가 제기됐고, 이후 “창렬스럽다”는 말까지 만들어진 것이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 김창렬은 2015년 A사에 1억여원을 청구하는 명예훼손 소송을 냈지만, 1심에 이어 항소심에서도 패소했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 김창렬의 소셜미디어 계정은 ‘김창열’로 이름이 바뀐 상태다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "포털사이트 프로필이나 그가 진행하는 라디오 프로그램인 ‘김창렬의 올드스쿨’ 프로그램명은 아직 바뀌지 않았다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인터넷 신조어 '이것' 때문에 김창렬 곤욕",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

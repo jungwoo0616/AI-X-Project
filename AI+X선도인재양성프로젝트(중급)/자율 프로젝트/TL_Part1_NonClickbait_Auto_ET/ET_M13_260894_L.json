@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260894",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한효주 ‘해적’ 비하인드 컷 공개…한지민 “더 보여주세요”",
+		"newsSubTitle": "",
+		"newsContent": "한효주가 영화 ‘해적’의 비하인드 컷을 공개했다.\n한효주는 14일 오전 10시 50분 경 자신의 사회관계망서비스(SNS)를 통해 “해적 사진첩을 열어보자”며 영화 촬영 비하인드 컷을 공개했다.\n한효주는 해적 분장을 한 채 무심한 표정으로 카메라를 보는 사진을 올렸다.\n동료 배우들과의 다정한 모습을 보여주기도 했다.\n이에 배우 한지민은 “더 열어달라”며 그녀에 대한 애정과 영화에 대한 관심을 보였다.\n영화 ‘해적 : 도깨비 깃발’은 지난 1월 26일 개봉했으며 현재 상영중이다.\n개봉 12일 만에 올해 개봉된 영화 중 처음으로 누적 관객 수 100만명을 넘겼다.\n한효주는 배우 권상우, 강하늘, 이광수와 함께 주연을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한효주가 영화 ‘해적’의 비하인드 컷을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한효주는 14일 오전 10시 50분 경 자신의 사회관계망서비스(SNS)를 통해 “해적 사진첩을 열어보자”며 영화 촬영 비하인드 컷을 공개했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한효주는 해적 분장을 한 채 무심한 표정으로 카메라를 보는 사진을 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "동료 배우들과의 다정한 모습을 보여주기도 했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 배우 한지민은 “더 열어달라”며 그녀에 대한 애정과 영화에 대한 관심을 보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 ‘해적 : 도깨비 깃발’은 지난 1월 26일 개봉했으며 현재 상영중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "개봉 12일 만에 올해 개봉된 영화 중 처음으로 누적 관객 수 100만명을 넘겼다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한효주는 배우 권상우, 강하늘, 이광수와 함께 주연을 맡았다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한효주 ‘해적’ 비하인드 컷 공개…한지민 “더 보여주세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

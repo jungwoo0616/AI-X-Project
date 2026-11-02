@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276858",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예,공연",
+		"newsTitle": "싸이 신곡 뮤직비디오 공개 반나절 만에 조회수 100만 돌파",
+		"newsSubTitle": "",
+		"newsContent": "가수 싸이의 신곡 '아이 러브 잇(I LUV IT)' 뮤직비디오가 10일 공개된 가운데 유튜브 조회수가 공개한 지 약 6시간 만에 96만을 넘어서면서 관심을 모으고 있다.\n11일 오전 1시40분 현재는 180만을 돌파했다.\n1년 6개월 만에 8집으로 컴백한 싸이는 이날 오후 6시에 새 앨범의 타이틀곡인 '아이 러브 잇'을 공개했다.\n뮤직비디오에는 한류스타 이병헌을 비롯해 '펜 파인애플 애플 펜(PPAP)'이란 노래로 전 세계를 강타한 일본의 개그맨 겸 DJ 고사카 다이마오(古坂大魔王·43)도 출연해 재미를 더했다.\n한편 싸이는 이날 서울 여의도 콘래드 호텔에서 기자회견을 갖고 더블 타이틀곡인 '아이 러브 잇'과 '뉴 페이스(New Face)'를 비롯하 앨범 수록곡 10곡 모두가 '내수용'이라고 밝혔다.\n이날 함께 공개된 '뉴 페이스' 뮤직비디오 역시 11일 오전 1시40분 기준 조회수 160만을 넘어서며 인기몰이 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 싸이의 신곡 '아이 러브 잇(I LUV IT)' 뮤직비디오가 10일 공개된 가운데 유튜브 조회수가 공개한 지 약 6시간 만에 96만을 넘어서면서 관심을 모으고 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 오전 1시40분 현재는 180만을 돌파했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1년 6개월 만에 8집으로 컴백한 싸이는 이날 오후 6시에 새 앨범의 타이틀곡인 '아이 러브 잇'을 공개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뮤직비디오에는 한류스타 이병헌을 비롯해 '펜 파인애플 애플 펜(PPAP)'이란 노래로 전 세계를 강타한 일본의 개그맨 겸 DJ 고사카 다이마오(古坂大魔王·43)도 출연해 재미를 더했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 싸이는 이날 서울 여의도 콘래드 호텔에서 기자회견을 갖고 더블 타이틀곡인 '아이 러브 잇'과 '뉴 페이스(New Face)'를 비롯하 앨범 수록곡 10곡 모두가 '내수용'이라고 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 함께 공개된 '뉴 페이스' 뮤직비디오 역시 11일 오전 1시40분 기준 조회수 160만을 넘어서며 인기몰이 중이다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싸이 신곡 뮤직비디오 공개 반나절 만에 조회수 100만 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

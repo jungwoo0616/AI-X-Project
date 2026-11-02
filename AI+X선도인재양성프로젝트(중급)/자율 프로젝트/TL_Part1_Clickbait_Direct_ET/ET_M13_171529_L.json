@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171529",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "카이, 30일 미니 2집으로 컴백",
+    "newsSubTitle": "",
+    "newsContent": "카이가 두 번째 미니 앨범으로 돌아온다.\n소속사 SM엔터테인먼트는 11일 사회적관계망서비스(SNS)를 통해 카이의 미니 2집 ‘Peaches’(피치스) 발매 소식을 알렸다.\n함께 공개된 사진 속 카이는 빛바랜 분홍빛을 배경으로 눈을 감은 채 시선은 아래로 향하고 있다.\n앞서 카이는 지난해 11월 30일 첫 번째 미니 앨범 ‘KAI’를 발매하며 성공적인 솔로 데뷔를 마쳤다.\n타이틀곡 ‘음’(Mmmh) 뮤직비디오는 유튜브 1억 조회수를 넘겼으며 앨범 초동 판매량은 25만 장을 돌파하며 전 세계적 호응을 얻은 바 있다.\n첫 번째 미니 앨범으로 자신만의 색깔과 퍼포먼스를 선보였던 카이가 이번 앨범에서는 어떤 음악으로 돌아올지 이목이 쏠린다.\n한편 카이의 미니 2집 ‘Peaches’는 오는 30일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "카이가 두 번째 미니 앨범으로 돌아온다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 SM엔터테인먼트는 11일 사회적관계망서비스(SNS)를 통해 카이의 미니 2집 ‘Peaches’(피치스) 발매 소식을 알렸다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "함께 공개된 사진 속 카이는 빛바랜 분홍빛을 배경으로 눈을 감은 채 시선은 아래로 향하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 카이는 지난해 11월 30일 첫 번째 미니 앨범 ‘KAI’를 발매하며 성공적인 솔로 데뷔를 마쳤다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡 ‘음’(Mmmh) 뮤직비디오는 유튜브 1억 조회수를 넘겼으며 앨범 초동 판매량은 25만 장을 돌파하며 전 세계적 호응을 얻은 바 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "첫 번째 미니 앨범으로 자신만의 색깔과 퍼포먼스를 선보였던 카이가 이번 앨범에서는 어떤 음악으로 돌아올지 이목이 쏠린다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 카이의 미니 2집 ‘Peaches’는 오는 30일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "두 번째 미니 앨범으로 돌아오는 이 가수, 빛바랜 배경에 시선 떨궈... 심오한 사진 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

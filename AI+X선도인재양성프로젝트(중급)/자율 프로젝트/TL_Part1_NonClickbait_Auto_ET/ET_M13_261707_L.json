@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261707",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "모델 한혜진 “새해 목표는 턱걸이…”",
+		"newsSubTitle": "",
+		"newsContent": "모델 한혜진이 새해 목표를 공개했다.\n한혜진은 지난 18일 자신의 사회관계망서비스(SNS) 인스타그램에 턱걸이를 하는 영상을 올렸다.\n그는 “모델이 등이 넓어지면 드레스가 안 맞고, 종아리가 굵어지면 다리가 짧아보이며, 팔이 두꺼워지면 살쪘냐는 오해를 받는다”라고 말했다.\n그는 “이러한 이유로 그간 등, 다리, 팔등의 운동을 피했다. 그러다 어느 순간 내 몸이 턱걸이 하나 해내지 못 하는 몸인 걸 알게 됐다”고 말했다.\n그는 “그래서 턱걸이 한 개만 하는 것이 올해의 목표가 되었다. 시작한 지 한 달 밖에 되지 않았지만 스스로의 힘으로 턱걸이를 해내고 싶다”는 포부를 밝혔다.\n해당 게시물에 배우 이시언은 “얼마나 강해지려고.. 달심(한혜진의 별명)..”이라는 댓글을 달았다.\n한혜진은 이에 “싸우자”고 답하며 웃음을 자아냈다.\n누리꾼들은 “멋지다. 나도 턱걸이 하나 하는게 목표다” “존경스럽다” “자극 받고 간다”며 그의 새해 결심에 호응했다.\n앞서 한혜진은 모델 데뷔 20주년 기념 세미 누드 화보를 공개해 많은 화제를 모았다.\n지난 20일 SBS 예능 프로그램 ‘미운 우리 새끼’에 스페셜 MC로 출연해 모델 활동 중 가장 어려운 점에 대해 “일할 때 분신처럼 입는 티팬티가 적응이 안 된다.”고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 한혜진이 새해 목표를 공개했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한혜진은 지난 18일 자신의 사회관계망서비스(SNS) 인스타그램에 턱걸이를 하는 영상을 올렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “모델이 등이 넓어지면 드레스가 안 맞고, 종아리가 굵어지면 다리가 짧아보이며, 팔이 두꺼워지면 살쪘냐는 오해를 받는다”라고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “이러한 이유로 그간 등, 다리, 팔등의 운동을 피했다. 그러다 어느 순간 내 몸이 턱걸이 하나 해내지 못 하는 몸인 걸 알게 됐다”고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “그래서 턱걸이 한 개만 하는 것이 올해의 목표가 되었다. 시작한 지 한 달 밖에 되지 않았지만 스스로의 힘으로 턱걸이를 해내고 싶다”는 포부를 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 게시물에 배우 이시언은 “얼마나 강해지려고.. 달심(한혜진의 별명)..”이라는 댓글을 달았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한혜진은 이에 “싸우자”고 답하며 웃음을 자아냈다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "누리꾼들은 “멋지다. 나도 턱걸이 하나 하는게 목표다” “존경스럽다” “자극 받고 간다”며 그의 새해 결심에 호응했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 한혜진은 모델 데뷔 20주년 기념 세미 누드 화보를 공개해 많은 화제를 모았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난 20일 SBS 예능 프로그램 ‘미운 우리 새끼’에 스페셜 MC로 출연해 모델 활동 중 가장 어려운 점에 대해 “일할 때 분신처럼 입는 티팬티가 적응이 안 된다.”고 밝힌 바 있다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모델 한혜진 “새해 목표는 턱걸이…”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

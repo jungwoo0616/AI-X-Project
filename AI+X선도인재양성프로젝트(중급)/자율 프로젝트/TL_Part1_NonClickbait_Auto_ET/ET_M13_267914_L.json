@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267914",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "효민 ‘그와 결혼할바엔 죽을래요’ 문장 해명…“신중하겠다”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 티아라 멤버 효민이 왜곡된 기사 생산 자제를 부탁했다.\n효민은 23일 자신의 사회관계망서비스(SNS)에 “이 문장은 교재 속 내용일 뿐 누구의 이야기도 아닙니다! 왜곡된 기사 자제해 주시기를 정중히 부탁드립니다. 저도 더 신중할게요. 모두 좋은 하루 되세요!”라는 글과 함께 사진을 게재했다.\n공개된 사진은 영어 교재로 ‘그와 결혼할 바에는 차라리 죽을래요’라는 예문이 적혀있다.\n앞서 효민은 영어 공부 사진을 올리며 ‘그와 결혼할 바에는 차라리 죽을래요’라는 영어 문장을 올려 논란이 됐다.\n해당 문장이 최근 결별한 인물을 겨냥한 것이 아니냐는 추측이 있었다.\n이에 효민은 영어 교재 예문을 직접 찍어 올려 해명하고 본인도 신중한 자세를 보일 테니 왜곡한 기사 생산을 자제해줄 것을 부탁했다.\n한편 효민은 최근 호주 한 달 살기에 도전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 티아라 멤버 효민이 왜곡된 기사 생산 자제를 부탁했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "효민은 23일 자신의 사회관계망서비스(SNS)에 “이 문장은 교재 속 내용일 뿐 누구의 이야기도 아닙니다! 왜곡된 기사 자제해 주시기를 정중히 부탁드립니다. 저도 더 신중할게요. 모두 좋은 하루 되세요!”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 영어 교재로 ‘그와 결혼할 바에는 차라리 죽을래요’라는 예문이 적혀있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 효민은 영어 공부 사진을 올리며 ‘그와 결혼할 바에는 차라리 죽을래요’라는 영어 문장을 올려 논란이 됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 문장이 최근 결별한 인물을 겨냥한 것이 아니냐는 추측이 있었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 효민은 영어 교재 예문을 직접 찍어 올려 해명하고 본인도 신중한 자세를 보일 테니 왜곡한 기사 생산을 자제해줄 것을 부탁했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 효민은 최근 호주 한 달 살기에 도전했다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "효민 ‘그와 결혼할바엔 죽을래요’ 문장 해명…“신중하겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277087",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "연예인들이 항상 웃을 수 있는 비결",
+		"newsSubTitle": "",
+		"newsContent": "브라운관 속 연예인들이 온종일 미소 지을 수 있는 이유가 공개됐다.\n최근 온라인 커뮤니티에 '연예인들이 항상 웃을 수 있는 이유'를 소개한 게시물이 올라왔다.\n글쓴이는 연예인들의 유쾌한 사진을 소개했다.\n이는 과거 방송된 KBS2 '연예가중계' 장면을 캡처한 것으로 하하, 노홍철, 정준하의 모습이 보였다.\n당시 리포터 김생민은 \\\"어떻게 하루종일 웃을 수 있나?\\\"라고 물었다.\n가뜩 미소 지은 하하는 \\\"돈 주니까요\\\"라며 신나게 대답했다.\n이에 질세라 노홍철은 \\\"많이 주니까\\\"라며 양 엄지를 치켜세워 보였다.\n환하게 웃는 이들의 얼굴에서 행복감이 묻어났다.\n한편 게시물을 본 네티즌은 \\\"ㅋㅋㅋㅋㅋ\\\" \\\"많이 주니까\\\" \\\"저 같아도 하루종일 싱글벙글^^\\\" \\\"유쾌하다\\\" 등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "브라운관 속 연예인들이 온종일 미소 지을 수 있는 이유가 공개됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 '연예인들이 항상 웃을 수 있는 이유'를 소개한 게시물이 올라왔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 연예인들의 유쾌한 사진을 소개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 과거 방송된 KBS2 '연예가중계' 장면을 캡처한 것으로 하하, 노홍철, 정준하의 모습이 보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 리포터 김생민은 \\\"어떻게 하루종일 웃을 수 있나?\\\"라고 물었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가뜩 미소 지은 하하는 \\\"돈 주니까요\\\"라며 신나게 대답했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 질세라 노홍철은 \\\"많이 주니까\\\"라며 양 엄지를 치켜세워 보였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "환하게 웃는 이들의 얼굴에서 행복감이 묻어났다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 게시물을 본 네티즌은 \\\"ㅋㅋㅋㅋㅋ\\\" \\\"많이 주니까\\\" \\\"저 같아도 하루종일 싱글벙글^^\\\" \\\"유쾌하다\\\" 등 반응을 보였다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연예인들이 항상 웃을 수 있는 비결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

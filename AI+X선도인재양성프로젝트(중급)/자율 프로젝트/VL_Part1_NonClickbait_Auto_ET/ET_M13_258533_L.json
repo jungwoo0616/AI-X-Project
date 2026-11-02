@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258533",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘내과 박원장’ 이서진 “민머리 설정에 대본 잘못 온 줄“",
+		"newsSubTitle": "",
+		"newsContent": "18일 오후 티빙 오리지널 ‘내과 박원장’ 제작 발표회가 온라인 생중계로 열렸다.\n이날 행사에 참여한 배우 이서진은 화제가 된 드라마 속 민머리 분장에 대한 소감을 직접 밝혔다.\n이서진은 “사실 전 웹툰을 몰랐다. 웹툰을 보니 민머리여서 이걸 왜 나한테 보냈나, 잘못 온게 아닌가 생각했다”면서 “도대체 무슨 생각으로 대본을 보냈는지 만나서 얘기해보고 싶었다”고 말했다.\n그는 민머리 분장에 대해 “생각보다 분장이 오래 걸리고 쓰는 것만 한 시간 반 정도 걸린다. ‘자본주의가 이렇게 무섭다’는 댓글이 와 닿는다”고 말해 웃음을 자아냈다.\n이서진은 “원래 정통 코미디를 좋아한다. 코미디를 항상 하고 싶다고 생각했다”고 합류 계기를 밝히며“웃다가 NG를 이렇게 많이 낸 건 처음이다.\n감동 필요 없이 웃음만 생각해서‘내과 박원장을 택했다.\n박원장 가족과 직원 등 모두 제 정신이 아니다.\n앞으로 공개될 얘기를 보면 알 수 있을 것”이라고 말해 기대를 모았다.‘내과 박원장’은 매주 금요일 오후 4시 티빙에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "18일 오후 티빙 오리지널 ‘내과 박원장’ 제작 발표회가 온라인 생중계로 열렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 행사에 참여한 배우 이서진은 화제가 된 드라마 속 민머리 분장에 대한 소감을 직접 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이서진은 “사실 전 웹툰을 몰랐다. 웹툰을 보니 민머리여서 이걸 왜 나한테 보냈나, 잘못 온게 아닌가 생각했다”면서 “도대체 무슨 생각으로 대본을 보냈는지 만나서 얘기해보고 싶었다”고 말했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 민머리 분장에 대해 “생각보다 분장이 오래 걸리고 쓰는 것만 한 시간 반 정도 걸린다. ‘자본주의가 이렇게 무섭다’는 댓글이 와 닿는다”고 말해 웃음을 자아냈다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이서진은 “원래 정통 코미디를 좋아한다. 코미디를 항상 하고 싶다고 생각했다”고 합류 계기를 밝히며“웃다가 NG를 이렇게 많이 낸 건 처음이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "감동 필요 없이 웃음만 생각해서‘내과 박원장을 택했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박원장 가족과 직원 등 모두 제 정신이 아니다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞으로 공개될 얘기를 보면 알 수 있을 것”이라고 말해 기대를 모았다.‘내과 박원장’은 매주 금요일 오후 4시 티빙에서 공개된다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘내과 박원장’ 이서진 “민머리 설정에 대본 잘못 온 줄“",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

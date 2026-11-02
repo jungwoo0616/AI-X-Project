@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266267",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "배우 정주연, 네버다이엔터테인먼트 전속계약[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 정주연이 네버다이엔터테인먼트에서 새 둥지를 틀었다.\n7일 네버다이엔터테인먼트는 “배우 정주연과 전속계약을 체결했다”고 밝혔다.\n정주연은 2009년 에픽하이의 ‘따라해’를 통해 데뷔 이후 드라마 ‘오로라 공주’, ‘폭풍의 연인’, ‘태양의 도시’ 등에 출연하며 신선한 마스크와 탄탄한 연기력을 바탕으로 신예의 등장이라는 호칭을 얻었다.\n2015년에 출연한 영화 ‘스물’에서는 신인 배우 ‘은혜’ 역으로 열연을 펼치며 ‘오로라 공주’에서 ‘박지영’ 역으로 보여 주었던 배우의 연기와는 다른 매력의 스무 살의 청춘들만 가지고 있는 풋풋한 연기를 선보이며 많은 호평을 받은 바 있다.\n네버다이엔터 측은 “도회적이고 세련된 마스크와 탄탄한 연기력을 가진 배우 정주연의 앞으로의 행보에 많은 관심 부탁드린다. 그녀가 다양한 분야에서 역량을 발휘할 수 있도록 아낌없는 지원을 할 것”이라고 전하며 정주연의 앞으로 행보에 대한 기대도 높였다.\n정주연이 둥지를 튼 네버다이엔터테인먼트에는 이기우, 한채아, 신소율, 배우희, 김사권, 김산호 등이 소속되어 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정주연이 네버다이엔터테인먼트에서 새 둥지를 틀었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 네버다이엔터테인먼트는 “배우 정주연과 전속계약을 체결했다”고 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정주연은 2009년 에픽하이의 ‘따라해’를 통해 데뷔 이후 드라마 ‘오로라 공주’, ‘폭풍의 연인’, ‘태양의 도시’ 등에 출연하며 신선한 마스크와 탄탄한 연기력을 바탕으로 신예의 등장이라는 호칭을 얻었다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2015년에 출연한 영화 ‘스물’에서는 신인 배우 ‘은혜’ 역으로 열연을 펼치며 ‘오로라 공주’에서 ‘박지영’ 역으로 보여 주었던 배우의 연기와는 다른 매력의 스무 살의 청춘들만 가지고 있는 풋풋한 연기를 선보이며 많은 호평을 받은 바 있다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네버다이엔터 측은 “도회적이고 세련된 마스크와 탄탄한 연기력을 가진 배우 정주연의 앞으로의 행보에 많은 관심 부탁드린다. 그녀가 다양한 분야에서 역량을 발휘할 수 있도록 아낌없는 지원을 할 것”이라고 전하며 정주연의 앞으로 행보에 대한 기대도 높였다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정주연이 둥지를 튼 네버다이엔터테인먼트에는 이기우, 한채아, 신소율, 배우희, 김사권, 김산호 등이 소속되어 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 정주연, 네버다이엔터테인먼트 전속계약[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

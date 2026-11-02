@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277807",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "위안부 피해 할머니 후원 제품 사용하는 ‘아이오아이‘ 최유정",
+		"newsSubTitle": "",
+		"newsContent": "위안부 할머니 후원 팔찌를 찬 인기 걸그룹 아이오아이 최유정의 사진이 화제다.\n최근 여러 온라인 커뮤니티에는 꽃무늬가 새겨진 가방과 팔찌를 한 최유정의 사진이 올라왔고 온라인상으로 빠르게 퍼져나갔다.\n최유정이 옆으로 맨 꽃무늬 가방은 마리몬드 제품이다.\n마리몬드는 위안부 할머니를 후원하는 브랜드로 알려졌다.\n뿐만 아니라 지적장애인 작가의 작품을 담아 그들을 응원하는 ‘같이 걸을까’ 팔찌를 착용하기도 했다.\n앞서 최유정은 평소 ‘희망나비팔찌’를 착용한 모습이 포착되기도 했다. ‘희망나비팔찌’ 역시 수익금이 나눔의 집에 기부돼 위안부 피해 할머니들을 후원한다.\n걸그룹 아이오아이는 지난 17일 두 번째 미니 앨범‘miss me?'로 완전체 컴백을 한 뒤 타이틀곡’너무너무너무‘로 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "위안부 할머니 후원 팔찌를 찬 인기 걸그룹 아이오아이 최유정의 사진이 화제다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 여러 온라인 커뮤니티에는 꽃무늬가 새겨진 가방과 팔찌를 한 최유정의 사진이 올라왔고 온라인상으로 빠르게 퍼져나갔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최유정이 옆으로 맨 꽃무늬 가방은 마리몬드 제품이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마리몬드는 위안부 할머니를 후원하는 브랜드로 알려졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뿐만 아니라 지적장애인 작가의 작품을 담아 그들을 응원하는 ‘같이 걸을까’ 팔찌를 착용하기도 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 최유정은 평소 ‘희망나비팔찌’를 착용한 모습이 포착되기도 했다. ‘희망나비팔찌’ 역시 수익금이 나눔의 집에 기부돼 위안부 피해 할머니들을 후원한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "걸그룹 아이오아이는 지난 17일 두 번째 미니 앨범‘miss me?'로 완전체 컴백을 한 뒤 타이틀곡’너무너무너무‘로 활동 중이다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위안부 피해 할머니 후원 제품 사용하는 ‘아이오아이‘ 최유정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

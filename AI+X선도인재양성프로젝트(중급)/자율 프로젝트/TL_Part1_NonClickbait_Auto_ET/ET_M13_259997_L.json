@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259997",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오늘(4일) NCT 마크 ‘Child’ 듣는날",
+		"newsSubTitle": "",
+		"newsContent": "그룹 NCT 마크가 오늘(4일) 첫 솔로곡을 공개한다.\nSM ‘STATION : NCT LAB’(스테이션 : 엔시티 랩)의 첫 주자인 마크는 오늘(4일) 오후 6시 각종 음원 사이트를 통해 솔로곡 ‘Child’를 발매한다. ‘Child’ 뮤직비디오는 음원 발표와 동시에 소속사 유튜브 채널인 SMTOWN에 공개될 예정이다. ‘Child’는 마크가 작사, 작곡에 참여한 힙합 장르의 곡으로 데뷔 후 정식으로 발매하는 첫 번째 솔로 음원이다.\n유니크한 베이스 신스와 일렉 기타 사운드가 돋보이며, 자기 자신에 대한 고민을 진솔하게 풀어낸 가사가 공감을 불러일으킨다.\n뮤직비디오 역시 고민하고 방황하는 마크의 모습과 감각적인 연출 장면이 담겨 있어 많은 리스너들의 시선을 사로잡을 전망이다.\n앞서 마크는 SuperM(슈퍼엠) 콘서트 당시 ‘Talk About’(톡 어바웃) 무대를 공개하며 솔로 아티스트로서의 가능성을 보여주기도 했다.\n출중한 랩 실력과 더불어, 안정적인 보컬, 독보적인 퍼포먼스를 선보였던 마크가 이번 자작곡으로 어떤 음악을 공개할지 기대가 높아진다.\n한편 SM ‘STATION : NCT LAB’은 NCT의 음악을 만날 수 있는 아카이빙 프로젝트로, 멤버들의 솔로곡과 자작곡, 유닛곡 등이 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 NCT 마크가 오늘(4일) 첫 솔로곡을 공개한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SM ‘STATION : NCT LAB’(스테이션 : 엔시티 랩)의 첫 주자인 마크는 오늘(4일) 오후 6시 각종 음원 사이트를 통해 솔로곡 ‘Child’를 발매한다. ‘Child’ 뮤직비디오는 음원 발표와 동시에 소속사 유튜브 채널인 SMTOWN에 공개될 예정이다. ‘Child’는 마크가 작사, 작곡에 참여한 힙합 장르의 곡으로 데뷔 후 정식으로 발매하는 첫 번째 솔로 음원이다.",
+				"sentenceSize": 214
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유니크한 베이스 신스와 일렉 기타 사운드가 돋보이며, 자기 자신에 대한 고민을 진솔하게 풀어낸 가사가 공감을 불러일으킨다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뮤직비디오 역시 고민하고 방황하는 마크의 모습과 감각적인 연출 장면이 담겨 있어 많은 리스너들의 시선을 사로잡을 전망이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 마크는 SuperM(슈퍼엠) 콘서트 당시 ‘Talk About’(톡 어바웃) 무대를 공개하며 솔로 아티스트로서의 가능성을 보여주기도 했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "출중한 랩 실력과 더불어, 안정적인 보컬, 독보적인 퍼포먼스를 선보였던 마크가 이번 자작곡으로 어떤 음악을 공개할지 기대가 높아진다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 SM ‘STATION : NCT LAB’은 NCT의 음악을 만날 수 있는 아카이빙 프로젝트로, 멤버들의 솔로곡과 자작곡, 유닛곡 등이 공개될 예정이다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오늘(4일) NCT 마크 ‘Child’ 듣는날",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260147",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘런닝맨’ 양세찬, 말 많은 지석진에 “닥치고 앞만 보고 가세요”",
+		"newsSubTitle": "",
+		"newsContent": "‘런닝맨’ 양세찬이 지석진을 공격했다.\n6일 오후 방송된 SBS ‘런닝맨’에서는 박세리가 게스트로 출연했다.\n이날 다음 미션지로 이동하던 중 지석진은 의자를 잘못 내려 박세리 손을 건드려 다치게 할 뻔했다.\n하찮은 몸으로 뭐 하는 거냐며 따지던 유재석은 지석진에게 조용히 문자를 보냈다.\n문자를 확인한 지석진은 박세리에게 “내가 형이잖아요. ‘꼴값 떨지 마’라고 보내는 문자 어떻게 생각해요?”라고 물어 폭소케 했다.\n일방적으로 너무 뭐라 한다는 박세리에 지석진은 “일방적으로 행하신 거 제일 정점이 당신이에요. 5만 원씩 다 주고 나만 안 줬잖아”라고 공격했다.\n그 와중 구석에서 혼자 휴대전화를 만지던 양세찬은 지석진에게 문자 보냈다.\n문자를 확인한 지석진은 “하하. 이거 참아야 돼요? 후배가, 재석이도 아니고 양세찬이 나한테 ‘닥치고 앞만 보고 가세요’. 세계적인 스타가 옆에 있는데 어떻게 앞만 보고 가나!”라고 분노했다.\n한편 ‘런닝맨’은 매주 일요일 오후 5시 SBS에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘런닝맨’ 양세찬이 지석진을 공격했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 오후 방송된 SBS ‘런닝맨’에서는 박세리가 게스트로 출연했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 다음 미션지로 이동하던 중 지석진은 의자를 잘못 내려 박세리 손을 건드려 다치게 할 뻔했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하찮은 몸으로 뭐 하는 거냐며 따지던 유재석은 지석진에게 조용히 문자를 보냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문자를 확인한 지석진은 박세리에게 “내가 형이잖아요. ‘꼴값 떨지 마’라고 보내는 문자 어떻게 생각해요?”라고 물어 폭소케 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일방적으로 너무 뭐라 한다는 박세리에 지석진은 “일방적으로 행하신 거 제일 정점이 당신이에요. 5만 원씩 다 주고 나만 안 줬잖아”라고 공격했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 와중 구석에서 혼자 휴대전화를 만지던 양세찬은 지석진에게 문자 보냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "문자를 확인한 지석진은 “하하. 이거 참아야 돼요? 후배가, 재석이도 아니고 양세찬이 나한테 ‘닥치고 앞만 보고 가세요’. 세계적인 스타가 옆에 있는데 어떻게 앞만 보고 가나!”라고 분노했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 ‘런닝맨’은 매주 일요일 오후 5시 SBS에서 만나볼 수 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘런닝맨’ 양세찬, 말 많은 지석진에 “닥치고 앞만 보고 가세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

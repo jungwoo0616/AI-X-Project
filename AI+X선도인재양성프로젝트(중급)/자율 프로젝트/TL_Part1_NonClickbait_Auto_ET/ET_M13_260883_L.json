@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260883",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "효연, ‘中 악플’에 댓글창 폐쇄 6일만에 활성화",
+		"newsSubTitle": "",
+		"newsContent": "소녀시대 효연이 다시 댓글 창을 활성화해 동계올림픽 출전 선수들에 응원을 전했다.\n효연은 자신의 사회 관계망 서비스(SNS)에 13일 오후 “응원 준비 완료 티비가 빈티지네”라는 글과 함께 두 장의 사진을 게재했다.\n공개된 사진 속 효연은 분홍색의 편한 티셔츠를 입고 동계올림픽을 기다리는 모습이 담겼다.\n이를 본 누리꾼들은 “저도 티비 앞에 앉았어요”, “한마음 한뜻으로 응원합시다”, “예쁜 언니, 우리 컴백 이 기다려” 등의 반응을 보였다.\n한편, 최근 효연은 자신의 SNS에 “우리나라 한복 아름답네”라는 글과 함께 ‘코리아 콘텐츠 위크’ 촬영 당시 찍은 사진을 공개했다.\n효연은 중국 누리꾼의 악플 테러 공격을 받게 됐고, 결국 댓글 창을 폐쇄했다.\n효연은 악플 테러 이후 6일 만에 폐쇄됐던 댓글창을 활성화해 2022년 베이징 동계 올림픽 출전 선수들을 응원했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소녀시대 효연이 다시 댓글 창을 활성화해 동계올림픽 출전 선수들에 응원을 전했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "효연은 자신의 사회 관계망 서비스(SNS)에 13일 오후 “응원 준비 완료 티비가 빈티지네”라는 글과 함께 두 장의 사진을 게재했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 효연은 분홍색의 편한 티셔츠를 입고 동계올림픽을 기다리는 모습이 담겼다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 본 누리꾼들은 “저도 티비 앞에 앉았어요”, “한마음 한뜻으로 응원합시다”, “예쁜 언니, 우리 컴백 이 기다려” 등의 반응을 보였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 최근 효연은 자신의 SNS에 “우리나라 한복 아름답네”라는 글과 함께 ‘코리아 콘텐츠 위크’ 촬영 당시 찍은 사진을 공개했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "효연은 중국 누리꾼의 악플 테러 공격을 받게 됐고, 결국 댓글 창을 폐쇄했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "효연은 악플 테러 이후 6일 만에 폐쇄됐던 댓글창을 활성화해 2022년 베이징 동계 올림픽 출전 선수들을 응원했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "효연, ‘中 악플’에 댓글창 폐쇄 6일만에 활성화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

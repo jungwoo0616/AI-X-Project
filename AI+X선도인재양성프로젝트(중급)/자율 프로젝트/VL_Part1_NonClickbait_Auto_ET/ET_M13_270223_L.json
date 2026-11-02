@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270223",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방시혁 프로듀싱 르세라핌X화연, 화사한 어울림",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단을 제작한 방시혁 대표의 프로듀싱팀 걸그룹 르세라핌과 화연이 음악방송 인증사진을 공개했다.\n화연은 15일 공식 사회관계망서비스(SNS)를 통해 SBS ‘인기가요’에 함께 출연한 르세라핌과의 대기실 인증사진을 올렸다.\n공개된 사진에서 화연은 르세라핌과 함께 미소를 지으며 상큼한 매력을 뽐냈다.\n지난 1일 ‘꽃핀다’로 데뷔한 화연과 하이브 최초의 걸그룹이라는 타이틀을 가진 르세라핌은 방시혁 프로듀서와 함께 작업한 공통점을 갖고 있다.\n마치 한 팀이라고 해도 손색없을 정도의 두 팀은 자연스러운 어울림을 보여주고 있다.\n데뷔 2주차에 들어선 화연은 현재 활발한 음악방송을 이어가고 있다.\n데뷔곡 ‘꽃핀다’는 일렉트로닉 사운드를 기반으로 중독성 있는 가사와 리듬을 더한 세련된 곡이다.\n특히 사랑의 시작점에서 설레는 여자의 마음을 꽃으로 표현한 가사와 반복되지만 질리지 않는 언어유희적 표현이 곡의 중독성을 높였다.\n15일 SBS ‘인기가요’에 출연한 화연은 다양한 방송과 공연을 통해 활동을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단을 제작한 방시혁 대표의 프로듀싱팀 걸그룹 르세라핌과 화연이 음악방송 인증사진을 공개했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "화연은 15일 공식 사회관계망서비스(SNS)를 통해 SBS ‘인기가요’에 함께 출연한 르세라핌과의 대기실 인증사진을 올렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 화연은 르세라핌과 함께 미소를 지으며 상큼한 매력을 뽐냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 1일 ‘꽃핀다’로 데뷔한 화연과 하이브 최초의 걸그룹이라는 타이틀을 가진 르세라핌은 방시혁 프로듀서와 함께 작업한 공통점을 갖고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마치 한 팀이라고 해도 손색없을 정도의 두 팀은 자연스러운 어울림을 보여주고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데뷔 2주차에 들어선 화연은 현재 활발한 음악방송을 이어가고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "데뷔곡 ‘꽃핀다’는 일렉트로닉 사운드를 기반으로 중독성 있는 가사와 리듬을 더한 세련된 곡이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 사랑의 시작점에서 설레는 여자의 마음을 꽃으로 표현한 가사와 반복되지만 질리지 않는 언어유희적 표현이 곡의 중독성을 높였다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "15일 SBS ‘인기가요’에 출연한 화연은 다양한 방송과 공연을 통해 활동을 이어간다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방시혁 프로듀싱 르세라핌X화연, 화사한 어울림",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

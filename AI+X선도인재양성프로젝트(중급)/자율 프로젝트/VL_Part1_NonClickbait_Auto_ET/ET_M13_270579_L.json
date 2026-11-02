@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270579",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘칸 영화제 출국’ 정우성…멋스러운 공항패션",
+		"newsSubTitle": "",
+		"newsContent": "칸 출국한 정우성 공항패션 배우 정우성이 우월한 기럭지를 자랑하는 공항패션을 선보였다.\n17일 오후 배우 정우성은 칸 영화제 참석을 위해 인천국제공항을 통해 출국했다.\n정우성은 화이트 데님에 올리브 컬러의 패턴 니트 탑을 매치해 깔끔하면서도 우아한 컬러웨이를 보여줬다.\n여기에 윈드 브레이커를 매치해 캐주얼하면서도 세련된 멋을 더했다.\n또 고급스러운 레더 스니커즈와 트래블백을 매치해 편안하면서도 격식있는 출국 룩을 선보였다.\n한편, 정우성은 절친이자 동료 배우인 이정재의 감독 데뷔작 ‘헌트’에 출연하며, 칸 영화제 미드나잇 스크리닝(액션, 스릴러, 느와르, 호러, 판타지 등의 장르 영화 중 대중성을 갖춘 작품을 선정하여 상영하는 부문)에 공식 초청 되어 레드카펫을 밟는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "칸 출국한 정우성 공항패션 배우 정우성이 우월한 기럭지를 자랑하는 공항패션을 선보였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 오후 배우 정우성은 칸 영화제 참석을 위해 인천국제공항을 통해 출국했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정우성은 화이트 데님에 올리브 컬러의 패턴 니트 탑을 매치해 깔끔하면서도 우아한 컬러웨이를 보여줬다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 윈드 브레이커를 매치해 캐주얼하면서도 세련된 멋을 더했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 고급스러운 레더 스니커즈와 트래블백을 매치해 편안하면서도 격식있는 출국 룩을 선보였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 정우성은 절친이자 동료 배우인 이정재의 감독 데뷔작 ‘헌트’에 출연하며, 칸 영화제 미드나잇 스크리닝(액션, 스릴러, 느와르, 호러, 판타지 등의 장르 영화 중 대중성을 갖춘 작품을 선정하여 상영하는 부문)에 공식 초청 되어 레드카펫을 밟는다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘칸 영화제 출국’ 정우성…멋스러운 공항패션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

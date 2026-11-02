@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260161",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김호중 팬덤, 가수 뒤따른 선한 영향력",
+		"newsSubTitle": "",
+		"newsContent": "김호중 팬카페가 가수의 선향 영향력을 뒤따랐다.\n국제구호개발 NGO 월드비전(회장 조명환)은 김호중 공식 팬카페 ‘강동 송파 아리스’로부터 보호종료 아동을 위한 후원금 1000만원을 전달받았다고 7일 밝혔다.\n이들은 지난 4일 월드비전을 방문해 후원금을 전달했다.\n강동 송파 아리스는 매월 300만원씩 보육원에 정기 후원하고 있는 김호중의 선한 영향력이 동참하고자 지역 팬카페 회원을 대상으로 자발적인 모금활동을 펼쳤다.\n이번에 전달된 후원금은 아동 자립 과정 중 주거비와 가전가구 구입비 등 사용될 예정이다.\n강동 송파 아리스 관계자는 “군 복무 중에도, 나눔 활동을 꾸준히 하는 김호중을 따라 팬카페에서도 함께 기부를 했다”며 “보호자의 보호가 한창 필요한 나이에 홀로서기를 해야 하는 아이들이 많다는 것을 알고, 그 아이들이 어려운 시간을 잘 견딜 수 있도록 조금이나마 힘이 돼 주고 싶다”고 했다.\n월드비전 조명환 회장은 “좋아하는 아티스트와 함께 선한 영향력을 전파하는 강동 송파 아리스 팬 여러분의 정성에 진심으로 감사드린다”며 “사회에 첫 발을 내딛는 아이들이 더 큰 꿈을 꾸고, 도전할 수 있게 전해주신 후원금은 잘 전달할 예정”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김호중 팬카페가 가수의 선향 영향력을 뒤따랐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국제구호개발 NGO 월드비전(회장 조명환)은 김호중 공식 팬카페 ‘강동 송파 아리스’로부터 보호종료 아동을 위한 후원금 1000만원을 전달받았다고 7일 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 지난 4일 월드비전을 방문해 후원금을 전달했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강동 송파 아리스는 매월 300만원씩 보육원에 정기 후원하고 있는 김호중의 선한 영향력이 동참하고자 지역 팬카페 회원을 대상으로 자발적인 모금활동을 펼쳤다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번에 전달된 후원금은 아동 자립 과정 중 주거비와 가전가구 구입비 등 사용될 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강동 송파 아리스 관계자는 “군 복무 중에도, 나눔 활동을 꾸준히 하는 김호중을 따라 팬카페에서도 함께 기부를 했다”며 “보호자의 보호가 한창 필요한 나이에 홀로서기를 해야 하는 아이들이 많다는 것을 알고, 그 아이들이 어려운 시간을 잘 견딜 수 있도록 조금이나마 힘이 돼 주고 싶다”고 했다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "월드비전 조명환 회장은 “좋아하는 아티스트와 함께 선한 영향력을 전파하는 강동 송파 아리스 팬 여러분의 정성에 진심으로 감사드린다”며 “사회에 첫 발을 내딛는 아이들이 더 큰 꿈을 꾸고, 도전할 수 있게 전해주신 후원금은 잘 전달할 예정”이라고 했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중 팬덤, 가수 뒤따른 선한 영향력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

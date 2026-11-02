@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281946",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 강호동과 서장훈, 첫 대결의 결과는?",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 새 예능 프로그램 ‘아는 형님’이 처음 방송된다. ‘아는 형님’은 인생을 살다 보면 마주치는 사소하지만 궁금해 견딜 수 없는 질문에 출연진이 답을 찾아가는 프로그램이다.\n시청자들이 프로그램 공식 SNS에 질문을 남기면 그 중 몇 개를 선정해 출연진이 다양한 방법으로 해결책을 찾는다.\n여운혁 CP는 “인생의 복잡한 문제에 정답을 내려줄 수는 없지만 해답을 찾는 과정을 재미있게 풀어가는 프로그램”이라며 “멤버들의 도전을 재미있게 보여주고 싶다”고 말했다.\n강호동을 필두로 서장훈, 김영철, 이수근, 김희철, 황치열, 민경훈, 김세황 등 8인 8색의 출연자가 방송에 참여한다.\n이날 방송에서는 ‘강호동과 서장훈이 싸우면 누가 이길까요?’에 대한 답이 공개된다.\n두 사람뿐만 아니라 다른 출연진의 대결 결과도 공개된다.\n유도 경력을 자랑하는 황치열은 이수근과 대결을 벌인다.\n김영철은 김희철과의 대결에서 김희철의 머리채를 한 손으로 낚아채는 용감무쌍함을 보여준다.\n5일 오후 9시 40분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 새 예능 프로그램 ‘아는 형님’이 처음 방송된다. ‘아는 형님’은 인생을 살다 보면 마주치는 사소하지만 궁금해 견딜 수 없는 질문에 출연진이 답을 찾아가는 프로그램이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시청자들이 프로그램 공식 SNS에 질문을 남기면 그 중 몇 개를 선정해 출연진이 다양한 방법으로 해결책을 찾는다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여운혁 CP는 “인생의 복잡한 문제에 정답을 내려줄 수는 없지만 해답을 찾는 과정을 재미있게 풀어가는 프로그램”이라며 “멤버들의 도전을 재미있게 보여주고 싶다”고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강호동을 필두로 서장훈, 김영철, 이수근, 김희철, 황치열, 민경훈, 김세황 등 8인 8색의 출연자가 방송에 참여한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에서는 ‘강호동과 서장훈이 싸우면 누가 이길까요?’에 대한 답이 공개된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람뿐만 아니라 다른 출연진의 대결 결과도 공개된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유도 경력을 자랑하는 황치열은 이수근과 대결을 벌인다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김영철은 김희철과의 대결에서 김희철의 머리채를 한 손으로 낚아채는 용감무쌍함을 보여준다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "5일 오후 9시 40분에 방송된다.",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 강호동과 서장훈, 첫 대결의 결과는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

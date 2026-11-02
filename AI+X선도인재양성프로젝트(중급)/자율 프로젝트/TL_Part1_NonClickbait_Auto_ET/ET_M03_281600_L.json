@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281600",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "그날의 분위기 문채원, \\\"옛 남친 생각날 때 연애 하고 싶어\\\"",
+		"newsSubTitle": "",
+		"newsContent": "문채원이 연애하고 싶은 순간을 밝혔다.\n문채원은 12월8일 서울 압구정CGV에서 열린 영화 ‘그날의 분위기’(감독 조규장/제작 영화사 문) 제작보고회에서 언제 연애를 가장 하고 싶으냐는 물음에 “옛 연인이 생각날 때 연애를 하고 싶을 수도 있을 것 같다”고 말했다.\n반면 유연석은 “크리스마스에 가장 연애를 하고싶지 않나. 로맨틱 코미디를 누군가와 보고싶다”고 말했다.\n이에 문채원은 자신 또한 영화를 보고 싶다며 “영화 ‘노트북’을 보고 싶다”고 밝혔다.\n그러자 유연석은 ‘그날의 분위기’를 꼽아 웃음을 자아냈다. ‘그날의 분위기’는 KTX에서 우연히 처음 만난 안 하는 거 참 많은 철벽녀 수정(문채원)과 맘만 먹으면 다 되는 맹공남 재현(유연석)이 하룻밤을 걸고 벌이는 로맨틱 코미디 영화다.\n마음에 드는 이성과의 첫 만남에 대한 남녀의 생각, 밀고 당기는 썸에 대처하는 자세, 원나잇 등 연애 과정에서 마주하게 되는 여러 순간들에 대한 요즘 남녀의 솔직한 연애 심리를 그린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "문채원이 연애하고 싶은 순간을 밝혔다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "문채원은 12월8일 서울 압구정CGV에서 열린 영화 ‘그날의 분위기’(감독 조규장/제작 영화사 문) 제작보고회에서 언제 연애를 가장 하고 싶으냐는 물음에 “옛 연인이 생각날 때 연애를 하고 싶을 수도 있을 것 같다”고 말했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반면 유연석은 “크리스마스에 가장 연애를 하고싶지 않나. 로맨틱 코미디를 누군가와 보고싶다”고 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 문채원은 자신 또한 영화를 보고 싶다며 “영화 ‘노트북’을 보고 싶다”고 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 유연석은 ‘그날의 분위기’를 꼽아 웃음을 자아냈다. ‘그날의 분위기’는 KTX에서 우연히 처음 만난 안 하는 거 참 많은 철벽녀 수정(문채원)과 맘만 먹으면 다 되는 맹공남 재현(유연석)이 하룻밤을 걸고 벌이는 로맨틱 코미디 영화다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마음에 드는 이성과의 첫 만남에 대한 남녀의 생각, 밀고 당기는 썸에 대처하는 자세, 원나잇 등 연애 과정에서 마주하게 되는 여러 순간들에 대한 요즘 남녀의 솔직한 연애 심리를 그린다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그날의 분위기 문채원, \\\"옛 남친 생각날 때 연애 하고 싶어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

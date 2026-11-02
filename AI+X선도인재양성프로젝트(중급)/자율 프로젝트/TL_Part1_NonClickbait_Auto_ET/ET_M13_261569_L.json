@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261569",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "BTS 뷔, 코로나19 완치 근황 공개 ‘어둠 속 빛나는 미모’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단 뷔(김태형)가 코로나19 완치 소식을 전했다.\n뷔는 21일 자신의 사회관계망서비스(SNS)인스타그램을 통해 ‘걱정해주셔서 감사하다. 덕분에 다 나았다. 좋은 하루 보내라’ 며 영상을 올렸다.\n영상 속 그는 편안한 옷차림으로 카메라를 보고 있었다.\n영상 뒤로 잔잔한 음악이 흐르는 가운데 어둠 속에서도 뚜렷한 그의 이목구비가 팬들의 시선을 사로잡았다.\n한편 뷔는 지난 15일 슈가, 진, RM, 지민에 이어 팀내 다섯 번째 코로나19 확진자가 됐다.\n소속사 측은 뷔가 미열과 경미한 인후통 외 다른 증상은 없다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단 뷔(김태형)가 코로나19 완치 소식을 전했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뷔는 21일 자신의 사회관계망서비스(SNS)인스타그램을 통해 ‘걱정해주셔서 감사하다. 덕분에 다 나았다. 좋은 하루 보내라’ 며 영상을 올렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 그는 편안한 옷차림으로 카메라를 보고 있었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상 뒤로 잔잔한 음악이 흐르는 가운데 어둠 속에서도 뚜렷한 그의 이목구비가 팬들의 시선을 사로잡았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 뷔는 지난 15일 슈가, 진, RM, 지민에 이어 팀내 다섯 번째 코로나19 확진자가 됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사 측은 뷔가 미열과 경미한 인후통 외 다른 증상은 없다고 밝혔다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BTS 뷔, 코로나19 완치 근황 공개 ‘어둠 속 빛나는 미모’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

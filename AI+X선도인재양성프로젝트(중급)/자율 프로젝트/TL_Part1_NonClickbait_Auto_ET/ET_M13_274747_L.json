@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274747",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한지민, 코알라도 ‘심쿵’한 비주얼",
+		"newsSubTitle": "",
+		"newsContent": "배우 한지민이 호주에서 보낸 일상을 공유했다.\n한지민은 5일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 설명 없이 사진들을 게재했다.\n한지민은 호주의 케이블카를 타고 아름다운 자연을 즐겼으며, 호주의 대표 동물인 코알라와 함께 사진을 찍었다.\n또 캥거루과 동물인 왈라비와의 인증사진도 남겼다.\n앞서 한지민은 호주 호주정부관관청의 공식 초청을 받아 호주를 방문해 홍보대사가 됐음을 알린 바 있다.\n또 한지민은 호주에 언니와 조카들이 거주하고 있어 자주 방문한 인연이 있다.\n한편 한지민은 최근 종영한 tvN 드라마 ‘우리들의 블루스’에 출연해 열연을 펼쳤으며, 이준익 감독의 티빙 오리지널 시리즈 ‘욘더’의 촬영을 마치고 공개를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한지민이 호주에서 보낸 일상을 공유했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한지민은 5일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 설명 없이 사진들을 게재했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한지민은 호주의 케이블카를 타고 아름다운 자연을 즐겼으며, 호주의 대표 동물인 코알라와 함께 사진을 찍었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 캥거루과 동물인 왈라비와의 인증사진도 남겼다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 한지민은 호주 호주정부관관청의 공식 초청을 받아 호주를 방문해 홍보대사가 됐음을 알린 바 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 한지민은 호주에 언니와 조카들이 거주하고 있어 자주 방문한 인연이 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 한지민은 최근 종영한 tvN 드라마 ‘우리들의 블루스’에 출연해 열연을 펼쳤으며, 이준익 감독의 티빙 오리지널 시리즈 ‘욘더’의 촬영을 마치고 공개를 앞두고 있다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한지민, 코알라도 ‘심쿵’한 비주얼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

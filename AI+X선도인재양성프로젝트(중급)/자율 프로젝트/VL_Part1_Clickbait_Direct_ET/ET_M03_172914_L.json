@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172914",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[오늘의 JTBC] ‘TK 물갈이론’ 해부하는 썰전",
+    "newsSubTitle": "",
+    "newsContent": "JTBC 이슈 리뷰 토크쇼 ‘썰전’에서는 유승민 전 새누리당 원내대표 부친상 빈소에서 나온 ‘TK(대구·경북) 물갈이론’에 대해 이야기를 나눈다.\n최근 유승민 전 원내대표가 부친상을 당하면서 많은 여야 의원들이 빈소를 방문했다.\n친박계 윤상현 의원은 빈소를 조문한 뒤 기자들과 만난 자리에서 ‘TK 물갈이론’을 꺼내 공천 룰 갈등에 대한 논란을 키웠다.\n이철희(사진)는 “요즘 젊은이들이 쓰는 인터넷 용어 중에 ‘낄 때 끼고 빠질 때 빠져라’라는 뜻의 ‘낄끼빠빠’라는 말이 있다”며 “윤상현 의원이 이런 자리에서는 말을 아꼈어야 했다”고 지적한다.\n그러나 이준석은 ‘낄끼빠빠’에 대해 “처음 들어보는 말이다”며 요즘 젊은이들이 쓰는 말이라는 이철희의 설명에 계속 의구심을 표한다.\n급기야 두 사람은 인터넷 용어의 진위를 두고 실랑이를 벌인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JTBC 이슈 리뷰 토크쇼 ‘썰전’에서는 유승민 전 새누리당 원내대표 부친상 빈소에서 나온 ‘TK(대구·경북) 물갈이론’에 대해 이야기를 나눈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 유승민 전 원내대표가 부친상을 당하면서 많은 여야 의원들이 빈소를 방문했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "친박계 윤상현 의원은 빈소를 조문한 뒤 기자들과 만난 자리에서 ‘TK 물갈이론’을 꺼내 공천 룰 갈등에 대한 논란을 키웠다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이철희(사진)는 “요즘 젊은이들이 쓰는 인터넷 용어 중에 ‘낄 때 끼고 빠질 때 빠져라’라는 뜻의 ‘낄끼빠빠’라는 말이 있다”며 “윤상현 의원이 이런 자리에서는 말을 아꼈어야 했다”고 지적한다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 이준석은 ‘낄끼빠빠’에 대해 “처음 들어보는 말이다”며 요즘 젊은이들이 쓰는 말이라는 이철희의 설명에 계속 의구심을 표한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "급기야 두 사람은 인터넷 용어의 진위를 두고 실랑이를 벌인다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘TK 물갈이론’을 꺼내 논란을 키운 이 정치인, 말을 아낄 줄도 알아야지!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

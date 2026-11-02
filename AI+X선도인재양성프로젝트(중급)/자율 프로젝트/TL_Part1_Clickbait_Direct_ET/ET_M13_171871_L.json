@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171871",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이시영, 스위스산악 등반 세계신기록",
+    "newsSubTitle": "",
+    "newsContent": "배우 이시영이 여성 산악 스포츠 역사에 기록을 세웠다.\n스위스관광청은 지난 27일 스위스 홍보대사(스위스 프렌즈) 이시영을 포함한 80여 명의 여성 산악인이 스위스 남부 발레주에 있는 래발고도 4164m 브라이트호른 정상에 올라 세상에서 가장 긴 인간 띠를 만들어 세계 기록을 세웠다고 20일 밝혔다.\n이번 산악등정에는 한국을 포함한 유럽, 미국, 이란, 인도, 남아공, 카자흐스탄, 에콰도르 등 전 세계 25개국 여성들이 참여했다.\n이번 세계 기록 이벤트는 스위스정보관광청 주최 ‘100% 우먼’ 캠페인 일환으로 진행됐다.\n전 세계 여성 산안익에게 스위스 자연을 탐험해 볼 수 있는 기회를 제공하고 여성들의 새로운 도전을 응원하는 취지로 이뤄졌다.\n이 캠페인은 지난해 3월 8일 세계여성의 날을 맞아 발표됐다.\n이번 행사는 본래 알라린호른 등반으로 예정돼 있었으나 기상 악화로 인해 브라이튼호른으로 변경돼 진행됐다.\n이번 행사에 참여한 이시영은 “여성의 새로운 도전을 응원하는 이번 행사에 참여하게 돼 매우 뜻깊게 생각한다”며 “전 세계 다양한 여성 산악인과 함께 세계기록 달성해 기쁘고 안전하게 성공적으로 이번 등반을 마쳤다”고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이시영이 여성 산악 스포츠 역사에 기록을 세웠다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스위스관광청은 지난 27일 스위스 홍보대사(스위스 프렌즈) 이시영을 포함한 80여 명의 여성 산악인이 스위스 남부 발레주에 있는 래발고도 4164m 브라이트호른 정상에 올라 세상에서 가장 긴 인간 띠를 만들어 세계 기록을 세웠다고 20일 밝혔다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 산악등정에는 한국을 포함한 유럽, 미국, 이란, 인도, 남아공, 카자흐스탄, 에콰도르 등 전 세계 25개국 여성들이 참여했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 세계 기록 이벤트는 스위스정보관광청 주최 ‘100% 우먼’ 캠페인 일환으로 진행됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전 세계 여성 산안익에게 스위스 자연을 탐험해 볼 수 있는 기회를 제공하고 여성들의 새로운 도전을 응원하는 취지로 이뤄졌다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 캠페인은 지난해 3월 8일 세계여성의 날을 맞아 발표됐다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 행사는 본래 알라린호른 등반으로 예정돼 있었으나 기상 악화로 인해 브라이튼호른으로 변경돼 진행됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 행사에 참여한 이시영은 “여성의 새로운 도전을 응원하는 이번 행사에 참여하게 돼 매우 뜻깊게 생각한다”며 “전 세계 다양한 여성 산악인과 함께 세계기록 달성해 기쁘고 안전하게 성공적으로 이번 등반을 마쳤다”고 했다.",
+        "sentenceSize": 123
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "해발 4,164m 정상 찍었다...배우 이시영, 스위스서 '이것' 세워...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

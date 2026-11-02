@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167816",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘카스바의 여인’ 가수 윤희상 20일 별세",
+    "newsSubTitle": "",
+    "newsContent": "‘카스바의 여인’으로 유명한 가수 윤희상이 20일 오전 별세했다.\n62세. 가요 관계자에 따르면 윤희상은 불의의 교통사고를 당한 후 후유증으로 오랫동안 병마에 시달리다가 20일 새벽 타계했다.\n윤희상은 1979년 ‘칠갑산’으로 데뷔해 다양한 활동을 했다.\n2000년 초반 ‘카스바의 연인’을 히트시킨 후 ‘홀로 새는 밤’, ‘텍사스 룸바’ 등을 발표하며 활발히 활동했다.\n하지만 2004년 지방공연을 가던 중 교통사고로 인해 전신마비 판정을 받고 한동안 병원 신세를 져야 했다.\n극적인 재활과 무대와 음악에 대한 열정으로 최근 ‘가요무대’도 출연했다.\n2006년엔 MBC ‘가요愛발견’에 출연해 묵묵히 병간호해준 아내에 대한 고마움을 전하기도 했다.\n빈소는 경기도 일산동구 일산장례식장 1호실, 발인은 22일 오전 7시 30분.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘카스바의 여인’으로 유명한 가수 윤희상이 20일 오전 별세했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "62세. 가요 관계자에 따르면 윤희상은 불의의 교통사고를 당한 후 후유증으로 오랫동안 병마에 시달리다가 20일 새벽 타계했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤희상은 1979년 ‘칠갑산’으로 데뷔해 다양한 활동을 했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2000년 초반 ‘카스바의 연인’을 히트시킨 후 ‘홀로 새는 밤’, ‘텍사스 룸바’ 등을 발표하며 활발히 활동했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 2004년 지방공연을 가던 중 교통사고로 인해 전신마비 판정을 받고 한동안 병원 신세를 져야 했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "극적인 재활과 무대와 음악에 대한 열정으로 최근 ‘가요무대’도 출연했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2006년엔 MBC ‘가요愛발견’에 출연해 묵묵히 병간호해준 아내에 대한 고마움을 전하기도 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "빈소는 경기도 일산동구 일산장례식장 1호실, 발인은 22일 오전 7시 30분.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 윤희상, 20일 별세... 그가 남긴 불후의 명곡은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

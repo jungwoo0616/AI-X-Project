@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270483",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "예린, 첫 미니앨범 ‘ARIA’ 상큼+러블리 매력 폭발",
+		"newsSubTitle": "",
+		"newsContent": "가수 예린이 첫 미니앨범 타이틀곡 ‘ARIA’ 퍼포먼스를 공개했다.\n예린은 17일 공식 SNS를 통해 첫 번째 미니앨범 ‘ARIA’ 뮤직비디오 티저 영상을 공개해 화제를 모으고 있다.\n공개된 영상에서 예린은 화려한 꽃들이 만발한 공간 속 상큼발랄한 비주얼로 등장해 마치 동화 속 한 장면을 연상케 한다.\n또 예린은 옐로우 톤의 미니 원피스에 이어 핑크 트위드 셋업으로 유니크하면서도 러블리한 매력을 강조해 신곡 ‘ARIA’ 콘셉트에 대한 기대감을 고조시킨다.\n시원한 리듬의 신스 사운드와 예린의 청량한 음색이 조화롭게 어우러지며 몰입도를 높이는 가운데, 중독성 넘치는 ‘ARIA’의 노랫말과 함께 공개된 포인트 안무는 뮤직비디오 본편에 대한 궁금증을 끌어올렸다.\n예린 첫 미니앨범 ‘ARIA’는 오는 18일 오후 6시 각종 온라인 음원사이트를 통해 발매할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 예린이 첫 미니앨범 타이틀곡 ‘ARIA’ 퍼포먼스를 공개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "예린은 17일 공식 SNS를 통해 첫 번째 미니앨범 ‘ARIA’ 뮤직비디오 티저 영상을 공개해 화제를 모으고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에서 예린은 화려한 꽃들이 만발한 공간 속 상큼발랄한 비주얼로 등장해 마치 동화 속 한 장면을 연상케 한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 예린은 옐로우 톤의 미니 원피스에 이어 핑크 트위드 셋업으로 유니크하면서도 러블리한 매력을 강조해 신곡 ‘ARIA’ 콘셉트에 대한 기대감을 고조시킨다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시원한 리듬의 신스 사운드와 예린의 청량한 음색이 조화롭게 어우러지며 몰입도를 높이는 가운데, 중독성 넘치는 ‘ARIA’의 노랫말과 함께 공개된 포인트 안무는 뮤직비디오 본편에 대한 궁금증을 끌어올렸다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예린 첫 미니앨범 ‘ARIA’는 오는 18일 오후 6시 각종 온라인 음원사이트를 통해 발매할 예정이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "예린, 첫 미니앨범 ‘ARIA’ 상큼+러블리 매력 폭발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

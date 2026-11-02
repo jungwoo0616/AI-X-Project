@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259948",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "BTS지민 롤모델 영국인 “한국인되려 성기축소 수술결심”",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 지민을 닮겠다며 수차례 성형수술을 한 영국 인플루언서가 충격 선언을 했다.\n영국 출신 인플루언서 올리 런던은 지난달 29일 미국 뉴스위크와의 인터뷰에서 “성기 축소 수술을 받을 계획”이라며 “한국인 평균 성기 크기가 3.5인치(약 8.9㎝)이기 때문”이라고 밝혔다.\n이 영국 인플루언서는 방탄소년단 멤버 지민을 롤모델로 삼아 약 20건의 성형수술을 진행했고 약 25만달러(약 3억원)를 지출했다.\n뉴스위크에 따르면 올리 런던은 “이런 일로 사람들이 기분 상하지 않았으면 한다”면서도 “성기 크기가 3.5인치가 아니라는 이유로 ‘당신은 100% 한국인이 아니다’라는 지적을 받는다”고 말했다. “나는 단지 100% 한국인이 되고 싶을 뿐”이라고 한 그는 “태국에서 성기축소 수술을 받을 수 있고, 비용은 약 6000~8000달러 정도라고 한다”고 말했다.\n올리 런던은 “대부분의 사람은 음경 확대 수술을 하지만, 저는 100% 한국인이 되고 싶다”며 “제 얼굴 전체가 한국인이 될 것이고, 가슴도 성형했다”고 했다.\n마지막으로 그는 “다음 수술은 오는 22일 예약돼 있다”며 “(수술이 완료되면)저는 제 외모에 행복할 것”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 지민을 닮겠다며 수차례 성형수술을 한 영국 인플루언서가 충격 선언을 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영국 출신 인플루언서 올리 런던은 지난달 29일 미국 뉴스위크와의 인터뷰에서 “성기 축소 수술을 받을 계획”이라며 “한국인 평균 성기 크기가 3.5인치(약 8.9㎝)이기 때문”이라고 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 영국 인플루언서는 방탄소년단 멤버 지민을 롤모델로 삼아 약 20건의 성형수술을 진행했고 약 25만달러(약 3억원)를 지출했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뉴스위크에 따르면 올리 런던은 “이런 일로 사람들이 기분 상하지 않았으면 한다”면서도 “성기 크기가 3.5인치가 아니라는 이유로 ‘당신은 100% 한국인이 아니다’라는 지적을 받는다”고 말했다. “나는 단지 100% 한국인이 되고 싶을 뿐”이라고 한 그는 “태국에서 성기축소 수술을 받을 수 있고, 비용은 약 6000~8000달러 정도라고 한다”고 말했다.",
+				"sentenceSize": 199
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올리 런던은 “대부분의 사람은 음경 확대 수술을 하지만, 저는 100% 한국인이 되고 싶다”며 “제 얼굴 전체가 한국인이 될 것이고, 가슴도 성형했다”고 했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마지막으로 그는 “다음 수술은 오는 22일 예약돼 있다”며 “(수술이 완료되면)저는 제 외모에 행복할 것”이라고 했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BTS지민 롤모델 영국인 “한국인되려 성기축소 수술결심”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

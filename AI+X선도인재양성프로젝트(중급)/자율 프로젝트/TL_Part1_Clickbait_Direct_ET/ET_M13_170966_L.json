@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170966",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘동상이몽2’ 이현이, S전자 훈남 남편과 일상 공개",
+    "newsSubTitle": "",
+    "newsContent": "모델 이현이가 S전자 엔지니어 훈남 남편을 공개했다.\n지난 23일 방송된 SBS 예능프로그램 ‘동상이몽 시즌2-너는 내 운명’ 방송 말미에는 이현이, 홍성기 부부가 첫 등장했다.\n모델 이현이는 최근 SBS 예능프로그램 ‘골 때리는 그녀들’ FC 구척장신 팀에서 활약하며 화제를 모았다.\n영상에서 이현이의 남편 홍성기는 “삼성전자에서 반도체 개발하고 있는 엔지니어”라고 자신을 소개했다.\n이현이는 “저는 얼굴을 보기 때문에. 얼굴 보고 결혼했다”고 말해 웃음을 자아냈다.\n이어 부부가 사는 집과 두 사람을 나눠 닮은 두 아들이 등장했다.\n두 사람은 “미친 사람” “귀신 들린 줄” 등 다소 격한 표현을 담은 러브 스토리를 예고해 기대감을 더했다.\n이에 남편 홍성기 씨는 “싸우자는 게 아니고 이걸 다 공개해도 되는 거야?”라며 걱정하는 모습을 보여 눈길을 끌었다.\n이현이 SNS등을 통해 남편의 훈훈한 외모가 공개되며 화제를 모았다.\n두 사람은 4대4 미팅으로 만난 것으로 알려졌다.\n홍씨는 과거 한 방송에 잠시 출연해 “이현이가 미팅에서 얌전히 있다가 노래방에서 춤을 추며 노래를 하는 모습에 반했다”고 말한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모델 이현이가 S전자 엔지니어 훈남 남편을 공개했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 23일 방송된 SBS 예능프로그램 ‘동상이몽 시즌2-너는 내 운명’ 방송 말미에는 이현이, 홍성기 부부가 첫 등장했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "모델 이현이는 최근 SBS 예능프로그램 ‘골 때리는 그녀들’ FC 구척장신 팀에서 활약하며 화제를 모았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상에서 이현이의 남편 홍성기는 “삼성전자에서 반도체 개발하고 있는 엔지니어”라고 자신을 소개했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이현이는 “저는 얼굴을 보기 때문에. 얼굴 보고 결혼했다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 부부가 사는 집과 두 사람을 나눠 닮은 두 아들이 등장했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 “미친 사람” “귀신 들린 줄” 등 다소 격한 표현을 담은 러브 스토리를 예고해 기대감을 더했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 남편 홍성기 씨는 “싸우자는 게 아니고 이걸 다 공개해도 되는 거야?”라며 걱정하는 모습을 보여 눈길을 끌었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이현이 SNS등을 통해 남편의 훈훈한 외모가 공개되며 화제를 모았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두 사람은 4대4 미팅으로 만난 것으로 알려졌다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "홍씨는 과거 한 방송에 잠시 출연해 “이현이가 미팅에서 얌전히 있다가 노래방에서 춤을 추며 노래를 하는 모습에 반했다”고 말한 바 있다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘동상이몽 2’ 이현이 \"얼굴 보고 결혼했다” 훈남 남편, 직장은 바로 '이곳'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

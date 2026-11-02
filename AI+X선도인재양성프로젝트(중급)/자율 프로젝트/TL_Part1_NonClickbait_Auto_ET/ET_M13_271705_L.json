@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271705",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지민 SNS 언급량, 방탄소년단 이어 2위",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 멤버 지민이 온라인 열풍을 기록 중이다.\n아미에 따르면 지민은 지난 28일 미국 소셜 미디어 분석 플랫폼 넷베이스 쿼드 조사 결과 5월 뮤지션 톱10 중 방탄소년단에 이어 전체 2위를 기록했다.\n개인으로서는 1위 기록이다.\n지민은 팝의 전설 고 프린스와 저스틴 비버, 원 디렉션 등을 제치코 미국 타임지 선정 ‘2016년 트위터에서 가장 많이 언급된 가수’ 개인 1위에 오른 적이 있다.\n이밖에도 지민은 지난해 칠레 트위터에서 가장 많이 언급된 K팝 아티스트 개인 1위를 기록했고 같은 해 이탈리아에서도 트위터 최다 언급량 톱50에 이름을 올렸다.\n지민은 2019년부터 전 세계 유명인들을 꺾고 인스타그램 최대 언급량을 기록했고 2022년 현재까지 그 기록을 유지 중이다.\n지민이 속한 방탄소년단은 미국 대통령 바이든 초청으로 백악관을 방문할 예정이고 오는 6월 10일 데뷔 후 9년의 역사를 담은 ‘프루프’(Proof) 발매를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 멤버 지민이 온라인 열풍을 기록 중이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아미에 따르면 지민은 지난 28일 미국 소셜 미디어 분석 플랫폼 넷베이스 쿼드 조사 결과 5월 뮤지션 톱10 중 방탄소년단에 이어 전체 2위를 기록했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인으로서는 1위 기록이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지민은 팝의 전설 고 프린스와 저스틴 비버, 원 디렉션 등을 제치코 미국 타임지 선정 ‘2016년 트위터에서 가장 많이 언급된 가수’ 개인 1위에 오른 적이 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이밖에도 지민은 지난해 칠레 트위터에서 가장 많이 언급된 K팝 아티스트 개인 1위를 기록했고 같은 해 이탈리아에서도 트위터 최다 언급량 톱50에 이름을 올렸다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지민은 2019년부터 전 세계 유명인들을 꺾고 인스타그램 최대 언급량을 기록했고 2022년 현재까지 그 기록을 유지 중이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지민이 속한 방탄소년단은 미국 대통령 바이든 초청으로 백악관을 방문할 예정이고 오는 6월 10일 데뷔 후 9년의 역사를 담은 ‘프루프’(Proof) 발매를 앞두고 있다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지민 SNS 언급량, 방탄소년단 이어 2위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

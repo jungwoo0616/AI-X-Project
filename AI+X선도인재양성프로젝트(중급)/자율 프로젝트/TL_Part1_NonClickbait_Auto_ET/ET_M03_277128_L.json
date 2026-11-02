@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277128",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'설리와 결별' 최자 생일 케이크에 적혀 있는 단어는…",
+		"newsSubTitle": "",
+		"newsContent": "그룹 다이나믹 듀오 멤버 최자(본명 최재호·37)가 생일 맞이 케이크를 인증했다.\n최자는 18일 오후 자신의 인스타그램에 \\\"아 감동\\\"이라는 말과 함께 케이크를 공개했다.\n최자는 17일 38번째 생일을 맞았다.\n팬이 보낸 것으로 추정되는 이 케이크에는 \\\"남자 나이 38살부터\\\"라는 문구가 담긴 장식이 꽂혀있다.\n또, 'HAPPY CHIZA DAY'라는 단어가 케이크에 새겨있기도 하다. '최자'가 아닌 '치자'로 표기된 문구가 웃음을 자아낸다.\n최자는 17일 \\\"With legends(전설과 함께)\\\"라는 말과 함께 근황을 공개하기도 했다.\n한편 그는 지난 6일 걸그룹 에프엑스 출신 설리(본명 최진리·23)와 2년 7개월간의 열애에 마침표를 찍었다.\n두 사람은 공식적으로 결별을 인정했지만 서로의 인스타그램에는 여전히 열애 흔적이 남아있는 상태다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 다이나믹 듀오 멤버 최자(본명 최재호·37)가 생일 맞이 케이크를 인증했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최자는 18일 오후 자신의 인스타그램에 \\\"아 감동\\\"이라는 말과 함께 케이크를 공개했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최자는 17일 38번째 생일을 맞았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬이 보낸 것으로 추정되는 이 케이크에는 \\\"남자 나이 38살부터\\\"라는 문구가 담긴 장식이 꽂혀있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또, 'HAPPY CHIZA DAY'라는 단어가 케이크에 새겨있기도 하다. '최자'가 아닌 '치자'로 표기된 문구가 웃음을 자아낸다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최자는 17일 \\\"With legends(전설과 함께)\\\"라는 말과 함께 근황을 공개하기도 했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 그는 지난 6일 걸그룹 에프엑스 출신 설리(본명 최진리·23)와 2년 7개월간의 열애에 마침표를 찍었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 사람은 공식적으로 결별을 인정했지만 서로의 인스타그램에는 여전히 열애 흔적이 남아있는 상태다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'설리와 결별' 최자 생일 케이크에 적혀 있는 단어는…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

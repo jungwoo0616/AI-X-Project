@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267258",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘동원아 여행가자’ 5월 2일 정규 편성 첫 방송",
+		"newsSubTitle": "",
+		"newsContent": "장민호, 정동원의 리얼 우정여행 ‘동원아 여행가자’가 5월 2일(월) 돌아온다.\n장민호, 정동원의 스페셜 프로젝트 ‘동원아 여행가자’는 지난 3월 첫 에피소드가 공개된 이후 유튜브 조회수 300만에 육박하는 뜨거운 화제를 불러일으켰다.\n시청자들의 뜨거운 반응에 힙입어 정규 편성을 확정지었다.\n오늘(18일) 한 장의 사진이 공식 SNS에 올라왔다.\n푸른 산을 배경으로 정동원은 신나는 듯 손을 펼치고, 장민호는 환하게 웃으며 브이를 그리고 있다.\n정규 편성 확정 이후 처음으로 공개된 두 사람의 사진에 팬들은 “첫 방송이 5월 2일인가요?”, “정규 편성 애타게 기다렸어요!”, “빨리 보고 싶다”, “무조건 본방 사수!” 등의 댓글을 달며 열렬한 반응을 보이고 있다.\n제작진은 “5월 2일 월요일 밤 10시 첫 방송을 목표로 제작에 박차를 가하고 있다”며 “시청자분들의 성원에 힘입어 정규 편성된 만큼 한 주의 시작인 월요일 밤, 두 남자의 리얼한 우정여행으로 힐링 에너지를 충전할 수 있도록 최선을 다하겠다”며 많은 기대를 당부했다.\n정규 편성으로 돌아온 TV CHOSUN ‘동원아 여행가자’는 5월 2일(월) 밤 10시 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장민호, 정동원의 리얼 우정여행 ‘동원아 여행가자’가 5월 2일(월) 돌아온다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장민호, 정동원의 스페셜 프로젝트 ‘동원아 여행가자’는 지난 3월 첫 에피소드가 공개된 이후 유튜브 조회수 300만에 육박하는 뜨거운 화제를 불러일으켰다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시청자들의 뜨거운 반응에 힙입어 정규 편성을 확정지었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오늘(18일) 한 장의 사진이 공식 SNS에 올라왔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "푸른 산을 배경으로 정동원은 신나는 듯 손을 펼치고, 장민호는 환하게 웃으며 브이를 그리고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정규 편성 확정 이후 처음으로 공개된 두 사람의 사진에 팬들은 “첫 방송이 5월 2일인가요?”, “정규 편성 애타게 기다렸어요!”, “빨리 보고 싶다”, “무조건 본방 사수!” 등의 댓글을 달며 열렬한 반응을 보이고 있다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제작진은 “5월 2일 월요일 밤 10시 첫 방송을 목표로 제작에 박차를 가하고 있다”며 “시청자분들의 성원에 힘입어 정규 편성된 만큼 한 주의 시작인 월요일 밤, 두 남자의 리얼한 우정여행으로 힐링 에너지를 충전할 수 있도록 최선을 다하겠다”며 많은 기대를 당부했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정규 편성으로 돌아온 TV CHOSUN ‘동원아 여행가자’는 5월 2일(월) 밤 10시 첫 방송된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘동원아 여행가자’ 5월 2일 정규 편성 첫 방송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

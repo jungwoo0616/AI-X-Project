@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262885",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 안성훈, 유해진·딘딘 성대모사로 폭소 유발",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 전통시장에 방문해 유쾌한 에너지를 대발산했다.\n안성훈은 4일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연, 전통시장 홍보 프로젝트 ‘60초를 잡아라’ 코너에서 새로운 응원단장으로 거듭났다.\n강원도 원주시에 위치한 전통시장에 방문한 안성훈은 흥겨운 노래를 시작으로 재치 넘치는 응원과 입담으로 시장에 활력을 불어넣었다.\n전통시장 상인들을 만난 안성훈은 높은 텐션을 자랑하며 상인들에게 응원을 건넨 것은 물론, 남다른 먹방으로 시청자의 입맛을 자극했다.\n원주 출신 상인을 만난 안성훈은 “저는 원주의 아들이다. 원주에서 세 달 정도 살 때 2011년 ‘전국노래자랑’에서 최우수상을 받았다”고 밝힌 것은 물론, 배우 유해진과 가수 딘딘 성대모사까지 선보이며 물오른 예능감을 과시했다.\n안성훈은 ‘6시 내고향’ 스튜디오에서 매끄럽고 안정적인 진행 능력을 뽐내며 만능 엔터테이너 면모를 자랑하기도 했다.\n안성훈은 앞으로도 활발한 활동과 다양한 음악으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 전통시장에 방문해 유쾌한 에너지를 대발산했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 4일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연, 전통시장 홍보 프로젝트 ‘60초를 잡아라’ 코너에서 새로운 응원단장으로 거듭났다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강원도 원주시에 위치한 전통시장에 방문한 안성훈은 흥겨운 노래를 시작으로 재치 넘치는 응원과 입담으로 시장에 활력을 불어넣었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전통시장 상인들을 만난 안성훈은 높은 텐션을 자랑하며 상인들에게 응원을 건넨 것은 물론, 남다른 먹방으로 시청자의 입맛을 자극했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "원주 출신 상인을 만난 안성훈은 “저는 원주의 아들이다. 원주에서 세 달 정도 살 때 2011년 ‘전국노래자랑’에서 최우수상을 받았다”고 밝힌 것은 물론, 배우 유해진과 가수 딘딘 성대모사까지 선보이며 물오른 예능감을 과시했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안성훈은 ‘6시 내고향’ 스튜디오에서 매끄럽고 안정적인 진행 능력을 뽐내며 만능 엔터테이너 면모를 자랑하기도 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안성훈은 앞으로도 활발한 활동과 다양한 음악으로 대중을 만날 예정이다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 안성훈, 유해진·딘딘 성대모사로 폭소 유발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

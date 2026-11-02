@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264394",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘백종원 클라쓰’ 백종원, 생애 첫 가마솥밥 도전",
+		"newsSubTitle": "",
+		"newsContent": "백종원이 첫 가마솥 밥 짓기에 도전한다. 21일 글로벌 음식 문화 토크쇼 KBS 2TV 예능 프로그램 ‘백종원 클라쓰’에서는 경주 특산물 연근을 이용한 가마솥 밥 레시피가 공개된다.\n이날 백종원은 외국인들에게는 낯설고 신기한 식재료인 연근을 넣어 솥밥을 만들기로 했다.\n그동안 가마솥으로 다채로운 요리를 선보여왔던 백종원은 “장작에 무쇠 솥밥은 해 본 적이 없다”며 섬세한 불 조절이 관건인 첫 가마솥 밥 도전을 앞두고 긴장했다.\n백종원의 자신감 없는 모습에 성시경은 “한 번 망할 타이밍이 오긴 했어요”라며 위로인 듯 놀림인 듯 헷갈리는 말을 남긴다.\n그런 가운데 솥뚜껑 사이로 새어 나오는 밥 냄새를 맡고 의미심장한 미소를 짓는 성시경과 불안해하는 백종원의 모습이 포착돼 연근 솥밥이 무사히 완성될 수 있을지 궁금증이 더해진다.\n한편 한식 마스터 백종원의 연근 설명을 듣던 미슐랭 셰프 파브리는 “연근이 유럽에서는 100g에 20만 원 정도”라고 밝혀 모두를 놀라게 했다.\n한국에선 너무 흔해서 잘 몰랐던 최고급 식재료 연근의 재발견은 오는 21일 오후 8시 30분 KBS 2TV ‘백종원 클라쓰’에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백종원이 첫 가마솥 밥 짓기에 도전한다. 21일 글로벌 음식 문화 토크쇼 KBS 2TV 예능 프로그램 ‘백종원 클라쓰’에서는 경주 특산물 연근을 이용한 가마솥 밥 레시피가 공개된다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 백종원은 외국인들에게는 낯설고 신기한 식재료인 연근을 넣어 솥밥을 만들기로 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그동안 가마솥으로 다채로운 요리를 선보여왔던 백종원은 “장작에 무쇠 솥밥은 해 본 적이 없다”며 섬세한 불 조절이 관건인 첫 가마솥 밥 도전을 앞두고 긴장했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "백종원의 자신감 없는 모습에 성시경은 “한 번 망할 타이밍이 오긴 했어요”라며 위로인 듯 놀림인 듯 헷갈리는 말을 남긴다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런 가운데 솥뚜껑 사이로 새어 나오는 밥 냄새를 맡고 의미심장한 미소를 짓는 성시경과 불안해하는 백종원의 모습이 포착돼 연근 솥밥이 무사히 완성될 수 있을지 궁금증이 더해진다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 한식 마스터 백종원의 연근 설명을 듣던 미슐랭 셰프 파브리는 “연근이 유럽에서는 100g에 20만 원 정도”라고 밝혀 모두를 놀라게 했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국에선 너무 흔해서 잘 몰랐던 최고급 식재료 연근의 재발견은 오는 21일 오후 8시 30분 KBS 2TV ‘백종원 클라쓰’에서 공개된다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘백종원 클라쓰’ 백종원, 생애 첫 가마솥밥 도전",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168306",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'복면가왕 음악대장' 후보 하현우, 생각나는 것은 \\\"옷 얇고, 바지 짧은 여자…?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕' 의 음악대장이 4연승을 거두어 화제인 가운데 그의 정체로 추정되는 하현우의 과거 발언도 눈길을 끈다.\n하현우는 2016년, Mnet 지산밸리 록 페스티벌 홍보 영상 '솔직히 말해서'에 출연했다. '록 페스티벌'하면 떠오르는 것이 무엇이냐는 질문에 하현우는 \\\"비·진흙·옷을 얇게 입은 여자들·바지를 짧게 입은 여자들\\\"이라고 대답하다가 \\\"농담이다\\\" 라며 웃음을 터뜨렸다.\n이어서 하현우는 \\\"공연을 보고 있다가 옆을 돌아봤더니 내가 아는 뮤지션이 손을 흔들면서 같이 공연을 보는 그런 이벤트 아니겠느냐\\\"고 답했다.\n\\\"록 페스티벌에 바라는 것이 있느냐\\\"는 질문에는 \\\"흡연 장소가 많아졌으면 좋겠고, 주차공간도 넓어지면 좋을 것 같고, 쉴 수 있는 공간이 좀 더 여유있었으면, 화장실이 좀 더 많아졌으면, 음식이 더 저렴했으면 좋겠다\\\" 고 답했다.\n이후 마지막으로 하현우는 \\\"하현우에게 밸리록이란?\\\" 이란 질문에 \\\"놀이터\\\" 라는 한마디로 답했다.\n한편 SNS와 온라인 커뮤니티 등지에서 누리꾼들은 '복면가왕'의 음악대장으로 '국카스텐'의 하현우를 지목하고 있다.\n온라인 중앙일보 [사진 네이버TV캐스트 Mnet '솔직히 말해서_하현우' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕' 의 음악대장이 4연승을 거두어 화제인 가운데 그의 정체로 추정되는 하현우의 과거 발언도 눈길을 끈다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하현우는 2016년, Mnet 지산밸리 록 페스티벌 홍보 영상 '솔직히 말해서'에 출연했다. '록 페스티벌'하면 떠오르는 것이 무엇이냐는 질문에 하현우는 \\\"비·진흙·옷을 얇게 입은 여자들·바지를 짧게 입은 여자들\\\"이라고 대답하다가 \\\"농담이다\\\" 라며 웃음을 터뜨렸다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어서 하현우는 \\\"공연을 보고 있다가 옆을 돌아봤더니 내가 아는 뮤지션이 손을 흔들면서 같이 공연을 보는 그런 이벤트 아니겠느냐\\\"고 답했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"록 페스티벌에 바라는 것이 있느냐\\\"는 질문에는 \\\"흡연 장소가 많아졌으면 좋겠고, 주차공간도 넓어지면 좋을 것 같고, 쉴 수 있는 공간이 좀 더 여유있었으면, 화장실이 좀 더 많아졌으면, 음식이 더 저렴했으면 좋겠다\\\" 고 답했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 마지막으로 하현우는 \\\"하현우에게 밸리록이란?\\\" 이란 질문에 \\\"놀이터\\\" 라는 한마디로 답했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 SNS와 온라인 커뮤니티 등지에서 누리꾼들은 '복면가왕'의 음악대장으로 '국카스텐'의 하현우를 지목하고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 네이버TV캐스트 Mnet '솔직히 말해서_하현우' 캡처]",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하현우 '솔직히 말해서', 과거 발언 눈길... 뭐라고 했길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261810",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "안예은, 27일 새 앨범 ‘용천동굴’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "싱어송라이터 안예은이 새 앨범 ‘용천동굴’로 컴백한다.\n소속사 더블엑스엔터테인먼트 공식 SNS 채널을 통해 공개된 컴백 콘텐츠 테이블에 따르면 ‘용천동굴’은 27일 오후 6시 발매 예정이다.\n콘텐츠 테이블에는 앨범 발매 전까지 소속사 공식 SNS 채널을 통해 이미지 티저, MV 티저 등 다양한 콘텐츠를 예고하고 있어 팬들의 기대를 한껏 높이고 있다.\n안예은은 지난 1월 로칼하이레코즈를 통해 싱글 ‘메롱해치’를 발매하며, 전설의 동물 해치를 캐릭터화한 ‘메롱해치’의 시선에서 그려낸 곡을 제작해 특유의 서정적인 분위기와 서사 깊은 가사로 대중들을 매료시킨 바 있다.\n이어 27일에 발매될 ‘용천동굴’ 또한 안예은이 어떤 방식으로 표현할지에 대한 기대감이 증폭되고 있다.\n한편, 안예은의 새 앨범 ‘용천동굴’은 27일 오후 6시 각종 음원사이트를 통해 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "싱어송라이터 안예은이 새 앨범 ‘용천동굴’로 컴백한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 더블엑스엔터테인먼트 공식 SNS 채널을 통해 공개된 컴백 콘텐츠 테이블에 따르면 ‘용천동굴’은 27일 오후 6시 발매 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "콘텐츠 테이블에는 앨범 발매 전까지 소속사 공식 SNS 채널을 통해 이미지 티저, MV 티저 등 다양한 콘텐츠를 예고하고 있어 팬들의 기대를 한껏 높이고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안예은은 지난 1월 로칼하이레코즈를 통해 싱글 ‘메롱해치’를 발매하며, 전설의 동물 해치를 캐릭터화한 ‘메롱해치’의 시선에서 그려낸 곡을 제작해 특유의 서정적인 분위기와 서사 깊은 가사로 대중들을 매료시킨 바 있다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 27일에 발매될 ‘용천동굴’ 또한 안예은이 어떤 방식으로 표현할지에 대한 기대감이 증폭되고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 안예은의 새 앨범 ‘용천동굴’은 27일 오후 6시 각종 음원사이트를 통해 공개될 예정이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안예은, 27일 새 앨범 ‘용천동굴’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

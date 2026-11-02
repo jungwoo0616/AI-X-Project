@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276112",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "BJ이치훈 \\\"임파선염에 몸살, 힘이 없다\\\" 글 1주만에…32세로 사망",
+		"newsSubTitle": "",
+		"newsContent": "코미디TV 예능프로그램 ‘얼짱시대’로 이름을 알린 아프리카TV BJ 이치훈이 세상을 떠났다.\n32세. 이치훈은 지난 19일 오전 사망했다.\n정확한 사인은 공식적으로 밝혀지지 않았다.\n이치훈은 지난 13일 자신의 아프리카 TV 채널에 “이틀 전부터 임파선염으로 병원 치료를 받고있는데 몸살까지 추가됐다”는 글을 남겼다.\n그는 “부디 코로나19가 아니길”이라며 “마우스 쥘 힘조차 나지 않는다. 다들 힘겨운 시기인데 잘 버텨보자”고 적었다.\n지난 2009년 Ystar ‘생방송 연예 인사이드’로 데뷔한 이치훈은 예능 ‘얼짱시대’와 ‘꽃미남 주식회사’로 얼굴을 알렸다.\n최근에는 아프리카TV BJ와 유튜버로 활동해왔다.\n빈소는 서울 강남세브란스병원 장례식장에 마련될 예정이며, 발인은 21일 오전이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코미디TV 예능프로그램 ‘얼짱시대’로 이름을 알린 아프리카TV BJ 이치훈이 세상을 떠났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "32세. 이치훈은 지난 19일 오전 사망했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정확한 사인은 공식적으로 밝혀지지 않았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이치훈은 지난 13일 자신의 아프리카 TV 채널에 “이틀 전부터 임파선염으로 병원 치료를 받고있는데 몸살까지 추가됐다”는 글을 남겼다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “부디 코로나19가 아니길”이라며 “마우스 쥘 힘조차 나지 않는다. 다들 힘겨운 시기인데 잘 버텨보자”고 적었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2009년 Ystar ‘생방송 연예 인사이드’로 데뷔한 이치훈은 예능 ‘얼짱시대’와 ‘꽃미남 주식회사’로 얼굴을 알렸다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에는 아프리카TV BJ와 유튜버로 활동해왔다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "빈소는 서울 강남세브란스병원 장례식장에 마련될 예정이며, 발인은 21일 오전이다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BJ이치훈 \\\"임파선염에 몸살, 힘이 없다\\\" 글 1주만에…32세로 사망",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

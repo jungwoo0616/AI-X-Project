@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277029",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "꽃밭에 숨어 김민재 훔쳐보는 아이린",
+		"newsSubTitle": "",
+		"newsContent": "레드벨벳 아이린이 사랑에 빠진 사람을 연기했다.\n지난 29일 SM 엔터테인먼트는 레드벨벳 신곡 'Would U' 뮤직비디오 2차 티저 영상을 공개했다.\n영상 속 아이린은 꽃밭에 숨어 배우 김민재를 훔쳐보며 봄날의 설렘 가득한 연기를 선보였다.\n정원을 거닐던 김민재가 뒤를 돌아보자 아이린은 꽃밭으로 몸을 숨기며 수줍어했다.\n이어 아이린은 정원 한가운데에 있는 선물 상자를 열었고 '비밀의 화원으로 오세요'라는 문구가 튀어나왔다.\n이는 지난 24일 공개한 1차 티저 영상과 이어지는 장면으로, 당시 아이린은 '정글로 이동하세요'라는 문구를 발견했다.\n레드벨벳 신곡 'Would U'는 31일 각종 음악 사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레드벨벳 아이린이 사랑에 빠진 사람을 연기했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 29일 SM 엔터테인먼트는 레드벨벳 신곡 'Would U' 뮤직비디오 2차 티저 영상을 공개했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 아이린은 꽃밭에 숨어 배우 김민재를 훔쳐보며 봄날의 설렘 가득한 연기를 선보였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정원을 거닐던 김민재가 뒤를 돌아보자 아이린은 꽃밭으로 몸을 숨기며 수줍어했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 아이린은 정원 한가운데에 있는 선물 상자를 열었고 '비밀의 화원으로 오세요'라는 문구가 튀어나왔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 지난 24일 공개한 1차 티저 영상과 이어지는 장면으로, 당시 아이린은 '정글로 이동하세요'라는 문구를 발견했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "레드벨벳 신곡 'Would U'는 31일 각종 음악 사이트를 통해 공개된다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "꽃밭에 숨어 김민재 훔쳐보는 아이린",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

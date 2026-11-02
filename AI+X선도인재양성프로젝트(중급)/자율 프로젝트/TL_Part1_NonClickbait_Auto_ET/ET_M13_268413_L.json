@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268413",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "볼빨간사춘기 ‘Seoul’ 전석 매진",
+		"newsSubTitle": "",
+		"newsContent": "2022 볼빨간사춘기 단독 콘서트 ‘Seoul’이 전석 매진을 기록했다.\n지난 20일 새 미니앨범 ‘Seoul’로 리스너들의 마음을 사로잡은 볼빨간사춘기가 5월 14일과 15일 단독 콘서트 ‘Seoul’을 개최한다.\n인터파크 티켓을 통해 진행된 ‘Seoul’ 예매는 양일 총 6천 석 규모의 대형 콘서트임에도 불구하고 전석이 매진되며 볼빨간사춘기의 티켓 파워를 다시 한번 입증했다.\n특히 이번 콘서트는 지난 2019년 진행된 전국투어 이후 약 3년 만에 재개되는 공연이라는 점에서 더욱 관심을 모았으며, 지난 26일 공개된 ‘킬링보이스’ 콘텐츠를 통해 콘서트를 방불케하는 라이브를 보여주며 이번 콘서트에 대한 기대감을 증폭시켰다.\n볼빨간사춘기는 이번 공연을 통해 신곡은 물론 그동안의 히트곡들을 불러내며 풍성한 무대로 관객들을 사로잡을 계획이다.\n볼빨간사춘기 단독 콘서트 ‘Seoul’은 오는 14일과 15일 양일간 서울 올림픽공원 올림픽홀에서 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2022 볼빨간사춘기 단독 콘서트 ‘Seoul’이 전석 매진을 기록했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일 새 미니앨범 ‘Seoul’로 리스너들의 마음을 사로잡은 볼빨간사춘기가 5월 14일과 15일 단독 콘서트 ‘Seoul’을 개최한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인터파크 티켓을 통해 진행된 ‘Seoul’ 예매는 양일 총 6천 석 규모의 대형 콘서트임에도 불구하고 전석이 매진되며 볼빨간사춘기의 티켓 파워를 다시 한번 입증했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 콘서트는 지난 2019년 진행된 전국투어 이후 약 3년 만에 재개되는 공연이라는 점에서 더욱 관심을 모았으며, 지난 26일 공개된 ‘킬링보이스’ 콘텐츠를 통해 콘서트를 방불케하는 라이브를 보여주며 이번 콘서트에 대한 기대감을 증폭시켰다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "볼빨간사춘기는 이번 공연을 통해 신곡은 물론 그동안의 히트곡들을 불러내며 풍성한 무대로 관객들을 사로잡을 계획이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "볼빨간사춘기 단독 콘서트 ‘Seoul’은 오는 14일과 15일 양일간 서울 올림픽공원 올림픽홀에서 진행된다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "볼빨간사춘기 ‘Seoul’ 전석 매진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171550",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "아이브(IVE), 모이니까 더 예쁘네",
+    "newsSubTitle": "",
+    "newsContent": "신예 아이브(IVE)의 콘셉트 포토가 모두 베일을 벗었다.\n지난 25일 오후 아이브 공식 SNS 채널을 통해 첫 번째 싱글 ‘ELEVEN(일레븐)’의 단체 콘셉트 포토가 공개됐다.\n공개된 사진 속 아이브는 세련되고 개성 넘치는 올블랙 스타일링으로 감각적이면서도 시크한 분위기를 자아냈다. ‘ELEVEN’은 최고의 멤버들이 다채로운 조합으로 이루어졌다는 의미를 담았다.\n완벽한 포메이션을 이룬 아이브의 트렌디한 음악과 퍼포먼스, 비주얼을 고루 갖춰 이들의 아이덴티티를 각인시킬 앨범으로, 동명의 타이틀 ‘ELEVEN’을 통해 사랑에 빠진 소녀의 마음이 환상적인 색깔로 물들어가는 모습을 그려낼 예정이다.\n성장형 그룹의 스토리가 아닌 완성형 그룹으로서의 매력을 예고한 아이브는 스타쉽엔터테인먼트가 5년 만에 선보이는 걸그룹이다. ‘I HAVE = IVE’라는 의미 속 이들이 가진 것들을 아이브스러운 매력으로 보여주겠다는 포부를 안고 가요계 출격을 준비 중이다.\n데뷔 준비에 박차를 가하고 있는 아이브의 첫 번째 싱글 ‘ELEVEN’은 오는 12월 1일 오후 6시 각종 온라인 음원 사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 아이브(IVE)의 콘셉트 포토가 모두 베일을 벗었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 25일 오후 아이브 공식 SNS 채널을 통해 첫 번째 싱글 ‘ELEVEN(일레븐)’의 단체 콘셉트 포토가 공개됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 아이브는 세련되고 개성 넘치는 올블랙 스타일링으로 감각적이면서도 시크한 분위기를 자아냈다. ‘ELEVEN’은 최고의 멤버들이 다채로운 조합으로 이루어졌다는 의미를 담았다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "완벽한 포메이션을 이룬 아이브의 트렌디한 음악과 퍼포먼스, 비주얼을 고루 갖춰 이들의 아이덴티티를 각인시킬 앨범으로, 동명의 타이틀 ‘ELEVEN’을 통해 사랑에 빠진 소녀의 마음이 환상적인 색깔로 물들어가는 모습을 그려낼 예정이다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "성장형 그룹의 스토리가 아닌 완성형 그룹으로서의 매력을 예고한 아이브는 스타쉽엔터테인먼트가 5년 만에 선보이는 걸그룹이다. ‘I HAVE = IVE’라는 의미 속 이들이 가진 것들을 아이브스러운 매력으로 보여주겠다는 포부를 안고 가요계 출격을 준비 중이다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "데뷔 준비에 박차를 가하고 있는 아이브의 첫 번째 싱글 ‘ELEVEN’은 오는 12월 1일 오후 6시 각종 온라인 음원 사이트를 통해 공개된다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "완성형 신예 '이 그룹', 그들의 데뷔 포부는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

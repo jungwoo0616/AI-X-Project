@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282514",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'부탁해요 엄마' 조보아 최태준, 부재중 전화 25통 남겨…'대박이네'",
+		"newsSubTitle": "",
+		"newsContent": "‘부탁해요 엄마’ 조보아가 최태준에게 집착했다.\n28일 방송된 KBS2 주말드라마 ‘부탁해요, 엄마’에서 장채리(조보아)는 이형순(최태준)이 일을 나가자 무료함을 느꼈다.\n하루 종일 무료해하던 장채리는 형순에게 전화를 걸었다.\n하지만 형순은 일하느라 전화를 받지 못했다.\n서빙을 하다 자신의 휴대폰을 확인한 형순은 ‘부재중 전화 25통’이 찍힌 걸 보고 다시 채리에게 전화를 걸었다.\n채리는 전화를 받자마자 “오빠~ 일 나간지 5시간이나 됐는데 연락 한번도 없어”라며 앙탈을 부렸다.\n한편 KBS 2TV 주말드라마 '부탁해요 엄마' 시청률이 하락하면서 MBC '내딸 금사월'에 1위를 내줬다.\n온라인 중앙일보 [사진 KBS2 ‘부탁해요, 엄마’ 방송화면 캡처] ‘부탁해요 엄마’ 조보아 최태준",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘부탁해요 엄마’ 조보아가 최태준에게 집착했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 방송된 KBS2 주말드라마 ‘부탁해요, 엄마’에서 장채리(조보아)는 이형순(최태준)이 일을 나가자 무료함을 느꼈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하루 종일 무료해하던 장채리는 형순에게 전화를 걸었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 형순은 일하느라 전화를 받지 못했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서빙을 하다 자신의 휴대폰을 확인한 형순은 ‘부재중 전화 25통’이 찍힌 걸 보고 다시 채리에게 전화를 걸었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "채리는 전화를 받자마자 “오빠~ 일 나간지 5시간이나 됐는데 연락 한번도 없어”라며 앙탈을 부렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 KBS 2TV 주말드라마 '부탁해요 엄마' 시청률이 하락하면서 MBC '내딸 금사월'에 1위를 내줬다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS2 ‘부탁해요, 엄마’ 방송화면 캡처] ‘부탁해요 엄마’ 조보아 최태준",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'부탁해요 엄마' 조보아 최태준, 부재중 전화 25통 남겨…'대박이네'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

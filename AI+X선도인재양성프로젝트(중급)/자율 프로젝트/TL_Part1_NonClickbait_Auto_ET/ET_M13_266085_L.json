@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266085",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘22일 컴백’ 김성규, 미니 4집 스케줄러 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 김성규가 본격적인 컴백 예열에 나섰다.\n소속사 더블에이치티엔이는 6일 0시 공식 SNS를 통해 김성규의 네 번째 미니 앨범 ‘세이비어(SAVIOR)’의 컴백 스케줄러 이미지를 공개했다.\n공개된 컴백 스케줄러에 따르면 오는 8일 첫 번째 콘셉트 포토를 시작으로 트랙리스트, 뮤직비디오 티저, 하이라이트 메들리 등이 순차적으로 오픈돼 김성규의 컴백 열기를 끌어올릴 계획이다.\n또 앨범 발매 당일 네 번째 단독 콘서트 ‘LV’를 개최하는 만큼, 김성규가 콘서트에서 신곡 무대를 최초로 공개할지 팬들의 이목이 집중되고 있다.\n김성규는 지난해 3월 발매한 첫 싱글 ‘원트 포겟 유(Won’t Forget You)’ 이후 약 1년 1개월 만에 신보를 발표하고 화려한 컴백을 알린다.\n특히 새 소속사 더블에이치티엔이에 합류한 뒤 처음으로 발표하는 앨범이라는 점에서 더욱 뜨거운 관심이 쏠린다.\n김성규의 네 번째 미니 앨범 ‘세이비어(SAVIOR)’는 오는 22일 각종 음원 사이트를 통해 발매된다.\n김성규는 새 앨범 발매에 맞춰 오는 22일부터 24일까지 서울 송파구 잠실동 잠실실내체육관에서 네 번째 단독 콘서트 ‘LV’를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김성규가 본격적인 컴백 예열에 나섰다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 더블에이치티엔이는 6일 0시 공식 SNS를 통해 김성규의 네 번째 미니 앨범 ‘세이비어(SAVIOR)’의 컴백 스케줄러 이미지를 공개했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 컴백 스케줄러에 따르면 오는 8일 첫 번째 콘셉트 포토를 시작으로 트랙리스트, 뮤직비디오 티저, 하이라이트 메들리 등이 순차적으로 오픈돼 김성규의 컴백 열기를 끌어올릴 계획이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 앨범 발매 당일 네 번째 단독 콘서트 ‘LV’를 개최하는 만큼, 김성규가 콘서트에서 신곡 무대를 최초로 공개할지 팬들의 이목이 집중되고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김성규는 지난해 3월 발매한 첫 싱글 ‘원트 포겟 유(Won’t Forget You)’ 이후 약 1년 1개월 만에 신보를 발표하고 화려한 컴백을 알린다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 새 소속사 더블에이치티엔이에 합류한 뒤 처음으로 발표하는 앨범이라는 점에서 더욱 뜨거운 관심이 쏠린다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김성규의 네 번째 미니 앨범 ‘세이비어(SAVIOR)’는 오는 22일 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김성규는 새 앨범 발매에 맞춰 오는 22일부터 24일까지 서울 송파구 잠실동 잠실실내체육관에서 네 번째 단독 콘서트 ‘LV’를 개최한다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘22일 컴백’ 김성규, 미니 4집 스케줄러 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

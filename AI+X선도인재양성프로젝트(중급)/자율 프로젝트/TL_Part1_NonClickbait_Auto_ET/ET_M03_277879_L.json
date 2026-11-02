@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277879",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘복면가왕‘ 문학소녀 정체는 호란, 김구라 “걸음걸이와 목소리로 확신”",
+		"newsSubTitle": "",
+		"newsContent": "복면가왕 ‘문학소녀’의 정체는 가수 호란으로 밝혀졌다.\n지난 11일 방송된 MBC 예능 프로그램 ‘일밤-복면가왕’에서는 ‘오늘 밤엔 어둠이 무서워요 석봉이’에게 패한 ‘읽어서 남 주나 문학소녀’의 정체가 공개됐다.\n2라운드에 진출한 ‘문학소녀’는 정미조의 ‘개여울’을 선곡해 1라운드와는 다른 원숙한 목소리를 선보였다.\n이에 호란의 정체가 공개되자 판정단들을 놀란 기색을 감추지 못했다. ‘문학소녀’를 호란으로 예측했던 김구라는 “지난주에 걸어가는 모습이 (호란) 특유의 카리스마 있는 걸음걸이라고 생각했다. 이번주에 목소리를 들어보고는 더욱 확신했다”고 언급했다.\n조장혁은 “아니 어떻게 그렇게 노숙(?)하게 노래할 수 있어요?”라며 놀라움을 감추지 못했고, 이에 MC 김성주는 “평소 많이 들었던 목소리지만 원숙한 감정 표현 때문에 더 연륜 있게 보여서 헷갈렸던 것 같다”고 전했다.\n한편 MBC'일밤-복면가왕‘은 매주 일요일 오후 4시 50분에 방송된다.\n온라인 중앙일보 [사진 MBC 캡쳐]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "복면가왕 ‘문학소녀’의 정체는 가수 호란으로 밝혀졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 11일 방송된 MBC 예능 프로그램 ‘일밤-복면가왕’에서는 ‘오늘 밤엔 어둠이 무서워요 석봉이’에게 패한 ‘읽어서 남 주나 문학소녀’의 정체가 공개됐다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2라운드에 진출한 ‘문학소녀’는 정미조의 ‘개여울’을 선곡해 1라운드와는 다른 원숙한 목소리를 선보였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 호란의 정체가 공개되자 판정단들을 놀란 기색을 감추지 못했다. ‘문학소녀’를 호란으로 예측했던 김구라는 “지난주에 걸어가는 모습이 (호란) 특유의 카리스마 있는 걸음걸이라고 생각했다. 이번주에 목소리를 들어보고는 더욱 확신했다”고 언급했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조장혁은 “아니 어떻게 그렇게 노숙(?)하게 노래할 수 있어요?”라며 놀라움을 감추지 못했고, 이에 MC 김성주는 “평소 많이 들었던 목소리지만 원숙한 감정 표현 때문에 더 연륜 있게 보여서 헷갈렸던 것 같다”고 전했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 MBC'일밤-복면가왕‘은 매주 일요일 오후 4시 50분에 방송된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC 캡쳐]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘복면가왕‘ 문학소녀 정체는 호란, 김구라 “걸음걸이와 목소리로 확신”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

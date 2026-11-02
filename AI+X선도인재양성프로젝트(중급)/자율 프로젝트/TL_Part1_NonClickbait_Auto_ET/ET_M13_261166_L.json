@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261166",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘러브게임’ 공찬 “데뷔 전 노래방서 부끄러워 노래 못 불러”",
+		"newsSubTitle": "",
+		"newsContent": "‘박소현의 러브게임’ 허영지가 추억 소환 곡을 추천했다.\n16일 오후 방송된 SBS 파워FM ‘박소현의 러브게임’에서는 허영지, B1A4 공찬이 함께했다.\n이날 허영지는 쾌걸춘향 드라마 OST 이지 ‘응급실’을 추천했다.\n그는 “플레이리스트에 옛날 곡들이 많다. 이 곡이 나왔는데 한 번 더 쳐다보게 되더라. 설레는 도입부 부분부터 해서 추억이 돋았다”라고 말했다.\n박소현은 “노래 조금 한 다는 남자분들이 노래방 가면 꼭 불렀던 곡이지 않냐. 공찬 씨는 이 세대인가요?”라고 물었다.\n그 말에 공찬은 “이 세대 맞다. 저는 이 노래를 부르기보다 많이 들었다. 산들이 형이 이 노래를 열심히 불렀다”라고 밝혔다.\n가수 되기 전 노래방에서 어떤 곡을 불렀냐는 물음에 공찬은 “저는 안 불렀다. 친구들의 노래를 평가해주고 들어줬다. 부끄러워서 못 불렀다”라며 웃어 보였다.\n한편 SBS 파워FM ‘박소현의 러브게임’은 매일 오후 6시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘박소현의 러브게임’ 허영지가 추억 소환 곡을 추천했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 오후 방송된 SBS 파워FM ‘박소현의 러브게임’에서는 허영지, B1A4 공찬이 함께했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 허영지는 쾌걸춘향 드라마 OST 이지 ‘응급실’을 추천했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “플레이리스트에 옛날 곡들이 많다. 이 곡이 나왔는데 한 번 더 쳐다보게 되더라. 설레는 도입부 부분부터 해서 추억이 돋았다”라고 말했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박소현은 “노래 조금 한 다는 남자분들이 노래방 가면 꼭 불렀던 곡이지 않냐. 공찬 씨는 이 세대인가요?”라고 물었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 말에 공찬은 “이 세대 맞다. 저는 이 노래를 부르기보다 많이 들었다. 산들이 형이 이 노래를 열심히 불렀다”라고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가수 되기 전 노래방에서 어떤 곡을 불렀냐는 물음에 공찬은 “저는 안 불렀다. 친구들의 노래를 평가해주고 들어줬다. 부끄러워서 못 불렀다”라며 웃어 보였다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 SBS 파워FM ‘박소현의 러브게임’은 매일 오후 6시에 방송된다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘러브게임’ 공찬 “데뷔 전 노래방서 부끄러워 노래 못 불러”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

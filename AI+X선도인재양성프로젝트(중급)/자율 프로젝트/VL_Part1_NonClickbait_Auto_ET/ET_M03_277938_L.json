@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277938",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "빅스 '더쇼' 1위 기념 '남친짤' 공개 \\\"별빛 고마워\\\"",
+		"newsSubTitle": "",
+		"newsContent": "빅스 엔과 켄의 '더쇼' 인증샷을 공개해 화제가 되고 있다.\n23일 빅스 공식 트위터는 \\\"20160823 더쇼. 별빛 고마워. 엔엠씨\\\", \\\"켄. 남친짤이라고 켄요원이 말했다\\\"라는 글과 함께 두 장의 사진을 게재했다.\n공개된 사진 속에는 23일 오후 방송된 SBS MTV '더쇼'의 스페셜 MC를 맡은 엔과 카메라를 들고 윙크 중인 켄의 모습이 드러나 있다.\n특히 두 사람의 매력 넘치는 포즈와 훈훈한 표정이 눈길을 사로잡는다.\n이날 빅스는 타이틀곡 '판타지(Fantasy)'로 1위를 차지하기도 했다.\n한편 빅스는 지난 12일 여섯 번째 싱글 '하데스(Hades)'를 발매한 뒤 활발하게 활동하고 있다.\n온라인 중앙일보 [사진 '빅스' 공식 트위터]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅스 엔과 켄의 '더쇼' 인증샷을 공개해 화제가 되고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 빅스 공식 트위터는 \\\"20160823 더쇼. 별빛 고마워. 엔엠씨\\\", \\\"켄. 남친짤이라고 켄요원이 말했다\\\"라는 글과 함께 두 장의 사진을 게재했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 23일 오후 방송된 SBS MTV '더쇼'의 스페셜 MC를 맡은 엔과 카메라를 들고 윙크 중인 켄의 모습이 드러나 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 두 사람의 매력 넘치는 포즈와 훈훈한 표정이 눈길을 사로잡는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 빅스는 타이틀곡 '판타지(Fantasy)'로 1위를 차지하기도 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 빅스는 지난 12일 여섯 번째 싱글 '하데스(Hades)'를 발매한 뒤 활발하게 활동하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 '빅스' 공식 트위터]",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅스 '더쇼' 1위 기념 '남친짤' 공개 \\\"별빛 고마워\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

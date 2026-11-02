@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277691",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이돌로 데뷔할 뻔한 배우 5인",
+		"newsSubTitle": "",
+		"newsContent": "아이돌로 데뷔했어도 충분히 사랑을 받았을 것 같지만, 이젠 우리에겐 없어선 안될 배우 5명이 있다.\n아이돌이 되기 위해 연습생 생활을 하다 배우의 길을 걷게 된 배우 5명을 소개한다.1. 박보검 박보검은 고2 때부터 가수 연습생을 했다.\n하지만 소속사는 박보검에게 배우가 어울릴 것 같다며 권유했고 그 후로 박보검은 배우로 데뷔하게 됐다.\n2. 이하늬 이하늬는 YG서 연습생 생활을 통해 2NE1 멤버가 될 뻔 했다고 알려졌다.\n3. 유아인 배우 유아인은 16살에 캐스팅돼 아이돌 가수가 되기 위해 연습생 생활을 했다고 알려졌다.\n유아인은 KBS 2TV 드라마 '반올림'을 통해 배우의 길을 걷기 시작했다.\n4. 이종석 모델로 데뷔한 이종석은 아이돌 연습과 모델 활동을 같이 했었다.\n5. 민효린 민효린은 JYP 연습생으로 발탁됐었으나 대구서 서울로 출근하는 생활이 너무 벅차 포기했다고 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌로 데뷔했어도 충분히 사랑을 받았을 것 같지만, 이젠 우리에겐 없어선 안될 배우 5명이 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이돌이 되기 위해 연습생 생활을 하다 배우의 길을 걷게 된 배우 5명을 소개한다.1. 박보검 박보검은 고2 때부터 가수 연습생을 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 소속사는 박보검에게 배우가 어울릴 것 같다며 권유했고 그 후로 박보검은 배우로 데뷔하게 됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2. 이하늬 이하늬는 YG서 연습생 생활을 통해 2NE1 멤버가 될 뻔 했다고 알려졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3. 유아인 배우 유아인은 16살에 캐스팅돼 아이돌 가수가 되기 위해 연습생 생활을 했다고 알려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유아인은 KBS 2TV 드라마 '반올림'을 통해 배우의 길을 걷기 시작했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "4. 이종석 모델로 데뷔한 이종석은 아이돌 연습과 모델 활동을 같이 했었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5. 민효린 민효린은 JYP 연습생으로 발탁됐었으나 대구서 서울로 출근하는 생활이 너무 벅차 포기했다고 알려졌다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이돌로 데뷔할 뻔한 배우 5인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

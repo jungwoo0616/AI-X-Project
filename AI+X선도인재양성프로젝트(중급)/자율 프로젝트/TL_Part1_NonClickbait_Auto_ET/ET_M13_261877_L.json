@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261877",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘♥마이큐’ 김나영, 블랙핑크 제니와 반전 인맥 자랑",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김나영이 블랙핑크(BLACK PINK) 멤버 제니의 선물을 인증했다.\n23일 오전 방송인 김나영은 자신의 인스타그램 스토리를 통해 영상을 게재했다.\n공개된 영상에는 김나영이 거대한 크기의 선물박스를 풀어보는 모습이 담겨 있다.\n박스를 열자 화려한 색상의 꽃다발이 들어있었다.\n어마어마한 크기의 꽃다발은 한손으로 들기에 힘들 정도로 보인다.\n뿐만 아니라 그 옆에는 선글라스도 함께 있다.\n해당 선물은 블랙핑크 제니가 최근 지인들에게 보내고 있는 선물이다.\n김나영의 의외의 인맥을 자랑해 놀라움을 자아낸다.\n한편 김나영은 슬하에 두 아들을 홀로 키우고 있다.\n최근 JTBC 예능 프로그램 ‘용감한 솔로 육아-내가 키운다’에 출연하며 아들들과의 일상을 공유한 바 있다.\n또한 김나영은 최근 화가 겸 가수 마이큐와의 연애를 공식 인정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김나영이 블랙핑크(BLACK PINK) 멤버 제니의 선물을 인증했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 오전 방송인 김나영은 자신의 인스타그램 스토리를 통해 영상을 게재했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 김나영이 거대한 크기의 선물박스를 풀어보는 모습이 담겨 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박스를 열자 화려한 색상의 꽃다발이 들어있었다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어마어마한 크기의 꽃다발은 한손으로 들기에 힘들 정도로 보인다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뿐만 아니라 그 옆에는 선글라스도 함께 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 선물은 블랙핑크 제니가 최근 지인들에게 보내고 있는 선물이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김나영의 의외의 인맥을 자랑해 놀라움을 자아낸다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 김나영은 슬하에 두 아들을 홀로 키우고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근 JTBC 예능 프로그램 ‘용감한 솔로 육아-내가 키운다’에 출연하며 아들들과의 일상을 공유한 바 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또한 김나영은 최근 화가 겸 가수 마이큐와의 연애를 공식 인정했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘♥마이큐’ 김나영, 블랙핑크 제니와 반전 인맥 자랑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

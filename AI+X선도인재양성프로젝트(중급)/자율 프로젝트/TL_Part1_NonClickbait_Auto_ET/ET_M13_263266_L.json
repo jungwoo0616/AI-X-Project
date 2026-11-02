@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263266",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단(BTS) 가사 아파트 외벽에 떴다",
+		"newsSubTitle": "",
+		"newsContent": "이한철의 ‘슈퍼스타’, 방탄소년단(BTS)의 ‘작은 것들을 위한 시’, 유재석·이적의 ‘말하는 대로’ 등 아름다운 노래 가사가 야간시간대 아파트 외벽을 장식했다.\n지난해 12월 중순부터 아파트 벽면에 글빛 조명을 선보이고 있는 경기 성남시 분당구 수내동 양지마을 한양아파트 1단지 입주자대표회는 최선을 다해 하루를 보낸 입주민과 이웃 아파트 단지 주민, 늦은 밤 주변 학원에서 수업을 마치고 나온 학생들을 위해 힘이 나는 글빛(로고라이트)을 기획했다고 8일 전했다.\n글귀는 매달 공모를 진행해 주민 투표로 당선작을 선정한다.\n당선작 글빛은 매주 월요일부터 1주일간 야간시간대에 선보인다.\n동절기인 요즘은 오후 6시30분부터 다음날 오전 2시까지 509동 벽면에 조명을 쏜다.\n아파트 측은 “단지 내 테니스장에 글빛 조명 장비를 설치하는데 230만원이 들었고 매주 새 시안을 제작하는데 9만원씩 들지만, 코로나로 지친 주민들에게 작게나마 위안이 됐으면 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이한철의 ‘슈퍼스타’, 방탄소년단(BTS)의 ‘작은 것들을 위한 시’, 유재석·이적의 ‘말하는 대로’ 등 아름다운 노래 가사가 야간시간대 아파트 외벽을 장식했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 12월 중순부터 아파트 벽면에 글빛 조명을 선보이고 있는 경기 성남시 분당구 수내동 양지마을 한양아파트 1단지 입주자대표회는 최선을 다해 하루를 보낸 입주민과 이웃 아파트 단지 주민, 늦은 밤 주변 학원에서 수업을 마치고 나온 학생들을 위해 힘이 나는 글빛(로고라이트)을 기획했다고 8일 전했다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글귀는 매달 공모를 진행해 주민 투표로 당선작을 선정한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당선작 글빛은 매주 월요일부터 1주일간 야간시간대에 선보인다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "동절기인 요즘은 오후 6시30분부터 다음날 오전 2시까지 509동 벽면에 조명을 쏜다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아파트 측은 “단지 내 테니스장에 글빛 조명 장비를 설치하는데 230만원이 들었고 매주 새 시안을 제작하는데 9만원씩 들지만, 코로나로 지친 주민들에게 작게나마 위안이 됐으면 한다”고 말했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단(BTS) 가사 아파트 외벽에 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

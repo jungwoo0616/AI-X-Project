@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261093",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "솔지, 첫 단독콘서트 ‘First Letter’ 연다",
+		"newsSubTitle": "",
+		"newsContent": "가수 솔지가 첫번째 단독 콘서트로 팬들을 만난다.\n솔지의 첫 단독 콘서트는 다가오는 3월 26일(토)부터 27일(일)까지 양일간 백암아트홀에서 개최되며 첫 콘서트를 기다려왔던 팬들에게 따뜻한 인사와 노래를 건넬 예정이다.\n지난 2020년 첫 싱글 앨범 ‘오늘따라 비가 와서 그런가 봐’를 발매하며 본격적인 솔로 아티스트 활동을 시작한 솔지는 시원한 고음으로 사랑받으며 성공적인 홀로서기를 시작했다.\n특히 이번 콘서트에서는 오는 25일 발매 예정인 첫 미니앨범 ‘First Letter’의 곡들을 라이브로 만날 수 있는 첫 공연이라 더욱 기대를 모으고 있다.\n솔지의 첫 미니 앨범 ‘First Letter’는 겨울 끝자락에 잘 어울리는 음악들을 담은 앨범으로 솔지만의 독보적인 가창력과 감성적인 음색이 돋보이는 타이틀 곡 ‘계절이 끝에서’를 비롯 이별의 아픔이 담긴 발라드 곡 ‘이렇게 헤어지고 있어’, 리듬감이 돋보이는 소울 곡 ‘Pillow’와 ‘Have a good day’등 총 6개의 트랙을 담아낼 예정으로 발매 소식과 동시에 큰 기대를 모으고 있다.\n솔지의 첫 번째 미니앨범 ‘First Letter’는 오는 25일 오후 6시 각종 음원사이트를 통해 공개되며, 첫 단독 콘서트는 오는 3월 26-27일 양일간 백암아트홀에서 개최, 2월 18일(금) 오후 2시부터 티켓링크에서 예매할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 솔지가 첫번째 단독 콘서트로 팬들을 만난다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "솔지의 첫 단독 콘서트는 다가오는 3월 26일(토)부터 27일(일)까지 양일간 백암아트홀에서 개최되며 첫 콘서트를 기다려왔던 팬들에게 따뜻한 인사와 노래를 건넬 예정이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 2020년 첫 싱글 앨범 ‘오늘따라 비가 와서 그런가 봐’를 발매하며 본격적인 솔로 아티스트 활동을 시작한 솔지는 시원한 고음으로 사랑받으며 성공적인 홀로서기를 시작했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 콘서트에서는 오는 25일 발매 예정인 첫 미니앨범 ‘First Letter’의 곡들을 라이브로 만날 수 있는 첫 공연이라 더욱 기대를 모으고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "솔지의 첫 미니 앨범 ‘First Letter’는 겨울 끝자락에 잘 어울리는 음악들을 담은 앨범으로 솔지만의 독보적인 가창력과 감성적인 음색이 돋보이는 타이틀 곡 ‘계절이 끝에서’를 비롯 이별의 아픔이 담긴 발라드 곡 ‘이렇게 헤어지고 있어’, 리듬감이 돋보이는 소울 곡 ‘Pillow’와 ‘Have a good day’등 총 6개의 트랙을 담아낼 예정으로 발매 소식과 동시에 큰 기대를 모으고 있다.",
+				"sentenceSize": 224
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "솔지의 첫 번째 미니앨범 ‘First Letter’는 오는 25일 오후 6시 각종 음원사이트를 통해 공개되며, 첫 단독 콘서트는 오는 3월 26-27일 양일간 백암아트홀에서 개최, 2월 18일(금) 오후 2시부터 티켓링크에서 예매할 수 있다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "솔지, 첫 단독콘서트 ‘First Letter’ 연다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

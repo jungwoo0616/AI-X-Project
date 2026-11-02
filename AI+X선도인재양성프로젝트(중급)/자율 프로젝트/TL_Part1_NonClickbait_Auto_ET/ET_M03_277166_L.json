@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277166",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "딘딘 \\\"전단지 차갑게 거절하는 여친, 인격이 보여 헤어졌다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "딘딘이방송에서 공개한 여자친구 삼는 기준이 온라인상에서 화제다.\n지난 12일 방송된 JTBC '차이나는 클라스 - 질문 있습니다'에 출연한 래퍼 딘딘은 자신이여자친구를 삼는 기준에 대해 밝혔다.\n이날 함께 출연한 오상진은 과거 집회에 나가 전단지를 나눠줬던 일을 회상하며 \\\"그날 이후로 길거리에서 전단지를 두 세장씩 받는다\\\"고 말했다.\n이에 딘딘은 과거 여자친구와 길거리 전단지 때문에 헤어졌던 이야기를 꺼냈다.\n딘딘은 \\\"길거리에서 여자친구가 전단지를 차갑게 거절하면 '얘랑 그만 만나야겠다'는 생각을 한다\\\"며 자신의 생각을 밝혔다.\n이어 \\\"짧은 순간에도 그 사람 인격이 보인다\\\"며 단호한 모습을 보여 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "딘딘이방송에서 공개한 여자친구 삼는 기준이 온라인상에서 화제다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 12일 방송된 JTBC '차이나는 클라스 - 질문 있습니다'에 출연한 래퍼 딘딘은 자신이여자친구를 삼는 기준에 대해 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 함께 출연한 오상진은 과거 집회에 나가 전단지를 나눠줬던 일을 회상하며 \\\"그날 이후로 길거리에서 전단지를 두 세장씩 받는다\\\"고 말했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 딘딘은 과거 여자친구와 길거리 전단지 때문에 헤어졌던 이야기를 꺼냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "딘딘은 \\\"길거리에서 여자친구가 전단지를 차갑게 거절하면 '얘랑 그만 만나야겠다'는 생각을 한다\\\"며 자신의 생각을 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"짧은 순간에도 그 사람 인격이 보인다\\\"며 단호한 모습을 보여 웃음을 자아냈다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "딘딘 \\\"전단지 차갑게 거절하는 여친, 인격이 보여 헤어졌다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

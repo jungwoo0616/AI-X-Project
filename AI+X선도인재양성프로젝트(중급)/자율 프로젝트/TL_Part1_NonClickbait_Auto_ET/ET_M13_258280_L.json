@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258280",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘불후의 명곡’ 미쳤다! 효린&리아킴",
+		"newsSubTitle": "",
+		"newsContent": "가수 효린이 역대급 컬래버 무대로 돌아왔다.\n효린은 지난 15일 오후 6시 5분 방송된 KBS2 ‘불후의 명곡’에 출연해 리아킴과 화려한 컬래버 무대를 선보였다.\n이날 1회 우승 후 ‘불후의 명곡’을 다시 찾은 효린은 반가움을 표하며 출연진과 유쾌한 토크를 이어갔다.\n효린은 연습생 시절 리아킴이 댄스 선생님이었음을 밝히며 놀라움을 자아냈다.\n리아킴의 퍼포먼스로 시작된 ‘치티치티뱅뱅’ 무대에서 효린은 폭발적인 가창력을 자랑하는가 하면, 안무를 깔끔하게 소화하며 출연진의 시선을 집중시켰다.\n특히 효린과 리아킴이 ‘치티치티뱅뱅’에서 자동차 시동을 걸고 질주하는 안무를 소화하자, 출연진 석에서는 감탄이 터져 나왔다.\n신효범은 “효린 씨가 경지에 오른 것 같다”라고 극찬하며 마지막까지 눈을 떼지 못했다.\n한편 ‘불후의 명곡’에서 강렬한 존재감을 발산한 효린은 16일 SBS ‘인기가요’에도 출격해 신곡 ‘Layin’ Low’(레인 로우) 무대를 선보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 효린이 역대급 컬래버 무대로 돌아왔다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "효린은 지난 15일 오후 6시 5분 방송된 KBS2 ‘불후의 명곡’에 출연해 리아킴과 화려한 컬래버 무대를 선보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 1회 우승 후 ‘불후의 명곡’을 다시 찾은 효린은 반가움을 표하며 출연진과 유쾌한 토크를 이어갔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "효린은 연습생 시절 리아킴이 댄스 선생님이었음을 밝히며 놀라움을 자아냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리아킴의 퍼포먼스로 시작된 ‘치티치티뱅뱅’ 무대에서 효린은 폭발적인 가창력을 자랑하는가 하면, 안무를 깔끔하게 소화하며 출연진의 시선을 집중시켰다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 효린과 리아킴이 ‘치티치티뱅뱅’에서 자동차 시동을 걸고 질주하는 안무를 소화하자, 출연진 석에서는 감탄이 터져 나왔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신효범은 “효린 씨가 경지에 오른 것 같다”라고 극찬하며 마지막까지 눈을 떼지 못했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 ‘불후의 명곡’에서 강렬한 존재감을 발산한 효린은 16일 SBS ‘인기가요’에도 출격해 신곡 ‘Layin’ Low’(레인 로우) 무대를 선보인다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘불후의 명곡’ 미쳤다! 효린&리아킴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

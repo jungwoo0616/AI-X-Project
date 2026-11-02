@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271445",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘백패커’ 백종원-오대환-안보현-딘딘, 오늘 출장 요리단 변신",
+		"newsSubTitle": "",
+		"newsContent": "백종원-오대환-안보현-딘딘이 백패커로 뭉친다.\n오늘(26일) 첫 방송되는 tvN ‘백패커’는 극한의 출장 요리단으로 변신한 백종원-오대환-안보현-딘딘이 백팩 하나 메고 훌쩍 떠난 ‘오늘의 장소’에서 낯선 손님들을 위한 즉석 출장 요리를 선보이는 프로그램이다.\n방송에서는 ‘백패커 창단식’ 순간부터 첫 번째 의뢰를 받은 ‘백패커즈’의 좌충우돌 첫 출장 요리 도전기가 펼쳐질 예정이다.\n각자 역할에 맞춰 꼼꼼하게 첫 번째 출장을 준비한 백패커즈. 순탄한 시작을 예고하는 듯 했지만, 예상을 빗나간 첫 번째 의뢰인 ‘씨름부’로부터 ‘무제한’ 패스트푸드 요리라는 극한의 미션을 받고 당황한 기색이 역력하다.\n과연 이들은 4시간 안에 장보기와 재료 준비를 마치고 첫 번째 의뢰인의 출장 요리 미션을 완수해낼 수 있을지 궁금증을 자아낸다.\n극한의 출장 요리사, 백종원-오대환-안보현-딘딘의 4인 4색 매력은 물론, 심장 쫄깃한 첫 번째 출장 요리 고군분투기는 오늘 방송에서 확인할 수 있다.\ntvN ‘백패커’ 첫 방송은 26일 오후 8시 40분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백종원-오대환-안보현-딘딘이 백패커로 뭉친다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(26일) 첫 방송되는 tvN ‘백패커’는 극한의 출장 요리단으로 변신한 백종원-오대환-안보현-딘딘이 백팩 하나 메고 훌쩍 떠난 ‘오늘의 장소’에서 낯선 손님들을 위한 즉석 출장 요리를 선보이는 프로그램이다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송에서는 ‘백패커 창단식’ 순간부터 첫 번째 의뢰를 받은 ‘백패커즈’의 좌충우돌 첫 출장 요리 도전기가 펼쳐질 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각자 역할에 맞춰 꼼꼼하게 첫 번째 출장을 준비한 백패커즈. 순탄한 시작을 예고하는 듯 했지만, 예상을 빗나간 첫 번째 의뢰인 ‘씨름부’로부터 ‘무제한’ 패스트푸드 요리라는 극한의 미션을 받고 당황한 기색이 역력하다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과연 이들은 4시간 안에 장보기와 재료 준비를 마치고 첫 번째 의뢰인의 출장 요리 미션을 완수해낼 수 있을지 궁금증을 자아낸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "극한의 출장 요리사, 백종원-오대환-안보현-딘딘의 4인 4색 매력은 물론, 심장 쫄깃한 첫 번째 출장 요리 고군분투기는 오늘 방송에서 확인할 수 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "tvN ‘백패커’ 첫 방송은 26일 오후 8시 40분 방송된다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘백패커’ 백종원-오대환-안보현-딘딘, 오늘 출장 요리단 변신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276528",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신비로운 매력 뽐내는 아이유가 입은 의상에 숨은 비밀",
+		"newsSubTitle": "",
+		"newsContent": "특별 제작된 게임 캐릭터 의상을 입고 신비한 매력을 뽐내는 아이유가 화제다.\n지난 20일, 아이유가 홍보 모델로 활동하고 있는 카카오의 모바일 RPG '음양사 for kakao‘가 공식 유튜브 채널에 ’아이유, 마침내 완성한 천년의 신곡‘의 풀버전을 게시했다. 영상은 기타를 쳐가며 작곡에 몰두하는 아이유의 모습으로 시작된다. 곧 밖으로 나온 아이유는 정처 없이 길을 걷던 중 ‘음향사’라는 건물에 들어가게 된다.\n아이유가 발을 들이자 간판은'음양사'로 바뀐다.\n어딘가 기묘하지만 신비스러운 공간에 푹 빠져 구경을 하던 아이유는‘천년의 신곡’이라는 LP판을 발견한다.\n음악이 흘러나오자 꽃잎이 떨어지고 분홍 빛깔 한복을 입은 아이유의 모습이 나타나며 영상은 마무리된다.\n영상을 접한 네티즌들은 한층 물오른 아이유의 미모에 감탄을 금치 못하고 있다.\n아이유가 직접 작곡한 광고 음악을 정식 음원으로 발매해달라는 등 영상 속 음원에 대한 폭발적인 관심이 이어지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "특별 제작된 게임 캐릭터 의상을 입고 신비한 매력을 뽐내는 아이유가 화제다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일, 아이유가 홍보 모델로 활동하고 있는 카카오의 모바일 RPG '음양사 for kakao‘가 공식 유튜브 채널에 ’아이유, 마침내 완성한 천년의 신곡‘의 풀버전을 게시했다. 영상은 기타를 쳐가며 작곡에 몰두하는 아이유의 모습으로 시작된다. 곧 밖으로 나온 아이유는 정처 없이 길을 걷던 중 ‘음향사’라는 건물에 들어가게 된다.",
+				"sentenceSize": 188
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이유가 발을 들이자 간판은'음양사'로 바뀐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어딘가 기묘하지만 신비스러운 공간에 푹 빠져 구경을 하던 아이유는‘천년의 신곡’이라는 LP판을 발견한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "음악이 흘러나오자 꽃잎이 떨어지고 분홍 빛깔 한복을 입은 아이유의 모습이 나타나며 영상은 마무리된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상을 접한 네티즌들은 한층 물오른 아이유의 미모에 감탄을 금치 못하고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이유가 직접 작곡한 광고 음악을 정식 음원으로 발매해달라는 등 영상 속 음원에 대한 폭발적인 관심이 이어지고 있다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신비로운 매력 뽐내는 아이유가 입은 의상에 숨은 비밀",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

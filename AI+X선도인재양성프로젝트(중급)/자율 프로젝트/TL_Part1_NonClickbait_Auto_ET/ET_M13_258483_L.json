@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258483",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘지구에 무슨 129?’ 서동주, 10대 소녀 불륜 사건에 분노",
+		"newsSubTitle": "",
+		"newsContent": "방송인 서동주가 17일 디스커버리 채널 코리아·NQQ 예능 프로그램 ‘지구에 무슨 129? 시즌2’에 출연했다.\n이날 서동주는 ‘지구에 무슨 129?’에서 소개된 미국의 한 재판 에피소드에 함께했다.\n17살 소녀 에이미 피셔가 살인미수 혐의로 구속돼 충격을 자아낸 가운데 가정을 가지고 있는 불륜남 조이와 관계를 유지하며 아내인 메리를 살인하려고 한 사연이 공개됐다.\n서동주는 불륜남 조이에 대해 추리하고 17살 소녀 에이미 피셔의 발언 모습을 지켜보며, “변호사는 사실 거짓 증언을 시킬 수 없다. 에이미 피셔가 이렇게 말할거다 라는 것은 막을 수 없는 것이다”라고 말했다.\n사연 소개가 마무리 된 후 서동주는 “소개된 사건 자체가 미국 내에서 큰 화제가 됐었다. 재판이 유명해진 이유 중 하나가 높은 보석금으로 화제가 됐으며 영화 판권 거래를 통해 보석권을 지불했다” 라고 말하며 시청자들이 궁금해하는 소녀의 근황을 공개했다.\n한편 ‘지구에 무슨 129’는 매주 일요일 오후 5시 디스커버리 채널 코리아·NQQ에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 서동주가 17일 디스커버리 채널 코리아·NQQ 예능 프로그램 ‘지구에 무슨 129? 시즌2’에 출연했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 서동주는 ‘지구에 무슨 129?’에서 소개된 미국의 한 재판 에피소드에 함께했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "17살 소녀 에이미 피셔가 살인미수 혐의로 구속돼 충격을 자아낸 가운데 가정을 가지고 있는 불륜남 조이와 관계를 유지하며 아내인 메리를 살인하려고 한 사연이 공개됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서동주는 불륜남 조이에 대해 추리하고 17살 소녀 에이미 피셔의 발언 모습을 지켜보며, “변호사는 사실 거짓 증언을 시킬 수 없다. 에이미 피셔가 이렇게 말할거다 라는 것은 막을 수 없는 것이다”라고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사연 소개가 마무리 된 후 서동주는 “소개된 사건 자체가 미국 내에서 큰 화제가 됐었다. 재판이 유명해진 이유 중 하나가 높은 보석금으로 화제가 됐으며 영화 판권 거래를 통해 보석권을 지불했다” 라고 말하며 시청자들이 궁금해하는 소녀의 근황을 공개했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘지구에 무슨 129’는 매주 일요일 오후 5시 디스커버리 채널 코리아·NQQ에서 방송된다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘지구에 무슨 129?’ 서동주, 10대 소녀 불륜 사건에 분노",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

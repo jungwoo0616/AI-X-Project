@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167909",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "YG 양현석, 지드래곤 앨범 믹싱 화면 공개 “매우 임박”",
+    "newsSubTitle": "",
+    "newsContent": "YG엔터테인먼트 양현석 대표가 그룹 빅뱅 지드래곤의 솔로 컴백을 알렸다.\n29일 양현석은 자신의 인스타그램을 통해 믹싱 중인 화면을 찍어 올리며 \\\"#GD #GDRAGON #권지용 #지용이 #NEWALBUM #지금앨범믹식중 #매우임박 #verysoon #YG\\\"이라고 해시태그를 달았다.\n지드래곤의 솔로 음반 작업을 공개하면서, 특히 \\\"매우 임박\\\"이라고 밝혀 음반 발매가 곧 이뤄질 것이라고 예고해 기대를 높였다.\n또한 공개된 사진 속 ‘GD Mix’라는 폴더안에 지드래곤의 신곡으로 추정되는 음원의 믹싱 작업 화면이 담겨있다.\n해당 작업 화면에는 총 4개의 오디오 트랙 위에 베이스와 패드, 햇, 클랩 사운드 등이 더해지고 있어 실제 신곡이 어떤 음악이 될지 궁금증을 더하고 있다.\n지드래곤은 솔로 신곡 뮤직비디오 촬영을 마친 상태다.\n지드래곤은 다음 달 10일 서울 상암 월드컵 경기장에서 솔로로 월드 투어에 나선다",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "YG엔터테인먼트 양현석 대표가 그룹 빅뱅 지드래곤의 솔로 컴백을 알렸다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 양현석은 자신의 인스타그램을 통해 믹싱 중인 화면을 찍어 올리며 \\\"#GD #GDRAGON #권지용 #지용이 #NEWALBUM #지금앨범믹식중 #매우임박 #verysoon #YG\\\"이라고 해시태그를 달았다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지드래곤의 솔로 음반 작업을 공개하면서, 특히 \\\"매우 임박\\\"이라고 밝혀 음반 발매가 곧 이뤄질 것이라고 예고해 기대를 높였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 공개된 사진 속 ‘GD Mix’라는 폴더안에 지드래곤의 신곡으로 추정되는 음원의 믹싱 작업 화면이 담겨있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해당 작업 화면에는 총 4개의 오디오 트랙 위에 베이스와 패드, 햇, 클랩 사운드 등이 더해지고 있어 실제 신곡이 어떤 음악이 될지 궁금증을 더하고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지드래곤은 솔로 신곡 뮤직비디오 촬영을 마친 상태다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지드래곤은 다음 달 10일 서울 상암 월드컵 경기장에서 솔로로 월드 투어에 나선다",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "YG, 빅뱅 지드래곤 컴백 예고... 컴백은 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

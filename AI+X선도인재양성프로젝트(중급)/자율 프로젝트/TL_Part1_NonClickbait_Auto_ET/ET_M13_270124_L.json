@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270124",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "밴드 ‘리치맨과 그루브나이스’, 미국 세계블루스대회 톱5 올랐다",
+		"newsSubTitle": "",
+		"newsContent": "신예 밴드 ‘리치맨과 그루브나이스’가 미국에서 개최가 된 세계블루스대회에서 결승에 진출하는 쾌거를 이뤘다.\n13일 한국블루스소사이어티에 따르면 리치맨과 그루브나이스는 지난 6∼9일 멤피스에서 열린 ‘제37회 세계블루스대회’(International Blues Challenge)에서 결승에 진출하는 밴드 톱(top)5에 포함됐다.\n세계블루스대회는 미국 각 주는 물론, 각국을 대표하는 블루스 뮤지션이 참가하는 페스티벌이다.\n아마추어 경연이 아닌 프로 뮤지션들이 실력을 겨루는 행사로 알려져 있는데, ‘제64회 그래미 어워즈’에서 베스트 컨템포러리 블루스 앨범에 선정된 크리스톤 킹피쉬 잉그램 등이 이 대회를 거쳤다.\n리치맨과 그루브나이스는 2019년 이 대회에 참가했다가 예선에서 탈락했지만, 올해는 100여 개 팀 가운데 실력을 뽐내며 상위 5위 안에 드는 성과를 냈다.\n한국블루스소사이어티 측은 “공연을 본 현지 관객, 전문가, 동료 아티스트들은 ‘이번 대회 최고의 블루스 아티스트’, ‘타이트한 리듬과 빈티지한 기타의 톤이 독특한 스타일의 블루스’라고 호평했다”고 알렸다.\n이번 대회 솔로 부문에 참가한 하헌진은 아쉽게 결승에 가지는 못했으나, ‘미국 본토보다 더욱더 본토 블루스 같다’는 호평을 얻었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신예 밴드 ‘리치맨과 그루브나이스’가 미국에서 개최가 된 세계블루스대회에서 결승에 진출하는 쾌거를 이뤘다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 한국블루스소사이어티에 따르면 리치맨과 그루브나이스는 지난 6∼9일 멤피스에서 열린 ‘제37회 세계블루스대회’(International Blues Challenge)에서 결승에 진출하는 밴드 톱(top)5에 포함됐다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세계블루스대회는 미국 각 주는 물론, 각국을 대표하는 블루스 뮤지션이 참가하는 페스티벌이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아마추어 경연이 아닌 프로 뮤지션들이 실력을 겨루는 행사로 알려져 있는데, ‘제64회 그래미 어워즈’에서 베스트 컨템포러리 블루스 앨범에 선정된 크리스톤 킹피쉬 잉그램 등이 이 대회를 거쳤다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리치맨과 그루브나이스는 2019년 이 대회에 참가했다가 예선에서 탈락했지만, 올해는 100여 개 팀 가운데 실력을 뽐내며 상위 5위 안에 드는 성과를 냈다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국블루스소사이어티 측은 “공연을 본 현지 관객, 전문가, 동료 아티스트들은 ‘이번 대회 최고의 블루스 아티스트’, ‘타이트한 리듬과 빈티지한 기타의 톤이 독특한 스타일의 블루스’라고 호평했다”고 알렸다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 대회 솔로 부문에 참가한 하헌진은 아쉽게 결승에 가지는 못했으나, ‘미국 본토보다 더욱더 본토 블루스 같다’는 호평을 얻었다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "밴드 ‘리치맨과 그루브나이스’, 미국 세계블루스대회 톱5 올랐다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

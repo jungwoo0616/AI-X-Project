@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260620",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오늘(11일) 문빈&산하 ‘Ghost Town’ 듣는날",
+		"newsSubTitle": "",
+		"newsContent": "문빈&산하(ASTRO)가 오늘(11일) 선공개 싱글 ‘Ghost Town’을 발매하고 완성형 유닛으로 출격한다.\n문빈&산하는 지난 10일 소속사 판타지오 공식 SNS를 통해 선공개 싱글 ‘Ghost Town’(고스트 타운) 뮤직비디오 티저 영상을 공개하며 신곡에 대한 궁금증을 끌어올렸다. ‘Ghost Town’은 힙합 장르를 기반으로, 두 사람의 섬세한 보컬을 더해 몽환적인 매력이 담긴 곡이다.\n여기에 문빈&산하의 음색이 조화를 이루며 아스트로와는 또 다른 매력을 보여줄 전망이다.\n특히 이번 신곡 ‘Ghost Town’은 3월 유닛 컴백을 앞두고 발매하는 선공개 곡으로, 미니 2집의 에필로그 스토리는 물론, 두 사람이 선보일 새 음악적 스펙트럼을 미리 만날 수 있다.\n앞서 아스트로 활동을 통해 보컬, 퍼포먼스, 비주얼, 무대 매너를 입증한 문빈&산하는 지난 2020년 9월 미니 1집 ‘IN-OUT’(인-아웃)으로 데뷔한 팀 내 첫 번째 유닛이다.\n약 1년 3개월 만에 신곡을 발매하는 문빈&산하가 어떤 음악으로 돌아올지 기대감이 높아진다.\n한편 문빈&산하의 ‘Ghost Town’은 오늘(11일) 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "문빈&산하(ASTRO)가 오늘(11일) 선공개 싱글 ‘Ghost Town’을 발매하고 완성형 유닛으로 출격한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "문빈&산하는 지난 10일 소속사 판타지오 공식 SNS를 통해 선공개 싱글 ‘Ghost Town’(고스트 타운) 뮤직비디오 티저 영상을 공개하며 신곡에 대한 궁금증을 끌어올렸다. ‘Ghost Town’은 힙합 장르를 기반으로, 두 사람의 섬세한 보컬을 더해 몽환적인 매력이 담긴 곡이다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여기에 문빈&산하의 음색이 조화를 이루며 아스트로와는 또 다른 매력을 보여줄 전망이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 신곡 ‘Ghost Town’은 3월 유닛 컴백을 앞두고 발매하는 선공개 곡으로, 미니 2집의 에필로그 스토리는 물론, 두 사람이 선보일 새 음악적 스펙트럼을 미리 만날 수 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 아스트로 활동을 통해 보컬, 퍼포먼스, 비주얼, 무대 매너를 입증한 문빈&산하는 지난 2020년 9월 미니 1집 ‘IN-OUT’(인-아웃)으로 데뷔한 팀 내 첫 번째 유닛이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "약 1년 3개월 만에 신곡을 발매하는 문빈&산하가 어떤 음악으로 돌아올지 기대감이 높아진다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 문빈&산하의 ‘Ghost Town’은 오늘(11일) 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오늘(11일) 문빈&산하 ‘Ghost Town’ 듣는날",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

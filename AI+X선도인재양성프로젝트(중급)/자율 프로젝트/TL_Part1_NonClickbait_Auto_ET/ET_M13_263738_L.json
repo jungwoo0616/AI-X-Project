@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263738",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "정호영, 건강검진 쇼크 (당나귀 귀)",
+		"newsSubTitle": "",
+		"newsContent": "정호영이 건강검진 결과를 듣고 충격에 빠졌다.\n오늘 오후 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 정호영 셰프와 김과장이 동반 건강검진을 받는 이야기가 그려진다.\n최근 체중이 급격히 증가한 정호영은 건강이 염려된 나머지 김과장과 함께 병원을 찾았다.\n장장 6시간에 걸쳐 위, 대장 내시경 등 각종 검사를 받은 뒤 의사와 마주한 정호영은 자신보다 열살이나 어린 김과장이 고도 비만 판정을 받자 술과 치킨을 너무 좋아해서 그런 것이라며 놀렸다.\n하지만 의사는 정호영에게 김과장보다 두 배는 더 심각한 상태라면서 “앞으로 셰프 일을 못 할 수도 있다”는 충격적인 경고를 해 출연진들을 안타깝게 만들었다는데.\n이후 집에 돌아온 정호영은 식음을 전폐하고 망연자실한 채 누워있다가, 결심을 굳힌 듯 자신의 일식 노하우가 담긴 레시피북과 소중히 아끼던 칼을 김과장에게 물려주면서 의미심장한 말을 남겼다고 해 대체 어떤 결과가 나온 것인지 궁금증이 증폭되고 있다.\n정호영 셰프의 건강 상태는 오늘(13일) 오후 5시 KBS 2TV ‘사장님 귀는 당나귀 귀’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정호영이 건강검진 결과를 듣고 충격에 빠졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘 오후 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 정호영 셰프와 김과장이 동반 건강검진을 받는 이야기가 그려진다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 체중이 급격히 증가한 정호영은 건강이 염려된 나머지 김과장과 함께 병원을 찾았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장장 6시간에 걸쳐 위, 대장 내시경 등 각종 검사를 받은 뒤 의사와 마주한 정호영은 자신보다 열살이나 어린 김과장이 고도 비만 판정을 받자 술과 치킨을 너무 좋아해서 그런 것이라며 놀렸다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 의사는 정호영에게 김과장보다 두 배는 더 심각한 상태라면서 “앞으로 셰프 일을 못 할 수도 있다”는 충격적인 경고를 해 출연진들을 안타깝게 만들었다는데.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 집에 돌아온 정호영은 식음을 전폐하고 망연자실한 채 누워있다가, 결심을 굳힌 듯 자신의 일식 노하우가 담긴 레시피북과 소중히 아끼던 칼을 김과장에게 물려주면서 의미심장한 말을 남겼다고 해 대체 어떤 결과가 나온 것인지 궁금증이 증폭되고 있다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정호영 셰프의 건강 상태는 오늘(13일) 오후 5시 KBS 2TV ‘사장님 귀는 당나귀 귀’에서 확인할 수 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정호영, 건강검진 쇼크 (당나귀 귀)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

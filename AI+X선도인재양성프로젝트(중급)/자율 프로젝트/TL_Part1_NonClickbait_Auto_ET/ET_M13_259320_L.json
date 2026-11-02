@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259320",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘배틀 인 더 박스’ 조준호×조준현, 외모 심판 받는다",
+		"newsSubTitle": "",
+		"newsContent": "조준호, 조준현의 자존심을 건 외모 테스트 결과가 공개된다.\n26일 방송되는 MBN ‘배틀 인 더 박스’에서는 장동민, 조준호, 한유미, 차수민이 배틀 박스로 친구들을 초대해 집들이하는 모습이 그려진다.\n이날 조준호는 쌍둥이 동생 조준현을, 한유미와 차수민은 인플루언서 젤라비와 모델 김다영을 초대해 식사 대접을 하고, 함께 단체 게임 미션을 수행한다.\n다 함께 저녁 식사를 하던 중, 조준호의 제안으로 번외 게임이 벌어진다.\n장동민은 “식사 중에 죄송한데, 조준호와 조준현을 외모로만 봤을 때 둘 중 누가 더 좋은지 선택 좀 해주세요. 왼손은 조준호, 오른손은 조준현이에요”라고 말문을 연다. 이어 “양손 드는 건 없고, 무조건 한 손은 들어야 해요. 혹시 하기 싫은 분은 저 앞에 강물에 입수하시면 돼요. 네 명 모두 입수할 수도 있겠네”라고 덧붙여 모두를 폭소케 한다.\n이를 들은 여자들이 머뭇거리자, 차수민은 “하나, 둘, 셋 하면 무조건 한쪽 팔은 드는 거야”라고 상황을 주도해 모두 투표에 나서게 했고, 그 결과에 모두 경악한다.\n모두를 깜짝 놀라게 한 ‘쌍둥이 외모 1위’는 과연 누구일까?\n쌍둥이의 자존심이 걸린 외모 테스트 결과는 26일 방송되는 MBN ‘배틀 인 더 박스’에서 확인이 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "조준호, 조준현의 자존심을 건 외모 테스트 결과가 공개된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 방송되는 MBN ‘배틀 인 더 박스’에서는 장동민, 조준호, 한유미, 차수민이 배틀 박스로 친구들을 초대해 집들이하는 모습이 그려진다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 조준호는 쌍둥이 동생 조준현을, 한유미와 차수민은 인플루언서 젤라비와 모델 김다영을 초대해 식사 대접을 하고, 함께 단체 게임 미션을 수행한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다 함께 저녁 식사를 하던 중, 조준호의 제안으로 번외 게임이 벌어진다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장동민은 “식사 중에 죄송한데, 조준호와 조준현을 외모로만 봤을 때 둘 중 누가 더 좋은지 선택 좀 해주세요. 왼손은 조준호, 오른손은 조준현이에요”라고 말문을 연다. 이어 “양손 드는 건 없고, 무조건 한 손은 들어야 해요. 혹시 하기 싫은 분은 저 앞에 강물에 입수하시면 돼요. 네 명 모두 입수할 수도 있겠네”라고 덧붙여 모두를 폭소케 한다.",
+				"sentenceSize": 194
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 들은 여자들이 머뭇거리자, 차수민은 “하나, 둘, 셋 하면 무조건 한쪽 팔은 드는 거야”라고 상황을 주도해 모두 투표에 나서게 했고, 그 결과에 모두 경악한다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모두를 깜짝 놀라게 한 ‘쌍둥이 외모 1위’는 과연 누구일까?",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "쌍둥이의 자존심이 걸린 외모 테스트 결과는 26일 방송되는 MBN ‘배틀 인 더 박스’에서 확인이 가능하다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘배틀 인 더 박스’ 조준호×조준현, 외모 심판 받는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

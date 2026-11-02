@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268936",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장민호, ‘화요일은 밤이 좋아’서 새 싱글 ‘회초리’ 무대 첫 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 장민호가 신곡 첫 무대를 펼친다.\n장민호는 오는 3일 오후 10시 방송되는 TV조선 ‘화요일은 밤이 좋아’에서 새 싱글 ‘회초리’ 무대를 최초로 선보인다.\n공개된 무대 스틸컷에는 장민호의 조각같은 비주얼과 풍부한 표정이 담겨 있어 더욱 기대를 모은다.\n장민호는 애절함 가득한 무대를 선보이며 정통 트로트에 목말랐던 음악팬들에게 큰 감동을 선사할 전망이다.\n신곡 ‘회초리’는 어머니에 대한 그리움을 장민호만의 애절한 감성으로 노래한 곡이다. ‘막걸리 한 잔’과 ‘붓’을 통해 작품성을 인정받은 작곡가 류선우가 참여해 장민호와 음악적 시너지를 발휘했다.\n발매와 동시에 공개된 뮤직비디오에서 호소력 짙은 보이스와 아련한 표정 연기로 영상의 몰입도를 높인 바, 첫 정식 무대에 대한 팬들의 기대감이 고조되고 있다.\n장민호는 오는 3일 오후 10시 TV조선 ‘화요일은 밤이 좋아’에서 신곡 ‘회초리’ 첫 무대를 꾸민다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 장민호가 신곡 첫 무대를 펼친다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장민호는 오는 3일 오후 10시 방송되는 TV조선 ‘화요일은 밤이 좋아’에서 새 싱글 ‘회초리’ 무대를 최초로 선보인다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 무대 스틸컷에는 장민호의 조각같은 비주얼과 풍부한 표정이 담겨 있어 더욱 기대를 모은다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장민호는 애절함 가득한 무대를 선보이며 정통 트로트에 목말랐던 음악팬들에게 큰 감동을 선사할 전망이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신곡 ‘회초리’는 어머니에 대한 그리움을 장민호만의 애절한 감성으로 노래한 곡이다. ‘막걸리 한 잔’과 ‘붓’을 통해 작품성을 인정받은 작곡가 류선우가 참여해 장민호와 음악적 시너지를 발휘했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발매와 동시에 공개된 뮤직비디오에서 호소력 짙은 보이스와 아련한 표정 연기로 영상의 몰입도를 높인 바, 첫 정식 무대에 대한 팬들의 기대감이 고조되고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장민호는 오는 3일 오후 10시 TV조선 ‘화요일은 밤이 좋아’에서 신곡 ‘회초리’ 첫 무대를 꾸민다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장민호, ‘화요일은 밤이 좋아’서 새 싱글 ‘회초리’ 무대 첫 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

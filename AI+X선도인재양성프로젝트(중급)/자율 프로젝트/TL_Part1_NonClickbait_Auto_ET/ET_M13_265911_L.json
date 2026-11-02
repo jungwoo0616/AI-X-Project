@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265911",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘더트롯쇼’ 윤서령 ‘블링블링’ 완벽 재해석",
+		"newsSubTitle": "",
+		"newsContent": "가수 윤서령이 트롯 아이돌의 매력을 과감히 뽐냈다.\n윤서령은 4일 오후 9시 방송된 SBS FiL, SBS MTV ‘더트롯쇼’에 출연했다.\n윤서령은 무대 연출을 더욱 높이는 블랙 원피스 스타일링으로 눈길을 사로잡은 가운데 김연자의 ‘블링블링’을 자신만의 색깔로 완벽 재해석했다.\n윤서령은 ‘트롯계의 국민 여동생’이라는 타이틀에 어울리는 생기발랄함과 밝은 에너지로 무대를 산뜻하게 장악하며 내공 탄탄한 보컬 실력까지 더해 무한한 흥을 선사했다.\n윤서령은 곡 가사에 알맞는 러블리한 안무와 여유로운 표정 및 제스처를 보이며 익살스러움으로 웃음 짓게 해 눈을 뗄 수 없는 무대를 선사, 시청자들을 심쿵 하게 했다. ‘트롯비타민’ 윤서령은 청아한 음색과 자신만의 상큼함을 담아낸 신곡 ‘나비소녀’로 활발한 활동을 보이며 열일 행보를 이어나가고 있다.\n윤서령은 다양한 가능성으로 여러 방송 활동을 통해 대중들과 소통을 이어나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 윤서령이 트롯 아이돌의 매력을 과감히 뽐냈다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤서령은 4일 오후 9시 방송된 SBS FiL, SBS MTV ‘더트롯쇼’에 출연했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤서령은 무대 연출을 더욱 높이는 블랙 원피스 스타일링으로 눈길을 사로잡은 가운데 김연자의 ‘블링블링’을 자신만의 색깔로 완벽 재해석했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤서령은 ‘트롯계의 국민 여동생’이라는 타이틀에 어울리는 생기발랄함과 밝은 에너지로 무대를 산뜻하게 장악하며 내공 탄탄한 보컬 실력까지 더해 무한한 흥을 선사했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤서령은 곡 가사에 알맞는 러블리한 안무와 여유로운 표정 및 제스처를 보이며 익살스러움으로 웃음 짓게 해 눈을 뗄 수 없는 무대를 선사, 시청자들을 심쿵 하게 했다. ‘트롯비타민’ 윤서령은 청아한 음색과 자신만의 상큼함을 담아낸 신곡 ‘나비소녀’로 활발한 활동을 보이며 열일 행보를 이어나가고 있다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤서령은 다양한 가능성으로 여러 방송 활동을 통해 대중들과 소통을 이어나갈 예정이다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더트롯쇼’ 윤서령 ‘블링블링’ 완벽 재해석",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

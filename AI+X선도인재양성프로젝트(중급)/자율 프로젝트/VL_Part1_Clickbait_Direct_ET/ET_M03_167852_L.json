@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167852",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "인기 관광지로 탈바꿈한 원빈-이나영 결혼식장 근황",
+    "newsSubTitle": "",
+    "newsContent": "관광지로 변한 원빈 이나영 부부의 결혼식장 모습이 화제다.\n2015년 5월 30일 원빈과 이나영은 원빈의 고향인 강원도 정선에서 결혼식을 올렸다.\n작은 밀밭에서 치러진 예식은 소소하면서도 아름다워 보는 이들의 감탄을 자아냈다.\n결혼식 장소였던 대촌마을은 정선시외버스터미널에서 40분 정도 소요되는 곳으로 현재 정선의 유명 관광지로 자리매김했다고 전해진다.\n그뿐만 아니라 대촌마을에선 곳곳에 놓인 ‘원빈♡이나영 결혼식장’이라고 적힌 표지판을 발견할 수 있다.\n원빈과 이나영의 결혼식 당일 모습을 담은 포토월 앞엔 사진을 찍으려는 관광객들로 붐빈다고 한다.\n한편 2015년 12월 득남한 부부는 결혼 이후엔 차기작에 대해 별다른 언급을 하지 않아 팬들의 아쉬움을 자아내고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "관광지로 변한 원빈 이나영 부부의 결혼식장 모습이 화제다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2015년 5월 30일 원빈과 이나영은 원빈의 고향인 강원도 정선에서 결혼식을 올렸다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "작은 밀밭에서 치러진 예식은 소소하면서도 아름다워 보는 이들의 감탄을 자아냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "결혼식 장소였던 대촌마을은 정선시외버스터미널에서 40분 정도 소요되는 곳으로 현재 정선의 유명 관광지로 자리매김했다고 전해진다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그뿐만 아니라 대촌마을에선 곳곳에 놓인 ‘원빈♡이나영 결혼식장’이라고 적힌 표지판을 발견할 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "원빈과 이나영의 결혼식 당일 모습을 담은 포토월 앞엔 사진을 찍으려는 관광객들로 붐빈다고 한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 2015년 12월 득남한 부부는 결혼 이후엔 차기작에 대해 별다른 언급을 하지 않아 팬들의 아쉬움을 자아내고 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2015년 원빈-이나영 부부가 결혼식을 올렸던 결혼식장, 지금은 어떤 모습?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278031",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "배우 최정윤 임신 20주…'아이 옷은 내가 만들까?'",
+		"newsSubTitle": "",
+		"newsContent": "배우 최정윤이 결혼 5년 만에 임신한 가운데 과거 옷을 만드는 사진이 화제가 되고 있다.\n12일 최정윤 소속사 포레스트엔터테인먼트는 최정윤이 현재 임신 20주차이며 오는 11월 출산을 앞두고 있다고 밝혔다.\n최정윤의 임신은 아이돌 그룹 멤버 출신이자 사업가 윤태준씨와 2011년 결혼한 이후 5년 만에 맞은 경사라 네티즌의 관심이 증폭되고 있다.\n특히 최정윤은 지난해 예능 프로그램에 출연해 \\\"멋지고 착하고 바른 아이 순풍 낳게 해달라\\\"고 임신 소원을 밝히기도 했다.\n최정윤은 과거 인스타그램을 통해 미싱하는 사진을 올려 화제가 되기도 했다.\n온라인 중앙일보 [사진 최정윤 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최정윤이 결혼 5년 만에 임신한 가운데 과거 옷을 만드는 사진이 화제가 되고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 최정윤 소속사 포레스트엔터테인먼트는 최정윤이 현재 임신 20주차이며 오는 11월 출산을 앞두고 있다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최정윤의 임신은 아이돌 그룹 멤버 출신이자 사업가 윤태준씨와 2011년 결혼한 이후 5년 만에 맞은 경사라 네티즌의 관심이 증폭되고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 최정윤은 지난해 예능 프로그램에 출연해 \\\"멋지고 착하고 바른 아이 순풍 낳게 해달라\\\"고 임신 소원을 밝히기도 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최정윤은 과거 인스타그램을 통해 미싱하는 사진을 올려 화제가 되기도 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 최정윤 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 최정윤 임신 20주…'아이 옷은 내가 만들까?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

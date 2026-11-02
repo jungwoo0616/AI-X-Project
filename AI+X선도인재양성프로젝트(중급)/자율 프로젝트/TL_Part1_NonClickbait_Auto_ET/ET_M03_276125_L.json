@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276125",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "JYP \\\"트와이스 다현 여권 사진 찍혀 개인정보 유출… 법적 조치\\\"",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스 멤버 다현(본명 김다현·21)의 개인정보가 온라인에 유포돼 소속사가 법적 대응을 예고했다.\n소속사 JYP엔터테인먼트는 29일 트와이스 공식 SNS를 통해 다현의 피해 사실을 알리며 \\\"개인정보 유포를 즉시 중단해 달라\\\"고 호소했다.\n유출된 개인정보에는 다현의 주민등록번호 등이 포함됐다.\n이날 트와이스는 일본 연말 가요축제 NHK 홍백가합전(紅白歌合戰)에 참석하기 위해 김포국제공항에서 일본으로 출국했다.\n개인정보 유출은 공항에서 탑승 수속을 할 때 발생했다.\n탑승 수속을 위해 다현의 여권을 확인하는 과정에서 개인정보가 적힌 여권 페이지가 현장에 몰린 인파에 노출됐다.\n현장에서 있던 다수가 카메라를 소지하고 있었다.\n이후 온라인에는 다현의 여권 페이지가 그대로 나온 사진과 영상이 올라왔고 SNS를 통해 확산했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스 멤버 다현(본명 김다현·21)의 개인정보가 온라인에 유포돼 소속사가 법적 대응을 예고했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 JYP엔터테인먼트는 29일 트와이스 공식 SNS를 통해 다현의 피해 사실을 알리며 \\\"개인정보 유포를 즉시 중단해 달라\\\"고 호소했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유출된 개인정보에는 다현의 주민등록번호 등이 포함됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 트와이스는 일본 연말 가요축제 NHK 홍백가합전(紅白歌合戰)에 참석하기 위해 김포국제공항에서 일본으로 출국했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인정보 유출은 공항에서 탑승 수속을 할 때 발생했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "탑승 수속을 위해 다현의 여권을 확인하는 과정에서 개인정보가 적힌 여권 페이지가 현장에 몰린 인파에 노출됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현장에서 있던 다수가 카메라를 소지하고 있었다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 온라인에는 다현의 여권 페이지가 그대로 나온 사진과 영상이 올라왔고 SNS를 통해 확산했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "JYP \\\"트와이스 다현 여권 사진 찍혀 개인정보 유출… 법적 조치\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

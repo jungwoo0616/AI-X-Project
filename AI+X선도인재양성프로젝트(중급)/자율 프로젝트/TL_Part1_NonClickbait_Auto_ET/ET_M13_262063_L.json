@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262063",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "린, 오늘 ‘작은 온기’ 부른다",
+		"newsSubTitle": "",
+		"newsContent": "가수 린(LYn)이 신곡 ‘작은 온기’를 공개한다. 25일 오후 6시, 린은 ‘THE M(더 엠)’ 프로젝트의 신곡 ‘작은 온기’를 각 음원사이트를 통해 발매한다. ‘작은 온기’는 드라마와 뮤지컬 등으로 제작돼 공전의 히트를 기록한 ‘또 오해영’의 스핀 오프 콘텐츠다.\n헤어진 연인과의 추억을 잊어보려 노력하지만 오히려 그리움만 더해진다는 가삿말이 돋보이는 곡으로 앞서 허각이 지난해 11월 발매한 ‘작은 온기’의 린 버전이다.\n린 특유의 섬세함과 감성 짙은 보컬로 새롭게 재해석됐다.\n뮤직 스토리텔링 프로젝트 ‘THE M’은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림 스토리텔링으로 그려내는 시리즈 프로젝트다.\n지난해 11월 허각의 ‘작은 온기’ 발매를 시작으로 지난 1월 경서의 ‘꿈이라면’ 발매에 이어 린이 세 번째 주자를 맡았다.\n한편, ‘THE M’ 프로젝트는 국내 최정상 보컬리스트들이 참여해 눈과 귀로 즐길 수 있는 다양한 콘텐츠를 선보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 린(LYn)이 신곡 ‘작은 온기’를 공개한다. 25일 오후 6시, 린은 ‘THE M(더 엠)’ 프로젝트의 신곡 ‘작은 온기’를 각 음원사이트를 통해 발매한다. ‘작은 온기’는 드라마와 뮤지컬 등으로 제작돼 공전의 히트를 기록한 ‘또 오해영’의 스핀 오프 콘텐츠다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헤어진 연인과의 추억을 잊어보려 노력하지만 오히려 그리움만 더해진다는 가삿말이 돋보이는 곡으로 앞서 허각이 지난해 11월 발매한 ‘작은 온기’의 린 버전이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "린 특유의 섬세함과 감성 짙은 보컬로 새롭게 재해석됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뮤직 스토리텔링 프로젝트 ‘THE M’은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림 스토리텔링으로 그려내는 시리즈 프로젝트다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 11월 허각의 ‘작은 온기’ 발매를 시작으로 지난 1월 경서의 ‘꿈이라면’ 발매에 이어 린이 세 번째 주자를 맡았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, ‘THE M’ 프로젝트는 국내 최정상 보컬리스트들이 참여해 눈과 귀로 즐길 수 있는 다양한 콘텐츠를 선보이고 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "린, 오늘 ‘작은 온기’ 부른다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

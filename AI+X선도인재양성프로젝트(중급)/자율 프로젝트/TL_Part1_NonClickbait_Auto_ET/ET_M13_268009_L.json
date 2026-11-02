@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268009",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장난기 걷어낸 주현영 ‘어쩔미모’",
+		"newsSubTitle": "",
+		"newsContent": "배우 주현영이 장난기를 벗고 싱그러운 봄을 몰고 왔다.\n패션지 ‘싱글즈’는 쿠팡플레이 ‘SNL코리아’에서 ‘주기자’로 맹활약하며 MZ세대를 대표하고 있는 주현영의 내추럴한 모습이 담긴 뷰티 화보를 25일 공개했다.\n이번 화보에서 주현영은 특유의 보조개 미소를 뽐내며 밝은 매력을 드러냈다.\n주현영은 특유의 유쾌한 에너지로 촬영장 분위기를 이끌었다는 후문이다.\n주현영은 클로즈업에도 투명하게 빛나는 무결점 피부로 뷰디 화보의 의미를 살려냈다.\n주현영은 오는 6월 ENA채널과 넷플릭스에서 동시 방영되는 드라마 ‘이상한 변호사 우영우’에서 주인공 우영우의 유일한 친구 동그라미 역으로 열연한다.\n싱그러운 매력을 이번 화보에서 드러낸 주현영이 장난기를 걷어내고 배우로서 어떠한 행보를 이어갈 지에도 관심이 쏠렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 주현영이 장난기를 벗고 싱그러운 봄을 몰고 왔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "패션지 ‘싱글즈’는 쿠팡플레이 ‘SNL코리아’에서 ‘주기자’로 맹활약하며 MZ세대를 대표하고 있는 주현영의 내추럴한 모습이 담긴 뷰티 화보를 25일 공개했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 화보에서 주현영은 특유의 보조개 미소를 뽐내며 밝은 매력을 드러냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주현영은 특유의 유쾌한 에너지로 촬영장 분위기를 이끌었다는 후문이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주현영은 클로즈업에도 투명하게 빛나는 무결점 피부로 뷰디 화보의 의미를 살려냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주현영은 오는 6월 ENA채널과 넷플릭스에서 동시 방영되는 드라마 ‘이상한 변호사 우영우’에서 주인공 우영우의 유일한 친구 동그라미 역으로 열연한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "싱그러운 매력을 이번 화보에서 드러낸 주현영이 장난기를 걷어내고 배우로서 어떠한 행보를 이어갈 지에도 관심이 쏠렸다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장난기 걷어낸 주현영 ‘어쩔미모’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

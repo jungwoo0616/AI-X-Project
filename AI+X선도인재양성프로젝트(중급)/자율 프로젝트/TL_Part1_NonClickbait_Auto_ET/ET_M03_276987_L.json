@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276987",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "자전거 훔친 후 팔아버린 프듀101 출연자 과거 논란",
+		"newsSubTitle": "",
+		"newsContent": "길에 있는 자전거를 훔쳐 고물상에 팔아버린 '프로듀스101 시즌 2' 출연자의 과거가 논란이 되고 있다.\n지난 7일 한 온라인 커뮤니티에 '중학교 때 자전거 절도했다는 황민현'이란 제목의 글이 올라왔다.\n작성자가 \\\"순위 높던데 떨어질 것 같다\\\"며 올린 영상은 과거 뉴이스트로 활동하던 황민현의 라디오 녹음 영상이었다.\n영상에서 그는 \\\"중학교 1학년 때 철없던 마음에 길에 있던 자전거를 훔쳐 고물상에 팔았다\\\"고 말했다.\n함께 방송하던 게스트들이 놀라는 와중에 그는 더욱 충격적인 말을 한다.\n\\\"한 학기가 지나 (훔쳤던 일을) 다 잊었는데 학교로 경찰 아저씨가 찾아왔다\\\"고 한 것이다.\n게시글을 본 네티즌들은 \\\"저 녀석이 내 자전거를 가져갔을지도 모른다는 생각에 화가 난다?\\\", \\\"저런 얘길 왜 방송에서 말한 것인지 이해가 안 간다\\\", \\\"(프로듀스101)투표 전에 알아서 다행이다\\\"고 하며 대체로 부정적인 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "길에 있는 자전거를 훔쳐 고물상에 팔아버린 '프로듀스101 시즌 2' 출연자의 과거가 논란이 되고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 7일 한 온라인 커뮤니티에 '중학교 때 자전거 절도했다는 황민현'이란 제목의 글이 올라왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "작성자가 \\\"순위 높던데 떨어질 것 같다\\\"며 올린 영상은 과거 뉴이스트로 활동하던 황민현의 라디오 녹음 영상이었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상에서 그는 \\\"중학교 1학년 때 철없던 마음에 길에 있던 자전거를 훔쳐 고물상에 팔았다\\\"고 말했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "함께 방송하던 게스트들이 놀라는 와중에 그는 더욱 충격적인 말을 한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "\\\"한 학기가 지나 (훔쳤던 일을) 다 잊었는데 학교로 경찰 아저씨가 찾아왔다\\\"고 한 것이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "게시글을 본 네티즌들은 \\\"저 녀석이 내 자전거를 가져갔을지도 모른다는 생각에 화가 난다?\\\", \\\"저런 얘길 왜 방송에서 말한 것인지 이해가 안 간다\\\", \\\"(프로듀스101)투표 전에 알아서 다행이다\\\"고 하며 대체로 부정적인 반응을 보이고 있다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자전거 훔친 후 팔아버린 프듀101 출연자 과거 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279446",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "전현무, 시상식서 하니 남자친구 언급 \\\"오늘 외모가 준수하네\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 전현무가 배우 이하늬와 걸그룹 EXID 하니의 공개열애에 대해 언급했다.\n14일 서울 송파구 올림픽공원 체조경기장에서 진행된 '제25회 하이원 서울가요대상'에서 이하늬와 전현무, 하니가 MC로 나섰다.\n전현무는 \\\"양 하니 사이에 있다. 핫한 분들 사이에 있어 좋다\\\"며 하니에게 \\\"오늘 외모가 준수하다\\\"며 하니의 공개연인인 김준수를 언급했다.\n또 이하늬에게는 \\\"공개연애 중인 분이다. '갓'(god)하니\\\"라며 윤계상의 그룹을 언급했다.\n한편 배우 이하늬 방송인 전현무, 걸그룹 EXID 하니가 MC로 호흡을 맞춘 '25회 하이원 서울가요대상'에서는 한해 동안 팬들의 사랑을 받은 뮤지션들이 한 자리에 모여 최고 영예인 대상을 비롯해 본상, 신인상 및 장르별 특별상 등 부문별 수상을 놓고 열띤 경합을 펼쳤다.\n이날 시상식에는 방탄소년단, 엑소, 레드벨벳, 여자친구, 빅스, 윤미래, 세븐틴, EXID, 비투비 등 가수들이 총출동했다.\n시상 부문은 대상을 비롯해 본상, 인기상, 신인상, 장르별 특별상, 한류특별상 등이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 전현무가 배우 이하늬와 걸그룹 EXID 하니의 공개열애에 대해 언급했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 서울 송파구 올림픽공원 체조경기장에서 진행된 '제25회 하이원 서울가요대상'에서 이하늬와 전현무, 하니가 MC로 나섰다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전현무는 \\\"양 하니 사이에 있다. 핫한 분들 사이에 있어 좋다\\\"며 하니에게 \\\"오늘 외모가 준수하다\\\"며 하니의 공개연인인 김준수를 언급했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 이하늬에게는 \\\"공개연애 중인 분이다. '갓'(god)하니\\\"라며 윤계상의 그룹을 언급했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 배우 이하늬 방송인 전현무, 걸그룹 EXID 하니가 MC로 호흡을 맞춘 '25회 하이원 서울가요대상'에서는 한해 동안 팬들의 사랑을 받은 뮤지션들이 한 자리에 모여 최고 영예인 대상을 비롯해 본상, 신인상 및 장르별 특별상 등 부문별 수상을 놓고 열띤 경합을 펼쳤다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 시상식에는 방탄소년단, 엑소, 레드벨벳, 여자친구, 빅스, 윤미래, 세븐틴, EXID, 비투비 등 가수들이 총출동했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시상 부문은 대상을 비롯해 본상, 인기상, 신인상, 장르별 특별상, 한류특별상 등이다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전현무, 시상식서 하니 남자친구 언급 \\\"오늘 외모가 준수하네\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

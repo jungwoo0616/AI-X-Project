@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167892",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "눈 뗄 수 없게 만드는 아이돌의 드레스 몸매 비율",
+    "newsSubTitle": "",
+    "newsContent": "드레스를 입은 성소의 아름다운 자태가 다시금 네티즌들의 눈길을 끌고 있다.\n지난 4월 성소는 자신의 웨이보를 통해 드레스를 입은 모습을 공개했다.\n사진 속 성소는 어깨를 드러낸 채 핑크빛 드레스를 입고 우아하면서도 섹시한 매력을 뽐내고 있다.\n게임 캐릭터를 연상시킨다는 비현실적인 몸매가 눈에 띈다.\n굵은 웨이브 머리가 그의 여성스러운 매력을 더욱 돋보이게 하고 있다.\n이를 본 네티즌들은 \\\"드레스 정말 잘어울린다\\\" \\\"성소 몸매는 알아줘야 함\\\" \\\"화보 촬영인줄 알았다\\\" 등의 반응을 보였다.\n한편 성소가 속한 그룹 우주소녀는 현재 첫 정규앨범의 타이틀곡 'HAPPY(해피)'로 활발한 방송활동을 이어나가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "드레스를 입은 성소의 아름다운 자태가 다시금 네티즌들의 눈길을 끌고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4월 성소는 자신의 웨이보를 통해 드레스를 입은 모습을 공개했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 성소는 어깨를 드러낸 채 핑크빛 드레스를 입고 우아하면서도 섹시한 매력을 뽐내고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "게임 캐릭터를 연상시킨다는 비현실적인 몸매가 눈에 띈다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "굵은 웨이브 머리가 그의 여성스러운 매력을 더욱 돋보이게 하고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌들은 \\\"드레스 정말 잘어울린다\\\" \\\"성소 몸매는 알아줘야 함\\\" \\\"화보 촬영인줄 알았다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 성소가 속한 그룹 우주소녀는 현재 첫 정규앨범의 타이틀곡 'HAPPY(해피)'로 활발한 방송활동을 이어나가고 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우주소녀 성소, 그녀의 드래스 자태가 눈길을 끌어... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

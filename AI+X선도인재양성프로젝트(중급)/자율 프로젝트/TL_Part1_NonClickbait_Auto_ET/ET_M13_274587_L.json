@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274587",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘런닝맨’ 송지효, 김종국 집에 “신혼집”",
+		"newsSubTitle": "",
+		"newsContent": "‘런닝맨’ 송지효가 김종국 집을 신혼집이라 밝혔다.\n3일 오후 방송된 SBS 예능프로그램 ‘런닝맨’에서는 김종국 집을 방문한 멤버들의 모습이 전파를 탔다.\n이날 김종국 집 지하주차장에서 홀로 녹화를 시작한 양세찬은 “오늘 뭐해요?”라며 어리둥절해했다.\n그는 촬영하지 않는 전소민에 기웃거리며 수상쩍게 혼자 원샷을 받았다.\n그의 모습을 발견한 전소민은 양세찬을 스파이로 의심했고 송지효와 유재석 또한 의문을 품었다.\n간밤에 감자탕을 때려먹은 양세찬은 빵빵하게 볼살이 올랐고 전소민은 더 젊어 보인다고 말했다.\n이때 송지효의 옷을 본 양세찬은 “누가 위에서 내려온 거 같은데?”라고 물었다.\n그 말에 송지효는 “저 여기 신혼집이에요. 여러분 초대했으니까 오늘 마음껏 누리세요. 음식 당연히 준비했지”라며 집주인 포스를 터트렸다.\n한편 SBS 예능프로그램 ‘런닝맨’은 매주 일요일 오후 5시에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘런닝맨’ 송지효가 김종국 집을 신혼집이라 밝혔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 오후 방송된 SBS 예능프로그램 ‘런닝맨’에서는 김종국 집을 방문한 멤버들의 모습이 전파를 탔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김종국 집 지하주차장에서 홀로 녹화를 시작한 양세찬은 “오늘 뭐해요?”라며 어리둥절해했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 촬영하지 않는 전소민에 기웃거리며 수상쩍게 혼자 원샷을 받았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그의 모습을 발견한 전소민은 양세찬을 스파이로 의심했고 송지효와 유재석 또한 의문을 품었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "간밤에 감자탕을 때려먹은 양세찬은 빵빵하게 볼살이 올랐고 전소민은 더 젊어 보인다고 말했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이때 송지효의 옷을 본 양세찬은 “누가 위에서 내려온 거 같은데?”라고 물었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그 말에 송지효는 “저 여기 신혼집이에요. 여러분 초대했으니까 오늘 마음껏 누리세요. 음식 당연히 준비했지”라며 집주인 포스를 터트렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 SBS 예능프로그램 ‘런닝맨’은 매주 일요일 오후 5시에 만나볼 수 있다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘런닝맨’ 송지효, 김종국 집에 “신혼집”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

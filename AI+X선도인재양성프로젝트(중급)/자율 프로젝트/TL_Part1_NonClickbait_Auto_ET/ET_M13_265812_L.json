@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265812",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘범죄도시2’ 마동석이 돌아온다",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘범죄도시2’가 5월 개봉을 확정했다. ‘범죄도시2’ 측은 4일 이같이 밝히며 1차 티저 포스터를 공개했다.\n공개된 포스터 2종은 괴물 형사 마석도(마동석)의 존재감과 흥행에 성공했던 ‘범죄도시’서 남다른 케미를 보여준 금천서 강력반의 호흡을 보여준다.\n특히 “괴물형사 돌아왔다”는 문구까지 더해져 거침없이 범죄자들을 제압했던 형사 마석도의 완벽한 컴백을 알린다.\n또한 현장에 출동한 순간을 포착한 듯한 사진엔 “나쁜 놈들 싹 쓸어버린다!”는 문구와 함께 전편보다 더욱 끈끈해진 이들의 완벽한 호흡을 기대케 한다.\n더욱 업그레이드된 금천서 강력반의 최강 팀워크가 벌써부터 궁금증을 더한다.\n이처럼 ‘범죄도시2’는 공개되는 이미지만으로도 더욱 화끈하고 강력해진 범죄 소탕 작전을 펼칠 것을 예고하며 전편보다 한층 더 커진 스케일로 색다른 재미를 안겨줄 전망이다.\n이와 함께 역대급 빌런으로 변신한 손석구(강해상)의 합류로 전편을 뛰어넘는 강렬한 액션까지 펼치며 최고의 관전 포인트를 선사할 것이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘범죄도시2’가 5월 개봉을 확정했다. ‘범죄도시2’ 측은 4일 이같이 밝히며 1차 티저 포스터를 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 포스터 2종은 괴물 형사 마석도(마동석)의 존재감과 흥행에 성공했던 ‘범죄도시’서 남다른 케미를 보여준 금천서 강력반의 호흡을 보여준다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 “괴물형사 돌아왔다”는 문구까지 더해져 거침없이 범죄자들을 제압했던 형사 마석도의 완벽한 컴백을 알린다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 현장에 출동한 순간을 포착한 듯한 사진엔 “나쁜 놈들 싹 쓸어버린다!”는 문구와 함께 전편보다 더욱 끈끈해진 이들의 완벽한 호흡을 기대케 한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더욱 업그레이드된 금천서 강력반의 최강 팀워크가 벌써부터 궁금증을 더한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이처럼 ‘범죄도시2’는 공개되는 이미지만으로도 더욱 화끈하고 강력해진 범죄 소탕 작전을 펼칠 것을 예고하며 전편보다 한층 더 커진 스케일로 색다른 재미를 안겨줄 전망이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 함께 역대급 빌런으로 변신한 손석구(강해상)의 합류로 전편을 뛰어넘는 강렬한 액션까지 펼치며 최고의 관전 포인트를 선사할 것이다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘범죄도시2’ 마동석이 돌아온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277268",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "황보를 경악하게 만든 남친 '동거녀'의 정체",
+		"newsSubTitle": "",
+		"newsContent": "가수 황보가 만나고 있는 '연하남' 집에 방문했다가 깜짝 놀랐다.\n15일 tvN 프로그램 '10살 차이'에 출연한 황보가 10살 연하남 존의 집에 방문했다.\n이날 존의 집을 방문한 황보는 존과 함께 살고 있는 룸메이트의 존재에 깜짝 놀랐다.\n존이 여성 룸메이트와 살고 있었기 때문이다.\n황보는 \\\"가까워지고 있는 남자가 집에 초대했는데 룸메이트가 여자면 나만 좀 그런가(불편한가)?\\\" \\\"나도 개방적인 편이긴 하지만 그래도 한국인이기 때문에…\\\"라며 불편한 심경을 드러냈다.\n이에 존은 \\\"룸메이트 에이미는 여자친구가 아니다\\\" \\\"가족같은 사이다\\\"와 같이 말했다.\n에이미 역시 \\\"집을 구하는 중인데 혼자 살고 싶지 않아서 존과 같이 살게 됐다\\\"고 전했다.\n이 모습을 본 이기광은 \\\"내 여자친구와 동거하는 친구가 남성이라고 생각하면 좀…\\\"이라고 말하며 황보의 입장에 공감했다.\n성시경 역시 \\\"사람들이 주변 이성을 소개하며 하는 말이 '그냥 오빠야' '친구야'인데 실제로 보면 그렇지 않은 경우가 있다\\\"고 말하며 이해할 수 없다는 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 황보가 만나고 있는 '연하남' 집에 방문했다가 깜짝 놀랐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 tvN 프로그램 '10살 차이'에 출연한 황보가 10살 연하남 존의 집에 방문했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 존의 집을 방문한 황보는 존과 함께 살고 있는 룸메이트의 존재에 깜짝 놀랐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "존이 여성 룸메이트와 살고 있었기 때문이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "황보는 \\\"가까워지고 있는 남자가 집에 초대했는데 룸메이트가 여자면 나만 좀 그런가(불편한가)?\\\" \\\"나도 개방적인 편이긴 하지만 그래도 한국인이기 때문에…\\\"라며 불편한 심경을 드러냈다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 존은 \\\"룸메이트 에이미는 여자친구가 아니다\\\" \\\"가족같은 사이다\\\"와 같이 말했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "에이미 역시 \\\"집을 구하는 중인데 혼자 살고 싶지 않아서 존과 같이 살게 됐다\\\"고 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 모습을 본 이기광은 \\\"내 여자친구와 동거하는 친구가 남성이라고 생각하면 좀…\\\"이라고 말하며 황보의 입장에 공감했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "성시경 역시 \\\"사람들이 주변 이성을 소개하며 하는 말이 '그냥 오빠야' '친구야'인데 실제로 보면 그렇지 않은 경우가 있다\\\"고 말하며 이해할 수 없다는 반응을 보였다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황보를 경악하게 만든 남친 '동거녀'의 정체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

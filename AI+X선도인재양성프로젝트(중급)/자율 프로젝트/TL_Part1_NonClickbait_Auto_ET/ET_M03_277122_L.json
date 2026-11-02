@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277122",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "방송 중 표정관리에 실패한 유재석‥이유는",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유재석(44)이 방송에서 정색한 모습이 재조명되며 네티즌에게 큰 웃음을 주고 있다.\n2015년 MBC '무한도전'에는 방송인 김영철이 '로맨스가 필요해' 프로젝트 세 번째 소개팅남으로 소개됐다.\n이날 김영철을 찾아간 무한도전 멤버들은 \\\"너를 위해 소개팅을 주선하겠다\\\"고 호언장담했다.\n그러면서 \\\"이상형이 어떻게 되냐\\\"고 물었다.\n김영철은 \\\"신민아가 이상형이다\\\"라고 답했고, 이를 지켜본 유재석의 표정은 심각했다.\n카메라에 자기 표정이 잡힌 모습을 깨달은 유재석은 \\\"내 표정이 싸늘했냐\\\"며 \\\"(당황해) 표정 관리가 안 돼 그랬다\\\"고 해명했다.\n이를 본 네티즌은 \\\"유재석 표정 안 좋은 거 처음\\\" \\\"너무 웃기다\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유재석(44)이 방송에서 정색한 모습이 재조명되며 네티즌에게 큰 웃음을 주고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2015년 MBC '무한도전'에는 방송인 김영철이 '로맨스가 필요해' 프로젝트 세 번째 소개팅남으로 소개됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김영철을 찾아간 무한도전 멤버들은 \\\"너를 위해 소개팅을 주선하겠다\\\"고 호언장담했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 \\\"이상형이 어떻게 되냐\\\"고 물었다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김영철은 \\\"신민아가 이상형이다\\\"라고 답했고, 이를 지켜본 유재석의 표정은 심각했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카메라에 자기 표정이 잡힌 모습을 깨달은 유재석은 \\\"내 표정이 싸늘했냐\\\"며 \\\"(당황해) 표정 관리가 안 돼 그랬다\\\"고 해명했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌은 \\\"유재석 표정 안 좋은 거 처음\\\" \\\"너무 웃기다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방송 중 표정관리에 실패한 유재석‥이유는",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

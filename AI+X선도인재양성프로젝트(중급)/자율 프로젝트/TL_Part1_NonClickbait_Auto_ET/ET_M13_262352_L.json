@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262352",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "케이블TV, 아날로그 서비스 종료",
+		"newsSubTitle": "",
+		"newsContent": "한국케이블TV방송협회가 이달 말로 케이블TV 아날로그 서비스가 최종 종료됐다고 28일 밝혔다.\n2012년 12월 31일 지상파 방송이 아날로그 방송을 종료한 데 이어 국내 모든 아날로그 방송 서비스가 막을 내린 것이다.\n협회는 “케이블TV는 아날로그 가입자의 불편을 최소화하고, 지상파 재전송이라는 공적역무를 위해 지상파보다 10년 늦게 아날로그 방송을 최종 마무리했다”고 설명했다.\n케이블TV 아날로그 방송 종료는 2017년 3월부터 정부 주도의 ‘아날로그 종료 지원협의체’를 통해 진행됐다.\n2019년 하반기까지 전체 종합유선방송사업자(SO)의 98%가 아날로그 방송을 종료한 데 이어 이번에 전체 SO의 아날로그 신호를 종료했다.\n이래운 케이블TV방송협회장은 “코로나19 방역의 어려움 속에서도 마지막 한 가구까지 불편함을 느끼지 않도록 안내하고 점검했다”며 “아날로그 방송으로 출발해 다채널 방송시대를 처음 시작한 케이블TV가 미디어의 공익적 영역에서 할 수 있는 또 하나의 역사적 기록이 됐다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국케이블TV방송협회가 이달 말로 케이블TV 아날로그 서비스가 최종 종료됐다고 28일 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2012년 12월 31일 지상파 방송이 아날로그 방송을 종료한 데 이어 국내 모든 아날로그 방송 서비스가 막을 내린 것이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "협회는 “케이블TV는 아날로그 가입자의 불편을 최소화하고, 지상파 재전송이라는 공적역무를 위해 지상파보다 10년 늦게 아날로그 방송을 최종 마무리했다”고 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "케이블TV 아날로그 방송 종료는 2017년 3월부터 정부 주도의 ‘아날로그 종료 지원협의체’를 통해 진행됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2019년 하반기까지 전체 종합유선방송사업자(SO)의 98%가 아날로그 방송을 종료한 데 이어 이번에 전체 SO의 아날로그 신호를 종료했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이래운 케이블TV방송협회장은 “코로나19 방역의 어려움 속에서도 마지막 한 가구까지 불편함을 느끼지 않도록 안내하고 점검했다”며 “아날로그 방송으로 출발해 다채널 방송시대를 처음 시작한 케이블TV가 미디어의 공익적 영역에서 할 수 있는 또 하나의 역사적 기록이 됐다”고 말했다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "케이블TV, 아날로그 서비스 종료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

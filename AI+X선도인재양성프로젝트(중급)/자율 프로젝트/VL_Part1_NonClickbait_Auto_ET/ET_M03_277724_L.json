@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277724",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'엑소 콘서트 보러' 공항서 포착된 절친 조인성·김우빈·임주환",
+		"newsSubTitle": "",
+		"newsContent": "‘연예계 절친‘으로 알려진 배우 조인성, 김우빈, 임주환이 김포공항과 하네다공항에서 포착됐다. 29일 인스타그램 등 SNS와 온라인커뮤니티에는 ‘공항에서 마주친 절친 배우들’이라는 제목으로 영상과 사진이 공개됐다.\n공개된 영상 속에는 마스크와 머플러 등으로 얼굴을 가리고 공항을 지나가는 조인성, 김우빈, 임주환의 모습이 담겨있다.\n세 배우들은 얼굴을 가렸지만 훤칠한 키와 뛰어난 비율로 단연 돋보였다.\n네티즌들은 이 배우들이 일본에서 열리는 엑소 콘서트를 위해 일본을 찾은 것이라고 추측하고 있다.\n엑소의 멤버 디오도 이‘절친’모임에 포함되기 때문이다.\n또한 그들은 “마스크를 써도 잘생긴 게 보인다” “실제 키가 몇일까” 등 다양한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘연예계 절친‘으로 알려진 배우 조인성, 김우빈, 임주환이 김포공항과 하네다공항에서 포착됐다. 29일 인스타그램 등 SNS와 온라인커뮤니티에는 ‘공항에서 마주친 절친 배우들’이라는 제목으로 영상과 사진이 공개됐다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 영상 속에는 마스크와 머플러 등으로 얼굴을 가리고 공항을 지나가는 조인성, 김우빈, 임주환의 모습이 담겨있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세 배우들은 얼굴을 가렸지만 훤칠한 키와 뛰어난 비율로 단연 돋보였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네티즌들은 이 배우들이 일본에서 열리는 엑소 콘서트를 위해 일본을 찾은 것이라고 추측하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엑소의 멤버 디오도 이‘절친’모임에 포함되기 때문이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 그들은 “마스크를 써도 잘생긴 게 보인다” “실제 키가 몇일까” 등 다양한 반응을 보였다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'엑소 콘서트 보러' 공항서 포착된 절친 조인성·김우빈·임주환",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

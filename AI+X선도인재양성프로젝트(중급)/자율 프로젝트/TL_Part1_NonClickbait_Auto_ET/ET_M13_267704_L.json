@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267704",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘엠카운트다운’ 아일리원, 활짝 피어난 ‘사랑아 피어라’ 무대",
+		"newsSubTitle": "",
+		"newsContent": "신예 걸그룹 아일리원(ILY:1)이 봄 감성을 자극하는 무대를 안방극장에 전했다.\n아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 21일 오후 6시 방송된 Mnet ‘엠카운트다운’에 출연, 데뷔곡 ‘사랑아 피어라(LOVE IN BLOOM)’ 무대를 펼쳤다.\n화사한 스타일링으로 무대에 오른 아일리원 멤버들은 우아한 춤선을 뽐내는가 하면, 꽃이 피어나는 모양을 닮은 안무를 선보이며 한시도 눈을 뗄 수 없게 만들었다.\n아일리원은 완성도 높은 퍼포먼스와 함께 무결점 미모를 뽐내 팬들을 미소 짓게 만들었고, 비주얼, 노래, 춤 어느 것 하나 빼놓을 수 없는 탄탄한 무대로 ‘핫루키’임을 입증했다.\n청순미가 돋보이는 아일리원 데뷔곡 ‘사랑아 피어라(LOVE IN BLOOM)’는 화려한 신디사이저 리프 사운드와 에너제틱한 뭄바톤 비트 위 몽환적인 멜로디가 완벽히 조화를 이룬 곡으로, 소중히 심었던 사랑이 마침내 피어난다는 메시지를 담아냈다.\n아일리원은 ‘사랑아 피어라’ 뮤직비디오로 542만 뷰를 돌파하는 등 상승세를 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신예 걸그룹 아일리원(ILY:1)이 봄 감성을 자극하는 무대를 안방극장에 전했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 21일 오후 6시 방송된 Mnet ‘엠카운트다운’에 출연, 데뷔곡 ‘사랑아 피어라(LOVE IN BLOOM)’ 무대를 펼쳤다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화사한 스타일링으로 무대에 오른 아일리원 멤버들은 우아한 춤선을 뽐내는가 하면, 꽃이 피어나는 모양을 닮은 안무를 선보이며 한시도 눈을 뗄 수 없게 만들었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아일리원은 완성도 높은 퍼포먼스와 함께 무결점 미모를 뽐내 팬들을 미소 짓게 만들었고, 비주얼, 노래, 춤 어느 것 하나 빼놓을 수 없는 탄탄한 무대로 ‘핫루키’임을 입증했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "청순미가 돋보이는 아일리원 데뷔곡 ‘사랑아 피어라(LOVE IN BLOOM)’는 화려한 신디사이저 리프 사운드와 에너제틱한 뭄바톤 비트 위 몽환적인 멜로디가 완벽히 조화를 이룬 곡으로, 소중히 심었던 사랑이 마침내 피어난다는 메시지를 담아냈다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아일리원은 ‘사랑아 피어라’ 뮤직비디오로 542만 뷰를 돌파하는 등 상승세를 이어가고 있다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엠카운트다운’ 아일리원, 활짝 피어난 ‘사랑아 피어라’ 무대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

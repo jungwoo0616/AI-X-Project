@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268755",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이시언 ‘♥서지승’과 보내는 일상 “아침부터 고기”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이시언이 서지승과의 일상을 공유했다.\n이시언은 지난달 29일 자신의 인스타그램 스토리를 통해 아침 준비 사진을 업로드하며 근황을 알렸다.\n게재된 내용에는 한우 사진과 “아침부터 고기”라는 글이 담겨 있다.\n이후 이시언은 “실패인가...”라고 덧붙이며 한우 사진을 올렸다.\n오래 익혀 까맣게 변한 고기의 모습이 안타까움을 자아낸다.\n이시언은 2001년 영화 ‘신라의 달밤’으로 데뷔해 드라마 ‘친구, 우리들의 전설’ ‘응답하라 1997’ ‘리멤버-아들의 전쟁’ ‘바람 피면 죽는다’ 등에 출연했다.\n이후 MBC 예능 프로그램 ‘나혼자 산다’에 출연해 대중들에게 얼굴을 알렸으며 지난해 말 하차해 결혼임박설이 돌았다.\n서지승은 2005년 드라마 ‘반올림2’으로 데뷔한 뒤 ‘TV소설 복희 누나’ 등에 출연했다.\n전 프로게이머인 서지수의 동생으로도 잘 알려져 있다.\n한편 이시언과 서지승과의 4년 열애 후 지난해 12월 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이시언이 서지승과의 일상을 공유했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이시언은 지난달 29일 자신의 인스타그램 스토리를 통해 아침 준비 사진을 업로드하며 근황을 알렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게재된 내용에는 한우 사진과 “아침부터 고기”라는 글이 담겨 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 이시언은 “실패인가...”라고 덧붙이며 한우 사진을 올렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오래 익혀 까맣게 변한 고기의 모습이 안타까움을 자아낸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이시언은 2001년 영화 ‘신라의 달밤’으로 데뷔해 드라마 ‘친구, 우리들의 전설’ ‘응답하라 1997’ ‘리멤버-아들의 전쟁’ ‘바람 피면 죽는다’ 등에 출연했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 MBC 예능 프로그램 ‘나혼자 산다’에 출연해 대중들에게 얼굴을 알렸으며 지난해 말 하차해 결혼임박설이 돌았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서지승은 2005년 드라마 ‘반올림2’으로 데뷔한 뒤 ‘TV소설 복희 누나’ 등에 출연했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전 프로게이머인 서지수의 동생으로도 잘 알려져 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 이시언과 서지승과의 4년 열애 후 지난해 12월 결혼했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이시언 ‘♥서지승’과 보내는 일상 “아침부터 고기”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

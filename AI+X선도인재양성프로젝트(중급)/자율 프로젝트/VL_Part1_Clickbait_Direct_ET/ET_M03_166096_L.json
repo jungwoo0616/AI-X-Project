@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166096",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "더 랠리스트 배성재 유리, \\\"이건 꼭 해야겠구나\\\"…무슨 일?",
+    "newsSubTitle": "",
+    "newsContent": "‘더 랠리스트’ 배성재가 유리와 MC를 맡은 소감을 전했다.\n18일 오전 첫 방송한 SBS 예능프로그램 ‘더 랠리스트’에서는 진행을 맡은 SBS 아나운서 배성재와 그룹 소녀시대 멤버 유리의 모습이 그려졌다.\n이날 방송에서 배성재는 “유리 씨 옆에 있으니 마치 제가 국민 MC가 된 것 같은 기분이 든다”면서 유리에게 “‘더 랠리스트’의 MC가 된 소감을 한 마디 부탁 한다”고 털어놨다.\n유리는 “평소에 차에 관심이 많다. ‘이건 꼭 해야겠구나’라는 생각을 했다”며 MC를 맡게 된 소감을 전했다.\n한편 ‘더 랠리스트’는 한국을 대표할 랠리 드라이버 선발 서바이벌 오디션 프로그램으로 매주 토요일에서 일요일로 넘어가는 오전 12시 15분 방송된다.\n온라인 중앙일보 [사진 SBS ‘더 랠리스트’ 방송화면 캡처] ‘더 랠리스트’ 배성재 유리",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘더 랠리스트’ 배성재가 유리와 MC를 맡은 소감을 전했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 오전 첫 방송한 SBS 예능프로그램 ‘더 랠리스트’에서는 진행을 맡은 SBS 아나운서 배성재와 그룹 소녀시대 멤버 유리의 모습이 그려졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 배성재는 “유리 씨 옆에 있으니 마치 제가 국민 MC가 된 것 같은 기분이 든다”면서 유리에게 “‘더 랠리스트’의 MC가 된 소감을 한 마디 부탁 한다”고 털어놨다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유리는 “평소에 차에 관심이 많다. ‘이건 꼭 해야겠구나’라는 생각을 했다”며 MC를 맡게 된 소감을 전했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 ‘더 랠리스트’는 한국을 대표할 랠리 드라이버 선발 서바이벌 오디션 프로그램으로 매주 토요일에서 일요일로 넘어가는 오전 12시 15분 방송된다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 SBS ‘더 랠리스트’ 방송화면 캡처] ‘더 랠리스트’ 배성재 유리",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'더 랠리스트' 배성재, \"마치 국민 MC가 된 것 같다\" 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165773",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이승기, 재활 아동 위해 세브란스병원에 1억원 기부…팬들도 동참",
+    "newsSubTitle": "",
+    "newsContent": "배우 겸 가수 이승기가 세브란스병원에 1억원을 기부했다.\n27일 병원 측과 소속사 후크엔터테인먼트에 따르면 이승기는 세브란스 재활병원에 1억원을 기탁했다.\n이 기부금은 재활병동에서 치료를 받고 있는 소아·청소년 환자를 위해 쓰여질 예정이다.\n앞서 그는 지난 2019년 재활병원 장애인후원회 의료 재활 후원금으로 1억원을 전한 바 있다.\n당시 기부금은 23명의 소아·청소년 척수 손상 환자에게 휠체어, 의족·의수, 자세 보조 기기 등을 지원하는 데 쓰였다.\n이런 소식이 전해지자 팬들도 후원 행보에 동참했다.\n이승기 연합 팬클럽은 지난 2020년 이승기의 생일을 기념해 세브란스병원에 1000만원을 기부했다.\n이승기는 “지난번 기부를 통해 도움을 받은 어린 친구들이 치료 후 전해준 편지를 받고 정말 고마웠고 내가 드린 것보다 받은 것이 훨씬 더 많다는 생각이 들었다. 팬 분들도 동참해 주셔서 진심으로 감사했다”며 “이번 기부 또한 아이들이 보다 건강하고 행복한 삶을 살고, 꿈을 이뤄나가는 데 조금이라도 도움이 되길 바란다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 겸 가수 이승기가 세브란스병원에 1억원을 기부했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 병원 측과 소속사 후크엔터테인먼트에 따르면 이승기는 세브란스 재활병원에 1억원을 기탁했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 기부금은 재활병동에서 치료를 받고 있는 소아·청소년 환자를 위해 쓰여질 예정이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 그는 지난 2019년 재활병원 장애인후원회 의료 재활 후원금으로 1억원을 전한 바 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 기부금은 23명의 소아·청소년 척수 손상 환자에게 휠체어, 의족·의수, 자세 보조 기기 등을 지원하는 데 쓰였다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이런 소식이 전해지자 팬들도 후원 행보에 동참했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이승기 연합 팬클럽은 지난 2020년 이승기의 생일을 기념해 세브란스병원에 1000만원을 기부했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이승기는 “지난번 기부를 통해 도움을 받은 어린 친구들이 치료 후 전해준 편지를 받고 정말 고마웠고 내가 드린 것보다 받은 것이 훨씬 더 많다는 생각이 들었다. 팬 분들도 동참해 주셔서 진심으로 감사했다”며 “이번 기부 또한 아이들이 보다 건강하고 행복한 삶을 살고, 꿈을 이뤄나가는 데 조금이라도 도움이 되길 바란다”고 말했다.",
+        "sentenceSize": 184
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기부천사 이승기, 세브란스병원에 1억 원 투척 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

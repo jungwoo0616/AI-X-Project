@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278392",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "테일러 스위프트, 연인 켈빈 해리스와 해변 키스",
+		"newsSubTitle": "",
+		"newsContent": "미국 팝가수 테일러 스위프트가 연인 켈빈 해리스와 달콤한 휴가를 즐기고 있다.\n테일러 스위프트는 16일 자신의 인스타그램에 해변에서 휴가를 즐기고 있는 모습을 공개했다.\n공개된 사진 속 테일러 스위프트는 연인 켈빈 해리스와 해변에서 입맞춤을 나누고 있는 모습이다.\n특히 테일러 스위프트는 켈빈 해리스를 꼭 껴안은 채 사랑스러운 연인의 모습을 보여 눈길을 끌고 있다.\n한편, 테일러 스위프트는 연인 켈빈 해리스와 크리스마스를 함께 보내고, 가족들과 함께 시간을 보내는 모습을 보여 결혼설이 제기됐다.\n온라인 중앙일보 [사진 테일러 스위프트 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 팝가수 테일러 스위프트가 연인 켈빈 해리스와 달콤한 휴가를 즐기고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "테일러 스위프트는 16일 자신의 인스타그램에 해변에서 휴가를 즐기고 있는 모습을 공개했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 테일러 스위프트는 연인 켈빈 해리스와 해변에서 입맞춤을 나누고 있는 모습이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 테일러 스위프트는 켈빈 해리스를 꼭 껴안은 채 사랑스러운 연인의 모습을 보여 눈길을 끌고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 테일러 스위프트는 연인 켈빈 해리스와 크리스마스를 함께 보내고, 가족들과 함께 시간을 보내는 모습을 보여 결혼설이 제기됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 테일러 스위프트 인스타그램]",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테일러 스위프트, 연인 켈빈 해리스와 해변 키스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268878",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘소유→조수민’ 빅플래닛, 이번엔 누굴 영입했을까?",
+		"newsSubTitle": "",
+		"newsContent": "빅플래닛메이드(Big Planet Made, BPM)가 새로운 아티스트를 잇달아 영입 발표를 예고했다.\n빅플래닛메이드는 2일 오후 공식 사회관계망서비스(SNS)를 통해 ‘WHO’S NEXT?’ 티저 이미지를 공개했다.\n팝 아트 스타일의 일러스트 이미지에는 선글라스를 낀 채 익살스럽게 웃고 있는 두 마리의 쥐 그림이 담겨 있다.\n비비드한 색감이 돋보이는 힙한 이미지가 어떤 아티스트를 형상화했는지 궁금증을 자아내는 가운데, 그 정체는 오는 3일 공개할 예정으로 기대를 높이고 있다.\n가수 소유를 시작으로 VIVIZ(비비지 / 은하·신비·엄지), 허각, 하성운, 이무진, 비오(BE’O) 등 실력과 개성을 모두 갖춘 K팝 가수들과 손잡아 온 빅플래닛메이드는 최근 드라마 ’펜트하우스‘의 신 스틸러 조수민과 전속계약을 체결, 첫 배우 영입으로 화제를 모았다.\n한편 빅플래닛메이드에서 새 출발에 나설 아티스트의 정체는 3일 오후 1시 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅플래닛메이드(Big Planet Made, BPM)가 새로운 아티스트를 잇달아 영입 발표를 예고했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅플래닛메이드는 2일 오후 공식 사회관계망서비스(SNS)를 통해 ‘WHO’S NEXT?’ 티저 이미지를 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "팝 아트 스타일의 일러스트 이미지에는 선글라스를 낀 채 익살스럽게 웃고 있는 두 마리의 쥐 그림이 담겨 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비비드한 색감이 돋보이는 힙한 이미지가 어떤 아티스트를 형상화했는지 궁금증을 자아내는 가운데, 그 정체는 오는 3일 공개할 예정으로 기대를 높이고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가수 소유를 시작으로 VIVIZ(비비지 / 은하·신비·엄지), 허각, 하성운, 이무진, 비오(BE’O) 등 실력과 개성을 모두 갖춘 K팝 가수들과 손잡아 온 빅플래닛메이드는 최근 드라마 ’펜트하우스‘의 신 스틸러 조수민과 전속계약을 체결, 첫 배우 영입으로 화제를 모았다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 빅플래닛메이드에서 새 출발에 나설 아티스트의 정체는 3일 오후 1시 공개된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘소유→조수민’ 빅플래닛, 이번엔 누굴 영입했을까?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

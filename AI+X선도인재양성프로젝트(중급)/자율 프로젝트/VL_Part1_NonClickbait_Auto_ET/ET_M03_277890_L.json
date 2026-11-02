@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277890",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'미운우리새끼' 김제동 어머니 \\\"손자 외모는 아빠 안 닮았으면…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'미운우리새끼' 김제동의 어머니가 아들 때문에 속상해 했다.\n9일 방송된 SBS '다시 쓰는 육아일기! 미운우리새끼'에서는 김제동의 어머니가 아들에 대해 못다한 얘기를 전했다.\n이날 어머니들은 '손자, 아들의 이것 만큼은 안 닮았으면 좋겠다'는 질문을 받았다.\n김제동의 어머니는 \\\"안 닮았으면 하는 것은 여러가지가 있다\\\"고 운을 뗐다.\n이어 \\\"일단 외모는 안 닮았으면 좋겠다\\\"며 \\\"그리고 세상에 대고 바른 소리하면서 부모 애간장 다 녹이는 것도 그렇다\\\"고 말했다.\n한편, '미운우리새끼'가 자체 최고 시청률을 기록하며 동시간대 1위를 지켰다.\n온라인 중앙일보 [사진 SBS 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'미운우리새끼' 김제동의 어머니가 아들 때문에 속상해 했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 방송된 SBS '다시 쓰는 육아일기! 미운우리새끼'에서는 김제동의 어머니가 아들에 대해 못다한 얘기를 전했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 어머니들은 '손자, 아들의 이것 만큼은 안 닮았으면 좋겠다'는 질문을 받았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김제동의 어머니는 \\\"안 닮았으면 하는 것은 여러가지가 있다\\\"고 운을 뗐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 \\\"일단 외모는 안 닮았으면 좋겠다\\\"며 \\\"그리고 세상에 대고 바른 소리하면서 부모 애간장 다 녹이는 것도 그렇다\\\"고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, '미운우리새끼'가 자체 최고 시청률을 기록하며 동시간대 1위를 지켰다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS 캡처]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'미운우리새끼' 김제동 어머니 \\\"손자 외모는 아빠 안 닮았으면…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

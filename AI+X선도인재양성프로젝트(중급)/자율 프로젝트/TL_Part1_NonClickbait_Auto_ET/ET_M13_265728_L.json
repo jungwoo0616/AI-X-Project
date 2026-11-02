@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265728",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박나래 장금술 ‘소식좌’를 위한 특선요리 공개",
+		"newsSubTitle": "",
+		"newsContent": "방송인 박나래가 ‘소식좌’들을 위한 특선 요리를 공개했다.\n박나래는 2일 자신의 사회관계망서비스(SNS)에 “우리 소식좌 다라 언니가 보내준 나래미식회 1부 사진”이라고 적고 여러 장의 요리사진을 올렸다.\n박나래는 이어 “맛있게 먹어줘서 참 고맙고 또 해주고 싶고. 요리만 한 것 같은데 왜 나는 다음날 1kg 찐거지. 아 나도 먹었구나”라고 말해 웃음을 안겼다.\n공개된 사진에는 박나래가 MBC ‘나 혼자 산다’에서 지인들을 초대해 선보인 요리가 담겼다.\n이날 박나래는 ‘패스츄리 올린 감자스프’, ‘크림치즈 앤다이브’, ‘광어 묵은지 카르파치오’, ‘명란솥밥’ 등을 코스로 내놨다.\n한편 박나래는 MBC ‘나 혼자 산다’, tvN ‘놀라운 토요일’ 등에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 박나래가 ‘소식좌’들을 위한 특선 요리를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박나래는 2일 자신의 사회관계망서비스(SNS)에 “우리 소식좌 다라 언니가 보내준 나래미식회 1부 사진”이라고 적고 여러 장의 요리사진을 올렸다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박나래는 이어 “맛있게 먹어줘서 참 고맙고 또 해주고 싶고. 요리만 한 것 같은데 왜 나는 다음날 1kg 찐거지. 아 나도 먹었구나”라고 말해 웃음을 안겼다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 박나래가 MBC ‘나 혼자 산다’에서 지인들을 초대해 선보인 요리가 담겼다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 박나래는 ‘패스츄리 올린 감자스프’, ‘크림치즈 앤다이브’, ‘광어 묵은지 카르파치오’, ‘명란솥밥’ 등을 코스로 내놨다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 박나래는 MBC ‘나 혼자 산다’, tvN ‘놀라운 토요일’ 등에 출연 중이다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박나래 장금술 ‘소식좌’를 위한 특선요리 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

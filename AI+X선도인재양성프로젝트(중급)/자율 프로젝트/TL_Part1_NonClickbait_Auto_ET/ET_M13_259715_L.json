@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259715",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "팀킴 영미도 웃게 한 모모랜드 ‘영미송’의 정체는?",
+		"newsSubTitle": "",
+		"newsContent": "컬링 국가대표 ‘팀킴’의 김영미가 최근 커뮤니티에서 ‘영미 송’으로 화제를 모은 걸그룹 모모랜드 ‘여미 여미 러브(Yummy Yummy Love)’에 함박웃음을 지었다.\n최근 한 포털 사이트에서는 특정 노래의 제목을 묻는 게시물이 올라왔다.\n해당 글에서는 “라디오에서 ‘영미 영미 럽’이라는 노래를 들었는데 아무리 찾아도 안 나온다”며 “애초에 영미라는 가사가 있는 게 이상할 것 같은데 계속 ‘영미 영미 럽’이라고 했다”며 질문 글을 올렸다.\n이에 한 누리꾼은 “모모랜드의 ‘여미 여미 러브’ 같다”고 답했고 게시물을 커뮤니티에서 ‘영미 송’ ‘영미 주제곡’이라는 제목으로 뜨거운 반응을 얻었다.\n그러자 지난 27일 한 팬이 주인공인 김영미 선수의 사회관계망서비스(SNS)에 이 글을 제보했고, 김영미가 직접 답장을 남겨 다시 한 번 화제가 됐다.\n김영미는 “안 그래도 지인이 ‘영미노래’라면서 들려줬다”고 반가움을 표현했다. ‘여미 여미 러브’는 지난 14일 발매된 모모랜드의 신곡으로 세계적인 남미 아티스트 나티 나타샤와의 컬래버레이션으로 관심을 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "컬링 국가대표 ‘팀킴’의 김영미가 최근 커뮤니티에서 ‘영미 송’으로 화제를 모은 걸그룹 모모랜드 ‘여미 여미 러브(Yummy Yummy Love)’에 함박웃음을 지었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한 포털 사이트에서는 특정 노래의 제목을 묻는 게시물이 올라왔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 글에서는 “라디오에서 ‘영미 영미 럽’이라는 노래를 들었는데 아무리 찾아도 안 나온다”며 “애초에 영미라는 가사가 있는 게 이상할 것 같은데 계속 ‘영미 영미 럽’이라고 했다”며 질문 글을 올렸다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 한 누리꾼은 “모모랜드의 ‘여미 여미 러브’ 같다”고 답했고 게시물을 커뮤니티에서 ‘영미 송’ ‘영미 주제곡’이라는 제목으로 뜨거운 반응을 얻었다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 지난 27일 한 팬이 주인공인 김영미 선수의 사회관계망서비스(SNS)에 이 글을 제보했고, 김영미가 직접 답장을 남겨 다시 한 번 화제가 됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김영미는 “안 그래도 지인이 ‘영미노래’라면서 들려줬다”고 반가움을 표현했다. ‘여미 여미 러브’는 지난 14일 발매된 모모랜드의 신곡으로 세계적인 남미 아티스트 나티 나타샤와의 컬래버레이션으로 관심을 모았다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팀킴 영미도 웃게 한 모모랜드 ‘영미송’의 정체는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

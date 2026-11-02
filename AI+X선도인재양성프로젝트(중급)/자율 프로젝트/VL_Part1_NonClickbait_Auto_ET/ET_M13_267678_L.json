@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267678",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 짧은 머리도 찰떡 “우리 언니 또 예쁘다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 아이유가 헤어스타일을 바꿨다.\n아이유는 21일 자신의 사회관계망서비스(SNS) 인스타그램에 “시원”이라는 글과 함께 셀카 두 장을 공개했다.\n사진 속 아이유는 긴 머리를 자르고 중단발의 모습으로 카메라를 바라보고 있다.\n사진 속 그의 청초하고 귀여운 이목구비가 시선을 끈다.\n이날 누리꾼들은 아이유의 새로운 헤어스타일에 “우리 언니 또 예쁘다” “진짜 너무 귀엽고 사랑스럽다” “나도 시원하다” 등의 긍정적인 반응을 보였다.\n한편 아이유는 배우 송강호, 강동원, 배두나와 함께 고레에다 히로카즈 감독의 영화 ‘브로커’에 출연하며 칸 국제영화제에 참석할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 아이유가 헤어스타일을 바꿨다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이유는 21일 자신의 사회관계망서비스(SNS) 인스타그램에 “시원”이라는 글과 함께 셀카 두 장을 공개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 아이유는 긴 머리를 자르고 중단발의 모습으로 카메라를 바라보고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 그의 청초하고 귀여운 이목구비가 시선을 끈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 누리꾼들은 아이유의 새로운 헤어스타일에 “우리 언니 또 예쁘다” “진짜 너무 귀엽고 사랑스럽다” “나도 시원하다” 등의 긍정적인 반응을 보였다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 아이유는 배우 송강호, 강동원, 배두나와 함께 고레에다 히로카즈 감독의 영화 ‘브로커’에 출연하며 칸 국제영화제에 참석할 예정이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 짧은 머리도 찰떡 “우리 언니 또 예쁘다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

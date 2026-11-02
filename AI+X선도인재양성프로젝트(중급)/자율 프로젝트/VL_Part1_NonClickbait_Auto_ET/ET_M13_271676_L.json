@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271676",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김종국, 그동안 쌓였던 ‘개발 종국’ 오명(런닝맨)",
+		"newsSubTitle": "",
+		"newsContent": "29일 방송된 SBS ‘런닝맨’에서는 김종국의 개발 축구의혹이 밝혀졌다.\n멤버들과 제작진은 풋살 경기를 진행했다.\n김종국은 “좋아! 아주 오늘 그냥!” 이라며 승부욕을 불태웠는데 그간 “축구 못하면서 왜 잘하는 척해”, “그렇게 잘하지도 않은데 굳은살만 있어”라는 개발 의혹을 받았던 바 있었다.\n김종국은 이번에야말로 개발 오명을 씻기 위해 경기 전부터 연습 삼매경에 빠져 웃음을 자아냈다.\n급기야 김종국은 승부욕을 주체하지 못하고 열정 넘치는 1인 축구를 선보여 현장을 폭소케 했는데, 패스는 커녕 골대를 넘어 만루홈런을 날리는 슈팅 등 혼자만의 리그를 선보이자 멤버들은 “왜 혼자만 하냐”, “너는 팀원이 안 보이니?” 라며 원성을 쏟아냈다.\n김종국은 굴하지 않고 꿋꿋하게 1인 축구를 이어가 멤버들의 뒷목을 잡게 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "29일 방송된 SBS ‘런닝맨’에서는 김종국의 개발 축구의혹이 밝혀졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "멤버들과 제작진은 풋살 경기를 진행했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김종국은 “좋아! 아주 오늘 그냥!” 이라며 승부욕을 불태웠는데 그간 “축구 못하면서 왜 잘하는 척해”, “그렇게 잘하지도 않은데 굳은살만 있어”라는 개발 의혹을 받았던 바 있었다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김종국은 이번에야말로 개발 오명을 씻기 위해 경기 전부터 연습 삼매경에 빠져 웃음을 자아냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "급기야 김종국은 승부욕을 주체하지 못하고 열정 넘치는 1인 축구를 선보여 현장을 폭소케 했는데, 패스는 커녕 골대를 넘어 만루홈런을 날리는 슈팅 등 혼자만의 리그를 선보이자 멤버들은 “왜 혼자만 하냐”, “너는 팀원이 안 보이니?” 라며 원성을 쏟아냈다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김종국은 굴하지 않고 꿋꿋하게 1인 축구를 이어가 멤버들의 뒷목을 잡게 했다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김종국, 그동안 쌓였던 ‘개발 종국’ 오명(런닝맨)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

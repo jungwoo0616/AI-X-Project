@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285090",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신촌 정전 … 대책없이 어둠에 잠긴 '신촌'",
+		"newsSubTitle": "",
+		"newsContent": "신촌 정전 신촌 변전소 이상 서울 홍대와 신촌 일부지역이 정전으로 혼란을 빚었다.\n한국전력에 따르면 홍대·신촌 정전은 신촌 변전소 이상으로 인한 전기 고장이 원인이다.\n홍대·신촌 정전 복구 작업은 정전이 꽤 진행된 시간까지도 정확한 복구시간을 내놓지 못하고 있었다.\n사고는 20여분이 지난 6시 22분께 전기가 들어오며 정상화 됐지만 인파로 붐비는 도심 일대가 암흑천지로 바뀌며 시민들이 불편을 겪었다.\n특히 정전으로 시민들이 엘리베이터에 갖히는 등 불편을 겪기도 했다.\n인터넷상에서는 홍대·신촌 정전 원인을 모르는 상황에서 \\\"건물 정전이 아니라 홍대, 신촌 모두 정전이네\\\" \\\"신촌 정전…온통 그러네\\\" \\\"신촌 정전 왜 때문이지?\\\" 등 다양한 반응과 함께 걱정을 표했다.\n신촌 정전 신촌 변전소 이상 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신촌 정전 신촌 변전소 이상 서울 홍대와 신촌 일부지역이 정전으로 혼란을 빚었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전력에 따르면 홍대·신촌 정전은 신촌 변전소 이상으로 인한 전기 고장이 원인이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍대·신촌 정전 복구 작업은 정전이 꽤 진행된 시간까지도 정확한 복구시간을 내놓지 못하고 있었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사고는 20여분이 지난 6시 22분께 전기가 들어오며 정상화 됐지만 인파로 붐비는 도심 일대가 암흑천지로 바뀌며 시민들이 불편을 겪었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 정전으로 시민들이 엘리베이터에 갖히는 등 불편을 겪기도 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인터넷상에서는 홍대·신촌 정전 원인을 모르는 상황에서 \\\"건물 정전이 아니라 홍대, 신촌 모두 정전이네\\\" \\\"신촌 정전…온통 그러네\\\" \\\"신촌 정전 왜 때문이지?\\\" 등 다양한 반응과 함께 걱정을 표했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신촌 정전 신촌 변전소 이상 온라인 중앙일보",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신촌 정전 … 대책없이 어둠에 잠긴 '신촌'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

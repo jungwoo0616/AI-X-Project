@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261848",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "싱어송라이터 김우주, 오늘(23일) ‘그날 밤’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "싱어송라이터 김우주가 5개월 만에 신곡을 발표한다.\n소속사 문화인은 23일 정오 각종 온라인 음원 사이트에서 김우주의 새 싱글 ‘그날 밤’이 발매된다고 밝혔다. ‘그날 밤’은 지난해 9월 발매한 ‘TEDDY DOG(너희 집 강아지가 보고싶어 날 따랐었잖아)’ 이후 5개월 만의 신보로, 헤어진 연인을 떠올리며 느끼는 그리움을 표현한 곡이다.\n후반부에 신디 사이저를 활용한 풍부한 사운드는 잔잔한 전반부의 사운드와 대비되어 마음속 감정의 동요를 일으킨다. ‘그날 밤’의 작사, 작곡, 편곡에 참여한 김우주는 뮤직비디오에도 직접 출연하며 자신만의 색깔이 담긴 곡을 완성했다.\n김우주는 지난 2018년 LG 소셜 챌린저, 대학생 아티스트 프로젝트 ‘더:대티스트’ 우승자로 솔직한 노랫말과 진정성 있는 보컬이 매력적인 아티스트다.\n지난 2019년 싱글 앨범 ‘잔흔 (殘痕)’으로 데뷔한 뒤 싱글 ‘TEDDY DOG’, EP ‘그런 마법’을 발표하며 자신만의 포크 감성을 구축했다.\n한편 김우주의 새 싱글 ‘그날 밤’ 음원 및 뮤직비디오는 23일 정오부터 각종 음원 사이트를 통해 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "싱어송라이터 김우주가 5개월 만에 신곡을 발표한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 문화인은 23일 정오 각종 온라인 음원 사이트에서 김우주의 새 싱글 ‘그날 밤’이 발매된다고 밝혔다. ‘그날 밤’은 지난해 9월 발매한 ‘TEDDY DOG(너희 집 강아지가 보고싶어 날 따랐었잖아)’ 이후 5개월 만의 신보로, 헤어진 연인을 떠올리며 느끼는 그리움을 표현한 곡이다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "후반부에 신디 사이저를 활용한 풍부한 사운드는 잔잔한 전반부의 사운드와 대비되어 마음속 감정의 동요를 일으킨다. ‘그날 밤’의 작사, 작곡, 편곡에 참여한 김우주는 뮤직비디오에도 직접 출연하며 자신만의 색깔이 담긴 곡을 완성했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김우주는 지난 2018년 LG 소셜 챌린저, 대학생 아티스트 프로젝트 ‘더:대티스트’ 우승자로 솔직한 노랫말과 진정성 있는 보컬이 매력적인 아티스트다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 2019년 싱글 앨범 ‘잔흔 (殘痕)’으로 데뷔한 뒤 싱글 ‘TEDDY DOG’, EP ‘그런 마법’을 발표하며 자신만의 포크 감성을 구축했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김우주의 새 싱글 ‘그날 밤’ 음원 및 뮤직비디오는 23일 정오부터 각종 음원 사이트를 통해 감상할 수 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싱어송라이터 김우주, 오늘(23일) ‘그날 밤’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

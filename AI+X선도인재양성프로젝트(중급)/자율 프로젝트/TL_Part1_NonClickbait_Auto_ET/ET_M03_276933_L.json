@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276933",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'일본 미소녀' 연상시킨다는 걸그룹 다이아 새 멤버",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 다이아의 새 멤버 주은이 일본 미소녀를 연상시켜 화제다.\n지난 20일 유튜브 채널 'MPD 직캠'은 엠카운트다운에 출연한 주은을 촬영한 영상을 게재했다. 'MPD 직캠'은 아이돌 무대를 직접 촬영해 편집 없이 공개하는 채널이다.\n영상에서 주은은 신곡 '나랑 사귈래'에 맞춰 춤을 췄다.\n영상을 본 네티즌들은 \\\"일본 미소녀 느낌\\\" \\\"일본 인기 아이돌처럼 생겼다\\\" \\\"첫눈에 보고 입덕해버렸다\\\"란 댓글을 남겼다.\n다이아 주은은 정규 2집 'YOLO'부터 새롭게 합류했다.\n고등학교 시절 SBS 'K팝스타'에 출연한 뒤 3년간 연습생 생활을 하다 현재 소속사인 MBK엔터테인먼트와 계약을 맺은 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 다이아의 새 멤버 주은이 일본 미소녀를 연상시켜 화제다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일 유튜브 채널 'MPD 직캠'은 엠카운트다운에 출연한 주은을 촬영한 영상을 게재했다. 'MPD 직캠'은 아이돌 무대를 직접 촬영해 편집 없이 공개하는 채널이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에서 주은은 신곡 '나랑 사귈래'에 맞춰 춤을 췄다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상을 본 네티즌들은 \\\"일본 미소녀 느낌\\\" \\\"일본 인기 아이돌처럼 생겼다\\\" \\\"첫눈에 보고 입덕해버렸다\\\"란 댓글을 남겼다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다이아 주은은 정규 2집 'YOLO'부터 새롭게 합류했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고등학교 시절 SBS 'K팝스타'에 출연한 뒤 3년간 연습생 생활을 하다 현재 소속사인 MBK엔터테인먼트와 계약을 맺은 것으로 알려졌다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'일본 미소녀' 연상시킨다는 걸그룹 다이아 새 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

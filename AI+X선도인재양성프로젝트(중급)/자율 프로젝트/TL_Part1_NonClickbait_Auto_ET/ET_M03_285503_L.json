@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285503",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신아영 \\\"하버드대 재학시절 장학금 3천만원 지원받았다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 신아영이 하버드대 재학시절 장학금 3천만원을 지원받았다고 밝혔다.\n신아영은 지난 3월 방송된 케이블채널 tvN 예능프로그램 ‘택시’에 출연해 “하버드의 경우 집안 형편에 따라 장학금이 나온다”며 “외국인을 차별하지 않는다”라고 말했다.\n신아영은 \\\"하버드대 학비는 1년에 5천만 원 정도\\\"라며 “4년이면 2억이 넘는데 웬만한 집에선 감당 못한다. 나도 성적을 유지하고 지원을 받았다”고 밝혔다.\n신아영은 “5천만 원 중 3천만 원을 지원 받았다. 나머지는 아르바이트를 해서 부모님께 손을 벌리지 않았다”고 설명했다.\n한편 신아영은 하버드대학교 역사학과 졸업 후 SBS 스포츠 아나운서로 데뷔했다.\n이후 최근 프리선언을 하고 활발히 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 신아영이 하버드대 재학시절 장학금 3천만원을 지원받았다고 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신아영은 지난 3월 방송된 케이블채널 tvN 예능프로그램 ‘택시’에 출연해 “하버드의 경우 집안 형편에 따라 장학금이 나온다”며 “외국인을 차별하지 않는다”라고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신아영은 \\\"하버드대 학비는 1년에 5천만 원 정도\\\"라며 “4년이면 2억이 넘는데 웬만한 집에선 감당 못한다. 나도 성적을 유지하고 지원을 받았다”고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신아영은 “5천만 원 중 3천만 원을 지원 받았다. 나머지는 아르바이트를 해서 부모님께 손을 벌리지 않았다”고 설명했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 신아영은 하버드대학교 역사학과 졸업 후 SBS 스포츠 아나운서로 데뷔했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 최근 프리선언을 하고 활발히 활동 중이다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신아영 \\\"하버드대 재학시절 장학금 3천만원 지원받았다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

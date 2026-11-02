@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271234",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정소민, 목소리 기부하다",
+		"newsSubTitle": "",
+		"newsContent": "배우 정소민이 선한 영향력을 펼쳤다.\n25일 밀알복지재단(이사장 홍정길)은 정소민이 장애인식 개선 오디오북 ‘나만 몰랐던 이야기 3’에 목소리를 기부했다고 밝혔다. ‘나만 몰랐던 이야기 3’는 밀알복지재단에서 2015년부터 진행중인 스토리텔링 공모전 ‘일상 속의 장애인’ 수상작들을 편당 10분 내외의 오디오북으로 제작한 것이다.\n장애 당사자 또는 장애인의 가족과 친구, 지인으로서 겪은 다양한 장애 수기들로 이뤄졌다.\n정소민은 ‘나만 몰랐던 이야기 3’의 5개 에피소드 중 ‘효도과목 전교 1등 손자’, ‘그냥, 가족’을 낭독했다.\n과거 SBS파워FM ‘정소민의 영스트리트’에서 DJ로 활약했던 만큼, 안정감 있는 목소리로 작품 속에 담긴 장애인 가족들의 일상을 생생하게 전달했다는 후문이다.\n정소민은 “‘나만 몰랐던 이야기 3’ 오디오북이 ‘장애인과 비장애인 모두가 더불어 사는 세상’에 대해 생각해볼 수 있는 계기가 되길 희망한다”며 “낭독을 통해 저 또한 따뜻한 감동과 웃음을 얻어가는 소중한 시간이었다”고 전했다.\n한편 정소민이 낭독한 ‘나만 몰랐던 이야기 3’ 오디오북은 네이버 오디오클립과 밀리의서재, 윌라에서 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정소민이 선한 영향력을 펼쳤다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 밀알복지재단(이사장 홍정길)은 정소민이 장애인식 개선 오디오북 ‘나만 몰랐던 이야기 3’에 목소리를 기부했다고 밝혔다. ‘나만 몰랐던 이야기 3’는 밀알복지재단에서 2015년부터 진행중인 스토리텔링 공모전 ‘일상 속의 장애인’ 수상작들을 편당 10분 내외의 오디오북으로 제작한 것이다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장애 당사자 또는 장애인의 가족과 친구, 지인으로서 겪은 다양한 장애 수기들로 이뤄졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정소민은 ‘나만 몰랐던 이야기 3’의 5개 에피소드 중 ‘효도과목 전교 1등 손자’, ‘그냥, 가족’을 낭독했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과거 SBS파워FM ‘정소민의 영스트리트’에서 DJ로 활약했던 만큼, 안정감 있는 목소리로 작품 속에 담긴 장애인 가족들의 일상을 생생하게 전달했다는 후문이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정소민은 “‘나만 몰랐던 이야기 3’ 오디오북이 ‘장애인과 비장애인 모두가 더불어 사는 세상’에 대해 생각해볼 수 있는 계기가 되길 희망한다”며 “낭독을 통해 저 또한 따뜻한 감동과 웃음을 얻어가는 소중한 시간이었다”고 전했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 정소민이 낭독한 ‘나만 몰랐던 이야기 3’ 오디오북은 네이버 오디오클립과 밀리의서재, 윌라에서 감상할 수 있다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정소민, 목소리 기부하다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

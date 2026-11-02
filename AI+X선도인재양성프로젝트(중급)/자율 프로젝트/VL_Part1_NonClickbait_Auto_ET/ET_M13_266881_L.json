@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266881",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "[단독] 김신영, KBS2 新 예능 ‘빼고파’ MC 확정",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김신영이 KBS2 새 예능 ‘빼고파’ MC로 확정됐다.\n14일 ‘스포츠경향’ 취재 결과 김신영은 ‘빼고파’에서 MC이자 셀러브리티들의 건강 지키기 멘토로서 활약할 예정이다. ‘빼고파’는 여러 명의 셀러브리티들의 건강한 몸 만들기 프로젝트다.\n최근 ‘보디프로필’ 촬영 열풍이 일며 대중에게도 ‘건강한 몸 만들기’가 화두인 만큼, 프로그램 안에서 다양한 방법으로 건강하고 활력있는 몸 되찾기를 보여준다.\n김신영은 특유의 유려한 말솜씨와 진행 실력으로 셀러브리티들이 ‘몸 만들기’에 쏟는 땀과 노력을 고스란히 시청자에게 전달해준다.\n또한 과거 38kg을 감량하며 건강을 되찾은 경험을 바탕삼아 셀러브리티들에게 ‘피가 되고 살이 빠지는’ 조언도 건넨다. ‘빼고파’는 ‘개승자’ 후속으로 오는 30일 오후 10시30분 첫 방송된다.\n한편 김신영은 OTT플랫폼 ‘셀럽은 회의 중’ 채널S ‘다시 갈 지도’ 등 여러 프로그램에서 왕성하게 활동하고 있다.\n또한 그룹 셀럽파이브, ‘부캐릭터’ 둘째이모 김다비로도 웃음과 즐거움을 선사하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김신영이 KBS2 새 예능 ‘빼고파’ MC로 확정됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 ‘스포츠경향’ 취재 결과 김신영은 ‘빼고파’에서 MC이자 셀러브리티들의 건강 지키기 멘토로서 활약할 예정이다. ‘빼고파’는 여러 명의 셀러브리티들의 건강한 몸 만들기 프로젝트다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 ‘보디프로필’ 촬영 열풍이 일며 대중에게도 ‘건강한 몸 만들기’가 화두인 만큼, 프로그램 안에서 다양한 방법으로 건강하고 활력있는 몸 되찾기를 보여준다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김신영은 특유의 유려한 말솜씨와 진행 실력으로 셀러브리티들이 ‘몸 만들기’에 쏟는 땀과 노력을 고스란히 시청자에게 전달해준다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 과거 38kg을 감량하며 건강을 되찾은 경험을 바탕삼아 셀러브리티들에게 ‘피가 되고 살이 빠지는’ 조언도 건넨다. ‘빼고파’는 ‘개승자’ 후속으로 오는 30일 오후 10시30분 첫 방송된다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김신영은 OTT플랫폼 ‘셀럽은 회의 중’ 채널S ‘다시 갈 지도’ 등 여러 프로그램에서 왕성하게 활동하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 그룹 셀럽파이브, ‘부캐릭터’ 둘째이모 김다비로도 웃음과 즐거움을 선사하고 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독] 김신영, KBS2 新 예능 ‘빼고파’ MC 확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

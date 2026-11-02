@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275078",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘최종병기 앨리스’ 오늘(8일) 최종화 공개",
+		"newsSubTitle": "",
+		"newsContent": "왓챠 오리지널 ‘최종병기 앨리스’가 8일 화려한 막을 내린다. 8일 오후 5시 공개되는 ‘최종병기 앨리스’가 7, 8화에는 ‘겨울’(박세완)과 ‘여름’(송건희)의 마지막 모습이 담긴다.\n겨울과 만나게 된 미치광이 킬러 ‘스파이시’(김태훈)는 킬러 조직원들과 함께 거침없는 추격에 나선다.\n스파이시의 무자비함에 겨울과 ‘Mr. 반’(김성오)은 은신처에 숨어 이들과 대치한다.\n이후 ‘여름’은 킬러 조직원에게 붙잡혀 스파이시의 정보원 ‘장사장’(양현민)의 지하실에 갇히고 장사장의 수하 ‘근대’(위광훈)로부터 고문 받을 위기에 처한다.\n여기에 사라진 여름의 행방을 찾기 위해 고군분투하는 ‘남우’(정승길)의 모습이 그려지며 앞으로의 전개에 대한 기대감을 높이고 있다.\n핏빛 가득한 세계 속 겨울과 여름이 주어진 상황을 헤쳐나갈 수 있을지 궁금증이 커진다.\n한편 총 8회로 구성된 ‘최종병기 앨리스’는 8일 최종화 공개를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "왓챠 오리지널 ‘최종병기 앨리스’가 8일 화려한 막을 내린다. 8일 오후 5시 공개되는 ‘최종병기 앨리스’가 7, 8화에는 ‘겨울’(박세완)과 ‘여름’(송건희)의 마지막 모습이 담긴다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "겨울과 만나게 된 미치광이 킬러 ‘스파이시’(김태훈)는 킬러 조직원들과 함께 거침없는 추격에 나선다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스파이시의 무자비함에 겨울과 ‘Mr. 반’(김성오)은 은신처에 숨어 이들과 대치한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 ‘여름’은 킬러 조직원에게 붙잡혀 스파이시의 정보원 ‘장사장’(양현민)의 지하실에 갇히고 장사장의 수하 ‘근대’(위광훈)로부터 고문 받을 위기에 처한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 사라진 여름의 행방을 찾기 위해 고군분투하는 ‘남우’(정승길)의 모습이 그려지며 앞으로의 전개에 대한 기대감을 높이고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "핏빛 가득한 세계 속 겨울과 여름이 주어진 상황을 헤쳐나갈 수 있을지 궁금증이 커진다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 총 8회로 구성된 ‘최종병기 앨리스’는 8일 최종화 공개를 앞두고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘최종병기 앨리스’ 오늘(8일) 최종화 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

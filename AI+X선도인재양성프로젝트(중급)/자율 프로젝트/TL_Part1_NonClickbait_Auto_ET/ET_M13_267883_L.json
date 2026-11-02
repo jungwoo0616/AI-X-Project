@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267883",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[단독]‘이근 사망설’에 이근 가족 “근이는 건강해”",
+		"newsSubTitle": "",
+		"newsContent": "사망설이 재차 돌고 있는 UDT 대위 출신 유튜버 이근은 무사한 것으로 보인다.\n이근의 한 가족은 22일 오후 11시쯤 이근의 생존 여부를 묻는 본지의 질문에 “이근은 건강하다”라고 답했다.\n앞서 “이근이 아닌 우크라이나 의용군에 지원한 다른 한국인 2명이 사망한 것”이라고 말했다.\n이근의 사망설은 외교부가 이날 우크라이나 전쟁에 의용군으로 참여하고 있는 국민 중 사망자가 발생했다는 첩보를 입수해 사실 관계를 확인 중이라고 밝히면서 불거졌다.\n외교부는 ‘복수의 한국 국민이 사망했다’는 내용의 첩보를 받았을 뿐 신원을 확인하지 못한 것으로 전해졌다.\n외교부에 따르면 현재 정부 허가 없이 우크라이나에 입국해 체류 중인 국민은 이근을 포함해 총 4명이다.\n외교부는 직접 또는 가족과 연락을 시도하며 생사를 확인하고 있다.\n이근은 지난 6일 인스타그램에 우크라이나 의용군에 입대하기 위해 우크라이나로 출국한 사실을 알렸다.\n한 차례 사망설이 돌았던 그는 지난달 30일 “미국·영국 외국인 요원들을 모아 특수작전팀을 구성해 여러 기밀 임무를 수행하고 있다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사망설이 재차 돌고 있는 UDT 대위 출신 유튜버 이근은 무사한 것으로 보인다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이근의 한 가족은 22일 오후 11시쯤 이근의 생존 여부를 묻는 본지의 질문에 “이근은 건강하다”라고 답했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 “이근이 아닌 우크라이나 의용군에 지원한 다른 한국인 2명이 사망한 것”이라고 말했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이근의 사망설은 외교부가 이날 우크라이나 전쟁에 의용군으로 참여하고 있는 국민 중 사망자가 발생했다는 첩보를 입수해 사실 관계를 확인 중이라고 밝히면서 불거졌다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "외교부는 ‘복수의 한국 국민이 사망했다’는 내용의 첩보를 받았을 뿐 신원을 확인하지 못한 것으로 전해졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "외교부에 따르면 현재 정부 허가 없이 우크라이나에 입국해 체류 중인 국민은 이근을 포함해 총 4명이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외교부는 직접 또는 가족과 연락을 시도하며 생사를 확인하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이근은 지난 6일 인스타그램에 우크라이나 의용군에 입대하기 위해 우크라이나로 출국한 사실을 알렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한 차례 사망설이 돌았던 그는 지난달 30일 “미국·영국 외국인 요원들을 모아 특수작전팀을 구성해 여러 기밀 임무를 수행하고 있다”고 전했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]‘이근 사망설’에 이근 가족 “근이는 건강해”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

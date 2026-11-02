@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268678",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘점심어택’ 700회 특집, 손호영 “내 삶에 없어서는 안 될 존재” 자축",
+		"newsSubTitle": "",
+		"newsContent": "가수 손호영이 ‘점심어택’ 700회를 맞이해 청취자들과 즐거운 시간을 보냈다.\n손호영은 29일 오후 방송된 네이버 NOW. ‘점심어택’ 700회 특집에서 청취자들과 특별한 오후를 꾸몄다.\n손호영은 “어느덧 ‘점심어택’이 700일이 됐다. 믿기지 않는다. 이제는 내 삶에 없어서는 안 될 존재이자 나의 일상이 됐다”며 700회를 맞은 소감을 전했다.\n손호영은 일상부터 영양제, 두피 마사지 등 비하인드와 TMI까지 대방출하며 청취자들과 실시간 소통으로 재미를 더했다.\n팬들의 신청곡인 지오디 ‘약속’ 한 소절을 즉석에서 무반주 라이브로 선보이며 의미 있는 시간을 가졌다.\n손호영은 적극적인 리액션과 꾸밈없는 웃음뿐만 아니라 데니안과 척척 맞는 호흡으로 700회 특집에 유쾌한 에너지를 선사했다.\n마지막으로 손호영은 ‘가시덤불’을 흔들림 없는 라이브로 열창하며 700회 특집 대미를 장식했다.\n손호영은 웹 예능 ‘호영이와 스윙걸즈’, 뮤지컬 ‘또! 오해영’에서 열연하며 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 손호영이 ‘점심어택’ 700회를 맞이해 청취자들과 즐거운 시간을 보냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손호영은 29일 오후 방송된 네이버 NOW. ‘점심어택’ 700회 특집에서 청취자들과 특별한 오후를 꾸몄다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손호영은 “어느덧 ‘점심어택’이 700일이 됐다. 믿기지 않는다. 이제는 내 삶에 없어서는 안 될 존재이자 나의 일상이 됐다”며 700회를 맞은 소감을 전했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손호영은 일상부터 영양제, 두피 마사지 등 비하인드와 TMI까지 대방출하며 청취자들과 실시간 소통으로 재미를 더했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들의 신청곡인 지오디 ‘약속’ 한 소절을 즉석에서 무반주 라이브로 선보이며 의미 있는 시간을 가졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손호영은 적극적인 리액션과 꾸밈없는 웃음뿐만 아니라 데니안과 척척 맞는 호흡으로 700회 특집에 유쾌한 에너지를 선사했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마지막으로 손호영은 ‘가시덤불’을 흔들림 없는 라이브로 열창하며 700회 특집 대미를 장식했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "손호영은 웹 예능 ‘호영이와 스윙걸즈’, 뮤지컬 ‘또! 오해영’에서 열연하며 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘점심어택’ 700회 특집, 손호영 “내 삶에 없어서는 안 될 존재” 자축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

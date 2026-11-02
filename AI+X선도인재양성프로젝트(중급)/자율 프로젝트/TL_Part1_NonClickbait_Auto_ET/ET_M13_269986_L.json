@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269986",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘유느님’ 유재석, 취약계층 위해 5,000만 원 기부[공식]",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유재석(49)이 선한 영향력을 전파했다.\n국제개발협력NGO 지파운데이션 측은 12일 “유재석이 전날 취약계층을 위해 5,000만 원을 기부했다”라고 밝혔다.\n지파운데이션은 방송인 유재석이 전달한 후원금을 여성들을 위한 다양한 형태의 지원 사업과 저소득가정 아동청소년들이 꿈을 키우고 건강하게 성장할 수 있도록 교육 및 건강지원 사업 등에 사용할 계획이다.\n지파운데이션 대표는 “소외된 이웃들을 위해 꾸준히 따뜻한 마음을 전해주신 유재석에게 다시 한번 감사의 마음을 전한다”라며 “기부해 주신 소중한 후원금을 도움이 필요한 취약계층을 위해 투명하게 사용하겠다”라고 전했다.\n유재석은 2020년부터 지파운데이션과 인연을 맺고 3년째 꾸준히 나눔에 동참하며 누적 2억 원의 기부금을 전달해 선한 영향력을 이어 나가고 있다.\n한편 지파운데이션은 UN 경제사회이사회(UN ECOSOC)의 특별 협의적 지위(Special Consultative Status)를 취득한 국제개발협력NGO로 국내 아동·청소년지원사업, 독거노인지원사업, 사회적경제사업 등을 비롯해 해외 개발도상국을 대상으로 교육지원, 보건의료사업 등 활발한 사업을 수행하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유재석(49)이 선한 영향력을 전파했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국제개발협력NGO 지파운데이션 측은 12일 “유재석이 전날 취약계층을 위해 5,000만 원을 기부했다”라고 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지파운데이션은 방송인 유재석이 전달한 후원금을 여성들을 위한 다양한 형태의 지원 사업과 저소득가정 아동청소년들이 꿈을 키우고 건강하게 성장할 수 있도록 교육 및 건강지원 사업 등에 사용할 계획이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지파운데이션 대표는 “소외된 이웃들을 위해 꾸준히 따뜻한 마음을 전해주신 유재석에게 다시 한번 감사의 마음을 전한다”라며 “기부해 주신 소중한 후원금을 도움이 필요한 취약계층을 위해 투명하게 사용하겠다”라고 전했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유재석은 2020년부터 지파운데이션과 인연을 맺고 3년째 꾸준히 나눔에 동참하며 누적 2억 원의 기부금을 전달해 선한 영향력을 이어 나가고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지파운데이션은 UN 경제사회이사회(UN ECOSOC)의 특별 협의적 지위(Special Consultative Status)를 취득한 국제개발협력NGO로 국내 아동·청소년지원사업, 독거노인지원사업, 사회적경제사업 등을 비롯해 해외 개발도상국을 대상으로 교육지원, 보건의료사업 등 활발한 사업을 수행하고 있다.",
+				"sentenceSize": 175
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘유느님’ 유재석, 취약계층 위해 5,000만 원 기부[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276718",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "생일파티에 아무도 안와 눈물 흘린 아내 위해 김원효가 남긴 말",
+		"newsSubTitle": "",
+		"newsContent": "생일파티에 아무도 오지 않아 슬펐던 개그우먼 심진화에게 남편 김원효가 사랑의 메시지를 전했다.\n12일 개그맨 김원효는 자신의 인스타그램에 아내 심진화를 위한 생일축하 노래 영상을 공개했다.\n마치 운동을 하듯 박자를 맞춰 생일 축하 노래를 부르는 모습이 인상적이다.\n김원효는 영상과 함께 \\\"여보 생일축하해. 제주도에 있어서 같이 있지 못해 미안하지만 선물은 미리 줬잖아~ 울지 말고 맘껏 즐겨요\\\"라고 말했다.\n앞서 심진화는 자신의 생일축하 파티에 지인들이 아무도 오지 않자 텅 빈 파티 현장을 사진으로 찍어 SNS에 알려 화제를 모았다.\n구슬프게 우는 모습과, 지인들에게 서운할 수 있는 상황을 솔직하게 표현해 사람들의 눈길을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "생일파티에 아무도 오지 않아 슬펐던 개그우먼 심진화에게 남편 김원효가 사랑의 메시지를 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 개그맨 김원효는 자신의 인스타그램에 아내 심진화를 위한 생일축하 노래 영상을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마치 운동을 하듯 박자를 맞춰 생일 축하 노래를 부르는 모습이 인상적이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김원효는 영상과 함께 \\\"여보 생일축하해. 제주도에 있어서 같이 있지 못해 미안하지만 선물은 미리 줬잖아~ 울지 말고 맘껏 즐겨요\\\"라고 말했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 심진화는 자신의 생일축하 파티에 지인들이 아무도 오지 않자 텅 빈 파티 현장을 사진으로 찍어 SNS에 알려 화제를 모았다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구슬프게 우는 모습과, 지인들에게 서운할 수 있는 상황을 솔직하게 표현해 사람들의 눈길을 끌었다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "생일파티에 아무도 안와 눈물 흘린 아내 위해 김원효가 남긴 말",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171717",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김희철, 산불 피해에 1억 기부…아너 소사이어티 가입[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 슈퍼주니어 김희철이 경북·강원 지역 산불 피해에 1억 원을 기부했다.\n14일 사랑의열매 사회복지공동모금회(회장 조흥식)는 김희철이 최근 산불이 일어난 경북과 강원 등 피해지역 구호를 위해 1억 원을 기부했다고 밝혔다.\n김희철은 “갑작스런 산불로 인한 피해지역의 빠른 복구와 주민들의 일상회복에 조금이나마 도움이 되길 바란다”고 전했다.\n김희철의 기부금은 경북 울진군과 강원 삼척시 등 대형 산불로 피해를 입은 지역의 복구와 피해민들의 생필품 및 생계비 지원 등에 쓰이게 된다.\n김희철은 이번 기부로 누적기부금이 1억 원을 넘기며, 사랑의열매 고액기부자 모임인 ‘아너 소사이어티(Honor Society)’에 의 회원이 된다.\n한편 김희철은 지난 2019년 강원산불 피해지원을 위해 3천만 원, 2020년에는 코로나19로 어려운 이웃들을 돕고자 5천만 원을 사랑의열매에 기부하며 꾸준히 선행을 실천했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 슈퍼주니어 김희철이 경북·강원 지역 산불 피해에 1억 원을 기부했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 사랑의열매 사회복지공동모금회(회장 조흥식)는 김희철이 최근 산불이 일어난 경북과 강원 등 피해지역 구호를 위해 1억 원을 기부했다고 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김희철은 “갑작스런 산불로 인한 피해지역의 빠른 복구와 주민들의 일상회복에 조금이나마 도움이 되길 바란다”고 전했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김희철의 기부금은 경북 울진군과 강원 삼척시 등 대형 산불로 피해를 입은 지역의 복구와 피해민들의 생필품 및 생계비 지원 등에 쓰이게 된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김희철은 이번 기부로 누적기부금이 1억 원을 넘기며, 사랑의열매 고액기부자 모임인 ‘아너 소사이어티(Honor Society)’에 의 회원이 된다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김희철은 지난 2019년 강원산불 피해지원을 위해 3천만 원, 2020년에는 코로나19로 어려운 이웃들을 돕고자 5천만 원을 사랑의열매에 기부하며 꾸준히 선행을 실천했다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김희철, 경북·강원 지역 산불 피해에 1억 원 기부하며 '이것' 회원 등극",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

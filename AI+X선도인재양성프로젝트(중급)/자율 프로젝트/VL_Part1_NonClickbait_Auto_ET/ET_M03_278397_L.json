@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278397",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최고의 연인 강민경 1년 6개월 형…“이건 모함이다”",
+		"newsSubTitle": "",
+		"newsContent": "최고의 연인 강민경이 징역 1년 6개월 형을 받았다.\n16일 방송된 MBC 일일드라마 ‘최고의연인’ 70회에서 한아름(강민경 분)은 징역을 선고받았다.\n곽희성은 강민경의 횡령 누명을 벗기려 했지만 부친 정한헌에 의해 저지당했다.\n강태오는 공모전 당선으로 밀라노 유학을 떠날 수 있게 됐지만 한아름을 위해 포기하려 했다.\n그런 상태에서 강민경의 재판이 열렸다.\n강민경은 징역 1년 6개월을 선고받고 “이건 모함이다. 난 억울하다”며 눈물 흘렸다.\n강민경은 끌려 나가며 변정수에게 “고흥자, 오늘 똑똑히 기억해둬라. 내가 당한만큼 갚아주겠다. 고흥자!”라고 외쳤다.\n최고의 연인은 주중 월~금 오후 7시 15분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최고의 연인 강민경이 징역 1년 6개월 형을 받았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 방송된 MBC 일일드라마 ‘최고의연인’ 70회에서 한아름(강민경 분)은 징역을 선고받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "곽희성은 강민경의 횡령 누명을 벗기려 했지만 부친 정한헌에 의해 저지당했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강태오는 공모전 당선으로 밀라노 유학을 떠날 수 있게 됐지만 한아름을 위해 포기하려 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런 상태에서 강민경의 재판이 열렸다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강민경은 징역 1년 6개월을 선고받고 “이건 모함이다. 난 억울하다”며 눈물 흘렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강민경은 끌려 나가며 변정수에게 “고흥자, 오늘 똑똑히 기억해둬라. 내가 당한만큼 갚아주겠다. 고흥자!”라고 외쳤다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최고의 연인은 주중 월~금 오후 7시 15분 방송된다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최고의 연인 강민경 1년 6개월 형…“이건 모함이다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

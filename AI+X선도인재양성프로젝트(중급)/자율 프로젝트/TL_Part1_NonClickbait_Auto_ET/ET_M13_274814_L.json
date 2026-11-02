@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274814",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "우주소녀 설아, 비건 화장품 브랜드 모델 발탁",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 우주소녀의 멤버 설아가 비건 화장품 브랜드의 모델로 발탁됐다.\n브랜드 측은 6일 공식 사회관계망서비스(SNS) 채널에 설아의 청초한 미모를 담은 이미지를 공개하며 모델발탁 소식을 알렸다.\n공개된 이미지 속 설아는 고급스러운 분위기를 발산했다.\n특히 맑고 투명한 물결점 피부와 빼어난 미모가 보는 이들의 감탄을 자아냈다.\n브랜드 관계자는 “설아 특유의 고급스러우면서도 힙한 콘셉트와 꿈을 위해 오랜기간 연습생 생활을 버티고 멋진 모습으로 활동하고 있는 점이 젊은 세대에게 귀감이 되고 있다고 생각해 발탁을 결정했다”고 밝혔다.\n설아는 이번 이미지 공개를 시작으로 브랜드 ‘마이 오 마이’의 전속모델로 활동한다.\n설아가 속한 우주소녀는 지난 5일 스페셜 싱글 ‘시퀀스(Sequence)’를 내고 ‘섬머 퀸’의 탄생을 알렸다.\n같은 날 오후 7시에는 엠넷 ‘퀸덤 2’의 우승자 특전인 글로벌 단독 쇼케이스 ‘우주소녀 컴팩 쇼:시퀸스’를 열어 글로벌 인기 걸그룹의 면모를 입증했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 우주소녀의 멤버 설아가 비건 화장품 브랜드의 모델로 발탁됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "브랜드 측은 6일 공식 사회관계망서비스(SNS) 채널에 설아의 청초한 미모를 담은 이미지를 공개하며 모델발탁 소식을 알렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 이미지 속 설아는 고급스러운 분위기를 발산했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 맑고 투명한 물결점 피부와 빼어난 미모가 보는 이들의 감탄을 자아냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "브랜드 관계자는 “설아 특유의 고급스러우면서도 힙한 콘셉트와 꿈을 위해 오랜기간 연습생 생활을 버티고 멋진 모습으로 활동하고 있는 점이 젊은 세대에게 귀감이 되고 있다고 생각해 발탁을 결정했다”고 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "설아는 이번 이미지 공개를 시작으로 브랜드 ‘마이 오 마이’의 전속모델로 활동한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "설아가 속한 우주소녀는 지난 5일 스페셜 싱글 ‘시퀀스(Sequence)’를 내고 ‘섬머 퀸’의 탄생을 알렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "같은 날 오후 7시에는 엠넷 ‘퀸덤 2’의 우승자 특전인 글로벌 단독 쇼케이스 ‘우주소녀 컴팩 쇼:시퀸스’를 열어 글로벌 인기 걸그룹의 면모를 입증했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우주소녀 설아, 비건 화장품 브랜드 모델 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

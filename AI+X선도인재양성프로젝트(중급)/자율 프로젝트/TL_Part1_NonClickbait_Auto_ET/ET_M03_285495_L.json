@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285495",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신아영, 하의실종 패션으로 명품 각선미 드러내 '아찔'",
+		"newsSubTitle": "",
+		"newsContent": "스포츠 아나운서 신아영의 과거 화보가 화제다.\n신아영은 최근 남성 패션매거진 아레나 옴므 플러스 11월호 화보를 통해 물오른 미모와 건강미 넘치는 몸매를 과시했다.\n공개된 화보 속에는 가을 햇살을 받은 듯 싱그러운 미소를 머금고 있는 신아영의 모습이 담겼다.\n또 신아영은 하의 실종 패션으로 매끈한 각선미를 드러냈으며, 살짝 드러난 어깨라인으로 섹시한 매력을 뽐냈다.\n한편 신아영은 21일 방송된 MBC '황금어장-라디오스타'에서 신아영은 아나운서를 하게된 계기를 밝혔다.\n신아영은 \\\"대학교를 졸업하기 전에 도미니카로 봉사활동을 갔었다. 아이들을 돌봐주는 역할을 맡았는데 적성에 너무나 잘 맞았다. '이런 직업으로 뭐가 있을까'라고 생각하고 찾아봤는데 뽀미 언니가 있었다. 그 후로 아나운서가 되기로 결심했다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스포츠 아나운서 신아영의 과거 화보가 화제다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신아영은 최근 남성 패션매거진 아레나 옴므 플러스 11월호 화보를 통해 물오른 미모와 건강미 넘치는 몸매를 과시했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 화보 속에는 가을 햇살을 받은 듯 싱그러운 미소를 머금고 있는 신아영의 모습이 담겼다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 신아영은 하의 실종 패션으로 매끈한 각선미를 드러냈으며, 살짝 드러난 어깨라인으로 섹시한 매력을 뽐냈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 신아영은 21일 방송된 MBC '황금어장-라디오스타'에서 신아영은 아나운서를 하게된 계기를 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신아영은 \\\"대학교를 졸업하기 전에 도미니카로 봉사활동을 갔었다. 아이들을 돌봐주는 역할을 맡았는데 적성에 너무나 잘 맞았다. '이런 직업으로 뭐가 있을까'라고 생각하고 찾아봤는데 뽀미 언니가 있었다. 그 후로 아나운서가 되기로 결심했다\\\"고 밝혔다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신아영, 하의실종 패션으로 명품 각선미 드러내 '아찔'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

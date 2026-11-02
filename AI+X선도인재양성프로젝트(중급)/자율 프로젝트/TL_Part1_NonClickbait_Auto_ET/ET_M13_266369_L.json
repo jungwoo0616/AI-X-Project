@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266369",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "가수 예지, 10개월 만에 신보 ‘NO NAME’(노 네임)으로 ‘센 언니’ 입증",
+		"newsSubTitle": "",
+		"newsContent": "가수 예지가 깜짝 컴백 소식을 알렸다.\n8일 소속사 제이지스타에 따르면 예지는 오는 14일 컴백을 확정, 작년 6월 23일 공개한 ‘시크릿토(Secreto)’ 이후 약 10개월 만에 신곡 ‘NO NAME’(노 네임)으로 돌아온다.\n앞서 ‘시크릿토(Secreto)’를 비롯해 ‘미묘(迷猫)’, ‘HOME’(홈) 등으로 감성적인 강렬한 매력을 뽐낸 예지는 신곡 ‘NO NAME’을 통해 래퍼로서 귀환을 알리며 확장된 음악적 스펙트럼을 선보인다.\n최근 예지의 Mnet ‘언프리티 랩스타2’ 출연 당시 영상들이 다시 화제로 떠오르면서 팬들의 컴백 요청이 쏟아진 가운데, 이번 컴백 소식은 예지를 기다려온 팬들에게 반가운 소식이다.\n깜짝 컴백 소식을 밝히며 활동 청신호를 켠 예지는 이번 컴백을 통해 또 다른 변신과 입이 벌어지는 콘셉트를 예고, 오랜만에 컴백하는 만큼 어떤 파격적인 가사와 파워풀한 랩을 선보일지 뜨거운 기대감이 높아지고 있다.\n예지는 현재 컴백 준비에 한창이며, 앞으로도 다양한 음악 활동과 꾸준한 팬 소통을 이어나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 예지가 깜짝 컴백 소식을 알렸다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 소속사 제이지스타에 따르면 예지는 오는 14일 컴백을 확정, 작년 6월 23일 공개한 ‘시크릿토(Secreto)’ 이후 약 10개월 만에 신곡 ‘NO NAME’(노 네임)으로 돌아온다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 ‘시크릿토(Secreto)’를 비롯해 ‘미묘(迷猫)’, ‘HOME’(홈) 등으로 감성적인 강렬한 매력을 뽐낸 예지는 신곡 ‘NO NAME’을 통해 래퍼로서 귀환을 알리며 확장된 음악적 스펙트럼을 선보인다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 예지의 Mnet ‘언프리티 랩스타2’ 출연 당시 영상들이 다시 화제로 떠오르면서 팬들의 컴백 요청이 쏟아진 가운데, 이번 컴백 소식은 예지를 기다려온 팬들에게 반가운 소식이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "깜짝 컴백 소식을 밝히며 활동 청신호를 켠 예지는 이번 컴백을 통해 또 다른 변신과 입이 벌어지는 콘셉트를 예고, 오랜만에 컴백하는 만큼 어떤 파격적인 가사와 파워풀한 랩을 선보일지 뜨거운 기대감이 높아지고 있다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예지는 현재 컴백 준비에 한창이며, 앞으로도 다양한 음악 활동과 꾸준한 팬 소통을 이어나갈 예정이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 예지, 10개월 만에 신보 ‘NO NAME’(노 네임)으로 ‘센 언니’ 입증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

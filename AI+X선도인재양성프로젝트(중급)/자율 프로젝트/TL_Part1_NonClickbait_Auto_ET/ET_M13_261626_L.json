@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261626",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이병헌, 건강한 근황 “이제 괜찮아요~”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이병헌이 건강한 근황을 알렸다.\n이병헌은 21일 자신의 인스타그램을 통해 “모두들 걱정해주신 덕분에 이제 괜찮습니다~”라는 글과 함께 사진을 게재했다.\n공개된 사진에서 이병헌은 은은한 미소로 팬들에게 건강에 전혀 문제가 없음을 알렸다.\n지난 9일 이병헌의 코로나19 확진 사실이 알려졌다.\n백신 3차 접종까지 받은 상태였으나 확진 판정을 받았다.\n아내 이민정 역시 함께 확진 판정을 받았다.\n다행히 두 사람 모두 건강을 되찾았다.\n이민정 역시 인스타그램을 통해 건강하게 회복한 사실과, 자가격리 해제 소식을 함께 전했다.\n한편 이병헌은 4월 방영 예정인 tvN 드라마 ‘우리들의 블루스’에 출연한다.\n이병헌은 이 작품에서 한지민, 신민아, 김우빈, 차승원 등과 호흡을 맞춘다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이병헌이 건강한 근황을 알렸다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이병헌은 21일 자신의 인스타그램을 통해 “모두들 걱정해주신 덕분에 이제 괜찮습니다~”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 이병헌은 은은한 미소로 팬들에게 건강에 전혀 문제가 없음을 알렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 9일 이병헌의 코로나19 확진 사실이 알려졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백신 3차 접종까지 받은 상태였으나 확진 판정을 받았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아내 이민정 역시 함께 확진 판정을 받았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다행히 두 사람 모두 건강을 되찾았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이민정 역시 인스타그램을 통해 건강하게 회복한 사실과, 자가격리 해제 소식을 함께 전했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 이병헌은 4월 방영 예정인 tvN 드라마 ‘우리들의 블루스’에 출연한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이병헌은 이 작품에서 한지민, 신민아, 김우빈, 차승원 등과 호흡을 맞춘다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이병헌, 건강한 근황 “이제 괜찮아요~”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

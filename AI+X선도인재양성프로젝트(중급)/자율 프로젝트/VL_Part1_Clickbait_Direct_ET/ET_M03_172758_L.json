@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172758",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"윤서체 무단 사용\\\" 전국 1만2000여 학교 소송 위기, 이유가",
+    "newsSubTitle": "",
+    "newsContent": "전국 1만 2000여개의 초중고가 '윤서체'무단 사용으로 소송 위기에 처했다.\n28일 한 매체는 컴퓨터 글꼴 개발업체인 그룹와이가 서울, 인천 지역 초중고 300여 곳과 전국 1만 2000여개 초중고를 대상으로 윤서체 무단 사용 소송에 나설 것을 검토하고 있다고 밝혔다.\n그룹와이를 대리하는 법무법인 우산은 지난달 5일 인천지역 90개 초등학교에 \\\"윤서체 유료 글꼴을 무단으로 사용해 저작권법을 위반했다\\\"며 손해배상 내용이 담긴 경고문을 보냈다.\n그룹와이는 경고문을 통해 \\\"소송 대신 윤서체 유료 글꼴 383종이 들어있는 프로그램을 1개 학교 당 275만원에 구입하면 책임을 묻지 않겠다\\\"고 밝혔다.\n그룹와이는 “윤서체 무료 글꼴과 달리 유료 글꼴은 대가를 지불하고 구매를 해야 한다. 문제가 된 학교들은 온라인 게시판이나 가정통신문, 행사 알림 게시물 등에 유료 글꼴을 무단으로 사용했다”고 주장했다.\n이어 그룹와이는 내년에 전국 1만 2000여 초·중·고에 대해서도 저작권법 위반 여부를 확인해 소송에 나설 방침인 것으로 밝혀졌다.\n앞서 그룹와이는 2012년 10월에도 한양대를 비롯해 건국대, 동신대, 전남대 등 윤서체를 불법으로 사용한 혐의를 확인하고 일괄구매협의를 가진 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전국 1만 2000여개의 초중고가 '윤서체'무단 사용으로 소송 위기에 처했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 한 매체는 컴퓨터 글꼴 개발업체인 그룹와이가 서울, 인천 지역 초중고 300여 곳과 전국 1만 2000여개 초중고를 대상으로 윤서체 무단 사용 소송에 나설 것을 검토하고 있다고 밝혔다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그룹와이를 대리하는 법무법인 우산은 지난달 5일 인천지역 90개 초등학교에 \\\"윤서체 유료 글꼴을 무단으로 사용해 저작권법을 위반했다\\\"며 손해배상 내용이 담긴 경고문을 보냈다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그룹와이는 경고문을 통해 \\\"소송 대신 윤서체 유료 글꼴 383종이 들어있는 프로그램을 1개 학교 당 275만원에 구입하면 책임을 묻지 않겠다\\\"고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그룹와이는 “윤서체 무료 글꼴과 달리 유료 글꼴은 대가를 지불하고 구매를 해야 한다. 문제가 된 학교들은 온라인 게시판이나 가정통신문, 행사 알림 게시물 등에 유료 글꼴을 무단으로 사용했다”고 주장했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 그룹와이는 내년에 전국 1만 2000여 초·중·고에 대해서도 저작권법 위반 여부를 확인해 소송에 나설 방침인 것으로 밝혀졌다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 그룹와이는 2012년 10월에도 한양대를 비롯해 건국대, 동신대, 전남대 등 윤서체를 불법으로 사용한 혐의를 확인하고 일괄구매협의를 가진 바 있다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전국 초중고, '이것' 무단 사용으로 소송 위기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276571",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"여기 어른들 너무 무서워\\\" 백예린이 남긴 의미심장 글",
+		"newsSubTitle": "",
+		"newsContent": "가수 백예린이 소셜네트워크서비스(SNS)에 게재한 글이 눈길을 끌었다.\n백예린은 17일 오후 인스타그램에 자신의 사진을 올리며 \\\"좋은 노래 써둔 거 많은데, 앨범 좀 내고 싶다\\\"고 말했다.\n그는 \\\"기다려주는 사람들도 많은데\\\"라며 \\\"하지만 나는 여기 어른들이 너무 웃기고 무서워. 웩\\\"이라고 덧붙였다.\n이어 댓글을 통해서도 \\\"나도 엄청 노래하고 싶다. 근데 뭐 내가 별수 있냐\\\"고 심정을 토로했다.\n이에 팬들은 백예린이 앨범 발매와 관련해 자신의 소속사에 대한 불만을 터뜨린 게 아니냐고 추측했다.\n2012년 데뷔한 백예린은 2015년 첫 번째 솔로 앨범 '프랭크(FRANK)', 2016년 디지털 싱글 '바이 바이 마이 블루(Bye bye my blue)'를 차례로 발표하며 싱어송라이터로 역량을 인정받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 백예린이 소셜네트워크서비스(SNS)에 게재한 글이 눈길을 끌었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "백예린은 17일 오후 인스타그램에 자신의 사진을 올리며 \\\"좋은 노래 써둔 거 많은데, 앨범 좀 내고 싶다\\\"고 말했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"기다려주는 사람들도 많은데\\\"라며 \\\"하지만 나는 여기 어른들이 너무 웃기고 무서워. 웩\\\"이라고 덧붙였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 댓글을 통해서도 \\\"나도 엄청 노래하고 싶다. 근데 뭐 내가 별수 있냐\\\"고 심정을 토로했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 팬들은 백예린이 앨범 발매와 관련해 자신의 소속사에 대한 불만을 터뜨린 게 아니냐고 추측했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2012년 데뷔한 백예린은 2015년 첫 번째 솔로 앨범 '프랭크(FRANK)', 2016년 디지털 싱글 '바이 바이 마이 블루(Bye bye my blue)'를 차례로 발표하며 싱어송라이터로 역량을 인정받았다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"여기 어른들 너무 무서워\\\" 백예린이 남긴 의미심장 글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

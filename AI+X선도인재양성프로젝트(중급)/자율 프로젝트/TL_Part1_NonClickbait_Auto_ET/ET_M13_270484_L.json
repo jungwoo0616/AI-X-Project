@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270484",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "KBS, 5·18 특집방송…3공수 계엄군 증언 담은 다큐멘터리 등 편성",
+		"newsSubTitle": "",
+		"newsContent": "KBS가 5·18 민주화운동 42주년을 맞아 현대사 아픔을 조명하는 특집 프로그램을 편성한다.\nKBS1은 18일 오후 10시 5·18 특집 다큐멘터리 ‘3공수 42년만의 증언록’을 방송한다고 17일 전했다.\n다큐에는 1980년 5월 당시 광주에 파견된 군부대 중 가장 많이 거론되면서도 베일에 감춰진 3공수특전여단 소속 계엄군들 증언이 담긴다.\n계엄군들은 평생 무겁게 짓눌렀던 5·18의 고통스러운 기억과 용서받지 못한 삶을 고백한다.\n내레이션은 가수 윤도현이 맡았다.\nKBS가 보유한 5·18 자료를 활용한 영상 공모전 ‘KBS 아카이브 518 영상 시민 공유 프로젝트’에서 선정된 우수작품 6편도 시사·교양 프로그램 ‘열린채널’과 특집다큐멘터리 ‘5월 이야기’에서 방송된다. ‘열린채널’은 18일 오후 2시 10분, ‘5월 이야기’는 오전 11시 10분에 방송된다.\n탐사 다큐멘터리 ‘시사직격’ 에서는 1980년 광주항쟁에 개입된 언론인을 심층 추적한 ‘5.18 언론인들’ 편이 오는 20일 오후 10시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS가 5·18 민주화운동 42주년을 맞아 현대사 아픔을 조명하는 특집 프로그램을 편성한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS1은 18일 오후 10시 5·18 특집 다큐멘터리 ‘3공수 42년만의 증언록’을 방송한다고 17일 전했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다큐에는 1980년 5월 당시 광주에 파견된 군부대 중 가장 많이 거론되면서도 베일에 감춰진 3공수특전여단 소속 계엄군들 증언이 담긴다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "계엄군들은 평생 무겁게 짓눌렀던 5·18의 고통스러운 기억과 용서받지 못한 삶을 고백한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "내레이션은 가수 윤도현이 맡았다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KBS가 보유한 5·18 자료를 활용한 영상 공모전 ‘KBS 아카이브 518 영상 시민 공유 프로젝트’에서 선정된 우수작품 6편도 시사·교양 프로그램 ‘열린채널’과 특집다큐멘터리 ‘5월 이야기’에서 방송된다. ‘열린채널’은 18일 오후 2시 10분, ‘5월 이야기’는 오전 11시 10분에 방송된다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "탐사 다큐멘터리 ‘시사직격’ 에서는 1980년 광주항쟁에 개입된 언론인을 심층 추적한 ‘5.18 언론인들’ 편이 오는 20일 오후 10시 방송된다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KBS, 5·18 특집방송…3공수 계엄군 증언 담은 다큐멘터리 등 편성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

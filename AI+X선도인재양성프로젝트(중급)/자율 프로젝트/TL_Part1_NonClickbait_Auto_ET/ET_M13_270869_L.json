@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270869",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "버스터즈 ‘음중’ 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 버스터즈가 오늘(21일) ‘쇼! 음악중심’에 출격한다.\n소속사 마블링이엔엠 측에 따르면 버스터즈(지은, 타카라, 민지, 세이라, 윤지)는 오늘(21일) 오후 2시 20분 방송되는 MBC ‘쇼! 음악중심’에 출연한다.\n이날 버스터즈는 새 싱글 ‘re:Born(리:본)’의 타이틀곡 ‘풋(Futt)’ 무대를 선사한다.\n버스터즈는 중독성 강한 퍼포먼스와 버스터즈만의 상큼한 매력으로 똘똘 뭉친 무대로 팬들에게 기분 좋은 설렘을 전할 계획이다.\n특히 청량한 보이스와 ‘풋풋풋 뭐야/ㅋㅋㅋ 뭐야/자꾸 웃음이 나잖아’라는 솔직한 노랫말과 어울리는 사랑스러운 포인트 안무로 눈과 귀를 매료시킬 것으로 기대를 모은다.\n지난달 27일 약 2년 만에 새 싱글 ‘re:Born’으로 컴백한 버스터즈는 타이틀곡 ‘풋’으로 활발한 활동을 펼치고 있다.\n신곡 ‘풋’은 좋아하는 사람이 하루 종일 생각나 자꾸만 ‘풋’하고 웃음이 나는 소녀의 풋사랑을 담은 경쾌한 업템포 댄스곡이다.\n한편 버스터즈가 출연하는 ‘쇼! 음악중심’은 오늘(21일) 오후 2시 20분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 버스터즈가 오늘(21일) ‘쇼! 음악중심’에 출격한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 마블링이엔엠 측에 따르면 버스터즈(지은, 타카라, 민지, 세이라, 윤지)는 오늘(21일) 오후 2시 20분 방송되는 MBC ‘쇼! 음악중심’에 출연한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 버스터즈는 새 싱글 ‘re:Born(리:본)’의 타이틀곡 ‘풋(Futt)’ 무대를 선사한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "버스터즈는 중독성 강한 퍼포먼스와 버스터즈만의 상큼한 매력으로 똘똘 뭉친 무대로 팬들에게 기분 좋은 설렘을 전할 계획이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 청량한 보이스와 ‘풋풋풋 뭐야/ㅋㅋㅋ 뭐야/자꾸 웃음이 나잖아’라는 솔직한 노랫말과 어울리는 사랑스러운 포인트 안무로 눈과 귀를 매료시킬 것으로 기대를 모은다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난달 27일 약 2년 만에 새 싱글 ‘re:Born’으로 컴백한 버스터즈는 타이틀곡 ‘풋’으로 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신곡 ‘풋’은 좋아하는 사람이 하루 종일 생각나 자꾸만 ‘풋’하고 웃음이 나는 소녀의 풋사랑을 담은 경쾌한 업템포 댄스곡이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 버스터즈가 출연하는 ‘쇼! 음악중심’은 오늘(21일) 오후 2시 20분 방송된다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "버스터즈 ‘음중’ 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

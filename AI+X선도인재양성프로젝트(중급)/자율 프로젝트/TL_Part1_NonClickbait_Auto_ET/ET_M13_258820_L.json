@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258820",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유연석, 따뜻한 선물 FLEX",
+		"newsSubTitle": "",
+		"newsContent": "배우 유연석이 자신이 출연하는 뮤지컬 ‘젠틀맨스 가이드: 사랑과 살인편’( 이하 ‘젠틀맨스 가이드’ )팀에 새해맞이 패딩을 선물하며 훈훈한 플렉스를 했다..\n유연석은 18일 사회관계망서비스(SNS)에 자신이 모델로 활동하고 있는 아웃도어 브랜드의 패딩을 착용한 여러 장의 사진과 함께 “‘젠틀맨스 가이드’ 팀과 함께 나눈 따수운 새해 선물”이라는 글을 게재했다.\n유연석은 ‘젠틀맨스 가이드’ 팀의 스태프, 배우들에게 패딩을 선물하여, 따뜻하고 훈훈한 새해의 분위기를 느낄 수 있다.\n유연석이 선물한 상자에는 ‘연몬티(연석+몬티 나바로)가 쏘는 따수운 새해 선물’, ‘내 마음을 받아라’라는 글이 적혀 있어, 해당 작품에 대한 유연석의 애틋한 마음이 돋보인다.\n유연석은 이번 뮤지컬에서 주인공 ‘몬티 나바로’역을 맡았다.\n한편, 유연석이 출연하는 뮤지컬 ‘젠틀맨스 가이드’는 광림아트센터 BBCH홀에서 2월 22일까지 예매해 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유연석이 자신이 출연하는 뮤지컬 ‘젠틀맨스 가이드: 사랑과 살인편’( 이하 ‘젠틀맨스 가이드’ )팀에 새해맞이 패딩을 선물하며 훈훈한 플렉스를 했다..",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유연석은 18일 사회관계망서비스(SNS)에 자신이 모델로 활동하고 있는 아웃도어 브랜드의 패딩을 착용한 여러 장의 사진과 함께 “‘젠틀맨스 가이드’ 팀과 함께 나눈 따수운 새해 선물”이라는 글을 게재했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유연석은 ‘젠틀맨스 가이드’ 팀의 스태프, 배우들에게 패딩을 선물하여, 따뜻하고 훈훈한 새해의 분위기를 느낄 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유연석이 선물한 상자에는 ‘연몬티(연석+몬티 나바로)가 쏘는 따수운 새해 선물’, ‘내 마음을 받아라’라는 글이 적혀 있어, 해당 작품에 대한 유연석의 애틋한 마음이 돋보인다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유연석은 이번 뮤지컬에서 주인공 ‘몬티 나바로’역을 맡았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 유연석이 출연하는 뮤지컬 ‘젠틀맨스 가이드’는 광림아트센터 BBCH홀에서 2월 22일까지 예매해 볼 수 있다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유연석, 따뜻한 선물 FLEX",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

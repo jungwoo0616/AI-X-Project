@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273005",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘범죄도시2’ 천만 돌파, 마동석 “모두 관객 덕분”",
+		"newsSubTitle": "",
+		"newsContent": "배우 마동석이 영화 ‘범죄도시2’ 천만 돌파 감사 인사를 올렸다.\n마동석은 12일 자신의 사회관계망서비스에 ‘범죄도시2’ 무대 인사 영상과 함께 “천만 관객 돌파, 모두 관객분들 덕분입니다. 진심으로 감사합니다!”라는 글을 게재했다.\n마동석이 주연으로 출연한 ‘범죄도시2’는 12일 개봉 25일 만에 천만 관객을 돌파했다.\n코로나19 이후 첫 국내 천만 관객 돌파 영화다.\n한국 영화 천만 관객 돌파는 진나 2019년 ‘기생충’ 이후 처음으로, ‘범죄도시2’가 3년 만에 대기록을 작성했다.\n한국 영화는 물론 해외 영화도 코로나19 여파로 좀처럼 힘을 쓰지 못하는 상황에서, ‘범죄도시2’가 천만 관객 돌파에 성공해 한동안 침체됐던 영화 시장에 새 바람을 불어넣었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 마동석이 영화 ‘범죄도시2’ 천만 돌파 감사 인사를 올렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마동석은 12일 자신의 사회관계망서비스에 ‘범죄도시2’ 무대 인사 영상과 함께 “천만 관객 돌파, 모두 관객분들 덕분입니다. 진심으로 감사합니다!”라는 글을 게재했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마동석이 주연으로 출연한 ‘범죄도시2’는 12일 개봉 25일 만에 천만 관객을 돌파했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19 이후 첫 국내 천만 관객 돌파 영화다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국 영화 천만 관객 돌파는 진나 2019년 ‘기생충’ 이후 처음으로, ‘범죄도시2’가 3년 만에 대기록을 작성했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국 영화는 물론 해외 영화도 코로나19 여파로 좀처럼 힘을 쓰지 못하는 상황에서, ‘범죄도시2’가 천만 관객 돌파에 성공해 한동안 침체됐던 영화 시장에 새 바람을 불어넣었다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘범죄도시2’ 천만 돌파, 마동석 “모두 관객 덕분”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

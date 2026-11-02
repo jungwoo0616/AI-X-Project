@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274858",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "하이키 휘서 “데뷔 무산 됐어도 음악을 하는 게 즐겁다”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 하이키(H1-KEY·서이, 리이나 , 휘서, 옐)의 새로운 멤버 휘서가 오랜 연습생 기간을 돌아봤다.\n6일 오후 2시, 서울 강남구 선릉로 일지 아트홀에서 하이키의 첫 번째 맥시 싱글 ‘런(RUN)’ 쇼케이스가 진행됐다.\n휘서는 이번에 새롭게 하이키에 합류한 멤버다.\n휘서는 하이키 데뷔 전에 더블랙레이블(THEBLACKLABEL)과 쏘스뮤직, FNC엔터테인먼트에서 연습생 신분으로 있었다.\n휘서는 연습생 기간을 묻는 말에 “연습생은 9년 정도 보내면서 데뷔를 코앞에 뒀던 순간도 있었다. 데뷔가 무산됐어도, 새로운 곡을 연습하는 게 재밌어서 많이 힘들지 않았다”고 회상했다.\n6개월여 만에 컴백하는 하이키는 데뷔부터 화제를 모은 스포티룩과 독보적인 운동 콘셉트로 인기를 이어간다.\n골프, 테니스, 농구 등 각종 스포츠에서 영감을 얻은 의상과 퍼포먼스로 하이키 특유의 청량한 분위기와 건강미를 뽐낼 예정이다.\n동명의 타이틀곡 ‘런’은 틴팝(Teen Pop), 팝락(Pop Rock) 장르로, 도입부의 청량한 휘파람 리프가 귓가를 사울린다.\n어디론가 달리고 싶은 기분을 선사하는 동시에 전 세계 음악 팬들의 운동 욕구를 자극한다.\n하이키의 ‘런’은 6일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 하이키(H1-KEY·서이, 리이나 , 휘서, 옐)의 새로운 멤버 휘서가 오랜 연습생 기간을 돌아봤다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 오후 2시, 서울 강남구 선릉로 일지 아트홀에서 하이키의 첫 번째 맥시 싱글 ‘런(RUN)’ 쇼케이스가 진행됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "휘서는 이번에 새롭게 하이키에 합류한 멤버다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휘서는 하이키 데뷔 전에 더블랙레이블(THEBLACKLABEL)과 쏘스뮤직, FNC엔터테인먼트에서 연습생 신분으로 있었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "휘서는 연습생 기간을 묻는 말에 “연습생은 9년 정도 보내면서 데뷔를 코앞에 뒀던 순간도 있었다. 데뷔가 무산됐어도, 새로운 곡을 연습하는 게 재밌어서 많이 힘들지 않았다”고 회상했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "6개월여 만에 컴백하는 하이키는 데뷔부터 화제를 모은 스포티룩과 독보적인 운동 콘셉트로 인기를 이어간다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "골프, 테니스, 농구 등 각종 스포츠에서 영감을 얻은 의상과 퍼포먼스로 하이키 특유의 청량한 분위기와 건강미를 뽐낼 예정이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "동명의 타이틀곡 ‘런’은 틴팝(Teen Pop), 팝락(Pop Rock) 장르로, 도입부의 청량한 휘파람 리프가 귓가를 사울린다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "어디론가 달리고 싶은 기분을 선사하는 동시에 전 세계 음악 팬들의 운동 욕구를 자극한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하이키의 ‘런’은 6일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하이키 휘서 “데뷔 무산 됐어도 음악을 하는 게 즐겁다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

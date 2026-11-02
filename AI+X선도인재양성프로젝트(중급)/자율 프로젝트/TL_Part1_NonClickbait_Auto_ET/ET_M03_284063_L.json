@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284063",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "한채아, 상큼 미소 셀카 '화제'…오상진과는 무슨 사이?",
+		"newsSubTitle": "",
+		"newsContent": "한채아의 과거 셀카가 화제다.\n한채아는 과거 자신의 인스타그램에 “잡생각안하기엔 이게 딱!!”라는 글과 함께 사진을 업로드 했다.\n게재된 사진 속 한채아는 녹색계열 옷을 입고 웃는 모습으로 카메라를 응시하고 있다.\n특히 그녀의 화사한 미모가 돋보인다.\n한편 지난 5일 방송된 KBS2 '해피투게더3'에서는 장혁, 김민정, 한채아, 박은혜, 정태우가 출연해 남다른 입담을 뽐냈다.\n이날 한채아는 오상진과 개인적으로 친하다고 밝혀 관심을 모았다.\n방송에서 한채아는 대기업 임원 아버지가 방송인 오상진과 같은 회사를 다녔다는 사실이 전해 이목을 집중시켰다. [사진 한 채아 인스타그램 캡처] 온라인 중앙일보 ‘한채아 오상진’ ‘해피투게더’",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한채아의 과거 셀카가 화제다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한채아는 과거 자신의 인스타그램에 “잡생각안하기엔 이게 딱!!”라는 글과 함께 사진을 업로드 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게재된 사진 속 한채아는 녹색계열 옷을 입고 웃는 모습으로 카메라를 응시하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 그녀의 화사한 미모가 돋보인다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 지난 5일 방송된 KBS2 '해피투게더3'에서는 장혁, 김민정, 한채아, 박은혜, 정태우가 출연해 남다른 입담을 뽐냈다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 한채아는 오상진과 개인적으로 친하다고 밝혀 관심을 모았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방송에서 한채아는 대기업 임원 아버지가 방송인 오상진과 같은 회사를 다녔다는 사실이 전해 이목을 집중시켰다. [사진 한 채아 인스타그램 캡처] 온라인 중앙일보 ‘한채아 오상진’ ‘해피투게더’",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한채아, 상큼 미소 셀카 '화제'…오상진과는 무슨 사이?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169112",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "팝스타 로드(Lorde), 새 앨범 ‘솔라 파워’ 발매 “자연과 모든 것을 축복하는 앨범”[공식]",
+    "newsSubTitle": "",
+    "newsContent": "‘팝 아티스트의 뮤즈’ 로드(Lorde)가 세 번째 정규앨범 ‘솔라 파워 (Solar Power)’룰 20일 정오 발매했다.\n12곡이 수록되어 있는 ‘솔라 파워’에는 ‘라이어빌리티(Liability)’, ‘그린라이트(Green Light)’등 인기곡이 담겨 있는 두 번째 정규앨범 ‘멜로드라마(Melodrama)’의 메인 프로듀서였던 잭 안토노프(Jack Antonoff)가 이번 앨범 프로듀싱에 참여했다.\n세 번째 정규앨범 ‘솔라 파워’는 로드가 세상에 전달하는 긍정적인 메시지를 담고 있는 앨범으로 여러 아픔을 이기는 방법을 자연에서 찾고 치유하는 과정을 담았다.\n로드는 “이번 앨범은 자연과 관련된 모든 것을 축복하는 앨범이다. 마음이 아프거나 혼돈이 올 때마다 항상 자연에서 답을 찾곤 했다. 숨을 내쉬거나 집중하는 방법을 자연에서 배웠다”고 소감을 밝혔다.\n로드는 만 16세 나이에 발매한 데뷔 앨범, ‘퓨어 헤로인(Pure Heroine)’로 그래미 어워드 2관왕 기록을 보유하며 최연소 빌보드 앨범 차트 1위를 기록했다.\n로드는 최근 2022년 북미 투어 일정을 확정하고, 빠르게 매진을 기록하는 등 전 세계 팬들의 기대를 고조시키고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘팝 아티스트의 뮤즈’ 로드(Lorde)가 세 번째 정규앨범 ‘솔라 파워 (Solar Power)’룰 20일 정오 발매했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12곡이 수록되어 있는 ‘솔라 파워’에는 ‘라이어빌리티(Liability)’, ‘그린라이트(Green Light)’등 인기곡이 담겨 있는 두 번째 정규앨범 ‘멜로드라마(Melodrama)’의 메인 프로듀서였던 잭 안토노프(Jack Antonoff)가 이번 앨범 프로듀싱에 참여했다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세 번째 정규앨범 ‘솔라 파워’는 로드가 세상에 전달하는 긍정적인 메시지를 담고 있는 앨범으로 여러 아픔을 이기는 방법을 자연에서 찾고 치유하는 과정을 담았다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "로드는 “이번 앨범은 자연과 관련된 모든 것을 축복하는 앨범이다. 마음이 아프거나 혼돈이 올 때마다 항상 자연에서 답을 찾곤 했다. 숨을 내쉬거나 집중하는 방법을 자연에서 배웠다”고 소감을 밝혔다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "로드는 만 16세 나이에 발매한 데뷔 앨범, ‘퓨어 헤로인(Pure Heroine)’로 그래미 어워드 2관왕 기록을 보유하며 최연소 빌보드 앨범 차트 1위를 기록했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "로드는 최근 2022년 북미 투어 일정을 확정하고, 빠르게 매진을 기록하는 등 전 세계 팬들의 기대를 고조시키고 있다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "로드, 새 앨범 ‘솔라 파워’ 발매... 자연이면 다 해결돼",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170925",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "크래비티 세림 “정상 향해 질주, ‘질주비티’ 수식어 얻고파”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 크래비티가 첫 정규앨범 활동으로 얻고 싶은 수식어를 언급했다.\n민희는 19일 온라인으로 진행된 첫 정규앨범 파트 1 ‘디 웨이크닝: 리튼 인 더 스타즈(The Awakening: Written In The Stars)’ 발매 기념 쇼케이스에서 “이번 앨범을 준비하면서 퍼포먼스를 칼군무이면서 각자의 개성이 돋보이게 구성했다. 이 퍼포먼스로 자주 무대를 찢고 싶다는 의미에서 ‘무대 찢는 크래비티’라는 수식어를 얻고 싶다”고 전했다.\n세림은 “데뷔 때부터 지켜오고 있는 ‘질주’라는 키워드처럼 가요계 정상을 향해 멈추지 않고 질주하겠다는 의미로 ‘질주비티’라고 듣고 싶다”고 말했다.\n크래비티의 첫 정규앨범 파트 1 ‘디 웨이크닝: 리튼 인 더 스타즈’는 새로운 주제로 목표를 향해 비상하는 크래비티의 도전적인 의식을 담았다.\n타이틀곡 ‘가스 페달(Gas Pedal)’은 힙합 비트와 빠른 속도의 베이스 리프를 바탕으로 크래비티의 성장사를 ‘가속 페달’이란 테마로 표현한 곡이다.\n멤버 세림과 앨런이 랩 메이킹에 참여해 강렬함을 더했다.\n19일 오후 6시 각종 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 크래비티가 첫 정규앨범 활동으로 얻고 싶은 수식어를 언급했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "민희는 19일 온라인으로 진행된 첫 정규앨범 파트 1 ‘디 웨이크닝: 리튼 인 더 스타즈(The Awakening: Written In The Stars)’ 발매 기념 쇼케이스에서 “이번 앨범을 준비하면서 퍼포먼스를 칼군무이면서 각자의 개성이 돋보이게 구성했다. 이 퍼포먼스로 자주 무대를 찢고 싶다는 의미에서 ‘무대 찢는 크래비티’라는 수식어를 얻고 싶다”고 전했다.",
+        "sentenceSize": 206
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세림은 “데뷔 때부터 지켜오고 있는 ‘질주’라는 키워드처럼 가요계 정상을 향해 멈추지 않고 질주하겠다는 의미로 ‘질주비티’라고 듣고 싶다”고 말했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "크래비티의 첫 정규앨범 파트 1 ‘디 웨이크닝: 리튼 인 더 스타즈’는 새로운 주제로 목표를 향해 비상하는 크래비티의 도전적인 의식을 담았다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡 ‘가스 페달(Gas Pedal)’은 힙합 비트와 빠른 속도의 베이스 리프를 바탕으로 크래비티의 성장사를 ‘가속 페달’이란 테마로 표현한 곡이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멤버 세림과 앨런이 랩 메이킹에 참여해 강렬함을 더했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "19일 오후 6시 각종 음원사이트를 통해 공개된다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "크래비티 민희, 칼군무 퍼포먼스 준비... 이 수식어 얻고 싶다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

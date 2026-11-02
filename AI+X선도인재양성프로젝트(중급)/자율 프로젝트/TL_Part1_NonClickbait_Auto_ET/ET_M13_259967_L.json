@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259967",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘탬버린 여신’ 박성연 “오랜만의 부산, 오랜만의 바다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 박성연이 우월한 비주얼로 팬들의 심박수를 높였다.\n박성연은 3일 오후 자신의 공식 SNS 채널을 통해 여러 장의 사진을 공개했다.\n공개된 사진 속 박성연은 부산 바다를 방문, 여신 같은 미모를 뽐내는가 하면, 완벽한 핏의 올블랙룩을 자랑하고 있어 눈을 뗄 수 없게 만들었다.\n박성연은 ‘우리는 식구당’이란 해시태그와 함께 “오랜만의 부산, 오랜만의 바다”라고 멘트를 남겨 앞으로 공개될 콘텐츠에 대한 팬들의 궁금증을 한껏 높였다.\n영기, 안성훈과 함께 혼성 댄스그룹 아웃렛(OUTLET)을 결성한 박성연은 사랑스러운 매력부터 상큼한 음색으로 많은 사랑을 받고 있다.\n활발한 활동을 예고한 박성연은 앞으로도 다양한 콘텐츠로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박성연이 우월한 비주얼로 팬들의 심박수를 높였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박성연은 3일 오후 자신의 공식 SNS 채널을 통해 여러 장의 사진을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 박성연은 부산 바다를 방문, 여신 같은 미모를 뽐내는가 하면, 완벽한 핏의 올블랙룩을 자랑하고 있어 눈을 뗄 수 없게 만들었다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박성연은 ‘우리는 식구당’이란 해시태그와 함께 “오랜만의 부산, 오랜만의 바다”라고 멘트를 남겨 앞으로 공개될 콘텐츠에 대한 팬들의 궁금증을 한껏 높였다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영기, 안성훈과 함께 혼성 댄스그룹 아웃렛(OUTLET)을 결성한 박성연은 사랑스러운 매력부터 상큼한 음색으로 많은 사랑을 받고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "활발한 활동을 예고한 박성연은 앞으로도 다양한 콘텐츠로 대중을 만날 예정이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘탬버린 여신’ 박성연 “오랜만의 부산, 오랜만의 바다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

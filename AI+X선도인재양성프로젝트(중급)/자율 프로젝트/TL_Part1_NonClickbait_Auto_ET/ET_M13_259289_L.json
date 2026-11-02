@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259289",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "양지은, 코로나19 의료진 위해 1000만원 기부",
+		"newsSubTitle": "",
+		"newsContent": "‘미스트롯2’ 진(眞) 출신 가수 양지은이 선한 영향력을 행사했다.\n소속사 린브랜딩은 지난 25일 “양지은은 지난 22일 적십자사에 특별 성금 1000만원을 전달했다”고 밝혔다.\n이번 기부금은 코로나19 감염 예방에 힘쓰고 있는 의료진을 위해 쓰일 예정이다.\n이어 소속사 측은 “양지은은 팬들로부터 받은 응원과 사랑에 보답하기 위해 적십자사와 인연을 맺고 뜻깊은 일에 동참하기로 결정했다”고 전했다.\n한편, 양지은은 지난해 종영한 트롯 경연 프로그램 ‘미스트롯2’를 통해 주가를 높였다.\n최근 ‘미스트롯2’ 톱4 전국투어 ‘소리꽃’ 제주 공연을 마쳤으며 오는 29일 대구 엑스코에서 투어를 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘미스트롯2’ 진(眞) 출신 가수 양지은이 선한 영향력을 행사했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 린브랜딩은 지난 25일 “양지은은 지난 22일 적십자사에 특별 성금 1000만원을 전달했다”고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 기부금은 코로나19 감염 예방에 힘쓰고 있는 의료진을 위해 쓰일 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 소속사 측은 “양지은은 팬들로부터 받은 응원과 사랑에 보답하기 위해 적십자사와 인연을 맺고 뜻깊은 일에 동참하기로 결정했다”고 전했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 양지은은 지난해 종영한 트롯 경연 프로그램 ‘미스트롯2’를 통해 주가를 높였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 ‘미스트롯2’ 톱4 전국투어 ‘소리꽃’ 제주 공연을 마쳤으며 오는 29일 대구 엑스코에서 투어를 이어간다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양지은, 코로나19 의료진 위해 1000만원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

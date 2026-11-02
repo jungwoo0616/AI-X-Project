@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270880",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이혜원♥안정환, 딸 국제학교 졸업식 참석",
+		"newsSubTitle": "",
+		"newsContent": "안정환, 이혜원 가족이 딸 안리원 양의 졸업식 참석을 위해 한자리에 모였다.\n이혜원은 지난 20일 자신의 사회관계망서비스(SNS)를 통해 안리원 양의 졸업식에서 촬영한 사진 세 장을 올리며 사진 찍을 때만 마스크를 뺐다고 덧붙였다.\n공개된 사진에는 이혜원, 안정환과 아들 안리환 군이 함께 있는 모습이 담겼다.\n졸업 축하를 위해 한자리에 모인 가족의 모습이 훈훈함을 자아낸다.\n한편 이혜원과 안정환은 지난 2001년 결혼해 슬하에 딸 리원 양, 아들 리환 군을 두고 있다.\n리원 양은 최근 미국 뉴욕대학교에 합격했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안정환, 이혜원 가족이 딸 안리원 양의 졸업식 참석을 위해 한자리에 모였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이혜원은 지난 20일 자신의 사회관계망서비스(SNS)를 통해 안리원 양의 졸업식에서 촬영한 사진 세 장을 올리며 사진 찍을 때만 마스크를 뺐다고 덧붙였다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 이혜원, 안정환과 아들 안리환 군이 함께 있는 모습이 담겼다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "졸업 축하를 위해 한자리에 모인 가족의 모습이 훈훈함을 자아낸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 이혜원과 안정환은 지난 2001년 결혼해 슬하에 딸 리원 양, 아들 리환 군을 두고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "리원 양은 최근 미국 뉴욕대학교에 합격했다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이혜원♥안정환, 딸 국제학교 졸업식 참석",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

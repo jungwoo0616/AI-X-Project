@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166656",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘그리운 별’ 레이디스코드 故 권리세, 7주기 맞아",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 레이디스코드 고(故) 권리세가 세상을 떠난지 7년이 지났다.\n권리세는 지난 2014년 대구 스케줄을 마치고 서울로 이동하던 중 중 경기도 용인시 영동고속도로에서 교통사고를 당했다.\n이 사고로 레이디스코드 멤버 고은비는 당일 사망했다.\n권리세는 수원 아주병원에서 대수술을 받은 뒤 중환자실에서 경과를 지켜보던 중 사망했다.\n한편 권리세는 재일교포 출신으로 2009년 제53회 미스코리아 선발대회에서 해외동포상을 수상했다.\n2011년에는 MBC 오디션 프로그램 ‘위대한 탄생’에 출연하며 얼굴을 알렸다.\n2013엔 레이디스코드로 데뷔했다.\n레이디스 코드는 사고 후 애슐리, 소정, 주니 3인 체제로 활동하다 소속사와의 계약을 만료하고 각자의 길을 택했다.\n멤버 소정은 최근 JTBC ‘싱어게인’에 출연해 TOP4에 올라 화제가 되기도 했다.\n권리세의 7주기 소식에 누리꾼들은 “시간이 벌써 그렇게 흘렀다니”, “권리세의 밝은 미소가 그립다”며 안타까운 마음을 드러냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 레이디스코드 고(故) 권리세가 세상을 떠난지 7년이 지났다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권리세는 지난 2014년 대구 스케줄을 마치고 서울로 이동하던 중 중 경기도 용인시 영동고속도로에서 교통사고를 당했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 사고로 레이디스코드 멤버 고은비는 당일 사망했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "권리세는 수원 아주병원에서 대수술을 받은 뒤 중환자실에서 경과를 지켜보던 중 사망했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 권리세는 재일교포 출신으로 2009년 제53회 미스코리아 선발대회에서 해외동포상을 수상했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2011년에는 MBC 오디션 프로그램 ‘위대한 탄생’에 출연하며 얼굴을 알렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2013엔 레이디스코드로 데뷔했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "레이디스 코드는 사고 후 애슐리, 소정, 주니 3인 체제로 활동하다 소속사와의 계약을 만료하고 각자의 길을 택했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "멤버 소정은 최근 JTBC ‘싱어게인’에 출연해 TOP4에 올라 화제가 되기도 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "권리세의 7주기 소식에 누리꾼들은 “시간이 벌써 그렇게 흘렀다니”, “권리세의 밝은 미소가 그립다”며 안타까운 마음을 드러냈다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘위대한 탄생’ 출신 故 권리세 7주기... 더욱 안타까운 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

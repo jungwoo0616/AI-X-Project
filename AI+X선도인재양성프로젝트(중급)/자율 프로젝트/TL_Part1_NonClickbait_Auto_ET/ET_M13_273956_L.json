@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273956",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "트와이스 나연 “박진영, ‘개인 활동=그룹에 좋은 영향’ 조언”",
+		"newsSubTitle": "",
+		"newsContent": "트와이스의 나연이 박진영 프로듀서의 조언을 전했다.\n나연은 24일 서울 영등포구 페어몬트 앰배서더 서울에서 진행된 솔로 미니 1집 ‘아이엠 나연(IM NAYEON)’ 발매 기자간담회에서 “박진영 PD님이 조언을 많이 해줬다”고 말했다.\n이어 “제가 앨범 작업을 하며 긴장감과 부담감을 느끼고 있을 때 ‘이제부터는 트와이스가 각자 개인적인 활동을 하며서 이뤄내는 것들이 결코 개인적인 게 아니라 그것 또한 트와이스에 좋은 영향 줄 것’이라고 말해줬다. 덕분에 솔로 앨범을 내는 데 자신감 갖게 됐다”고 밝혔다.\n나연의 미니 1집 ‘아이엠 나연’은 나연이 트와이스로 데뷔한지 7년 만에 발표하는 첫 솔로 앨범이다.\n타이틀곡 ‘팝!(POP!)’은 제목 그대로 톡톡 터지는 나연 고유의 매력을 한껏 살린 노래다.\n켄지, 런던노이즈, 이스란 등 유명 작가진이 곡 작업에 참여했고, 버블처럼 부풀어 오른 상대의 마음을거침없이 터트리겠다는 매혹적인 메시지와 중독성 강한 멜로디가 특징이다.\n24일 오후 1시 주요 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트와이스의 나연이 박진영 프로듀서의 조언을 전했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "나연은 24일 서울 영등포구 페어몬트 앰배서더 서울에서 진행된 솔로 미니 1집 ‘아이엠 나연(IM NAYEON)’ 발매 기자간담회에서 “박진영 PD님이 조언을 많이 해줬다”고 말했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “제가 앨범 작업을 하며 긴장감과 부담감을 느끼고 있을 때 ‘이제부터는 트와이스가 각자 개인적인 활동을 하며서 이뤄내는 것들이 결코 개인적인 게 아니라 그것 또한 트와이스에 좋은 영향 줄 것’이라고 말해줬다. 덕분에 솔로 앨범을 내는 데 자신감 갖게 됐다”고 밝혔다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나연의 미니 1집 ‘아이엠 나연’은 나연이 트와이스로 데뷔한지 7년 만에 발표하는 첫 솔로 앨범이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘팝!(POP!)’은 제목 그대로 톡톡 터지는 나연 고유의 매력을 한껏 살린 노래다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "켄지, 런던노이즈, 이스란 등 유명 작가진이 곡 작업에 참여했고, 버블처럼 부풀어 오른 상대의 마음을거침없이 터트리겠다는 매혹적인 메시지와 중독성 강한 멜로디가 특징이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "24일 오후 1시 주요 음원사이트를 통해 공개된다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 나연 “박진영, ‘개인 활동=그룹에 좋은 영향’ 조언”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

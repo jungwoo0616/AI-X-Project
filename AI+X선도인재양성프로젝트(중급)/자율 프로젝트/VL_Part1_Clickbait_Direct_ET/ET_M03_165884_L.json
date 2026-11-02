@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165884",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "모두가 부러워한 '유민상 거실 테이블'의 정체",
+    "newsSubTitle": "",
+    "newsContent": "개그맨 유민상·이수지 부부의 신혼집에 고깃집 불판용 식탁이 놓여 눈길을 끌고 있다.\n14일 방송된 JTBC '님과 함께 시즌2 - 최고의 사랑'에는 신혼집에 입성한 유민상·이수지 커플이 가구를 사러 가는 모습이 전파를 탔다.\n이날 이수지는 진열된 가구 중 '불판 식탁'을 발견하고 화이트데이 선물로 이를 사달라고 유민상에게 부탁했다.\n유민상은 \\\"누가 화이트데이 선물로 불판 식탁을 사주냐\\\"고 타박했지만, 이수지는 \\\"우리의 불타는 사랑을 위해서\\\"라고 답했다.\n결국 불판 식탁은 그들의 신혼집에 놓이게 됐다.\n즉 이들은 고기를 구워 먹고 싶을 때마다 번거로움 없이 편하게 집에서 고기를 먹을 수 있게 된 것이다.\n이들의 방송분은 온라인 커뮤니티 등지에서 '유민상 거실 테이블' '유민상 불판 식탁' 등의 제목으로 널리 퍼지고 있다.\n이를 본 네티즌들은 \\\"레전드급이다\\\" \\\"지름신 온다\\\" 등 재밌어하는 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그맨 유민상·이수지 부부의 신혼집에 고깃집 불판용 식탁이 놓여 눈길을 끌고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 방송된 JTBC '님과 함께 시즌2 - 최고의 사랑'에는 신혼집에 입성한 유민상·이수지 커플이 가구를 사러 가는 모습이 전파를 탔다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이수지는 진열된 가구 중 '불판 식탁'을 발견하고 화이트데이 선물로 이를 사달라고 유민상에게 부탁했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유민상은 \\\"누가 화이트데이 선물로 불판 식탁을 사주냐\\\"고 타박했지만, 이수지는 \\\"우리의 불타는 사랑을 위해서\\\"라고 답했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결국 불판 식탁은 그들의 신혼집에 놓이게 됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "즉 이들은 고기를 구워 먹고 싶을 때마다 번거로움 없이 편하게 집에서 고기를 먹을 수 있게 된 것이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들의 방송분은 온라인 커뮤니티 등지에서 '유민상 거실 테이블' '유민상 불판 식탁' 등의 제목으로 널리 퍼지고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 네티즌들은 \\\"레전드급이다\\\" \\\"지름신 온다\\\" 등 재밌어하는 반응을 보였다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'님과 함께 시즌2' 고깃집 불판용 식탁 화제 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

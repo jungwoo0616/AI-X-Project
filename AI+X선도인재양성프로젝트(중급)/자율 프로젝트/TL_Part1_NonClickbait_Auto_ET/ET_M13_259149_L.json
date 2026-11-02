@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259149",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "KBS “송해, 최고령 TV 진행자로 기네스 등재 추진 중”",
+		"newsSubTitle": "",
+		"newsContent": "KBS가 ‘전국노래자랑’ 진행자 송해(95)의 기네스 등재를 추진한다.\nKBS 측은 25일 “국내 최장수 TV 가요 프로그램 ‘전국노래자랑’ 최고령 MC 송해의 국내 방송계에서의 업적이 전 세계적으로도 최고 기록임을 확인, 최고령 TV 음악 탤런트 쇼 진행자 기네스 세계기록에 도전할 계획”이라고 밝혔다.\n이어 “영국 기네스협회가 제공한 심사 지침에 따라 관련 자료를 수집 중이며 기네스협회 검토를 마치면 도전 신청이 확정될 예정”이라고 덧붙였다.\n송해는 1955년 창공악극단을 통해 데뷔, 1988년 전국노래자랑의 MC를 맡은 후 34년간 전국노래자랑의 방송 진행 중이다.\n그는 국내에서 최고령 진행자로 널리 알려져 있으며, 기네스에 등재되면 한국 예능물의 저력을 세계 방송사에 알릴 수 있을 전망이다.\n한편, 오는 31일 오후 7시 50분에는 KBS 2TV 설 특집 ‘여러분 고맙습니다. 송해’가 방송된다. ‘여러분 고맙습니다. 송해’는 방송인 송해의 95년 인생사를 담은 트로트 뮤지컬로 가수 정동원, 이찬원, 영탁, 신유, 김태연과 국악인 박애리 송소희 등이 함께한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS가 ‘전국노래자랑’ 진행자 송해(95)의 기네스 등재를 추진한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS 측은 25일 “국내 최장수 TV 가요 프로그램 ‘전국노래자랑’ 최고령 MC 송해의 국내 방송계에서의 업적이 전 세계적으로도 최고 기록임을 확인, 최고령 TV 음악 탤런트 쇼 진행자 기네스 세계기록에 도전할 계획”이라고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “영국 기네스협회가 제공한 심사 지침에 따라 관련 자료를 수집 중이며 기네스협회 검토를 마치면 도전 신청이 확정될 예정”이라고 덧붙였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송해는 1955년 창공악극단을 통해 데뷔, 1988년 전국노래자랑의 MC를 맡은 후 34년간 전국노래자랑의 방송 진행 중이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 국내에서 최고령 진행자로 널리 알려져 있으며, 기네스에 등재되면 한국 예능물의 저력을 세계 방송사에 알릴 수 있을 전망이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 오는 31일 오후 7시 50분에는 KBS 2TV 설 특집 ‘여러분 고맙습니다. 송해’가 방송된다. ‘여러분 고맙습니다. 송해’는 방송인 송해의 95년 인생사를 담은 트로트 뮤지컬로 가수 정동원, 이찬원, 영탁, 신유, 김태연과 국악인 박애리 송소희 등이 함께한다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KBS “송해, 최고령 TV 진행자로 기네스 등재 추진 중”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

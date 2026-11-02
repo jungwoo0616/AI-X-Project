@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259542",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘어서와’ 조나단 “콩고 친구 없어...韓 친구 널려있다”",
+		"newsSubTitle": "",
+		"newsContent": "‘어서와 한국은 처음이지?’ 조나단이 콩고 친구가 없다고 말했다.\n27일 오후 방송된 MBC에브리원 ‘어서와 한국은 처음이지?’에서는 한국살이 14년 차 콩고 출신 조나단, 12년 차 네팔 출신 수잔, 8년 차 멕시코 출신 크리스티안이 출연했다.\n이날 ‘한국은 처음이지?’에 첫 출연한 조나단은 “이 프로가 외국 친구 데려와서 같이 있는 거지 않냐. 그런데 제가 콩고 친구가 없다”라고 고백해 웃음을 안겼다.\n이어 그는 “7세에 한국에 왔다”라고 말했고 알베르토는 “친구들은 다 광주에 있다”라고 폭로했다.\n조나단은 “어서와 서울은 처음이지? 하면 다 데려올 수 있다. 많이 널려있다”라고 밝혔다.\n방산 업계 회사에 다니고 있다는 수잔은 “낙하산을 파는 회사다. 7년 됐는데 낙하산 하면 ‘낙하산으로 입사했다’고 말 많이 하는데 진짜 낙하산 판매 업체에서 일한다. 시간 날 때 통·번역과 방송 활동도 한다”라고 근황을 전했다.\n크리스티안은 “방송 활동 재미있게 하고 있다. 최근 탁구를 배우기 시작했다. 생각보다 재미있다. 나중에 탁구는 처음이지? 있으면 불러 달라”라고 말해 폭소케 했다.\n한편 MBC에브리원 ‘어서와 한국은 처음이지?’는 매주 목요일 오후 8시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘어서와 한국은 처음이지?’ 조나단이 콩고 친구가 없다고 말했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 오후 방송된 MBC에브리원 ‘어서와 한국은 처음이지?’에서는 한국살이 14년 차 콩고 출신 조나단, 12년 차 네팔 출신 수잔, 8년 차 멕시코 출신 크리스티안이 출연했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 ‘한국은 처음이지?’에 첫 출연한 조나단은 “이 프로가 외국 친구 데려와서 같이 있는 거지 않냐. 그런데 제가 콩고 친구가 없다”라고 고백해 웃음을 안겼다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 그는 “7세에 한국에 왔다”라고 말했고 알베르토는 “친구들은 다 광주에 있다”라고 폭로했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조나단은 “어서와 서울은 처음이지? 하면 다 데려올 수 있다. 많이 널려있다”라고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방산 업계 회사에 다니고 있다는 수잔은 “낙하산을 파는 회사다. 7년 됐는데 낙하산 하면 ‘낙하산으로 입사했다’고 말 많이 하는데 진짜 낙하산 판매 업체에서 일한다. 시간 날 때 통·번역과 방송 활동도 한다”라고 근황을 전했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "크리스티안은 “방송 활동 재미있게 하고 있다. 최근 탁구를 배우기 시작했다. 생각보다 재미있다. 나중에 탁구는 처음이지? 있으면 불러 달라”라고 말해 폭소케 했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 MBC에브리원 ‘어서와 한국은 처음이지?’는 매주 목요일 오후 8시 30분에 방송된다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘어서와’ 조나단 “콩고 친구 없어...韓 친구 널려있다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

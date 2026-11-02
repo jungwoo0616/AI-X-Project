@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277212",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘여자친구’ 신비가 팬에게 “보지말자” 돌직구 날린 사연",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 여자친구 ‘신비’의 싸인이 화제다.\n한 온라인 커뮤니티에 신비의 돌직구라며 싸인 사진 한 장이 올라왔다.\n게시물 속 싸인은 여자친구의 팬싸인회에서 한 팬과 ‘밀당’ 끝에 생겨난 것으로 알려졌다.\n싸인을 받기 위해 온 팬이 자신의 이름을 거듭 알려주지 않았고 신비는 앞글자만 가르쳐달라고 부탁했다.\n팬이 초성 ‘ㅂ’을 알려주자 신비는 곧바로 종이에 “보지말자 안뇽^^!”이라고 적었다.\n이를 본 네티즌들은 “시간도 없는데 신비가 대처 잘한 듯” “신비 성격 진짜 시원시원하다” 등 속 시원한 신비의 대처에 유쾌하다는 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 여자친구 ‘신비’의 싸인이 화제다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 온라인 커뮤니티에 신비의 돌직구라며 싸인 사진 한 장이 올라왔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시물 속 싸인은 여자친구의 팬싸인회에서 한 팬과 ‘밀당’ 끝에 생겨난 것으로 알려졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "싸인을 받기 위해 온 팬이 자신의 이름을 거듭 알려주지 않았고 신비는 앞글자만 가르쳐달라고 부탁했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬이 초성 ‘ㅂ’을 알려주자 신비는 곧바로 종이에 “보지말자 안뇽^^!”이라고 적었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 “시간도 없는데 신비가 대처 잘한 듯” “신비 성격 진짜 시원시원하다” 등 속 시원한 신비의 대처에 유쾌하다는 반응을 보였다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘여자친구’ 신비가 팬에게 “보지말자” 돌직구 날린 사연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

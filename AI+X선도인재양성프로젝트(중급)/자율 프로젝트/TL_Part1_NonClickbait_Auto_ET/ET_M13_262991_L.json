@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262991",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김혜수·류승룡, 산불피해 호소 “소방관들 도움도 절실”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김혜수와 류승룡이 대형 산불 피해 지원을 호소했다.\n김혜수와 류승룡은 6일 자신의 사회관계망서비스(SNS)에 강제윤 시인의 글을 공유하며 경북 울진군 산불 피해 상황을 알렸다.\n이들이 게재한 글을 쓴 강제윤 시인은 “울진 화재 현장에 있는 주민분께서 다급하게 전해온 소식이다. 이재민 쪽은 구호품이 부족하지 않은데 소방관님들은 밥도 제대로 못 먹고 불을 끄며 사투를 벌이고 있다”며 “화재 진압이 다급하니 밥 먹을 시간도 없다. 그래서 불을 끄면서 이동 중에 빨리 먹을 수 있는 컵라면 등으로 허기를 겨우 면하고 있다”고 설명했다.\n그는 “하지만 생필품 공급이 원활하지 않아 지금은 컵라면, 생수 등도 부족하다. 당 보충을 위한 캔커피 등도 부족하다. 울진의 맘까페 엄마들이 무리 지어 보급을 나가고 있지만 그것으로는 부족한 듯하다”고 말했다.\n이어 “불을 끄는 것이 우선이다. 이재민 구호도 중요하지만 지금 당장은 소방관님들에게 필요한 물품들을 빨리 보급해 주는 것이 더욱 다급한 일이다”라며 강조했다.\n끝으로 그는 “중앙재난안전대책본부에서 소방관님들에게 컵라면 등 간편식 보급을 서둘러 줘야 한다. 경황이 없어 미처 챙기지 못하고 있을 수 있으니 중대본에 연락이 닿는 분 있으면 속히 전달해 주시면 고맙겠다”며 도움을 요청했다.\n한편 경북 울진에서 시작한 대형 산불은 강원 삼척까지 확산한 상태로 사흘째다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김혜수와 류승룡이 대형 산불 피해 지원을 호소했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김혜수와 류승룡은 6일 자신의 사회관계망서비스(SNS)에 강제윤 시인의 글을 공유하며 경북 울진군 산불 피해 상황을 알렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들이 게재한 글을 쓴 강제윤 시인은 “울진 화재 현장에 있는 주민분께서 다급하게 전해온 소식이다. 이재민 쪽은 구호품이 부족하지 않은데 소방관님들은 밥도 제대로 못 먹고 불을 끄며 사투를 벌이고 있다”며 “화재 진압이 다급하니 밥 먹을 시간도 없다. 그래서 불을 끄면서 이동 중에 빨리 먹을 수 있는 컵라면 등으로 허기를 겨우 면하고 있다”고 설명했다.",
+				"sentenceSize": 198
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “하지만 생필품 공급이 원활하지 않아 지금은 컵라면, 생수 등도 부족하다. 당 보충을 위한 캔커피 등도 부족하다. 울진의 맘까페 엄마들이 무리 지어 보급을 나가고 있지만 그것으로는 부족한 듯하다”고 말했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “불을 끄는 것이 우선이다. 이재민 구호도 중요하지만 지금 당장은 소방관님들에게 필요한 물품들을 빨리 보급해 주는 것이 더욱 다급한 일이다”라며 강조했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "끝으로 그는 “중앙재난안전대책본부에서 소방관님들에게 컵라면 등 간편식 보급을 서둘러 줘야 한다. 경황이 없어 미처 챙기지 못하고 있을 수 있으니 중대본에 연락이 닿는 분 있으면 속히 전달해 주시면 고맙겠다”며 도움을 요청했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 경북 울진에서 시작한 대형 산불은 강원 삼척까지 확산한 상태로 사흘째다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김혜수·류승룡, 산불피해 호소 “소방관들 도움도 절실”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

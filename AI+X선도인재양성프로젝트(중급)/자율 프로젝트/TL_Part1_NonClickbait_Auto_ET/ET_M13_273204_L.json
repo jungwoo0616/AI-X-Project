@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273204",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "소녀시대 수영, 금발 여신 ‘본격 컴백 준비’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 소녀시대 수영이 금발로 변신했다.\n수영은 15일 자신의 사회관계망서비스(SNS) 인스타그램에 여러 장의 사진을 공개했다.\n사진 속 수영은 노란색 니트 원피스를 입고 카메라를 바라보며 포즈를 취하고 있다.\n그간 어두운 색의 머리색을 유지하던 수영의 금발이 눈길을 사로잡는다.\n게시물을 본 누리꾼들은 “여름 오면 생각나는 금발 여신” “소녀시대 컴백 너무 기대된다” “새 머리스타일 너무 잘 어울린다”며 긍정적인 반응을 보였다.\n수영이 속한 그룹 소녀시대는 오는 8월 데뷔 15주년을 기념해 완전체로 컴백할 예정이다.\n컴백 소식이 알려진 가운데 수영의 새로운 헤어스타일이 공개되며 새 앨범 콘셉트에 대한 관심이 집중됐다.\n한편 수영은 올 8월 방영되는 KBS2 드라마 ‘당신이 소원을 말하면’의 주연을 맡아 출연할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 소녀시대 수영이 금발로 변신했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수영은 15일 자신의 사회관계망서비스(SNS) 인스타그램에 여러 장의 사진을 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 수영은 노란색 니트 원피스를 입고 카메라를 바라보며 포즈를 취하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그간 어두운 색의 머리색을 유지하던 수영의 금발이 눈길을 사로잡는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "게시물을 본 누리꾼들은 “여름 오면 생각나는 금발 여신” “소녀시대 컴백 너무 기대된다” “새 머리스타일 너무 잘 어울린다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수영이 속한 그룹 소녀시대는 오는 8월 데뷔 15주년을 기념해 완전체로 컴백할 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "컴백 소식이 알려진 가운데 수영의 새로운 헤어스타일이 공개되며 새 앨범 콘셉트에 대한 관심이 집중됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 수영은 올 8월 방영되는 KBS2 드라마 ‘당신이 소원을 말하면’의 주연을 맡아 출연할 예정이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소녀시대 수영, 금발 여신 ‘본격 컴백 준비’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

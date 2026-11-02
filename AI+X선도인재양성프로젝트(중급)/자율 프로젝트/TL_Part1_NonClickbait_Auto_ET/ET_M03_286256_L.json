@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_286256",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'오나귀' 조정석에 빠진 김슬기, 과거 베이글 몸매 화제 '男心 저격'",
+		"newsSubTitle": "",
+		"newsContent": "tvN '오 나의 귀신님'에 출연중인 배우 김슬기가 화제인 가운데, 그의 반전 몸매가 새삼 눈길을 끈다.\n과거 한 온라인 커뮤니티에는 '김슬기 알고 보면 베이글녀'라는 제목의 게시글과 사진 한 장이 올라왔다.\n과거 공개 된 사진은 김슬기가 과거 tvN 'SNL 코리아'에 출연하던 모습이다.\n그는 트레이닝복을 입고 가슴골을 드러내고 있다.\n귀여운 얼굴과 달리 볼륨감 넘치는 가슴라인은 남성 팬들의 가슴을 설레게 했다.\n한편 24일 방송된 '오 나의 귀신님'에서는 서빙고 보살(이정은 분)에 결국 잡히고 마는 신순애(김슬기 분)의 모습이 방송됐다, 온라인 중앙일보 김슬기 조정석[사진 tvN'SNL 코리아‘방송화면 캡처]]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "tvN '오 나의 귀신님'에 출연중인 배우 김슬기가 화제인 가운데, 그의 반전 몸매가 새삼 눈길을 끈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 한 온라인 커뮤니티에는 '김슬기 알고 보면 베이글녀'라는 제목의 게시글과 사진 한 장이 올라왔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과거 공개 된 사진은 김슬기가 과거 tvN 'SNL 코리아'에 출연하던 모습이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 트레이닝복을 입고 가슴골을 드러내고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "귀여운 얼굴과 달리 볼륨감 넘치는 가슴라인은 남성 팬들의 가슴을 설레게 했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 24일 방송된 '오 나의 귀신님'에서는 서빙고 보살(이정은 분)에 결국 잡히고 마는 신순애(김슬기 분)의 모습이 방송됐다, 온라인 중앙일보 김슬기 조정석[사진 tvN'SNL 코리아‘방송화면 캡처]]",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'오나귀' 조정석에 빠진 김슬기, 과거 베이글 몸매 화제 '男心 저격'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

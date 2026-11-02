@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276533",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'당신은 어느 편?' 올해도 어김없이 찾아온 '지하철 온도전쟁'",
+		"newsSubTitle": "",
+		"newsContent": "‘지하철 온도전쟁’이 올해도 어김없이 찾아왔다.\n여름철만 되면 서울 지하철 1~8호선을 운영하는 서울교통공사로 냉난방 민원이 쏟아진다.\n지하철을 탄 승객 가운데 한쪽이 ‘춥다’고 민원을 넣으면 반대쪽은 ‘덥다’고 다시 민원을 넣는 식이다.\n20일 서울교통공사에 따르면 지난 5~6월에 들어온 냉난방 민원은 모두 11만 6096건에 이른다.\n이 중에 ‘더우니 온도를 낮춰달라’는 민원이 10만 350건으로 ‘추우니 온도를 높여달라’는 민원(1만6566건)보다 약 6배 많다.\n하지만 ‘온도를 높여달라’는 민원도 결코 적은 숫자는 아니다.\n서울교통공사는 지하철이 춥다고 느끼는 사람들을 위해 약 냉방 칸을 따로 운영하고 있다.\n약 냉방 칸은 지하철 1~4호선엔 객실 3ㆍ6번 칸, 5~8호선엔 객실 4ㆍ5번 칸에 있다. 2호선은 승하차 수가 워낙 많아 실효성이 문제로 운영하지 않는다.\n승객이 공사 콜센터로 민원을 넣으면 온도 조절이 가능하기 때문에 하루에도 많으면 수천 건의 민원이 빗발친다.\n어느 한쪽의 편을 들 수 없는 서울교통공사가 냉난방 문제로 골머리를 앓고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘지하철 온도전쟁’이 올해도 어김없이 찾아왔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "여름철만 되면 서울 지하철 1~8호선을 운영하는 서울교통공사로 냉난방 민원이 쏟아진다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지하철을 탄 승객 가운데 한쪽이 ‘춥다’고 민원을 넣으면 반대쪽은 ‘덥다’고 다시 민원을 넣는 식이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "20일 서울교통공사에 따르면 지난 5~6월에 들어온 냉난방 민원은 모두 11만 6096건에 이른다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 중에 ‘더우니 온도를 낮춰달라’는 민원이 10만 350건으로 ‘추우니 온도를 높여달라’는 민원(1만6566건)보다 약 6배 많다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 ‘온도를 높여달라’는 민원도 결코 적은 숫자는 아니다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서울교통공사는 지하철이 춥다고 느끼는 사람들을 위해 약 냉방 칸을 따로 운영하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "약 냉방 칸은 지하철 1~4호선엔 객실 3ㆍ6번 칸, 5~8호선엔 객실 4ㆍ5번 칸에 있다. 2호선은 승하차 수가 워낙 많아 실효성이 문제로 운영하지 않는다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "승객이 공사 콜센터로 민원을 넣으면 온도 조절이 가능하기 때문에 하루에도 많으면 수천 건의 민원이 빗발친다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "어느 한쪽의 편을 들 수 없는 서울교통공사가 냉난방 문제로 골머리를 앓고 있다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'당신은 어느 편?' 올해도 어김없이 찾아온 '지하철 온도전쟁'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

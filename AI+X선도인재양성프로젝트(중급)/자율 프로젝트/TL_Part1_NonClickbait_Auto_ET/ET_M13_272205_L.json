@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272205",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방송·광고 속 차별 감시할 모니터링단 모집",
+		"newsSubTitle": "",
+		"newsContent": "사단법인 한국이주여성인권센터는 인종차별이나 성차별 소지가 있다고 판단되는 방송을 모니터링할 단원을 모집한다고 3일 밝혔다.\n모니터링단은 9월까지 외국인이나 결혼이민자 등 이주민이 출연한 예능이나 뉴스, 광고 등을 시청한 뒤 개선할 부분이나 선례 등을 찾아 의견을 제시하는 역할을 맡는다.\n이후 정기 회의를 거쳐 관련 보고서를 작성한 후 카드뉴스나 영상물로 제작한다.\n센터 측은 “다양한 관점이 담긴 의견을 대중과 공유하고, 우리 사회에 남은 차별의 시선을 줄이기 위해 힘쓰겠다”고 설명했다.\n한국에 사는 이주민을 비롯해 관련 이슈에 관심이 있는 선주민이라면 누구나 신청할 수 있다.\n참여 희망자는 신청서를 한국이주여성인권센터 이메일로 보내면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사단법인 한국이주여성인권센터는 인종차별이나 성차별 소지가 있다고 판단되는 방송을 모니터링할 단원을 모집한다고 3일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모니터링단은 9월까지 외국인이나 결혼이민자 등 이주민이 출연한 예능이나 뉴스, 광고 등을 시청한 뒤 개선할 부분이나 선례 등을 찾아 의견을 제시하는 역할을 맡는다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 정기 회의를 거쳐 관련 보고서를 작성한 후 카드뉴스나 영상물로 제작한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "센터 측은 “다양한 관점이 담긴 의견을 대중과 공유하고, 우리 사회에 남은 차별의 시선을 줄이기 위해 힘쓰겠다”고 설명했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국에 사는 이주민을 비롯해 관련 이슈에 관심이 있는 선주민이라면 누구나 신청할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "참여 희망자는 신청서를 한국이주여성인권센터 이메일로 보내면 된다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방송·광고 속 차별 감시할 모니터링단 모집",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

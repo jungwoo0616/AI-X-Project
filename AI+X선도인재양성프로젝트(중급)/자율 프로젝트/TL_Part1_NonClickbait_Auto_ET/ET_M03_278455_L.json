@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278455",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "비정상회담 종현, 전현무에게 \\\"어른 같아요\\\" 무슨말?",
+		"newsSubTitle": "",
+		"newsContent": "비정상회담’ 종현이 큰 웃음을 선사했다. 7일 방송된 JTBC ‘비정상회담’에서 종현이 전현무, 유세윤, 성시경의 나이에 대해 느낀 점을 털어놨다.\n이날 MC들은 종현에게 “20대 샤이니가 보는 40대는 어떻냐. 우리는 형같냐”고 질문했다.\n이에 종현은 “시경이 형하고 세윤이 형은 조금 또래 느낌이 난다”고 말해 전현무를 당황하게 만들었다.\n이에 전현무는 “나는 어떻냐”고 묻자 “좀 어른같다”고 돌직구를 날려 장내를 웃음바다로 만들었다.\n한편 JTBC 비정상회담은 기성세대의 멘탈을 흔드는 비정상적이고 재기발랄한 세계의 젊은 시선으로 세상을 바라보는 예능 프로그램이다.\n매주 월요일 밤 10시 50분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비정상회담’ 종현이 큰 웃음을 선사했다. 7일 방송된 JTBC ‘비정상회담’에서 종현이 전현무, 유세윤, 성시경의 나이에 대해 느낀 점을 털어놨다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 MC들은 종현에게 “20대 샤이니가 보는 40대는 어떻냐. 우리는 형같냐”고 질문했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 종현은 “시경이 형하고 세윤이 형은 조금 또래 느낌이 난다”고 말해 전현무를 당황하게 만들었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 전현무는 “나는 어떻냐”고 묻자 “좀 어른같다”고 돌직구를 날려 장내를 웃음바다로 만들었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 JTBC 비정상회담은 기성세대의 멘탈을 흔드는 비정상적이고 재기발랄한 세계의 젊은 시선으로 세상을 바라보는 예능 프로그램이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매주 월요일 밤 10시 50분에 방송된다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비정상회담 종현, 전현무에게 \\\"어른 같아요\\\" 무슨말?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

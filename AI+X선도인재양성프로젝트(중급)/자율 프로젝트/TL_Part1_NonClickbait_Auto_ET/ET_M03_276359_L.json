@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276359",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'MB국정원 블랙리스트' 배우 김규리, 검찰서 피해자 진술",
+		"newsSubTitle": "",
+		"newsContent": "이명박 정부 시절 국가정보원이 만들어 관리한 문화계 블랙리스트에 올라 방송 출연 제재 등 피해를 본 것으로 알려진 배우 김규리씨가 검찰에서 피해 상황을 진술했다.\n검찰에 따르면 김씨는 25일 오후 2시께 서울중앙지검에 참고인 신분으로 출석해 4시간 30분가량 조사를 받고 귀가했다.\n국정원 적폐청산 태스크포스(TF)와 검찰 등에 따르면 김씨는 당시 국정원이 만들어 관리한 문화예술계 블랙리스트 명단 82명에 포함됐다.\n김씨는 2008년 미국산 쇠고기 광우병 논란이 일던 당시 온라인에 정부의 미국산 쇠고기 수입을 비판하는 글을 올렸다가 블랙리스트에 오른 것으로 알려졌다.\n그는 해당 글에 포함된 \\\"차라리 청산가리를 입안에 털어 넣는 편이 오히려 낫겠다\\\"는 표현 때문에 악성 댓글에 시달린 것으로 전해졌다.\n그는 지난 24일 인스타그램에 \\\"10년이면 글의 대가는 충분히 치른 것 같다. 더 이상의 혼란은 없었으면 좋겠다\\\"고 토로하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이명박 정부 시절 국가정보원이 만들어 관리한 문화계 블랙리스트에 올라 방송 출연 제재 등 피해를 본 것으로 알려진 배우 김규리씨가 검찰에서 피해 상황을 진술했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "검찰에 따르면 김씨는 25일 오후 2시께 서울중앙지검에 참고인 신분으로 출석해 4시간 30분가량 조사를 받고 귀가했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국정원 적폐청산 태스크포스(TF)와 검찰 등에 따르면 김씨는 당시 국정원이 만들어 관리한 문화예술계 블랙리스트 명단 82명에 포함됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김씨는 2008년 미국산 쇠고기 광우병 논란이 일던 당시 온라인에 정부의 미국산 쇠고기 수입을 비판하는 글을 올렸다가 블랙리스트에 오른 것으로 알려졌다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 해당 글에 포함된 \\\"차라리 청산가리를 입안에 털어 넣는 편이 오히려 낫겠다\\\"는 표현 때문에 악성 댓글에 시달린 것으로 전해졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 지난 24일 인스타그램에 \\\"10년이면 글의 대가는 충분히 치른 것 같다. 더 이상의 혼란은 없었으면 좋겠다\\\"고 토로하기도 했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'MB국정원 블랙리스트' 배우 김규리, 검찰서 피해자 진술",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

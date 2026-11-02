@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277858",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“설리 따라하냐” 악플러에 백예린 일침 “꼬이고 꼬인 마음이 문제”",
+		"newsSubTitle": "",
+		"newsContent": "가수 백예린이 지속적으로 악성 댓글을 다는 네티즌들에게 따끔한 일침을 날렸다.\n지난 25일, 백씨는 자신의 개인 SNS 계정을 통해 \\\"의도에 문제가 있는게 아니라 꼬이고 꼬인 마음에 문제가 있는 것 같다\\\"로 시작하는 글을 게재했다.\n이어 그는 “원래 아무 관심 없다가도 누군가 선동하는 글을 쓰면 달려와서 제 앞에서는 못하실 말을 (SNS에) 자꾸 써놓고 가시는데, 그럼 최소한 저를 차단하고 보지 말아주시길 바란다”고 언급했다.\n또 백예린은 “제가 이런 것에 익숙해지거나 강해져야 할 게 아니라, 옳지 못한 일들을 하는 사람들이 변해야죠”라고 소신을 밝히며 마무리지었다.\n한편 사건의 발단은 백예린이 25일 인스타그램을 통해 게재한 짧은 동영상이었다.\n영상 속 백예린은 짧은 민소매를 입고 화면을 바라보다가 혀를 내미는 장난스런 표정을 지어보인다.\n일부 네티즌은 포즈가 설리의 셀카와 유사하다며 설리를 따라한 것이 아니냐는 내용의 악성 댓글을 달기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 백예린이 지속적으로 악성 댓글을 다는 네티즌들에게 따끔한 일침을 날렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 25일, 백씨는 자신의 개인 SNS 계정을 통해 \\\"의도에 문제가 있는게 아니라 꼬이고 꼬인 마음에 문제가 있는 것 같다\\\"로 시작하는 글을 게재했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 그는 “원래 아무 관심 없다가도 누군가 선동하는 글을 쓰면 달려와서 제 앞에서는 못하실 말을 (SNS에) 자꾸 써놓고 가시는데, 그럼 최소한 저를 차단하고 보지 말아주시길 바란다”고 언급했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 백예린은 “제가 이런 것에 익숙해지거나 강해져야 할 게 아니라, 옳지 못한 일들을 하는 사람들이 변해야죠”라고 소신을 밝히며 마무리지었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 사건의 발단은 백예린이 25일 인스타그램을 통해 게재한 짧은 동영상이었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상 속 백예린은 짧은 민소매를 입고 화면을 바라보다가 혀를 내미는 장난스런 표정을 지어보인다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일부 네티즌은 포즈가 설리의 셀카와 유사하다며 설리를 따라한 것이 아니냐는 내용의 악성 댓글을 달기도 했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“설리 따라하냐” 악플러에 백예린 일침 “꼬이고 꼬인 마음이 문제”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

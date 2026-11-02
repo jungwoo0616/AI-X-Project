@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272464",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "네이버플러스 멤버십, 출시 2년만에 누적 800만 가입",
+		"newsSubTitle": "",
+		"newsContent": "네이버는 유료 회원제 서비스 ‘네이버플러스 멤버십’ 가입자가 출시 2년만에 누적 800만명을 넘어섰다고 7일 밝혔다.\n이 서비스는 2020년 6월 1일 정식 출시됐다.\n네이버는 OTT 티빙 방송 VOD 무제한 이용권 제공, 대한항공 스카이패스 마일리지 멤버십 이용권 교환, 멤버십 가족·지인 공유 기능 등 서비스와 최대 5%에 달하는 적립률이 이용자들의 호응을 얻었다고 설명했다.\n네이버는 네이버플러스 멤버십이 네이버쇼핑에 입점한 중·소상공인(SME)과 파트너사의 매출 성장으로 이어졌다고 밝혔다.\n네이버에 따르면 티빙은 지난해 초 네이버와 협업한 뒤 1년 만에 가입자가 3배로 늘었고, 스포티비 나우도 지난해 말 협업 이후 5개월 만에 구독자가 50% 증가했다.\n네이버는 멤버십 출시 2주년을 맞아 이달 28일까지 처음 가입하는 사용자에게 2개월 무료 이용 혜택을 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버는 유료 회원제 서비스 ‘네이버플러스 멤버십’ 가입자가 출시 2년만에 누적 800만명을 넘어섰다고 7일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 서비스는 2020년 6월 1일 정식 출시됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 OTT 티빙 방송 VOD 무제한 이용권 제공, 대한항공 스카이패스 마일리지 멤버십 이용권 교환, 멤버십 가족·지인 공유 기능 등 서비스와 최대 5%에 달하는 적립률이 이용자들의 호응을 얻었다고 설명했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 네이버플러스 멤버십이 네이버쇼핑에 입점한 중·소상공인(SME)과 파트너사의 매출 성장으로 이어졌다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버에 따르면 티빙은 지난해 초 네이버와 협업한 뒤 1년 만에 가입자가 3배로 늘었고, 스포티비 나우도 지난해 말 협업 이후 5개월 만에 구독자가 50% 증가했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버는 멤버십 출시 2주년을 맞아 이달 28일까지 처음 가입하는 사용자에게 2개월 무료 이용 혜택을 제공한다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버플러스 멤버십, 출시 2년만에 누적 800만 가입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

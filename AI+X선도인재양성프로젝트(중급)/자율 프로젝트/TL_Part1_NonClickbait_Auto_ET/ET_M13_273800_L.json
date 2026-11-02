@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273800",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘팔로워 77만’ 셀럽 송수이, 티앤아이컬쳐스와 전속계약",
+		"newsSubTitle": "",
+		"newsContent": "배우 송수이가 티앤아이컬쳐스와 전속계약을 맺었다.\n티앤아이컬쳐스는 22일 “송수이를 새로운 식구로 맞이했다”고 밝혔다.\n이날 송수이는 “좋은 선배님과 동료들이 있는 소속사를 만나 기쁘다”며 “어떤 역할이든 최선을 다하는 초심을 잃지 않는 배우가 되겠다”고 소감을 밝혔다.\n송수이는 2016년 SBS 월화드라마 ‘닥터스’로 연기계에 발을 내디뎠다.\n이후 2019년 웹드라마 ‘끼인시대’, ‘연애혁명’으로 연기력을 펼쳤다.\nSNS에서는 팔로워 77만 명 이상의 셀럽으로 영향력을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송수이가 티앤아이컬쳐스와 전속계약을 맺었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "티앤아이컬쳐스는 22일 “송수이를 새로운 식구로 맞이했다”고 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 송수이는 “좋은 선배님과 동료들이 있는 소속사를 만나 기쁘다”며 “어떤 역할이든 최선을 다하는 초심을 잃지 않는 배우가 되겠다”고 소감을 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송수이는 2016년 SBS 월화드라마 ‘닥터스’로 연기계에 발을 내디뎠다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 2019년 웹드라마 ‘끼인시대’, ‘연애혁명’으로 연기력을 펼쳤다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SNS에서는 팔로워 77만 명 이상의 셀럽으로 영향력을 펼치고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘팔로워 77만’ 셀럽 송수이, 티앤아이컬쳐스와 전속계약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

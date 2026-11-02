@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285738",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[사진] \\\"뉴질랜드의 추억\\\" 소녀시대 태연, 숨겨놨던 사진 대방출",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 소녀시대 멤버 태연이 뉴질랜드에서 촬영한 사진들을 공개했다.\n태연은 20일 자신의 인스타그램에 \\\"뉴질랜드의 추억\\\"이라는 짤막한 설명과 함께 사진 한 장을 게재했다.\n공개된 사진 속 태연은 머리를 한쪽으로 땋아 내린 헤어스타일에 하늘하늘 거리는 소재의 옷을 매치해 소녀다운 매력을 뽐냈다.\n푸른 뉴질랜드 풍경과 어우러지며 평화로운 분위기를 자아내고 있다.\n이전에도 태연은 \\\"첫번째 미니앨범을 위해 뉴질랜드의 이곳 저곳을 다니며 예쁘고 멋진그림들 많이 담아왔다\\\"며 \\\"그곳에서 보고 느꼈던 것들 공개하겠다\\\"는 글과 함께 여러 장의 뉴질랜드 사진들을 공개했다.\n태연은 첫 솔로곡 '아이'로 컴백했다.\n태연은 컴백 첫 주부터 지상파 3사에서 1위를 차지해 그 위력을 과시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 소녀시대 멤버 태연이 뉴질랜드에서 촬영한 사진들을 공개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "태연은 20일 자신의 인스타그램에 \\\"뉴질랜드의 추억\\\"이라는 짤막한 설명과 함께 사진 한 장을 게재했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 태연은 머리를 한쪽으로 땋아 내린 헤어스타일에 하늘하늘 거리는 소재의 옷을 매치해 소녀다운 매력을 뽐냈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "푸른 뉴질랜드 풍경과 어우러지며 평화로운 분위기를 자아내고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이전에도 태연은 \\\"첫번째 미니앨범을 위해 뉴질랜드의 이곳 저곳을 다니며 예쁘고 멋진그림들 많이 담아왔다\\\"며 \\\"그곳에서 보고 느꼈던 것들 공개하겠다\\\"는 글과 함께 여러 장의 뉴질랜드 사진들을 공개했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "태연은 첫 솔로곡 '아이'로 컴백했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "태연은 컴백 첫 주부터 지상파 3사에서 1위를 차지해 그 위력을 과시했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[사진] \\\"뉴질랜드의 추억\\\" 소녀시대 태연, 숨겨놨던 사진 대방출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

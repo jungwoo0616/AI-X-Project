@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284581",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "하석진, 카이스트 윤소희와 주기율표 암기 대결… 승자는?",
+		"newsSubTitle": "",
+		"newsContent": "윤소희가 ‘문제적 남자’에 출연해 하석진과 주기율표 암기 대결을 펼쳤다.\n지난 1일 방송된 tvN ‘뇌섹시대-문제적 남자(이하 문제적 남자)’에서는 배우 윤소희가 게스트로 출연했다.\n이날 방송에서 MC들은 수학 영재원, 과학고 출신에 카이스트 재학 중이라는 윤소희가 원소 주기율표까지 외운다는 소리에 놀라워했다.\n이후 하석진은 윤소희와 암기 대결을 펼쳤고, 계속해서 정답을 맞춰내 모두를 감탄케 했다.\n두 뇌섹남녀의 대결은 하석진의 승리로 끝났고, 윤소희는 감탄사를 연발했다.\n한편, 윤소희는 이날 고등학교 성적표를 공개하기도 했다.\n윤소희의 성적표는 ‘텝스 1급’에 ‘수’로 가득했고, 전현무는 “인간성 제로의 성적표”라고 말했다.\n윤소희의 생활기록부는 독후감대회, 수학, 과학 분야의 수상 이력과 이과, 문과 고루 높았던 성적을 자랑했다.\n이에 윤소희는 \\\"아버지가 건축 설계를 하신다. 아버지의 그런 재능을 닮은 것 같다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "윤소희가 ‘문제적 남자’에 출연해 하석진과 주기율표 암기 대결을 펼쳤다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1일 방송된 tvN ‘뇌섹시대-문제적 남자(이하 문제적 남자)’에서는 배우 윤소희가 게스트로 출연했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 MC들은 수학 영재원, 과학고 출신에 카이스트 재학 중이라는 윤소희가 원소 주기율표까지 외운다는 소리에 놀라워했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 하석진은 윤소희와 암기 대결을 펼쳤고, 계속해서 정답을 맞춰내 모두를 감탄케 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 뇌섹남녀의 대결은 하석진의 승리로 끝났고, 윤소희는 감탄사를 연발했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 윤소희는 이날 고등학교 성적표를 공개하기도 했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윤소희의 성적표는 ‘텝스 1급’에 ‘수’로 가득했고, 전현무는 “인간성 제로의 성적표”라고 말했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "윤소희의 생활기록부는 독후감대회, 수학, 과학 분야의 수상 이력과 이과, 문과 고루 높았던 성적을 자랑했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 윤소희는 \\\"아버지가 건축 설계를 하신다. 아버지의 그런 재능을 닮은 것 같다\\\"고 밝혔다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하석진, 카이스트 윤소희와 주기율표 암기 대결… 승자는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

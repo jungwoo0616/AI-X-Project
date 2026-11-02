@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264979",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "에스테틱 브랜드 ‘볼라욘’, 배우 권나라와 전속 계약 체결",
+		"newsSubTitle": "",
+		"newsContent": "주식회사 볼라욘코리아(대표 조민상)는 에스테틱 브랜드 ‘볼라욘(volayon)’의 모델로 배우 권나라를 발탁하고 전속 계약을 체결했다. ‘볼라욘(volayon)’은 2017년 볼라욘 이노브 겔 제품을 국내에 첫 출시한 이래 국내 병원 및 피부 관리실 시장을 겨냥한 전문 에스테틱 제품으로 인지도를 쌓아온 에스테틱 전문 브랜드이다.\n또 ‘BIO SIENCE FORMULA’를 목표로 국내외 우수 에스테틱 전문 기술 연구진들의 건강한 피부 솔루션을 기반으로 제품을 연구 및 개발하고 있다.\n지난해에는 에스테틱 뷰티의 대중화를 선언하고 볼라욘씨엘(대표 윤대현)과 협업하여 소비자가 집에서 직접 할 수 있는 ‘private care’를 실현하고자 볼라욘 제품의 소비자 전용 라인을 출시한 바 있다.\n관계자는“결점없는 투명한 피부와 우아한 분위기의 이목구비가 돋보이는 대세 배우 권나라씨는 뷰티 전문가 전용 화장품이라는 볼라욘의 이미지와 부합하여 전속 모델로 발탁했다.\n전세계 더마코스메틱 시장에 K뷰티의 우수성을 알리고 품질력으로 승부할 예정이다.\n또 국내 에스테틱 고객들의 니즈를 반영한 소비자용 신제품 개발에 박차를 가할 계획이니 많은 관심을 바란다.“고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주식회사 볼라욘코리아(대표 조민상)는 에스테틱 브랜드 ‘볼라욘(volayon)’의 모델로 배우 권나라를 발탁하고 전속 계약을 체결했다. ‘볼라욘(volayon)’은 2017년 볼라욘 이노브 겔 제품을 국내에 첫 출시한 이래 국내 병원 및 피부 관리실 시장을 겨냥한 전문 에스테틱 제품으로 인지도를 쌓아온 에스테틱 전문 브랜드이다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "또 ‘BIO SIENCE FORMULA’를 목표로 국내외 우수 에스테틱 전문 기술 연구진들의 건강한 피부 솔루션을 기반으로 제품을 연구 및 개발하고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해에는 에스테틱 뷰티의 대중화를 선언하고 볼라욘씨엘(대표 윤대현)과 협업하여 소비자가 집에서 직접 할 수 있는 ‘private care’를 실현하고자 볼라욘 제품의 소비자 전용 라인을 출시한 바 있다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관계자는“결점없는 투명한 피부와 우아한 분위기의 이목구비가 돋보이는 대세 배우 권나라씨는 뷰티 전문가 전용 화장품이라는 볼라욘의 이미지와 부합하여 전속 모델로 발탁했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전세계 더마코스메틱 시장에 K뷰티의 우수성을 알리고 품질력으로 승부할 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 국내 에스테틱 고객들의 니즈를 반영한 소비자용 신제품 개발에 박차를 가할 계획이니 많은 관심을 바란다.“고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스테틱 브랜드 ‘볼라욘’, 배우 권나라와 전속 계약 체결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276917",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'벌써 두 아이 엄마' 선예 근황 공개…'숏컷'으로 강렬 변신",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 원더걸스 출신 선예(27)가 원더걸스 출신 예은(27)을 만난 사진을 공개했다.\n1일 선예는 자신의 인스타그램에 예은과의 인증샷을 올렸다.\n예은은 선예 딸 돌잔치에 참석한 것으로 보인다.\n선예는 \\\"바쁜 스케줄에도 엘리샤 돌잔치에 와줘서 고맙다\\\"며 예은에게 감사함을 전했다.\n선예는 그간 고수해오던 긴 머리를 자르고 짧은 머리로 변신해 눈길을 끌었다.\n예은은 최근 오래 몸담았던 JYP엔터테인먼트를 떠나 아메바컬쳐로 자리를 옮겼다.\n한편 선예는 2013년 1월 26일 5세 연상의 캐나다 교포 출신 선교사 제임스 박과 결혼했다.\n같은 해 10월 딸 박은유 양을 낳았고 지난해 2월 둘째 딸을 출산했다.\n2013년 결혼하면서 연예계 활동을 잠정 중단했으며 2015년 원더걸스에서 탈퇴했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 원더걸스 출신 선예(27)가 원더걸스 출신 예은(27)을 만난 사진을 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 선예는 자신의 인스타그램에 예은과의 인증샷을 올렸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예은은 선예 딸 돌잔치에 참석한 것으로 보인다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "선예는 \\\"바쁜 스케줄에도 엘리샤 돌잔치에 와줘서 고맙다\\\"며 예은에게 감사함을 전했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "선예는 그간 고수해오던 긴 머리를 자르고 짧은 머리로 변신해 눈길을 끌었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예은은 최근 오래 몸담았던 JYP엔터테인먼트를 떠나 아메바컬쳐로 자리를 옮겼다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 선예는 2013년 1월 26일 5세 연상의 캐나다 교포 출신 선교사 제임스 박과 결혼했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "같은 해 10월 딸 박은유 양을 낳았고 지난해 2월 둘째 딸을 출산했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2013년 결혼하면서 연예계 활동을 잠정 중단했으며 2015년 원더걸스에서 탈퇴했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'벌써 두 아이 엄마' 선예 근황 공개…'숏컷'으로 강렬 변신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

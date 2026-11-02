@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263174",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "하이라이트, ‘DAYDREAM’ 3종 피지컬 음반 발매",
+		"newsSubTitle": "",
+		"newsContent": "그룹 하이라이트가 피지컬 음반을 선보인다.\n8일 정오부터 국내외 각종 온라인 음반 판매 사이트를 통해 하이라이트의 첫 번째 정규앨범 ‘DAYDREAM (데이드림)’의 예약 판매가 시작된다. ‘DAYDREAM’의 피지컬 음반은 푸른 색의 ‘BEFORE THE DREAM (비포 더 드림)’, 베이지 색의 ‘IN THE DREAM (인 더 드림)’, 분홍 색의 ‘AFTER THE DREAM (애프터 더 드림)’ 등 총 3종으로 발매된다.\n하이라이트가 5년 만에 발매하는 첫 번째 정규앨범 ‘DAYDREAM’은 윤두준, 양요섭, 이기광, 손동운 네 멤버의 성숙한 감성과 음악 세계를 담아낸 앨범이다.\n앞선 트레일러 영상 속 성냥에 불을 붙이면서 새로운 꿈의 포문을 열어 기대감을 높였다.\n트레일러에 이어 하이라이트는 ‘BEFORE THE DREAM’, ‘IN THE DREAM’, ‘AFTER THE DREAM’ 등 버전별 콘셉트 포토를 순차적으로 공개할 예정이다.\n이를 통해 컴백 열기를 더할 전망이다.\n하이라이트의 첫 번째 정규앨범 ‘DAYDREAM’은 오는 21일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 하이라이트가 피지컬 음반을 선보인다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 정오부터 국내외 각종 온라인 음반 판매 사이트를 통해 하이라이트의 첫 번째 정규앨범 ‘DAYDREAM (데이드림)’의 예약 판매가 시작된다. ‘DAYDREAM’의 피지컬 음반은 푸른 색의 ‘BEFORE THE DREAM (비포 더 드림)’, 베이지 색의 ‘IN THE DREAM (인 더 드림)’, 분홍 색의 ‘AFTER THE DREAM (애프터 더 드림)’ 등 총 3종으로 발매된다.",
+				"sentenceSize": 219
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하이라이트가 5년 만에 발매하는 첫 번째 정규앨범 ‘DAYDREAM’은 윤두준, 양요섭, 이기광, 손동운 네 멤버의 성숙한 감성과 음악 세계를 담아낸 앨범이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞선 트레일러 영상 속 성냥에 불을 붙이면서 새로운 꿈의 포문을 열어 기대감을 높였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트레일러에 이어 하이라이트는 ‘BEFORE THE DREAM’, ‘IN THE DREAM’, ‘AFTER THE DREAM’ 등 버전별 콘셉트 포토를 순차적으로 공개할 예정이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 통해 컴백 열기를 더할 전망이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하이라이트의 첫 번째 정규앨범 ‘DAYDREAM’은 오는 21일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하이라이트, ‘DAYDREAM’ 3종 피지컬 음반 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

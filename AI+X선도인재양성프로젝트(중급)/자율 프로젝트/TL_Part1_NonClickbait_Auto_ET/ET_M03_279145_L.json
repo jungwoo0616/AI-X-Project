@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279145",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "금사월 윤현민, 여심 저격 로맨틱 프러포즈 \\\"널 만난 이유가 뭔지 알아?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'내 딸 금사월' 윤현민이 백진희에게 청혼했다.\n지난 24일 오후 방송된 MBC 주말드라마 '내 딸 금사월'에서는 강찬빈(윤현민)이 금사월(백진희)에게 프러포즈를 하는 모습이 그려졌다.\n이날 강찬빈은 사월이 등장하자 직접 노래를 하며 달콤한 분위기를 조성했다.\n이어 금사월에게 다가가 \\\"내가 이 수많은 사람들 가운데서 널 만난 이유가 뭔지 알아? 바로 내가 널 사랑하려고 태어났기 때문이야. 같은 해 같은 날 우리 태어났잖아\\\"라며 \\\"사랑하게 해줘서 고마워. 평생 너만 보고 갈게\\\"라고 고백했다.\n이에 금사월은 \\\"평생. 우리 오늘처럼만 사랑하고 행복하게 살자\\\"면서 \\\"보육원 무너지고, 나만 살아남은 게 늘 미안하고 괴로웠는데, 찬빈 씨랑 함께라면 잘 살 수 있을 것 같아. 나한테 와줘서 고마워\\\"라고 말했다.\n이후 강찬빈은 무릎을 꿇고 금사월의 손가락에 반지를 끼웠고, 이후 두 사람은 키스를 하며 사랑을 확인했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'내 딸 금사월' 윤현민이 백진희에게 청혼했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 24일 오후 방송된 MBC 주말드라마 '내 딸 금사월'에서는 강찬빈(윤현민)이 금사월(백진희)에게 프러포즈를 하는 모습이 그려졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 강찬빈은 사월이 등장하자 직접 노래를 하며 달콤한 분위기를 조성했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 금사월에게 다가가 \\\"내가 이 수많은 사람들 가운데서 널 만난 이유가 뭔지 알아? 바로 내가 널 사랑하려고 태어났기 때문이야. 같은 해 같은 날 우리 태어났잖아\\\"라며 \\\"사랑하게 해줘서 고마워. 평생 너만 보고 갈게\\\"라고 고백했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 금사월은 \\\"평생. 우리 오늘처럼만 사랑하고 행복하게 살자\\\"면서 \\\"보육원 무너지고, 나만 살아남은 게 늘 미안하고 괴로웠는데, 찬빈 씨랑 함께라면 잘 살 수 있을 것 같아. 나한테 와줘서 고마워\\\"라고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 강찬빈은 무릎을 꿇고 금사월의 손가락에 반지를 끼웠고, 이후 두 사람은 키스를 하며 사랑을 확인했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금사월 윤현민, 여심 저격 로맨틱 프러포즈 \\\"널 만난 이유가 뭔지 알아?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262849",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘20번’ 이동국, 20대 대통령 선거 투표 인증",
+		"newsSubTitle": "",
+		"newsContent": "전 축구선수 이동국이 투표를 완료했다.\n이동국은 4일 자신의 사회관계망서비스(SNS)에 제20대 대통령선거 투표를 인증했다.\n이동국은 “현역시절 제 등번호가 20번이었는데 제20대 대통령 선거 사전투표 완료하고 왔습니다. 국민의 권리를 행사하세요”라는 글과 함께 사진을 게재했다.\n공개된 사진에서 이동국은 손에 선거 도장을 찍고 투표소 앞에서 포즈를 취했다.\n이동국은 프로 축구 선수로 활동할 당시 등번호로 20번을 즐겨 달았다.\n포항 스틸러스, 전북 현대, 한국 대표팀에서 20번을 달았고, 전북 현대에서는 그의 등번호 20번이 영구결번됐다.\n한편 이동국은 JTBC ‘뭉쳐야 찬다2’, 채널A ‘슈퍼 DNA 피는 못 속여’ 등에 출연하며 활발한 방송 활동을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 축구선수 이동국이 투표를 완료했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이동국은 4일 자신의 사회관계망서비스(SNS)에 제20대 대통령선거 투표를 인증했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이동국은 “현역시절 제 등번호가 20번이었는데 제20대 대통령 선거 사전투표 완료하고 왔습니다. 국민의 권리를 행사하세요”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에서 이동국은 손에 선거 도장을 찍고 투표소 앞에서 포즈를 취했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이동국은 프로 축구 선수로 활동할 당시 등번호로 20번을 즐겨 달았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "포항 스틸러스, 전북 현대, 한국 대표팀에서 20번을 달았고, 전북 현대에서는 그의 등번호 20번이 영구결번됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이동국은 JTBC ‘뭉쳐야 찬다2’, 채널A ‘슈퍼 DNA 피는 못 속여’ 등에 출연하며 활발한 방송 활동을 이어가고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘20번’ 이동국, 20대 대통령 선거 투표 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

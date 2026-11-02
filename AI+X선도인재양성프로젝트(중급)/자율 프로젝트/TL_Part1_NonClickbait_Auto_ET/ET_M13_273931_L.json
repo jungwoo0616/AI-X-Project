@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273931",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 자연 즐기는 모습에 편집자도 심쿵",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 아이유의 자연을 즐기는 영상이 공개된 가운데, 자막에서 편집자의 팬심이 느껴졌다.\n24일 한 아웃도어 브랜드가 아이유의 광고 촬영 현장 비하인드와 싱그러운 매력을 담은 메이킹 필름을 공개했다.\n아이유는 영상 속에서 갑자기 페트병을 집어 들며 나온다.\n페트병을 줍고, 잘게 부수는 기계에 넣으며 자연을 지키고 즐기는 모습을 자연스럽게 담겼다.\n이어 아이유는 쏟아지는 햇살 아래 눈부시게 싱그러운 모습으로 등장하는 아이유가 시선을 사로잡는다.\n다양한 포즈와 표정으로 자연과 한 몸이 된 듯한 완벽한 호흡을 과시하며 아이유는 현장 스탭들의 감탄을 자아냈다는 후문이다.\n아이유의 기분과 행동, 그리고 편집자의 속마음을 담아낸 예능 감성의 자막도 눈길을 끈다.\n특히, ‘심쿵 구간’, ‘아이유라서 다 좋다’ 등 아이유를 향한 편집자의 팬심이 가감 없이 자막으로 표현됐다.\n한편 아이유는 지난 8일에 개봉한 영화 ‘브로커’를 통해 첫 상업영화 주연을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 아이유의 자연을 즐기는 영상이 공개된 가운데, 자막에서 편집자의 팬심이 느껴졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 한 아웃도어 브랜드가 아이유의 광고 촬영 현장 비하인드와 싱그러운 매력을 담은 메이킹 필름을 공개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이유는 영상 속에서 갑자기 페트병을 집어 들며 나온다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "페트병을 줍고, 잘게 부수는 기계에 넣으며 자연을 지키고 즐기는 모습을 자연스럽게 담겼다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 아이유는 쏟아지는 햇살 아래 눈부시게 싱그러운 모습으로 등장하는 아이유가 시선을 사로잡는다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다양한 포즈와 표정으로 자연과 한 몸이 된 듯한 완벽한 호흡을 과시하며 아이유는 현장 스탭들의 감탄을 자아냈다는 후문이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이유의 기분과 행동, 그리고 편집자의 속마음을 담아낸 예능 감성의 자막도 눈길을 끈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히, ‘심쿵 구간’, ‘아이유라서 다 좋다’ 등 아이유를 향한 편집자의 팬심이 가감 없이 자막으로 표현됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 아이유는 지난 8일에 개봉한 영화 ‘브로커’를 통해 첫 상업영화 주연을 맡았다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 자연 즐기는 모습에 편집자도 심쿵",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

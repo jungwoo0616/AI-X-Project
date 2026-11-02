@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169450",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이민정, 자가격리 중 황대헌 금메달 축하 \\\"감동적입니다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 이민정이 2022 베이징 겨울올림픽 쇼트트랙 남자 1500m에서 금메달을 딴 황대헌에게 축하의 말을 전했다.\n이민정은 9일 인스타그램에 \\\"#금메달 #쇼트트랙 #황대헌 감동적입니다\\\"라는 글과 함께 TV 중계 화면을 촬영한 사진을 게재했다.\n황대헌은 이날 쇼트트랙 남자 1500m 결승에서 금메달을 획득했다.\n한국 선수단의 첫 금메달이다.\n한편 이민정은 이날 남편인 배우 이병헌과 코로나19 확진 판정을 받았다.\n소속사 엠에스팀엔터테인먼트에 따르면 이민정은 이병헌의 확진으로 밀접 접촉자로 분류돼 자가 격리 중 확정 판정을 받았다.\n이병헌은 백신 접종 3차까지 마쳤으나 코로나에 확진됐다.\n이병헌이 확진되면서 그가 출연하는 tvN 드라마 '우리들의 블루스'는 촬영을 중단했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이민정이 2022 베이징 겨울올림픽 쇼트트랙 남자 1500m에서 금메달을 딴 황대헌에게 축하의 말을 전했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이민정은 9일 인스타그램에 \\\"#금메달 #쇼트트랙 #황대헌 감동적입니다\\\"라는 글과 함께 TV 중계 화면을 촬영한 사진을 게재했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "황대헌은 이날 쇼트트랙 남자 1500m 결승에서 금메달을 획득했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한국 선수단의 첫 금메달이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이민정은 이날 남편인 배우 이병헌과 코로나19 확진 판정을 받았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사 엠에스팀엔터테인먼트에 따르면 이민정은 이병헌의 확진으로 밀접 접촉자로 분류돼 자가 격리 중 확정 판정을 받았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이병헌은 백신 접종 3차까지 마쳤으나 코로나에 확진됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이병헌이 확진되면서 그가 출연하는 tvN 드라마 '우리들의 블루스'는 촬영을 중단했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이민정, 남편 놔두고 쇼트트랙 선수 사진 게재",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

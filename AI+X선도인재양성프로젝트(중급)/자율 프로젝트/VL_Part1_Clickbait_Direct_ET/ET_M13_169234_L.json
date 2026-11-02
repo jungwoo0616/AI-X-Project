@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169234",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘조선판스타’ 뮤르, 올스타에 운명 걸렸다",
+    "newsSubTitle": "",
+    "newsContent": "‘세 번째 판-싹쓰리 판’의 대결이 마무리된다.\n10월 2일(토) 방송될 대한민국 최초의 퓨전 국악 서바이벌 오디션 MBN ‘조선판스타’에서는 시대를 대표하는 ‘같은 가수, 다른 곡’으로 두 팀씩 외나무다리 대결을 펼치는 ‘세 번째 판-싹쓰리 판’이 마무리될 예정이다.\n네 번째 판에 진출하기 위한 열정 폭발 무대 열전에 판정단 이봉근은 “또 찢었다”고, 신영희는 “싹쓰리 제대로 했네...”라고 혀를 내둘렀다.\n그런 가운데, ‘국민 걸그룹’으로 사랑받은 원더걸스의 명곡 ‘SO HOT’을 국악과 재즈의 느낌으로 버무린 팀 ‘뮤르’의 운명이 관심을 모은다.\n지난 회에서 ‘뮤르’는 화려한 모듬북 퍼포먼스와 남다른 카리스마로 현장을 ‘싹쓰리’ 했고, 판정단 안예은으로부터 앙코르 요청과 기립박수까지 이끌어낸 바 있다.\n하지만 ‘세 번째 판’의 경쟁자 김하은이 이미 ‘올스타’를 받아, 뮤르 역시 ‘올스타’를 이루지 못하면 탈락할 운명에 처해 있다.\n국악이 된 원더걸스의 ‘SO HOT’이 과연 판정단의 마음을 전부 움직일 수 있을지는 10월 2일 토요일 밤 9시 40분 MBN에서 방송되는‘조선판스타’에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘세 번째 판-싹쓰리 판’의 대결이 마무리된다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10월 2일(토) 방송될 대한민국 최초의 퓨전 국악 서바이벌 오디션 MBN ‘조선판스타’에서는 시대를 대표하는 ‘같은 가수, 다른 곡’으로 두 팀씩 외나무다리 대결을 펼치는 ‘세 번째 판-싹쓰리 판’이 마무리될 예정이다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "네 번째 판에 진출하기 위한 열정 폭발 무대 열전에 판정단 이봉근은 “또 찢었다”고, 신영희는 “싹쓰리 제대로 했네...”라고 혀를 내둘렀다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런 가운데, ‘국민 걸그룹’으로 사랑받은 원더걸스의 명곡 ‘SO HOT’을 국악과 재즈의 느낌으로 버무린 팀 ‘뮤르’의 운명이 관심을 모은다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 회에서 ‘뮤르’는 화려한 모듬북 퍼포먼스와 남다른 카리스마로 현장을 ‘싹쓰리’ 했고, 판정단 안예은으로부터 앙코르 요청과 기립박수까지 이끌어낸 바 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 ‘세 번째 판’의 경쟁자 김하은이 이미 ‘올스타’를 받아, 뮤르 역시 ‘올스타’를 이루지 못하면 탈락할 운명에 처해 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국악이 된 원더걸스의 ‘SO HOT’이 과연 판정단의 마음을 전부 움직일 수 있을지는 10월 2일 토요일 밤 9시 40분 MBN에서 방송되는‘조선판스타’에서 공개된다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무대 진짜 찢어버린 ‘조선판스타' 대결... 충격적",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

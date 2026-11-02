@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167061",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최지우 “대기중 시고르 경양식”",
+    "newsSubTitle": "",
+    "newsContent": "배우 최지우가 귀여운 포즈로 근황을 알렸다.\n최지우는 19일 자신의 SNS에 “대기중 시고르 경양식”이라는 글과 함께 사진들을 올렸다.\n최지우는 촬영 중 살짝 열린 문틈 사이로 포즈를 취하고 있다.\n최지우는 오는 25일 첫 방송되는 tvN 예능프로그램 ‘시고르 경양식’에 출연할 예정이다.\n그의 출산 후 첫 컴백 활동인 예능 프로그램에 팬들 관심이 쏠리고 있다.\n최지우는 2018년 9살 연하 비연예인과 결혼 후 지난해 5월 딸을 출산했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 최지우가 귀여운 포즈로 근황을 알렸다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최지우는 19일 자신의 SNS에 “대기중 시고르 경양식”이라는 글과 함께 사진들을 올렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최지우는 촬영 중 살짝 열린 문틈 사이로 포즈를 취하고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최지우는 오는 25일 첫 방송되는 tvN 예능프로그램 ‘시고르 경양식’에 출연할 예정이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그의 출산 후 첫 컴백 활동인 예능 프로그램에 팬들 관심이 쏠리고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최지우는 2018년 9살 연하 비연예인과 결혼 후 지난해 5월 딸을 출산했다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 최지우, 촬영 대기중에는 무엇을 하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

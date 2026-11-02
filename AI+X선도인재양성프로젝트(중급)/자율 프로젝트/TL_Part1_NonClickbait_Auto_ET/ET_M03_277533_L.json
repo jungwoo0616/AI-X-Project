@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277533",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"어려서 잘 몰라\\\" 초아가 설현 발언에 반박한 사연",
+		"newsSubTitle": "",
+		"newsContent": "AOA 초아가 설현이 밝힌 수익 분배에 대해 이견을 보였다.\n12일 SBS 파워 FM '배성재의텐' 다음팟 방송에 AOA 초아와 민아가 출연했다.\n이날 초아는 신곡 '익스큐즈미'에 대해 소개하던 중 앞서 설현이 한 방송에서 나와 밝힌 수익분배구조를 정정했다.\n초아는 \\\"설현씨랑 완전히 다 나눠서 수입을 배분한다고 했는데 그런게 아니다\\\" \\\"설현씨한테 물어보니까 아직 어려서 내용을 잘 모르고 있더라\\\"라고 말했다.\n그러면서 \\\"설현씨가 고생했는데 똑같이 나누면 안되죠\\\"라고 밝혔다.\n초아는 자세한 내용에 대해선 계약 내용이라며 함구했다.\n앞서 JTBC 냉장고를부탁해에 출연한 설현은 자신의 벌어들인 수익도 멤버들과 다 같이 1/n으로 나눈다고 공개했다.\n설현은 멤버 중 독보적으로 솔로활동이 많기 때문에 일부 네티즌들은 \\\"부당하다\\\"란 의견을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AOA 초아가 설현이 밝힌 수익 분배에 대해 이견을 보였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 SBS 파워 FM '배성재의텐' 다음팟 방송에 AOA 초아와 민아가 출연했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 초아는 신곡 '익스큐즈미'에 대해 소개하던 중 앞서 설현이 한 방송에서 나와 밝힌 수익분배구조를 정정했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "초아는 \\\"설현씨랑 완전히 다 나눠서 수입을 배분한다고 했는데 그런게 아니다\\\" \\\"설현씨한테 물어보니까 아직 어려서 내용을 잘 모르고 있더라\\\"라고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 \\\"설현씨가 고생했는데 똑같이 나누면 안되죠\\\"라고 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "초아는 자세한 내용에 대해선 계약 내용이라며 함구했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 JTBC 냉장고를부탁해에 출연한 설현은 자신의 벌어들인 수익도 멤버들과 다 같이 1/n으로 나눈다고 공개했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "설현은 멤버 중 독보적으로 솔로활동이 많기 때문에 일부 네티즌들은 \\\"부당하다\\\"란 의견을 보였다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"어려서 잘 몰라\\\" 초아가 설현 발언에 반박한 사연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

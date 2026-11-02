@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276279",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "콘서트 참석한 뒤 EXID 정화가 아이유에게 남긴 메시지",
+		"newsSubTitle": "",
+		"newsContent": "EXID 정화가 SNS를 통해 아이유에게 짧은 메시지를 남겼다.\n11일 EXID 정화는 자신의 인스타그램에 \\\"평생 마음속에 간직할, 소중한 기억으로 남을, 행복한 시간이었다\\\"라며 아이유와 같이 찍은 사진을 게시했다.\n이어 \\\"앞으로도 오래오래 감사하고, 사랑할게요! 아이유 선배님\\\"이라며 짧게 아이유에게 메시지도 남겼다.\n사진 속 아이유가 입고 있는 옷은 절친 유인나가 선물해준 것으로 알려져 훈훈함을 더했다.\n아이유는 지난 9일과 10일 이틀 연속으로 서울에서 '팔레트' 전국투어의 마지막 콘서트를 진행했다.\n10일 서울 마지막 콘서트에는 배우 박보검과 이준기 등 내로라하는 스타들이 총출동해 눈길을 끌었다.\n지난 9일 콘서트에는 송송커플이 콘서트에 참석해 화제를 모았다.\n정화도 아이유 콘서트를 찾은 뒤 같이 사진을 찍은 것으로 보인다.\n송혜교는 자신의 인스타그램에 아이유 콘서트 당시 사진을 올리기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "EXID 정화가 SNS를 통해 아이유에게 짧은 메시지를 남겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 EXID 정화는 자신의 인스타그램에 \\\"평생 마음속에 간직할, 소중한 기억으로 남을, 행복한 시간이었다\\\"라며 아이유와 같이 찍은 사진을 게시했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"앞으로도 오래오래 감사하고, 사랑할게요! 아이유 선배님\\\"이라며 짧게 아이유에게 메시지도 남겼다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 아이유가 입고 있는 옷은 절친 유인나가 선물해준 것으로 알려져 훈훈함을 더했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이유는 지난 9일과 10일 이틀 연속으로 서울에서 '팔레트' 전국투어의 마지막 콘서트를 진행했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "10일 서울 마지막 콘서트에는 배우 박보검과 이준기 등 내로라하는 스타들이 총출동해 눈길을 끌었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 9일 콘서트에는 송송커플이 콘서트에 참석해 화제를 모았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정화도 아이유 콘서트를 찾은 뒤 같이 사진을 찍은 것으로 보인다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "송혜교는 자신의 인스타그램에 아이유 콘서트 당시 사진을 올리기도 했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "콘서트 참석한 뒤 EXID 정화가 아이유에게 남긴 메시지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276629",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘불청’ 임성은에게 “보라카이 말로 ‘맛있게 먹겠습니다가 뭐예요’라고 묻자…",
+		"newsSubTitle": "",
+		"newsContent": "가수 임성은이 SBS 예능프로그램 ‘불타는 청춘(불청)’에 출연해 보라카이 사업 근황을 전했다.\n임성은은 5일 방송된 ‘불청’을 통해 필리핀 보라카이에서 대형 스파와 리조트를 운영한다는 소식을 소개했다.\n임성은은 필리핀에서 만난 전 남편과 결혼 10년 만인 지난 2016년 이혼했다.\n1996년 영턱스클럽 1집 앨범 '정'으로 데뷔한 임성은은 결혼과 함께 2006년 필리핀 보라카이에서 새로운 삶을 시작했다.\n임성은은 “(필리핀으로) 여행을 갔는데 전 남편을 만났다”며 당싱 상황을 전했다.\n이날 방송에서 다른 멤버들이 “보라카이 말로 ‘맛있게 먹겠습니다’가 뭐예요”라고 묻자 “마사랍 잇”이라고 대답했다.\n또 “한국에 엄마 보러 한 두 달에 한 번 온다. 한 번 오면 한 달 간 머무른다”며 근황을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임성은이 SBS 예능프로그램 ‘불타는 청춘(불청)’에 출연해 보라카이 사업 근황을 전했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임성은은 5일 방송된 ‘불청’을 통해 필리핀 보라카이에서 대형 스파와 리조트를 운영한다는 소식을 소개했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임성은은 필리핀에서 만난 전 남편과 결혼 10년 만인 지난 2016년 이혼했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1996년 영턱스클럽 1집 앨범 '정'으로 데뷔한 임성은은 결혼과 함께 2006년 필리핀 보라카이에서 새로운 삶을 시작했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임성은은 “(필리핀으로) 여행을 갔는데 전 남편을 만났다”며 당싱 상황을 전했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 방송에서 다른 멤버들이 “보라카이 말로 ‘맛있게 먹겠습니다’가 뭐예요”라고 묻자 “마사랍 잇”이라고 대답했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 “한국에 엄마 보러 한 두 달에 한 번 온다. 한 번 오면 한 달 간 머무른다”며 근황을 전했다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘불청’ 임성은에게 “보라카이 말로 ‘맛있게 먹겠습니다가 뭐예요’라고 묻자…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

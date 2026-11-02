@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170211",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최준희, 탈색한 머리가 맘에 들었나? “내 마음속에 안착”",
+    "newsSubTitle": "",
+    "newsContent": "최근 배우로의 길을 걷게 된 최준희가 근황을 전했다.\n22일 최준희는 자신의 사회 관계망 서비스(SNS)에 사진 한 장을 공개했다.\n덧붙여 “당신 안 착하시네요. 진짜. 내 마음속에 안착”이라는 글을 남겼다.\n사진 속에는 금발로 탈색한 최준희가 카메라를 응시하며 미소짓고 있는 모습이 담겼다.\n금발에 잘 어울리는 하얀 피부에 또렷한 최준희의 이목구비가 눈에 띈다.\n또 옅은 분홍빛 볼 터치가 그의 매력을 배로 만들었다.\n사진을 접한 누리꾼들은 “머리 탈색한 게 찰떡이에요”, “진짜 매력 + 이쁨 + 귀여움 사기캐네요” 등의 반응을 남겼다.\n한편 최준희는 지난 8일 와이블룸과 전속 계약을 맺은 뒤 향후 연예계 활동을 예고했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 배우로의 길을 걷게 된 최준희가 근황을 전했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 최준희는 자신의 사회 관계망 서비스(SNS)에 사진 한 장을 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "덧붙여 “당신 안 착하시네요. 진짜. 내 마음속에 안착”이라는 글을 남겼다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속에는 금발로 탈색한 최준희가 카메라를 응시하며 미소짓고 있는 모습이 담겼다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "금발에 잘 어울리는 하얀 피부에 또렷한 최준희의 이목구비가 눈에 띈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 옅은 분홍빛 볼 터치가 그의 매력을 배로 만들었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사진을 접한 누리꾼들은 “머리 탈색한 게 찰떡이에요”, “진짜 매력 + 이쁨 + 귀여움 사기캐네요” 등의 반응을 남겼다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 최준희는 지난 8일 와이블룸과 전속 계약을 맺은 뒤 향후 연예계 활동을 예고했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "귀여움 대폭발, 배우 최준희의 감당 못 할 매력",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

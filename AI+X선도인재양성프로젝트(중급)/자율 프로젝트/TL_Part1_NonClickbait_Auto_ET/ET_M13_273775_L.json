@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273775",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최윤영, 대세 손석구 커피차 선물 인증",
+		"newsSubTitle": "",
+		"newsContent": "배우 최윤영이 ‘대세’ 손석구의 커피차 선물을 인증했다.\n최윤영은 21일 자신의 사회관계망서비스(SNS)에 “내 친구 구씨 고마워요”라는 글과 함께 사진을 공개했다.\n공개한 사진에서 최윤영은 동료 손석구가 보낸 커피차 앞에서 두 팔을 번쩍 들어 포즈를 취했다.\n손석구는 최윤영이 출연 중인 SBS ‘골 때리는 그녀들’에 커피차를 보니며 동료를 응원했다.\n한편 손석구는 브라운관과 스크린을 넘나들며 대세 배우로 자리 잡았다.\n드라마에서는 ‘나의 해방일지’의 ‘구 씨’, 영화 ‘범죄도시2’에서는 ‘강해상’ 역으로 최고의 주가를 달리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최윤영이 ‘대세’ 손석구의 커피차 선물을 인증했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최윤영은 21일 자신의 사회관계망서비스(SNS)에 “내 친구 구씨 고마워요”라는 글과 함께 사진을 공개했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 최윤영은 동료 손석구가 보낸 커피차 앞에서 두 팔을 번쩍 들어 포즈를 취했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손석구는 최윤영이 출연 중인 SBS ‘골 때리는 그녀들’에 커피차를 보니며 동료를 응원했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 손석구는 브라운관과 스크린을 넘나들며 대세 배우로 자리 잡았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "드라마에서는 ‘나의 해방일지’의 ‘구 씨’, 영화 ‘범죄도시2’에서는 ‘강해상’ 역으로 최고의 주가를 달리고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최윤영, 대세 손석구 커피차 선물 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

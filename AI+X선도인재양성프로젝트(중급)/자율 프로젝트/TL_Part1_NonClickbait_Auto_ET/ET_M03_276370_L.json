@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276370",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "수십년째 '잃어버린 친딸' 찾고 있는 한국 드라마",
+		"newsSubTitle": "",
+		"newsContent": "한국 특유의 '막장 드라마' 속 클리셰가 비판받고 있다.\n최근 온라인 커뮤니티를 중심으로 한국 드라마의 고질적이고 반복되는 설정 문제에 대한 비판이 제기되고 있다.\n게시글은 \\\"잃어버린 친딸을 찾고 있음\\\"이라는 캡션과 함께 \\\"얘가 그 친딸\\\"이라고 쓴 여러 장의 드라마 속 장면 캡처 사진을 나열했다.\n게시글은 SBS, KBS, MBC 등 공중파 3사의 드라마를 모두 다뤘다.\n사진 속에서 눈앞에 잃어버린 친딸을 두고도 알아보지 못하는 어머니라는 한국 일일 드라마의 전형적인 장면들이 소개됐다.\n심지어 친딸과 친엄마는 서로를 알아보지 못하고 대립각을 세우기도 한다.\n이러한 드라마들은 소위 \\\"막장 드라마\\\"라는 범주로 묶여 불리며 출생의 비밀, 갑작스러운 죽음, 재벌가의 재산 다툼 등 비슷한 소재를 다루는 것으로 인식되어왔다.\n동시에 높은 시청률을 기록하기도 해 시청자들의 입에 자주 오르내리고는 한다.\n한편 소식을 접한 네티즌들은 \\\"이미 무슨 내용일지 결말도 뻔하지만 재밌다\\\" \\\"대한민국 3대 질병에 기억상실도 추가해야 한다\\\" \\\"이제는 이런 내용의 드라마 좀 그만 보고 싶다\\\" 등 다양한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국 특유의 '막장 드라마' 속 클리셰가 비판받고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티를 중심으로 한국 드라마의 고질적이고 반복되는 설정 문제에 대한 비판이 제기되고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시글은 \\\"잃어버린 친딸을 찾고 있음\\\"이라는 캡션과 함께 \\\"얘가 그 친딸\\\"이라고 쓴 여러 장의 드라마 속 장면 캡처 사진을 나열했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "게시글은 SBS, KBS, MBC 등 공중파 3사의 드라마를 모두 다뤘다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속에서 눈앞에 잃어버린 친딸을 두고도 알아보지 못하는 어머니라는 한국 일일 드라마의 전형적인 장면들이 소개됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "심지어 친딸과 친엄마는 서로를 알아보지 못하고 대립각을 세우기도 한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이러한 드라마들은 소위 \\\"막장 드라마\\\"라는 범주로 묶여 불리며 출생의 비밀, 갑작스러운 죽음, 재벌가의 재산 다툼 등 비슷한 소재를 다루는 것으로 인식되어왔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "동시에 높은 시청률을 기록하기도 해 시청자들의 입에 자주 오르내리고는 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 소식을 접한 네티즌들은 \\\"이미 무슨 내용일지 결말도 뻔하지만 재밌다\\\" \\\"대한민국 3대 질병에 기억상실도 추가해야 한다\\\" \\\"이제는 이런 내용의 드라마 좀 그만 보고 싶다\\\" 등 다양한 반응을 보였다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수십년째 '잃어버린 친딸' 찾고 있는 한국 드라마",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

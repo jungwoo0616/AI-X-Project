@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274210",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영탁, 첫 콘서트 ‘피켓팅’ 전쟁 예고",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁이 첫 단독 콘서트를 예고하면서 치열한 티켓팅을 예고했다.\n영탁 소속사 밀라그로에 따르면 영탁은 오는 7월 29일부터 30일, 31일까지 총 3일간 올림픽체초경기장에서 열리는 서울 공연 티켓 예매를 28일 오후 8시부터 인터파크에서 진행한다.\n이번 콘서트는 영탁의 데뷔 17주년을 기념하는 공연으로 다채로운 볼거리를 제공해 팬들을 찾는다는 계획이다.\n다양한 장르의 곡, 섬세한 무대 구성, 재치 넘치는 예능감으로 무장해 관객들과 소통하겠다는 야망도 드러냈다.\n이번 서울 공연을 시작으로 인천, 대구, 대전, 창원, 부산, 전주, 안동 등 주요 도시를 방문하며 전국의 팬들과 만난다.\n소속사는 “치열한 ‘예매 전쟁’이 예상되는 가운데 오는 7월 4일 오후 6시 첫 정규 앨범 ‘MMM’ 발매도 앞두고 있어 뜨거운 반응이 기대된다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁이 첫 단독 콘서트를 예고하면서 치열한 티켓팅을 예고했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영탁 소속사 밀라그로에 따르면 영탁은 오는 7월 29일부터 30일, 31일까지 총 3일간 올림픽체초경기장에서 열리는 서울 공연 티켓 예매를 28일 오후 8시부터 인터파크에서 진행한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 콘서트는 영탁의 데뷔 17주년을 기념하는 공연으로 다채로운 볼거리를 제공해 팬들을 찾는다는 계획이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다양한 장르의 곡, 섬세한 무대 구성, 재치 넘치는 예능감으로 무장해 관객들과 소통하겠다는 야망도 드러냈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 서울 공연을 시작으로 인천, 대구, 대전, 창원, 부산, 전주, 안동 등 주요 도시를 방문하며 전국의 팬들과 만난다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사는 “치열한 ‘예매 전쟁’이 예상되는 가운데 오는 7월 4일 오후 6시 첫 정규 앨범 ‘MMM’ 발매도 앞두고 있어 뜨거운 반응이 기대된다”고 설명했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁, 첫 콘서트 ‘피켓팅’ 전쟁 예고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

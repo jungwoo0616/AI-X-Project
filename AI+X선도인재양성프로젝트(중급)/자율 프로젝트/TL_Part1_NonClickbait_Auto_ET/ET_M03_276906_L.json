@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276906",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김흥국 \\\"술 자리서 송중기 만취…아빠한테 업혀갔다\\\" 폭로",
+		"newsSubTitle": "",
+		"newsContent": "김흥국이 MBC에브리원 '비디오스타'에서 김수현, 송중기와의 술자리 에피소드를 밝혔다.\n2일 오후 방송되는 MBC에브리원 '비디오스타'에는 김흥국, 이봉원, 윤용준, 김민규, 오승환이 함께 출연한다.\n최근 진행된 녹화에서 김흥국은 배우 김수현, 송중기의 아버지와 절친한 사이임을 밝히며 \\\"송중기와 술자리를 한 적이 있다\\\"고 말했다.\n김흥국은 시종일관 예의 바른 태도를 유지하던 송중기가 만취 후 아버지에게 업혀 갔다는 폭탄 발언으로 모두를 놀라게 했다.\n김흥국은 송중기를 향해 \\\"그렇게 순진하고 착할 수가 없다\\\"며 칭찬을 늘어놨다.\n또 김흥국은 \\\"김수현은 연예인 축구단에 아버지 따라서 항상 나왔다. 수현이 축구는 내가 가르쳤다\\\"라며 김수현과의 깊은 인연을 언급했다.\n이어 김흥국은 \\\"술 한번 먹자. 연락 좀 해라\\\"라며 김수현에게 애정이 담긴 영상편지를 전했다는 후문이다.\n한편 '비디오스타'는 2일 오후 8시 30분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김흥국이 MBC에브리원 '비디오스타'에서 김수현, 송중기와의 술자리 에피소드를 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 오후 방송되는 MBC에브리원 '비디오스타'에는 김흥국, 이봉원, 윤용준, 김민규, 오승환이 함께 출연한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 진행된 녹화에서 김흥국은 배우 김수현, 송중기의 아버지와 절친한 사이임을 밝히며 \\\"송중기와 술자리를 한 적이 있다\\\"고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김흥국은 시종일관 예의 바른 태도를 유지하던 송중기가 만취 후 아버지에게 업혀 갔다는 폭탄 발언으로 모두를 놀라게 했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김흥국은 송중기를 향해 \\\"그렇게 순진하고 착할 수가 없다\\\"며 칭찬을 늘어놨다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 김흥국은 \\\"김수현은 연예인 축구단에 아버지 따라서 항상 나왔다. 수현이 축구는 내가 가르쳤다\\\"라며 김수현과의 깊은 인연을 언급했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 김흥국은 \\\"술 한번 먹자. 연락 좀 해라\\\"라며 김수현에게 애정이 담긴 영상편지를 전했다는 후문이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 '비디오스타'는 2일 오후 8시 30분 방송된다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김흥국 \\\"술 자리서 송중기 만취…아빠한테 업혀갔다\\\" 폭로",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263002",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송혜교·김혜수, 산불 피해에 안타까운 마음 공유",
+		"newsSubTitle": "",
+		"newsContent": "배우 송혜교가 산불 피해를 걱정하며 안타까운 마음을 내비쳤다.\n송혜교는 5일 늦은 밤 자신의 SNS에 지인의 인스타그램 게시물을 리그램했다.\n해당 게시물은 강원도에 발생한 산불 관련 기사를 캡처한 것으로 “새벽부터 시작된 동해시 산불이 현재까지 강풍에 잡히질 않고 밤이라 헬기도 중단되고 민가 쪽 피해가 커지고 있어요. 동해에 있는 가족들 걱정에 하루 종일 뉴스 보며 맘 졸입니다. 한시라도 빨리 인명피해 없이 불씨가 잡히길 기도합니다”라는 글이 적혀있다.\n송혜교는 게시물 아래 “빨리 진화되길 바랍니다”라며 간절한 마음을 드러냈다.\n김혜수도 해당 게시물을 리그램했다.\n김혜수는 “공유합니다”라며 “헬기 지원이 여전히 시급하다고 한다”는 글을 올렸다.\n한편, 강원도 영월군과 대구 달성군, 경기도 안산시 수리산 인근 등 전국 6곳에 대형 산불이 발생해 산불재난 국가위기경보 ;심각’단계가 발령됐다.\n특히 오늘 오전 6시 기준 울진·삼척 지역 산불로만 1만3000여 헥타르의 산림이 잿더미가 되는 등 피해가 늘고 있다.\n주택과 창고 등 시설물이 피해를 입었으며, 7000여명의 주민들이 임시 거주 시설이나 친인척 집으로 대피해있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송혜교가 산불 피해를 걱정하며 안타까운 마음을 내비쳤다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송혜교는 5일 늦은 밤 자신의 SNS에 지인의 인스타그램 게시물을 리그램했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 게시물은 강원도에 발생한 산불 관련 기사를 캡처한 것으로 “새벽부터 시작된 동해시 산불이 현재까지 강풍에 잡히질 않고 밤이라 헬기도 중단되고 민가 쪽 피해가 커지고 있어요. 동해에 있는 가족들 걱정에 하루 종일 뉴스 보며 맘 졸입니다. 한시라도 빨리 인명피해 없이 불씨가 잡히길 기도합니다”라는 글이 적혀있다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송혜교는 게시물 아래 “빨리 진화되길 바랍니다”라며 간절한 마음을 드러냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김혜수도 해당 게시물을 리그램했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김혜수는 “공유합니다”라며 “헬기 지원이 여전히 시급하다고 한다”는 글을 올렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 강원도 영월군과 대구 달성군, 경기도 안산시 수리산 인근 등 전국 6곳에 대형 산불이 발생해 산불재난 국가위기경보 ;심각’단계가 발령됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 오늘 오전 6시 기준 울진·삼척 지역 산불로만 1만3000여 헥타르의 산림이 잿더미가 되는 등 피해가 늘고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "주택과 창고 등 시설물이 피해를 입었으며, 7000여명의 주민들이 임시 거주 시설이나 친인척 집으로 대피해있다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송혜교·김혜수, 산불 피해에 안타까운 마음 공유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

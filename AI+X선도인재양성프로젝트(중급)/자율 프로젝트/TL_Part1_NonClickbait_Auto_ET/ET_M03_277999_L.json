@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277999",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'라디오스타' 정진운, 노잼 민폐 악플에 \\\"괜찮아\\\" 쿨한 반응",
+		"newsSubTitle": "",
+		"newsContent": "라디오스타에 출연한 정진운의 트위터가 화제다.\n20일 방송된 MBC ＇라디오스타＇는 ＇미친 친구를 소개합니다＇특집으로 꾸며져 정진운, 조현아, 기안84, 박태준이 게스트로 출연해 입담을 과시했다.\n이날 정진운은 SNS를 뜨겁게 달군 ＇광대 춤＇과 ＇타조 춤＇을 선보이며 끼를 발산해 보는 이들의 이목을 사로잡았다.\n정진운의 댄스 무대를 감상한 김국진은 \\\"이런 끼를 어떻게 참고 살았어요?\\\"라며 연신 감탄을 자아내기도 했다.\n하지만 네티즌들의 반응은 싸늘했다.\n정진운 역대급 핵노잼이었다(zzxl****)\\\" \\\"당분간 미스틱 소속사 연예인은 자제해야 할듯... 윤종신까지 싫어질 뻔함(zzan****) 등 각종 악플이 쏟아진 것. 하지만 정진운은 개의치 않았다. '망한 개그맨이라니..ㅜㅜ', '괜찮아, 악플도 관심임' 등 의연한 반응을 보였다.\n온라인 중앙일보 [사진 정진운 트위터]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "라디오스타에 출연한 정진운의 트위터가 화제다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 방송된 MBC ＇라디오스타＇는 ＇미친 친구를 소개합니다＇특집으로 꾸며져 정진운, 조현아, 기안84, 박태준이 게스트로 출연해 입담을 과시했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 정진운은 SNS를 뜨겁게 달군 ＇광대 춤＇과 ＇타조 춤＇을 선보이며 끼를 발산해 보는 이들의 이목을 사로잡았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정진운의 댄스 무대를 감상한 김국진은 \\\"이런 끼를 어떻게 참고 살았어요?\\\"라며 연신 감탄을 자아내기도 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 네티즌들의 반응은 싸늘했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정진운 역대급 핵노잼이었다(zzxl****)\\\" \\\"당분간 미스틱 소속사 연예인은 자제해야 할듯... 윤종신까지 싫어질 뻔함(zzan****) 등 각종 악플이 쏟아진 것. 하지만 정진운은 개의치 않았다. '망한 개그맨이라니..ㅜㅜ', '괜찮아, 악플도 관심임' 등 의연한 반응을 보였다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 정진운 트위터]",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'라디오스타' 정진운, 노잼 민폐 악플에 \\\"괜찮아\\\" 쿨한 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

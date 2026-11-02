@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284049",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "한채아 오상진, \\\"대기업 임원 아버지가…\\\" '무슨 사이?'",
+		"newsSubTitle": "",
+		"newsContent": "'해피투게더' 한채아가 과거 드라마 하차 통보를 받은 사연을 밝혔다.\n지난 5일 방송된 KBS2 '해피투게더3'에서는 드라마 '장사의 신-객주2015' 장혁, 김민정, 한채아, 박은혜가 출연해 입담을 화려한 입담을 자랑했다.\n이날 방송에서 전현무는 한채아에게 \\\"사랑에 올인하는 스타일이냐\\\"라고 물었다.\n이에 한채아는 \\\"예전에 남자친구가 있었는데 갑자기 군대에 가게 됐다. 그래서 회식 자리에서 펑펑 울었더니 감독님이 보시고 내가 드라마에 관심이 없다고 생각하셨다\\\"라며 \\\"결국 하차통보를 받았다\\\"라고 말해 놀라움을 끌어냈다.\n한편 이날 방송에서 한채아는 대기업 임원 아버지가 방송인 오상진과 같은 회사를 다녔다는 사실이 전해 이목을 집중시켰다.\n온라인 중앙일보 해피투게더 한채아 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'해피투게더' 한채아가 과거 드라마 하차 통보를 받은 사연을 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 5일 방송된 KBS2 '해피투게더3'에서는 드라마 '장사의 신-객주2015' 장혁, 김민정, 한채아, 박은혜가 출연해 입담을 화려한 입담을 자랑했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 전현무는 한채아에게 \\\"사랑에 올인하는 스타일이냐\\\"라고 물었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 한채아는 \\\"예전에 남자친구가 있었는데 갑자기 군대에 가게 됐다. 그래서 회식 자리에서 펑펑 울었더니 감독님이 보시고 내가 드라마에 관심이 없다고 생각하셨다\\\"라며 \\\"결국 하차통보를 받았다\\\"라고 말해 놀라움을 끌어냈다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 이날 방송에서 한채아는 대기업 임원 아버지가 방송인 오상진과 같은 회사를 다녔다는 사실이 전해 이목을 집중시켰다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 해피투게더 한채아 [사진 일간스포츠]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한채아 오상진, \\\"대기업 임원 아버지가…\\\" '무슨 사이?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

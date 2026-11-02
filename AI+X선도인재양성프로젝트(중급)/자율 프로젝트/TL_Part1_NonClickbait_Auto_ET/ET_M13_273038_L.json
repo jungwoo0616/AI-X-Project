@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273038",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방심위, 출연 의료인 연결 전화번호 고지 프로그램에 과징금",
+		"newsSubTitle": "",
+		"newsContent": "방송통신심의위원회(방심위)가 13일 서울 양천구 목동 방송회관에서 전체회의를 열어 출연 의료인과 직·간접으로 연결되는 전화번호를 수시로 자막으로 고지한 프로그램들에 ‘과징금’ 부과를 의결했다.\n방심위는 GMTV ‘메디컬 빅 데이터’, 피싱(FISHING) TV ‘투데이 해피 라이프 위클리(Weekly)’에 과징금 부과를 적용했다.\n이는 ‘방송심의에 관한 규정’을 위반한 방송사업자에 대해 ‘방송법’이 정한 최고 수준 제재다.\n출연자와 진행자가 미국 뉴욕의 랜드마크를 방문하는 내용을 방송하면서 협찬주에게 광고효과를 줄 수 있도록 제작·구성한 JTV ‘클릭 이사람’에 대해 방심위는 ‘해당 방송프로그램의 관계자에 대한 징계’를 의결했다.\n어린이가 주 시청대상인 프로그램에서 특정 상품에 대해 광고효과를 준 캐리(carrie)TV ‘<장난감 친구들 : 탐구생활> 아이스크림 만들기 놀이’에는 ‘주의’를 결정했다.\n방심위는 시청자가 상품의 원산지를 오인할 우려가 있는 내용을 방송한 CJ온스타일 ‘일월 온열 마사지매트’에 대해서도 ‘주의’ 조치를 의결했다.\n한우 실제 함량을 알리지 않으면서 한우가 포함돼 있다는 점을 강조해 시청자를 오인케 한 AXN, 다큐원, 디원, 드라마큐브, 채널에버, 올리브(Olive), 이벤트TV, CNTV의 ‘이마시야 언양식 불고기한상’ 방송 광고에 대해서도 ‘주의’를 의결했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신심의위원회(방심위)가 13일 서울 양천구 목동 방송회관에서 전체회의를 열어 출연 의료인과 직·간접으로 연결되는 전화번호를 수시로 자막으로 고지한 프로그램들에 ‘과징금’ 부과를 의결했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방심위는 GMTV ‘메디컬 빅 데이터’, 피싱(FISHING) TV ‘투데이 해피 라이프 위클리(Weekly)’에 과징금 부과를 적용했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 ‘방송심의에 관한 규정’을 위반한 방송사업자에 대해 ‘방송법’이 정한 최고 수준 제재다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "출연자와 진행자가 미국 뉴욕의 랜드마크를 방문하는 내용을 방송하면서 협찬주에게 광고효과를 줄 수 있도록 제작·구성한 JTV ‘클릭 이사람’에 대해 방심위는 ‘해당 방송프로그램의 관계자에 대한 징계’를 의결했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어린이가 주 시청대상인 프로그램에서 특정 상품에 대해 광고효과를 준 캐리(carrie)TV ‘<장난감 친구들 : 탐구생활> 아이스크림 만들기 놀이’에는 ‘주의’를 결정했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방심위는 시청자가 상품의 원산지를 오인할 우려가 있는 내용을 방송한 CJ온스타일 ‘일월 온열 마사지매트’에 대해서도 ‘주의’ 조치를 의결했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한우 실제 함량을 알리지 않으면서 한우가 포함돼 있다는 점을 강조해 시청자를 오인케 한 AXN, 다큐원, 디원, 드라마큐브, 채널에버, 올리브(Olive), 이벤트TV, CNTV의 ‘이마시야 언양식 불고기한상’ 방송 광고에 대해서도 ‘주의’를 의결했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방심위, 출연 의료인 연결 전화번호 고지 프로그램에 과징금",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

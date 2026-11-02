@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171606",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조권, 원더걸스 선예 진수성찬에 “엄마는 강하다”",
+    "newsSubTitle": "",
+    "newsContent": "2AM 조권이 원더걸스 출신 선예가 변함없는 우정을 과시했다.\n조권은 지난 2일 자신의 인스타그램 스토리에 “이런 날이 다 오네”라는 글과 함께 여러 장의 사진을 게재했다.\n공개된 사진에는 조권을 위해 음식을 준비하는 선예의 뒷모습이 담겼다.\n함께 공개된 사진에서는 김치찜, 제육볶음, 등갈비, 계란말이 등 수준급의 비주얼을 자랑하는 요리가 눈길을 끌었다.\n조권은 “선예 혼자 다 한 요리”라며 “역시 엄마는 아이돌. 엄마는 강하다”라고 칭찬을 아끼지 않았다.\n조권과 선예는 2001년 방송된 SBS ‘초특급 일요일 만세-박진영의 영재 육성 프로젝트 99%의 도전’에 함께 출연한 이후 20년째 우정을 이어오고 있다.\n한편, 조권은 최근 7년 만에 2AM 완전체로 돌아왔다.\n선예는 tvN 새 예능 ‘엄마는 아이돌’을 통해 무대에 올라 여전한 기량을 선보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2AM 조권이 원더걸스 출신 선예가 변함없는 우정을 과시했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조권은 지난 2일 자신의 인스타그램 스토리에 “이런 날이 다 오네”라는 글과 함께 여러 장의 사진을 게재했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 조권을 위해 음식을 준비하는 선예의 뒷모습이 담겼다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함께 공개된 사진에서는 김치찜, 제육볶음, 등갈비, 계란말이 등 수준급의 비주얼을 자랑하는 요리가 눈길을 끌었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조권은 “선예 혼자 다 한 요리”라며 “역시 엄마는 아이돌. 엄마는 강하다”라고 칭찬을 아끼지 않았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조권과 선예는 2001년 방송된 SBS ‘초특급 일요일 만세-박진영의 영재 육성 프로젝트 99%의 도전’에 함께 출연한 이후 20년째 우정을 이어오고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 조권은 최근 7년 만에 2AM 완전체로 돌아왔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "선예는 tvN 새 예능 ‘엄마는 아이돌’을 통해 무대에 올라 여전한 기량을 선보였다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조권, SNS에 젊은 여성 요리하는 사진 올려... 이 사람 누구",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273932",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "컴백 위너, 새 앨범 이름은 ‘HOLIDAY’",
+		"newsSubTitle": "",
+		"newsContent": "컴백을 앞둔 위너의 새 앨범 이름은 ‘HOLIDAY’로 결정됐다.\nYG 엔터테인먼트는 24일 위너의 새 앨범 이름이 ‘HOLIDAY’로 결정됐다고 밝혔다. ‘HOLIDAY’ 는 휴가, 휴일 등 선물처럼 주어지는 ‘쉼’의 순간을 내포한 단어다.\n숨가쁜 일상에서 잠시 벗어나 느낄 수 있는 기분 좋은 여유와 낭만을 떠올리게 한다.\n이는 위너가 추구한 콘셉트와 맞닿는다.\n트렌디한 음악과 끊임없는 변주로 대중과 가까이 호흡해온 이들이 선사할 ‘HOLIDAY’가 어떠한 에너지를 품고 있을지 주목된다.\nYG는 “위너만의 건강하고 청량한 감성이 이번 네 번째 미니앨범 ‘HOLIDAY’에 가득 담겼다. 유쾌하면서도 편히 기대어 쉴 수 있는, 위너의 힐링 송을 기대해도 좋을 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "컴백을 앞둔 위너의 새 앨범 이름은 ‘HOLIDAY’로 결정됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YG 엔터테인먼트는 24일 위너의 새 앨범 이름이 ‘HOLIDAY’로 결정됐다고 밝혔다. ‘HOLIDAY’ 는 휴가, 휴일 등 선물처럼 주어지는 ‘쉼’의 순간을 내포한 단어다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "숨가쁜 일상에서 잠시 벗어나 느낄 수 있는 기분 좋은 여유와 낭만을 떠올리게 한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 위너가 추구한 콘셉트와 맞닿는다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트렌디한 음악과 끊임없는 변주로 대중과 가까이 호흡해온 이들이 선사할 ‘HOLIDAY’가 어떠한 에너지를 품고 있을지 주목된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "YG는 “위너만의 건강하고 청량한 감성이 이번 네 번째 미니앨범 ‘HOLIDAY’에 가득 담겼다. 유쾌하면서도 편히 기대어 쉴 수 있는, 위너의 힐링 송을 기대해도 좋을 것”이라고 밝혔다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "컴백 위너, 새 앨범 이름은 ‘HOLIDAY’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

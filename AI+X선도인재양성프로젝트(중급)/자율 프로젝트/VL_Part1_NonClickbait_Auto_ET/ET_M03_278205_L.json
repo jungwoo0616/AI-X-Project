@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278205",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "IOI, ‘크리슬리스’ 티저 이미지 공개…5월 4일 앨범 발매 예정",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 아이오아이(IOI)의 티저 이미지가 공개됐다.\nIOI(아이오아이) 측은 27일 인스타그램을 통해 “D-7!! 첫 번째 유닛 티저이미지 공개! 정채연, 김세정, 전소미, 주결경 2016.5.4 아이오아이(I.O.I) 1st 미니앨범 Chrysalis 발매!”라는 글과 함께 한 장의 사진을 공개했다.\n게재된 사진 속에는 엠넷의 ‘프로듀스 101’을 통해 탄생한 IOI의 멤버 정채연, 김세정, 전소미, 주결경의 상큼 발랄한 모습이 담겨 있다.\n특히 네 사람은 데뷔를 앞둔 신인 걸그룹답게 깜찍하면서도 상큼한 매력을 발산했다.\nIOI의 첫 번째 미니앨범 ‘크리슬리스’(Chrysalis)는 ‘준비 시간’이라는 의미를 담고 있으며 그동안 수없이 흘린 땀과 노력의 시간을 거쳐 정식 데뷔를 앞둔 소녀들의 꿈과 희망을 담은 앨범으로 5월 4일 발매될 예정이다.\n한편 IOI는 26일 방송된 JTBC ‘투유프로젝트-슈가맨’에 출연해 바나나 걸의 ‘엉덩이’를 새롭게 재해석해 눈길을 끌었다.\n온라인 중앙일보 [사진 ioi 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 아이오아이(IOI)의 티저 이미지가 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IOI(아이오아이) 측은 27일 인스타그램을 통해 “D-7!! 첫 번째 유닛 티저이미지 공개! 정채연, 김세정, 전소미, 주결경 2016.5.4 아이오아이(I.O.I) 1st 미니앨범 Chrysalis 발매!”라는 글과 함께 한 장의 사진을 공개했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게재된 사진 속에는 엠넷의 ‘프로듀스 101’을 통해 탄생한 IOI의 멤버 정채연, 김세정, 전소미, 주결경의 상큼 발랄한 모습이 담겨 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 네 사람은 데뷔를 앞둔 신인 걸그룹답게 깜찍하면서도 상큼한 매력을 발산했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IOI의 첫 번째 미니앨범 ‘크리슬리스’(Chrysalis)는 ‘준비 시간’이라는 의미를 담고 있으며 그동안 수없이 흘린 땀과 노력의 시간을 거쳐 정식 데뷔를 앞둔 소녀들의 꿈과 희망을 담은 앨범으로 5월 4일 발매될 예정이다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 IOI는 26일 방송된 JTBC ‘투유프로젝트-슈가맨’에 출연해 바나나 걸의 ‘엉덩이’를 새롭게 재해석해 눈길을 끌었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 ioi 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IOI, ‘크리슬리스’ 티저 이미지 공개…5월 4일 앨범 발매 예정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

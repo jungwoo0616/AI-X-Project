@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275150",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘♥현빈’ 손예진, 명품 가방과 함께한 수줍은 임신부",
+		"newsSubTitle": "",
+		"newsContent": "배우 손예진이 임신 후 첫 근황을 전했다.\n손예진은 지난 9일 자신의 사회관계망서비스(SNS) 인스타그램에 한 브랜드 패션쇼를 소개한 글과 함께 사진을 게재했다.\n손예진은 지난달 27일 임신 소식을 직접 SNS에 전한 후 첫 공식 석상에 선 모습을 공개했다.\n손예진은 하얀색 트위트 재킷에 청바지를 매치한 패션을 강조하며 초록색 명품 가방을 무릎 위에 올려놨다.\n특히 손예진은 긴 머리로 원조 청순미를 자랑한 여신답게 아름답고 화사한 분위기를 자아냈다.\n무엇보다도 손예진의 고급스럽고 세련된 매력은 앉아있음에도 뿜어져 나왔다.\n앞서 손예진은 지난 3월 31일 배우 현빈과 결혼식을 치러 세간의 결혼식으로 화제가 된 바 있다.\n또 이들은 지난 4월 미국으로 비공개 신혼여행을 떠나 행복한 시간을 보냈다.\n한편 손예진은 올해 아이를 출산할 예정으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 손예진이 임신 후 첫 근황을 전했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손예진은 지난 9일 자신의 사회관계망서비스(SNS) 인스타그램에 한 브랜드 패션쇼를 소개한 글과 함께 사진을 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손예진은 지난달 27일 임신 소식을 직접 SNS에 전한 후 첫 공식 석상에 선 모습을 공개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손예진은 하얀색 트위트 재킷에 청바지를 매치한 패션을 강조하며 초록색 명품 가방을 무릎 위에 올려놨다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 손예진은 긴 머리로 원조 청순미를 자랑한 여신답게 아름답고 화사한 분위기를 자아냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "무엇보다도 손예진의 고급스럽고 세련된 매력은 앉아있음에도 뿜어져 나왔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 손예진은 지난 3월 31일 배우 현빈과 결혼식을 치러 세간의 결혼식으로 화제가 된 바 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 이들은 지난 4월 미국으로 비공개 신혼여행을 떠나 행복한 시간을 보냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 손예진은 올해 아이를 출산할 예정으로 알려졌다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘♥현빈’ 손예진, 명품 가방과 함께한 수줍은 임신부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

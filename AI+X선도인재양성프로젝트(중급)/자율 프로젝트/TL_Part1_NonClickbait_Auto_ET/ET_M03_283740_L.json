@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283740",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "故 로빈 윌리엄스 '지니' 목소리, 알라딘 영화에 사용 못 해",
+		"newsSubTitle": "",
+		"newsContent": "고 로빈 윌리엄스의 지니 목소리를 더 이상 알라딘 영화에서 들을 수 없게 될 전망이다.\n9일(현지기준) 미국 매체 US위클리에 따르면 고 로빈 윌리엄스 측에서 디즈니사에 윌리엄스의 생전 지니 목소리를 향후 나올 알라딘 영화에 사용하지 못 하도록 강하게 어필할 계획이다.\n이에 따라 1991년 윌리엄스가 처음 지니 목소리를 녹음한 오리지널 버전은 사용하지 못 할 예정이다.\n앞서 윌리엄스는 지난해 8월 미국 캘리포니아 자택에서 숨진 채 발견됐다.\n당시 그는 목에 허리띠를 매고 있었던 것으로 전해졌다.\n경찰은 '우울증으로 인한 자살'로 보고 있다.\n한편, 로빈 윌리엄스는 ‘죽은 시인의 사회’ ‘굿 윌 헌팅’ 등에서 열연하며 국내외에서 많은 사랑을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고 로빈 윌리엄스의 지니 목소리를 더 이상 알라딘 영화에서 들을 수 없게 될 전망이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일(현지기준) 미국 매체 US위클리에 따르면 고 로빈 윌리엄스 측에서 디즈니사에 윌리엄스의 생전 지니 목소리를 향후 나올 알라딘 영화에 사용하지 못 하도록 강하게 어필할 계획이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 1991년 윌리엄스가 처음 지니 목소리를 녹음한 오리지널 버전은 사용하지 못 할 예정이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 윌리엄스는 지난해 8월 미국 캘리포니아 자택에서 숨진 채 발견됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 그는 목에 허리띠를 매고 있었던 것으로 전해졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰은 '우울증으로 인한 자살'로 보고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 로빈 윌리엄스는 ‘죽은 시인의 사회’ ‘굿 윌 헌팅’ 등에서 열연하며 국내외에서 많은 사랑을 받았다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "故 로빈 윌리엄스 '지니' 목소리, 알라딘 영화에 사용 못 해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

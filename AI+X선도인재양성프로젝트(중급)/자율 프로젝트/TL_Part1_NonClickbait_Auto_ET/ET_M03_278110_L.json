@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278110",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'무속인' 황승환, 점집 소개 영상에 등장…\\\"여러분 내사랑, 좋은거 알면서\\\"",
+		"newsSubTitle": "",
+		"newsContent": "무속인으로 새 삶을 시작한 전 개그맨 황승환이 점집 소개 영상에 등장해 화제가 되고 있다.\n31일 한 매체의 보도에 의하면 황승환은 현재 서울 강남구 논현동의 S점집에서 무속인의 수제자로 새 삶을 시작한 것으로 전해졌다.\nS점집의 홈페이지에는 황승환을 '묘덕선사님'이라며 \\\"개그맨 황마담 화려했던 연예인 시절을 접고 수제자가 되었다\\\"는 설명이 뒤따르고 있다.\n무속인의 인생을 시작한 황승환의 근황이 담긴 사진도 확인할 수 있다.\n또한 유튜브에 공개된 S점집의 소개 영상에는 황승환이 등장해 눈길을 끌었다.\n영상에서 그는 백발에 염주를 걸친 근엄한 모습으로 법당에 앉아 \\\"반갑습니다. S점집 법주님의 수제자, 개그맨 황마담이었던 묘덕선사입니다\\\"라며 \\\"마음의 병, 정신의 병, 육체의 병으로 고민하시는 분들 S점집으로 찾아오셔서 소망을 이루시고 마음의 부자가 되어보십시오. 감사합니다\\\" 라고 말했다.\n영상 마지막 부분에서는 \\\"여러분은 내사랑, 오시면 좋은거 알면서\\\"라며 예전에 '개그콘서트'에서 활동하던 시절의 유행어를 언급해 웃음을 자아내기도 했다.\n이후 \\\"이거 너무 옛날거 아닌가요\\\"라며 멋쩍어하는 그의 모습이 한번 더 웃음을 자아냈다.\n온라인 중앙일보 [사진 유튜브 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "무속인으로 새 삶을 시작한 전 개그맨 황승환이 점집 소개 영상에 등장해 화제가 되고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 한 매체의 보도에 의하면 황승환은 현재 서울 강남구 논현동의 S점집에서 무속인의 수제자로 새 삶을 시작한 것으로 전해졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "S점집의 홈페이지에는 황승환을 '묘덕선사님'이라며 \\\"개그맨 황마담 화려했던 연예인 시절을 접고 수제자가 되었다\\\"는 설명이 뒤따르고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무속인의 인생을 시작한 황승환의 근황이 담긴 사진도 확인할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 유튜브에 공개된 S점집의 소개 영상에는 황승환이 등장해 눈길을 끌었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상에서 그는 백발에 염주를 걸친 근엄한 모습으로 법당에 앉아 \\\"반갑습니다. S점집 법주님의 수제자, 개그맨 황마담이었던 묘덕선사입니다\\\"라며 \\\"마음의 병, 정신의 병, 육체의 병으로 고민하시는 분들 S점집으로 찾아오셔서 소망을 이루시고 마음의 부자가 되어보십시오. 감사합니다\\\" 라고 말했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영상 마지막 부분에서는 \\\"여러분은 내사랑, 오시면 좋은거 알면서\\\"라며 예전에 '개그콘서트'에서 활동하던 시절의 유행어를 언급해 웃음을 자아내기도 했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 \\\"이거 너무 옛날거 아닌가요\\\"라며 멋쩍어하는 그의 모습이 한번 더 웃음을 자아냈다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 유튜브 캡처]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'무속인' 황승환, 점집 소개 영상에 등장…\\\"여러분 내사랑, 좋은거 알면서\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

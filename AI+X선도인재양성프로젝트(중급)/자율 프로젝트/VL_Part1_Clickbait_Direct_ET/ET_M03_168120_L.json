@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168120",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "오빠들 쓰러지는 아이린의 ‘오빠야’ 대구 사투리",
+    "newsSubTitle": "",
+    "newsContent": "레드벨벳 아이린이 애교 넘치는 사투리를 보여 눈길을 끌었다.\n29일 네이버 V라이브 SMTOWN 채널에서는 ‘레드벨벳의 럭키포켓_흥을 돋우자’가 방송됐다.\n이날 레드벨벳 멤버들은 설날을 맞이해 윷놀이를 하며 칸마다 걸려 있는 미션을 수행했다.\n미션에는 ‘막춤 추기’, ‘드라마 명대사 따라하기’ 등 레드벨벳 멤버들의 끼를 살펴볼 수 있는 미션들이 포함되어 있어 시청자들에게 즐거움을 선사했다.\n그러다 사투리 연기에 도전하는 미션이 나와 많은 남성 시청자들의 애간장을 녹였다.\n대구 출신인 아이린이 '오빠야, 있잖아. 내는 오빠 좋아하는데. 오빠야는 어떻게 생각하는데?'라는 대사를 경상도 특유의 억양으로 시범을 보였다.\n아이린 뿐만 아니라 예리, 슬기, 웬디도 사투리 연기에 도전해 시청자들을 흐뭇하게 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "레드벨벳 아이린이 애교 넘치는 사투리를 보여 눈길을 끌었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 네이버 V라이브 SMTOWN 채널에서는 ‘레드벨벳의 럭키포켓_흥을 돋우자’가 방송됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 레드벨벳 멤버들은 설날을 맞이해 윷놀이를 하며 칸마다 걸려 있는 미션을 수행했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미션에는 ‘막춤 추기’, ‘드라마 명대사 따라하기’ 등 레드벨벳 멤버들의 끼를 살펴볼 수 있는 미션들이 포함되어 있어 시청자들에게 즐거움을 선사했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러다 사투리 연기에 도전하는 미션이 나와 많은 남성 시청자들의 애간장을 녹였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대구 출신인 아이린이 '오빠야, 있잖아. 내는 오빠 좋아하는데. 오빠야는 어떻게 생각하는데?'라는 대사를 경상도 특유의 억양으로 시범을 보였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아이린 뿐만 아니라 예리, 슬기, 웬디도 사투리 연기에 도전해 시청자들을 흐뭇하게 했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설날 맞이 게임 중 팬들 기절시킨 레드벨벳 아이린의 말은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

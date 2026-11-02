@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171233",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘놀라운 토요일’ 키, 에이티즈 산-우영에 “같은 피 키 재질 발견”",
+    "newsSubTitle": "",
+    "newsContent": "‘놀라운 토요일’ 키가 에이티즈 산과 우영을 같은 과라고 파악했다.\n25일 오후 방송된 tvN ‘놀라운 토요일’에서는 에이티즈 산과 우영이 게스트로 출격했다.\n이날 ‘Deja Vu’ 앨범 홍보에 진심을 보인 산과 만담을 보인 우영에 키는 “내 옆에 앉힌 이유가 있구나? 약간 같은 피를 발견한 것 같다. 남 아이돌이 제 옆에 앉았다면 이유가 있는 거다”라고 포착했다.\n붐은 에이티즈에게 “피오가 평소에 그렇게 조언을 많이 해준다고?”라고 물었다.\n이에 우영은 “데뷔 쇼케이스 때 오셨다. 대기실에 인사하러 와주셨는데 ‘무대 밑에서는 겸손해야 한다. 그런데 무대 위에서는 신인이 아닌 것처럼 찢어버려야 한다’라고 말해주셨다. 되게 멋있었다”라고 밝혔다.\n귀 상태를 묻는 말에 산은 “제가 뒷북 귀다. 제가 말귀를 잘 못 알아들어서, 노래 듣는 건 자신 있다”라고 말했다. ‘놀토’의 버퍼링 귀 김동현은 산에게 “비슷해. 얼굴형도 비슷한 게. 사실 아까 봤을 때 제 20대 때 느낌이다”라고 말해 멤버들의 원성을 샀다.\n한편 tvN ‘놀라운 토요일’은 매주 토요일 오후 7시 40분에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘놀라운 토요일’ 키가 에이티즈 산과 우영을 같은 과라고 파악했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 오후 방송된 tvN ‘놀라운 토요일’에서는 에이티즈 산과 우영이 게스트로 출격했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 ‘Deja Vu’ 앨범 홍보에 진심을 보인 산과 만담을 보인 우영에 키는 “내 옆에 앉힌 이유가 있구나? 약간 같은 피를 발견한 것 같다. 남 아이돌이 제 옆에 앉았다면 이유가 있는 거다”라고 포착했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "붐은 에이티즈에게 “피오가 평소에 그렇게 조언을 많이 해준다고?”라고 물었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 우영은 “데뷔 쇼케이스 때 오셨다. 대기실에 인사하러 와주셨는데 ‘무대 밑에서는 겸손해야 한다. 그런데 무대 위에서는 신인이 아닌 것처럼 찢어버려야 한다’라고 말해주셨다. 되게 멋있었다”라고 밝혔다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "귀 상태를 묻는 말에 산은 “제가 뒷북 귀다. 제가 말귀를 잘 못 알아들어서, 노래 듣는 건 자신 있다”라고 말했다. ‘놀토’의 버퍼링 귀 김동현은 산에게 “비슷해. 얼굴형도 비슷한 게. 사실 아까 봤을 때 제 20대 때 느낌이다”라고 말해 멤버들의 원성을 샀다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 tvN ‘놀라운 토요일’은 매주 토요일 오후 7시 40분에 만나볼 수 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이티즈 산과 우영에, ‘놀라운 토요일’에서 '이것' 때문에 키 옆자리 앉았나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

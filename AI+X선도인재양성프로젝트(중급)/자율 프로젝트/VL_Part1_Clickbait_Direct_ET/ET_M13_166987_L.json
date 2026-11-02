@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166987",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "에이티즈 성화, 예쁜 입술 1위",
+    "newsSubTitle": "",
+    "newsContent": "에이티즈의 멤버 성화가 지구상에서 가장 예쁜 입술을 가진 아이돌로 선정됐다.\n글로벌 케이팝 팬덤 플랫폼 ‘후즈팬(Whosfan)’은 지난 10월 5일부터 11일까지 ‘[WhosPICK] 지구상에서 가장 예쁜 입술을 가진 아이돌은 누구?’라는 주제로 투표를 진행했다.\n팬들의 추천을 기반으로 구성된 이번 후즈픽 투표에는 과즙을 잔뜩 머금은 듯한 예쁜 입술을 가진 아이돌이 후보에 올랐다.\n에이티즈 성화, 투모로우바이투게더 수빈, 방탄소년단 진, 원어스 이도, 에스파 카리나, 몬스타엑스 형원, 스테이씨 세은, 트와이스 나연이 경합을 펼쳤다.\n치열한 접전 끝에, 에이티즈 성화가 46.39%의 득표율로 1위를 차지했다.\n이어 투모로우바이투게더 수빈이 20.36%로 2위에, 방탄소년단 진이 10.58%로 3위에 이름을 올렸다.\n한편, 글로벌 케이팝 팬덤 플랫폼 후즈팬은 2020년 5월 22일 공식 론칭 이후 글로벌 케이팝 팬덤의 성원 아래에 1년 만에 550만 유저 확보에 성공, 최근에는 620만 유저를 돌파했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에이티즈의 멤버 성화가 지구상에서 가장 예쁜 입술을 가진 아이돌로 선정됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "글로벌 케이팝 팬덤 플랫폼 ‘후즈팬(Whosfan)’은 지난 10월 5일부터 11일까지 ‘[WhosPICK] 지구상에서 가장 예쁜 입술을 가진 아이돌은 누구?’라는 주제로 투표를 진행했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "팬들의 추천을 기반으로 구성된 이번 후즈픽 투표에는 과즙을 잔뜩 머금은 듯한 예쁜 입술을 가진 아이돌이 후보에 올랐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "에이티즈 성화, 투모로우바이투게더 수빈, 방탄소년단 진, 원어스 이도, 에스파 카리나, 몬스타엑스 형원, 스테이씨 세은, 트와이스 나연이 경합을 펼쳤다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "치열한 접전 끝에, 에이티즈 성화가 46.39%의 득표율로 1위를 차지했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 투모로우바이투게더 수빈이 20.36%로 2위에, 방탄소년단 진이 10.58%로 3위에 이름을 올렸다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 글로벌 케이팝 팬덤 플랫폼 후즈팬은 2020년 5월 22일 공식 론칭 이후 글로벌 케이팝 팬덤의 성원 아래에 1년 만에 550만 유저 확보에 성공, 최근에는 620만 유저를 돌파했다.",
+        "sentenceSize": 106
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이티즈 성화, 어쩌다 예쁜 입술 1위로 뽑혔나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

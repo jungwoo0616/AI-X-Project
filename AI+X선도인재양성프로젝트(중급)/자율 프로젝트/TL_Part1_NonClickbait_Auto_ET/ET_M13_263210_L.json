@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263210",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "프리지아, 산불 피해 지역에 2천만 원 기부[공식]",
+		"newsSubTitle": "",
+		"newsContent": "인플루언서 프리지아(송지아)가 산불 피해지역에 2천만 원을 기부했다.\n대한적십자사는 프리지아가 지난 7일 강원 경북 산불 피해지역 긴급구호 지원을 위해 써달라며 성금 2천만 원을 적십자에 기탁했다고 밝혔다.\n대한 적십자사에 따르면 프리지아는 “산불 피해 이재민들의 소식에 안타까워하며, 어려움을 겪으신 분들께 조금이나마 보탬이 되고자 기부를 결정했다”고 전했다.\n적십자사는 “송지아씨의 따뜻한 나눔 실천에 감사하고, 앞으로 다양한 활동을 통해 우리 사회에 선한 영향력을 전파해주길 기대한다”라고 말했다.\n프리지아가 전달한 성금은 산불 피해가 발생한 강원, 경북 등 지역 적십자 지사를 통해 이재민 긴급 구호활동에 사용된다.\n한편, 프리지아는 지난 1월 가품 사용을 비롯한 여러 논란들로 유튜브 및 SNS 활동을 중단한 채 자숙 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인플루언서 프리지아(송지아)가 산불 피해지역에 2천만 원을 기부했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한적십자사는 프리지아가 지난 7일 강원 경북 산불 피해지역 긴급구호 지원을 위해 써달라며 성금 2천만 원을 적십자에 기탁했다고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대한 적십자사에 따르면 프리지아는 “산불 피해 이재민들의 소식에 안타까워하며, 어려움을 겪으신 분들께 조금이나마 보탬이 되고자 기부를 결정했다”고 전했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "적십자사는 “송지아씨의 따뜻한 나눔 실천에 감사하고, 앞으로 다양한 활동을 통해 우리 사회에 선한 영향력을 전파해주길 기대한다”라고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "프리지아가 전달한 성금은 산불 피해가 발생한 강원, 경북 등 지역 적십자 지사를 통해 이재민 긴급 구호활동에 사용된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 프리지아는 지난 1월 가품 사용을 비롯한 여러 논란들로 유튜브 및 SNS 활동을 중단한 채 자숙 중이다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "프리지아, 산불 피해 지역에 2천만 원 기부[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

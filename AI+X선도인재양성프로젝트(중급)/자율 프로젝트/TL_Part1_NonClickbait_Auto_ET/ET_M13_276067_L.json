@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276067",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "차승원, ‘최우수 CF스타’",
+		"newsSubTitle": "",
+		"newsContent": "배우 차승원이 또 한 번 광고계 브랜드파워를 입증했다.\n차승원은 지난 21일 서울 장충동에서 열린 ‘2022 방송광고 페스티벌’에서 CF스타상 최우수상을 받았다.\n시상식에 참석한 차승원은 “뜻깊은 상 주셔서 감사하다. 앞으로 더 성실하고 건강한 모습 보이는 배우가 되겠다”고 소감을 말했다.\n2022 방송광고 페스티벌 특별상 부문 중 하나인 CF스타상은 한 해 동안 방송광고를 통해 활약하며 광고 산업에 이바지하고 대중의 호감을 끌어낸 모델들에게 수여되는 상이다.\n차승원은 건강하고 친숙한 이미지로 건강식품 브랜드부터 OTT, 의류 브랜드 등 상반기에만 8개 브랜드의 모델로 활약했다.\n특히 한 브랜드와 10년 이상 의리를 이어오며 브랜드 얼굴로서 광고 효과와 신뢰 높은 파트너십도 함께 보이고 있다.\n한편 영화와 드라마, 광고계를 넘나드는 행보로 사랑받고 있는 차승원은 현재 넷플릭스 영화 ‘독전 2’ 촬영에 한창이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 차승원이 또 한 번 광고계 브랜드파워를 입증했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차승원은 지난 21일 서울 장충동에서 열린 ‘2022 방송광고 페스티벌’에서 CF스타상 최우수상을 받았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시상식에 참석한 차승원은 “뜻깊은 상 주셔서 감사하다. 앞으로 더 성실하고 건강한 모습 보이는 배우가 되겠다”고 소감을 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2022 방송광고 페스티벌 특별상 부문 중 하나인 CF스타상은 한 해 동안 방송광고를 통해 활약하며 광고 산업에 이바지하고 대중의 호감을 끌어낸 모델들에게 수여되는 상이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "차승원은 건강하고 친숙한 이미지로 건강식품 브랜드부터 OTT, 의류 브랜드 등 상반기에만 8개 브랜드의 모델로 활약했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 한 브랜드와 10년 이상 의리를 이어오며 브랜드 얼굴로서 광고 효과와 신뢰 높은 파트너십도 함께 보이고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 영화와 드라마, 광고계를 넘나드는 행보로 사랑받고 있는 차승원은 현재 넷플릭스 영화 ‘독전 2’ 촬영에 한창이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "차승원, ‘최우수 CF스타’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274663",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송강, ‘스위트홈 시즌2’ 앞두고 폭풍 벌크업 ",
+		"newsSubTitle": "",
+		"newsContent": "배우 송강이 벌크업한 몸을 공개했다.\n송강은 4일 자신의 사회관계망서비스(SNS)로 운동 중인 짧은 영상을 게재했다.\n공개한 영상에서 송강은 한눈에 보기에도 전보다 훨씬 우람해진 몸을 자랑했다.\n넓은 어깨에 굵은 팔, 그에 비해 작은 머리와 얼굴로 모델 포스를 자랑했다.\n한편 송강은 최근 넷플릭스 ‘스위트홈 시즌2’ 출연을 확정했다.\n송강은 시즌1에서 차현수 역을 맡았다.\n극 초반에는 비참한 현실에서 도피했지만 일련의 사건을 겪으면서 터널 속에서 나와 성장하는 캐릭터를 보여줘 호평받았다. ‘스위트홈 시즌2’는 시즌1의 송강, 이진욱, 이시영, 고민시, 박규영이 출연을 확정했고, 유오성, 오정세, 김무열 등 새 얼굴이 합류한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송강이 벌크업한 몸을 공개했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송강은 4일 자신의 사회관계망서비스(SNS)로 운동 중인 짧은 영상을 게재했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 영상에서 송강은 한눈에 보기에도 전보다 훨씬 우람해진 몸을 자랑했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "넓은 어깨에 굵은 팔, 그에 비해 작은 머리와 얼굴로 모델 포스를 자랑했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 송강은 최근 넷플릭스 ‘스위트홈 시즌2’ 출연을 확정했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송강은 시즌1에서 차현수 역을 맡았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "극 초반에는 비참한 현실에서 도피했지만 일련의 사건을 겪으면서 터널 속에서 나와 성장하는 캐릭터를 보여줘 호평받았다. ‘스위트홈 시즌2’는 시즌1의 송강, 이진욱, 이시영, 고민시, 박규영이 출연을 확정했고, 유오성, 오정세, 김무열 등 새 얼굴이 합류한다.",
+				"sentenceSize": 144
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송강, ‘스위트홈 시즌2’ 앞두고 폭풍 벌크업 ",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274500",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "라필루스 칼군무 ‘뮤뱅’ 접수",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 라필루스(Lapillus)가 ‘뮤직뱅크’를 접수했다. 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)는 1일 오후 방송된 KBS 2TV ‘뮤직뱅크’에 출연해 데뷔곡 ‘HITYA!(힛야!)’를 불렀다.\n이날 라필루스는 폭발적인 퍼포먼스로 ‘HIT YA’ 무대를 선사했다.\n완벽한 호흡의 칼군무부터시선을 강탈하는 포인트 안무 ‘BadX춤’까지 뜨거운 환호를 이끌어냈다.\n특히 신인답지 않은 여유로운 표정 연기와 무대 매너로 라필루스만의 틴크러시 에너지를 폭발시켰다. ‘HITYA!’는 가요계에 첫 발을 내딛는 여섯 소녀들의 자신감과 포부를 담아낸 곡으로 라필루스만의 매력을 담았다.\n더욱이 이승철이 스페셜 보컬 디렉터로 참여해 주목을 받았다. ‘HIT YA!’는 발매와 동시에 주요 음원사이트 실시간 차트 최상위권을 차지하며 뜨거운 관심을 모았다.\n한편, 라필루스는 지난 20일 디지털 싱글 앨범 ‘HIT YA!’를 발매하고 활발한 데뷔 활동을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 라필루스(Lapillus)가 ‘뮤직뱅크’를 접수했다. 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)는 1일 오후 방송된 KBS 2TV ‘뮤직뱅크’에 출연해 데뷔곡 ‘HITYA!(힛야!)’를 불렀다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 라필루스는 폭발적인 퍼포먼스로 ‘HIT YA’ 무대를 선사했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "완벽한 호흡의 칼군무부터시선을 강탈하는 포인트 안무 ‘BadX춤’까지 뜨거운 환호를 이끌어냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 신인답지 않은 여유로운 표정 연기와 무대 매너로 라필루스만의 틴크러시 에너지를 폭발시켰다. ‘HITYA!’는 가요계에 첫 발을 내딛는 여섯 소녀들의 자신감과 포부를 담아낸 곡으로 라필루스만의 매력을 담았다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더욱이 이승철이 스페셜 보컬 디렉터로 참여해 주목을 받았다. ‘HIT YA!’는 발매와 동시에 주요 음원사이트 실시간 차트 최상위권을 차지하며 뜨거운 관심을 모았다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 라필루스는 지난 20일 디지털 싱글 앨범 ‘HIT YA!’를 발매하고 활발한 데뷔 활동을 이어가고 있다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라필루스 칼군무 ‘뮤뱅’ 접수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

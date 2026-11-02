@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259950",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘찐가요 쇼’ 정다경 “팬 분들 괴롭힐 거다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 정다경이 솔직담백한 매력으로 청취자를 사로잡았다.\n정다경은 3일 오후 4시부터 방송된 kbc 라디오 ‘이한위의 찐가요 쇼’에 출연해 담백한 토크로 유쾌한 시간을 선물했다.\n방송에서 정다경은 진행을 맡은 이한위와 인사를 나누며 “임인년, 힘찬 한해 되시길 바랍니다”라고 새해 인사를 전해 듣는 이들을 미소 짓게 만들었다.\n정다경은 최근 발매한 신곡 ‘가라 그래’에 대해 “조영수 작곡가님께서 작곡해주셨다. 하우스 유로댄스 장르에 한국적인 음악을 가미한 노래라고 하셨다. 피처링은 소속사 식구인 티아라 소연 님이 참여해주셔서 든든하게 열심히 활동 중이다”라고 밝혔다.\n정다경은 활동 계획에 대해 “‘가라 그래’는 심혈을 많이 기울였고, 준비도 오래했다. 팬 분들이 아마 제일 기다리던 시간이 아니었나 싶다. 앞으로는 팬 분들이 기다리시지 않게 많이 활동하고 앞으로 팬 분들 괴롭힐 거다”라며 활발한 활동을 예고했다.\n마지막으로 ‘미스트롯’에서 선보였던 ‘당신이 좋아’를 비롯해 신곡 ‘가라 그래’를 가창했다.\n정다경은 다채로운 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정다경이 솔직담백한 매력으로 청취자를 사로잡았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정다경은 3일 오후 4시부터 방송된 kbc 라디오 ‘이한위의 찐가요 쇼’에 출연해 담백한 토크로 유쾌한 시간을 선물했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송에서 정다경은 진행을 맡은 이한위와 인사를 나누며 “임인년, 힘찬 한해 되시길 바랍니다”라고 새해 인사를 전해 듣는 이들을 미소 짓게 만들었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정다경은 최근 발매한 신곡 ‘가라 그래’에 대해 “조영수 작곡가님께서 작곡해주셨다. 하우스 유로댄스 장르에 한국적인 음악을 가미한 노래라고 하셨다. 피처링은 소속사 식구인 티아라 소연 님이 참여해주셔서 든든하게 열심히 활동 중이다”라고 밝혔다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정다경은 활동 계획에 대해 “‘가라 그래’는 심혈을 많이 기울였고, 준비도 오래했다. 팬 분들이 아마 제일 기다리던 시간이 아니었나 싶다. 앞으로는 팬 분들이 기다리시지 않게 많이 활동하고 앞으로 팬 분들 괴롭힐 거다”라며 활발한 활동을 예고했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마지막으로 ‘미스트롯’에서 선보였던 ‘당신이 좋아’를 비롯해 신곡 ‘가라 그래’를 가창했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정다경은 다채로운 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘찐가요 쇼’ 정다경 “팬 분들 괴롭힐 거다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

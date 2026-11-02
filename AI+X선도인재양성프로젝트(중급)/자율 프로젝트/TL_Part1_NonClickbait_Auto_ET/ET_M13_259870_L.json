@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259870",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단 지민, 투병근황 공개에 전세계 ‘들썩’",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 멤버 지민이 입원 치료 중인 근황을 공개해 아미팬들의 울고 웃게했다.\n방탄소년단 팬덤 아미에 따르면 지민은 2일 팬 커뮤니티 위버스에 근황을 올려 전 세계 아미를 안심시켰다.\n그는 “저 잘 회복하고 있다”며 “걱정끼쳐서 죄송하다. 하지만 금방 퇴원할 수 있을 것 같다”고 했다.\n그러면서 “회복도 잘하고 있고, 밥도 세끼 다 챙겨 먹었다”며 “잠시만 기다려 달라”고 했다.\n지민은 앞서 경미한 인후통 증세와 급작스러운 복통으로 병원 응급실에 방문한 결과 코로나19 확진 판정과 함꼐 급성 충수염(맹장염) 진단을 받고 지난달 31일 수술대에 올라 현재 회복 중이다.\n지민이 깜짝 근황을 공개하자 아미들도 화답했다.\n전 세계 및 한국, 미국, 일본, 인도, 말레이시아 등 트위터 실시간 트랜드에 지민과 관련한 인기글이 올라와 지민을 걱정하는 아미들의 물결이 이어졌다.\n지민의 쾌유를 기원하는 외신 보도 및 응원이 2일 기준 150여개에 달했고, 이번 근황 소식도 해외 매체들이 발빠르게 보도했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 멤버 지민이 입원 치료 중인 근황을 공개해 아미팬들의 울고 웃게했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단 팬덤 아미에 따르면 지민은 2일 팬 커뮤니티 위버스에 근황을 올려 전 세계 아미를 안심시켰다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “저 잘 회복하고 있다”며 “걱정끼쳐서 죄송하다. 하지만 금방 퇴원할 수 있을 것 같다”고 했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “회복도 잘하고 있고, 밥도 세끼 다 챙겨 먹었다”며 “잠시만 기다려 달라”고 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지민은 앞서 경미한 인후통 증세와 급작스러운 복통으로 병원 응급실에 방문한 결과 코로나19 확진 판정과 함꼐 급성 충수염(맹장염) 진단을 받고 지난달 31일 수술대에 올라 현재 회복 중이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지민이 깜짝 근황을 공개하자 아미들도 화답했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전 세계 및 한국, 미국, 일본, 인도, 말레이시아 등 트위터 실시간 트랜드에 지민과 관련한 인기글이 올라와 지민을 걱정하는 아미들의 물결이 이어졌다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지민의 쾌유를 기원하는 외신 보도 및 응원이 2일 기준 150여개에 달했고, 이번 근황 소식도 해외 매체들이 발빠르게 보도했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 지민, 투병근황 공개에 전세계 ‘들썩’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

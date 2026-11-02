@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170014",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "방통위, EBS 이사 9명 임명 의결",
+    "newsSubTitle": "",
+    "newsContent": "방송통신위원회는 13일 제40차 전체 회의를 열고 한국교육방송공사(EBS) 이사 9명 임명을 의결했다고 밝혔다.\n방통위는 지난 8월 26일 EBS 이사 면접대상자로 선정한 후보자 22명 중 무기명 투표로 7명을 추렸다.\n이들은 김선남 원광대 신문방송학과 교수와 문종대 동의대 미디어광고학부 교수, 유시춘 전 EBS 이사장, 이준용 호서대 혁신융합학부 교수, 정미정 뉴스제휴평가위원회 제휴평가위원, 조호연 전 경향신문 논설위원, 황성현 변호사 등이다.\n방통위는 교육부 장관이 추천한 박태경 언론중재위 제2중재부 위원과 한국교원단체총연합회(교총)가 추천한 양영복 한국교총 사무총장도 선임하기로 했다.\n이들 임기는 3년이다.\n이사장은 한국교육방송공사법에 따라 이사회에서 호선으로 결정될 예정이다.\n방통위는 방송통신발전 기본법 개정에 따른 후속 조치로 과징금 액수와 산정 절차 등을 구체화하는 시행령 개정안을 보고했다.\n방송통신발전법은 방송·통신 재난 관리계획 관련 시정명령 위반에 대한 과징금 부과 등을 골자로 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송통신위원회는 13일 제40차 전체 회의를 열고 한국교육방송공사(EBS) 이사 9명 임명을 의결했다고 밝혔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방통위는 지난 8월 26일 EBS 이사 면접대상자로 선정한 후보자 22명 중 무기명 투표로 7명을 추렸다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 김선남 원광대 신문방송학과 교수와 문종대 동의대 미디어광고학부 교수, 유시춘 전 EBS 이사장, 이준용 호서대 혁신융합학부 교수, 정미정 뉴스제휴평가위원회 제휴평가위원, 조호연 전 경향신문 논설위원, 황성현 변호사 등이다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방통위는 교육부 장관이 추천한 박태경 언론중재위 제2중재부 위원과 한국교원단체총연합회(교총)가 추천한 양영복 한국교총 사무총장도 선임하기로 했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들 임기는 3년이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이사장은 한국교육방송공사법에 따라 이사회에서 호선으로 결정될 예정이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "방통위는 방송통신발전 기본법 개정에 따른 후속 조치로 과징금 액수와 산정 절차 등을 구체화하는 시행령 개정안을 보고했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "방송통신발전법은 방송·통신 재난 관리계획 관련 시정명령 위반에 대한 과징금 부과 등을 골자로 한다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방통위, 교육부 장관이 추천한 뇌섹남 박태경 언론중재위 제2중재부 위원 선임",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275043",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서유리 “효도 인정?” 임영웅 콘서트 티켓팅 성공 ",
+		"newsSubTitle": "",
+		"newsContent": "방송인 서유리가 가수 임영웅 콘서트 티켓 예매 성공을 인증했다.\n서유리는 8일 자신의 사회관계망서비스(SNS)에 “저 효녀 인증합니다. 임영웅님 콘서트 예매 성공했어요. 물론 저는 완전 똥손이라 주변 지인 다 동원한 결과지만 어찌되었던 좋구나. 10년치 효도 인정? 건강하십쇼 어무니”라는 글과 함께 임영웅 콘서트 티켓팅 성공 사진을 올렸다.\n임영웅 콘서트는 개최할 때마다 매진이 되는 것으로 유명하다.\n특히 티케팅 때 대기자가 수천에서 만 명 넘게 뜰 때도 있을 정도다.\n이 때문에 티켓팅에 보다 특화된 자녀들이 부모님 대신 티켓팅을 시도하고 있다.\n한편 임영웅 현재 전국 투어 콘서트를 열고 있으며 인천, 대구를 지나 오는 8월 12일 서울에서 공연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 서유리가 가수 임영웅 콘서트 티켓 예매 성공을 인증했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서유리는 8일 자신의 사회관계망서비스(SNS)에 “저 효녀 인증합니다. 임영웅님 콘서트 예매 성공했어요. 물론 저는 완전 똥손이라 주변 지인 다 동원한 결과지만 어찌되었던 좋구나. 10년치 효도 인정? 건강하십쇼 어무니”라는 글과 함께 임영웅 콘서트 티켓팅 성공 사진을 올렸다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임영웅 콘서트는 개최할 때마다 매진이 되는 것으로 유명하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 티케팅 때 대기자가 수천에서 만 명 넘게 뜰 때도 있을 정도다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 때문에 티켓팅에 보다 특화된 자녀들이 부모님 대신 티켓팅을 시도하고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 임영웅 현재 전국 투어 콘서트를 열고 있으며 인천, 대구를 지나 오는 8월 12일 서울에서 공연한다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서유리 “효도 인정?” 임영웅 콘서트 티켓팅 성공 ",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

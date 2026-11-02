@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284729",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'언프리티 랩스타2' 전지윤, 흑역사 언급하며 \\\"우린 씹어 먹네~\\\"",
+		"newsSubTitle": "",
+		"newsContent": "전지윤과 유빈 팀이 모두의 예상을 깨고 엄청난 무대를 펼친 가운데 전지윤이 흑역사를 언급한 당당함으로 호평을 자아냈다.\n10월 30일 방송된 Mnet '언프리티 랩스타 2'에서는 파이널 트랙을 두고 경쟁할 이들을 가리기 위한 팀워크 배틀이 전파를 탔다.\n10명 중 7명만이 파이널 트랙 선정에 함께하게 된다.\n이날 전지윤과 유빈은 '내가 내가 해'라는 중독적이 후크를 이용해 무대를 꾸몄다. '내가 내가 해'는 앞서 전지윤이 '언프리티 랩스타 2'에 처음 등장했을 때 싸이퍼로 했을 때 유행어로 파생한 후렴구였다.\n무대를 본 후 심사위원들은 \\\"흑역사일 수 있는 가사를 소화했다\\\"며 팀 콘셉트를 아낌없이 칭찬했다.\n이에 전지윤은 \\\"유빈 언니 아이디어가 신의 한수였다\\\"며 자신의 파트너 선택에 만족감을 보였다. [사진= Mnet '언프리티 랩스타 2' 방송 캡처] 온라인 중앙일보 언프리티 랩스타2 전지윤",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전지윤과 유빈 팀이 모두의 예상을 깨고 엄청난 무대를 펼친 가운데 전지윤이 흑역사를 언급한 당당함으로 호평을 자아냈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10월 30일 방송된 Mnet '언프리티 랩스타 2'에서는 파이널 트랙을 두고 경쟁할 이들을 가리기 위한 팀워크 배틀이 전파를 탔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "10명 중 7명만이 파이널 트랙 선정에 함께하게 된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 전지윤과 유빈은 '내가 내가 해'라는 중독적이 후크를 이용해 무대를 꾸몄다. '내가 내가 해'는 앞서 전지윤이 '언프리티 랩스타 2'에 처음 등장했을 때 싸이퍼로 했을 때 유행어로 파생한 후렴구였다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무대를 본 후 심사위원들은 \\\"흑역사일 수 있는 가사를 소화했다\\\"며 팀 콘셉트를 아낌없이 칭찬했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 전지윤은 \\\"유빈 언니 아이디어가 신의 한수였다\\\"며 자신의 파트너 선택에 만족감을 보였다. [사진= Mnet '언프리티 랩스타 2' 방송 캡처] 온라인 중앙일보 언프리티 랩스타2 전지윤",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'언프리티 랩스타2' 전지윤, 흑역사 언급하며 \\\"우린 씹어 먹네~\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

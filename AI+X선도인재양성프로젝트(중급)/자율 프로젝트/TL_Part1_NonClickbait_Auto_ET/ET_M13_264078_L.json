@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264078",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "EU, 아마존 영화사 MGM 인수 거래 승인",
+		"newsSubTitle": "",
+		"newsContent": "세계 최대 전자상거래 업체 아마존이 영화사 MGM을 인수하는 계획이 15일(현지시간) 유럽연합(EU) 경쟁 당국의 승인을 받았다.\nEU 반독점 기구 EU 집행위원회는 이날 65억달러(8조750억원)에 영화 스튜디오 MGM을 인수하겠다는 아마존의 제안을 조건 없이 승인했다고 일간 월스트리트저널(WSJ)이 보도했다.\nEU 집행위는 콘텐츠 제작에서 두 회사의 사업이 그다지 겹치지 않고, MGM 콘텐츠가 필수재라고 볼 수 없는 점 등을 들어 이번 인수가 경쟁을 크게 저해하지 않는다고 판단했다.\n이에 따라 아마존은 MGM 인수를 위한 여러 걸림돌 중 하나를 해결하게 됐다.\n인수가 성사되면 동영상 스트리밍 서비스 ‘프라임 비디오’를 제공하는 아마존은 첩보물 간판 격인 007 영화 프랜차이즈를 포함해 방대한 영화 및 TV 드라마 작품을 확보하게 돼 넷플릭스, 디즈니+(플러스) 등 다른 서비스와의 다툼에서 아마존의 경쟁력이 한층 강화될 것으로 예상된다.\n미국 연방거래위원회(FTC)도 아마존 MGM 인수 계획을 들여다보고 있다.\n월스트리트저널은 이달 중순까지 FTC가 소송을 제기하지 않을 경우 아마존이 인수 거래를 그대로 진행할 수 있을 것으로 관측했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계 최대 전자상거래 업체 아마존이 영화사 MGM을 인수하는 계획이 15일(현지시간) 유럽연합(EU) 경쟁 당국의 승인을 받았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EU 반독점 기구 EU 집행위원회는 이날 65억달러(8조750억원)에 영화 스튜디오 MGM을 인수하겠다는 아마존의 제안을 조건 없이 승인했다고 일간 월스트리트저널(WSJ)이 보도했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "EU 집행위는 콘텐츠 제작에서 두 회사의 사업이 그다지 겹치지 않고, MGM 콘텐츠가 필수재라고 볼 수 없는 점 등을 들어 이번 인수가 경쟁을 크게 저해하지 않는다고 판단했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 아마존은 MGM 인수를 위한 여러 걸림돌 중 하나를 해결하게 됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인수가 성사되면 동영상 스트리밍 서비스 ‘프라임 비디오’를 제공하는 아마존은 첩보물 간판 격인 007 영화 프랜차이즈를 포함해 방대한 영화 및 TV 드라마 작품을 확보하게 돼 넷플릭스, 디즈니+(플러스) 등 다른 서비스와의 다툼에서 아마존의 경쟁력이 한층 강화될 것으로 예상된다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국 연방거래위원회(FTC)도 아마존 MGM 인수 계획을 들여다보고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "월스트리트저널은 이달 중순까지 FTC가 소송을 제기하지 않을 경우 아마존이 인수 거래를 그대로 진행할 수 있을 것으로 관측했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "EU, 아마존 영화사 MGM 인수 거래 승인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264976",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "태연, 차분한 느낌마저 완벽한 초근접 셀피",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 소녀시대 멤버 태연이 차분한 미모를 자랑했다.\n태연은 25일 자신의 사회 관계망 서비스(SNS) 인스타그램 스토리에 별다른 멘트 없이 영상을 공개했다.\n영상 속 태연은 스케줄 차 어디론가 이동하는 모습이다.\n특히 태연은 밝은 갈색 머리로 앞머리를 넘기며 차분한 느낌을 강조하는 담았으며, 초근접 셀피에서도 굴욕 없는 모습으로 보는 이들의 시선을 사로잡았다.\n한편 태연은 지난달 14일 정규 3집 ‘INVU’를 발매했다.\n발매 후 가온차트 4주 연속 2관왕에 이어 음악방송 7관왕을 달성하며 롱런 인기를 실감케 했다.\n또 태연은 오는 31일 첫 방송될 Mnet ‘퀸덤2’에 그랜드 마스터로 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 소녀시대 멤버 태연이 차분한 미모를 자랑했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "태연은 25일 자신의 사회 관계망 서비스(SNS) 인스타그램 스토리에 별다른 멘트 없이 영상을 공개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 태연은 스케줄 차 어디론가 이동하는 모습이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 태연은 밝은 갈색 머리로 앞머리를 넘기며 차분한 느낌을 강조하는 담았으며, 초근접 셀피에서도 굴욕 없는 모습으로 보는 이들의 시선을 사로잡았다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 태연은 지난달 14일 정규 3집 ‘INVU’를 발매했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발매 후 가온차트 4주 연속 2관왕에 이어 음악방송 7관왕을 달성하며 롱런 인기를 실감케 했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 태연은 오는 31일 첫 방송될 Mnet ‘퀸덤2’에 그랜드 마스터로 출연한다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태연, 차분한 느낌마저 완벽한 초근접 셀피",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

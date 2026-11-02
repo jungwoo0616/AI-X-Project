@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263659",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘너목보9’ 김조한&이석훈&김재환이 뭉쳤다",
+		"newsSubTitle": "",
+		"newsContent": "오늘(12일) 밤 방송하는 Mnet ‘너의 목소리가 보여9(이하 ‘너목보9’)’ 7회에는 화이트데이를 맞아 고막 남친 김조한, 이석훈, 김재환이 초대 스타로 출연해 미스터리 싱어들과 대결을 펼친다.\n시즌2에 이어 ‘너목보’ 두 번째 출연인 김조한을 필두로 똘똘 뭉친 이석훈과 김재환은 “(혼자 볼 땐) 성공률이 괜찮았다”며 강한 자신감을 내비쳤다.\n미스터리 싱어들이 공개된 후 김조한과 이석훈은 “노래 못한다”, “확실히 잘할 것 같다”고 호언장담하는 모습으로 기대감을 높인다.\n또한, 막내 김재환은 “아는 사람 같다”며 자리를 박차고 일어나는 등 예측 불허한 상황을 예고하고 있다.\n결코 만만치 않은 연기력의 미스터리 싱어들의 정체가 밝혀질수록 고막 남친 세 사람은 당황하며 말을 잇지 못했고, 급기야 김재환은 무릎을 꿇는 등 본 방송에 궁금증이 더해진다. “제대로 잘 못 짚었다”며 연이은 실패에 정신을 못 차리는 세 사람의 모습에 음치수사대 한해는 “달콤한 분들인 줄 알았는데 에스프레소였다”고 말해 웃음을 안긴다.\n과연 고막 남친 세 사람은 실력자 찾기에 성공해 감미로운 듀엣 무대를 완성할 수 있을지 오늘 밤 방송하는 ‘너목보9’ 7회에서 확인할 수 있다. ‘너목보9’은 매주 토요일 밤 10시 40분, Mnet과 tvN에서 동시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오늘(12일) 밤 방송하는 Mnet ‘너의 목소리가 보여9(이하 ‘너목보9’)’ 7회에는 화이트데이를 맞아 고막 남친 김조한, 이석훈, 김재환이 초대 스타로 출연해 미스터리 싱어들과 대결을 펼친다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시즌2에 이어 ‘너목보’ 두 번째 출연인 김조한을 필두로 똘똘 뭉친 이석훈과 김재환은 “(혼자 볼 땐) 성공률이 괜찮았다”며 강한 자신감을 내비쳤다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미스터리 싱어들이 공개된 후 김조한과 이석훈은 “노래 못한다”, “확실히 잘할 것 같다”고 호언장담하는 모습으로 기대감을 높인다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한, 막내 김재환은 “아는 사람 같다”며 자리를 박차고 일어나는 등 예측 불허한 상황을 예고하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "결코 만만치 않은 연기력의 미스터리 싱어들의 정체가 밝혀질수록 고막 남친 세 사람은 당황하며 말을 잇지 못했고, 급기야 김재환은 무릎을 꿇는 등 본 방송에 궁금증이 더해진다. “제대로 잘 못 짚었다”며 연이은 실패에 정신을 못 차리는 세 사람의 모습에 음치수사대 한해는 “달콤한 분들인 줄 알았는데 에스프레소였다”고 말해 웃음을 안긴다.",
+				"sentenceSize": 188
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과연 고막 남친 세 사람은 실력자 찾기에 성공해 감미로운 듀엣 무대를 완성할 수 있을지 오늘 밤 방송하는 ‘너목보9’ 7회에서 확인할 수 있다. ‘너목보9’은 매주 토요일 밤 10시 40분, Mnet과 tvN에서 동시 방송된다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘너목보9’ 김조한&이석훈&김재환이 뭉쳤다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

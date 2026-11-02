@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267547",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이다은·윤남기, 9월 3일 결혼…유세윤 사회 약속지킨다",
+		"newsSubTitle": "",
+		"newsContent": "이다은, 윤남기가 오는 9월 3일 결혼식을 올린다.\n이미 혼인신고를 마친 두 사람은 가족, 지인들만 초대해 예식을 올릴 예정이다.\n두 사람은 MBN ‘돌싱글즈2’에 출연해 인연을 맺었다.\n두 사람은 ‘돌싱글즈 외전’을 통해 재혼 준비 과정을 공개하기도 했다.\n방송에서 이다은에게 청혼하는 모습도 공개한 윤남기는 “결혼 날짜는 8월 30일에서 9월 3일 사이 였으면 좋겠다”고 밝혔다.\n그 이유에 대해 “8월 30일이 ‘돌싱글즈2’로 처음 만난 날이다. 4박 5일간 함께 있었으니 그 사이에 했으면 좋겠다”고 말했다.\n윤남기와 이다은은 지난 18일 방송된 ‘돌싱글즈 외전’ 최종회에서 스튜디오에 직접 출연하기도 했다.\nMC 유세윤은 결혼식 사회를, 존박은 축가를 해주겠다고 나서 훈훈함을 자아냈다.\n이날 방송에서 윤남기와 이다은은 혼인신고 증명서를 꺼내 “이 자리에서 말씀드리고 싶어 처음 공개한다”고 혼인신고를 마친 사실을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이다은, 윤남기가 오는 9월 3일 결혼식을 올린다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이미 혼인신고를 마친 두 사람은 가족, 지인들만 초대해 예식을 올릴 예정이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 MBN ‘돌싱글즈2’에 출연해 인연을 맺었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 ‘돌싱글즈 외전’을 통해 재혼 준비 과정을 공개하기도 했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방송에서 이다은에게 청혼하는 모습도 공개한 윤남기는 “결혼 날짜는 8월 30일에서 9월 3일 사이 였으면 좋겠다”고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 이유에 대해 “8월 30일이 ‘돌싱글즈2’로 처음 만난 날이다. 4박 5일간 함께 있었으니 그 사이에 했으면 좋겠다”고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윤남기와 이다은은 지난 18일 방송된 ‘돌싱글즈 외전’ 최종회에서 스튜디오에 직접 출연하기도 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "MC 유세윤은 결혼식 사회를, 존박은 축가를 해주겠다고 나서 훈훈함을 자아냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이날 방송에서 윤남기와 이다은은 혼인신고 증명서를 꺼내 “이 자리에서 말씀드리고 싶어 처음 공개한다”고 혼인신고를 마친 사실을 밝혔다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이다은·윤남기, 9월 3일 결혼…유세윤 사회 약속지킨다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

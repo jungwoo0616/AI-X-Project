@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278420",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "투컷 득녀, “산모와 아이 모두 건강”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에픽하이의 투컷 득녀 소식이 화제다.\n소속사 YG엔터테인먼트에 따르면, 투컷은 15일 오후 둘째 딸을 품에 안았다.\n산모와 아기 모두 건강한 상태다.\n15일 소속사는 투컷 득녀 소식을 전했다.\n소속사는“투컷이 예쁜 딸 아이를 얻었다. 산모와 아이 모두 건강하며 투컷이 둘째 아이를 얻은 것에 크게 기뻐하고 있다”며 “산모와 아이 모두 건강하다”고 밝혔다.\n투컷은 지난해 9월 SNS를 통해 “윤우 동생이 생겼다”며 아내의 둘째 임신 소식을 밝혔다.\n투컷은 지난 2009년 결혼, 2012년 결혼 3년 만에 첫째 아들 윤우 군을 얻었다.\n투컷과 윤우는 ‘슈퍼맨이 돌아왔다’에 타블로 하루 부녀와 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에픽하이의 투컷 득녀 소식이 화제다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 YG엔터테인먼트에 따르면, 투컷은 15일 오후 둘째 딸을 품에 안았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "산모와 아기 모두 건강한 상태다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "15일 소속사는 투컷 득녀 소식을 전했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는“투컷이 예쁜 딸 아이를 얻었다. 산모와 아이 모두 건강하며 투컷이 둘째 아이를 얻은 것에 크게 기뻐하고 있다”며 “산모와 아이 모두 건강하다”고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "투컷은 지난해 9월 SNS를 통해 “윤우 동생이 생겼다”며 아내의 둘째 임신 소식을 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "투컷은 지난 2009년 결혼, 2012년 결혼 3년 만에 첫째 아들 윤우 군을 얻었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "투컷과 윤우는 ‘슈퍼맨이 돌아왔다’에 타블로 하루 부녀와 출연했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "투컷 득녀, “산모와 아이 모두 건강”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

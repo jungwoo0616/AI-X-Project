@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170463",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'힛더스테이지' 김청하가 어머니에게 전하는 진심어린 눈물",
+    "newsSubTitle": "",
+    "newsContent": "'힛더스테이지’김청하가 어머니를 언급하며 눈물을 보였다.\n김청하는 10일 방송된 Mnet‘힛더스테이지’에서“집안 사정이 안 좋았다.\n엄마에게‘난 춤을 너무 추고 싶고 잘할 자신 있으니까 시켜만 달라고 말했다”며 “불효를 저지르면서까지 하고 싶었다.\n그래서 죄송하다”고 말했다. 이어 눈시울을 붉히며 “난 빨리 성공해야 한다.\n그래서 이번 무대가 중요할 것 같다”며 “겁도 나지만 저란 사람을 더 알릴 수 있는 기회”라고 각오를 밝혔다.\n온라인 중앙일보 [사진 Mnet 제공]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'힛더스테이지’김청하가 어머니를 언급하며 눈물을 보였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김청하는 10일 방송된 Mnet‘힛더스테이지’에서“집안 사정이 안 좋았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "엄마에게‘난 춤을 너무 추고 싶고 잘할 자신 있으니까 시켜만 달라고 말했다”며 “불효를 저지르면서까지 하고 싶었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그래서 죄송하다”고 말했다. 이어 눈시울을 붉히며 “난 빨리 성공해야 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그래서 이번 무대가 중요할 것 같다”며 “겁도 나지만 저란 사람을 더 알릴 수 있는 기회”라고 각오를 밝혔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 Mnet 제공]",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불효를 저지르는 한이 있어도 나날이 불타올라... '힛더스테이지’ 김청하 끝내 눈물",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269323",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지연, 모태 미녀일 수밖에 없는 이유 “아빠 콧대 무슨 일이야”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 티아라 멤버 겸 배우 지연이 어린이날을 맞아 과거 사진들을 공개했다.\n지연은 지난 5일 자신의 사회관계망서비스(SNS) 인스타그램 계정을 통해 어린 시절 사진들을 게재했다.\n지연은 “아빠 콧대 무슨 일이야”라는 글을 남겨 부친의 조각 같은 옆모습을 치켜세웠다.\n어린 시절 지연은 아빠의 장난 때문에 거꾸로 매달려 있어 “난 무슨 일이야”라며 큰 웃음을 자아냈다.\n또 지연은 “우리 엄마가 제일 예쁘고 멋있다”라는 문구와 함께 엄마와 함께 찍은 사진도 공개했다.\n사진 속 지연은 뾰로통한 표정으로 어딘 가를 응시하고 있다.\n한편, 지연은 지난 2월 야구선수 황재균과 깜짝 결혼을 발표해 화제가 됐다.\n두 사람은 오는 12월 결혼식을 올릴 예정이다.\n또 지연은 영화 ‘강남’에 캐스팅됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 티아라 멤버 겸 배우 지연이 어린이날을 맞아 과거 사진들을 공개했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지연은 지난 5일 자신의 사회관계망서비스(SNS) 인스타그램 계정을 통해 어린 시절 사진들을 게재했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지연은 “아빠 콧대 무슨 일이야”라는 글을 남겨 부친의 조각 같은 옆모습을 치켜세웠다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어린 시절 지연은 아빠의 장난 때문에 거꾸로 매달려 있어 “난 무슨 일이야”라며 큰 웃음을 자아냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 지연은 “우리 엄마가 제일 예쁘고 멋있다”라는 문구와 함께 엄마와 함께 찍은 사진도 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진 속 지연은 뾰로통한 표정으로 어딘 가를 응시하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 지연은 지난 2월 야구선수 황재균과 깜짝 결혼을 발표해 화제가 됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 사람은 오는 12월 결혼식을 올릴 예정이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 지연은 영화 ‘강남’에 캐스팅됐다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지연, 모태 미녀일 수밖에 없는 이유 “아빠 콧대 무슨 일이야”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

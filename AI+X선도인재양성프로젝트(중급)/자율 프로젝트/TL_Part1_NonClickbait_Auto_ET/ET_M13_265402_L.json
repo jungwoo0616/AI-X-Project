@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265402",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "몬스타엑스 형원, 희귀질환 환아 위해 1천만원 기부",
+		"newsSubTitle": "",
+		"newsContent": "그룹 몬스타엑스(MONSTA X) 형원이 선한 영향력을 전파했다.\n더마 코스메틱 브랜드 웰라쥬(Wellage) 측은 30일 광고 모델인 형원과 함께 희귀질환 아동 후원 비영리 단체인 여울돌을 통해 기부금을 전달했다고 밝혔다.\n웰라쥬는 지난 1월 브랜드 공식 모델인 몬스타엑스 형원의 생일을 맞아 형원과 함께 구성한 특별한 컬래버 기획 세트를 판매해 수익금 일부를 기부하는 프로젝트를 진행했다.\n이에 형원은 “좋은 일에 동참하고 싶다”며 자신의 사비 1천만 원을 흔쾌히 전달해 프로젝트에 따뜻한 의미를 더했다.\n형원의 기부금은 희귀질환 환아 총 25명에게 전달됐다.\n한편 형원이 속한 몬스타엑스는 지난 2020년 코로나19 확산 방지를 위해 대구·경북 지역 취약계층 및 저소득가정 아동에게 1억 원을 기부한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 몬스타엑스(MONSTA X) 형원이 선한 영향력을 전파했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "더마 코스메틱 브랜드 웰라쥬(Wellage) 측은 30일 광고 모델인 형원과 함께 희귀질환 아동 후원 비영리 단체인 여울돌을 통해 기부금을 전달했다고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "웰라쥬는 지난 1월 브랜드 공식 모델인 몬스타엑스 형원의 생일을 맞아 형원과 함께 구성한 특별한 컬래버 기획 세트를 판매해 수익금 일부를 기부하는 프로젝트를 진행했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 형원은 “좋은 일에 동참하고 싶다”며 자신의 사비 1천만 원을 흔쾌히 전달해 프로젝트에 따뜻한 의미를 더했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "형원의 기부금은 희귀질환 환아 총 25명에게 전달됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 형원이 속한 몬스타엑스는 지난 2020년 코로나19 확산 방지를 위해 대구·경북 지역 취약계층 및 저소득가정 아동에게 1억 원을 기부한 바 있다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "몬스타엑스 형원, 희귀질환 환아 위해 1천만원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

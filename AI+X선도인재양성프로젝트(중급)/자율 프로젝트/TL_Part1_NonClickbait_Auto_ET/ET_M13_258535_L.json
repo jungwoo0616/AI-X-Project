@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258535",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘슈퍼 신예’ 케플러, 빌보드 글로벌 차트 진입 ‘WA DA DA’",
+		"newsSubTitle": "",
+		"newsContent": "신예 걸그룹 케플러(Kep1er)의 ‘WA DA DA’에 글로벌 음원 차트가 답했다.\n지난 3일 발매된 케플러 데뷔 타이틀곡 ‘WA DA DA (와 다 다)’는 세계 최대 음악 스트리밍 사이트 스포티파이(Spotify)의 ‘글로벌 톱 200’ 차트에 첫 진입한 데 이어, 미국 빌보드 다수 차트에도 이름을 올리며 글로벌 음악계에 존재감을 드러내고 있다.\n케플러 데뷔곡 ‘WA DA DA’는 지난 16일 기준 스포티파이 ‘글로벌 톱 200’ 차트에 195위로 진입했다.\n이와 함께 미국 빌보드 ‘월드 디지털 송 세일즈 (World Digital Songs Sales)’ 차트 및 ‘빌보드 글로벌(Billboard Global Excl. U.S.)’ 차트, ‘핫 트렌딩 송즈 (Hot Trending Songs)’ 차트에서도 호성적을 거두며 진입에 성공했다.\n케플러는 데뷔와 동시에 미니앨범 ‘FIRST IMPACT (퍼스트 임팩트)’와 타이틀곡 ‘WA DA DA’로 스포티파이와 각종 빌보드 차트 등 글로벌 음악 플랫폼에 이름을 올리며 음악 팬들을 사로잡았다.\n세계가 주목하는 신예 케플러는 역대 걸그룹 데뷔 앨범 초동 기록 경신, 음악방송 2관왕 등 신기록 행군을 이어가고 있다.\n앞으로도 케플러는 데뷔 타이틀곡 ‘WA DA DA’로 활발한 활동을 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신예 걸그룹 케플러(Kep1er)의 ‘WA DA DA’에 글로벌 음원 차트가 답했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 3일 발매된 케플러 데뷔 타이틀곡 ‘WA DA DA (와 다 다)’는 세계 최대 음악 스트리밍 사이트 스포티파이(Spotify)의 ‘글로벌 톱 200’ 차트에 첫 진입한 데 이어, 미국 빌보드 다수 차트에도 이름을 올리며 글로벌 음악계에 존재감을 드러내고 있다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "케플러 데뷔곡 ‘WA DA DA’는 지난 16일 기준 스포티파이 ‘글로벌 톱 200’ 차트에 195위로 진입했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 미국 빌보드 ‘월드 디지털 송 세일즈 (World Digital Songs Sales)’ 차트 및 ‘빌보드 글로벌(Billboard Global Excl. U.S.)’ 차트, ‘핫 트렌딩 송즈 (Hot Trending Songs)’ 차트에서도 호성적을 거두며 진입에 성공했다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "케플러는 데뷔와 동시에 미니앨범 ‘FIRST IMPACT (퍼스트 임팩트)’와 타이틀곡 ‘WA DA DA’로 스포티파이와 각종 빌보드 차트 등 글로벌 음악 플랫폼에 이름을 올리며 음악 팬들을 사로잡았다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세계가 주목하는 신예 케플러는 역대 걸그룹 데뷔 앨범 초동 기록 경신, 음악방송 2관왕 등 신기록 행군을 이어가고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞으로도 케플러는 데뷔 타이틀곡 ‘WA DA DA’로 활발한 활동을 펼칠 예정이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘슈퍼 신예’ 케플러, 빌보드 글로벌 차트 진입 ‘WA DA DA’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

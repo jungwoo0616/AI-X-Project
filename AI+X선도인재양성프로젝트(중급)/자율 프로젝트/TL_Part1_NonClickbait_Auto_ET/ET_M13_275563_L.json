@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275563",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이적 ,15년 만 예능 단독 MC 맡았다",
+		"newsSubTitle": "",
+		"newsContent": "가수 이적이 15년 만에 예능 프로그램 단독 MC로 나선다.\n이적은 오는 8월 8일 첫 방송하는 MBN 신규 예능 프로그램 ‘미스터리 듀엣’의 단독 MC로 활약한다.\n제작진 측은 “이적은 10년 만에 예능 고정 패널 박경림, 센스 있는 입담 소유자 허경환과 함께 프로그램에 활력을 불어넣을 것”이라며 예고 포스터를 공개했다.\n공개된 사진 속에는 이적이 두 가지 색의 배경 가운데에 서 있는 모습이 담겨있다. ‘미스터리 듀엣’은 국내 최고의 가수와 셀럽들이 듀엣 상대를 모르는 상태로 노래를 시작한 뒤 서로의 존재를 확인하는 예능 프로그램이다.\n제작진은 “‘미스터리 듀엣’은 역대급 스케일의 무대, 실력파 가수들과 국내 최고라 자부하는 셀럽들의 가슴 찡한 사연을 더해 차원이 다른 감동을 선사하는 음악 프로그램이 될 것”이라고 자부했다.\n이적은 2006년 10월 SBS 음악 예능 프로그램 ‘음악공간’에서 MC를 맡은 후 15년 만에 예능 프로그램 단독 MC를 맡게 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이적이 15년 만에 예능 프로그램 단독 MC로 나선다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이적은 오는 8월 8일 첫 방송하는 MBN 신규 예능 프로그램 ‘미스터리 듀엣’의 단독 MC로 활약한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제작진 측은 “이적은 10년 만에 예능 고정 패널 박경림, 센스 있는 입담 소유자 허경환과 함께 프로그램에 활력을 불어넣을 것”이라며 예고 포스터를 공개했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진 속에는 이적이 두 가지 색의 배경 가운데에 서 있는 모습이 담겨있다. ‘미스터리 듀엣’은 국내 최고의 가수와 셀럽들이 듀엣 상대를 모르는 상태로 노래를 시작한 뒤 서로의 존재를 확인하는 예능 프로그램이다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제작진은 “‘미스터리 듀엣’은 역대급 스케일의 무대, 실력파 가수들과 국내 최고라 자부하는 셀럽들의 가슴 찡한 사연을 더해 차원이 다른 감동을 선사하는 음악 프로그램이 될 것”이라고 자부했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이적은 2006년 10월 SBS 음악 예능 프로그램 ‘음악공간’에서 MC를 맡은 후 15년 만에 예능 프로그램 단독 MC를 맡게 됐다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이적 ,15년 만 예능 단독 MC 맡았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170877",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘모가디슈’ 올해 한국영화 중 첫 200만 돌파 기록",
+    "newsSubTitle": "",
+    "newsContent": "영화 ‘모가디슈’가 올해 한국 영화 최초로 200만 관객을 돌파했다.\n영진위 통합전상망에 따르면 개봉 17일 째를 맞은 ‘모가디슈’는 13일 오후 12시 기준 200만명 관객 수를 돌파했다.\n이는 올해 개봉한 한국 영화로는 최초 기록이다.\n또한 사회적 거리두기 4단계로 인한 영화계 침체기에서 이룬 성적이기도 하다.\n앞서 ‘모가디슈’는 개봉 7일째인 지난 3일 100만 관객을 돌파하며 올해 개봉한 한국 영화 중 최고 흥행작으로 올랐다. ‘모가디슈’ 1991년 소말리아 내전 당시 남북한 공관원들의 탈출 실화를 모티브로 한 영화다.\n소말리아 내전을 소제호 한 흥행작 ‘블랙 호크 다운’(2002 개봉)을 연출했던 리들리 스콧 감독은 “‘모가디슈’ 이야기는 알려질 가치가 있는 사건을 다루고 있다”며 “전 세계적으로 혼란스러운 이 시기에 영화를 공개한 것은 탁월한 선택”이라고 호평했다. ‘모가디슈’의 주역들도 200만 관객 돌파를 기념해 감사인사를 전했다.\n김윤석, 조인성, 허준호, 구교환, 김소진, 정만식, 김재화, 박경혜 등 배우는 각각 관객에게 영상 통화를 하는 콘셉트로 감사한 마음을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 ‘모가디슈’가 올해 한국 영화 최초로 200만 관객을 돌파했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영진위 통합전상망에 따르면 개봉 17일 째를 맞은 ‘모가디슈’는 13일 오후 12시 기준 200만명 관객 수를 돌파했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 올해 개봉한 한국 영화로는 최초 기록이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 사회적 거리두기 4단계로 인한 영화계 침체기에서 이룬 성적이기도 하다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 ‘모가디슈’는 개봉 7일째인 지난 3일 100만 관객을 돌파하며 올해 개봉한 한국 영화 중 최고 흥행작으로 올랐다. ‘모가디슈’ 1991년 소말리아 내전 당시 남북한 공관원들의 탈출 실화를 모티브로 한 영화다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소말리아 내전을 소제호 한 흥행작 ‘블랙 호크 다운’(2002 개봉)을 연출했던 리들리 스콧 감독은 “‘모가디슈’ 이야기는 알려질 가치가 있는 사건을 다루고 있다”며 “전 세계적으로 혼란스러운 이 시기에 영화를 공개한 것은 탁월한 선택”이라고 호평했다. ‘모가디슈’의 주역들도 200만 관객 돌파를 기념해 감사인사를 전했다.",
+        "sentenceSize": 181
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김윤석, 조인성, 허준호, 구교환, 김소진, 정만식, 김재화, 박경혜 등 배우는 각각 관객에게 영상 통화를 하는 콘셉트로 감사한 마음을 밝혔다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 '모가디슈', 올해 한국 영화 최초 이것 돌파... 영화계 구했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

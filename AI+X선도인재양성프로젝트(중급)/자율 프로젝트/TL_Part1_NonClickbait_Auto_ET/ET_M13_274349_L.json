@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274349",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "김호중, 첫 정규 ‘파노라마’로 복귀확정",
+		"newsSubTitle": "",
+		"newsContent": "가수 김호중이 돌아온다.\n김호중 소속사 생각 엔터테인먼트는 김호중은 오는 7월 27일 오후 6시 각종 온라인 음원 사이트에서 정규 앨범 ‘파노라마’(PANORAMA)를 발매한다고 30일 밝혔다. ‘파나로마’는 소집해제 이후 대중에게 처음 선보이는 정규 단위 앨범이다.\n인생의 주마등 속에 자리한 연인, 친구, 팬들에게 전하는 김호중의 안부 인사가 담겼다는 것이 소속사의 설명이다.\n총 16트랙이 수록됐다.\n정통 성악부터 발라드 성향의 크로스오버, 라틴 음악, 레전드 가수 최백호 듀엣까지 클래식을 기본으로 하는 다양한 곡으로 구성됐다.\n김호중은 ‘주마등’과 ‘약속’으로 더블 타이틀곡 활동을 예정했다.\n두 곡은 돌비 사운드를 제공함을 물론 ‘약속’에서는 피아니스트 이루마가 집접 작곡에 참여하기도 했다.\n앨범 커버에는 NOMA가 참여해 다채로운 음악을 대중에게 선보이겠다는 김호중의 의지를 담아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김호중이 돌아온다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김호중 소속사 생각 엔터테인먼트는 김호중은 오는 7월 27일 오후 6시 각종 온라인 음원 사이트에서 정규 앨범 ‘파노라마’(PANORAMA)를 발매한다고 30일 밝혔다. ‘파나로마’는 소집해제 이후 대중에게 처음 선보이는 정규 단위 앨범이다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인생의 주마등 속에 자리한 연인, 친구, 팬들에게 전하는 김호중의 안부 인사가 담겼다는 것이 소속사의 설명이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "총 16트랙이 수록됐다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정통 성악부터 발라드 성향의 크로스오버, 라틴 음악, 레전드 가수 최백호 듀엣까지 클래식을 기본으로 하는 다양한 곡으로 구성됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김호중은 ‘주마등’과 ‘약속’으로 더블 타이틀곡 활동을 예정했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 곡은 돌비 사운드를 제공함을 물론 ‘약속’에서는 피아니스트 이루마가 집접 작곡에 참여하기도 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앨범 커버에는 NOMA가 참여해 다채로운 음악을 대중에게 선보이겠다는 김호중의 의지를 담아냈다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중, 첫 정규 ‘파노라마’로 복귀확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

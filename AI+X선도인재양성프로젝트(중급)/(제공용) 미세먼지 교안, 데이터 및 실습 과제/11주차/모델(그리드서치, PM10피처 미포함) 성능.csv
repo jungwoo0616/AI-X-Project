@@ -1,0 +1,4 @@
+﻿"모델(그리드서치, PM10제외)",RMSE_useAll,R2score_useAll,RMSE_removeNAN,R2score_removeNAN,RMSE_useSelected,R2score_useSelected
+RandomForest,13.698,0.66,14.01,0.645,14.023,0.644
+XGBRegressor,12.833,0.701,12.855,0.701,13.006,0.694
+LGBMRegressor,13.063,0.691,13.11,0.689,12.931,0.7

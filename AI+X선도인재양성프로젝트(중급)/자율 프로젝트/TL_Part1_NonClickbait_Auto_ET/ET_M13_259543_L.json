@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259543",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘찰리 브라운’ 목소리 연기한 美 배우 피터 로빈스 별세",
+		"newsSubTitle": "",
+		"newsContent": "미국 인기 만화 캐릭터 ‘찰리 브라운’ 목소리를 연기한 배우 피터 로빈스가 65세 일기로 별세했다.\n미 영화 전문매체 데드라인은 26일(현지시간) 로빈스가 지난주 사망했다고 전했다.\n로빈스 가족은 그가 극단적인 선택을 했다고 밝혔고, 폭스 뉴스는 로빈스가 정신 건강 문제 등으로 어려움을 겪었다고 전했다.\n피터 로빈스은 인기 만화 캐릭터 찰리 브라운 목소리를 처음으로 연기한 배우였다.\n찰리 브라운은 찰스 슐츠가 그린 만화 피너츠에 등장하는 중심 캐릭터로, 이 만화 다른 캐릭터인 스누피와 함께 오랜 사랑을 받았다.\n피터 로빈스는 1960년대 피너츠 애니메이션에서 찰리 브라운 역을 맡아 이름을 알렸고 할리우드 영화와 TV 드라마 시리즈 등에도 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 인기 만화 캐릭터 ‘찰리 브라운’ 목소리를 연기한 배우 피터 로빈스가 65세 일기로 별세했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미 영화 전문매체 데드라인은 26일(현지시간) 로빈스가 지난주 사망했다고 전했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로빈스 가족은 그가 극단적인 선택을 했다고 밝혔고, 폭스 뉴스는 로빈스가 정신 건강 문제 등으로 어려움을 겪었다고 전했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "피터 로빈스은 인기 만화 캐릭터 찰리 브라운 목소리를 처음으로 연기한 배우였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "찰리 브라운은 찰스 슐츠가 그린 만화 피너츠에 등장하는 중심 캐릭터로, 이 만화 다른 캐릭터인 스누피와 함께 오랜 사랑을 받았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피터 로빈스는 1960년대 피너츠 애니메이션에서 찰리 브라운 역을 맡아 이름을 알렸고 할리우드 영화와 TV 드라마 시리즈 등에도 출연했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘찰리 브라운’ 목소리 연기한 美 배우 피터 로빈스 별세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

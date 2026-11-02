@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275871",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "팬들이 인정한 ‘동그라미’ 주현영, 신인 예능인상 수상",
+		"newsSubTitle": "",
+		"newsContent": "‘이상한 드라마 우영우’에서 열연을 펼친 배우 주현영이 청룡 시리즈 어워드에서 여자 신인 예능인상을 수상했다.\n주현영은 지난 19일 제1회 청룡 시리즈 어워드에서 ‘ SNL 코리아’로 여자 신인 예능인상을 수상했다.\n그는 이날 인스타그램에 여자 신인 예능인상 수상 소감과 사진을 올렸다.\n공개된 사진 속에는 밝게 웃으며 트로피를 들고 있는 주현영의 모습이 담겨있다.\n주현영은 “작년 8월부터 시작해서 제 삶에 정말 많은 일이 일어났다”며 “하지만 그 이전에 저를 한결같이 응원하고 지지해주시는 분들이 계셨기에, 급격한 변화 속에서 차근차근 적응할 힘을 얻었던 것 같다. 정말 감사하다”고 말했다.\n이어 “많은 애정과 관심으로 저를 응원해주시는 팬분들 정말 감사드린다. 저로 인해 행복을 느끼고 힘을 얻을 수 있다는 사실 자체만으로 제게는 전력으로 달릴 원동력이 되고 있다”며 감사를 전했다.\n주현영은 “늘 아낌없는 애정을 주시며 저를 더 아름다운 사람으로 만들어주시는 관계자 여러분 언제나 고맙고 많이 좋아한다”며 “이런 멋진 곳에 초대해주시고 상까지 주신 청룡 시리즈 어워즈 관계자분들께 다시 한번 정말 감사드린다”고 글을 마쳤다.\n주현영은 2019년 단편영화 ‘내가 그리웠니’ 이후로 다양한 작품에 출연하며 이름을 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘이상한 드라마 우영우’에서 열연을 펼친 배우 주현영이 청룡 시리즈 어워드에서 여자 신인 예능인상을 수상했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주현영은 지난 19일 제1회 청룡 시리즈 어워드에서 ‘ SNL 코리아’로 여자 신인 예능인상을 수상했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 이날 인스타그램에 여자 신인 예능인상 수상 소감과 사진을 올렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진 속에는 밝게 웃으며 트로피를 들고 있는 주현영의 모습이 담겨있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주현영은 “작년 8월부터 시작해서 제 삶에 정말 많은 일이 일어났다”며 “하지만 그 이전에 저를 한결같이 응원하고 지지해주시는 분들이 계셨기에, 급격한 변화 속에서 차근차근 적응할 힘을 얻었던 것 같다. 정말 감사하다”고 말했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “많은 애정과 관심으로 저를 응원해주시는 팬분들 정말 감사드린다. 저로 인해 행복을 느끼고 힘을 얻을 수 있다는 사실 자체만으로 제게는 전력으로 달릴 원동력이 되고 있다”며 감사를 전했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주현영은 “늘 아낌없는 애정을 주시며 저를 더 아름다운 사람으로 만들어주시는 관계자 여러분 언제나 고맙고 많이 좋아한다”며 “이런 멋진 곳에 초대해주시고 상까지 주신 청룡 시리즈 어워즈 관계자분들께 다시 한번 정말 감사드린다”고 글을 마쳤다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주현영은 2019년 단편영화 ‘내가 그리웠니’ 이후로 다양한 작품에 출연하며 이름을 알렸다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팬들이 인정한 ‘동그라미’ 주현영, 신인 예능인상 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

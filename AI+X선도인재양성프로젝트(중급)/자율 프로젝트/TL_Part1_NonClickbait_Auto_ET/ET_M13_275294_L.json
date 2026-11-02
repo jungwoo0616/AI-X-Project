@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275294",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "노홍철X빠니보틀, 리얼 100% 롤러코스터 즐기기",
+		"newsSubTitle": "",
+		"newsContent": "방송인 노홍철이 여행 유튜버 빠니보틀과 여행을 즐기고 있다.\n빠니보틀은 12일 자신의 사회관계망서비스(SNS)에 노호철과 놀이공원에서 롤러코스터를 타고 있는 사진을 게재했다.\n공개한 사진에서 노홍철과 빠니보틀이 롤러코스터를 즐기는 실감나는 모습을 볼 수 있었다.\n빠니보틀은 최근 자신의 SNS를 통해 노홍철과 유럽 여행 중인 사실을 공개했다.\n11일에는 유튜브 라이브를 통해 필란드 헬싱키에 있다는 소식을 전하기도 했다.\n한편 빠니보틀은 125만 명의 구독자를 보유한 여행 유튜버로, 노홍철과 광고 촬영을 만남으로 인연을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 노홍철이 여행 유튜버 빠니보틀과 여행을 즐기고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빠니보틀은 12일 자신의 사회관계망서비스(SNS)에 노호철과 놀이공원에서 롤러코스터를 타고 있는 사진을 게재했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 노홍철과 빠니보틀이 롤러코스터를 즐기는 실감나는 모습을 볼 수 있었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빠니보틀은 최근 자신의 SNS를 통해 노홍철과 유럽 여행 중인 사실을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "11일에는 유튜브 라이브를 통해 필란드 헬싱키에 있다는 소식을 전하기도 했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 빠니보틀은 125만 명의 구독자를 보유한 여행 유튜버로, 노홍철과 광고 촬영을 만남으로 인연을 이어가고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노홍철X빠니보틀, 리얼 100% 롤러코스터 즐기기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273165",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서경덕 “주한 외국대사관 홈피 지도에는 ‘독도’가 없다”",
+		"newsSubTitle": "",
+		"newsContent": "전 세계에 독도와 동해를 널리 알려온 서경덕 성신여대 교수가 G7 국가 및 중국 등 주한 외국대사관 홈페이지 지도를 조사해 본 결과 ‘독도’(Dokdo) 표기가 없다고 15일 밝혔다.\n이같은 결과는 G7(미국, 캐나다, 영국, 독일, 이탈리아, 프랑스, 일본) 국가들과 중국 등 8개국의 주한 외국대사관 홈페이지에서 제공하는 지도를 조사한 것이다.\n주한 미국대사관 지도에는 동해와 독도 표기가 아예 없고, 주한 프랑스대사관 지도에는 동해가 아닌 ‘일본해’로, 독도가 아닌 ‘리앙쿠르 록스’로 표기가 돼 있다.\n주한 독일대사관은 구글 지도를 제공 중이며 ‘일본해(동해)’로 병기 표기, 독도를 ‘리앙쿠르 암초’로 표시하고 있다.\n주한 캐나다대사관은 PDF 파일로 내려받을 수 있으나 동해와 독도 표기는 없다.\n또한 주한 이탈리아대사관과 주한 일본대사관은 대사관 근처 지도만 제공했고, 주한 중국대사관과 주한 영국대사관은 지도를 제공하지 않고 있다.\n이에 대해 서 교수는 “한국에 대사관을 설치한 국가들은 주재국 국민의 정서를 고려해야 하는 건 너무나 당연한 일이다”라고 강조했다.\n그는 “향후 더 많은 주한 외국대사관들의 동해 및 독도 표기를 조사해 잘못된 곳은 수정할 수 있도록 항의 메일을 꾸준히 보낼 계획이다”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 세계에 독도와 동해를 널리 알려온 서경덕 성신여대 교수가 G7 국가 및 중국 등 주한 외국대사관 홈페이지 지도를 조사해 본 결과 ‘독도’(Dokdo) 표기가 없다고 15일 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이같은 결과는 G7(미국, 캐나다, 영국, 독일, 이탈리아, 프랑스, 일본) 국가들과 중국 등 8개국의 주한 외국대사관 홈페이지에서 제공하는 지도를 조사한 것이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주한 미국대사관 지도에는 동해와 독도 표기가 아예 없고, 주한 프랑스대사관 지도에는 동해가 아닌 ‘일본해’로, 독도가 아닌 ‘리앙쿠르 록스’로 표기가 돼 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주한 독일대사관은 구글 지도를 제공 중이며 ‘일본해(동해)’로 병기 표기, 독도를 ‘리앙쿠르 암초’로 표시하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주한 캐나다대사관은 PDF 파일로 내려받을 수 있으나 동해와 독도 표기는 없다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 주한 이탈리아대사관과 주한 일본대사관은 대사관 근처 지도만 제공했고, 주한 중국대사관과 주한 영국대사관은 지도를 제공하지 않고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 대해 서 교수는 “한국에 대사관을 설치한 국가들은 주재국 국민의 정서를 고려해야 하는 건 너무나 당연한 일이다”라고 강조했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 “향후 더 많은 주한 외국대사관들의 동해 및 독도 표기를 조사해 잘못된 곳은 수정할 수 있도록 항의 메일을 꾸준히 보낼 계획이다”라고 밝혔다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서경덕 “주한 외국대사관 홈피 지도에는 ‘독도’가 없다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

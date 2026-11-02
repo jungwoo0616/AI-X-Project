@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267964",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘개훌륭’ 강형욱, 보호자에 입질하는 샤페이와 숨막히는 대치…촬영 중단",
+		"newsSubTitle": "",
+		"newsContent": "25일 KBS2 예능 ‘개는 훌륭하다’ 에서는 외부인을 향한 강한 경계심과 보호자 가족에게 입질을 가하는 고민견 샤페이 가온이의 얘기가 그려진다.\n샤페이 가온이는 온 동네가 울릴 정도로 강하게 짖는 것은 물론 쇠창살을 물어뜯는 공격성을 보인다.\n뿐만아니라 보호자 가족에게까지 입질을 가하는 모습으로 큰 충격을 준다.\n보호자 가족은 “우리 부부는 물론 후배가 살을 꿰맬 정도로 물었고, 심지어 친정아버지는 손을 물리고 나서 지금까지 신경안정제를 복용 하신다”고 했다.\n보호자 부부는 퇴사와 이사까지 감행, 안락사까지 고민했다는 절절한 심경을 토로하며 눈물을 흘린다.\n강형욱 훈련사는 가온이와 숨막히는 대치를 벌이는가 하면, 가온이가 괴성을 지를 정도의 강한 통제 훈련에 돌입한다.\n이날 강형욱 훈련사는 보호자 가족과 대화를 나누던 중 급기야 현장을 떠나는 모습을 보인다.\n방송은 이날 오후 10시 40분.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "25일 KBS2 예능 ‘개는 훌륭하다’ 에서는 외부인을 향한 강한 경계심과 보호자 가족에게 입질을 가하는 고민견 샤페이 가온이의 얘기가 그려진다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "샤페이 가온이는 온 동네가 울릴 정도로 강하게 짖는 것은 물론 쇠창살을 물어뜯는 공격성을 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뿐만아니라 보호자 가족에게까지 입질을 가하는 모습으로 큰 충격을 준다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보호자 가족은 “우리 부부는 물론 후배가 살을 꿰맬 정도로 물었고, 심지어 친정아버지는 손을 물리고 나서 지금까지 신경안정제를 복용 하신다”고 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보호자 부부는 퇴사와 이사까지 감행, 안락사까지 고민했다는 절절한 심경을 토로하며 눈물을 흘린다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강형욱 훈련사는 가온이와 숨막히는 대치를 벌이는가 하면, 가온이가 괴성을 지를 정도의 강한 통제 훈련에 돌입한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 강형욱 훈련사는 보호자 가족과 대화를 나누던 중 급기야 현장을 떠나는 모습을 보인다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방송은 이날 오후 10시 40분.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘개훌륭’ 강형욱, 보호자에 입질하는 샤페이와 숨막히는 대치…촬영 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

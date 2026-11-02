@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284900",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "가디언즈 오브 갤럭시2, 한국계 여배우 핵심 인물로 출연",
+		"newsSubTitle": "",
+		"newsContent": "마블사가 제작하는 '가디언즈 오브 갤럭시2'에 한국계 여배우가 핵심적인 역할로 출연한다. 28일(현지시간) 미국 연예매체 할리우드 리포터는 2014년 개봉해 전세계적으로 7억 7400만 달러(한화 약 8793억 원)의 흥행수익을 올린 '가디언즈 오브 갤럭시'의 후속작인 '가디언즈 오브 갤럭시2'에 폼 클레멘티프가 미스테리하지만 중요한 핵심 인물로 출연한다고 보도했다.\n폼 클레멘티프는 프랑스에서 활동 중이며 1986년생이다.\n한국인 어머니와 프랑스-러시아계 아버지 사이에서 태어났으며 폼이란 이름은 한국어인 봄과 범에서 따왔다고 한다.\n그녀는 '올드보이'의 미국판 리메이크버전에서 샬토 코플리를 경호하는 행복이라는 캐릭터를 맡아 연기했다.\n한편 '가디언즈 오브 갤럭시2'는 '가디언즈 오브 갤럭시'에 이어 제임스 건 감독이 연출과 극본을 맡았다.\n영화는 2017년 5월 5일 개봉예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마블사가 제작하는 '가디언즈 오브 갤럭시2'에 한국계 여배우가 핵심적인 역할로 출연한다. 28일(현지시간) 미국 연예매체 할리우드 리포터는 2014년 개봉해 전세계적으로 7억 7400만 달러(한화 약 8793억 원)의 흥행수익을 올린 '가디언즈 오브 갤럭시'의 후속작인 '가디언즈 오브 갤럭시2'에 폼 클레멘티프가 미스테리하지만 중요한 핵심 인물로 출연한다고 보도했다.",
+				"sentenceSize": 206
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "폼 클레멘티프는 프랑스에서 활동 중이며 1986년생이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국인 어머니와 프랑스-러시아계 아버지 사이에서 태어났으며 폼이란 이름은 한국어인 봄과 범에서 따왔다고 한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그녀는 '올드보이'의 미국판 리메이크버전에서 샬토 코플리를 경호하는 행복이라는 캐릭터를 맡아 연기했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 '가디언즈 오브 갤럭시2'는 '가디언즈 오브 갤럭시'에 이어 제임스 건 감독이 연출과 극본을 맡았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화는 2017년 5월 5일 개봉예정이다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가디언즈 오브 갤럭시2, 한국계 여배우 핵심 인물로 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

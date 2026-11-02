@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269149",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이유비, 폭풍 먹방에도 끄떡없는 걱정없는 ‘레드 슬립’",
+		"newsSubTitle": "",
+		"newsContent": "배우 이유비가 미국에서의 일상을 공개했다.\n이유비는 4일 자신의 사회관계망서비스(SNS) 인스타그램 계정에 여유로운 일상이 담긴 사진들을 게재했다.\n이유비는 강렬한 빨간색 슬립으로 과감한 패션을 선보였다.\n그는 분홍빛 볼터치로 러블리한 매력까지 선보여 보는 이들의 시선을 모았다.\n또 다른 사진에서 이유비는 배가 훤히 드러나는 상의에 통 넓은 청바지를 입고 자유분방한 자세를 취해 보였다.\n이유비는 최근 인스타그램을 통해 수많은 음식 사진을 공개하며 대식가의 면모를 보여왔지만 변함없이 마른 몸매로 눈길을 끌었다.\n한편 이유비는 지난해 티빙 오리지널 드라마 ‘유미의 세포들’, MBC에브리원 예능 ‘셀럽뷰티 플러스’ 등에 출연했다.\n차기작으로는 영화 ‘러브 어페어’를 선택했다.\n현재 그는 미국에서 일상을 즐기고 있는 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이유비가 미국에서의 일상을 공개했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이유비는 4일 자신의 사회관계망서비스(SNS) 인스타그램 계정에 여유로운 일상이 담긴 사진들을 게재했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이유비는 강렬한 빨간색 슬립으로 과감한 패션을 선보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 분홍빛 볼터치로 러블리한 매력까지 선보여 보는 이들의 시선을 모았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진에서 이유비는 배가 훤히 드러나는 상의에 통 넓은 청바지를 입고 자유분방한 자세를 취해 보였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이유비는 최근 인스타그램을 통해 수많은 음식 사진을 공개하며 대식가의 면모를 보여왔지만 변함없이 마른 몸매로 눈길을 끌었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이유비는 지난해 티빙 오리지널 드라마 ‘유미의 세포들’, MBC에브리원 예능 ‘셀럽뷰티 플러스’ 등에 출연했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "차기작으로는 영화 ‘러브 어페어’를 선택했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "현재 그는 미국에서 일상을 즐기고 있는 것으로 알려졌다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이유비, 폭풍 먹방에도 끄떡없는 걱정없는 ‘레드 슬립’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169987",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘아웃사이더’ 비투비, 오늘 ‘엠카’ 뜬다",
+    "newsSubTitle": "",
+    "newsContent": "그룹 비투비가 신곡 ‘Outsider’(아웃사이더)의 첫 컴백 무대를 선보인다.\n비투비는 오늘(2일) Mnet ‘엠카운트다운’에서 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)의 타이틀곡 ‘Outsider’(아웃사이더) 무대를 최초 공개한다.\n비투비는 ‘어른 섹시’한 콘셉트에 걸맞은 스타일링과 더욱 성숙해진 비주얼로 이목을 집중시키며 ‘믿고 듣는 비투비’라는 수식어를 증명할 가창력과 랩 실력을 뿜어낼 예정이다.\n신곡 ‘Outsider’(아웃사이더)는 쉽게 따라 부를 수 있는 중독적인 멜로디의 Neo Funk/Neo Soul 장르의 곡으로 멤버 이민혁과 프니엘이 참여해 비투비만의 음악적 역량을 담아냈다.\n지난 8월 30일 발매한 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 전 세계 12개 지역 아이튠즈 톱 앨범(Top Album) 차트 정상에 올랐으며, 뮤직비디오는 공개 3일만인 오늘(2일) 오전 9시 기준 유튜브 조회 수 690만 뷰를 돌파하며 국내를 넘어 해외 팬들에게 무한한 관심과 사랑을 받고 있다.\n한편, 비투비는 신곡 ‘Outsider’(아웃사이더)로 활발한 활동을 펼칠 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 비투비가 신곡 ‘Outsider’(아웃사이더)의 첫 컴백 무대를 선보인다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비투비는 오늘(2일) Mnet ‘엠카운트다운’에서 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)의 타이틀곡 ‘Outsider’(아웃사이더) 무대를 최초 공개한다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비투비는 ‘어른 섹시’한 콘셉트에 걸맞은 스타일링과 더욱 성숙해진 비주얼로 이목을 집중시키며 ‘믿고 듣는 비투비’라는 수식어를 증명할 가창력과 랩 실력을 뿜어낼 예정이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신곡 ‘Outsider’(아웃사이더)는 쉽게 따라 부를 수 있는 중독적인 멜로디의 Neo Funk/Neo Soul 장르의 곡으로 멤버 이민혁과 프니엘이 참여해 비투비만의 음악적 역량을 담아냈다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 8월 30일 발매한 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 전 세계 12개 지역 아이튠즈 톱 앨범(Top Album) 차트 정상에 올랐으며, 뮤직비디오는 공개 3일만인 오늘(2일) 오전 9시 기준 유튜브 조회 수 690만 뷰를 돌파하며 국내를 넘어 해외 팬들에게 무한한 관심과 사랑을 받고 있다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 비투비는 신곡 ‘Outsider’(아웃사이더)로 활발한 활동을 펼칠 예정이다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비투비, '어른 섹시'로 농염한 성숙미 선보인다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

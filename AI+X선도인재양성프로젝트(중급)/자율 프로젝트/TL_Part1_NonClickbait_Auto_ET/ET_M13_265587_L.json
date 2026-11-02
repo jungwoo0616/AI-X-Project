@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265587",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘♥서희원’ 구준엽, 8일 대만 클럽서 공연",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 DJ 구준엽이 대만에서의 활동을 예고했다.\n구준엽은 지난 31일 자신의 사회관계망서비스(SNS)를 통해 공연장 위치를 언급하며 “곧 만나자, 4월 8일 금요일”이라는 글을 올렸다.\n함께 공개된 포스터에 따르면 구준엽은 오는 4월 8일 대만의 한 클럽에서 공연한다.\n구준엽은 지난달 8일 “저 결혼한다. 20년 전 사랑했던 여인과 매듭 못지은 사랑을 이어가려 한다”며 대만 배우 서희원과 결혼을 공식 발표했다.\n서희원 또한 같은 날 결혼 소식을 알렸으며 구준엽은 다음 날인 9일 대만으로 출국해 호텔에서 자가격리 10일, 서희원의 자택에서 자율격리 7일을 마쳤다.\n한편 두 사람은 지난 1998년 약 1년 동안 교제했으나 여러 가지 사정으로 결별했다.\n이후 서희원의 이혼 소식을 들은 구준엽이 그에게 연락해 관계를 다시 쌓았고 지난달 8일 백년가약을 맺었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 DJ 구준엽이 대만에서의 활동을 예고했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구준엽은 지난 31일 자신의 사회관계망서비스(SNS)를 통해 공연장 위치를 언급하며 “곧 만나자, 4월 8일 금요일”이라는 글을 올렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "함께 공개된 포스터에 따르면 구준엽은 오는 4월 8일 대만의 한 클럽에서 공연한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구준엽은 지난달 8일 “저 결혼한다. 20년 전 사랑했던 여인과 매듭 못지은 사랑을 이어가려 한다”며 대만 배우 서희원과 결혼을 공식 발표했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서희원 또한 같은 날 결혼 소식을 알렸으며 구준엽은 다음 날인 9일 대만으로 출국해 호텔에서 자가격리 10일, 서희원의 자택에서 자율격리 7일을 마쳤다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 두 사람은 지난 1998년 약 1년 동안 교제했으나 여러 가지 사정으로 결별했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 서희원의 이혼 소식을 들은 구준엽이 그에게 연락해 관계를 다시 쌓았고 지난달 8일 백년가약을 맺었다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘♥서희원’ 구준엽, 8일 대만 클럽서 공연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263120",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "우주소녀 보나, 펜싱칼 대신 명품 P사 가방 잡았다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 우주소녀 멤버 보나가 본업으로 돌아와 화보 촬영을 진행했다.\n보나는 7일 자신의 사회 관계망 서비스(SNS)를 통해 화보 사진들을 게재했다.\n사진 속 보나는 어깨가 드러나는 민소매에 청재킷을 레이어드 한 패션으로 세련되고 시크한 모습을 선보였다.\n또 보나는 명품 P사 가방으로 우월한 비율을 돋보이는 자세를 잡아 보는 이들의 시선을 사로잡았다.\n보나와 같은 드라마에 출연중인 배우 이주명은 “너무 예뻐 캬”라는 댓글을 달아 호응을 보냈다.\n한편, 보나는 tvN 토·일 드라마 ‘스물다섯 스물하나’에서 최연소 펜싱 올림픽 금메달리스트 고유림 역을 맡아 열연 중이다.\n이는 보나가 연기하는 다섯 번째 작품이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 우주소녀 멤버 보나가 본업으로 돌아와 화보 촬영을 진행했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보나는 7일 자신의 사회 관계망 서비스(SNS)를 통해 화보 사진들을 게재했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 보나는 어깨가 드러나는 민소매에 청재킷을 레이어드 한 패션으로 세련되고 시크한 모습을 선보였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 보나는 명품 P사 가방으로 우월한 비율을 돋보이는 자세를 잡아 보는 이들의 시선을 사로잡았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보나와 같은 드라마에 출연중인 배우 이주명은 “너무 예뻐 캬”라는 댓글을 달아 호응을 보냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 보나는 tvN 토·일 드라마 ‘스물다섯 스물하나’에서 최연소 펜싱 올림픽 금메달리스트 고유림 역을 맡아 열연 중이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 보나가 연기하는 다섯 번째 작품이다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우주소녀 보나, 펜싱칼 대신 명품 P사 가방 잡았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

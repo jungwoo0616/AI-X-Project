@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171480",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "알렉 볼드윈, 영화 ‘러스트’ 촬영 중 총기 오발→스태프 사망",
+    "newsSubTitle": "",
+    "newsContent": "할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품 총기에 촬영 스태프 1명이 숨지고 다른 한 명이 부상을 당했다.\nCNN 등 해외 다수 매체는 22일(현지시간) “볼드윈이 뉴멕시코주 세트장에서 발사한 총기가 촬영감독 핼리나 허친스(42)을 명중했다”며 “허친스 감독은 헬기 편으로 뉴멕시코 병원으로 옮겨졌으나 병원에 도착했을 때 이미 사망했다”고 보도했다.\n이어 다른 피해자 조엘 수자 감독에 대해서는 “크리스투스 세인트 빈센트 메디컬 센터로 옮겨졌으나 상태는 알려지지 않았다”고 전했다.\n경찰 관계자는 “사고가 발생한 시각은 21일 오후 1시 50분경(현지시간)이며, 소품 총기를 사용하는 촬영씬 중 발생한 사고”라고 알렸다.\n경찰은 현재 발사체가 어떤 종류인지 확인하고 있는 것으로 전해졌다.\n한편, “러스트”는 알렉 볼드윈, 트래비스 핌펠, 젠슨 애클레스 등이 출연하는 1880년대를 배경으로 하는 서부영화다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품 총기에 촬영 스태프 1명이 숨지고 다른 한 명이 부상을 당했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "CNN 등 해외 다수 매체는 22일(현지시간) “볼드윈이 뉴멕시코주 세트장에서 발사한 총기가 촬영감독 핼리나 허친스(42)을 명중했다”며 “허친스 감독은 헬기 편으로 뉴멕시코 병원으로 옮겨졌으나 병원에 도착했을 때 이미 사망했다”고 보도했다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 다른 피해자 조엘 수자 감독에 대해서는 “크리스투스 세인트 빈센트 메디컬 센터로 옮겨졌으나 상태는 알려지지 않았다”고 전했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경찰 관계자는 “사고가 발생한 시각은 21일 오후 1시 50분경(현지시간)이며, 소품 총기를 사용하는 촬영씬 중 발생한 사고”라고 알렸다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경찰은 현재 발사체가 어떤 종류인지 확인하고 있는 것으로 전해졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, “러스트”는 알렉 볼드윈, 트래비스 핌펠, 젠슨 애클레스 등이 출연하는 1880년대를 배경으로 하는 서부영화다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소품 총기 오발로 스태프 1명 사망, 1명 부상당해... 총을 쏜 이 배우는 현재...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

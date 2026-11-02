@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272096",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장윤주 추천 ‘여기어때’와 함께 떠나는 여행",
+		"newsSubTitle": "",
+		"newsContent": "톱모델이자 배우 장윤주가 여행·여가 플랫폼 ‘여기어때’의 전속모델로 발탁됐다.\n여기어때가 공개한 새로운 캠페인 영상에서 장윤주는 새로운 ‘여기어때송’과 함께 대중의 이목을 끌었다.\n개성 넘치는 여행을 즐기며 여기어때송을 신나게 가창하는 장윤주의 활기찬 모습은 여기어때 고객이 원하는 여행의 모습을 다채롭게 표현해낼 수 있었다.\n여기어때 브랜드 실장은 “여행을 연상시키는 톱모델 장윤주를 비롯한 8명의 모델을 통해 여기어때가 추구하는 유쾌한 여름의 모습을 고객과 공유하고 싶다”라며 “장윤주와 함께 대세 여행 노래로 자리 잡은 ‘여기어때송’으로 브랜드의 색채와 메시지를 한 번 더 강조할 것”이라고 전했다.\n이번 여기어때 전속모델로 발탁된 장윤주는 톱모델로서 왕성한 패션 활동을 비롯 다채로운 작품 활동을 통해 연기 스펙트럼을 넓혀가며 대중의 사랑을 받고 있다.\n특히 오는 6월 공개될 넷플릭스(Netflix) 오리지널 시리즈 ‘종이의 집: 공동경제구역’에서 나이로비 역 출연 소식을 알리며 드라마에 대한 기대감을 고조시키는 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "톱모델이자 배우 장윤주가 여행·여가 플랫폼 ‘여기어때’의 전속모델로 발탁됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "여기어때가 공개한 새로운 캠페인 영상에서 장윤주는 새로운 ‘여기어때송’과 함께 대중의 이목을 끌었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개성 넘치는 여행을 즐기며 여기어때송을 신나게 가창하는 장윤주의 활기찬 모습은 여기어때 고객이 원하는 여행의 모습을 다채롭게 표현해낼 수 있었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기어때 브랜드 실장은 “여행을 연상시키는 톱모델 장윤주를 비롯한 8명의 모델을 통해 여기어때가 추구하는 유쾌한 여름의 모습을 고객과 공유하고 싶다”라며 “장윤주와 함께 대세 여행 노래로 자리 잡은 ‘여기어때송’으로 브랜드의 색채와 메시지를 한 번 더 강조할 것”이라고 전했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 여기어때 전속모델로 발탁된 장윤주는 톱모델로서 왕성한 패션 활동을 비롯 다채로운 작품 활동을 통해 연기 스펙트럼을 넓혀가며 대중의 사랑을 받고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 오는 6월 공개될 넷플릭스(Netflix) 오리지널 시리즈 ‘종이의 집: 공동경제구역’에서 나이로비 역 출연 소식을 알리며 드라마에 대한 기대감을 고조시키는 중이다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장윤주 추천 ‘여기어때’와 함께 떠나는 여행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

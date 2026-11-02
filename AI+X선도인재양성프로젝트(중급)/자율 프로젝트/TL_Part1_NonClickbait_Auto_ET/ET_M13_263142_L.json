@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263142",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘이재명 지지’ 김어준 출연 프로그램, 법정제재?",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김어준이 진행하는 TBS FM ‘김어준의 뉴스공장’이 선거방송심의위원회의 법정제재를 받을 것으로 보인다.\n이는 특정 후보를 공개로 지지한 사람이 공식 선거운동 기간에 시사방송 진행을 맡아선 안 된다는 선거방송 심의규정을 어겼다는 지적에 따른 것이다.\n7일 제20대 대통령선거 선거방송심의위원회에 따르면 최근 열린 회의에서 ‘김어준의 뉴스공장’이 ‘선거방송심의에 관한 특별규정’ 21조 3항을 위반했는지 여부를 심의한 결과 ‘의견진술’ 의결이 이뤄졌다.\n해당 규정은 특정 후보자나 정당에 대한 지지를 공표한 사람 또는 정당 당원을 선거 기간 시사정보프로그램 진행자로 출연시켜선 안 된다고 규정하고 있다.\n김어준은 지난해 10월 유튜브 방송 ‘김어준의 다스뵈이다’를 통해 “이재명은 혼자서 여기까지 온 사람이다. 이제 당신들이 좀 도와줘야 한다”고 말한 바 있다.\n의견진술은 법정제재가 필요하다고 판단되는 사안에 대해 방송사 소명을 듣는 절차다.\n법정제재는 방송통신위원회 방송평가에 반영되고 방송사 재허가·재승인 심사 자료로도 쓰이며, 종류로는 과징금, 프로그램 정정·수정·중지, 관계자 징계, 경고, 주의 등이 있다.\n회의에서는 심의위원 9명 중 5명이 법정제재를 요구한 것으로 알려졌다.\nTBS 의견진술을 위한 회의 일정은 결정되지 않았다.\n선거방송심의위원회 위원 임기는 4월 8일까지다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김어준이 진행하는 TBS FM ‘김어준의 뉴스공장’이 선거방송심의위원회의 법정제재를 받을 것으로 보인다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 특정 후보를 공개로 지지한 사람이 공식 선거운동 기간에 시사방송 진행을 맡아선 안 된다는 선거방송 심의규정을 어겼다는 지적에 따른 것이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일 제20대 대통령선거 선거방송심의위원회에 따르면 최근 열린 회의에서 ‘김어준의 뉴스공장’이 ‘선거방송심의에 관한 특별규정’ 21조 3항을 위반했는지 여부를 심의한 결과 ‘의견진술’ 의결이 이뤄졌다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 규정은 특정 후보자나 정당에 대한 지지를 공표한 사람 또는 정당 당원을 선거 기간 시사정보프로그램 진행자로 출연시켜선 안 된다고 규정하고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김어준은 지난해 10월 유튜브 방송 ‘김어준의 다스뵈이다’를 통해 “이재명은 혼자서 여기까지 온 사람이다. 이제 당신들이 좀 도와줘야 한다”고 말한 바 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "의견진술은 법정제재가 필요하다고 판단되는 사안에 대해 방송사 소명을 듣는 절차다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "법정제재는 방송통신위원회 방송평가에 반영되고 방송사 재허가·재승인 심사 자료로도 쓰이며, 종류로는 과징금, 프로그램 정정·수정·중지, 관계자 징계, 경고, 주의 등이 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "회의에서는 심의위원 9명 중 5명이 법정제재를 요구한 것으로 알려졌다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "TBS 의견진술을 위한 회의 일정은 결정되지 않았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "선거방송심의위원회 위원 임기는 4월 8일까지다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘이재명 지지’ 김어준 출연 프로그램, 법정제재?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

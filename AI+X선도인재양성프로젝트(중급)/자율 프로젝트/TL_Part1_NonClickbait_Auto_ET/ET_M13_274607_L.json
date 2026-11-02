@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274607",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최준희 “엥? 전혀”, 외할머니와 불화설 일축",
+		"newsSubTitle": "",
+		"newsContent": "배우 고 최진실의 딸 최준희가 외할머니와 불화설을 일축했다.\n최준희는 4일 자신의 사회관계망서비스(SNS)를 통해 팬들의 질문을 받고 이에 답했다.\n한 팬은 최준희에게 “외할머니와 연락 끊고 사시나요”라고 질문했다.\n이에 최준희는 “엥? 전혀?”라고 답하며 외할머니와 나눈 메시지를 공개했다.\n공개한 메시지에서 외할머니는 최준희에게 “준희야! 내가 먹어본 중에 제일 맛있어. 내 입에 딱이야. 제과점 해도 되겠어. 건포도하고 호두나 잣이 들어가면 완벽할 것 같아. 잘 먹었어. 고마워. 잘 자”라고 말했다.\n최준희도 “응, 잘자”라고 답하며 여전히 외할머니와 교류 중인 것을 나타냈다.\n과거 최준희는 외할머니에게 학대를 당하고 있다고 주장한 바 있다.\n팬은 이에 대해 질문한 것으로 보인다.\n한편 최준희는 영화배우 고 최진실과, 전 야구선수 고 조성민의 딸로 배우 데뷔를 앞두고 있었으나 소속사와 계약을 해지한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 고 최진실의 딸 최준희가 외할머니와 불화설을 일축했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최준희는 4일 자신의 사회관계망서비스(SNS)를 통해 팬들의 질문을 받고 이에 답했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한 팬은 최준희에게 “외할머니와 연락 끊고 사시나요”라고 질문했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 최준희는 “엥? 전혀?”라고 답하며 외할머니와 나눈 메시지를 공개했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개한 메시지에서 외할머니는 최준희에게 “준희야! 내가 먹어본 중에 제일 맛있어. 내 입에 딱이야. 제과점 해도 되겠어. 건포도하고 호두나 잣이 들어가면 완벽할 것 같아. 잘 먹었어. 고마워. 잘 자”라고 말했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최준희도 “응, 잘자”라고 답하며 여전히 외할머니와 교류 중인 것을 나타냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "과거 최준희는 외할머니에게 학대를 당하고 있다고 주장한 바 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "팬은 이에 대해 질문한 것으로 보인다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 최준희는 영화배우 고 최진실과, 전 야구선수 고 조성민의 딸로 배우 데뷔를 앞두고 있었으나 소속사와 계약을 해지한 바 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최준희 “엥? 전혀”, 외할머니와 불화설 일축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

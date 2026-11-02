@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277111",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "한국영화 투자 펀드 탄생…4년간 600억원 투자",
+		"newsSubTitle": "120억원 규모, 4년간 600억원 투자",
+		"newsContent": "━ 한국영화 전문 투자 펀드가 나왔다.\n우리은행은 벤처캐피탈 컴퍼니케이파트너스와 함께 시중은행 최초로 한국영화 전문투자 펀드인 ‘우리은행-컴퍼니케이 한국영화투자펀드’를 결성했다고 22일 밝혔다.\n펀드의 규모는 연간 약 120억 원으로, 4년간 투자가 지속된다.\n투자 대상은 국내 대형 투자·배급사인 CJ E&M, 쇼박스, NEW가 배급하는 한국영화다.\n향후 4년간 약 100편의 한국영화에 총 600억 원이 투자되는 셈이다.\n주요 투자자로 나서는 우리은행은 30억 원을 출자하며, CJ E&M, 쇼박스, NEW도 출자에 참여한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "━ 한국영화 전문 투자 펀드가 나왔다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우리은행은 벤처캐피탈 컴퍼니케이파트너스와 함께 시중은행 최초로 한국영화 전문투자 펀드인 ‘우리은행-컴퍼니케이 한국영화투자펀드’를 결성했다고 22일 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "펀드의 규모는 연간 약 120억 원으로, 4년간 투자가 지속된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투자 대상은 국내 대형 투자·배급사인 CJ E&M, 쇼박스, NEW가 배급하는 한국영화다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "향후 4년간 약 100편의 한국영화에 총 600억 원이 투자되는 셈이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주요 투자자로 나서는 우리은행은 30억 원을 출자하며, CJ E&M, 쇼박스, NEW도 출자에 참여한다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국영화 투자 펀드 탄생…4년간 600억원 투자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

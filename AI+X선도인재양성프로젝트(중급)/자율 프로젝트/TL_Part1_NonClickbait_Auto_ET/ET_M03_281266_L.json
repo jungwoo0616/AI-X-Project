@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281266",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "파키스탄 시장서 폭탄 테러, 시아파 무슬림 24명 사망",
+		"newsSubTitle": "",
+		"newsContent": "13일(현지시간) 정오께 파키스탄 시장서 폭탄 테러가 발생해 최소 24명이 숨지고 수십명이 다쳤다.\n외신에 따르면 이날 파키스탄 북서부 아프가니스탄 접경지역인 쿠람 부족지구의 한 시장에서 폭탄 테러가 발생해 최소 24명이 사망했다.\n아프가니스탄 국경에 인접한 파라치나르는 쿠르람 부족 지역의 중심 도시이자 주로 시아파 무슬림이 많은 곳이다.\n사망자들은 대부분 시아파 무슬림이라고 전해졌다.\n파키스탄 시장서 폭탄 테러 사건이 발생한 후 극단주의 테러단체 이슬람국가(IS)와 연계된 현지 수니파 무장단체 '라슈카르-에-장비 알알라미'가 자신들의 소행이라고 주장하고 나섰다.\n이들은 \\\"시파아들이 시리아에서 이란군에 합류한 데 대한 복수\\\"라며 \\\"시아파들이 시리아 정부군을 지원할 자워병을 계속 보내면 추가 공격이 있을 것\\\"이라고 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "13일(현지시간) 정오께 파키스탄 시장서 폭탄 테러가 발생해 최소 24명이 숨지고 수십명이 다쳤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "외신에 따르면 이날 파키스탄 북서부 아프가니스탄 접경지역인 쿠람 부족지구의 한 시장에서 폭탄 테러가 발생해 최소 24명이 사망했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아프가니스탄 국경에 인접한 파라치나르는 쿠르람 부족 지역의 중심 도시이자 주로 시아파 무슬림이 많은 곳이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사망자들은 대부분 시아파 무슬림이라고 전해졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파키스탄 시장서 폭탄 테러 사건이 발생한 후 극단주의 테러단체 이슬람국가(IS)와 연계된 현지 수니파 무장단체 '라슈카르-에-장비 알알라미'가 자신들의 소행이라고 주장하고 나섰다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들은 \\\"시파아들이 시리아에서 이란군에 합류한 데 대한 복수\\\"라며 \\\"시아파들이 시리아 정부군을 지원할 자워병을 계속 보내면 추가 공격이 있을 것\\\"이라고 예고했다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파키스탄 시장서 폭탄 테러, 시아파 무슬림 24명 사망",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

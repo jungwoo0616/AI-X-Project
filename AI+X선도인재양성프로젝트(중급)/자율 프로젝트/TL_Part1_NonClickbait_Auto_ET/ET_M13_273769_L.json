@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273769",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이승기, 7월 1일 신곡 발표…기타리스트 이병호와 합 맞춘다",
+		"newsSubTitle": "",
+		"newsContent": "가수 이승기가 약 1년 만에 돌아온다.\n뉴스1에 따르면 이승기는 오는 7월 1일 기타리스트 이병호의 프로젝트 음원에 참여해 신규 앨범을 발매한다.\n지난해 10월 ‘월간윤종신’ 이후 약 1년 만의 음반 활동이다.\n이병호는 현재 이승기의 음악 유튜브 콘텐츠 ‘휴먼테이블’에 출연하는 이승기의 음악 파트너다.\n오랜 기간 합을 맞춘 두 사람이 어떤 음악을 내놓을지 팬들의 기대가 쏠리고 있다.\n이승기는 2004년 정규 1집 앨범 ‘나방의 꿈’으로 가요계에 발을 내디뎠다.\n이후 ‘결혼해줄래’, ‘잘할게’, ‘정신이 나갔었나봐’ 등의 히트곡으로 팬들의 사랑을 받았다.\n최근에는 SBS 예능 프로그램 ‘집사부일체’에 출연하며 예능 감각을 뽐내고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이승기가 약 1년 만에 돌아온다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뉴스1에 따르면 이승기는 오는 7월 1일 기타리스트 이병호의 프로젝트 음원에 참여해 신규 앨범을 발매한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 10월 ‘월간윤종신’ 이후 약 1년 만의 음반 활동이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이병호는 현재 이승기의 음악 유튜브 콘텐츠 ‘휴먼테이블’에 출연하는 이승기의 음악 파트너다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오랜 기간 합을 맞춘 두 사람이 어떤 음악을 내놓을지 팬들의 기대가 쏠리고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이승기는 2004년 정규 1집 앨범 ‘나방의 꿈’으로 가요계에 발을 내디뎠다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 ‘결혼해줄래’, ‘잘할게’, ‘정신이 나갔었나봐’ 등의 히트곡으로 팬들의 사랑을 받았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근에는 SBS 예능 프로그램 ‘집사부일체’에 출연하며 예능 감각을 뽐내고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승기, 7월 1일 신곡 발표…기타리스트 이병호와 합 맞춘다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281684",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 결혼생활 돌아보는 김숙-윤정수 커플",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘님과 함께 시즌 2-최고(高)의 사랑’에서는 김숙-윤정수 커플이 TV 앞에 앉아 지난 결혼 생활을 돌아본다.\n이들은 지난 방송을 모니터하며 당시 상황에 대해 이야기를 나눈다.\n매사 티격태격하는 두 사람은 TV를 보며 자신들의 방송분량을 두고 또다시 실랑이를 시작해 보는 이의 웃음을 자아낸다.\n지난 10월 가상 부부가 된 이들은 출발 단계부터 ‘쇼윈도 부부’를 선언하고 나섰다.\n오랜 시간 개그계에서 막역한 선후배 관계로 지냈던 두 사람은 서로 정체를 알자마자 “주먹에 힘이 들어간다. 바로 이혼해도 되냐”며 격렬하게 현실을 부정했다.\n이어 “우리는 앞으로 철저히 쇼윈도 부부로 갈 것이다. 달콤한 로맨스 따위는 찾아볼 수 없을 것”이라고 단언했다.\n하지만 처음 우려와 달리 이들은 환상적인 호흡을 보여주며 시청자들의 큰 호응을 이끌어냈다.\n출연 8회 만에 자체최고 시청률을 4.3%까지 끌어올리더니 지금은 프로그램의 간판 커플로 자리 잡았다.\n8일 오후 9시 30분 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘님과 함께 시즌 2-최고(高)의 사랑’에서는 김숙-윤정수 커플이 TV 앞에 앉아 지난 결혼 생활을 돌아본다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이들은 지난 방송을 모니터하며 당시 상황에 대해 이야기를 나눈다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매사 티격태격하는 두 사람은 TV를 보며 자신들의 방송분량을 두고 또다시 실랑이를 시작해 보는 이의 웃음을 자아낸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 10월 가상 부부가 된 이들은 출발 단계부터 ‘쇼윈도 부부’를 선언하고 나섰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오랜 시간 개그계에서 막역한 선후배 관계로 지냈던 두 사람은 서로 정체를 알자마자 “주먹에 힘이 들어간다. 바로 이혼해도 되냐”며 격렬하게 현실을 부정했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “우리는 앞으로 철저히 쇼윈도 부부로 갈 것이다. 달콤한 로맨스 따위는 찾아볼 수 없을 것”이라고 단언했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 처음 우려와 달리 이들은 환상적인 호흡을 보여주며 시청자들의 큰 호응을 이끌어냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "출연 8회 만에 자체최고 시청률을 4.3%까지 끌어올리더니 지금은 프로그램의 간판 커플로 자리 잡았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "8일 오후 9시 30분 확인할 수 있다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 결혼생활 돌아보는 김숙-윤정수 커플",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

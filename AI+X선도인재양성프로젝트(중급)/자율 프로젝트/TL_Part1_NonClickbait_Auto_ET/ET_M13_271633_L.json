@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271633",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "LIGHTSUM, ‘ALIVE’ 뮤직비디오 1000만뷰 돌파",
+		"newsSubTitle": "",
+		"newsContent": "LIGHTSUM(상아, 초원, 나영, 히나, 주현, 유정, 휘연, 지안)의 뮤직비디오 조회수가 1000만 뷰를 돌파했다.\n지난 24일 오후 6시에 공개된 LIGHTSUM의 신곡 ‘ALIVE’(얼라이브)의 뮤직비디오 조회수가 1000만 뷰(5월28일 기준)를 넘어섰다. ‘ALIVE’(얼라이브)의 뮤직비디오는 ‘ALIVE SCHOOL’의 새 학기에 운명처럼 같은 반이 된 LIGHTSUM 멤버들의 학교생활 이야기를 담았다.\n타이틀곡 ‘ALIVE’는 인트로부터 강렬한 사운드로 무채색이던 세상이 생동감 넘치게 변하는 과정을 LIGHTSUM만의 솔직하고 사랑스러운 방식으로 녹여낸 가사가 인상적인 곡이다.\n지난 24일 발매된 LIGHTSUM의 첫 번째 미니 앨범 ‘Into The Light’(인투더라잇)은 아이튠즈 톱 앨범(Top Album) 부문에서 사우디아라비아, 대만, 멕시코, 베트남 등 10개 지역에서 상위권을 차지했다.\n더불어 타이틀곡‘ALIVE’는 발매와 동시에 국내 음원 사이트인 벅스(Bugs)에서 실시간 차트 11위를 차지했다.\n한편, LIGHTSUM은 신곡 ‘ALIVE’로 활발한 음악방송 활동을 하고있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LIGHTSUM(상아, 초원, 나영, 히나, 주현, 유정, 휘연, 지안)의 뮤직비디오 조회수가 1000만 뷰를 돌파했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 24일 오후 6시에 공개된 LIGHTSUM의 신곡 ‘ALIVE’(얼라이브)의 뮤직비디오 조회수가 1000만 뷰(5월28일 기준)를 넘어섰다. ‘ALIVE’(얼라이브)의 뮤직비디오는 ‘ALIVE SCHOOL’의 새 학기에 운명처럼 같은 반이 된 LIGHTSUM 멤버들의 학교생활 이야기를 담았다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "타이틀곡 ‘ALIVE’는 인트로부터 강렬한 사운드로 무채색이던 세상이 생동감 넘치게 변하는 과정을 LIGHTSUM만의 솔직하고 사랑스러운 방식으로 녹여낸 가사가 인상적인 곡이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 24일 발매된 LIGHTSUM의 첫 번째 미니 앨범 ‘Into The Light’(인투더라잇)은 아이튠즈 톱 앨범(Top Album) 부문에서 사우디아라비아, 대만, 멕시코, 베트남 등 10개 지역에서 상위권을 차지했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더불어 타이틀곡‘ALIVE’는 발매와 동시에 국내 음원 사이트인 벅스(Bugs)에서 실시간 차트 11위를 차지했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, LIGHTSUM은 신곡 ‘ALIVE’로 활발한 음악방송 활동을 하고있다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LIGHTSUM, ‘ALIVE’ 뮤직비디오 1000만뷰 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

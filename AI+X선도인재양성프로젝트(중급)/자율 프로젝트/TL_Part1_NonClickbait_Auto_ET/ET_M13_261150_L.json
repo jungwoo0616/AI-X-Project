@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261150",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘지금 우리 학교는’ 조이현, 네이처런스 모델 발탁",
+		"newsSubTitle": "",
+		"newsContent": "건강기능식품 브랜드 네이처런스(대표이사 김미경, 한동우)가 유산균과 효모가 함유된 발효유를 동결건조한 신제품, ‘케피어랩’ 모델로 배우 조이현을 발탁했다고 16일 전했다.\n조이현은 OTT 넷플릭스 한국 드라마 ‘지금 우리 학교는’에 ‘남라(반장)’을 역을 맡아 인기가 급상승한 배우다.\n해당 드라마는 공개 이튿날인 29일부터 15일 연속 넷플릭스 TV쇼 부문 전세계 1위를 기록했다.\n네이처런스는 건강하면서 밝은 이미지를 보여주는 조이현과 케피어랩의 제품 이미지와 부합해 모델로 선정했다고 밝혔다.\n케피어랩을 출시한 네이처런스는 혁신벤처기업 인증을 받은 발효 전문기업이다.\n네이처런스는 조이현과 함께 브랜드와 제품의 인지도를 높일 예정이다.\n신제품 케피어랩은 천혜의 자연을 간직한 코카서스 지역의 전통 발효유인 케피어를 저온동결건조한 기타가공식품이다.\n발효 과정에서 자연스럽게 형성된 자연 효모와 유산균을 함께 섭취할 수 있다는 점이 특징이다.\n네이처런스 관계자는 “배우 조이현을 모델로 발탁해 네이처런스 브랜드 인지도를 높이고 일상생활 속에 건강한 에너지를 불어 넣어줄 수 있을 것으로 기대한다”며 “불규칙한 생활습관과 스트레스에 취약한 분들이 케이어랩을 꾸준히 섭취한다면, 건강한 라이프 스타일을 되찾고 가뿐한 아침을 맞이할 수 있다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "건강기능식품 브랜드 네이처런스(대표이사 김미경, 한동우)가 유산균과 효모가 함유된 발효유를 동결건조한 신제품, ‘케피어랩’ 모델로 배우 조이현을 발탁했다고 16일 전했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조이현은 OTT 넷플릭스 한국 드라마 ‘지금 우리 학교는’에 ‘남라(반장)’을 역을 맡아 인기가 급상승한 배우다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 드라마는 공개 이튿날인 29일부터 15일 연속 넷플릭스 TV쇼 부문 전세계 1위를 기록했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이처런스는 건강하면서 밝은 이미지를 보여주는 조이현과 케피어랩의 제품 이미지와 부합해 모델로 선정했다고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "케피어랩을 출시한 네이처런스는 혁신벤처기업 인증을 받은 발효 전문기업이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이처런스는 조이현과 함께 브랜드와 제품의 인지도를 높일 예정이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신제품 케피어랩은 천혜의 자연을 간직한 코카서스 지역의 전통 발효유인 케피어를 저온동결건조한 기타가공식품이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "발효 과정에서 자연스럽게 형성된 자연 효모와 유산균을 함께 섭취할 수 있다는 점이 특징이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이처런스 관계자는 “배우 조이현을 모델로 발탁해 네이처런스 브랜드 인지도를 높이고 일상생활 속에 건강한 에너지를 불어 넣어줄 수 있을 것으로 기대한다”며 “불규칙한 생활습관과 스트레스에 취약한 분들이 케이어랩을 꾸준히 섭취한다면, 건강한 라이프 스타일을 되찾고 가뿐한 아침을 맞이할 수 있다”고 했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘지금 우리 학교는’ 조이현, 네이처런스 모델 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274295",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "에스파가 美 워너레코드 사옥에 떴다, 무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "에스파(aespa)가 세계적인 음악 레이블 워너레코드(Warner Records) 사옥을 방문했다.\n에스파는 28일(현지시간) 미국 LA에 위치한 워너 레코드 사옥을 방문, SM엔터테인먼트 이성수, 탁영준 공동 대표와 함께 워너 레코드의 공동 회장이자 COO인 TomCorson(톰 코슨), CEO Aaron Bay-Schuck(아론베이셔크)와 사이닝 세리모니를 진행하며 추후 이뤄질 다양한 글로벌 프로모션에 대한 기대감을높였다.\n앞서 SM은 세계적인 음악 레이블인 워너 레코드와 에스파 음악 콘텐츠의 유통 및 마케팅 프로모션 관련 글로벌 파트너십을 체결, 에스파의 본격적인 글로벌 시장 진출을 밝힌 바 있다.\n이날 에스파는 워너 톰 코슨 회장의 안내로 사옥 곳곳을 둘러봤다.\n특히 워너 임직원이 에스파의 이니셜로 만든 풍선과 에스파의 이미지로 래핑한 벽면을 보며 감동한 것은 물론, 벽면에 직접 사인과 메시지를 남겨 기념했다.\n한편, 에스파의 두번째 미니앨범 ‘Girls’는 오는 7월 8일 각종 음악 사이트를 통해 음원이 공개되며, 같은 날 한국과 미국에 음반으로도 동시에 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에스파(aespa)가 세계적인 음악 레이블 워너레코드(Warner Records) 사옥을 방문했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에스파는 28일(현지시간) 미국 LA에 위치한 워너 레코드 사옥을 방문, SM엔터테인먼트 이성수, 탁영준 공동 대표와 함께 워너 레코드의 공동 회장이자 COO인 TomCorson(톰 코슨), CEO Aaron Bay-Schuck(아론베이셔크)와 사이닝 세리모니를 진행하며 추후 이뤄질 다양한 글로벌 프로모션에 대한 기대감을높였다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 SM은 세계적인 음악 레이블인 워너 레코드와 에스파 음악 콘텐츠의 유통 및 마케팅 프로모션 관련 글로벌 파트너십을 체결, 에스파의 본격적인 글로벌 시장 진출을 밝힌 바 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 에스파는 워너 톰 코슨 회장의 안내로 사옥 곳곳을 둘러봤다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 워너 임직원이 에스파의 이니셜로 만든 풍선과 에스파의 이미지로 래핑한 벽면을 보며 감동한 것은 물론, 벽면에 직접 사인과 메시지를 남겨 기념했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 에스파의 두번째 미니앨범 ‘Girls’는 오는 7월 8일 각종 음악 사이트를 통해 음원이 공개되며, 같은 날 한국과 미국에 음반으로도 동시에 발매된다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스파가 美 워너레코드 사옥에 떴다, 무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

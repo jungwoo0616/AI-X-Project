@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275834",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정우성 명불허전 외모, 역시 잘생긴 게 최고야",
+		"newsSubTitle": "",
+		"newsContent": "배우 정우성이 역시나 대한민국 최고 얼굴인 것을 증명했다.\n정우성은 19일 자신의 사회관계망서비스(SNS)에 화보 사진을 게재했다.\n공개한 사진에서 정우성은 상반된 컬러의 의상을 완벽하게 소화했다.\n특히 대한민국 최고 얼굴이라 꼽히는 그의 잘생긴 외모도 여전했다.\n정우성의 말대로 ‘역시 잘생긴 게 최고야’, ‘늘 새로워’, ‘짜릿해’라는 말을 스스로 증명했다.\n한편 정우성은 오는 8월 10일 영화 ‘헌트’ 개봉을 앞두고 있다. ‘헌트’는 정우성의 절친 이정재가 주연과 감독을 맡은 작품으로, 정우성과 이정재는 영화 ‘태양은 없다’ 이후 23년 만에 한 작품에서 재회했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정우성이 역시나 대한민국 최고 얼굴인 것을 증명했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정우성은 19일 자신의 사회관계망서비스(SNS)에 화보 사진을 게재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 정우성은 상반된 컬러의 의상을 완벽하게 소화했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 대한민국 최고 얼굴이라 꼽히는 그의 잘생긴 외모도 여전했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정우성의 말대로 ‘역시 잘생긴 게 최고야’, ‘늘 새로워’, ‘짜릿해’라는 말을 스스로 증명했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 정우성은 오는 8월 10일 영화 ‘헌트’ 개봉을 앞두고 있다. ‘헌트’는 정우성의 절친 이정재가 주연과 감독을 맡은 작품으로, 정우성과 이정재는 영화 ‘태양은 없다’ 이후 23년 만에 한 작품에서 재회했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정우성 명불허전 외모, 역시 잘생긴 게 최고야",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

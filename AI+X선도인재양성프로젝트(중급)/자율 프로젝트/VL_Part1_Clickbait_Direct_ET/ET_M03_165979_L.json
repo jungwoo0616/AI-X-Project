@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165979",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'나도 저런 남편이 있었으면'… 슈퍼맨 기태영, '100점짜리 남편' 인증",
+    "newsSubTitle": "",
+    "newsContent": "슈퍼맨 기태영 '슈퍼맨이 돌아왔다'에 첫 등장한 배우 기태영이 화제가 되고 있다.\n24일 방송된 KBS2 '슈퍼맨이 돌아왔다'에는 유진-기태영 부부와 8개월된 딸 로희가 처음으로 등장했다.\n이날 방송에서 기태영은 능숙하게 기저귀를 갈고 분유 온도를 알맞게 맞추는 등 육아 고수의 면모를 뽐냈다.\n이어서 기태영은 딸꾹질을 하는 딸 로희에게 분유를 먹이며 딸꾹질을 해결해면서 완벽한 아빠임을 인증했다.\n로희는 아빠의 손길이 익숙하다는 듯 보채지 않고 편안한 시간을 보냈다.\n기태영은 인터뷰에서 “아내가 로희를 낳을 때 조산기가 있었고, 출산할 때 아내가 힘을 너무 줘 목 뒷부분 핏줄이 다 터졌다”면서 안타까운 심정을 떠올렸다.\n그러면서 “육아에는 최대한 도움이 되고 싶었다”며 “블로그나 육아 책으로 공부를 열심히 했다”고 말했다.\n한편, 아내인 유진은 인터뷰에서 \\\"아빠가 아기 보는 시간이 많고 헌신적이다. 나도 저런 아빠가 있었으면 할 정도로 부러운 아빠다\\\"라며 아빠로서 기태영의 모습에 무한한 애정을 표현했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "슈퍼맨 기태영 '슈퍼맨이 돌아왔다'에 첫 등장한 배우 기태영이 화제가 되고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 방송된 KBS2 '슈퍼맨이 돌아왔다'에는 유진-기태영 부부와 8개월된 딸 로희가 처음으로 등장했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 기태영은 능숙하게 기저귀를 갈고 분유 온도를 알맞게 맞추는 등 육아 고수의 면모를 뽐냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어서 기태영은 딸꾹질을 하는 딸 로희에게 분유를 먹이며 딸꾹질을 해결해면서 완벽한 아빠임을 인증했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "로희는 아빠의 손길이 익숙하다는 듯 보채지 않고 편안한 시간을 보냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기태영은 인터뷰에서 “아내가 로희를 낳을 때 조산기가 있었고, 출산할 때 아내가 힘을 너무 줘 목 뒷부분 핏줄이 다 터졌다”면서 안타까운 심정을 떠올렸다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서 “육아에는 최대한 도움이 되고 싶었다”며 “블로그나 육아 책으로 공부를 열심히 했다”고 말했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 아내인 유진은 인터뷰에서 \\\"아빠가 아기 보는 시간이 많고 헌신적이다. 나도 저런 아빠가 있었으면 할 정도로 부러운 아빠다\\\"라며 아빠로서 기태영의 모습에 무한한 애정을 표현했다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "슈퍼맨 기태영, 가정적인 모습 화제... 완벽한 '찐텐' 남편으로 인정! ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

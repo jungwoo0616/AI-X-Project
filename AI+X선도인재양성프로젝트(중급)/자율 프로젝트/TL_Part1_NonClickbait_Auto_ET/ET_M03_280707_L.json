@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280707",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "연예대상 이휘재, 엄청난 정보력…유재석-나경은 둘째 계획까지",
+		"newsSubTitle": "",
+		"newsContent": "연예대상 이휘재, 엄청난 정보력…유재석-나경은 둘째 계획까지 연예대상 이휘재 소식이 화제인 가운데 유재석과의 에피소드가 덩달아 주목받고 있다.\n유재석은 지난 2013년 KBS2 예능프로그램 ‘해피투게더’에서 이휘재의 정보력에 감탄했다.\n이날 이휘재는 “압구정 쪽 정보원에게 들은 바로는 유재석 나경은 부부의 둘째 계획이 들린다고 하더라”고 말했다.\n이에 유재석은 “어느 날 정형돈이 내게 ‘축하한다’며 둘째 계획 중이냐고 물었다. 알고 보니 이휘재에게 들었다고 하더라”며 “정말로 (나경원과) 계획 중이었다. 이휘재에게 계획도 들킨 셈이다”고 놀라워했다.\n한편, 이휘재가 26일 서울 여의도 KBS홀에서 열린 '2015 KBS 연예대상' 시상식에서 대상을 수상했다.\n온라인 중앙일보 연예대상 이휘재[사진 KBS2 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연예대상 이휘재, 엄청난 정보력…유재석-나경은 둘째 계획까지 연예대상 이휘재 소식이 화제인 가운데 유재석과의 에피소드가 덩달아 주목받고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유재석은 지난 2013년 KBS2 예능프로그램 ‘해피투게더’에서 이휘재의 정보력에 감탄했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이휘재는 “압구정 쪽 정보원에게 들은 바로는 유재석 나경은 부부의 둘째 계획이 들린다고 하더라”고 말했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 유재석은 “어느 날 정형돈이 내게 ‘축하한다’며 둘째 계획 중이냐고 물었다. 알고 보니 이휘재에게 들었다고 하더라”며 “정말로 (나경원과) 계획 중이었다. 이휘재에게 계획도 들킨 셈이다”고 놀라워했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 이휘재가 26일 서울 여의도 KBS홀에서 열린 '2015 KBS 연예대상' 시상식에서 대상을 수상했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 연예대상 이휘재[사진 KBS2 캡처]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연예대상 이휘재, 엄청난 정보력…유재석-나경은 둘째 계획까지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

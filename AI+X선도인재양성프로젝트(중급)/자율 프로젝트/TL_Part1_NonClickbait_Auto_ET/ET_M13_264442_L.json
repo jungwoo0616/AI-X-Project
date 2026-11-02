@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264442",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이영지, 칭찬 듣자 “미치겠다 택시비주세요 소연씨”",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 이영지가 걸그룹 (여자)아이들의 신곡 ‘TOMBOY(톰보이)’ 챌린지에 나섰다.\n이영지는 (여자)아이들 멤버 소연의 사회 관계망 서비스(SNS) 게시물을 리그램 했다.\n해당 영상에서 이영지는 소연과 함께 (여자)아이들의 신곡 ‘TOMBOY’ 하이라이트 부분을 춤췄다.\n이어 이영지는 “아 미치겠다 택시비주세요 소연씨”라는 글을 덧붙여 많은 이들의 웃음을 자아냈다.\n앞서 소연은 자신의 인스타그램 스토리에 “멋쟁이 영지”라는 글과 함께 영상을 게재한 바 있다.\n한편 이영지는 지난 2019년 Ment 예능 ‘고등래퍼3’에서 우승을 차지했다.\n또 최근 13kg를 감량했다고 알려 많은 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 이영지가 걸그룹 (여자)아이들의 신곡 ‘TOMBOY(톰보이)’ 챌린지에 나섰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이영지는 (여자)아이들 멤버 소연의 사회 관계망 서비스(SNS) 게시물을 리그램 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 영상에서 이영지는 소연과 함께 (여자)아이들의 신곡 ‘TOMBOY’ 하이라이트 부분을 춤췄다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 이영지는 “아 미치겠다 택시비주세요 소연씨”라는 글을 덧붙여 많은 이들의 웃음을 자아냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 소연은 자신의 인스타그램 스토리에 “멋쟁이 영지”라는 글과 함께 영상을 게재한 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이영지는 지난 2019년 Ment 예능 ‘고등래퍼3’에서 우승을 차지했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 최근 13kg를 감량했다고 알려 많은 화제를 모았다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이영지, 칭찬 듣자 “미치겠다 택시비주세요 소연씨”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

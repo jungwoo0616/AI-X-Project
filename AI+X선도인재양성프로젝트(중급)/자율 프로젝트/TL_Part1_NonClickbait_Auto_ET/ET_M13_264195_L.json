@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264195",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "디지털콘텐츠 불공정거래 막는다…표준계약서 개정",
+		"newsSubTitle": "",
+		"newsContent": "과학기술정보통신부(과기정통부)는 17일 문화체육관광부, 공정거래위원회, 방송통신위원회와 함께 디지털 콘텐츠의 제작·유통 과정에서 사용될 수 있는 표준계약서를 개정해 보급한다고 밝혔다.\n공정거래 관련 법률이 개정되는 등 거래 현실이 변화한 데 따라 이를 반영한 범용 표준계약서가 필요해진 데 따른 것이다.\n디지털 콘텐츠 산업은 장르별 유통 구조가 다양한데다가 새로운 플랫폼의 등장으로 유통 구조가 다변화하고 있어 표준계약서의 중요성이 갈수록 커지고 있다고 과기정통부는 설명했다.\n표준계약서는 도급과 하도급, 위탁매매, 중개, 퍼블리싱 등 5가지 거래 형태별로 존재할 수 있는 불공정 관행을 예방하기 위한 규정과 거래 조건 등을 담았다.\n과기정통부는 이를 활용하면 계약에 대한 신뢰성을 확보함으로써 콘텐츠 품질 개선과 기업 경쟁력 강화에 도움이 될 것이라고 기대했다.\n디지털 콘텐츠 및 게임 기업들은 과기정통부와 한국메타버스산업협회 홈페이지에서 표준계약서를 내려받아 사용할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부(과기정통부)는 17일 문화체육관광부, 공정거래위원회, 방송통신위원회와 함께 디지털 콘텐츠의 제작·유통 과정에서 사용될 수 있는 표준계약서를 개정해 보급한다고 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공정거래 관련 법률이 개정되는 등 거래 현실이 변화한 데 따라 이를 반영한 범용 표준계약서가 필요해진 데 따른 것이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디지털 콘텐츠 산업은 장르별 유통 구조가 다양한데다가 새로운 플랫폼의 등장으로 유통 구조가 다변화하고 있어 표준계약서의 중요성이 갈수록 커지고 있다고 과기정통부는 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "표준계약서는 도급과 하도급, 위탁매매, 중개, 퍼블리싱 등 5가지 거래 형태별로 존재할 수 있는 불공정 관행을 예방하기 위한 규정과 거래 조건 등을 담았다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과기정통부는 이를 활용하면 계약에 대한 신뢰성을 확보함으로써 콘텐츠 품질 개선과 기업 경쟁력 강화에 도움이 될 것이라고 기대했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "디지털 콘텐츠 및 게임 기업들은 과기정통부와 한국메타버스산업협회 홈페이지에서 표준계약서를 내려받아 사용할 수 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "디지털콘텐츠 불공정거래 막는다…표준계약서 개정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

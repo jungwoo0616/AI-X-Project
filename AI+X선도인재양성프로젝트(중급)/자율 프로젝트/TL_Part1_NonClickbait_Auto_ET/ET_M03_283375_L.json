@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283375",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[사진] 수지, 아름다운 한복 자태 뽐낸 역대급 화보",
+		"newsSubTitle": "",
+		"newsContent": "수지가 아름다운 한복 자태를 뽐냈다.\n영화 ‘도리화가’(감독 이종필/제작 영화사담담, 어바웃필름) 개봉을 앞두고 있는 수지는 최근 매거진 퍼스트룩과 화보 촬영을 진행했다.\n한복을 완벽하게 소화한 수지는 ‘퍼스트룩’ 최초로 한복 표지를 장식했다.\n화보 속 수지는 영화 '도리화가' 속 조선 최초의 여류소리꾼 진채선 캐릭터와 어우러지는 한국적 아름다움을 표현해냈다. ‘도리화가’는 1867년 여자는 판소리를 할 수 없었던 시대, 운명을 거슬러 소리의 꿈을 꾸었던 조선 최초의 여류소리꾼 진채선(배수지)과 그녀를 키워낸 스승 신재효(류승룡)의 숨겨진 이야기를 그린 작품이다.\n류승룡, 배수지의 새로운 변신과 송새벽, 이동휘, 안재홍 등 실력파 배우들의 결합을 통해 1867년 조선 최초의 여류소리꾼이 탄생하기까지의 숨겨진 이야기를 스크린에 담아낸 ‘도리화가’는 전국을 누빈 방대한 로케이션을 통한 아름다운 영상과 흡인력 있는 스토리, 그리고 애틋한 판소리 선율이 결합한 작품으로 11월 25일 개봉한다.\n온라인 중앙일보 [사진 퍼스트룩]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "수지가 아름다운 한복 자태를 뽐냈다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영화 ‘도리화가’(감독 이종필/제작 영화사담담, 어바웃필름) 개봉을 앞두고 있는 수지는 최근 매거진 퍼스트룩과 화보 촬영을 진행했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한복을 완벽하게 소화한 수지는 ‘퍼스트룩’ 최초로 한복 표지를 장식했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화보 속 수지는 영화 '도리화가' 속 조선 최초의 여류소리꾼 진채선 캐릭터와 어우러지는 한국적 아름다움을 표현해냈다. ‘도리화가’는 1867년 여자는 판소리를 할 수 없었던 시대, 운명을 거슬러 소리의 꿈을 꾸었던 조선 최초의 여류소리꾼 진채선(배수지)과 그녀를 키워낸 스승 신재효(류승룡)의 숨겨진 이야기를 그린 작품이다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "류승룡, 배수지의 새로운 변신과 송새벽, 이동휘, 안재홍 등 실력파 배우들의 결합을 통해 1867년 조선 최초의 여류소리꾼이 탄생하기까지의 숨겨진 이야기를 스크린에 담아낸 ‘도리화가’는 전국을 누빈 방대한 로케이션을 통한 아름다운 영상과 흡인력 있는 스토리, 그리고 애틋한 판소리 선율이 결합한 작품으로 11월 25일 개봉한다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 퍼스트룩]",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[사진] 수지, 아름다운 한복 자태 뽐낸 역대급 화보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

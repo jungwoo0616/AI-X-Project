@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263182",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이근, 최전방 도착했나…중무장 모습 공개",
+		"newsSubTitle": "",
+		"newsContent": "UDT 대위 출신 유튜버 이근의 새로운 근황이 전해졌다.\n우크라이나 소식을 전하는 한 시민은 8일 트위터에 “우크라이나 국민 보호를 위해 한국에서 온 자원봉사단(전 특수부대)이 우크라이나에 도착했다”며 이근이 총기와 무장을 한 모습이 담긴 사진을 올렸다.\n이어 “(러시아)점령군에 맞서 싸우기로 한 자원봉사자들은 전직 특전사 이근이 이끌고 있다”고 설명했다.\n이근은 우크라이나 의용군에 지원해 우크라이나 현지에 도착했다.\n그는 우크라이나 현지 병영 캠프로 추정되는 여러 사진을 올리며 “아무 죄없는 사람들이 다치고 죽는 것을 보고만 있을 순 없다. 우크라이나의 평화를 기도해달라”고 했다.\n또한 “우리는 최전방에서 전투할 것”이라고 했다.\n외교부는 이근의 우크라이나 출국을 두고 7일 “무단으로 우크라이나에 입국할 경우, 여권법 위반에 따른 형사처벌 및 여권에 대한 행정 제재의 대상이 된다”며 “이근과 그 일행들에 대한 여권 무효화 조치를 취하려고 한다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "UDT 대위 출신 유튜버 이근의 새로운 근황이 전해졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우크라이나 소식을 전하는 한 시민은 8일 트위터에 “우크라이나 국민 보호를 위해 한국에서 온 자원봉사단(전 특수부대)이 우크라이나에 도착했다”며 이근이 총기와 무장을 한 모습이 담긴 사진을 올렸다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “(러시아)점령군에 맞서 싸우기로 한 자원봉사자들은 전직 특전사 이근이 이끌고 있다”고 설명했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이근은 우크라이나 의용군에 지원해 우크라이나 현지에 도착했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 우크라이나 현지 병영 캠프로 추정되는 여러 사진을 올리며 “아무 죄없는 사람들이 다치고 죽는 것을 보고만 있을 순 없다. 우크라이나의 평화를 기도해달라”고 했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 “우리는 최전방에서 전투할 것”이라고 했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외교부는 이근의 우크라이나 출국을 두고 7일 “무단으로 우크라이나에 입국할 경우, 여권법 위반에 따른 형사처벌 및 여권에 대한 행정 제재의 대상이 된다”며 “이근과 그 일행들에 대한 여권 무효화 조치를 취하려고 한다”고 했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이근, 최전방 도착했나…중무장 모습 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

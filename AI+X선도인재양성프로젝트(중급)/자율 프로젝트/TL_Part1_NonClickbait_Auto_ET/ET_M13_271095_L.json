@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271095",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘더 트롯쇼’ 김의영, 블링블링 무대",
+		"newsSubTitle": "",
+		"newsContent": "가수 김의영이 ‘더 트롯쇼’에 출연해 화려한 무대를 선사했다.\n김의영은 지난 23일 방송된 SBS FiL, SBS MTV ‘더트롯쇼’ 무대에 올라 ‘도찐개찐’을 열창했다.\n이날 김의영은 머리로 리본을 묶어서 꾸민 헤어스타일과 화려한 어깨 장식이 포함된 화이트 색상의 하늘하늘한 의상을 선보였으며, 반짝이는 귀걸이까지 블링블링한 모습에 깜찍한 안무가 어우러지며 보는 이들의 오감을 만족시키는 무대를 선물했다.\n특히 답답한 속을 시원하게 뚫는 김의영의 캡사이신 매력 넘치는 보이스까지 더해지며 볼수록 흥이 나는 무대를 완성시켰다.\n김의영은 지난해 방송된 TV조선 ‘내일은 미스트롯2’에서 재도전부로 참여해 최종 TOP5를 기록, 다양한 오디션 프로그램 출연을 통해 쌓아온 실력으로 트롯계에서 ‘캡사이신’이란 별칭을 얻으며 많은 이들의 사랑을 받고 있다.\n한편, 김의영은 앞으로도 다양한 콘텐츠를 통해 대중 앞에 나설 것을 예고해 이후 행보에도 많은 이들의 관심이 쏠리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김의영이 ‘더 트롯쇼’에 출연해 화려한 무대를 선사했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김의영은 지난 23일 방송된 SBS FiL, SBS MTV ‘더트롯쇼’ 무대에 올라 ‘도찐개찐’을 열창했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김의영은 머리로 리본을 묶어서 꾸민 헤어스타일과 화려한 어깨 장식이 포함된 화이트 색상의 하늘하늘한 의상을 선보였으며, 반짝이는 귀걸이까지 블링블링한 모습에 깜찍한 안무가 어우러지며 보는 이들의 오감을 만족시키는 무대를 선물했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 답답한 속을 시원하게 뚫는 김의영의 캡사이신 매력 넘치는 보이스까지 더해지며 볼수록 흥이 나는 무대를 완성시켰다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김의영은 지난해 방송된 TV조선 ‘내일은 미스트롯2’에서 재도전부로 참여해 최종 TOP5를 기록, 다양한 오디션 프로그램 출연을 통해 쌓아온 실력으로 트롯계에서 ‘캡사이신’이란 별칭을 얻으며 많은 이들의 사랑을 받고 있다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 김의영은 앞으로도 다양한 콘텐츠를 통해 대중 앞에 나설 것을 예고해 이후 행보에도 많은 이들의 관심이 쏠리고 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더 트롯쇼’ 김의영, 블링블링 무대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

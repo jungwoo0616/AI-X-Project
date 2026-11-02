@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275737",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘조이♥’ 크러쉬, 사랑하는 이유는 “외모 때문이 아니야”",
+		"newsSubTitle": "",
+		"newsContent": "가수 크러쉬가 명언을 공유했다.\n크러쉬는 18일 오전 자신의 사회관계망서비스(SNS) 인스타그램에 ‘아일랜드 시인이자 작가’ 오스카 와일드의 명언이 담긴 사진을 게시했다.\n크러쉬는 “우리가 누군가를 사랑하는 것은 외모나 옷, 고급 자동차 때문이 아니다. 그 사람이 오직 나만 들을 수 있는 노래를 부르기 때문이다”라는 글귀를 인용했다.\n크러쉬는 지난해 8월부터 걸그룹 레드벨벳의 멤버 조이와 공개 열애 중이다.\n크러쉬는 첫 번째 싱글인 ‘자나깨나’ 곡 작업을 함께한 것을 계기로 연인이 되었다고 알려졌다.\n한편 크러쉬는 지난 2020년 10월에 입대했다.\n그는 오는 8월 전역 이후 ‘2022 리스팩 페스티벌’에서 팬들을 맞이할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 크러쉬가 명언을 공유했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크러쉬는 18일 오전 자신의 사회관계망서비스(SNS) 인스타그램에 ‘아일랜드 시인이자 작가’ 오스카 와일드의 명언이 담긴 사진을 게시했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "크러쉬는 “우리가 누군가를 사랑하는 것은 외모나 옷, 고급 자동차 때문이 아니다. 그 사람이 오직 나만 들을 수 있는 노래를 부르기 때문이다”라는 글귀를 인용했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "크러쉬는 지난해 8월부터 걸그룹 레드벨벳의 멤버 조이와 공개 열애 중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "크러쉬는 첫 번째 싱글인 ‘자나깨나’ 곡 작업을 함께한 것을 계기로 연인이 되었다고 알려졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 크러쉬는 지난 2020년 10월에 입대했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 오는 8월 전역 이후 ‘2022 리스팩 페스티벌’에서 팬들을 맞이할 예정이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘조이♥’ 크러쉬, 사랑하는 이유는 “외모 때문이 아니야”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

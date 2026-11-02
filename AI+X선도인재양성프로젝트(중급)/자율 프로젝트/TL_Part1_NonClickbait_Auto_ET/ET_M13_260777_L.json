@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260777",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘2022 베이징 올림픽’ 현장 중계 이상화X이강석 “남자 500m에서 일낼 것”",
+		"newsSubTitle": "",
+		"newsContent": "‘빙속 500m의 전설’ 이강석 KBS 해설위원이 2022 베이징올림픽 남자 스피드스케이팅 경기를 앞둔 김준호와 차민규의 메달 가능성을 높게 평가했다.\n김준호와 차민규는 12일 중국 베이징 스피드스케이팅장에서 열리는 남자 500m에 출전해 메달에 도전한다.\n스피드스케이팅 500m는 최고 스프린터들의 경연장으로 당일 선수 컨디션에 따라 순위가 요동칠 때가 많다.\n과거 이강석 위원도 2010 밴쿠버올림픽 당시 세계랭킹 1위로 금메달 1순위였지만 4위에 머물렀다.\n이강석 위원은 김준호와 차민규를 주목하는 것도 바로 이런 경험이 깔려 있다.\n이강석 위원은 “500m는 월드컵 때 1등 했다고 올림픽에서 1등한다는 보장이 없다. 육상 100m처럼 단거리 종목으로 올림픽에 맞춰 컨디션을 끌어 올린 선수가 가장 유리하다”며 김준호는 세계랭킹 8위, 차민규는 세계랭킹 11위로 최근 상승세를 타고 있어 메달 가능성이 충분하다고 말했다.\n이강석과 함께 ‘빙상 여제’ 이상화의 예리한 해설이 더해질 스피드스케이팅 남자 500m 경기는 KBS2를 통해 중계된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘빙속 500m의 전설’ 이강석 KBS 해설위원이 2022 베이징올림픽 남자 스피드스케이팅 경기를 앞둔 김준호와 차민규의 메달 가능성을 높게 평가했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김준호와 차민규는 12일 중국 베이징 스피드스케이팅장에서 열리는 남자 500m에 출전해 메달에 도전한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스피드스케이팅 500m는 최고 스프린터들의 경연장으로 당일 선수 컨디션에 따라 순위가 요동칠 때가 많다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "과거 이강석 위원도 2010 밴쿠버올림픽 당시 세계랭킹 1위로 금메달 1순위였지만 4위에 머물렀다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이강석 위원은 김준호와 차민규를 주목하는 것도 바로 이런 경험이 깔려 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이강석 위원은 “500m는 월드컵 때 1등 했다고 올림픽에서 1등한다는 보장이 없다. 육상 100m처럼 단거리 종목으로 올림픽에 맞춰 컨디션을 끌어 올린 선수가 가장 유리하다”며 김준호는 세계랭킹 8위, 차민규는 세계랭킹 11위로 최근 상승세를 타고 있어 메달 가능성이 충분하다고 말했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이강석과 함께 ‘빙상 여제’ 이상화의 예리한 해설이 더해질 스피드스케이팅 남자 500m 경기는 KBS2를 통해 중계된다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘2022 베이징 올림픽’ 현장 중계 이상화X이강석 “남자 500m에서 일낼 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

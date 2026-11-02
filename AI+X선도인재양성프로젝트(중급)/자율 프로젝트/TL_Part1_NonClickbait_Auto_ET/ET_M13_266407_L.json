@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266407",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "보이그룹 브랜드 1위 방탄소년단, 빅뱅 추격 ‘눈길’",
+		"newsSubTitle": "",
+		"newsContent": "현 상황 보이그룹 브랜드 파워 지수 정상을 차지한 그룹은 방탄소년단이었다.\n최근 복귀를 선언한 빅뱅이 2위에 올라 눈길을 끌었다.\n한국기업평판연구소는 지난달 9일부터 지난 9일까지 측정한 빅데이터 소비자 행동분석으로 보이그룹 브랜드에 대한 참여·미디어·소통·커뮤니티 지수를 측정해 이 같은 결과가 나왔다고 이날 밝혔다.\n총 30개의 그룹이 이름에 올렸다.\n정상을 차지한 방탄소년단, 빅뱅에 이어 세븐틴, 엑소, NCT, 스트레이키즈, 비투비, 슈퍼주니어, 더보이즈, 몬스터엑스, 샤이니, 트레저, 아스트로, 워너원, 뉴이스트, 2PM, 엔하이픈, 토모로우바이투게더, 인피니트, 위너, SF9, 에이티즈, 펜타곤, 탄, 빅스, 동방신기, 위아이, 하이라이트, 크래피티, 블락비 순으로 보이그룹 브랜드 지수가 평가됐다.\n한국기업평판연구소 구창환 소장은 “보이그룹 브랜드 평판 2022년 4월 분석 1위를 기록한 방탄소년단 브랜드는 ‘선정하자’ ‘영향력있다’ ‘불발하다’가 높게 분석됐다”며 “키워드 분석에는 ‘타임지’ ‘표지모델’ ‘그래미 어워드’가 높게 분석됐다”고 평가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현 상황 보이그룹 브랜드 파워 지수 정상을 차지한 그룹은 방탄소년단이었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 복귀를 선언한 빅뱅이 2위에 올라 눈길을 끌었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국기업평판연구소는 지난달 9일부터 지난 9일까지 측정한 빅데이터 소비자 행동분석으로 보이그룹 브랜드에 대한 참여·미디어·소통·커뮤니티 지수를 측정해 이 같은 결과가 나왔다고 이날 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "총 30개의 그룹이 이름에 올렸다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정상을 차지한 방탄소년단, 빅뱅에 이어 세븐틴, 엑소, NCT, 스트레이키즈, 비투비, 슈퍼주니어, 더보이즈, 몬스터엑스, 샤이니, 트레저, 아스트로, 워너원, 뉴이스트, 2PM, 엔하이픈, 토모로우바이투게더, 인피니트, 위너, SF9, 에이티즈, 펜타곤, 탄, 빅스, 동방신기, 위아이, 하이라이트, 크래피티, 블락비 순으로 보이그룹 브랜드 지수가 평가됐다.",
+				"sentenceSize": 201
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국기업평판연구소 구창환 소장은 “보이그룹 브랜드 평판 2022년 4월 분석 1위를 기록한 방탄소년단 브랜드는 ‘선정하자’ ‘영향력있다’ ‘불발하다’가 높게 분석됐다”며 “키워드 분석에는 ‘타임지’ ‘표지모델’ ‘그래미 어워드’가 높게 분석됐다”고 평가했다.",
+				"sentenceSize": 144
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "보이그룹 브랜드 1위 방탄소년단, 빅뱅 추격 ‘눈길’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

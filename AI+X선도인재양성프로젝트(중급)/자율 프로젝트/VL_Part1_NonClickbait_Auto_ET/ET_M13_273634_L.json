@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273634",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "오병직 ‘프라다 맨즈 콜렉션쇼’ 독점 무대",
+		"newsSubTitle": "",
+		"newsContent": "모델 오병직이 세계 패션계에 큰 걸음을 내딛었다.\n오병직은 해외 진출과 동시에 프라다 맨즈 콜렉션 쇼에 독점으로 무대에 오르며 글로벌 명성을 새겼다.\n19일(한국 시간) 오후 9시 밀라노에서 열린 2023 S/S 프라다 맨즈 컬렉션에서는 YG 케이플러스의 모델 오병직이 런웨이에 올라 첫 독점 콜렉션 무대에도 프로다운 면모와 카리스마 로 시선을 올킬했다.\n오병직은 민트 체크 티셔츠와 블랙 레더 쇼츠를 착용해 좌중을 사로잡는 분위기와 강렬한 눈빛을 한껏 발산하며 존재감을 드러냈다.\n뿐만 아니라 프라다의 트라이앵글 패턴이 돋보이는 백까지 완벽하게 소화해 눈길을 끌었다.\n이번 쇼에 앞서 그동안 여러 경험을 쌓으며 모델로서 완성도를 높이는 데 집중했던 오병직은 해외 진출과 동시에 하이앤드 브랜드의 콜렉션에 오르는 성과를 거두며 새 초신성의 탄생을 알렸다.\n특히 신비로운 비주얼과 훤칠한 프로포션의 조화는 유니크한 이미지의 모델을 찾았던 팬들과 관계자들의 니즈를 모두 해소시킬 것으로 기대를 더하고 있다.\n이처럼 확고한 개성과 여유로운 매력, 그리고 유려한 워킹까지 지닌 오병직이 앞으로 어떤 모습으로 스스로의 영역을 넓혀 나갈지 관심과 주목이 모아지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 오병직이 세계 패션계에 큰 걸음을 내딛었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오병직은 해외 진출과 동시에 프라다 맨즈 콜렉션 쇼에 독점으로 무대에 오르며 글로벌 명성을 새겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "19일(한국 시간) 오후 9시 밀라노에서 열린 2023 S/S 프라다 맨즈 컬렉션에서는 YG 케이플러스의 모델 오병직이 런웨이에 올라 첫 독점 콜렉션 무대에도 프로다운 면모와 카리스마 로 시선을 올킬했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오병직은 민트 체크 티셔츠와 블랙 레더 쇼츠를 착용해 좌중을 사로잡는 분위기와 강렬한 눈빛을 한껏 발산하며 존재감을 드러냈다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뿐만 아니라 프라다의 트라이앵글 패턴이 돋보이는 백까지 완벽하게 소화해 눈길을 끌었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 쇼에 앞서 그동안 여러 경험을 쌓으며 모델로서 완성도를 높이는 데 집중했던 오병직은 해외 진출과 동시에 하이앤드 브랜드의 콜렉션에 오르는 성과를 거두며 새 초신성의 탄생을 알렸다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 신비로운 비주얼과 훤칠한 프로포션의 조화는 유니크한 이미지의 모델을 찾았던 팬들과 관계자들의 니즈를 모두 해소시킬 것으로 기대를 더하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이처럼 확고한 개성과 여유로운 매력, 그리고 유려한 워킹까지 지닌 오병직이 앞으로 어떤 모습으로 스스로의 영역을 넓혀 나갈지 관심과 주목이 모아지고 있다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오병직 ‘프라다 맨즈 콜렉션쇼’ 독점 무대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

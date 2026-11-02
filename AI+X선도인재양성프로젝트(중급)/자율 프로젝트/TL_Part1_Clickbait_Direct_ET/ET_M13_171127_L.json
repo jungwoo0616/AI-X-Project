@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171127",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "박규리·송자호, 2년 만에 결별[공식]",
+    "newsSubTitle": "",
+    "newsContent": "카라 출신 박규리가 2년간의 공개 열애에 마침표를 찍은 것으로 알려졌다.\n박규리 에이전시 크리에이티브꽃에 따르면 박규리는 최근 연인이었던 송자호와 결별했다.\n다만 에이전시는 이들의 결별 사유에 대해 ‘개인적인 일’로 확인하기 어렵다고 전했다.\n박규리와 송자호는 2019년 10월 열애를 공식 인정했다.\n이들은 공통 관심사인 미술로 호감을 쌓아오다 연인 사이로 발전했다.\n송자호는 미술품 공유 기업 피카프로젝트를 운영 중이다.\n송승헌 전 동원건설 회장의 장손으로 중견기업 3세와 연예인의 만남으로 열애가 알려질 당시 세간의 화제 올랐다.\n송자호는 최근 불미스러운 일에 휩쓸리기도 했다.\n서울강남경찰서는 6월 22일 서울 강남구 청담동에서 술을 마친 채 운전한 혐의를 받는 송자호를 입건했다.\n송자호는 만취 상태로 주차돼 있던 다른 차를 받은 뒤 도자하는 도중 일방통행도로에서 역주행한 혐의도 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "카라 출신 박규리가 2년간의 공개 열애에 마침표를 찍은 것으로 알려졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박규리 에이전시 크리에이티브꽃에 따르면 박규리는 최근 연인이었던 송자호와 결별했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다만 에이전시는 이들의 결별 사유에 대해 ‘개인적인 일’로 확인하기 어렵다고 전했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박규리와 송자호는 2019년 10월 열애를 공식 인정했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들은 공통 관심사인 미술로 호감을 쌓아오다 연인 사이로 발전했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "송자호는 미술품 공유 기업 피카프로젝트를 운영 중이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "송승헌 전 동원건설 회장의 장손으로 중견기업 3세와 연예인의 만남으로 열애가 알려질 당시 세간의 화제 올랐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "송자호는 최근 불미스러운 일에 휩쓸리기도 했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울강남경찰서는 6월 22일 서울 강남구 청담동에서 술을 마친 채 운전한 혐의를 받는 송자호를 입건했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "송자호는 만취 상태로 주차돼 있던 다른 차를 받은 뒤 도자하는 도중 일방통행도로에서 역주행한 혐의도 받았다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "카라 출신 박규리와 송지호 결별 사유는 무엇 때문?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

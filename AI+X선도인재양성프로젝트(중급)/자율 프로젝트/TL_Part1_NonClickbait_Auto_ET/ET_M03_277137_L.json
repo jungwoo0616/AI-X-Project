@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277137",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "남주혁 김도연, 벚꽃나무 아래 다정한 모습 포착",
+		"newsSubTitle": "",
+		"newsContent": "배우 남주혁과 아이오아이 김도연의 다정한 사진이 공개됐다.\n최근 한 온라인 커뮤니티에 ‘남주혁’과 ‘김도연’의 광고촬영 현장 사진이 공개됐다.\n남주혁은 자전거를 이끌고 있고 김도연은 꽃다발을 든 채 거리 위에서 서로를 마주보고 있다.\n벚꽃나무 아래 서 있는 훤칠한 두 남녀의 모습을 보면 봄의 설렘이 가득 느껴지는 듯 하다.\n공개된 사진은 KB국민은행의 광고 촬영 현장으로 알려졌다.\n이를 본 네티즌들은 “광고 너무 기대 된다” “드라마였어도 좋았을 걸” 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 남주혁과 아이오아이 김도연의 다정한 사진이 공개됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한 온라인 커뮤니티에 ‘남주혁’과 ‘김도연’의 광고촬영 현장 사진이 공개됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "남주혁은 자전거를 이끌고 있고 김도연은 꽃다발을 든 채 거리 위에서 서로를 마주보고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "벚꽃나무 아래 서 있는 훤칠한 두 남녀의 모습을 보면 봄의 설렘이 가득 느껴지는 듯 하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 사진은 KB국민은행의 광고 촬영 현장으로 알려졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 “광고 너무 기대 된다” “드라마였어도 좋았을 걸” 등의 반응을 보였다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남주혁 김도연, 벚꽃나무 아래 다정한 모습 포착",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

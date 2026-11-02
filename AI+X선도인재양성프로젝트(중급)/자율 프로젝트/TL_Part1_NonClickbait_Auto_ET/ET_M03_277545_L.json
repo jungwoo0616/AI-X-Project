@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277545",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "무한도전, 광희 가고 노홍철 올까? 양측 입장은…",
+		"newsSubTitle": "",
+		"newsContent": "7주간 재정비 기간을 갖기로한 무한도전이 광희 입대를 앞두고 '새 멤버'에 대한 소문에 휩싸였다.\n12일 한 매체는 무한도전이 광희 군 입대 후 노홍철 복귀를 검토하고 있다고 보도했다.\n노홍철이 복귀하게 된다면 지난 2014년 음주논란으로 자진 하차한 이후 2년여만이다.\n이에 대해 노홍철측 관계자는 “주변에서 설득하는 분들이 있지만 정작 본인은 그런 의사를 밝힌 적 없다”고 말했다.\n무한도전 역시 “본인은 복귀 의사를 밝힌 적 없다”고 선을 그었다.\n앞서 광희는 지난 2015년 4월 '식스맨 프로젝트'를 통해 새 멤버로 합류했다.\n그러나 광희가 2~3월 중 입대 계획이 잡이면서 '새 멤버' 확충 가능성이 제기됐다.\n현재 무한도전은 유재석·박명수·정준하·하하·광희·양세형 체제인 상태다.\n따라서 연예계 안팎에서 “무한도전이 오는 28일부터 약 7주간 재정비를 위한 시간을 갖는 동안 모든 가능성을 포함한 내부 검토가 있을 것”이라는 분석도 나온다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "7주간 재정비 기간을 갖기로한 무한도전이 광희 입대를 앞두고 '새 멤버'에 대한 소문에 휩싸였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 한 매체는 무한도전이 광희 군 입대 후 노홍철 복귀를 검토하고 있다고 보도했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노홍철이 복귀하게 된다면 지난 2014년 음주논란으로 자진 하차한 이후 2년여만이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 대해 노홍철측 관계자는 “주변에서 설득하는 분들이 있지만 정작 본인은 그런 의사를 밝힌 적 없다”고 말했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무한도전 역시 “본인은 복귀 의사를 밝힌 적 없다”고 선을 그었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 광희는 지난 2015년 4월 '식스맨 프로젝트'를 통해 새 멤버로 합류했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 광희가 2~3월 중 입대 계획이 잡이면서 '새 멤버' 확충 가능성이 제기됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재 무한도전은 유재석·박명수·정준하·하하·광희·양세형 체제인 상태다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "따라서 연예계 안팎에서 “무한도전이 오는 28일부터 약 7주간 재정비를 위한 시간을 갖는 동안 모든 가능성을 포함한 내부 검토가 있을 것”이라는 분석도 나온다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "무한도전, 광희 가고 노홍철 올까? 양측 입장은…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

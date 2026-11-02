@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171653",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘AOA 출신’ 지민, 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "…그룹 AOA 출신 지민이 근황을 공개했다.\n지민은 지난 29일 자신의 사회관계망서비스(SNS)에 여러 장의 사진을 업로드했다.\n사진 속 지민은 편안한 의상과 캡모자를 쓰고 카메라를 향해 환하게 웃고 있다.\n지민의 근황에 누리꾼들은 “잘 지내고 있나보다”, “다시 활동 시작하려는건가”와 같은 반응을 남겼다.\n한편 지민은 지난 2020년 7월 AOA를 탈퇴하고 모든 활동을 중단했다.\n최근엔 FNC엔터테인먼트와 계약을 종료했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "…그룹 AOA 출신 지민이 근황을 공개했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지민은 지난 29일 자신의 사회관계망서비스(SNS)에 여러 장의 사진을 업로드했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 지민은 편안한 의상과 캡모자를 쓰고 카메라를 향해 환하게 웃고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지민의 근황에 누리꾼들은 “잘 지내고 있나보다”, “다시 활동 시작하려는건가”와 같은 반응을 남겼다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 지민은 지난 2020년 7월 AOA를 탈퇴하고 모든 활동을 중단했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근엔 FNC엔터테인먼트와 계약을 종료했다.",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최근 근황 공개한 AOA 출신 아이돌, 다시 활동 시작하나? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

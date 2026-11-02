@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275209",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영탁이 딱이야…‘MMM’ 초동 52만장 판매",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁의 인기가 심상치가 않다.\n영탁 소속사 밀라그로는 지난 4일 발매된 영탁의 첫 정규 앨범 ‘MMM’이 한터차트 11일 기준 초동 판매량 52만4200여 장을 기록했다고 이날 밝혔다.\n첫 정규 앨범인 ‘MMM’은 초동 기간 내 판매량 50만장을 돌파해 역대 한국 가수 초동 판매량 41위를 기록하며 자신의 굳건한 인기를 입증했다는 평이다.\n타이틀 곡은 ‘신사답게’(MMM)이다.\n트랜디한 브라스 섹션과 리드미컬한 기타 리프가 조화를 이루는 펑키 댄스 장르 곡으로 영탁의 시원한 보컬이 더했다고 소속사는 설명했다.\n영탁은 첫 정규 앨범 발매에 이어 여러 예능 프로그램에서 예능감을 방출하며 친숙한 행보를 이어오고 있다.\n특히 올해 단독 콘서트를 앞두며 팬들의 관심을 집중시켰다. ‘2022 영탁 단독 콘서트 탁쇼’(TAK SHOW)는 지난달 티켓 오픈과 동시에 전석 매진을 기록하며 티켓 파워를 과시했다.\n해당 공연은 오는 29일부터 30일, 31일까지 3일간 서울 올림픽체조경기장에서 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁의 인기가 심상치가 않다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영탁 소속사 밀라그로는 지난 4일 발매된 영탁의 첫 정규 앨범 ‘MMM’이 한터차트 11일 기준 초동 판매량 52만4200여 장을 기록했다고 이날 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫 정규 앨범인 ‘MMM’은 초동 기간 내 판매량 50만장을 돌파해 역대 한국 가수 초동 판매량 41위를 기록하며 자신의 굳건한 인기를 입증했다는 평이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타이틀 곡은 ‘신사답게’(MMM)이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트랜디한 브라스 섹션과 리드미컬한 기타 리프가 조화를 이루는 펑키 댄스 장르 곡으로 영탁의 시원한 보컬이 더했다고 소속사는 설명했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영탁은 첫 정규 앨범 발매에 이어 여러 예능 프로그램에서 예능감을 방출하며 친숙한 행보를 이어오고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 올해 단독 콘서트를 앞두며 팬들의 관심을 집중시켰다. ‘2022 영탁 단독 콘서트 탁쇼’(TAK SHOW)는 지난달 티켓 오픈과 동시에 전석 매진을 기록하며 티켓 파워를 과시했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해당 공연은 오는 29일부터 30일, 31일까지 3일간 서울 올림픽체조경기장에서 진행된다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁이 딱이야…‘MMM’ 초동 52만장 판매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

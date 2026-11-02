@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170825",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘다빈치노트’ 순조로운 출발",
+    "newsSubTitle": "",
+    "newsContent": "케이블채널 tvN ‘다빈치노트’가 순조롭게 출발했다.\n지난 7일 오후 첫 방송된 ‘다빈치노트’는 수도권 가구 기준 평균 3.1%, 최고 4.2%를, 전국 가구 기준 평균 2.9%, 최고 3.8%(케이블, IPTV, 위성 통합한 유료플랫폼 기준/닐슨 코리아 제공)를 기록했다.\n1회에서는 장성규, 장도연, 존박 3MC와 김범준 교수, 강성주 박사, 곽재식 작가가 출연해 놀라운 입담으로 재미를 선사했다.\n장성규는 과거 방송 출연 당시 최종 결과를 앞두고 벽시계가 떨어지는 등 오싹한 경험을 했던 일화를 전해 시선을 끌었다.\n이에 과학자들은 각자의 에피소드를 풀어놓으면서도 “귀신은 없다”라고 말해 웃음을 선사했다.\n이날 과학적 검증을 시도한 미스터리는 ‘폴터가이스트’ 현상과 중력을 거스르는 미스터리 스팟이었다.\n제작진은 본격적 실험을 위해 국내 방송 최초로 사운드 카메라를 도입, 공명 실험을 진행했다.\n이뿐만 아니라 미국의 미스터리 스팟 ‘크레이지 하우스’를 고스란히 재현해 출연진을 혼란에 빠뜨리는 등 역대급 스케일로 놀라움을 안겼다.\n오는 14일 방송하는 2화에서는 인체 자연발화와 사라졌다 나타나는 그림의 기적 검증에 도전할 전망이다.\n물과 열을 이용해 어느 때보다 흥미진진한 실험을 전개할 예정으로, 벌써부터 많은 기대를 모은다. ‘다빈치노트’는 매주 토요일 밤 10시 40분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "케이블채널 tvN ‘다빈치노트’가 순조롭게 출발했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 7일 오후 첫 방송된 ‘다빈치노트’는 수도권 가구 기준 평균 3.1%, 최고 4.2%를, 전국 가구 기준 평균 2.9%, 최고 3.8%(케이블, IPTV, 위성 통합한 유료플랫폼 기준/닐슨 코리아 제공)를 기록했다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1회에서는 장성규, 장도연, 존박 3MC와 김범준 교수, 강성주 박사, 곽재식 작가가 출연해 놀라운 입담으로 재미를 선사했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장성규는 과거 방송 출연 당시 최종 결과를 앞두고 벽시계가 떨어지는 등 오싹한 경험을 했던 일화를 전해 시선을 끌었다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 과학자들은 각자의 에피소드를 풀어놓으면서도 “귀신은 없다”라고 말해 웃음을 선사했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 과학적 검증을 시도한 미스터리는 ‘폴터가이스트’ 현상과 중력을 거스르는 미스터리 스팟이었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제작진은 본격적 실험을 위해 국내 방송 최초로 사운드 카메라를 도입, 공명 실험을 진행했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이뿐만 아니라 미국의 미스터리 스팟 ‘크레이지 하우스’를 고스란히 재현해 출연진을 혼란에 빠뜨리는 등 역대급 스케일로 놀라움을 안겼다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오는 14일 방송하는 2화에서는 인체 자연발화와 사라졌다 나타나는 그림의 기적 검증에 도전할 전망이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "물과 열을 이용해 어느 때보다 흥미진진한 실험을 전개할 예정으로, 벌써부터 많은 기대를 모은다. ‘다빈치노트’는 매주 토요일 밤 10시 40분 방송된다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "케이블채널 tvN, 첫 방송서 장성규, 장도연 등 놀라운 입담으로 재미를 선사한 이 프로그램은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

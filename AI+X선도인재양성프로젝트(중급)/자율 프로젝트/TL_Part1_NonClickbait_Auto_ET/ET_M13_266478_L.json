@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266478",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘싱어게인2’ 나겸, 첫 콘서트에 감격 “울컥했다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 나겸이 종합편성채널 JTBC ‘싱어게인2’ 톱10 전국투어 콘서트에 감격했다.\n나겸은 9일 오후 사회관계망서비스(SNS)에 두 장의 사진을 공개하면서 벅찬 감정을 나타냈다.\n공개된 사진 속 나겸은 검은 투피스로 우아한 자태를 자랑하고 있다.\n이어 “드디어 첫 콘서트가 시작됐다. 첫 무대라 그런지 울컥했다”라는 글을 올렸다.\n나겸은 “여러분이 날 바라볼 때 나도 여러분을 바라보겠다”라며 남다른 팬사랑을 보여주는가 하면, “저녁 공연도 즐겁게 해보겠다”라는 포부와 함께 또 어떤 무대를 펼칠지 기대를 모았다.\n앞서 나겸은 ‘싱어게인2’에서 34호 가수로 출격, 자신만의 개성 넘치는 색깔을 담은 음악으로 대중에게 전율을 선사해 ‘싱어게인2’ 톱10에 합류했다.\n또한 한계 없는 음악 소화력을 비롯해 완벽한 가창력으로 대중에게 자신의 이름을 각인시킨 바 있다. ‘싱어게인2’ 톱10 전국투어 콘서트를 통해 팬들을 만나고 있는 나겸은 앞으로도 다양한 활동을 이어나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 나겸이 종합편성채널 JTBC ‘싱어게인2’ 톱10 전국투어 콘서트에 감격했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "나겸은 9일 오후 사회관계망서비스(SNS)에 두 장의 사진을 공개하면서 벅찬 감정을 나타냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 나겸은 검은 투피스로 우아한 자태를 자랑하고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “드디어 첫 콘서트가 시작됐다. 첫 무대라 그런지 울컥했다”라는 글을 올렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "나겸은 “여러분이 날 바라볼 때 나도 여러분을 바라보겠다”라며 남다른 팬사랑을 보여주는가 하면, “저녁 공연도 즐겁게 해보겠다”라는 포부와 함께 또 어떤 무대를 펼칠지 기대를 모았다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 나겸은 ‘싱어게인2’에서 34호 가수로 출격, 자신만의 개성 넘치는 색깔을 담은 음악으로 대중에게 전율을 선사해 ‘싱어게인2’ 톱10에 합류했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 한계 없는 음악 소화력을 비롯해 완벽한 가창력으로 대중에게 자신의 이름을 각인시킨 바 있다. ‘싱어게인2’ 톱10 전국투어 콘서트를 통해 팬들을 만나고 있는 나겸은 앞으로도 다양한 활동을 이어나갈 예정이다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘싱어게인2’ 나겸, 첫 콘서트에 감격 “울컥했다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

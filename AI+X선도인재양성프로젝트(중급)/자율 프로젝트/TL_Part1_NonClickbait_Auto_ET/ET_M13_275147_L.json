@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275147",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘놀면 뭐하니?’ AI 박진주 떴다",
+		"newsSubTitle": "",
+		"newsContent": "배우 박진주가 만능 엔터네이로 맹활약을 했다.\n박진주는 9일 방송된 MBC 예능 프로그램 ‘놀면 뭐하니?’에 출연해 걸그룹에 완벽히 녹아든 모습을 보여줬다.\n이날 방송에서 박진주는 WSG워너비의 앨범 재킷 작가로 나선 전현무의 등장에 AI처럼 소감을 말하거나 리액션 하는 모습으로 큰 웃음을 자아냈다.\n또한 유재석이 “걸그룹에 빙의됐다”라고 하자 박진주는 “아예 잠식됐다”라며 너스레를 떨었다.\n이어 박진주는 윤은혜에게 뽀뽀하는 모습부터 수줍게 입을 가리며 웃는 등 짤 생성을 유발하는 포즈로 잇단 웃음을 안겼다.\n또 시소 팀 멤버들과 데뷔곡 ‘Clink Clink(클링크 클링크)’ 맛보기 라이브 무대를 선보였다.\n이처럼 박진주는 아이돌 뺨치는 표정과 실력으로 눈길을 끄는가 하면, 센스 넘치는 리액션과 예능감을 뽐내며 안방극장을 즐거운 에너지로 가득 채웠다.\n한편 박진주는 다양한 작품과 예능에 출연하며 만능 엔터테이너로서 많은 사랑을 받고 있으며, 최근 웨이브 오리지널 ‘위기의 X’ 출연을 확정 지으며 열일 행보를 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박진주가 만능 엔터네이로 맹활약을 했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박진주는 9일 방송된 MBC 예능 프로그램 ‘놀면 뭐하니?’에 출연해 걸그룹에 완벽히 녹아든 모습을 보여줬다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 박진주는 WSG워너비의 앨범 재킷 작가로 나선 전현무의 등장에 AI처럼 소감을 말하거나 리액션 하는 모습으로 큰 웃음을 자아냈다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 유재석이 “걸그룹에 빙의됐다”라고 하자 박진주는 “아예 잠식됐다”라며 너스레를 떨었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 박진주는 윤은혜에게 뽀뽀하는 모습부터 수줍게 입을 가리며 웃는 등 짤 생성을 유발하는 포즈로 잇단 웃음을 안겼다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 시소 팀 멤버들과 데뷔곡 ‘Clink Clink(클링크 클링크)’ 맛보기 라이브 무대를 선보였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이처럼 박진주는 아이돌 뺨치는 표정과 실력으로 눈길을 끄는가 하면, 센스 넘치는 리액션과 예능감을 뽐내며 안방극장을 즐거운 에너지로 가득 채웠다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 박진주는 다양한 작품과 예능에 출연하며 만능 엔터테이너로서 많은 사랑을 받고 있으며, 최근 웨이브 오리지널 ‘위기의 X’ 출연을 확정 지으며 열일 행보를 이어간다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘놀면 뭐하니?’ AI 박진주 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

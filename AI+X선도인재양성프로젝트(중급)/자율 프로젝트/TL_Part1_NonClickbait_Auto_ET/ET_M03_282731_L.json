@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282731",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'무한도전 엑스포' 광희 \\\"내가 요리계의 GD이자 김수현\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'무한도전 엑스포' 광희가 요리에 대한 자신감을 드러냈다.\n11월 11일 첫 방송된 올리브TV ‘아바타셰프’에서 MC 광희는 “내가 요리계의 권지용, 김수현이다”고 자화자찬해 웃음을 자아냈다.\n광희의 말에 이휘재가 눈살을 찌푸리자 광희는 “아니다. 내가 진짜 요리에 일가견이 있다. 워낙 요리를 좋아하기도 하고 여러 요리 프로그램에 출연했다”고 말했다.\n또 “전통 요리 프로그램 진행을 맡기도 했다. 기대된다”고 밝혔다.\n한편 ‘아바타 셰프’는 원격 조종 요리 대결이라는 콘셉트로, 셰프들이 직접 대결을 하는 다른 프로그램들과 달리 셰프들이 지령을 내리면 셀럽 아바타들이 요리 대결을 대신 펼치는 신규 쿡방이다.\n영상 통화, 사진 전송 찬스 등을 사용하는 과정에서 좌충우돌하는 아바타와 셰프의 모습이 신선한 재미를 선사한다. '무한도전 엑스포' (사진= 올리브TV ‘아바타셰프’ 캡처) '무한도전 엑스포' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'무한도전 엑스포' 광희가 요리에 대한 자신감을 드러냈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11월 11일 첫 방송된 올리브TV ‘아바타셰프’에서 MC 광희는 “내가 요리계의 권지용, 김수현이다”고 자화자찬해 웃음을 자아냈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "광희의 말에 이휘재가 눈살을 찌푸리자 광희는 “아니다. 내가 진짜 요리에 일가견이 있다. 워낙 요리를 좋아하기도 하고 여러 요리 프로그램에 출연했다”고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “전통 요리 프로그램 진행을 맡기도 했다. 기대된다”고 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 ‘아바타 셰프’는 원격 조종 요리 대결이라는 콘셉트로, 셰프들이 직접 대결을 하는 다른 프로그램들과 달리 셰프들이 지령을 내리면 셀럽 아바타들이 요리 대결을 대신 펼치는 신규 쿡방이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상 통화, 사진 전송 찬스 등을 사용하는 과정에서 좌충우돌하는 아바타와 셰프의 모습이 신선한 재미를 선사한다. '무한도전 엑스포' (사진= 올리브TV ‘아바타셰프’ 캡처) '무한도전 엑스포' 온라인 중앙일보",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'무한도전 엑스포' 광희 \\\"내가 요리계의 GD이자 김수현\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170979",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘D.P.’ 구교환 “정해인에 1일 데이트권 주고 싶다”",
+    "newsSubTitle": "",
+    "newsContent": "배우 구교환이 정해인에 대한 애정을 표현했다.\n구교환은 25일 오전 온라인생중계된 넷플릭스 새 시리즈 ‘D.P.’ 제작발표회에서 “정해인에게 나와 1일 데이트권을 주고 싶다”고 밝혀 웃음을 자아냈다.\n그는 “뭔가 물리적인 것보다 정해인 안으로 들어가고 싶은 마음을 주고 싶었다. 그런데 쑥쓰럽다”며 이번 작품 속 브로맨스를 예고했다.\n이어 “데이트 하면서 김성균 선배를 불러 백반을 먹겠다”며 “정해인과 데이트하면 뭘 해야 하나. 촬영을 해야 할까”라고 덧붙였다.\n또한 평소 길 가다가 자주 마주쳤다며 “정해인과 언젠가는 같은 작품에서 만날 것 같은 느낌이 들었다. 한준희 감독과 정해인 사이에 나도 끼고 싶다는 마음이 있었다”고 말했다. ‘D.P.’는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호와 호열이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는 이야기를 그린 작품이다.\n오는 27일 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 구교환이 정해인에 대한 애정을 표현했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구교환은 25일 오전 온라인생중계된 넷플릭스 새 시리즈 ‘D.P.’ 제작발표회에서 “정해인에게 나와 1일 데이트권을 주고 싶다”고 밝혀 웃음을 자아냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “뭔가 물리적인 것보다 정해인 안으로 들어가고 싶은 마음을 주고 싶었다. 그런데 쑥쓰럽다”며 이번 작품 속 브로맨스를 예고했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “데이트 하면서 김성균 선배를 불러 백반을 먹겠다”며 “정해인과 데이트하면 뭘 해야 하나. 촬영을 해야 할까”라고 덧붙였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 평소 길 가다가 자주 마주쳤다며 “정해인과 언젠가는 같은 작품에서 만날 것 같은 느낌이 들었다. 한준희 감독과 정해인 사이에 나도 끼고 싶다는 마음이 있었다”고 말했다. ‘D.P.’는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호와 호열이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는 이야기를 그린 작품이다.",
+        "sentenceSize": 190
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 27일 공개된다.",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘D.P.’ 제작발표회에서 구교환, \"'이 배우'에게 나와 1일 데이트권 주고 싶다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

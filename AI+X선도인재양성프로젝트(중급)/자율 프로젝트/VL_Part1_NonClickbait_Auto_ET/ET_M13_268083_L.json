@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268083",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송강, 우아미 철철[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 송강의 우아하면서도 강렬한 비주얼이 담긴 화보가 공개돼 화제다.\n세계 최고의 주얼리 & 워치 메종 까르띠에(Cartier)가 배우 송강과 함께한 <데이즈드> 5월호 화보를 공개했다.\n다양한 작품을 통해 대중에게 매번 새로운 모습을 선보여온 송강은 이번 화보를 통해 압도적인 존재감을 드러내며 시선을 강탈, 다시 한번 화보 장인다운 면모를 발산했다.\n그는 전문 모델 못지않은 포즈와 표정 연기는 물론, 까르띠에의 시그니처이자 대표 아이콘 콜렉션인 ‘팬더 드 까르띠에(Panthere de Cartier)’를 완벽하게 소화하며 뛰어난 패션 감각을 자랑해 보였다.\n특히 그는 모던한 의상과 더불어 네크리스부터 링, 브레이슬릿과 워치를 통해 강렬한 자태를 과감없이 드러냈다.\n송강이 화보에서 착용한 까르띠에의 ‘팬더 드 까르띠에(Panthere de Cartier)’ 콜렉션은 살아 움직이는 듯한 팬더의 정교한 디자인 요소를 감각적이고도 섬세한 세공 기술로 완성하며 우아하고 시크한 매력을 선사한다.\n까르띠에와 송강이 함께한 화보는 <데이즈드> 5월 호, 공식 인스타그램 및 웹사이트에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송강의 우아하면서도 강렬한 비주얼이 담긴 화보가 공개돼 화제다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "세계 최고의 주얼리 & 워치 메종 까르띠에(Cartier)가 배우 송강과 함께한 <데이즈드> 5월호 화보를 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다양한 작품을 통해 대중에게 매번 새로운 모습을 선보여온 송강은 이번 화보를 통해 압도적인 존재감을 드러내며 시선을 강탈, 다시 한번 화보 장인다운 면모를 발산했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 전문 모델 못지않은 포즈와 표정 연기는 물론, 까르띠에의 시그니처이자 대표 아이콘 콜렉션인 ‘팬더 드 까르띠에(Panthere de Cartier)’를 완벽하게 소화하며 뛰어난 패션 감각을 자랑해 보였다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 그는 모던한 의상과 더불어 네크리스부터 링, 브레이슬릿과 워치를 통해 강렬한 자태를 과감없이 드러냈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송강이 화보에서 착용한 까르띠에의 ‘팬더 드 까르띠에(Panthere de Cartier)’ 콜렉션은 살아 움직이는 듯한 팬더의 정교한 디자인 요소를 감각적이고도 섬세한 세공 기술로 완성하며 우아하고 시크한 매력을 선사한다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "까르띠에와 송강이 함께한 화보는 <데이즈드> 5월 호, 공식 인스타그램 및 웹사이트에서 만나볼 수 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송강, 우아미 철철[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

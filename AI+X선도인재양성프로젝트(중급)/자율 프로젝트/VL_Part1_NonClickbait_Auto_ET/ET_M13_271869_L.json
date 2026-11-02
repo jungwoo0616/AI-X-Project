@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271869",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘군백기’마친 김호중, 콘서트로 팬 만난다",
+		"newsSubTitle": "",
+		"newsContent": "소집해제를 앞둔 가수 김호중이 팬들과의 만남을 예정했다.\n김호중 소속사 생각 엔터테인먼트는 김호중이 오는 6월 11일 오후 8시 철원 공설운동장에서 열리는 ‘평화콘서트’에 이어 그달 19일 오후 6시 서울 잠실 올림픽주경기장에서 진행되는 ‘제1회 드림콘서트 트롯’에 출연을 확정했다고 30일 밝혔다.\n김호중은 6월 9일 소집해제를 앞두고 있다.\n군 복무를 마친 김호중은 ‘평화콘서트’와 ‘드림콘서트 트롯’에 출연하며 곧바로 팬들과 만날 예정이다.\n이번 공연을 마친 김호중은 신곡 발매를 비롯해 9월 30일부터 10월 2일 열리는 서울 공연을 시작으로 전국투어 콘서트 일정을 개시한다.\n소속사는 “군백기임에도 팬 카페 회원수 12만명을 돌파하는 등 독보적 존재감을 보인 김호중은 7월 이탈리아를 방문해 팝페라 가수 안드레아 보첼라와 색다른 협업을 선보일 예정”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소집해제를 앞둔 가수 김호중이 팬들과의 만남을 예정했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김호중 소속사 생각 엔터테인먼트는 김호중이 오는 6월 11일 오후 8시 철원 공설운동장에서 열리는 ‘평화콘서트’에 이어 그달 19일 오후 6시 서울 잠실 올림픽주경기장에서 진행되는 ‘제1회 드림콘서트 트롯’에 출연을 확정했다고 30일 밝혔다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김호중은 6월 9일 소집해제를 앞두고 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "군 복무를 마친 김호중은 ‘평화콘서트’와 ‘드림콘서트 트롯’에 출연하며 곧바로 팬들과 만날 예정이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 공연을 마친 김호중은 신곡 발매를 비롯해 9월 30일부터 10월 2일 열리는 서울 공연을 시작으로 전국투어 콘서트 일정을 개시한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사는 “군백기임에도 팬 카페 회원수 12만명을 돌파하는 등 독보적 존재감을 보인 김호중은 7월 이탈리아를 방문해 팝페라 가수 안드레아 보첼라와 색다른 협업을 선보일 예정”이라고 전했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘군백기’마친 김호중, 콘서트로 팬 만난다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

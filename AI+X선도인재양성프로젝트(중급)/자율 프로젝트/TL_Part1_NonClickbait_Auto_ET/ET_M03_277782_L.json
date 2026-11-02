@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277782",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"사랑만 있으면 충분\\\" 남친과 '소박한 결혼식' 올리는 아델",
+		"newsSubTitle": "",
+		"newsContent": "영국의 팝스타 아델(28)이 남자친구와 5년 열애 끝에 크리스마스에 결혼식을 올릴 예정이다.\n영국 더 선은 지난 6일 아델의 결혼을 보도했다.\n결혼식은 LA에서 크리스마스에 진행될 예정이다.\n아델과 그녀의 남자친구 사이먼 코네키(Simon Konecki, 42)는 지난 5년간 연인 관계로 지내며 아들 한 명을 출산했다.\n결혼식은 사이먼이 전처 사이에서 낳은 딸이 참여할 수 있도록 학교에 가지 않는 크리스마스에 날짜를 잡은 것으로 알려졌다.\n결혼식은 소박하게 진행될 것으로 알려졌다.\n사이먼은 \\\"아델은 결혼식에 약혼 반지도 끼지 않을 것이다. (둘 사이의) 사랑만 있으면 충분하다\\\"며 애정을 드러냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영국의 팝스타 아델(28)이 남자친구와 5년 열애 끝에 크리스마스에 결혼식을 올릴 예정이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영국 더 선은 지난 6일 아델의 결혼을 보도했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼식은 LA에서 크리스마스에 진행될 예정이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아델과 그녀의 남자친구 사이먼 코네키(Simon Konecki, 42)는 지난 5년간 연인 관계로 지내며 아들 한 명을 출산했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "결혼식은 사이먼이 전처 사이에서 낳은 딸이 참여할 수 있도록 학교에 가지 않는 크리스마스에 날짜를 잡은 것으로 알려졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결혼식은 소박하게 진행될 것으로 알려졌다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사이먼은 \\\"아델은 결혼식에 약혼 반지도 끼지 않을 것이다. (둘 사이의) 사랑만 있으면 충분하다\\\"며 애정을 드러냈다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"사랑만 있으면 충분\\\" 남친과 '소박한 결혼식' 올리는 아델",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

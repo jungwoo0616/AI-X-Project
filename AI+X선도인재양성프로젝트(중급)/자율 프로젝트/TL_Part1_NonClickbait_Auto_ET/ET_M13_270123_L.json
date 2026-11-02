@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270123",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "엄정화 “오늘은 위로가 필요한 날”",
+		"newsSubTitle": "",
+		"newsContent": "배우 엄정화가 위로가 필요하다고 말했다.\n엄정화는 13일 자신의 인스타그램에 “위로가 필요한 모두에게,, 오늘은 나에게도”라며 영상과 글을 게시했다.\n공개된 영상에서 엄정화는 ‘겨울부터 겨울까지’ 곡을 녹음하는 장면과 ‘서울체크인’에서 이효리와 진솔한 얘기를 나누는 장면을 공개했다.\n엄정화는 ‘겨울부터 겨울까지 니 손을 꼭 잡고서 매일 오늘을 실패하는 나는 행복이란 영원할 수 없다고했지 널 만나고 난 알았어’라는 가사를 음미했다.\n엄정화는 이효리와 마음 속에 담아둔 이야기를 나누며 서로를 위로했다.\ntvN 토일드라마 ‘우리들의 블루스’에서 정은희(이정은)의 절친한 친구인 고미란 역을 맡았다.\n엄정화와 이정은은 친구끼리 느낄 수 있는 사소한 감정들을 공감가게 그려내며, 깊고 진한 중년 여성들의 우정을 선보일 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 엄정화가 위로가 필요하다고 말했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엄정화는 13일 자신의 인스타그램에 “위로가 필요한 모두에게,, 오늘은 나에게도”라며 영상과 글을 게시했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에서 엄정화는 ‘겨울부터 겨울까지’ 곡을 녹음하는 장면과 ‘서울체크인’에서 이효리와 진솔한 얘기를 나누는 장면을 공개했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엄정화는 ‘겨울부터 겨울까지 니 손을 꼭 잡고서 매일 오늘을 실패하는 나는 행복이란 영원할 수 없다고했지 널 만나고 난 알았어’라는 가사를 음미했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엄정화는 이효리와 마음 속에 담아둔 이야기를 나누며 서로를 위로했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "tvN 토일드라마 ‘우리들의 블루스’에서 정은희(이정은)의 절친한 친구인 고미란 역을 맡았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엄정화와 이정은은 친구끼리 느낄 수 있는 사소한 감정들을 공감가게 그려내며, 깊고 진한 중년 여성들의 우정을 선보일 예정이다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엄정화 “오늘은 위로가 필요한 날”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

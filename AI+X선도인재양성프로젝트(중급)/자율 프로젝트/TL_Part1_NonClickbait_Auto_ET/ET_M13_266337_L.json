@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266337",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최우식, 골퍼 임성재 1위에 “파이팅!”",
+		"newsSubTitle": "",
+		"newsContent": "최우식이 골퍼 임성재를 응원하는 근황을 알렸다.\n최우식은 8일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 “파이팅”이라는 글과 함께 임성재를 태그했다.\n최우식이 올린 사진은 8일(한국시간) 미국 조지아주 오거스타에서 열린 오거스타 마스터스 골프 대회 중 임성재의 기록이다.\n이날 임성재는 마스터스 역사상 한국인 최초로 리더보드 1위를 차지했다.\n최우식은 지난 1월 박서준과의 골프 데이트 사진을 공개하며 골프에 대한 애정을 보인 바 있다.\n한편 최우식은 지난 1월 종영한 SBS 드라마 ‘그 해 우리는’에서 최웅 역할을 맡아 시청자들의 큰 사랑을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최우식이 골퍼 임성재를 응원하는 근황을 알렸다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최우식은 8일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 “파이팅”이라는 글과 함께 임성재를 태그했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최우식이 올린 사진은 8일(한국시간) 미국 조지아주 오거스타에서 열린 오거스타 마스터스 골프 대회 중 임성재의 기록이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 임성재는 마스터스 역사상 한국인 최초로 리더보드 1위를 차지했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최우식은 지난 1월 박서준과의 골프 데이트 사진을 공개하며 골프에 대한 애정을 보인 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 최우식은 지난 1월 종영한 SBS 드라마 ‘그 해 우리는’에서 최웅 역할을 맡아 시청자들의 큰 사랑을 받았다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최우식, 골퍼 임성재 1위에 “파이팅!”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

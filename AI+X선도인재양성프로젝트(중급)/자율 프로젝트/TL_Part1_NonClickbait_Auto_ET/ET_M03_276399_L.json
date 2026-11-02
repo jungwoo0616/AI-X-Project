@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276399",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'시집은 글렀네'라는 말 나온다는 '전국노래자랑' 출연자",
+		"newsSubTitle": "",
+		"newsContent": "지난주 KBS 1TV '전국노래자랑'에 출연한 한 출연자가 화제를 모으고 있다.\n지난달 30일 '전국노래자랑' 서울 도봉구 편에는 가천대학교에 재학 중인 박수정(23)씨가 출연했다.\n박씨는 일반 공무원 시험을 준비하는 청년(공시생)으로 알려졌다.\n그는 \\\"노래만 하면 돌변하는 여자 박수정\\\"이라며 당차게 자기소개를 하며 노래를 시작했다.\n박씨를 응원하는 현수막에는 '창동의 몸짱 춤짱 박수정' '수정아 시집은 글렀다' '박수정. 내 마음속에 저장' 등과 같은 유쾌한 문구가 적혀 있었다.\n그는 노래 시작 전부터 몸을 비틀며 신나는 댄스 삼매경에 빠졌다. '전국노래자랑'의 흥을 돋운 그는 인기상을 받았다.\nMC송해는 \\\"빨리 공무원 되시길 바란다\\\"며 그의 이름을 불렀고, 송해는 \\\"너 이미 합격했어\\\"라는 덕담도 덧붙였다.\n자신의 이름이 호명되자 박씨는 큰절을 하며 기뻐했다.\n그의 무대는 5일 다수 온라인 커뮤니티에 올라오며 회자하고 있다. '저 흥 참으면서 어떻게 공부를 한대' '귀엽다' '재미있다' 등 호평이 다수다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난주 KBS 1TV '전국노래자랑'에 출연한 한 출연자가 화제를 모으고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 30일 '전국노래자랑' 서울 도봉구 편에는 가천대학교에 재학 중인 박수정(23)씨가 출연했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박씨는 일반 공무원 시험을 준비하는 청년(공시생)으로 알려졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"노래만 하면 돌변하는 여자 박수정\\\"이라며 당차게 자기소개를 하며 노래를 시작했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박씨를 응원하는 현수막에는 '창동의 몸짱 춤짱 박수정' '수정아 시집은 글렀다' '박수정. 내 마음속에 저장' 등과 같은 유쾌한 문구가 적혀 있었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 노래 시작 전부터 몸을 비틀며 신나는 댄스 삼매경에 빠졌다. '전국노래자랑'의 흥을 돋운 그는 인기상을 받았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "MC송해는 \\\"빨리 공무원 되시길 바란다\\\"며 그의 이름을 불렀고, 송해는 \\\"너 이미 합격했어\\\"라는 덕담도 덧붙였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자신의 이름이 호명되자 박씨는 큰절을 하며 기뻐했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그의 무대는 5일 다수 온라인 커뮤니티에 올라오며 회자하고 있다. '저 흥 참으면서 어떻게 공부를 한대' '귀엽다' '재미있다' 등 호평이 다수다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'시집은 글렀네'라는 말 나온다는 '전국노래자랑' 출연자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

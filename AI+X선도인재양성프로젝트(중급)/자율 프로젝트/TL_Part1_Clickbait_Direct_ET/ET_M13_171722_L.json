@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171722",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "스트레이키즈 한, 창빈 이어 코로나 확진[공식]",
+    "newsSubTitle": "",
+    "newsContent": "스트레이키즈 멤버 한이 창빈에 이어 코로나19 확진 판정을 받았다.\n스트레이키즈 소속사 JYP엔터테인먼트는 19일 팬카페에 “한이 코로나19 양성 판정을 받았다”라고 발표했다.\n앞서 전날(18일)에는 창빈이 확진 판정을 받았다.\n소속사는 “18일 선제적 대응 차원에서 PCR 검사를 진행했고, 오늘(19일) 양성 판정을 받았다”라고 설명했다.\n한은 코로나19 백신 2차 접종을 완료한 상태였으며 특별한 증상은 없는 상태다.\n현재 방역 당국 지침에 따라 자가 격리 중이다.\n창빈과 한을 제외한 멤버는 모두 음성 판정을 받았다.\n현재 각자 분리된 공간에서 생활 중이다.\n소속사는 “아티스트의 건강을 최우선으로 고려하여 조속한 회복을 위해 최선을 다하겠다”라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스트레이키즈 멤버 한이 창빈에 이어 코로나19 확진 판정을 받았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스트레이키즈 소속사 JYP엔터테인먼트는 19일 팬카페에 “한이 코로나19 양성 판정을 받았다”라고 발표했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 전날(18일)에는 창빈이 확진 판정을 받았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소속사는 “18일 선제적 대응 차원에서 PCR 검사를 진행했고, 오늘(19일) 양성 판정을 받았다”라고 설명했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한은 코로나19 백신 2차 접종을 완료한 상태였으며 특별한 증상은 없는 상태다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 방역 당국 지침에 따라 자가 격리 중이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "창빈과 한을 제외한 멤버는 모두 음성 판정을 받았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 각자 분리된 공간에서 생활 중이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "소속사는 “아티스트의 건강을 최우선으로 고려하여 조속한 회복을 위해 최선을 다하겠다”라고 밝혔다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스트레이키즈 창빈에 이어 한까지 이것 때문에 활동 중단",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

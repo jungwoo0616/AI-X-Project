@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259041",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "AOMG 새 아티스트, 24일 신보 발매",
+		"newsSubTitle": "",
+		"newsContent": "AOMG 신규 아티스트가 합류와 동시에 신곡을 발표한다.\nAOMG는 24일 오후 6시 새 아티스트의 앨범 ‘RE:UP’이 발매된다고 밝혔다. ‘RE:UP’은 ‘Good Night (굿 나잇) (Feat. BE’O)’과 ‘Beat ‘em up’(비트 뎀 업)까지 총 2곡이 수록된 앨범으로 지난해 Mnet ‘쇼미더머니 10’에서 이름을 알린 비오가 ‘Good Night’피처링에 참여했다.\n지난 23일에는 AOMG 공식 유튜브 채널을 통해 공개된‘Good Night (Feat. BE’O)’의 두 번째 뮤직비디오 티저 영상 또한 시선을 사로잡는다.\n드론캠으로 촬영된 독특한 구도가 감각적인 멜로디와 어우러져 새 아티스트에 대한 궁금증을 높인다.\n특히 첫 번째 뮤직비디오 티저에 비오가 등장한 데 이어 이번엔 AOMG 신규 아티스트가 직접 출연해 많은 이들의 추측을 유발하고 있다.\n한편 AOMG 신규 아티스트의‘Good Night’음원과 뮤직비디오 본편은 이날 오후 6시 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AOMG 신규 아티스트가 합류와 동시에 신곡을 발표한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AOMG는 24일 오후 6시 새 아티스트의 앨범 ‘RE:UP’이 발매된다고 밝혔다. ‘RE:UP’은 ‘Good Night (굿 나잇) (Feat. BE’O)’과 ‘Beat ‘em up’(비트 뎀 업)까지 총 2곡이 수록된 앨범으로 지난해 Mnet ‘쇼미더머니 10’에서 이름을 알린 비오가 ‘Good Night’피처링에 참여했다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 23일에는 AOMG 공식 유튜브 채널을 통해 공개된‘Good Night (Feat. BE’O)’의 두 번째 뮤직비디오 티저 영상 또한 시선을 사로잡는다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "드론캠으로 촬영된 독특한 구도가 감각적인 멜로디와 어우러져 새 아티스트에 대한 궁금증을 높인다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 첫 번째 뮤직비디오 티저에 비오가 등장한 데 이어 이번엔 AOMG 신규 아티스트가 직접 출연해 많은 이들의 추측을 유발하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 AOMG 신규 아티스트의‘Good Night’음원과 뮤직비디오 본편은 이날 오후 6시 공개된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AOMG 새 아티스트, 24일 신보 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

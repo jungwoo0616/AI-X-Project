@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278388",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'임요환 웨딩화보' 김가연, 모유수유 안한 이유는 \\\"아스팔트 가슴 될까봐…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "프로게이머 임요환과 그의 아내 김가연의 웨딩 화보가 화제인 가운데, 과거 김가연이 방송에서 했던 발언도 재조명받고 있다.\n과거 김가연은 SBS '자기야-백년손님'에 출연해 가슴 사이즈업의 비결을 공개했다.\n이날 방송에서 김가연은 \\\"아이를 낳은지 80일 정도 됐다. 모유 수유를 못했다\\\"며 말문을 열었다.\n이어서 김가연은 \\\"큰 애는 예전에 모유 수유를 했었는데, 그 때 압박붕대를 감았다. 압박붕대를 풀고 나니 가슴이 빈대떡 같았다\\\"고 회상했다.\n이후 김가연은 \\\"둘째를 낳았는데 이번에도 그러면 아스팔트 수준이 될까봐 걱정됐다. 그래서 모유 수유를 안하니 암소 부인처럼 부풀었다\\\"며 \\\"모양을 회복하기 위해 뽕브라로 덮어서 복원력을 만들어주고, 압박붕대를 3개 준비해서 한쪽으로 모았다. 열심히 했더니 모양이 잘 돌아오더라\\\"라고 설명했다.\n온라인 중앙일보 [사진 SBS '자기야-백년손님' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로게이머 임요환과 그의 아내 김가연의 웨딩 화보가 화제인 가운데, 과거 김가연이 방송에서 했던 발언도 재조명받고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 김가연은 SBS '자기야-백년손님'에 출연해 가슴 사이즈업의 비결을 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 김가연은 \\\"아이를 낳은지 80일 정도 됐다. 모유 수유를 못했다\\\"며 말문을 열었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어서 김가연은 \\\"큰 애는 예전에 모유 수유를 했었는데, 그 때 압박붕대를 감았다. 압박붕대를 풀고 나니 가슴이 빈대떡 같았다\\\"고 회상했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 김가연은 \\\"둘째를 낳았는데 이번에도 그러면 아스팔트 수준이 될까봐 걱정됐다. 그래서 모유 수유를 안하니 암소 부인처럼 부풀었다\\\"며 \\\"모양을 회복하기 위해 뽕브라로 덮어서 복원력을 만들어주고, 압박붕대를 3개 준비해서 한쪽으로 모았다. 열심히 했더니 모양이 잘 돌아오더라\\\"라고 설명했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS '자기야-백년손님' 캡처]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'임요환 웨딩화보' 김가연, 모유수유 안한 이유는 \\\"아스팔트 가슴 될까봐…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

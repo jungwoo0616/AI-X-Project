@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261018",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "KT-픽셀스코프, 인공지능으로 스포츠경기 무인 중계",
+		"newsSubTitle": "",
+		"newsContent": "KT는 인공지능(AI) 방송중계솔루션업체 픽셀스코프와 5G 기반 AI 무인 스포츠 방송중계 사업을 추진한다고 15일 전했다.\n이 사업은 5G로 연결된 카메라와 장비를 AI가 자동으로 제어해 최적의 중계 화면을 송출하는 것으로, 장비와 운영 인력을 최소화할 수 있다고 KT는 설명했다.\n이 시스템은 선수 및 공 움직임과 다양한 경기 정보를 딥러닝 기술로 학습해 점수 계산, 심판 판정 등 정보를 실시간으로 보여줄 수도 있다.\n클라우드 컴퓨팅 방식으로 선수 기록이나 공의 빠르기, 궤적 등 통계 데이터를 연동하고 분석하는 기능도 있다.\nKT와 픽셀스코프는 5G 기반 AI 무인 스포츠 방송중계를 프로탁구 리그에 적용해 TV 스포츠 채널과 유튜브 등에서 고화질 중계 서비스를 제공하고 있다.\n양사는 솔루션을 다양한 스포츠 종목으로 확대하기 위해 협력을 강화할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 인공지능(AI) 방송중계솔루션업체 픽셀스코프와 5G 기반 AI 무인 스포츠 방송중계 사업을 추진한다고 15일 전했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 사업은 5G로 연결된 카메라와 장비를 AI가 자동으로 제어해 최적의 중계 화면을 송출하는 것으로, 장비와 운영 인력을 최소화할 수 있다고 KT는 설명했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 시스템은 선수 및 공 움직임과 다양한 경기 정보를 딥러닝 기술로 학습해 점수 계산, 심판 판정 등 정보를 실시간으로 보여줄 수도 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클라우드 컴퓨팅 방식으로 선수 기록이나 공의 빠르기, 궤적 등 통계 데이터를 연동하고 분석하는 기능도 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT와 픽셀스코프는 5G 기반 AI 무인 스포츠 방송중계를 프로탁구 리그에 적용해 TV 스포츠 채널과 유튜브 등에서 고화질 중계 서비스를 제공하고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양사는 솔루션을 다양한 스포츠 종목으로 확대하기 위해 협력을 강화할 계획이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT-픽셀스코프, 인공지능으로 스포츠경기 무인 중계",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

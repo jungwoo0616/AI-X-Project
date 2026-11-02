@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171011",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘전참시’ 박하선, ♥류수영 표 도시락 먹방 “가끔 만들어 줘” 달달",
+    "newsSubTitle": "",
+    "newsContent": "‘전지적 참견 시점’ 박하선이 류수영이 싸준 도시락을 먹었다.\n28일 오후 방송된 MBC ‘전지적 참견 시점’에서는 배우 박하선, 가수 원슈타인, 세븐이 참견인으로 출연했다.\n이날 라디오 일정을 마친 박하선은 차에서 매니저와 류수영이 싸준 도시락을 먹었다.\n홈메이드 감자 수프와 샌드위치, 토마토 주스를 싸준 류수영에 박하선은 “매번은 아닌데 가끔 싸준다. 요리 연습하고 나서”라고 답해 달달함을 폭발시켰다.\n감자 수프 맛에 웃음 짓는 매니저에 박하선은 “이거 봐. 맛있으면 웃어”라며 미소 지었다.\n요리 프로그램에서 나온 음식인 감자 수프에 그는 “이걸 여자한테 해주면 좋을 거라고 나온 거야”라며 “맛있네요. 감사합니다”라고 고마움을 전했다.\n샌드위치를 먹은 박하선은 류수영의 솜씨에 “이 정도는 아니었는데 많이 늘었어”라고 감탄했다.\n토마토 주스까지 맛본 박하선은 “토마토 심은 거 따서 해줬다. 잘 키워, 나는 다 죽이는데”라고 말해 폭소케 했다.\n한편 MBC ‘전지적 참견 시점’은 매주 토요일 오후 10시 50분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘전지적 참견 시점’ 박하선이 류수영이 싸준 도시락을 먹었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 오후 방송된 MBC ‘전지적 참견 시점’에서는 배우 박하선, 가수 원슈타인, 세븐이 참견인으로 출연했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 라디오 일정을 마친 박하선은 차에서 매니저와 류수영이 싸준 도시락을 먹었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홈메이드 감자 수프와 샌드위치, 토마토 주스를 싸준 류수영에 박하선은 “매번은 아닌데 가끔 싸준다. 요리 연습하고 나서”라고 답해 달달함을 폭발시켰다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "감자 수프 맛에 웃음 짓는 매니저에 박하선은 “이거 봐. 맛있으면 웃어”라며 미소 지었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "요리 프로그램에서 나온 음식인 감자 수프에 그는 “이걸 여자한테 해주면 좋을 거라고 나온 거야”라며 “맛있네요. 감사합니다”라고 고마움을 전했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "샌드위치를 먹은 박하선은 류수영의 솜씨에 “이 정도는 아니었는데 많이 늘었어”라고 감탄했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "토마토 주스까지 맛본 박하선은 “토마토 심은 거 따서 해줬다. 잘 키워, 나는 다 죽이는데”라고 말해 폭소케 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 MBC ‘전지적 참견 시점’은 매주 토요일 오후 10시 50분에 방송된다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'전참시’ 박하선, 류수영의 '이 솜씨'에 \"많이 늘었어” 감탄",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

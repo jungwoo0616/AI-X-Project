@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279146",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "제시카, 패션 디자이너로 제2의 삶 \\\"세계 각지 46개 매장 보유\\\"",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 소녀시대 출신 제시카가 패션 디자이너로 제 2의 삶을 살고 있다.\n25일 방송된 tvN '명단공개 2016'에서는 '억대 수입 자랑하는 신흥 재벌 스타' 편이 방송됐다.\n이날 방송에서는 제시카의 패션 사업 규모가 공개됐다.\n홍콩에 본사를 둔 제시카의 패션 브랜드는 홍콩뿐만 아니라 중국, 홍콩, 마카오 등 46개의 매장을 보유하고 있는 것으로 알려졌다.\n또한 미국과 영국에도 진출해 글로벌 브랜드로 우뚝 서고 있다.\n제시카는 지난해 열린 서울 팝업 스토어에서 4시간 만에 1,000만원의 수익을 기록하기도 했다.\n또한, 제시카가 거주 중인 청담동 소재 빌라는 현 시세 80억원을 호가하고 있으며 제시카가 최근 한 방송에서 공개한 차는 1억4,000여만원인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 소녀시대 출신 제시카가 패션 디자이너로 제 2의 삶을 살고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 방송된 tvN '명단공개 2016'에서는 '억대 수입 자랑하는 신흥 재벌 스타' 편이 방송됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서는 제시카의 패션 사업 규모가 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍콩에 본사를 둔 제시카의 패션 브랜드는 홍콩뿐만 아니라 중국, 홍콩, 마카오 등 46개의 매장을 보유하고 있는 것으로 알려졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 미국과 영국에도 진출해 글로벌 브랜드로 우뚝 서고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제시카는 지난해 열린 서울 팝업 스토어에서 4시간 만에 1,000만원의 수익을 기록하기도 했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한, 제시카가 거주 중인 청담동 소재 빌라는 현 시세 80억원을 호가하고 있으며 제시카가 최근 한 방송에서 공개한 차는 1억4,000여만원인 것으로 알려졌다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제시카, 패션 디자이너로 제2의 삶 \\\"세계 각지 46개 매장 보유\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

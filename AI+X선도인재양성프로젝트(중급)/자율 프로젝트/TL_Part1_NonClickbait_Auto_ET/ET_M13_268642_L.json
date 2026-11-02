@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268642",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "저스틴 민 “‘버닝’ 좋아해, 이창동 감독 만나고파”(23th JIFF)[인터뷰④]",
+		"newsSubTitle": "",
+		"newsContent": "배우 저스틴 민이 영화 ‘버닝’에 대한 애정을 표현했다.\n저스틴 민은 29일 오후 진행된 ‘스포츠경향’과 인터뷰에서 좋아하는 K콘텐츠에 대해 묻자 “영화, 드라마 다 좋아해서 뭘 꼽을 지 모르겠다”면서도 ‘버닝’과 드라마 ‘스타트업’을 언급했다.\n그는 “어린 시절 한국드라마를 보며 살았다. 최근엔 OTT플랫폼 넷플릭스 통해서 더 많은 한국 콘텐츠를 소비하게 됐다”며 “K콘텐츠엔 정말 색다른 점이 많다는 걸 느꼈고, 매 드라마가 한편의 영화처럼 제작 퀄리티가 높다는 걸 느꼈다”고 말했다.\n이어 “이창동 감독의 ‘버닝’을 좋아한다. 스티븐 연과 최근 작품을 함께 하고 있어서 한국 오기 전에 스티븐 연과 ‘버닝’을 얼마나 재밌게 봤는지 얘기 나눴다”고 설명했다.\n이어 제23회 전주국제영화제에 참석한 이창동 감독과 만났냐고 묻자 “이창동 감독이 전주에 온 지도 몰랐다. 기회가 되면 소개해달라”고 농담을 던졌다.\n제23회 전주국제영화제 개막작 ‘애프터 양’은 AI ‘양’(저스틴 민)의 기억을 통해 ‘제이크’(콜린 파렐) 가족이 미처 알지 못했던 소중한 시간들과 인간 존재 가치를 깨닫게 되는 과정을 그린 작품이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 저스틴 민이 영화 ‘버닝’에 대한 애정을 표현했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "저스틴 민은 29일 오후 진행된 ‘스포츠경향’과 인터뷰에서 좋아하는 K콘텐츠에 대해 묻자 “영화, 드라마 다 좋아해서 뭘 꼽을 지 모르겠다”면서도 ‘버닝’과 드라마 ‘스타트업’을 언급했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “어린 시절 한국드라마를 보며 살았다. 최근엔 OTT플랫폼 넷플릭스 통해서 더 많은 한국 콘텐츠를 소비하게 됐다”며 “K콘텐츠엔 정말 색다른 점이 많다는 걸 느꼈고, 매 드라마가 한편의 영화처럼 제작 퀄리티가 높다는 걸 느꼈다”고 말했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “이창동 감독의 ‘버닝’을 좋아한다. 스티븐 연과 최근 작품을 함께 하고 있어서 한국 오기 전에 스티븐 연과 ‘버닝’을 얼마나 재밌게 봤는지 얘기 나눴다”고 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 제23회 전주국제영화제에 참석한 이창동 감독과 만났냐고 묻자 “이창동 감독이 전주에 온 지도 몰랐다. 기회가 되면 소개해달라”고 농담을 던졌다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제23회 전주국제영화제 개막작 ‘애프터 양’은 AI ‘양’(저스틴 민)의 기억을 통해 ‘제이크’(콜린 파렐) 가족이 미처 알지 못했던 소중한 시간들과 인간 존재 가치를 깨닫게 되는 과정을 그린 작품이다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "저스틴 민 “‘버닝’ 좋아해, 이창동 감독 만나고파”(23th JIFF)[인터뷰④]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

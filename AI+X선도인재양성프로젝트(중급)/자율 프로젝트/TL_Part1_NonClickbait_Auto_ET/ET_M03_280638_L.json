@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280638",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "4인조 재편한 달샤벳, 새 앨범 티저 사진 공개, '남심 저격'",
+		"newsSubTitle": "",
+		"newsContent": "4인조 재편한 달샤벳, 새 앨범 티저 사진 공개, '남심 저격' 4인조로 재편한 걸 그룹 달샤벳(세리 아영 우희 수빈)이 새 앨범 티저 사진을 공개했다.\n달샤벳은 28일 네이버 뮤직을 통해 아홉 번째 미니 앨범 '내츄럴니스'(Naturalness) 티저 사진을 공개했다.\n달샤벳 멤버들은 사진 속에서 야외컷과는 달리 색다른 분위기를 선보이며, 청순한 모습을 유감없이 드러냈다.\n네 멤버 모두 파스텔 톤의 니트를 입고 침대를 배경으로 포즈를 취하고 있으며, 이는 멤버들의 여성미를 강조함과 동시에 겨울의 따스함마저 느끼게 한다.\n이번 앨범은 4월 ‘Joker is alive’ 앨범 이후 약 9개월 만의 새로운 앨범이다.\n4인조로 재편된 만큼,기존 앨범에서 보여주지 않았던 한층 업그레이드되고 변화된 모습을 보여줄 예정이다.\n달샤벳은 다음 달 5일 5주년에 맞춰 아홉 번째 미니앨범 '내츄럴니스'를 발매하고 쇼케이스를 개최할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "4인조 재편한 달샤벳, 새 앨범 티저 사진 공개, '남심 저격' 4인조로 재편한 걸 그룹 달샤벳(세리 아영 우희 수빈)이 새 앨범 티저 사진을 공개했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "달샤벳은 28일 네이버 뮤직을 통해 아홉 번째 미니 앨범 '내츄럴니스'(Naturalness) 티저 사진을 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "달샤벳 멤버들은 사진 속에서 야외컷과는 달리 색다른 분위기를 선보이며, 청순한 모습을 유감없이 드러냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네 멤버 모두 파스텔 톤의 니트를 입고 침대를 배경으로 포즈를 취하고 있으며, 이는 멤버들의 여성미를 강조함과 동시에 겨울의 따스함마저 느끼게 한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 앨범은 4월 ‘Joker is alive’ 앨범 이후 약 9개월 만의 새로운 앨범이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "4인조로 재편된 만큼,기존 앨범에서 보여주지 않았던 한층 업그레이드되고 변화된 모습을 보여줄 예정이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "달샤벳은 다음 달 5일 5주년에 맞춰 아홉 번째 미니앨범 '내츄럴니스'를 발매하고 쇼케이스를 개최할 예정이다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "4인조 재편한 달샤벳, 새 앨범 티저 사진 공개, '남심 저격'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259598",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘너목보9’ 유세윤 “기억에 남는 참가자? 황치열”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유세윤이 케이블채널 엠넷 ‘너의 목소리가 보여’ 시리즈가 배출한 가수 황치열을 자랑스러워했다.\n유세윤은 28일 오전 온라인생중계된 ‘너의 목소리가 보여 시즌9’ 제작발표회에서 가장 기억에 남는 가수나 무대를 묻자 “대한민국의 자랑스러운 가수가 된 황치열이 기억에 남는다”고 답했다.\n그는 “‘너의 목소리가 보여’가 큰 프로그램으로 자리잡는 데에 황치열을 언급하지 않을 수 없다”며 “늘 감사한 마음”이라고 표현했다.\n이특은 “이 프로그램엔 해외 실력자들도 많이 출연한다”고 운을 뗀 뒤 “‘드림걸즈’ ‘오페라의 유령’ 오라지널 출연진도 나왔다. 그만큼 제작진의 섭외력이 대단하다고 느꼈다”고 감탄했다.\n김종국은 “직접 찾아가거나 기회가 닿지 않으면 보기 어려운 공연들이 있다. 관심 갖지 않으면 어려운 공연을 그 자리에서 볼 수 있다는 것 자체만으로도 기억에 남더라”며 “훌륭한 팀들이 앞으로도 많이 나와주길 바란다”고 덧붙였다. ‘너의 목소리가 보여 시즌9’는 직업과 나이, 노래 실력을 숨긴 미스터리 싱어 그룹에서 얼굴과 몇 가지 단서만으로 실력자인지 음치인지 가리는 대반전 음악 추리쇼다.\n오는 29일 오후10시40분 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유세윤이 케이블채널 엠넷 ‘너의 목소리가 보여’ 시리즈가 배출한 가수 황치열을 자랑스러워했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유세윤은 28일 오전 온라인생중계된 ‘너의 목소리가 보여 시즌9’ 제작발표회에서 가장 기억에 남는 가수나 무대를 묻자 “대한민국의 자랑스러운 가수가 된 황치열이 기억에 남는다”고 답했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “‘너의 목소리가 보여’가 큰 프로그램으로 자리잡는 데에 황치열을 언급하지 않을 수 없다”며 “늘 감사한 마음”이라고 표현했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이특은 “이 프로그램엔 해외 실력자들도 많이 출연한다”고 운을 뗀 뒤 “‘드림걸즈’ ‘오페라의 유령’ 오라지널 출연진도 나왔다. 그만큼 제작진의 섭외력이 대단하다고 느꼈다”고 감탄했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김종국은 “직접 찾아가거나 기회가 닿지 않으면 보기 어려운 공연들이 있다. 관심 갖지 않으면 어려운 공연을 그 자리에서 볼 수 있다는 것 자체만으로도 기억에 남더라”며 “훌륭한 팀들이 앞으로도 많이 나와주길 바란다”고 덧붙였다. ‘너의 목소리가 보여 시즌9’는 직업과 나이, 노래 실력을 숨긴 미스터리 싱어 그룹에서 얼굴과 몇 가지 단서만으로 실력자인지 음치인지 가리는 대반전 음악 추리쇼다.",
+				"sentenceSize": 219
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 29일 오후10시40분 첫 방송된다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘너목보9’ 유세윤 “기억에 남는 참가자? 황치열”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

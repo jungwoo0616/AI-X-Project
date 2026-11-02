@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266584",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘물어보살’ 의뢰인 “축의금 100만원 한 친구, 손절해도 괜찮을까요?”",
+		"newsSubTitle": "",
+		"newsContent": "고마운 죽마고우와 손절해도 괜찮을까.\n11일 오후 8시 30분 방송되는 KBS조이 예능프로그램 ‘무엇이든 물어보살’ 160회에서는 30대의 의뢰인이 출연한다.\n의뢰인은 학창시절부터 만난 14년 지기와 손절하게 됐다고 이야기 한다.\n친구가 예의 없이 거친 언행을 사용하는 것은 물론 의뢰인을 남들 앞에서 늘 깎아내리는 스타일인데, 최근 늘 참아왔던 의뢰인마저 참지 못할 결정적인 사건이 발생했다고. 사연을 들은 이수근은 “그렇게 행동하는 게 친구냐”라며 함께 화를 내주고, 의뢰인은 다시 친구에게 연락을 해야 할지 아니면 이대로 손절을 하는 게 나을지 모르겠다며 보살들에게 조언을 부탁한다.\n사실 손절한 친구는 학창시절 힘들어하던 의뢰인에게 친구가 되어준 고마운 친구였기 때문이다.\n심지어 의뢰인이 결혼을 할 때는 통 크게 축의금을 100만원을 내준 든든한 친구이기도 하다고. 서장훈은 “입은 거칠어도 고마운 게 많은 친구였나보다. 그래서 딜레마다. 가장 좋은 건 그 친구가 바뀌고 화해하는 건데 그 친구가 바뀌겠냐는 거다”라며 의뢰인과 함께 깊은 고민에 빠진다.\n여느 때보다 현실적이고 어려운 고민에 대해 보살 서장훈과 이수근은 과연 어떤 조언을 전했을까.\n궁금증을 부르는 KBS조이 ‘무엇이든 물어보살’ 160회는 11일 밤 8시 30분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고마운 죽마고우와 손절해도 괜찮을까.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 오후 8시 30분 방송되는 KBS조이 예능프로그램 ‘무엇이든 물어보살’ 160회에서는 30대의 의뢰인이 출연한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의뢰인은 학창시절부터 만난 14년 지기와 손절하게 됐다고 이야기 한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "친구가 예의 없이 거친 언행을 사용하는 것은 물론 의뢰인을 남들 앞에서 늘 깎아내리는 스타일인데, 최근 늘 참아왔던 의뢰인마저 참지 못할 결정적인 사건이 발생했다고. 사연을 들은 이수근은 “그렇게 행동하는 게 친구냐”라며 함께 화를 내주고, 의뢰인은 다시 친구에게 연락을 해야 할지 아니면 이대로 손절을 하는 게 나을지 모르겠다며 보살들에게 조언을 부탁한다.",
+				"sentenceSize": 200
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사실 손절한 친구는 학창시절 힘들어하던 의뢰인에게 친구가 되어준 고마운 친구였기 때문이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "심지어 의뢰인이 결혼을 할 때는 통 크게 축의금을 100만원을 내준 든든한 친구이기도 하다고. 서장훈은 “입은 거칠어도 고마운 게 많은 친구였나보다. 그래서 딜레마다. 가장 좋은 건 그 친구가 바뀌고 화해하는 건데 그 친구가 바뀌겠냐는 거다”라며 의뢰인과 함께 깊은 고민에 빠진다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여느 때보다 현실적이고 어려운 고민에 대해 보살 서장훈과 이수근은 과연 어떤 조언을 전했을까.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "궁금증을 부르는 KBS조이 ‘무엇이든 물어보살’ 160회는 11일 밤 8시 30분 방송된다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘물어보살’ 의뢰인 “축의금 100만원 한 친구, 손절해도 괜찮을까요?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

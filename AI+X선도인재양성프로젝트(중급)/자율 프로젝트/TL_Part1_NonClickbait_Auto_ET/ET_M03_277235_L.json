@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277235",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"행복해요\\\"…미국으로 떠난 최유정·김도연 근황 보니",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 아이오아이 출시 최유정(18)과 김도연(18)의 근황이 공개됐다.\n21일 판타지오 영재 육성 프로젝트 아이틴 측은 공식 트위터를 통해 \\\"여러분 안녕하세요. 도댕입니다\\\"라는 말과 함께 다량의 사진을 공개했다.\n사진에서는 미국에서 행복한 한 때를 보내고 있는 최유정·김도연의 모습이 담겨 있다.\n트위터 측은 \\\"저희는 행복한 시간을 보내고 있다\\\"며 \\\"많은 경험하고 돌아갈테니 조금만 기다려달라\\\"고 덧붙였다.\n최유정과 김도연은 14일 미국 로스앤젤레스로 출국했다.\n두 사람은 할리우드에서 주목받고 있는 로렌 기랄도(Lauren Giraldo)·핏불(Pitbul)·B.O.B·맥 밀러(Mac Miller) 등의 프로듀서 호세 로페즈(Jose lopez)와의 만남 및 미국 유수 강사진이 포진한 실용음악학교 EEI(Elite Education Institute) 뮤직의 스페셜 수업에 참여, 케이티 페리·제니퍼 로페즈 등과 작업한 안무가 칼(Karl)과 교류하며 전문 트레이닝을 통해 실력을 쌓고 견문을 넓힐 것으로 알려졌다.\n두 사람의 미국 여행기는 KCONTV 및 패션 매거진을 통해 일부 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 아이오아이 출시 최유정(18)과 김도연(18)의 근황이 공개됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 판타지오 영재 육성 프로젝트 아이틴 측은 공식 트위터를 통해 \\\"여러분 안녕하세요. 도댕입니다\\\"라는 말과 함께 다량의 사진을 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에서는 미국에서 행복한 한 때를 보내고 있는 최유정·김도연의 모습이 담겨 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트위터 측은 \\\"저희는 행복한 시간을 보내고 있다\\\"며 \\\"많은 경험하고 돌아갈테니 조금만 기다려달라\\\"고 덧붙였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최유정과 김도연은 14일 미국 로스앤젤레스로 출국했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 할리우드에서 주목받고 있는 로렌 기랄도(Lauren Giraldo)·핏불(Pitbul)·B.O.B·맥 밀러(Mac Miller) 등의 프로듀서 호세 로페즈(Jose lopez)와의 만남 및 미국 유수 강사진이 포진한 실용음악학교 EEI(Elite Education Institute) 뮤직의 스페셜 수업에 참여, 케이티 페리·제니퍼 로페즈 등과 작업한 안무가 칼(Karl)과 교류하며 전문 트레이닝을 통해 실력을 쌓고 견문을 넓힐 것으로 알려졌다.",
+				"sentenceSize": 256
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람의 미국 여행기는 KCONTV 및 패션 매거진을 통해 일부 공개될 예정이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"행복해요\\\"…미국으로 떠난 최유정·김도연 근황 보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

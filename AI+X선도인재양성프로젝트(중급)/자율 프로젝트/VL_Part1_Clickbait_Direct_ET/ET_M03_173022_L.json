@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173022",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박서준, 여성 스태프에게 '스킨십' 이래도 되나?…무슨 일인지 알고보니",
+    "newsSubTitle": "",
+    "newsContent": "박서준 박서준, 스태프에게 ‘심쿵 스킨십’ ... “매력 터지는 이 남자” '그녀는 예뻤다' 박서준이 일상생활 속 여심을 자극하는 사진이 공개돼 화제가 되고있다.\n최근 박서준의 자신의 인스타그램에서 \\\"재은아 힘내라 염색 좀 그만하고 행복하자 우리 행복하자 아프지말고\\\"라는 글과 함께 사진 한장을 게시했다.\n공개된 사진 속 박서준은 여성 스태프로 추정되는 여성과 함께 나란히 서서 다정한 모습으로 카메라를 응시하고 있으며 여성의 머리에 손을 올리며 장난치는 모습에서 다정스러움이 엿보였다.\n한편 박서준은 MBC 수목드라마 '그녀는 예뻤다'에 출연 중이다.\n박서준 외에도 황정음, 최시원, 고준희가 열연을 펼치고 있다.\n박서준 사진을 본 네티즌들은 \\\"박서준 ,커플룩 아니야?\\\" \\\"박서준, 여성 스태프에게 스킨십 이래도 되나?\\\" \\\"박서준, 다정다감해 보여 심쿵해\\\" 등의 반응을 보였다.\n박서준 온라인 중앙일보 박서준",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박서준 박서준, 스태프에게 ‘심쿵 스킨십’ ... “매력 터지는 이 남자” '그녀는 예뻤다' 박서준이 일상생활 속 여심을 자극하는 사진이 공개돼 화제가 되고있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 박서준의 자신의 인스타그램에서 \\\"재은아 힘내라 염색 좀 그만하고 행복하자 우리 행복하자 아프지말고\\\"라는 글과 함께 사진 한장을 게시했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 박서준은 여성 스태프로 추정되는 여성과 함께 나란히 서서 다정한 모습으로 카메라를 응시하고 있으며 여성의 머리에 손을 올리며 장난치는 모습에서 다정스러움이 엿보였다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 박서준은 MBC 수목드라마 '그녀는 예뻤다'에 출연 중이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박서준 외에도 황정음, 최시원, 고준희가 열연을 펼치고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박서준 사진을 본 네티즌들은 \\\"박서준 ,커플룩 아니야?\\\" \\\"박서준, 여성 스태프에게 스킨십 이래도 되나?\\\" \\\"박서준, 다정다감해 보여 심쿵해\\\" 등의 반응을 보였다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박서준 온라인 중앙일보 박서준",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 박서준, SNS에 '우리 행복하자'며 이 사람과 찍은 사진 게시?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278422",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "JYP 쯔위 의상 논란에 \\\"영어 문구 발견 못했다\\\" 사과 입장 발표",
+		"newsSubTitle": "",
+		"newsContent": "JYP가 쯔위의 '인기가요' 무대 의상 논란에 공식입장을 밝혔다.\n트와이스 소속사 JYP엔터테인먼트 측은 15일 뉴스1스타에 \\\"쯔위의 상의 의상에 적힌 영어 문구를 미처 발견하지 못했다. 심려를 끼쳐드려서 죄송하다\\\"고 사과 입장을 밝혔다.\n이어 \\\"앞으로 의상에 주의를 기울여 재발을 방지하겠다. 다시 한 번 심려를 끼쳐 드린 점 죄송하다\\\"고 덧붙였다.\n앞서 트와이스는 지난 13일 방송된 SBS '인기가요'에서 걸그룹 여자친구와 함께 소녀시대의 'Gee'로 무대를 꾸몄다.\n이날 쯔위가 입고 무대에 오른 의상에는 'Hoes take off your Clothes'(Hoe가 너의 옷을 벗긴다)라는 문구가 적혀 있었다.\n여기서‘Hoe'는 사전 상으로는 괭이라는 뜻을 갖고 있으나 영어권에서는 여성을 비하하는 속어로 사용된다.\n한편 트와이스는 Mnet'트와이스의 우아한 사생활'에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JYP가 쯔위의 '인기가요' 무대 의상 논란에 공식입장을 밝혔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트와이스 소속사 JYP엔터테인먼트 측은 15일 뉴스1스타에 \\\"쯔위의 상의 의상에 적힌 영어 문구를 미처 발견하지 못했다. 심려를 끼쳐드려서 죄송하다\\\"고 사과 입장을 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"앞으로 의상에 주의를 기울여 재발을 방지하겠다. 다시 한 번 심려를 끼쳐 드린 점 죄송하다\\\"고 덧붙였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 트와이스는 지난 13일 방송된 SBS '인기가요'에서 걸그룹 여자친구와 함께 소녀시대의 'Gee'로 무대를 꾸몄다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 쯔위가 입고 무대에 오른 의상에는 'Hoes take off your Clothes'(Hoe가 너의 옷을 벗긴다)라는 문구가 적혀 있었다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여기서‘Hoe'는 사전 상으로는 괭이라는 뜻을 갖고 있으나 영어권에서는 여성을 비하하는 속어로 사용된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 트와이스는 Mnet'트와이스의 우아한 사생활'에 출연 중이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "JYP 쯔위 의상 논란에 \\\"영어 문구 발견 못했다\\\" 사과 입장 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

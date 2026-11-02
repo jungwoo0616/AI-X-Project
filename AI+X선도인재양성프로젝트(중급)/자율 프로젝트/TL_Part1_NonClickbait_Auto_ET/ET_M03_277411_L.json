@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277411",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "친구들과 우정사진 함께 찍은 걸그룹 멤버",
+		"newsSubTitle": "",
+		"newsContent": "프로젝트 걸그룹 아이오아이 멤버 최유정(18)이 친구들과 함께 찍은 우정사진이 공개됐다.\n29일 한 온라인 커뮤니티에는 '친구들이랑 우정사진 찍는 최유정'이라는 제목의 사진이 올라왔다.\n이는 경기도 구리의 한 사진관에서 촬영된 사진으로, 최유정은 이곳에서 자신의 주민등록증 사진과 우정 사진을 함께 찍었다.\n최유정의 사진을 촬영한 사진관 측은 블로그에서 최유정을 두고 \\\"역시 연예인은 연예인\\\"이라며 \\\"카메라를 보는 순간 포즈와 표정이 달라진다\\\"고 평했다.\n한편 최유정이 속한 아이오아이는 최근 콘서트를 끝으로 10개월간의 활동을 마쳤다.\n최유정은 판타지오와 전속 계약을 맺고 올해 상반기 걸그룹 데뷔를 준비 중인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로젝트 걸그룹 아이오아이 멤버 최유정(18)이 친구들과 함께 찍은 우정사진이 공개됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 한 온라인 커뮤니티에는 '친구들이랑 우정사진 찍는 최유정'이라는 제목의 사진이 올라왔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 경기도 구리의 한 사진관에서 촬영된 사진으로, 최유정은 이곳에서 자신의 주민등록증 사진과 우정 사진을 함께 찍었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최유정의 사진을 촬영한 사진관 측은 블로그에서 최유정을 두고 \\\"역시 연예인은 연예인\\\"이라며 \\\"카메라를 보는 순간 포즈와 표정이 달라진다\\\"고 평했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 최유정이 속한 아이오아이는 최근 콘서트를 끝으로 10개월간의 활동을 마쳤다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최유정은 판타지오와 전속 계약을 맺고 올해 상반기 걸그룹 데뷔를 준비 중인 것으로 알려졌다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "친구들과 우정사진 함께 찍은 걸그룹 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

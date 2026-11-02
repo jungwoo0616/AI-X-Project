@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283841",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'부탁해요, 엄마' 시청률 30% 넘었다…2위 '내 딸 금사월'은?",
+		"newsSubTitle": "",
+		"newsContent": "KBS 2TV 드라마 ‘부탁해요, 엄마’가 자체 최고 시청률 경신하며 적수 없는 주말극 절대 강자임을 입증했다.\n시청률조사회사 닐슨코리아 조사 결과 지난 8일 방송된 ‘부탁해요, 엄마’는 31.1%의 시청률을 기록하며 자체 최고 기록을 새로 썼다.\n이는 지난 회 시청률 27% 보다 4.1% 대폭 상승한 수치로, ‘부탁해요 엄마’가 기록한 자체 최고 시청률이다.\n또한 MBC 주말드라마 ‘내 딸 금사월’ 역시 27.2%로 시청률이 상승했으며, ‘엄마’는 19.5%를 기록했다.\n반면 SBS ‘애인있어요’는 2015 WBSC 프리미어12 한국과 일본 경기 생중계로 결방됐다.\n한편 ‘부탁해요 엄마’에서는 이형순(최태준 분)과 장채리(조보아 분) 커플, 이진애(유진 분)와 강훈재(이상우 분) 커플에 ‘사랑의 역경’이 닥치는 장면이 그려졌으며, 매주 토·일요일 저녁 7시 55분에 방송된다.\n//--> //--> 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS 2TV 드라마 ‘부탁해요, 엄마’가 자체 최고 시청률 경신하며 적수 없는 주말극 절대 강자임을 입증했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시청률조사회사 닐슨코리아 조사 결과 지난 8일 방송된 ‘부탁해요, 엄마’는 31.1%의 시청률을 기록하며 자체 최고 기록을 새로 썼다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 회 시청률 27% 보다 4.1% 대폭 상승한 수치로, ‘부탁해요 엄마’가 기록한 자체 최고 시청률이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 MBC 주말드라마 ‘내 딸 금사월’ 역시 27.2%로 시청률이 상승했으며, ‘엄마’는 19.5%를 기록했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면 SBS ‘애인있어요’는 2015 WBSC 프리미어12 한국과 일본 경기 생중계로 결방됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘부탁해요 엄마’에서는 이형순(최태준 분)과 장채리(조보아 분) 커플, 이진애(유진 분)와 강훈재(이상우 분) 커플에 ‘사랑의 역경’이 닥치는 장면이 그려졌으며, 매주 토·일요일 저녁 7시 55분에 방송된다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "//--> //--> 온라인 중앙일보",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'부탁해요, 엄마' 시청률 30% 넘었다…2위 '내 딸 금사월'은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

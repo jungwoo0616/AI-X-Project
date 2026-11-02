@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278320",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'로코베리' 로코, \\\"슈가맨 출연하면서 달라진 것…화장품 광고 재계약\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 '로코베리'의 로코가 '슈가맨'에 출연해 화제인 가운데 로코의 깜짝 발언이 눈길을 끈다.\n지난 1일 방송된 JTBC '투유 프로젝트-슈가맨'에는 R&B 대표가수 임정희와 김조한이 역주행송 대결을 펼쳤다.\n이날 방송에는 '로코베리'의 보컬 로코도 출연했다.\nMC들이 '슈가맨' 출연 이후 달라진 점을 묻자 \\\"원래 광고를 찍었던 화장품 회사에서 재계약하자고 했다\\\"고 답해 관심을 모았다.\n한편 '로코베리'의 로코는 지난 29일 방송된 JTBC '투유 프로젝트-슈가맨'에서 유희열 팀의 프로듀서로 나서 KBS 드라마 '태양의 후예' OST이자 자신이 작곡한 'Always'를 열창해 화제가 됐다.\n온라인 중앙일보 [사진 JTBC '투유 프로젝트-슈가맨' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 '로코베리'의 로코가 '슈가맨'에 출연해 화제인 가운데 로코의 깜짝 발언이 눈길을 끈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1일 방송된 JTBC '투유 프로젝트-슈가맨'에는 R&B 대표가수 임정희와 김조한이 역주행송 대결을 펼쳤다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에는 '로코베리'의 보컬 로코도 출연했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC들이 '슈가맨' 출연 이후 달라진 점을 묻자 \\\"원래 광고를 찍었던 화장품 회사에서 재계약하자고 했다\\\"고 답해 관심을 모았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 '로코베리'의 로코는 지난 29일 방송된 JTBC '투유 프로젝트-슈가맨'에서 유희열 팀의 프로듀서로 나서 KBS 드라마 '태양의 후예' OST이자 자신이 작곡한 'Always'를 열창해 화제가 됐다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC '투유 프로젝트-슈가맨' 캡처]",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'로코베리' 로코, \\\"슈가맨 출연하면서 달라진 것…화장품 광고 재계약\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

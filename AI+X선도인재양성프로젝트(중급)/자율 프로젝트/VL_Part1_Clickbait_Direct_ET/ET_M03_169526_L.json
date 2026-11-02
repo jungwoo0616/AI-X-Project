@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169526",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "하휘동·최수진, 23일 백년가약 \\\"만날수록 '괜찮은 사람'\\\"",
+    "newsSubTitle": "",
+    "newsContent": "비보이 하휘동과 현대무용가 최수진이 23일 백년가약을 맺는다.\n하휘동과 최수진은 이날 서울 모처에서 결혼식을 올린다.\n하휘동과 최수진은 케이블채널 엠넷 '댄싱9'로 인연을 맺었다.\n시즌1 MVP였던 하휘동은 레드윙즈의 마스터로, 최수진은 레드윙즈 참가자로 각각 '댄싱9' 시즌2를 통해 가까워졌다.\n두 사람은 결혼에 앞서 코스모폴리탄 화보를 촬영하며 서로에 대한 애정을 드러냈다.\n최수진은 \\\"오빠는 내가 하는 일을 늘 지지해주고, 저의 마음을 편하게 해준다. 만날수록 '괜찮은 사람'이라는 생각이 들었다\\\"라고 말했다.\n하휘동은 \\\"내 춤엔 일반적인 비보잉 댄스에 비해 부드러운 동작이 많다. 그래서 원래 현대 무용을 좋아했다. 그러다 이 친구를 만나게 됐다. 수진이가 무대에서 움직이는 모습에 많은 영감을 받고 있다\\\"고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비보이 하휘동과 현대무용가 최수진이 23일 백년가약을 맺는다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하휘동과 최수진은 이날 서울 모처에서 결혼식을 올린다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하휘동과 최수진은 케이블채널 엠넷 '댄싱9'로 인연을 맺었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시즌1 MVP였던 하휘동은 레드윙즈의 마스터로, 최수진은 레드윙즈 참가자로 각각 '댄싱9' 시즌2를 통해 가까워졌다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 결혼에 앞서 코스모폴리탄 화보를 촬영하며 서로에 대한 애정을 드러냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최수진은 \\\"오빠는 내가 하는 일을 늘 지지해주고, 저의 마음을 편하게 해준다. 만날수록 '괜찮은 사람'이라는 생각이 들었다\\\"라고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하휘동은 \\\"내 춤엔 일반적인 비보잉 댄스에 비해 부드러운 동작이 많다. 그래서 원래 현대 무용을 좋아했다. 그러다 이 친구를 만나게 됐다. 수진이가 무대에서 움직이는 모습에 많은 영감을 받고 있다\\\"고 설명했다.",
+        "sentenceSize": 119
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'결혼' 하휘동·최수진, '댄싱9'에서 춤은 안 추고 연애만 하더니... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

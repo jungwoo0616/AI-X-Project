@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169990",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "EXID 혜린 ‘리더의 하루’ 수행 비서 된다",
+    "newsSubTitle": "",
+    "newsContent": "EXID 혜린이 수행 비서로 변신한다.\nIHQ는 혜린이 정준하, 박명수, 지석진, 윤정수와 함께 ‘리더의 하루’에 고정 출연한다고 밝혔다. ‘리더의 하루’는 다양한 분야의 리더들을 24시간 밀착 수행하고 그들의 성공 노하우와 철학을 배워보는 예능 프로그램이다.\n정준하와 박명수, 지석진과 윤정수가 각각 팀을 이뤄 각자 선정한 리더의 비서가 되어 그들의 성공 비법을 캐낸다.\n혜린도 정준하, 박명수, 지석진, 윤정수와 같이 리더의 일상을 쫓아다니는 비서에 합류해 다음 주 방송부터 멋진 활약을 펼칠 것으로 기대된다.\n혜린은 최근 라이브 커머스에서 쇼호스트로 막힘없는 진행 실력을 뽐낸 경력이 있으며, ‘셀럽뷰티3’에 출연해 리얼한 일상을 공개하기도 했다.\n또 “성공에 대한 야망을 품고 있는 분들에게 도움을 주고 싶다. 더 열심히 살아갈 수 있도록 스스로에게도 동기부여를 하는 계기가 될 것 같다”라며 출연 소감을 밝혔다. ‘리더의 하루’ 방송은 매주 화요일 저녁 8시 채널 IHQ에서 시청할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "EXID 혜린이 수행 비서로 변신한다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "IHQ는 혜린이 정준하, 박명수, 지석진, 윤정수와 함께 ‘리더의 하루’에 고정 출연한다고 밝혔다. ‘리더의 하루’는 다양한 분야의 리더들을 24시간 밀착 수행하고 그들의 성공 노하우와 철학을 배워보는 예능 프로그램이다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정준하와 박명수, 지석진과 윤정수가 각각 팀을 이뤄 각자 선정한 리더의 비서가 되어 그들의 성공 비법을 캐낸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "혜린도 정준하, 박명수, 지석진, 윤정수와 같이 리더의 일상을 쫓아다니는 비서에 합류해 다음 주 방송부터 멋진 활약을 펼칠 것으로 기대된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혜린은 최근 라이브 커머스에서 쇼호스트로 막힘없는 진행 실력을 뽐낸 경력이 있으며, ‘셀럽뷰티3’에 출연해 리얼한 일상을 공개하기도 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 “성공에 대한 야망을 품고 있는 분들에게 도움을 주고 싶다. 더 열심히 살아갈 수 있도록 스스로에게도 동기부여를 하는 계기가 될 것 같다”라며 출연 소감을 밝혔다. ‘리더의 하루’ 방송은 매주 화요일 저녁 8시 채널 IHQ에서 시청할 수 있다.",
+        "sentenceSize": 138
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXID 혜린 근황 충격 '비서로 파격 변신' 24시간 밀착 비서 임무 수행",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

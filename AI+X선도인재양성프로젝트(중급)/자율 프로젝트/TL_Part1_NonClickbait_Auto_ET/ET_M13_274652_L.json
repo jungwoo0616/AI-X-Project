@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274652",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘3년 만에 내한’ Maroon 5, 팬들의 시선이 따가운 이유",
+		"newsSubTitle": "",
+		"newsContent": "팝 밴드 마룬 5(Maroon 5)가 내한 공연 발표에서 욱일승천기 이미지를 사용해 빈축을 사고 있다.\n마룬 5는 최근 공식 홈페이지를 통해 내한 공연 일정을 예고했다.\n예고에 따르면 이번 내한 공연은 오는 11월 30일 열린다.\n이번 내한 공연은 2019년 2월 이후 3년 만에 한국에서 열리는 공연이다.\n그러나 한국 팬들의 시각은 그리 좋지 않다.\n마룬 5가 욱일승천기 디자인을 사용했기 때문이다.\n이 소식을 접한 누리꾼들은 “내한 공연에 전범기를 활용하는 게 말이 되냐”, “한국 팬들에 대한 모욕이다” 등 비판의 목소리를 내고 있다.\n마룬 5는 이전에도 혐한 동조 논란에 휩싸인 바 있다.\n그들의 대표곡 ‘One More Night’(2012) 뮤직비디오에는 욱일기가 몇 초동안 등장해 한국 팬들의 빈축을 샀고, 2019년에는 멤버 제시 카마이클의 “태극기나 태워버려라” 등 혐한 발언으로 논란을 빚었다.\n이번 논란에 대해 마룬 5는 아직 어떠한 입장도 밝히지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팝 밴드 마룬 5(Maroon 5)가 내한 공연 발표에서 욱일승천기 이미지를 사용해 빈축을 사고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마룬 5는 최근 공식 홈페이지를 통해 내한 공연 일정을 예고했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예고에 따르면 이번 내한 공연은 오는 11월 30일 열린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 내한 공연은 2019년 2월 이후 3년 만에 한국에서 열리는 공연이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 한국 팬들의 시각은 그리 좋지 않다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마룬 5가 욱일승천기 디자인을 사용했기 때문이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 소식을 접한 누리꾼들은 “내한 공연에 전범기를 활용하는 게 말이 되냐”, “한국 팬들에 대한 모욕이다” 등 비판의 목소리를 내고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "마룬 5는 이전에도 혐한 동조 논란에 휩싸인 바 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그들의 대표곡 ‘One More Night’(2012) 뮤직비디오에는 욱일기가 몇 초동안 등장해 한국 팬들의 빈축을 샀고, 2019년에는 멤버 제시 카마이클의 “태극기나 태워버려라” 등 혐한 발언으로 논란을 빚었다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 논란에 대해 마룬 5는 아직 어떠한 입장도 밝히지 않고 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘3년 만에 내한’ Maroon 5, 팬들의 시선이 따가운 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

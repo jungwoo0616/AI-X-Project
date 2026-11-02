@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277375",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"찬열아 사랑해\\\" 찬열에게 메시지 보낸 의외의 인물",
+		"newsSubTitle": "",
+		"newsContent": "엑소 멤버 찬열이 최태준과의 메시지를 공개했다.\n1일 엑소 멤버 찬열은 자신의 인스타그램을 통해 최태준과의 카톡 메시지를 공개했다.\n공개된 메시지 속 최태준은 찬열에게 \\\"열아 미안해. 죽이려고 한 건 아니었어\\\"라고 말했다.\n앞서 MBC-TV '미씽나인'에서는 최태준이 실수로 찬열을 죽이는 모습이 그려졌다.\n최태준은 이를 의식해 카톡 메시지를 보낸 것이다.\n찬열은 최태준의 메시지에 \\\"왜 그랬어요, 하지만 우린 서로 사랑하잖아요\\\" \\\"저를 사랑하는 사람들은 제가 사랑하는 사람도 사랑할 거예요\\\"라고 답했고, 최태준은 \\\"사랑해, 난 너뿐이야\\\"라고 답하며 찬열에 대한 애정을 보였다.\n최태준의 애정어린 고백에 찬열도 결국 \\\"저도 사랑해요\\\"라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엑소 멤버 찬열이 최태준과의 메시지를 공개했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 엑소 멤버 찬열은 자신의 인스타그램을 통해 최태준과의 카톡 메시지를 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 메시지 속 최태준은 찬열에게 \\\"열아 미안해. 죽이려고 한 건 아니었어\\\"라고 말했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 MBC-TV '미씽나인'에서는 최태준이 실수로 찬열을 죽이는 모습이 그려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최태준은 이를 의식해 카톡 메시지를 보낸 것이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "찬열은 최태준의 메시지에 \\\"왜 그랬어요, 하지만 우린 서로 사랑하잖아요\\\" \\\"저를 사랑하는 사람들은 제가 사랑하는 사람도 사랑할 거예요\\\"라고 답했고, 최태준은 \\\"사랑해, 난 너뿐이야\\\"라고 답하며 찬열에 대한 애정을 보였다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최태준의 애정어린 고백에 찬열도 결국 \\\"저도 사랑해요\\\"라고 전했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"찬열아 사랑해\\\" 찬열에게 메시지 보낸 의외의 인물",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

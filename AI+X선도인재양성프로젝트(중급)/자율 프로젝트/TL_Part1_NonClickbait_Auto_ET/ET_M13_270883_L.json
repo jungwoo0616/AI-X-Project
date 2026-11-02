@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270883",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수 ‘핫한 아이돌 배우’ 1위",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 멤버 블랙핑크 겸 배우 지수가 핫한 아이돌 배우 (Hot Idol-Actor) 1위에 선정됐다.\n팬 투표 앱인 Queeri가 4월 10일부터 4월 19일까지“핫 아이돌-배우(Hot Idol-Actor”라는 제목의 투표를 진행했다.\n모든 아이돌 배우들 중에서 지수는 인기를 증명하며 1위를 차지했다.\n배우로서 지수는 지난 1월 종영된 JTBC 드라마 ‘설강화: snowdrop’의 주인공으로 첫 연기를 도전했다. ‘은영로’역을 맡은 지수는 자신의 연기력을 보여주며 빛을 발했다.\n방송 콘텐츠 가치정보 분석시스템(RACOI)에 따르면 지수는 12월 셋째 주에 동안 ‘출연자 순위’에서 1위를 차지했다.\n한편 지수는 블랙핑크의 컴백을 준비하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 멤버 블랙핑크 겸 배우 지수가 핫한 아이돌 배우 (Hot Idol-Actor) 1위에 선정됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "팬 투표 앱인 Queeri가 4월 10일부터 4월 19일까지“핫 아이돌-배우(Hot Idol-Actor”라는 제목의 투표를 진행했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모든 아이돌 배우들 중에서 지수는 인기를 증명하며 1위를 차지했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배우로서 지수는 지난 1월 종영된 JTBC 드라마 ‘설강화: snowdrop’의 주인공으로 첫 연기를 도전했다. ‘은영로’역을 맡은 지수는 자신의 연기력을 보여주며 빛을 발했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방송 콘텐츠 가치정보 분석시스템(RACOI)에 따르면 지수는 12월 셋째 주에 동안 ‘출연자 순위’에서 1위를 차지했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지수는 블랙핑크의 컴백을 준비하고 있다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수 ‘핫한 아이돌 배우’ 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

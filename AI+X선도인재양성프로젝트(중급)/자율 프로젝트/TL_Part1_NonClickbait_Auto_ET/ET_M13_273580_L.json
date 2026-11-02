@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273580",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "오마이걸 유아 가슴 노출 의상에 팬들 반응",
+		"newsSubTitle": "",
+		"newsContent": "그룹 ‘오마이걸’ 유아가 가슴이 노출된 파격적인 의상을 선보였다.\n유아는 지난 19일 자신의 SNS 인스타그램에 ‘Dolphin’이라는 글과 함께 바닷가에서 찍은 여러 장의 사진을 올렸다.\n사진 속 유아는 데님 원피스 앞섶 단추를 가슴 부분까지 풀어 입어 아찔한 노출을 선보였다.\n유아는 가슴 부분에 손을 얹고 고혹적인 표정을 짓기도 했다.\n팬들은 “당장 못 여며요” “인정 못한다” “30살 넘으면 노출 가능” “가려줄 담요 찾아요” “꽁꽁 싸매” “언니 안돼요” 등의 반응을 보였다.\n한편, 유아가 속한 오마이걸은 지난 3월 두 번째 정규 앨범 ‘리얼 러브(Real Love)’로 활동했다.\n지난 18일에는 ‘2022 제28회 드림콘서트’ 무대에도 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 ‘오마이걸’ 유아가 가슴이 노출된 파격적인 의상을 선보였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유아는 지난 19일 자신의 SNS 인스타그램에 ‘Dolphin’이라는 글과 함께 바닷가에서 찍은 여러 장의 사진을 올렸다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 유아는 데님 원피스 앞섶 단추를 가슴 부분까지 풀어 입어 아찔한 노출을 선보였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유아는 가슴 부분에 손을 얹고 고혹적인 표정을 짓기도 했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 “당장 못 여며요” “인정 못한다” “30살 넘으면 노출 가능” “가려줄 담요 찾아요” “꽁꽁 싸매” “언니 안돼요” 등의 반응을 보였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 유아가 속한 오마이걸은 지난 3월 두 번째 정규 앨범 ‘리얼 러브(Real Love)’로 활동했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 18일에는 ‘2022 제28회 드림콘서트’ 무대에도 올랐다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오마이걸 유아 가슴 노출 의상에 팬들 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

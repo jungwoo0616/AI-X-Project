@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278192",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'국수의 신' 정유미, 공승연과 다정하게 \\\"꽁냥꽁냥!\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'국수의 신' 정유미가 공승연과 함께 찍은 사진을 공개했다.\n지난 29일 정유미의 인스타그램에는 \\\"공양과 꽁냥꽁냥! #다해#이뿌니#공승연#여경#마스터국수의신#화이팅\\\"라는 글과 함께 사진 두 장이 게재됐다.\n사진 속 두 사람은 다정하게 얼굴을 맞대고 미소짓고 있다.\n두 사람의 훈훈한 모습에 네티즌들은 \\\"두분 너무 좋아보여요\\\" \\\"느낌은 다르지만 둘 다 미모가 출중하다\\\" \\\"자매같아요 ㅎㅎ 남편분들도 친하시다는데\\\" 등의 반응을 보였다.\n한편 정유미와 공승연이 출연하는 KBS2‘마스터- 국수의 신’은 매주 수, 목 오후 10시 방송된다.\n온라인 중앙일보 [사진 정유미 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'국수의 신' 정유미가 공승연과 함께 찍은 사진을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 29일 정유미의 인스타그램에는 \\\"공양과 꽁냥꽁냥! #다해#이뿌니#공승연#여경#마스터국수의신#화이팅\\\"라는 글과 함께 사진 두 장이 게재됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 두 사람은 다정하게 얼굴을 맞대고 미소짓고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람의 훈훈한 모습에 네티즌들은 \\\"두분 너무 좋아보여요\\\" \\\"느낌은 다르지만 둘 다 미모가 출중하다\\\" \\\"자매같아요 ㅎㅎ 남편분들도 친하시다는데\\\" 등의 반응을 보였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 정유미와 공승연이 출연하는 KBS2‘마스터- 국수의 신’은 매주 수, 목 오후 10시 방송된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 정유미 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'국수의 신' 정유미, 공승연과 다정하게 \\\"꽁냥꽁냥!\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271675",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조세호 두 번째 연애 암시 글 “오늘도…너 편히 기댈 수 있게”",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 조세호가 또 한번 연애 암시글을 올려 누리꾼의 주목을 받았다.\n조세호는 29일 “오늘도 어깨운동 열심히 할게, 너 좀 더 편하게 기댈 수 있게”라는 글을 올렸다.\n그러면서 “운동 끝”이라는 코멘트와 함께 하트 이모티콘을 붙여 사랑스러운 느낌을 더했다.\n동료 연예인인 배우 이상엽은 “어제부터 무슨 일이예요 형”, 김기방은 “괜찮은거야? ”, 배우 이이경은 “네??”라는 댓글을 달며 궁금한 마음을 표현했다.\n전날 조세호는 “눈 깜빡일 시간에 너 한번 더 보고 싶다…”라는 핑크빛 글을 올려 팬들로부터 관심을 받았다.\n팬들은 “연애중?” “누굴까? ” 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 조세호가 또 한번 연애 암시글을 올려 누리꾼의 주목을 받았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조세호는 29일 “오늘도 어깨운동 열심히 할게, 너 좀 더 편하게 기댈 수 있게”라는 글을 올렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “운동 끝”이라는 코멘트와 함께 하트 이모티콘을 붙여 사랑스러운 느낌을 더했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "동료 연예인인 배우 이상엽은 “어제부터 무슨 일이예요 형”, 김기방은 “괜찮은거야? ”, 배우 이이경은 “네??”라는 댓글을 달며 궁금한 마음을 표현했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전날 조세호는 “눈 깜빡일 시간에 너 한번 더 보고 싶다…”라는 핑크빛 글을 올려 팬들로부터 관심을 받았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들은 “연애중?” “누굴까? ” 등의 반응을 보였다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조세호 두 번째 연애 암시 글 “오늘도…너 편히 기댈 수 있게”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

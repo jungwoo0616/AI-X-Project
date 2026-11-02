@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265884",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "권은비 “타이틀 곡 ‘글리치‘ 듣자마자 내 꺼다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 권은비가 타이틀곡 ‘글리치’에 관한 소감을 전했다.\n4일 권은비 두번째 미니 앨범 ‘Color’ 발매 기념 쇼케이스가 열렸다.\n타이틀곡 ‘글리치’(Glitch)는 촘하게 짜여진 그리드 라인을 벗어나 시스템이라는 ‘정답’에 의문점을 던지는 UK-개러지(UK-Garage) 장르로, 뉴타입이엔티의 프로듀서 탁(TAK)과 코빈(Corbin)의 협업을 통해 ‘나만의 동화 속 주인공’이라는 모토를 담아내며 아티스트 권은비의 내면과 음악적 세계관을 완성했다.\n권은비는 “어떤 기준에 부합하지 않으면 부족하다고 말하는 편견을 깨고 나 스스로를 인정하자는 메시지를 담고 있다. 결함마저 자랑스럽고 당당하다는 내용을 담고 있다”며 “이 노래를 듣자마자 ‘내 거다’라는 생각이 들었다”고 회상했다.\n권은비는 “녹음실에서 이 노래를 듣고 궁금증이 많았다. 신비롭고 몽환적이었다”고 말했다. ‘컬러’에는 타이틀곡 ‘글리치’를 비롯해 ‘더 컬러스 오브 라이트(The Colors of Light)’, ‘마그네틱(Magnetic)’, ‘컬러스(Colors)’, ‘우리의 속도’, ‘오프(OFF)’까지 다채로운 장르의 총 6곡이 실렸다.\n권은비의 다채로운 음악 컬러’를 담았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 권은비가 타이틀곡 ‘글리치’에 관한 소감을 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 권은비 두번째 미니 앨범 ‘Color’ 발매 기념 쇼케이스가 열렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "타이틀곡 ‘글리치’(Glitch)는 촘하게 짜여진 그리드 라인을 벗어나 시스템이라는 ‘정답’에 의문점을 던지는 UK-개러지(UK-Garage) 장르로, 뉴타입이엔티의 프로듀서 탁(TAK)과 코빈(Corbin)의 협업을 통해 ‘나만의 동화 속 주인공’이라는 모토를 담아내며 아티스트 권은비의 내면과 음악적 세계관을 완성했다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권은비는 “어떤 기준에 부합하지 않으면 부족하다고 말하는 편견을 깨고 나 스스로를 인정하자는 메시지를 담고 있다. 결함마저 자랑스럽고 당당하다는 내용을 담고 있다”며 “이 노래를 듣자마자 ‘내 거다’라는 생각이 들었다”고 회상했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "권은비는 “녹음실에서 이 노래를 듣고 궁금증이 많았다. 신비롭고 몽환적이었다”고 말했다. ‘컬러’에는 타이틀곡 ‘글리치’를 비롯해 ‘더 컬러스 오브 라이트(The Colors of Light)’, ‘마그네틱(Magnetic)’, ‘컬러스(Colors)’, ‘우리의 속도’, ‘오프(OFF)’까지 다채로운 장르의 총 6곡이 실렸다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "권은비의 다채로운 음악 컬러’를 담았다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "권은비 “타이틀 곡 ‘글리치‘ 듣자마자 내 꺼다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

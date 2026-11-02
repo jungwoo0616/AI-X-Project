@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277075",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "본인만의 스타일로 컬렉션 드레스 소화한 설리…모델과 비교해보니",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 에프엑스(f(x)) 출신 설리(22)가 자신만의 스타일로 소화한 의상이 눈길을 끈다.\n설리는 최근 진행한 패션 잡지 마리끌레르·뷰티 브랜드 에스티 로더와의 뷰티 화보에서 어깨가 드러나는 오프 숄더 드레스를 입고 상큼함을 뽐냈다.\n그가 착용한 이 드레스는 지난해 밀라노 패션 위크에서 공개된 '포츠 1961(PORTS 1961)'의 Spring/Summer 2017 드레스다.\n당시 런웨이에서 모델은 설리와 다르게 옷을 좀 더 가슴 쪽으로 내리고 무대에 올랐다.\n또, 모델은 파란 아이섀도를 눈두덩이에 발라 시크함을 추구했다.\n반면 설리는 모델 착용과 달리 발랄하고 청량한 느낌이다.\n모델이 발을 덮는 구두를 착용한 것과 달리 설리는 스트랩이 돋보이는 하이힐을 신고 사랑스러움을 더했다.\n한편 설리는 자신의 소셜네트워크서비스(SNS)를 통해 지속해서 팬들과 소통하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 에프엑스(f(x)) 출신 설리(22)가 자신만의 스타일로 소화한 의상이 눈길을 끈다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "설리는 최근 진행한 패션 잡지 마리끌레르·뷰티 브랜드 에스티 로더와의 뷰티 화보에서 어깨가 드러나는 오프 숄더 드레스를 입고 상큼함을 뽐냈다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그가 착용한 이 드레스는 지난해 밀라노 패션 위크에서 공개된 '포츠 1961(PORTS 1961)'의 Spring/Summer 2017 드레스다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 런웨이에서 모델은 설리와 다르게 옷을 좀 더 가슴 쪽으로 내리고 무대에 올랐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또, 모델은 파란 아이섀도를 눈두덩이에 발라 시크함을 추구했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 설리는 모델 착용과 달리 발랄하고 청량한 느낌이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모델이 발을 덮는 구두를 착용한 것과 달리 설리는 스트랩이 돋보이는 하이힐을 신고 사랑스러움을 더했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 설리는 자신의 소셜네트워크서비스(SNS)를 통해 지속해서 팬들과 소통하고 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "본인만의 스타일로 컬렉션 드레스 소화한 설리…모델과 비교해보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

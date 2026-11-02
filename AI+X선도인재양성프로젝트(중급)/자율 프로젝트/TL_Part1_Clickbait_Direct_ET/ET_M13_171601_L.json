@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171601",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "싸이 ‘올나잇 스탠드’ 29일 SBS서 방송",
+    "newsSubTitle": "",
+    "newsContent": "가수 싸이가 SBS 송년특집으로 돌아온다.\nSBS는 29일 송년특집으로 ‘싸이 올나잇 스탠드’ 공연을 진행하며 방송을 통해 하이라이트 무대를 100분간 송출한다.\n이번 ‘싸이 올나잇 스탠드’는 싸이의 대표 브랜드 콘서트인 ‘올나잇 스탠드’의 2019년 공연 중 핵심만을 모아 담은 하이라이트 버전이다.\n지난 2003년부터 열린 ‘올나잇 스탠드’는 밤 11시 42분부터 다음날 새벽 첫차가 운행할 때까지 계속되는 독보적인 콘셉트의 콘서트다.\n싸이는 장시간 공연임에도 지치지 않는 열정으로 무대를 채우며 매회 높은 예매율과 관람 후기를 기록한 바 있다.\n지난해 9월 SBS에서 방송된 ‘싸이 흠뻑쇼 2017-2019’ 공연 실황 하이라이트 특집 역시 호평받았으며, 시청자들의 성원에 힘입어 재편성되는 등 큰 화제를 모으기도 했다.\n한편 SBS 송년특집‘싸이 올나잇 스탠드‘콘서트 실황 하이라이트 방송은 29일 오후 9시 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 싸이가 SBS 송년특집으로 돌아온다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS는 29일 송년특집으로 ‘싸이 올나잇 스탠드’ 공연을 진행하며 방송을 통해 하이라이트 무대를 100분간 송출한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 ‘싸이 올나잇 스탠드’는 싸이의 대표 브랜드 콘서트인 ‘올나잇 스탠드’의 2019년 공연 중 핵심만을 모아 담은 하이라이트 버전이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 2003년부터 열린 ‘올나잇 스탠드’는 밤 11시 42분부터 다음날 새벽 첫차가 운행할 때까지 계속되는 독보적인 콘셉트의 콘서트다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "싸이는 장시간 공연임에도 지치지 않는 열정으로 무대를 채우며 매회 높은 예매율과 관람 후기를 기록한 바 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난해 9월 SBS에서 방송된 ‘싸이 흠뻑쇼 2017-2019’ 공연 실황 하이라이트 특집 역시 호평받았으며, 시청자들의 성원에 힘입어 재편성되는 등 큰 화제를 모으기도 했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 SBS 송년특집‘싸이 올나잇 스탠드‘콘서트 실황 하이라이트 방송은 29일 오후 9시 방송된다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독보적인 싸이의 이 공연, 29일 집에서 즐긴다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

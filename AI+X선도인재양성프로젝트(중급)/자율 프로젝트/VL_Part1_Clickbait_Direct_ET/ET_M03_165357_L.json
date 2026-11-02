@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165357",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "제니퍼 애니스톤, 광고 한 편 촬영하는 데 58억원 받아",
+    "newsSubTitle": "",
+    "newsContent": "할리우드 배우 제니퍼 애니스톤이 5백만 달러(한화 약 58억 원)의 광고를 체결했다고 영국 연예매체 피플이 지난 9일(이하 현지시각) 보도했다.\n보도에 따르면 제니퍼 애니스톤은 최근 에미레이트 항공사와 광고를 체결했다.\n연인 저스틴 서룩스와의 결혼식 바로 전 날이다.\n에미레이트 항공사 측은 \\\"에미레이트 항공사와 제니퍼 애니스톤이 함께 일하게 됐다. 애니스톤은 전 세계에 방송되는 광고에 모델로 여러분들을 찾아갈 것\\\"이라고 공식 발표했다.\n이번 광고로 제니퍼 애니스톤이 받는 금액은 5백만 달러(한화 약 58억 원)에 이르는 것으로 뉴욕포스트는 분석했다.\n한편 제니퍼 애니스톤은 지난 1998년 지인들의 소개로 브래드 피트와 첫 만남, 이후 2000년 결혼식을 올렸으나 2005년에 이혼했다.\n그리고 지난 2010년 영화 '원더리스트'를 통해 만난 저스틴 서룩스와 연인 사이로 발전했고 지난 6일 백년가약을 맺었다.\n온라인 중앙일보 [사진 영화 '저스트 고 위드 잇' 스틸컷]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "할리우드 배우 제니퍼 애니스톤이 5백만 달러(한화 약 58억 원)의 광고를 체결했다고 영국 연예매체 피플이 지난 9일(이하 현지시각) 보도했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "보도에 따르면 제니퍼 애니스톤은 최근 에미레이트 항공사와 광고를 체결했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연인 저스틴 서룩스와의 결혼식 바로 전 날이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "에미레이트 항공사 측은 \\\"에미레이트 항공사와 제니퍼 애니스톤이 함께 일하게 됐다. 애니스톤은 전 세계에 방송되는 광고에 모델로 여러분들을 찾아갈 것\\\"이라고 공식 발표했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 광고로 제니퍼 애니스톤이 받는 금액은 5백만 달러(한화 약 58억 원)에 이르는 것으로 뉴욕포스트는 분석했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 제니퍼 애니스톤은 지난 1998년 지인들의 소개로 브래드 피트와 첫 만남, 이후 2000년 결혼식을 올렸으나 2005년에 이혼했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그리고 지난 2010년 영화 '원더리스트'를 통해 만난 저스틴 서룩스와 연인 사이로 발전했고 지난 6일 백년가약을 맺었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 영화 '저스트 고 위드 잇' 스틸컷]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "58억 원짜리 광고 체결한 연예인 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

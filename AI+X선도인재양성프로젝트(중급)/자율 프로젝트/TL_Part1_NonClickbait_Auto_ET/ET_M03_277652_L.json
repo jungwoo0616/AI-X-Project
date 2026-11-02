@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277652",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "윌 스미스 아들의 간절한 소원, \\\"K팝 스타가 되고 싶어요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 윌 스미스(48)의 아들 제이든 스미스(18)가 K팝 스타가 되고 싶다는 소망을 드러냈다.\n지난 20, 21일 제이든 스미스는 자신의 트위터에 \\\"K팝 스타가 되고 싶다\\\"는 글을 게시했다.\n제이든 스미스는 20일 \\\"나는 그저 K팝 스타가 되고 싶을 뿐\\\"이라는 글과 함께 본인의 최신곡 'Fallen' 뮤직비디오 영상을 올렸다.\n이어 제이든 스미스는 21일 \\\"진심이다. 나는 정말로 K팝 스타가 되고 싶다\\\"는 글을 연이어 올리며 K팝 스타가 되고 싶은 간절한 소망을 드러냈다.\n한편 제이든 스미스는 아버지 윌 스미스와 함께 주연으로 출연한 영화 '애프터 어스' 홍보차 지난 2013년 5월 내한한 바 있다.\n지금은 아버지를 따라 영화배우의 길을 걷고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 윌 스미스(48)의 아들 제이든 스미스(18)가 K팝 스타가 되고 싶다는 소망을 드러냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20, 21일 제이든 스미스는 자신의 트위터에 \\\"K팝 스타가 되고 싶다\\\"는 글을 게시했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제이든 스미스는 20일 \\\"나는 그저 K팝 스타가 되고 싶을 뿐\\\"이라는 글과 함께 본인의 최신곡 'Fallen' 뮤직비디오 영상을 올렸다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 제이든 스미스는 21일 \\\"진심이다. 나는 정말로 K팝 스타가 되고 싶다\\\"는 글을 연이어 올리며 K팝 스타가 되고 싶은 간절한 소망을 드러냈다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 제이든 스미스는 아버지 윌 스미스와 함께 주연으로 출연한 영화 '애프터 어스' 홍보차 지난 2013년 5월 내한한 바 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지금은 아버지를 따라 영화배우의 길을 걷고 있다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윌 스미스 아들의 간절한 소원, \\\"K팝 스타가 되고 싶어요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

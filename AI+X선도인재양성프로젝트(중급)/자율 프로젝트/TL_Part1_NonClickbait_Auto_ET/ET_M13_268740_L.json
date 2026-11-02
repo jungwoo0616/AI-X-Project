@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268740",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘음중’ (여자)아이들 미연, 봄 감성 Drive",
+		"newsSubTitle": "",
+		"newsContent": "(여자)아이들 미연이 봄 감성이 가득한 솔로 무대를 선보였다.\n미연은 지난 30일 방송된 MBC ‘쇼! 음악중심’에서 첫 번째 미니앨범 ‘MY’의 타이틀곡 ‘Drive’로 솔로 데뷔 무대를 꾸몄다.\n이날 방송에서 미연은 핫 핑크색의 화려한 캉캉 치마를 포인트로 시선을 사로잡았으며, 봄의 감성을 물씬 풍기며 솔로 데뷔 무대를 완벽하게 소화했다.\n무대가 진행될수록 미연의 청량하면서도 힘 있는 보컬이 무대의 몰입감을 높였고, 미연 특유의 사랑스러운 제스쳐와 무대 매너는 시청자들의 눈과 귀를 매료시켰다.\n타이틀곡 ‘Drive’는 감성적인 분위기를 더하는 기타 사운드와 미연의 맑고 청량한 보컬이 만난 곡으로 자신의 색깔을 지키며 나아가려는 마음을 잃지 말자는 메시지를 담은 곡이다.\n지난 27일 발매된 미연의 미니앨범 ‘MY’는 아이튠즈 톱 앨범(Top Album) 부문에서 터키, 멕시코, 싱가포르, 대만 등 22개 지역에서 1위에 이름을 올리며 전세계 차트를 접수했고, 국내 음원 사이트인 벅스 실시간 차트에서 1위를 차지 멜론, 지니 차트에도 상위권으로 진입하며 성공적인 솔로 데뷔를 알렸다.\n한편, 미연은 신곡 ‘Drive’로 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "(여자)아이들 미연이 봄 감성이 가득한 솔로 무대를 선보였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미연은 지난 30일 방송된 MBC ‘쇼! 음악중심’에서 첫 번째 미니앨범 ‘MY’의 타이틀곡 ‘Drive’로 솔로 데뷔 무대를 꾸몄다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 미연은 핫 핑크색의 화려한 캉캉 치마를 포인트로 시선을 사로잡았으며, 봄의 감성을 물씬 풍기며 솔로 데뷔 무대를 완벽하게 소화했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무대가 진행될수록 미연의 청량하면서도 힘 있는 보컬이 무대의 몰입감을 높였고, 미연 특유의 사랑스러운 제스쳐와 무대 매너는 시청자들의 눈과 귀를 매료시켰다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘Drive’는 감성적인 분위기를 더하는 기타 사운드와 미연의 맑고 청량한 보컬이 만난 곡으로 자신의 색깔을 지키며 나아가려는 마음을 잃지 말자는 메시지를 담은 곡이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 27일 발매된 미연의 미니앨범 ‘MY’는 아이튠즈 톱 앨범(Top Album) 부문에서 터키, 멕시코, 싱가포르, 대만 등 22개 지역에서 1위에 이름을 올리며 전세계 차트를 접수했고, 국내 음원 사이트인 벅스 실시간 차트에서 1위를 차지 멜론, 지니 차트에도 상위권으로 진입하며 성공적인 솔로 데뷔를 알렸다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 미연은 신곡 ‘Drive’로 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘음중’ (여자)아이들 미연, 봄 감성 Drive",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170424",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "홍윤화 \\\"낭만 있는 곳에서 셀프웨딩 하고 싶어\\\"",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 홍윤화가 남자친구 김민기와 셀프웨딩을 하고 싶다는 소망을 드러냈다.\n지난 26일 홍윤화는 MBN스타와의 인터뷰에서 지난해 시구 프러포즈를 했던 김민기에 대한 속마음을 털어놨다.\n그는 \\\"결혼은 아직 마음만 먹고 있다. 내년에 날 좋은날 하지 않을까\\\"라며 \\\"하나부터 열까지 따져야 할 부분이 정말 많더라\\\"고 말했다.\n이어 \\\"그냥 주차가 편하고 음식 맛있는 곳에서 하객들의 기분 좋은 축하 속에 소소하게 진행하고 싶다\\\"며 \\\"둘만의 낭만이 있는 곳에서 따로 셀프웨딩을 올리고 싶다\\\"고 덧붙였다.\n홍윤화와 김민기는 지난 25일 방송된 SBS '웃음을 찾는 사람들' 속 한 코너에서 양가 부모님을 모시고 상견례를 이미 마쳤다고 말해 화제를 모은 바 있다.\n이들은 지난 2010년부터 교제를 시작해 올해로 8년째 사랑을 이어오고 있는 장수 커플이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 홍윤화가 남자친구 김민기와 셀프웨딩을 하고 싶다는 소망을 드러냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 26일 홍윤화는 MBN스타와의 인터뷰에서 지난해 시구 프러포즈를 했던 김민기에 대한 속마음을 털어놨다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"결혼은 아직 마음만 먹고 있다. 내년에 날 좋은날 하지 않을까\\\"라며 \\\"하나부터 열까지 따져야 할 부분이 정말 많더라\\\"고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"그냥 주차가 편하고 음식 맛있는 곳에서 하객들의 기분 좋은 축하 속에 소소하게 진행하고 싶다\\\"며 \\\"둘만의 낭만이 있는 곳에서 따로 셀프웨딩을 올리고 싶다\\\"고 덧붙였다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "홍윤화와 김민기는 지난 25일 방송된 SBS '웃음을 찾는 사람들' 속 한 코너에서 양가 부모님을 모시고 상견례를 이미 마쳤다고 말해 화제를 모은 바 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들은 지난 2010년부터 교제를 시작해 올해로 8년째 사랑을 이어오고 있는 장수 커플이다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그우먼 홍윤화, 둘만 있는 은밀한 곳에서 셀프 웨딩 올리고 싶다고 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

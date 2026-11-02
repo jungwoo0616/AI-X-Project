@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283620",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "오 마이 비너스 소지섭, 이상형 \\\"머리카락 길고 돈 많은 여자\\\"?",
+		"newsSubTitle": "",
+		"newsContent": "'오 마이 비너스'(이하 '오마비')에 출연해 화제를 모으고 있는 소지섭의 이상형 발언이 재조명되고 있다.\n소지섭은 과거 방송된 KBS '연예가중계'에서 이상형을 묻는 질문에 \\\"나를 많이 이해해주고 배려있는 사람이었으면 좋겠다\\\"고 대답했다.\n이어 소지섭은 \\\"키는 168cm 정도 였으면 좋겠다. 머리카락은 길었으면 좋겠다. 그래야 나중에 자를 수 있지 않나\\\"고 밝혔다.\n또 소지섭은 \\\"착한 여자와 돈 많은 여자 중 누가 좋냐\\\"는 물음에 \\\"착하고 돈 많은 여자\\\"라고 털어 놓아 웃음을 자아냈다.\n한편 소지섭은 KBS2 '오 마이 비너스'에 김영호 역으로 출연한다. '오 마이 비너스'는 오는 16일 오후 10시에 첫 전파를 탄다.\n온라인 중앙일보 [사진 일간스포츠] 오 마이 비너스 소지섭",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'오 마이 비너스'(이하 '오마비')에 출연해 화제를 모으고 있는 소지섭의 이상형 발언이 재조명되고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소지섭은 과거 방송된 KBS '연예가중계'에서 이상형을 묻는 질문에 \\\"나를 많이 이해해주고 배려있는 사람이었으면 좋겠다\\\"고 대답했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 소지섭은 \\\"키는 168cm 정도 였으면 좋겠다. 머리카락은 길었으면 좋겠다. 그래야 나중에 자를 수 있지 않나\\\"고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 소지섭은 \\\"착한 여자와 돈 많은 여자 중 누가 좋냐\\\"는 물음에 \\\"착하고 돈 많은 여자\\\"라고 털어 놓아 웃음을 자아냈다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 소지섭은 KBS2 '오 마이 비너스'에 김영호 역으로 출연한다. '오 마이 비너스'는 오는 16일 오후 10시에 첫 전파를 탄다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠] 오 마이 비너스 소지섭",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오 마이 비너스 소지섭, 이상형 \\\"머리카락 길고 돈 많은 여자\\\"?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

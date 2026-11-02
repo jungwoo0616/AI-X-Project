@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265955",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이현, 10일 ‘비긴어게인 오픈마이크’ 통영 버스킹 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "가수 이현이 ‘비긴어게인 오픈마이크’에 출연을 예고했다.\n이현은 오는 10일(일) 오후 6시 40분에 방송되는 JTBC 음악 프로그램 ‘비긴어게인 오픈마이크’를 통해 힐링 보이스를 선사한다.\n이번 촬영은 따스한 햇살이 내리쬐는 통영의 한 바닷가에서 진행됐으며 이현은 본인의 대표곡을 비롯해 다른 출연진들과 호흡을 맞춘 특별한 듀엣 무대 등 다채로운 공연을 펼쳤다.\n이날 이현은 최고의 보컬리스트다운 기량을 뽐내며 바닷가를 낭만으로 물들였다는 후문이다. ‘비긴어게인 오픈마이크’는 국내 최고 뮤지션들의 라이브 버스킹 현장을 담아낸 음악 콘텐츠다.\n이현의 출연분은 오는 10일 오후 6시 40분 JTBC 채널을 통해 방영되며 본 방송에서 다 담지 못한 무대는 ‘비긴어게인’ 유튜브 채널에서 만나볼 수 있다.\n한편, 이현은 지난해 7월 신곡 ‘바닷속의 달’을 발표하고 활발한 활동을 펼쳤으며 개인 유튜브 채널 ‘혀니콤보TV’를 통해 꾸준히 팬들과 소통하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이현이 ‘비긴어게인 오픈마이크’에 출연을 예고했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이현은 오는 10일(일) 오후 6시 40분에 방송되는 JTBC 음악 프로그램 ‘비긴어게인 오픈마이크’를 통해 힐링 보이스를 선사한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 촬영은 따스한 햇살이 내리쬐는 통영의 한 바닷가에서 진행됐으며 이현은 본인의 대표곡을 비롯해 다른 출연진들과 호흡을 맞춘 특별한 듀엣 무대 등 다채로운 공연을 펼쳤다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 이현은 최고의 보컬리스트다운 기량을 뽐내며 바닷가를 낭만으로 물들였다는 후문이다. ‘비긴어게인 오픈마이크’는 국내 최고 뮤지션들의 라이브 버스킹 현장을 담아낸 음악 콘텐츠다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이현의 출연분은 오는 10일 오후 6시 40분 JTBC 채널을 통해 방영되며 본 방송에서 다 담지 못한 무대는 ‘비긴어게인’ 유튜브 채널에서 만나볼 수 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 이현은 지난해 7월 신곡 ‘바닷속의 달’을 발표하고 활발한 활동을 펼쳤으며 개인 유튜브 채널 ‘혀니콤보TV’를 통해 꾸준히 팬들과 소통하고 있다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이현, 10일 ‘비긴어게인 오픈마이크’ 통영 버스킹 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

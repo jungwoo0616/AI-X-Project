@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258789",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신화 앤디 예비신부, 제주 MBC 이은주 아나운서",
+		"newsSubTitle": "",
+		"newsContent": "아이돌그룹 신화 앤디 예비신부가 공개됐다.\n앤디 소속사 관계자는 20일 “앤디의 예비신부는 제주 MBC 이은주 아나운서”라고 언론에 밝혔다.\n앤디는 지난 19일 결혼을 발표했다.\n앤디 예비신부 이은주 아나운서는 1990년생으로, 1981년생인 앤디보다 9살 연하다.\n이은주 아나운서는 서울여자대학교 언론영상학부 출신이다.\n그는 현재 제주 MBC에서 ‘뉴스데스크’, 라디오 등을 진행하고 있다.\n앤디는 1998년 신화로 데뷔했다.\n최근 ‘땡스 골프’, ‘아이돌 다방’, ‘세빌리아의 이발사’ 등 방송에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌그룹 신화 앤디 예비신부가 공개됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앤디 소속사 관계자는 20일 “앤디의 예비신부는 제주 MBC 이은주 아나운서”라고 언론에 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앤디는 지난 19일 결혼을 발표했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앤디 예비신부 이은주 아나운서는 1990년생으로, 1981년생인 앤디보다 9살 연하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이은주 아나운서는 서울여자대학교 언론영상학부 출신이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 현재 제주 MBC에서 ‘뉴스데스크’, 라디오 등을 진행하고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앤디는 1998년 신화로 데뷔했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 ‘땡스 골프’, ‘아이돌 다방’, ‘세빌리아의 이발사’ 등 방송에 출연했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신화 앤디 예비신부, 제주 MBC 이은주 아나운서",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

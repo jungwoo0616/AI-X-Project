@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268623",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "브레이브걸스 민영, 소속사에 발끈한 이유",
+		"newsSubTitle": "",
+		"newsContent": "그룹 브레이브걸스의 멤버 민영이 팬클럽 가입비 제도에 소신을 밝혔다.\n최근 브레이브걸스 민영이 팬들과 나눈 유니버스(유료 메시지 소통 앱) 내용이 여러 온라인 커뮤니티에서 화제가 됐다.\n해당 메시지는 지난해 11월 민영이 팬들에게 보낸 메시지로, 민영은 “공식 팬클럽 모집 소식을 들었다. 혹시 가입비가 있나”라고 물었다.\n팬들의 대답을 들은 민영은 “그걸 왜 내나, 원래 내야 하나”라며 “팬 하는데 왜 돈을 내나, 다른 가수들 팬클럽이 낸다고 우리도 다 내야 하나, 우린 달라도 되는 것 아닌가”라고 했다.\n그는 “내가 가입비를 깎아달라고 해보겠다”며 “진짜 싫다. 팬들 자꾸 돈 쓰게 하는 거 짜증 난다. 남들 다 한다고 똑같이 하는 것도 웃기다. 법으로 정해진 것도 아닌데”라면서 “우리가 누구 때문에 여기까지 왔는데 팬을 돈 받고 가입시키나”라며 “내가 이상한 건가 싶다. 아무튼 항상 미안하고 고맙다”고 덧붙였다.\n앞서 소속사 브레이브 엔터테인먼트는 지난해 11월 브레이브걸스의 공식 팬카페 및 SNS를 통해 공식 팬클럽 ‘Fearless(피어레스)’ 1기 모집 안내 공지를 게재하며 공식 팬클럽 창단 소식을 알렸다.\n한편 민영이 속한 브레이브걸스는 현재 Mnet 예능 프로그램 ‘퀸덤2’에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 브레이브걸스의 멤버 민영이 팬클럽 가입비 제도에 소신을 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 브레이브걸스 민영이 팬들과 나눈 유니버스(유료 메시지 소통 앱) 내용이 여러 온라인 커뮤니티에서 화제가 됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 메시지는 지난해 11월 민영이 팬들에게 보낸 메시지로, 민영은 “공식 팬클럽 모집 소식을 들었다. 혹시 가입비가 있나”라고 물었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들의 대답을 들은 민영은 “그걸 왜 내나, 원래 내야 하나”라며 “팬 하는데 왜 돈을 내나, 다른 가수들 팬클럽이 낸다고 우리도 다 내야 하나, 우린 달라도 되는 것 아닌가”라고 했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “내가 가입비를 깎아달라고 해보겠다”며 “진짜 싫다. 팬들 자꾸 돈 쓰게 하는 거 짜증 난다. 남들 다 한다고 똑같이 하는 것도 웃기다. 법으로 정해진 것도 아닌데”라면서 “우리가 누구 때문에 여기까지 왔는데 팬을 돈 받고 가입시키나”라며 “내가 이상한 건가 싶다. 아무튼 항상 미안하고 고맙다”고 덧붙였다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 소속사 브레이브 엔터테인먼트는 지난해 11월 브레이브걸스의 공식 팬카페 및 SNS를 통해 공식 팬클럽 ‘Fearless(피어레스)’ 1기 모집 안내 공지를 게재하며 공식 팬클럽 창단 소식을 알렸다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 민영이 속한 브레이브걸스는 현재 Mnet 예능 프로그램 ‘퀸덤2’에 출연 중이다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브레이브걸스 민영, 소속사에 발끈한 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

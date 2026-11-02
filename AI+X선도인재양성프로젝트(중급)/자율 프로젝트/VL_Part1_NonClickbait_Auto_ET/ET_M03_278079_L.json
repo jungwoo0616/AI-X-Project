@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278079",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'마리텔' 모르모트 PD, 유아인 따라잡기 \\\"어이가 없네\\\"에 시청자도 '어이상실'",
+		"newsSubTitle": "",
+		"newsContent": "11일 방송된 MBC '마이 리틀 텔레비전' (이하 ‘마리텔’)서 그려진 모르모트PD의 연기 연습이 시청자들에게 폭소를 안겼다.\n이 날 전지현·조인성·박보검 등 톱스타의 연기를 지도한 것으로 알려진 '안타리우스' 안혁모는 모르모트PD의 연기 교정에 나섰다.\n그는 모르모트PD에 영화 '베테랑' 속 유아인의 재벌2세 역 연기를 제안했다.\n모르모트PD는 화제가 됐던 유아인의 명대사를 읽어내려갔다.\n그가 “기사님 맷돌 손잡이 알아요?”라며 연기를 시작하자 시청자들은 폭소를 터뜨렸다.\n이어 모르모트PD가 “어이가 없네\\\"라며 연기를 이어나가자 시청자들은 \\\"어의가 없네\\\" \\\"어의는 임금님 의사인데\\\"“감정이 없네?”“영혼이 없네”등의 즐겁다는 반응을 보였다.\n한편, '마리텔'은 매주 토요일 오후 11시 15분에 방송된다.\n온라인 중앙일보 [사진 MBC '마이 리틀 텔레비전' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "11일 방송된 MBC '마이 리틀 텔레비전' (이하 ‘마리텔’)서 그려진 모르모트PD의 연기 연습이 시청자들에게 폭소를 안겼다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 날 전지현·조인성·박보검 등 톱스타의 연기를 지도한 것으로 알려진 '안타리우스' 안혁모는 모르모트PD의 연기 교정에 나섰다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 모르모트PD에 영화 '베테랑' 속 유아인의 재벌2세 역 연기를 제안했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모르모트PD는 화제가 됐던 유아인의 명대사를 읽어내려갔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그가 “기사님 맷돌 손잡이 알아요?”라며 연기를 시작하자 시청자들은 폭소를 터뜨렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 모르모트PD가 “어이가 없네\\\"라며 연기를 이어나가자 시청자들은 \\\"어의가 없네\\\" \\\"어의는 임금님 의사인데\\\"“감정이 없네?”“영혼이 없네”등의 즐겁다는 반응을 보였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, '마리텔'은 매주 토요일 오후 11시 15분에 방송된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC '마이 리틀 텔레비전' 캡처]",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'마리텔' 모르모트 PD, 유아인 따라잡기 \\\"어이가 없네\\\"에 시청자도 '어이상실'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

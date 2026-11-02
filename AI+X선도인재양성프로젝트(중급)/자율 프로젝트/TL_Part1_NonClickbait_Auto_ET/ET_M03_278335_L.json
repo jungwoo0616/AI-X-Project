@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278335",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'런닝맨' 이완, \\\"김태희 예쁜줄 모르겠다…집에선 굉장히 추해\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'런닝맨'에 출연한 이완이 화제인 가운데 이완이 과거 자신의 누나인 배우 김태희를 언급했던 것도 눈길을 끈다.\n이완은 과거 방송된 SBS '야심만만'에 출연해 누나인 배우 김태희에 대해 \\\"누나는 평소 집에서 굉장히 추하다. 실물보다 화면이 더 낫다\\\"며 말문을 열었다..\n이어서 이완은 \\\"누나는 내게 3번까지 경고한 후 발로 찬다\\\"며 \\\"발 힘이 엄청 좋다. 맞으면 너무 아파 5초 동안 소리가 안 나올 정도\\\"라고 폭로했다.\n한편 이완은 지난 27일 방영된 SBS '런닝맨'에 출연했다.\n이날 방송에서 이완은 \\\"누나가 예쁘다고들 하시는데 나는 잘 모르겠다\\\"라고 말해 눈길을 끌었다.\n온라인 중앙일보 [사진 SBS '야심만만' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'런닝맨'에 출연한 이완이 화제인 가운데 이완이 과거 자신의 누나인 배우 김태희를 언급했던 것도 눈길을 끈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이완은 과거 방송된 SBS '야심만만'에 출연해 누나인 배우 김태희에 대해 \\\"누나는 평소 집에서 굉장히 추하다. 실물보다 화면이 더 낫다\\\"며 말문을 열었다..",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어서 이완은 \\\"누나는 내게 3번까지 경고한 후 발로 찬다\\\"며 \\\"발 힘이 엄청 좋다. 맞으면 너무 아파 5초 동안 소리가 안 나올 정도\\\"라고 폭로했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 이완은 지난 27일 방영된 SBS '런닝맨'에 출연했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에서 이완은 \\\"누나가 예쁘다고들 하시는데 나는 잘 모르겠다\\\"라고 말해 눈길을 끌었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS '야심만만' 캡처]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'런닝맨' 이완, \\\"김태희 예쁜줄 모르겠다…집에선 굉장히 추해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

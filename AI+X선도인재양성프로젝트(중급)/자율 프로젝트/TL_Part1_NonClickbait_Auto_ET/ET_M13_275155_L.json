@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275155",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지드래곤, 블랙핑크 제니 영상에 버젓이 누른 ‘좋아요’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅(Bigbang)의 멤버 지드래곤이 블랙핑크 멤버 제니의 영상을 좋아요를 표시해 화제가 됐다.\n지난 9일, 한 온라인 커뮤니티에서 누리꾼 A씨는 지드래곤이 한 인스타그램의 사용자 계정에 자신과 제니의 영상에 좋아요를 표시했다고 글을 게재했다.\nA씨는 업로드 17시간 만에 지드래곤이 해당 영상을 좋아요를 눌렀다고 설명했다.\n다만 지드래곤은 제니뿐만 아니라 산다라박, 아이유 등 평소 친분이 있는 가수들의 영상에 좋아요를 누른 것이 밝혀졌다.\n이는 금세 다수의 온라인 커뮤니티로 퍼졌고, 해당 게시물은 곧 150,000건 이상의 조회수를 기록했다.\n현재 인스타그램 사용자의 계정은 삭제됐다.\n한편 지드래곤이 속한 빅뱅은 지난 4월에 4년 만의 신곡 ‘봄여름가을겨울’(Still Life)을 발매했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅(Bigbang)의 멤버 지드래곤이 블랙핑크 멤버 제니의 영상을 좋아요를 표시해 화제가 됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 9일, 한 온라인 커뮤니티에서 누리꾼 A씨는 지드래곤이 한 인스타그램의 사용자 계정에 자신과 제니의 영상에 좋아요를 표시했다고 글을 게재했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 업로드 17시간 만에 지드래곤이 해당 영상을 좋아요를 눌렀다고 설명했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만 지드래곤은 제니뿐만 아니라 산다라박, 아이유 등 평소 친분이 있는 가수들의 영상에 좋아요를 누른 것이 밝혀졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 금세 다수의 온라인 커뮤니티로 퍼졌고, 해당 게시물은 곧 150,000건 이상의 조회수를 기록했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 인스타그램 사용자의 계정은 삭제됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지드래곤이 속한 빅뱅은 지난 4월에 4년 만의 신곡 ‘봄여름가을겨울’(Still Life)을 발매했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지드래곤, 블랙핑크 제니 영상에 버젓이 누른 ‘좋아요’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

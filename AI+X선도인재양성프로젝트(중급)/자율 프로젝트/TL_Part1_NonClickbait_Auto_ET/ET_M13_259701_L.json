@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259701",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "수란이 부른 ‘트레이서’",
+		"newsSubTitle": "",
+		"newsContent": "임시완 주연의 웨이브 오리지널 ‘트레이서’(각본: 김현정 | 감독: 이승영 | 제작: 웨스트월드스토리)의 여섯 번째 OST에 가수 SURAN(수란)이 참여하는 가운데, SURAN이 부른 ‘One & Only’가 29일(오늘) 오후 6시 발매된다.\n실력파 보컬리스트이자 싱어송라이터인 SURAN이 가창자로 나선 ‘One & Only’는 서로 숨기고 숨기는 소리 없는 전쟁 속에, 숨겨온 불타는 복수심을 드러내는 곡이다.\n무겁게 깔리는 808베이스와 파국적인 피아노 리프, 현악기가 리드하는 사운드의 이 곡은, SURAN의 신비롭고 날카로운 목소리와 어우러져 완성도 높은 음악으로 탄생했다.\n최고 시청률 10.8%를 달성하며 거침없는 상승세로 3주 연속 금토극 1위 자리를 지키고 있는 ‘트레이서’는 웨이브 이용자 수 기준 금토 연속 일일 드라마 시청률 1위를 기록하며, 웨이브 신규 가입자 견인 1위 콘텐츠로 등극해 이목을 집중시키고 있다.\n나쁜 돈 쫓는 독한 놈의 통쾌한 추적 활극 ‘트레이서’는 웨이브에서 매주 금요일에 2회차씩 공개되며 MBC에서는 매주 금요일과 토요일 오후 9시 50분에 방송된다.\n한편 ‘트레이서’는 29일(오늘) 시즌1 마지막회를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "임시완 주연의 웨이브 오리지널 ‘트레이서’(각본: 김현정 | 감독: 이승영 | 제작: 웨스트월드스토리)의 여섯 번째 OST에 가수 SURAN(수란)이 참여하는 가운데, SURAN이 부른 ‘One & Only’가 29일(오늘) 오후 6시 발매된다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "실력파 보컬리스트이자 싱어송라이터인 SURAN이 가창자로 나선 ‘One & Only’는 서로 숨기고 숨기는 소리 없는 전쟁 속에, 숨겨온 불타는 복수심을 드러내는 곡이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "무겁게 깔리는 808베이스와 파국적인 피아노 리프, 현악기가 리드하는 사운드의 이 곡은, SURAN의 신비롭고 날카로운 목소리와 어우러져 완성도 높은 음악으로 탄생했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최고 시청률 10.8%를 달성하며 거침없는 상승세로 3주 연속 금토극 1위 자리를 지키고 있는 ‘트레이서’는 웨이브 이용자 수 기준 금토 연속 일일 드라마 시청률 1위를 기록하며, 웨이브 신규 가입자 견인 1위 콘텐츠로 등극해 이목을 집중시키고 있다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "나쁜 돈 쫓는 독한 놈의 통쾌한 추적 활극 ‘트레이서’는 웨이브에서 매주 금요일에 2회차씩 공개되며 MBC에서는 매주 금요일과 토요일 오후 9시 50분에 방송된다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘트레이서’는 29일(오늘) 시즌1 마지막회를 앞두고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수란이 부른 ‘트레이서’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

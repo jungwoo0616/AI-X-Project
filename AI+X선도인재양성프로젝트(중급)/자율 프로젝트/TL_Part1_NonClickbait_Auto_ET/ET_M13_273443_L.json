@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273443",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘언플논란’ 한그루, 손석구와 한솥밥",
+		"newsSubTitle": "",
+		"newsContent": "배우 한그루가 약 7년 만의 복귀를 담금질하고 있다.\n연예기획사 샛별당 엔터테인먼트에 따르면 한그루는 최근 전속계약을 완료하고 활동 재개를 준비 중이다.\n한그루의 매니지먼트 업무를 진행할 샛별당 엔터테인먼트는 최근 대세로 떠오른 배우 손석구를 비롯해 배우 김혜인, 여민주, 한지현 등이 소속돼 있는 배우 전문 연예기획사다.\n한그루는 2011년 1월 작곡가 주영훈의 지휘 아래 첫 앨범을 내며 연예계에 데뷔했으나 그해 8월 첫 연기에 도전한 이후 연기자로 전향했다.\n다수의 작품으로 안정적인 연기력을 펼쳤던 그는 2015년 11월 9살 연상의 사업가와 결혼한 이후 현재까지 활동을 멈춰왔다.\n슬하에 쌍둥이 딸과 아들을 두고 있다.\n결혼 당시 연예계 은퇴를 시사했으나 샛별당 엔터테인먼트와 전속계약을 체결하고 복귀를 준비하고 있는 것이다.\n특히 결혼 직후 불거진 ‘언플 논란’ 등이 크게 작용한 것으로 추측됐다.\n한그루는 여러 예능 프로그램 등에 출연해 명문대 출신 형제를 언급하며 ‘엄친딸’ 이미지를 구축했으나 자신을 의붓언니라고 주장하는 A씨가 한그루의 결혼식에도 참석하지 않았음을 알리며 한그루의 주장을 일축했다.\n이후 한그루는 사과 입장을 냈다.\n한그루는 인스타그램에 최근까지 자신의 일상을 올려오며 결혼생활을 공개해오고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한그루가 약 7년 만의 복귀를 담금질하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연예기획사 샛별당 엔터테인먼트에 따르면 한그루는 최근 전속계약을 완료하고 활동 재개를 준비 중이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한그루의 매니지먼트 업무를 진행할 샛별당 엔터테인먼트는 최근 대세로 떠오른 배우 손석구를 비롯해 배우 김혜인, 여민주, 한지현 등이 소속돼 있는 배우 전문 연예기획사다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한그루는 2011년 1월 작곡가 주영훈의 지휘 아래 첫 앨범을 내며 연예계에 데뷔했으나 그해 8월 첫 연기에 도전한 이후 연기자로 전향했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다수의 작품으로 안정적인 연기력을 펼쳤던 그는 2015년 11월 9살 연상의 사업가와 결혼한 이후 현재까지 활동을 멈춰왔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슬하에 쌍둥이 딸과 아들을 두고 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결혼 당시 연예계 은퇴를 시사했으나 샛별당 엔터테인먼트와 전속계약을 체결하고 복귀를 준비하고 있는 것이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 결혼 직후 불거진 ‘언플 논란’ 등이 크게 작용한 것으로 추측됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한그루는 여러 예능 프로그램 등에 출연해 명문대 출신 형제를 언급하며 ‘엄친딸’ 이미지를 구축했으나 자신을 의붓언니라고 주장하는 A씨가 한그루의 결혼식에도 참석하지 않았음을 알리며 한그루의 주장을 일축했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이후 한그루는 사과 입장을 냈다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한그루는 인스타그램에 최근까지 자신의 일상을 올려오며 결혼생활을 공개해오고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘언플논란’ 한그루, 손석구와 한솥밥",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268238",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘세상에 이런일이’ 임성훈, 23년 만 첫 결근[공식]",
+		"newsSubTitle": "",
+		"newsContent": "SBS ‘순간포착 세상에 이런일이’ MC 임성훈이 23년 만에 처음으로 녹화에 불참했다.\n26일 SBS에 따르면 오늘 방송될 ‘세상에 이런일이’(이하 순간포착)에 MC 박소현이 ‘23년 단짝’ 임성훈 없이 홀로 등장한다. 23년간 단 한 번도 녹화에 빠지지 않고 ‘순간포착’ MC 자리를 지켰던 임성훈은 코로나19 확진 여파로 처음으로 자리를 비우게 됐다.\n앞서 이달 초 박소현이 코로나19 확진으로 불참한 데 이어 임성훈도 코로나19를 피해 가지 못했다.\n평소 건강에 자신이 있는 데다 지난 추석특집 방송에서 남다른 체력을 자랑하기도 했던 임성훈은 이번 녹화 불참에 큰 아쉬움을 드러내며 “건강에 자만하지 말아야겠다는 생각이 들었다”고 전했다.\n최근 녹화는 MC 박소현과 패널 이윤아 아나운서만이 참석해 진행했다.\n박소현은 단독 진행을 어색해하며 NG를 내는 등 임성훈의 공백을 아쉬워했다.\n제작진은 “박소현을 비롯해 제작진 모두 임성훈의 불참을 안타까워했다. 다만 ‘세상에 이런 일이’의 상징이기에 이날 방송을 통해 잠깐이라도 얼굴을 뵐 수 있을 것”이라고 했다.\n한편 SBS ‘순간포착 세상에 이런일이’는 26일(오늘) 오후 9시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS ‘순간포착 세상에 이런일이’ MC 임성훈이 23년 만에 처음으로 녹화에 불참했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 SBS에 따르면 오늘 방송될 ‘세상에 이런일이’(이하 순간포착)에 MC 박소현이 ‘23년 단짝’ 임성훈 없이 홀로 등장한다. 23년간 단 한 번도 녹화에 빠지지 않고 ‘순간포착’ MC 자리를 지켰던 임성훈은 코로나19 확진 여파로 처음으로 자리를 비우게 됐다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 이달 초 박소현이 코로나19 확진으로 불참한 데 이어 임성훈도 코로나19를 피해 가지 못했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "평소 건강에 자신이 있는 데다 지난 추석특집 방송에서 남다른 체력을 자랑하기도 했던 임성훈은 이번 녹화 불참에 큰 아쉬움을 드러내며 “건강에 자만하지 말아야겠다는 생각이 들었다”고 전했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 녹화는 MC 박소현과 패널 이윤아 아나운서만이 참석해 진행했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박소현은 단독 진행을 어색해하며 NG를 내는 등 임성훈의 공백을 아쉬워했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제작진은 “박소현을 비롯해 제작진 모두 임성훈의 불참을 안타까워했다. 다만 ‘세상에 이런 일이’의 상징이기에 이날 방송을 통해 잠깐이라도 얼굴을 뵐 수 있을 것”이라고 했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 SBS ‘순간포착 세상에 이런일이’는 26일(오늘) 오후 9시 방송된다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘세상에 이런일이’ 임성훈, 23년 만 첫 결근[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

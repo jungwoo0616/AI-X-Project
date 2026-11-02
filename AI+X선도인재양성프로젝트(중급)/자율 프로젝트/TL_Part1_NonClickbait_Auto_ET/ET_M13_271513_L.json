@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271513",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단 RM “잘 다녀오고 6월에 웃으면서 뵐게요”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단 RM이 조 바이든 미국 대통령과 만나는 소감을 전했다.\nRM은 지난 26일 팬 플랫폼 위버스를 통해 “어... 그렇게 됐다”며 “살다 보니 별일 다 생기는데 좋은 일로 다녀오는 거니까 잘 다녀오겠다”라고 전했다.\n그러면서 “저번에 미국 여행할 때 먼발치에서 보고만 왔는데 들어가 보게 됐다. 항상은 아니지만 여러분들이 해주시는 말들 다 알고 있고 또 듣고 보고 있으니 너무 걱정 마시라는 말씀드리고 싶다. 그게 뭐가 됐든 간에”라고 덧붙였다.\n끝으로 RM은 “잘 다녀오고 6월에 웃으며 뵙도록 하겠다”고 밝혔다. ‘아시아계 미국인 및 하와이/태평양 도서 원주민 유산의 달(AANHPI Heritage Month)’을 맞아 바이든 미국 대통령으로부터 초청을 받은 방탄소년단은 오는 31일(현지 시간) 백악관을 방문해 포용 및 다양성을 주제로 의견을 나눈다.\n방탄소년단은 바이든 미국 대통령과 최근 미국 내 심각한 사회 문제로 대두되고 있는 아시아계 대상 무차별 혐오범죄 및 차별에 대해 논의할 예정이다.\n한편 방탄소년단은 글로벌 영향력을 기반으로 전 세계를 향해 희망과 긍정의 메시지를 전하고 있다.\n이들은 ‘미래세대와 문화를 위한 대통령 특별사절’ 자격으로 작년 제76차 유엔총회(뉴욕)에 참석해 미래세대를 위한 연설자로 나섰고, 전 세계에 한국 문화를 알리는 ‘문화 사절’ 역할을 수행한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단 RM이 조 바이든 미국 대통령과 만나는 소감을 전했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "RM은 지난 26일 팬 플랫폼 위버스를 통해 “어... 그렇게 됐다”며 “살다 보니 별일 다 생기는데 좋은 일로 다녀오는 거니까 잘 다녀오겠다”라고 전했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “저번에 미국 여행할 때 먼발치에서 보고만 왔는데 들어가 보게 됐다. 항상은 아니지만 여러분들이 해주시는 말들 다 알고 있고 또 듣고 보고 있으니 너무 걱정 마시라는 말씀드리고 싶다. 그게 뭐가 됐든 간에”라고 덧붙였다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "끝으로 RM은 “잘 다녀오고 6월에 웃으며 뵙도록 하겠다”고 밝혔다. ‘아시아계 미국인 및 하와이/태평양 도서 원주민 유산의 달(AANHPI Heritage Month)’을 맞아 바이든 미국 대통령으로부터 초청을 받은 방탄소년단은 오는 31일(현지 시간) 백악관을 방문해 포용 및 다양성을 주제로 의견을 나눈다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단은 바이든 미국 대통령과 최근 미국 내 심각한 사회 문제로 대두되고 있는 아시아계 대상 무차별 혐오범죄 및 차별에 대해 논의할 예정이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 방탄소년단은 글로벌 영향력을 기반으로 전 세계를 향해 희망과 긍정의 메시지를 전하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이들은 ‘미래세대와 문화를 위한 대통령 특별사절’ 자격으로 작년 제76차 유엔총회(뉴욕)에 참석해 미래세대를 위한 연설자로 나섰고, 전 세계에 한국 문화를 알리는 ‘문화 사절’ 역할을 수행한 바 있다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 RM “잘 다녀오고 6월에 웃으면서 뵐게요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

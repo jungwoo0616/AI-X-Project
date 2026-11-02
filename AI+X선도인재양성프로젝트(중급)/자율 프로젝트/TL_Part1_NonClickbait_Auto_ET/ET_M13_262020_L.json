@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262020",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 마마무 솔라, 코로나19 확진 “모든일정 중단” (공식입장)",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 마마무 솔라가 24일 코로나 19 확진 판정을 받았다.\n소속사 RBW는 “솔라는 지난 23일 확진자 접촉 사실을 접한 후 진행한 자가 진단 키트 검사에서 양성 반응을 확인하여 곧바로 PCR 검사를 진행하였고, 24일 최종 양성 판정을 받았다”고 밝혔다.\n소속사는 “코로나 백신 3차까지 접종을 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 안정을 취하고 있다”고 전했다.\n또 “아티스트의 건강과 안전을 최우선으로 고려하여 솔라의 빠른 쾌유를 위해 최선을 다하겠다”고 덧붙였다.\n다음은 소속사 공식입장 전문 안녕하세요.\nRBW입니다.\n소속 아티스트 마마무 솔라가 코로나 19 확진 판정을 받아 안내드립니다.\n솔라는 지난 23일 확진자 접촉 사실을 접한 후 진행한 자가 진단 키트 검사에서 양성 반응을 확인하여 곧바로 PCR 검사를 진행하였고, 금일(24일) 최종 양성 판정을 받았습니다.\n솔라는 코로나 백신 3차까지 접종을 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 안정을 취하고 있습니다.\n팬 여러분께 심려를 끼쳐드린 점 사과드리며, 당사는 아티스트의 건강과 안전을 최우선으로 고려하여 솔라의 빠른 쾌유를 위해 최선을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 마마무 솔라가 24일 코로나 19 확진 판정을 받았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 RBW는 “솔라는 지난 23일 확진자 접촉 사실을 접한 후 진행한 자가 진단 키트 검사에서 양성 반응을 확인하여 곧바로 PCR 검사를 진행하였고, 24일 최종 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “코로나 백신 3차까지 접종을 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 안정을 취하고 있다”고 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “아티스트의 건강과 안전을 최우선으로 고려하여 솔라의 빠른 쾌유를 위해 최선을 다하겠다”고 덧붙였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음은 소속사 공식입장 전문 안녕하세요.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "RBW입니다.",
+				"sentenceSize": 7
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소속 아티스트 마마무 솔라가 코로나 19 확진 판정을 받아 안내드립니다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "솔라는 지난 23일 확진자 접촉 사실을 접한 후 진행한 자가 진단 키트 검사에서 양성 반응을 확인하여 곧바로 PCR 검사를 진행하였고, 금일(24일) 최종 양성 판정을 받았습니다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "솔라는 코로나 백신 3차까지 접종을 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 안정을 취하고 있습니다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "팬 여러분께 심려를 끼쳐드린 점 사과드리며, 당사는 아티스트의 건강과 안전을 최우선으로 고려하여 솔라의 빠른 쾌유를 위해 최선을 다하겠습니다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 마마무 솔라, 코로나19 확진 “모든일정 중단” (공식입장)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

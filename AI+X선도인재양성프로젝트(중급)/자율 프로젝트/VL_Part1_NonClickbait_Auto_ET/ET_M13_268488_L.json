@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268488",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "펜타곤 홍석, 입대 전 마지막 무대 갖는다",
+		"newsSubTitle": "",
+		"newsContent": "펜타곤 홍석이 입대를 앞두고 ‘엠카운트다운’에 출연한다.\n오늘(28일) 방송되는 Mnet ‘엠카운트다운’에 펜타곤 홍석이 출연해 스페셜 무대를 꾸밀 예정이다.\n앞서 홍석은 오는 5월 3일 입대 소식을 알렸으며. 입대 전 마지막으로 팬들에게 특별한 무대를 선사한다.\n홍석은 펜타곤 멤버로 그룹 활동뿐만 아니라 드라마 ‘불새 2020’, ‘무브 투 해븐: 나는 유품정리사입니다’, ‘블루버스데이’, ‘그림자 미녀’ 등에 출연해 다방면으로 폭넓은 연기 활동을 펼쳤다.\n또 최근 카카오TV 드라마 ‘아쿠아맨’에서 지성준 역으로 열연을 펼칠 예정이다.\n한편, 홍석이 출연하는 ‘엠카운트다운’은 오늘(28일) 오후 6시 Mnet을 통해 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "펜타곤 홍석이 입대를 앞두고 ‘엠카운트다운’에 출연한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(28일) 방송되는 Mnet ‘엠카운트다운’에 펜타곤 홍석이 출연해 스페셜 무대를 꾸밀 예정이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 홍석은 오는 5월 3일 입대 소식을 알렸으며. 입대 전 마지막으로 팬들에게 특별한 무대를 선사한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍석은 펜타곤 멤버로 그룹 활동뿐만 아니라 드라마 ‘불새 2020’, ‘무브 투 해븐: 나는 유품정리사입니다’, ‘블루버스데이’, ‘그림자 미녀’ 등에 출연해 다방면으로 폭넓은 연기 활동을 펼쳤다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 최근 카카오TV 드라마 ‘아쿠아맨’에서 지성준 역으로 열연을 펼칠 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 홍석이 출연하는 ‘엠카운트다운’은 오늘(28일) 오후 6시 Mnet을 통해 방송된다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "펜타곤 홍석, 입대 전 마지막 무대 갖는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

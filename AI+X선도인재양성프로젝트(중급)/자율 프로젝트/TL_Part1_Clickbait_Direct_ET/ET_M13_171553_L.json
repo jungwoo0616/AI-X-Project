@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171553",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "할리우드 스타 린제이 로한, 글로벌 투자은행 직원과 약혼",
+    "newsSubTitle": "",
+    "newsContent": "할리우드 배우 린제이 로한이 28일(현지시간) 약혼 사실을 공개했다고 CNN, USA투데이 등이 전했다.\n로한은 자신의 SNS에 약혼자 바더 샤마스와 찍은 사진 4장을 올리고 “내 사랑, 내 인생, 내 미래”라는 설명을 달았다.\n사진 속 로한은 왼손에 약혼반지를 낀 모습이다.\n약혼자 샤마스는 글로벌 투자은행 크레디트스위스 상무보급이라고 현지 언론은 전했다.\n린제이 로한과는 약 2년간 교제해온 것으로 알려졌다.\n로한은 1998년 디즈니 ‘페어런트 트랩’에서 일란성 쌍둥이 배역으로 인기를 얻었다.\n이후 ‘퀸카로 살아남는 법’ 주연으로 영화 흥행을 이끌면서 글로벌 스타로 뛰어올랐다.\n하지만 2007∼2010년 음주운전, 교통사고, 뺑소니뿐 아니라 절도, 마약 소지·밀반입 등 범죄로 법원을 드나들며 ‘할리우드 악동’이라는 이미지로 굳어졌다.\n린제이 로한은 최근 사생활 공개를 줄이고 조용한 일상을 이어왔었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "할리우드 배우 린제이 로한이 28일(현지시간) 약혼 사실을 공개했다고 CNN, USA투데이 등이 전했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "로한은 자신의 SNS에 약혼자 바더 샤마스와 찍은 사진 4장을 올리고 “내 사랑, 내 인생, 내 미래”라는 설명을 달았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 로한은 왼손에 약혼반지를 낀 모습이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "약혼자 샤마스는 글로벌 투자은행 크레디트스위스 상무보급이라고 현지 언론은 전했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "린제이 로한과는 약 2년간 교제해온 것으로 알려졌다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "로한은 1998년 디즈니 ‘페어런트 트랩’에서 일란성 쌍둥이 배역으로 인기를 얻었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 ‘퀸카로 살아남는 법’ 주연으로 영화 흥행을 이끌면서 글로벌 스타로 뛰어올랐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 2007∼2010년 음주운전, 교통사고, 뺑소니뿐 아니라 절도, 마약 소지·밀반입 등 범죄로 법원을 드나들며 ‘할리우드 악동’이라는 이미지로 굳어졌다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "린제이 로한은 최근 사생활 공개를 줄이고 조용한 일상을 이어왔었다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘할리우드 악동' 린제이 로한, 28일 '이것' 공개해 화제...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

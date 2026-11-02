@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281401",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "예지 미친개, \\\"내가 설마 X밥인데 아이돌을 하겠냐\\\"…'화끈한 가사+몸매 화제'",
+		"newsSubTitle": "",
+		"newsContent": "피에스타 예지가 산이와 호흡을 맞춘 '미친개'를 공개해 화제다.\n엠넷 ‘언프리티 랩스타 시즌 2’에서 뛰어난 랩 실력으로 화제가 된 예지가 11일 정오 각종 온라인 음악 사이트를 통해 ‘미친개(CRAZY DOG)’를 정식 발매됐다. '미친개'는 예지의 파워풀하고 단단한 랩핑이 담겨 있다.\n특히 눈길을 끄는 것은 가사. \\\"웃음 팔아 먹으면서 너 좀 살만하냐? 내가 설마 X밥인데 아이돌을 하겠냐\\\" \\\"내가 랩을 한단 이유로 까던 XX들은 내 슴부먼트 움짤에 바지를 적시는 중\\\"이라며 실제 자신의 이야기를 담았다.\n또 피처링으로 참여한 래퍼 산이의 래핑도 '미친개'를 더욱 강렬하게 만든다.\n산이는 \\\"그래 예지야 오빠랑 너 해보고 싶었다며. 실제 하게 되니 어때\\\" \\\"큰 가슴 보며 하고 싶었어 물론 랩\\\"이라는 가사를 통해 예지와의 스토리를 말하고 있다.\n한편 예지의 신곡 '미친개'는 최근 종영한 Mnet '언프리티 랩스타2'에서 공개됐으며, 산이는 이 무대를 보고 극찬한 바 있다.\n온라인 중앙일보 예지 미친개 [사진 맥심 영상 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "피에스타 예지가 산이와 호흡을 맞춘 '미친개'를 공개해 화제다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엠넷 ‘언프리티 랩스타 시즌 2’에서 뛰어난 랩 실력으로 화제가 된 예지가 11일 정오 각종 온라인 음악 사이트를 통해 ‘미친개(CRAZY DOG)’를 정식 발매됐다. '미친개'는 예지의 파워풀하고 단단한 랩핑이 담겨 있다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 눈길을 끄는 것은 가사. \\\"웃음 팔아 먹으면서 너 좀 살만하냐? 내가 설마 X밥인데 아이돌을 하겠냐\\\" \\\"내가 랩을 한단 이유로 까던 XX들은 내 슴부먼트 움짤에 바지를 적시는 중\\\"이라며 실제 자신의 이야기를 담았다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 피처링으로 참여한 래퍼 산이의 래핑도 '미친개'를 더욱 강렬하게 만든다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산이는 \\\"그래 예지야 오빠랑 너 해보고 싶었다며. 실제 하게 되니 어때\\\" \\\"큰 가슴 보며 하고 싶었어 물론 랩\\\"이라는 가사를 통해 예지와의 스토리를 말하고 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 예지의 신곡 '미친개'는 최근 종영한 Mnet '언프리티 랩스타2'에서 공개됐으며, 산이는 이 무대를 보고 극찬한 바 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 예지 미친개 [사진 맥심 영상 캡처]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "예지 미친개, \\\"내가 설마 X밥인데 아이돌을 하겠냐\\\"…'화끈한 가사+몸매 화제'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

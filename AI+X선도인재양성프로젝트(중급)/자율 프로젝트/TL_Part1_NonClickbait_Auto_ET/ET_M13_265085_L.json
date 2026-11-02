@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265085",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "개리, 리쌍 재결합설 부인?",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 개리가 힙합 듀오 리쌍의 재결합설에 부인하는 뉘앙스의 글을 올렸다.\n개리는 26일 자신의 인스타그램 스토리에 “사실무근 해체됨”이란 짧은 글을 남겼다.\n이는 전날부터 온라인 상에 급속히 확산된 리쌍의 재결합설을 반박한 것으로 보인다.\n이날 글로벌 음악 스트리밍 플랫폼 스포티파이에는 리쌍의 2022년 발매 앨범 ‘스위치(Switch)’라는 설명과 함께 앨범 커버가 등록됐다.\n이에 팬들은 리쌍이 20주년을 맞아 새 앨범을 발표하는 게 아니냐는 추측을 내놨다.\n개리와 길로 구성된 리쌍은 지난 2002년부터 활동하며 ‘광대’, ‘헤어지지 못하는 여자, 떠나가지 못하는 남자’, ‘내가 웃는 게 아니야’ 등 수많은 히트곡을 남겼으나 2015년 디지털 싱글 ‘주마등’을 끝으로 활동을 중단했다.\n길은 2017년 극비리에 결혼식을 올렸는데 당시 길이 이 사실을 몰랐다는 것이 알려지며 “사실상 해체”로 여겨졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 개리가 힙합 듀오 리쌍의 재결합설에 부인하는 뉘앙스의 글을 올렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개리는 26일 자신의 인스타그램 스토리에 “사실무근 해체됨”이란 짧은 글을 남겼다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전날부터 온라인 상에 급속히 확산된 리쌍의 재결합설을 반박한 것으로 보인다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 글로벌 음악 스트리밍 플랫폼 스포티파이에는 리쌍의 2022년 발매 앨범 ‘스위치(Switch)’라는 설명과 함께 앨범 커버가 등록됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 팬들은 리쌍이 20주년을 맞아 새 앨범을 발표하는 게 아니냐는 추측을 내놨다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개리와 길로 구성된 리쌍은 지난 2002년부터 활동하며 ‘광대’, ‘헤어지지 못하는 여자, 떠나가지 못하는 남자’, ‘내가 웃는 게 아니야’ 등 수많은 히트곡을 남겼으나 2015년 디지털 싱글 ‘주마등’을 끝으로 활동을 중단했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "길은 2017년 극비리에 결혼식을 올렸는데 당시 길이 이 사실을 몰랐다는 것이 알려지며 “사실상 해체”로 여겨졌다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개리, 리쌍 재결합설 부인?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

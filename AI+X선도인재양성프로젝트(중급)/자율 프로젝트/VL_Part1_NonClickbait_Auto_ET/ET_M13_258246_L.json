@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258246",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘아는 형님’ 완전체 2AM 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "완전체로 돌아온 2AM이 형님학교를 찾았다.\n오늘(15일) 방송되는 JTBC ‘아는 형님’에서는 2AM이 전학생으로 등장한다. 7년 만에 완전체로 모여 명불허전 음색을 자랑한 2AM은 ‘고막 남친’ 발라드 그룹답게 감미로운 노래를 선사하는 것은 물론, 센스 넘치는 입담과 순발력으로 예능돌의 면모를 보여줄 예정이다.\n2AM 멤버들은 “‘아는 형님’ 멤버들과 성악부를 만들러 왔다”라고 당찬 포부를 밝히며, 실제 성악부 오디션을 방불케 하는 각종 테스트를 진행했다.\n최근 컴백 무대에서 음향 사고에도 굴하지 않고 환상적인 하모니를 선보여 완벽한 라이브 실력을 인증한 2AM은 당시의 명장면을 재연하고자 형님들 앞에서 박자 테스트에 임했다.\n하지만 테스트 중 뜻밖에 예상치 못한 상황이 벌어지는 한편, 노련한 2AM마저 ‘멘붕’을 겪게 한 박자 테스트에서 완벽한 ‘칼박자’로 모두를 열광케 한 형님이 등장해 스튜디오를 발칵 뒤집어놨다는 후문이다.\n귀 호강을 선사할 라이브부터 뛰어난 예능감까지 다재다능한 2AM의 활약상은 오늘(15일) 저녁 8시 40분 JTBC ‘아는 형님’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "완전체로 돌아온 2AM이 형님학교를 찾았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(15일) 방송되는 JTBC ‘아는 형님’에서는 2AM이 전학생으로 등장한다. 7년 만에 완전체로 모여 명불허전 음색을 자랑한 2AM은 ‘고막 남친’ 발라드 그룹답게 감미로운 노래를 선사하는 것은 물론, 센스 넘치는 입담과 순발력으로 예능돌의 면모를 보여줄 예정이다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2AM 멤버들은 “‘아는 형님’ 멤버들과 성악부를 만들러 왔다”라고 당찬 포부를 밝히며, 실제 성악부 오디션을 방불케 하는 각종 테스트를 진행했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 컴백 무대에서 음향 사고에도 굴하지 않고 환상적인 하모니를 선보여 완벽한 라이브 실력을 인증한 2AM은 당시의 명장면을 재연하고자 형님들 앞에서 박자 테스트에 임했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 테스트 중 뜻밖에 예상치 못한 상황이 벌어지는 한편, 노련한 2AM마저 ‘멘붕’을 겪게 한 박자 테스트에서 완벽한 ‘칼박자’로 모두를 열광케 한 형님이 등장해 스튜디오를 발칵 뒤집어놨다는 후문이다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "귀 호강을 선사할 라이브부터 뛰어난 예능감까지 다재다능한 2AM의 활약상은 오늘(15일) 저녁 8시 40분 JTBC ‘아는 형님’에서 확인할 수 있다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘아는 형님’ 완전체 2AM 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

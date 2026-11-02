@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276487",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"이 노래들을 한 사람이 다 만들었다는게 충격\\\"이라는 평 받는 작곡가",
+		"newsSubTitle": "",
+		"newsContent": "영화음악 작곡가 존 윌리엄스의 놀라운 커리어가 재조명되고 있다.\n한 사람의 작곡가가 만든 노래라는 사실을 믿기 힘들 만큼 엄청난 작품들을 만들어냈다는 사실이 놀라움을 안겨준다.\n존 윌리엄스는 미국의 작곡가로 1932년 뉴욕에서 태어났다.\n1975년과 1977년 각각 영화 '죠스'와 영화 '스타워즈' 시리즈의 음악을 작곡하며 많은 평단과 대중의 마음을 사로잡았다.\n영화 '죠스' 영화 '스타 워즈' 시리즈 특히 또 다른 거장인 영화감독 '스티븐 스필버그'와의 협업이 유명하다.\n스필버그와는 'E.T.', '인디아나 존스', '라이언 일병 구하기', '캐치 미 이프 유 캔', '마이너리티 리포트', '쥬라기 공원', '터미널', '쉰들러 리스트', '링컨' 등 수많은 영화에서 함께 작업했다.\n영화 'E.T.' 이외에도 영화 '해리 포터' 시리즈, '나 홀로 집에' 시리즈 등 첫 소절만 들어도 단번에 알아챌 수 있는 굵직굵직한 작품들의 영화 음악을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화음악 작곡가 존 윌리엄스의 놀라운 커리어가 재조명되고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 사람의 작곡가가 만든 노래라는 사실을 믿기 힘들 만큼 엄청난 작품들을 만들어냈다는 사실이 놀라움을 안겨준다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "존 윌리엄스는 미국의 작곡가로 1932년 뉴욕에서 태어났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1975년과 1977년 각각 영화 '죠스'와 영화 '스타워즈' 시리즈의 음악을 작곡하며 많은 평단과 대중의 마음을 사로잡았다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영화 '죠스' 영화 '스타 워즈' 시리즈 특히 또 다른 거장인 영화감독 '스티븐 스필버그'와의 협업이 유명하다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스필버그와는 'E.T.', '인디아나 존스', '라이언 일병 구하기', '캐치 미 이프 유 캔', '마이너리티 리포트', '쥬라기 공원', '터미널', '쉰들러 리스트', '링컨' 등 수많은 영화에서 함께 작업했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영화 'E.T.' 이외에도 영화 '해리 포터' 시리즈, '나 홀로 집에' 시리즈 등 첫 소절만 들어도 단번에 알아챌 수 있는 굵직굵직한 작품들의 영화 음악을 맡았다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이 노래들을 한 사람이 다 만들었다는게 충격\\\"이라는 평 받는 작곡가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

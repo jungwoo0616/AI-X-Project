@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278090",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'신서유기2' 안재현, 19금 '몸으로 말해요'서 예능감 대폭발",
+		"newsSubTitle": "",
+		"newsContent": "안재현이 '몸으로 말해요' 미션 중 예능감을 폭발시켰다.\n7일 네이버TV캐스트를 통해 공개된 tvNgo '신서유기2'에서 멤버들은 '몸으로 말해요' 미션을 수행했다.\n공개된 영상에서 안재현은 '흥분'이 나오자 옷을 쥐어뜯으면서 흐느끼는 표정을 지었다.\n그러다가 벨트를 풀려고 했다.\n이에 은지원은 \\\"변태\\\", \\\"성욕\\\" 등을 외쳤다.\n답답해하던 안재현은 급기야 벨트를 풀어버렸지만, 은지원은 정답을 맞히지 못했다.\n그리고 정답 확인 후 그는 말을 잇지 못했다.\n이를 본 강호동은 안재현에게 \\\"막내가 예능인이 다 됐다\\\"고 칭찬했고, 뒤늦게 부끄러움을 느낀 안재현은 \\\"편집해달라\\\"고 말해 폭소를 자아냈다.\n온라인 중앙일보 [사진 네이버TV캐스트 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안재현이 '몸으로 말해요' 미션 중 예능감을 폭발시켰다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 네이버TV캐스트를 통해 공개된 tvNgo '신서유기2'에서 멤버들은 '몸으로 말해요' 미션을 수행했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에서 안재현은 '흥분'이 나오자 옷을 쥐어뜯으면서 흐느끼는 표정을 지었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러다가 벨트를 풀려고 했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 은지원은 \\\"변태\\\", \\\"성욕\\\" 등을 외쳤다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "답답해하던 안재현은 급기야 벨트를 풀어버렸지만, 은지원은 정답을 맞히지 못했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그리고 정답 확인 후 그는 말을 잇지 못했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 본 강호동은 안재현에게 \\\"막내가 예능인이 다 됐다\\\"고 칭찬했고, 뒤늦게 부끄러움을 느낀 안재현은 \\\"편집해달라\\\"고 말해 폭소를 자아냈다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 네이버TV캐스트 캡처]",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'신서유기2' 안재현, 19금 '몸으로 말해요'서 예능감 대폭발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

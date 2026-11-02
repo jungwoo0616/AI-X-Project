@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277214",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'미모의 어머니' 쏙 빼닮은 트와이스 멤버",
+		"newsSubTitle": "",
+		"newsContent": "대세 걸그룹 트와이스의 멤버 미나와 미나의 어머니가 함께 찍은 사진이 화제다.\n최근 온라인 커뮤니티에는 미나와 어머니가 함께 찍은 여러 장의 사진이 올라왔다.\n활짝 웃는 미소가 어머니를 쏙 빼닮은 모습이다.\n사진 속 미나는 갸름한 얼굴형과 오똑한 콧날, 눈매까지 어머니의 이목구비를 그대로 닮아 있다.\n이에 네티즌들은 \\\"어머니, 정말 아름답다\\\" \\\"미나 미모는 우월한 유전자 탓\\\" \\\"정말 아름답다\\\"며 모녀의 미모에 감탄을 이어갔다.\n트와이스 미나는 현재 신곡 Knock knock'을 발표해 바쁜 나날을 보내고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대세 걸그룹 트와이스의 멤버 미나와 미나의 어머니가 함께 찍은 사진이 화제다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에는 미나와 어머니가 함께 찍은 여러 장의 사진이 올라왔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "활짝 웃는 미소가 어머니를 쏙 빼닮은 모습이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 미나는 갸름한 얼굴형과 오똑한 콧날, 눈매까지 어머니의 이목구비를 그대로 닮아 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 네티즌들은 \\\"어머니, 정말 아름답다\\\" \\\"미나 미모는 우월한 유전자 탓\\\" \\\"정말 아름답다\\\"며 모녀의 미모에 감탄을 이어갔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "트와이스 미나는 현재 신곡 Knock knock'을 발표해 바쁜 나날을 보내고 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'미모의 어머니' 쏙 빼닮은 트와이스 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

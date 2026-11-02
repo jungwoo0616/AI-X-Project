@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272932",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘런닝맨’ 허영지, 양세찬에 “치아 니킥으로 까고 싶어” 악플 영재",
+		"newsSubTitle": "",
+		"newsContent": "‘런닝맨’ 허영지가 악플 영재에 등극했다.\n12일 오후 방송된 SBS 예능프로그램 ‘런닝맨’에서는 투자의 귀재들 : Go to NY 특집이 이어졌다.\n이날 추가 포인트를 얻을 마지막 기회 ‘넌 나에게 모욕감을 줬어’ 게임이 시작됐다.\n대표 1인을 선정해 멤버들은 대표가 화날 만한 문장을 적어야 한다.\n첫 번째 타깃은 김종국이다.\n유재석은 김종국에게 축구 개발이라며 “너 돈 없으면 축구 안 껴줄걸”이라고 공격했다.\n계속되는 축구 공격에 김종국은 평정심을 유지했다.\n허영지는 “오빠한테서 양계장 냄새나요”라며 타격감 좋은 체취 공격을 해 웃음 짓게 했다.\n김종국은 타격감 1위로 영지, 2위 ‘눈 떠라’ 조세호를 선택했다.\n다음 대표 양세찬에게 하하는 “너 드림이 자전처 훔쳐갔지”라며 아동용 자전거 행방을 따졌다.\n이어 유재석은 “너 아까 형 지갑에 손댔지?”라며 도둑으로 몰아갔다.\n허영지는 양세찬에게 “한 번씩 너 치아 니킥으로 까고 싶어”라고 말해 모두를 감탄케 했다.\n유재석은 허영지에게 “영지 너 악플러 출신 아니야?”라고 말했고 양세찬 또한 뚜껑이 열린다고 말했다.\n한편 ‘런닝맨’은 매주 일요일 오후 5시 SBS에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘런닝맨’ 허영지가 악플 영재에 등극했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 오후 방송된 SBS 예능프로그램 ‘런닝맨’에서는 투자의 귀재들 : Go to NY 특집이 이어졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 추가 포인트를 얻을 마지막 기회 ‘넌 나에게 모욕감을 줬어’ 게임이 시작됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대표 1인을 선정해 멤버들은 대표가 화날 만한 문장을 적어야 한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "첫 번째 타깃은 김종국이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유재석은 김종국에게 축구 개발이라며 “너 돈 없으면 축구 안 껴줄걸”이라고 공격했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "계속되는 축구 공격에 김종국은 평정심을 유지했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "허영지는 “오빠한테서 양계장 냄새나요”라며 타격감 좋은 체취 공격을 해 웃음 짓게 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김종국은 타격감 1위로 영지, 2위 ‘눈 떠라’ 조세호를 선택했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "다음 대표 양세찬에게 하하는 “너 드림이 자전처 훔쳐갔지”라며 아동용 자전거 행방을 따졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이어 유재석은 “너 아까 형 지갑에 손댔지?”라며 도둑으로 몰아갔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "허영지는 양세찬에게 “한 번씩 너 치아 니킥으로 까고 싶어”라고 말해 모두를 감탄케 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "유재석은 허영지에게 “영지 너 악플러 출신 아니야?”라고 말했고 양세찬 또한 뚜껑이 열린다고 말했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한편 ‘런닝맨’은 매주 일요일 오후 5시 SBS에서 만나볼 수 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘런닝맨’ 허영지, 양세찬에 “치아 니킥으로 까고 싶어” 악플 영재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

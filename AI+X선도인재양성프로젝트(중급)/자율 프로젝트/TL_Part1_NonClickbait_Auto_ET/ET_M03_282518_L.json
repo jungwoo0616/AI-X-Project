@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282518",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "UFC 서울 추성훈, \\\"광희 처음엔 게이라고 생각했다\\\"…'폭소'",
+		"newsSubTitle": "",
+		"newsContent": "과거 UFC 추성훈이 그룹 제국의 아이들 광희에 대한 언급이 재조명 되고 있다.\n과거 방송된 KBS2 예능 프로그램 '해피투게더3'에서 추성훈은 \\\"처음에는 광희에 대해 전혀 모르는 상태에서 만났다. 그런데 나이도 어리면서 반말을 하더라\\\"고 털어 놓았다.\n이어 추성훈은 \\\"나는 운동을 해서 선후배 사이가 엄격했는데, 이해가 안됐다. 그래서 처음엔 게이라고 생각했다. 게이면 반말해도 괜찮다고 받아 들였다. 그런데 시간이 지나니 다른 사람한테도 반말하더라\\\"고 밝혔다.\n이에 광희는 \\\"추성훈이 외국말을 쓰니 내가 한국말을 제대로 높여서 쓰면 못 알아듣겠구나 싶어 반말했다. 물론 기선제압도 있었다\\\"고 전해 웃음을 자아냈다.\n한편 추성훈은 28일 'UFC 파이트 나이트 서울' 알베르토 미나와 웰터급 경기에서 미나에게 2-1로 판정패했다.\n온라인 중앙일보 [KBS2 ‘해피투게더3’ 방송화면 캡처] UFC 서울 추성훈",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과거 UFC 추성훈이 그룹 제국의 아이들 광희에 대한 언급이 재조명 되고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된 KBS2 예능 프로그램 '해피투게더3'에서 추성훈은 \\\"처음에는 광희에 대해 전혀 모르는 상태에서 만났다. 그런데 나이도 어리면서 반말을 하더라\\\"고 털어 놓았다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 추성훈은 \\\"나는 운동을 해서 선후배 사이가 엄격했는데, 이해가 안됐다. 그래서 처음엔 게이라고 생각했다. 게이면 반말해도 괜찮다고 받아 들였다. 그런데 시간이 지나니 다른 사람한테도 반말하더라\\\"고 밝혔다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 광희는 \\\"추성훈이 외국말을 쓰니 내가 한국말을 제대로 높여서 쓰면 못 알아듣겠구나 싶어 반말했다. 물론 기선제압도 있었다\\\"고 전해 웃음을 자아냈다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 추성훈은 28일 'UFC 파이트 나이트 서울' 알베르토 미나와 웰터급 경기에서 미나에게 2-1로 판정패했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [KBS2 ‘해피투게더3’ 방송화면 캡처] UFC 서울 추성훈",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "UFC 서울 추성훈, \\\"광희 처음엔 게이라고 생각했다\\\"…'폭소'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277054",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "야구 개막전 시구에 98명?...'프로듀스101' 전원 시구 나온다",
+		"newsSubTitle": "",
+		"newsContent": "'프로듀스101' 시즌2에 출연하는 남성 연습생들이 2017 프로야구 개막전에 시구자로 나선다.\n다만, 프로그램 이름과 달리 101명이 아닌 98명이다.\nCJ E&M 측은 29일 일간스포츠와의 통화에서 \\\"연습생들 모두가 시구하는 게 맞다\\\"라고 밝혔다.\n이들은 오는 31일 서울 고척돔에서 열리는 넥센과 LG 경기에서 시구자로 나서게 된다.\n프로야구 시구에 98명이 등장하는 것은 이번이 처음이다.\n하지만 정확한 시구 방식이나 공연 여부는 아직 결정되지 않은 것으로 알려졌다.\n한편 '프로듀스101' 시즌2는 101명의 남성 연습생이 참여하는 프로그램이다.\n시청자가 '국민 프로듀서'가 돼 멤버를 발탁하고 데뷔곡, 그룹명 등을 직접 정하는 방식으로 진행된다.\n지난 9일에는 주제곡 '나야 나' 음원을 발표하고 '엠 카운트다운'을 통해 무대를 공개한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'프로듀스101' 시즌2에 출연하는 남성 연습생들이 2017 프로야구 개막전에 시구자로 나선다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다만, 프로그램 이름과 달리 101명이 아닌 98명이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CJ E&M 측은 29일 일간스포츠와의 통화에서 \\\"연습생들 모두가 시구하는 게 맞다\\\"라고 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 오는 31일 서울 고척돔에서 열리는 넥센과 LG 경기에서 시구자로 나서게 된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "프로야구 시구에 98명이 등장하는 것은 이번이 처음이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 정확한 시구 방식이나 공연 여부는 아직 결정되지 않은 것으로 알려졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 '프로듀스101' 시즌2는 101명의 남성 연습생이 참여하는 프로그램이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시청자가 '국민 프로듀서'가 돼 멤버를 발탁하고 데뷔곡, 그룹명 등을 직접 정하는 방식으로 진행된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난 9일에는 주제곡 '나야 나' 음원을 발표하고 '엠 카운트다운'을 통해 무대를 공개한 바 있다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "야구 개막전 시구에 98명?...'프로듀스101' 전원 시구 나온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

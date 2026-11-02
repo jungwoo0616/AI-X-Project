@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276807",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "BBC 방송사고 켈리 가족, '슈돌' 출연",
+		"newsSubTitle": "",
+		"newsContent": "'BBC 방송사고'로 유명해진 부산대 로버트 켈리 교수 가족이 KBS2 '슈퍼맨이 돌아왔다'에 출연한다. '슈퍼맨이 돌아왔다' 측은 25일 샘 해밍턴과 그의 아들인 윌리엄의 출연 예고 영상을 공개했다.\n공개된 영상에서 샘 해밍턴은 호주에 있는 어머니에게 영상 통화를 건다. 그리고 한 여자 아이가 등장한다.\n이어 보행기를 탄 남자 아기도 입장한다.\n바로 부산대의 켈리 교수가 BBC 인터뷰 중 난입한 자녀 메리안과 그 동생 제임스다.\n딸 메리안은 특유의 핑크색 안경을 쓰고 조심스럽게 방으로 들어온다.\n다소 긴장했는지 이번엔 어깨춤을 추는 흥겨운 모습은 보이지 않았다. '슈돌'에 반가운 얼굴인 메리안과 제임스가 등장하면서 본 방송에 대한 기대감이 높아지고 있다.\n앞서 지난 3월 10일 켈리 교수는 자신의 집에서 화상을 통해 BBC 월드 뉴스와 인터뷰를 진행했다.\n이날 방송에서 박근혜 전 대통령의 탄핵이 남북관계에 미칠 영향에 대한 질문을 받는 순간, 딸 메리안과 아들 제임스가 방으로 난입했다.\n메리안은 신이 난 모습으로 어깨 춤을 추면서 등장했고, 뒤이어 제임스도 보행기를 타고 방으로 들어왔다.\n아내 김정아 씨가 다급하게 방으로 들어와 아이들을 데려갔고, 이 모습이 그대로 전세계에 생중계돼 화제가 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'BBC 방송사고'로 유명해진 부산대 로버트 켈리 교수 가족이 KBS2 '슈퍼맨이 돌아왔다'에 출연한다. '슈퍼맨이 돌아왔다' 측은 25일 샘 해밍턴과 그의 아들인 윌리엄의 출연 예고 영상을 공개했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 영상에서 샘 해밍턴은 호주에 있는 어머니에게 영상 통화를 건다. 그리고 한 여자 아이가 등장한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 보행기를 탄 남자 아기도 입장한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "바로 부산대의 켈리 교수가 BBC 인터뷰 중 난입한 자녀 메리안과 그 동생 제임스다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "딸 메리안은 특유의 핑크색 안경을 쓰고 조심스럽게 방으로 들어온다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다소 긴장했는지 이번엔 어깨춤을 추는 흥겨운 모습은 보이지 않았다. '슈돌'에 반가운 얼굴인 메리안과 제임스가 등장하면서 본 방송에 대한 기대감이 높아지고 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 지난 3월 10일 켈리 교수는 자신의 집에서 화상을 통해 BBC 월드 뉴스와 인터뷰를 진행했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 방송에서 박근혜 전 대통령의 탄핵이 남북관계에 미칠 영향에 대한 질문을 받는 순간, 딸 메리안과 아들 제임스가 방으로 난입했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "메리안은 신이 난 모습으로 어깨 춤을 추면서 등장했고, 뒤이어 제임스도 보행기를 타고 방으로 들어왔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아내 김정아 씨가 다급하게 방으로 들어와 아이들을 데려갔고, 이 모습이 그대로 전세계에 생중계돼 화제가 됐다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BBC 방송사고 켈리 가족, '슈돌' 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259994",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘SNL코리아 여파’ 허성태, 코로나 음성[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 허성태가 코로나19의 마수를 다행히 빗겨갔다.\n허성태 소속사 한아름컴퍼니는 4일 입장을 내고 “지난 3일 호스트로 출연했던 쿠팡클레이 ‘SNL코리아 시즌2’ 제작진 코로나19 확진 소식을 듣고 PCR 검사를 진행했고, 4일 음성 결과를 받았다”고 밝혔다.\n이는 정일우가 지난달 30·31일 ‘SNL코리아’ 촬영을 마친 뒤 스태프 중 확진자가 발생했다는 연락을 받고 PCR검사를 진행한 결과 확진 판정을 받은 여파다.\n허성태는 지난달 27일 ‘SNL코리아’ 녹화에 호스트로 참여했다.\n스태프의 확진 판정을 들은 뒤 허성태는 선제검사를 진행해 음성판정을 받은 것이다.\n허성태는 자가검진키트로 음성을 받았고 PCR검사로 음성을 확실시했다.\n허성태는 지난해 9월 공개된 넷플릭스 드마라 ‘오징어게임’에 출연해 작품의 전 세계적인 열풍과 함께 각계의 블루칩으로 떠올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 허성태가 코로나19의 마수를 다행히 빗겨갔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "허성태 소속사 한아름컴퍼니는 4일 입장을 내고 “지난 3일 호스트로 출연했던 쿠팡클레이 ‘SNL코리아 시즌2’ 제작진 코로나19 확진 소식을 듣고 PCR 검사를 진행했고, 4일 음성 결과를 받았다”고 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 정일우가 지난달 30·31일 ‘SNL코리아’ 촬영을 마친 뒤 스태프 중 확진자가 발생했다는 연락을 받고 PCR검사를 진행한 결과 확진 판정을 받은 여파다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허성태는 지난달 27일 ‘SNL코리아’ 녹화에 호스트로 참여했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스태프의 확진 판정을 들은 뒤 허성태는 선제검사를 진행해 음성판정을 받은 것이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "허성태는 자가검진키트로 음성을 받았고 PCR검사로 음성을 확실시했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "허성태는 지난해 9월 공개된 넷플릭스 드마라 ‘오징어게임’에 출연해 작품의 전 세계적인 열풍과 함께 각계의 블루칩으로 떠올랐다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘SNL코리아 여파’ 허성태, 코로나 음성[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

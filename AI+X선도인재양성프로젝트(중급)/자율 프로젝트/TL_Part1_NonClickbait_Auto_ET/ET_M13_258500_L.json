@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258500",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "강하늘 “한효주와 두번째 만남, 정말 잘 맞아”[인터뷰①]",
+		"newsSubTitle": "",
+		"newsContent": "배우 강하늘이 영화 ‘해적: 도깨비 깃발’로 또 한 번 만난 한효주에 대한 애정을 표현했다.\n강하늘은 18일 오전 스포츠경향과 인터뷰에서 ‘쎄시봉’ 이후 재회한 한효주를 두고 “정말 잘 맞더라. 대화도 잘 통했다”고 밝혔다.\n그는 “‘쎄시봉’에선 한효주와 많이 만나진 못했다. 한효주는 ‘쎄시봉’ 뮤즈로 나왔고, 당시 난 한효주에게 아무것도 아니었다”며 “한발자국 멀리서 지켜보는 입장”이었다고 웃음을 터뜨렸다.\n그는 이번 두번째 작품으로 더 가까워졌다며 “우리가 왜 ‘쎄시봉’에서 이렇게 가까워지지 못했을까란 말을 나누기도 했다”고 아쉬워했다.\n이어 “한효주는 액션스쿨에서 내내 살았던 것 같다. 내가 액션스쿨 갈 때마다 합을 맞추고 있었고, 칼을 손에 익히려고 했다”며 “그런 노력들이 ‘해랑’ 역을 넘어서 한효주가 더 멋있었다”고 당시를 회상했다.\n또한 “한효주는 현장에서 몸을 식지 않게 하려고 계속 예열하는 일들을 했다. 칼을 계속 돌린다던지, 합을 맞춘다던지”라며 “매 배역 진중하게 파고든다는 생각을 했다”고 칭찬했다.\n강하늘이 출연한 ‘해적: 도깨비 깃발’은 오는 26일 개봉한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강하늘이 영화 ‘해적: 도깨비 깃발’로 또 한 번 만난 한효주에 대한 애정을 표현했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강하늘은 18일 오전 스포츠경향과 인터뷰에서 ‘쎄시봉’ 이후 재회한 한효주를 두고 “정말 잘 맞더라. 대화도 잘 통했다”고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “‘쎄시봉’에선 한효주와 많이 만나진 못했다. 한효주는 ‘쎄시봉’ 뮤즈로 나왔고, 당시 난 한효주에게 아무것도 아니었다”며 “한발자국 멀리서 지켜보는 입장”이었다고 웃음을 터뜨렸다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 이번 두번째 작품으로 더 가까워졌다며 “우리가 왜 ‘쎄시봉’에서 이렇게 가까워지지 못했을까란 말을 나누기도 했다”고 아쉬워했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “한효주는 액션스쿨에서 내내 살았던 것 같다. 내가 액션스쿨 갈 때마다 합을 맞추고 있었고, 칼을 손에 익히려고 했다”며 “그런 노력들이 ‘해랑’ 역을 넘어서 한효주가 더 멋있었다”고 당시를 회상했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 “한효주는 현장에서 몸을 식지 않게 하려고 계속 예열하는 일들을 했다. 칼을 계속 돌린다던지, 합을 맞춘다던지”라며 “매 배역 진중하게 파고든다는 생각을 했다”고 칭찬했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강하늘이 출연한 ‘해적: 도깨비 깃발’은 오는 26일 개봉한다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강하늘 “한효주와 두번째 만남, 정말 잘 맞아”[인터뷰①]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

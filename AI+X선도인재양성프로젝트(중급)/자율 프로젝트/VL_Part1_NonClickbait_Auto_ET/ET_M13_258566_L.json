@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258566",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "박재정, 2월8일 새해 첫 신곡 ‘한 걸음’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "지난해 가수와 방송인으로 활발하게 활동했던 박재정이 새해 첫 신곡을 낸다.\n박재정의 소속사 로맨틱팩토리는 19일 “박재정이 2월8일 신곡 ‘한 걸음’을 발매한다”고 밝혔다. ‘한 걸음’은 주로 이별노래를 많이 불렀던 박재정이 새롭게 선보이는 고백송이다.\n서두르지 않고 천천히 당신을 위한 사랑을 시작하겠다는 내용을 담은 곡으로 ‘좋았는데’ ‘취미’를 작곡했던 싱어송라이터 피아노맨과 ‘어떻게 지내’ ‘비가 오잖아’ 등을 쓴 프로듀서 VAN.C가 작곡에 참여했다.\n오케스트라 편곡에는 박재정의 오랜 친구이자 음악적 동료인 박현중이 참여했다.\n이 세 명의 협업으로 만들어진 이번 노래는 로우파이 기반의 뉴트로 사운드를 표방하며, 재즈적인 요소와 전 세계적으로 유행하는 사운드 요소들을 적절히 섞었다.\n로맨틱팩토리 관계자는 “아티스트와 프로듀서들은 트렌디한 사운드와 박재정이 주는 따뜻함이 어울리는 음악이 무엇인지에 대한 고민을 오랜기간 해왔다. 드디어 박재정에게 딱 맞는 새로운 옷을 입었다고 자신할 만한 음악이 나왔다”고 설명했다.\n박재정의 신곡 ‘한 걸음’은 2월8일 오후 6시에 국내 모든 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 가수와 방송인으로 활발하게 활동했던 박재정이 새해 첫 신곡을 낸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박재정의 소속사 로맨틱팩토리는 19일 “박재정이 2월8일 신곡 ‘한 걸음’을 발매한다”고 밝혔다. ‘한 걸음’은 주로 이별노래를 많이 불렀던 박재정이 새롭게 선보이는 고백송이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서두르지 않고 천천히 당신을 위한 사랑을 시작하겠다는 내용을 담은 곡으로 ‘좋았는데’ ‘취미’를 작곡했던 싱어송라이터 피아노맨과 ‘어떻게 지내’ ‘비가 오잖아’ 등을 쓴 프로듀서 VAN.C가 작곡에 참여했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오케스트라 편곡에는 박재정의 오랜 친구이자 음악적 동료인 박현중이 참여했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 세 명의 협업으로 만들어진 이번 노래는 로우파이 기반의 뉴트로 사운드를 표방하며, 재즈적인 요소와 전 세계적으로 유행하는 사운드 요소들을 적절히 섞었다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로맨틱팩토리 관계자는 “아티스트와 프로듀서들은 트렌디한 사운드와 박재정이 주는 따뜻함이 어울리는 음악이 무엇인지에 대한 고민을 오랜기간 해왔다. 드디어 박재정에게 딱 맞는 새로운 옷을 입었다고 자신할 만한 음악이 나왔다”고 설명했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박재정의 신곡 ‘한 걸음’은 2월8일 오후 6시에 국내 모든 음원사이트를 통해 공개된다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박재정, 2월8일 새해 첫 신곡 ‘한 걸음’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

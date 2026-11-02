@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276403",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"몰카 당했다\\\" 낸시랭이 동료 여가수 신고한 사연",
+		"newsSubTitle": "",
+		"newsContent": "팝아티스트 낸시랭이 '몰카' 피해를 봤다며 동료 여가수를 경찰에 신고했다.\n3일 경찰에 따르면 낸시랭은 이날 오전 8시 20분께 경기도 양주 시내에서 함께 술을 마시던 가수 A씨가 사진을 몰래 촬영하고 사기를 친다며 112에 신고했다.\n신고를 받고 출동한 경찰이 확인한 결과 A씨에게 범죄 혐의는 없는 것으로 잠정 결론 났다.\n실제로 A씨는 사진을 찍지 않은 것으로 조사됐다.\n낸시랭이 A씨의 행동을 오해했거나 술에 취해 잘못 신고했을 가능성이 큰 것으로 경찰은 보고 있다.\n신고 당시 낸시랭은 술에 취한 상태로, 신고 이후 인근 파출소에 출석해서는 \\\"변호사가 온 뒤 말하겠다\\\"며 진술을 하지 않다가 이후 지인과 함께 그냥 귀가했다.\nA씨는 경찰에서 \\\"술을 다 마신 뒤 방으로 옮겨 자려고 하는데 갑자기 (낸시랭이) 신고했다\\\"고 진술했다.\n낸시랭과 A씨는 최근 양주시의 한 중장비교육센터에서 굴착기 등의 면허를 따기 위해 합숙 교육을 받았고, 전날 합격해 함께 술을 마셨다고 경찰 관계자는 전했다.\n낸시랭은 이날 자신의 트위터에 \\\"새로운 도전\\\"이라며 굴삭기 합숙교육현장을 사진으로 찍어 공개하기도 했다.\n그는 \\\"미스티랑 성미랑 같이 굴삭기, 스키로더, 지게차 면허증 따기 도전했다\\\"고 적었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팝아티스트 낸시랭이 '몰카' 피해를 봤다며 동료 여가수를 경찰에 신고했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 경찰에 따르면 낸시랭은 이날 오전 8시 20분께 경기도 양주 시내에서 함께 술을 마시던 가수 A씨가 사진을 몰래 촬영하고 사기를 친다며 112에 신고했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신고를 받고 출동한 경찰이 확인한 결과 A씨에게 범죄 혐의는 없는 것으로 잠정 결론 났다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제로 A씨는 사진을 찍지 않은 것으로 조사됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "낸시랭이 A씨의 행동을 오해했거나 술에 취해 잘못 신고했을 가능성이 큰 것으로 경찰은 보고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신고 당시 낸시랭은 술에 취한 상태로, 신고 이후 인근 파출소에 출석해서는 \\\"변호사가 온 뒤 말하겠다\\\"며 진술을 하지 않다가 이후 지인과 함께 그냥 귀가했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "A씨는 경찰에서 \\\"술을 다 마신 뒤 방으로 옮겨 자려고 하는데 갑자기 (낸시랭이) 신고했다\\\"고 진술했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "낸시랭과 A씨는 최근 양주시의 한 중장비교육센터에서 굴착기 등의 면허를 따기 위해 합숙 교육을 받았고, 전날 합격해 함께 술을 마셨다고 경찰 관계자는 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "낸시랭은 이날 자신의 트위터에 \\\"새로운 도전\\\"이라며 굴삭기 합숙교육현장을 사진으로 찍어 공개하기도 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그는 \\\"미스티랑 성미랑 같이 굴삭기, 스키로더, 지게차 면허증 따기 도전했다\\\"고 적었다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"몰카 당했다\\\" 낸시랭이 동료 여가수 신고한 사연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277314",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "그래미 어워드에 등장한 '트럼프 드레스'…네티즌 \\\"재앙 수준\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 조이 빌라가 팝 시상식인 그래미 어워드에 '트럼프 드레스'를 입고 등장했다.\n12일(현지시간) 조이 빌라는 미국 로스앤젤레스에서 열린 그래미 시상식에서 도널드 트럼프 이름이 새겨진 드레스를 입고 레드 카펫에 올랐다.\n푸른색드레스 하단에는 '트럼프(TRUMP)' 글씨가 은색으로 매우 크게 새겨져 있고, 앞면에는 트럼프 대통령의 선거 슬로건인 '미국을 다시 위대하게(MAKE AMERICA GREAT AGAIN)' 문구가 적혀있다.\n조이 빌라는 자신의 소셜네트워크서비스(SNS)에 해당 드레스를 입은 사진을 올린 후 \\\"가끔은 당신을 자유롭게 표현하라\\\"며 \\\"인생이란 자유롭고 사랑하는 삶이다\\\"는 글을 올렸다.\n그러나 사진을 올린지 한시간도 되지 않아 1600개가 넘는 댓글이 달렸으며 \\\"재앙 수준\\\"이라는 비판이 대부분이었다.\n조이 빌라는 지난해 그래미 어워드에서는 공룡 뼈를 연상시키는 금속 뼈로 된 파격 노출 드레스를 입고 등장했다.\n그는 해당 사진을 인스타그램에 올리며 \\\"USA투데이에서 뽑은 2016년 가장 뜨거운 패션에 뽑혔다. 2017년엔 뭘 만들어볼까?\\\"라는 글을 남기기도 했다.\n2015년 그래미 어워드에도 속이 훤히 들여다보이는 오렌지빛 드레스를 입어 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 조이 빌라가 팝 시상식인 그래미 어워드에 '트럼프 드레스'를 입고 등장했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일(현지시간) 조이 빌라는 미국 로스앤젤레스에서 열린 그래미 시상식에서 도널드 트럼프 이름이 새겨진 드레스를 입고 레드 카펫에 올랐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "푸른색드레스 하단에는 '트럼프(TRUMP)' 글씨가 은색으로 매우 크게 새겨져 있고, 앞면에는 트럼프 대통령의 선거 슬로건인 '미국을 다시 위대하게(MAKE AMERICA GREAT AGAIN)' 문구가 적혀있다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조이 빌라는 자신의 소셜네트워크서비스(SNS)에 해당 드레스를 입은 사진을 올린 후 \\\"가끔은 당신을 자유롭게 표현하라\\\"며 \\\"인생이란 자유롭고 사랑하는 삶이다\\\"는 글을 올렸다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 사진을 올린지 한시간도 되지 않아 1600개가 넘는 댓글이 달렸으며 \\\"재앙 수준\\\"이라는 비판이 대부분이었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조이 빌라는 지난해 그래미 어워드에서는 공룡 뼈를 연상시키는 금속 뼈로 된 파격 노출 드레스를 입고 등장했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 해당 사진을 인스타그램에 올리며 \\\"USA투데이에서 뽑은 2016년 가장 뜨거운 패션에 뽑혔다. 2017년엔 뭘 만들어볼까?\\\"라는 글을 남기기도 했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2015년 그래미 어워드에도 속이 훤히 들여다보이는 오렌지빛 드레스를 입어 화제를 모았다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그래미 어워드에 등장한 '트럼프 드레스'…네티즌 \\\"재앙 수준\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

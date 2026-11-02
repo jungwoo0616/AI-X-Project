@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274903",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "Manor, 새 노래 ‘Call Me’ 발매…JadeㄱV1VA 달콤한 콜라보",
+		"newsSubTitle": "",
+		"newsContent": "프로듀서 Manor가 Jade와 V1VA의 콜라보 신곡을 발표한다.\n지난번 발표한 싱글 ‘Alleviate’에 이은 두 번째 싱글 ‘Call Me’는 지난 5일 공개됐다.\n새 노래는 썸을 타는 관계 속에서 생기는 밀고 당기는 상황들을 표현한 곡으로, 팝 알앤비 사운드에 편곡과 Jade 감미로운 멜로디, V1VA 개성 있는 사운드가 좋은 시너지를 구축했다.\n가사는 서로 연락을 기다리는 설렘을 담아냈다.\n상대방이 연락을 먼저 해주었으면 하는 마음들을 표현한 것이 흥미롭다.\nManor는 지난해 싱글 ‘Alleviate’를 발매했으며, 거의 1년 만에 발표하는 두 번째 디지털 싱글이다.\n꿀 조합 콜라보로 프로듀싱 한 Manor 두 번째 싱글 ‘Call Me’는 음원사이트를 통해 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로듀서 Manor가 Jade와 V1VA의 콜라보 신곡을 발표한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난번 발표한 싱글 ‘Alleviate’에 이은 두 번째 싱글 ‘Call Me’는 지난 5일 공개됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "새 노래는 썸을 타는 관계 속에서 생기는 밀고 당기는 상황들을 표현한 곡으로, 팝 알앤비 사운드에 편곡과 Jade 감미로운 멜로디, V1VA 개성 있는 사운드가 좋은 시너지를 구축했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가사는 서로 연락을 기다리는 설렘을 담아냈다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "상대방이 연락을 먼저 해주었으면 하는 마음들을 표현한 것이 흥미롭다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "Manor는 지난해 싱글 ‘Alleviate’를 발매했으며, 거의 1년 만에 발표하는 두 번째 디지털 싱글이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "꿀 조합 콜라보로 프로듀싱 한 Manor 두 번째 싱글 ‘Call Me’는 음원사이트를 통해 감상할 수 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "Manor, 새 노래 ‘Call Me’ 발매…JadeㄱV1VA 달콤한 콜라보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

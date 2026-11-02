@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167289",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘AOA 탈퇴’ 신지민, 연예계 은퇴 후 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "‘그룹 AOA 권민아 괴롭힘 논란’으로 인해 팀 탈퇴와 연예계를 은퇴한 지민이 일상을 공개했다.\n지민은 4일 자신의 SNS에 “같이 걸어요>_<”라며 영상을 게재했다.\n영상에서 지민은 말없이 눈을 맞으며 지하철역에서부터 어딘가로 걸어서 이동 중인 모습이다.\n검은색 패딩을 입고 모자와 마스크로 얼굴을 가리고 있다.\n한편, 지민은 2012년 7월 그룹 AOA로 데뷔했다.\n이후 멤버 권민아가 활동하는 동안 타 멤버들로부터 괴롭힘을 당했다고 주장하면서 연예계가 떠들썩해졌다.\n그 중 팀 리더였던 지민에 관한 논란이 불거지면서 2020년 7월 결국 팀을 탈퇴 후 연예계에서 은퇴했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘그룹 AOA 권민아 괴롭힘 논란’으로 인해 팀 탈퇴와 연예계를 은퇴한 지민이 일상을 공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지민은 4일 자신의 SNS에 “같이 걸어요>_<”라며 영상을 게재했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에서 지민은 말없이 눈을 맞으며 지하철역에서부터 어딘가로 걸어서 이동 중인 모습이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "검은색 패딩을 입고 모자와 마스크로 얼굴을 가리고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 지민은 2012년 7월 그룹 AOA로 데뷔했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 멤버 권민아가 활동하는 동안 타 멤버들로부터 괴롭힘을 당했다고 주장하면서 연예계가 떠들썩해졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 중 팀 리더였던 지민에 관한 논란이 불거지면서 2020년 7월 결국 팀을 탈퇴 후 연예계에서 은퇴했다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 AOA 멤버 괴롭힘 논란으로 은퇴한 지민, SNS에 무슨 영상 게재했나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

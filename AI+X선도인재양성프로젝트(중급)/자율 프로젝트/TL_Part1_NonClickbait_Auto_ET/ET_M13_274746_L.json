@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274746",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘임창정♥’ 서하얀, 건강식품모델 선정···고현정→전지현 잇는다",
+		"newsSubTitle": "",
+		"newsContent": "가수 임창정의 아내 서하얀이 배우 정우성, 고현정, 전지현, 김희애의 계보를 잇는다. 5일 한 건강기능식품기업은 “서하얀을 공식 모델로 발탁했으며, 서하얀은 모델로 브랜드 제품을 알리는 활동을 이어나갈 예정”이라고 밝혔다.\n서하얀은 평소 SBS 예능프로그램 ‘동상이몽2-너는 내 운명’을 비롯, 자신의 SNS를 통해 꾸준히 건강관리에 신경쓰는 모습으로 많은 이들에게 화제가 되었다.\n그는 모델로 발탁된 만큼 자신의 라이프스타일을 대중들과 공유할 예정이다.\n서하얀은 “좋아하던 브랜드의 모델로 활동하게 된 만큼 건강한 라이프스타일의 공유를 위해 노력하겠다”라고 밝히며 소감을 전했다.\n해당 건강기능식품기업은 정우성과 고현정, 전지현, 김희애, 임영웅 등 톱스타들이 모델로 활동하며 서하얀의 영향력을 입증했다.\n그는 최근 코스메틱 브랜드 앰배서더로 발탁된 것은 물론 SNS 채널을 통해 스타일리시한 비주얼과 다양한 근황들을 공개하면서 소통을 이어오고 있다.\n한편, 건강기능식품기업의 모델로 발탁된 서하얀은 앞으로 다양한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임창정의 아내 서하얀이 배우 정우성, 고현정, 전지현, 김희애의 계보를 잇는다. 5일 한 건강기능식품기업은 “서하얀을 공식 모델로 발탁했으며, 서하얀은 모델로 브랜드 제품을 알리는 활동을 이어나갈 예정”이라고 밝혔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서하얀은 평소 SBS 예능프로그램 ‘동상이몽2-너는 내 운명’을 비롯, 자신의 SNS를 통해 꾸준히 건강관리에 신경쓰는 모습으로 많은 이들에게 화제가 되었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 모델로 발탁된 만큼 자신의 라이프스타일을 대중들과 공유할 예정이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서하얀은 “좋아하던 브랜드의 모델로 활동하게 된 만큼 건강한 라이프스타일의 공유를 위해 노력하겠다”라고 밝히며 소감을 전했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 건강기능식품기업은 정우성과 고현정, 전지현, 김희애, 임영웅 등 톱스타들이 모델로 활동하며 서하얀의 영향력을 입증했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 최근 코스메틱 브랜드 앰배서더로 발탁된 것은 물론 SNS 채널을 통해 스타일리시한 비주얼과 다양한 근황들을 공개하면서 소통을 이어오고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 건강기능식품기업의 모델로 발탁된 서하얀은 앞으로 다양한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘임창정♥’ 서하얀, 건강식품모델 선정···고현정→전지현 잇는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

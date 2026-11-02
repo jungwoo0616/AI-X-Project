@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170408",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "수지 닮았다는 중국 여배우? 얼마나 닮았나 보니",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 수지(23)를 닮은 중국 배우 백백하(바이바이허·33)가 화제가 되고 있다.\n23일 한 온라인 커뮤니티에는 '수지 닮았다는 중국 연예인'이라는 제목의 게시글이 올라왔다.\n글쓴이는 \\\"백백하가 출연한 영화 '이별계약'에서 정말 수지의 얼굴이 보인다\\\"며 사진 여러 장을 공개했다.\n그는 \\\"'이별계약' 감독이 한국인이라 한국영화 느낌도 많이 난다\\\"고 덧붙였다. '이별계약'은 '선물' '패션왕' '오감도'의 오기환 감독의 작품이다.\n백백하는 수지처럼 청순하고 투명한 이미지를 가지고 있다.\n글쓴이는 \\\"백백하가 수지보다 10살 더 많다\\\"며 놀라워했다.\n수지와 백백하는 '2014 웨이보의 밤' 시상식에 참석해 '올해의 여신상'(Goddess of The Year)을 함께 수상하기도 했다.\n당시 수지는 한복 드레스를 입고 무대에 올라 빼어난 미모를 선보인 바 있다.\n이를 본 네티즌들은 \\\"이별계약 사진부터 굉장히 느낌이 닮았다\\\" \\\"살짝 김고은도 닮았다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 수지(23)를 닮은 중국 배우 백백하(바이바이허·33)가 화제가 되고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 한 온라인 커뮤니티에는 '수지 닮았다는 중국 연예인'이라는 제목의 게시글이 올라왔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이는 \\\"백백하가 출연한 영화 '이별계약'에서 정말 수지의 얼굴이 보인다\\\"며 사진 여러 장을 공개했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"'이별계약' 감독이 한국인이라 한국영화 느낌도 많이 난다\\\"고 덧붙였다. '이별계약'은 '선물' '패션왕' '오감도'의 오기환 감독의 작품이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "백백하는 수지처럼 청순하고 투명한 이미지를 가지고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "글쓴이는 \\\"백백하가 수지보다 10살 더 많다\\\"며 놀라워했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수지와 백백하는 '2014 웨이보의 밤' 시상식에 참석해 '올해의 여신상'(Goddess of The Year)을 함께 수상하기도 했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당시 수지는 한복 드레스를 입고 무대에 올라 빼어난 미모를 선보인 바 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 본 네티즌들은 \\\"이별계약 사진부터 굉장히 느낌이 닮았다\\\" \\\"살짝 김고은도 닮았다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'대륙의 섹시한 수지' 배우 백백하, 수지 닮은 국보급 외모로 온라인서 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

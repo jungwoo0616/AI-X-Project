@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258669",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "법원, ‘열린공감TV’ 김건희 통화 방영 허용…일부만 금지",
+		"newsSubTitle": "",
+		"newsContent": "법원이 윤석열 국민의힘 대선 후보 배우자 김건희 씨의 통화 내용 가운데 일부분만 유튜브 채널 ‘열린공감TV’에 공개하지 못하도록 했다.\n서울중앙지법 민사합의50부(송경근 수석부장판사)는 19일 김씨가 열린공감TV를 상대로 낸 방영금지·배포금지 가처분 신청을 일부 인용했다.\n재판부는 일부를 제외한 나머지 부분에 대해서는 김씨의 신청을 모두 기각했다.\n유튜브채널 ‘서울의 소리’에서 촬영을 담당하는 이명수 씨는 김씨와 통화한 내용을 녹음했다며 MBC와 협업해 녹음한 내용을 공개하겠다고 밝혔고, 이에 김씨는 공개를 예고한 MBC와 서울의 소리, 열린공감TV를 상대로 각각 가처분을 신청했다.\n공개 여부가 쟁점이 된 녹음 파일은 이씨가 수개월 동안 김씨와 통화한 내용을 녹음한 것으로, 총 분량은 7시간 45분으로 알려졌다.\n김씨 측은 “해당 녹음 파일이 정치 공작에 의해 취득한 것으로 언론의 자유 보호 범위에 포함되지 않는다”며 “알 권리의 대상인 공적 관심사가 아닌 보호돼야 할 사생활”이라고 주장했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "법원이 윤석열 국민의힘 대선 후보 배우자 김건희 씨의 통화 내용 가운데 일부분만 유튜브 채널 ‘열린공감TV’에 공개하지 못하도록 했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울중앙지법 민사합의50부(송경근 수석부장판사)는 19일 김씨가 열린공감TV를 상대로 낸 방영금지·배포금지 가처분 신청을 일부 인용했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "재판부는 일부를 제외한 나머지 부분에 대해서는 김씨의 신청을 모두 기각했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유튜브채널 ‘서울의 소리’에서 촬영을 담당하는 이명수 씨는 김씨와 통화한 내용을 녹음했다며 MBC와 협업해 녹음한 내용을 공개하겠다고 밝혔고, 이에 김씨는 공개를 예고한 MBC와 서울의 소리, 열린공감TV를 상대로 각각 가처분을 신청했다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개 여부가 쟁점이 된 녹음 파일은 이씨가 수개월 동안 김씨와 통화한 내용을 녹음한 것으로, 총 분량은 7시간 45분으로 알려졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김씨 측은 “해당 녹음 파일이 정치 공작에 의해 취득한 것으로 언론의 자유 보호 범위에 포함되지 않는다”며 “알 권리의 대상인 공적 관심사가 아닌 보호돼야 할 사생활”이라고 주장했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "법원, ‘열린공감TV’ 김건희 통화 방영 허용…일부만 금지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

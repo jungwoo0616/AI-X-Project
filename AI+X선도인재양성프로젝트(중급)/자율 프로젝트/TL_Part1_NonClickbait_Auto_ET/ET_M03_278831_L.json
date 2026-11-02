@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278831",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "탤런트 이진 결혼 6살 예비신랑과…\\\"공통 관심사 많아\\\"",
+		"newsSubTitle": "",
+		"newsContent": "이진 결혼 핑클 출신 배우 이진이 곧 결혼하는 것으로 알려져 화제가 되고 있다.\n16일 일간스포츠에 따르면 이진은 20일 미국 하와이에서 결혼식을 올릴 예정이다.\n결혼식에는 친인척 및 가까운 지인만이 초대될 예정이며 비공개로 진행된다.\n예비신랑은 6살 연상의 일반인으로 미국에서 생활하는 한국인 남성으로 알려졌다.\n이진은 지난해 미국을 자주 방문, 예비 신랑과 다정한 시간을 보내며 결혼을 약속했으며, 미국 아울렛에서 데이트를 하는 모습이 포착되기도 했다.\n두 사람은 서로에 대한 신뢰가 두터웠고, 공통 관심사가 많아 자연스럽게 결혼에 대한 확신을 가지게 된 것으로 알려졌다.\n이진 결혼 온라인 중앙일보 탤런드 이진 결혼 [사진출처:일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이진 결혼 핑클 출신 배우 이진이 곧 결혼하는 것으로 알려져 화제가 되고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 일간스포츠에 따르면 이진은 20일 미국 하와이에서 결혼식을 올릴 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼식에는 친인척 및 가까운 지인만이 초대될 예정이며 비공개로 진행된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예비신랑은 6살 연상의 일반인으로 미국에서 생활하는 한국인 남성으로 알려졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이진은 지난해 미국을 자주 방문, 예비 신랑과 다정한 시간을 보내며 결혼을 약속했으며, 미국 아울렛에서 데이트를 하는 모습이 포착되기도 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 서로에 대한 신뢰가 두터웠고, 공통 관심사가 많아 자연스럽게 결혼에 대한 확신을 가지게 된 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이진 결혼 온라인 중앙일보 탤런드 이진 결혼 [사진출처:일간스포츠]",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "탤런트 이진 결혼 6살 예비신랑과…\\\"공통 관심사 많아\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

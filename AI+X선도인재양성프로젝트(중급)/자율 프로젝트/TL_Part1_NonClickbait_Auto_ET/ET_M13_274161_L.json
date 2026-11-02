@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274161",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "[단독]고 이외수 감성, 곡으로 나왔다",
+		"newsSubTitle": "",
+		"newsContent": "소설가 고 이외수 감성이 곡으로 나왔다.\n업계에 따르면 고 이외수의 ‘그대를 보내고’ 시를 작사로 한 동명의 곡이 27일 발매됐다.\n싱어송라이터 서예린이 고 이외수의 ‘그대를 보내고’에 자신의 음을 덧붙인 것이다.\n앨범 프로듀싱과 기타 연주는 프로듀서 김우관이 맡았다.\n서예린과 고 이외수의 인연은 약 9년 전으로 거슬러 올라간다. 고 이외수는 해당 시를 사회관계망서비스(SNS)에 올렸고, 서예린이 해당 곡에 곡을 붙여 고 이외수에게 헌정했다. 고 이외수는 서예린의 해당 곡을 평소에도 ‘나의 감성을 하나도 거스르지 않았다’며 몹시 마음에 들어했고, 생전에도 서예린에게 곡을 듣고 싶다는 주문을 한 것으로 전해졌다.\n서예린은 이에 대한 화답으로 병문안을 찾으며 곡을 직접 펼쳐 보였다고 한다.\n서예린은 “2019년쯤 곡을 듣고 싶다는 고인의 전화에 노래를 불러드리려 방문했던 것이 마지막이었다”며 “듣고 싶으실 때 더 편하게 들으실 수 있게 진작 음원으로 만들어드리지 못한 것이 후회된다”고 말했다.\n그러면서 “앞선 후회에 대한 고 이외수에게 바치는 마지막 선물로 이번 음원 발매까지 이어졌다”며 “고 이외수의 감성이 그리울 때마다 들어봐 달라”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소설가 고 이외수 감성이 곡으로 나왔다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "업계에 따르면 고 이외수의 ‘그대를 보내고’ 시를 작사로 한 동명의 곡이 27일 발매됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "싱어송라이터 서예린이 고 이외수의 ‘그대를 보내고’에 자신의 음을 덧붙인 것이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앨범 프로듀싱과 기타 연주는 프로듀서 김우관이 맡았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서예린과 고 이외수의 인연은 약 9년 전으로 거슬러 올라간다. 고 이외수는 해당 시를 사회관계망서비스(SNS)에 올렸고, 서예린이 해당 곡에 곡을 붙여 고 이외수에게 헌정했다. 고 이외수는 서예린의 해당 곡을 평소에도 ‘나의 감성을 하나도 거스르지 않았다’며 몹시 마음에 들어했고, 생전에도 서예린에게 곡을 듣고 싶다는 주문을 한 것으로 전해졌다.",
+				"sentenceSize": 194
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서예린은 이에 대한 화답으로 병문안을 찾으며 곡을 직접 펼쳐 보였다고 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서예린은 “2019년쯤 곡을 듣고 싶다는 고인의 전화에 노래를 불러드리려 방문했던 것이 마지막이었다”며 “듣고 싶으실 때 더 편하게 들으실 수 있게 진작 음원으로 만들어드리지 못한 것이 후회된다”고 말했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러면서 “앞선 후회에 대한 고 이외수에게 바치는 마지막 선물로 이번 음원 발매까지 이어졌다”며 “고 이외수의 감성이 그리울 때마다 들어봐 달라”고 했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]고 이외수 감성, 곡으로 나왔다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

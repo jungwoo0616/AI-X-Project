@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274758",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "3년만의 ‘2022년 타임캡슐 슈퍼콘서트’…라인업은?",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 이후 3년 만에 개최되는 레트로 콘셉트의 ‘2022 타임캡슐 슈퍼콘서트’가 특별한 이벤트를 공개했다. ‘2022 타임캡슐 슈퍼콘서트’의 주최사 쇼팩토리에 따르면 이번 콘서트 관람객들의 드레스 코드는 복고 의상으로 이 중 남자 1팀(2명), 여자 1팀(2명)을 선별해 해외여행 이용권을 증정할 예정이라고 밝혔다.\n또한 이벤트는 콘서트 당일 마련된 이벤트 포토존에서 참여 가능하다.\n이번 ‘2022 타임캡슐 슈퍼콘서트’는 총 2부로 진행, 1부는 8090 정상급 스타들의 콘서트로 구성, 2부는 현역 나이트 DJ 퍼포먼스 공연과 댄스 경연 대회로 준비돼 기대를 모으고 있다.\n또한 대회 참가자들에 한해 ‘제주도 숙박권’을 증정할 예정이다.\n또한 ‘2022 타임캡슐 슈퍼콘서트’의 출연진으로는 김원준, 김현정, 소찬휘, 쿨(이재훈), 디바, 룰라, 태사자, R.ef, 코요태 등이 무대에 오를 전망이며 8090 정상급 스타들의 총집합으로 관심이 모이고 있다.\n한편 ‘2022년 타임캡슐 슈퍼콘서트’는 오는 16일 오후 7시 용인대학교 특설무대에서 개최되며 코로나 여파 이후 3년 만에 찾아오는 레트로 콘서트다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 이후 3년 만에 개최되는 레트로 콘셉트의 ‘2022 타임캡슐 슈퍼콘서트’가 특별한 이벤트를 공개했다. ‘2022 타임캡슐 슈퍼콘서트’의 주최사 쇼팩토리에 따르면 이번 콘서트 관람객들의 드레스 코드는 복고 의상으로 이 중 남자 1팀(2명), 여자 1팀(2명)을 선별해 해외여행 이용권을 증정할 예정이라고 밝혔다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "또한 이벤트는 콘서트 당일 마련된 이벤트 포토존에서 참여 가능하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 ‘2022 타임캡슐 슈퍼콘서트’는 총 2부로 진행, 1부는 8090 정상급 스타들의 콘서트로 구성, 2부는 현역 나이트 DJ 퍼포먼스 공연과 댄스 경연 대회로 준비돼 기대를 모으고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 대회 참가자들에 한해 ‘제주도 숙박권’을 증정할 예정이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 ‘2022 타임캡슐 슈퍼콘서트’의 출연진으로는 김원준, 김현정, 소찬휘, 쿨(이재훈), 디바, 룰라, 태사자, R.ef, 코요태 등이 무대에 오를 전망이며 8090 정상급 스타들의 총집합으로 관심이 모이고 있다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘2022년 타임캡슐 슈퍼콘서트’는 오는 16일 오후 7시 용인대학교 특설무대에서 개최되며 코로나 여파 이후 3년 만에 찾아오는 레트로 콘서트다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "3년만의 ‘2022년 타임캡슐 슈퍼콘서트’…라인업은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

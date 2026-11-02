@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171701",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "블랙핑크, 한국어 교육 시장 진출",
+    "newsSubTitle": "",
+    "newsContent": "블랙핑크와의 대화를 통해 한국어를 배울 수 있는 교재 ‘BLACKPINK IN YOUR KOREAN’이 7일 출시됐다. ‘BLACKPINK IN YOUR KOREAN(블랙핑크 인 유어 코리안)’은 블랙핑크 팬인 주인공 ‘블링키(Blinky)’가 세계적인 스타 블랙핑크의 집에 초대를 받아 하루 동안 함께 시간을 보내는 이야기를 담은, 스토리 기반의 한국어 교재 패키지다.\n스토리텔링이 깃든 이 콘텐츠는 블랙핑크가 실제 자주 사용하는 다양한 어휘들이 활용됐다.\n블랙핑크 자체 오리지널 영상 콘텐츠에서 나왔던 표현들을 말뭉치 단위로 분석해 커리큘럼에 적용한 것. 이번 패키지는 교재 2권과 포켓북, 롤플레이 키트, 한글 키보드 스티커 등으로 구성됐다.\n교재는 글로벌 에디션(영어 버전)과 중국어 에디션 총 2종으로 나왔다.\n보다 많은 해외 학습자들이 한국어를 배울 수 있도록 한국어, 영어, 일본어, 중국어, 인니어 등 총 5개 언어 서비스가 지원된다.\n또 학습 보조 도구인 모티펜(MotiPen)을 활용해 원하는 언어를 선택하면 전문 성우의 음성으로 정확한 발음을 즉각적으로 들으며 학습할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙핑크와의 대화를 통해 한국어를 배울 수 있는 교재 ‘BLACKPINK IN YOUR KOREAN’이 7일 출시됐다. ‘BLACKPINK IN YOUR KOREAN(블랙핑크 인 유어 코리안)’은 블랙핑크 팬인 주인공 ‘블링키(Blinky)’가 세계적인 스타 블랙핑크의 집에 초대를 받아 하루 동안 함께 시간을 보내는 이야기를 담은, 스토리 기반의 한국어 교재 패키지다.",
+        "sentenceSize": 207
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스토리텔링이 깃든 이 콘텐츠는 블랙핑크가 실제 자주 사용하는 다양한 어휘들이 활용됐다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "블랙핑크 자체 오리지널 영상 콘텐츠에서 나왔던 표현들을 말뭉치 단위로 분석해 커리큘럼에 적용한 것. 이번 패키지는 교재 2권과 포켓북, 롤플레이 키트, 한글 키보드 스티커 등으로 구성됐다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "교재는 글로벌 에디션(영어 버전)과 중국어 에디션 총 2종으로 나왔다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보다 많은 해외 학습자들이 한국어를 배울 수 있도록 한국어, 영어, 일본어, 중국어, 인니어 등 총 5개 언어 서비스가 지원된다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 학습 보조 도구인 모티펜(MotiPen)을 활용해 원하는 언어를 선택하면 전문 성우의 음성으로 정확한 발음을 즉각적으로 들으며 학습할 수 있다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크와의 대화 통해 '이것' 배울 수 있는 교재 출시한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

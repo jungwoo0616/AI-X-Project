@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272369",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단, 13일 ‘Proof’ 무대 최초 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 13일 돌아온다.\n방탄소년단은 7일 공식 사회관계망서비스(SNS)를 통해 새 앨범 ‘Proof(프루프)’ 라이브의 공식 포스터를 공개했다.\n공개된 포스터에는 야외에 마련된 무대 세트를 배경으로 나란히 앉아 있는 일곱 멤버의 모습이 담겼다.\n파란 하늘과 산, 나무 등 자연과 어우러진 이색적 풍경이 눈길을 사로잡는다.\n이에 더해 포스터에는 ‘With Special Guest’라는 문구가 적혀 있어 특별 손님에 대한 전 세계 팬들의 기대를 모으고 있다. ‘Proof’ Live는 방탄소년단이 새 앨범 ‘Proof’ 발매 이후 신곡 무대를 처음 공개하는 영상 콘텐츠로, 오는 13일 오후 9시 방탄소년단의 공식 유튜브 채널 ‘BANGTANTV’를 통해 공개될 예정이다.\n특히 이번 ‘Proof’ Live는 방탄소년단의 데뷔일인 6월 13일에 열려 더욱 의미를 더한다.\n이 외에도 방탄소년단은 ‘Proof’ Live에서 ‘Proof’의 타이틀곡 ‘Yet To Come’(옛 투 컴) 등을 부르고 새 앨범과 신곡을 소개하는 토크 시간도 가질 계획이다.\n한편 방탄소년단은 오는 10일 새 앨범 ‘Proof’를 발매한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 13일 돌아온다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단은 7일 공식 사회관계망서비스(SNS)를 통해 새 앨범 ‘Proof(프루프)’ 라이브의 공식 포스터를 공개했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 포스터에는 야외에 마련된 무대 세트를 배경으로 나란히 앉아 있는 일곱 멤버의 모습이 담겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파란 하늘과 산, 나무 등 자연과 어우러진 이색적 풍경이 눈길을 사로잡는다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 더해 포스터에는 ‘With Special Guest’라는 문구가 적혀 있어 특별 손님에 대한 전 세계 팬들의 기대를 모으고 있다. ‘Proof’ Live는 방탄소년단이 새 앨범 ‘Proof’ 발매 이후 신곡 무대를 처음 공개하는 영상 콘텐츠로, 오는 13일 오후 9시 방탄소년단의 공식 유튜브 채널 ‘BANGTANTV’를 통해 공개될 예정이다.",
+				"sentenceSize": 195
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 이번 ‘Proof’ Live는 방탄소년단의 데뷔일인 6월 13일에 열려 더욱 의미를 더한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 외에도 방탄소년단은 ‘Proof’ Live에서 ‘Proof’의 타이틀곡 ‘Yet To Come’(옛 투 컴) 등을 부르고 새 앨범과 신곡을 소개하는 토크 시간도 가질 계획이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 방탄소년단은 오는 10일 새 앨범 ‘Proof’를 발매한다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 13일 ‘Proof’ 무대 최초 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277755",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘길라임 논란’ 하지원 “한제인 이름은 쓰지 마세요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 하지원(39)이 최근 최순실 사태 여파로 화제의 중심에 선 데 대해 소감을 밝혔다.\n하지원은 17일 압구정 CGV에서 열린 영화 ‘목숨 건 연애’ 제작보고회에서 “사실 그 날 저도 저녁을 먹으면서 TV 뉴스를 보고 있었다. 길라임이라는 이름이 언급된 것을 보고 놀랐다”고 말했다.\n이어 ”길라임은 지금까지도 많은 분이 사랑해주시고, 저도 좋아하는 캐릭터“라면서 ”이번 영화 속 주인공 이름인 한제인은 쓰지 말아달라“고 당부해 웃음을 자아냈다.\n하지원은 본인이 ‘문화계 블랙리스트’에 포함된 데 대해 ”언론을 통해 알게 됐다“면서 ”저는 배우 하지원을 떠나서 대한민국을 사랑하는 국민의 한사람이다. 국가에 좋은 일이 있으면 저도 좋고, 슬픈 일이 있으면 저도 슬프다“고 밝혔다.\n박근혜 대통령이 당선 전 병원을 이용할 때 SBS 드라마 ‘시크릿 가든’의 여주인공 이름인 길라임이라는 가명을 사용한 사실이 드러나면서 하지원은 덩달아 화제에 올랐다.\n길라임은 하지원이 맡은 배역이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 하지원(39)이 최근 최순실 사태 여파로 화제의 중심에 선 데 대해 소감을 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지원은 17일 압구정 CGV에서 열린 영화 ‘목숨 건 연애’ 제작보고회에서 “사실 그 날 저도 저녁을 먹으면서 TV 뉴스를 보고 있었다. 길라임이라는 이름이 언급된 것을 보고 놀랐다”고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 ”길라임은 지금까지도 많은 분이 사랑해주시고, 저도 좋아하는 캐릭터“라면서 ”이번 영화 속 주인공 이름인 한제인은 쓰지 말아달라“고 당부해 웃음을 자아냈다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지원은 본인이 ‘문화계 블랙리스트’에 포함된 데 대해 ”언론을 통해 알게 됐다“면서 ”저는 배우 하지원을 떠나서 대한민국을 사랑하는 국민의 한사람이다. 국가에 좋은 일이 있으면 저도 좋고, 슬픈 일이 있으면 저도 슬프다“고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박근혜 대통령이 당선 전 병원을 이용할 때 SBS 드라마 ‘시크릿 가든’의 여주인공 이름인 길라임이라는 가명을 사용한 사실이 드러나면서 하지원은 덩달아 화제에 올랐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "길라임은 하지원이 맡은 배역이다.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘길라임 논란’ 하지원 “한제인 이름은 쓰지 마세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

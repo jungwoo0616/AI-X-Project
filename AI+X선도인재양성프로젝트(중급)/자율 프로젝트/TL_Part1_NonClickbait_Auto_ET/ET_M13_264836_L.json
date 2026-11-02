@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264836",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "밴드 솔루션스, 오늘(24일) 단독콘서트 ‘TIME’ 티켓오픈",
+		"newsSubTitle": "",
+		"newsContent": "밴드 솔루션스가 오는 4월 16, 17일 왓챠홀에서 단독 콘서트 ‘TIME’을 개최한다.\n공연 타이틀인 ‘TIME’은 지난 17일 발매된 앨범명으로, 솔루션스의 지난 10년을 담아내는 무대들로 꾸며진다.\n단독 공연 ‘TIME’은 데뷔 10주년을 맞이한 밴드 솔루션스의 활동을 시간의 흐름에 따라가는 구성으로 진행된다.\n앨범 릴리즈 순으로 나열된 공연 세트리스트 구성, 그간 활동을 담은 영상 등 팀이 거쳐온 길을 돌아본다는 점에서 함께한 시간을 추억할 수 있는 공연이 될 예정이다. ‘LOADING’ 이후 1년 9개월 만에 개최하는 단독 콘서트인 만큼, 솔루션스 특유의 에너지 있는 곡들부터 어쿠스틱한 감성의 신보까지 다양한 무대가 예고됐다.\n한편 솔루션스는 ‘TIME’ 발매 후 네이버 나우 윤상의 ‘너에게 음악’, 적재의 ‘야간작업실’ 등에 출연하며 활발히 활동 중이다.\n오는 4월 16, 17일 진행되는 단독 콘서트‘TIME‘은 오늘 24일 오후 6시 인터파크 티켓을 통해 예매가 시작된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "밴드 솔루션스가 오는 4월 16, 17일 왓챠홀에서 단독 콘서트 ‘TIME’을 개최한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공연 타이틀인 ‘TIME’은 지난 17일 발매된 앨범명으로, 솔루션스의 지난 10년을 담아내는 무대들로 꾸며진다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "단독 공연 ‘TIME’은 데뷔 10주년을 맞이한 밴드 솔루션스의 활동을 시간의 흐름에 따라가는 구성으로 진행된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앨범 릴리즈 순으로 나열된 공연 세트리스트 구성, 그간 활동을 담은 영상 등 팀이 거쳐온 길을 돌아본다는 점에서 함께한 시간을 추억할 수 있는 공연이 될 예정이다. ‘LOADING’ 이후 1년 9개월 만에 개최하는 단독 콘서트인 만큼, 솔루션스 특유의 에너지 있는 곡들부터 어쿠스틱한 감성의 신보까지 다양한 무대가 예고됐다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 솔루션스는 ‘TIME’ 발매 후 네이버 나우 윤상의 ‘너에게 음악’, 적재의 ‘야간작업실’ 등에 출연하며 활발히 활동 중이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 4월 16, 17일 진행되는 단독 콘서트‘TIME‘은 오늘 24일 오후 6시 인터파크 티켓을 통해 예매가 시작된다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "밴드 솔루션스, 오늘(24일) 단독콘서트 ‘TIME’ 티켓오픈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

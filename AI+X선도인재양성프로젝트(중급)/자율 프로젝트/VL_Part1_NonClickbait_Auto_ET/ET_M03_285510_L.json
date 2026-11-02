@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285510",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김소정, 카이스트 학력 위조설 언급 \\\"ICU에 입학한 후…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 김소정이 '라디오스타'에서 편집된 댄스 영상을 공개했다.\n김소정은 22일 자신의 트위터에 \\\"사실 녹화 때 춤도 췄는데 편집이 돼서 슬픈 마음에 연습 영상이라도 올려요. 헤헤\\\"라는 글과 함께 영상을 게재했다.\n공개된 영상에는 비욘세의 '7/11'에 맞춰 섹시한 댄스를 추는 김소정의 모습이 담겨있다.\n한편 김소정은 지난 21일 방송된 MBC 예능프로그램 '황금어장-라디오스타'에 출연해 카이스트 학력 위조설에 대해 언급했다.\n김소정은 \\\"당시 비평준화 고등학교에서 공부했다. ICU라는 대학에 가기 위해서 발명품 대회에 나갔다\\\"며 \\\"대회에서 숯의 성질을 이용해서 끓어 넘치지 않는 냄비를 발명해 상을 탔다. 이후 고등학교를 조기 졸업하고 ICU(한국정보통신대학교)에 입학했다\\\"고 전했다.\n김소정은 \\\"그렇게 학교를 2년 정도 다니고 있었는데 카이스트와 통합이 됐다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김소정이 '라디오스타'에서 편집된 댄스 영상을 공개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김소정은 22일 자신의 트위터에 \\\"사실 녹화 때 춤도 췄는데 편집이 돼서 슬픈 마음에 연습 영상이라도 올려요. 헤헤\\\"라는 글과 함께 영상을 게재했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 비욘세의 '7/11'에 맞춰 섹시한 댄스를 추는 김소정의 모습이 담겨있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 김소정은 지난 21일 방송된 MBC 예능프로그램 '황금어장-라디오스타'에 출연해 카이스트 학력 위조설에 대해 언급했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김소정은 \\\"당시 비평준화 고등학교에서 공부했다. ICU라는 대학에 가기 위해서 발명품 대회에 나갔다\\\"며 \\\"대회에서 숯의 성질을 이용해서 끓어 넘치지 않는 냄비를 발명해 상을 탔다. 이후 고등학교를 조기 졸업하고 ICU(한국정보통신대학교)에 입학했다\\\"고 전했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김소정은 \\\"그렇게 학교를 2년 정도 다니고 있었는데 카이스트와 통합이 됐다\\\"고 설명했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김소정, 카이스트 학력 위조설 언급 \\\"ICU에 입학한 후…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

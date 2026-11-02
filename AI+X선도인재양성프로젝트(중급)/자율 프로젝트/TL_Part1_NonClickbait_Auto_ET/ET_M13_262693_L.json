@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262693",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "홍석천, 건강이 최고…“내 몸에 투자해야겠다”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 홍석천이 근황을 공개했다.\n홍석천은 3일 자신의 사회관계망서비스(SNS)에 “나이가 먹긴먹나보다. 통증이 온다”라는 글과 함께 영상, 사진을 게재했다.\n공개된 게시물에서 홍석천은 병원을 찾아 치료를 받았다.\n영상에서는 통증에 아파하는 모습도 담겨 보는 이들의 안타까움을 자아냈다.\n홍석천은 “몇십 년 쉬지 않고 혹사시켰더니 여기저기 염증도 있고 그냥 아프다. 내 몸에 돈쓰고 투자해야겠다. 좋은 거 건강한 거 몸 관리에 투자할 나이가 돼버렸다 내몸뚱이 더 쓸려면 진짜 그래야겠다. 기계도 자주 기름칠해줘야 돌아가는데 우리 몸은 오죽할까 내 몸한테 많이 미안한 날이다. 선생님 살살좀 부탁해요”라는 글을 남겼다.\n한편 홍석천은 최근 유튜브 ‘피지컬갤러리’의 ‘프로틴스101’에 참가해 근육질 몸으로 탈바꿈한 놀라운 모습을 보여줬다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 홍석천이 근황을 공개했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍석천은 3일 자신의 사회관계망서비스(SNS)에 “나이가 먹긴먹나보다. 통증이 온다”라는 글과 함께 영상, 사진을 게재했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 게시물에서 홍석천은 병원을 찾아 치료를 받았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상에서는 통증에 아파하는 모습도 담겨 보는 이들의 안타까움을 자아냈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍석천은 “몇십 년 쉬지 않고 혹사시켰더니 여기저기 염증도 있고 그냥 아프다. 내 몸에 돈쓰고 투자해야겠다. 좋은 거 건강한 거 몸 관리에 투자할 나이가 돼버렸다 내몸뚱이 더 쓸려면 진짜 그래야겠다. 기계도 자주 기름칠해줘야 돌아가는데 우리 몸은 오죽할까 내 몸한테 많이 미안한 날이다. 선생님 살살좀 부탁해요”라는 글을 남겼다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 홍석천은 최근 유튜브 ‘피지컬갤러리’의 ‘프로틴스101’에 참가해 근육질 몸으로 탈바꿈한 놀라운 모습을 보여줬다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍석천, 건강이 최고…“내 몸에 투자해야겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

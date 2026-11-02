@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282672",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "청룡영화제 이유영, 대종상 이어 신인여우상 수상 \\\"생업 포기하고 연기…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'청룡영화제 이유영' '신인여우상 이우영' 배우 이유영이 신인여우상을 수상했다.\n이유영은 26일 오후 8시 45분부터 경희대학교 평화의전당에서 열린 제36회 청룡영화상 시상식에서 '간신'으로 신인여우상을 받았다.\n수상 직후 이유영은 \\\"감사하다. 저는 저번주에 '봄'으로 상을 받고, 이번 주에 '간신'으로 상을 받을 거라고 생각을 못했고, 쟁쟁한 후보들 속에서 상 못받을 줄 알았다. 수상소감 준비 못했는데 감사드린다\\\"고 소감을 밝혔다.\n또 그는 \\\"뒤에서 온몸을 던져가며 연기한 주많은 여배우들과 이 영광을 나누고 싶다. 7년 전에는 미용실에서 헤어스태프를 했는데 생업을 포기하고 이렇게 연기자가 되고 싶어서 힘든 시간이었지만 즐기려고 노력했다. 좋은 시작을 할 수 있게 응원해주셔서 감사하다. 앞으로도 즐기고 노력하겠다. 감사하다\\\"고 덧붙였다.\n이날 신인여우상 후보로는 권소현(마돈나), 김설현(강남1970), 박소담(경성학교: 사라진 소녀들), 이유비(스물), 이유영(간신)이 올랐다.\n한편 제36회 청룡영화상은 총 19개 부문에서 시상이 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'청룡영화제 이유영' '신인여우상 이우영' 배우 이유영이 신인여우상을 수상했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이유영은 26일 오후 8시 45분부터 경희대학교 평화의전당에서 열린 제36회 청룡영화상 시상식에서 '간신'으로 신인여우상을 받았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수상 직후 이유영은 \\\"감사하다. 저는 저번주에 '봄'으로 상을 받고, 이번 주에 '간신'으로 상을 받을 거라고 생각을 못했고, 쟁쟁한 후보들 속에서 상 못받을 줄 알았다. 수상소감 준비 못했는데 감사드린다\\\"고 소감을 밝혔다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그는 \\\"뒤에서 온몸을 던져가며 연기한 주많은 여배우들과 이 영광을 나누고 싶다. 7년 전에는 미용실에서 헤어스태프를 했는데 생업을 포기하고 이렇게 연기자가 되고 싶어서 힘든 시간이었지만 즐기려고 노력했다. 좋은 시작을 할 수 있게 응원해주셔서 감사하다. 앞으로도 즐기고 노력하겠다. 감사하다\\\"고 덧붙였다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 신인여우상 후보로는 권소현(마돈나), 김설현(강남1970), 박소담(경성학교: 사라진 소녀들), 이유비(스물), 이유영(간신)이 올랐다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 제36회 청룡영화상은 총 19개 부문에서 시상이 진행된다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청룡영화제 이유영, 대종상 이어 신인여우상 수상 \\\"생업 포기하고 연기…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

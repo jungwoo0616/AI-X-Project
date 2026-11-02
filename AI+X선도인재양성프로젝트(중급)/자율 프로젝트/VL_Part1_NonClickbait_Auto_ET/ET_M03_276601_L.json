@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276601",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강남스타일 1691일 만에 유튜브 1위 내줘",
+		"newsSubTitle": "",
+		"newsContent": "가수 싸이 ‘강남스타일’이 5년(1691일)만에 유튜브 1위를 내줬다.\n새로운 1위는 배우 폴 워커 추모곡 ‘씨유어게인’이다.\n2015년 4월 6일 유튜브에 등록된 ‘씨유 어게인(See You Again)’은 11일 ‘강남스타일’을 제치고 유튜브 전체 조회수 1위에 올랐다.\n2012년 7월 15일 유튜브에 등록된 ‘강남스타일’은 그해 11월 24일 저스틴 비버의 ‘베이비(Baby)’를 제치고 1위를 차지했다.\n이후 한번도 1위 자리를 내주지 않다가 1691일만인 이날 2위로 물러났다.\n해외 팬들은 ‘강남스타일’ 유튜브 영상에 “다시 1위를 만들자”라는 댓글을 달고 있다.\n씨유어게인은 이날 오전 8시 기준 28억 9427만 8632회의 조회수를 기록중이다.\n강남스타일은 28억 9411만 776회의 조회수를 기록했다.\n씨유어게인은 전날 까지 만해도 강남스타일에 100만회(오후 4시 기준) 가량 뒤져 있었다.\n씨유어게인은 ‘분노의질주: 더세븐’의 OST이자 이 영화 개봉에 앞서 교통사고로 고인이 된 배우 폴 워커를 추모하는 곡이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 싸이 ‘강남스타일’이 5년(1691일)만에 유튜브 1위를 내줬다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "새로운 1위는 배우 폴 워커 추모곡 ‘씨유어게인’이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2015년 4월 6일 유튜브에 등록된 ‘씨유 어게인(See You Again)’은 11일 ‘강남스타일’을 제치고 유튜브 전체 조회수 1위에 올랐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2012년 7월 15일 유튜브에 등록된 ‘강남스타일’은 그해 11월 24일 저스틴 비버의 ‘베이비(Baby)’를 제치고 1위를 차지했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 한번도 1위 자리를 내주지 않다가 1691일만인 이날 2위로 물러났다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해외 팬들은 ‘강남스타일’ 유튜브 영상에 “다시 1위를 만들자”라는 댓글을 달고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "씨유어게인은 이날 오전 8시 기준 28억 9427만 8632회의 조회수를 기록중이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "강남스타일은 28억 9411만 776회의 조회수를 기록했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "씨유어게인은 전날 까지 만해도 강남스타일에 100만회(오후 4시 기준) 가량 뒤져 있었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "씨유어게인은 ‘분노의질주: 더세븐’의 OST이자 이 영화 개봉에 앞서 교통사고로 고인이 된 배우 폴 워커를 추모하는 곡이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강남스타일 1691일 만에 유튜브 1위 내줘",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

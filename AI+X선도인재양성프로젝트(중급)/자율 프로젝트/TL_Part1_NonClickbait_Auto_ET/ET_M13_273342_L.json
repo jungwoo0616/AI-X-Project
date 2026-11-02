@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273342",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "아리랑TV, 자이냅스와 업무제휴-실제 기자음성을 훈련한 AI가 뉴스더빙",
+		"newsSubTitle": "",
+		"newsContent": "아리랑TV(사장 주동원)와 자이냅스(대표 주동원)가 지난 15일 서초동 아리랑TV 사옥에서 업무제휴 협약식을 가졌다.\n협약을 통해서 아리랑TV는 AI 가상음성을 활용한 뉴스패키지를 하반기 부터 제작할 수 있게된다.\nAI가 실제 기자 음성을 분석, 훈련하도록 해서 텍스트만 입력하면 해당기자의 음성으로 방송에 나가게 된다.\n이는 톤과 억양까지 실제 기자의 발성과 구분할 수 없는 수준이 될 것이다.\n기자가 영상자료에 본인의 음성을 입히는 더빙업무시 텍스트 입력만 하면 되므로 별도 더빙장소도 필요없고 제작 시간도 크게 단축된다.\n자이냅스 AI 컴퓨터 비전 및 음성인식 기술로 아리랑TV가 새로 오픈한 스마트라이브스튜디오에 AI미디어 제작 환경을 개발·구축하는데 상호 협력하기로 하였다.\nAI미디어 제작이란 제작자의 음성으로 방송장비를 제어하고 고화질 카메라의 다양한 영상 소스를 AI가 분석 선택하여 녹화, 또는 생방송을 할수 있는 신개념 제작 환경이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아리랑TV(사장 주동원)와 자이냅스(대표 주동원)가 지난 15일 서초동 아리랑TV 사옥에서 업무제휴 협약식을 가졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "협약을 통해서 아리랑TV는 AI 가상음성을 활용한 뉴스패키지를 하반기 부터 제작할 수 있게된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI가 실제 기자 음성을 분석, 훈련하도록 해서 텍스트만 입력하면 해당기자의 음성으로 방송에 나가게 된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 톤과 억양까지 실제 기자의 발성과 구분할 수 없는 수준이 될 것이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기자가 영상자료에 본인의 음성을 입히는 더빙업무시 텍스트 입력만 하면 되므로 별도 더빙장소도 필요없고 제작 시간도 크게 단축된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자이냅스 AI 컴퓨터 비전 및 음성인식 기술로 아리랑TV가 새로 오픈한 스마트라이브스튜디오에 AI미디어 제작 환경을 개발·구축하는데 상호 협력하기로 하였다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AI미디어 제작이란 제작자의 음성으로 방송장비를 제어하고 고화질 카메라의 다양한 영상 소스를 AI가 분석 선택하여 녹화, 또는 생방송을 할수 있는 신개념 제작 환경이다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아리랑TV, 자이냅스와 업무제휴-실제 기자음성을 훈련한 AI가 뉴스더빙",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

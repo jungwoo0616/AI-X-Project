@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265876",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘007’ 대니얼 크레이그, 코로나19 확진…무대 공연 취소",
+		"newsSubTitle": "",
+		"newsContent": "스파이 액션물 ‘007’ 시리즈에서 주인공 제임스 본드 역할을 연기한 영국 배우 대니얼 크레이그가 코로나19 양성 판정을 받았다.\n미국 영화 매체 데드라인은 3일(현지시간) 크레이그가 코로나19에 걸려 그의 브로드웨이 공연이 취소가 됐다고 전했다.\n크레이그는 이날부터 15주 동안 뉴욕 브로드웨이 롱에이커 극장에서 상연되는 ‘맥베스’에 출연할 예정이었으나 코로나19 양성 판정을 받음에 따라 무대에 오르지 못하게 됐다.\n크레이그의 이번 맥베스 공연은 9년 만의 브로드웨이 복귀 무대였다.\n극장 측은 크레이그 코로나 감염 외에 다른 정보는 공개를 하지 않았다.\n16년 동안 제6대 제임스 본드 역을 연기했던 크레이그는 작년 개봉한 007시리즈 25번째 작품 ‘노 타임 투 다이’를 마지막으로 시리즈에서 하차를 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스파이 액션물 ‘007’ 시리즈에서 주인공 제임스 본드 역할을 연기한 영국 배우 대니얼 크레이그가 코로나19 양성 판정을 받았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 영화 매체 데드라인은 3일(현지시간) 크레이그가 코로나19에 걸려 그의 브로드웨이 공연이 취소가 됐다고 전했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "크레이그는 이날부터 15주 동안 뉴욕 브로드웨이 롱에이커 극장에서 상연되는 ‘맥베스’에 출연할 예정이었으나 코로나19 양성 판정을 받음에 따라 무대에 오르지 못하게 됐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "크레이그의 이번 맥베스 공연은 9년 만의 브로드웨이 복귀 무대였다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "극장 측은 크레이그 코로나 감염 외에 다른 정보는 공개를 하지 않았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "16년 동안 제6대 제임스 본드 역을 연기했던 크레이그는 작년 개봉한 007시리즈 25번째 작품 ‘노 타임 투 다이’를 마지막으로 시리즈에서 하차를 했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘007’ 대니얼 크레이그, 코로나19 확진…무대 공연 취소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265926",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박해일, 안신우, 김강현 등 에스더블유엠피 배우들 강원도 산불 관련 봉사",
+		"newsSubTitle": "",
+		"newsContent": "박해일, 안신우, 김강현, 김유미 등 에스더블유엠피 소속의 배우들과 직원들이 강원도 산불피해 지역 봉사활동에 나섰다.\n5일 에스더블유엠피 측은 지난 산불로 큰 피해를 입은 강원도 강릉 인근 지역에서 봉사활동을 진행했다고 밝혔다.\n지난달 29일 진행된 봉사활동에는 강릉시 자원봉사센터와 함께 박해일을 비롯해 안신우, 김강현, 김유미, 황무영, 박지연, 변성범, 임유빈, 정수현, 공도은, 김세희 등 에스더블유엠피 소속 배우와 직원들이 참석해 힘을 합쳤다.\n이날 산불피해로 어려움을 겪고 있는 강릉시 옥계면 남양리 피해지역을 방문한 배우와 직원들은 피해가구 주변 정리활동을 진행했다.\n현장에 도착하자마자 누가 먼저랄 것도 없이 화재의 잔존물과 화재목을 정리한 이들은 하루라도 빨리 피해가 복구되길 바라는 마음으로 봉사에 뜻을 모았다.\n에스더블유엠피 관계자는 “3월초 발생한 산불피해 현장을 보며 안타까운 마음을 금치 못했다. 이에 바로 뜻을 모아 조그만 힘이라도 보탬이 되길 바라며 봉사활동을 진행하게 됐다. 이재민 분들께 위로의 말씀을 전하며 하루 빨리 회복될 수 있길 바란다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박해일, 안신우, 김강현, 김유미 등 에스더블유엠피 소속의 배우들과 직원들이 강원도 산불피해 지역 봉사활동에 나섰다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 에스더블유엠피 측은 지난 산불로 큰 피해를 입은 강원도 강릉 인근 지역에서 봉사활동을 진행했다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난달 29일 진행된 봉사활동에는 강릉시 자원봉사센터와 함께 박해일을 비롯해 안신우, 김강현, 김유미, 황무영, 박지연, 변성범, 임유빈, 정수현, 공도은, 김세희 등 에스더블유엠피 소속 배우와 직원들이 참석해 힘을 합쳤다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 산불피해로 어려움을 겪고 있는 강릉시 옥계면 남양리 피해지역을 방문한 배우와 직원들은 피해가구 주변 정리활동을 진행했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현장에 도착하자마자 누가 먼저랄 것도 없이 화재의 잔존물과 화재목을 정리한 이들은 하루라도 빨리 피해가 복구되길 바라는 마음으로 봉사에 뜻을 모았다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에스더블유엠피 관계자는 “3월초 발생한 산불피해 현장을 보며 안타까운 마음을 금치 못했다. 이에 바로 뜻을 모아 조그만 힘이라도 보탬이 되길 바라며 봉사활동을 진행하게 됐다. 이재민 분들께 위로의 말씀을 전하며 하루 빨리 회복될 수 있길 바란다”고 덧붙였다.",
+				"sentenceSize": 144
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박해일, 안신우, 김강현 등 에스더블유엠피 배우들 강원도 산불 관련 봉사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

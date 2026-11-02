@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171646",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘더쇼’ 공소원, 새 발라드 퀸 등장 알린 ‘모래알사랑’",
+    "newsSubTitle": "",
+    "newsContent": "‘감성보컬여신’ 공소원이 촉촉한 감성으로 음악 팬들 마음을 적셨다.\n공소원은 25일 오후 방송된 SBS MTV ‘더쇼’에 출연해 신곡 ‘모래알사랑’ 무대를 선보였다.\n공소원은 강렬한 레드 슈트 스타일링으로 시선을 사로잡았다.\n공소원은 애절한 보이스와 한층 짙어진 감성으로 무대를 가득 채우며 감성 여신 면모를 보였다.\n공소원은 ‘모래알사랑’이 가진 서정적인 가사에 몰입도를 더하는 목소리와 아련한 표정으로 감성을 사로잡았다.\n또한 노래와 색소폰 연주를 오가며 무대를 보는 재미를 더했다.\n공소원의 ‘모래알사랑’은 남녀의 사랑을 모래알에 비유한 서정적인 가사가 특징이며, 작사와 작곡에는 각각 이용구와 한형석이 참여해 완성도를 높였다.\n여기에 공소원만의 한층 더 풍부해진 보이스가 더해져 리스너들에게 진한 여운을 안기고 있다. ‘모래알사랑’을 공개한 공소원은 현재 유튜브 채널에 색소폰 연주 커버 영상들을 공개하는 등 팬들과 소통을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘감성보컬여신’ 공소원이 촉촉한 감성으로 음악 팬들 마음을 적셨다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공소원은 25일 오후 방송된 SBS MTV ‘더쇼’에 출연해 신곡 ‘모래알사랑’ 무대를 선보였다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공소원은 강렬한 레드 슈트 스타일링으로 시선을 사로잡았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공소원은 애절한 보이스와 한층 짙어진 감성으로 무대를 가득 채우며 감성 여신 면모를 보였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공소원은 ‘모래알사랑’이 가진 서정적인 가사에 몰입도를 더하는 목소리와 아련한 표정으로 감성을 사로잡았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 노래와 색소폰 연주를 오가며 무대를 보는 재미를 더했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공소원의 ‘모래알사랑’은 남녀의 사랑을 모래알에 비유한 서정적인 가사가 특징이며, 작사와 작곡에는 각각 이용구와 한형석이 참여해 완성도를 높였다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "여기에 공소원만의 한층 더 풍부해진 보이스가 더해져 리스너들에게 진한 여운을 안기고 있다. ‘모래알사랑’을 공개한 공소원은 현재 유튜브 채널에 색소폰 연주 커버 영상들을 공개하는 등 팬들과 소통을 이어가고 있다.",
+        "sentenceSize": 118
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 공소원, 노래 '모래알사랑' 공개 후 유튜브 채널에서 이 영상 공개까지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

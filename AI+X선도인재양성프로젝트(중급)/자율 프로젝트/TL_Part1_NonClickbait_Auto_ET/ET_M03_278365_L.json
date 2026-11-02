@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278365",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'해피투게더·1박2일' 차태현, \\\"다른 사람과 결혼했을 수도…돌아가고 싶을 때 있어\\\"",
+		"newsSubTitle": "",
+		"newsContent": "17일 방송된 '해피투게더3'에 '1박2일' 멤버들이 다함께 출연해 화제인 가운데 멤버들 중 차태현의 과거 발언이 눈길을 끈다.\n과거 방송된 KBS2 '김승우의 승승장구'에는 차태현이 출연했다.\n이날 방송에서 차태현은 \\\"아내 외에 다른 여자를 만나본 적 없느냐\\\"라는 질문에 \\\"없다\\\"고 답했다.\n차태현은 이어서 \\\"많은 분들이 첫사랑과 결혼한 것에 대해 대단하게 생각하지만, 그냥 상황이 그렇게 돼서 그런것 뿐이다\\\"라며 \\\"여러 사람을 만났다면 다른사람과 결혼했을 지도 모른다\\\"고 설명했다.\n이후 그는 \\\"사실 가끔은 총각시절로 돌아가고 싶을때도 있다\\\"고 고백해 웃음을 자아냈다.\n온라인 중앙일보 [사진 KBS2 '해피투게더3' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "17일 방송된 '해피투게더3'에 '1박2일' 멤버들이 다함께 출연해 화제인 가운데 멤버들 중 차태현의 과거 발언이 눈길을 끈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된 KBS2 '김승우의 승승장구'에는 차태현이 출연했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 차태현은 \\\"아내 외에 다른 여자를 만나본 적 없느냐\\\"라는 질문에 \\\"없다\\\"고 답했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차태현은 이어서 \\\"많은 분들이 첫사랑과 결혼한 것에 대해 대단하게 생각하지만, 그냥 상황이 그렇게 돼서 그런것 뿐이다\\\"라며 \\\"여러 사람을 만났다면 다른사람과 결혼했을 지도 모른다\\\"고 설명했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 그는 \\\"사실 가끔은 총각시절로 돌아가고 싶을때도 있다\\\"고 고백해 웃음을 자아냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS2 '해피투게더3' 캡처]",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'해피투게더·1박2일' 차태현, \\\"다른 사람과 결혼했을 수도…돌아가고 싶을 때 있어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

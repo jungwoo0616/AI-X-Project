@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284107",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "에이미 선처 호소 \\\"연고도 없는 미국에서 어떻게 살지 막막해\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 에이미가 출국명령처분 취소 소송 항소심 재판서 선처를 호소했다.\n4일 서울고등법원 제1별관 306호법정에서는 에이미의 출국명령처분취소 소송과 관련한 첫 번째 변론기일이 열렸다.\n이날 에이미는 재판부에 발언 기회를 요청해 직접 선처를 호소했다.\n그는 \\\"쫓겨나면 10년 이상, 혹은 영영 못 돌아올 수 있다고 한다. 잘못한 것은 인정하지만 힘들고 고통스럽다. 연고도 없는 미국에서 어떻게 살지 막막하고 삶을 이어갈 수 있을지 조차 알 수 없다\\\"고 밝혔다.\n이어 \\\"현실적으로 연예인이 될 수 없는 상황이다. 가족과 함께 살고 싶고 얼마 생이 남지 않으신 할아버지의 임종을 지키고 싶다\\\"고 선처를 호소했다.\n한편 지난해 9월 서울중앙지법 형사9단독(정은영 부장판사)은 에이미를 향정신성의약품 복용 위반 혐의에 대해 벌금 500만원을 선고했다.\n이와 관련 출입국 당국은 외국인이 금고 이상의 형을 선고받고 석방될 경우 강제출국 명령을 내릴 수 있다는 출입국관리법에 따라 미국 국적인 에이미에 대해 출국명령을 내렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 에이미가 출국명령처분 취소 소송 항소심 재판서 선처를 호소했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 서울고등법원 제1별관 306호법정에서는 에이미의 출국명령처분취소 소송과 관련한 첫 번째 변론기일이 열렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 에이미는 재판부에 발언 기회를 요청해 직접 선처를 호소했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"쫓겨나면 10년 이상, 혹은 영영 못 돌아올 수 있다고 한다. 잘못한 것은 인정하지만 힘들고 고통스럽다. 연고도 없는 미국에서 어떻게 살지 막막하고 삶을 이어갈 수 있을지 조차 알 수 없다\\\"고 밝혔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 \\\"현실적으로 연예인이 될 수 없는 상황이다. 가족과 함께 살고 싶고 얼마 생이 남지 않으신 할아버지의 임종을 지키고 싶다\\\"고 선처를 호소했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지난해 9월 서울중앙지법 형사9단독(정은영 부장판사)은 에이미를 향정신성의약품 복용 위반 혐의에 대해 벌금 500만원을 선고했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 관련 출입국 당국은 외국인이 금고 이상의 형을 선고받고 석방될 경우 강제출국 명령을 내릴 수 있다는 출입국관리법에 따라 미국 국적인 에이미에 대해 출국명령을 내렸다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이미 선처 호소 \\\"연고도 없는 미국에서 어떻게 살지 막막해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

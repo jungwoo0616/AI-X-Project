@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261182",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘우월한 하루’ 진구-하도권-이원근, 메인 포스터 공개",
+		"newsSubTitle": "",
+		"newsContent": "배우 진구와 하도권, 이원근이 출연하는 OCN 드라마 ‘우월한 하루’가 메인 포스터를 공개했다.\n다음 달 13일 첫 방송을 앞둔 OCN 드라마 ‘우월한 하루’의 제작사 아이윌미디어는 극중 이호철(진구), 배태진(하도권), 권시우(이원근)의 물고 물린 관계성과 긴박함이 느껴지는 메인 포스터를 공개했다.\n포스터 속에는 똑같이 주어진 시간 안에서도 각기 다른 목표와 태도를 가진 세 남자의 모습이 담겼다.\n24시간 이내에 연쇄 살인마를 찾아야 납치된 딸을 구할 수 있는 이호철과 모종의 이유로 살인마를 쫓는 완성형 킬러 배태진 그리고 세상 누구보다 우월하다고 믿는 예술 살인마 권시우의 모습이 포함됐다.\n이들 세 명은 각각의 감정인 절박함과 느긋함 그리고 불안함을 포스터를 통해 표현했다.\n제작진은 이 포스터와 함께 웹툰 작화가 포함된 메인 포스터도 공개했다.\n가장 보통의 남자가 납치된 딸을 구하기 위해 옆집에 거주하는 연쇄 살인마를 죽여야 하는, 가장 우월한 자만이 살아남는 24시간 폭주 스릴러를 그린 OCN 새 드라마 ‘우월한 하루’는 다음달 13일 오후 10시30분 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 진구와 하도권, 이원근이 출연하는 OCN 드라마 ‘우월한 하루’가 메인 포스터를 공개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다음 달 13일 첫 방송을 앞둔 OCN 드라마 ‘우월한 하루’의 제작사 아이윌미디어는 극중 이호철(진구), 배태진(하도권), 권시우(이원근)의 물고 물린 관계성과 긴박함이 느껴지는 메인 포스터를 공개했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포스터 속에는 똑같이 주어진 시간 안에서도 각기 다른 목표와 태도를 가진 세 남자의 모습이 담겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "24시간 이내에 연쇄 살인마를 찾아야 납치된 딸을 구할 수 있는 이호철과 모종의 이유로 살인마를 쫓는 완성형 킬러 배태진 그리고 세상 누구보다 우월하다고 믿는 예술 살인마 권시우의 모습이 포함됐다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 세 명은 각각의 감정인 절박함과 느긋함 그리고 불안함을 포스터를 통해 표현했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제작진은 이 포스터와 함께 웹툰 작화가 포함된 메인 포스터도 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가장 보통의 남자가 납치된 딸을 구하기 위해 옆집에 거주하는 연쇄 살인마를 죽여야 하는, 가장 우월한 자만이 살아남는 24시간 폭주 스릴러를 그린 OCN 새 드라마 ‘우월한 하루’는 다음달 13일 오후 10시30분 첫 방송된다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘우월한 하루’ 진구-하도권-이원근, 메인 포스터 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

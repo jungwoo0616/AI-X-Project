@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262284",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "돌아온 (여자)아이들, 프러포즈 9",
+		"newsSubTitle": "",
+		"newsContent": "(여자)아이들(미연, 민니, 소연, 우기, 슈화)이 정규 1집 ‘I NEVER DIE’의 트랙 리스트를 공개했다.\n28일 자정 (여자)아이들의 공식 SNS 채널에는 정규 1집 ‘I NEVER DIE’의 트랙 리스트를 공개, 타이틀곡 ‘TOMBOY’(톰보이)를 포함해 총 9곡이 수록됐다.\n특히 타이틀곡 ‘TOMBOY’는 (여자)아이들 소연이 작곡, 작사, 편곡까지 이름을 올려 어떤 콘셉트와 곡으로 또 하나의 명곡을 탄생시킬지 벌써부터 글로벌 팬들의 기대감이 한껏 고조됐다.\n더불어 수록곡 전곡 작곡, 작사에 (여자)아이들 멤버 민니와 우기가 크레딧에 이름을 새기며 한층 폭넓어진 음악적 역량을 보여줄 것으로 기대된다.\n앞서 (여자)아이들은 오는 3월 14일 컴백을 확정 짓고 다양하고 풍부한 티징 콘텐츠를 예고해 팬들의 컴백 열기를 끌어올렸다. (여자)아이들은 데뷔곡 ‘라타타’(LATATA)를 비롯해 ‘한’, ‘세뇨리타’, ‘덤디덤디’ 등 발표하는 곡마다 독특한 콘셉트를 완벽하게 소화했으며, 지난해 ‘화(火花)’ 발매와 동시에 전 세계 52개 지역 아이튠즈 앨범 차트 정상에 오르는 등의 자체 최고 기록을 경신하며 거침없는 글로벌 활약을 펼쳤다.\n한편, (여자)아이들은 오는 3월 14일 정규 1집 ‘I NEVER DIE’로 컴백한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "(여자)아이들(미연, 민니, 소연, 우기, 슈화)이 정규 1집 ‘I NEVER DIE’의 트랙 리스트를 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 자정 (여자)아이들의 공식 SNS 채널에는 정규 1집 ‘I NEVER DIE’의 트랙 리스트를 공개, 타이틀곡 ‘TOMBOY’(톰보이)를 포함해 총 9곡이 수록됐다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 타이틀곡 ‘TOMBOY’는 (여자)아이들 소연이 작곡, 작사, 편곡까지 이름을 올려 어떤 콘셉트와 곡으로 또 하나의 명곡을 탄생시킬지 벌써부터 글로벌 팬들의 기대감이 한껏 고조됐다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더불어 수록곡 전곡 작곡, 작사에 (여자)아이들 멤버 민니와 우기가 크레딧에 이름을 새기며 한층 폭넓어진 음악적 역량을 보여줄 것으로 기대된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 (여자)아이들은 오는 3월 14일 컴백을 확정 짓고 다양하고 풍부한 티징 콘텐츠를 예고해 팬들의 컴백 열기를 끌어올렸다. (여자)아이들은 데뷔곡 ‘라타타’(LATATA)를 비롯해 ‘한’, ‘세뇨리타’, ‘덤디덤디’ 등 발표하는 곡마다 독특한 콘셉트를 완벽하게 소화했으며, 지난해 ‘화(火花)’ 발매와 동시에 전 세계 52개 지역 아이튠즈 앨범 차트 정상에 오르는 등의 자체 최고 기록을 경신하며 거침없는 글로벌 활약을 펼쳤다.",
+				"sentenceSize": 241
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, (여자)아이들은 오는 3월 14일 정규 1집 ‘I NEVER DIE’로 컴백한다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "돌아온 (여자)아이들, 프러포즈 9",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

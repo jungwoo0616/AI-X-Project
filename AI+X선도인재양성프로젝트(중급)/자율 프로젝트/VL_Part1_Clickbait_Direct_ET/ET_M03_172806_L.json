@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172806",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "해피투게더 진보라, 부드러운 머릿결+속살…'이렇게나 청순했어?'",
+    "newsSubTitle": "",
+    "newsContent": "피아니스트 진보라가 ′해피투게더′에 출연한 가운데 그의 쇄골라인이 재조명되고 있다.\n진보라는 과거 자신의 싸이월드 미니홈피를 통해 \\\"연주전\\\"이란 글과 함께 사진 한장을 개제했다.\n공개된 사진에는 진보라가 검은 연주 의상을 입고 의자에 앉아 어딘가를 응시하고 있다.\n그의 가녀린 팔과 깊은 쇄골라인이 이목을 끈다.\n한편 10일 방송된 KBS2 ′해피투게더 시즌3′에는 ′아홉수 인생′ 특집에서는 서태화, 진보라, 페이, 서태훈, 김경란이 출연해 입담을 뽐냈다.\n온라인 중앙일보 해피투게더 진보라 [사진 진보라 싸이월드 미니홈피]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "피아니스트 진보라가 ′해피투게더′에 출연한 가운데 그의 쇄골라인이 재조명되고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "진보라는 과거 자신의 싸이월드 미니홈피를 통해 \\\"연주전\\\"이란 글과 함께 사진 한장을 개제했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 진보라가 검은 연주 의상을 입고 의자에 앉아 어딘가를 응시하고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그의 가녀린 팔과 깊은 쇄골라인이 이목을 끈다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 10일 방송된 KBS2 ′해피투게더 시즌3′에는 ′아홉수 인생′ 특집에서는 서태화, 진보라, 페이, 서태훈, 김경란이 출연해 입담을 뽐냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 해피투게더 진보라 [사진 진보라 싸이월드 미니홈피]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "′해피투게더′ 진보라, 돋보이는 그녀의 '이곳'... 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

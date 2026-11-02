@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262314",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "엄태웅♥윤혜진, 애정 전선 이상無",
+		"newsSubTitle": "",
+		"newsContent": "엄태웅이 아내와의 근황을 공개했다.\n엄태웅은 28일 자신의 사회관계망서비스(SNS)인스타그램에 직접 찍은 아내의 사진을 공개했다.\n사진 속 엄태웅의 아내 윤혜진은 야외에서 어딘가를 응시하고 있다.\n흑백 사진에서 그녀만의 시크한 분위기가 돋보인다.\n사진을 통해 아내를 사랑하는 엄태웅의 마음이 고스란히 느껴진다.\n한편 엄태웅은 지난 2017년 영화 ‘포크레인’ 이후 영화 ‘마지막 숙제’로 복귀할 예정이다.\n2013년 발레리나 윤혜진과 결혼해 슬하에 딸을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엄태웅이 아내와의 근황을 공개했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엄태웅은 28일 자신의 사회관계망서비스(SNS)인스타그램에 직접 찍은 아내의 사진을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 엄태웅의 아내 윤혜진은 야외에서 어딘가를 응시하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "흑백 사진에서 그녀만의 시크한 분위기가 돋보인다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진을 통해 아내를 사랑하는 엄태웅의 마음이 고스란히 느껴진다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 엄태웅은 지난 2017년 영화 ‘포크레인’ 이후 영화 ‘마지막 숙제’로 복귀할 예정이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2013년 발레리나 윤혜진과 결혼해 슬하에 딸을 두고 있다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엄태웅♥윤혜진, 애정 전선 이상無",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

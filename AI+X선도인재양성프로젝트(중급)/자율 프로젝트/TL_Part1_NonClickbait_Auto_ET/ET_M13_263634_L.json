@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263634",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신구, 건강악화 입원…‘라스트세션’ 내일 오영수 무대",
+		"newsSubTitle": "",
+		"newsContent": "신구(86)가 건강 문제로 입원 치료 중이다.\n연극 ‘라스트 세션’ 제작사 파크컴퍼니 측은 11일 SNS를 통해 “(극 중)프로이트 역으로 출연 중인 신구 배우의 건강 문제로 인해 캐스팅 일정이 변경됐다”며 12일 공연에는 신구 대신 오영수가 무대에 오른다고 밝혔다.\n또 “신구 선생님께서 최근 건강이 안 좋으신 상태에서도 관객과의 약속을 지키시기 위해 병원에 가지 않고 무대에 오르셨다”며 “선생님께서는 공연을 계속하길 원하셨으나 주변에서 설득해 어제(10일) 공연 종료 후 입원해 현재 치료 중”이라고 전했다.\n그러면서 “관객과의 약속을 최우선으로 해오셨던 만큼 지금도 이 상황을 너무 힘들고 미안해하신다”고 덧붙였다.\n제작사 측은 “현재 심각하게 걱정할 상태는 아니며 뭐든 주의하는 게 좋을 것 같아 입원하게 됐다”고 설명했다.\n신구는 지난 1월부터 연극 ‘라스트 세션’에 출연해 연기를 펼쳐왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신구(86)가 건강 문제로 입원 치료 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연극 ‘라스트 세션’ 제작사 파크컴퍼니 측은 11일 SNS를 통해 “(극 중)프로이트 역으로 출연 중인 신구 배우의 건강 문제로 인해 캐스팅 일정이 변경됐다”며 12일 공연에는 신구 대신 오영수가 무대에 오른다고 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 “신구 선생님께서 최근 건강이 안 좋으신 상태에서도 관객과의 약속을 지키시기 위해 병원에 가지 않고 무대에 오르셨다”며 “선생님께서는 공연을 계속하길 원하셨으나 주변에서 설득해 어제(10일) 공연 종료 후 입원해 현재 치료 중”이라고 전했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “관객과의 약속을 최우선으로 해오셨던 만큼 지금도 이 상황을 너무 힘들고 미안해하신다”고 덧붙였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제작사 측은 “현재 심각하게 걱정할 상태는 아니며 뭐든 주의하는 게 좋을 것 같아 입원하게 됐다”고 설명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신구는 지난 1월부터 연극 ‘라스트 세션’에 출연해 연기를 펼쳐왔다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신구, 건강악화 입원…‘라스트세션’ 내일 오영수 무대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

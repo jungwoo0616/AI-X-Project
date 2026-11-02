@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279530",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'택시' 신수지, 허경환과의 열애설 언급 \\\"가만 뒀으면 잘 됐을 텐데\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'택시'에 출연한 신수지가 허경환과의 열애설을 언급했다.\n12일 방송된 케이블채널 tvN '현장토크쇼 택시'에서는 성공한 캔디걸 특집으로, 슬프고 힘들었던 과거를 딛고 성공한 캔디걸 방송인 김정민과 프로 볼러 신수지가 출연해 입담을 뽐냈다.\n이날 신수지는 허경환과의 스캔들에 대해 \\\"'출발 드림팀'에서 커플 게임을 했는데 같은 색 티를 입고 왔다. 그 이후 '개그콘서트'에 어떤 코너에 나갔다. 오빠 코너는 아니고 다른 코너였다\\\"고 해명했다.\n연달아 허경환과 같은 프로그램에 나가며 열애설이 터진 것이라는 설명. 이어 신수지는 사람들에게 \\\"아니라고 했는데도 계속 (열애설이) 터지니까 못 보겠더라\\\"고 말했다.\n신수지는 \\\"(허경환이) 가만 뒀으면 잘 됐을 텐데 열애설 때문에 잘 안 된 거라고 그러더라. 나도 (허경환 오빠가) 나쁘진 않았다\\\"고 털어놨다.\n한편 '택시'는 도로 위에서 펼쳐지는 공감 토크쇼로 매주 화요일 오후 8시 40분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'택시'에 출연한 신수지가 허경환과의 열애설을 언급했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 방송된 케이블채널 tvN '현장토크쇼 택시'에서는 성공한 캔디걸 특집으로, 슬프고 힘들었던 과거를 딛고 성공한 캔디걸 방송인 김정민과 프로 볼러 신수지가 출연해 입담을 뽐냈다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 신수지는 허경환과의 스캔들에 대해 \\\"'출발 드림팀'에서 커플 게임을 했는데 같은 색 티를 입고 왔다. 그 이후 '개그콘서트'에 어떤 코너에 나갔다. 오빠 코너는 아니고 다른 코너였다\\\"고 해명했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연달아 허경환과 같은 프로그램에 나가며 열애설이 터진 것이라는 설명. 이어 신수지는 사람들에게 \\\"아니라고 했는데도 계속 (열애설이) 터지니까 못 보겠더라\\\"고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신수지는 \\\"(허경환이) 가만 뒀으면 잘 됐을 텐데 열애설 때문에 잘 안 된 거라고 그러더라. 나도 (허경환 오빠가) 나쁘진 않았다\\\"고 털어놨다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 '택시'는 도로 위에서 펼쳐지는 공감 토크쇼로 매주 화요일 오후 8시 40분에 방송된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'택시' 신수지, 허경환과의 열애설 언급 \\\"가만 뒀으면 잘 됐을 텐데\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

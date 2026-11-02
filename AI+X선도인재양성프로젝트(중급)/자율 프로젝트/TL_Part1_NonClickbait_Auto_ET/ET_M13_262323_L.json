@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262323",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "트와이스 미나, 힙한 스타일도 잘 어울리네... M사 가방메며 명품 비율 자랑",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스(TWICE) 멤버 미나가 힙한 스타일을 선보였다.\n미나가 28일 오전 트와이스 공식 사회 관계망 서비스(SNS)에 화보 사진들을 게재했다.\n사진 속 미나는 캐쥬얼한 블랙 트레이닝복 상·하의에 초록색 M사 가방을 매치해 힙한 스프링 룩을 완성했다.\n미나는 데뷔 초부터 청초하면서도 단아한 분위기와 고급스럽고 화려한 외모로 주목받아왔다.\n사진 속 미나는 이런 이미지와 상반되는 매력과 특유의 카리스마가 더해져 눈길을 끈다.\n한편 트와이스는 지난 2021년 12월 25일과 26일 양일간 서울 송파구 KSPO DOME(올림픽체조경기장)에서 단독 콘서트 ‘TWICE 4TH WORLD TOUR ’Ⅲ‘’(트와이스 네 번째 월드투어 ‘쓰리’)의 포문을 열었고, 15일과 16일 이틀 동안 개최된 로스앤젤레스 공연을 시작으로 미주 투어에 돌입했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스(TWICE) 멤버 미나가 힙한 스타일을 선보였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미나가 28일 오전 트와이스 공식 사회 관계망 서비스(SNS)에 화보 사진들을 게재했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 미나는 캐쥬얼한 블랙 트레이닝복 상·하의에 초록색 M사 가방을 매치해 힙한 스프링 룩을 완성했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미나는 데뷔 초부터 청초하면서도 단아한 분위기와 고급스럽고 화려한 외모로 주목받아왔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 미나는 이런 이미지와 상반되는 매력과 특유의 카리스마가 더해져 눈길을 끈다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 트와이스는 지난 2021년 12월 25일과 26일 양일간 서울 송파구 KSPO DOME(올림픽체조경기장)에서 단독 콘서트 ‘TWICE 4TH WORLD TOUR ’Ⅲ‘’(트와이스 네 번째 월드투어 ‘쓰리’)의 포문을 열었고, 15일과 16일 이틀 동안 개최된 로스앤젤레스 공연을 시작으로 미주 투어에 돌입했다.",
+				"sentenceSize": 176
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 미나, 힙한 스타일도 잘 어울리네... M사 가방메며 명품 비율 자랑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

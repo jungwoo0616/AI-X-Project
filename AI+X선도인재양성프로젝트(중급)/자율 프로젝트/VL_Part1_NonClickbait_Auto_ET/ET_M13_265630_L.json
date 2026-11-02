@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265630",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "빅팀레코드, 7일 한국·일본·우크라이나 밴드 합작앨범 발매",
+		"newsSubTitle": "",
+		"newsContent": "기획사 빅팀 레코드가 3개국 합작 앨범을 발매한다.\n빅팀 레코드는 1일 공식 보도자료를 통해 한국, 일본, 우크라이나 3개국 밴드가 모여 ‘All Kinds Of Victim vol.3’을 공개한다고 밝혔다.\n이번 앨범은 지난 2020년 발매된 ‘All Kinds Of Victim vol.2’ 이후 약 2년 만의 신보로 일본 ETE 레코드의 QUICKDEAD, 한국 Catch All records의 Stirke Again, 우크라이나 밴드 Timewaster가 참여했다.\n빅팀 레코드는 1980~90년대 한국 사회, 문화, 시대 정신을 모티브로 만든 레코드 회사로 앨범 발매 및 제작, 브랜드 머천다이즈, 콘서트 티켓 등을 판매하고 있다.\n현재는 오버헤드, 몽키피콰르텟을 비롯한 9팀의 아티스트가 소속돼 있다.\n한편 빅팀 레코드의 ‘All Kinds Of Victim vol.3’는 오는 7일 정오에 발매된다.\n빅팀레코드, 7일 한국·일본·우크라이나 밴드 합작앨범 발매",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기획사 빅팀 레코드가 3개국 합작 앨범을 발매한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅팀 레코드는 1일 공식 보도자료를 통해 한국, 일본, 우크라이나 3개국 밴드가 모여 ‘All Kinds Of Victim vol.3’을 공개한다고 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 앨범은 지난 2020년 발매된 ‘All Kinds Of Victim vol.2’ 이후 약 2년 만의 신보로 일본 ETE 레코드의 QUICKDEAD, 한국 Catch All records의 Stirke Again, 우크라이나 밴드 Timewaster가 참여했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빅팀 레코드는 1980~90년대 한국 사회, 문화, 시대 정신을 모티브로 만든 레코드 회사로 앨범 발매 및 제작, 브랜드 머천다이즈, 콘서트 티켓 등을 판매하고 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재는 오버헤드, 몽키피콰르텟을 비롯한 9팀의 아티스트가 소속돼 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 빅팀 레코드의 ‘All Kinds Of Victim vol.3’는 오는 7일 정오에 발매된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "빅팀레코드, 7일 한국·일본·우크라이나 밴드 합작앨범 발매",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅팀레코드, 7일 한국·일본·우크라이나 밴드 합작앨범 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

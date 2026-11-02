@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258923",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "소녀시대 서현 “뮤즈가 되어”",
+		"newsSubTitle": "",
+		"newsContent": "뮤즈가 되어 걸그룹 소녀시대 서현이 화보 촬영 사진을 공개했다.\n서현은 21일 자신의 SNS에 “Dewl 의 뮤즈가 되어 인간 듀엘이 되었서”라는 문구와 사진들을 올렸다.\n서현은 사진 속에서 꽃다발과 함께 포즈를 취했다.\n서현은 녹색 원피스를 입고 민트 컬러 슈즈를 신어 세련된 옷맵시를 보여줬다.\n서현은 OTT 넷플릭스 오리지널 시리즈 ‘모럴 센스’(가제)에 출연을 확정했다.\n또 새 드라마 ‘징크스의 연인’도 촬영 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤즈가 되어 걸그룹 소녀시대 서현이 화보 촬영 사진을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서현은 21일 자신의 SNS에 “Dewl 의 뮤즈가 되어 인간 듀엘이 되었서”라는 문구와 사진들을 올렸다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서현은 사진 속에서 꽃다발과 함께 포즈를 취했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서현은 녹색 원피스를 입고 민트 컬러 슈즈를 신어 세련된 옷맵시를 보여줬다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서현은 OTT 넷플릭스 오리지널 시리즈 ‘모럴 센스’(가제)에 출연을 확정했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 새 드라마 ‘징크스의 연인’도 촬영 중이다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소녀시대 서현 “뮤즈가 되어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

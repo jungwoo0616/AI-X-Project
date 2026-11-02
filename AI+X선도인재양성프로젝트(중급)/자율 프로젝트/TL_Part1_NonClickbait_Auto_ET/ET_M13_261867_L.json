@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261867",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "린이 부른 ‘작은 온기’",
+		"newsSubTitle": "",
+		"newsContent": "‘OST퀸’ 가수 린(LYn)이 허각의 ‘작은 온기’를 재해석한다.\n린은 오는 25일 오후 6시 ‘THE M(더 엠)’ 프로젝트의 일환으로 신곡 ‘작은 온기’를 공개한다.\n뮤직 스토리텔링 프로젝트 ‘THE M’은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림에 담는 시리즈 프로젝트다.\n지난해 11월 허각의 ‘작은 온기’ 발매를 시작으로 지난 1월 경서의 ‘꿈이라면’ 발매에 이어 린이 세 번째 주자를 맡았다.\n린은 허각이 불렀던 ‘THE M’ 프로젝트의 첫 번째 타이틀곡 ‘작은 온기’를 본인만의 섬세한 감성으로 재해석한다. ‘작은 온기’는 드라마와 뮤지컬 등으로 제작돼 공전의 히트를 기록한 ‘또 오해영’의 스핀 오프 콘텐츠다.\n특히 헤어진 연인과의 추억을 잊어보려 노력하지만 오히려 그리움만 더해진다는 가삿말을 일러스트 뮤직비디오로 그려내 이별 뒤의 애절한 감정을 한층 고조시킨다.\n린의 신곡 ‘작은 온기’는 오는 25일 오후 6시 각종 음원사이트를 통해 공개된다.\n한편, ‘THE M’ 프로젝트는 국내 최정상 보컬리스트들이 참여해 눈과 귀로 즐길 수 있는 다양한 콘텐츠를 선보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘OST퀸’ 가수 린(LYn)이 허각의 ‘작은 온기’를 재해석한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "린은 오는 25일 오후 6시 ‘THE M(더 엠)’ 프로젝트의 일환으로 신곡 ‘작은 온기’를 공개한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뮤직 스토리텔링 프로젝트 ‘THE M’은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림에 담는 시리즈 프로젝트다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 11월 허각의 ‘작은 온기’ 발매를 시작으로 지난 1월 경서의 ‘꿈이라면’ 발매에 이어 린이 세 번째 주자를 맡았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "린은 허각이 불렀던 ‘THE M’ 프로젝트의 첫 번째 타이틀곡 ‘작은 온기’를 본인만의 섬세한 감성으로 재해석한다. ‘작은 온기’는 드라마와 뮤지컬 등으로 제작돼 공전의 히트를 기록한 ‘또 오해영’의 스핀 오프 콘텐츠다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 헤어진 연인과의 추억을 잊어보려 노력하지만 오히려 그리움만 더해진다는 가삿말을 일러스트 뮤직비디오로 그려내 이별 뒤의 애절한 감정을 한층 고조시킨다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "린의 신곡 ‘작은 온기’는 오는 25일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, ‘THE M’ 프로젝트는 국내 최정상 보컬리스트들이 참여해 눈과 귀로 즐길 수 있는 다양한 콘텐츠를 선보이고 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "린이 부른 ‘작은 온기’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

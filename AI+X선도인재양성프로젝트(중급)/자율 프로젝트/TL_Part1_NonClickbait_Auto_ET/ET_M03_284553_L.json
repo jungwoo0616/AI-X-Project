@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284553",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘무한도전’ 우표, 5000매 한정 판매…가격은?",
+		"newsSubTitle": "",
+		"newsContent": "‘무한도전’이 방영 10주년 기념우표 5000매를 한정판으로 발행한다.\n지난달 30일 서울지방우정청은 MBC 간판 예능프로그램 ‘무한도전’을 소재로 한 우표가 발행된다고 밝혔다.\n예약 판매는 2일 부터 이뤄진다.\n무한도전 우표는 ‘우주여행’을 모티브로 한 디자인과 함께 캐릭터 우표 및 컬러링이 가능한 엽서가 세트상품으로 구성됐다.\n무한도전 우표는 액면표기가 없는 ‘영원 우표’라는 것이 특징이다.\n영원 우표는 시간이 지나도 늘 표준 우편요금으로 간주해 사용할 수 있는 우표다.\n우편 정책 및 가격 변동에 구애받지 않아 언제나 사용할 수 있다.\n무한도전 우표는 2일 ‘지마켓’과 ‘포스타’ 홈페이지에서 온라인 사전 구매 예약을 받는다.\n서울중앙우체국에서는 11일부터 판매될 예정이며 가격은 2만 원이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘무한도전’이 방영 10주년 기념우표 5000매를 한정판으로 발행한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 30일 서울지방우정청은 MBC 간판 예능프로그램 ‘무한도전’을 소재로 한 우표가 발행된다고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예약 판매는 2일 부터 이뤄진다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무한도전 우표는 ‘우주여행’을 모티브로 한 디자인과 함께 캐릭터 우표 및 컬러링이 가능한 엽서가 세트상품으로 구성됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무한도전 우표는 액면표기가 없는 ‘영원 우표’라는 것이 특징이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영원 우표는 시간이 지나도 늘 표준 우편요금으로 간주해 사용할 수 있는 우표다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우편 정책 및 가격 변동에 구애받지 않아 언제나 사용할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "무한도전 우표는 2일 ‘지마켓’과 ‘포스타’ 홈페이지에서 온라인 사전 구매 예약을 받는다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "서울중앙우체국에서는 11일부터 판매될 예정이며 가격은 2만 원이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘무한도전’ 우표, 5000매 한정 판매…가격은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171302",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "tvN ‘운동천재 안재현’ 안재현 “생태계 파괴 걱정” 자신감",
+    "newsSubTitle": "",
+    "newsContent": "tvN ‘운동천재 안재현’이 1일 밤 10시 30분 첫 방송된다. ‘운동천재 안재현’(연출 신효정, 하무성)은 자타공인 허당 몸치 안재현이 슈퍼 스포츠맨으로 거듭나기 위해 다양한 스포츠 종목의 실력자를 찾아가 배우는 잠재력 발굴 도전기다.\n제기차기부터 시작해 탁구, 족구 등 그야말로 못하는 스포츠밖에 없던 안재현이 운동천재의 꿈을 안고 각종 운동을 섭렵할 예정이다.\n오늘 첫 방송에서는 안재현이 “(스포츠계에)생태계 파괴 있을 것”이라며 근거가 모호한 자신감을 드러내 웃음을 안긴다.\n운동을 못하는 것이 아니라 해보지 않았을 뿐이라는 것. 나영석PD는 잠시 긴장하지만, 이내 밝혀지는 안재현의 허술한 모습에 폭소했다는 현장의 전언이다.\n또 다른 관전 포인트는 안재현의 운동 잠재력 평가다.\n피지컬, 승부욕, 내구성 등 다방면 분석과 함께 안재현의 잠재력을 발굴하기 위한 노력이 큰 웃음을 예고한다.\n가장 취약한 분야인 대망의 제기차기 결과도 공개된다.\n안재현이 과연 어떤 스포츠에 도전할 수 있을지 기대가 커지고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "tvN ‘운동천재 안재현’이 1일 밤 10시 30분 첫 방송된다. ‘운동천재 안재현’(연출 신효정, 하무성)은 자타공인 허당 몸치 안재현이 슈퍼 스포츠맨으로 거듭나기 위해 다양한 스포츠 종목의 실력자를 찾아가 배우는 잠재력 발굴 도전기다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제기차기부터 시작해 탁구, 족구 등 그야말로 못하는 스포츠밖에 없던 안재현이 운동천재의 꿈을 안고 각종 운동을 섭렵할 예정이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오늘 첫 방송에서는 안재현이 “(스포츠계에)생태계 파괴 있을 것”이라며 근거가 모호한 자신감을 드러내 웃음을 안긴다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "운동을 못하는 것이 아니라 해보지 않았을 뿐이라는 것. 나영석PD는 잠시 긴장하지만, 이내 밝혀지는 안재현의 허술한 모습에 폭소했다는 현장의 전언이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 다른 관전 포인트는 안재현의 운동 잠재력 평가다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "피지컬, 승부욕, 내구성 등 다방면 분석과 함께 안재현의 잠재력을 발굴하기 위한 노력이 큰 웃음을 예고한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가장 취약한 분야인 대망의 제기차기 결과도 공개된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "안재현이 과연 어떤 스포츠에 도전할 수 있을지 기대가 커지고 있다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "못하는 스포츠밖에 없는 안재현, 그중 가장 못하는 운동 ‘이것’ ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

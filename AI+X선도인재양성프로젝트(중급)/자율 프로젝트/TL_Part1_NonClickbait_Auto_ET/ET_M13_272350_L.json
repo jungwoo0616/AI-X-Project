@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272350",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘클리닝 업’ 나인우, 너드남 변신",
+		"newsSubTitle": "",
+		"newsContent": "배우 나인우가 종합편성채널 JTBC 새 주말극 ‘클리닝 업’에서 너드남으로 변신했다.\n5일 오후 방송된 ‘클리닝 업’ 2화에서는 이두영(나인우)이 어용미(염정아)를 난처하게 만드는 과정이 그려졌다.\n이날 이두영은 사채업자인 오동주(윤경호)를 스스럼 없이 집안에 들인 후 어용미에게 “시아, 금아 초등학교 맞죠?”라고 물으며 눈치없게 굴었다.\n더불어 그는 “제가 사줄게요. 그 정도는 있어요”라며 쿨한 매력을 선보였다.\n또한 이두영은 어용미와 딸이 노래에 맞춰 춤을 추자 한쪽 구석에 서서 어색한 듯 어설픈 박수를 치고 있었다.\n아랫집에서 올라와 초인종을 누르자 “아랫집이겠죠?”라며 겁 먹은 모습을 보이기도. 나인우는 이두영의 소심하면서도 눈치 없는 내향적인 성격을 눈빛과 말투를 통해 표현해내며 또 한번 새로운 인생 캐릭터의 탄생을 예고했다. ‘클리닝 업’은 우연히 듣게 된 내부자거래 정보로 주식 전쟁에 뛰어든 증권사 미화원 언니들의 예측불허 인생 상한가 도전기다.\n매주 토, 일요일 오후 10시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 나인우가 종합편성채널 JTBC 새 주말극 ‘클리닝 업’에서 너드남으로 변신했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 오후 방송된 ‘클리닝 업’ 2화에서는 이두영(나인우)이 어용미(염정아)를 난처하게 만드는 과정이 그려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이두영은 사채업자인 오동주(윤경호)를 스스럼 없이 집안에 들인 후 어용미에게 “시아, 금아 초등학교 맞죠?”라고 물으며 눈치없게 굴었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더불어 그는 “제가 사줄게요. 그 정도는 있어요”라며 쿨한 매력을 선보였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 이두영은 어용미와 딸이 노래에 맞춰 춤을 추자 한쪽 구석에 서서 어색한 듯 어설픈 박수를 치고 있었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아랫집에서 올라와 초인종을 누르자 “아랫집이겠죠?”라며 겁 먹은 모습을 보이기도. 나인우는 이두영의 소심하면서도 눈치 없는 내향적인 성격을 눈빛과 말투를 통해 표현해내며 또 한번 새로운 인생 캐릭터의 탄생을 예고했다. ‘클리닝 업’은 우연히 듣게 된 내부자거래 정보로 주식 전쟁에 뛰어든 증권사 미화원 언니들의 예측불허 인생 상한가 도전기다.",
+				"sentenceSize": 191
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "매주 토, 일요일 오후 10시 30분에 방송된다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘클리닝 업’ 나인우, 너드남 변신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

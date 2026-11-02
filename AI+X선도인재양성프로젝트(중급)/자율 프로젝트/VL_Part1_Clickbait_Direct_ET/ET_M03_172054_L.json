@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172054",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박명수 아내 한수민 ‘손동작’ 논란에 사과",
+    "newsSubTitle": "",
+    "newsContent": "방송인 박명수의 아내 한수민이 SNS 라이브 방송 중 선보인 부적절한 손동작이 논란된 데 대해 사과했다.\n한수민은 29일 인스타그램에 올린 글에서 “지난 라이브 방송에서 신중하지 못한 행동으로 많은 분들의 마음을 불편하게 해 드린 점, 고개 숙여 사과드린다”고 밝혔다.\n이어 “앞으로는 보다 정중한 마음가짐으로 여러분과 소통하겠다”며 거듭 사과의 뜻을 전했다.\n한수민은 이날 진행한 인스타그램 라이브 방송에서 팩 제품을 소개하다 몇년간 코팩을 한 적이 없다는 사실을 고백했다.\n한수민은 그간 코 팩을 한 적이 없다는 사실을 강조하기 위해 어머니를 비하하는 동작을 취해 논란이 됐다.\n해당 동작은 엄지를 턱에, 새끼 손가락을 이마에 갖다대는 동작으로 어머니를 비하하는 의미가 담겨 있다.\n한편 한수민은 피부과 의사로 박명수와 지난 2008년 4월 결혼해 슬하에 딸 한 명을 두고 있다.\nSBS ‘싱글와이프’와 온스타일 ‘겟잇뷰티 2018’에도 출연했으며 현재 TV조선 ‘아내의 맛’에도 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 박명수의 아내 한수민이 SNS 라이브 방송 중 선보인 부적절한 손동작이 논란된 데 대해 사과했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한수민은 29일 인스타그램에 올린 글에서 “지난 라이브 방송에서 신중하지 못한 행동으로 많은 분들의 마음을 불편하게 해 드린 점, 고개 숙여 사과드린다”고 밝혔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “앞으로는 보다 정중한 마음가짐으로 여러분과 소통하겠다”며 거듭 사과의 뜻을 전했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한수민은 이날 진행한 인스타그램 라이브 방송에서 팩 제품을 소개하다 몇년간 코팩을 한 적이 없다는 사실을 고백했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한수민은 그간 코 팩을 한 적이 없다는 사실을 강조하기 위해 어머니를 비하하는 동작을 취해 논란이 됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 동작은 엄지를 턱에, 새끼 손가락을 이마에 갖다대는 동작으로 어머니를 비하하는 의미가 담겨 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 한수민은 피부과 의사로 박명수와 지난 2008년 4월 결혼해 슬하에 딸 한 명을 두고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "SBS ‘싱글와이프’와 온스타일 ‘겟잇뷰티 2018’에도 출연했으며 현재 TV조선 ‘아내의 맛’에도 출연 중이다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한수민, 라이브 방송에서 한 '이 행동' 논란되자 정식으로 사과",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273473",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘건강 미녀’ 유이, 바디프로필 공개",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 애프터스쿨 출신 배우 유이가 자신의 바디프로필을 공개했다.\n유이는 17일 자신의 SNS에 바디프로필 사진을 올렸다.\n유이는 운동으로 단단하게 가꾼 신체를 녹색 비키니를 입고 드러냈다.\n건강미가 넘치는 복근과 근육이 유이의 아름다움을 증폭시키고 있다.\n최근 유이는 한 인터뷰에서 “나를 안 좋게 보는 몇몇 시선에 스스로를 강박하는 부분이 있었던 것 같다. 나 자신을 더 사랑하려고 노력하고 있다”고 밝혔다.\n또 “바디 프로필을 찍고 8kg이 도로 쪄서 원래 체중으로 돌아왔다”며 “몸무게는 크게 중요하지 않은 것 같다. 건강한 몸매를 유지하고 있다”고 말한 바 있다.\n수영선수 출신인 유이는 지난 2월 종영한 tvN 드라마 ‘고스트 닥터’에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 애프터스쿨 출신 배우 유이가 자신의 바디프로필을 공개했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유이는 17일 자신의 SNS에 바디프로필 사진을 올렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유이는 운동으로 단단하게 가꾼 신체를 녹색 비키니를 입고 드러냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "건강미가 넘치는 복근과 근육이 유이의 아름다움을 증폭시키고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 유이는 한 인터뷰에서 “나를 안 좋게 보는 몇몇 시선에 스스로를 강박하는 부분이 있었던 것 같다. 나 자신을 더 사랑하려고 노력하고 있다”고 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 “바디 프로필을 찍고 8kg이 도로 쪄서 원래 체중으로 돌아왔다”며 “몸무게는 크게 중요하지 않은 것 같다. 건강한 몸매를 유지하고 있다”고 말한 바 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수영선수 출신인 유이는 지난 2월 종영한 tvN 드라마 ‘고스트 닥터’에 출연했다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘건강 미녀’ 유이, 바디프로필 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

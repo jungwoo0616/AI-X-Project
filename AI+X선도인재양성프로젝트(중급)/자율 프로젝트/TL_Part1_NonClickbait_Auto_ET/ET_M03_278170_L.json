@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278170",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'사람이 좋다' 박원숙, 외아들 잠든 납골당에서 끝내 눈물 보여 \\\"꿈인지 연기인지…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'사람이 좋다' 에 출연한 박원숙이 세상을 떠난 아들의 납골당을 찾았다.\n8일 방송된 MBC '휴먼다큐-사람이 좋다'에 출연한 박원숙은 그의 외아들이 잠든 납골당에서 드라마 촬영을 하게 됐다.\n아들을 떠나보낸 슬픔이 다시 밀려오는 상황에 박원숙은 \\\"나는 정말 싫다\\\"며 싫은 기색을 내비쳤다.\n박원숙은 \\\"하여튼 맨날 연기하면서도 이게 무슨 꿈인지 연기인지, 드라마인지 쇼인지, 가짜인지 진짜인지..\\\"라며 말을 흐렸다.\n촬영이 끝나고 박원숙은 아들의 납골당을 찾았다.\n그는 막 스무살을 넘긴 나이에 낳은 하나뿐인 아들 병구씨를 13년 전 화물차에 치이는 사고로 잃고 말았다.\n그는 눈물을 흘리며 \\\"청평 별장에서 찍은 저 사진이 쟤랑 나랑 찍은 마지막 사진이다\\\"고 회상해 시청자들의 가슴을 울렸다.\n온라인 중앙일보 [사진 MBC '사람이 좋다' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'사람이 좋다' 에 출연한 박원숙이 세상을 떠난 아들의 납골당을 찾았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 방송된 MBC '휴먼다큐-사람이 좋다'에 출연한 박원숙은 그의 외아들이 잠든 납골당에서 드라마 촬영을 하게 됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아들을 떠나보낸 슬픔이 다시 밀려오는 상황에 박원숙은 \\\"나는 정말 싫다\\\"며 싫은 기색을 내비쳤다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박원숙은 \\\"하여튼 맨날 연기하면서도 이게 무슨 꿈인지 연기인지, 드라마인지 쇼인지, 가짜인지 진짜인지..\\\"라며 말을 흐렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "촬영이 끝나고 박원숙은 아들의 납골당을 찾았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 막 스무살을 넘긴 나이에 낳은 하나뿐인 아들 병구씨를 13년 전 화물차에 치이는 사고로 잃고 말았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 눈물을 흘리며 \\\"청평 별장에서 찍은 저 사진이 쟤랑 나랑 찍은 마지막 사진이다\\\"고 회상해 시청자들의 가슴을 울렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC '사람이 좋다' 캡처]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사람이 좋다' 박원숙, 외아들 잠든 납골당에서 끝내 눈물 보여 \\\"꿈인지 연기인지…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

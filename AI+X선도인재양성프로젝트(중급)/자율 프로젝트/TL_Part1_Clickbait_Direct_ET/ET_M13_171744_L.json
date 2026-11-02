@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171744",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "레드벨벳 조이, 찰떡같은 파마머리로 봄을 즐기다",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 레드벨벳 멤버 조이(JOY)가 봄 느낌을 자아냈다.\n조이는 6일 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 말 없이 사진들을 게재했다.\n조이는 가죽 재킷에 청바지로 캐주얼한 스타일로 사진을 다채롭게 만들었다.\n특히 조이는 파마머리 헤메코(헤어, 메이크업, 코디) 맘에 들었는지 한껏 들뜬 표정을 짓고 다양한 포즈로 사진을 찍는 모습이다.\n또 다른 사진에서 조이는 입술을 쭉 내민 채 애교 넘치는 표정으로 애교를 발산하는 셀피를 남겨 보는 이들의 눈길을 끌었다.\n한편 조이가 속한 레드벨벳은 최근 신곡 ‘필 마이 리듬’(Feel My Rhythm)으로 컴백했으며, 지난 6일 일본 현지에서 ‘블룸’(Bloom) 음반을 발매하고 음원을 공개했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 레드벨벳 멤버 조이(JOY)가 봄 느낌을 자아냈다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조이는 6일 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 말 없이 사진들을 게재했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조이는 가죽 재킷에 청바지로 캐주얼한 스타일로 사진을 다채롭게 만들었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 조이는 파마머리 헤메코(헤어, 메이크업, 코디) 맘에 들었는지 한껏 들뜬 표정을 짓고 다양한 포즈로 사진을 찍는 모습이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 다른 사진에서 조이는 입술을 쭉 내민 채 애교 넘치는 표정으로 애교를 발산하는 셀피를 남겨 보는 이들의 눈길을 끌었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 조이가 속한 레드벨벳은 최근 신곡 ‘필 마이 리듬’(Feel My Rhythm)으로 컴백했으며, 지난 6일 일본 현지에서 ‘블룸’(Bloom) 음반을 발매하고 음원을 공개했다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레드벨벳 조이, 봄 느낌 한껏 자아낸 사진 속 포인트는 이것",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

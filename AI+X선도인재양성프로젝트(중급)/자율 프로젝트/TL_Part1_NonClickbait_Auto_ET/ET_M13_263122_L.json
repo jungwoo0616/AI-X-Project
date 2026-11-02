@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263122",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "싱어송라이터 이바다, 올해 첫 싱글 ‘배경음악’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "아티스트 이바다가 싱글 ‘배경음악’으로 돌아왔다.\n지난해 새 소속사 EMA와 계약한 이후 첫 활동이다. ‘배경음악’은 이바다의 애상이 깃든 목소리와 판타지가 느껴지는 피아노 사운드와 기타 선율이 용합된 미디엄 템포 발라드다.\n일렉트로니카에서 알앤비까지 다양한 장르에서 풍부한 음악을 들려주던 이바다가 오랜만에 부른 발라드 곡이라는 점이 이채롭다.\n복고풍의 오르간과 스트링 소리도 이바다의 노래를 더욱 돋보이게 한다.\n곡의 가사는 은막이나 브라운관에서 장면을 돋보이게 하고 이야기 전개를 이끄는 ‘배경음악’ 같았던 연인으로 인해 기쁘고 슬픈 감정선을 넘나들었던 기억을 돌아본다.\n함께 공개가 되는 한편의 영화같은 뮤직비디오도 인상적이다.\n이바다 새 싱글은 ‘배경음악’과 ‘휙‘ 두 곡이 수록되었다. 또 다른 수록곡 ’휙’은 왈츠풍 노래로 기타 연주로 시작되는 선율 속에 사람과 사람 사이 만남과 헤어짐을 바람에 비유했다.\n소박한 피아노와 기타 반주에 맞춰 이어지는 곡이 잔잔한 여운을 남기는 노래다. ‘휙’이라는 의성어를 이용한 제목과 후렴구 가사가 이바다의 음색과 잘 어우러져서 귀에 ‘휙’ 들어온다.\nEMA 측은 “이바다는 이번 싱글 ‘배경음악’을 기점으로 라디오, 방송 등 더 활발한 활동을 시작할 예정”이라며 “앞으로 더욱더 색다른 면모를 대중들에게 선보일 준비 중”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아티스트 이바다가 싱글 ‘배경음악’으로 돌아왔다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 새 소속사 EMA와 계약한 이후 첫 활동이다. ‘배경음악’은 이바다의 애상이 깃든 목소리와 판타지가 느껴지는 피아노 사운드와 기타 선율이 용합된 미디엄 템포 발라드다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일렉트로니카에서 알앤비까지 다양한 장르에서 풍부한 음악을 들려주던 이바다가 오랜만에 부른 발라드 곡이라는 점이 이채롭다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "복고풍의 오르간과 스트링 소리도 이바다의 노래를 더욱 돋보이게 한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "곡의 가사는 은막이나 브라운관에서 장면을 돋보이게 하고 이야기 전개를 이끄는 ‘배경음악’ 같았던 연인으로 인해 기쁘고 슬픈 감정선을 넘나들었던 기억을 돌아본다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "함께 공개가 되는 한편의 영화같은 뮤직비디오도 인상적이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이바다 새 싱글은 ‘배경음악’과 ‘휙‘ 두 곡이 수록되었다. 또 다른 수록곡 ’휙’은 왈츠풍 노래로 기타 연주로 시작되는 선율 속에 사람과 사람 사이 만남과 헤어짐을 바람에 비유했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소박한 피아노와 기타 반주에 맞춰 이어지는 곡이 잔잔한 여운을 남기는 노래다. ‘휙’이라는 의성어를 이용한 제목과 후렴구 가사가 이바다의 음색과 잘 어우러져서 귀에 ‘휙’ 들어온다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "EMA 측은 “이바다는 이번 싱글 ‘배경음악’을 기점으로 라디오, 방송 등 더 활발한 활동을 시작할 예정”이라며 “앞으로 더욱더 색다른 면모를 대중들에게 선보일 준비 중”이라고 전했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싱어송라이터 이바다, 올해 첫 싱글 ‘배경음악’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

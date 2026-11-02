@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259732",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "美 팝스타 크리스 브라운, 성폭행 혐의로 피소",
+		"newsSubTitle": "",
+		"newsContent": "미국 가수 크리스 브라운이 성폭행 혐의로 피소됐다.\n29일(한국시간) BBC 등 해외매체들은 한 여성이 크리스 브라운을 상대로 2000만 달러(한화 약 243억원) 규모의 손해배상청구소송을 제기했다고 보도했다.\n고소장에 따르면 안무가 겸 모델로 활동 중인 이 여성은 2020년 12월30일 마이애미의 요트에서 크리스 브라운에게 성폭행을 당했다.\n여성은 “크리스 브라운이 약이 든 음료를 줬고 그걸 마신 후 방향감 상실, 신체적 불안정을 느꼈다. 잠이 들었다 깼고 (크리스 브라운에게) 멈추라고 했지만 무시당했다”고 주장했다.\n게다가 크리스 브라운은 사건 다음 날 이 여성에게 긴급 피임약을 복용하라고 연락한 것으로 알려졌다.\n이와 관련해 크리스 브라운 측은 아직 공식입장을 밝히지 않고 있다.\n크리스 브라운은 2009년 전 애인 리한나를 폭행한 혐의로 집행유예 6년과 사회봉사 6개월을 선고받았다.\n이후에도 여러차례 폭행 관련 사건으로 구설에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 가수 크리스 브라운이 성폭행 혐의로 피소됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일(한국시간) BBC 등 해외매체들은 한 여성이 크리스 브라운을 상대로 2000만 달러(한화 약 243억원) 규모의 손해배상청구소송을 제기했다고 보도했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고소장에 따르면 안무가 겸 모델로 활동 중인 이 여성은 2020년 12월30일 마이애미의 요트에서 크리스 브라운에게 성폭행을 당했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여성은 “크리스 브라운이 약이 든 음료를 줬고 그걸 마신 후 방향감 상실, 신체적 불안정을 느꼈다. 잠이 들었다 깼고 (크리스 브라운에게) 멈추라고 했지만 무시당했다”고 주장했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "게다가 크리스 브라운은 사건 다음 날 이 여성에게 긴급 피임약을 복용하라고 연락한 것으로 알려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 관련해 크리스 브라운 측은 아직 공식입장을 밝히지 않고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "크리스 브라운은 2009년 전 애인 리한나를 폭행한 혐의로 집행유예 6년과 사회봉사 6개월을 선고받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후에도 여러차례 폭행 관련 사건으로 구설에 올랐다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 팝스타 크리스 브라운, 성폭행 혐의로 피소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277379",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"어제 아래~\\\" 생방송 중 튀어나온 아이린의 대구 사투리",
+		"newsSubTitle": "",
+		"newsContent": "대구 출신인 레드벨벳의 멤버 아이린이 사투리로 할머니에게 영상 편지를 보냈다.\n지난 달 31일 레드벨벳은 네이버 V앱을 통해 신곡 '루키' 특급 스포일러 방송을 진행했다.\n이날 방송에서 레드벨벳 멤버들은 설 연휴 동안 어떤 일을 했는지 소개했다.\n아이린은 고향 대구에 있는 할머니를 보러 다녀왔다고 밝혔다.\n이에 다른 멤버들이 아이린에게 할머니에게 영상 편지를 보내라고 했다.\n그러자 아이린은 깜짝 대구 사투리를 선보였다.\n아이린은 \\\"할머니, '어제 아래'까지 할머니 만나고 왔는데 조심히 가라고 통화한 것도 생각나고 하네요. 할머니 다음에 볼 때까지 건강하시고 감사합니다. 새해 복 많이 받으세요\\\"라고 영상 편지를 보냈다.\n멤버들은 아이린에게 '어제 아래'의 뜻을 묻자, 아이린은 \\\"그저께를 뜻한다\\\"고 설명해줬다.\n이를 들은 실기는 \\\"그럼 '내일 위에'도 있냐\\\"라고 묻자 \\\"어제 아래\\\"만 있다고 말했다.\n방송 이후 네티즌들은 \\\"아이린 오빠야~ 사투리에 이어 어제 아래까지 귀여워 죽겠다\\\" \\\"매일 사투리로 말해달라\\\" 등의 댓글을 달며 아이린의 사투리에 큰 관심을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대구 출신인 레드벨벳의 멤버 아이린이 사투리로 할머니에게 영상 편지를 보냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 달 31일 레드벨벳은 네이버 V앱을 통해 신곡 '루키' 특급 스포일러 방송을 진행했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 레드벨벳 멤버들은 설 연휴 동안 어떤 일을 했는지 소개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이린은 고향 대구에 있는 할머니를 보러 다녀왔다고 밝혔다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 다른 멤버들이 아이린에게 할머니에게 영상 편지를 보내라고 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러자 아이린은 깜짝 대구 사투리를 선보였다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이린은 \\\"할머니, '어제 아래'까지 할머니 만나고 왔는데 조심히 가라고 통화한 것도 생각나고 하네요. 할머니 다음에 볼 때까지 건강하시고 감사합니다. 새해 복 많이 받으세요\\\"라고 영상 편지를 보냈다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "멤버들은 아이린에게 '어제 아래'의 뜻을 묻자, 아이린은 \\\"그저께를 뜻한다\\\"고 설명해줬다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 들은 실기는 \\\"그럼 '내일 위에'도 있냐\\\"라고 묻자 \\\"어제 아래\\\"만 있다고 말했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "방송 이후 네티즌들은 \\\"아이린 오빠야~ 사투리에 이어 어제 아래까지 귀여워 죽겠다\\\" \\\"매일 사투리로 말해달라\\\" 등의 댓글을 달며 아이린의 사투리에 큰 관심을 보였다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"어제 아래~\\\" 생방송 중 튀어나온 아이린의 대구 사투리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

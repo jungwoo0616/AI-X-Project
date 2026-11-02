@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273176",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단 팀활동 중단에 하이브 주가 ‘폭락’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 팀 활동 중단을 발표하자 소속사 하이브의 주가도 출렁였다.\n15일 오전 9시 30분 기준 유가증권시장에서 하이브는 전 거래일 대비 24.61% 떨어진 14만5000원에 거래되고 있다.\n이날 장 초반에는 27.46% 급락한 14만원까지 밀리며 52주 신저가를 경신했다.\n이는 전날 이뤄진 방탄소년단의 팀 활동 중단에 따른 영향으로 분석된다.\n방탄소년단은 14일 자신의 유튜브 채널 ‘방탄TV’에서 이와 같은 계획을 밝혔다.\n최근 숙소 생활까지 정리한 방탄소년단은 개인별로 각자의 활동을 이어나간다.\n이날 하나금융투자는 방탄소년단의 복귀에도 투어 일정 등이 미발표됐다며 가장 보수적인 시나리오 가정 하에 하이브의 목표 주가를 36만원으로 하향 제시했다.\n방탄소년단이 입대할 경우 하이브의 관련 매출 감소는 약 7500억원 내외로 추정되며 각각 음반 및 투어 약 5000억원, MD 등 간접매출이 약 2500억원 등으로 추정되고 있다.\n이기훈 하나금융투자 연구원은 “방탄소년단 군 입대 관련의 불확실성으로 주가가 큰 폭 조정을 받고 있다”며 “현재 기업가치는 바닥에 근접한 상황”이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 팀 활동 중단을 발표하자 소속사 하이브의 주가도 출렁였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 오전 9시 30분 기준 유가증권시장에서 하이브는 전 거래일 대비 24.61% 떨어진 14만5000원에 거래되고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 장 초반에는 27.46% 급락한 14만원까지 밀리며 52주 신저가를 경신했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 전날 이뤄진 방탄소년단의 팀 활동 중단에 따른 영향으로 분석된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단은 14일 자신의 유튜브 채널 ‘방탄TV’에서 이와 같은 계획을 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 숙소 생활까지 정리한 방탄소년단은 개인별로 각자의 활동을 이어나간다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 하나금융투자는 방탄소년단의 복귀에도 투어 일정 등이 미발표됐다며 가장 보수적인 시나리오 가정 하에 하이브의 목표 주가를 36만원으로 하향 제시했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방탄소년단이 입대할 경우 하이브의 관련 매출 감소는 약 7500억원 내외로 추정되며 각각 음반 및 투어 약 5000억원, MD 등 간접매출이 약 2500억원 등으로 추정되고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이기훈 하나금융투자 연구원은 “방탄소년단 군 입대 관련의 불확실성으로 주가가 큰 폭 조정을 받고 있다”며 “현재 기업가치는 바닥에 근접한 상황”이라고 설명했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 팀활동 중단에 하이브 주가 ‘폭락’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

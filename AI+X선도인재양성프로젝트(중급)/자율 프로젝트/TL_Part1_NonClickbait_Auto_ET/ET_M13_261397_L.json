@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261397",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "아는형님, 곽윤기x김아랑x이유빈 출연…일정 조율중",
+		"newsSubTitle": "",
+		"newsContent": "쇼트트랙 국가대표 곽윤기·김아랑·이유빈 선수가 ‘아는 형님’에 전학 올 예정이다.\n18일 JTBC ‘아는 형님’ 측은“곽윤기, 김아랑, 이유빈 선수는 JTBC 예능프로그램 ‘아는 형님’에 출연할 예정이고“녹화 일정은 조율 중이다”고 밝혔다.\n다만 최민정 섭외는 아쉽게 불발된 것으로 보인다.\n곽윤기는 2022 베이징 동계 올림픽 쇼트트랙 남자 5,000m 계주에 출전해 팀 맏형으로 은메달을 거머쥐는 데에 공을 세웠다.\n김아랑, 이유빈 선수 역시 이번 올림픽 쇼트트랙 여자 3,000m 계주에서 은메달을 목에 걸었다.\n편파 판정 논란 등으로 시끄러웠던 베이징 동계올림픽에서 한국 쇼트트랙은 금메달 2개(남자 1,500m 황대헌·여자 1,500m 최민정), 은메달 3개(남자 5,000m 계주·여자 3,000m 계주·여자 1,000m 최민정)를 따내며 ‘최강국’의 위상과 자존심을 지켰다.\n이번 동계 올림픽에서는 서로의 경기를 응원하거나 격려하는 등 남녀 쇼트트랙 국가대표 선수들의 끈끈한 우정이 돋보였다.\n이에 세 명의 은메달리스트가 ‘아는 형님’에서 보여줄 케미스트리에도 기대가 모이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쇼트트랙 국가대표 곽윤기·김아랑·이유빈 선수가 ‘아는 형님’에 전학 올 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 JTBC ‘아는 형님’ 측은“곽윤기, 김아랑, 이유빈 선수는 JTBC 예능프로그램 ‘아는 형님’에 출연할 예정이고“녹화 일정은 조율 중이다”고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다만 최민정 섭외는 아쉽게 불발된 것으로 보인다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "곽윤기는 2022 베이징 동계 올림픽 쇼트트랙 남자 5,000m 계주에 출전해 팀 맏형으로 은메달을 거머쥐는 데에 공을 세웠다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김아랑, 이유빈 선수 역시 이번 올림픽 쇼트트랙 여자 3,000m 계주에서 은메달을 목에 걸었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "편파 판정 논란 등으로 시끄러웠던 베이징 동계올림픽에서 한국 쇼트트랙은 금메달 2개(남자 1,500m 황대헌·여자 1,500m 최민정), 은메달 3개(남자 5,000m 계주·여자 3,000m 계주·여자 1,000m 최민정)를 따내며 ‘최강국’의 위상과 자존심을 지켰다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 동계 올림픽에서는 서로의 경기를 응원하거나 격려하는 등 남녀 쇼트트랙 국가대표 선수들의 끈끈한 우정이 돋보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 세 명의 은메달리스트가 ‘아는 형님’에서 보여줄 케미스트리에도 기대가 모이고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아는형님, 곽윤기x김아랑x이유빈 출연…일정 조율중",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

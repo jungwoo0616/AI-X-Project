@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266826",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘돌싱글즈’ 이아영, 애 엄마의 과감한 수영복 자태",
+		"newsSubTitle": "",
+		"newsContent": "MBN ‘돌싱글즈’ 출신 모델 이아영이 멋진 몸매를 자랑했다.\n이아영은 13일 자신의 SNS 인스타그램에 검정색 비키니를 입은 사진을 게재했다.\n아이 엄마라는 사실이 믿겨지지 않을 만큼 ‘넘사벽’ 몸매를 과시했다.\n위치태그는 강남에 위치한 한 호텔로 호캉스를 즐기고 있는 모습이다.\n누리꾼들은 “몸매 너무 부럽다” “여자들도 반한 워너비 여신” “정말 귀엽다” 등의 댓글을 이어갔다.\n이아영은 지난해 ‘돌싱글즈’ 시즌1에서 운동으로 다져진 멋진 몸매와 솔직하고 털털한 매력으로 큰 사랑을 받았다.\n특히 맥심 최초의 돌싱 모델로도 화제를 모았다.\n추성연과 동거 후 최종 커플이 됐으나 실제 연인으로는 이어지지 않아 팬들로부터 아쉬움을 샀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBN ‘돌싱글즈’ 출신 모델 이아영이 멋진 몸매를 자랑했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이아영은 13일 자신의 SNS 인스타그램에 검정색 비키니를 입은 사진을 게재했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이 엄마라는 사실이 믿겨지지 않을 만큼 ‘넘사벽’ 몸매를 과시했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "위치태그는 강남에 위치한 한 호텔로 호캉스를 즐기고 있는 모습이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 “몸매 너무 부럽다” “여자들도 반한 워너비 여신” “정말 귀엽다” 등의 댓글을 이어갔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이아영은 지난해 ‘돌싱글즈’ 시즌1에서 운동으로 다져진 멋진 몸매와 솔직하고 털털한 매력으로 큰 사랑을 받았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 맥심 최초의 돌싱 모델로도 화제를 모았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "추성연과 동거 후 최종 커플이 됐으나 실제 연인으로는 이어지지 않아 팬들로부터 아쉬움을 샀다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘돌싱글즈’ 이아영, 애 엄마의 과감한 수영복 자태",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

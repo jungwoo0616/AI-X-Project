@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280550",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'MBC 연예대상' 레이양, 카메라 욕심 지나쳤나? 비매너 구설",
+		"newsSubTitle": "",
+		"newsContent": "방송인 레이양이 'MBC 연예대상'에서 비매너 태도로 구설수에 올랐다.\n29일 서울 마포구 상암 MBC 미디어센터 1층 공개홀에서 '2015 MBC 연예대상' 시상식이 생중계됐다.\n이날 김구라는 데뷔 22년 만에 대상을 수상했다.\n김구라를 축하하기 위해 무대에 오른 레이양은 김구라가 소감을 말하는 동안 뒤에서 카메라를 지나치게 의식했다.\n레이양은 카메라 앵글에 잡히려는 듯 축하현수막을 제대로 펴지 않았고, 김구라의 뒤에서 포즈를 취하는가 하면 머리를 매만지거나 미소 짓는 모습으로 시선을 분산시켰다.\n이에 대해 일부 시청자들은 김구라의 대상 수상소감에 집중할 수 없었다며 레이양의 태도를 비매너적인 행동이라고 지적했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 레이양이 'MBC 연예대상'에서 비매너 태도로 구설수에 올랐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 서울 마포구 상암 MBC 미디어센터 1층 공개홀에서 '2015 MBC 연예대상' 시상식이 생중계됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김구라는 데뷔 22년 만에 대상을 수상했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김구라를 축하하기 위해 무대에 오른 레이양은 김구라가 소감을 말하는 동안 뒤에서 카메라를 지나치게 의식했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레이양은 카메라 앵글에 잡히려는 듯 축하현수막을 제대로 펴지 않았고, 김구라의 뒤에서 포즈를 취하는가 하면 머리를 매만지거나 미소 짓는 모습으로 시선을 분산시켰다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 대해 일부 시청자들은 김구라의 대상 수상소감에 집중할 수 없었다며 레이양의 태도를 비매너적인 행동이라고 지적했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'MBC 연예대상' 레이양, 카메라 욕심 지나쳤나? 비매너 구설",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

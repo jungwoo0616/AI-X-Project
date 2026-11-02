@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281413",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘리멤버’ 유승호-박성웅, 손잡자 시청률도 상승세… 빠르고 흡입력 있는 전개 '화제'",
+		"newsSubTitle": "",
+		"newsContent": "‘리멤버’ 유승호-박성웅, 손잡자 시청률도 상승세… 빠르고 흡입력 있는 전개 '화제' SBS '리멤버-아들의 전쟁'(이하 '리멤버')이 시청률 상승세를 보였다.\n11일 시청률 조사회사 닐슨코리아에 따르면 전날 방송한 '리멤버'는 시청률 9.7%(전국 기준)를 기록했다.\n이전 방송분(7.2%)보다 2.5%포인트 상승한 수치로 수목드라마 시청률 2위다. '리멤버'는 빠른 전개로 방송 2회 만에 1위 KBS2 '장사의 신-객주'(11.4%)와의 격차를 좁혔다.\n이날 방송에서 서진우(유승호)는 살인 누명을 쓴 아버지 서재혁(전광렬)의 변호사비를 마련하기 위해 불법 도박에 뛰어들었다.\n진우는 과잉기억증후군을 이용해 거액의 돈을 손에 넣었고 조폭 변호사 박동호(박성웅)을 아버지 변호사로 선입하려 하지만 거절당한다.\n끈질긴 설득과 1억 수임료에도 꿈쩍 않던 박동호는 해당 살인 사건이 남규만(남궁민)과 연관 있음을 직감했다.\n이후 박동호는 극적으로 법정에 등장해 “서재혁 피고인의 변호인입니더. 오늘부터”라고 말하며 서재혁의 변호사를 자청해 본격적인 대결을 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘리멤버’ 유승호-박성웅, 손잡자 시청률도 상승세… 빠르고 흡입력 있는 전개 '화제' SBS '리멤버-아들의 전쟁'(이하 '리멤버')이 시청률 상승세를 보였다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 시청률 조사회사 닐슨코리아에 따르면 전날 방송한 '리멤버'는 시청률 9.7%(전국 기준)를 기록했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이전 방송분(7.2%)보다 2.5%포인트 상승한 수치로 수목드라마 시청률 2위다. '리멤버'는 빠른 전개로 방송 2회 만에 1위 KBS2 '장사의 신-객주'(11.4%)와의 격차를 좁혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 방송에서 서진우(유승호)는 살인 누명을 쓴 아버지 서재혁(전광렬)의 변호사비를 마련하기 위해 불법 도박에 뛰어들었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "진우는 과잉기억증후군을 이용해 거액의 돈을 손에 넣었고 조폭 변호사 박동호(박성웅)을 아버지 변호사로 선입하려 하지만 거절당한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "끈질긴 설득과 1억 수임료에도 꿈쩍 않던 박동호는 해당 살인 사건이 남규만(남궁민)과 연관 있음을 직감했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 박동호는 극적으로 법정에 등장해 “서재혁 피고인의 변호인입니더. 오늘부터”라고 말하며 서재혁의 변호사를 자청해 본격적인 대결을 예고했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘리멤버’ 유승호-박성웅, 손잡자 시청률도 상승세… 빠르고 흡입력 있는 전개 '화제'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

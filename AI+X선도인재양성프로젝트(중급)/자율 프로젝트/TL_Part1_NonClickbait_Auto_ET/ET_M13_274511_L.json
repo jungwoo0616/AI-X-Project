@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274511",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "SK브로드밴드, '생활 속 ESG 이야기' 영상 기획안 공모전",
+		"newsSubTitle": "",
+		"newsContent": "SK브로드밴드는 시청자미디어재단, 전국미디어센터협의회와 함께 ‘제4회 미디어창작콘테스트’를 개최한다고 1일 밝혔다.\n주제는 ‘우리동네 ESG(환경·사회적 책무·기업지배구조 개선) 이야기’다.\n응모하려면 ‘교양·예능’과 ‘드라마·다큐멘터리’ 등 2개 부문에서 하나를 골라 주제에 맞는 15분 안팎 기획안을 제출하면 된다.\n상금은 대상 500만원, 최우수상(부분별 각 1편) 300만원, 우수상(부문별 각 2편)에는 100만원이다.\n수상자에게는 기획안을 실제 방송 영상으로 제작할 수 있도록 미디어창작지원센터 장비·편집실과 제작비를 지원한다.\n완성작은 SK브로드밴드 인터넷프로토콜TV(IPTV) Btv 지역채널과 주문형 비디오(VOD)에 편성돼 방영될 예정이다.\n공모작은 이달 26일까지 접수한다.\n자세한 사항은 전국미디어센터협의회 홈페이지에서 확인하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK브로드밴드는 시청자미디어재단, 전국미디어센터협의회와 함께 ‘제4회 미디어창작콘테스트’를 개최한다고 1일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주제는 ‘우리동네 ESG(환경·사회적 책무·기업지배구조 개선) 이야기’다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "응모하려면 ‘교양·예능’과 ‘드라마·다큐멘터리’ 등 2개 부문에서 하나를 골라 주제에 맞는 15분 안팎 기획안을 제출하면 된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상금은 대상 500만원, 최우수상(부분별 각 1편) 300만원, 우수상(부문별 각 2편)에는 100만원이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수상자에게는 기획안을 실제 방송 영상으로 제작할 수 있도록 미디어창작지원센터 장비·편집실과 제작비를 지원한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "완성작은 SK브로드밴드 인터넷프로토콜TV(IPTV) Btv 지역채널과 주문형 비디오(VOD)에 편성돼 방영될 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공모작은 이달 26일까지 접수한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자세한 사항은 전국미디어센터협의회 홈페이지에서 확인하면 된다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK브로드밴드, '생활 속 ESG 이야기' 영상 기획안 공모전",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279286",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'아침마당 서정희' \\\"어린나이에 결혼해 시행착오가 많아..\\\"",
+		"newsSubTitle": "",
+		"newsContent": "서정희가 아침마당에 출연해 그동안의 심경을 토로했다.\n서정희는 19일 KBS1 '아침마당‘에 ’화요 초대석’ 코너에 어머니 장복순씨와 출연해 이야기를 나눴다. 이날 그는 “이렇게 용기를 낸 건 제가 누군가에게는 미안하다는 말을 듣고 싶고 용서해달라는 말을 듣고 싶은 것처럼 저도 시청자들께 한 번은 정말 용서를 구하는 시간을 가져야겠다 싶었다.\\\"며 출연 계기를 밝혔다. 이어 패널들에게 \\\"제가 어린 나이에 결혼생활을 시작하다보니 시행착오가 많았다\\\"며 \\\"제가 언제까지 골방에서 울면서 살 수 있겠나. 여기 나와서 시청자 여러분들께 정중하게 잘못을 구하며 잘못을 고치고 잘한 건 격려 받는 그런 시간을 갖기 위해 나왔다\\\"고 털어놨다.\n서세원과의 결혼 생활에 대해서는 \\\"나를 보여줄 기회가 오면 완벽하고 싶었다.\n열등감 이었다\\\"라며 행복해보이던 결혼생활에 대해 언급했다.\n또 \\\"언론에서 (서세원과의) 이혼에 대해서도 누구 책임이라고 공격하곤 하는데, 나도 부족했다\\\"라고 했다.\n서정희는 또한 대상포진, 자궁적출, 그리고 가슴 종양 제거 수술 등 힘들었던 과거에 대해서도 토로하며 안타까움을 자아냈다.\n서정희는 2014년 5월, 서세원의 폭행 사건 이후 여섯 번의 공판을 치렀고 지난해 8월 서세원과 이혼했다.\n온라인중앙일보 아침마당 서정희",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서정희가 아침마당에 출연해 그동안의 심경을 토로했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서정희는 19일 KBS1 '아침마당‘에 ’화요 초대석’ 코너에 어머니 장복순씨와 출연해 이야기를 나눴다. 이날 그는 “이렇게 용기를 낸 건 제가 누군가에게는 미안하다는 말을 듣고 싶고 용서해달라는 말을 듣고 싶은 것처럼 저도 시청자들께 한 번은 정말 용서를 구하는 시간을 가져야겠다 싶었다.\\\"며 출연 계기를 밝혔다. 이어 패널들에게 \\\"제가 어린 나이에 결혼생활을 시작하다보니 시행착오가 많았다\\\"며 \\\"제가 언제까지 골방에서 울면서 살 수 있겠나. 여기 나와서 시청자 여러분들께 정중하게 잘못을 구하며 잘못을 고치고 잘한 건 격려 받는 그런 시간을 갖기 위해 나왔다\\\"고 털어놨다.",
+				"sentenceSize": 327
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서세원과의 결혼 생활에 대해서는 \\\"나를 보여줄 기회가 오면 완벽하고 싶었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "열등감 이었다\\\"라며 행복해보이던 결혼생활에 대해 언급했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 \\\"언론에서 (서세원과의) 이혼에 대해서도 누구 책임이라고 공격하곤 하는데, 나도 부족했다\\\"라고 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서정희는 또한 대상포진, 자궁적출, 그리고 가슴 종양 제거 수술 등 힘들었던 과거에 대해서도 토로하며 안타까움을 자아냈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서정희는 2014년 5월, 서세원의 폭행 사건 이후 여섯 번의 공판을 치렀고 지난해 8월 서세원과 이혼했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인중앙일보 아침마당 서정희",
+				"sentenceSize": 16
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'아침마당 서정희' \\\"어린나이에 결혼해 시행착오가 많아..\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

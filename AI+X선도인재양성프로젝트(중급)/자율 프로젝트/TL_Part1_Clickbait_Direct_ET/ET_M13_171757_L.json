@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171757",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "신세경, 새 화보 공개 “美쳤다”",
+    "newsSubTitle": "",
+    "newsContent": "신세경이 새로운 화보를 공개했다.\n신세경은 15일 자신의 사회관계망서비스(SNS) 인스타그램에 하트 이모티콘과 함께 사진 여러 장을 게시했다.\n사진 속 신세경의 오똑한 콧날과 결점 없는 미모가 돋보인다.\n누리꾼은 해당 사진에 “미쳤다” “너무 예쁘다” “완벽하다”며 찬사를 아끼지 않았다.\n한편 신세경은 지난해 2월 종영한 JTBC 드라마 ‘런 온’의 주연을 맡으며 시청자들의 사랑을 받았다.\n현재 그는 차기작을 검토 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신세경이 새로운 화보를 공개했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신세경은 15일 자신의 사회관계망서비스(SNS) 인스타그램에 하트 이모티콘과 함께 사진 여러 장을 게시했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 신세경의 오똑한 콧날과 결점 없는 미모가 돋보인다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "누리꾼은 해당 사진에 “미쳤다” “너무 예쁘다” “완벽하다”며 찬사를 아끼지 않았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 신세경은 지난해 2월 종영한 JTBC 드라마 ‘런 온’의 주연을 맡으며 시청자들의 사랑을 받았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 그는 차기작을 검토 중이다.",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "결점 없는 미모의 소유자, 새로운 모습 선보여...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

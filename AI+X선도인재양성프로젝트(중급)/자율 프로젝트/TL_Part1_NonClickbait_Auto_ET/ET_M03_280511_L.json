@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280511",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "정지원 아나운서, 이승우와 골 세레머니 호흡 … '엄청나 나이 차이'",
+		"newsSubTitle": "",
+		"newsContent": "정지원 아나운서 정지원 KBS 아나운서와 이승우의 셀카사진이 공개돼 화제다.\n정지원 아나운서의 동료 이광용 아나운서는 27일 자신의 인스타그램에 ‘오늘부터 1일?’이라며 사진을 게재했다.\n이어 그는 ‘이승우 정지원 나이 차이가 실검 1위’라고 덧붙였다.\n앞서 27일 서울 장충체육관에서 ‘2015 홍명보 자선 축구 경기 셰어 더 드림 풋볼 매치 2015’(SHARE THE DREAM FOOTBALL MATCH 2015)가 열렸다.\n이날 이승우는 골을 넣고 정지원 아나운서와 함께 댄스 세레머니를 했다.\n댄스 후 볼뽀뽀 세리머니까지 요구해 모든 이들을 놀라게 했다.\n정지원 아나운서는 이후 “이승우 선수를 오늘 처음봤다. 사전에 이야기된 것이 아니어서 깜짝 놀랐다. 거절하면 민망할 것 같아 춤은 같이 췄는데 마지막 뽀뽀 세리머니는 악성 댓글이 무서워 하지 못했다”며 세리머니에 얽힌 사연을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정지원 아나운서 정지원 KBS 아나운서와 이승우의 셀카사진이 공개돼 화제다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정지원 아나운서의 동료 이광용 아나운서는 27일 자신의 인스타그램에 ‘오늘부터 1일?’이라며 사진을 게재했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 그는 ‘이승우 정지원 나이 차이가 실검 1위’라고 덧붙였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 27일 서울 장충체육관에서 ‘2015 홍명보 자선 축구 경기 셰어 더 드림 풋볼 매치 2015’(SHARE THE DREAM FOOTBALL MATCH 2015)가 열렸다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 이승우는 골을 넣고 정지원 아나운서와 함께 댄스 세레머니를 했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "댄스 후 볼뽀뽀 세리머니까지 요구해 모든 이들을 놀라게 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정지원 아나운서는 이후 “이승우 선수를 오늘 처음봤다. 사전에 이야기된 것이 아니어서 깜짝 놀랐다. 거절하면 민망할 것 같아 춤은 같이 췄는데 마지막 뽀뽀 세리머니는 악성 댓글이 무서워 하지 못했다”며 세리머니에 얽힌 사연을 밝혔다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정지원 아나운서, 이승우와 골 세레머니 호흡 … '엄청나 나이 차이'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

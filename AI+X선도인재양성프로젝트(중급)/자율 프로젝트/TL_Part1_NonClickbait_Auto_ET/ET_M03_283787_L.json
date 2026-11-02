@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283787",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'부탁해요 엄마' 유진에 프러포즈, \\\"우리 그냥 확 결혼해 버리죠?\\\"…최고 시청률 달성",
+		"newsSubTitle": "",
+		"newsContent": "KBS 2TV 드라마 '부탁해요 엄마'의 시청률이 자체 최고 기록을 경신해 화제다.\n9일 오전 시청률 조사회사 닐슨코리아에 따르면 8일 오후 방송된 '부탁해요 엄마'는 전국 기준으로 31.1%의 시청률을 기록했다.\n이는 지난 7일 방송분이 기록한 27.0%보다 4.1%포인트 높고 최초로 30% 시청률을 돌파한 지난 달 25일 방송분의 30.3%보다 0.8%포인트 상승한 수치이다.\n이날 '부탁해요 엄마'에서는 이진애(유진)와 강훈재(이상우) 커플의 프러포즈 장면이 이목을 집중시켰다.\n훈재는 진애의 회사를 찾아 \\\"맨날 여기저기서 훼방 놓고 태클 들어오고 불안해서 견딜 수가 있어야죠. 우리 그냥 확, 결혼해 버리죠?\\\"라면서 진애를 향해 \\\"더 많이 사랑할게요. 더 끝없이 사랑할게요\\\"라고 털어놓았다.\n반지를 끼워주며 결혼해 달라고 말하는 훈재의 프러포즈에 마음이 흔들린 진애는 결국 청혼에 응했다.\n온라인 중앙일보 [사진 KBS ‘부탁해요 엄마’ 방송화면 캡처] 유진에 프러포즈",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS 2TV 드라마 '부탁해요 엄마'의 시청률이 자체 최고 기록을 경신해 화제다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 오전 시청률 조사회사 닐슨코리아에 따르면 8일 오후 방송된 '부탁해요 엄마'는 전국 기준으로 31.1%의 시청률을 기록했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 7일 방송분이 기록한 27.0%보다 4.1%포인트 높고 최초로 30% 시청률을 돌파한 지난 달 25일 방송분의 30.3%보다 0.8%포인트 상승한 수치이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 '부탁해요 엄마'에서는 이진애(유진)와 강훈재(이상우) 커플의 프러포즈 장면이 이목을 집중시켰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "훈재는 진애의 회사를 찾아 \\\"맨날 여기저기서 훼방 놓고 태클 들어오고 불안해서 견딜 수가 있어야죠. 우리 그냥 확, 결혼해 버리죠?\\\"라면서 진애를 향해 \\\"더 많이 사랑할게요. 더 끝없이 사랑할게요\\\"라고 털어놓았다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반지를 끼워주며 결혼해 달라고 말하는 훈재의 프러포즈에 마음이 흔들린 진애는 결국 청혼에 응했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS ‘부탁해요 엄마’ 방송화면 캡처] 유진에 프러포즈",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'부탁해요 엄마' 유진에 프러포즈, \\\"우리 그냥 확 결혼해 버리죠?\\\"…최고 시청률 달성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

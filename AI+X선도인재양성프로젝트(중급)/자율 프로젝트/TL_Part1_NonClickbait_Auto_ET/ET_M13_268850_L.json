@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268850",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "싸이, 드디어 가족 찾았다…잃어버린 남매 상봉",
+		"newsSubTitle": "",
+		"newsContent": "가수 싸이가 개그우먼 이수지와 마침내 ‘남매 상봉’했다.\n이수지는 1일 본인 소셜미디어에 “우린 드디어 만났고 서로가 서로를 알아보았다”라는 글과 함께 한 장의 사진을 게재했다.\n공개된 사진 속 이수지와 싸이는 건치를 보이며 활짝 웃고 있다.\n평소 닮은 얼굴로 유명했던 두 사람의 만남이 드디어 성사된 모습. 쌍둥이 남매라고 해도 믿을 정도로 똑 닮은 얼굴이 놀라움을 자아낸다.\n앞서 이수지는 지난 1월 방송된 MBC 예능 ‘라디오 스타’에서 “싸이 분장을 한 적이 있다”며 “그때 찍은 사진을 보고 싸이 씨가 ‘이걸 내가 찍었었나?’라고 하셔서 인정받은 것 같아 뿌듯했다며 당사자조차 속는 얼굴 복사 능력을 자랑해 웃음을 안겼다. 이에 팬들과 누리꾼들은 “좌우반전 어플 아닌가” “치열마저 비슷해 보이는 건 내 착각인가” “누가 싸이고 누가 이수지인지 헷갈렸다” “유전자 검사 고고” “전생에 쌍둥이였을지도 몰라” “남매도 이렇게까진 안 닮을 듯”“잃어버린 남매”“진짜 가족 아닌가”등의 공감하는 반응을 보였다.\n한편 이수지는 지난 1월 결혼 4년 만에 임신 소식을 알렸다.\n싸이는 지난달 29일 정규 9집 ‘싸다9’로 5년 만에 가요계에 돌아왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 싸이가 개그우먼 이수지와 마침내 ‘남매 상봉’했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수지는 1일 본인 소셜미디어에 “우린 드디어 만났고 서로가 서로를 알아보았다”라는 글과 함께 한 장의 사진을 게재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 이수지와 싸이는 건치를 보이며 활짝 웃고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "평소 닮은 얼굴로 유명했던 두 사람의 만남이 드디어 성사된 모습. 쌍둥이 남매라고 해도 믿을 정도로 똑 닮은 얼굴이 놀라움을 자아낸다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 이수지는 지난 1월 방송된 MBC 예능 ‘라디오 스타’에서 “싸이 분장을 한 적이 있다”며 “그때 찍은 사진을 보고 싸이 씨가 ‘이걸 내가 찍었었나?’라고 하셔서 인정받은 것 같아 뿌듯했다며 당사자조차 속는 얼굴 복사 능력을 자랑해 웃음을 안겼다. 이에 팬들과 누리꾼들은 “좌우반전 어플 아닌가” “치열마저 비슷해 보이는 건 내 착각인가” “누가 싸이고 누가 이수지인지 헷갈렸다” “유전자 검사 고고” “전생에 쌍둥이였을지도 몰라” “남매도 이렇게까진 안 닮을 듯”“잃어버린 남매”“진짜 가족 아닌가”등의 공감하는 반응을 보였다.",
+				"sentenceSize": 299
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이수지는 지난 1월 결혼 4년 만에 임신 소식을 알렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "싸이는 지난달 29일 정규 9집 ‘싸다9’로 5년 만에 가요계에 돌아왔다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싸이, 드디어 가족 찾았다…잃어버린 남매 상봉",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

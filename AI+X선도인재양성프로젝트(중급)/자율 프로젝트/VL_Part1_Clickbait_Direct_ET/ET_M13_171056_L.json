@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171056",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "남태현 SNS, 컴백?",
+    "newsSubTitle": "",
+    "newsContent": "가수 남태현의 SNS 게시물이 화제다.\n지난 2일 남태현이 개인 인스타그램을 통해 의미심장한 게시물을 올렸다.\n공개된 사진에는 흰색 배경에 까만 글씨로 ‘STAR DUST 9/9’라고만 적혀있어 궁금증을 모으고 있다. ‘별이 빛나는 밤에 (Star Dust) 9/9’라는 글을 남긴 남태현의 해당 게시물이 공개되자, 팬들은 사우스클럽의 컴백을 추측하며 댓글을 통해 폭발적인 반응을 보냈다.\n남태현, 강민준, 정회민, 이동근으로 이뤄진 사우스클럽은 지난 2017년 ‘Hug Me’로 활동을 시작했으며 ‘빗방울’, ‘미쳐가지고’ ‘To My Friends’ 등 사우스클럽만의 색깔을 담은 자작곡들로 대중과 소통하고 있다.\n사우스클럽은 지난해 ‘Rock Star’로 청량하면서도 아련한 감성을 뽐냈으며 올해 3월에는 라비가 피처링에 참여한 ‘내가 부자라면’으로 남다른 음악역량을 입증했다.\n한편, 남태현이 속한 밴드 사우스클럽은 지난 3월 ‘내가 부자라면’을 발매해 활발한 활동을 펼쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 남태현의 SNS 게시물이 화제다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2일 남태현이 개인 인스타그램을 통해 의미심장한 게시물을 올렸다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 흰색 배경에 까만 글씨로 ‘STAR DUST 9/9’라고만 적혀있어 궁금증을 모으고 있다. ‘별이 빛나는 밤에 (Star Dust) 9/9’라는 글을 남긴 남태현의 해당 게시물이 공개되자, 팬들은 사우스클럽의 컴백을 추측하며 댓글을 통해 폭발적인 반응을 보냈다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "남태현, 강민준, 정회민, 이동근으로 이뤄진 사우스클럽은 지난 2017년 ‘Hug Me’로 활동을 시작했으며 ‘빗방울’, ‘미쳐가지고’ ‘To My Friends’ 등 사우스클럽만의 색깔을 담은 자작곡들로 대중과 소통하고 있다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사우스클럽은 지난해 ‘Rock Star’로 청량하면서도 아련한 감성을 뽐냈으며 올해 3월에는 라비가 피처링에 참여한 ‘내가 부자라면’으로 남다른 음악역량을 입증했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 남태현이 속한 밴드 사우스클럽은 지난 3월 ‘내가 부자라면’을 발매해 활발한 활동을 펼쳤다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 남태현, 개인 SNS에 올린 의미심장한 게시물... 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

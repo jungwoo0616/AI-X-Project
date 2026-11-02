@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283394",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'오 마이 비너스' 강예빈 특별 출연, \\\"신민아, 살찐 분장해도 예뻤다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'오 마이 비너스' 강예빈 배우 강예빈이 SNS를 통해 KBS2 ‘오 마이 비너스’ 특별 출연 소감을 알렸다.\n강예빈은 17일 자신의 인스타그램에 “‘오 마이 비너스’ 1회. 신민아 씨는 살찐 분장을 해도 너무 예뻤다는. 현장 분위기 정말 좋았어요. 파이팅”라는 글과 함께 한 장의 사진을 게재했다.\n공개된 사진에는 미소를 지으며 포즈를 취하고 있는 강예빈의 모습이 담겨 있다.\n특히 강예빈은 대본을 들고 뛰어난 몸매를 과시하고 있어 눈길을 끈다.\n강예빈은 지난 16일 방송된 ‘오 마이 비너스’ 첫 회에서 신민아에게 사건을 의뢰하며 기싸움을 벌이는 감초 역할로 화제를 모았다. ‘오 마이 비너스'는 세계적으로 유명한 헬스 트레이너인 남자와 '얼짱'에서 '몸꽝'으로 역변한 여자 변호사, 극과 극 두 남녀가 만나 다이어트에 도전하면서 감춰져있던 내면의 상처를 치유하는 헬스 힐링 로맨틱 코미디다.\n매주 월화 오후 10시 방송된다.'오 마이 비너스'강예빈 온라인 중앙일보 [사진 강예빈 SNS]'오 마이 비너스'강예빈",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'오 마이 비너스' 강예빈 배우 강예빈이 SNS를 통해 KBS2 ‘오 마이 비너스’ 특별 출연 소감을 알렸다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강예빈은 17일 자신의 인스타그램에 “‘오 마이 비너스’ 1회. 신민아 씨는 살찐 분장을 해도 너무 예뻤다는. 현장 분위기 정말 좋았어요. 파이팅”라는 글과 함께 한 장의 사진을 게재했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 미소를 지으며 포즈를 취하고 있는 강예빈의 모습이 담겨 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 강예빈은 대본을 들고 뛰어난 몸매를 과시하고 있어 눈길을 끈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강예빈은 지난 16일 방송된 ‘오 마이 비너스’ 첫 회에서 신민아에게 사건을 의뢰하며 기싸움을 벌이는 감초 역할로 화제를 모았다. ‘오 마이 비너스'는 세계적으로 유명한 헬스 트레이너인 남자와 '얼짱'에서 '몸꽝'으로 역변한 여자 변호사, 극과 극 두 남녀가 만나 다이어트에 도전하면서 감춰져있던 내면의 상처를 치유하는 헬스 힐링 로맨틱 코미디다.",
+				"sentenceSize": 194
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매주 월화 오후 10시 방송된다.'오 마이 비너스'강예빈 온라인 중앙일보 [사진 강예빈 SNS]'오 마이 비너스'강예빈",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'오 마이 비너스' 강예빈 특별 출연, \\\"신민아, 살찐 분장해도 예뻤다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

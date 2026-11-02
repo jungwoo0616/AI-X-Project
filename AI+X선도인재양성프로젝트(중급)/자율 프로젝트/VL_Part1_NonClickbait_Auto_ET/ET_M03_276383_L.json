@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276383",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "'파리 투 마르세유: 2주간의 여행' 너무 다른 두 남자의 프랑스 여행기",
+		"newsSubTitle": "[매거진M] 영화 리뷰 '파리 투 마르세유:2주간의 여행'",
+		"newsContent": "감독 라시드 드자이다니 | 장르 드라마 |상영 시간 94분 |등급 12세 관람가 ★★★ [매거진M] 파리의 랩스타 파훅(사덱)은 2주 후 마르세유에서 있을 콘서트 무대를 앞두고 라이벌 래퍼와의 갈등으로 생명의 위협을 받는다.\n파리를 급히 떠나야 하는 그는 친구의 아버지 세르쥬(제라드 드빠르디유)의 여행길을 따라 마르세유까지 가게 된다.\n아랍인인 파훅과 이민자를 경멸하는 프랑스인 세르쥬와의 동행 길이 무탈할 리 만무하다.\n취향도 극과 극인 두 사람은 티격태격 갈등과 화해를 반복하며 서로를 이해하게 된다.\n프랑스의 따스한 자연 풍광을 따라 펼쳐지는 이 로드 무비는 지금 유럽 사회의 과제인 인종·종교 간 화합의 메시지를 담고 있는 듯 보인다.\n힙합부터 샹송, 이슬람 전통음악까지 음악영화라고 해도 될만큼 귀가 즐겁다.\nTIP 파훅을 연기한 사덱은 랩 앨범을 낸 적 있는 실제 래퍼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "감독 라시드 드자이다니 | 장르 드라마 |상영 시간 94분 |등급 12세 관람가 ★★★ [매거진M] 파리의 랩스타 파훅(사덱)은 2주 후 마르세유에서 있을 콘서트 무대를 앞두고 라이벌 래퍼와의 갈등으로 생명의 위협을 받는다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "파리를 급히 떠나야 하는 그는 친구의 아버지 세르쥬(제라드 드빠르디유)의 여행길을 따라 마르세유까지 가게 된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아랍인인 파훅과 이민자를 경멸하는 프랑스인 세르쥬와의 동행 길이 무탈할 리 만무하다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "취향도 극과 극인 두 사람은 티격태격 갈등과 화해를 반복하며 서로를 이해하게 된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "프랑스의 따스한 자연 풍광을 따라 펼쳐지는 이 로드 무비는 지금 유럽 사회의 과제인 인종·종교 간 화합의 메시지를 담고 있는 듯 보인다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "힙합부터 샹송, 이슬람 전통음악까지 음악영화라고 해도 될만큼 귀가 즐겁다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "TIP 파훅을 연기한 사덱은 랩 앨범을 낸 적 있는 실제 래퍼다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'파리 투 마르세유: 2주간의 여행' 너무 다른 두 남자의 프랑스 여행기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

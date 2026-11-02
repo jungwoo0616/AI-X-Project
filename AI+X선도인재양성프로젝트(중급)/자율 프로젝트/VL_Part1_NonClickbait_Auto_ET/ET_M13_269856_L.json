@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269856",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "노을, 소극장 콘서트 개최…3년만에 돌아온 ‘Cafe 유월’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 노을이 소극장 콘서트 ‘Cafe 유월’을 재개한다.\n노을은 지난 2월 성공적인 전국투어를 마친 데 이어 오는 6월 18, 19일 양일간 예스24 라이브홀에서 열리는 ‘Cafe 유월’로 관객들을 만난다. ‘믿고 듣는 노을’의 명곡들과 감성을 더욱 가까이 느낄 수 있는 소극장 콘서트 개최 소식에 팬들의 뜨거운 기대가 이어지고 있다.\n노을은 지난 2018년과 2019년 소극장 콘서트로 팬들을 만나 자신들의 대표곡과 커버곡, 댄스 무대까지 다채로운 공연을 선사해왔다.\n코로나19의 여파로 3년 만에 재개한 ‘Cafe 유월’에서 노을은 오랜만에 가까이에서 관객들을 만나는 만큼 더욱 적극적으로 소통하며 전국투어와는 전혀 다른 매력의 공연을 선보인다.\n또한 이번 공연에서는 관객들에게 잊지 못할 추억을 선물하기 위한 노을의 이벤트가 진행된다. ‘고백’을 주제로 관객들의 사랑이나 진실 고백 등 쓰고, 달고, 씁쓸한 고백 사연을 받아 이를 소개하는 것은 물론 사연이 채택된 관객을 위한 깜짝 선물까지 준비되어 있다.\n공연 관계자는 “진한 여운이 남는 풍미 있는 커피처럼 따스한 감성으로 오래도록 감동이 남을 공연을 준비하고 있다. 오랜만에 개최되는 소극장 콘서트이니만큼 관객들에게 특별한 추억이 될 수 있도록 다양한 무대가 펼쳐질 예정이다”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 노을이 소극장 콘서트 ‘Cafe 유월’을 재개한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노을은 지난 2월 성공적인 전국투어를 마친 데 이어 오는 6월 18, 19일 양일간 예스24 라이브홀에서 열리는 ‘Cafe 유월’로 관객들을 만난다. ‘믿고 듣는 노을’의 명곡들과 감성을 더욱 가까이 느낄 수 있는 소극장 콘서트 개최 소식에 팬들의 뜨거운 기대가 이어지고 있다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노을은 지난 2018년과 2019년 소극장 콘서트로 팬들을 만나 자신들의 대표곡과 커버곡, 댄스 무대까지 다채로운 공연을 선사해왔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19의 여파로 3년 만에 재개한 ‘Cafe 유월’에서 노을은 오랜만에 가까이에서 관객들을 만나는 만큼 더욱 적극적으로 소통하며 전국투어와는 전혀 다른 매력의 공연을 선보인다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 이번 공연에서는 관객들에게 잊지 못할 추억을 선물하기 위한 노을의 이벤트가 진행된다. ‘고백’을 주제로 관객들의 사랑이나 진실 고백 등 쓰고, 달고, 씁쓸한 고백 사연을 받아 이를 소개하는 것은 물론 사연이 채택된 관객을 위한 깜짝 선물까지 준비되어 있다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공연 관계자는 “진한 여운이 남는 풍미 있는 커피처럼 따스한 감성으로 오래도록 감동이 남을 공연을 준비하고 있다. 오랜만에 개최되는 소극장 콘서트이니만큼 관객들에게 특별한 추억이 될 수 있도록 다양한 무대가 펼쳐질 예정이다”라고 밝혔다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노을, 소극장 콘서트 개최…3년만에 돌아온 ‘Cafe 유월’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

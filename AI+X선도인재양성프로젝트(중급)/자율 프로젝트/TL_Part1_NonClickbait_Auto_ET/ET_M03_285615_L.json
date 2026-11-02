@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285615",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘애플 뮤직’ 유료회원 650만 명 돌파, 3주 만에 1위 기업 스포티파이의 3분의 1수준…",
+		"newsSubTitle": "",
+		"newsContent": "‘애플 뮤직’ 유료회원 650만 명 돌파, 3주 만에 1위 기업 스포티파이의 3분의 1수준… 애플의 음악 스트리밍 서비스 '애플 뮤직'이 유료화 개시 약 3주 만에 유료회원 650만 명을 확보했다.\n이는 이 분야 업계 1위 스포티파이의 3분의 1 수준이다.\n미국 일간지 월스트리트저널(WSJ)에 따르면 팀 쿡은 19일 저녁(현지시간) 미국 캘리포니아 주 라구나 비치에서 이 신문사가 주최한 'WSJD라이브' 포럼에서 애플 뮤직 서비스가 \\\"매우 잘 돼 가고 있다\\\"며 무료 시험 서비스를 쓰고 있는 사용자까지 합한 전체 회원 수는 1천500만 명이라고 설명했다.\n요금은 1인 서비스에 월 9.99 달러, 최대 6인이 쓸 수 있는 가족 서비스에 14.99 달러다.\n다만, 가입 후 첫 3개월간은 무료 시험 서비스로 제공돼 요금이 부과되지 않는다.\n미국 등 100여국에 서비스가 출시된 시점이 6월 30일이었으므로 유료 고객이 생기기 시작한 지 약 3주가 됐다.\n음악 스트리밍 분야 1위 기업 스포티파이는 2008년 서비스를 개시했으며, 올해 6월 기준으로 전체 사용자는 7천500만 명, 이 중 유료 사용자는 2천만 명이다.\n스포티파이와 애플 뮤직 양쪽 다 한국에서는 아직 서비스를 하지 않고 있다. ‘애플뮤직 유료회원 650만명’ ‘애플뮤직 유료회원 650만명’ 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘애플 뮤직’ 유료회원 650만 명 돌파, 3주 만에 1위 기업 스포티파이의 3분의 1수준… 애플의 음악 스트리밍 서비스 '애플 뮤직'이 유료화 개시 약 3주 만에 유료회원 650만 명을 확보했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 이 분야 업계 1위 스포티파이의 3분의 1 수준이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국 일간지 월스트리트저널(WSJ)에 따르면 팀 쿡은 19일 저녁(현지시간) 미국 캘리포니아 주 라구나 비치에서 이 신문사가 주최한 'WSJD라이브' 포럼에서 애플 뮤직 서비스가 \\\"매우 잘 돼 가고 있다\\\"며 무료 시험 서비스를 쓰고 있는 사용자까지 합한 전체 회원 수는 1천500만 명이라고 설명했다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "요금은 1인 서비스에 월 9.99 달러, 최대 6인이 쓸 수 있는 가족 서비스에 14.99 달러다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만, 가입 후 첫 3개월간은 무료 시험 서비스로 제공돼 요금이 부과되지 않는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국 등 100여국에 서비스가 출시된 시점이 6월 30일이었으므로 유료 고객이 생기기 시작한 지 약 3주가 됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "음악 스트리밍 분야 1위 기업 스포티파이는 2008년 서비스를 개시했으며, 올해 6월 기준으로 전체 사용자는 7천500만 명, 이 중 유료 사용자는 2천만 명이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스포티파이와 애플 뮤직 양쪽 다 한국에서는 아직 서비스를 하지 않고 있다. ‘애플뮤직 유료회원 650만명’ ‘애플뮤직 유료회원 650만명’ 온라인 중앙일보",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘애플 뮤직’ 유료회원 650만 명 돌파, 3주 만에 1위 기업 스포티파이의 3분의 1수준…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

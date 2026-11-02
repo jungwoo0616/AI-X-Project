@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278460",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'동상이몽' BJ 우앙, 고추냉이 밥에 불닭·불족발,캡사이신까지? \\\"극한의 매운 맛 추구\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'동상이몽, 괜찮아 괜찮아'에 출연한 인터넷 방송 BJ 우앙이 자신의 식단을 공개했다.\n7일 방송된 SBS '동상이몽, 괜찮아 괜찮아'에서는 인터넷 방송 'BJ 우앙'(본명 김리안)과 그의 어머니의 사연이 소개됐다.\n이날 방송에서 BJ 우앙의 어머니는 딸이 먹방을 위해 너무 맵고 짜게 먹는 것 같아 걱정된다고 털어놨다.\nBJ우앙은 아침식사로 참치 고추냉이 밥에 매운 순두부, 매운 라면, 매운 스팸 등 매운 맛으로 도배된 식단을 선보였다.\n그럼에도 BJ우앙은 아침 식사 후 얼마 지나지 않아 불닭에 '불족발' 까지 주문했다.\nBJ우앙은 여기에 매운맛을 더하기 위해 캡사이신까지 첨가해 눈길을 끌었다.\n온라인 중앙일보 사진출처: SBS '동상이몽, 괜찮아 괜찮아' 캡처",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'동상이몽, 괜찮아 괜찮아'에 출연한 인터넷 방송 BJ 우앙이 자신의 식단을 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 방송된 SBS '동상이몽, 괜찮아 괜찮아'에서는 인터넷 방송 'BJ 우앙'(본명 김리안)과 그의 어머니의 사연이 소개됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 BJ 우앙의 어머니는 딸이 먹방을 위해 너무 맵고 짜게 먹는 것 같아 걱정된다고 털어놨다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "BJ우앙은 아침식사로 참치 고추냉이 밥에 매운 순두부, 매운 라면, 매운 스팸 등 매운 맛으로 도배된 식단을 선보였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그럼에도 BJ우앙은 아침 식사 후 얼마 지나지 않아 불닭에 '불족발' 까지 주문했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "BJ우앙은 여기에 매운맛을 더하기 위해 캡사이신까지 첨가해 눈길을 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 사진출처: SBS '동상이몽, 괜찮아 괜찮아' 캡처",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'동상이몽' BJ 우앙, 고추냉이 밥에 불닭·불족발,캡사이신까지? \\\"극한의 매운 맛 추구\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

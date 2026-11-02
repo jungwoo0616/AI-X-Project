@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270607",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "OTT 넷플릭스·SKB, 망사용료 놓고 계속 공방전",
+		"newsSubTitle": "",
+		"newsContent": "OTT 넷플릭스와 통신업체 SK브로드밴드가 18일 망 이용대가 지급 여부를 두고 벌인 법정에서 각자 종전 입장을 되풀이하며 공방전을 벌였다.\n넷플릭스는 자체 콘텐츠전송망(CDN) 오픈커넥트(OCA)를 통해 무정산 방식으로 연결되므로 망 이용대가를 낼 법적 의무가 없다는 입장을 고수했다.\nSKB는 기업 간 거래가 기본적으로 유상 행위를 전제로 하는 만큼 콘텐츠제공사업자(CP)가 인터넷서비스제공업체(ISP)에 망 사용 대가를 내는 것이 당연하다고 반박했다.\n원고이며 항소인인 넷플릭스는 서울고등법원에서 진행된 망 이용대가 채무부존재 민사소송 항소심 구두 변론에서 “SKB는 2016년 1월 미국 시애틀에서 최초로 OCA와 직접 연결을 시작했다”며 “이후 SKB 요청으로 연결 지점을 2018년 5월 일본 도쿄로 변경했고 2020년 1월에는 홍콩도 추가됐다”고 설명했다.\n넷플릭스가 송신 ISP를 거치지 않은 채 SKB 망과 ‘무정산 피어링’ 방식으로 연결돼 있으며, 양사 연결지점인 도쿄와 홍콩에서부터 최종적 전송은 SKB가 통제하고 있다는 주장이다.\n넷플릭스는 “국내 CP는 전 세계 인터넷에 대한 접속 서비스를 제공받는 대가로 국내 ISP(송신 ISP)에 대가를 지급하고 있다”며 “이러한 인터넷 질서에 따라 미국에 있는 이용자가 국내 CP의 서비스를 사용해 트래픽이 발생하더라도 국내 CP가 미국 ISP에 비용을 지급하지 않는 것”이라고 주장했다.\n이어 “넷플릭스와의 관계에서 국내 ISP는 ‘착신 ISP’”라며 “국내 CP와 달리 국내 ISP는 넷플릭스에 어떠한 서비스도 제공하고 있지 않다”고 강조했다.\nSKB 측 강신섭 세종 대표변호사는 “무리한 주장”이라며 넷플릭스의 주장을 반박하며 “CDN이 어떻게 ISP 역할을 하겠느냐”고 반박했다.\nSKB 측은 넷플릭스가 2016년 1월경 자사 전용망과 ‘직접’ 연결하지 못한 채로 국내 서비스를 출시했다고 설명했다.\n강 변호사는 “2018년 5월 일본 도쿄, 2020년 1월 홍콩에서 전용망을 연결할 당시 실무자들의 이야기를 들어봐야 한다”며 “우리는 당시에 일했던 사람들이 다 서울에 있으니까 나와서 지원할 수 있다고 하는데 저쪽은 못 나온다고 한다”고 말했다.\n그는 “기업 행위는 상법의 규제를 받는데 그 뒤에는 유상이라는 전제가 있다”며 “무상의 합의가 있었다는 것은 원고 측에서 입증해야 한다”고 강조했다.\n넷플릭스는 망 사용료 지급을 요구하는 SKB를 상대로 소송을 냈다가 1심에서 패소하자 항소했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "OTT 넷플릭스와 통신업체 SK브로드밴드가 18일 망 이용대가 지급 여부를 두고 벌인 법정에서 각자 종전 입장을 되풀이하며 공방전을 벌였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷플릭스는 자체 콘텐츠전송망(CDN) 오픈커넥트(OCA)를 통해 무정산 방식으로 연결되므로 망 이용대가를 낼 법적 의무가 없다는 입장을 고수했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SKB는 기업 간 거래가 기본적으로 유상 행위를 전제로 하는 만큼 콘텐츠제공사업자(CP)가 인터넷서비스제공업체(ISP)에 망 사용 대가를 내는 것이 당연하다고 반박했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "원고이며 항소인인 넷플릭스는 서울고등법원에서 진행된 망 이용대가 채무부존재 민사소송 항소심 구두 변론에서 “SKB는 2016년 1월 미국 시애틀에서 최초로 OCA와 직접 연결을 시작했다”며 “이후 SKB 요청으로 연결 지점을 2018년 5월 일본 도쿄로 변경했고 2020년 1월에는 홍콩도 추가됐다”고 설명했다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "넷플릭스가 송신 ISP를 거치지 않은 채 SKB 망과 ‘무정산 피어링’ 방식으로 연결돼 있으며, 양사 연결지점인 도쿄와 홍콩에서부터 최종적 전송은 SKB가 통제하고 있다는 주장이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "넷플릭스는 “국내 CP는 전 세계 인터넷에 대한 접속 서비스를 제공받는 대가로 국내 ISP(송신 ISP)에 대가를 지급하고 있다”며 “이러한 인터넷 질서에 따라 미국에 있는 이용자가 국내 CP의 서비스를 사용해 트래픽이 발생하더라도 국내 CP가 미국 ISP에 비용을 지급하지 않는 것”이라고 주장했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “넷플릭스와의 관계에서 국내 ISP는 ‘착신 ISP’”라며 “국내 CP와 달리 국내 ISP는 넷플릭스에 어떠한 서비스도 제공하고 있지 않다”고 강조했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SKB 측 강신섭 세종 대표변호사는 “무리한 주장”이라며 넷플릭스의 주장을 반박하며 “CDN이 어떻게 ISP 역할을 하겠느냐”고 반박했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SKB 측은 넷플릭스가 2016년 1월경 자사 전용망과 ‘직접’ 연결하지 못한 채로 국내 서비스를 출시했다고 설명했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "강 변호사는 “2018년 5월 일본 도쿄, 2020년 1월 홍콩에서 전용망을 연결할 당시 실무자들의 이야기를 들어봐야 한다”며 “우리는 당시에 일했던 사람들이 다 서울에 있으니까 나와서 지원할 수 있다고 하는데 저쪽은 못 나온다고 한다”고 말했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그는 “기업 행위는 상법의 규제를 받는데 그 뒤에는 유상이라는 전제가 있다”며 “무상의 합의가 있었다는 것은 원고 측에서 입증해야 한다”고 강조했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "넷플릭스는 망 사용료 지급을 요구하는 SKB를 상대로 소송을 냈다가 1심에서 패소하자 항소했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "OTT 넷플릭스·SKB, 망사용료 놓고 계속 공방전",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

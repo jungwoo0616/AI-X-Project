@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273988",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "OTT 넷플릭스, 직원 300명 또 정리해고",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 최대 온라인 동영상 서비스(OTT) 넷플릭스가 23일(현지시간) 비용 절감을 목표로 직원 300명을 추가로 정리해고했다.\n넷플릭스는 성명을 내고 “우리는 상당한 사업 투자를 계속하고 있지만, 매출 성장 둔화와 맞물려 비용이 증가함에 따라 인력 조정에 나섰다”고 주장했다.\n넷플릭스 이번 해고는 한 달 만에 이뤄진 2차 감원 조치로, 해고 규모는 전체 직원의 약 4%에 해당한다고 현지 언론이 전했다.\n이 회사는 앞서 지난달 정규직 직원 150명을 정리해고했다.\n블룸버그 통신은 가입자 성장세가 꺾인 넷플릭스가 지출 비용을 통제하기 위해 추가 감원에 나섰다고 전했다.\n넷플릭스는 지난 4월 유료 가입자가 11년 만에 감소한 것으로 나타나자 콘텐츠 지출비 효율화, 광고가 포함된 저가 서비스 출시 등 비용 절감 대책을 도입하겠다는 입장을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 최대 온라인 동영상 서비스(OTT) 넷플릭스가 23일(현지시간) 비용 절감을 목표로 직원 300명을 추가로 정리해고했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷플릭스는 성명을 내고 “우리는 상당한 사업 투자를 계속하고 있지만, 매출 성장 둔화와 맞물려 비용이 증가함에 따라 인력 조정에 나섰다”고 주장했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "넷플릭스 이번 해고는 한 달 만에 이뤄진 2차 감원 조치로, 해고 규모는 전체 직원의 약 4%에 해당한다고 현지 언론이 전했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 회사는 앞서 지난달 정규직 직원 150명을 정리해고했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "블룸버그 통신은 가입자 성장세가 꺾인 넷플릭스가 지출 비용을 통제하기 위해 추가 감원에 나섰다고 전했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "넷플릭스는 지난 4월 유료 가입자가 11년 만에 감소한 것으로 나타나자 콘텐츠 지출비 효율화, 광고가 포함된 저가 서비스 출시 등 비용 절감 대책을 도입하겠다는 입장을 밝혔다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "OTT 넷플릭스, 직원 300명 또 정리해고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

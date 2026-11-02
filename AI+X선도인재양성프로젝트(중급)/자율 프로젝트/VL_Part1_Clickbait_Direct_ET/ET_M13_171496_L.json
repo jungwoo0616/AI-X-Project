@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171496",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘당나귀 귀’ 찬열 깜짝 등장…군복무 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "군입대한 엑소 찬열이 ‘당나귀 귀’에 깜짝 등장했다.\n24일 방송된 KBS2 예능 프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’) 129회에는 뮤지컬 음악감독 김문정이 3개월 만에 보스로 돌아왔다.\n이날 김문정은 자신이 UN가입 30주년 기념 여섯 번째 군 창작 뮤지컬 ‘메이사의 노래’ 작품을 새로 맡게 됐다며 연습 및 사전 녹음 현장을 공개했다.\n이때 뮤지컬 출연진 중 한 명으로 엑소 찬열이 깜짝 등장해 모두를 놀라게 했다.\n찬열은 자신을 “육군 9사단 소속 박찬열 일병. 군입대 전 엑소라는 팀에서 활동”했다고 소개했다.\n이런 찬열의 모습을 본 김숙은 “군복이 너무 잘어울린다 찬열은 찬열이다 군복을 입혀놔도”라며 감탄했고, 전현무는 “태양의 후예 실사판”이라고 칭찬했다.\n한편 찬열은 지난 3월 군입대해 현재 육군에서 군 복무 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "군입대한 엑소 찬열이 ‘당나귀 귀’에 깜짝 등장했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 방송된 KBS2 예능 프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’) 129회에는 뮤지컬 음악감독 김문정이 3개월 만에 보스로 돌아왔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김문정은 자신이 UN가입 30주년 기념 여섯 번째 군 창작 뮤지컬 ‘메이사의 노래’ 작품을 새로 맡게 됐다며 연습 및 사전 녹음 현장을 공개했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 뮤지컬 출연진 중 한 명으로 엑소 찬열이 깜짝 등장해 모두를 놀라게 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "찬열은 자신을 “육군 9사단 소속 박찬열 일병. 군입대 전 엑소라는 팀에서 활동”했다고 소개했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이런 찬열의 모습을 본 김숙은 “군복이 너무 잘어울린다 찬열은 찬열이다 군복을 입혀놔도”라며 감탄했고, 전현무는 “태양의 후예 실사판”이라고 칭찬했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 찬열은 지난 3월 군입대해 현재 육군에서 군 복무 중이다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "KBS2 '당나귀 귀'에 깜짝 등장하여 군복무 근황 공개한 엑소의 이 멤버.... 벌써 일병?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

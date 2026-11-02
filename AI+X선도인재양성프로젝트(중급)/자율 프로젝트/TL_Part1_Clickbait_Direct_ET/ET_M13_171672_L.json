@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171672",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "지석진, 코로나19 확진",
+    "newsSubTitle": "",
+    "newsContent": "방송인 지석진이 코로나19 확진 판정을 받았다.\n지석진은 10일 실시한 코로나19 PCR(유전자증폭) 검사 결과 최종 양성 반응이 나온 것으로 전해졌다.\n앞서 지석진은 코로나19 자가진단키트 검사에서 양성이 나왔고 추가로 이번 검사를 진행한 것이다.\n지석진은 백신 2차 접종까지 마친 상태였다.\n지석진은 SBS 예능 프로그램 ‘런닝맨’에서 함께 출연 중인 김종국이 코로나19 확진 판정이 나오자 두 차례 자가진단키트 검사를 진행했으나 음성이 나왔고, 세 번째 검사 결과 양성이 나왔다.\n지석진은 현재 미세한 두통 외 특별한 증상은 없는 상태로 방역당국의 지침에 따라 자가격리에 들어갔다. ‘런닝맨’의 다른 출연 멤버인 유재석, 전소미, 하하, 송지효 등은 음성판정을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 지석진이 코로나19 확진 판정을 받았다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지석진은 10일 실시한 코로나19 PCR(유전자증폭) 검사 결과 최종 양성 반응이 나온 것으로 전해졌다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 지석진은 코로나19 자가진단키트 검사에서 양성이 나왔고 추가로 이번 검사를 진행한 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지석진은 백신 2차 접종까지 마친 상태였다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지석진은 SBS 예능 프로그램 ‘런닝맨’에서 함께 출연 중인 김종국이 코로나19 확진 판정이 나오자 두 차례 자가진단키트 검사를 진행했으나 음성이 나왔고, 세 번째 검사 결과 양성이 나왔다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지석진은 현재 미세한 두통 외 특별한 증상은 없는 상태로 방역당국의 지침에 따라 자가격리에 들어갔다. ‘런닝맨’의 다른 출연 멤버인 유재석, 전소미, 하하, 송지효 등은 음성판정을 받았다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 지석진, 코로나19 확진... 이것까지 했는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

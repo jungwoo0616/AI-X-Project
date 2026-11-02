@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260407",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "최준희, 이유비와 한솥밥…연기 도전",
+		"newsSubTitle": "",
+		"newsContent": "故최진실 딸 최준희가 소속사와 전속계약을 체결하며 본격적으로 연예계생활을 시작한다.\n최준희가 최근 소속사 와이블룸과 전속계약을 체결한 소식이 지난 8일 전해졌다.\n와이블룸에는 배우 이유비, 채수아, 최가은 등이 소속된 만큼 최준희의 배우로서 새로운 도전에 대한 기대감을 고조시켰다.\n와이블룸은 “당사가 든든한 울타리가 되어 재능을 떨칠 수 있도록 지원을 아끼지 않을 예정이다. 이제 막 새로운 도전을 시도하는 최준희가 다방면에서 꿈을 펼칠 수 잇도록 따뜻한 관심과 많은 응원 부탁드린다”고 전했다.\n최준희는 엄마를 쏙 빼닮은 이목구비와 끼를 갖춘 인플루언서로 인스타그램을 통해 많은 사랑 받고 있다.\n특히 44kg 체중 감량에 성공하며 다이어트 노하우부터 뷰티 관련 정보들을 나누며 많은 누리꾼들의 공감을 사고 있다.\n또 지난달 한 출판사와의 계약 소식이 알려지면서 작가로서 정식 데뷔를 예고해 기대를 모으기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "故최진실 딸 최준희가 소속사와 전속계약을 체결하며 본격적으로 연예계생활을 시작한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최준희가 최근 소속사 와이블룸과 전속계약을 체결한 소식이 지난 8일 전해졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "와이블룸에는 배우 이유비, 채수아, 최가은 등이 소속된 만큼 최준희의 배우로서 새로운 도전에 대한 기대감을 고조시켰다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "와이블룸은 “당사가 든든한 울타리가 되어 재능을 떨칠 수 있도록 지원을 아끼지 않을 예정이다. 이제 막 새로운 도전을 시도하는 최준희가 다방면에서 꿈을 펼칠 수 잇도록 따뜻한 관심과 많은 응원 부탁드린다”고 전했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최준희는 엄마를 쏙 빼닮은 이목구비와 끼를 갖춘 인플루언서로 인스타그램을 통해 많은 사랑 받고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 44kg 체중 감량에 성공하며 다이어트 노하우부터 뷰티 관련 정보들을 나누며 많은 누리꾼들의 공감을 사고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 지난달 한 출판사와의 계약 소식이 알려지면서 작가로서 정식 데뷔를 예고해 기대를 모으기도 했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최준희, 이유비와 한솥밥…연기 도전",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

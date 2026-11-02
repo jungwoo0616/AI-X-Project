@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171649",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "휘인 ‘엠카’서 솔로데뷔 첫 1위",
+    "newsSubTitle": "",
+    "newsContent": "가수 휘인(Whee In)이 솔로 데뷔 후 처음으로 음악방송 1위를 차지했다.\n휘인은 지난 27일 방송된 Mnet ‘엠카운트다운’에 출연해 미니 2집 ‘휘(WHEE)’ 타이틀곡 ‘오묘해’로 1위의 영광을 안았다.\n휘인은 소속사 더 라이브를 통해 “함께 고민하고 고생한 스태프분들 덕분에 행복하게 작업할 수 있었다. 멤버들과 가족들 많이 사랑한다. 특히 우리 무무(마마무 공식 팬클럽)들이 주신 값진 상 평생 가슴에 품고 더 나아가는 사람이 되겠다. 사랑한다”며 소감을 전했다.\n휘인은 미니 2집 ‘휘’로 초동 판매량 6만 3천 장을 돌파하며 자체 최고 기록을 경신했다.\n솔로 아티스트로서의 저력을 입증한 휘인이 앞으로 어떤 활동을 이어갈지 귀추가 주목된다.\n한편 휘인은 미니 2집 타이틀곡 ‘오묘해’로 활발히 활동할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 휘인(Whee In)이 솔로 데뷔 후 처음으로 음악방송 1위를 차지했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "휘인은 지난 27일 방송된 Mnet ‘엠카운트다운’에 출연해 미니 2집 ‘휘(WHEE)’ 타이틀곡 ‘오묘해’로 1위의 영광을 안았다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "휘인은 소속사 더 라이브를 통해 “함께 고민하고 고생한 스태프분들 덕분에 행복하게 작업할 수 있었다. 멤버들과 가족들 많이 사랑한다. 특히 우리 무무(마마무 공식 팬클럽)들이 주신 값진 상 평생 가슴에 품고 더 나아가는 사람이 되겠다. 사랑한다”며 소감을 전했다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "휘인은 미니 2집 ‘휘’로 초동 판매량 6만 3천 장을 돌파하며 자체 최고 기록을 경신했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "솔로 아티스트로서의 저력을 입증한 휘인이 앞으로 어떤 활동을 이어갈지 귀추가 주목된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 휘인은 미니 2집 타이틀곡 ‘오묘해’로 활발히 활동할 계획이다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 휘인, '엠카'에서 솔로 데뷔 후 첫 이것 차지... 영광",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

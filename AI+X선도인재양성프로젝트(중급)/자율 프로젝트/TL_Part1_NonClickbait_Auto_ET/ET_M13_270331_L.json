@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270331",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박한별, 남편 논란 후 3년만에 SNS 재개…제주살이 근황",
+		"newsSubTitle": "",
+		"newsContent": "배우 박한별이 3년 만에 SNS를 재개했다.\n박한별은 16일 자신의 SNS 인스타그램 계정에 “jeju”라는 글과 함께 자신의 사진 여러장을 올렸다.\n흰색 면 원피스에 운동화를 신고 모자를 쓴 채 밝은 표정으로 카페로 보이는 곳에서 휴식을 취하고 있는 모습이다.\n누리꾼들은 편안하고 밝은 박한별의 모습에 기쁨을 감추지 않았다.\n팬들은 “여전히 예쁘네” “언제 볼 수 있을까요” “그리웠어요” “살아 있었어?” “잘 지내고 있죠?”등의 댓글을 이어갔다.\n한편 박한별은 지난 2019년 남편 유인석 전 유리홀딩스 대표가 버닝썬 논란에 휩싸이자 당시 촬영 중이던 드라마를 마친 뒤 곧바로 제주도에 내려가 2020년부터 제주도에 머물고 있는 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박한별이 3년 만에 SNS를 재개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박한별은 16일 자신의 SNS 인스타그램 계정에 “jeju”라는 글과 함께 자신의 사진 여러장을 올렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "흰색 면 원피스에 운동화를 신고 모자를 쓴 채 밝은 표정으로 카페로 보이는 곳에서 휴식을 취하고 있는 모습이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 편안하고 밝은 박한별의 모습에 기쁨을 감추지 않았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 “여전히 예쁘네” “언제 볼 수 있을까요” “그리웠어요” “살아 있었어?” “잘 지내고 있죠?”등의 댓글을 이어갔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 박한별은 지난 2019년 남편 유인석 전 유리홀딩스 대표가 버닝썬 논란에 휩싸이자 당시 촬영 중이던 드라마를 마친 뒤 곧바로 제주도에 내려가 2020년부터 제주도에 머물고 있는 것으로 알려졌다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박한별, 남편 논란 후 3년만에 SNS 재개…제주살이 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

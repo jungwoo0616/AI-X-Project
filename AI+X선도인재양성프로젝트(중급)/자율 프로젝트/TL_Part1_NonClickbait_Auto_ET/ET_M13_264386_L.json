@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264386",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘당나귀 귀’ 홀리뱅, 의상 리폼 배틀 “여기 의상실인가요?”",
+		"newsSubTitle": "",
+		"newsContent": "댄서 허니제이와 그의 크루 홀리뱅의 리폼 배틀이 시작된다.\n오늘 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 새 프로모션 비디오 의상을 제작하는 댄스 크루 홀리뱅의 이야기가 그려진다.\n허니제이는 퍼포먼스 콘셉트에 맞춰 의상을 직접 제작하기로 했다.\n이에 동대문파와 가로수길파로 나뉜 홀리뱅은 인당 10만 원 이하의 비용으로 최대 효과를 내기 위해 각종 액세서리와 기본 의상들을 구입했다.\n허니제이는 ‘리폼 장인’답게 거침없는 손길로 쇠사슬을 분해해 의상을 만들기 시작했고, 멤버들도 자신의 스타일에 맞춰 옆트임과 뒤트임에 앞트임을 넣은 리폼을 진행한다.\n영상을 보던 중 허니제이의 의상을 보고 놀란 김병현은 “저 옷을 입고 방송에 나갈 수 있어요?”라 물었고, 허재 역시 “난 뭐가 뭔질 모르겠다”며 당황했다는 후문. 홀리뱅 크루가 어떤 의상을 제작했을지 궁금증이 높아진다.\n한편 홀리뱅의 의상 리폼 현장은 오늘(20일) 오후 5시 KBS 2TV ‘사장님 귀는 당나귀 귀’를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 허니제이와 그의 크루 홀리뱅의 리폼 배틀이 시작된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 새 프로모션 비디오 의상을 제작하는 댄스 크루 홀리뱅의 이야기가 그려진다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "허니제이는 퍼포먼스 콘셉트에 맞춰 의상을 직접 제작하기로 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 동대문파와 가로수길파로 나뉜 홀리뱅은 인당 10만 원 이하의 비용으로 최대 효과를 내기 위해 각종 액세서리와 기본 의상들을 구입했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허니제이는 ‘리폼 장인’답게 거침없는 손길로 쇠사슬을 분해해 의상을 만들기 시작했고, 멤버들도 자신의 스타일에 맞춰 옆트임과 뒤트임에 앞트임을 넣은 리폼을 진행한다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상을 보던 중 허니제이의 의상을 보고 놀란 김병현은 “저 옷을 입고 방송에 나갈 수 있어요?”라 물었고, 허재 역시 “난 뭐가 뭔질 모르겠다”며 당황했다는 후문. 홀리뱅 크루가 어떤 의상을 제작했을지 궁금증이 높아진다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 홀리뱅의 의상 리폼 현장은 오늘(20일) 오후 5시 KBS 2TV ‘사장님 귀는 당나귀 귀’를 통해 공개된다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘당나귀 귀’ 홀리뱅, 의상 리폼 배틀 “여기 의상실인가요?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

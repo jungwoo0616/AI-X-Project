@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267379",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[단독] 새역사쓰는 에스파 ‘코첼라’ 초청에 20일 출국",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에스파가 미국에서 K팝 새 기록을 세운다.\n에스파는 오는 20일(한국시간) 인천국제공항을 이용해 미국 로스엔젤레스 국제공항으로 향하는 것으로 확인됐다.\n이들은 21일 미국 로스엔젤레스에 도착해 곧장 미국 캘리포니아주로 이동한다.\n에스파의 이번 미국 출국은 캘리포니아주 인디오 코첼라 벨라에서 지난 15일부터 개최 중인 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌’ 참석을 위해서다.\n미국 최대 규모 음악 페스티벌인 이 행사에서 에스파는 활동 중인 K팝 여성 그룹 최초로 메인스테이지에 공식 초정된 이들로 기록된다.\n올해에는 에스파를 비롯해 해리 스타일스, 빌리 아일리시, 도자 캣, 코난 그레이, 핑크 스웨츠 등 기라성 같은 뮤지션들이 대거 출동한다.\n지난 17일 투애니원이 깜짝 완전체 무대를 꾸려 국내 팬들의 이목을 끌기도 했다.\n에스파는 이번 무대에서 ‘블랙맘바’ ‘넥스트 레벨’ ‘새비지’와 미공개 신곡까지 선사한다고 소속사인 SM 엔터테인먼트는 설명했다.\n에스파의 코첼라 공연은 오는 24일 코첼라 공식 유튜브 채널에서 생중계된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에스파가 미국에서 K팝 새 기록을 세운다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에스파는 오는 20일(한국시간) 인천국제공항을 이용해 미국 로스엔젤레스 국제공항으로 향하는 것으로 확인됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 21일 미국 로스엔젤레스에 도착해 곧장 미국 캘리포니아주로 이동한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에스파의 이번 미국 출국은 캘리포니아주 인디오 코첼라 벨라에서 지난 15일부터 개최 중인 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌’ 참석을 위해서다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국 최대 규모 음악 페스티벌인 이 행사에서 에스파는 활동 중인 K팝 여성 그룹 최초로 메인스테이지에 공식 초정된 이들로 기록된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해에는 에스파를 비롯해 해리 스타일스, 빌리 아일리시, 도자 캣, 코난 그레이, 핑크 스웨츠 등 기라성 같은 뮤지션들이 대거 출동한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 17일 투애니원이 깜짝 완전체 무대를 꾸려 국내 팬들의 이목을 끌기도 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에스파는 이번 무대에서 ‘블랙맘바’ ‘넥스트 레벨’ ‘새비지’와 미공개 신곡까지 선사한다고 소속사인 SM 엔터테인먼트는 설명했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "에스파의 코첼라 공연은 오는 24일 코첼라 공식 유튜브 채널에서 생중계된다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독] 새역사쓰는 에스파 ‘코첼라’ 초청에 20일 출국",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

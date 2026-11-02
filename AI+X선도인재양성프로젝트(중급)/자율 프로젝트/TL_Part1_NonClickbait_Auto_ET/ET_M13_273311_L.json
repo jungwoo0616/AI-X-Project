@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273311",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "김희재, 첫 정규앨범 27일 온다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 김희재가 첫 정규 앨범으로 돌아온다.\n김희재 소속사 스카이이앤엠은 “오는 27일 오후 6시 가수 김희재가 첫 번째 정규 앨범 ‘희재(熙栽)’를 발매한다”고 밝혔다.\n이번 앨범은 지난해 11월 싱글 ‘별, 그대’ 이후 약 7개월 만의 신보로 팬들의 기대를 모은다.\n김희재의 첫 정규 앨범 ‘희재(熙栽)’는 8곡의 신곡이 포함되어 총 10곡이 수록됐다.\n지난 13일 오후 3시부터 성황리에 예약판매가 진행 중이며, 총 2가지 쥬얼케이스 버전과 함께 미니 포스터 2종 중 랜덤 1종, 포토카드 1종, 엽서 1종, 스티커 1종이 포함된 54페이지 분량의 포토북 버전으로 구분되어 발매된다.\n앞서 김희재는 지난해 전국 투어 팬콘서트 ‘별, 그대’를 진행하며 서울, 부산, 울산, 대구, 성남 등 전국 각지의 팬들을 만난 바 있다.\n김희재는 전국 투어 일정 속에서도 싱글 ‘별, 그대’를 발매하며 남다른 팬사랑을 드러냈다.\n한편, 김희재의 첫 정규 앨범 ‘희재(熙栽)’의 예약 판매는 예스24, 인터파크, 이프로몰, 알라딘 등 각종 음반사이트를 통해 진행되고있으며 오는 27일 오후 6시 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김희재가 첫 정규 앨범으로 돌아온다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김희재 소속사 스카이이앤엠은 “오는 27일 오후 6시 가수 김희재가 첫 번째 정규 앨범 ‘희재(熙栽)’를 발매한다”고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 앨범은 지난해 11월 싱글 ‘별, 그대’ 이후 약 7개월 만의 신보로 팬들의 기대를 모은다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김희재의 첫 정규 앨범 ‘희재(熙栽)’는 8곡의 신곡이 포함되어 총 10곡이 수록됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 13일 오후 3시부터 성황리에 예약판매가 진행 중이며, 총 2가지 쥬얼케이스 버전과 함께 미니 포스터 2종 중 랜덤 1종, 포토카드 1종, 엽서 1종, 스티커 1종이 포함된 54페이지 분량의 포토북 버전으로 구분되어 발매된다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 김희재는 지난해 전국 투어 팬콘서트 ‘별, 그대’를 진행하며 서울, 부산, 울산, 대구, 성남 등 전국 각지의 팬들을 만난 바 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김희재는 전국 투어 일정 속에서도 싱글 ‘별, 그대’를 발매하며 남다른 팬사랑을 드러냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 김희재의 첫 정규 앨범 ‘희재(熙栽)’의 예약 판매는 예스24, 인터파크, 이프로몰, 알라딘 등 각종 음반사이트를 통해 진행되고있으며 오는 27일 오후 6시 음원사이트를 통해 공개된다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김희재, 첫 정규앨범 27일 온다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

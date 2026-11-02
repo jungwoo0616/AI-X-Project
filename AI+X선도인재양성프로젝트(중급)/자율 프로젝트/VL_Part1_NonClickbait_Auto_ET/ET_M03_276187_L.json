@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276187",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "안젤리나 졸리, 서울서 한식당 방문...1인 29만원",
+		"newsSubTitle": "",
+		"newsContent": "한국을 찾은 할리우드 스타 안젤리나 졸리(43)가 서울 강남구 청담동 고급 한식당을 찾았다.\n미쉐린 3스타 한식당 '가온'은 지난 3일 저녁 졸리가 아들 팍스와 함께 방문해 '가온 코스'를 2시간 가량 즐겼다고 5일 밝혔다.\n팍스는 졸리가 베트남에서 입양한 아들이다. '가온코스'는 1인당 29만원짜리 코스로 송이전복선, 꽃게찜, 등심구이 솥밥 등이 제공된다.\n졸리는 지난 2일 서울 종로구 삼청동 고깃집 방문 때와 마찬가지로 경호원 대동 없이 통역가와 함께 식당을 방문한 것으로 알려졌다.\n가온은 광주요그룹의 외식사업부인 '가온소사이어티'가 운영하는 곳으로 지난 2016년부터 3년 연속 미쉐린 3스타 등급을 받았다.\n한편 졸리는 입양 봉사와 아들 매덕스의 국내 대학 진학 등을 이유로 한국을 찾은 것으로 알려졌다.\n졸리는 3명의 입양 자녀 매덕스, 팍스, 자하라와 전 남편 브래드 피트와의 사이에서 낳은 실로, 녹스, 비비안느 등 6명의 자녀를 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국을 찾은 할리우드 스타 안젤리나 졸리(43)가 서울 강남구 청담동 고급 한식당을 찾았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미쉐린 3스타 한식당 '가온'은 지난 3일 저녁 졸리가 아들 팍스와 함께 방문해 '가온 코스'를 2시간 가량 즐겼다고 5일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "팍스는 졸리가 베트남에서 입양한 아들이다. '가온코스'는 1인당 29만원짜리 코스로 송이전복선, 꽃게찜, 등심구이 솥밥 등이 제공된다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "졸리는 지난 2일 서울 종로구 삼청동 고깃집 방문 때와 마찬가지로 경호원 대동 없이 통역가와 함께 식당을 방문한 것으로 알려졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가온은 광주요그룹의 외식사업부인 '가온소사이어티'가 운영하는 곳으로 지난 2016년부터 3년 연속 미쉐린 3스타 등급을 받았다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 졸리는 입양 봉사와 아들 매덕스의 국내 대학 진학 등을 이유로 한국을 찾은 것으로 알려졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "졸리는 3명의 입양 자녀 매덕스, 팍스, 자하라와 전 남편 브래드 피트와의 사이에서 낳은 실로, 녹스, 비비안느 등 6명의 자녀를 두고 있다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안젤리나 졸리, 서울서 한식당 방문...1인 29만원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

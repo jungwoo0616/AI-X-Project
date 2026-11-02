@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263052",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수, 미키마우스로 변신!",
+		"newsSubTitle": "",
+		"newsContent": "그룹 블랙핑크 지수가 여행기를 공개했다.\n지수는 7일 자신의 사회관계망서비스(SNS)에 “오늘의 하루”라는 글과 함께 여러 장의 사진을 게재했다.\n공개된 사진에서 지수는 디즈니랜드를 방문했다.\n선글라스와 미키마우스 후드로 귀여움을 더했고, 다른 사진에서는 청바지에 스웨터, 모자로 수수한 매력을 보여줬다.\n지수는 화창한 날에 디즈니랜드를 방문해 여유로운 일상을 즐기는 모습을 보여줬다.\n지수는 최근 파리 패션위크 참석차 프랑스로 출국했다.\n여러 행사에 참석함과 동시에 프랑스에서 보낸 근황 사진을 올리며 팬들에게 안부를 전하고 있다.\n한편 지수는 최근 종영한 JTBC 드라마 ‘설강화’에 출연했다. ‘설강화’는 1987년 서울을 배경으로 어느 날 갑자기 여자대학교 기숙사에 피투성이로 뛰어든 명문대생 수호와 서슬 퍼런 감시와 위기 속에서도 그를 감추고 치료해준 여대생 영로의 시대를 거스른 사랑 이야기로 지수는 은영로 역을 맡아 열연을 펼쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 블랙핑크 지수가 여행기를 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수는 7일 자신의 사회관계망서비스(SNS)에 “오늘의 하루”라는 글과 함께 여러 장의 사진을 게재했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 지수는 디즈니랜드를 방문했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "선글라스와 미키마우스 후드로 귀여움을 더했고, 다른 사진에서는 청바지에 스웨터, 모자로 수수한 매력을 보여줬다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지수는 화창한 날에 디즈니랜드를 방문해 여유로운 일상을 즐기는 모습을 보여줬다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지수는 최근 파리 패션위크 참석차 프랑스로 출국했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여러 행사에 참석함과 동시에 프랑스에서 보낸 근황 사진을 올리며 팬들에게 안부를 전하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 지수는 최근 종영한 JTBC 드라마 ‘설강화’에 출연했다. ‘설강화’는 1987년 서울을 배경으로 어느 날 갑자기 여자대학교 기숙사에 피투성이로 뛰어든 명문대생 수호와 서슬 퍼런 감시와 위기 속에서도 그를 감추고 치료해준 여대생 영로의 시대를 거스른 사랑 이야기로 지수는 은영로 역을 맡아 열연을 펼쳤다.",
+				"sentenceSize": 173
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수, 미키마우스로 변신!",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

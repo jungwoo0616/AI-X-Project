@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277695",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "복면가왕 판정단 뒤흔든 역대급 출연자",
+		"newsSubTitle": "",
+		"newsContent": "MBC '일밤-복면가왕'의 판정단을 혼란에 빠뜨린 역대급 출연자 '수상한 모자장수'의 정체가 밝혀졌다. '시간을 달리는 토끼'와 모자장수는 세 번째 무대의 주인공이었다.\n두 사람은 10cm의 '사랑은 은하수 다방에서'를 감미로운 목소리로 부르며 판정단을 사로잡았다.\n처음 모자장수의 목소리를 들은 판정단은 남자인지 여자인지 짐작하지 못하며 혼란스러워했다.\n김구라는 \\\"차라리 자웅동체라고 하자\\\"고 말할 정도였다.\n투표 결과 70대 29로 시간을 달리는 토끼가 승리하며 모자장수가 복면을 벗자, 판정단은 충격에 빠졌다.\n모자장수의 정체는 방송인 타일러 라쉬였던 것. 복면을 벗은 타일러는 \\\"사람들이 저를 딱딱하게 생각하는 것 같다. 그렇지 않은 면도 많다는 것을 알리고 싶었다\\\"고 밝혔다.\n네티즌들은 \\\"목소리 너무 좋다\\\" \\\"타일러, 못하는 게 뭐냐\\\"며 폭발적인 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC '일밤-복면가왕'의 판정단을 혼란에 빠뜨린 역대급 출연자 '수상한 모자장수'의 정체가 밝혀졌다. '시간을 달리는 토끼'와 모자장수는 세 번째 무대의 주인공이었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "두 사람은 10cm의 '사랑은 은하수 다방에서'를 감미로운 목소리로 부르며 판정단을 사로잡았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "처음 모자장수의 목소리를 들은 판정단은 남자인지 여자인지 짐작하지 못하며 혼란스러워했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김구라는 \\\"차라리 자웅동체라고 하자\\\"고 말할 정도였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "투표 결과 70대 29로 시간을 달리는 토끼가 승리하며 모자장수가 복면을 벗자, 판정단은 충격에 빠졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모자장수의 정체는 방송인 타일러 라쉬였던 것. 복면을 벗은 타일러는 \\\"사람들이 저를 딱딱하게 생각하는 것 같다. 그렇지 않은 면도 많다는 것을 알리고 싶었다\\\"고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네티즌들은 \\\"목소리 너무 좋다\\\" \\\"타일러, 못하는 게 뭐냐\\\"며 폭발적인 반응을 보였다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "복면가왕 판정단 뒤흔든 역대급 출연자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

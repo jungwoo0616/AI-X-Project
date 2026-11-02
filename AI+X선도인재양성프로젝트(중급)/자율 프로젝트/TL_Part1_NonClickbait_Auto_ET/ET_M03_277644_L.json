@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277644",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"마님이 시킨건 해야…\\\" CF 걷어찬 최민수, 속타는 아내",
+		"newsSubTitle": "",
+		"newsContent": "배우 최민수가 CF 출연 제안을 거절해 아내의 분노를 샀다.\n22일 방송된 TV조선 '엄마가 뭐길래'에서는 배우 최민수와 그의 아내 강주은이 출연했다.\n최민수는 굴러 들어온 CF 출연을 걷어차 강주은을 답답하게 만들었다.\n최민수는 자신의 아들과 다림질을 하고 있었다.\n이 때 매니저로부터 최민수에게 전화가 왔고, \\\"CF 들어왔다. 우리가 백수 탈출을 한다\\\"라며 기뻐했다.\n최민수 역시 \\\"어마어마한 거냐\\\"라며 맞장구쳤다.\n하지만 최민수는 강주은이 시킨 일 때문에 CF 미팅을 포기했다.\n이후 인터뷰에서 \\\"마님이 시키신 건 해야 한다. 이게 잘못된 거냐\\\"고 주장했다.\n강주은은 \\\"아내 입장에서는 경제적인 상황을 생각해야 한다\\\"라며 \\\"일에 관련된 전화가 왔다. 근데 자기가 안 갔다. 사람이 이 나이쯤 되면 판단할 수 있지 않냐. 이해가 안된다\\\"라며 쏘아붙였다.\n강주은은 \\\"이런 일이 얼마나 많았겠냐. 내가 숨을 쉬고 살아 있다는 게 기적이다\\\"라며 답답함을 호소했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최민수가 CF 출연 제안을 거절해 아내의 분노를 샀다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 방송된 TV조선 '엄마가 뭐길래'에서는 배우 최민수와 그의 아내 강주은이 출연했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최민수는 굴러 들어온 CF 출연을 걷어차 강주은을 답답하게 만들었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최민수는 자신의 아들과 다림질을 하고 있었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 때 매니저로부터 최민수에게 전화가 왔고, \\\"CF 들어왔다. 우리가 백수 탈출을 한다\\\"라며 기뻐했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최민수 역시 \\\"어마어마한 거냐\\\"라며 맞장구쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 최민수는 강주은이 시킨 일 때문에 CF 미팅을 포기했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 인터뷰에서 \\\"마님이 시키신 건 해야 한다. 이게 잘못된 거냐\\\"고 주장했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "강주은은 \\\"아내 입장에서는 경제적인 상황을 생각해야 한다\\\"라며 \\\"일에 관련된 전화가 왔다. 근데 자기가 안 갔다. 사람이 이 나이쯤 되면 판단할 수 있지 않냐. 이해가 안된다\\\"라며 쏘아붙였다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "강주은은 \\\"이런 일이 얼마나 많았겠냐. 내가 숨을 쉬고 살아 있다는 게 기적이다\\\"라며 답답함을 호소했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"마님이 시킨건 해야…\\\" CF 걷어찬 최민수, 속타는 아내",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

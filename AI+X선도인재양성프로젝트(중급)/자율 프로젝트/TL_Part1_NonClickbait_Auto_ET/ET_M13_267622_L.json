@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267622",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "제시 “내 사이즈는 수박이 아니라 사과 정도”(TMI쇼)",
+		"newsSubTitle": "",
+		"newsContent": "가수 제시가 자신의 신체 사이즈에 대해 직접 밝혔다.\n제시는 지난 20일 방송된 Mnet ‘TMI SHOW’에 출연했다.\n이날 제시는 자신만의 ‘멋대로 사는 법’을 공개하며 TMI(Too Much Information)를 설명했다.\n제시는 화제가 되는 자신의 남다른 볼륨감에 대해서 “가슴 사이즈가 큰 B컵, 작은 C컵 정도다. 수박처럼 생각하는데 아니다. 배 아니면 사과 정도다. 지금은 살이 쪄서 단추가 안 잠겼다. 저도 나이 들어서 관리를 다시 해야겠다는 생각이 든다. 막 먹으니까 군살이 생긴다”라고 말했다.\n또 제시는 자신의 오버립에 대한 오해도 설명했다.\n제시는 “제가 입술 필러를 엄청 많이 맞는 줄 아는데 아니다. 예전에 맞았던게 남아있기는 한데 더 맞을 시간이 없다. 나올 때마다 괴물이 된다고 하는데 아니다”라며 “메이크업을 지우면 원래 사이즈다”라며 립 라이너로 오버라인 입술을 만드는 모습을 공개했다.\n제시는 “입술이 3배로 커질 수 있다”라며 실제로 스튜디오에서 립 라이너로 오버라인을 그리는 모습을 공개했다고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 제시가 자신의 신체 사이즈에 대해 직접 밝혔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제시는 지난 20일 방송된 Mnet ‘TMI SHOW’에 출연했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 제시는 자신만의 ‘멋대로 사는 법’을 공개하며 TMI(Too Much Information)를 설명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제시는 화제가 되는 자신의 남다른 볼륨감에 대해서 “가슴 사이즈가 큰 B컵, 작은 C컵 정도다. 수박처럼 생각하는데 아니다. 배 아니면 사과 정도다. 지금은 살이 쪄서 단추가 안 잠겼다. 저도 나이 들어서 관리를 다시 해야겠다는 생각이 든다. 막 먹으니까 군살이 생긴다”라고 말했다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 제시는 자신의 오버립에 대한 오해도 설명했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제시는 “제가 입술 필러를 엄청 많이 맞는 줄 아는데 아니다. 예전에 맞았던게 남아있기는 한데 더 맞을 시간이 없다. 나올 때마다 괴물이 된다고 하는데 아니다”라며 “메이크업을 지우면 원래 사이즈다”라며 립 라이너로 오버라인 입술을 만드는 모습을 공개했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제시는 “입술이 3배로 커질 수 있다”라며 실제로 스튜디오에서 립 라이너로 오버라인을 그리는 모습을 공개했다고 전했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제시 “내 사이즈는 수박이 아니라 사과 정도”(TMI쇼)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273517",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임창정, 18일 전주서 전국투어 ‘멀티버스’ 포문",
+		"newsSubTitle": "",
+		"newsContent": "가수 임창정이 전주 공연을 시작으로 전국투어 콘서트 ‘멀티버스(MULTIVERSE)’를 시작했다.\n임창정의 소속사 예스아이엠엔터테인먼트는 18일 임창정의 전북 전주 공연소식을 전하면서 “임창정은 공연명 ‘멀티버스(다중우주)’의 뜻처럼 가수, 배우, 아빠, 인생박사, 프로듀서 등 다섯 명의 임창정들이 각기 다른 무대를 꾸며 더욱 다채로운 공연을 보여줄 것”이라고 소개했다.\n임창정은 ‘인생박사’의 캐릭터를 소화하기 위해 공연에서 관객의 고민을 들어주는 코너도 선보인다.\n관객에게 노래시키기, 댄스 메들리, 피아노 연주 등 다양한 볼거리를 제공한다.\n공연은 강수호(드럼), 길은경(피아노), 이성민(기타), 최세진(퍼커션), 최태완(키보드), 홍준호(어쿠스틱 기타), 이태윤(베이스) 등 국내 정상급 연주자들도 함께 한다.\n임창정의 전국투어 콘서트 ‘멀티버스’는 전주 공연을 시작으로 안양, 일산, 대구, 대전, 창원에서 공연을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임창정이 전주 공연을 시작으로 전국투어 콘서트 ‘멀티버스(MULTIVERSE)’를 시작했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임창정의 소속사 예스아이엠엔터테인먼트는 18일 임창정의 전북 전주 공연소식을 전하면서 “임창정은 공연명 ‘멀티버스(다중우주)’의 뜻처럼 가수, 배우, 아빠, 인생박사, 프로듀서 등 다섯 명의 임창정들이 각기 다른 무대를 꾸며 더욱 다채로운 공연을 보여줄 것”이라고 소개했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임창정은 ‘인생박사’의 캐릭터를 소화하기 위해 공연에서 관객의 고민을 들어주는 코너도 선보인다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관객에게 노래시키기, 댄스 메들리, 피아노 연주 등 다양한 볼거리를 제공한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공연은 강수호(드럼), 길은경(피아노), 이성민(기타), 최세진(퍼커션), 최태완(키보드), 홍준호(어쿠스틱 기타), 이태윤(베이스) 등 국내 정상급 연주자들도 함께 한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임창정의 전국투어 콘서트 ‘멀티버스’는 전주 공연을 시작으로 안양, 일산, 대구, 대전, 창원에서 공연을 이어간다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임창정, 18일 전주서 전국투어 ‘멀티버스’ 포문",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

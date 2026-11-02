@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272370",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘대세가수’ 정동원 ‘대세배우’ 등극",
+		"newsSubTitle": "",
+		"newsContent": "가수 정동원이 흥행세를 이어나가고 있다.\n정동원 소속사 쇼플레이 엔터테인먼트에 따르면 한국기업평판연구소의 드라마 배우 브랜드 평판 6월 빅데이터 분석에서 정동원이 9위에 이름을 올렸다.\n손석구, 이병헌, 신민아, 이준기, 이민기, 임수향, 한지민, 이엘 등 쟁쟁한 배우들에 이어 순위에 오른 것이다.\n현재 정동원은 ENA 드라마 ‘구필수는 없다’에서 구필수(곽도원)과 남성미(한고은)의 아들이자 고뇌하는 중학생 구준표 역을 맡아 열연을 펼치고 있다.\n정동원은 ‘2nd 정동원棟동 이야기話화 전국투어 콘서트’ 티켓 오픈과 함께 매진을 기록해 막강한 티켓 파워를 기록했다.\n최근 부산, 광주, 서울에 이어 전국투어 콘서트를 마치며 팬들의 뜨거운 호응을 이끌었다.\n정동원은 지난 4월 첫 미니 앨범 ‘손편지’를 발매하며 한터차트 일간 랭킹 1위를 차지하는 등 음원 호성적도 이어가고 있다.\n소속사는 “정동원은 16살이라는 어린 나이에도 불구하고 다양한 분야에서 두각을 드러내며 만능 엔터테이너로 자리매김 중”이라며 “정동원은 오는 18일과 19일 대구에서 전국투어 콘서트 대미를 장식할 예정”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정동원이 흥행세를 이어나가고 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정동원 소속사 쇼플레이 엔터테인먼트에 따르면 한국기업평판연구소의 드라마 배우 브랜드 평판 6월 빅데이터 분석에서 정동원이 9위에 이름을 올렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손석구, 이병헌, 신민아, 이준기, 이민기, 임수향, 한지민, 이엘 등 쟁쟁한 배우들에 이어 순위에 오른 것이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 정동원은 ENA 드라마 ‘구필수는 없다’에서 구필수(곽도원)과 남성미(한고은)의 아들이자 고뇌하는 중학생 구준표 역을 맡아 열연을 펼치고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정동원은 ‘2nd 정동원棟동 이야기話화 전국투어 콘서트’ 티켓 오픈과 함께 매진을 기록해 막강한 티켓 파워를 기록했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 부산, 광주, 서울에 이어 전국투어 콘서트를 마치며 팬들의 뜨거운 호응을 이끌었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정동원은 지난 4월 첫 미니 앨범 ‘손편지’를 발매하며 한터차트 일간 랭킹 1위를 차지하는 등 음원 호성적도 이어가고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소속사는 “정동원은 16살이라는 어린 나이에도 불구하고 다양한 분야에서 두각을 드러내며 만능 엔터테이너로 자리매김 중”이라며 “정동원은 오는 18일과 19일 대구에서 전국투어 콘서트 대미를 장식할 예정”이라고 전했다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘대세가수’ 정동원 ‘대세배우’ 등극",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269984",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아저씨 뒤에 장덕수(허성태)가 있습니다",
+		"newsSubTitle": "",
+		"newsContent": "배우 허성태가 본인을 인증했다.\n허성태는 12일 인스타그램에 여객기 기내 좌석 모니터로 넷플릭스 드라마 ‘오징어게임’을 시청 중인 한 시민을 발견했다.\n놀랍게도 허성태는 현장에 있었다.\n허성태는 “아저씨, 저 뒤에 있다. 즐거운 여행되시길”이라고 전했다.\n모니터 화면 안에는 ‘오징어게임’에서 열연 중인 허성태의 모습이 비치고 있다.\n해당 게시물을 두고 함께 ‘오징어게임’에 출연한 배우 정호연은 웃음 표시를 남겨 유쾌함을 드러냈다.\n이와 함께 허성태는 ‘덕수’라는 태그를 덧붙였다.\n장덕수는 ‘오징어게임’ 내에서 허성태가 열연한 캐릭터 이름이다.\n허성태는 ‘오징어게임’의 글로벌 흥행과 함께 현재 주가를 올리고 있다.\n쿠팡TV 예능 프로그램 ‘SNL코리아리부트 시즌’에도 출연해 ‘코카인 댄스’를 선보여 반전 매력이 대중에게 통했다.\n이에 대한 여파로 허성태는 한 주류 브랜드 광고 모델로 나서는 등 활발한 활동을 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 허성태가 본인을 인증했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "허성태는 12일 인스타그램에 여객기 기내 좌석 모니터로 넷플릭스 드라마 ‘오징어게임’을 시청 중인 한 시민을 발견했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "놀랍게도 허성태는 현장에 있었다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허성태는 “아저씨, 저 뒤에 있다. 즐거운 여행되시길”이라고 전했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모니터 화면 안에는 ‘오징어게임’에서 열연 중인 허성태의 모습이 비치고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 게시물을 두고 함께 ‘오징어게임’에 출연한 배우 정호연은 웃음 표시를 남겨 유쾌함을 드러냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 함께 허성태는 ‘덕수’라는 태그를 덧붙였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "장덕수는 ‘오징어게임’ 내에서 허성태가 열연한 캐릭터 이름이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "허성태는 ‘오징어게임’의 글로벌 흥행과 함께 현재 주가를 올리고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "쿠팡TV 예능 프로그램 ‘SNL코리아리부트 시즌’에도 출연해 ‘코카인 댄스’를 선보여 반전 매력이 대중에게 통했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이에 대한 여파로 허성태는 한 주류 브랜드 광고 모델로 나서는 등 활발한 활동을 예고했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아저씨 뒤에 장덕수(허성태)가 있습니다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

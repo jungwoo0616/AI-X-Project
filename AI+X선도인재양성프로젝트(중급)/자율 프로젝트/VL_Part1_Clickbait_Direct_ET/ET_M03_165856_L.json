@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165856",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "온라인에서 난리 난 박서준 실물 사진",
+    "newsSubTitle": "",
+    "newsContent": "박서준의 실물 사진이 각종 온라인 커뮤니티를 뜨겁게 달구고 있다.\nKBS 2TV '쌈 마이웨이‘는 방송 6주만에 네티즌들의 반응을 토대로 집계되는 TV화제성 드라마 부문에서 1위에 등극한 데 이어 3일 방송 이후 시청률이 0.6%포인트 상승해 12.6%를 기록해 자체 최고 시청률을 경신하며 큰 화제를 모으고 있다.\n특히 김지원과 달달한 호흡을 맞추며 많은 인기를 끌고 있는 박서준은 매회 사랑스러운 남자친구의 모습을 선보이며 시청자들에게’키스장인‘이라는 별명을 얻었다.\n각종 온라인 커뮤니티에서도 박서준에 대한 관심이 뜨겁다.\n최근 게시된‘박서준 실물 짤’이란 글엔 “여보! 왜 거기 있어!” “저 사진도 실물을 담아내지 못한다. 실물이 훨씬 잘생겼다” “사기다. 너무 잘생겼다” 등 박서준의 외모를 극찬하는 글들이 이어졌다.\n다음은 각종 온라인 커뮤니티에 공개된 박서준 실물 사진. 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박서준의 실물 사진이 각종 온라인 커뮤니티를 뜨겁게 달구고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS 2TV '쌈 마이웨이‘는 방송 6주만에 네티즌들의 반응을 토대로 집계되는 TV화제성 드라마 부문에서 1위에 등극한 데 이어 3일 방송 이후 시청률이 0.6%포인트 상승해 12.6%를 기록해 자체 최고 시청률을 경신하며 큰 화제를 모으고 있다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 김지원과 달달한 호흡을 맞추며 많은 인기를 끌고 있는 박서준은 매회 사랑스러운 남자친구의 모습을 선보이며 시청자들에게’키스장인‘이라는 별명을 얻었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "각종 온라인 커뮤니티에서도 박서준에 대한 관심이 뜨겁다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 게시된‘박서준 실물 짤’이란 글엔 “여보! 왜 거기 있어!” “저 사진도 실물을 담아내지 못한다. 실물이 훨씬 잘생겼다” “사기다. 너무 잘생겼다” 등 박서준의 외모를 극찬하는 글들이 이어졌다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다음은 각종 온라인 커뮤니티에 공개된 박서준 실물 사진. 온라인 중앙일보",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'키스 장인' 박서준 실물 올라오자 인터넷 찢었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

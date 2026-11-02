@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263328",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "전지현, 505억에 상가 매입…888억 부동산 재벌",
+		"newsSubTitle": "",
+		"newsContent": "배우 전지현이 505억 원 상당의 상가를 매입한 것으로 알려졌다.\n8일 비즈한국에 따르면 전지현은 지난달 25일 서울 강서구 등촌동 소재 상가 건물을 505억 원에 매입했다.\n전지현이 매입한 건물은 애경그룹과 군인공제회가 합작해 만든 부동산개발업체 에이엠플러스자산개발이 2019년 2월 지상 3층(연면적 5098㎡, 1542평) 규모로 지어 지난해 3월 국민은행에 350억 원을 받고 판 건물이다.\n현재 LG베스트샵이 2019년 3월부터 전세금 6억 원에 건물 전체를 10년간 임차 계약을 맺고 사용 중이다.\n전지현은 지난달 4일 매매 계약을 완료한 뒤 3주 만에 소유권 이전 등기를 마쳤다.\n전지현은 지난해 9월 서울 강남구 논현동의 지상5층(연면적 1806㎡, 546평) 규모의 상가를 2008년 매입 가격보다 149억 원 높은 금액인 235억 원에 매각했다.\n그로부터 5개월 만에 등촌동 상가를 사들인 것으로 보아 투자 회수금 모두를 부동산 재투자를 한 것으로 보여진다.\n현재 전지현은 서울에만 부동산 4채를 보유한 것으로 알려졌다.\n이중 전지현이 보유한 상업용 부동산 3채의 가치만 매입가 기준 888억 원 수준에 달하는 것으로 추정된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 전지현이 505억 원 상당의 상가를 매입한 것으로 알려졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 비즈한국에 따르면 전지현은 지난달 25일 서울 강서구 등촌동 소재 상가 건물을 505억 원에 매입했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전지현이 매입한 건물은 애경그룹과 군인공제회가 합작해 만든 부동산개발업체 에이엠플러스자산개발이 2019년 2월 지상 3층(연면적 5098㎡, 1542평) 규모로 지어 지난해 3월 국민은행에 350억 원을 받고 판 건물이다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 LG베스트샵이 2019년 3월부터 전세금 6억 원에 건물 전체를 10년간 임차 계약을 맺고 사용 중이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전지현은 지난달 4일 매매 계약을 완료한 뒤 3주 만에 소유권 이전 등기를 마쳤다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전지현은 지난해 9월 서울 강남구 논현동의 지상5층(연면적 1806㎡, 546평) 규모의 상가를 2008년 매입 가격보다 149억 원 높은 금액인 235억 원에 매각했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그로부터 5개월 만에 등촌동 상가를 사들인 것으로 보아 투자 회수금 모두를 부동산 재투자를 한 것으로 보여진다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재 전지현은 서울에만 부동산 4채를 보유한 것으로 알려졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이중 전지현이 보유한 상업용 부동산 3채의 가치만 매입가 기준 888억 원 수준에 달하는 것으로 추정된다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전지현, 505억에 상가 매입…888억 부동산 재벌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

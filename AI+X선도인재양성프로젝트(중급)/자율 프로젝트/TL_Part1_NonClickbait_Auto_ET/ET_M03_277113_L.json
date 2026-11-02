@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277113",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "게임하다 분노해 격한 감정 표출한 남자 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "EXO 백현이 방송 중 욱한 모습이 화제다.\n작년 12월 유튜브 채널'뽀뽀후'는 '백현 현실 빡침'이라는 제목의 영상을 소개했다.\n영상은 인터넷 생방송 중 화를 내는 백현의 모습을 편집한 것으로 백현의 분노가 고스란히 전달돼 시선을 끌었다.\n당시 백현은 온라인 게임 중이었다.\n댓글도 보지 않고 게임에 집중하던 백현은 점차 표정이 굳어갔다.\n이어 게임 속 상대방이 자신의 몫을 가로채자 \\\"제 거 왜 드세요!\\\"를 연발하며 격한 감정을 표출했다.\n영상을 본 네티즌은 \\\"방송이고 연예인이어서 저 정도지...아니었으면 부모님 안부 바로 들어감\\\" \\\"화난 것까지 귀여워\\\" 등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "EXO 백현이 방송 중 욱한 모습이 화제다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "작년 12월 유튜브 채널'뽀뽀후'는 '백현 현실 빡침'이라는 제목의 영상을 소개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상은 인터넷 생방송 중 화를 내는 백현의 모습을 편집한 것으로 백현의 분노가 고스란히 전달돼 시선을 끌었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 백현은 온라인 게임 중이었다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "댓글도 보지 않고 게임에 집중하던 백현은 점차 표정이 굳어갔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 게임 속 상대방이 자신의 몫을 가로채자 \\\"제 거 왜 드세요!\\\"를 연발하며 격한 감정을 표출했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영상을 본 네티즌은 \\\"방송이고 연예인이어서 저 정도지...아니었으면 부모님 안부 바로 들어감\\\" \\\"화난 것까지 귀여워\\\" 등 반응을 보였다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "게임하다 분노해 격한 감정 표출한 남자 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

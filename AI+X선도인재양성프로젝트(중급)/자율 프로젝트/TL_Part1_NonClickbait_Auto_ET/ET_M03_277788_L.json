@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277788",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"엄마가 폐암에?\\\" 의무기록 보고 충격받은 이성미 아들",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 이성미의 아들이 '폐렴, 폐암' 등이 적힌 엄마의 의무기록을 보고 충격에 빠졌다.\n3일 TV조선 '엄마가 뭐길래'에는 이성미와 아들 조은기가 출연했다.\n조은기는 이성미의 의무 기록을 발견했고, 이성미는 \\\"뭘 그런 걸 보냐\\\"면서 만류했지만 조은기는 기어코 엄마의 의무 기록을 확인했다.\n결과는 충격적이었다. '폐렴, 폐암' 등의 단어가 적혀 있던 것. 이성미는 \\\"그건 그렇게 될 수도 있다는 거지 그렇다는 건 아냐\\\"라고 변명했다.\n하지만 당황한 나머지 떨리는 목소리는 숨길 수 없었다.\n충격을 받은 조은기는 \\\"나도 엄마 병원에 따라가겠다\\\"고 말했고 이성미는 결국 아들과 함께 병원으로 발걸음을 옮겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 이성미의 아들이 '폐렴, 폐암' 등이 적힌 엄마의 의무기록을 보고 충격에 빠졌다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 TV조선 '엄마가 뭐길래'에는 이성미와 아들 조은기가 출연했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조은기는 이성미의 의무 기록을 발견했고, 이성미는 \\\"뭘 그런 걸 보냐\\\"면서 만류했지만 조은기는 기어코 엄마의 의무 기록을 확인했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "결과는 충격적이었다. '폐렴, 폐암' 등의 단어가 적혀 있던 것. 이성미는 \\\"그건 그렇게 될 수도 있다는 거지 그렇다는 건 아냐\\\"라고 변명했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 당황한 나머지 떨리는 목소리는 숨길 수 없었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충격을 받은 조은기는 \\\"나도 엄마 병원에 따라가겠다\\\"고 말했고 이성미는 결국 아들과 함께 병원으로 발걸음을 옮겼다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"엄마가 폐암에?\\\" 의무기록 보고 충격받은 이성미 아들",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

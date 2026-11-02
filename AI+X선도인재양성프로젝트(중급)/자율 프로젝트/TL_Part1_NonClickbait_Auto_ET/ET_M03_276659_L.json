@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276659",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "장시호에게 '연민의 정' 느꼈다는 남자 배우",
+		"newsSubTitle": "",
+		"newsContent": "배우 김승현이 KBS 예능프로그램 '살림하는 남자 2'에 출연해 근황을 알리고 있는 가운데 과거 방송에서 밝힌 장시호와의 인연이 다시 눈길을 끌고 있다.\n지난 3월 김승현은 MBN 예능프로그램 '아궁이'에 출연해 \\\"8년 전쯤 장시호와 소개팅을 한 적이 있다\\\"고 밝혔다.\n당시 김승현은 \\\"나는 미혼부고 장시호는 이혼 후 혼자 아이를 키우고 있었다\\\"며 \\\"지인이 비슷한 처지니 한번 만나 보라고 소개해줬었다\\\"고 설명했다.\n이어 \\\"소개팅 주선자의 초대로 펜션에도 같이 간 적도 있다\\\"고 고백하며 \\\"주선자는 장시호가 재력도 있고, 연예계에도 영향력이 있다고 했지만, 굳이 그분의 도움을 받고 싶지 않았다\\\"라고 전했다.\n김승현은 또한 \\\"특별한 대화를 나누지는 않았지만 '연민의 정'을 느끼긴 했었다\\\"고 털어놨다.\n한편 김승현은 최근 KBS2 ‘살림하는 남자들 시즌 2’에 딸 수빈(18) 양과 함께 출연해 주목을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김승현이 KBS 예능프로그램 '살림하는 남자 2'에 출연해 근황을 알리고 있는 가운데 과거 방송에서 밝힌 장시호와의 인연이 다시 눈길을 끌고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 3월 김승현은 MBN 예능프로그램 '아궁이'에 출연해 \\\"8년 전쯤 장시호와 소개팅을 한 적이 있다\\\"고 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 김승현은 \\\"나는 미혼부고 장시호는 이혼 후 혼자 아이를 키우고 있었다\\\"며 \\\"지인이 비슷한 처지니 한번 만나 보라고 소개해줬었다\\\"고 설명했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"소개팅 주선자의 초대로 펜션에도 같이 간 적도 있다\\\"고 고백하며 \\\"주선자는 장시호가 재력도 있고, 연예계에도 영향력이 있다고 했지만, 굳이 그분의 도움을 받고 싶지 않았다\\\"라고 전했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김승현은 또한 \\\"특별한 대화를 나누지는 않았지만 '연민의 정'을 느끼긴 했었다\\\"고 털어놨다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김승현은 최근 KBS2 ‘살림하는 남자들 시즌 2’에 딸 수빈(18) 양과 함께 출연해 주목을 받고 있다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장시호에게 '연민의 정' 느꼈다는 남자 배우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

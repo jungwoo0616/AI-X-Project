@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171190",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "출연 방송 스태프 코로나 확진 노라조, 19일 일정 잠정 중단",
+    "newsSubTitle": "",
+    "newsContent": "그룹 노라조가 코로나19 검사를 받아 19일 예정됐던 일정을 잠정적으로 중단한다.\n노라조의 소속사 마루기획은 “지난 15일 노라조가 녹화를 진행한 SBS ‘좋은아침’의 촬영 스태프 중 2명이 코로나19 확진을 받았다는 소식을 전했다”며 “해당 스태프와 멤버들 간에 밀접접촉은 없었던 것으로 파악되고 방역 당국의 연락이나 특별한 조치는 없었지만 선제적 대응을 위해 18일 오후 코로나19 검체검사를 진행했다”고 밝혔다.\n이에 소속사는 일정을 진행하기 어렵다고 판단해 노라조가 19일 오전 출연할 예정이었던 홈쇼핑 방송 출연일정을 취소했다.\n소속사 측은 “현대홈쇼핑 방송은 노라조가 열심히 준비한 신곡 ‘고민은 배송만 늦출 뿐’을 대중에게 처음 선보이는 자리였던 만큼 멤버 모두 큰 아쉬움을 갖고 있다”며 “빠른 시일 내에 더 좋은 무대로 찾아오겠다”고 전했다.\n현대홈쇼핑 측도 “추석 연휴 기간 가족과 함께 TV홈쇼핑을 시청하는 고객들에게 즐거움을 드리기 위해 노라조의 이색공연을 준비한 만큼 아쉬움이 크다”고 전했다.\n소속사 측은 “활동 재개 일정은 검사 결과에 따라 다시 공지하겠다. 앞으로도 아티스트의 건강과 안전에 만전을 기하겠다”고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 노라조가 코로나19 검사를 받아 19일 예정됐던 일정을 잠정적으로 중단한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노라조의 소속사 마루기획은 “지난 15일 노라조가 녹화를 진행한 SBS ‘좋은아침’의 촬영 스태프 중 2명이 코로나19 확진을 받았다는 소식을 전했다”며 “해당 스태프와 멤버들 간에 밀접접촉은 없었던 것으로 파악되고 방역 당국의 연락이나 특별한 조치는 없었지만 선제적 대응을 위해 18일 오후 코로나19 검체검사를 진행했다”고 밝혔다.",
+        "sentenceSize": 187
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 소속사는 일정을 진행하기 어렵다고 판단해 노라조가 19일 오전 출연할 예정이었던 홈쇼핑 방송 출연일정을 취소했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소속사 측은 “현대홈쇼핑 방송은 노라조가 열심히 준비한 신곡 ‘고민은 배송만 늦출 뿐’을 대중에게 처음 선보이는 자리였던 만큼 멤버 모두 큰 아쉬움을 갖고 있다”며 “빠른 시일 내에 더 좋은 무대로 찾아오겠다”고 전했다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현대홈쇼핑 측도 “추석 연휴 기간 가족과 함께 TV홈쇼핑을 시청하는 고객들에게 즐거움을 드리기 위해 노라조의 이색공연을 준비한 만큼 아쉬움이 크다”고 전했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사 측은 “활동 재개 일정은 검사 결과에 따라 다시 공지하겠다. 앞으로도 아티스트의 건강과 안전에 만전을 기하겠다”고 덧붙였다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 노라조, 코로나19 검사로 일정 잠정 중단... '이것' 출연할 수 있을까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

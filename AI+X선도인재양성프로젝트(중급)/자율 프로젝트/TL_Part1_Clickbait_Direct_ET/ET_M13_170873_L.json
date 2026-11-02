@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170873",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘사콜’ 장민호, 신곡 무대 발표 “가사도 부르기도 쉬운 노래”",
+    "newsSubTitle": "",
+    "newsContent": "‘사랑의 콜센타’ 장민호가 신곡을 공개했다.\n12일 오후 방송된 TV CHOSUN ‘사랑의 콜센타’에서는 신곡을 공개한 장민호의 무대가 전파를 탔다.\n이날 장민호는 스페셜 무대로 신곡 ‘사는 게 그런 거지’로 등장했다.\n애절한 감성으로 엄청난 노래를 선사한 그에게 이영현은 “대박 나라”라고 소리쳤다.\n장민호는 “그동안 제가 정통 트로트 기반으로 노래하다 보니까 개인적인 노래들이 다소 어려웠다. 이번에 가사도 쉽고 부르기도 쉬운 노래를 해보자 싶었다”라고 비하인드를 전했다.\n그의 노래에 이영지는 “처음 들었는데 이미 외웠다. 그래서 선물을 드리고 싶다. 협의는 안 됐다”라며 퀸즈6는 아카펠라 무대를 선물하려 했지만 실패했다.\n영지의 지도 아래 재도전한 퀸즈6는 미친 하모니를 불러 감탄케했다.\n한편 ‘사랑의 콜센타’는 매주 목요일 오후 10시 TV CHOSUN에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘사랑의 콜센타’ 장민호가 신곡을 공개했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 오후 방송된 TV CHOSUN ‘사랑의 콜센타’에서는 신곡을 공개한 장민호의 무대가 전파를 탔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 장민호는 스페셜 무대로 신곡 ‘사는 게 그런 거지’로 등장했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "애절한 감성으로 엄청난 노래를 선사한 그에게 이영현은 “대박 나라”라고 소리쳤다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장민호는 “그동안 제가 정통 트로트 기반으로 노래하다 보니까 개인적인 노래들이 다소 어려웠다. 이번에 가사도 쉽고 부르기도 쉬운 노래를 해보자 싶었다”라고 비하인드를 전했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 노래에 이영지는 “처음 들었는데 이미 외웠다. 그래서 선물을 드리고 싶다. 협의는 안 됐다”라며 퀸즈6는 아카펠라 무대를 선물하려 했지만 실패했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영지의 지도 아래 재도전한 퀸즈6는 미친 하모니를 불러 감탄케했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 ‘사랑의 콜센타’는 매주 목요일 오후 10시 TV CHOSUN에서 만나볼 수 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'사랑의 콜센타' 장민호 이것 공개... 팬들 난리나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

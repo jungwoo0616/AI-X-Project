@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263370",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘쇼챔’ 윤서령, 신곡 ‘나비소녀’ 열창",
+		"newsSubTitle": "",
+		"newsContent": "‘트롯 비타민’ 윤서령이 사랑에 빠진 소녀 감성으로 팬심을 사로잡았다.\n윤서령은 9일 오후 6시 방송된 MBC M ‘쇼! 챔피언’에 출연, 신곡 ‘나비소녀’ 퍼포먼스로 매력을 뽐냈다.\n윤서령은 청순하고 상큼한 비주얼로 이목을 집중시킨 것은 물론, 신예답지 않은 무대매너와 라이브 실력을 자랑하며 ‘트롯 비타민’의 존재감을 드러냈다.\n윤서령은 경쾌한 멜로디 위에 탄탄한 가창력으로 안방극장을 사로잡는가 하면, 맑은 음색과 함께 설렘 가득한 표정 연기까지 더해 몰입도를 높였다.\n각종 음악 방송에서 활약하며 국민 여동생으로 거듭나고 있는 윤서령의 신곡 ‘나비소녀’는 밝고 경쾌한 분위기가 돋보이는 트롯 곡으로, 봄을 만난 나비처럼 사랑에 가슴 설레는 소녀의 마음을 담았다.\n윤서령은 앞으로도 다양한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘트롯 비타민’ 윤서령이 사랑에 빠진 소녀 감성으로 팬심을 사로잡았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤서령은 9일 오후 6시 방송된 MBC M ‘쇼! 챔피언’에 출연, 신곡 ‘나비소녀’ 퍼포먼스로 매력을 뽐냈다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤서령은 청순하고 상큼한 비주얼로 이목을 집중시킨 것은 물론, 신예답지 않은 무대매너와 라이브 실력을 자랑하며 ‘트롯 비타민’의 존재감을 드러냈다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤서령은 경쾌한 멜로디 위에 탄탄한 가창력으로 안방극장을 사로잡는가 하면, 맑은 음색과 함께 설렘 가득한 표정 연기까지 더해 몰입도를 높였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "각종 음악 방송에서 활약하며 국민 여동생으로 거듭나고 있는 윤서령의 신곡 ‘나비소녀’는 밝고 경쾌한 분위기가 돋보이는 트롯 곡으로, 봄을 만난 나비처럼 사랑에 가슴 설레는 소녀의 마음을 담았다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤서령은 앞으로도 다양한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘쇼챔’ 윤서령, 신곡 ‘나비소녀’ 열창",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

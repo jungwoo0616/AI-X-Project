@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276773",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "설리가 '리얼' 쇼케이스에 '10분' 지각한 뜻밖의 사연",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 에프엑스 출신 설리(본명 최진리)가 쇼케이스에 10분 지각한 이유가 배우 성동일에 의해 밝혀졌다.\n31일 오후 7시 30분 서울 성균관대 새천년홀에서 영화 '리얼' 쇼케이스가 열렸다.\n이 자리에는 설리와 성동일을 비롯해 배우 김수현이 참석했다.\n이날 쇼케이스는 예정된 시간보다 약 10분가량 늦게 시작했다.\n설리는 김수현·성동일이 첫인사한 후 비로소 무대에 모습을 드러내 현장에 있던 기자들을 의아하게 만들었다.\n쇼케이스 중반쯤 성동일은 설리의 의상을 칭찬하며 \\\"오늘 설리가 의상을 한 세 번 갈아입었는데 제일 잘 어울리는 것 같다\\\"면서 \\\"(설리를 향해) 이거 입느라 늦게 왔냐\\\"고 물어 웃음을 자아냈다.\n그러자 설리는 \\\"너무 오랜만에 공식 석상에 서 예쁘게 보이고 싶었다\\\"고 답했다.\n이를 지켜보던 MC 박경림은 \\\"여배우에게 의상은 원래 중요하다\\\"고 설리를 두둔했다.\n한편 '리얼'은 카지노를 둘러싼 두 남자의 거대한 비밀과 음모를 그린 액션 느와르다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 에프엑스 출신 설리(본명 최진리)가 쇼케이스에 10분 지각한 이유가 배우 성동일에 의해 밝혀졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 오후 7시 30분 서울 성균관대 새천년홀에서 영화 '리얼' 쇼케이스가 열렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 자리에는 설리와 성동일을 비롯해 배우 김수현이 참석했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 쇼케이스는 예정된 시간보다 약 10분가량 늦게 시작했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설리는 김수현·성동일이 첫인사한 후 비로소 무대에 모습을 드러내 현장에 있던 기자들을 의아하게 만들었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쇼케이스 중반쯤 성동일은 설리의 의상을 칭찬하며 \\\"오늘 설리가 의상을 한 세 번 갈아입었는데 제일 잘 어울리는 것 같다\\\"면서 \\\"(설리를 향해) 이거 입느라 늦게 왔냐\\\"고 물어 웃음을 자아냈다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러자 설리는 \\\"너무 오랜만에 공식 석상에 서 예쁘게 보이고 싶었다\\\"고 답했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 지켜보던 MC 박경림은 \\\"여배우에게 의상은 원래 중요하다\\\"고 설리를 두둔했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 '리얼'은 카지노를 둘러싼 두 남자의 거대한 비밀과 음모를 그린 액션 느와르다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "설리가 '리얼' 쇼케이스에 '10분' 지각한 뜻밖의 사연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

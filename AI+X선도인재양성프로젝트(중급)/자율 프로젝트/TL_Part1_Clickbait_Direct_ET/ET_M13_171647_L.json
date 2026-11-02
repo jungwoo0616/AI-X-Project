@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171647",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "블랙핑크 로제, 컴백 질문에 “레게도 좋아…”",
+    "newsSubTitle": "",
+    "newsContent": "블랙핑크 로제가 팬들과 컴백에 관한 이야기를 나눴다.\n로제는 25일 팬덤 플랫폼 ‘위버스’에서 추첨으로 뽑힌 몇몇 누리꾼들과 1분간 영상 통화하는 시간을 가졌다.\n로제는 누리꾼 A 씨와 통화 중 “요즘 블링크(블랙핑크 팬칭)들 사이에서 이번에 컴백하면 장르가 레게일 거라는 루머 도는데 알고 있나요”라는 질문이 있었다.\n이에 로제는 “오 저도 몰랐네요.. 레게 좋네요….”라고 답했다.\n이어 내 마음 설레게..♥?를 덧붙인 다음 민망한 웃음을 보였다.\n누리꾼 A 씨는 “진짜인 줄 알았어요!!”라며 유쾌한 분위기를 이어갔다.\n로제는 누리꾼 B 씨의 “지금 향수 뭐 뿌렸어요?”라는 질문에 “(향수) 안 뿌렸어요”라고 답변했다.\n이어 로제는 누리꾼 B 씨의 “좋은 향기가 나는데 박. 채. 영. 내 취향”이라는 답변에 웃음을 참지 못했다.\n한편 로제는 작년 3월 첫 솔로 싱글 앨범 ‘R’을 발매, 타이틀곡 ‘On The Ground’로 보컬리스트 로제의 매력을 한층 살려 팬들의 많은 사랑을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙핑크 로제가 팬들과 컴백에 관한 이야기를 나눴다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "로제는 25일 팬덤 플랫폼 ‘위버스’에서 추첨으로 뽑힌 몇몇 누리꾼들과 1분간 영상 통화하는 시간을 가졌다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "로제는 누리꾼 A 씨와 통화 중 “요즘 블링크(블랙핑크 팬칭)들 사이에서 이번에 컴백하면 장르가 레게일 거라는 루머 도는데 알고 있나요”라는 질문이 있었다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 로제는 “오 저도 몰랐네요.. 레게 좋네요….”라고 답했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 내 마음 설레게..♥?를 덧붙인 다음 민망한 웃음을 보였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "누리꾼 A 씨는 “진짜인 줄 알았어요!!”라며 유쾌한 분위기를 이어갔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "로제는 누리꾼 B 씨의 “지금 향수 뭐 뿌렸어요?”라는 질문에 “(향수) 안 뿌렸어요”라고 답변했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 로제는 누리꾼 B 씨의 “좋은 향기가 나는데 박. 채. 영. 내 취향”이라는 답변에 웃음을 참지 못했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 로제는 작년 3월 첫 솔로 싱글 앨범 ‘R’을 발매, 타이틀곡 ‘On The Ground’로 보컬리스트 로제의 매력을 한층 살려 팬들의 많은 사랑을 받았다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크 로제, '위버스'에서 추첨으로 뽑힌 누리꾼들과 이 시간 가져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

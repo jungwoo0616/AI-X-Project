@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285992",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "침대 탈출을 시도하는 용감한 아기",
+		"newsSubTitle": "",
+		"newsContent": "높은 침대 위에서 거침 없이 스스로 내려오는 아기가 포착돼 '아빠 미소'를 짓게 한다.\n지난 22일(현지 시간) 유튜브에 올라온 영상에는 스스로 침대에서 내려오는 법을 터득한 똑똑한 아기의 모습이 담겨있다.\n침대에서 자다 깬 아기는 짧은 다리를 뻗으며 한참을 망설이더니 등 뒤에 놓인 커다란 베개를 활용해 침대 밑으로 추락하는 것을 방지하기 위한 보호장치를 만들었다.\n엄마를 찾아 울음을 터뜨리는 일반 아이들과는 달리, 용감한 아기는 야무진 몸짓으로 침대에서 탈출하는 데 성공한다.\n곁에서 이를 지켜보며 촬영한 부모는 '기특한' 아들의 모습에 웃음을 참지 못한다.\n아기의 대범하고 똑똑한 모습이 담긴 이 영상은 유튜브에 공개되면서 조회수 4백만이라는 기록을 세울 만큼 네티즌들의 인기를 끌고 있다.\n- 영상제공 : Francisco Aguilar / Yotube(유튜브)",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "높은 침대 위에서 거침 없이 스스로 내려오는 아기가 포착돼 '아빠 미소'를 짓게 한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일(현지 시간) 유튜브에 올라온 영상에는 스스로 침대에서 내려오는 법을 터득한 똑똑한 아기의 모습이 담겨있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "침대에서 자다 깬 아기는 짧은 다리를 뻗으며 한참을 망설이더니 등 뒤에 놓인 커다란 베개를 활용해 침대 밑으로 추락하는 것을 방지하기 위한 보호장치를 만들었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엄마를 찾아 울음을 터뜨리는 일반 아이들과는 달리, 용감한 아기는 야무진 몸짓으로 침대에서 탈출하는 데 성공한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "곁에서 이를 지켜보며 촬영한 부모는 '기특한' 아들의 모습에 웃음을 참지 못한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아기의 대범하고 똑똑한 모습이 담긴 이 영상은 유튜브에 공개되면서 조회수 4백만이라는 기록을 세울 만큼 네티즌들의 인기를 끌고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "- 영상제공 : Francisco Aguilar / Yotube(유튜브)",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "침대 탈출을 시도하는 용감한 아기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

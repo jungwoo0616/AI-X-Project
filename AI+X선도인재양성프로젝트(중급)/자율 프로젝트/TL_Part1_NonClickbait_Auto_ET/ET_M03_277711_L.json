@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277711",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "개그콘서트 새 코너 '대통형' 작심 풍자…\\\"머리 아플 땐 비아그라\\\"",
+		"newsSubTitle": "",
+		"newsContent": "개그콘서트의 새 코너 '대통형'이 시원한 풍자로 보는 이들의 마음을 사로잡았다.\n4일 방송된 KBS2 개그콘서트의 새 코너 '대통형'에서는 작심하고 시국을 풍자한 모습들을 확인할 수 있었다.\n코너에는 철부지 대통령 역을 맡은 서태훈을 비롯해 국무총리 유민상, 기획재정부 장관 이현정, 교육부 장관 이창호, 문체부 장관 김대성, 고용노동부 장관 홍현호가 출연했다.\n대통령 주재 국무회의에서 서태훈은 \\\"원래 대통령은 재택근무 하는 거 아니냐. 내 방에서 '깨톡'으로 회의하려 했는데'라고 말했다.\n이어 회의가 계속되자 \\\"높은 자리에 있으니 머리가 아프다\\\"며 호소했고 유민상은 비아그라를 건네며 \\\"청와대에 100알 정도 있다\\\"고 말했다.\n이에 질세라 김대성은 \\\"골 아플때 하는 10억 골품체조를 만들었다\\\"라고 말했고 이현정은 \\\"사퇴하세요\\\"라고 소리치며 웃음을 유발했다.\n갑작스런 폐지로 아쉬움을 준 '민상토론'에 이어 개그콘서트가 새롭게 준비한 '대통형'에 많은 시청자들의 이목이 쏠리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그콘서트의 새 코너 '대통형'이 시원한 풍자로 보는 이들의 마음을 사로잡았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 방송된 KBS2 개그콘서트의 새 코너 '대통형'에서는 작심하고 시국을 풍자한 모습들을 확인할 수 있었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코너에는 철부지 대통령 역을 맡은 서태훈을 비롯해 국무총리 유민상, 기획재정부 장관 이현정, 교육부 장관 이창호, 문체부 장관 김대성, 고용노동부 장관 홍현호가 출연했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대통령 주재 국무회의에서 서태훈은 \\\"원래 대통령은 재택근무 하는 거 아니냐. 내 방에서 '깨톡'으로 회의하려 했는데'라고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 회의가 계속되자 \\\"높은 자리에 있으니 머리가 아프다\\\"며 호소했고 유민상은 비아그라를 건네며 \\\"청와대에 100알 정도 있다\\\"고 말했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 질세라 김대성은 \\\"골 아플때 하는 10억 골품체조를 만들었다\\\"라고 말했고 이현정은 \\\"사퇴하세요\\\"라고 소리치며 웃음을 유발했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "갑작스런 폐지로 아쉬움을 준 '민상토론'에 이어 개그콘서트가 새롭게 준비한 '대통형'에 많은 시청자들의 이목이 쏠리고 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개그콘서트 새 코너 '대통형' 작심 풍자…\\\"머리 아플 땐 비아그라\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

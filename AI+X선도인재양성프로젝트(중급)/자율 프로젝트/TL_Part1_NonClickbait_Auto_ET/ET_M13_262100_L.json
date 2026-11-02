@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262100",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "윤찬영, 결국 코로나19 확진 “백신 2차 접종, 무증상”",
+		"newsSubTitle": "",
+		"newsContent": "배우 윤찬영이 신종 코로나바이러스 감염증(코로나19)에 확진됐다.\n25일 소속사 스노우볼엔터테인먼트에 따르면 윤찬영은 이날 유전자 증폭(PCR) 검사에서 양성 판정을 받았다.\n앞서 그는 지난 24일 JTBC 예능 프로그램 ‘아는 형님’ 녹화를 낭푿고 코로나19 자가진단 키트 검사를 진행했고, 양성 반응이 나와 일정을 중단하고 PCR 검사를 받았다.\n소속사는 “윤찬영이 백신 2차 접종까지 마쳤으며, 현재 특별한 증상은 없다”고 전했다.\n이번 ‘아는 형님’ 녹화에는 넷플릭스 오리지널 시리즈 ‘지금 우리 학교는’에 출연한 박지후, 윤찬영, 임재혁, 하승리, 이은샘이 게스트로 참여할 예정이었나 윤찬영에 코로나19 확진에 따라 ‘아는 형님’ 녹화는 취소됐다.\n앞서 윤찬영은 tvN ‘식스센스3’ 첫 회 게스트로 녹화에 참여한 바 있다. ‘식스센스3’는 최근 담당 PD와 출연자 이상엽, 이미주, 제시가 코로나19 확진 판정을 받으면서 첫 방송 날짜를 오는 3월 18일로 연기했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 윤찬영이 신종 코로나바이러스 감염증(코로나19)에 확진됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 소속사 스노우볼엔터테인먼트에 따르면 윤찬영은 이날 유전자 증폭(PCR) 검사에서 양성 판정을 받았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 그는 지난 24일 JTBC 예능 프로그램 ‘아는 형님’ 녹화를 낭푿고 코로나19 자가진단 키트 검사를 진행했고, 양성 반응이 나와 일정을 중단하고 PCR 검사를 받았다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사는 “윤찬영이 백신 2차 접종까지 마쳤으며, 현재 특별한 증상은 없다”고 전했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 ‘아는 형님’ 녹화에는 넷플릭스 오리지널 시리즈 ‘지금 우리 학교는’에 출연한 박지후, 윤찬영, 임재혁, 하승리, 이은샘이 게스트로 참여할 예정이었나 윤찬영에 코로나19 확진에 따라 ‘아는 형님’ 녹화는 취소됐다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 윤찬영은 tvN ‘식스센스3’ 첫 회 게스트로 녹화에 참여한 바 있다. ‘식스센스3’는 최근 담당 PD와 출연자 이상엽, 이미주, 제시가 코로나19 확진 판정을 받으면서 첫 방송 날짜를 오는 3월 18일로 연기했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤찬영, 결국 코로나19 확진 “백신 2차 접종, 무증상”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

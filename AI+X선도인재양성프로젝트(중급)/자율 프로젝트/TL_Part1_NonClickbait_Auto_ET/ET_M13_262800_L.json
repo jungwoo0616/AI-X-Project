@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262800",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "윤여정, 아카데미 또 간다…시상자 명단에 이름 올라",
+		"newsSubTitle": "",
+		"newsContent": "배우 윤여정이 아카데미 레드 카펫을 다시 한번 밟는다.\n이번엔 시상자로서다. 3일(현지시간) 아카데미 시상식 측은 공식 인스타그램 계정에 오는 27일 열리는 ‘제 94회 아카데미 시상식’의 첫번째 시상자 리스트를 발표했다.\n해당 명단에는 윤여정을 비롯해 케빈 코스트너, 레이디 가가, 조 크라비츠, 로지 페레즈, 크리스 락 등의 이름이 적혀있다.\n윤여정은 지난해 제 93회 아카데미 시상식에서 영화 ‘미나리’로 여우조연상을 수상했다.\n보통 전년도 수상자가 성별을 바꿔 동일한 부문을 시상하는 아카데미의 관례에 따라 윤여정은 올해 오스카 남우조연상을 시상할 것으로 예상된다.\n지난 1월 배우 오영수가 ‘오징어 게임’으로 미국 골든글로브에서 남우조연상을 수상한 바 있어, 이번 ‘오스카’ 시상식에서 윤여정이 오영수의 이름을 호명하는 장관이 펼쳐질지 기대가 모아진다.\n한편, 최근 윤여정은 미국 버라이어티(Variety) 선정 ‘글로벌 엔터테인먼트 업계에 영향을 미친 여성’(Women That Have Made an Impact in Global Entertainment) 중 한 명으로 꼽히기도 했다.\n한편, 제94회 아카데미 시상식은 오는 27일 미국 로스앤젤레스에서 열린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 윤여정이 아카데미 레드 카펫을 다시 한번 밟는다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번엔 시상자로서다. 3일(현지시간) 아카데미 시상식 측은 공식 인스타그램 계정에 오는 27일 열리는 ‘제 94회 아카데미 시상식’의 첫번째 시상자 리스트를 발표했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 명단에는 윤여정을 비롯해 케빈 코스트너, 레이디 가가, 조 크라비츠, 로지 페레즈, 크리스 락 등의 이름이 적혀있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤여정은 지난해 제 93회 아카데미 시상식에서 영화 ‘미나리’로 여우조연상을 수상했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보통 전년도 수상자가 성별을 바꿔 동일한 부문을 시상하는 아카데미의 관례에 따라 윤여정은 올해 오스카 남우조연상을 시상할 것으로 예상된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 1월 배우 오영수가 ‘오징어 게임’으로 미국 골든글로브에서 남우조연상을 수상한 바 있어, 이번 ‘오스카’ 시상식에서 윤여정이 오영수의 이름을 호명하는 장관이 펼쳐질지 기대가 모아진다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 최근 윤여정은 미국 버라이어티(Variety) 선정 ‘글로벌 엔터테인먼트 업계에 영향을 미친 여성’(Women That Have Made an Impact in Global Entertainment) 중 한 명으로 꼽히기도 했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 제94회 아카데미 시상식은 오는 27일 미국 로스앤젤레스에서 열린다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤여정, 아카데미 또 간다…시상자 명단에 이름 올라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

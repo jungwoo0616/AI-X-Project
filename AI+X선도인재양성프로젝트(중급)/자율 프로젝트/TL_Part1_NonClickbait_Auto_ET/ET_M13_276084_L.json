@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276084",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "톰 크루즈, 내년 방한예고…“여러분 다시 만날 계획”",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 톰 크루즈가 자신이 출연한 영화 ‘탑건:매버릭’ 국내 흥행에 감사인사를 전했다.\n톰 크루즈는 22일 배급사 롯데 엔터테인먼트에 감사 인사 영상을 전달하며 “한국 관객 여러분, 극장에서 ‘탑건: 매버릭’ 그 자체를 경험하고 즐겨 주셔서 감사하다”라고 밝혔다.\n이어 “저는 한국을 10번 방문했는데, 매번 저에게 보여주신 친절함에 꼭 감사의 마음을 전하고 싶다”며 “여러분은 항상 저의 방문을 편한하고, 매 순간을 특별하게 만들어줬다”고 덧붙였다.\n그러면서 톰 크루즈는 “내년 여름 ‘미션 임파서블: 데드 레코팅 파트 원’으로 여러분을 다시 만날 계획이 있다”며 “여러분에게 즐거움을 선사할 수 있어서 진심으로 영광이다. 내년에 만나요”라고 말했다.\n톰 크루즈가 흥행과 관련해 국내 영화 팬들에게 따로 인사를 남긴 것은 처음이다.\n톰 크루즈가 주연으로 출연한 ‘탑건: 매버릭’은 22일 한국에서 누적 관객수 60만명을 넘겨 올해 개봉한 외국 영화 중 최고 흥행작으로 이름을 올렸다.\n이밖에도 미국, 일본, 호주, 대만 등 여러 국가에서 인기몰이를 유지 중이며 현재까지 약 12억 달러(1조 5700억원)을 벌어들인 것으로 추산되고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 톰 크루즈가 자신이 출연한 영화 ‘탑건:매버릭’ 국내 흥행에 감사인사를 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "톰 크루즈는 22일 배급사 롯데 엔터테인먼트에 감사 인사 영상을 전달하며 “한국 관객 여러분, 극장에서 ‘탑건: 매버릭’ 그 자체를 경험하고 즐겨 주셔서 감사하다”라고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “저는 한국을 10번 방문했는데, 매번 저에게 보여주신 친절함에 꼭 감사의 마음을 전하고 싶다”며 “여러분은 항상 저의 방문을 편한하고, 매 순간을 특별하게 만들어줬다”고 덧붙였다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 톰 크루즈는 “내년 여름 ‘미션 임파서블: 데드 레코팅 파트 원’으로 여러분을 다시 만날 계획이 있다”며 “여러분에게 즐거움을 선사할 수 있어서 진심으로 영광이다. 내년에 만나요”라고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "톰 크루즈가 흥행과 관련해 국내 영화 팬들에게 따로 인사를 남긴 것은 처음이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "톰 크루즈가 주연으로 출연한 ‘탑건: 매버릭’은 22일 한국에서 누적 관객수 60만명을 넘겨 올해 개봉한 외국 영화 중 최고 흥행작으로 이름을 올렸다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에도 미국, 일본, 호주, 대만 등 여러 국가에서 인기몰이를 유지 중이며 현재까지 약 12억 달러(1조 5700억원)을 벌어들인 것으로 추산되고 있다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "톰 크루즈, 내년 방한예고…“여러분 다시 만날 계획”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276703",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'무한도전' 출연했던 개그우먼 맹승지의 '걸그룹 미모' 근황",
+		"newsSubTitle": "",
+		"newsContent": "'무한도전' 출연으로 얼굴을 알렸던 개그우먼 맹승지의 근황이 눈길을 끌었다.\n맹승지의 인스타그램을 통해 공개된 사진에서 그는 걸그룹 같은 상큼한 미모를 과시했다.\n이전보다 물오른 미모는 시선을 사로잡았다.\n2013년 MBC 20기 공채 코미디언으로 데뷔한 맹승지는 2013년 무한도전에서 엉뚱한 매력과 입담으로 큰 주목을 받았다.\n맹승지는 특히 예쁜 외모와 글래머러스한 몸매로 시청자의 눈길을 끌며 각종 예능에서 활약한 바 있다.\n그는 현재 연극' 운빨로맨스'에 출연하며 연극배우로도 활약하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'무한도전' 출연으로 얼굴을 알렸던 개그우먼 맹승지의 근황이 눈길을 끌었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "맹승지의 인스타그램을 통해 공개된 사진에서 그는 걸그룹 같은 상큼한 미모를 과시했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이전보다 물오른 미모는 시선을 사로잡았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2013년 MBC 20기 공채 코미디언으로 데뷔한 맹승지는 2013년 무한도전에서 엉뚱한 매력과 입담으로 큰 주목을 받았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "맹승지는 특히 예쁜 외모와 글래머러스한 몸매로 시청자의 눈길을 끌며 각종 예능에서 활약한 바 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 현재 연극' 운빨로맨스'에 출연하며 연극배우로도 활약하고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'무한도전' 출연했던 개그우먼 맹승지의 '걸그룹 미모' 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

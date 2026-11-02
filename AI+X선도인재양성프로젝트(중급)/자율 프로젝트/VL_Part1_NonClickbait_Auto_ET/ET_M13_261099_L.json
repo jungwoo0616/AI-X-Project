@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261099",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘그리드’ 김무열, ‘입대’ 서강준 깜짝 영상에 “건강히 돌아와”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김무열이 군생활 중인 서강준에게 마음을 전했다.\n김무열은 16일 오전 온라인생중계된 디즈니+ 첫 오리지널 시리즈 ‘그리드’ 제작보고회에서 서강준의 깜짝 영상이 공개되자 “‘그리드’에선 같은 관리국에 있었는데 지금은 따로 있구나. 건강하게 무사히 돌아와”라고 밝혔다.\n지난해 11월 입대한 서강준은 제작발표회 참석하지 못하는 대신 영상으로 작품에 대한 애정을 전달했다.\n그는 “나도 ‘그리드’가 공개되길 기다리고 기대했다”며 자신이 맡은 김새하 역에 대해 소개했다.\n이어 “많은 기대와 사랑 부탁한다”고 덧붙였다.\n영상을 보던 김무열은 “이렇게 보니 서강준이 더 보고 싶다”며 “지금쯤 (군에서)점심시간이 언제일지 기다리고 있을 것”이라고 농담을 던졌다. ‘그리드’는 태양풍으로부터 인류를 구원한 방어막 ‘그리드’를 탄생시킨 채 사라진 미지의 존재 ‘유령’이 24년 만에 살인마의 공범으로 다시 나타난 후, 저마다의 목적을 위해 그를 쫓는 사람들의 이야기를 그린 미스터리 추적 스릴러다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김무열이 군생활 중인 서강준에게 마음을 전했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김무열은 16일 오전 온라인생중계된 디즈니+ 첫 오리지널 시리즈 ‘그리드’ 제작보고회에서 서강준의 깜짝 영상이 공개되자 “‘그리드’에선 같은 관리국에 있었는데 지금은 따로 있구나. 건강하게 무사히 돌아와”라고 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 11월 입대한 서강준은 제작발표회 참석하지 못하는 대신 영상으로 작품에 대한 애정을 전달했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “나도 ‘그리드’가 공개되길 기다리고 기대했다”며 자신이 맡은 김새하 역에 대해 소개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “많은 기대와 사랑 부탁한다”고 덧붙였다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상을 보던 김무열은 “이렇게 보니 서강준이 더 보고 싶다”며 “지금쯤 (군에서)점심시간이 언제일지 기다리고 있을 것”이라고 농담을 던졌다. ‘그리드’는 태양풍으로부터 인류를 구원한 방어막 ‘그리드’를 탄생시킨 채 사라진 미지의 존재 ‘유령’이 24년 만에 살인마의 공범으로 다시 나타난 후, 저마다의 목적을 위해 그를 쫓는 사람들의 이야기를 그린 미스터리 추적 스릴러다.",
+				"sentenceSize": 208
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘그리드’ 김무열, ‘입대’ 서강준 깜짝 영상에 “건강히 돌아와”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

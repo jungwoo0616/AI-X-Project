@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273382",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단, 음방서 더 빛난 팀플레이",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 복귀와 동시에 1위를 기록했다.\n방탄소년단은 16일 오후 방송된 엠엣 음악 방송 프로그램 ‘엠카운트다운’ 무대에 올라 결국 1위를 따냈다.\n이날 무대에서 방탄소년단은 새 앨범 타이틀 곡 ‘옛 투 컴’ 팬들을 위해 만든 ‘포 유스’ 복귀 무대를 최초로 공개했다.\n이번 무대는 현장을 가득 채운 4000명의 아미가 직접 부른 ‘영 포에버’로 시작됐다.\n환호성과 함께 리프트를 타고 나타난 방탄소년단으 활기찬 무대를 이어갔다.\n멤버들은 7인 7색 ‘엔딩‘포즈로 유쾌함까지 더해 팬들의 기대감에 완벽히 화답하는 모습을 보였다.\n방탄소년단은‘엠카운트다운’을 통해 역대급 무대를 펼치며 깊은 감동을 전했고 4,000명의 팬들은 응원봉인‘아미밤’으로 화답하며 무대를 한층 풍성하게 만들었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 복귀와 동시에 1위를 기록했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단은 16일 오후 방송된 엠엣 음악 방송 프로그램 ‘엠카운트다운’ 무대에 올라 결국 1위를 따냈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 무대에서 방탄소년단은 새 앨범 타이틀 곡 ‘옛 투 컴’ 팬들을 위해 만든 ‘포 유스’ 복귀 무대를 최초로 공개했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 무대는 현장을 가득 채운 4000명의 아미가 직접 부른 ‘영 포에버’로 시작됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "환호성과 함께 리프트를 타고 나타난 방탄소년단으 활기찬 무대를 이어갔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "멤버들은 7인 7색 ‘엔딩‘포즈로 유쾌함까지 더해 팬들의 기대감에 완벽히 화답하는 모습을 보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방탄소년단은‘엠카운트다운’을 통해 역대급 무대를 펼치며 깊은 감동을 전했고 4,000명의 팬들은 응원봉인‘아미밤’으로 화답하며 무대를 한층 풍성하게 만들었다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 음방서 더 빛난 팀플레이",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

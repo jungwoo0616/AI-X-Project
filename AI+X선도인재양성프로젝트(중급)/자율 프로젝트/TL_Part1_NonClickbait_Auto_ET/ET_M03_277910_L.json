@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277910",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김정환·박상영, 펜싱 ‘국대’들의 이상형은? “솔빈,한효주”",
+		"newsSubTitle": "",
+		"newsContent": "펜싱 국가대표 선수 김정환 박상영이 이상형을 언급했다.\n31일 방송된 SBS 파워FM ‘두시탈출 컬투쇼’(이하 ‘컬투쇼’)의 특별 초대석에는 2016 리우올림픽 메달리스트 김정환 박상영 선수가 출연해 화려한 입담을 자랑했다.\n이날 방송에서 김정환은 자신의 이상형에 대해 공개했다.\n이에 DJ 컬투는 “연예인 중에 이상형이라고 꼽을 사람이 누가 있느냐”고 물었고, 김정환은 “TV를 잘 안보다가 우연히 보고 마음에 든 연예인이 있다. 그런데 나이가 너무 어려서 이상형이라고 말하기도 그렇더라”며 답을 미뤘다.\nDJ들이 몇 번이고 되묻자 김정환은 “아이돌그룹 라붐의 솔빈”이라고 말했다.\n이어 박상영은 “나는 청순한 여자가 이상형이다. 긴 생머리에 흰 셔츠가 잘 어울리는 스타일이 좋다”라며 “배우로 찾으면 한효주 스타일이 좋다”고 답했다.\n온라인 중앙일보 [사진 SBS 캡쳐]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "펜싱 국가대표 선수 김정환 박상영이 이상형을 언급했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 방송된 SBS 파워FM ‘두시탈출 컬투쇼’(이하 ‘컬투쇼’)의 특별 초대석에는 2016 리우올림픽 메달리스트 김정환 박상영 선수가 출연해 화려한 입담을 자랑했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 김정환은 자신의 이상형에 대해 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 DJ 컬투는 “연예인 중에 이상형이라고 꼽을 사람이 누가 있느냐”고 물었고, 김정환은 “TV를 잘 안보다가 우연히 보고 마음에 든 연예인이 있다. 그런데 나이가 너무 어려서 이상형이라고 말하기도 그렇더라”며 답을 미뤘다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "DJ들이 몇 번이고 되묻자 김정환은 “아이돌그룹 라붐의 솔빈”이라고 말했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 박상영은 “나는 청순한 여자가 이상형이다. 긴 생머리에 흰 셔츠가 잘 어울리는 스타일이 좋다”라며 “배우로 찾으면 한효주 스타일이 좋다”고 답했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS 캡쳐]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김정환·박상영, 펜싱 ‘국대’들의 이상형은? “솔빈,한효주”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

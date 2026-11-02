@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_286162",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'혹성탈출' 여덟번째 시리즈 2017년 개봉…스티브잔 합류",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 스티브 잔(47)이 '혹성탈출' 여덟 번째 시리즈에 합류한다.\n미국 연예 매체 버라이어티는 지난 12일(현지시각) '혹성탈출'과 관련한 최근 소식을 전했다.\n스티브 잔의 합류와 함께 2017년 7월 14일 개봉 예정이라고 알렸다.\n보도에 따르면 '혹성탈출' 여덟 번째 시리즈는 지난해 '혹성탈출: 반격의 서막'을 연출했던 맷 리브스가 다시금 메가폰을 잡는다.\n각본은 마크 봄백이 맡는다.\n스티브 잔은 극 중에서 헤럴슨 대령 역을 소화한다. '혹성탈출: 진화의 시작'(11)의 속편으로 만들어진 '혹성탈출: 반격의 서막'(14)은 전 세계 약 7억(한화 약 8,000억) 달러의 수익을 올렸다.\n이에 여덟 번째 시리즈에 대한 기대감이 증폭되고 있다.\n스티브 잔은 영화 '퍼펙트 겟어웨이'(09), '캘빈 마샬'(09), '러브 매니지먼트'(08), '레스큐 던'(06), '캔디 케인'(01) 등에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 스티브 잔(47)이 '혹성탈출' 여덟 번째 시리즈에 합류한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 연예 매체 버라이어티는 지난 12일(현지시각) '혹성탈출'과 관련한 최근 소식을 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스티브 잔의 합류와 함께 2017년 7월 14일 개봉 예정이라고 알렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보도에 따르면 '혹성탈출' 여덟 번째 시리즈는 지난해 '혹성탈출: 반격의 서막'을 연출했던 맷 리브스가 다시금 메가폰을 잡는다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "각본은 마크 봄백이 맡는다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스티브 잔은 극 중에서 헤럴슨 대령 역을 소화한다. '혹성탈출: 진화의 시작'(11)의 속편으로 만들어진 '혹성탈출: 반격의 서막'(14)은 전 세계 약 7억(한화 약 8,000억) 달러의 수익을 올렸다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 여덟 번째 시리즈에 대한 기대감이 증폭되고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스티브 잔은 영화 '퍼펙트 겟어웨이'(09), '캘빈 마샬'(09), '러브 매니지먼트'(08), '레스큐 던'(06), '캔디 케인'(01) 등에 출연했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'혹성탈출' 여덟번째 시리즈 2017년 개봉…스티브잔 합류",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

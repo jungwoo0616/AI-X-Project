@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279151",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "다솜, '애미애비 XXX ' 악플에 뿔났다 \\\"선처없다 강력 대응\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 씨스타의 다솜이 SNS 악플에 강력대응하겠다고 밝혔다.\n씨스타의 소속사 스타십 엔터테인먼트는 25일 일간스포츠에 \\\"SNS를 통해서 지속적으로 입에 담을수 없는 욕설과 인신공격을 해온 네티즌을 법적절차를 통해 강력히 대응하고자 한다\\\"며 \\\"아티스트의 인격과 권익을 보호해야함으로 선처없이 대응할 예정이다\\\"라고 밝혔다.\n앞서 다솜은 이날 자신의 인스타그램에 \\\"다른 것 보다 아빠 생신인 오늘 애미애비 XXX 이라는 표현은 정말 참기 힘드네요. 지난 6년 동안 잘 참아왔는데 이젠 정말 힘이 듭니다. 죽을 것 같아요\\\"라고 토로했다.\n이와 함께 다솜은 한 네티즌과 주고 받은 것으로 보이는 메시지를 공개했다.\n네티즌은 다솜에게 차마 입에 담기도 힘든 욕설을 퍼부었고, 이에 다솜은 “불쌍한 인생.. 얼마나 마음에 상처가 많으면 이런 메시지를 보낼까. 기도할게요. 그쪽의 처량한 인생을 위해서”라고 답했다.\n하지만 네티즌은 또다시 다솜에게 막말을 쏟아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 씨스타의 다솜이 SNS 악플에 강력대응하겠다고 밝혔다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "씨스타의 소속사 스타십 엔터테인먼트는 25일 일간스포츠에 \\\"SNS를 통해서 지속적으로 입에 담을수 없는 욕설과 인신공격을 해온 네티즌을 법적절차를 통해 강력히 대응하고자 한다\\\"며 \\\"아티스트의 인격과 권익을 보호해야함으로 선처없이 대응할 예정이다\\\"라고 밝혔다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 다솜은 이날 자신의 인스타그램에 \\\"다른 것 보다 아빠 생신인 오늘 애미애비 XXX 이라는 표현은 정말 참기 힘드네요. 지난 6년 동안 잘 참아왔는데 이젠 정말 힘이 듭니다. 죽을 것 같아요\\\"라고 토로했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 다솜은 한 네티즌과 주고 받은 것으로 보이는 메시지를 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네티즌은 다솜에게 차마 입에 담기도 힘든 욕설을 퍼부었고, 이에 다솜은 “불쌍한 인생.. 얼마나 마음에 상처가 많으면 이런 메시지를 보낼까. 기도할게요. 그쪽의 처량한 인생을 위해서”라고 답했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 네티즌은 또다시 다솜에게 막말을 쏟아냈다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다솜, '애미애비 XXX ' 악플에 뿔났다 \\\"선처없다 강력 대응\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

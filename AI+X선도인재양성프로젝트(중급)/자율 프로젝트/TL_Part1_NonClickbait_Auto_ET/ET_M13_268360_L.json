@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268360",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "미연 “(여자)아이들 멤버들, 신곡 따라 부르며 좋아해줘”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 (여자)아이들의 미연이 첫 솔로 앨범에 대한 멤버들의 반응을 전했다.\n미연은 27일 서울 마포구에 위치한 한 카페에서 진행된 첫 미니앨범 ‘마이(MY)’ 발매 기자간담회에서 “멤버들이 곡을 고를 때부터 많이 도와줬다”고 말했다.\n그러면서 “코멘트도 많이 해줬고 예쁘다고 칭찬해줬다. 그러다 우기도 함께 참여하게 됐다”며 “타이틀곡 많이 좋아해줘 따라부르더라”고 끈끈한 우정을 전했다.\n미연의 첫 미니앨범 ‘마이’는 데뷔 4년 만에 처음 선보이는 솔로 앨범으로, 미연의 약자 ‘MY’와 ‘나’라는 의미를 포괄한 중의적 표현해 미연의 이야기로 가득 채운 앨범이다.\n타이틀곡 ‘드라이브’를 포함하여 ‘로즈’, ‘소프틀리’, ‘띠아모(TE AMO)’, ‘차징(Charging)’, ‘소나기’까지 총 여섯 트랙으로 이루어졌다.\n27일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 (여자)아이들의 미연이 첫 솔로 앨범에 대한 멤버들의 반응을 전했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미연은 27일 서울 마포구에 위치한 한 카페에서 진행된 첫 미니앨범 ‘마이(MY)’ 발매 기자간담회에서 “멤버들이 곡을 고를 때부터 많이 도와줬다”고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “코멘트도 많이 해줬고 예쁘다고 칭찬해줬다. 그러다 우기도 함께 참여하게 됐다”며 “타이틀곡 많이 좋아해줘 따라부르더라”고 끈끈한 우정을 전했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미연의 첫 미니앨범 ‘마이’는 데뷔 4년 만에 처음 선보이는 솔로 앨범으로, 미연의 약자 ‘MY’와 ‘나’라는 의미를 포괄한 중의적 표현해 미연의 이야기로 가득 채운 앨범이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘드라이브’를 포함하여 ‘로즈’, ‘소프틀리’, ‘띠아모(TE AMO)’, ‘차징(Charging)’, ‘소나기’까지 총 여섯 트랙으로 이루어졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "27일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미연 “(여자)아이들 멤버들, 신곡 따라 부르며 좋아해줘”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

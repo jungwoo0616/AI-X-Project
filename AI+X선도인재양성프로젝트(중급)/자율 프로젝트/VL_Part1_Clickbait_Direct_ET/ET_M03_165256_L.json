@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165256",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'컬투쇼' 예성, 데뷔 11년만에 솔로 앨범 \\\"애틋하다\\\" 눈물",
+    "newsSubTitle": "",
+    "newsContent": "그룹 슈퍼주니어의 멤버 예성이 '컬투쇼'에서 눈물을 흘렸다.\n21일 오후 방송된 SBS 라디오 파워FM '두시 탈출 컬투쇼'(이하 '컬투쇼')에서는 그룹 빅스와 예성이 게스트로 출연했다.\n예성은 \\\"솔로 활동이 애틋하다\\\"며 \\\"너무나 행복하게도 슈퍼주니어라는 그룹으로 데뷔해 항상 큰 사랑만 받았다. 하지만 그때도 부르고 싶었던 음악과 꿈이 있었다. 그게 오늘에서야 문이 열린 것 같다\\\"고 말했다.\n예성은 방송 말미 마무리 인사를 전하며 눈물을 흘리기도 했다.\n예성은 \\\"정말 행복해서 감정이 벅차 오른 것 같다\\\"며 \\\"솔로 앨범이 나온 것도 중요한데 앨범을 준비하면서 많이 고생하고 기다리던 시간이 생각났다\\\"고 설명했다.\n예성은 지난 19일 첫 솔로 미니 앨범 '히얼 아이 엠(Here I Am)'을 발표하며 타이틀 곡 '문 열어 봐'로 활동 중이다.\n그의 정식 솔로 앨범 발매는 지난 2005년 슈퍼주니어로 데뷔한 지 11년 만이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 슈퍼주니어의 멤버 예성이 '컬투쇼'에서 눈물을 흘렸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 오후 방송된 SBS 라디오 파워FM '두시 탈출 컬투쇼'(이하 '컬투쇼')에서는 그룹 빅스와 예성이 게스트로 출연했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예성은 \\\"솔로 활동이 애틋하다\\\"며 \\\"너무나 행복하게도 슈퍼주니어라는 그룹으로 데뷔해 항상 큰 사랑만 받았다. 하지만 그때도 부르고 싶었던 음악과 꿈이 있었다. 그게 오늘에서야 문이 열린 것 같다\\\"고 말했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "예성은 방송 말미 마무리 인사를 전하며 눈물을 흘리기도 했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예성은 \\\"정말 행복해서 감정이 벅차 오른 것 같다\\\"며 \\\"솔로 앨범이 나온 것도 중요한데 앨범을 준비하면서 많이 고생하고 기다리던 시간이 생각났다\\\"고 설명했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예성은 지난 19일 첫 솔로 미니 앨범 '히얼 아이 엠(Here I Am)'을 발표하며 타이틀 곡 '문 열어 봐'로 활동 중이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그의 정식 솔로 앨범 발매는 지난 2005년 슈퍼주니어로 데뷔한 지 11년 만이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "데뷔 11년 만에 솔로 앨범 \"오늘에서야 문이 열린 것 같아\" 눈물 흘려",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

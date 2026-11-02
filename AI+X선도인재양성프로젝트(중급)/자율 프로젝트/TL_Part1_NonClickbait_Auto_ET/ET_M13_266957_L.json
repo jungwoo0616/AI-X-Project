@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266957",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "노홍철 ‘FIFA 온라인’ 모델 발탁…‘th’ 발음 진수 보인다",
+		"newsSubTitle": "",
+		"newsContent": "방송인 노홍철이 모바일 게임 모델로 발탁돼 특유의 ‘th’ 발음을 선보인다.\n노홍철의 소속사 FNC엔터테인먼트는 14일 “노홍철이 넥슨의 ‘EA SPORTS FIFA 모바일(이하 FIFA 모바일)’에서 대규모 콘텐츠를 추가하는 ‘스프링 업데이트’의 광고모델로 발탁됐다”고 밝혔다.\n14일 공개된 FIFA 모바일의 광고 영상에서는 노홍철의 밝은 에너지와 리얼한 현장 분위기가 색다른 재미를 준다. ‘스프링’ ‘패스’ ‘크로스’ 등 ‘s’ 발음을 노홍철이 특유의 ‘th’ 발음으로 유쾌하게 소화해 웃음을 준다.\n노홍철은 최근 넷플릭스 ‘먹보와 털보’, SBS ‘써클 하우스’, MBC ‘라미란의 빈집살래 2’ 등 다수의 예능 프로글매에서 활약하며 남다른 에너지로 대중의 눈길을 끌고 있다.\nMC로서 현실적이고 공감이 가는 이야기부터 재치가 있는 입담까지 프로그램 전반의 분위기를 이끄는 중이다.\n노홍철은 MBC 새 오디션 프로그램 ‘천재들의 브릭전쟁:블록버스터’의 MC도 확정하며 2022년 예능, 광고 등 다양한 분야에서 활발한 활동을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 노홍철이 모바일 게임 모델로 발탁돼 특유의 ‘th’ 발음을 선보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노홍철의 소속사 FNC엔터테인먼트는 14일 “노홍철이 넥슨의 ‘EA SPORTS FIFA 모바일(이하 FIFA 모바일)’에서 대규모 콘텐츠를 추가하는 ‘스프링 업데이트’의 광고모델로 발탁됐다”고 밝혔다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "14일 공개된 FIFA 모바일의 광고 영상에서는 노홍철의 밝은 에너지와 리얼한 현장 분위기가 색다른 재미를 준다. ‘스프링’ ‘패스’ ‘크로스’ 등 ‘s’ 발음을 노홍철이 특유의 ‘th’ 발음으로 유쾌하게 소화해 웃음을 준다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노홍철은 최근 넷플릭스 ‘먹보와 털보’, SBS ‘써클 하우스’, MBC ‘라미란의 빈집살래 2’ 등 다수의 예능 프로글매에서 활약하며 남다른 에너지로 대중의 눈길을 끌고 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MC로서 현실적이고 공감이 가는 이야기부터 재치가 있는 입담까지 프로그램 전반의 분위기를 이끄는 중이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노홍철은 MBC 새 오디션 프로그램 ‘천재들의 브릭전쟁:블록버스터’의 MC도 확정하며 2022년 예능, 광고 등 다양한 분야에서 활발한 활동을 이어갈 예정이다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노홍철 ‘FIFA 온라인’ 모델 발탁…‘th’ 발음 진수 보인다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

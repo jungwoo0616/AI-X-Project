@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167808",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "배우 임호 父, 드라마 '장희빈·몽실언니' 작가 임충 별세",
+    "newsSubTitle": "",
+    "newsContent": "배우 임호의 부친이자 드라마 ‘몽실언니’, ‘장희빈’ 등의 시나리오 작가인 임충(본명 임충희)씨가 28일, 향년 79세의 나이로 별세했다.\n고인은 오랜 시간 폐암으로 투병해왔다.\n배우 임호는 상주로 빈소를 지키며 조문객을 맞고 있다. 고(故) 임충 작가는 1세대 작가로 유명세를 떨쳤다.\n1962년 신상옥 감독의 ‘신플림’에 입사해 연출부 소속으로 영화계에 발을 들였다.\n이어 1964년 영화 ‘종이배의 연정’으로 본격적인 시나리오 작가의 길을 걷기 시작했고, ‘사모곡’, ‘하늘아, 하늘아’, ‘몽실언니’, ‘야망’, ‘장희빈’, ‘미망’, ‘대왕의 길’, ‘홍국영’ 등 여러 걸작 드라마를 집필했다.\n이 같은 공로로 임충은 지난해 문화훈장 보관상을 받았지만, 투병 문제로 직접 상을 받지 못해 아들 임호씨가 대리 수상했다.\n빈소는 서울아산병원 장례식장에 마련됐으며 발인은 30일이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 임호의 부친이자 드라마 ‘몽실언니’, ‘장희빈’ 등의 시나리오 작가인 임충(본명 임충희)씨가 28일, 향년 79세의 나이로 별세했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고인은 오랜 시간 폐암으로 투병해왔다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "배우 임호는 상주로 빈소를 지키며 조문객을 맞고 있다. 고(故) 임충 작가는 1세대 작가로 유명세를 떨쳤다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1962년 신상옥 감독의 ‘신플림’에 입사해 연출부 소속으로 영화계에 발을 들였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 1964년 영화 ‘종이배의 연정’으로 본격적인 시나리오 작가의 길을 걷기 시작했고, ‘사모곡’, ‘하늘아, 하늘아’, ‘몽실언니’, ‘야망’, ‘장희빈’, ‘미망’, ‘대왕의 길’, ‘홍국영’ 등 여러 걸작 드라마를 집필했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 같은 공로로 임충은 지난해 문화훈장 보관상을 받았지만, 투병 문제로 직접 상을 받지 못해 아들 임호씨가 대리 수상했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "빈소는 서울아산병원 장례식장에 마련됐으며 발인은 30일이다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시나리오 작가 임충 별세... 가장 유명했던 그의 집필 드라마는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

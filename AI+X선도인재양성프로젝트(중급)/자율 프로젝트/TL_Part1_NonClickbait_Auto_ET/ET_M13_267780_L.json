@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267780",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "페이블, 30일~5월8일 日 데뷔 콘서트 연다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 페이블(F.able)이 일본 데뷔 콘서트 개최를 확정했다.\n해이룸엔터테인먼트 측에 따르면 페이블은 오는 30일부터 5월 8일까지 일본 타카라오사카 공연장에서 일본 데뷔 콘서트로 현지 팬들을 만난다.\n이번 일본 데뷔 콘서트는 오는 30일 오후 6시를 시작으로, 5월 1일(오후 2시, 오후 6시), 2일(오후 7시), 3일(오후 6시), 4일(오후 2시, 오후 6시), 6일(오후 7시), 7일(오후 6시), 8일(오후 2시, 오후 6시) 열린다.\n페이블은 이번 일본 데뷔 콘서트에서 앨범 수록곡 무대를 비롯해 다양한 이벤트와 풍성한 토크로 일본 현지 팬들에게 강렬한 임팩트를 남길 예정이다.\n페이블은 일본에서 대면 공연은 물론, 다채로운 프로모션을 진행할 계획이며, 일본 MBS 방송사 주최 대형 행사 출연을 확정, 해외 진출로의 본격적인 첫걸음을 뗄 것으로 기대를 모은다.\n한편 페이블은 지난 2020년 6월 첫 싱글 ‘으랏차’로 데뷔, 팀 재정비 후 지난해 8월 두 번째 싱글 ‘런 런 런’으로 활발한 활동을 이어갔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 페이블(F.able)이 일본 데뷔 콘서트 개최를 확정했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해이룸엔터테인먼트 측에 따르면 페이블은 오는 30일부터 5월 8일까지 일본 타카라오사카 공연장에서 일본 데뷔 콘서트로 현지 팬들을 만난다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 일본 데뷔 콘서트는 오는 30일 오후 6시를 시작으로, 5월 1일(오후 2시, 오후 6시), 2일(오후 7시), 3일(오후 6시), 4일(오후 2시, 오후 6시), 6일(오후 7시), 7일(오후 6시), 8일(오후 2시, 오후 6시) 열린다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "페이블은 이번 일본 데뷔 콘서트에서 앨범 수록곡 무대를 비롯해 다양한 이벤트와 풍성한 토크로 일본 현지 팬들에게 강렬한 임팩트를 남길 예정이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "페이블은 일본에서 대면 공연은 물론, 다채로운 프로모션을 진행할 계획이며, 일본 MBS 방송사 주최 대형 행사 출연을 확정, 해외 진출로의 본격적인 첫걸음을 뗄 것으로 기대를 모은다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 페이블은 지난 2020년 6월 첫 싱글 ‘으랏차’로 데뷔, 팀 재정비 후 지난해 8월 두 번째 싱글 ‘런 런 런’으로 활발한 활동을 이어갔다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이블, 30일~5월8일 日 데뷔 콘서트 연다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

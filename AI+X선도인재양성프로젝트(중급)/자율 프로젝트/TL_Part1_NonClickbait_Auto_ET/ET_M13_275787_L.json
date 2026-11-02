@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275787",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "소녀시대, 15년차 아이돌의 힐링 여행",
+		"newsSubTitle": "",
+		"newsContent": "그룹 소녀시대 효연이 멤버들과 함께 찍은 ‘소시탐탐’ 비하인드 사진을 공개했다.\n효연은 18일 자신의 사회관계망서비스(SNS)에 “내일밤 9:00pm 소시탐탐, 내 사랑들”이라는 글과 함께 사진을 게재했다.\n공개한 사진에서 효연을 소녀시대 멤버들과 포즈를 취했다.\n차에서 포즈를 취하기도 했고, 멋진 산과 강을 배경으로 멤버들과 즐거운 시간을 보냈다.\n한편 소녀시대는 JTBC ‘소시타탐’에 출연 중이다.\n소녀시대가 데뷔 15주년을 맞아 완전체로 힐링 여행을 떠나는 프로그램으로, 지난 방송에서 소녀시대는 데뷔 15주년차답게 예능감을 발휘 중이다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 소녀시대 효연이 멤버들과 함께 찍은 ‘소시탐탐’ 비하인드 사진을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "효연은 18일 자신의 사회관계망서비스(SNS)에 “내일밤 9:00pm 소시탐탐, 내 사랑들”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 효연을 소녀시대 멤버들과 포즈를 취했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차에서 포즈를 취하기도 했고, 멋진 산과 강을 배경으로 멤버들과 즐거운 시간을 보냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 소녀시대는 JTBC ‘소시타탐’에 출연 중이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소녀시대가 데뷔 15주년을 맞아 완전체로 힐링 여행을 떠나는 프로그램으로, 지난 방송에서 소녀시대는 데뷔 15주년차답게 예능감을 발휘 중이다",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소녀시대, 15년차 아이돌의 힐링 여행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

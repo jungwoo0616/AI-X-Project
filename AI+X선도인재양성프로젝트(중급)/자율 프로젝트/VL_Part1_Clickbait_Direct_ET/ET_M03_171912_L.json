@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171912",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김구라, 아들 그리 이어 코로나 확진…3차접종에도 돌파감염",
+    "newsSubTitle": "",
+    "newsContent": "방송인 김구라가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n김구라의 소속사 라인엔터테인먼트 측은 25일 \\\"김구라가 최근 코로나19 확진 판정을 받고 격리 중\\\"이라고 밝혔다.\n소속사 측에 따르면 김구라는 백신 3차 접종까지 받았으나 돌파 감염이 됐다.\n현재 김구라는 재택 격리 치료 중이며 오는 27일 격리 해제된다고 말했다.\n앞서 지난 15일 김구라의 아들 MC그리가 SNS를 통해 \\\"생각보다 많이 아프네요. 다들 몸조심\\\"이라며 코로나19확진 소식을 전한 바 있다.\n한편 김구라는 이날 참석 예정이었던 MBN '빽 투 더 그라운드' 제작발표회에 불참했다.\n제작발표회 MC는 \\\"김구라가 건강상의 이유로 아쉽게 함께 할 수 없게 됐다\\\"고 양해를 구했다.\n김구라는 현재 '라디오스타', '신과 한판', '심야괴담회' 등에 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 김구라가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김구라의 소속사 라인엔터테인먼트 측은 25일 \\\"김구라가 최근 코로나19 확진 판정을 받고 격리 중\\\"이라고 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사 측에 따르면 김구라는 백신 3차 접종까지 받았으나 돌파 감염이 됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 김구라는 재택 격리 치료 중이며 오는 27일 격리 해제된다고 말했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 지난 15일 김구라의 아들 MC그리가 SNS를 통해 \\\"생각보다 많이 아프네요. 다들 몸조심\\\"이라며 코로나19확진 소식을 전한 바 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김구라는 이날 참석 예정이었던 MBN '빽 투 더 그라운드' 제작발표회에 불참했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제작발표회 MC는 \\\"김구라가 건강상의 이유로 아쉽게 함께 할 수 없게 됐다\\\"고 양해를 구했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김구라는 현재 '라디오스타', '신과 한판', '심야괴담회' 등에 출연 중이다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "3차 접종 완료했으나 돌파 감염으로 코로나19 확진을 받은 이 사람은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

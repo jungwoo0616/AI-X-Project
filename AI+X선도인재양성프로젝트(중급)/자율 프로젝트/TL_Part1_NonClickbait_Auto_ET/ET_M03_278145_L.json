@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278145",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[영상] 희귀병을 장점으로... 두 가지 피부를 가진 여성모델",
+		"newsSubTitle": "",
+		"newsContent": "백반증(vitiligo)을 앓고 있는 흑인 여성모델이 화제가 되고 있다.\n영상의 주인공은 캐나다 출신 패션모델 위니 할로우(Winnie Harlow)로 4살부터 백반증을 앓았다.\n어릴 적 ‘젖소’, ‘얼룩말’이라고 불리며 놀림 받던 그녀는 하얀 피부를 자신만의 매력으로 삼아 세계적인 모델로 우뚝 섰다.\n백반증은 마이클잭슨도 앓았던 희귀병으로 멜라닌 색소가 파괴되는 자가면역질환이다.\n인구의 약 0.5~2%에서 나타나는데 인종이나 지역에 상관없이 발생한다.\n다른 피부질환과 달리 별다른 신체 통증이나 가려움 같은 증세를 동반하지는 않는다.\n온라인중앙일보 [영상 유튜브=INSIDER, 사진 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백반증(vitiligo)을 앓고 있는 흑인 여성모델이 화제가 되고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영상의 주인공은 캐나다 출신 패션모델 위니 할로우(Winnie Harlow)로 4살부터 백반증을 앓았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "어릴 적 ‘젖소’, ‘얼룩말’이라고 불리며 놀림 받던 그녀는 하얀 피부를 자신만의 매력으로 삼아 세계적인 모델로 우뚝 섰다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "백반증은 마이클잭슨도 앓았던 희귀병으로 멜라닌 색소가 파괴되는 자가면역질환이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인구의 약 0.5~2%에서 나타나는데 인종이나 지역에 상관없이 발생한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다른 피부질환과 달리 별다른 신체 통증이나 가려움 같은 증세를 동반하지는 않는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인중앙일보 [영상 유튜브=INSIDER, 사진 인스타그램]",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[영상] 희귀병을 장점으로... 두 가지 피부를 가진 여성모델",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

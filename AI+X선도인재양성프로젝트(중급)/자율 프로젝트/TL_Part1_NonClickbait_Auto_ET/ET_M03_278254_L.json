@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278254",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "우에노 주리♥와다 쇼, 양측 열애 인정..\\\"반년 교제\\\"",
+		"newsSubTitle": "",
+		"newsContent": "일본 유명 배우 우에노 주리와 3인조 록밴드 TRICERATOPS의 보컬 겸 기타 와다 쇼 양 측이 열애를 인정했다.\n12일 일본 다수의 언론은 \\\"두 사람의 개인적 일은 본인들에게 맡기고 있다\\\"며 사실상 열애를 인정했다.\n현지 언론에 따르면 우에노 주리는 이전부터 TRICERATOPS의 팬임을 밝혀왔다.\n이후 음악을 통해 거리감을 줄여 진지한 사이로 발전했다.\n교제 기간은 약 반년 정도 된 것으로 보이며 앞으로 결혼도 고려 중인 것으로 알라졌다.\n와다 쇼의 아버지는 유명 일러스트레이터인 와다 마코토이며 어머니는 요리 연구가 겸 샹송 가수인 히라노 레미, 여동생은 모델인 와다 아스카다. 2002년 데뷔한 우에노 주리는 일본 최고의 여배우 중 한명으로, 한국에는 후지TV 드라마 '노다메 칸타빌레' 등으로 널리 알려져 있다.\n지난해에는 빅뱅 최승현과 함께 웹드라마 '시크릿 메세지'에도 출연하며 인기를 끌었다.\n온라인 중앙일보 [사진 우에노 주리 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 유명 배우 우에노 주리와 3인조 록밴드 TRICERATOPS의 보컬 겸 기타 와다 쇼 양 측이 열애를 인정했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 일본 다수의 언론은 \\\"두 사람의 개인적 일은 본인들에게 맡기고 있다\\\"며 사실상 열애를 인정했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현지 언론에 따르면 우에노 주리는 이전부터 TRICERATOPS의 팬임을 밝혀왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 음악을 통해 거리감을 줄여 진지한 사이로 발전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "교제 기간은 약 반년 정도 된 것으로 보이며 앞으로 결혼도 고려 중인 것으로 알라졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "와다 쇼의 아버지는 유명 일러스트레이터인 와다 마코토이며 어머니는 요리 연구가 겸 샹송 가수인 히라노 레미, 여동생은 모델인 와다 아스카다. 2002년 데뷔한 우에노 주리는 일본 최고의 여배우 중 한명으로, 한국에는 후지TV 드라마 '노다메 칸타빌레' 등으로 널리 알려져 있다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해에는 빅뱅 최승현과 함께 웹드라마 '시크릿 메세지'에도 출연하며 인기를 끌었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 우에노 주리 인스타그램]",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우에노 주리♥와다 쇼, 양측 열애 인정..\\\"반년 교제\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265069",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘미스트롯2’ 윤태화, 오늘 8세 연상 신랑과 결혼",
+		"newsSubTitle": "",
+		"newsContent": "‘내일은 미스트롯 2’에 출연한 가수 윤태화(33)가 결혼한다.\n윤태화는 26일(오늘) 서울 모처에서 결혼식을 올린다.\n결혼식은 MC 준의 사회와 백제예술대학교 실용음악과 동기들의 축가로 진행될 예정이다.\n지난달 8일 윤태화는 자신의 인스타그램을 통해 “축하해주시는 많은 분들 감사하다. 잘 살겠다”라는 글과 함께 자필 편지를 게재했다.\n그는 “함께 있으면 가장 나다운 모습이 되고, 편안한 마음이 들게 해주는 사람과 결혼을 하려고 한다. 많은 걸 포기하려고 할 때 포기하지 않게 잡아주고, 저를 먼저 존중해주고, 적극 지지하며 함께 울고 웃던 시간 동안 한결같은 착한 사람이기에”라며 8세 연상 예비 신랑에 대한 애정을 드러냈다.\n이어 그는 팬들에게 “안일해지는 것이 아니라, 더 나은 제가 되고 싶게 하는 사람과 함께하는 것을 미룰 이유가 없어 결혼을 준비하게 됐지만, 조금 더 일찍 알려드리지 못해 송구하다”며 “더 행복한 마음으로 노래하며 살아가겠다”고 했다.\n2009년 데뷔한 윤태화는 지난해 TV조선 ‘내일은 미스트롯 2’에 나와 마스터 오디션 진(眞)에 선정돼 최종 13위에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘내일은 미스트롯 2’에 출연한 가수 윤태화(33)가 결혼한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤태화는 26일(오늘) 서울 모처에서 결혼식을 올린다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼식은 MC 준의 사회와 백제예술대학교 실용음악과 동기들의 축가로 진행될 예정이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 8일 윤태화는 자신의 인스타그램을 통해 “축하해주시는 많은 분들 감사하다. 잘 살겠다”라는 글과 함께 자필 편지를 게재했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “함께 있으면 가장 나다운 모습이 되고, 편안한 마음이 들게 해주는 사람과 결혼을 하려고 한다. 많은 걸 포기하려고 할 때 포기하지 않게 잡아주고, 저를 먼저 존중해주고, 적극 지지하며 함께 울고 웃던 시간 동안 한결같은 착한 사람이기에”라며 8세 연상 예비 신랑에 대한 애정을 드러냈다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 그는 팬들에게 “안일해지는 것이 아니라, 더 나은 제가 되고 싶게 하는 사람과 함께하는 것을 미룰 이유가 없어 결혼을 준비하게 됐지만, 조금 더 일찍 알려드리지 못해 송구하다”며 “더 행복한 마음으로 노래하며 살아가겠다”고 했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2009년 데뷔한 윤태화는 지난해 TV조선 ‘내일은 미스트롯 2’에 나와 마스터 오디션 진(眞)에 선정돼 최종 13위에 올랐다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘미스트롯2’ 윤태화, 오늘 8세 연상 신랑과 결혼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168110",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "리쌍 개리 ‘송지효와 5월 결혼설’ 루머 언급",
+    "newsSubTitle": "",
+    "newsContent": "리쌍의 개리(39·강희건)가 SNS와 온라인상에 떠돌고 있는 ‘송지효와 결혼설’루머에 대해 언급했다.\n개리는 지난 3일 자신의 SNS를 통해 “벚꽃을 벌써 보았다. 쿤밍 경치 좋다. 찌라시는 찌라시일뿐”이라는 글과 함께 사진 한 장을 게재했다.\n공개된 사진 속 개리는 중국 쿤밍의 한 공원 벚꽃나무 밑에 앉아 호숫가의 경관을 즐기고 있는 모습이다.\n개리가 언급한 지라시는 지난 1월, 온라인 커뮤니티와 SNS를 중심으로 확산된 ‘배우 송지효와의 5월 결혼설’을 언급한 것으로 추측된다.\n당시 한 온라인 커뮤니티에는 “아는 지인이 웨딩홀에서 일하는데 개리가 와서 5월 결혼 예정이라고 상담받았다. 신부랑 왜 같이 안 왔냐고 하니까 지금 촬영 중이라고 웃었다. ‘런닝맨’ 촬영이 월요일 아닌가. 송지효일 것 같은 느낌이 든다”는 내용이 담겨 있다.\n한편 개리와 송지효는 SBS ‘일요일 좋다-런닝맨’(런닝맨)에서 ‘월요커플’로 많은 사랑을 받았다.\n지난 10월'런닝맨’에서 하차한 개리는 현재 한국과 중국을 오가며 음악 작업에 몰두하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "리쌍의 개리(39·강희건)가 SNS와 온라인상에 떠돌고 있는 ‘송지효와 결혼설’루머에 대해 언급했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "개리는 지난 3일 자신의 SNS를 통해 “벚꽃을 벌써 보았다. 쿤밍 경치 좋다. 찌라시는 찌라시일뿐”이라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 개리는 중국 쿤밍의 한 공원 벚꽃나무 밑에 앉아 호숫가의 경관을 즐기고 있는 모습이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "개리가 언급한 지라시는 지난 1월, 온라인 커뮤니티와 SNS를 중심으로 확산된 ‘배우 송지효와의 5월 결혼설’을 언급한 것으로 추측된다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 한 온라인 커뮤니티에는 “아는 지인이 웨딩홀에서 일하는데 개리가 와서 5월 결혼 예정이라고 상담받았다. 신부랑 왜 같이 안 왔냐고 하니까 지금 촬영 중이라고 웃었다. ‘런닝맨’ 촬영이 월요일 아닌가. 송지효일 것 같은 느낌이 든다”는 내용이 담겨 있다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 개리와 송지효는 SBS ‘일요일 좋다-런닝맨’(런닝맨)에서 ‘월요커플’로 많은 사랑을 받았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 10월'런닝맨’에서 하차한 개리는 현재 한국과 중국을 오가며 음악 작업에 몰두하고 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "5월 결혼설 루머의 장본인 SNS 등판으로 관심 집중... 누구길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

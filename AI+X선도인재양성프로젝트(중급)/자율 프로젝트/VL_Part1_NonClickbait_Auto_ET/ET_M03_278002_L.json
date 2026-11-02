@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278002",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "걸그룹 대결, ‘걸스피릿’ 첫 방송, 시청률 1.4%로 무난한 출발 알려",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 새 예능프로그램 '걸스피릿'이 1%대 시청률로 무난한 출발을 알렸다.\n닐슨 코리아 집계에 따르면 19일 방송된 '걸스피릿' 1회는 시청률 1.4%(이하 전국유료방송가구 기준)를 기록했다.\n이는 전작인 '투유프로젝트-슈가맨'의 첫 회가 기록한 시청률인 1.3%(닐슨코리아)와 유사한 수준이다.\nJTBC ‘걸스피릿’은 업계에서 인정받는 노래실력을 가지고 있지만 걸그룹의 군무 속에서 노래 기회가 제대로 주어지지 않는 아이돌 걸그룹들의 보컬 경연 프로그램이다.\n이 날 방영된 '걸스피릿' 첫 회에서는 조 편성을 위한 스피카 보형, 피에스타 혜미, 레이디스코드 소정, 베스티 유지, 라붐 소연, 러블리즈 케이, 소나무 민재, CLC 승희, 오마이걸 승희, 에이프릴 진솔, 우주소녀 다원, 플레디스걸즈 성연 등 메인보컬 12인의 사전공연이 펼쳐졌다.\n한편 동 시간대 방송된 종합편성채널 채널A '어메이징 스토리'는 2.2%, MBN '엄지의 제왕'은 3.5%, 그리고 TV조선 '솔깃한 연예토크 호박씨'는 2.7% 시청률을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 새 예능프로그램 '걸스피릿'이 1%대 시청률로 무난한 출발을 알렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "닐슨 코리아 집계에 따르면 19일 방송된 '걸스피릿' 1회는 시청률 1.4%(이하 전국유료방송가구 기준)를 기록했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전작인 '투유프로젝트-슈가맨'의 첫 회가 기록한 시청률인 1.3%(닐슨코리아)와 유사한 수준이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "JTBC ‘걸스피릿’은 업계에서 인정받는 노래실력을 가지고 있지만 걸그룹의 군무 속에서 노래 기회가 제대로 주어지지 않는 아이돌 걸그룹들의 보컬 경연 프로그램이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 날 방영된 '걸스피릿' 첫 회에서는 조 편성을 위한 스피카 보형, 피에스타 혜미, 레이디스코드 소정, 베스티 유지, 라붐 소연, 러블리즈 케이, 소나무 민재, CLC 승희, 오마이걸 승희, 에이프릴 진솔, 우주소녀 다원, 플레디스걸즈 성연 등 메인보컬 12인의 사전공연이 펼쳐졌다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 동 시간대 방송된 종합편성채널 채널A '어메이징 스토리'는 2.2%, MBN '엄지의 제왕'은 3.5%, 그리고 TV조선 '솔깃한 연예토크 호박씨'는 2.7% 시청률을 보였다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "걸그룹 대결, ‘걸스피릿’ 첫 방송, 시청률 1.4%로 무난한 출발 알려",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

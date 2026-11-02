@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268665",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘6시 내고향’ 안성훈, 진행 실력부터 가창력까지 ‘매력충만’",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 팔색조 매력의 홍보 요정으로 관심을 끌었다.\n안성훈은 29일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.\n안성훈은 ‘울산 언양 알프스 시장’에서 ‘60초를 잡아라’ 코너를 진행, 유쾌한 응원단장이자 시청자들의 궁금증과 재미를 책임지는 능숙한 MC로서 프로그램 속 분위기 메이커로 톡톡히 활약했다.\n안성훈은 트로트부터 가요까지 상인들의 상황에 어우러지는 곡들을 한 소절씩 불러 한계 없는 음악 스펙트럼을 잠깐 공개했으며 탄탄한 목청과 가창력을 자랑해 귀 호강까지 완벽하게 책임졌다.\n상인들과 어색함 없는 호흡을 선보인 안성훈은 귀여운 리액션으로 눈을 뗄 수 없게 만든 것은 물론, 상인들의 미션 도전에 적극적인 응원과 칭찬을 건네 자신감을 불어넣어주는 감초 역할로 자리매김했다.\n최근 먹방으로 주목받고 있는 안성훈은 물회, 불고기, 미숫가루 등을 맛깔나게 시식해 지역의 특산물들을 톡톡히 홍보해낸 가운데 거리낌 없는 친근한 매력을 선보이며 상인들과 시청자들의 마음을 훈훈하게 만들었다.\n안성훈은 매주 금요일 ‘6시 내고향’ 속 ‘60초를 잡아라’ 코너로 대중들과 소통중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 팔색조 매력의 홍보 요정으로 관심을 끌었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 29일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안성훈은 ‘울산 언양 알프스 시장’에서 ‘60초를 잡아라’ 코너를 진행, 유쾌한 응원단장이자 시청자들의 궁금증과 재미를 책임지는 능숙한 MC로서 프로그램 속 분위기 메이커로 톡톡히 활약했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안성훈은 트로트부터 가요까지 상인들의 상황에 어우러지는 곡들을 한 소절씩 불러 한계 없는 음악 스펙트럼을 잠깐 공개했으며 탄탄한 목청과 가창력을 자랑해 귀 호강까지 완벽하게 책임졌다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "상인들과 어색함 없는 호흡을 선보인 안성훈은 귀여운 리액션으로 눈을 뗄 수 없게 만든 것은 물론, 상인들의 미션 도전에 적극적인 응원과 칭찬을 건네 자신감을 불어넣어주는 감초 역할로 자리매김했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 먹방으로 주목받고 있는 안성훈은 물회, 불고기, 미숫가루 등을 맛깔나게 시식해 지역의 특산물들을 톡톡히 홍보해낸 가운데 거리낌 없는 친근한 매력을 선보이며 상인들과 시청자들의 마음을 훈훈하게 만들었다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안성훈은 매주 금요일 ‘6시 내고향’ 속 ‘60초를 잡아라’ 코너로 대중들과 소통중이다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 안성훈, 진행 실력부터 가창력까지 ‘매력충만’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

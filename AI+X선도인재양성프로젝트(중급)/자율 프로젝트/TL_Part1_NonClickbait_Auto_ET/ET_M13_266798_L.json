@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266798",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "라비, 5월 단독 콘서트 ‘REVOIR’ MV 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 라비(RAVI)가 단독 콘서트 뮤직비디오로 공연에 대한 기대감을 끌어올렸다.\n소속사 그루블린은 13일 0시 공식 SNS와 유튜브 채널을 통해 ‘2022 라비 콘서트 - 르브아(2022 RAVI CONCERT - REVOIR)’(이하 ‘르브아’)의 뮤직비디오를 공개했다.\n영상 속 라비는 강렬한 느낌의 멜로디와 퍼포먼스를 선보인다.\n올레드 컬러의 의상과 화려한 촬영 기법은 라비를 돋보이게 한다.\n라비는 지난 2019년 세 번째 미니 앨범 ‘리미트리스(LIMITLESS)’ 발매 기념 릴리즈 파티(RELEASE PARTY) 이후 약 2년 5개월 만에 팬들과 직접 만난다.\n라비는 팬들과 더 가까이에서 소통하는 것은 물론, 다채로운 무대와 완성도 높은 퍼포먼스를 선사할 예정이다.\n라비의 네 번째 단독 콘서트 ‘르브아’는 오는 5월 7일과 8일 양일간 서울 광진구 예스24 라이브홀(YES24 LIVE HALL)에서 열린다.\n현장을 직접 찾지 못하는 글로벌 팬들을 위해 마지막 날 공연은 LG유플러스의 ‘아이돌Live’를 통해 독점으로 송출된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 라비(RAVI)가 단독 콘서트 뮤직비디오로 공연에 대한 기대감을 끌어올렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 그루블린은 13일 0시 공식 SNS와 유튜브 채널을 통해 ‘2022 라비 콘서트 - 르브아(2022 RAVI CONCERT - REVOIR)’(이하 ‘르브아’)의 뮤직비디오를 공개했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 라비는 강렬한 느낌의 멜로디와 퍼포먼스를 선보인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올레드 컬러의 의상과 화려한 촬영 기법은 라비를 돋보이게 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "라비는 지난 2019년 세 번째 미니 앨범 ‘리미트리스(LIMITLESS)’ 발매 기념 릴리즈 파티(RELEASE PARTY) 이후 약 2년 5개월 만에 팬들과 직접 만난다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "라비는 팬들과 더 가까이에서 소통하는 것은 물론, 다채로운 무대와 완성도 높은 퍼포먼스를 선사할 예정이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "라비의 네 번째 단독 콘서트 ‘르브아’는 오는 5월 7일과 8일 양일간 서울 광진구 예스24 라이브홀(YES24 LIVE HALL)에서 열린다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현장을 직접 찾지 못하는 글로벌 팬들을 위해 마지막 날 공연은 LG유플러스의 ‘아이돌Live’를 통해 독점으로 송출된다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라비, 5월 단독 콘서트 ‘REVOIR’ MV 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

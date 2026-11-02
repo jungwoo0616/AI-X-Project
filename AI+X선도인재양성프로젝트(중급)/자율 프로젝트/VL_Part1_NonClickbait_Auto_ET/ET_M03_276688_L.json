@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276688",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "거식증 환자 연기한 릴리 콜린스의 근황",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 스타 릴리 콜린스(28)가 거식증 환자로 변신했다.\n릴리 콜린스는 7월 개봉하는 넷플릭스 영화 '투 더 본'에서 수년째 거식증을 앓은 주인공 엘렌을 연기했다.\n릴리 콜린스의 인스타그램을 통해 공개된 트레일러 영상에서 그는 피골이 상접한 모습으로 등장해 팬들을 놀라게 했다.\n그는 영화를 위해 영양사와 함께 건강한 방법으로 체중을 감량한 것으로 알려졌다.\n10대 시절 거식증을 겪었던 그는 영상을 게재하며 \\\"여전히 금기시되는 정신 질환에 대해 대화하는 것을 두려워하지 말라\\\"고 섭식장애를 겪는 이들을 응원했다.\n영화 촬영을 마친 그는 최근 감량한 체중을 회복한 듯 건강한 모습이었다. '투 더 본'은 스무 살의 엘렌이 거식증을 극복해가는 과정을 그린다.\n엘렌을 돕는 의사 윌리엄 역으로 키아누 리브스가 출연했으며, 각본과 연출은 마티 녹슨 감독이 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 스타 릴리 콜린스(28)가 거식증 환자로 변신했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "릴리 콜린스는 7월 개봉하는 넷플릭스 영화 '투 더 본'에서 수년째 거식증을 앓은 주인공 엘렌을 연기했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "릴리 콜린스의 인스타그램을 통해 공개된 트레일러 영상에서 그는 피골이 상접한 모습으로 등장해 팬들을 놀라게 했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 영화를 위해 영양사와 함께 건강한 방법으로 체중을 감량한 것으로 알려졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "10대 시절 거식증을 겪었던 그는 영상을 게재하며 \\\"여전히 금기시되는 정신 질환에 대해 대화하는 것을 두려워하지 말라\\\"고 섭식장애를 겪는 이들을 응원했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 촬영을 마친 그는 최근 감량한 체중을 회복한 듯 건강한 모습이었다. '투 더 본'은 스무 살의 엘렌이 거식증을 극복해가는 과정을 그린다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엘렌을 돕는 의사 윌리엄 역으로 키아누 리브스가 출연했으며, 각본과 연출은 마티 녹슨 감독이 맡았다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "거식증 환자 연기한 릴리 콜린스의 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

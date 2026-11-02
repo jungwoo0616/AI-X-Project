@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170016",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘성희롱 논란’ 라이언전, ‘심야아이돌’ 출연 취소",
+    "newsSubTitle": "",
+    "newsContent": "작곡가 라이언전(42)이 여자 아이돌을 성희롱, 비하한 발언 여파로 스케줄을 전면 취소했다.\n라이언전은 지난 13일 출연 예정이었던 네이버 나우 ‘심야 아이돌’ 방송을 앞두고 출연을 돌연 취소했다.\n앞서 불거진 논란의 여파다.\n앞서 라이언전은 지난 11일 디시인사이드 특정 갤러리 게시판에서 여성 아이돌을 비하, 성희롱하는 단어를 사용한 사실이 알려졌다.\n이에 라이언 전은 SNS에 “(해당 단어를) 무엇인지 모르고 썼고, 방금 제작진이 뜻을 찾아보고 말해줘서 알았다. 놀란 마음으로 깊게 반성한다. 글도 찾아 지웠고 앞으로 하나하나 조심히 쓰겠다”고 사과했다.\n이어 “(내가) 알고도 단어를 쓰면 의도적이라고 나를 욕해도 된다. 하지만 나는 논란이 되는 단어를 정말 몰랐다. 그 단어는 나쁜 단어인데 진심으로 몰랐고 미안하다”라고 해명했다.\n그러면서 “앞으로 고운 말을 쓰겠다. 이상한 단어들이 난무하니 나도 실수를 해서 많이 창피하다”고 덧붙였다 한편, 라이언전은 이효리 ‘치티치티뱅뱅(Chitty Chitty Bang Bang)’ 아이유 ‘셀레브리티’ 오마이걸 ‘던던댄스’ 레드벨벳 ‘덤덤(Dumb Dumb)’ 태연 ‘아이(I)(Feat. 버벌진트)’ 등을 작곡해 이름을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "작곡가 라이언전(42)이 여자 아이돌을 성희롱, 비하한 발언 여파로 스케줄을 전면 취소했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "라이언전은 지난 13일 출연 예정이었던 네이버 나우 ‘심야 아이돌’ 방송을 앞두고 출연을 돌연 취소했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 불거진 논란의 여파다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 라이언전은 지난 11일 디시인사이드 특정 갤러리 게시판에서 여성 아이돌을 비하, 성희롱하는 단어를 사용한 사실이 알려졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 라이언 전은 SNS에 “(해당 단어를) 무엇인지 모르고 썼고, 방금 제작진이 뜻을 찾아보고 말해줘서 알았다. 놀란 마음으로 깊게 반성한다. 글도 찾아 지웠고 앞으로 하나하나 조심히 쓰겠다”고 사과했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “(내가) 알고도 단어를 쓰면 의도적이라고 나를 욕해도 된다. 하지만 나는 논란이 되는 단어를 정말 몰랐다. 그 단어는 나쁜 단어인데 진심으로 몰랐고 미안하다”라고 해명했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서 “앞으로 고운 말을 쓰겠다. 이상한 단어들이 난무하니 나도 실수를 해서 많이 창피하다”고 덧붙였다 한편, 라이언전은 이효리 ‘치티치티뱅뱅(Chitty Chitty Bang Bang)’ 아이유 ‘셀레브리티’ 오마이걸 ‘던던댄스’ 레드벨벳 ‘덤덤(Dumb Dumb)’ 태연 ‘아이(I)(Feat. 버벌진트)’ 등을 작곡해 이름을 알렸다.",
+        "sentenceSize": 191
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라이언전, 충격적인 19금 성희롱 발언 이슈... 몰랐다고 해명해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

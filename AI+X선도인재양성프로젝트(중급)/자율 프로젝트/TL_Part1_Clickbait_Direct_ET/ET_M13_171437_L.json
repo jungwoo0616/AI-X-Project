@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171437",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“대세 배우 K 거짓회유에 속아 낙태” 온라인 주장 일파만파…연예 유튜버 실명 공개?[종합]",
+    "newsSubTitle": "",
+    "newsContent": "인기 배우 아기를 가졌다가 회유를 당해 임신 중절을 했다는 글이 온라인과 모바일로 퍼져 파문이 일고 있다.\n18일 연예계에 따르면 전날 한 온라인 커뮤니티에 ‘대세 배우 K모 배우의 이중적이고 뻔뻔한 실체를 고발합니다’라는 제목의 글이 올라왔다. ‘배우 K’ 전 여자친구라고 밝힌 글쓴이는 지난해 7월에 임신 사실을 전하자 K가 ‘지금 아이를 낳으면 9억이라는 손해배상을 해야 한다’는 거짓말로 낙태를 회유했다고 주장했다.\nK는 아이를 지우기 전 2년 후 결혼하겠다는 약속을 하고, 아이를 지운 후에는 수술비와 병원비 명목으로 200만원을 줬다는 게 글쓴이 주장이다.\n이후 K가 짜증을 자주 내는 등 감정 기복을 보이다 일방적으로 이별을 통보했다고 한다.\n글쓴이는 “헤어진 지 4개월이 넘었지만, 그의 인간 이하의 행동들로 정신적·신체적 트라우마가 심한 상태”라고 말했다.\n글 내용을 종합할 때 해당 인물이 ‘특정 배우’가 아니냐는 추측이 나오는 가운데 한 연예 유튜버는 ‘김OO’라고 배우의 실명까지 거론을 한 상태다.\n이와 관련해 K측 소속사는 일절 대응을 하지 않고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인기 배우 아기를 가졌다가 회유를 당해 임신 중절을 했다는 글이 온라인과 모바일로 퍼져 파문이 일고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 연예계에 따르면 전날 한 온라인 커뮤니티에 ‘대세 배우 K모 배우의 이중적이고 뻔뻔한 실체를 고발합니다’라는 제목의 글이 올라왔다. ‘배우 K’ 전 여자친구라고 밝힌 글쓴이는 지난해 7월에 임신 사실을 전하자 K가 ‘지금 아이를 낳으면 9억이라는 손해배상을 해야 한다’는 거짓말로 낙태를 회유했다고 주장했다.",
+        "sentenceSize": 176
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "K는 아이를 지우기 전 2년 후 결혼하겠다는 약속을 하고, 아이를 지운 후에는 수술비와 병원비 명목으로 200만원을 줬다는 게 글쓴이 주장이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 K가 짜증을 자주 내는 등 감정 기복을 보이다 일방적으로 이별을 통보했다고 한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "글쓴이는 “헤어진 지 4개월이 넘었지만, 그의 인간 이하의 행동들로 정신적·신체적 트라우마가 심한 상태”라고 말했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "글 내용을 종합할 때 해당 인물이 ‘특정 배우’가 아니냐는 추측이 나오는 가운데 한 연예 유튜버는 ‘김OO’라고 배우의 실명까지 거론을 한 상태다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이와 관련해 K측 소속사는 일절 대응을 하지 않고 있다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"대세 배우 K 거짓회유에 속아 낙태” 온라인 주장 일파만파… 이 배우 도대체 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

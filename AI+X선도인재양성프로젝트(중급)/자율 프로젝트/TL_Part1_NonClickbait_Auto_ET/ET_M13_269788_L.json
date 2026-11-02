@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269788",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "스트레이 키즈, 북미 8개 도시 12회 공연 확정",
+		"newsSubTitle": "",
+		"newsContent": "그룹 스트레이 키즈(Stray Kids)가 두 번째 월드투어를 앞둔 가운데 미국 시애틀 1회, 애너하임 2회 공연을 추가했다.\n스트레이 키즈는 당초 예정된 ‘Stray Kids 2nd World Tour “MANIAC”’(스트레이 키즈 두 번째 월드투어 “매니악”)의 7회 규모 북미 투어 티켓을 모두 매진하며 로스앤젤레스와 뉴어크 공연을 1회씩 추가했다.\n해당 공연 역시 전석 매진됐으며 JYP엔터테인먼트는 시애틀 1회, 애너하임 2회 추가 공연을 확정했다.\n이로써 스트레이 키즈는 오는 6월 28일(이하 현지시간)과 29일 미국 뉴어크 푸르덴셜 센터, 7월 1일 시카고 유나이티드 센터, 3일 애틀랜타 스테이트 팜 아레나, 6일 포트워스 디키즈 아레나, 9일과 10일 로스앤젤레스 기아 포럼, 12일 오클랜드 오클랜드 아레나, 14일과 15일 시애틀 클라이메이트 플레지 아레나, 19일과 20일 애너하임 혼다 센터까지 북미 8개 도시에서 12회 공연을 개최하게 됐다.\n이번 공연은 첫 월드투어 이후 약 2년 5개월 만에 성사된 대면 단독 콘서트로 스트레이 키즈는 서울 3회 공연과 북미 8개 도시 12회 공연을 포함해 일본 고베에서 6월 11일과 12일 도쿄에서 6월 18일과 19일, 7월 26일과 27일까지 총 11개 도시 21회 규모의 월드투어를 개최한다.\n한편 스트레이 키즈는 오는 6월 28일 미국 뉴어크에서 본격적인 월드투어의 포문을 연다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 스트레이 키즈(Stray Kids)가 두 번째 월드투어를 앞둔 가운데 미국 시애틀 1회, 애너하임 2회 공연을 추가했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스트레이 키즈는 당초 예정된 ‘Stray Kids 2nd World Tour “MANIAC”’(스트레이 키즈 두 번째 월드투어 “매니악”)의 7회 규모 북미 투어 티켓을 모두 매진하며 로스앤젤레스와 뉴어크 공연을 1회씩 추가했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 공연 역시 전석 매진됐으며 JYP엔터테인먼트는 시애틀 1회, 애너하임 2회 추가 공연을 확정했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로써 스트레이 키즈는 오는 6월 28일(이하 현지시간)과 29일 미국 뉴어크 푸르덴셜 센터, 7월 1일 시카고 유나이티드 센터, 3일 애틀랜타 스테이트 팜 아레나, 6일 포트워스 디키즈 아레나, 9일과 10일 로스앤젤레스 기아 포럼, 12일 오클랜드 오클랜드 아레나, 14일과 15일 시애틀 클라이메이트 플레지 아레나, 19일과 20일 애너하임 혼다 센터까지 북미 8개 도시에서 12회 공연을 개최하게 됐다.",
+				"sentenceSize": 229
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 공연은 첫 월드투어 이후 약 2년 5개월 만에 성사된 대면 단독 콘서트로 스트레이 키즈는 서울 3회 공연과 북미 8개 도시 12회 공연을 포함해 일본 고베에서 6월 11일과 12일 도쿄에서 6월 18일과 19일, 7월 26일과 27일까지 총 11개 도시 21회 규모의 월드투어를 개최한다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 스트레이 키즈는 오는 6월 28일 미국 뉴어크에서 본격적인 월드투어의 포문을 연다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스트레이 키즈, 북미 8개 도시 12회 공연 확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280808",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'송혜교 닮은꼴' 정가은 결혼, 동갑내기 일반인 사업가와 백년가약 \\\"결혼식은 비공개로\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'정가은 결혼' 방송인 정가은(38)이 내년 1월 결혼식을 올린다.\n정가은은 내년 1월 30일 동갑내기 일반인 사업가와 백년가약을 맺는다.\n정가은 소속사 측은 \\\"1월 30일에 동갑내기 사업가와 결혼식을 올린다. 양가 상견례는 이미 마친 상황이다. 결혼 준비를 하고 있다\\\"고 밝혔다.\n이어 \\\"사회나 신혼여행지, 축가, 주례 등은 아직 정리할 부분이 더 남아있다. 결혼식은 가족과 가까운 지인 등만 참석해 비공개로 진행될 것\\\"이라고 전했다.\n정가은은 지난 1997년 모델로 연예계에 데뷔했다.\n송혜교 닮은꼴로 화제를 모았고 각종 예능 프로그램에서 활약했다.\n정가은은 1997년 모델로 데뷔했다.\n송혜교 닮은꼴로 화제를 모았고 최근에는 '식객남녀', '올포유', '출발드림팀', '스타킹' 등 다양한 예능프로그램을 출연하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'정가은 결혼' 방송인 정가은(38)이 내년 1월 결혼식을 올린다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정가은은 내년 1월 30일 동갑내기 일반인 사업가와 백년가약을 맺는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정가은 소속사 측은 \\\"1월 30일에 동갑내기 사업가와 결혼식을 올린다. 양가 상견례는 이미 마친 상황이다. 결혼 준비를 하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"사회나 신혼여행지, 축가, 주례 등은 아직 정리할 부분이 더 남아있다. 결혼식은 가족과 가까운 지인 등만 참석해 비공개로 진행될 것\\\"이라고 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정가은은 지난 1997년 모델로 연예계에 데뷔했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송혜교 닮은꼴로 화제를 모았고 각종 예능 프로그램에서 활약했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정가은은 1997년 모델로 데뷔했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "송혜교 닮은꼴로 화제를 모았고 최근에는 '식객남녀', '올포유', '출발드림팀', '스타킹' 등 다양한 예능프로그램을 출연하고 있다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'송혜교 닮은꼴' 정가은 결혼, 동갑내기 일반인 사업가와 백년가약 \\\"결혼식은 비공개로\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

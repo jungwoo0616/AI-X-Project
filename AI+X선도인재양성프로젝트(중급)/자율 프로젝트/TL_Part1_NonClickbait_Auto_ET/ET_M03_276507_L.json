@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276507",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“미스코리아 출신 서현진 아나운서, 11월 다섯살 연상 의사와 결혼”",
+		"newsSubTitle": "",
+		"newsContent": "미스코리아 출신 방송인 서현진 아나운서가 오는 11월 결혼하는 것으로 알려졌다.\n23일 스포츠경향에 따르면 서 아나운서는 오는 11월25일 오후 12시 30분 서울 압구정 성당에서 결혼식을 올린다.\n신랑은 교제 한 지 1년이 지난 다섯 살 많은 의사로 알려졌다.\n서현진 아나운서는 지난해 2월 채널A프로그램 ‘풍문으로들었쇼’에 출연해 미스코리아의 상금을 밝혀 화제를 모으기도 했다.\n서현진 아나운서는 “2001 미스코리아 대회 당시 진이 2000만원 정도 받았다. 요즘에는 진이 5000만원 정도라는 이야기를 들었다. 난 선이라 1000만원을 받았다”고 말했다.\n또 서 아나운서는 “재벌가에서 소개팅 제의는 전혀 없었냐”는 질문에 “없다고 하면 또 욕을 먹을 것 같은데 진짜 없다. 지금까지 다 평범한 친구들을 만났기 때문에”라고 솔직하게 답변했다.\n서 아나운서는 2014년 7월 MBC에 사직서를 내고 프리랜서를 선언한 뒤 tvN ‘오마이갓’ ‘콜라보 토크쇼 빨간의자’, 채널A ‘동갑내기 여행하기’ 등 진행을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미스코리아 출신 방송인 서현진 아나운서가 오는 11월 결혼하는 것으로 알려졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 스포츠경향에 따르면 서 아나운서는 오는 11월25일 오후 12시 30분 서울 압구정 성당에서 결혼식을 올린다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신랑은 교제 한 지 1년이 지난 다섯 살 많은 의사로 알려졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서현진 아나운서는 지난해 2월 채널A프로그램 ‘풍문으로들었쇼’에 출연해 미스코리아의 상금을 밝혀 화제를 모으기도 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서현진 아나운서는 “2001 미스코리아 대회 당시 진이 2000만원 정도 받았다. 요즘에는 진이 5000만원 정도라는 이야기를 들었다. 난 선이라 1000만원을 받았다”고 말했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 서 아나운서는 “재벌가에서 소개팅 제의는 전혀 없었냐”는 질문에 “없다고 하면 또 욕을 먹을 것 같은데 진짜 없다. 지금까지 다 평범한 친구들을 만났기 때문에”라고 솔직하게 답변했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서 아나운서는 2014년 7월 MBC에 사직서를 내고 프리랜서를 선언한 뒤 tvN ‘오마이갓’ ‘콜라보 토크쇼 빨간의자’, 채널A ‘동갑내기 여행하기’ 등 진행을 맡았다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“미스코리아 출신 서현진 아나운서, 11월 다섯살 연상 의사와 결혼”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

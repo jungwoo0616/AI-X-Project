@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262999",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "대학로 개그 전용극장인 졸탄극장, 마스크 무료 나눔 행사",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 이재형, 한현민, 정진욱의 졸탄팀이 대학로 소극장에서 마스크를 무료 나눔 이벤트를 진행한다.\n오는 13일까지 2주간 진행한다.\n졸탄멤버 이재형, 한현민, 정진욱은 코믹연극 ‘2시간탈출 졸탄쇼’ 관객들에게 마스크를 나눠주고 있다.\n코믹연극 ‘2시간탈출 졸탄쇼’는 졸탄의 멤버 이재형, 한현민, 정진욱이 사라져가는 대학로 개그 공연을 살리고자 대학로 개그 전용극장인 졸탄극장을 개관하여 2021년 7월부터 오픈런으로 공연을 하고 있다.\n코믹연극 ‘2시간탈출 졸탄쇼’는 졸탄팀 15주년을 맞아 만든 코미디쇼로 상상할 수 없는 웃음으로 무장한 온 가족이 함께 즐길 수 있는 공연이다.\n졸탄쇼 공연을 본 관객들은“역시 졸탄공연은 웃음뷔페”라며 “코로나19로 힘든 시기에 웃음이 사라진 우리들에게 다시 웃을 수 있는 기회를 준다”고 응원의 박수를 보냈다.\n이어 “2시간동안 깔깔거리면서 스트레스 날려버리며 소리지르고 웃다 나왔습니다. 코로나로 지친 국민들에게 한바탕 웃음 가득한 힐링 코미디쇼 2시간탈출 졸탄쇼를 추천한다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 이재형, 한현민, 정진욱의 졸탄팀이 대학로 소극장에서 마스크를 무료 나눔 이벤트를 진행한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 13일까지 2주간 진행한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "졸탄멤버 이재형, 한현민, 정진욱은 코믹연극 ‘2시간탈출 졸탄쇼’ 관객들에게 마스크를 나눠주고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코믹연극 ‘2시간탈출 졸탄쇼’는 졸탄의 멤버 이재형, 한현민, 정진욱이 사라져가는 대학로 개그 공연을 살리고자 대학로 개그 전용극장인 졸탄극장을 개관하여 2021년 7월부터 오픈런으로 공연을 하고 있다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코믹연극 ‘2시간탈출 졸탄쇼’는 졸탄팀 15주년을 맞아 만든 코미디쇼로 상상할 수 없는 웃음으로 무장한 온 가족이 함께 즐길 수 있는 공연이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "졸탄쇼 공연을 본 관객들은“역시 졸탄공연은 웃음뷔페”라며 “코로나19로 힘든 시기에 웃음이 사라진 우리들에게 다시 웃을 수 있는 기회를 준다”고 응원의 박수를 보냈다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “2시간동안 깔깔거리면서 스트레스 날려버리며 소리지르고 웃다 나왔습니다. 코로나로 지친 국민들에게 한바탕 웃음 가득한 힐링 코미디쇼 2시간탈출 졸탄쇼를 추천한다”고 전했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대학로 개그 전용극장인 졸탄극장, 마스크 무료 나눔 행사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

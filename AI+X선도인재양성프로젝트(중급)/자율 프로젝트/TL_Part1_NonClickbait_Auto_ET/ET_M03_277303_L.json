@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277303",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "가수 나비 근황 공개…신곡 ‘전화해요’ 발표",
+		"newsSubTitle": "",
+		"newsContent": "가수 나비(31·본명 안지호)가 근황을 전했다.\n14일 나비는 자신의 SNS를 통해 “오늘 밤 12시에 만나요” 라는 의미심장한 글과 함께 사진을 공개했다.\n사진 속 나비는 보라색 드레스를 입고 피아노를 연주하는 모습이다.\n그만의 독보적인 분위기를 자아내 눈길을 끈다. 15일 자정 나비는 신곡 ‘전화해요’를 발표했다.\n백아연의 ‘쏘쏘’를 만든 김원이 작사작곡하고 안수완과 공동편곡한 발라드 장르다.\n가사는 제목그대로 전화하자는 내용을 담고 있다.\n기대고 싶을 때 언제든 전화해도 된다는 가사로 위로를 준다.\n소속사는 “테크놀로지의 발달로 쉽게 인연을 맺을 수 있게 됐지만 정작 마음 열기는 어려운 동시대 사람들 모두가 공감할 만한 가사”라고 소개했다.\n한편 나비는 개그맨 장동민과 약 1년간 공개 열애를 하다 지난해 11월 결별 소식을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 나비(31·본명 안지호)가 근황을 전했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 나비는 자신의 SNS를 통해 “오늘 밤 12시에 만나요” 라는 의미심장한 글과 함께 사진을 공개했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 나비는 보라색 드레스를 입고 피아노를 연주하는 모습이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그만의 독보적인 분위기를 자아내 눈길을 끈다. 15일 자정 나비는 신곡 ‘전화해요’를 발표했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백아연의 ‘쏘쏘’를 만든 김원이 작사작곡하고 안수완과 공동편곡한 발라드 장르다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가사는 제목그대로 전화하자는 내용을 담고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기대고 싶을 때 언제든 전화해도 된다는 가사로 위로를 준다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소속사는 “테크놀로지의 발달로 쉽게 인연을 맺을 수 있게 됐지만 정작 마음 열기는 어려운 동시대 사람들 모두가 공감할 만한 가사”라고 소개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 나비는 개그맨 장동민과 약 1년간 공개 열애를 하다 지난해 11월 결별 소식을 전했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 나비 근황 공개…신곡 ‘전화해요’ 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

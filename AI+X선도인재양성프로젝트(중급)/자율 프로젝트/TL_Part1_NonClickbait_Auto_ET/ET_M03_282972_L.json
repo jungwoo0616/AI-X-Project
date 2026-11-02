@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282972",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "런닝맨 송지효, 민경훈과 연결고리 \\\"화장실 갈 때만…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "런닝맨 송지효가 민경훈과 연결고리를 착용해 눈길을 끌었다.\n지난 22일 방송된 SBS '일요일이 좋다-런닝맨'(이하 런닝맨)에서 송지효 민경훈이 한 팀이 됐다.\n한 팀이 되면 벨트를 차고 서로 떨어지지 않게 끈을 묶고 생활해야 했다.\n유일한 남녀 혼성팀인 송지효 민경훈 팀에게 제작진은 \\\"화장실을 갈 때, 옷 갈아입을 때는 예외적으로 풀어드리겠다\\\"고 말했다.\n이에 민경훈은 \\\"아니다. 풀지 말아라\\\"고 농담을 던져 웃음을 자아냈다.\n한편 이날 '런닝맨'은 김광규, 박수홍, 조정치, 민경훈, 니엘과 함께하는 ‘약한 남자’ 특집으로 런닝맨 멤버들이 이들과 함께 가을 캠핑을 떠나는 모습이 그려졌다.\n온라인 중앙일보 '런닝맨 송지효'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "런닝맨 송지효가 민경훈과 연결고리를 착용해 눈길을 끌었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일 방송된 SBS '일요일이 좋다-런닝맨'(이하 런닝맨)에서 송지효 민경훈이 한 팀이 됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한 팀이 되면 벨트를 차고 서로 떨어지지 않게 끈을 묶고 생활해야 했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유일한 남녀 혼성팀인 송지효 민경훈 팀에게 제작진은 \\\"화장실을 갈 때, 옷 갈아입을 때는 예외적으로 풀어드리겠다\\\"고 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 민경훈은 \\\"아니다. 풀지 말아라\\\"고 농담을 던져 웃음을 자아냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 '런닝맨'은 김광규, 박수홍, 조정치, 민경훈, 니엘과 함께하는 ‘약한 남자’ 특집으로 런닝맨 멤버들이 이들과 함께 가을 캠핑을 떠나는 모습이 그려졌다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 '런닝맨 송지효'",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "런닝맨 송지효, 민경훈과 연결고리 \\\"화장실 갈 때만…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277322",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최태준 SNS에 댓글 남긴 지코…\\\"찬열 돌려내!\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 지코(25)가 배우 최태준(26)에게 \\\"이미지 정화하지 말라\\\"고 조언해 웃음을 주고 있다.\n10일 최태준은 자신의 인스타그램에 \\\"죄송하다\\\"며 한 장의 사진을 공개했다.\n최태준이 올린 사진에는 \\\"'불행한 일이 거듭 겹침'이라는 뜻의 사자성어는?\\\"이라는 퀴즈가 담겨 있다.\n네모 칸이 있는 정답에는 '태호가 또'라는 단어가 적혀 있다. '태호'는 현재 방영되고 있는 MBC '미씽나인'에서 최태준이 맡은 역할이다.\n태호는 '미씽나인'에서 배신과 악행을 거듭하는 악역 캐릭터다.\n이를 본 지코는 \\\"괜히 인스타그램으로 이미지 정화 시키지 말라\\\"며 \\\"열이('미씽나인' 이열) 돌려내\\\"라고 귀여운 투정을 부렸다. '미씽나인'에서 태호(최태준 분)가 이열(박찬열 분)을 죽였기 때문이다.\n그러자 최태준은 \\\"왜 그래 지호(지코의 본명)…\\\"이라고 댓글을 달아 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 지코(25)가 배우 최태준(26)에게 \\\"이미지 정화하지 말라\\\"고 조언해 웃음을 주고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 최태준은 자신의 인스타그램에 \\\"죄송하다\\\"며 한 장의 사진을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최태준이 올린 사진에는 \\\"'불행한 일이 거듭 겹침'이라는 뜻의 사자성어는?\\\"이라는 퀴즈가 담겨 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네모 칸이 있는 정답에는 '태호가 또'라는 단어가 적혀 있다. '태호'는 현재 방영되고 있는 MBC '미씽나인'에서 최태준이 맡은 역할이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "태호는 '미씽나인'에서 배신과 악행을 거듭하는 악역 캐릭터다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 지코는 \\\"괜히 인스타그램으로 이미지 정화 시키지 말라\\\"며 \\\"열이('미씽나인' 이열) 돌려내\\\"라고 귀여운 투정을 부렸다. '미씽나인'에서 태호(최태준 분)가 이열(박찬열 분)을 죽였기 때문이다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러자 최태준은 \\\"왜 그래 지호(지코의 본명)…\\\"이라고 댓글을 달아 웃음을 자아냈다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최태준 SNS에 댓글 남긴 지코…\\\"찬열 돌려내!\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

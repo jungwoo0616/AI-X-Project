@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171620",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "또 하나의 버추얼 아티스트, 한유아 첫 패션화보 공개",
+    "newsSubTitle": "",
+    "newsContent": "버추얼 아티스트 한유아의 패션 화보가 공개됐다.\n스마일게이트는 최근 촬영한 AI(인공지능) 기반 버추얼 아티스트 한유아의 패션 매거진 화보를 12일 공개했다.\n한유아는 세상의 모든 것에 호기심을 갖고 하루하루 배워가면서 살아가고 있는 성격을 지녔다.\nSNS를 통해 일상을 알리며 대중과 소통하고 있다.\n이번 화보 컨셉은 ‘지구와 꽃 피운 첫 교감’으로 진행됐다.\n한유아는 사려깊은 눈빛으로 사물을 응시하거나 꽃송이를 피우는 모습 등 세상과 교감하는 순수하면서 신비로운 분위기를 연출했다.\n자연스럽고 청초한 매력부터 단아하고 세련된 분위기까지 한유아의 다양한 매력을 엿볼 수 있다고 스마일게이트 측은 밝혔다.\n한유아는 이번 화보 촬영을 기점으로 음악, 연기 등 다양한 분야로 진출해 아티스트로서의 본격적인 활동을 펼칠 계획이다.\n오는 2월 말 음원 발매를 앞두고 가수로 나설 채비를 마쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "버추얼 아티스트 한유아의 패션 화보가 공개됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스마일게이트는 최근 촬영한 AI(인공지능) 기반 버추얼 아티스트 한유아의 패션 매거진 화보를 12일 공개했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한유아는 세상의 모든 것에 호기심을 갖고 하루하루 배워가면서 살아가고 있는 성격을 지녔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "SNS를 통해 일상을 알리며 대중과 소통하고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 화보 컨셉은 ‘지구와 꽃 피운 첫 교감’으로 진행됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한유아는 사려깊은 눈빛으로 사물을 응시하거나 꽃송이를 피우는 모습 등 세상과 교감하는 순수하면서 신비로운 분위기를 연출했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "자연스럽고 청초한 매력부터 단아하고 세련된 분위기까지 한유아의 다양한 매력을 엿볼 수 있다고 스마일게이트 측은 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한유아는 이번 화보 촬영을 기점으로 음악, 연기 등 다양한 분야로 진출해 아티스트로서의 본격적인 활동을 펼칠 계획이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오는 2월 말 음원 발매를 앞두고 가수로 나설 채비를 마쳤다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최근 패션 화보 공개한 한유아의 정체는 바로 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

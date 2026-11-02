@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276281",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유튜브 조회수 위해 시멘트로 얼굴에 전자레인지 붙인 남성",
+		"newsSubTitle": "",
+		"newsContent": "영국 울버햄턴에서 22세 청년이 시멘트로 얼굴 위에 전자레인지를 붙였다가 응급구조대에 의해 구조됐다.\n12월 8일 메트로 등 영국 매체는 시멘트로 전자레인지를 얼굴에 붙였다가 봉변을 당한 청년의 사연을 보도했다.\n12월 6일 'TGF Bro'라는 유튜브 채널의 일원인 지미 스윙글러(Jimmy Swingler)는 친구들과 유튜브에 올릴 영상을 만들기 위해 집 안 차고에서 이 같은 무모한 시도를 벌였다.\n그런데 영상 촬영 도중 그와 친구들은 전자레인지가 머리에서 떨어지지 않는다는 사실을 발견했다.\n친구들은 자칫하면 스윙글러가 죽을 수도 있겠다는 생각에 소방서에 도움을 요청했다.\n결국 신고를 받고 현장에 도착한 5명의 소방관이 한 시간이 넘도록 노력한 끝에 스윙글러의 얼굴에서 전자레인지를 제거할 수 있었다.\n한 구조대원은 \\\"이미 접착이 제법 진행되어 전자레인지를 머리에서 분해하는 과정이 쉽지 않았다\\\"며 고충을 토로했다.\n그러면서 \\\"우스워 보일 수도 있지만 자칫하면 큰 사고로 이어질 수도 있었다\\\"며 무모한 시도를 한 스윙글러에게 쓴소리를 덧붙였다.\n이에 대해 영국 네티즌들은 \\\"내가 낸 세금이 아깝다\\\" \\\"소방관들의 소중한 시간을 빼앗았다. 벌금을 부과해야 한다\\\" \\\"생각을 좀 하고 행동하자. 국제적인 망신이다\\\"라며 부끄러움을 감추지 못했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영국 울버햄턴에서 22세 청년이 시멘트로 얼굴 위에 전자레인지를 붙였다가 응급구조대에 의해 구조됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12월 8일 메트로 등 영국 매체는 시멘트로 전자레인지를 얼굴에 붙였다가 봉변을 당한 청년의 사연을 보도했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "12월 6일 'TGF Bro'라는 유튜브 채널의 일원인 지미 스윙글러(Jimmy Swingler)는 친구들과 유튜브에 올릴 영상을 만들기 위해 집 안 차고에서 이 같은 무모한 시도를 벌였다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그런데 영상 촬영 도중 그와 친구들은 전자레인지가 머리에서 떨어지지 않는다는 사실을 발견했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "친구들은 자칫하면 스윙글러가 죽을 수도 있겠다는 생각에 소방서에 도움을 요청했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결국 신고를 받고 현장에 도착한 5명의 소방관이 한 시간이 넘도록 노력한 끝에 스윙글러의 얼굴에서 전자레인지를 제거할 수 있었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 구조대원은 \\\"이미 접착이 제법 진행되어 전자레인지를 머리에서 분해하는 과정이 쉽지 않았다\\\"며 고충을 토로했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러면서 \\\"우스워 보일 수도 있지만 자칫하면 큰 사고로 이어질 수도 있었다\\\"며 무모한 시도를 한 스윙글러에게 쓴소리를 덧붙였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 대해 영국 네티즌들은 \\\"내가 낸 세금이 아깝다\\\" \\\"소방관들의 소중한 시간을 빼앗았다. 벌금을 부과해야 한다\\\" \\\"생각을 좀 하고 행동하자. 국제적인 망신이다\\\"라며 부끄러움을 감추지 못했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜브 조회수 위해 시멘트로 얼굴에 전자레인지 붙인 남성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

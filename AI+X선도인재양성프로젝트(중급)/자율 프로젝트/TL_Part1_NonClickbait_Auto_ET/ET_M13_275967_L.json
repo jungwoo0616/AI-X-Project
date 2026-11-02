@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275967",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘퍼포먼스 장인’ 다크비, 스페셜 영상 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 다크비(DKB)가 카리스마 넘치는 퍼포먼스 영상을 공개했다.\n지난 20일 다크비의 공식 유튜브 채널 및 사회관계망서비스(SNS)를 통해 첫 단독 미국투어 ‘2022 DKB MEET&LIVE U.S. TOUR’(2022 DKB 밋&라이브 U.S. 투어)에서 선보인 스페셜 스테이지 ‘First Class + KILL YOURSELF PART XIVChoreography by DKB’의 안무 영상이 공개됐다.\n공개된 영상 속 다크비 멤버 희찬, 룬, 준서, 유쿠, 해리준은 세련된 캐주얼 힙합 차림으로 훈훈한 비주얼을 뽐내며 등장했다.\n이어 파워풀하면서 그루비한 몸짓, 짜임새 있는 안무 구성으로 시선을 사로잡았다.\n바뀌는 곡에 맞춰 시시각각 변하는 표정과 센스 있는 제스처 또한 감탄을 자아내며 짜릿함을 선사했다.\n다크비는 첫 단독 미국 투어를 성황리에 마치고 다양한 콘텐츠를 통해 팬들과 적극 소통하고있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 다크비(DKB)가 카리스마 넘치는 퍼포먼스 영상을 공개했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일 다크비의 공식 유튜브 채널 및 사회관계망서비스(SNS)를 통해 첫 단독 미국투어 ‘2022 DKB MEET&LIVE U.S. TOUR’(2022 DKB 밋&라이브 U.S. 투어)에서 선보인 스페셜 스테이지 ‘First Class + KILL YOURSELF PART XIVChoreography by DKB’의 안무 영상이 공개됐다.",
+				"sentenceSize": 193
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속 다크비 멤버 희찬, 룬, 준서, 유쿠, 해리준은 세련된 캐주얼 힙합 차림으로 훈훈한 비주얼을 뽐내며 등장했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 파워풀하면서 그루비한 몸짓, 짜임새 있는 안무 구성으로 시선을 사로잡았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바뀌는 곡에 맞춰 시시각각 변하는 표정과 센스 있는 제스처 또한 감탄을 자아내며 짜릿함을 선사했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다크비는 첫 단독 미국 투어를 성황리에 마치고 다양한 콘텐츠를 통해 팬들과 적극 소통하고있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘퍼포먼스 장인’ 다크비, 스페셜 영상 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

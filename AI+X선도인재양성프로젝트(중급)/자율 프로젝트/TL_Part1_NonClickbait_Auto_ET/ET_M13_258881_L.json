@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258881",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘설강화’ 연속2회 방영, 종영일 앞당겼다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 드라마 ‘설강화’가 30일 날 2회 연속 방송으로 종영을 앞당긴다.\n21일 JTBC는 스포츠 경향에 JTBC 토·일 드라마 ‘설강화 : snowdrop’(이하 ‘설강화’)의 방송을 오는 30일 막 내린다고 전했다.\n16부작인 ‘설강화’는 현재 11회까지 방영됐다.\n따라서 종영 예정일은 다음 달 5일이었다.\n하지만 JTBC가 30일 15회, 16회 연속 방송을 결정하면서, ‘설강화’는 30일 종방하게 됐다.\n연속 방송 시간은 오후 10시부터다. ‘설강화’는 1987년 서울을 배경으로 어느 날 갑자기 여자 기숙사에 피투성이로 뛰어든 명문대생 수호와 서슬 퍼런 감시와 위기 속에서도 그를 감추고 치료해준 여대생 영로의 시대를 거스른 절절한 사랑 이야기를 다룬다.\n한편, ‘설강화’의 후속작은 ‘기상청 사람들: 사내연애 잔혹사 편’으로, 오는 2월 12일 오후 10시 30분에 첫 방송될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 드라마 ‘설강화’가 30일 날 2회 연속 방송으로 종영을 앞당긴다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 JTBC는 스포츠 경향에 JTBC 토·일 드라마 ‘설강화 : snowdrop’(이하 ‘설강화’)의 방송을 오는 30일 막 내린다고 전했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "16부작인 ‘설강화’는 현재 11회까지 방영됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "따라서 종영 예정일은 다음 달 5일이었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 JTBC가 30일 15회, 16회 연속 방송을 결정하면서, ‘설강화’는 30일 종방하게 됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연속 방송 시간은 오후 10시부터다. ‘설강화’는 1987년 서울을 배경으로 어느 날 갑자기 여자 기숙사에 피투성이로 뛰어든 명문대생 수호와 서슬 퍼런 감시와 위기 속에서도 그를 감추고 치료해준 여대생 영로의 시대를 거스른 절절한 사랑 이야기를 다룬다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, ‘설강화’의 후속작은 ‘기상청 사람들: 사내연애 잔혹사 편’으로, 오는 2월 12일 오후 10시 30분에 첫 방송될 예정이다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘설강화’ 연속2회 방영, 종영일 앞당겼다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

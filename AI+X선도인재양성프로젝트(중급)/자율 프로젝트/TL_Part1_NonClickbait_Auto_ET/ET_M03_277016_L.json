@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277016",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "걸그룹 팬 사인회에 등장한 '몰카 안경'",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 '여자친구' 팬 사인회에서 한 팬이 '몰카(몰래카메라) 안경'을 썼다는 네티즌의 주장이 제기됐다.\n한 네티즌은 최근 온라인커뮤니티에 지난달 31일 서울 용산구 동자아트홀에서 열린 여자친구 팬 사인회에서 한 팬이 몰카 안경을 썼다가 들통났다는 내용의 글을 게재했다.\n이와 함께 당시 팬 사인회 현장이 담긴 영상 주소를 올렸다.\n이에 따르면 검은색 뿔테 안경을 착용한 남성은 사인을 받기 위해 멤버 예린 앞에 멈춰섰다.\n예린은 이 남성과 얘기를 하던 중 그의 안경을 유심히 쳐다봤고, 곧 안경을 벗어달라고 요청했다.\n예린은 이 남성의 안경을 유심히 살펴본 뒤 남성이 자리를 지나가자 매니저에게 이를 알렸다.\n몇분 뒤 매니저는 이 남성의 안경을 손에 든 채 등장했다.\n이 네티즌은 이에 해당 남성이 몰카 안경을 썼다가 들통난 것이라고 주장했다.\n이를 본 팬들은 멤버들에 대한 걱정을 드러내며 대처를 잘했다는 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 '여자친구' 팬 사인회에서 한 팬이 '몰카(몰래카메라) 안경'을 썼다는 네티즌의 주장이 제기됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 네티즌은 최근 온라인커뮤니티에 지난달 31일 서울 용산구 동자아트홀에서 열린 여자친구 팬 사인회에서 한 팬이 몰카 안경을 썼다가 들통났다는 내용의 글을 게재했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 당시 팬 사인회 현장이 담긴 영상 주소를 올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따르면 검은색 뿔테 안경을 착용한 남성은 사인을 받기 위해 멤버 예린 앞에 멈춰섰다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예린은 이 남성과 얘기를 하던 중 그의 안경을 유심히 쳐다봤고, 곧 안경을 벗어달라고 요청했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예린은 이 남성의 안경을 유심히 살펴본 뒤 남성이 자리를 지나가자 매니저에게 이를 알렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "몇분 뒤 매니저는 이 남성의 안경을 손에 든 채 등장했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 네티즌은 이에 해당 남성이 몰카 안경을 썼다가 들통난 것이라고 주장했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 본 팬들은 멤버들에 대한 걱정을 드러내며 대처를 잘했다는 반응을 보였다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "걸그룹 팬 사인회에 등장한 '몰카 안경'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

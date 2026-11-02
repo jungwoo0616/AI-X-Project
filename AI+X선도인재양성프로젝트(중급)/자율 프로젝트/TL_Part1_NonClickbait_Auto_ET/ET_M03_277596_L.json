@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277596",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마이클 잭슨 친동생, 50세에 첫 아이 출산",
+		"newsSubTitle": "",
+		"newsContent": "올해 50세인 마이클 잭슨의 친동생 자넷 잭슨이 첫 아이를 낳았다.\n4일 미국 매체 피플에 따르면 잭슨은 지난 3일 중동 카타르 국적을 가진 남편 위사무 알마나와 사내아이를 출산했다.\n알마나는 “자넷은 건강하게 회복하고 있다”고 전했다.\n잭슨은 아들의 이름을 이사라고 지었다.\n1966년 5월생인 잭슨은 82년 데뷔해 2001년 그래미 어워드 최우수 댄스 레코딩상을 받는 등 오빠 못지않게 왕성한 활동을 하고 있다.\n임신 소식을 알고야 월드 투어 일정을 취소했을 정도다.\n하지만 전 남편 제임스 드바지 지난달 “잭슨에게 숨겨둔 딸이 있다”고 주장해 논란이 일고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 50세인 마이클 잭슨의 친동생 자넷 잭슨이 첫 아이를 낳았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 미국 매체 피플에 따르면 잭슨은 지난 3일 중동 카타르 국적을 가진 남편 위사무 알마나와 사내아이를 출산했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "알마나는 “자넷은 건강하게 회복하고 있다”고 전했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "잭슨은 아들의 이름을 이사라고 지었다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1966년 5월생인 잭슨은 82년 데뷔해 2001년 그래미 어워드 최우수 댄스 레코딩상을 받는 등 오빠 못지않게 왕성한 활동을 하고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임신 소식을 알고야 월드 투어 일정을 취소했을 정도다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 전 남편 제임스 드바지 지난달 “잭슨에게 숨겨둔 딸이 있다”고 주장해 논란이 일고 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마이클 잭슨 친동생, 50세에 첫 아이 출산",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

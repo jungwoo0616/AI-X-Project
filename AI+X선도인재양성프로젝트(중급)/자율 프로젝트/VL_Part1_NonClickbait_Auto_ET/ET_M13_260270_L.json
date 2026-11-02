@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260270",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "스테이씨, ‘YOUNG-LUV.COM’ 스케줄러 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 스테이씨(STAYC)가 21일 컴백한다.\n스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 8일 0시 공식 SNS를 통해 두 번째 미니앨범 ‘YOUNG-LUV.COM’의 스케줄러 이미지를 공개했다.\n하트 모양의 핑크빛 연기가 돋보이는 스케줄러 이미지에 따르면 스테이씨는 오는 21일 오후 6시 ‘YOUNG-LUV.COM’을 발매한다.\n이에 앞서 10일부터 15일까지 콘셉트 포토를 순차적으로 공개한 뒤 17일 뮤직비디오 티저, 18일 하이라이트 메들리, 20일 두 번째 뮤직비디오 티저를 오픈하며 컴백 열기를 높여갈 예정이다. ‘YOUNG-LUV.COM’은 스테이씨가 지난해 9월 첫 번째 미니앨범 ‘STEREOTYPE (스테레오타입)’ 이후 약 5개월 만에 발매하는 신보다.\n스테이씨는 한층 업그레이드된 음악적 스펙트럼과 한계 없는 콘셉트 소화력을 선보일 것으로 기대를 모으고 있다.\n한편, 스테이씨의 두 번째 미니앨범 ‘YOUNG-LUV.COM’은 21일 오후 6시 발매된다.\n앨범 예약 판매는 8일 오후 2시부터 각종 음반 사이트를 통해 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 스테이씨(STAYC)가 21일 컴백한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 8일 0시 공식 SNS를 통해 두 번째 미니앨범 ‘YOUNG-LUV.COM’의 스케줄러 이미지를 공개했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하트 모양의 핑크빛 연기가 돋보이는 스케줄러 이미지에 따르면 스테이씨는 오는 21일 오후 6시 ‘YOUNG-LUV.COM’을 발매한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 앞서 10일부터 15일까지 콘셉트 포토를 순차적으로 공개한 뒤 17일 뮤직비디오 티저, 18일 하이라이트 메들리, 20일 두 번째 뮤직비디오 티저를 오픈하며 컴백 열기를 높여갈 예정이다. ‘YOUNG-LUV.COM’은 스테이씨가 지난해 9월 첫 번째 미니앨범 ‘STEREOTYPE (스테레오타입)’ 이후 약 5개월 만에 발매하는 신보다.",
+				"sentenceSize": 191
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스테이씨는 한층 업그레이드된 음악적 스펙트럼과 한계 없는 콘셉트 소화력을 선보일 것으로 기대를 모으고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 스테이씨의 두 번째 미니앨범 ‘YOUNG-LUV.COM’은 21일 오후 6시 발매된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앨범 예약 판매는 8일 오후 2시부터 각종 음반 사이트를 통해 진행된다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스테이씨, ‘YOUNG-LUV.COM’ 스케줄러 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

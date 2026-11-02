@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276287",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "MAMA에서 남매 상봉한 에일리·강다니엘",
+		"newsSubTitle": "",
+		"newsContent": "가수 에일리가 그룹 워너원 멤버 강다니엘과 함께 찍은 사진을 공개했다.\n2일 에일리는 자신의 인스타그램에 \\\"쌍둥이 동생 이제 찾음. 찍으면서 둘 다 동시에 놀람\\\"이라는 글과 함께 사진 한장을 올렸다.\n에일리가 올린 사진에 따르면 에일리와 강다니엘은 왼손으로 브이 포즈를 취한 채 밝게 웃고 있다.\n강아지를 연상시키는 외모와 하관, 특히 입매가 닮아있다.\n이 사진을 본 네티즌은 \\\"남매 상봉한 에일리와 강다니엘\\\" \\\"진짜 닮았다\\\" 등과 같은 반응을 보였다.\n강다니엘은 Mnet '프로듀스101 시즌2' 출연 당시 때부터 '에일리 닮은꼴'로 꼽혀왔다.\n에일리와 강다니엘은 지난 1일 홍콩 아시아 월드엑스포 아레나에서 열린 '2017 Mnet 아시안 뮤직 어워드(MAMA)'에 참석했다.\n이날 에일리는 '베스트 OST' 상, 워너원은 '남자 그룹상' '남자 신인상' '베스트 오브 넥스트상'을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 에일리가 그룹 워너원 멤버 강다니엘과 함께 찍은 사진을 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 에일리는 자신의 인스타그램에 \\\"쌍둥이 동생 이제 찾음. 찍으면서 둘 다 동시에 놀람\\\"이라는 글과 함께 사진 한장을 올렸다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "에일리가 올린 사진에 따르면 에일리와 강다니엘은 왼손으로 브이 포즈를 취한 채 밝게 웃고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강아지를 연상시키는 외모와 하관, 특히 입매가 닮아있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 사진을 본 네티즌은 \\\"남매 상봉한 에일리와 강다니엘\\\" \\\"진짜 닮았다\\\" 등과 같은 반응을 보였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강다니엘은 Mnet '프로듀스101 시즌2' 출연 당시 때부터 '에일리 닮은꼴'로 꼽혀왔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "에일리와 강다니엘은 지난 1일 홍콩 아시아 월드엑스포 아레나에서 열린 '2017 Mnet 아시안 뮤직 어워드(MAMA)'에 참석했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 에일리는 '베스트 OST' 상, 워너원은 '남자 그룹상' '남자 신인상' '베스트 오브 넥스트상'을 받았다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MAMA에서 남매 상봉한 에일리·강다니엘",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

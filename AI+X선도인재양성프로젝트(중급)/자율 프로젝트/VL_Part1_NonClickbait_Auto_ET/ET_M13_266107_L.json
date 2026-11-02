@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266107",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘K-콘텐츠’ 제작지원 69편 선정…246억 규모",
+		"newsSubTitle": "",
+		"newsContent": "문화체육관광부와 한국콘텐츠진흥원이 ‘2022년 방송영상콘텐츠 제작지원사업 공모’에서 69편을 선정했다고 6일 알렸다.\n올해 지원사업은 지난해보다 100억 원 증가한 246억원 규모로 추진한다.\n부문별 사업 규모는 온라인 동영상 서비스(OTT) 특화 콘텐츠 113억원(13편), 지상파·케이블·종편 등 방송 미디어용 콘텐츠 54억원(23편), 증강현실(AR)·가상현실 등을 활용한 신기술기반 콘텐츠 32억원(10편), 숏폼·미드폼 등 뉴미디어 콘텐츠 24억원(15편), 방송 포맷 22억원(8편)이다.\nOTT 특화 부문은 ‘딜리버리맨’, ‘남이 될 수 있을까’, ‘위기의 X : 아재니까 아프다’ 등 드라마 6편과 연애 리얼리티 예능 ‘사내연애’, 추리 게임쇼 ‘데스크탑’, 다큐멘터리 시리즈 ‘하이틴: 우리가 춤추는 시간’ 등이 선정됐다.\n신기술 기반 부문에는 인공지능(AI) 기술을 활용한 ‘컬러로 보는 해방 한반도’, 메타버스 세계관을 기반으로 한 ‘버츄얼 가요톱10’ 등을 지원한다.\n방송 미디어용 부문에서는 배우 김혜수가 20년 만에 출연하는 사극 ‘슈룹’, 한류스타 송중기 주연의 ‘재벌집 막내 아들’ 등 7편이 뽑혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "문화체육관광부와 한국콘텐츠진흥원이 ‘2022년 방송영상콘텐츠 제작지원사업 공모’에서 69편을 선정했다고 6일 알렸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 지원사업은 지난해보다 100억 원 증가한 246억원 규모로 추진한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부문별 사업 규모는 온라인 동영상 서비스(OTT) 특화 콘텐츠 113억원(13편), 지상파·케이블·종편 등 방송 미디어용 콘텐츠 54억원(23편), 증강현실(AR)·가상현실 등을 활용한 신기술기반 콘텐츠 32억원(10편), 숏폼·미드폼 등 뉴미디어 콘텐츠 24억원(15편), 방송 포맷 22억원(8편)이다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "OTT 특화 부문은 ‘딜리버리맨’, ‘남이 될 수 있을까’, ‘위기의 X : 아재니까 아프다’ 등 드라마 6편과 연애 리얼리티 예능 ‘사내연애’, 추리 게임쇼 ‘데스크탑’, 다큐멘터리 시리즈 ‘하이틴: 우리가 춤추는 시간’ 등이 선정됐다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신기술 기반 부문에는 인공지능(AI) 기술을 활용한 ‘컬러로 보는 해방 한반도’, 메타버스 세계관을 기반으로 한 ‘버츄얼 가요톱10’ 등을 지원한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송 미디어용 부문에서는 배우 김혜수가 20년 만에 출연하는 사극 ‘슈룹’, 한류스타 송중기 주연의 ‘재벌집 막내 아들’ 등 7편이 뽑혔다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘K-콘텐츠’ 제작지원 69편 선정…246억 규모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

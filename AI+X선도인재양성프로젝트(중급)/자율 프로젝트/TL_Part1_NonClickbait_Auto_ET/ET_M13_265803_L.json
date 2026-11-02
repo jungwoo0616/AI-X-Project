@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265803",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박기웅, 베네딕트 컴버배치를 해석하다",
+		"newsSubTitle": "",
+		"newsContent": "배우 박기웅이 영국 출신 배우 베네딕트 컴버배치를 해석한다.\n박기웅 소속사에 따르면 박기웅은 네이버 쇼핑 라이브 ‘박기웅 컬쳐라이브’ 4일 방송에서 베네딕트 컴버배치 주역의 영화 ‘루이스 웨인: 사랑을 그린 고양이 화가’를 시청자에게 전달한다. ‘루이스 웨인: 사랑을 그린 고양이 화가’는 6일 개봉 예정인 영화로 모든 동물이 행복해지길 바랐던 엉뚱한 천제 화가 루이스(베네딕트 컴버배치)와 그의 운명 같은 사랑 에밀리(클레이 포이)의 삶과 사랑을 담은 작품이다.\n실존 인물인 루이스 웨인은 영국 빅토리아 시대 당시 의인화된 고양이 그림으로 유럽 전역에 고양이에 대한 인식을 변화시킨 인물이기도 하다.\n어려서부터 동물에 대한 애정이 각별했던 그는 동물권 향상을 위해 앞장섰고 애묘 문화가 자리잡는 데 기여한 선구자로 알려져 있다.\n화가 활동도 병행하고 있는 박기웅은 루이스 웨인의 삶과 그를 연기한 베네딕트 컴버배치를 집중 조명한다.\n그간 ‘박기웅 컬쳐 라이브’를 진행하며 문화적 감수성을 보여온 박기웅은 이번 방송에서도 작품을 자신만의 해석과 쉬운 설명으로 대중에게 도슨트를 자처할 전망이다.\n특히 박기웅은 직접 극장에서 객석들과 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박기웅이 영국 출신 배우 베네딕트 컴버배치를 해석한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박기웅 소속사에 따르면 박기웅은 네이버 쇼핑 라이브 ‘박기웅 컬쳐라이브’ 4일 방송에서 베네딕트 컴버배치 주역의 영화 ‘루이스 웨인: 사랑을 그린 고양이 화가’를 시청자에게 전달한다. ‘루이스 웨인: 사랑을 그린 고양이 화가’는 6일 개봉 예정인 영화로 모든 동물이 행복해지길 바랐던 엉뚱한 천제 화가 루이스(베네딕트 컴버배치)와 그의 운명 같은 사랑 에밀리(클레이 포이)의 삶과 사랑을 담은 작품이다.",
+				"sentenceSize": 225
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실존 인물인 루이스 웨인은 영국 빅토리아 시대 당시 의인화된 고양이 그림으로 유럽 전역에 고양이에 대한 인식을 변화시킨 인물이기도 하다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어려서부터 동물에 대한 애정이 각별했던 그는 동물권 향상을 위해 앞장섰고 애묘 문화가 자리잡는 데 기여한 선구자로 알려져 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "화가 활동도 병행하고 있는 박기웅은 루이스 웨인의 삶과 그를 연기한 베네딕트 컴버배치를 집중 조명한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그간 ‘박기웅 컬쳐 라이브’를 진행하며 문화적 감수성을 보여온 박기웅은 이번 방송에서도 작품을 자신만의 해석과 쉬운 설명으로 대중에게 도슨트를 자처할 전망이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 박기웅은 직접 극장에서 객석들과 만날 예정이다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박기웅, 베네딕트 컴버배치를 해석하다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

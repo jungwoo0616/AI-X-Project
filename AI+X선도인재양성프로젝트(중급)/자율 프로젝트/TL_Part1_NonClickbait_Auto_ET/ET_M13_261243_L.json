@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261243",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "모모랜드, 멕시코 스포티파이 TOP100 진입",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 모모랜드(MOMOLAND)의 ‘Yummy Yummy Love(야미 야미 럽)’이 멕시코 스포티파이 TOP 100에 진입하는 쾌거를 달성했다.\n모모랜드의 신곡 ‘Yummy Yummy Love’은 세계 최대 음원 사이트 스포티파이(Spotify)의 멕시코 바이럴송 TOP 100차트에서 85위에 올랐다.\n모모랜드가 지난 1월 14일 발매한 라틴 아티스트 나티 나타샤(Natti Natasha)와의 컬래버레이션 앨범 ‘Yummy Yummy Love’은 발매 직후 뮤직비디오 조회수 3000만 뷰를 돌파하며 글로벌 팬들에게 큰 사랑을 받았다.\n특히 남미 지역에서 큰 인기를 얻고 있는 ‘Yummy Yummy Love’은 남미 최대 음원차트 모니터라티노(monitorLATINO)에서 아델(Adele), 제니퍼 로페즈(Jennifer Lopez), 체인스모커스(The Chainsmokers) 등 세계적인 가수들을 제치고 2월 둘째주 주간차트 전체 1위를 차지해 화제를 모았다.\n모모랜드는 지난 14일 남미 현지 프로모션을 위해 멕시코로 출국해 100여개 매체와 인터뷰를 진행하고 라디오 방송, TV쇼에 출연하는 등 바쁜 일정을 소화하고 있다.\n한편, 모모랜드는 남은 프로모션 기간 동안 Telehit(텔레힛), Amazon(아마존), Soundcheck(사운드체크), EXA TV(엑사 티비) 등 주요 방송사 TV쇼에 출연할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 모모랜드(MOMOLAND)의 ‘Yummy Yummy Love(야미 야미 럽)’이 멕시코 스포티파이 TOP 100에 진입하는 쾌거를 달성했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모모랜드의 신곡 ‘Yummy Yummy Love’은 세계 최대 음원 사이트 스포티파이(Spotify)의 멕시코 바이럴송 TOP 100차트에서 85위에 올랐다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모모랜드가 지난 1월 14일 발매한 라틴 아티스트 나티 나타샤(Natti Natasha)와의 컬래버레이션 앨범 ‘Yummy Yummy Love’은 발매 직후 뮤직비디오 조회수 3000만 뷰를 돌파하며 글로벌 팬들에게 큰 사랑을 받았다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 남미 지역에서 큰 인기를 얻고 있는 ‘Yummy Yummy Love’은 남미 최대 음원차트 모니터라티노(monitorLATINO)에서 아델(Adele), 제니퍼 로페즈(Jennifer Lopez), 체인스모커스(The Chainsmokers) 등 세계적인 가수들을 제치고 2월 둘째주 주간차트 전체 1위를 차지해 화제를 모았다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모모랜드는 지난 14일 남미 현지 프로모션을 위해 멕시코로 출국해 100여개 매체와 인터뷰를 진행하고 라디오 방송, TV쇼에 출연하는 등 바쁜 일정을 소화하고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 모모랜드는 남은 프로모션 기간 동안 Telehit(텔레힛), Amazon(아마존), Soundcheck(사운드체크), EXA TV(엑사 티비) 등 주요 방송사 TV쇼에 출연할 예정이다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모모랜드, 멕시코 스포티파이 TOP100 진입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

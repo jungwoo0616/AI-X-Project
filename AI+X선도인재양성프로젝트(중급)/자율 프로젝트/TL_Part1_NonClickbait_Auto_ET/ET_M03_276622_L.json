@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276622",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "팬카페에 글 올린 송중기가 '너도 어쩔 수 없는…' 소리 들은 이유",
+		"newsSubTitle": "",
+		"newsContent": "송중기는 5일 오후 3시 자신의 팬카페에 결혼 소식을 전하는 글을 올렸다.\n그의 진심이 담긴 글 중 네티즌의 눈길을 끈 것은 따로 있었다.\n송중기는 글의 말미에 \\\"인생은 속도가 아니라 방향이라는 말도 들었다\\\"며 \\\"빨리 가느라 지금껏 보지 못했던 풍경과 가치와 사람을 제대로 보면서 여러분들에게 배웠던 마음으로 차근차근 지혜롭게 잘 걸어가겠습니다\\\"라고 적었다.\n이에 한 네티즌은 과거 온라인상에서 화제가 됐던 사진 한장을 함께 게시했다.\n이는 \\\"인생은 속도가 아닌 방향이다\\\"라고 쓰인 메모 밑에 \\\"속도는 속력과 방향을 합친 벡터값입니다. (속도는) 방향을 이미 내포하고 있죠. 속력으로 고쳐야 합니다\\\"라고 정정한 것이다.\n그러면서 \\\"그도 어쩔 수 없는 문과생이다\\\"라고 말했다.\n송중기가 결혼 사실을 전하며 차용한 문구를 보고 귀여운 농담을 덧붙여 네티즌들을 폭소케 했다.\n이를 본 네티즌들은 \\\"역시 경영학과 출신이구나\\\" \\\"이과 망했으면\\\" \\\"지나가던 문과생 또 하나 배웠네요\\\" 등의 반응을 보이며 웃었다.\n앞서 송중기와 송혜교는 보도자료를 통해 \\\"두 사람이 부부의 인연을 맺게 돼 10월 마지막 날에 결혼식을 올릴 예정이다\\\"라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "송중기는 5일 오후 3시 자신의 팬카페에 결혼 소식을 전하는 글을 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그의 진심이 담긴 글 중 네티즌의 눈길을 끈 것은 따로 있었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송중기는 글의 말미에 \\\"인생은 속도가 아니라 방향이라는 말도 들었다\\\"며 \\\"빨리 가느라 지금껏 보지 못했던 풍경과 가치와 사람을 제대로 보면서 여러분들에게 배웠던 마음으로 차근차근 지혜롭게 잘 걸어가겠습니다\\\"라고 적었다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 한 네티즌은 과거 온라인상에서 화제가 됐던 사진 한장을 함께 게시했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 \\\"인생은 속도가 아닌 방향이다\\\"라고 쓰인 메모 밑에 \\\"속도는 속력과 방향을 합친 벡터값입니다. (속도는) 방향을 이미 내포하고 있죠. 속력으로 고쳐야 합니다\\\"라고 정정한 것이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 \\\"그도 어쩔 수 없는 문과생이다\\\"라고 말했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송중기가 결혼 사실을 전하며 차용한 문구를 보고 귀여운 농담을 덧붙여 네티즌들을 폭소케 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 본 네티즌들은 \\\"역시 경영학과 출신이구나\\\" \\\"이과 망했으면\\\" \\\"지나가던 문과생 또 하나 배웠네요\\\" 등의 반응을 보이며 웃었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 송중기와 송혜교는 보도자료를 통해 \\\"두 사람이 부부의 인연을 맺게 돼 10월 마지막 날에 결혼식을 올릴 예정이다\\\"라고 전했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팬카페에 글 올린 송중기가 '너도 어쩔 수 없는…' 소리 들은 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274712",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이영지 “700달러 같은 소리 하네”, 해킹범에 분노",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 이영지가 SNS 해킹 피해를 당해 분노한 사연이 전해졌다.\n이영지는 지난 3일 SNS에 “틱톡 해킹 당했다 비밀번호 바꾸려고 로그인했는데 인증 코드 메일을 본인 메일로 바꿔놨다. 이거 어쩌냐”라며 해킹범과 나눈 대화 내역을 공개했다.\n이날 이영지는 해킹범에게 “제발 주세요, 착하게 살아요”라고 부탁했다.\n그러나 700달러(약 90만 원)를 주면 돌려주겠다는 해킹범의 말에 이영지는 “700달러 같은 소리 하고 자빠졌네”라며 분노하는 모습을 보였다.\n이영지는 2019년 Mnet ‘고등래퍼3’에서 우승을 차지하며 이름을 알렸다.\n이후 SBS 예능 프로그램 ‘런닝맨’(2020), KBS 예능 프로그램 ‘컴백홈’(2021) 등 예능계의 블루칩으로 자리잡았다.\n최근에는 tvN 예능 프로그램 ‘뿅뿅 지구 오락실’에 출연하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 이영지가 SNS 해킹 피해를 당해 분노한 사연이 전해졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이영지는 지난 3일 SNS에 “틱톡 해킹 당했다 비밀번호 바꾸려고 로그인했는데 인증 코드 메일을 본인 메일로 바꿔놨다. 이거 어쩌냐”라며 해킹범과 나눈 대화 내역을 공개했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이영지는 해킹범에게 “제발 주세요, 착하게 살아요”라고 부탁했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 700달러(약 90만 원)를 주면 돌려주겠다는 해킹범의 말에 이영지는 “700달러 같은 소리 하고 자빠졌네”라며 분노하는 모습을 보였다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이영지는 2019년 Mnet ‘고등래퍼3’에서 우승을 차지하며 이름을 알렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 SBS 예능 프로그램 ‘런닝맨’(2020), KBS 예능 프로그램 ‘컴백홈’(2021) 등 예능계의 블루칩으로 자리잡았다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에는 tvN 예능 프로그램 ‘뿅뿅 지구 오락실’에 출연하고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이영지 “700달러 같은 소리 하네”, 해킹범에 분노",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

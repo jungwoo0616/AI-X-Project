@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269715",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아나운서 김민정, 만삭에도 필라테스…“눈사람인가, 뒤뚱뒤뚱”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김민정이 임신 중 근황을 전했다.\n김민정은 10일 오전 자신의 사회관계망서비스(SNS) 인스타그램 계정에 만삭의 상태에서 운동에 열중인 사진을 게재했다.\n김민정은 “딴딴이와 함께하는 필라테스. 힘들어도 푸릇푸릇 창 밖 보며 운동하니 행복해요”라며 “레슨 때마다 점점 커지는 배를 거울로 확인하며 푸핫 웃음이 터져요”라고 웃음을 터트렸다.\n이어 “몸이 거대한 땅콩 같달까. 겨울왕국의 올라프 같달까”라고 말하며 해시태그 땅콩인가, 눈사람인가, 뒤뚱뒤뚱을 덧붙였다..\n사진 속 김민정은 만삭의 몸으로 필라테스를 하고 있다.\n김민정은 “되던 동작도 어느 순간 안 되는 신비한 엄마의 몸. 운동하며 느끼는 태동도 참 소중하네요. 산전 필라테스 이제 곧 산후 필라테스로 돌입할 듯”이라며 출산이 얼마 안 남았음을 알렸다.\nKBS 아나운서 출신인 김민정은 2016년 동료 아나운서 조충현과 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김민정이 임신 중 근황을 전했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김민정은 10일 오전 자신의 사회관계망서비스(SNS) 인스타그램 계정에 만삭의 상태에서 운동에 열중인 사진을 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김민정은 “딴딴이와 함께하는 필라테스. 힘들어도 푸릇푸릇 창 밖 보며 운동하니 행복해요”라며 “레슨 때마다 점점 커지는 배를 거울로 확인하며 푸핫 웃음이 터져요”라고 웃음을 터트렸다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “몸이 거대한 땅콩 같달까. 겨울왕국의 올라프 같달까”라고 말하며 해시태그 땅콩인가, 눈사람인가, 뒤뚱뒤뚱을 덧붙였다..",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 김민정은 만삭의 몸으로 필라테스를 하고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김민정은 “되던 동작도 어느 순간 안 되는 신비한 엄마의 몸. 운동하며 느끼는 태동도 참 소중하네요. 산전 필라테스 이제 곧 산후 필라테스로 돌입할 듯”이라며 출산이 얼마 안 남았음을 알렸다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KBS 아나운서 출신인 김민정은 2016년 동료 아나운서 조충현과 결혼했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아나운서 김민정, 만삭에도 필라테스…“눈사람인가, 뒤뚱뒤뚱”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

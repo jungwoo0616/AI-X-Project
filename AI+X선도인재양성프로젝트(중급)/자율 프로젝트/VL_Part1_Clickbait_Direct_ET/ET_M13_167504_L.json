@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167504",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "방탄소년단 지민 데뷔9주년, 팬들도 지원사격",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 멤버 지민의 데뷔 9주년과 솔로곡 발매를 팬들도 지원했다.\n방탄소년단 팬덤 아미에 따르면 지민의 중국 팬베이스 ‘지민바 차이나’는 지민의 ‘데뷔 9주년 특별 응원’ 일환으로 SRT 수서역 내 광고 서포트를 진행했다.\n지민바 차이나 관계자는 “수서역은 지하철 3호선과 수인 분당선, SRT가 연결된 곳으로 하루 유동인구가 4만명 이상으로 지민의 매력을 잘 알릴 수 있는 곳”이라고 설명했다.\n전체 길이 22m에 폭 2.2m의 크기의 해당 스크린에는 4일부터 오는 15일까지 지민과 관련한 광고가 하루 210번씩 송출된다.\n지민의 국내 팬덤인 ‘올포지민코리아’ 또한 지난 4일 하이브 사옥 맞은 편 벽면에 지민의 활동 모습을 담은 34m 크기의 대규모 래핑 광고를 진행했다고 밝혔다.\n지민의 데뷔 9주년과 ‘옛 투 컴’(Yet To Come) 복귀를 축하하기 위한 이번 광고는 오는 11일부터 13일까지 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 멤버 지민의 데뷔 9주년과 솔로곡 발매를 팬들도 지원했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방탄소년단 팬덤 아미에 따르면 지민의 중국 팬베이스 ‘지민바 차이나’는 지민의 ‘데뷔 9주년 특별 응원’ 일환으로 SRT 수서역 내 광고 서포트를 진행했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지민바 차이나 관계자는 “수서역은 지하철 3호선과 수인 분당선, SRT가 연결된 곳으로 하루 유동인구가 4만명 이상으로 지민의 매력을 잘 알릴 수 있는 곳”이라고 설명했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전체 길이 22m에 폭 2.2m의 크기의 해당 스크린에는 4일부터 오는 15일까지 지민과 관련한 광고가 하루 210번씩 송출된다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지민의 국내 팬덤인 ‘올포지민코리아’ 또한 지난 4일 하이브 사옥 맞은 편 벽면에 지민의 활동 모습을 담은 34m 크기의 대규모 래핑 광고를 진행했다고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지민의 데뷔 9주년과 ‘옛 투 컴’(Yet To Come) 복귀를 축하하기 위한 이번 광고는 오는 11일부터 13일까지 진행된다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SRT 수서역 스크린에 방탄소년단 지민 광고 기재해... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

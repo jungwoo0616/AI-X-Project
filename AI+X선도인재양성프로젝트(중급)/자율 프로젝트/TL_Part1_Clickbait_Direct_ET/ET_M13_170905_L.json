@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170905",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "브레이브걸스 은지, 신보 포토 티저 공개",
+    "newsSubTitle": "",
+    "newsContent": "그룹 브레이브걸스의 은지가 역대급 비주얼로 팬들을 설레게 했다.\n소속사 브레이브 엔터테인먼트는 17일 자정, 소속사와 브레이브걸스 공식 SNS를 통해 미니 5집 리패키지 앨범 ‘After ‘We Ride’’의 개인 포토 티저 이미지를 2장 게재했다.\n공개된 티저의 주인공은 은지였다.\n먼저 공개된 이미지 속 은지는 시크한 무드의 블랙 드레스와 보라색 장갑을 매치, 세련된 스타일링을 완성했다.\n턱을 괸 채 큰 눈으로 카메라를 빤히 응시하며 묘한 분위기를 자아내 팬들의 마음을 설레게 했다.\n이어 두 번째로 공개된 이미지에서는 조명을 받아 반짝이는 화려한 미러볼에 기댄 은지의 모습이 담겼다.\n시선을 사로잡는 핫핑크 의상과 독특한 액세서리 또한 은지만의 신비로운 분위기를 더욱 돋보이게 해 눈길을 끌었다.\n브레이브걸스의 신보 ‘After ‘We Ride’’는 미니 5집 ‘Summer Queen’의 리패키지 앨범으로 신곡 ‘술버릇 (운전만해 그후)’은 물론 미니 5집의 수록곡을 새롭게 편곡해 담은 곡까지 총 4개의 트랙으로 구성 되어 있다.\n한편, 브레이브걸스의 신보 ‘After ‘We Ride’’는 8월 23일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 브레이브걸스의 은지가 역대급 비주얼로 팬들을 설레게 했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 브레이브 엔터테인먼트는 17일 자정, 소속사와 브레이브걸스 공식 SNS를 통해 미니 5집 리패키지 앨범 ‘After ‘We Ride’’의 개인 포토 티저 이미지를 2장 게재했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 티저의 주인공은 은지였다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저 공개된 이미지 속 은지는 시크한 무드의 블랙 드레스와 보라색 장갑을 매치, 세련된 스타일링을 완성했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "턱을 괸 채 큰 눈으로 카메라를 빤히 응시하며 묘한 분위기를 자아내 팬들의 마음을 설레게 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 두 번째로 공개된 이미지에서는 조명을 받아 반짝이는 화려한 미러볼에 기댄 은지의 모습이 담겼다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시선을 사로잡는 핫핑크 의상과 독특한 액세서리 또한 은지만의 신비로운 분위기를 더욱 돋보이게 해 눈길을 끌었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "브레이브걸스의 신보 ‘After ‘We Ride’’는 미니 5집 ‘Summer Queen’의 리패키지 앨범으로 신곡 ‘술버릇 (운전만해 그후)’은 물론 미니 5집의 수록곡을 새롭게 편곡해 담은 곡까지 총 4개의 트랙으로 구성 되어 있다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 브레이브걸스의 신보 ‘After ‘We Ride’’는 8월 23일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팬들 설레게 한 브레이브걸스 이 멤버, 얼마나 예뻐졌길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

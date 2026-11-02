@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171220",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "슈주 동해, 백신 2차 접종 후기 “머리 아프고 속 안 좋아”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 슈퍼주니어 동해가 신종 코로나바이러스 감염증(코로나19) 백신 2차 접종 후기를 전했다.\n동해는 24일 자신의 인스타그램 스토리에 사진 없이 짧은 글을 게재했다.\n공개된 글에서 동해는 “머리 아프고 열나고 속이 메슥거리고 팔이 아프다”며 불편함을 호소했다.\n앞서 동해는 지난 8월 화이자 1차 백신을 맞은 후 자신의 SNS를 통해 실시간으로 신체 상황을 전했다.\n당시 그는 “백신 맞은 지 8시간 경과. 팔이 아프네. 이런 증상 맞나요?” “백신 접종 14시간 40분 증상. 오른팔이 안 올라가요” 등의 글을 남겼다.\n한편, 동해가 속한 슈퍼주니어는 지난 3월 타이틀곡‘하우스 파티(House Party)를 발매했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 슈퍼주니어 동해가 신종 코로나바이러스 감염증(코로나19) 백신 2차 접종 후기를 전했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동해는 24일 자신의 인스타그램 스토리에 사진 없이 짧은 글을 게재했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 글에서 동해는 “머리 아프고 열나고 속이 메슥거리고 팔이 아프다”며 불편함을 호소했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 동해는 지난 8월 화이자 1차 백신을 맞은 후 자신의 SNS를 통해 실시간으로 신체 상황을 전했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 그는 “백신 맞은 지 8시간 경과. 팔이 아프네. 이런 증상 맞나요?” “백신 접종 14시간 40분 증상. 오른팔이 안 올라가요” 등의 글을 남겼다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 동해가 속한 슈퍼주니어는 지난 3월 타이틀곡‘하우스 파티(House Party)를 발매했다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "슈퍼주니어 동해가 호소하는 '이것'의 후유증은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

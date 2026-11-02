@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276808",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"이렇게나 말랐어?\\\" 촬영장서 포착된 정채연",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 '다이아' 정채연의 화보촬영 모습이 공개됐다.\n스타 스타일 매거진 하이컷은 25일 정채연의 화보 촬영 모습이 담긴 사진을 게재했다.\n이어 \\\"어제 저녁. 하이컷 화보 촬영 내내 정채연의 예쁜 말투와 애교, 사랑스러움은 모두를 무장해제 시켰다고 하네요\\\"라며 \\\"정채연의 과감하고 도발적인 모습도 기대해 달라\\\"고 덧붙였다.\n공개된 사진에는 귀여운 청멜빵 치마 패션을 선보인 정채연의 모습이 담겨 있다.\n그의 가녀린 몸매는 시선을 사로잡았다.\n정채연은 프로젝트 걸그룹 '아이오아이'에 이어 '다이아' 활동을 통해 활발한 음악 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 '다이아' 정채연의 화보촬영 모습이 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스타 스타일 매거진 하이컷은 25일 정채연의 화보 촬영 모습이 담긴 사진을 게재했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"어제 저녁. 하이컷 화보 촬영 내내 정채연의 예쁜 말투와 애교, 사랑스러움은 모두를 무장해제 시켰다고 하네요\\\"라며 \\\"정채연의 과감하고 도발적인 모습도 기대해 달라\\\"고 덧붙였다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 귀여운 청멜빵 치마 패션을 선보인 정채연의 모습이 담겨 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그의 가녀린 몸매는 시선을 사로잡았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정채연은 프로젝트 걸그룹 '아이오아이'에 이어 '다이아' 활동을 통해 활발한 음악 활동을 펼치고 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이렇게나 말랐어?\\\" 촬영장서 포착된 정채연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

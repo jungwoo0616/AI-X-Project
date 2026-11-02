@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264440",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "한혜진, 당뇨·고혈압 질문→거침없는 스트레칭 (무엇이든 물어보세요)[종합]",
+		"newsSubTitle": "",
+		"newsContent": "가수 한혜진이 재치 있는 입담을 과시했다.\n한혜진은 21일 오전 10시 방송된 KBS1 ‘무엇이든 물어보세요’에 출연했다.\n이날 한혜진은 말초 순환 장애 주제에 맞춰 스트레칭 따라 하기와 질문 공세를 선보이며 시청자들의 궁금증을 해결, 센스 있는 면모로 재미를 더했다.\n한혜진은 “지금 의사분들이 하시는 질병 관련 말씀이 꼭 제 이야기 같아 공감됩니다”, “하지 정맥류의 종류가 조금씩 다르던데 어떻게 다른 걸까요”라는 질문을 했다.\n이어 당뇨, 고혈압 관련 스트레칭을 따라 하며 “몸매가 예뻐지는 것 같아요”, “본격적으로 스트레칭을 따라 하려고 하니 머리가 아프다”며 재치 있게 임했다.\n이어서 당뇨 현상을 지켜보며 그는 “증상이 심해지면 신체를 절단해야 하는 상황이 발생할 수도 있다”, “뉴스를 보면 돌연사를 했다는 속보들이 들리는 경우가 있는데 상황이 점차 심각해지니 걱정이 된다”며 병에 대한 심각성을 알렸다.\n한혜진은 O, X 퀴즈에서는 “혈액순환에는 뜨거운 탕 목욕과 찜질이 최고가 아닌 뜨거운 탕 목욕과 찜질 등이 근본적으로 말초 동맥 질환을 개선할 수는 없다” 등으로 헷갈리는 정보를 바로잡았다.\n한편 KBS1 ‘무엇이든 물어보세요’는 매주 월요일~금요일 오전 10시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 한혜진이 재치 있는 입담을 과시했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한혜진은 21일 오전 10시 방송된 KBS1 ‘무엇이든 물어보세요’에 출연했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 한혜진은 말초 순환 장애 주제에 맞춰 스트레칭 따라 하기와 질문 공세를 선보이며 시청자들의 궁금증을 해결, 센스 있는 면모로 재미를 더했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한혜진은 “지금 의사분들이 하시는 질병 관련 말씀이 꼭 제 이야기 같아 공감됩니다”, “하지 정맥류의 종류가 조금씩 다르던데 어떻게 다른 걸까요”라는 질문을 했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 당뇨, 고혈압 관련 스트레칭을 따라 하며 “몸매가 예뻐지는 것 같아요”, “본격적으로 스트레칭을 따라 하려고 하니 머리가 아프다”며 재치 있게 임했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어서 당뇨 현상을 지켜보며 그는 “증상이 심해지면 신체를 절단해야 하는 상황이 발생할 수도 있다”, “뉴스를 보면 돌연사를 했다는 속보들이 들리는 경우가 있는데 상황이 점차 심각해지니 걱정이 된다”며 병에 대한 심각성을 알렸다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한혜진은 O, X 퀴즈에서는 “혈액순환에는 뜨거운 탕 목욕과 찜질이 최고가 아닌 뜨거운 탕 목욕과 찜질 등이 근본적으로 말초 동맥 질환을 개선할 수는 없다” 등으로 헷갈리는 정보를 바로잡았다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 KBS1 ‘무엇이든 물어보세요’는 매주 월요일~금요일 오전 10시 방송된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한혜진, 당뇨·고혈압 질문→거침없는 스트레칭 (무엇이든 물어보세요)[종합]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

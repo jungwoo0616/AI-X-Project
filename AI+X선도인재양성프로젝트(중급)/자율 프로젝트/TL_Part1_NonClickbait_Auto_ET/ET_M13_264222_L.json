@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264222",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정채연 “연기하며 나를 더 알게 돼”[화보]",
+		"newsSubTitle": "",
+		"newsContent": "올 여름 차기작 ‘금수저’로 컴백을 알린 가수 겸 배우 정채연이 화보 프레임을 장식했다.\n정채연은 18일 공개된 한 패션지의 4월호 화보에서 특유의 청순함과 함께 여성적인 분위기를 한껏 선보였다.\n지난해 KBS2 드라마 ‘연모’로 큰 사랑을 받았던 그는 ‘금수저’를 통해 새로운 캐릭터를 보여줄 예정이다.\n부잣집의 딸이지만 정의감이 넘치는 나주희를 통해 드라마의 매력을 배가한다.\n정채연은 나주희에 대해 “부잣집 딸이지만 경제적인 면과 관계 없이 타인을 따뜻하게 바라보고 사랑할 줄 아는 친구”라며 “정의감도 넘치고 당당한 매력이 있다”고 설명했다.\n지난해 ‘연모’로 연기자로서 큰 성장을 보여준 정채연은 “나 자신에게 믿음과 용기를 준 작품”이라며 “연기하는 내내 많이 배웠고 응원도 많이 받았다”고 말했다.\n이어 그는 “연기를 하면서 나라는 사람에 대해 더 많이 알게 되더라”며 “나에 대해 집중하는 시간들이 정말 특별하다”고 덧붙여 연기를 하면서 알아가게 된 자신의 모습에 대해 답했다.\n2022년도 더 힘차게 달리고 싶다는 정채연의 화보는 패션지 ‘앳스타일’의 4월호에서 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올 여름 차기작 ‘금수저’로 컴백을 알린 가수 겸 배우 정채연이 화보 프레임을 장식했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정채연은 18일 공개된 한 패션지의 4월호 화보에서 특유의 청순함과 함께 여성적인 분위기를 한껏 선보였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 KBS2 드라마 ‘연모’로 큰 사랑을 받았던 그는 ‘금수저’를 통해 새로운 캐릭터를 보여줄 예정이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부잣집의 딸이지만 정의감이 넘치는 나주희를 통해 드라마의 매력을 배가한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정채연은 나주희에 대해 “부잣집 딸이지만 경제적인 면과 관계 없이 타인을 따뜻하게 바라보고 사랑할 줄 아는 친구”라며 “정의감도 넘치고 당당한 매력이 있다”고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 ‘연모’로 연기자로서 큰 성장을 보여준 정채연은 “나 자신에게 믿음과 용기를 준 작품”이라며 “연기하는 내내 많이 배웠고 응원도 많이 받았다”고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 그는 “연기를 하면서 나라는 사람에 대해 더 많이 알게 되더라”며 “나에 대해 집중하는 시간들이 정말 특별하다”고 덧붙여 연기를 하면서 알아가게 된 자신의 모습에 대해 답했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2022년도 더 힘차게 달리고 싶다는 정채연의 화보는 패션지 ‘앳스타일’의 4월호에서 볼 수 있다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정채연 “연기하며 나를 더 알게 돼”[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

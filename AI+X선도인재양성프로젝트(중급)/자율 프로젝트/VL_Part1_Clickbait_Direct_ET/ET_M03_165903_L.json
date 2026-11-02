@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165903",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "3년 전 입었던 옷을 또 다시 입고 등장한 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 레드벨벳 멤버 아이린(26)의 미키마우스 사랑이 눈길을 끌고 있다.\n소속사 SM엔터테인먼트 측은 10일 레드벨벳의 신곡 '루키(Rookie)'의 안무 영상을 공개했다.\n이 영상에서 아이린은 미키마우스가 중앙에 그려진 스트라이프 티셔츠를 입고 있다.\n아이린이 입고 있는 티셔츠는 그가 신인 시절이었던 지난 2014년에도 입고 나온 바 있는 의상이다.\n아이린은 데뷔 3주 차인 2014년 8월23일 KBS COOL FM '슈퍼주니어의 키스 더 라디오'에 출연했을 때에도 이 의상을 입고 나왔다.\n아이린이 3년 전에도 입었던 옷을 입고 안무 영상을 선보이자 팬들은 \\\"귀엽다\\\" \\\"검소하다\\\" \\\"아이린의 미키마우스 사랑\\\" 이라는 반응을 보이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 레드벨벳 멤버 아이린(26)의 미키마우스 사랑이 눈길을 끌고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 SM엔터테인먼트 측은 10일 레드벨벳의 신곡 '루키(Rookie)'의 안무 영상을 공개했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 영상에서 아이린은 미키마우스가 중앙에 그려진 스트라이프 티셔츠를 입고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아이린이 입고 있는 티셔츠는 그가 신인 시절이었던 지난 2014년에도 입고 나온 바 있는 의상이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아이린은 데뷔 3주 차인 2014년 8월23일 KBS COOL FM '슈퍼주니어의 키스 더 라디오'에 출연했을 때에도 이 의상을 입고 나왔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이린이 3년 전에도 입었던 옷을 입고 안무 영상을 선보이자 팬들은 \\\"귀엽다\\\" \\\"검소하다\\\" \\\"아이린의 미키마우스 사랑\\\" 이라는 반응을 보이고 있다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레드벨벳 아이린, 미키마우스 남다른 애정 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

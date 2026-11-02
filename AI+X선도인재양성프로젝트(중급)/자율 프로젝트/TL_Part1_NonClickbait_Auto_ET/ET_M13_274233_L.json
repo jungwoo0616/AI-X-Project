@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274233",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "성시경, 자기 외모 디스 “다 가리니까 잘생겼다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 성시경이 자기 자신의 외모의 혹독한 평가를 내렸다.\n성시경은 28일 자신의 사회관계망서비스(SNS)에 “다 가리니까 진짜 잘생겼다”라는 글과 함께 사진을 게재했다.\n공개한 사진에서 성시경은 선글라스와 마스크로 얼굴을 한 곳도 빼놓지 않고 꽁꽁 가렸다.\n모두 가린 후 ‘가리니 잘생겼다’라는 말로 보는 이들로 하여금 은연중에 슬픈 감정을 들게 했다.\n단 한눈에 봐도 성시경인 것은 알아볼 수 있을 정도로 독보적인 존재감을 과시했다.\n한편 성시경은 자신의 유튜브 채널에서 ‘성시경의 먹을 텐데’ 콘텐츠로 제2의 전성기를 누리고 있다.\n무조건 많이 먹고, 무조건 시끄럽게 소리를 내면서 먹는 기존 먹방이 아닌 평소 요리에 조예가 깊은 성시경의 설명과 깔끔하게 먹는 먹방으로 팬들로부터 많은 사랑을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 성시경이 자기 자신의 외모의 혹독한 평가를 내렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "성시경은 28일 자신의 사회관계망서비스(SNS)에 “다 가리니까 진짜 잘생겼다”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 성시경은 선글라스와 마스크로 얼굴을 한 곳도 빼놓지 않고 꽁꽁 가렸다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모두 가린 후 ‘가리니 잘생겼다’라는 말로 보는 이들로 하여금 은연중에 슬픈 감정을 들게 했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "단 한눈에 봐도 성시경인 것은 알아볼 수 있을 정도로 독보적인 존재감을 과시했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 성시경은 자신의 유튜브 채널에서 ‘성시경의 먹을 텐데’ 콘텐츠로 제2의 전성기를 누리고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "무조건 많이 먹고, 무조건 시끄럽게 소리를 내면서 먹는 기존 먹방이 아닌 평소 요리에 조예가 깊은 성시경의 설명과 깔끔하게 먹는 먹방으로 팬들로부터 많은 사랑을 받고 있다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "성시경, 자기 외모 디스 “다 가리니까 잘생겼다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

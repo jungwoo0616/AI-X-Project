@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278245",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "해리슨 포드, 경찰 실수로 체포될뻔..'황당 해프닝'",
+		"newsSubTitle": "",
+		"newsContent": "배우 해리슨 포드(73)가 경찰의 실수로 체포될 뻔한 사실이 밝혀졌다.\nTMZ에 따르면 해리슨 포드는 지난 7일(현지 시간) 경찰에 체포된 것으로 확인됐다.\n혐의는 규제 약물 소지였다.\n그러나 이는 신입 경찰의 실수였다.\n경찰은 훈련 기간 중 가상의 용의자로 해리슨 포드의 정보를 입력했고, 데이터를 삭제하는 것을 잊는 실수를 했다.\n이에 경찰 측은 자신들의 실수를 인정하고 해리슨 포드는 아무런 죄를 짓지 않았다고 밝혔다.\n한편 해리슨 포드는 오는 2019년 개봉 예정인 영화 '인디아나 존스5'에 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 해리슨 포드(73)가 경찰의 실수로 체포될 뻔한 사실이 밝혀졌다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "TMZ에 따르면 해리슨 포드는 지난 7일(현지 시간) 경찰에 체포된 것으로 확인됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "혐의는 규제 약물 소지였다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 이는 신입 경찰의 실수였다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경찰은 훈련 기간 중 가상의 용의자로 해리슨 포드의 정보를 입력했고, 데이터를 삭제하는 것을 잊는 실수를 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 경찰 측은 자신들의 실수를 인정하고 해리슨 포드는 아무런 죄를 짓지 않았다고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 해리슨 포드는 오는 2019년 개봉 예정인 영화 '인디아나 존스5'에 출연한다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해리슨 포드, 경찰 실수로 체포될뻔..'황당 해프닝'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

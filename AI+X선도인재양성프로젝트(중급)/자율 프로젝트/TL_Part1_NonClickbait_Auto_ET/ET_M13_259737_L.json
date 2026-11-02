@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259737",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "원위, 따뜻한 설 인사 공개",
+		"newsSubTitle": "",
+		"newsContent": "보이밴드 원위(ONEWE)가 2022년 임인년 설을 맞이해 팬들에게 인사를 전했다.\n원위(용훈·강현·하린·동명·키아)는 30일 공식 보도자료를 통해 한복 단체 사진과 설 인사를 전했다.\n기 멤버 용훈은 “임인년 설 모두 새해 복 많이 받으시길 바란다. 여전히 마음 편히 가족들과 지인들을 만날 순 없겠지만, 모두 희망을 가지고 마음만은 풍족하고 행복한 설 연휴 되시길 기도하겠다”라고 인사했다.\n강현은 “2022년 설이 밝았다. 날이 점점 따뜻해지고 있는데, 그동안 고생하셨던 일 모두 이번 설에는 잠시 내려놓으시고, 푹 쉬실 수 있는 풍족한 설이 되셨으면 좋겠다. 모두 행복하세요”라고 말했다.\n원위는 지난 4일 발매된 미니 2집 ‘Planet Nine : VOYAGER’으로 원위만의 행성에서 새로운 발걸음을 내딛는 다섯 멤버의 모습을 완성도 높은 음악으로 담아냈다.\n확장된 세계관 속에 전곡을 다섯 멤버의 자작곡으로 채우며 한계 없는 음악적 스펙트럼을 입증했다는 평가를 받고 있다.\n한편, 원위는 내달 12일 서울 광진구 YES24 라이브홀에서 두 번째 라이브 콘서트 ‘O! NEW E!volution Ⅱ’를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보이밴드 원위(ONEWE)가 2022년 임인년 설을 맞이해 팬들에게 인사를 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원위(용훈·강현·하린·동명·키아)는 30일 공식 보도자료를 통해 한복 단체 사진과 설 인사를 전했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기 멤버 용훈은 “임인년 설 모두 새해 복 많이 받으시길 바란다. 여전히 마음 편히 가족들과 지인들을 만날 순 없겠지만, 모두 희망을 가지고 마음만은 풍족하고 행복한 설 연휴 되시길 기도하겠다”라고 인사했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강현은 “2022년 설이 밝았다. 날이 점점 따뜻해지고 있는데, 그동안 고생하셨던 일 모두 이번 설에는 잠시 내려놓으시고, 푹 쉬실 수 있는 풍족한 설이 되셨으면 좋겠다. 모두 행복하세요”라고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "원위는 지난 4일 발매된 미니 2집 ‘Planet Nine : VOYAGER’으로 원위만의 행성에서 새로운 발걸음을 내딛는 다섯 멤버의 모습을 완성도 높은 음악으로 담아냈다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "확장된 세계관 속에 전곡을 다섯 멤버의 자작곡으로 채우며 한계 없는 음악적 스펙트럼을 입증했다는 평가를 받고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 원위는 내달 12일 서울 광진구 YES24 라이브홀에서 두 번째 라이브 콘서트 ‘O! NEW E!volution Ⅱ’를 개최한다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원위, 따뜻한 설 인사 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

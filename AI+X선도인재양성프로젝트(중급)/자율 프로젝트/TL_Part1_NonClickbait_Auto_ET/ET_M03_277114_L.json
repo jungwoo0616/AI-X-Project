@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277114",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"아이돌 지하철 광고 왜 해?\\\"…생각 바꿔준 한 아이돌의 '센스'",
+		"newsSubTitle": "",
+		"newsContent": "아이돌 팬들은 지하철역 광고를 통해 자신이 좋아하는 스타의 생일 등을 축하하고는 한다.\n이 문화를 두고 \\\"'왜 할까' 생각했었지만 그런 생각 한 내가 너무 부끄럽다\\\"고 말한 한 네티즌의 글이 화제다.\n21일 한 트위터 이용자는 자신의 트위터에 \\\"지하철 타고 다니면서 '생일 축하광고는 왜 할까. 어차피 걔네는 대중교통 이용 안 할 거고 관심 없을 텐데 그 돈으로 하나라도 더 챙겨주고 서포트하는 게 낫지 않을까' 생각했었는데 그런 내가 너무 부끄럽다\\\"며 영상 하나를 공개했다.\n이 영상에는 그룹 B1A4 멤버 산들이 자신의 생일을 축하하는 내용이 담겨 있는 지하철역 스크린도어 광고판 등을 오가며 좋아하는 모습이 담겨 있다.\n산들은 영상에서 흰색 마스크를 쓰고 돌아다녔다.\n산들은 광고 속 자신의 얼굴을 쓰다듬기도 하고, 엄지를 추켜들기도 하며, 계속 쳐다보는 등의 행동을 보였다.\n이를 본 네티즌은 \\\"산돌 팬도 아니었는데 이걸 보고 감동받았다\\\" \\\"팬들 진짜 좋았겠다\\\" \\\"다 찾기도 힘들었을 텐데 센스 있다\\\"라고 말하며 산들을 칭찬했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌 팬들은 지하철역 광고를 통해 자신이 좋아하는 스타의 생일 등을 축하하고는 한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 문화를 두고 \\\"'왜 할까' 생각했었지만 그런 생각 한 내가 너무 부끄럽다\\\"고 말한 한 네티즌의 글이 화제다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일 한 트위터 이용자는 자신의 트위터에 \\\"지하철 타고 다니면서 '생일 축하광고는 왜 할까. 어차피 걔네는 대중교통 이용 안 할 거고 관심 없을 텐데 그 돈으로 하나라도 더 챙겨주고 서포트하는 게 낫지 않을까' 생각했었는데 그런 내가 너무 부끄럽다\\\"며 영상 하나를 공개했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 영상에는 그룹 B1A4 멤버 산들이 자신의 생일을 축하하는 내용이 담겨 있는 지하철역 스크린도어 광고판 등을 오가며 좋아하는 모습이 담겨 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산들은 영상에서 흰색 마스크를 쓰고 돌아다녔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "산들은 광고 속 자신의 얼굴을 쓰다듬기도 하고, 엄지를 추켜들기도 하며, 계속 쳐다보는 등의 행동을 보였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌은 \\\"산돌 팬도 아니었는데 이걸 보고 감동받았다\\\" \\\"팬들 진짜 좋았겠다\\\" \\\"다 찾기도 힘들었을 텐데 센스 있다\\\"라고 말하며 산들을 칭찬했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"아이돌 지하철 광고 왜 해?\\\"…생각 바꿔준 한 아이돌의 '센스'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

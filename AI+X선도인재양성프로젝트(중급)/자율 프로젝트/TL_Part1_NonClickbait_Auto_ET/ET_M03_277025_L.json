@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277025",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "섹시 포즈 잡다가 나이 드러난 아이린",
+		"newsSubTitle": "",
+		"newsContent": "아이돌 그룹 레드벨벳 아이린이 섹시 포즈를 잡다가 나이가 드러난 사연이 화제다.\n최근 온라인 커뮤니티에서는 MBC every1에서 2015년 9월 방영된 ‘Dumb Dumb으로 돌아온 레드벨벳’ 방송이 다시 인기를 모으고 있다.\n해당 방송에서 아이린은 “섹시 포즈를 잡아 달라”는 정형돈의 말에 다리를 찢는 동작을 취했다.\n이에 정형돈과 데프콘은 “너무 옛날 거야. 너 나이 좀 있지. 90년대 조혜련이 한 포즈다”라며 놀렸다.\n이에 자막에 ‘배주현(25)/연예인 이름:아이린’으로 표기됐다.\n아이린은 1991년 생으로 94~99년 생인 다른 멤버 네 명보다 나이가 가장 많다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌 그룹 레드벨벳 아이린이 섹시 포즈를 잡다가 나이가 드러난 사연이 화제다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에서는 MBC every1에서 2015년 9월 방영된 ‘Dumb Dumb으로 돌아온 레드벨벳’ 방송이 다시 인기를 모으고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 방송에서 아이린은 “섹시 포즈를 잡아 달라”는 정형돈의 말에 다리를 찢는 동작을 취했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 정형돈과 데프콘은 “너무 옛날 거야. 너 나이 좀 있지. 90년대 조혜련이 한 포즈다”라며 놀렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 자막에 ‘배주현(25)/연예인 이름:아이린’으로 표기됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이린은 1991년 생으로 94~99년 생인 다른 멤버 네 명보다 나이가 가장 많다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "섹시 포즈 잡다가 나이 드러난 아이린",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

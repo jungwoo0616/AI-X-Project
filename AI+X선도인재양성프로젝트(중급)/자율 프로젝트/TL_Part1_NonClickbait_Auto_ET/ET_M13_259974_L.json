@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259974",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘아침&’ 새 앵커에 김하은 아나운서",
+		"newsSubTitle": "",
+		"newsContent": "JTBC가 낮 시간 보도 프로그램을 개편한다.\nJTBC는 “한 달여 앞으로 다가온 대선에 대한 관심도가 높아지고 관련 뉴스 수요가 폭증하는 상황에서 더 빠르고 정확한 뉴스를 전달하기 위해 개편을 단행하게 됐다”고 3일 전했다.\n오는 7일부터 적용되는 개편에 따르면, 뉴스 프로그램 ‘아침&’은 김하은 아나운서가 새 앵커로 나선다.\n방송 시간도 오전 6시 55분으로 전보다 25분 앞당긴다.\n주말에 방송되던 ‘이 시각 뉴스룸’은 평일에도 신설돼 매주 월요일부터 금요일까지 오후 3시부터 10분간 방송된다.\n진행은 황남희 아나운서가 맡는다. ‘썰전 라이브’와 ‘사건반장’은 각각 오후 3시 10분, 6시 10분으로 방송 시간대를 옮긴다. ‘썰전 라이브’는 각 대선 캠프 선대위 등 정치인 인터뷰를 늘리고 JTBC 정치부장을 역임한 워싱턴 특파원 출신 임종주 전문위원을 투입하는 등 대선 관련 뉴스를 강화한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC가 낮 시간 보도 프로그램을 개편한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JTBC는 “한 달여 앞으로 다가온 대선에 대한 관심도가 높아지고 관련 뉴스 수요가 폭증하는 상황에서 더 빠르고 정확한 뉴스를 전달하기 위해 개편을 단행하게 됐다”고 3일 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오는 7일부터 적용되는 개편에 따르면, 뉴스 프로그램 ‘아침&’은 김하은 아나운서가 새 앵커로 나선다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송 시간도 오전 6시 55분으로 전보다 25분 앞당긴다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주말에 방송되던 ‘이 시각 뉴스룸’은 평일에도 신설돼 매주 월요일부터 금요일까지 오후 3시부터 10분간 방송된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "진행은 황남희 아나운서가 맡는다. ‘썰전 라이브’와 ‘사건반장’은 각각 오후 3시 10분, 6시 10분으로 방송 시간대를 옮긴다. ‘썰전 라이브’는 각 대선 캠프 선대위 등 정치인 인터뷰를 늘리고 JTBC 정치부장을 역임한 워싱턴 특파원 출신 임종주 전문위원을 투입하는 등 대선 관련 뉴스를 강화한다.",
+				"sentenceSize": 168
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘아침&’ 새 앵커에 김하은 아나운서",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

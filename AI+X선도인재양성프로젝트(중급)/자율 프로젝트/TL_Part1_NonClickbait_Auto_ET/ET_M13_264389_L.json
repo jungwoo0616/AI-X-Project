@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264389",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "스윙스 “랠리포인트 폐업…추억들 기억하겠다”",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 스윙스가 전 여자친구와 개업했던 카페의 폐업 소식을 알렸다.\n스윙스는 지난 19일 자신의 사회관계망서비스(SNS)를 통해 “오는 31일을 마지막으로 사랑하는 랠리포인트를 폐업한다”고 밝혔다.\n이어 “그동안 사랑해 주신 분들 너무 감사드린다”며 “정말 많은 추억들이 만들어졌다. 평생 기억하겠다”라고 전했다.\n랠리포인트 측 또한 공식 인스타그램을 통해 “오는 31일을 마지막으로 영업을 마무리하게 됐다. 그동안 찾아와 주시고 사랑해주셔서 감사하다는 말씀 전하고 싶다. 이곳에서 쌓은 모든 추억은 감사한 마음으로 함께 가져가도록 하겠다”고 글을 올렸다.\n한편 스윙스는 지난 2019년 전 여자친구와 함께 서울시 마포구 동교동에 카페를 열었다.\n최근에는 지난해 매입한 건물의 리모델링 공사 시작 소식을 전하며 건물주가 됐다고 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 스윙스가 전 여자친구와 개업했던 카페의 폐업 소식을 알렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스윙스는 지난 19일 자신의 사회관계망서비스(SNS)를 통해 “오는 31일을 마지막으로 사랑하는 랠리포인트를 폐업한다”고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “그동안 사랑해 주신 분들 너무 감사드린다”며 “정말 많은 추억들이 만들어졌다. 평생 기억하겠다”라고 전했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "랠리포인트 측 또한 공식 인스타그램을 통해 “오는 31일을 마지막으로 영업을 마무리하게 됐다. 그동안 찾아와 주시고 사랑해주셔서 감사하다는 말씀 전하고 싶다. 이곳에서 쌓은 모든 추억은 감사한 마음으로 함께 가져가도록 하겠다”고 글을 올렸다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 스윙스는 지난 2019년 전 여자친구와 함께 서울시 마포구 동교동에 카페를 열었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근에는 지난해 매입한 건물의 리모델링 공사 시작 소식을 전하며 건물주가 됐다고 알렸다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스윙스 “랠리포인트 폐업…추억들 기억하겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

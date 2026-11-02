@@ -1,0 +1,4 @@
+﻿"모델(기본형, PM10제외)",RMSE_useAll,R2score_useAll,RMSE_removeNAN,R2score_removeNAN,RMSE_useSelected,R2score_useSelected
+RandomForest,18.856,0.357,19.376,0.321,19.513,0.311
+XGBRegressor,19.652,0.301,20.873,0.212,18.904,0.353
+LGBMRegressor,19.051,0.343,19.129,0.338,20.151,0.265

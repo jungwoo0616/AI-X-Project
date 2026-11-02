@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277399",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "트와이스 지효, 10년 전 오디션 당시 미모",
+		"newsSubTitle": "",
+		"newsContent": "트와이스 지효의 인형같은 과거 사진이 공개됐다.\n최근 온라인커뮤니티를 통해 트와이스 지효의 10살 꼬마시절 사진이 공개됐다.\n공개된 사진에는 JYP오디션 당시 앳된 모습부터 연습생 시절의 발랄한 모습까지 다양한 모습이 담겼다.\n앞서 지효는 KBS2 해피투게더3에 출연해 아역 선발대회에서 2등을 한 뒤 초등학교 3학년 때 JYP 엔터테인먼트에 캐스팅됐다고 밝힌 바 있다.\n지효는 오디션 당시 발레복을 입고 \\\"발레리나가 꿈이다\\\"라며 똘망똘망한 눈으로 얘기했다.\n사진을 본 네티즌들은 \\\"역시 아역대회 출신이라 그런지 예쁘긴 한 듯\\\" \\\"몸만 컸네\\\" \\\"지금이랑 얼굴 완전 똑같아\\\"와 같은 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트와이스 지효의 인형같은 과거 사진이 공개됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인커뮤니티를 통해 트와이스 지효의 10살 꼬마시절 사진이 공개됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 JYP오디션 당시 앳된 모습부터 연습생 시절의 발랄한 모습까지 다양한 모습이 담겼다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 지효는 KBS2 해피투게더3에 출연해 아역 선발대회에서 2등을 한 뒤 초등학교 3학년 때 JYP 엔터테인먼트에 캐스팅됐다고 밝힌 바 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지효는 오디션 당시 발레복을 입고 \\\"발레리나가 꿈이다\\\"라며 똘망똘망한 눈으로 얘기했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진을 본 네티즌들은 \\\"역시 아역대회 출신이라 그런지 예쁘긴 한 듯\\\" \\\"몸만 컸네\\\" \\\"지금이랑 얼굴 완전 똑같아\\\"와 같은 반응을 보였다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 지효, 10년 전 오디션 당시 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

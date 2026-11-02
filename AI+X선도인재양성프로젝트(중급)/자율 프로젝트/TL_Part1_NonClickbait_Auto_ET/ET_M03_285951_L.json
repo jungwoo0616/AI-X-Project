@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285951",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "라디오쇼 도끼, 같이 음악해보자는 박명수 제안에…",
+		"newsSubTitle": "",
+		"newsContent": "'도끼' '라디오쇼 도끼' '도끼 박명수' 개그맨 박명수가 래퍼 도끼에게 러브콜을 보냈다.\n도끼는 15일 오전 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')에 출연해 재치있는 입담을 과시했다.\n박명수는 도끼에게 \\\"힙합 노래 가사에는 디스하는 내용이 많다. 혹시 도끼 노래에도 디스하는 가사가 있나?\\\"라고 물었다.\n이에 도끼는 \\\"나는 평화주의자이기 때문에 디스하는 가사는 쓰지 않는다\\\"고 밝혔다.\n이어 박명수는 도끼에게 \\\"그렇다면 반대로, 도끼를 디스하는 곡을 들을때는 어떤 생각이 드나?\\\"라고 물었고, 도끼는 \\\"별 생각 없이 웃어 넘긴다\\\"고 답했다.\n이날 박명수는 도끼에게 \\\"나와는 좀 안 맞는 사람인 것 같다\\\"며 농담을 던졌고, 마지막 인사를 전하며 \\\"음악 작업도 언제 한 번 같이 하는 것이 어떻겠느냐\\\"고 물었다.\n이에 도끼는 \\\"얼마든지\\\"라고 긍정적인 대답을 내놓았다.\n한편 이날 방송에서 도끼는 자신의 수입을 전격 공개해 화제가 됐다. '도끼' '라디오쇼 도끼' '도끼 박명수' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'도끼' '라디오쇼 도끼' '도끼 박명수' 개그맨 박명수가 래퍼 도끼에게 러브콜을 보냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "도끼는 15일 오전 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')에 출연해 재치있는 입담을 과시했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박명수는 도끼에게 \\\"힙합 노래 가사에는 디스하는 내용이 많다. 혹시 도끼 노래에도 디스하는 가사가 있나?\\\"라고 물었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 도끼는 \\\"나는 평화주의자이기 때문에 디스하는 가사는 쓰지 않는다\\\"고 밝혔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 박명수는 도끼에게 \\\"그렇다면 반대로, 도끼를 디스하는 곡을 들을때는 어떤 생각이 드나?\\\"라고 물었고, 도끼는 \\\"별 생각 없이 웃어 넘긴다\\\"고 답했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 박명수는 도끼에게 \\\"나와는 좀 안 맞는 사람인 것 같다\\\"며 농담을 던졌고, 마지막 인사를 전하며 \\\"음악 작업도 언제 한 번 같이 하는 것이 어떻겠느냐\\\"고 물었다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 도끼는 \\\"얼마든지\\\"라고 긍정적인 대답을 내놓았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이날 방송에서 도끼는 자신의 수입을 전격 공개해 화제가 됐다. '도끼' '라디오쇼 도끼' '도끼 박명수' 온라인 중앙일보",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라디오쇼 도끼, 같이 음악해보자는 박명수 제안에…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

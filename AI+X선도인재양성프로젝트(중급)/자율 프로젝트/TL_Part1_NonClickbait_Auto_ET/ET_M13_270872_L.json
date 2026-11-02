@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270872",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘아!나 프리해’ 이은지, 엄지척! 예능부장",
+		"newsSubTitle": "",
+		"newsContent": "코미디언 이은지가 MC이자 예능 부장으로 활약했다.\n지난 20일 MBN 예능 프로그램 ‘아!나 프리해’에 이은지가 MC로 출연. 프리 아나운서 6인과첫 만남이 그려졌다.\n이날 방송에서 이은지는 트월킹을 하면서 파격적으로 등장해 아나운서들의 웃음과 환호를 동시에 자아냈다.\n이어 예능 초보인 프리 아나운서들의 VCR 영상을 보며 남다른 예능 아이디어를 제안하며 프로그램의 분위기를 띄웠다.\n특히 갑작스럽게 등장한 원조 아나테이너 김현욱의 등장에는 격렬한 춤사위로 응대하며 특유의 밝은 에너지로 프로그램에 활기를 더해 예능 대세 대운 면모를 보여줬다.\n출연하는 프로그램마다 뜨거운 화제를 불러일으키고 있는 ‘예능 블루칩’ 이은지는 지난 2014년 tvN ‘코미디 빅리그’를 통해 개그우먼으로 데뷔했다.\n이후 이은지는 MBC ‘나 혼자 산다’를통해 현실감 있는 일상생활을 보여주며 ‘MZ세대 대표 아이콘’으로서 보는 이들의 관심을 증폭시켜 많은 사랑을 받고 있다.\n한편, 이은지가 출연하는 MBN 예능 프로그램 ‘아!나 프리해’는 매주 금요일 밤 11시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코미디언 이은지가 MC이자 예능 부장으로 활약했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일 MBN 예능 프로그램 ‘아!나 프리해’에 이은지가 MC로 출연. 프리 아나운서 6인과첫 만남이 그려졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 이은지는 트월킹을 하면서 파격적으로 등장해 아나운서들의 웃음과 환호를 동시에 자아냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 예능 초보인 프리 아나운서들의 VCR 영상을 보며 남다른 예능 아이디어를 제안하며 프로그램의 분위기를 띄웠다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 갑작스럽게 등장한 원조 아나테이너 김현욱의 등장에는 격렬한 춤사위로 응대하며 특유의 밝은 에너지로 프로그램에 활기를 더해 예능 대세 대운 면모를 보여줬다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "출연하는 프로그램마다 뜨거운 화제를 불러일으키고 있는 ‘예능 블루칩’ 이은지는 지난 2014년 tvN ‘코미디 빅리그’를 통해 개그우먼으로 데뷔했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 이은지는 MBC ‘나 혼자 산다’를통해 현실감 있는 일상생활을 보여주며 ‘MZ세대 대표 아이콘’으로서 보는 이들의 관심을 증폭시켜 많은 사랑을 받고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 이은지가 출연하는 MBN 예능 프로그램 ‘아!나 프리해’는 매주 금요일 밤 11시에 방송된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘아!나 프리해’ 이은지, 엄지척! 예능부장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

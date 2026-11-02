@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277028",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘올빽 헤어’로 파격 변신한 샤이니 멤버",
+		"newsSubTitle": "",
+		"newsContent": "‘샤이니’ 민호는 밀라노에서도 빛났다.\n지난 22일(현지 시각) 민호는 구찌의 첫 번째 남녀 통합 2017 가을겨울 컬렉션 패션쇼에 참석해 자리를 빛냈다.\n이날 민호는 한국 대표로 참석해 과감한 패션도 완벽 소화했다.\n민호는 화려한 동식물 자수가 장식된 블루 벨벳 코트를 입고 포마드를 바른 올빽 헤어 스타일로 남성미를 강조했다.\n애프터 파티에서는 핑크 컬러 니트에 브라운 재킷, 파스텔톤 슬랙스로 댄디한 매력을 뽐냈다.\n이번 쇼는 밀라노에 새롭게 마련된 구찌 본사에서 처음 열린 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘샤이니’ 민호는 밀라노에서도 빛났다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일(현지 시각) 민호는 구찌의 첫 번째 남녀 통합 2017 가을겨울 컬렉션 패션쇼에 참석해 자리를 빛냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 민호는 한국 대표로 참석해 과감한 패션도 완벽 소화했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민호는 화려한 동식물 자수가 장식된 블루 벨벳 코트를 입고 포마드를 바른 올빽 헤어 스타일로 남성미를 강조했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애프터 파티에서는 핑크 컬러 니트에 브라운 재킷, 파스텔톤 슬랙스로 댄디한 매력을 뽐냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 쇼는 밀라노에 새롭게 마련된 구찌 본사에서 처음 열린 것으로 알려졌다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘올빽 헤어’로 파격 변신한 샤이니 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

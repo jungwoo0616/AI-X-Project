@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277982",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예,공연",
+		"newsTitle": "\\\"공연 도중 포켓몬은 잡지 말아주세요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "“휴대전화는 꺼주시거나 진동으로 해주세요.” 공연에 앞서 나가는 장내방송이다.\n그런데 앞으론 “포켓몬을 잡지 말아주세요”라는 문구를 더할 판이다.\n지난 23일(이하 현지시간) 프랑스 릴리의 피에르 모르아 스타디움에서 열린 미국의 팝 가수 리애나(Rihannaㆍ리한나)의 공연 도중 일이다.\n리애나는 팬들에게 공연에 좀 더 집중해달라고 부탁하면서 “남자친구나 여자친구에게 문자 보내지 말라. 포케몬을 잡지 말라”고 말했다.\n리한나 공연 포스터 리애나의 이런 호소는 한 팬이 공연 영상을 트위터에 올리면서 알려졌다.\n현재 이 영상은 삭제됐다.\n이 소식이 전해진 뒤 해외 사이트에선 “리애나가 농담을 한 거 같다”“일부 관중이 무례했다” 등 댓글이 달렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "“휴대전화는 꺼주시거나 진동으로 해주세요.” 공연에 앞서 나가는 장내방송이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그런데 앞으론 “포켓몬을 잡지 말아주세요”라는 문구를 더할 판이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 23일(이하 현지시간) 프랑스 릴리의 피에르 모르아 스타디움에서 열린 미국의 팝 가수 리애나(Rihannaㆍ리한나)의 공연 도중 일이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리애나는 팬들에게 공연에 좀 더 집중해달라고 부탁하면서 “남자친구나 여자친구에게 문자 보내지 말라. 포케몬을 잡지 말라”고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리한나 공연 포스터 리애나의 이런 호소는 한 팬이 공연 영상을 트위터에 올리면서 알려졌다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 이 영상은 삭제됐다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 소식이 전해진 뒤 해외 사이트에선 “리애나가 농담을 한 거 같다”“일부 관중이 무례했다” 등 댓글이 달렸다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"공연 도중 포켓몬은 잡지 말아주세요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

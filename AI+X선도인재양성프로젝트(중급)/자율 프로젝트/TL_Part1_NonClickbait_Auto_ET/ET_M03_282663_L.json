@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282663",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김우빈 수지, 수지의 숨겨진 볼륨감? '남심 초토화'",
+		"newsSubTitle": "",
+		"newsContent": "김우빈 수지, 수지의 숨겨진 볼륨감? \\\"청순한 줄만 알았는데\\\" 김우빈 수지가 화제인 가운데 과거 그녀의 사진이 덩달아 주목받고 있다.\n한 온라인커뮤니티에 과거 그녀의 사진이 올라왔다.\n사진 속 그녀는 매혹적인 자태로 카메라를 응시하고 있다.\n특히 그녀의 아찔하고 숨겨진 볼륨감이 보는 이들로 하여금 탄성을 자아냈다.\n한편 수지는 오는 2016년 방송 예정인 드라마 '함부로 애틋하게'에서 김우빈과 함께 호흡을 맞출 예정이다.\n온라인 중앙일보 김우빈 수지[사진 온라인 커뮤니티]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김우빈 수지, 수지의 숨겨진 볼륨감? \\\"청순한 줄만 알았는데\\\" 김우빈 수지가 화제인 가운데 과거 그녀의 사진이 덩달아 주목받고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 온라인커뮤니티에 과거 그녀의 사진이 올라왔다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그녀는 매혹적인 자태로 카메라를 응시하고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 그녀의 아찔하고 숨겨진 볼륨감이 보는 이들로 하여금 탄성을 자아냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 수지는 오는 2016년 방송 예정인 드라마 '함부로 애틋하게'에서 김우빈과 함께 호흡을 맞출 예정이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 김우빈 수지[사진 온라인 커뮤니티]",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김우빈 수지, 수지의 숨겨진 볼륨감? '남심 초토화'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

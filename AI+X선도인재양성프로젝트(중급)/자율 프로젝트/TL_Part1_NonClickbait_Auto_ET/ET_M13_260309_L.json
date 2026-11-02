@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260309",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "네이처, 오늘(8일) 바이브 ‘파티룸’ 출격",
+		"newsSubTitle": "",
+		"newsContent": "그룹 NATURE(네이처)가 바이브 ‘파티룸’에서 특별한 소통을 예고했다.\n네이처는 8일 밤 10시 네이버 인공지능(AI) 뮤직 서비스 바이브(VIBE)의 ‘파티룸’에 출연해 팬들과 만난다. ‘파티룸’은 뮤직 스트리밍과 VoIP(Voice over Internet Protocol)를 결합한 서비스로, 파티에 참여한 사람들이 함께 음악을 감상하고 실시간으로 음성 대화를 나눌 수 있다.\n이날 네이처는 ‘자체 제작 스페셜 앨범 리뷰’라는 주제로 앨범에 대한 다양한 이야기를 들려준다.\n새 앨범 ‘RICA RICA(리카 리카)’ 제작 과정에 대한 비하인드 스토리를 공유할 뿐만 아니라, 오래 기다려준 리프(팬덤명)와 한층 가깝게 소통하며 ‘파티룸’을 살뜰히 채울 예정이다.\n또 타이틀곡 ‘RICA RICA’부터 수록곡 ‘버팀목(Dear Leaf)’ 등 멤버들이 직접 전하는 리뷰는 물론, 생생한 라이브까지 예고해 기대를 높이고 있다.\n최근 스페셜 앨범 ‘RICA RICA’로 1년 6개월 만에 컴백한 네이처는 지금까지 보여준 적 없는 파격적인 장르 변신을 선보이며 활발한 음악 활동을 펼치고 있다.\n특히 자체 제작 모큐멘터리 ‘네이처 이대로 처 망할 수 없다’를 통해 ‘RICA RICA’ 제작기를 공개하며 신선한 컴백 행보를 선보였다.\n한편 네이처가 출연하는 바이브 ‘파티룸’은 8일 밤 10시에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 NATURE(네이처)가 바이브 ‘파티룸’에서 특별한 소통을 예고했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이처는 8일 밤 10시 네이버 인공지능(AI) 뮤직 서비스 바이브(VIBE)의 ‘파티룸’에 출연해 팬들과 만난다. ‘파티룸’은 뮤직 스트리밍과 VoIP(Voice over Internet Protocol)를 결합한 서비스로, 파티에 참여한 사람들이 함께 음악을 감상하고 실시간으로 음성 대화를 나눌 수 있다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 네이처는 ‘자체 제작 스페셜 앨범 리뷰’라는 주제로 앨범에 대한 다양한 이야기를 들려준다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새 앨범 ‘RICA RICA(리카 리카)’ 제작 과정에 대한 비하인드 스토리를 공유할 뿐만 아니라, 오래 기다려준 리프(팬덤명)와 한층 가깝게 소통하며 ‘파티룸’을 살뜰히 채울 예정이다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 타이틀곡 ‘RICA RICA’부터 수록곡 ‘버팀목(Dear Leaf)’ 등 멤버들이 직접 전하는 리뷰는 물론, 생생한 라이브까지 예고해 기대를 높이고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 스페셜 앨범 ‘RICA RICA’로 1년 6개월 만에 컴백한 네이처는 지금까지 보여준 적 없는 파격적인 장르 변신을 선보이며 활발한 음악 활동을 펼치고 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 자체 제작 모큐멘터리 ‘네이처 이대로 처 망할 수 없다’를 통해 ‘RICA RICA’ 제작기를 공개하며 신선한 컴백 행보를 선보였다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 네이처가 출연하는 바이브 ‘파티룸’은 8일 밤 10시에 만나볼 수 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이처, 오늘(8일) 바이브 ‘파티룸’ 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

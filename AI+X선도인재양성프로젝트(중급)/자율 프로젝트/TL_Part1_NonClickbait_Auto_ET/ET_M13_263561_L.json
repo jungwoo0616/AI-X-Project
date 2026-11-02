@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263561",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "박재범X아이유 오늘(11일) ‘GANADARA’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "가수 박재범이 뮤직비디오 티저를 공개하며 신곡에 대한 기대감을 높였다.\n박재범의 새 디지털 싱글 ‘GANADARA(가나다라) (Feat. 아이유)’는 11일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.\n발매에 앞선 지난 10일, 11일에는 MORE VISION(모어비전) 공식 SNS를 통해 ‘GANADARA (Feat. 아이유)’ 뮤직비디오 티저 1, 2편이 공개되며 신곡에 대한 기대감을 높였다.\n첫 번째 티저에서는 박재범이 아이유에게 직접 전화를 거는 모습이 그려지며 피처링 협업이 성사됐음을 암시했다.\n이어 두 번째 티저에서는 뮤직비디오 촬영 현장에 아이유가 나타나지 않아 당황하는 박재범의 모습이 연출되며 뮤직비디오 본편에 대한 궁금증을 더했다. ‘GANADARA (Feat. 아이유)’는 박재범이 새 엔터테인먼트사 MORE VISION(모어비전)을 설립하고 발매하는 첫 번째 싱글이다.\n특히 피처링 아티스트로 아이유가 참여하면서 두 아티스트의 첫 번째 컬래버레이션에 이목이 쏠렸다.\n한편 박재범의 새 디지털 싱글 ‘GANADARA (Feat. 아이유)’는 11일 오후 6시부터 전 온라인 음원 사이트를 통해 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박재범이 뮤직비디오 티저를 공개하며 신곡에 대한 기대감을 높였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박재범의 새 디지털 싱글 ‘GANADARA(가나다라) (Feat. 아이유)’는 11일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "발매에 앞선 지난 10일, 11일에는 MORE VISION(모어비전) 공식 SNS를 통해 ‘GANADARA (Feat. 아이유)’ 뮤직비디오 티저 1, 2편이 공개되며 신곡에 대한 기대감을 높였다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "첫 번째 티저에서는 박재범이 아이유에게 직접 전화를 거는 모습이 그려지며 피처링 협업이 성사됐음을 암시했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 두 번째 티저에서는 뮤직비디오 촬영 현장에 아이유가 나타나지 않아 당황하는 박재범의 모습이 연출되며 뮤직비디오 본편에 대한 궁금증을 더했다. ‘GANADARA (Feat. 아이유)’는 박재범이 새 엔터테인먼트사 MORE VISION(모어비전)을 설립하고 발매하는 첫 번째 싱글이다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 피처링 아티스트로 아이유가 참여하면서 두 아티스트의 첫 번째 컬래버레이션에 이목이 쏠렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 박재범의 새 디지털 싱글 ‘GANADARA (Feat. 아이유)’는 11일 오후 6시부터 전 온라인 음원 사이트를 통해 감상할 수 있다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박재범X아이유 오늘(11일) ‘GANADARA’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

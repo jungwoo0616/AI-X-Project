@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259646",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "원위 콘서트, 일반 예매 1분만에 매진",
+		"newsSubTitle": "",
+		"newsContent": "실력파 보이밴드 원위(ONEWE)의 단독 콘서트가 일반 예매 오픈 1분 만에 매진됐다.\n원위(용훈·강현·하린·동명·키아)는 지난 27일 두 번째 라이브 콘서트 ‘O! NEW E!volution Ⅱ’의 일반 예매를 진행한 가운데, 전석이 1분 만에 매진되며 뜨거운 인기를 입증했다.\n이번 공연은 지난해 3월 진행한 ‘STUDIO WE : LIVE #6 [ONEWE? or ONEWE!]’ 이후 11개월 만이자, 온·오프라인으로 동시 진행되는 만큼 원위를 향한 팬들의 큰 사랑을 실감케 한다.\n이에 원위 멤버들 역시 ‘O! NEW E!volution Ⅱ’를 통해 한층 더 업그레이드된 보컬과 퍼포먼스 실력을 보여 준다는 각오다.\n콘서트에서만 만날 수 있는 원위표 대체불가한 밴드 퍼포먼스는 물론 스페셜 무대로 색다른 볼거리를 선사할 예정이다.\n특히, 원위는 세트리스트를 비롯해 무대 구성과 기획 등에도 적극적으로 아이디어를 제시하며 완성도 높은 공연을 꾸미기 위해 만반의 준비를 하고 있는 것으로 알려져 기대감을 높인다.\n한편, 원위의 두 번째 라이브 콘서트 ‘O! NEW E!volution Ⅱ’는 다음달 12일 서울 광진구 YES24 라이브홀에서 온·오프라인으로 동시 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실력파 보이밴드 원위(ONEWE)의 단독 콘서트가 일반 예매 오픈 1분 만에 매진됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원위(용훈·강현·하린·동명·키아)는 지난 27일 두 번째 라이브 콘서트 ‘O! NEW E!volution Ⅱ’의 일반 예매를 진행한 가운데, 전석이 1분 만에 매진되며 뜨거운 인기를 입증했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공연은 지난해 3월 진행한 ‘STUDIO WE : LIVE #6 [ONEWE? or ONEWE!]’ 이후 11개월 만이자, 온·오프라인으로 동시 진행되는 만큼 원위를 향한 팬들의 큰 사랑을 실감케 한다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 원위 멤버들 역시 ‘O! NEW E!volution Ⅱ’를 통해 한층 더 업그레이드된 보컬과 퍼포먼스 실력을 보여 준다는 각오다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "콘서트에서만 만날 수 있는 원위표 대체불가한 밴드 퍼포먼스는 물론 스페셜 무대로 색다른 볼거리를 선사할 예정이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히, 원위는 세트리스트를 비롯해 무대 구성과 기획 등에도 적극적으로 아이디어를 제시하며 완성도 높은 공연을 꾸미기 위해 만반의 준비를 하고 있는 것으로 알려져 기대감을 높인다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 원위의 두 번째 라이브 콘서트 ‘O! NEW E!volution Ⅱ’는 다음달 12일 서울 광진구 YES24 라이브홀에서 온·오프라인으로 동시 진행된다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원위 콘서트, 일반 예매 1분만에 매진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

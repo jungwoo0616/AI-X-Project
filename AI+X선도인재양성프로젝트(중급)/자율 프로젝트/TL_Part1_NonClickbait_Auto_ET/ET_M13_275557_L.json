@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275557",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "강기영, 박은빈보다 귀여운 정명석 변호사",
+		"newsSubTitle": "",
+		"newsContent": "배우 강기영이 ‘이상한 변호사 우영우’ 현장 사진을 공개했다.\n강기영은 14일 자신의 사회관계망서비스(SNS)에 “에피소드 6”이라는 글과 함께 사진을 게재했다.\n공개한 사진은 ‘이상한 변호사 우영우’에 출연 중인 강기영, 박은빈, 하윤경, 그리고 6화에서 탈북민 계향심 역을 맡은 김히어라가 나란히 서 포즈를 취했다.\n특히 강기영은 발랄한 꽃받침 포즈로 박은빈에게 밀리지 않는 귀여움을 선보였다.\n한편 강기영은 ‘이상한 변호사 우영우’에서 정명석 변호사 역으로 열연을 펼치고 있다.\n신입 변호사 우영우의 든든한 멘토로 ‘서브 아빠’, ‘오피스 대디’라는 별명을 얻으며 대세로 떠올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강기영이 ‘이상한 변호사 우영우’ 현장 사진을 공개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강기영은 14일 자신의 사회관계망서비스(SNS)에 “에피소드 6”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진은 ‘이상한 변호사 우영우’에 출연 중인 강기영, 박은빈, 하윤경, 그리고 6화에서 탈북민 계향심 역을 맡은 김히어라가 나란히 서 포즈를 취했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 강기영은 발랄한 꽃받침 포즈로 박은빈에게 밀리지 않는 귀여움을 선보였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 강기영은 ‘이상한 변호사 우영우’에서 정명석 변호사 역으로 열연을 펼치고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신입 변호사 우영우의 든든한 멘토로 ‘서브 아빠’, ‘오피스 대디’라는 별명을 얻으며 대세로 떠올랐다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강기영, 박은빈보다 귀여운 정명석 변호사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

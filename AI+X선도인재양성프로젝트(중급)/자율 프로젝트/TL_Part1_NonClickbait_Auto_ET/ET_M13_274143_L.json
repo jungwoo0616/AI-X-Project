@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274143",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김희재 소속사, 공연기획사 상대 계약무효 소송",
+		"newsSubTitle": "",
+		"newsContent": "가수 김희재의 소속사 스카이이앤엠이 공연 기획사를 상대로 계약무효소송을 제기했다.\n가수 김희재의 소속사 스카이이앤엠은 “지난 24일 모코 ENT를 상대로 계약 무효를 내용으로 한 소장을 서울동부지법에 접수했다”고 밝혔다.\n모코 ENT는 김희재의 팬콘서트·전국투어 공연 기획사로 계약을 체결한 바 있다.\n소장에 따르면 “모코 ENT는 서울 공연 2회(7월 9일, 7월 10일), 부산 공연 2회(7월 23일, 7월 24일), 광주 공연 2회(7월 30일, 7월 31일), 창원 공연 2회(8월 6일, 8월 7일)까지 총 8회 공연 중 5회 공연에 대한 출연료를 가수에게 지급해야 하는 계약상 의무에도 납기일까지 지급하지 않았다”고 했다.\n이에 스카이이앤엠은 “지난 13일 내용 증명을 모코 ENT에 지급이행을 요청했으나, 현재까지도 아티스트의 출연료를 지급받지 못한 상황”이라고 전했다.\n스카이이앤엠은 “첫 정규 앨범 발표시점과 맞물려 이런 불미스러운 일이 발생해 팬 분들께 송구하다”며 “가수 김희재의 정당한 권리를 찾기위해 계속 노력하겠다”고 밝혔다.\n한편 김희재는 오늘 27일 오후 6시 음원 사이트를 통해 첫 정규 앨범 ‘희재(熙栽)’를 발표하고 활동에 나선다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김희재의 소속사 스카이이앤엠이 공연 기획사를 상대로 계약무효소송을 제기했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가수 김희재의 소속사 스카이이앤엠은 “지난 24일 모코 ENT를 상대로 계약 무효를 내용으로 한 소장을 서울동부지법에 접수했다”고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모코 ENT는 김희재의 팬콘서트·전국투어 공연 기획사로 계약을 체결한 바 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소장에 따르면 “모코 ENT는 서울 공연 2회(7월 9일, 7월 10일), 부산 공연 2회(7월 23일, 7월 24일), 광주 공연 2회(7월 30일, 7월 31일), 창원 공연 2회(8월 6일, 8월 7일)까지 총 8회 공연 중 5회 공연에 대한 출연료를 가수에게 지급해야 하는 계약상 의무에도 납기일까지 지급하지 않았다”고 했다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 스카이이앤엠은 “지난 13일 내용 증명을 모코 ENT에 지급이행을 요청했으나, 현재까지도 아티스트의 출연료를 지급받지 못한 상황”이라고 전했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스카이이앤엠은 “첫 정규 앨범 발표시점과 맞물려 이런 불미스러운 일이 발생해 팬 분들께 송구하다”며 “가수 김희재의 정당한 권리를 찾기위해 계속 노력하겠다”고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김희재는 오늘 27일 오후 6시 음원 사이트를 통해 첫 정규 앨범 ‘희재(熙栽)’를 발표하고 활동에 나선다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김희재 소속사, 공연기획사 상대 계약무효 소송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

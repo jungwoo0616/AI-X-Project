@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264168",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송가인, 트롯스타 31주 연속 1위 ‘대기록’",
+		"newsSubTitle": "",
+		"newsContent": "가수 송가인이 트롯스타 투표에서 31주 연속 1위를 차지했다.\n송가인은 지난 3월 10일부터 17일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 68,323표를 획득해 1위를 차지했다.\n31주 연속 정상에 이름을 올리며 막강한 영향력과 위상을 입증했다.\n송가인은 팬들과 주위의 의견을 모두 취합해 오는 23일에 올해 첫 번째 단독 콘서트가 진행될 장소와 시간 등 세부 사안을 공개한다고 밝히며 관심을 집중시키기도 했다.\n이번 콘서트는 서울, 인천, 광주, 대구 중 한 곳에서 시작된다.\n송가인 역시 오랜만의 팬들과의 만남을 위해 다채로운 무대를 준비 중이다.\n또, 송가인은 7회 연속 AGAIN(팬클럽명)이 제작한 옥외 광고판 특전을 획득해 뜨거운 반응을 불러일으킨 바 있다.\nAGAIN은 최근 경북 울진, 강원, 삼척 등 산불 피해 지역을 위해 전국재해구호협회에 2500여 만원을 기부하며 선한 영향력을 펼쳤다.\n송가인은 컴백과 단독 콘서트를 위해 박차를 가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 송가인이 트롯스타 투표에서 31주 연속 1위를 차지했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송가인은 지난 3월 10일부터 17일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 68,323표를 획득해 1위를 차지했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "31주 연속 정상에 이름을 올리며 막강한 영향력과 위상을 입증했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송가인은 팬들과 주위의 의견을 모두 취합해 오는 23일에 올해 첫 번째 단독 콘서트가 진행될 장소와 시간 등 세부 사안을 공개한다고 밝히며 관심을 집중시키기도 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 콘서트는 서울, 인천, 광주, 대구 중 한 곳에서 시작된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송가인 역시 오랜만의 팬들과의 만남을 위해 다채로운 무대를 준비 중이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또, 송가인은 7회 연속 AGAIN(팬클럽명)이 제작한 옥외 광고판 특전을 획득해 뜨거운 반응을 불러일으킨 바 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AGAIN은 최근 경북 울진, 강원, 삼척 등 산불 피해 지역을 위해 전국재해구호협회에 2500여 만원을 기부하며 선한 영향력을 펼쳤다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "송가인은 컴백과 단독 콘서트를 위해 박차를 가하고 있다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송가인, 트롯스타 31주 연속 1위 ‘대기록’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

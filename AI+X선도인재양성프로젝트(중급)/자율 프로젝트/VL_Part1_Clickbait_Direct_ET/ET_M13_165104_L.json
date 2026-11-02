@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165104",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "류의현, 티빙 오리지널 ‘어른연습생’ 합류",
+    "newsSubTitle": "",
+    "newsContent": "배우 류의현이 OTT 채널 티빙의 오리지널 ‘어른연습생’에 출연한다. 21일 류의현의 소속사 웨이즈컴퍼니는 “류의현이 ‘어른연습생’에서 남자 주인공 재민 역을 맡아 로맨틱 코미디의 색다른 재미를 선사할 예정”이라고 밝혔다.\n총 3편(7회)의 옴니버스로 구성된 ‘어른연습생’은 하이틴 드라마의 전형성을 벗어나 몸이 먼저 커버린 10대들의 거침없는 연애담을 다채롭게 그렸다.\n극중 류의현은 극중 짝사랑 소녀 예경의 마음을 얻기 위해 고군분투한다.\n스킨십에는 예민해도 사랑에는 진심인 재민의 순애보가 돋보일 예정이다.\n류의현은 지난 4월 막을 내린 KBS2 드라마 ‘달이 뜨는 강’에서 극중 평강(김소현)의 절친이자 의리남 타라산으로 분해 마지막까지 평강을 돕는 모습으로 눈도장을 찍었다.\n또한 플레이리스트의 디지털 드라마 ‘에이틴 시즌 1, 2’에서는 차기현 역을 맡아 능청스러운 연기도 선보였다.\n거친 계절을 지나는 열여덟 청춘들의 고민과 사랑을 다룬 ‘어른연습생’은 재민 편을 시작으로 다음 달 12일부터 티빙에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 류의현이 OTT 채널 티빙의 오리지널 ‘어른연습생’에 출연한다. 21일 류의현의 소속사 웨이즈컴퍼니는 “류의현이 ‘어른연습생’에서 남자 주인공 재민 역을 맡아 로맨틱 코미디의 색다른 재미를 선사할 예정”이라고 밝혔다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "총 3편(7회)의 옴니버스로 구성된 ‘어른연습생’은 하이틴 드라마의 전형성을 벗어나 몸이 먼저 커버린 10대들의 거침없는 연애담을 다채롭게 그렸다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극중 류의현은 극중 짝사랑 소녀 예경의 마음을 얻기 위해 고군분투한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스킨십에는 예민해도 사랑에는 진심인 재민의 순애보가 돋보일 예정이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "류의현은 지난 4월 막을 내린 KBS2 드라마 ‘달이 뜨는 강’에서 극중 평강(김소현)의 절친이자 의리남 타라산으로 분해 마지막까지 평강을 돕는 모습으로 눈도장을 찍었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 플레이리스트의 디지털 드라마 ‘에이틴 시즌 1, 2’에서는 차기현 역을 맡아 능청스러운 연기도 선보였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "거친 계절을 지나는 열여덟 청춘들의 고민과 사랑을 다룬 ‘어른연습생’은 재민 편을 시작으로 다음 달 12일부터 티빙에서 공개된다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "로맨틱 코미디의 색다른 재미 담은 티빙 오리지널 ‘어른연습생’ 합류",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

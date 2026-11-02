@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274025",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이달의 소녀, 美뉴욕 타임스퀘어 떴다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 이달의 소녀(LOONA)가 미국 뉴욕 타임스퀘어를 점령했다.\n25일 글로벌 케이팝 팬덤 플랫폼 ‘후즈팬(Whosfan)’에 따르면 미국 뉴욕 타임스퀘어의 대형 전광판에 이달의 소녀 서머 스페셜 미니 앨범 ‘Flip That’의 콘셉트 포토 및 뮤직비디오 장면이 광고로 송출된다.\n이달의 소녀는 타임스퀘어의 심장부로 알려져 있는 ‘tkts’의 바로 옆 가로 길이 약 47m, 세로 길이 약 28m 가량의 대형 전광판에 등장해 현지 팬들의 눈길을 사로잡았다.\n본 광고는 이달의 소녀의 컴백을 기념해 ‘후즈팬’이 프로모션의 일환으로 선물한 것이다.\n현지 시각 기준 지난 20일부터 오는 26일까지 일주일간 장식한다.\n신보 ‘Flip That’은 완전체 데뷔 후 이달의 소녀가 처음으로 발매하는 여름 시즌 앨범이다.\n이달의 소녀만의 청량하고 몽환적인 색깔을 담아냈다.\n한편, 이달의 소녀는 이번 신보로 초동 집계 이틀 만에 커리어 하이를 달성, 국내외 차트를 휩쓸고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 이달의 소녀(LOONA)가 미국 뉴욕 타임스퀘어를 점령했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 글로벌 케이팝 팬덤 플랫폼 ‘후즈팬(Whosfan)’에 따르면 미국 뉴욕 타임스퀘어의 대형 전광판에 이달의 소녀 서머 스페셜 미니 앨범 ‘Flip That’의 콘셉트 포토 및 뮤직비디오 장면이 광고로 송출된다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이달의 소녀는 타임스퀘어의 심장부로 알려져 있는 ‘tkts’의 바로 옆 가로 길이 약 47m, 세로 길이 약 28m 가량의 대형 전광판에 등장해 현지 팬들의 눈길을 사로잡았다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "본 광고는 이달의 소녀의 컴백을 기념해 ‘후즈팬’이 프로모션의 일환으로 선물한 것이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현지 시각 기준 지난 20일부터 오는 26일까지 일주일간 장식한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신보 ‘Flip That’은 완전체 데뷔 후 이달의 소녀가 처음으로 발매하는 여름 시즌 앨범이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이달의 소녀만의 청량하고 몽환적인 색깔을 담아냈다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 이달의 소녀는 이번 신보로 초동 집계 이틀 만에 커리어 하이를 달성, 국내외 차트를 휩쓸고 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이달의 소녀, 美뉴욕 타임스퀘어 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

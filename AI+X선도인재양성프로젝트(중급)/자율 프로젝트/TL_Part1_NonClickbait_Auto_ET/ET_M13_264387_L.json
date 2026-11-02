@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264387",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신보라, 벌써 출산…육아 중인 일상 공개",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 신보라가 육아 중인 일상을 공개했다.\n신보라는 19일 자신의 SNS 인스타그램을 통해 “이상VS일상”이라면서 영상을 게재했다.\n영상 속에는 육아에 여념 없는 신보라의 일상이 담겨있다.\n아기와 함께 누워 아기의 모습을 촬영 중인 신보라의 얼굴에는 미소가 끊이질 않았다.\n신보라와 붕어빵 외모를 자랑하는 똘망똘망한 아기의 모습이 눈길을 끌었따. 한편 신보라는 지난 2019년 비연예인 남편과 결혼 후 미국 뉴저지에서 생활 중이다.\n신보라는 지난해 7월 잠시 귀국했다면서 직접 임신 소식을 전해 많은 축하를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 신보라가 육아 중인 일상을 공개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신보라는 19일 자신의 SNS 인스타그램을 통해 “이상VS일상”이라면서 영상을 게재했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에는 육아에 여념 없는 신보라의 일상이 담겨있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아기와 함께 누워 아기의 모습을 촬영 중인 신보라의 얼굴에는 미소가 끊이질 않았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신보라와 붕어빵 외모를 자랑하는 똘망똘망한 아기의 모습이 눈길을 끌었따. 한편 신보라는 지난 2019년 비연예인 남편과 결혼 후 미국 뉴저지에서 생활 중이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신보라는 지난해 7월 잠시 귀국했다면서 직접 임신 소식을 전해 많은 축하를 받았다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신보라, 벌써 출산…육아 중인 일상 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

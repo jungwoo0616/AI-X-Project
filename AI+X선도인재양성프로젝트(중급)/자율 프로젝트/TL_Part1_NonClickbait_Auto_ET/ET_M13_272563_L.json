@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272563",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "박지윤, 복귀 신고 “유희열의 스케치북에서 만나요”",
+		"newsSubTitle": "",
+		"newsContent": "가수 박지윤이 팬들에게 복귀를 신고했다.\n박지윤은 8일 자신의 사회관계망서비스(SNS)에 “유희열의 스케치북 녹화 잘 마쳤습니다. 이번주 금요일 밤에 만나요”라는 글과 함께 사진을 게재했다.\n공개된 사진은 박지윤이 KBS2 ‘유희열의 스케치북’ 녹화 중 노래를 부르는 모습이다.\n박지윤은 지난달 26일 싱글 앨범 ‘넌’을 발표했다.\n지난 2020년 10월 ‘나의 위험한 아내’ OST 이후 약 2년 만에 팬들을 찾았다.\n앞서 박지윤은 SNS를 통해 앨범 발매 소식을 알렸다.\n한편 박지윤은 1994년 데뷔해 ‘하늘색 꿈’, ‘성인식’ 등으로 당시 최고의 가수로 활동했고, 연기 활동도 병행했다.\n이후 2019년 카카오 전 대표 조수용과 결혼해 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박지윤이 팬들에게 복귀를 신고했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박지윤은 8일 자신의 사회관계망서비스(SNS)에 “유희열의 스케치북 녹화 잘 마쳤습니다. 이번주 금요일 밤에 만나요”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 박지윤이 KBS2 ‘유희열의 스케치북’ 녹화 중 노래를 부르는 모습이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박지윤은 지난달 26일 싱글 앨범 ‘넌’을 발표했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 2020년 10월 ‘나의 위험한 아내’ OST 이후 약 2년 만에 팬들을 찾았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 박지윤은 SNS를 통해 앨범 발매 소식을 알렸다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 박지윤은 1994년 데뷔해 ‘하늘색 꿈’, ‘성인식’ 등으로 당시 최고의 가수로 활동했고, 연기 활동도 병행했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 2019년 카카오 전 대표 조수용과 결혼해 화제를 모았다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박지윤, 복귀 신고 “유희열의 스케치북에서 만나요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

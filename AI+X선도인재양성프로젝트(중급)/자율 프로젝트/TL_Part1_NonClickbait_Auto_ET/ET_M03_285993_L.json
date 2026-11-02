@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285993",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이유 푸르던, '아이유 4번째 미니앨범 'CHAT-SHIRE(챗셔)'",
+		"newsSubTitle": "",
+		"newsContent": "가수 아이유가 4번째 미니앨범의 첫 번째 티저를 공개해 화제다.\n아이유의 소속사 로엔 측은 14일 자정, 공식 트위터를 통해 \\\"아이유 4번째 미니앨범 'CHAT-SHIRE(챗셔)' 첫 번째 티저 '푸르던'\\\"이라는 글과 함께 '푸르던'의 이미지를 게재했다.\n공개된 사진 속 아이유는 정면을 똑바로 응시하고 있으며 그의 얼굴 위로 '푸르던'이라는 글자가 새겨져 있어 팬들의 궁금증을 고조시키고 있다.\n또한 티저 영상에서는 마치 가을비가 내리는 듯한, 그리고 그 속에 서 있는 듯한 아이유의 모습과 함께 가을감성 가득한 멜로디가 흘러 이목을 끈다.\n앞서 아이유는 자신의 SNS에 'CHAT-SHIRE 10. 23'이라는 글과 함께 오드아이가 돋보이는 티저 사진을 공개, 신비로운 이미지를 선보인 바 있다.\n한편 아이유의 4번째 미니앨범 '챗셔'는 오는 23일 공개 예정이다. [사진 로엔 트위터] 온라인 중앙일보 아이유 푸르던",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 아이유가 4번째 미니앨범의 첫 번째 티저를 공개해 화제다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이유의 소속사 로엔 측은 14일 자정, 공식 트위터를 통해 \\\"아이유 4번째 미니앨범 'CHAT-SHIRE(챗셔)' 첫 번째 티저 '푸르던'\\\"이라는 글과 함께 '푸르던'의 이미지를 게재했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 아이유는 정면을 똑바로 응시하고 있으며 그의 얼굴 위로 '푸르던'이라는 글자가 새겨져 있어 팬들의 궁금증을 고조시키고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 티저 영상에서는 마치 가을비가 내리는 듯한, 그리고 그 속에 서 있는 듯한 아이유의 모습과 함께 가을감성 가득한 멜로디가 흘러 이목을 끈다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 아이유는 자신의 SNS에 'CHAT-SHIRE 10. 23'이라는 글과 함께 오드아이가 돋보이는 티저 사진을 공개, 신비로운 이미지를 선보인 바 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 아이유의 4번째 미니앨범 '챗셔'는 오는 23일 공개 예정이다. [사진 로엔 트위터] 온라인 중앙일보 아이유 푸르던",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유 푸르던, '아이유 4번째 미니앨범 'CHAT-SHIRE(챗셔)'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

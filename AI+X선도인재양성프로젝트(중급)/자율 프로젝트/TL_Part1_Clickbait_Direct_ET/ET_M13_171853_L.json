@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171853",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "에이프릴 출신 이나은, 나무액터스와 전속계약…구교환과 한솥밥",
+    "newsSubTitle": "",
+    "newsContent": "에이프릴 출신 이나은이 나무엑터스에 새 둥지를 틀었다.\n나무엑터스 측은 2일 스포츠경향과의 통화에서 “이나은과 최근 전속계약을 체결했다”고 밝혔다.\n이나은이 속해있던 에이프릴은 지난 1월 해체 소식을 전했다.\n이나은은 소속사 DSP와 계약을 해지한 뒤 나무액터스와 함께 일하며 가수가 아닌 연기 활동을 할 것으로 보인다.\n나무 액터스에는 이준기, 송강, 강기영, 구교환, 박은빈, 유준상 등 배우들이 소속돼있다.\n이나은은 지난 2019년 웹드라마 ‘에이틴’ 시리즈, MBC-TV ‘어쩌다 발견한 하루’ 등에서 배우로서 가능성을 선보였으며, SBS ‘모범택시’ 여주인공으로도 캐스팅 된 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에이프릴 출신 이나은이 나무엑터스에 새 둥지를 틀었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "나무엑터스 측은 2일 스포츠경향과의 통화에서 “이나은과 최근 전속계약을 체결했다”고 밝혔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이나은이 속해있던 에이프릴은 지난 1월 해체 소식을 전했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이나은은 소속사 DSP와 계약을 해지한 뒤 나무액터스와 함께 일하며 가수가 아닌 연기 활동을 할 것으로 보인다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나무 액터스에는 이준기, 송강, 강기영, 구교환, 박은빈, 유준상 등 배우들이 소속돼있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이나은은 지난 2019년 웹드라마 ‘에이틴’ 시리즈, MBC-TV ‘어쩌다 발견한 하루’ 등에서 배우로서 가능성을 선보였으며, SBS ‘모범택시’ 여주인공으로도 캐스팅 된 바 있다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이프릴 출신 '이 멤버', 새 둥지 찾았다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

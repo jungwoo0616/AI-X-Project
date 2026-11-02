@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276239",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "배우 김하늘, 28일 득녀…“산모와 아이 모두 건강”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김하늘이 딸 아이를 출산했다.\n28일 김하늘의 소속사인 싸이더스 HQ 은 이날 “김하늘이 서울 모처에서 딸을 출산했다”며 “산모와 아이 모두 건강하다”고 밝혔다.\n이어 “김하늘은 당분간 산후조리와 육아에 힘쓸 것”이라고 소속사 측은 전했다.\n김하늘은 지난 2016년 3월, 한 살 연상의 사업가와 1년의 열애 끝에 결혼식을 올렸다.\n이후 드라마 ‘공항가는 길’, 영화 ‘여교사’에 이어 지난해 ‘신과 함께:죄와 벌’에도 특별출연하며 활발히 활동했다.\n이어 지난해 10월 팬들에 임신 소식을 알리며 태교에 전념해왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김하늘이 딸 아이를 출산했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 김하늘의 소속사인 싸이더스 HQ 은 이날 “김하늘이 서울 모처에서 딸을 출산했다”며 “산모와 아이 모두 건강하다”고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “김하늘은 당분간 산후조리와 육아에 힘쓸 것”이라고 소속사 측은 전했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김하늘은 지난 2016년 3월, 한 살 연상의 사업가와 1년의 열애 끝에 결혼식을 올렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 드라마 ‘공항가는 길’, 영화 ‘여교사’에 이어 지난해 ‘신과 함께:죄와 벌’에도 특별출연하며 활발히 활동했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 지난해 10월 팬들에 임신 소식을 알리며 태교에 전념해왔다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 김하늘, 28일 득녀…“산모와 아이 모두 건강”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

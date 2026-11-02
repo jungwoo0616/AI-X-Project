@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171739",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "초아, 9일 온다[공식]",
+    "newsSubTitle": "",
+    "newsContent": "초아가 컴백한다.\n초아 소속사인 그레이트엠 엔터테인먼트는 31일 공식 인스타그램을 통해 초아 컴백을 암시하는 듯한 사진을 기습 공개했다.\n공개된 사진 속에는 따뜻한 컬러의 배경에 ‘2022.04.09 6PM(KST)’라는 날짜와 ‘CHOA(초아)’의 이름만이 적혀 있으며, 가운데 크게 자리한 데이지 꽃이 신곡 콘셉트에 대한 팬들의 궁금증을 자극한다.\n노래 제목과 콘셉트를 포함한 컴백 정보는 아직 베일에 싸여있지만, 이미지 속 문구를 통해 초아의 4월 9일 오후 6시 컴백을 공식화했다.\n초아의 이번 신곡은 복귀 후 발표하는 첫 솔로곡인 만큼 팬들의 다양한 기대와 추측이 이어지고 있다.\n한편, 그레이트엠 엔터테인먼트 측은 최근 초아가 신곡 뮤직비디오 촬영을 마쳤다고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "초아가 컴백한다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "초아 소속사인 그레이트엠 엔터테인먼트는 31일 공식 인스타그램을 통해 초아 컴백을 암시하는 듯한 사진을 기습 공개했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 따뜻한 컬러의 배경에 ‘2022.04.09 6PM(KST)’라는 날짜와 ‘CHOA(초아)’의 이름만이 적혀 있으며, 가운데 크게 자리한 데이지 꽃이 신곡 콘셉트에 대한 팬들의 궁금증을 자극한다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노래 제목과 콘셉트를 포함한 컴백 정보는 아직 베일에 싸여있지만, 이미지 속 문구를 통해 초아의 4월 9일 오후 6시 컴백을 공식화했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "초아의 이번 신곡은 복귀 후 발표하는 첫 솔로곡인 만큼 팬들의 다양한 기대와 추측이 이어지고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 그레이트엠 엔터테인먼트 측은 최근 초아가 신곡 뮤직비디오 촬영을 마쳤다고 밝혔다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그레이트엠 엔터테인먼트 초아 사진 기습 공개, 이것 암시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

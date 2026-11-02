@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259608",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "음콘협, 에버글로우 왕이런 ‘큰절’ 논란 화두",
+		"newsSubTitle": "",
+		"newsContent": "케이팝 산업 발전을 위해 설립된 사단법인 한국음악콘텐츠협회(이하 ‘음콘협’)가 에버글로우 왕이런의 큰절 논란에 “음악의 본질은 무엇인가”라는 의문을 제기했다.\n왕이런은 지난 2일 새해 맞이 개최한 팬 미팅에서 큰절을 하는 에버글로우 타 멤버들과 달리, 중국식 인사를 건네 논란에 휩싸였다.\n음콘협 최광호 사무총장은 “논란에 대한 다양한 의견은 존중하나, 케이팝 팬덤의 발전을 위해서는 음악의 본질이 무엇인가에 대해 생각해 볼 필요가 있다”고 전했다.\n즉, 정치나 이데올로기처럼 대립과 갈등을 유발하는 것이 아닌, 국가, 인종, 종교, 성별, 언어 등을 초월해 모두를 연결시키고 공감시키는 매개 역할을 하는 음악의 본질을 다시 한번 인식할 필요성을 제기했다.\n덧붙여, “좋은 음악을 통해 대립하고 있는 모든 것들에게 교류와 화합을 주는 것이 전세계가 케이팝 팬덤에게 바라고 있는 역할”이라고 설명했다.\n음콘협은 앞으로 모두를 선한 기운으로 연결시키는 음악의 본질에 충실한 케이팝 팬덤 문화 형성에 힘 쓰겠다는 의지를 표명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "케이팝 산업 발전을 위해 설립된 사단법인 한국음악콘텐츠협회(이하 ‘음콘협’)가 에버글로우 왕이런의 큰절 논란에 “음악의 본질은 무엇인가”라는 의문을 제기했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "왕이런은 지난 2일 새해 맞이 개최한 팬 미팅에서 큰절을 하는 에버글로우 타 멤버들과 달리, 중국식 인사를 건네 논란에 휩싸였다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "음콘협 최광호 사무총장은 “논란에 대한 다양한 의견은 존중하나, 케이팝 팬덤의 발전을 위해서는 음악의 본질이 무엇인가에 대해 생각해 볼 필요가 있다”고 전했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "즉, 정치나 이데올로기처럼 대립과 갈등을 유발하는 것이 아닌, 국가, 인종, 종교, 성별, 언어 등을 초월해 모두를 연결시키고 공감시키는 매개 역할을 하는 음악의 본질을 다시 한번 인식할 필요성을 제기했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "덧붙여, “좋은 음악을 통해 대립하고 있는 모든 것들에게 교류와 화합을 주는 것이 전세계가 케이팝 팬덤에게 바라고 있는 역할”이라고 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "음콘협은 앞으로 모두를 선한 기운으로 연결시키는 음악의 본질에 충실한 케이팝 팬덤 문화 형성에 힘 쓰겠다는 의지를 표명했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "음콘협, 에버글로우 왕이런 ‘큰절’ 논란 화두",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

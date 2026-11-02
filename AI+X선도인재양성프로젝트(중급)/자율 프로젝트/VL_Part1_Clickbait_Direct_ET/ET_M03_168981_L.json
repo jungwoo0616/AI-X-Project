@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168981",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "하지원, 대만 톱스타 진백림 출연 영화 '목숨 건 연애'로 호흡",
+    "newsSubTitle": "",
+    "newsContent": "하지원과 진백림이 영화 '목숨 건 연애'를 통해 만난다.\n하지원 측은 대만 배우 진백림이 캐스팅 확정된 영화 '목숨 건 연애' 출연 소식을 전했다.\n하지원은 현재 SBS 주말드라마 '너를 사랑한 시간'(이하 너사시)에 출연중이다.\n공교롭게도 '너사시' 원작인 대만드라마 '연애의 조건(아가능불회애니)'의 남자 주인공이 진백림이었다는 것에 눈길이 쏠린다. '목숨 건 연애'는 한·중 합작 프로젝트로 두 남녀의 러브스토리에 코미디, 스릴러까지 가미된 로맨스 물이다.\n한편 하지원과 진백림은 최근 SNS에 비슷한 사진을 올려 열애설이 불거졌다.\n그러나 하지원의 소속사 해와달 엔터테인먼트 관계자는 \\\"두 사람은 사귀는 사이가 이니다\\\"라며 열애설을 부인했다.\n온라인 중앙일보 '하지원 진백림'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "하지원과 진백림이 영화 '목숨 건 연애'를 통해 만난다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지원 측은 대만 배우 진백림이 캐스팅 확정된 영화 '목숨 건 연애' 출연 소식을 전했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지원은 현재 SBS 주말드라마 '너를 사랑한 시간'(이하 너사시)에 출연중이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공교롭게도 '너사시' 원작인 대만드라마 '연애의 조건(아가능불회애니)'의 남자 주인공이 진백림이었다는 것에 눈길이 쏠린다. '목숨 건 연애'는 한·중 합작 프로젝트로 두 남녀의 러브스토리에 코미디, 스릴러까지 가미된 로맨스 물이다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 하지원과 진백림은 최근 SNS에 비슷한 사진을 올려 열애설이 불거졌다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 하지원의 소속사 해와달 엔터테인먼트 관계자는 \\\"두 사람은 사귀는 사이가 이니다\\\"라며 열애설을 부인했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 '하지원 진백림'",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하지원, 한·중 합작 영화 '목숨 건 연애' 출연... 상대역은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

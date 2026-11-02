@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277520",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "설리 SNS에 올라온 사진 … ‘식물 학대’ 논쟁",
+		"newsSubTitle": "",
+		"newsContent": "최근 온라인 커뮤니티에 ‘설리 인스타 근황.jpg’라는 글이 올라와 이목을 끌고 있다. ‘한대***’이라는 아이디를 쓰는 네티즌은 설리의 인스타그램 사진을 캡처해서 올렸다.\n해당 사진에는 식물 잎사귀에 남성과 여성을 떠올리게 하는 그림이 그려져 있다.\n이 그림 위에는 별과 달이 그려져 있고 아래쪽에는 물결 혹은 미역을 연상시키는 ‘지렁이 무늬’ 7개가 세로 방향으로 그려졌다.\n게시자는 사진과 같이 캡처 된 댓글도 같이 올렸는데, 주된 내용은 한 ‘min***’이 올린 ‘설리의 행동은 살아있는 식물에 대한 학대 인가 아닌가’ 였다.\n이 네티즌은 “저는 식물학대라고 생각한다”며 “저렇게 해서 식물이 시들시들해 질 수도 있는 건 데 그게 학대가 아니라니…”라고 댓글을 달았다.\n이어 “종이도 아니고 살아있는 식물에, 엄연한 식물 학대다”, “숨구멍 막는 거랑 다름없다” 등의 댓글을 연이어 올렸다.\n이에 대해 반발하는 의견도 있었다 “벌초하는 거 보면 졸도하겠다, 플로리스트는 식물학살자고?” (h0w***), “님은 야채 못 먹겠네요. 야채가 당신의 더러운 입에 들어가는 거 자체가 그 어떤 학대보다도 크니까요”(viv***), “김장도 식물학대임?”(pa***), “이경규가 그랬죠 무식한데 신념을 가지면 무섭다고”(viv***) 등의 반대 의견을 달았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 온라인 커뮤니티에 ‘설리 인스타 근황.jpg’라는 글이 올라와 이목을 끌고 있다. ‘한대***’이라는 아이디를 쓰는 네티즌은 설리의 인스타그램 사진을 캡처해서 올렸다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해당 사진에는 식물 잎사귀에 남성과 여성을 떠올리게 하는 그림이 그려져 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 그림 위에는 별과 달이 그려져 있고 아래쪽에는 물결 혹은 미역을 연상시키는 ‘지렁이 무늬’ 7개가 세로 방향으로 그려졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "게시자는 사진과 같이 캡처 된 댓글도 같이 올렸는데, 주된 내용은 한 ‘min***’이 올린 ‘설리의 행동은 살아있는 식물에 대한 학대 인가 아닌가’ 였다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 네티즌은 “저는 식물학대라고 생각한다”며 “저렇게 해서 식물이 시들시들해 질 수도 있는 건 데 그게 학대가 아니라니…”라고 댓글을 달았다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “종이도 아니고 살아있는 식물에, 엄연한 식물 학대다”, “숨구멍 막는 거랑 다름없다” 등의 댓글을 연이어 올렸다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 대해 반발하는 의견도 있었다 “벌초하는 거 보면 졸도하겠다, 플로리스트는 식물학살자고?” (h0w***), “님은 야채 못 먹겠네요. 야채가 당신의 더러운 입에 들어가는 거 자체가 그 어떤 학대보다도 크니까요”(viv***), “김장도 식물학대임?”(pa***), “이경규가 그랬죠 무식한데 신념을 가지면 무섭다고”(viv***) 등의 반대 의견을 달았다.",
+				"sentenceSize": 202
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "설리 SNS에 올라온 사진 … ‘식물 학대’ 논쟁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273698",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "라미란, 은메달로 아쉬운 아들에 “1등이 전부는 아니야”",
+		"newsSubTitle": "",
+		"newsContent": "배우 라미란이 아들의 깜짝 놀랄만한 근황을 전했다.\n라미란은 지난 20일 사회관계망서비스(SNS) 인스타그램에 아들 김근우의 메달 소식이 담긴 글과 함께 사진들을 게재했다.\n라미란은 메달을 들고 있는 아들의 사진에 “오늘 열린 개인전에서, 은메달을 획득했어요. 너무너무 고생 많았어! 많이 사랑하고, 자랑스럽다!”라는 글을 덧붙이며, 격려하고 칭찬했다.\n또 라미란은 “우리나라 국가대표선수들과 주니어대표선수들 모두 무척 좋은 결과들을 얻었다. 많은 관심과 응원 부탁드린다. 다들 너무 고생 많았다”라며 응원의 메시지를 부탁했다.\n이에 아들의 “1등 할 수 있었는데”라고 아쉬움을 남긴 댓글을 달자 라미란은 “그래도 엄마는 아무도 부럽지 않아. 넌 최고야. 지금의 아쉬움이 널 괴롭히지 않고 선한 영향이 되길 바라. 1등이 전부는 아니야. 너무 수고했어. 엄청 덥다던데 컨디션 관리 잘하고 건강히 돌아와. 사랑해”라고 순위에 개의치 말라는 말로 화답했다.\n앞서 김근우는 20일(현지시간) 인도 뉴델리에서 열린 제28회 주니어 아시아 트랙 사이클 선수권 1km 타임트레일 경기에서 은메달을 땄다.\n한편 라미란은 영화 ‘고속도로 가족’, ‘컴백홈(가제)’ 등에 출연 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 라미란이 아들의 깜짝 놀랄만한 근황을 전했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "라미란은 지난 20일 사회관계망서비스(SNS) 인스타그램에 아들 김근우의 메달 소식이 담긴 글과 함께 사진들을 게재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "라미란은 메달을 들고 있는 아들의 사진에 “오늘 열린 개인전에서, 은메달을 획득했어요. 너무너무 고생 많았어! 많이 사랑하고, 자랑스럽다!”라는 글을 덧붙이며, 격려하고 칭찬했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 라미란은 “우리나라 국가대표선수들과 주니어대표선수들 모두 무척 좋은 결과들을 얻었다. 많은 관심과 응원 부탁드린다. 다들 너무 고생 많았다”라며 응원의 메시지를 부탁했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 아들의 “1등 할 수 있었는데”라고 아쉬움을 남긴 댓글을 달자 라미란은 “그래도 엄마는 아무도 부럽지 않아. 넌 최고야. 지금의 아쉬움이 널 괴롭히지 않고 선한 영향이 되길 바라. 1등이 전부는 아니야. 너무 수고했어. 엄청 덥다던데 컨디션 관리 잘하고 건강히 돌아와. 사랑해”라고 순위에 개의치 말라는 말로 화답했다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 김근우는 20일(현지시간) 인도 뉴델리에서 열린 제28회 주니어 아시아 트랙 사이클 선수권 1km 타임트레일 경기에서 은메달을 땄다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 라미란은 영화 ‘고속도로 가족’, ‘컴백홈(가제)’ 등에 출연 예정이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라미란, 은메달로 아쉬운 아들에 “1등이 전부는 아니야”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

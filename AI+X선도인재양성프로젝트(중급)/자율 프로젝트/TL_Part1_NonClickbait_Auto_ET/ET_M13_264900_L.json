@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264900",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김희선·송은이, 대세는 핑크",
+		"newsSubTitle": "",
+		"newsContent": "핑크색이 머리카락 염색의 대세로 떠오르고 있다.\n24일 방송된 MBC FM4U ‘정오의 희망곡 김신영입니다’(이하 ‘정희’)에는 드라마 ‘내일’에 출연하는 배우 김희선이 핑크색 단발을 공개했다.\n김희선은 “송은이 씨와 같은 미용실에 다닌다. 그래서 샵에 가면 저랑 항상 같은 머리가 있는 분이 있어서 놀랬다. 알고 보니 송은이 씨였다”고 말했다.\n김희선은 “송은이 씨가 저랑 머리가 비슷한데 어떻게 관리하시는지 궁금해서 물었더니 ‘머리 안 감는 게 최고다’라고 하시더라. 탈색한 머리를 관리할 수 있는 법을 전수 받았다”고 말했다.\n송은이에 이어 김희선이 핑크색 머리로 염색을 한 후 관심이 폭발하고 있다.\nMBC 새 금토드라마 ‘내일’은 죽은 자를 인도하던 저승사자들이 이제 ‘죽고 싶은 사람들’을 살리는 저승 오피스 휴먼 판타지 드라마다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "핑크색이 머리카락 염색의 대세로 떠오르고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 방송된 MBC FM4U ‘정오의 희망곡 김신영입니다’(이하 ‘정희’)에는 드라마 ‘내일’에 출연하는 배우 김희선이 핑크색 단발을 공개했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김희선은 “송은이 씨와 같은 미용실에 다닌다. 그래서 샵에 가면 저랑 항상 같은 머리가 있는 분이 있어서 놀랬다. 알고 보니 송은이 씨였다”고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김희선은 “송은이 씨가 저랑 머리가 비슷한데 어떻게 관리하시는지 궁금해서 물었더니 ‘머리 안 감는 게 최고다’라고 하시더라. 탈색한 머리를 관리할 수 있는 법을 전수 받았다”고 말했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송은이에 이어 김희선이 핑크색 머리로 염색을 한 후 관심이 폭발하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "MBC 새 금토드라마 ‘내일’은 죽은 자를 인도하던 저승사자들이 이제 ‘죽고 싶은 사람들’을 살리는 저승 오피스 휴먼 판타지 드라마다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김희선·송은이, 대세는 핑크",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

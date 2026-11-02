@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262102",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "선예, ‘열애중’ 리메이크 내달 4일 발매",
+		"newsSubTitle": "",
+		"newsContent": "가수 선예가 가수 벤의 ‘열애중’을 리메이크한다.\n선예는 다음 달 4일 오후 6시 ‘방구석 캐스팅’를 통해 열애중 음원을 발매한다.\n방구석 캐스팅은 가요계 리메이크 열풍을 이끄는 프로젝트다.\n지난 4일 그룹 ‘2AM’ 임슬옹과 ‘대낮에 한 이별’ 리메이크 음원을 선보인 데 이어 두 번째다. ‘열애중’은 가수 벤이 지난 2018년 발매한 정규앨범 ‘레시피(RECIPE)’의 타이틀곡으로 인정할 수조차 없는 이별의 슬픔을 담아낸 발라드곡이다.\n또 ‘열애중’은 선예가 최근 tvN ‘엄마는 아이돌’에 출연해 메인 보컬 선발전에서 가창해 ‘마마돌’의 메인보컬 자리를 거머쥔 노래기도 하다.\n선예는 이번에 정식 음원으로 ‘열애중’을 리메이크한다.\n이에 선예 씨 특유의 호소력 짙은 목소리가 라이브 무대와는 또 다른 감동을 선사할 것으로 기대된다.\n선예는 레전드 걸그룹 원더걸스 멤버로 활약했으며, 2013년 5세 연상 캐나다 선교사 제임스 박과 결혼을 해 세 딸을 뒀다.\n최근 ‘엄마는 아이돌’에서 독보적인 감성의 보컬리스트로서 변함없는 실력과 열정을 드러내 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 선예가 가수 벤의 ‘열애중’을 리메이크한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "선예는 다음 달 4일 오후 6시 ‘방구석 캐스팅’를 통해 열애중 음원을 발매한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방구석 캐스팅은 가요계 리메이크 열풍을 이끄는 프로젝트다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 4일 그룹 ‘2AM’ 임슬옹과 ‘대낮에 한 이별’ 리메이크 음원을 선보인 데 이어 두 번째다. ‘열애중’은 가수 벤이 지난 2018년 발매한 정규앨범 ‘레시피(RECIPE)’의 타이틀곡으로 인정할 수조차 없는 이별의 슬픔을 담아낸 발라드곡이다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 ‘열애중’은 선예가 최근 tvN ‘엄마는 아이돌’에 출연해 메인 보컬 선발전에서 가창해 ‘마마돌’의 메인보컬 자리를 거머쥔 노래기도 하다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "선예는 이번에 정식 음원으로 ‘열애중’을 리메이크한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 선예 씨 특유의 호소력 짙은 목소리가 라이브 무대와는 또 다른 감동을 선사할 것으로 기대된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "선예는 레전드 걸그룹 원더걸스 멤버로 활약했으며, 2013년 5세 연상 캐나다 선교사 제임스 박과 결혼을 해 세 딸을 뒀다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근 ‘엄마는 아이돌’에서 독보적인 감성의 보컬리스트로서 변함없는 실력과 열정을 드러내 화제를 모았다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "선예, ‘열애중’ 리메이크 내달 4일 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

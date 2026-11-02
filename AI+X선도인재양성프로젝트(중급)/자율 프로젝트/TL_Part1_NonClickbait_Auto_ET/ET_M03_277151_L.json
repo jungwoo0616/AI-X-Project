@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277151",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "엄마가 메이크업 아티스트일 때 딸이 받는 화장 수준",
+		"newsSubTitle": "",
+		"newsContent": "배우 조민기 부인의 놀라운 메이크업 실력이 화제다.\n한 온라인 커뮤니티에‘메이크업 아티스트인 엄마에게 직접 화장 받는 딸‘이라며 조민기 부녀의 화보 촬영 장면이 소개됐다.\n화보 촬영 전 10kg 가까이를 감량했던 조민기의 딸 조윤경은 화보 촬영을 위해 엄마에게 메이크업 받을 준비를 했다.\n조윤경의 어머니이자 조민기의 부인인 김선진 씨는 유명 뷰티샵을 운영하고 대학에서 강연을 할만큼 실력이 뛰어난 메이크업 아티스트다.\n전문가인 엄마의 손길을 거치자 조윤경은 순백의 드레스에 잘 어울리는 화려한 미모로 변신해 시선을 사로잡았다.\n이날 조윤경은 턱시도를 입은 조민기와 함께 호흡을 맞추며 화보 촬영에 임했다.\n이를 본 네티즌들은 “원래도 이쁘시고 화장해도 이쁘시다” “어머니 화장 짱 잘하시는 듯” 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 조민기 부인의 놀라운 메이크업 실력이 화제다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 온라인 커뮤니티에‘메이크업 아티스트인 엄마에게 직접 화장 받는 딸‘이라며 조민기 부녀의 화보 촬영 장면이 소개됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화보 촬영 전 10kg 가까이를 감량했던 조민기의 딸 조윤경은 화보 촬영을 위해 엄마에게 메이크업 받을 준비를 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조윤경의 어머니이자 조민기의 부인인 김선진 씨는 유명 뷰티샵을 운영하고 대학에서 강연을 할만큼 실력이 뛰어난 메이크업 아티스트다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전문가인 엄마의 손길을 거치자 조윤경은 순백의 드레스에 잘 어울리는 화려한 미모로 변신해 시선을 사로잡았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 조윤경은 턱시도를 입은 조민기와 함께 호흡을 맞추며 화보 촬영에 임했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌들은 “원래도 이쁘시고 화장해도 이쁘시다” “어머니 화장 짱 잘하시는 듯” 등의 반응을 보였다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엄마가 메이크업 아티스트일 때 딸이 받는 화장 수준",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171094",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "인피니트 남우현, 오늘 단독 콘서트 티켓 오픈",
+    "newsSubTitle": "",
+    "newsContent": "그룹 인피니트의 남우현이 온택트 콘서트로 글로벌 팬들을 찾아간다.\n남우현과 전 세계 팬들이 만날 ‘남우현 온택트 콘서트 [식목일 ON](NAM WOO HYUN ONTACT CONCERT [植木日 ON], 이하 ‘식목일 ON’)’ 티켓 예매가 7일 오후 3시부터 인터파크 티켓을 통해 진행된다.\n오는 10월 2일 오후 6시와 10월 3일 오후 5시에 개최되는 ‘식목일 ON’은 지난 2019년 8월 ‘식목일 2’ 이후 약 2년 만의 남우현 단독 콘서트다.\n지난달 4일 소집해제 후 돌아온 남우현이 본격적인 활동 재개를 알리는 콘서트라 뜨거운 관심을 한 몸에 받고 있다.\n매 공연마다 상상 이상의 퀄리티를 보여주는 남우현은 ‘식목일 ON’ 역시 역대급 공연으로 만들 예정이다.\n남우현의 독보적인 가창력과 화려한 퍼포먼스뿐만 아니라, 가을의 계절감과 잘 어울리는 남우현표 감성이 가득한 무대도 만나볼 수 있을 것으로 기대된다.\n특히 남우현이 오랜만에 팬들과 함께하는 만큼 양일 공연을 서로 다르게 꾸며 더욱 다채로운 구성을 선보인다고 해 글로벌 팬들의 이목이 집중됐다. ‘식목일 ON’은 오는 10월 2일 오후 6시와 10월 3일 오후 5시에 열린다.\n티켓 예매는 7일 오후 3시 인터파크 티켓에서 오픈된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 인피니트의 남우현이 온택트 콘서트로 글로벌 팬들을 찾아간다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남우현과 전 세계 팬들이 만날 ‘남우현 온택트 콘서트 [식목일 ON](NAM WOO HYUN ONTACT CONCERT [植木日 ON], 이하 ‘식목일 ON’)’ 티켓 예매가 7일 오후 3시부터 인터파크 티켓을 통해 진행된다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오는 10월 2일 오후 6시와 10월 3일 오후 5시에 개최되는 ‘식목일 ON’은 지난 2019년 8월 ‘식목일 2’ 이후 약 2년 만의 남우현 단독 콘서트다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난달 4일 소집해제 후 돌아온 남우현이 본격적인 활동 재개를 알리는 콘서트라 뜨거운 관심을 한 몸에 받고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "매 공연마다 상상 이상의 퀄리티를 보여주는 남우현은 ‘식목일 ON’ 역시 역대급 공연으로 만들 예정이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남우현의 독보적인 가창력과 화려한 퍼포먼스뿐만 아니라, 가을의 계절감과 잘 어울리는 남우현표 감성이 가득한 무대도 만나볼 수 있을 것으로 기대된다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 남우현이 오랜만에 팬들과 함께하는 만큼 양일 공연을 서로 다르게 꾸며 더욱 다채로운 구성을 선보인다고 해 글로벌 팬들의 이목이 집중됐다. ‘식목일 ON’은 오는 10월 2일 오후 6시와 10월 3일 오후 5시에 열린다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "티켓 예매는 7일 오후 3시 인터파크 티켓에서 오픈된다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남우현, '이 콘서트'로 2년 만에 글로벌 팬들 만나... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

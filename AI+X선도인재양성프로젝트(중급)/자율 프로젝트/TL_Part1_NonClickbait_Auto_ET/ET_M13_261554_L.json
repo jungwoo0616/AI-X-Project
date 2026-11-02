@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261554",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "언컷포인트 뉴페이스 떴다, 넌 누구냐?",
+		"newsSubTitle": "",
+		"newsContent": "워너뮤직코리아의 첫 레이블인 언컷포인트가 새 아티스트 공개를 예고했다.\n언컷포인트는 지난 20일 공식 SNS를 통해 신비로운 분위기의 티저 이미지 두 장을 공개했다.\n공개된 사진에는 얼굴을 가린 채 포즈를 취하고 있는 의문의 남자의 모습이 담겨 있어 베일에 가려진 새 아티스트에 대한 호기심이 증폭되고 있다.\n강력한 랩핑뿐만 아니라 패셔너블한 감각까지 갖춘 ‘새 아티스트’의 등장에 힙합 팬들은 다양한 추측과 기대감을 높이고 있다.\n실제로 실력파 아티스트로 구성된 언컷포인트가 소개할 ‘새 얼굴’에 업계의 관심도 집중되고 있다.\n언컷포인트 측은 “신인답지 않은 노련함은 물론 현역 아티스트를 위협하는 음악성과 실력을 갖춘 뉴페이스가 탄생했다. 무대와 실전에서 높은 기량과 멋있는 퍼포먼스를 선사할 예정이다”라며 따뜻한 관심을 당부했다.\n한편 언컷포인트의 ‘뉴 아티스트’의 신보는 오는 23일 각종 온라인 음원사이트를 통해 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "워너뮤직코리아의 첫 레이블인 언컷포인트가 새 아티스트 공개를 예고했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "언컷포인트는 지난 20일 공식 SNS를 통해 신비로운 분위기의 티저 이미지 두 장을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 얼굴을 가린 채 포즈를 취하고 있는 의문의 남자의 모습이 담겨 있어 베일에 가려진 새 아티스트에 대한 호기심이 증폭되고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강력한 랩핑뿐만 아니라 패셔너블한 감각까지 갖춘 ‘새 아티스트’의 등장에 힙합 팬들은 다양한 추측과 기대감을 높이고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제로 실력파 아티스트로 구성된 언컷포인트가 소개할 ‘새 얼굴’에 업계의 관심도 집중되고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "언컷포인트 측은 “신인답지 않은 노련함은 물론 현역 아티스트를 위협하는 음악성과 실력을 갖춘 뉴페이스가 탄생했다. 무대와 실전에서 높은 기량과 멋있는 퍼포먼스를 선사할 예정이다”라며 따뜻한 관심을 당부했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 언컷포인트의 ‘뉴 아티스트’의 신보는 오는 23일 각종 온라인 음원사이트를 통해 공개될 예정이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "언컷포인트 뉴페이스 떴다, 넌 누구냐?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

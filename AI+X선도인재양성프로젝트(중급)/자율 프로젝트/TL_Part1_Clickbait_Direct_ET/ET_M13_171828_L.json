@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171828",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "고준희, 와이블룸에 새 둥지…이유비와 한솥밥",
+    "newsSubTitle": "",
+    "newsContent": "배우 고준희가 와이블룸에 새 둥지를 틀었다.\n20일 와이블룸 측은 고준희와의 전속계약 사실을 알렸다.\n와이블룸은 “다방면에서 팔색조 매력을 발휘하며 많은 사랑을 받은 고준희와 한 식구가 돼 기쁘다”고 밝혔다.\n고준희는 2011년 SK 스마트학생복 모델 선발대회로 데뷔한 후 ‘건빵선생과 별사탕’ ‘여우야 뭐하니’ ‘사랑에 미치다’ ‘추노’ ‘야왕’ ‘그녀는 예뻤다’ 등 다양한 작품에서 탄탄한 연기력을 보였다.\n또한 영화 ‘결혼전야’ ‘레드카펫’ ‘나의 절친 악당들’에도 출연했다.\n이밖에도 ‘우리 결혼했어요’ ‘정글의 법칙’ 등 다수의 예능 프로그램을 통해 센스있는 예능감을 보였으며 토크쇼 ‘핑크페스타’의 MC와 광고 모델을 오가며 여성들의 워너비 스타로 자리매김했다.\n와이블룸은 “고준희가 앞으로 다양한 작품을 통해 좋은 모습을 보여줄 예정이며, 당사 또한 고준희가 활발한 활동을 펼칠 수 있도록 든든하게 뒷받침 할 것”이라며 응원과 관심을 부탁했다.\n와이블룸에는 이유비, 채수아, 윤조, 최가은이 소속돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 고준희가 와이블룸에 새 둥지를 틀었다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 와이블룸 측은 고준희와의 전속계약 사실을 알렸다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "와이블룸은 “다방면에서 팔색조 매력을 발휘하며 많은 사랑을 받은 고준희와 한 식구가 돼 기쁘다”고 밝혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고준희는 2011년 SK 스마트학생복 모델 선발대회로 데뷔한 후 ‘건빵선생과 별사탕’ ‘여우야 뭐하니’ ‘사랑에 미치다’ ‘추노’ ‘야왕’ ‘그녀는 예뻤다’ 등 다양한 작품에서 탄탄한 연기력을 보였다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 영화 ‘결혼전야’ ‘레드카펫’ ‘나의 절친 악당들’에도 출연했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이밖에도 ‘우리 결혼했어요’ ‘정글의 법칙’ 등 다수의 예능 프로그램을 통해 센스있는 예능감을 보였으며 토크쇼 ‘핑크페스타’의 MC와 광고 모델을 오가며 여성들의 워너비 스타로 자리매김했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "와이블룸은 “고준희가 앞으로 다양한 작품을 통해 좋은 모습을 보여줄 예정이며, 당사 또한 고준희가 활발한 활동을 펼칠 수 있도록 든든하게 뒷받침 할 것”이라며 응원과 관심을 부탁했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "와이블룸에는 이유비, 채수아, 윤조, 최가은이 소속돼 있다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고준희, 탄탄한 연기력과 팔색조 매력 인정받으며 새 둥지 튼 소속사는 바로 이곳",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

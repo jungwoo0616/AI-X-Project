@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275458",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김태리 “고통과 사랑은 나를 성장시켜”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김태리의 파격적인 매력이 사선을 사로잡았다.\n김태리 소속사 매니지먼트mmm은 김태리가 패션지 엘리 8월호 표지를 장식한 화보를 14일 공개했다.\n이번 화보에서 김태리는 깊이 있는 포즈와 표정, 독보적인 아우라로 자신의 존재감을 입증했다.\n이어진 인터뷰에서 김태리는 오는 20일 개봉을 앞둔 영화 ‘외계+인’에 대한 애정을 표현했다.\n배우로서 자신이 지닌 성향에 관한 질문에는 “뭐든 일단 받아들이고 내 것으로 이해하려는 기질을 가졌다”라며 “배우에게 필요한 것 중 하나는 유연함이고 내게 오는 파도를 회피하면 유연함과 거리가 멀어진다”고 말했다.\n이어 “나를 성장시킨 것이 고통과 사랑이라고 했는데, 이런 의미에서 한 말”이라고 했다.\n김태리의 화보는 순차적으로 추가 공개될 예정이다.\n화보와 인터뷰는 엘르 8월호에 실린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김태리의 파격적인 매력이 사선을 사로잡았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김태리 소속사 매니지먼트mmm은 김태리가 패션지 엘리 8월호 표지를 장식한 화보를 14일 공개했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 화보에서 김태리는 깊이 있는 포즈와 표정, 독보적인 아우라로 자신의 존재감을 입증했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어진 인터뷰에서 김태리는 오는 20일 개봉을 앞둔 영화 ‘외계+인’에 대한 애정을 표현했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배우로서 자신이 지닌 성향에 관한 질문에는 “뭐든 일단 받아들이고 내 것으로 이해하려는 기질을 가졌다”라며 “배우에게 필요한 것 중 하나는 유연함이고 내게 오는 파도를 회피하면 유연함과 거리가 멀어진다”고 말했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “나를 성장시킨 것이 고통과 사랑이라고 했는데, 이런 의미에서 한 말”이라고 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김태리의 화보는 순차적으로 추가 공개될 예정이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "화보와 인터뷰는 엘르 8월호에 실린다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김태리 “고통과 사랑은 나를 성장시켜”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

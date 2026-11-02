@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167047",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "라미란X정일우 주연 ‘고속도로 가족’, 크랭크인[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 라미란, 정일우, 김슬기가 영화 ‘고속도로 가족’으로 뭉친다.\n제작사 설렘은 18일 “배우 라미란, 정일우 주연의 영화 ‘고속도로 가족’이 최근 촬영을 시작했다”고 밝혔다. ‘고속도로 가족’은 고속도로 휴게소에서 캠핑 같은 노숙 생활을 하는 한 가족과 우연히 이 가족의 손을 잡게 된 부부가 만나 새로운 가족이 탄생하는 과정을 그려나간 작품으로 영화 ‘어른들은 몰라요’, ‘죽여주는 여자’ 조감독을 거친 이상문 감독이 각본과 연출을 맡았다.\n극 중 라미란과 백현진은 아들에 대한 그리움을 간직한 중고가구점 사장과 무뚝뚝하지만 누구보다 아내의 아픔을 이해하는 조력자 남편 역으로 호흡을 맞춘다.\n정일우와 김슬기는 두 아이와 배 속의 아이까지 품고 목적지 없는 여행을 해 나가는 젊은 부부로 등장한다.\n필모그래피 처음으로 아빠 역을 맡은 정일우의 가장 연기에 기대가 모인다.\n한편 ‘고속도로 가족’은 2022년 개봉을 목표로 올해 하반기 촬영을 마무리할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 라미란, 정일우, 김슬기가 영화 ‘고속도로 가족’으로 뭉친다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제작사 설렘은 18일 “배우 라미란, 정일우 주연의 영화 ‘고속도로 가족’이 최근 촬영을 시작했다”고 밝혔다. ‘고속도로 가족’은 고속도로 휴게소에서 캠핑 같은 노숙 생활을 하는 한 가족과 우연히 이 가족의 손을 잡게 된 부부가 만나 새로운 가족이 탄생하는 과정을 그려나간 작품으로 영화 ‘어른들은 몰라요’, ‘죽여주는 여자’ 조감독을 거친 이상문 감독이 각본과 연출을 맡았다.",
+        "sentenceSize": 211
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 라미란과 백현진은 아들에 대한 그리움을 간직한 중고가구점 사장과 무뚝뚝하지만 누구보다 아내의 아픔을 이해하는 조력자 남편 역으로 호흡을 맞춘다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정일우와 김슬기는 두 아이와 배 속의 아이까지 품고 목적지 없는 여행을 해 나가는 젊은 부부로 등장한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "필모그래피 처음으로 아빠 역을 맡은 정일우의 가장 연기에 기대가 모인다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘고속도로 가족’은 2022년 개봉을 목표로 올해 하반기 촬영을 마무리할 예정이다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라미란, 정일우가 뭉친 '고속도로 가족'... 어떤 영화일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

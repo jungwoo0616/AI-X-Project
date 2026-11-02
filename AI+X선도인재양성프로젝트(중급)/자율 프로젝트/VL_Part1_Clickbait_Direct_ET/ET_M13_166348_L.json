@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166348",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "황우림X강혜연X마리아 ‘청량 러블리’ 뭉쳤다",
+    "newsSubTitle": "",
+    "newsContent": "‘미스트롯2’ 황우림, 강혜연, 마리아가 올 여름을 겨냥한 청량한 곡으로 뭉쳤다.\n황우림 소속사 린브랜딩은 6일 공식 SNS를 통해 ‘미스트롯2’ 레인보우로 사랑을 받고 있는 황우림, 강혜연, 마리아가 함께한 티저 이미지를 공개했다.\n공개된 이미지 속 황우림, 강혜연, 마리아는 청량하고 러블리한 매력을 자랑하며 ‘여름 찰떡’ 비주얼을 완성해 눈길을 끌고 있다.\n세 사람은 깜찍 발랄한 포즈로 마치 걸그룹을 연상케 하는 완벽한 케미스트리를 발산한 것은 물론 상큼하고 긍정적인 에너지까지 전달해 보는 이들을 미소 짓게 만들었다.\n특히 황우림, 강혜연, 마리아는 올 여름을 가장 시원하게 만들어줄 특별한 곡으로 뭉쳐 더욱 기대감을 높이고 있다.\n지난 3월 ‘미스트롯2’ 종영 후 약 5개월만에 만난 ‘트롯 라이징 스타’ 황우림, 강혜연, 마리아는 방송 내내 탄탄한 가창력은 물론이고 넘치는 끼와 스타성을 입증해 왔기 때문에 앞으로 공개될 음원과 새로운 활동에도 궁금증이 높아지고 있다.\n황우림, 강혜연, 마리아가 함께한 음원은 오는 19일 오후 6시 공개될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘미스트롯2’ 황우림, 강혜연, 마리아가 올 여름을 겨냥한 청량한 곡으로 뭉쳤다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "황우림 소속사 린브랜딩은 6일 공식 SNS를 통해 ‘미스트롯2’ 레인보우로 사랑을 받고 있는 황우림, 강혜연, 마리아가 함께한 티저 이미지를 공개했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 이미지 속 황우림, 강혜연, 마리아는 청량하고 러블리한 매력을 자랑하며 ‘여름 찰떡’ 비주얼을 완성해 눈길을 끌고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세 사람은 깜찍 발랄한 포즈로 마치 걸그룹을 연상케 하는 완벽한 케미스트리를 발산한 것은 물론 상큼하고 긍정적인 에너지까지 전달해 보는 이들을 미소 짓게 만들었다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 황우림, 강혜연, 마리아는 올 여름을 가장 시원하게 만들어줄 특별한 곡으로 뭉쳐 더욱 기대감을 높이고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 3월 ‘미스트롯2’ 종영 후 약 5개월만에 만난 ‘트롯 라이징 스타’ 황우림, 강혜연, 마리아는 방송 내내 탄탄한 가창력은 물론이고 넘치는 끼와 스타성을 입증해 왔기 때문에 앞으로 공개될 음원과 새로운 활동에도 궁금증이 높아지고 있다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "황우림, 강혜연, 마리아가 함께한 음원은 오는 19일 오후 6시 공개될 예정이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'미스트롯 2' 티저 공개, 올여름 겨냥한 역대급 조합은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

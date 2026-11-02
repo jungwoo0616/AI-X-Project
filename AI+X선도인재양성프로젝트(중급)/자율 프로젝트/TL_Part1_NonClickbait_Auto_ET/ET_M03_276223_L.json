@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276223",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'SNS 적당히 했으면 하는 스타'는 설리·양현석·김부선",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 에프엑스 출신 설리(24·본명 최진리)가 소셜네트워크서비스(SNS) 적당히 했으면 하는 스타 1위를 차지했다.\n온라인 커뮤니티 디시인사이드는 '익사이팅디시'와 취향 검색 기업 마이셀럽스가 지난 22일부터 28일까지 진행한 'SNS 제발 적당히 했으면 하는 스타는?'라는 투표에서 이 같은 결과가 나왔다고 30일 밝혔다.\n이에 따르면 설리는 총 9479표 중 1831표(19.3%)를 받았다.\n설리는 그간 SNS에 올린 몇몇 사진이 성적 논란을 불러일으킨 바 있다. 2위로는 1221표(12.9%)로 양현석 YG엔터테인먼트 대표가 선정됐다.\n디시인사이드는 \\\"양 대표는 자신의 SNS를 통해 소속 뮤지션들의 활동을 예고하며 팬들의 관심을 샀지만, 실제 실행된 것이 많지 않아 팬들의 불만을 샀다\\\"고 설명했다.\n3위에는 914표(9.6%)로 배우 김부선이 꼽혔다.\n이 외에 방송인 박지윤, 래퍼 블랙넛, 그룹 빅뱅 멤버 승리 등이 뒤를 이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 에프엑스 출신 설리(24·본명 최진리)가 소셜네트워크서비스(SNS) 적당히 했으면 하는 스타 1위를 차지했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "온라인 커뮤니티 디시인사이드는 '익사이팅디시'와 취향 검색 기업 마이셀럽스가 지난 22일부터 28일까지 진행한 'SNS 제발 적당히 했으면 하는 스타는?'라는 투표에서 이 같은 결과가 나왔다고 30일 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따르면 설리는 총 9479표 중 1831표(19.3%)를 받았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "설리는 그간 SNS에 올린 몇몇 사진이 성적 논란을 불러일으킨 바 있다. 2위로는 1221표(12.9%)로 양현석 YG엔터테인먼트 대표가 선정됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디시인사이드는 \\\"양 대표는 자신의 SNS를 통해 소속 뮤지션들의 활동을 예고하며 팬들의 관심을 샀지만, 실제 실행된 것이 많지 않아 팬들의 불만을 샀다\\\"고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "3위에는 914표(9.6%)로 배우 김부선이 꼽혔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 외에 방송인 박지윤, 래퍼 블랙넛, 그룹 빅뱅 멤버 승리 등이 뒤를 이었다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'SNS 적당히 했으면 하는 스타'는 설리·양현석·김부선",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260381",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "정동원 색소폰 무대, #밸런타인데이 #로맨틱 (화밤)",
+		"newsSubTitle": "",
+		"newsContent": "정동원이 로맨틱한 색소폰 연주로 시청자들의 마음을 사로잡았다.\n지난 8일 밤 방송된 TV조선 ‘화요일은 밤이 좋아’에 가수 정동원이 출연했다.\n이날 방송에서 정동원은 색소폰 연주와 함께 등장해 출연진의 시선을 강탈했다.\n케니정으로 변신한 정동원은 소프라노 색소폰으로 ‘Loving You’를 연주하며 로맨틱한 분위기로 가득 채웠다.\n긴 연주에도 안정적인 호흡으로 정동원이 무사히 무대를 마치자, 출연진들은 일제히 ‘정동원’을 연호했다.\n이어 “멋있어요”, “사랑해요”라며 뜨거운 호응이 쏟아졌다.\n전유진은 “저보다 동생인데 너무 좋았다”고 감동 받은 모습을 보였다.\n정동원은 “오늘 밸런타인 데이 특집이라 들어서, 유학 시절에 불었던 것”이라고 말문을 열었다.\n이에 붐이 “오늘은 본부장님이 아닌 거냐”고 묻자, 정동원은 가방을 챙겨 행운권 라운드를 진행했다.\n정동원은 이날 방송에서 소프라노 색소폰 연주뿐만 아니라, 여유로운 모습으로 행운권 라운드를 진행하며 다재다능한 면모를 과시했다. ‘MC 신동’으로 붐, 장민호와 남다른 티키타카를 자랑하는 정동원의 활약에 기대가 모인다.\n한편, 정동원은 매주 월요일 밤 10시 방송되는 ‘개나리학당’, 매주 화요일 밤 10시 방송되는 ‘화요일은 밤이 좋아’에 출연하며 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정동원이 로맨틱한 색소폰 연주로 시청자들의 마음을 사로잡았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 8일 밤 방송된 TV조선 ‘화요일은 밤이 좋아’에 가수 정동원이 출연했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 정동원은 색소폰 연주와 함께 등장해 출연진의 시선을 강탈했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "케니정으로 변신한 정동원은 소프라노 색소폰으로 ‘Loving You’를 연주하며 로맨틱한 분위기로 가득 채웠다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "긴 연주에도 안정적인 호흡으로 정동원이 무사히 무대를 마치자, 출연진들은 일제히 ‘정동원’을 연호했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “멋있어요”, “사랑해요”라며 뜨거운 호응이 쏟아졌다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전유진은 “저보다 동생인데 너무 좋았다”고 감동 받은 모습을 보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정동원은 “오늘 밸런타인 데이 특집이라 들어서, 유학 시절에 불었던 것”이라고 말문을 열었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 붐이 “오늘은 본부장님이 아닌 거냐”고 묻자, 정동원은 가방을 챙겨 행운권 라운드를 진행했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "정동원은 이날 방송에서 소프라노 색소폰 연주뿐만 아니라, 여유로운 모습으로 행운권 라운드를 진행하며 다재다능한 면모를 과시했다. ‘MC 신동’으로 붐, 장민호와 남다른 티키타카를 자랑하는 정동원의 활약에 기대가 모인다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한편, 정동원은 매주 월요일 밤 10시 방송되는 ‘개나리학당’, 매주 화요일 밤 10시 방송되는 ‘화요일은 밤이 좋아’에 출연하며 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정동원 색소폰 무대, #밸런타인데이 #로맨틱 (화밤)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

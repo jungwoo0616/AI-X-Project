@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277632",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "영국 팝스타 조지 마이클 사망…향년 53세",
+		"newsSubTitle": "",
+		"newsContent": "영국의 팝스타 조지 마이클이 53세의 나이로 사망했다.\n25일(현지시간) 영국의 주요매체는 조지 마이클이 집에서 세상을 떠났다고 보도했다.\n보도에 따르면 영국 경찰은 조지 마이클의 사망과 관련해 의심스러운 상황이 없었다고 전했다.\n조지 마이클은 1981년 앤드류 리지리와 듀오 왬(Wham)을 결성해 데뷔했다.\n조지 마이클은 자신이 작사·작곡한 '라스트 크리스마스'는 물론 그룹 활동 도중 솔로로 발표한 '케어리스 위스퍼' 등 수많은 히트곡을 배출한 팝가수다. 1987년 발표한 솔로 데뷔 앨범 '페이스(Faith)'는 전 세계에 2500만 장 이상의 판매고를 올렸다.\n그룹 해체 후에도 '페이스'를 비롯해 빌보드 싱글차트 1위 곡을 4개나 내면서 1980년대를 대표하는 슈퍼스타로 우뚝 섰다.\n조지 마이클의 앨범은 1억 장 이상이 판매된 것으로 추정된다.\n빌보드가 선정한 역대 최고의 아티스트 100명에도 꼽힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영국의 팝스타 조지 마이클이 53세의 나이로 사망했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일(현지시간) 영국의 주요매체는 조지 마이클이 집에서 세상을 떠났다고 보도했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 영국 경찰은 조지 마이클의 사망과 관련해 의심스러운 상황이 없었다고 전했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조지 마이클은 1981년 앤드류 리지리와 듀오 왬(Wham)을 결성해 데뷔했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조지 마이클은 자신이 작사·작곡한 '라스트 크리스마스'는 물론 그룹 활동 도중 솔로로 발표한 '케어리스 위스퍼' 등 수많은 히트곡을 배출한 팝가수다. 1987년 발표한 솔로 데뷔 앨범 '페이스(Faith)'는 전 세계에 2500만 장 이상의 판매고를 올렸다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그룹 해체 후에도 '페이스'를 비롯해 빌보드 싱글차트 1위 곡을 4개나 내면서 1980년대를 대표하는 슈퍼스타로 우뚝 섰다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조지 마이클의 앨범은 1억 장 이상이 판매된 것으로 추정된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "빌보드가 선정한 역대 최고의 아티스트 100명에도 꼽힌 바 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영국 팝스타 조지 마이클 사망…향년 53세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

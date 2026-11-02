@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267430",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "콘텐츠산업포럼 26일 개막, 콘텐츠가 이끄는 새로운 미래",
+		"newsSubTitle": "",
+		"newsContent": "콘텐츠산업 미래를 조망하는 ‘2022 콘텐츠산업포럼’이 26일부터 3일간 온라인으로 개최된다.\n19일 한국콘텐츠진흥원에 따르면 올해는 ‘콘텐츠가 이끄는 새로운 미래’를 주제로 정책, 금융, 음악, 이야기, 게임, 방송 등 6개 분야에 걸쳐 포럼이 진행된다.\n26일 정책포럼에서는 지식재산권(IP), 신기술, 글로벌 등을 주요 화두로 콘텐츠산업의 미래를 위한 정책방향을 모색한다.\n같은 날 금융포럼에서는 ‘가치평가, 금융 정책에 날개를 달다’를 주제로 콘텐츠업계 강소기업 육성을 위한 금융정책을 토론한다.\n기술과 음악이 융합된 엔터테인먼트 시장을 조망하는 음악포럼과 K-스토리의 IP 확장 전략을 논의하는 이야기포럼은 27일 열린다. 28일 게임포럼에서는 이용자 중심 생태계 구성이 산업을 어떻게 바꿀 것인지 살펴본다.\n격변하는 방송영상산업 환경 속에서 미래를 위한 공정상생 방안을 모색하는 방송포럼도 이날 열린다.\n콘진원 공식 유튜브에서 생중계하며 누구나 시청할 수 있다.\n자세한 내용은 콘진원 누리집과 콘텐츠산업포럼 누리집에서 확인하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "콘텐츠산업 미래를 조망하는 ‘2022 콘텐츠산업포럼’이 26일부터 3일간 온라인으로 개최된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 한국콘텐츠진흥원에 따르면 올해는 ‘콘텐츠가 이끄는 새로운 미래’를 주제로 정책, 금융, 음악, 이야기, 게임, 방송 등 6개 분야에 걸쳐 포럼이 진행된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "26일 정책포럼에서는 지식재산권(IP), 신기술, 글로벌 등을 주요 화두로 콘텐츠산업의 미래를 위한 정책방향을 모색한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "같은 날 금융포럼에서는 ‘가치평가, 금융 정책에 날개를 달다’를 주제로 콘텐츠업계 강소기업 육성을 위한 금융정책을 토론한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기술과 음악이 융합된 엔터테인먼트 시장을 조망하는 음악포럼과 K-스토리의 IP 확장 전략을 논의하는 이야기포럼은 27일 열린다. 28일 게임포럼에서는 이용자 중심 생태계 구성이 산업을 어떻게 바꿀 것인지 살펴본다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "격변하는 방송영상산업 환경 속에서 미래를 위한 공정상생 방안을 모색하는 방송포럼도 이날 열린다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "콘진원 공식 유튜브에서 생중계하며 누구나 시청할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자세한 내용은 콘진원 누리집과 콘텐츠산업포럼 누리집에서 확인하면 된다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "콘텐츠산업포럼 26일 개막, 콘텐츠가 이끄는 새로운 미래",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273042",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신예 홍태준, 스탠딩 에그 신곡 ‘나는 어떡해’ 뮤직비디오 출연",
+		"newsSubTitle": "",
+		"newsContent": "신예 모델 홍태준이 출연한 가수 스탠딩 에그의 신곡 ‘나는 어떡해’ 뮤직비디오가 공개됐다.\n지난 12일 음원과 함께 공개된 ‘나는 어떡해’ 뮤직비디오에는 홍태준이 남자 주인공으로 등장, 배우 우다비와 함께 사랑 앞에서 어쩔 줄 모르는 남녀의 감정 연기를 선보이며 눈길을 끌었다.\n뮤직비디오 속 교복을 입고 등장한 홍태준은 자연스러운 연기력으로 풋풋한 사랑의 감정선을 전달해낼 수 있었다.\n여주인공을 바라보는 홍태준의 눈빛 연기는 초여름을 설렘으로 열어주며 ‘나는 어떡해’를 듣는 리스너들의 시각과 청각 모두를 충족시켰다.\n홍태준은 다양한 매체를 통해 존재감을 드러내고 있는 신예 모델이다.\n패션 업계에서는 물론 광고, 뮤직비디오 등에서 훈훈한 비주얼은 물론 각양각색의 매력으로 존재감을 발산하며 다방면에서 활약을 보이고 있다.\n최근 ‘나는 어떡해’는 물론 앞서 공개된 치즈의 디지털 싱글 ‘퐁당 (Pong Dang)’ 뮤직비디오에서도 남자 주인공 역으로 출연한 그는 청량한 비주얼로 이목을 끈 바 있다.\n홍태준이 출연한 스탠딩 에그의 신곡 ‘나는 어떡해’ 뮤직비디오는 지난 12일 오후 6시 각종 온라인 음원사이트와 스탠딩 에그 공식 유튜브 채널을 통해 공개됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신예 모델 홍태준이 출연한 가수 스탠딩 에그의 신곡 ‘나는 어떡해’ 뮤직비디오가 공개됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 12일 음원과 함께 공개된 ‘나는 어떡해’ 뮤직비디오에는 홍태준이 남자 주인공으로 등장, 배우 우다비와 함께 사랑 앞에서 어쩔 줄 모르는 남녀의 감정 연기를 선보이며 눈길을 끌었다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뮤직비디오 속 교복을 입고 등장한 홍태준은 자연스러운 연기력으로 풋풋한 사랑의 감정선을 전달해낼 수 있었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여주인공을 바라보는 홍태준의 눈빛 연기는 초여름을 설렘으로 열어주며 ‘나는 어떡해’를 듣는 리스너들의 시각과 청각 모두를 충족시켰다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍태준은 다양한 매체를 통해 존재감을 드러내고 있는 신예 모델이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "패션 업계에서는 물론 광고, 뮤직비디오 등에서 훈훈한 비주얼은 물론 각양각색의 매력으로 존재감을 발산하며 다방면에서 활약을 보이고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 ‘나는 어떡해’는 물론 앞서 공개된 치즈의 디지털 싱글 ‘퐁당 (Pong Dang)’ 뮤직비디오에서도 남자 주인공 역으로 출연한 그는 청량한 비주얼로 이목을 끈 바 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "홍태준이 출연한 스탠딩 에그의 신곡 ‘나는 어떡해’ 뮤직비디오는 지난 12일 오후 6시 각종 온라인 음원사이트와 스탠딩 에그 공식 유튜브 채널을 통해 공개됐다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신예 홍태준, 스탠딩 에그 신곡 ‘나는 어떡해’ 뮤직비디오 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

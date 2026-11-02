@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270640",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "투모로우바이투게더, 日 라인뮤직 주간 톱 송 차트 정상",
+		"newsSubTitle": "",
+		"newsContent": "그룹 투모로우바이투게더가 일본 오리콘 데일리 앨범 차트에 이어 라인뮤직 주간 톱 송 차트에서도 정상을 밟았다.\n지난 9일 발매된 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이) 미니 4집 ‘minisode 2: Thursday’s Child’의 타이틀곡 ‘Good Boy Gone Bad’는 지난 18일 자 라인뮤직 주간 톱 송 차트(집계기간 5월 11~17일) 정상을 차지했다.\n신보 ‘minisode 2: Thursday’s Child’는 타워 레코드가 발표한 전 매장 종합 앨범 주간 차트(집계기간 5월 9~15일)에서 3위에 올랐다.\n앞서 일본 오리콘이 발표한 최신 차트(5월 17일자)에 따르면, ‘minisode 2: Thursday’s Child’는 13만 4,746장의 판매량으로 일본 발매 첫날인 5월 16일 자 오리콘 데일리 앨범 차트에서 1위로 직행했다.\n투모로우바이투게더는 신보 발매 이후 유력 음악 차트에서 두각을 나타낼 뿐 아니라 오는 8월 도쿄와 오사카에서 개최되는 일본 최대 도시형 록 페스티벌인 ‘서머소닉 2022’의 라인업에 이름을 올리는 등 일본 내에서 인기를 얻고 있다.\n한편, 투모로우바이투게더는 신보 발매 이틀 만에 누적 107만 2,854장의 판매량을 기록하면서 데뷔 3년 만에 ‘밀리언 셀러’의 영예를 안았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 투모로우바이투게더가 일본 오리콘 데일리 앨범 차트에 이어 라인뮤직 주간 톱 송 차트에서도 정상을 밟았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 9일 발매된 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이) 미니 4집 ‘minisode 2: Thursday’s Child’의 타이틀곡 ‘Good Boy Gone Bad’는 지난 18일 자 라인뮤직 주간 톱 송 차트(집계기간 5월 11~17일) 정상을 차지했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신보 ‘minisode 2: Thursday’s Child’는 타워 레코드가 발표한 전 매장 종합 앨범 주간 차트(집계기간 5월 9~15일)에서 3위에 올랐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 일본 오리콘이 발표한 최신 차트(5월 17일자)에 따르면, ‘minisode 2: Thursday’s Child’는 13만 4,746장의 판매량으로 일본 발매 첫날인 5월 16일 자 오리콘 데일리 앨범 차트에서 1위로 직행했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "투모로우바이투게더는 신보 발매 이후 유력 음악 차트에서 두각을 나타낼 뿐 아니라 오는 8월 도쿄와 오사카에서 개최되는 일본 최대 도시형 록 페스티벌인 ‘서머소닉 2022’의 라인업에 이름을 올리는 등 일본 내에서 인기를 얻고 있다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 투모로우바이투게더는 신보 발매 이틀 만에 누적 107만 2,854장의 판매량을 기록하면서 데뷔 3년 만에 ‘밀리언 셀러’의 영예를 안았다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "투모로우바이투게더, 日 라인뮤직 주간 톱 송 차트 정상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259490",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박신혜♥최태준, 결혼과 동시에 3커플 동거",
+		"newsSubTitle": "",
+		"newsContent": "배우 박신혜가 27일 결혼식 본식 풍경을 담은 사진을 공개했다.\n박신혜는 자신의 인스타그램에 사진은 박신혜·최태준의 결혼식 현장을 담은 사진을 공개하면서 새로 온 고양이도 공개했다.\n공개된 사진에 두 사람은 활짝 웃으며 식장을 빠져나가는 장면을 공개했다.\n또한 두 사람의 결혼으로 새로 온 고양이 커플을 공개하면서 “믿기 어렵겠지만 얘네 커플이에요. 우리집 이제 고양이 네마리”라고 밝혔다.\n박신혜는 순백의 드레스 차림으로 여신 미모를 자랑해 감탄을 자아냈다.\n턱시도를 입은 최태준의 애정표현에 활짝 웃는 박신혜의 미소가 가장 눈길을 끈다.\n한편 지난해 11월 두 사람은 혼전 임신과 결혼을 동시에 발표했으며 지난 22일 서울의 한 교회에서 비공개 결혼식을 올렸다.\n5년 열애 끝 맺어진 결실로 많은 축하를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박신혜가 27일 결혼식 본식 풍경을 담은 사진을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박신혜는 자신의 인스타그램에 사진은 박신혜·최태준의 결혼식 현장을 담은 사진을 공개하면서 새로 온 고양이도 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에 두 사람은 활짝 웃으며 식장을 빠져나가는 장면을 공개했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 두 사람의 결혼으로 새로 온 고양이 커플을 공개하면서 “믿기 어렵겠지만 얘네 커플이에요. 우리집 이제 고양이 네마리”라고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박신혜는 순백의 드레스 차림으로 여신 미모를 자랑해 감탄을 자아냈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "턱시도를 입은 최태준의 애정표현에 활짝 웃는 박신혜의 미소가 가장 눈길을 끈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지난해 11월 두 사람은 혼전 임신과 결혼을 동시에 발표했으며 지난 22일 서울의 한 교회에서 비공개 결혼식을 올렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5년 열애 끝 맺어진 결실로 많은 축하를 받았다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박신혜♥최태준, 결혼과 동시에 3커플 동거",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

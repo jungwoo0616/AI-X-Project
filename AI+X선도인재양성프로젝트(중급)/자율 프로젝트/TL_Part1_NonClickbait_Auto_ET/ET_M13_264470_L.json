@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264470",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "T1419, 솜사탕 같은 매력",
+		"newsSubTitle": "",
+		"newsContent": "그룹 T1419(티일사일구)가 신곡 ‘에델바이스(EDELWEISS)’의 뮤직비디오 두 번째 티저 영상을 공개했다.\n21일 0시, T1419는 공식 SNS 채널을 통해 두 번째 디지털 싱글 앨범 ‘에델바이스’의 뮤직비디오 2차 티저 영상을 공개해 눈길을 끌었다.\n공개된 비디오는 15초 가량의 짧은 영상으로 소파에 앉아 노래를 부르는 T1419의 모습이 담겼다.\nT1419는 지난 15일 ‘에델바이스’ 커밍순 이미지 공개를 시작으로 단체 포토 티저, 개인 포토 티저, 리릭 비디오, 뮤직비디오 1차 티저를 순차적으로 오픈하며 컴백 열기를 끌어올렸다.\n오는 22일 발매되는 신곡 ‘T1419’는 팬덤 에델바이스를 향한 T1419의 마음을 노래한 곡으로 멤버들이 직접 작사에 참여해 화제를 모으고 있다.\n에델바이스라는 팬덤명에 담긴 의미처럼 순수하고 소중한 추억을 팬들과 함께 만들어나가고 싶다는 T1419의 진심을 느낄 수 있다.\n한편, T1419의 신곡 ‘에델바이스’는 오는 22일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 T1419(티일사일구)가 신곡 ‘에델바이스(EDELWEISS)’의 뮤직비디오 두 번째 티저 영상을 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 0시, T1419는 공식 SNS 채널을 통해 두 번째 디지털 싱글 앨범 ‘에델바이스’의 뮤직비디오 2차 티저 영상을 공개해 눈길을 끌었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 비디오는 15초 가량의 짧은 영상으로 소파에 앉아 노래를 부르는 T1419의 모습이 담겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "T1419는 지난 15일 ‘에델바이스’ 커밍순 이미지 공개를 시작으로 단체 포토 티저, 개인 포토 티저, 리릭 비디오, 뮤직비디오 1차 티저를 순차적으로 오픈하며 컴백 열기를 끌어올렸다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오는 22일 발매되는 신곡 ‘T1419’는 팬덤 에델바이스를 향한 T1419의 마음을 노래한 곡으로 멤버들이 직접 작사에 참여해 화제를 모으고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에델바이스라는 팬덤명에 담긴 의미처럼 순수하고 소중한 추억을 팬들과 함께 만들어나가고 싶다는 T1419의 진심을 느낄 수 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, T1419의 신곡 ‘에델바이스’는 오는 22일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "T1419, 솜사탕 같은 매력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

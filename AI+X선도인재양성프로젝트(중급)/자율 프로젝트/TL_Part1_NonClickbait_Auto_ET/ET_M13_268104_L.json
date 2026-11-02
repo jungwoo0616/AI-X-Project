@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268104",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "전주국제영화제 조직위, ‘전주컨퍼런스 2022’ 개최",
+		"newsSubTitle": "",
+		"newsContent": "전주국제영화제 조직위원회가 다음 달 2∼3일 라한호텔에서 ‘전주컨퍼런스 2022’를 개최한다고 25일 밝혔다.\n전주컨퍼런스는 급변하는 미디어 환경 속에서 영화와 콘텐츠 산업이 고민해야 할 방향을 제시하고 영화계의 담론을 한자리에 모으는 행사다. ‘콘텐츠 시대: 영화, XR을 만나다’를 주제로 XR(확장현실·eXtended Reality) 미디어의 현실을 다각적으로 논의한다. ‘키노트 강의: 뉴미디어의 윤리학 - 미군 위안부 3부작 제작기’ 세션에서는 실감형 미디어와 스토리텔링에 대한 이야기를 나눈다.\n지역 영화를 중심으로 독립·예술 영화의 배급과 지역 영화 창작, 영화 음원 산업의 미래를 톺아본다.\n전주컨퍼런스 주요 세션은 전주국제영화제 유튜브 공식 계정으로 시청할 수 있다.\n제23회 전주국제영화제는 오는 28일부터 5월 7일까지 전주 영화의 거리 일원에서 개최된다.\n영화제 상영작 중 일부는 국내 영화제 전용 플랫폼인 ‘온피프엔’에서도 관람할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전주국제영화제 조직위원회가 다음 달 2∼3일 라한호텔에서 ‘전주컨퍼런스 2022’를 개최한다고 25일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전주컨퍼런스는 급변하는 미디어 환경 속에서 영화와 콘텐츠 산업이 고민해야 할 방향을 제시하고 영화계의 담론을 한자리에 모으는 행사다. ‘콘텐츠 시대: 영화, XR을 만나다’를 주제로 XR(확장현실·eXtended Reality) 미디어의 현실을 다각적으로 논의한다. ‘키노트 강의: 뉴미디어의 윤리학 - 미군 위안부 3부작 제작기’ 세션에서는 실감형 미디어와 스토리텔링에 대한 이야기를 나눈다.",
+				"sentenceSize": 220
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역 영화를 중심으로 독립·예술 영화의 배급과 지역 영화 창작, 영화 음원 산업의 미래를 톺아본다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전주컨퍼런스 주요 세션은 전주국제영화제 유튜브 공식 계정으로 시청할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제23회 전주국제영화제는 오는 28일부터 5월 7일까지 전주 영화의 거리 일원에서 개최된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화제 상영작 중 일부는 국내 영화제 전용 플랫폼인 ‘온피프엔’에서도 관람할 수 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전주국제영화제 조직위, ‘전주컨퍼런스 2022’ 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274154",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "손예진♥현빈, 엄마·아빠 된다…새 생명 축복[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 손예진, 현빈 부부가 임신 소식을 알렸다.\n손예진은 27일 자신의 사회관계망서비스(SNS)에 “여러분 잘 지내고 계시죠?”라며 인사를 건넸다.\n이어 손예진은 “저희에게 새 생명이 찾아왔답니다. 아직 얼떨떨하지만 걱정과 설렘 속에서 몸의 변화로 인해 하루하루 체감하며 지내고 있어요~ 너무 감사한 일이지만 그만큼 조심스러워서 아직 주위 분들께도 말씀을 못 드렸어요. 저희만큼이나 이소식을 기다리고 계실 팬분들, 주위 분들께 더 늦기 전에 소식을 전합니다”라고 밝혔다.\n앞서 손예진은 지난 2018년 9월 개봉한 영화 ‘협상’, 2020년 2월 방송된 드라마 ‘사랑의 불시착’ 등에서 호흡을 맞춘 배우 현빈과 부부의 연을 맺었다.\n두 사람은 지난 3월 결혼식을 올렸다.\n손예진은 “저희에게 찾아온 소중한 생명을 잘 지킬게요~ 여러분도 여러분의 삶에서 소중하게 지켜야할 것들을 잘 지켜나가며 건강히 지내시길 바래요. 행복하세요”라며 팬들에게도 행복이 깃들길 기원했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 손예진, 현빈 부부가 임신 소식을 알렸다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손예진은 27일 자신의 사회관계망서비스(SNS)에 “여러분 잘 지내고 계시죠?”라며 인사를 건넸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 손예진은 “저희에게 새 생명이 찾아왔답니다. 아직 얼떨떨하지만 걱정과 설렘 속에서 몸의 변화로 인해 하루하루 체감하며 지내고 있어요~ 너무 감사한 일이지만 그만큼 조심스러워서 아직 주위 분들께도 말씀을 못 드렸어요. 저희만큼이나 이소식을 기다리고 계실 팬분들, 주위 분들께 더 늦기 전에 소식을 전합니다”라고 밝혔다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 손예진은 지난 2018년 9월 개봉한 영화 ‘협상’, 2020년 2월 방송된 드라마 ‘사랑의 불시착’ 등에서 호흡을 맞춘 배우 현빈과 부부의 연을 맺었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람은 지난 3월 결혼식을 올렸다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손예진은 “저희에게 찾아온 소중한 생명을 잘 지킬게요~ 여러분도 여러분의 삶에서 소중하게 지켜야할 것들을 잘 지켜나가며 건강히 지내시길 바래요. 행복하세요”라며 팬들에게도 행복이 깃들길 기원했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손예진♥현빈, 엄마·아빠 된다…새 생명 축복[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

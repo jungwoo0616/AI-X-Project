@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261553",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이동욱이 곧 장르[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 이동욱이 매거진 커버를 장식했다.\n매거진 아레나 옴므 플러스>는 배우 이동욱과 이탈리아 럭셔리 남성 브랜드 제냐가 함께한 화보를 공개했다.\n공개된 화보 속 이동욱은 한층 더 깊어진 눈빛과 분위기로 세련된 남성미를 선명하게 드러냈다.\n이동욱은 다크 카멜 컬러의 재킷, 팬츠 셋업에 오렌지 컬러의 스니커즈로 포인트를 주어 댄디한 패션 스타일을 완성했다.\n그는 화이트 컬러의 팬츠에 다양한 이너와 재킷 스타일링으로 포멀과 캐주얼을 넘나드는 다채로운 룩을 선보이기도 했다.\n이어지는 화보 속 이동욱은 깊은 눈빛과 함께 블루 로고 티셔츠로 빈틈없는 비주얼을 선보이며 남성들의 워너비 다운 면모를 과시했다.\n촬영 현장에서 이동욱은 콘셉트에 맞는 포즈와 표정 연기는 물론 모든 착장마다 그만의 스타일로 완벽히 소화해 찬사를 받았다는 후문이다.\n이동욱의 더 많은 화보와 영상은 아레나 옴므 플러스 3월호와 웹사이트 및 SNS에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이동욱이 매거진 커버를 장식했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매거진 아레나 옴므 플러스>는 배우 이동욱과 이탈리아 럭셔리 남성 브랜드 제냐가 함께한 화보를 공개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 화보 속 이동욱은 한층 더 깊어진 눈빛과 분위기로 세련된 남성미를 선명하게 드러냈다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이동욱은 다크 카멜 컬러의 재킷, 팬츠 셋업에 오렌지 컬러의 스니커즈로 포인트를 주어 댄디한 패션 스타일을 완성했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 화이트 컬러의 팬츠에 다양한 이너와 재킷 스타일링으로 포멀과 캐주얼을 넘나드는 다채로운 룩을 선보이기도 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어지는 화보 속 이동욱은 깊은 눈빛과 함께 블루 로고 티셔츠로 빈틈없는 비주얼을 선보이며 남성들의 워너비 다운 면모를 과시했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "촬영 현장에서 이동욱은 콘셉트에 맞는 포즈와 표정 연기는 물론 모든 착장마다 그만의 스타일로 완벽히 소화해 찬사를 받았다는 후문이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이동욱의 더 많은 화보와 영상은 아레나 옴므 플러스 3월호와 웹사이트 및 SNS에서 만나볼 수 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이동욱이 곧 장르[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

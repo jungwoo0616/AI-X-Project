@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172174",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "2017 미스코리아 眞 서재원, 울먹이며 “믿을 수 없다”",
+    "newsSubTitle": "",
+    "newsContent": "‘2017 미스코리아 선발대회’ 진(眞)에 서재원(21ㆍ경기)이 선정됐다.\n서재원은 7일 서울 광진구 능동 유니버설아트센터에서 열린 2017 미스코리아 선발대회에서 최종 33명 가운데 진을 차지했다.\n진이 호명된 후 서재원은 “정말 감사하다. 믿을 수 없다”고 울먹이며 “이렇게 많은 분의 노고가 담긴 무대에서 진으로 세워줘 감사하다. 최선을 다하겠다”는 소감을 전했다.\n이날 진을 수상한 서재원은 미스 경기 출신으로, 한국예술종합학교에서 한국무용을 전공하고 있다.\n신체사이즈는 35-24-26으로 키 175㎝에 몸무게 54㎏이다.\n선(善)에는 정다혜(21ㆍ서울)와 이한나(20ㆍ필리핀)가, 미(美)에는 피현지(19ㆍ인천)와 김사랑(25ㆍ서울), 남승우(25ㆍ서울), 이수연(22ㆍ경북)이 선정됐다.\n이날 대회 진행은 미스코리아 출신 배우 오현경과 가수 토니안, 아나운서 김정근이 맡았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘2017 미스코리아 선발대회’ 진(眞)에 서재원(21ㆍ경기)이 선정됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서재원은 7일 서울 광진구 능동 유니버설아트센터에서 열린 2017 미스코리아 선발대회에서 최종 33명 가운데 진을 차지했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "진이 호명된 후 서재원은 “정말 감사하다. 믿을 수 없다”고 울먹이며 “이렇게 많은 분의 노고가 담긴 무대에서 진으로 세워줘 감사하다. 최선을 다하겠다”는 소감을 전했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 진을 수상한 서재원은 미스 경기 출신으로, 한국예술종합학교에서 한국무용을 전공하고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신체사이즈는 35-24-26으로 키 175㎝에 몸무게 54㎏이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선(善)에는 정다혜(21ㆍ서울)와 이한나(20ㆍ필리핀)가, 미(美)에는 피현지(19ㆍ인천)와 김사랑(25ㆍ서울), 남승우(25ㆍ서울), 이수연(22ㆍ경북)이 선정됐다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 대회 진행은 미스코리아 출신 배우 오현경과 가수 토니안, 아나운서 김정근이 맡았다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무용 전공에 미스 경기 출신... 2017 미스코리아 진(眞)은 '이 사람'!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

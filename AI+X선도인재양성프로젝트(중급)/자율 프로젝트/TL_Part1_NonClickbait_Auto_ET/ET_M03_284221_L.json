@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284221",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'택시' 박지우, 류지원 빨래 벗어 놓으면 \\\"속옷 냄새 맡는다\\\" 경악",
+		"newsSubTitle": "",
+		"newsContent": "택시 박지우/ 사진출처= tvN 방송 캡처 '택시' 박지우가 이연희를 닮은 미모의 아내가 화제다.\n댄스스포츠 선수 박지우(34)는 3일 방송된 tvN ‘현장토크쇼 택시(이하 택시)’에는 지난 9월에 방송됐던 ‘직업의 세계’ 1탄에 이은 2탄에서 디자이너 황재근이 출연해 스포츠 댄서와 디자이너의 세계에 대해서 상세하게 이야기를 나눴고, 미모의 아내 류지원 씨를 공개했다.\n이날 방송에서 이영자는 류지원에게 “박지우에 대해 놀랐던 점은?”이라고 묻자 류지원은 “제가 땀이 많다”며 “빨래를 벗어 놓으면 그 걸 냄새 맡는다”라고 말했다.\n이에 이영자가 “속옷까지?”라고 묻자 류지원은 “양말부터 속옷까지 다 맡는다”라고 고백했다.\n이영자가 “이런 걸 심리적으로 뭐라 하느냐?”라고 말하자 옆에서 황재근은 “페티시”라고 답해 웃음을 안겼다.\n박지우는 아내 류지원의 옷 냄새를 맡는 이유에 대해 “외국 선수들과 연습 같이 할 때 땀 냄새가 날까 봐 체크하던 버릇이 있었다. 그 게 노이로제로 걸릴 뻔 했다”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "택시 박지우/ 사진출처= tvN 방송 캡처 '택시' 박지우가 이연희를 닮은 미모의 아내가 화제다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "댄스스포츠 선수 박지우(34)는 3일 방송된 tvN ‘현장토크쇼 택시(이하 택시)’에는 지난 9월에 방송됐던 ‘직업의 세계’ 1탄에 이은 2탄에서 디자이너 황재근이 출연해 스포츠 댄서와 디자이너의 세계에 대해서 상세하게 이야기를 나눴고, 미모의 아내 류지원 씨를 공개했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 이영자는 류지원에게 “박지우에 대해 놀랐던 점은?”이라고 묻자 류지원은 “제가 땀이 많다”며 “빨래를 벗어 놓으면 그 걸 냄새 맡는다”라고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이영자가 “속옷까지?”라고 묻자 류지원은 “양말부터 속옷까지 다 맡는다”라고 고백했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이영자가 “이런 걸 심리적으로 뭐라 하느냐?”라고 말하자 옆에서 황재근은 “페티시”라고 답해 웃음을 안겼다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박지우는 아내 류지원의 옷 냄새를 맡는 이유에 대해 “외국 선수들과 연습 같이 할 때 땀 냄새가 날까 봐 체크하던 버릇이 있었다. 그 게 노이로제로 걸릴 뻔 했다”라고 밝혔다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'택시' 박지우, 류지원 빨래 벗어 놓으면 \\\"속옷 냄새 맡는다\\\" 경악",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

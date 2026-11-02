@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170887",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "백성현 “사랑받는 아빠, 행복한 이야기”",
+    "newsSubTitle": "",
+    "newsContent": "배우 백성현이 ‘딸 바보’ 아빠 일상을 사진으로 공개했다.\n백성현은 13일 SNS에 사진들과 함께 “서윤이 한 입 아빠 한 입. 맛있는데?”라며 “퓨레 선물 덕분에 오랜만에 집에 오지만 퓨레 한 가득 들고오니 사랑받는 아빠가 되었다는 행복한 이야기”라고 덧붙였다.\n사진 속에는 집에서 딸 육아 중인 백성현의 일상 모습이 담겨있다.\n딸과 앉아 있는 백성현 손에는 선물 받은 퓨레가 들려있다.\n딸 시선은 아빠의 손을 향했다.\n이어 입을 크게 벌린 채 먹고 있는 딸 모습과 따라하는 아빠의 모습을 담았다.\n백성현은 지난해 4월 세 살 연하 비연예인과 결혼했다.\n백성현은 최근 종영한 tvN 드라마 ‘보이스4’에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 백성현이 ‘딸 바보’ 아빠 일상을 사진으로 공개했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백성현은 13일 SNS에 사진들과 함께 “서윤이 한 입 아빠 한 입. 맛있는데?”라며 “퓨레 선물 덕분에 오랜만에 집에 오지만 퓨레 한 가득 들고오니 사랑받는 아빠가 되었다는 행복한 이야기”라고 덧붙였다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 집에서 딸 육아 중인 백성현의 일상 모습이 담겨있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "딸과 앉아 있는 백성현 손에는 선물 받은 퓨레가 들려있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "딸 시선은 아빠의 손을 향했다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 입을 크게 벌린 채 먹고 있는 딸 모습과 따라하는 아빠의 모습을 담았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "백성현은 지난해 4월 세 살 연하 비연예인과 결혼했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "백성현은 최근 종영한 tvN 드라마 ‘보이스4’에 출연했다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 백성현, SNS에 이것 공개... 행복한 모습",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

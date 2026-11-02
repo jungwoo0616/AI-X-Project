@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280031",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "더콰이엇 “강동원 닮았단 말 자주 들어” 정말?",
+		"newsSubTitle": "",
+		"newsContent": "'컬투쇼' 더콰이엇이 강동원 닮았다는 말을 자주 듣는다고 밝혔다.\n7일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 가수 더콰이엇이 출연했다.\n이날 DJ 컬투는 \\\"더콰이엇 살 빠져서 강동원 느낌이 난다\\\"고 말했다.\n이에 더콰이엇은 \\\"그런 얘기 많이 들었다\\\"며 \\\"이런 얘기를 들으면 기분이 좋은 것 같다\\\"고 말했다.\n그러자 옆에 있던 가수 도끼는 \\\"콰이엇 형이 더 잘생겼죠\\\"라고 거들었다.\n한편 이날 방송에는 '특선라이브' 게스트로 도끼와 더콰이엇이 출연해 재치있는 입담을 과시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'컬투쇼' 더콰이엇이 강동원 닮았다는 말을 자주 듣는다고 밝혔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 가수 더콰이엇이 출연했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 DJ 컬투는 \\\"더콰이엇 살 빠져서 강동원 느낌이 난다\\\"고 말했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 더콰이엇은 \\\"그런 얘기 많이 들었다\\\"며 \\\"이런 얘기를 들으면 기분이 좋은 것 같다\\\"고 말했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 옆에 있던 가수 도끼는 \\\"콰이엇 형이 더 잘생겼죠\\\"라고 거들었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 방송에는 '특선라이브' 게스트로 도끼와 더콰이엇이 출연해 재치있는 입담을 과시했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "더콰이엇 “강동원 닮았단 말 자주 들어” 정말?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

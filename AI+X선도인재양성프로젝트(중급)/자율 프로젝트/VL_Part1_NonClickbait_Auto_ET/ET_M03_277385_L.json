@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277385",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "손지창을 연예인으로 만들어준 사진 한 장",
+		"newsSubTitle": "",
+		"newsContent": "배우 손지창이 '사진 한 장'으로 데뷔한 사연이 공개됐다.\n최근 온라인 사이트에 손지창의 과거 SNS 글과 사진이 올라왔다.\n손지창의 글은 \\\"대학교 1학년 여름방학 때 다른 친구들은 배낭여행, 어학연수를 가거나 산으로 바다로 놀러 갔지만 난 그럴 수가 없었다\\\"며 시작됐다.\n이어 \\\"등록금에 조금이라도 보태기 위해 아르바이트를 했다\\\" \\\"그렇게 한달 동안 고생해서 내 손에 들어온 돈은 29만원인데 사촌 누나의 친구는 1년 동안 CF 모델을 해서 1천만원을 벌었다는..\\\"이라며 자신의 과거 학창 시절을 털어놨다.\n손지창은 \\\"무슨 용기가 났는지 무작정 나도 해보겠다고 난생 처음 메이크업과 헤어를 하고 처음 찍은 프로필 사진\\\"이라며 \\\"가끔 생각해 본다. 만약에 그 때 내가 이 사진을 안찍었다면 지금의 내 모습은 어떻게 달라졌을까...\\\"라고 덧붙였다.\n첨부된 사진 속 손지창은 날렵한 턱선에 부리부리한 눈매, 오똑한 콧날과 멋진 눈썹으로 보는이의 시선을 사로잡아 과거 '오빠부대'를 이끌고 다녔음을 입증했다.\n손지창의 사진을 본 네티즌은 \\\"근거 있는 용기를 내셨네ㅋㅋ\\\" \\\"오빠♡ 진짜 잘생겼음\\\" \\\"와 얼굴...대존잘\\\"등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 손지창이 '사진 한 장'으로 데뷔한 사연이 공개됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 사이트에 손지창의 과거 SNS 글과 사진이 올라왔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손지창의 글은 \\\"대학교 1학년 여름방학 때 다른 친구들은 배낭여행, 어학연수를 가거나 산으로 바다로 놀러 갔지만 난 그럴 수가 없었다\\\"며 시작됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"등록금에 조금이라도 보태기 위해 아르바이트를 했다\\\" \\\"그렇게 한달 동안 고생해서 내 손에 들어온 돈은 29만원인데 사촌 누나의 친구는 1년 동안 CF 모델을 해서 1천만원을 벌었다는..\\\"이라며 자신의 과거 학창 시절을 털어놨다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손지창은 \\\"무슨 용기가 났는지 무작정 나도 해보겠다고 난생 처음 메이크업과 헤어를 하고 처음 찍은 프로필 사진\\\"이라며 \\\"가끔 생각해 본다. 만약에 그 때 내가 이 사진을 안찍었다면 지금의 내 모습은 어떻게 달라졌을까...\\\"라고 덧붙였다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "첨부된 사진 속 손지창은 날렵한 턱선에 부리부리한 눈매, 오똑한 콧날과 멋진 눈썹으로 보는이의 시선을 사로잡아 과거 '오빠부대'를 이끌고 다녔음을 입증했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손지창의 사진을 본 네티즌은 \\\"근거 있는 용기를 내셨네ㅋㅋ\\\" \\\"오빠♡ 진짜 잘생겼음\\\" \\\"와 얼굴...대존잘\\\"등 반응을 보였다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손지창을 연예인으로 만들어준 사진 한 장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

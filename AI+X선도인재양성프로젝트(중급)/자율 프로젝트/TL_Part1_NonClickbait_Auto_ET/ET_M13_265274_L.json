@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265274",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "SF9 영빈·골든차일드 이대열, 오늘(29일) 입대[종합]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 SF9 영빈과 골든차일드 이대열이 오늘(29일) 입대한다.\n영빈과 이대열은 각각 육군 27사단과 3사단에 현역으로 입대하며, 코로나19 확산 방지를 위해 별도의 행사는 진행하지 않는다.\nSF9 영빈은 지난달 14일 소속사 FNC엔터테인먼트를 통해 “육군 27사단에 입대한다”고 밝혔다.\n영빈은 SF9 멤버 인성에 이어 그룹 내 두 번째로 군 복무를 시작하게 됐다.\n이대열은 지난 21일 소속사 울림엔터테인먼트는 통해 “육군 3사단에 현역 입대한다”고 전했으며 자필 손편지를 통해 “다치지 않게 조심히 다녀올 테니까 골드니스(팬덤명)도 제가 군대에 있는 동안 9명의 골든차일드 모습도 많이 응원해 주시라. 국방의 의무도 최선을 다하겠다”고 알렸다.\n한편 육군 현역병으로 입대하는 영빈과 이대열은 오는 2023년 9월에 전역할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 SF9 영빈과 골든차일드 이대열이 오늘(29일) 입대한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영빈과 이대열은 각각 육군 27사단과 3사단에 현역으로 입대하며, 코로나19 확산 방지를 위해 별도의 행사는 진행하지 않는다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SF9 영빈은 지난달 14일 소속사 FNC엔터테인먼트를 통해 “육군 27사단에 입대한다”고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영빈은 SF9 멤버 인성에 이어 그룹 내 두 번째로 군 복무를 시작하게 됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이대열은 지난 21일 소속사 울림엔터테인먼트는 통해 “육군 3사단에 현역 입대한다”고 전했으며 자필 손편지를 통해 “다치지 않게 조심히 다녀올 테니까 골드니스(팬덤명)도 제가 군대에 있는 동안 9명의 골든차일드 모습도 많이 응원해 주시라. 국방의 의무도 최선을 다하겠다”고 알렸다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 육군 현역병으로 입대하는 영빈과 이대열은 오는 2023년 9월에 전역할 예정이다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SF9 영빈·골든차일드 이대열, 오늘(29일) 입대[종합]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

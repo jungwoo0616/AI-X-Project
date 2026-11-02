@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171392",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘폐암 말기’ 김철민, 2달 만 얼굴 공개 “95일째 입원 중”",
+    "newsSubTitle": "",
+    "newsContent": "암 투병 중인 코미디언 김철민이 근황을 전했다.\n김철민은 13일 자신의 페이스북에 “95일째 입원 중. 사랑합니다”라는 글과 함께 사진 한 장을 게재했다.\n공개된 사진에는 머리카락이 하얗게 센 채 병실에 누워있는 김철민의 모습이 담겨있다.\n그는 다소 어두운 안색을 내비쳤지만 강렬한 눈빛으로 의지를 드러냈다.\n이를 본 누리꾼들은 “힘내세요. 호전되길 바랍니다” “어서 일어나서 노래 불러주세요” “이겨 내셔야 합니다. 근황 자주 올려주세요” 등의 응원 댓글을 남겼다.\n김철민은 1994년 MBC 공채 개그맨 출신으로 대학로에서 버스킹 공연을 하며 대중에게 얼굴을 알렸다.\n현재 그는 2019년 8월 폐암 말기 선언을 받은 후 투병 생활을 이어오고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "암 투병 중인 코미디언 김철민이 근황을 전했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김철민은 13일 자신의 페이스북에 “95일째 입원 중. 사랑합니다”라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 머리카락이 하얗게 센 채 병실에 누워있는 김철민의 모습이 담겨있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 다소 어두운 안색을 내비쳤지만 강렬한 눈빛으로 의지를 드러냈다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 본 누리꾼들은 “힘내세요. 호전되길 바랍니다” “어서 일어나서 노래 불러주세요” “이겨 내셔야 합니다. 근황 자주 올려주세요” 등의 응원 댓글을 남겼다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김철민은 1994년 MBC 공채 개그맨 출신으로 대학로에서 버스킹 공연을 하며 대중에게 얼굴을 알렸다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재 그는 2019년 8월 폐암 말기 선언을 받은 후 투병 생활을 이어오고 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'폐암 말기'에도 씩씩한 이 코미디언, \"95일째 입원 중. 사랑합니다\"라며 2달 만 얼굴 공개...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

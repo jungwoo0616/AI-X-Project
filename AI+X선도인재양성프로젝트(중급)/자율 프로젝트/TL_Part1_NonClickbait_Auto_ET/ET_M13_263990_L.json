@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263990",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘사내맞선’ 인기 입소문, 시청률 10% 넘었다",
+		"newsSubTitle": "",
+		"newsContent": "드라마 ‘사내맞선’이 시청률 10%대를 돌파해 시청자 수의 상승세를 보이고 있다.\n16일 시청률 조사회사 닐슨코리아의 집계에 따르면 지난 15일 방송된 SBS 월화드라마 ‘사내맞선’ 6회는 전국 가구 기준 10.1%의 시청률을 기록했다.\n이는 지난 14일 방송된 5회의 시청률 8.1%보다 2.0% 포인트 상승한 수치로, ‘사내맞선’의 자체 최고 기록이다.\n특히 10%대 시청률을 돌파했다는 점에서 의미가 크다. ‘사내맞선’은 지난 2월 28일 첫 방송을 4.9%를 시작으로 꾸준한 상승세를 보이고 있다.\n특히 시청률전문기업 TNMS에 따르면 전체 성연령대 중 30대여자 시청자 수 증가 폭이 가장 크게 나타났다.\n한편 이날 방송된 tvN ‘군검사 도베르만’도 시청률 상승을 보였다. ‘군검사 도베르만’은 전국 가구 기준 8.7%을 기록했다.\n반면 KBS2 ‘크레이지 러브’는 지난 방송분 1.9%에서 소폭 상승새 2.3%의 기록을 보였다.\n이날 ‘사내맞선’ 방송에서는 신하리(김세정)의 마음을 얻기 위한 강태무(안효섭)의 구애가 시작됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "드라마 ‘사내맞선’이 시청률 10%대를 돌파해 시청자 수의 상승세를 보이고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 시청률 조사회사 닐슨코리아의 집계에 따르면 지난 15일 방송된 SBS 월화드라마 ‘사내맞선’ 6회는 전국 가구 기준 10.1%의 시청률을 기록했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 14일 방송된 5회의 시청률 8.1%보다 2.0% 포인트 상승한 수치로, ‘사내맞선’의 자체 최고 기록이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 10%대 시청률을 돌파했다는 점에서 의미가 크다. ‘사내맞선’은 지난 2월 28일 첫 방송을 4.9%를 시작으로 꾸준한 상승세를 보이고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 시청률전문기업 TNMS에 따르면 전체 성연령대 중 30대여자 시청자 수 증가 폭이 가장 크게 나타났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 방송된 tvN ‘군검사 도베르만’도 시청률 상승을 보였다. ‘군검사 도베르만’은 전국 가구 기준 8.7%을 기록했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면 KBS2 ‘크레이지 러브’는 지난 방송분 1.9%에서 소폭 상승새 2.3%의 기록을 보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 ‘사내맞선’ 방송에서는 신하리(김세정)의 마음을 얻기 위한 강태무(안효섭)의 구애가 시작됐다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘사내맞선’ 인기 입소문, 시청률 10% 넘었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258383",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅, ‘트롯픽’ 위클리 男 1위",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 트롯픽 위클리 투표 남성 가수 부문 1위를 기록했다.\n17일 트롯스타 투표 웹서비스 트롯픽은 10일부터 16일까지 진행된 위클리 투표 결과를 공개했다.\n투표 결과 남성 가수 부문에서 임영웅이 133만 5,840포인트로 1위를 차지했다.\n앞서 그는 1월 2주차 위클리 투표에서도 1위를 차지했다.\n임영웅은 지난해 TV조선 ‘내일은 미스터트롯’에서 1위인 진眞)을 거머쥐면서 스타덤에 올랐다. ‘뽕숭아학당’, ‘사랑의 콜센타’ 등에 출연했으며 ‘이제 나만 믿어요’, ‘HERO’, ‘별빛 같은 나의 사랑아’, ‘사랑은 늘 도망가’ 등으로 큰 사랑을 받고 있다.\n지난해 연말에는 KBS2에서 단독쇼를 선보여 화제를 모았다.\n올해 상반기 발매를 목표로 정규 앨범을 준비 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 트롯픽 위클리 투표 남성 가수 부문 1위를 기록했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 트롯스타 투표 웹서비스 트롯픽은 10일부터 16일까지 진행된 위클리 투표 결과를 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "투표 결과 남성 가수 부문에서 임영웅이 133만 5,840포인트로 1위를 차지했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 그는 1월 2주차 위클리 투표에서도 1위를 차지했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임영웅은 지난해 TV조선 ‘내일은 미스터트롯’에서 1위인 진眞)을 거머쥐면서 스타덤에 올랐다. ‘뽕숭아학당’, ‘사랑의 콜센타’ 등에 출연했으며 ‘이제 나만 믿어요’, ‘HERO’, ‘별빛 같은 나의 사랑아’, ‘사랑은 늘 도망가’ 등으로 큰 사랑을 받고 있다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 연말에는 KBS2에서 단독쇼를 선보여 화제를 모았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올해 상반기 발매를 목표로 정규 앨범을 준비 중이다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, ‘트롯픽’ 위클리 男 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

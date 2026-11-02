@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265775",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "넷플릭스, 윌 스미스 손절…영화 제작 잠정 중단",
+		"newsSubTitle": "",
+		"newsContent": "넷플릭스가 제94회 아카데미 시상식에서 크리스 록(57)을 폭행한 윌 스미스(54) 주연의 영화 제작을 중단했다.\n미국 연예매체 버라이어티는 2일(현지시간) “넷플릭스는 윌 스미스가 주연을 맡은 액션 스릴러 ‘패스트 앤 루즈’의 제작을 잠정 중단했다”고 보도했다.\n매체는 “넷플릭스가 새로운 주인공을 찾을지는 아직 미지수이지만, ‘패스트 앤 루즈’에 이어 얼마나 많은 윌 스미스 영화가 도미노처럼 쓰러질지 주목된다”고 밝혔다.\n한편, 윌 스미스는 아카데미 시상식에서 크리스록이 탈모증을 앓고 있는 아내 핀켓 스미스를 조롱하는 발언을 하자 이를 참지 못하고 무대로 뛰어올라가 그의 뺨을 때렸다.\n크리스 록은 윌 스미스를 고소하지 않겠다는 입장을 밝혔으나 아카데미 측은 내달 18일 진행되는 차기 이사회에서 윌 스미스의 수상 취소와 아카데미 회원 자격 박탈 및 제명 등을 고려하겠다고 밝혔다.\n윌 스미스는 지난 1일 “내 행동은 충격적으로 고통스럽고 변명의 여지가 없다”며 공식 사과한 뒤 아카데미 회원을 자진 반납했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷플릭스가 제94회 아카데미 시상식에서 크리스 록(57)을 폭행한 윌 스미스(54) 주연의 영화 제작을 중단했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 연예매체 버라이어티는 2일(현지시간) “넷플릭스는 윌 스미스가 주연을 맡은 액션 스릴러 ‘패스트 앤 루즈’의 제작을 잠정 중단했다”고 보도했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매체는 “넷플릭스가 새로운 주인공을 찾을지는 아직 미지수이지만, ‘패스트 앤 루즈’에 이어 얼마나 많은 윌 스미스 영화가 도미노처럼 쓰러질지 주목된다”고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편, 윌 스미스는 아카데미 시상식에서 크리스록이 탈모증을 앓고 있는 아내 핀켓 스미스를 조롱하는 발언을 하자 이를 참지 못하고 무대로 뛰어올라가 그의 뺨을 때렸다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "크리스 록은 윌 스미스를 고소하지 않겠다는 입장을 밝혔으나 아카데미 측은 내달 18일 진행되는 차기 이사회에서 윌 스미스의 수상 취소와 아카데미 회원 자격 박탈 및 제명 등을 고려하겠다고 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윌 스미스는 지난 1일 “내 행동은 충격적으로 고통스럽고 변명의 여지가 없다”며 공식 사과한 뒤 아카데미 회원을 자진 반납했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷플릭스, 윌 스미스 손절…영화 제작 잠정 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

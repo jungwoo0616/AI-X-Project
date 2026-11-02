@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261124",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "금발 소녀 태연, 케이크 앞 청초한 매력 과시",
+		"newsSubTitle": "",
+		"newsContent": "가수 태연이 정규 앨범 발매 축하를 받았다.\n태연은 16일 자신의 인스타그램에‘♥♥’라는 글과 함께 사진을 게재했다.\n공개된 사진에서 태연은 앨범 발매를 축하하는 케이크와 함께 포즈를 취했다.\n태연 특유의 금발 헤어스타일에 청초한 표정으로 매력을 과시했다.\n어깨 라인이 드러나는 과감한 의상도 팬들의 눈길을 사로잡았다.\n여전한 특유의 소녀스러운 매력도 눈에 띄었다.\n태연은 최근 소속사 식수 보아, 효연, 슬기, 웬디, 카리나, 윈터와 함께‘갓 더 비트’로 활동한 데 이어 지난 14일 정규 3집 ‘아이엔비유(INVU)’를 공개했다.\n동명의 타이틀곡 ‘아이앤비유(INVU)’는 국내뿐 아니라 전 세계 21개 지역 아이튠즈 톱 앨범 차트 1위에 오르는 등 좋은 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 태연이 정규 앨범 발매 축하를 받았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "태연은 16일 자신의 인스타그램에‘♥♥’라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 태연은 앨범 발매를 축하하는 케이크와 함께 포즈를 취했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "태연 특유의 금발 헤어스타일에 청초한 표정으로 매력을 과시했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어깨 라인이 드러나는 과감한 의상도 팬들의 눈길을 사로잡았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여전한 특유의 소녀스러운 매력도 눈에 띄었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "태연은 최근 소속사 식수 보아, 효연, 슬기, 웬디, 카리나, 윈터와 함께‘갓 더 비트’로 활동한 데 이어 지난 14일 정규 3집 ‘아이엔비유(INVU)’를 공개했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "동명의 타이틀곡 ‘아이앤비유(INVU)’는 국내뿐 아니라 전 세계 21개 지역 아이튠즈 톱 앨범 차트 1위에 오르는 등 좋은 반응을 보이고 있다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금발 소녀 태연, 케이크 앞 청초한 매력 과시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264059",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조세호, 비교불가 현 조세호 vs 구 조세호 공개",
+		"newsSubTitle": "",
+		"newsContent": "방송인 조세호가 극단적인 다이어트 전후 비교 사진을 공개했다.\n조세호는 16일 자신의 사회관계망서비스(SNS)에 “굿모닝, 오늘은 유퀴즈 촬영날!! 유퀴즈?”라는 글과 함께 여러 장의 사진을 게재했다.\n공개된 사진은 조세호의 현재 유퀴즈, 과거 유퀴즈 촬영 모습이 담겼다.\n조세호는 최근 다이어트에 성공해 날렵한 몸매를 자랑하고 있다.\n몸무게 감량에 성공하면서 얼굴 V라인이 살아났고 한눈에 봐도 매우 날렵해졌다.\n반대로 과거 사진에서는 지금의 조세호라고는 상상할 수 없을 정도의 모습이어서 눈길을 끌었다.\n조세호는 약 30kg을 감량한 것으로 알려졌다.\n한편 조세호는 최근 코로나19에 확진돼 ‘유퀴즈’ 촬영을 잠시 쉬었다.\n조세호의 자리는 웹툰 작가 이말년이 채워 유튜브로 다져진 노련한 방송 운영으로 호평을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 조세호가 극단적인 다이어트 전후 비교 사진을 공개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조세호는 16일 자신의 사회관계망서비스(SNS)에 “굿모닝, 오늘은 유퀴즈 촬영날!! 유퀴즈?”라는 글과 함께 여러 장의 사진을 게재했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 조세호의 현재 유퀴즈, 과거 유퀴즈 촬영 모습이 담겼다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조세호는 최근 다이어트에 성공해 날렵한 몸매를 자랑하고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "몸무게 감량에 성공하면서 얼굴 V라인이 살아났고 한눈에 봐도 매우 날렵해졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반대로 과거 사진에서는 지금의 조세호라고는 상상할 수 없을 정도의 모습이어서 눈길을 끌었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조세호는 약 30kg을 감량한 것으로 알려졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 조세호는 최근 코로나19에 확진돼 ‘유퀴즈’ 촬영을 잠시 쉬었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "조세호의 자리는 웹툰 작가 이말년이 채워 유튜브로 다져진 노련한 방송 운영으로 호평을 받았다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조세호, 비교불가 현 조세호 vs 구 조세호 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

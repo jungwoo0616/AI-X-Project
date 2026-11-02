@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171314",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“나는 아미다” 정용진, 방탄소년단 카드 인증",
+    "newsSubTitle": "",
+    "newsContent": "신세계그룹 정용진 부회장이 ‘아미’를 재차 자처했다.\n정용진 부회장은 4일 “방탄소년단(BTS) 카드를 들고 멤버 이름을 외우는 중”이라며 ‘나는 아미(방탄소년단 팬클럽 이름)다’라는 태그를 덧붙였다.\n정용진 부회장이 아미를 자처한 것은 이번이 처음이 아니다.\n그는 8월 11일 인스타그램에 자신의 이니셜인 ‘YJ’가 새겨진 방탄소년단 포토 카드를 나열한 사진을 올리며 “아미가 돼 보련다”고 했다.\n멤버들도 구하기 힘들다고 평가되는 방탄소년단 전 멤버 포토 카드를 공개해 눈길을 끌기도 했다.\n정용진 부회장은 인스타그램 등 사회관계망서비스(SNS)를 적극 활동하는 재벌 총수다.\n최근에는 “‘오징어게임’을 보고 나니 영화 ‘직쏘’가 보고싶다”는 평을 남기는 등 대중 문화에도 친숙한 면모를 보이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신세계그룹 정용진 부회장이 ‘아미’를 재차 자처했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정용진 부회장은 4일 “방탄소년단(BTS) 카드를 들고 멤버 이름을 외우는 중”이라며 ‘나는 아미(방탄소년단 팬클럽 이름)다’라는 태그를 덧붙였다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정용진 부회장이 아미를 자처한 것은 이번이 처음이 아니다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 8월 11일 인스타그램에 자신의 이니셜인 ‘YJ’가 새겨진 방탄소년단 포토 카드를 나열한 사진을 올리며 “아미가 돼 보련다”고 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멤버들도 구하기 힘들다고 평가되는 방탄소년단 전 멤버 포토 카드를 공개해 눈길을 끌기도 했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정용진 부회장은 인스타그램 등 사회관계망서비스(SNS)를 적극 활동하는 재벌 총수다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최근에는 “‘오징어게임’을 보고 나니 영화 ‘직쏘’가 보고싶다”는 평을 남기는 등 대중 문화에도 친숙한 면모를 보이고 있다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정용진 부회장, SNS에 ‘이것’ 공개... “나는 아미” 입증",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

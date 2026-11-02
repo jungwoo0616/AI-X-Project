@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281420",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'여고생 와인하우스' 문수진, \\\"에이미 와인하우스 같은 가수 되고 싶어\\\" 가창력도 수준급",
+		"newsSubTitle": "",
+		"newsContent": "'여고생 와인하우스' 문수진, \\\"에이미 와인하우스 같은 가수 되고 싶어\\\" 가창력도 수준급 '너의 목소리가 보여 시즌2' 에 에이미 와인하우스를 꼭 닮은 여고생이 등장해 화제다.\n10일 오후 방송한 Mnet '너의 목소리가 들려2'에는 ‘여고생 와인하우스’ 17살 문수진 양이 출연해 에이미 와인하우스 못지않은 소울과 가창력을 과시했다.\n이날 브라운아이드걸스는 '여고생 와인하우스' 문수진 양을 음치로 선택했고, 문수진 양은 \\\"어려도 실력만큼은 성숙하다는 걸 보여드리고 싶어서 출연했다\\\"면서 \\\"에이미 와인하우스 같은 독특한 가수가 되고 싶다\\\"고 포부를 밝히고 무대에 섰다.\n문수진 양의 무대를 접한 브라운아이드걸스와 출연진은 그녀의 가창력에 감탄했다.\n이상민은 문수진 양의 어머니에게 \\\"엄청 잘하는 거다\\\"라고 전했다.\nMC 김범수는 \\\"에이미 와인하우스가 살아온 듯하다\\\"고 극찬했고, 브라운아이드걸스는 \\\"너무 노래를 잘한다. 어떻게 이럴 수 있느냐\\\"며 깜짝 놀라는 모습을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'여고생 와인하우스' 문수진, \\\"에이미 와인하우스 같은 가수 되고 싶어\\\" 가창력도 수준급 '너의 목소리가 보여 시즌2' 에 에이미 와인하우스를 꼭 닮은 여고생이 등장해 화제다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 오후 방송한 Mnet '너의 목소리가 들려2'에는 ‘여고생 와인하우스’ 17살 문수진 양이 출연해 에이미 와인하우스 못지않은 소울과 가창력을 과시했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 브라운아이드걸스는 '여고생 와인하우스' 문수진 양을 음치로 선택했고, 문수진 양은 \\\"어려도 실력만큼은 성숙하다는 걸 보여드리고 싶어서 출연했다\\\"면서 \\\"에이미 와인하우스 같은 독특한 가수가 되고 싶다\\\"고 포부를 밝히고 무대에 섰다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문수진 양의 무대를 접한 브라운아이드걸스와 출연진은 그녀의 가창력에 감탄했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이상민은 문수진 양의 어머니에게 \\\"엄청 잘하는 거다\\\"라고 전했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "MC 김범수는 \\\"에이미 와인하우스가 살아온 듯하다\\\"고 극찬했고, 브라운아이드걸스는 \\\"너무 노래를 잘한다. 어떻게 이럴 수 있느냐\\\"며 깜짝 놀라는 모습을 보였다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'여고생 와인하우스' 문수진, \\\"에이미 와인하우스 같은 가수 되고 싶어\\\" 가창력도 수준급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

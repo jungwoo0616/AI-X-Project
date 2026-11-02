@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277175",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "야구장 키스 타임 관람하는 아이린 반응",
+		"newsSubTitle": "",
+		"newsContent": "야구장 '키스타임'을 본 레드벨벳 멤버 아이린의 귀여운 반응이 온라인에서 화제다.\n9일 오후 서울 고척스카이돔에서 열린 'WBC 2017' 본선 1라운드 대한민국과 대만의 경기에 앞서 아이린은 시타를 했다.\n시타 후 경기를 관람함 아이린은 경기 도중 교대시간 카메라에 잡힌 관람객들이 키스하면 선물을 주는 일명 '키스 타임'도 지켜봤다.\n아이린은 깜짝 놀란 듯 두 눈을 질끈 감더니 이내 두 손을 가리고 전광판을 바라봤다.\n레드벨벳 팬은 이 모습을 순간 포착해 온라인 커뮤니티에 게재했다.\n한편 이날 대만과 맞붙은 한국 대표팀은 11대 8로 승리를 거뒀지만, 1승 2패(A조 3위)로 조기 탈락했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "야구장 '키스타임'을 본 레드벨벳 멤버 아이린의 귀여운 반응이 온라인에서 화제다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 오후 서울 고척스카이돔에서 열린 'WBC 2017' 본선 1라운드 대한민국과 대만의 경기에 앞서 아이린은 시타를 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시타 후 경기를 관람함 아이린은 경기 도중 교대시간 카메라에 잡힌 관람객들이 키스하면 선물을 주는 일명 '키스 타임'도 지켜봤다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이린은 깜짝 놀란 듯 두 눈을 질끈 감더니 이내 두 손을 가리고 전광판을 바라봤다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레드벨벳 팬은 이 모습을 순간 포착해 온라인 커뮤니티에 게재했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 대만과 맞붙은 한국 대표팀은 11대 8로 승리를 거뒀지만, 1승 2패(A조 3위)로 조기 탈락했다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "야구장 키스 타임 관람하는 아이린 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

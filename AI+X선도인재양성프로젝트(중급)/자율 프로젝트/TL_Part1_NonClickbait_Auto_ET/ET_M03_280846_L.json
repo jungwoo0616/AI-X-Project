@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280846",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 이명박 전 대통령이 청계천을 찾은 이유는",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 이슈 리뷰 토크쇼 ‘썰전’에서는 최근 측근들과 청계천을 찾은 이명박 전 대통령의 행보에 대해 이야기를 나눈다.\n지난 12일 이명박 전 대통령은 전직 장관·참모 등과 함께 올해로 복원 10주년을 맞은 청계천을 찾았다.\n이날 걷기 행사에는 강만수 전 기획재정부 장관, 유인촌 전 문화체육관광부 장관, 전재희 전 보건복지부 장관, 김재윤 전 국정홍보비서관 등 20여 명이 함께했다.\n이철희는 “청계천 복원 10주년은 지난 10월이었다”라며 “난데없이 12월에 청계천을 찾은 건 ‘총선’을 눈앞에 두고 ‘친이(친이명박)계’의 출정식 분위기를 띄우기 위한 것”이라고 분석한다.\n이에 이준석은 “조금만 지나면 청계천 물이 얼기 때문에 청계천의 수도를 잠근다”며 “물이 얼기 전에 (나들이를) 해야 한다는 압박감이 작용했을 것”이라고 현실적인 이유를 제시한다.\n이밖에 서울 도심에서 벌어진 주한미군의 탄저균 실험, 올해 처음 투표권을 가진 사우디아라비아 여성들의 인권실태 등을 다룬다. 24일 오후 10시 50분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 이슈 리뷰 토크쇼 ‘썰전’에서는 최근 측근들과 청계천을 찾은 이명박 전 대통령의 행보에 대해 이야기를 나눈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 12일 이명박 전 대통령은 전직 장관·참모 등과 함께 올해로 복원 10주년을 맞은 청계천을 찾았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 걷기 행사에는 강만수 전 기획재정부 장관, 유인촌 전 문화체육관광부 장관, 전재희 전 보건복지부 장관, 김재윤 전 국정홍보비서관 등 20여 명이 함께했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이철희는 “청계천 복원 10주년은 지난 10월이었다”라며 “난데없이 12월에 청계천을 찾은 건 ‘총선’을 눈앞에 두고 ‘친이(친이명박)계’의 출정식 분위기를 띄우기 위한 것”이라고 분석한다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 이준석은 “조금만 지나면 청계천 물이 얼기 때문에 청계천의 수도를 잠근다”며 “물이 얼기 전에 (나들이를) 해야 한다는 압박감이 작용했을 것”이라고 현실적인 이유를 제시한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이밖에 서울 도심에서 벌어진 주한미군의 탄저균 실험, 올해 처음 투표권을 가진 사우디아라비아 여성들의 인권실태 등을 다룬다. 24일 오후 10시 50분에 방송된다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 이명박 전 대통령이 청계천을 찾은 이유는",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

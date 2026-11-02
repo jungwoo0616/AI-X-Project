@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258684",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "박소담은 지금, 흥행 ‘특송’중",
+		"newsSubTitle": "",
+		"newsContent": "배우 박소담이 ‘특송’을 통해 저력을 발휘했다.\n박소담은 지난 12 일 개봉한 영화 ‘특송’(박대민 감독)에서 은하 역을 맡아 활약했다. ‘특송’은 성공률 100%의 특송 전문 드라이버인 은하가 예기치 못한 배송 사고에 휘말리면서 벌어지는 추격전을 담은 작품이다. ‘특송’에서 박소담은 특송 전문 드라이버로 나서며 전작과는 또 다른 새로운 모습을 선보였다.\n특히 박소담은 짜릿한 카체이싱 액션은 물론, 타격감 넘치는 맨 몸 액션 등을 펼치며 액션에서도 완벽한 모습을 자랑했다.\n뿐만 아니라 카리스마 넘치는 모습은 물론, 점차적으로 서원(정현준 분)에게 마음을 여는 은하의 내면을 섬세하게 그려내며 진가를 입증했다.\n더불어 박소담은 능동적인 모습의 은하를 통해 출구 없는 ‘걸크러시’ 매력까지 선보이며 호평을 받고 있다.\n박소담의 활약에 힘입어 ‘특송’은 개봉 첫 주 한국 영화 박스오피스 1 위(영진위 통합전산망 기준)에 오르고, CGV 골든에그 지수 93%를 기록하는 등 상승세를 타고 있다. ‘특송’은 현재 전국 극장에서 상영 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박소담이 ‘특송’을 통해 저력을 발휘했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박소담은 지난 12 일 개봉한 영화 ‘특송’(박대민 감독)에서 은하 역을 맡아 활약했다. ‘특송’은 성공률 100%의 특송 전문 드라이버인 은하가 예기치 못한 배송 사고에 휘말리면서 벌어지는 추격전을 담은 작품이다. ‘특송’에서 박소담은 특송 전문 드라이버로 나서며 전작과는 또 다른 새로운 모습을 선보였다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 박소담은 짜릿한 카체이싱 액션은 물론, 타격감 넘치는 맨 몸 액션 등을 펼치며 액션에서도 완벽한 모습을 자랑했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뿐만 아니라 카리스마 넘치는 모습은 물론, 점차적으로 서원(정현준 분)에게 마음을 여는 은하의 내면을 섬세하게 그려내며 진가를 입증했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더불어 박소담은 능동적인 모습의 은하를 통해 출구 없는 ‘걸크러시’ 매력까지 선보이며 호평을 받고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박소담의 활약에 힘입어 ‘특송’은 개봉 첫 주 한국 영화 박스오피스 1 위(영진위 통합전산망 기준)에 오르고, CGV 골든에그 지수 93%를 기록하는 등 상승세를 타고 있다. ‘특송’은 현재 전국 극장에서 상영 중이다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박소담은 지금, 흥행 ‘특송’중",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

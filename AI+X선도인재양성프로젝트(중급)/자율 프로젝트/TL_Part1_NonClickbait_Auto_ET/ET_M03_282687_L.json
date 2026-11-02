@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282687",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "조쉬·국가비, 귀여운 데이트 인증샷…\\\"너무 추워서 카페에서 2시간 째\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'조쉬 국가비' 요리연구가 국가비가 연인 조쉬 캐럿과 데이트 사진을 공개했다.\n국가비는 지난 21일 자신의 인스타그램을 통해 \\\"너무 추워서 카페에서 2시간 째\\\"라는 글과 함께 한 장의 사진을 게재했다.\n공개된 사진 속에는 영국 런던의 한 카페에서 데이트를 즐기는 국가비와 조쉬의 모습이 담겨 있다.\n이들은 다정한 포즈로 훈훈함을 자아내 더욱 눈길을 끌었다.\n한편 25일 조쉬 캐럿은 자신의 SNS를 통해 국가비에게 프러포즈한 영상을 공개했다.\n조쉬 캐럿은 \\\"이번 영상은 제 개인적인 얘기이기도 하지만, 제 인생의 아주 중요한 단계이기도 하니까… 여러분들이랑 공유하고 싶었어요\\\"라며 프러포즈 영상을 게재했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'조쉬 국가비' 요리연구가 국가비가 연인 조쉬 캐럿과 데이트 사진을 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국가비는 지난 21일 자신의 인스타그램을 통해 \\\"너무 추워서 카페에서 2시간 째\\\"라는 글과 함께 한 장의 사진을 게재했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 영국 런던의 한 카페에서 데이트를 즐기는 국가비와 조쉬의 모습이 담겨 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 다정한 포즈로 훈훈함을 자아내 더욱 눈길을 끌었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 25일 조쉬 캐럿은 자신의 SNS를 통해 국가비에게 프러포즈한 영상을 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조쉬 캐럿은 \\\"이번 영상은 제 개인적인 얘기이기도 하지만, 제 인생의 아주 중요한 단계이기도 하니까… 여러분들이랑 공유하고 싶었어요\\\"라며 프러포즈 영상을 게재했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조쉬·국가비, 귀여운 데이트 인증샷…\\\"너무 추워서 카페에서 2시간 째\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

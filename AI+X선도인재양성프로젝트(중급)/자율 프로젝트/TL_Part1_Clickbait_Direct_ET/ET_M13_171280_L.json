@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171280",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘우당탕탕 안테나’ 정승환 “신입사원 유재석, 외모 관리 열심히 해야”",
+    "newsSubTitle": "",
+    "newsContent": "신입사원 유재석에게 안테나 아티스트들이 회사생활 조언을 전했다.\n권진아는 30일 온라인으로 진행된 카카오TV ‘더듬이TV : 우당탕탕 안테나’ 제작발표회에서 “열심히 하는 모습을 대표님에게 많이 보여주면 될 것 같다. 열심히 하는 척만으로도 괜찮을 것 같다”고 솔직하게 답했다.\n정승환은 “분기별로, 주기적으로 상무님과 부장님께 안부 문자 드려야한다. 그렇게 하면 회사에서 조금 더 예쁨 받지 않을까”라며 “또 저희 회사는 외모 가꾸는 걸 중요시 하기 때문에 열심히 관리를 하시면 대표님의 사랑 한 몸에 받을 수 있을 것”이라고 말해 웃음을 안겼다.\n카카오TV 오리지널 ‘더듬이TV : 우당탕탕 안테나’는 안테나의 전무후무 역대급 전사 예능 프로젝트다.\n소속 아티스트들의 매력을 널리 알려 수많은 시청자들의 마음을 사로잡겠다는 열정과 야망으로 가득한 ‘대표님’ 유희열부터, 탁월한 음악성은 물론 예능감까지 인정받은 정재형, 페퍼톤스 등의 안테나 대선배들은 물론, 예능 초보이지만 그동안 몰랐던 숨은 매력을 드러내는 예능 원석들이 총출동한다.\n다음달 1일 오후 5시 첫 공개되며 매주 월, 금요일 오후 5시 카카오TV에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신입사원 유재석에게 안테나 아티스트들이 회사생활 조언을 전했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권진아는 30일 온라인으로 진행된 카카오TV ‘더듬이TV : 우당탕탕 안테나’ 제작발표회에서 “열심히 하는 모습을 대표님에게 많이 보여주면 될 것 같다. 열심히 하는 척만으로도 괜찮을 것 같다”고 솔직하게 답했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정승환은 “분기별로, 주기적으로 상무님과 부장님께 안부 문자 드려야한다. 그렇게 하면 회사에서 조금 더 예쁨 받지 않을까”라며 “또 저희 회사는 외모 가꾸는 걸 중요시 하기 때문에 열심히 관리를 하시면 대표님의 사랑 한 몸에 받을 수 있을 것”이라고 말해 웃음을 안겼다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "카카오TV 오리지널 ‘더듬이TV : 우당탕탕 안테나’는 안테나의 전무후무 역대급 전사 예능 프로젝트다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속 아티스트들의 매력을 널리 알려 수많은 시청자들의 마음을 사로잡겠다는 열정과 야망으로 가득한 ‘대표님’ 유희열부터, 탁월한 음악성은 물론 예능감까지 인정받은 정재형, 페퍼톤스 등의 안테나 대선배들은 물론, 예능 초보이지만 그동안 몰랐던 숨은 매력을 드러내는 예능 원석들이 총출동한다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다음달 1일 오후 5시 첫 공개되며 매주 월, 금요일 오후 5시 카카오TV에서 공개된다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " ‘더듬이TV : 우당탕탕 안테나’... \"이 사람들 모두 나온다고?\" ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

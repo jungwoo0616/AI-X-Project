@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278190",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'쇼!음악중심' 민트, 걸크러쉬 스타일로 무대 장악 \\\"만만하게 보지마\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'쇼! 음악중심' 민트가 걸크러쉬 무대로 여성 팬들의 마음을 흔들었다.\n23일 방송된 MBC '쇼! 음악중심'에서는 민트가 타이틀곡 '얼레리 꼴레리' 무대를 선보였따. 이날 민트는 자신의 이름에 걸맞는 민트색 자켓과 블랙 숏팬츠를 입고 등장해 자신감 넘치는 안무를 선보였다.\n여기에'얼레리 꼴레리'의 중독성 강한 가사가 재미를 더했다.\n민트의 '얼레리 꼴레리'는 한 남자를 두고 다른 여자와 싸우는 내용으로, 상대 여자에게 ‘내 키가 작다고 만만하게 보지마’ 라며 경고하는 자신감 넘치는 여자의 모습을 표현했다.\n앞서 민트는 지난 14일 솔로 데뷔 음반 '얼레리 꼴레리'를 발표하며 새로운 출발을 알린 바 있다.\n한편, 이날 방송에는 블락비와 VIXX, 정은지, 세븐틴, 러블리즈, 트와이스, 예성, 업텐션, 오마이걸, NCT U, 우주소녀, HISTORY, 에이프릴, 유성은, 민트, 두스티, 라데, 코코소리등이 출연해 무대를 꾸몄다.\n온라인 중앙일보 [사진 MBC '쇼!음악중심' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'쇼! 음악중심' 민트가 걸크러쉬 무대로 여성 팬들의 마음을 흔들었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 방송된 MBC '쇼! 음악중심'에서는 민트가 타이틀곡 '얼레리 꼴레리' 무대를 선보였따. 이날 민트는 자신의 이름에 걸맞는 민트색 자켓과 블랙 숏팬츠를 입고 등장해 자신감 넘치는 안무를 선보였다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여기에'얼레리 꼴레리'의 중독성 강한 가사가 재미를 더했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민트의 '얼레리 꼴레리'는 한 남자를 두고 다른 여자와 싸우는 내용으로, 상대 여자에게 ‘내 키가 작다고 만만하게 보지마’ 라며 경고하는 자신감 넘치는 여자의 모습을 표현했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 민트는 지난 14일 솔로 데뷔 음반 '얼레리 꼴레리'를 발표하며 새로운 출발을 알린 바 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 이날 방송에는 블락비와 VIXX, 정은지, 세븐틴, 러블리즈, 트와이스, 예성, 업텐션, 오마이걸, NCT U, 우주소녀, HISTORY, 에이프릴, 유성은, 민트, 두스티, 라데, 코코소리등이 출연해 무대를 꾸몄다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC '쇼!음악중심' 캡처]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'쇼!음악중심' 민트, 걸크러쉬 스타일로 무대 장악 \\\"만만하게 보지마\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

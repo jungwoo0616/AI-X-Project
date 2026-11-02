@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274038",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "정동하, ‘그때in가요’ 출격",
+		"newsSubTitle": "",
+		"newsContent": "가수 정동하가 네이버나우 ‘그때in가요’에 출격한다.\n정동하는 25·26일 양일간 오전 11시 방송되는 네이버나우 ‘그때in가요’의 스페셜 호스트로 얼굴을 내비친다.\n이날 정동하는 국내 밴드들의 명곡을 소개하며, 다양한 이야기를 나눈다.\n그동안 KBS2 ‘불후의 명곡’ 등에서 유려한 입담으로 사랑을 받은 그는 이번 방송에서도 국내 록씬의 역사를 재미있게 들려줄 예정이다.\n정동하는 지난 4월 소극장 콘서트 ‘오프 더 레코드’로 팬데믹 시작 3년 만에 팬들과 만났다.\n9회차 공연을 성료하며 프로페셔널한 가수로서 면모를 뽐냈다.\n한편 정동하는 소향과 전국 투어 콘서트를 진행하며, 다음 달 2일 인천, 16일 울산에서 관객들을 만난다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정동하가 네이버나우 ‘그때in가요’에 출격한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정동하는 25·26일 양일간 오전 11시 방송되는 네이버나우 ‘그때in가요’의 스페셜 호스트로 얼굴을 내비친다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 정동하는 국내 밴드들의 명곡을 소개하며, 다양한 이야기를 나눈다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 KBS2 ‘불후의 명곡’ 등에서 유려한 입담으로 사랑을 받은 그는 이번 방송에서도 국내 록씬의 역사를 재미있게 들려줄 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정동하는 지난 4월 소극장 콘서트 ‘오프 더 레코드’로 팬데믹 시작 3년 만에 팬들과 만났다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "9회차 공연을 성료하며 프로페셔널한 가수로서 면모를 뽐냈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 정동하는 소향과 전국 투어 콘서트를 진행하며, 다음 달 2일 인천, 16일 울산에서 관객들을 만난다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정동하, ‘그때in가요’ 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

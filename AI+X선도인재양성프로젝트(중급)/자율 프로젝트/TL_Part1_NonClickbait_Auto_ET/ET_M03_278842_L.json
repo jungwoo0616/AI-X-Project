@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278842",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "안재욱, 딸 출산에 감사인사 \\\"오늘 드디어 아빠가 됐어요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 안재욱이 딸바보 면모를 드러냈다.\n안재욱은 16일 자신의 인스타그램에 \\\"#오늘 #드디어 #아빠가 되었어요~~ #예쁘고 #건강하게 키울게요~~ #감사합니다 ^^~~\\\"라는 해시태그와 함께 사진을 게재했다.\n공개된 사진 속 안재욱은 딸 아이를 안고 환한 미소를 지었다.\n특히 안재욱은 잠이 든 딸의 얼굴을 지긋하게 바라보며 새로운 딸바보 탄생을 알렸다.\n또한 안재욱은 \\\"드디어 아빠가 되었어요. 예쁘고 건강하게 키울게요\\\"라고 적었다.\n안재욱-최현주 부부는 지난 2015년 6월 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 안재욱이 딸바보 면모를 드러냈다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안재욱은 16일 자신의 인스타그램에 \\\"#오늘 #드디어 #아빠가 되었어요~~ #예쁘고 #건강하게 키울게요~~ #감사합니다 ^^~~\\\"라는 해시태그와 함께 사진을 게재했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 안재욱은 딸 아이를 안고 환한 미소를 지었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 안재욱은 잠이 든 딸의 얼굴을 지긋하게 바라보며 새로운 딸바보 탄생을 알렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 안재욱은 \\\"드디어 아빠가 되었어요. 예쁘고 건강하게 키울게요\\\"라고 적었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안재욱-최현주 부부는 지난 2015년 6월 결혼식을 올렸다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안재욱, 딸 출산에 감사인사 \\\"오늘 드디어 아빠가 됐어요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

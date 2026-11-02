@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274513",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한혜진, OTT 티빙 오리지널 ‘제로섬게임’ 진행…체중 조절 꿀팁 알려",
+		"newsSubTitle": "",
+		"newsContent": "톱모델이자 방송인 한혜진이 1일 공개가 된 OTT 티빙 오리지널 ‘제로섬게임’ 진행자로 나섰다.\n국내 최초 몸무게 심리 서바이벌 ‘제로섬게임’은 10명의 참가자가 ‘몸무게 총합을 그대로 유지하라’라는 단 하나의 미션을 놓고 펼치는 서바이벌 프로그램이다.\n찜질방에서 펼쳐지는 이 서바이벌은 매 라운드 참가자 총합 몸무게 유지 여부에 따라 총상금이 변화하는 극한의 룰로 상금 사수는 물론 이를 쟁취하기 위한 참가자들의 예측불가 경쟁이 펼쳐졌다. ‘제로섬게임’은 한혜진 MC 합류가 흥미를 증폭시켰다.\n톱모델로서 프로페셔널한 자기 관리 모습은 물론 대체불가한 매력으로 다양한 방송에서 활약 중인 한혜진은 MC로서 매 순간 긴장을 놓칠 수 없는 ‘제로섬게임’의 서바이벌 재미를 극대화 시켰다.\n체중 관리에 다양한 경험을 가진 한혜진은 참가자들의 상황과 심리를 이해하는 것은 물론 자신만의 노하우를 바탕으로 체중 조절 꿀팁을 대방출 해 흥미와 함께 정보도 전했다.\n한혜진은 다양한 브랜드의 모델로 활동을 이어가며 ‘제로섬게임’은 물론 KBS조이 ‘연애의 참견 시즌3’ 등 다양한 예능 프로그램에서 활약하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "톱모델이자 방송인 한혜진이 1일 공개가 된 OTT 티빙 오리지널 ‘제로섬게임’ 진행자로 나섰다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 최초 몸무게 심리 서바이벌 ‘제로섬게임’은 10명의 참가자가 ‘몸무게 총합을 그대로 유지하라’라는 단 하나의 미션을 놓고 펼치는 서바이벌 프로그램이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "찜질방에서 펼쳐지는 이 서바이벌은 매 라운드 참가자 총합 몸무게 유지 여부에 따라 총상금이 변화하는 극한의 룰로 상금 사수는 물론 이를 쟁취하기 위한 참가자들의 예측불가 경쟁이 펼쳐졌다. ‘제로섬게임’은 한혜진 MC 합류가 흥미를 증폭시켰다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "톱모델로서 프로페셔널한 자기 관리 모습은 물론 대체불가한 매력으로 다양한 방송에서 활약 중인 한혜진은 MC로서 매 순간 긴장을 놓칠 수 없는 ‘제로섬게임’의 서바이벌 재미를 극대화 시켰다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "체중 관리에 다양한 경험을 가진 한혜진은 참가자들의 상황과 심리를 이해하는 것은 물론 자신만의 노하우를 바탕으로 체중 조절 꿀팁을 대방출 해 흥미와 함께 정보도 전했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한혜진은 다양한 브랜드의 모델로 활동을 이어가며 ‘제로섬게임’은 물론 KBS조이 ‘연애의 참견 시즌3’ 등 다양한 예능 프로그램에서 활약하고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한혜진, OTT 티빙 오리지널 ‘제로섬게임’ 진행…체중 조절 꿀팁 알려",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

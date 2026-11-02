@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271477",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘러브렌즈’ 박시환 “나는 왜 안 잤을까”",
+		"newsSubTitle": "",
+		"newsContent": "가수 박시환이 목요일 밤을 따뜻함과 웃음으로 물들였다.\n박시환은 26일 오후 방송된 BTN라디오 ‘러브렌즈 박시환입니다’(이하 ‘러브렌즈’)에 출연했다.\n밝고 따뜻한 인사로 ‘러브렌즈’의 포문을 연 박시환은 재치 넘치는 입담과 함께 청취자들과 활발한 소통을 이어갔다.\n박시환은 아들 두 명을 가진 한 청취자의 사연에 “가장 이상적인 것 아들 하나, 딸 하나라고 생각한다. 우리 형제는 엄청 싸웠다”라고 밝히며 웃음을 자아냈다.\n키가 작아서 고민인 청취자의 사연에는 “제가 가족 남자들 중 가장 작다. 잘 먹고 잘 자는 게 최고다. 나는 왜 안 잤을까?”라고 귀엽게 후회하며 깜찍한 매력을 대방출했다.\n청취자들의 다양한 사연에 대해 현실적인 조언과 리액션으로 듣는 재미를 더한 박시환은 팔방미남 매력을 선보이며 청취자들에게 뜨거운 호응을 얻기도 했다.\n최근 ‘러브렌즈’에서 프로 DJ로 거듭난 박시환은 앞으로도 다양한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박시환이 목요일 밤을 따뜻함과 웃음으로 물들였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박시환은 26일 오후 방송된 BTN라디오 ‘러브렌즈 박시환입니다’(이하 ‘러브렌즈’)에 출연했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "밝고 따뜻한 인사로 ‘러브렌즈’의 포문을 연 박시환은 재치 넘치는 입담과 함께 청취자들과 활발한 소통을 이어갔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박시환은 아들 두 명을 가진 한 청취자의 사연에 “가장 이상적인 것 아들 하나, 딸 하나라고 생각한다. 우리 형제는 엄청 싸웠다”라고 밝히며 웃음을 자아냈다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "키가 작아서 고민인 청취자의 사연에는 “제가 가족 남자들 중 가장 작다. 잘 먹고 잘 자는 게 최고다. 나는 왜 안 잤을까?”라고 귀엽게 후회하며 깜찍한 매력을 대방출했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "청취자들의 다양한 사연에 대해 현실적인 조언과 리액션으로 듣는 재미를 더한 박시환은 팔방미남 매력을 선보이며 청취자들에게 뜨거운 호응을 얻기도 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 ‘러브렌즈’에서 프로 DJ로 거듭난 박시환은 앞으로도 다양한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘러브렌즈’ 박시환 “나는 왜 안 잤을까”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

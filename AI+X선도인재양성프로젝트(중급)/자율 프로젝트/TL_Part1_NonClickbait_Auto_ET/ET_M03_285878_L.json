@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285878",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'나혼자산다' 이국주, \\\"너는 여자로서는 안 살거니?\\\" 질문 받아 상처",
+		"newsSubTitle": "",
+		"newsContent": "'나혼자산다'이국주, 선배의 \\\"너는 여자로서는 안 살거니?\\\" 질문에 ... '나혼자산다' 이국주가 과거 서러웠던 일화를 털어놔 이목을 끌고 있다.\n16일 방송된 MBC '나 혼자 산다'에서는 개그우먼 이국주가 출연해 서러웠던 막내 시절을 회상했다.\n이날 이국주는 \\\"개그 프로를 끝내고 회식하는 자리였다. 막내였기 때문에 늦게 정리를 하고 (회식에) 왔다\\\"고 말문을 열었다.\n이어 \\\"고기가 거의 없어질 때라서 밥이라도 먹자는 생각에 '공깃밥 하나 주세요'라고 말했다. 그런데 어떤 여자 선배가 '너는 여자로서는 안 살 거니?'라고 물었다\\\"고 전했다.\n그러면서 이국주는 \\\"내가 많은 사람 앞에서 창피를 당하면서까지 이런 이야기를 듣고 일해야 하나 생각이 들었다. 그날 한 입도 안 먹고, 집에 와서 소주 3병을 마셨다\\\"고 말해 안타까움을 자아냈다.\n또 이국주는 \\\"그런 말 때문에 그만두지 말아야겠다는 생각이 들었다. 신체능력 비하 때문에 그만두면 지는 사람이라고 생각했다. 그때 다시 일어났다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'나혼자산다'이국주, 선배의 \\\"너는 여자로서는 안 살거니?\\\" 질문에 ... '나혼자산다' 이국주가 과거 서러웠던 일화를 털어놔 이목을 끌고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 방송된 MBC '나 혼자 산다'에서는 개그우먼 이국주가 출연해 서러웠던 막내 시절을 회상했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이국주는 \\\"개그 프로를 끝내고 회식하는 자리였다. 막내였기 때문에 늦게 정리를 하고 (회식에) 왔다\\\"고 말문을 열었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"고기가 거의 없어질 때라서 밥이라도 먹자는 생각에 '공깃밥 하나 주세요'라고 말했다. 그런데 어떤 여자 선배가 '너는 여자로서는 안 살 거니?'라고 물었다\\\"고 전했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 이국주는 \\\"내가 많은 사람 앞에서 창피를 당하면서까지 이런 이야기를 듣고 일해야 하나 생각이 들었다. 그날 한 입도 안 먹고, 집에 와서 소주 3병을 마셨다\\\"고 말해 안타까움을 자아냈다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 이국주는 \\\"그런 말 때문에 그만두지 말아야겠다는 생각이 들었다. 신체능력 비하 때문에 그만두면 지는 사람이라고 생각했다. 그때 다시 일어났다\\\"고 덧붙였다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'나혼자산다' 이국주, \\\"너는 여자로서는 안 살거니?\\\" 질문 받아 상처",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

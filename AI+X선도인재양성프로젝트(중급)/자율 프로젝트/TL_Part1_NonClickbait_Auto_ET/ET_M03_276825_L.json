@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276825",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"3년 운 다 썼다\\\" 대형 트레일러 면허 시험 합격한 여배우",
+		"newsSubTitle": "",
+		"newsContent": "배우 이시영이 특수 트레일러 운전면허를 땄다.\n이시영은 20일 자신의 인스타그램에 \\\"3년 운 다 썼다. 대형1종, 2종소형, 특수 트레일러 (면허) 한 번에 합격\\\"이라며 운전면허 합격증 사진을 게재했다.\n이와 함께 운전면허 학원에 있는 트레일러와 버스 앞에서 포즈를 취한 사진도 공개했다.\n이시영은 \\\"오토바이 학원에 다니면서 계속 눈에 밟혔던 버스와 25톤 트레일러\\\"라며 \\\"결국 여기 학원에 있는 면허 전부 도전했다\\\"고 소감을 밝혔다.\n그러면서 \\\"남은 면허는 특수레카 하나\\\"라며 \\\"언젠가는 꼭 (도전하겠다)\\\"고 덧붙였다.\n이시영은 오는 22일 첫 방송하는 MBC 드라마 '파수꾼'에 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이시영이 특수 트레일러 운전면허를 땄다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이시영은 20일 자신의 인스타그램에 \\\"3년 운 다 썼다. 대형1종, 2종소형, 특수 트레일러 (면허) 한 번에 합격\\\"이라며 운전면허 합격증 사진을 게재했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 운전면허 학원에 있는 트레일러와 버스 앞에서 포즈를 취한 사진도 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이시영은 \\\"오토바이 학원에 다니면서 계속 눈에 밟혔던 버스와 25톤 트레일러\\\"라며 \\\"결국 여기 학원에 있는 면허 전부 도전했다\\\"고 소감을 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 \\\"남은 면허는 특수레카 하나\\\"라며 \\\"언젠가는 꼭 (도전하겠다)\\\"고 덧붙였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이시영은 오는 22일 첫 방송하는 MBC 드라마 '파수꾼'에 출연한다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"3년 운 다 썼다\\\" 대형 트레일러 면허 시험 합격한 여배우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265685",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘손예진 부케’ 받은 공효진, 가수 케빈오와 열애中[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 공효진이 10살 연하 한국계 미국인 록싱어 케빈오와 열애 중인 것으로 확인됐다.\n공효진 소속사 매니지먼트 숲은 1일 “공효진이 케빈오와 좋은 만남을 갖고 있다”고 언론에 밝혔다.\n일부 매체를 통해 보도된 결혼설에 대해선 “결혼까지는 정해진 바 없다”는 입장을 전했다.\n공효진은 전날 배우 손예진과 현빈의 결혼식에서 부케를 받은 사실이 알려지면서 결혼을 앞둔 것이 아니냐는 추측이 나오고 있다.\n앞서 공효진은 SNS 계정에 케빈 오 사진을 올렸다가 빠르게 삭제한 일이 있었다.\n케빈오는 2015년 엠넷 오디션 프로그램 ‘슈퍼스타K 7’ 우승자 출신으로 싱글 ‘연인’, ‘하우 두 아이’ 등을 발매했으며, 2019년 JTBC ‘슈퍼밴드’를 통해 록밴드 애프터문을 결성했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 공효진이 10살 연하 한국계 미국인 록싱어 케빈오와 열애 중인 것으로 확인됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공효진 소속사 매니지먼트 숲은 1일 “공효진이 케빈오와 좋은 만남을 갖고 있다”고 언론에 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일부 매체를 통해 보도된 결혼설에 대해선 “결혼까지는 정해진 바 없다”는 입장을 전했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공효진은 전날 배우 손예진과 현빈의 결혼식에서 부케를 받은 사실이 알려지면서 결혼을 앞둔 것이 아니냐는 추측이 나오고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 공효진은 SNS 계정에 케빈 오 사진을 올렸다가 빠르게 삭제한 일이 있었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "케빈오는 2015년 엠넷 오디션 프로그램 ‘슈퍼스타K 7’ 우승자 출신으로 싱글 ‘연인’, ‘하우 두 아이’ 등을 발매했으며, 2019년 JTBC ‘슈퍼밴드’를 통해 록밴드 애프터문을 결성했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘손예진 부케’ 받은 공효진, 가수 케빈오와 열애中[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277555",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "버벌진트 '세월호 행적' 묻는 앨범에 비난 이어진 이유",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 버벌진트가 컴백을 알렸지만 팬들의 비난을 받고 있다.\n9일 버벌진트는 자신의 인스타그램을 통해 새 앨범 '그것이 알고싶다'의 표지를 공개했다.\n앨범 '그것이 알고싶다'는 세월호 참사 당시의 박근혜 대통령의 행적을 밝히는 것을 촉구하는 뜻을 내포하고 있는 것으로 알려졌다.\n하지만 일부 네티즌들은 이에 대해 싸늘한 반응을 보였다.\n네티즌들은 \\\"버벌진트 음주운전\\\" \\\"(당신) 앞가림이나 잘하세요\\\" \\\"추적 60분 측,'버벌진트 음주운전 후 도주\\\"와 같은 댓글을 남겼다.\n버벌진트는 지난해 6월 혈중알코올농도 0.067%로 면허 정지 처분을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 버벌진트가 컴백을 알렸지만 팬들의 비난을 받고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 버벌진트는 자신의 인스타그램을 통해 새 앨범 '그것이 알고싶다'의 표지를 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앨범 '그것이 알고싶다'는 세월호 참사 당시의 박근혜 대통령의 행적을 밝히는 것을 촉구하는 뜻을 내포하고 있는 것으로 알려졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 일부 네티즌들은 이에 대해 싸늘한 반응을 보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네티즌들은 \\\"버벌진트 음주운전\\\" \\\"(당신) 앞가림이나 잘하세요\\\" \\\"추적 60분 측,'버벌진트 음주운전 후 도주\\\"와 같은 댓글을 남겼다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "버벌진트는 지난해 6월 혈중알코올농도 0.067%로 면허 정지 처분을 받았다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "버벌진트 '세월호 행적' 묻는 앨범에 비난 이어진 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258661",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘돌싱글즈2’ 윤남기♥이다은 ‘재혼 앞둔 설렘’",
+		"newsSubTitle": "",
+		"newsContent": "MBN ‘돌싱글즈2’ 출연자 윤남기가 이다은을 향한 애정을 드러냈다.\n공개된 사진은 ‘돌싱글즈2’ 웨딩 촬영 모습이다.\n윤남기는 19일 자신의 SNS에 “이다은♥ 케이블카 선택 후 ‘돌싱글즈’ 시그니처인 ‘강제 웨딩 촬영’ 준비”라는 글과 함께 사진을 게재했다.\n이다은은 “잘한다 잘한다”라고 댓글을 남겼다.\n윤남기는 “저는 자발적으로 올렸습니다. 절대로 그녀가 시키지 않았습니다”라고 답글을 달았다.\n한편 윤남기-이다은 커플은 ‘돌싱글즈2’를 통해 연인으로 발전해 현재 재혼을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBN ‘돌싱글즈2’ 출연자 윤남기가 이다은을 향한 애정을 드러냈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 사진은 ‘돌싱글즈2’ 웨딩 촬영 모습이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤남기는 19일 자신의 SNS에 “이다은♥ 케이블카 선택 후 ‘돌싱글즈’ 시그니처인 ‘강제 웨딩 촬영’ 준비”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이다은은 “잘한다 잘한다”라고 댓글을 남겼다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤남기는 “저는 자발적으로 올렸습니다. 절대로 그녀가 시키지 않았습니다”라고 답글을 달았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 윤남기-이다은 커플은 ‘돌싱글즈2’를 통해 연인으로 발전해 현재 재혼을 앞두고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘돌싱글즈2’ 윤남기♥이다은 ‘재혼 앞둔 설렘’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

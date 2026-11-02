@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277756",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김윤석이 2014년 4월 15일로 돌아가고 싶은 이유",
+		"newsSubTitle": "",
+		"newsContent": "김윤석이 '세월호 참사' 이전으로 돌아가고 싶다고 언급했다.\n16일 '네이버 V앱'에서는 영화 '당신, 거기 있어줄래요'의 배우 김윤석, 변요한, 채서진이 출연했다.\n이날 김윤석은 \\\"과거로 돌아갈 수 있다면 무엇을 하고 싶으냐\\\"는 질문을 받았다.\n이에 \\\"2014년 4월 15일 밤으로 돌아가서 그 배를 타지 말라고 말하고 싶다\\\"며 \\\"무슨 일인지 아실 거라 믿는다\\\"고 답했다.\n김윤석은 2년 전 304명의 희생자를 낳은 '세월호 참사'를 언급한 것으로 보인다.\n변요한은 \\\"저도 역시 마찬가지다\\\"라며 김윤석의 발언에 힘을 보탰다.'당신, 거기 있어줄래요\\\"는 과거로 돌아갈 수 있는 10개의 알약을 얻게 된 현재의 남자 수현(김윤석)이 알약을 통해 30년 전으로 돌아가 과거의 자신인 수현(변요한)을 만나 평생 후회하고 있던 한 사건을 바꾸려 하는 이야기다.\n기욤 뮈소의 동명 소설이 원작이며, 오는 12월 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김윤석이 '세월호 참사' 이전으로 돌아가고 싶다고 언급했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 '네이버 V앱'에서는 영화 '당신, 거기 있어줄래요'의 배우 김윤석, 변요한, 채서진이 출연했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김윤석은 \\\"과거로 돌아갈 수 있다면 무엇을 하고 싶으냐\\\"는 질문을 받았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 \\\"2014년 4월 15일 밤으로 돌아가서 그 배를 타지 말라고 말하고 싶다\\\"며 \\\"무슨 일인지 아실 거라 믿는다\\\"고 답했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김윤석은 2년 전 304명의 희생자를 낳은 '세월호 참사'를 언급한 것으로 보인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "변요한은 \\\"저도 역시 마찬가지다\\\"라며 김윤석의 발언에 힘을 보탰다.'당신, 거기 있어줄래요\\\"는 과거로 돌아갈 수 있는 10개의 알약을 얻게 된 현재의 남자 수현(김윤석)이 알약을 통해 30년 전으로 돌아가 과거의 자신인 수현(변요한)을 만나 평생 후회하고 있던 한 사건을 바꾸려 하는 이야기다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기욤 뮈소의 동명 소설이 원작이며, 오는 12월 개봉을 앞두고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김윤석이 2014년 4월 15일로 돌아가고 싶은 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

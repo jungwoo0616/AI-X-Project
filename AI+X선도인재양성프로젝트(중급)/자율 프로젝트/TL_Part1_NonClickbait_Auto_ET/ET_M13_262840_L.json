@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262840",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "배우 이세희, 코로나19 확진[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 이세희가 코로나19에 확진됐다.\n소속사 가족엔터테인먼트 측은 4일 스포츠경향에 “소속 배우 이세희가 오늘 오전 PCR 검사에서 코로나19 양성 판정을 받았다”며 “현재 자가격리 중”이라고 밝혔다.\n이세희의 자가격리에 따라 그가 주연으로 출연하는 KBS 2TV 토일드라마 ‘신사와 아가씨’ 촬영 또한 취소된 것으로 알려졌다.\n이세희는 ‘신사와 아가씨’에서 ‘박단단’ 역할로 분해 ‘이영국’ 역의 지현우와 연기 호흡을 맞추고 있다.\n주연 배우의 코로나19 확진에 따라 제작진은 촬영 및 향후 일정을 논의하고 있다.\n한편 연예계에서는 연이은 코로나19 확진 소식이 들리고 있다.\n지난 2일에는 방송인 김용만, 코미디언 박나래, 배우 김태리 등이 소속사를 통해 코로나19에 확진됐다고 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이세희가 코로나19에 확진됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 가족엔터테인먼트 측은 4일 스포츠경향에 “소속 배우 이세희가 오늘 오전 PCR 검사에서 코로나19 양성 판정을 받았다”며 “현재 자가격리 중”이라고 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이세희의 자가격리에 따라 그가 주연으로 출연하는 KBS 2TV 토일드라마 ‘신사와 아가씨’ 촬영 또한 취소된 것으로 알려졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이세희는 ‘신사와 아가씨’에서 ‘박단단’ 역할로 분해 ‘이영국’ 역의 지현우와 연기 호흡을 맞추고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주연 배우의 코로나19 확진에 따라 제작진은 촬영 및 향후 일정을 논의하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 연예계에서는 연이은 코로나19 확진 소식이 들리고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 2일에는 방송인 김용만, 코미디언 박나래, 배우 김태리 등이 소속사를 통해 코로나19에 확진됐다고 알렸다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 이세희, 코로나19 확진[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

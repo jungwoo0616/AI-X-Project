@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260753",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘베이징 올림픽’ 쇼트트랙 시청률 35%",
+		"newsSubTitle": "",
+		"newsContent": "‘2022 베이징 올림픽’ 쇼트트랙 경기가 높은 시청률을 기록했다.\n12일 시청률조사회사 닐슨코리아에 따르면 전날 지상파 3사가 중계한 올림픽 쇼트트랙 경기 시청률 합은 35%대였다.\n최민정이 은메달을 목에 건 쇼트트랙 여자 1,000ｍ 결승 시청률은 35.0%, 황대헌·이준서·곽윤기·김동욱이 출전한 남자 계주 5,000ｍ 준결승 시청률은 35.1%로 집계됐다.\n채널별 시청률은 SBS가 가장 높았다.\n여자 1,000ｍ 결승 16.4%, 남자 계주 5,000ｍ 준결승 15.8%로 지상파 3사 중 유일하게 두 자릿수를 기록했다.\nKBS 2TV는 각각 8.9%·9.7%, MBC는 9.7%·9.6%로 나타났다.\n최민정은 중국 베이징 캐피털 실내경기장에서 열린 여자 1,000ｍ 결승에서 1분28초443의 기록으로 은메달을 획득했다.\n남자 대표팀은 계주 5,000ｍ 준결승에서 6분37초879의 기록으로 1위를 차지해 결승에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘2022 베이징 올림픽’ 쇼트트랙 경기가 높은 시청률을 기록했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 시청률조사회사 닐슨코리아에 따르면 전날 지상파 3사가 중계한 올림픽 쇼트트랙 경기 시청률 합은 35%대였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최민정이 은메달을 목에 건 쇼트트랙 여자 1,000ｍ 결승 시청률은 35.0%, 황대헌·이준서·곽윤기·김동욱이 출전한 남자 계주 5,000ｍ 준결승 시청률은 35.1%로 집계됐다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "채널별 시청률은 SBS가 가장 높았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여자 1,000ｍ 결승 16.4%, 남자 계주 5,000ｍ 준결승 15.8%로 지상파 3사 중 유일하게 두 자릿수를 기록했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KBS 2TV는 각각 8.9%·9.7%, MBC는 9.7%·9.6%로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최민정은 중국 베이징 캐피털 실내경기장에서 열린 여자 1,000ｍ 결승에서 1분28초443의 기록으로 은메달을 획득했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "남자 대표팀은 계주 5,000ｍ 준결승에서 6분37초879의 기록으로 1위를 차지해 결승에 올랐다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘베이징 올림픽’ 쇼트트랙 시청률 35%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

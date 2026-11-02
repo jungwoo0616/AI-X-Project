@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273966",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "트라이비 송선, 특별한 응원",
+		"newsSubTitle": "",
+		"newsContent": "그룹 트라이비(TRI.BE)의 송선이 특별한 응원을 전했다.\n트라이비 송선은 최근 신한금융그룹 공식 유튜브 채널 ‘기발한 프로덕션’을 통해 공개된 세번째 에피소드 ‘아이돌의 꿈’에 출연했다.\n잡지 인터뷰 촬영 형식으로 진행된 영상에서 송선은 솔직한 매력을 오롯이 담아냈다.\n리더로서 팀을 이끌고 있는 송선은 9년 간의 연습 생활과 수많은 데뷔 무산, 그리고 그 끝에 지난해 데뷔하기까지 힘들었던 고충을 전하며 눈물을 보였다.\n그러면서도 음악방송 1위, 빌보드 차트 1위 등 팬들과 함께 그려갈 꿈을 이야기하며 의지를 다지는 모습으로 감동을 안겼다.\n이어 ‘기발한 꿈’ 프로젝트의 일환으로 진행된 서프라이즈 영상 편지에 송선의 꿈이 싹트던 어린 시절을 AI 딥휴먼 기술로 구현돼 힘찬 응원의 메시지를 전했다.\n영상편지 속 과거 열네 살의 송선과 현재 송선의 이색적인 만남은 누구에게나 힘이 되는 위로를 전하며 보는 이들에게도 뭉클함을 안겼다.\n송선은 “어린 시절 막연했던 꿈이 이만큼 성장했구나 느낄 수 있었던 좋은 기회였다. 앞으로도 더 큰 꿈을 향해 계속 도전하겠다”란 소감을전했다.\n트라이비는 지난해 두 장의 싱글 앨범 ‘트라이비 다 로카’와 ‘꼰미고’, 미니앨범 ‘베니 비디 비치’에 이어 컬래버레이션 음원 ‘바바송(The Bha BhaSong)’을 발표하며 풋풋하면서도 당찬 에너지로 활약하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 트라이비(TRI.BE)의 송선이 특별한 응원을 전했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트라이비 송선은 최근 신한금융그룹 공식 유튜브 채널 ‘기발한 프로덕션’을 통해 공개된 세번째 에피소드 ‘아이돌의 꿈’에 출연했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "잡지 인터뷰 촬영 형식으로 진행된 영상에서 송선은 솔직한 매력을 오롯이 담아냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리더로서 팀을 이끌고 있는 송선은 9년 간의 연습 생활과 수많은 데뷔 무산, 그리고 그 끝에 지난해 데뷔하기까지 힘들었던 고충을 전하며 눈물을 보였다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서도 음악방송 1위, 빌보드 차트 1위 등 팬들과 함께 그려갈 꿈을 이야기하며 의지를 다지는 모습으로 감동을 안겼다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 ‘기발한 꿈’ 프로젝트의 일환으로 진행된 서프라이즈 영상 편지에 송선의 꿈이 싹트던 어린 시절을 AI 딥휴먼 기술로 구현돼 힘찬 응원의 메시지를 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영상편지 속 과거 열네 살의 송선과 현재 송선의 이색적인 만남은 누구에게나 힘이 되는 위로를 전하며 보는 이들에게도 뭉클함을 안겼다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "송선은 “어린 시절 막연했던 꿈이 이만큼 성장했구나 느낄 수 있었던 좋은 기회였다. 앞으로도 더 큰 꿈을 향해 계속 도전하겠다”란 소감을전했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "트라이비는 지난해 두 장의 싱글 앨범 ‘트라이비 다 로카’와 ‘꼰미고’, 미니앨범 ‘베니 비디 비치’에 이어 컬래버레이션 음원 ‘바바송(The Bha BhaSong)’을 발표하며 풋풋하면서도 당찬 에너지로 활약하고 있다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트라이비 송선, 특별한 응원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

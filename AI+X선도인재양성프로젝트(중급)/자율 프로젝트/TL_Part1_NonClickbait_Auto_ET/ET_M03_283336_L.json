@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283336",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유승준, 인터넷 생중계 무릎 꿇고 눈물…6개월 후 소송 왜",
+		"newsSubTitle": "",
+		"newsContent": "가수 유승준 \\\"한국, 비자 발급하라\\\"…소송 병역 기피 논란으로 입국 금지된 가수 유승준(미국명 스티브 승준 유·39)씨가 한국 비자 발급을 거부당하자 소송을 냈다.\n18일 법원에 따르면 유씨는 지난달 21일 서울행정법원에 주 로스엔젤레스(LA) 총영사관 총영사를 상대로 사증발급 거부처분 취소 소송을 냈다.\n미국 시민권자인 유씨는 지난 9월 재외동포들에게만 발급되는 'F-4' 비자를 신청했지만 받아들여지지 않았다.\n유씨는 소장에서 자신이 단순히 외국인이 아니라 재외동포이므로 한국 정부가 재외동포들에게 발급하는 'F-4' 비자를 발급해줘야 한다고 주장한 것으로 알려졌다.\n군 입영 신체검사에서 공익근무요원 판정을 받아 입대 예정이었던 유씨는 2002년 1월 한국 국적을 포기하고 미국 시민권을 취득해 병역이 면제됐다.\n그가 병역을 기피하려고 미국 시민권을 선택했다는 비난이 커지자 법무부는 유씨에게 입국 제한 조치를 내렸고, 유씨는 13년 지난 현재까지도 한국에 들어오지 못하고 있다.\n한편 유씨는 지난 5월 아프리카 TV를 통해 13년 만에 처음으로 자신의 심경을 밝혔고 인터넷 생중계로 진행된 방송에서 무릎을 꿇고 눈물을 쏟기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 유승준 \\\"한국, 비자 발급하라\\\"…소송 병역 기피 논란으로 입국 금지된 가수 유승준(미국명 스티브 승준 유·39)씨가 한국 비자 발급을 거부당하자 소송을 냈다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 법원에 따르면 유씨는 지난달 21일 서울행정법원에 주 로스엔젤레스(LA) 총영사관 총영사를 상대로 사증발급 거부처분 취소 소송을 냈다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국 시민권자인 유씨는 지난 9월 재외동포들에게만 발급되는 'F-4' 비자를 신청했지만 받아들여지지 않았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유씨는 소장에서 자신이 단순히 외국인이 아니라 재외동포이므로 한국 정부가 재외동포들에게 발급하는 'F-4' 비자를 발급해줘야 한다고 주장한 것으로 알려졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "군 입영 신체검사에서 공익근무요원 판정을 받아 입대 예정이었던 유씨는 2002년 1월 한국 국적을 포기하고 미국 시민권을 취득해 병역이 면제됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그가 병역을 기피하려고 미국 시민권을 선택했다는 비난이 커지자 법무부는 유씨에게 입국 제한 조치를 내렸고, 유씨는 13년 지난 현재까지도 한국에 들어오지 못하고 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 유씨는 지난 5월 아프리카 TV를 통해 13년 만에 처음으로 자신의 심경을 밝혔고 인터넷 생중계로 진행된 방송에서 무릎을 꿇고 눈물을 쏟기도 했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유승준, 인터넷 생중계 무릎 꿇고 눈물…6개월 후 소송 왜",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

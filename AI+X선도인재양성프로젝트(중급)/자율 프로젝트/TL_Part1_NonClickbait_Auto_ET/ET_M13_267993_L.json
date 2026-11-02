@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267993",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘인기가요’ DKZ, 사랑도둑? 인기도둑!",
+		"newsSubTitle": "",
+		"newsContent": "보이그룹 DKZ(디케이지)가 청량한 무대로 팬심을 단단히 홀렸다.\nDKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 24일 오후 3시 50분 방송된 SBS ‘인기가요’에 출연했다.\n이날 신곡 ‘사랑도둑(Cupid)’ 무대에 오른 DKZ는 사랑에 빠진 듯한 눈빛 연기로 팬들의 마음을 설레게 만드는가 하면, 여유로우면서도 파워풀한 안무로 DKZ의 탁월한 역량을 또 한 번 입증했다.\n특히 DKZ는 춤선이 돋보이는 퍼포먼스로 다재다능한 매력을 뽐내는가 하면, 안정적인 보컬 실력도 보여주며 무대 끝까지 눈을 뗄 수 없게 했다.\nDKZ 멤버들은 익살스러우면서도 치명적인 ‘사랑도둑’을 각자의 매력 넘치는 포즈와 포인트 안무로 완벽히 구현, 하나의 고퀄리티 무대를 선물해 보는 이들의 심박수를 높였다.\n사랑을 좇아 마음을 도둑맞게 된 짝사랑의 서사를 담은 ‘사랑도둑’으로 찾아온 DKZ는 컴백 이후 국내 음원사이트 차트인을 비롯해 음반 초동 집계 10만 장을 돌파하는 등 대세 행보로 뜨거운 관심을 한 몸에 받고 있다.\n한편, 완벽한 무대로 K-POP 팬들의 입덕을 유발한 ‘사랑도둑’ DKZ는 앞으로도 다양한 방송을 통해 팬들과 소통을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보이그룹 DKZ(디케이지)가 청량한 무대로 팬심을 단단히 홀렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "DKZ(경윤, 세현, 민규, 재찬, 종형, 기석)는 24일 오후 3시 50분 방송된 SBS ‘인기가요’에 출연했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 신곡 ‘사랑도둑(Cupid)’ 무대에 오른 DKZ는 사랑에 빠진 듯한 눈빛 연기로 팬들의 마음을 설레게 만드는가 하면, 여유로우면서도 파워풀한 안무로 DKZ의 탁월한 역량을 또 한 번 입증했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 DKZ는 춤선이 돋보이는 퍼포먼스로 다재다능한 매력을 뽐내는가 하면, 안정적인 보컬 실력도 보여주며 무대 끝까지 눈을 뗄 수 없게 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "DKZ 멤버들은 익살스러우면서도 치명적인 ‘사랑도둑’을 각자의 매력 넘치는 포즈와 포인트 안무로 완벽히 구현, 하나의 고퀄리티 무대를 선물해 보는 이들의 심박수를 높였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사랑을 좇아 마음을 도둑맞게 된 짝사랑의 서사를 담은 ‘사랑도둑’으로 찾아온 DKZ는 컴백 이후 국내 음원사이트 차트인을 비롯해 음반 초동 집계 10만 장을 돌파하는 등 대세 행보로 뜨거운 관심을 한 몸에 받고 있다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 완벽한 무대로 K-POP 팬들의 입덕을 유발한 ‘사랑도둑’ DKZ는 앞으로도 다양한 방송을 통해 팬들과 소통을 이어갈 예정이다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘인기가요’ DKZ, 사랑도둑? 인기도둑!",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

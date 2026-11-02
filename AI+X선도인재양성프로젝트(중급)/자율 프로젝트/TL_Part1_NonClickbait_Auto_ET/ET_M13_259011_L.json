@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259011",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송지아, ‘파오차이’ 논란까지…‘점입가경’",
+		"newsSubTitle": "",
+		"newsContent": "가품 착용 논란에 고개 숙인 유튜버 송지아가 이번엔 ‘파오차이’ 논란에 휩싸였다.\n최근 온라인커뮤니티에는 송지아가 중국판 유튜브 빌리빌리에 올린 김치찜 소개 영상에서 ‘파오차이’란 자막을 썼다는 글이 올라왔다.\n이 방송에서 송지아는 김치찜에 중국의 절임요리인 ‘파오차이’란 자막을 달았다.\n앞서 중국인들은 한국의 김치를 ‘파오차이’라며 중국 전통 음식이라고 억지 주장해 문제가 됐다.\n이뿐만 아니라 판소리, 상모놀이 등 한국의 전통문화도 조선족 문화라고 소개해 비판을 받기도 했다.\n이런 상황이라 송지아의 ‘파오차이’ 자막은 또 다시 공분을 사고 있다.\n또한 그가 과거 빌리빌리에서 중국 명절 ‘칠석’ 관련 영상을 올리고 “중국을 좋아한다”고 말해, 자막을 단 게 단순한 실수가 아닐 수도 있다는 시선도 나오고 있다.\n송지아는 넷플릭스 ‘솔로지옥’으로 상승세에 탔지만, 가품 착용 논란이 터지면서 방송 활동에 제동이 걸렸다.\n이에 대해 직접 손편지를 써서 사과했지만 MBC ‘전지적 참견 시점’은 송지아 촬영분을 전량 폐기하는 등 후폭풍은 아직도 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가품 착용 논란에 고개 숙인 유튜버 송지아가 이번엔 ‘파오차이’ 논란에 휩싸였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인커뮤니티에는 송지아가 중국판 유튜브 빌리빌리에 올린 김치찜 소개 영상에서 ‘파오차이’란 자막을 썼다는 글이 올라왔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 방송에서 송지아는 김치찜에 중국의 절임요리인 ‘파오차이’란 자막을 달았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 중국인들은 한국의 김치를 ‘파오차이’라며 중국 전통 음식이라고 억지 주장해 문제가 됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이뿐만 아니라 판소리, 상모놀이 등 한국의 전통문화도 조선족 문화라고 소개해 비판을 받기도 했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이런 상황이라 송지아의 ‘파오차이’ 자막은 또 다시 공분을 사고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 그가 과거 빌리빌리에서 중국 명절 ‘칠석’ 관련 영상을 올리고 “중국을 좋아한다”고 말해, 자막을 단 게 단순한 실수가 아닐 수도 있다는 시선도 나오고 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "송지아는 넷플릭스 ‘솔로지옥’으로 상승세에 탔지만, 가품 착용 논란이 터지면서 방송 활동에 제동이 걸렸다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 대해 직접 손편지를 써서 사과했지만 MBC ‘전지적 참견 시점’은 송지아 촬영분을 전량 폐기하는 등 후폭풍은 아직도 진행 중이다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송지아, ‘파오차이’ 논란까지…‘점입가경’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

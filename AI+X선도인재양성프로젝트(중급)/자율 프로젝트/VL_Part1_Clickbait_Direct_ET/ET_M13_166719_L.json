@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166719",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "손흥민, 주장의 품격[화보]",
+    "newsSubTitle": "",
+    "newsContent": "축구선수 손흥민이 엘르 10월 호 커버를 장식했다.\n패션 매거진 <엘르>는 13일 손흥민과 휴식 기간 동안 비밀스럽게 진행한 화보를 공개했다.\n손흥민은 “모든 요소가 완벽하게 어우러진 촬영이었다. 뿌듯하고 기쁘다”라고 소감을 전했다 이어 “최고의 퍼포먼스를 보여주기 위해 끝없이 변화한다는 점이 스포츠와 패션의 공통분모 같다”라고 말하기도 했다.\n화보 촬영 후에는 인터뷰가 진행됐다.\n2022 카타르 월드컵 국가 대표팀 주장이 된 소감에 대해 묻는 질문에 손흥민은 “나라를 대표해 뛴다는 것은 정말 영광스러운 일이다. 한편 그만큼 무게감 또한 느낀다. 대한민국 사람들이 월드컵이라는 축제를 즐길 수 있도록 엄청난 책임감을 갖고 뛰고자 한다”라고 답했다.\n이어진 멋진 인물상을 묻는 질문에는 “자기 분야에서 항상 즐겁고 재미있게 일하는 사람이다. 잘하고 못하는 건 내가 선택할 수 있는 게 아니지만, 내가 서 있는 위치에서 즐겁게 임하는 것은 누구든지 할 수 있기 때문”이라고 말하며 평소의 가치관을 드러내기도 했다.\n손흥민의 매력을 담은 화보와 인터뷰는 <엘르> 10월 호와 <엘르> 웹사이트 그리고 엘르 유튜브에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "축구선수 손흥민이 엘르 10월 호 커버를 장식했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "패션 매거진 <엘르>는 13일 손흥민과 휴식 기간 동안 비밀스럽게 진행한 화보를 공개했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "손흥민은 “모든 요소가 완벽하게 어우러진 촬영이었다. 뿌듯하고 기쁘다”라고 소감을 전했다 이어 “최고의 퍼포먼스를 보여주기 위해 끝없이 변화한다는 점이 스포츠와 패션의 공통분모 같다”라고 말하기도 했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "화보 촬영 후에는 인터뷰가 진행됐다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2022 카타르 월드컵 국가 대표팀 주장이 된 소감에 대해 묻는 질문에 손흥민은 “나라를 대표해 뛴다는 것은 정말 영광스러운 일이다. 한편 그만큼 무게감 또한 느낀다. 대한민국 사람들이 월드컵이라는 축제를 즐길 수 있도록 엄청난 책임감을 갖고 뛰고자 한다”라고 답했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어진 멋진 인물상을 묻는 질문에는 “자기 분야에서 항상 즐겁고 재미있게 일하는 사람이다. 잘하고 못하는 건 내가 선택할 수 있는 게 아니지만, 내가 서 있는 위치에서 즐겁게 임하는 것은 누구든지 할 수 있기 때문”이라고 말하며 평소의 가치관을 드러내기도 했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손흥민의 매력을 담은 화보와 인터뷰는 <엘르> 10월 호와 <엘르> 웹사이트 그리고 엘르 유튜브에서 만나볼 수 있다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "엘르 표지 모델 손흥민, 멋진 인물상에 관한 질문에 그의 대답은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

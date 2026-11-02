@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276778",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "와인 마시면서 엑소 콘서트 즐기는 남성의 정체",
+		"newsSubTitle": "",
+		"newsContent": "엑소(EXO) 콘서트에서 와인을 즐긴다는 이수만 사장의 사진이 화제다.\n최근 온라인 커뮤니티에 '엑소 콘서트 와인 마시면서 보는 사람은'이라는 제목의 게시물이 올라왔다.\n글쓴이는 SM 엔터테인먼트의 수장인 이수만 사장이 한 손에 화이트 와인을 든 채 턱을 괴며 어딘가를 바라보는 사진을 소개했다.\n상념에 빠진듯한 이수만 사장의 모습에서 여유로움이 느껴졌고, 동시에 그의 날카로운 눈빛이 시선을 사로잡았다.\n사진 속 배경이 실제 엑소의 콘서트인지 확인되지는 않았지만, 와인을 들고 있는 이수만 사장의 모습에 네티즌은 반색했다.\n특히 \\\"내 작품의 대성공에 치얼스...☆\\\" \\\"와인 한 잔의 여유\\\" \\\"SM 콘서트에서 봤는데 반가웠음ㅋㅋㅋ\\\" \\\"아들 재롱보는 아빠 포스\\\" 등 센스있는 댓글을 달며 사진에 화답했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엑소(EXO) 콘서트에서 와인을 즐긴다는 이수만 사장의 사진이 화제다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 '엑소 콘서트 와인 마시면서 보는 사람은'이라는 제목의 게시물이 올라왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 SM 엔터테인먼트의 수장인 이수만 사장이 한 손에 화이트 와인을 든 채 턱을 괴며 어딘가를 바라보는 사진을 소개했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상념에 빠진듯한 이수만 사장의 모습에서 여유로움이 느껴졌고, 동시에 그의 날카로운 눈빛이 시선을 사로잡았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 배경이 실제 엑소의 콘서트인지 확인되지는 않았지만, 와인을 들고 있는 이수만 사장의 모습에 네티즌은 반색했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 \\\"내 작품의 대성공에 치얼스...☆\\\" \\\"와인 한 잔의 여유\\\" \\\"SM 콘서트에서 봤는데 반가웠음ㅋㅋㅋ\\\" \\\"아들 재롱보는 아빠 포스\\\" 등 센스있는 댓글을 달며 사진에 화답했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "와인 마시면서 엑소 콘서트 즐기는 남성의 정체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

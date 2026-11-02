@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278311",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'택시' 이세영, 아픈 가정사 \\\"어릴적 아버지 사업 망해…지우고 싶은 기억\\\" 눈길",
+		"newsSubTitle": "",
+		"newsContent": "'택시'에 출연한 이세영이 화제인 가운데, 과거 이세영이 털어놓은 가정사도 눈길을 끈다.\n과거 방송된 tvN ‘더지니어스 그랜드파이널’에서는 장동민, 김경훈, 오현민의 준결승전이 펼쳐졌다.\n메인매치인 ‘하우머치’를 돕기 위해 ‘SNL코리아’의 크루들이 등장했다.\n이날 준결승에 진출한 세 사람은 ‘하우머치’ 4라운드에서 게스트들이 지우고 싶은 기억을 없앨 수 있을 때의 가격을 맞춰야 했다.\n이에 이세영은 지우고 싶은 기억으로 가정사를 꼽았다.\n이세영은 “아버지 사업이 망해서 검은옷 입은 사람들이 집에 왔다. 그때 그 기억이 이정도였다면 그 사람들이 오지 않아도 되지 않았을까 싶다”고 털어놔 안타까움을 자아냈다.\n이후 이세영은 “그것 때문에 심장이 강해진 게 있다. 이제 어느정도 생활화 되서 불끄고 만화보고 밥먹고 음악도 듣는다. 지금은 강심장이다”고 고백했다.\n한편 이세영은 29일 방송된 tvN '현장 토크쇼 택시'에 출연해 솔직한 입담을 뽐냈다.\n온라인 중앙일보 [사진 tvN ‘더지니어스 그랜드파이널’ 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'택시'에 출연한 이세영이 화제인 가운데, 과거 이세영이 털어놓은 가정사도 눈길을 끈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된 tvN ‘더지니어스 그랜드파이널’에서는 장동민, 김경훈, 오현민의 준결승전이 펼쳐졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메인매치인 ‘하우머치’를 돕기 위해 ‘SNL코리아’의 크루들이 등장했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 준결승에 진출한 세 사람은 ‘하우머치’ 4라운드에서 게스트들이 지우고 싶은 기억을 없앨 수 있을 때의 가격을 맞춰야 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 이세영은 지우고 싶은 기억으로 가정사를 꼽았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이세영은 “아버지 사업이 망해서 검은옷 입은 사람들이 집에 왔다. 그때 그 기억이 이정도였다면 그 사람들이 오지 않아도 되지 않았을까 싶다”고 털어놔 안타까움을 자아냈다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 이세영은 “그것 때문에 심장이 강해진 게 있다. 이제 어느정도 생활화 되서 불끄고 만화보고 밥먹고 음악도 듣는다. 지금은 강심장이다”고 고백했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이세영은 29일 방송된 tvN '현장 토크쇼 택시'에 출연해 솔직한 입담을 뽐냈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 tvN ‘더지니어스 그랜드파이널’ 캡처]",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'택시' 이세영, 아픈 가정사 \\\"어릴적 아버지 사업 망해…지우고 싶은 기억\\\" 눈길",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

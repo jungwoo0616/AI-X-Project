@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276790",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "데뷔 후 '역대 최저 몸무게'라는 걸그룹 멤버",
+		"newsSubTitle": "",
+		"newsContent": "가수 전효성이 몸무게를 공개했다.\n전효성은 최근 SBS 뷰티 토크쇼 '스타일 팔로우'에 출연해 \\\"데뷔한 후 역대 최저 몸무게를 달성했다\\\"고 밝혔다.\n그는 \\\"현재 체중 45kg을 왔다 갔다 한다\\\"고 덧붙였다.\n공식 프로필에 따르면 전효성의 키는 158cm이다.\n한때 '베이글녀'로 글래머러스한 몸매를 자랑했던 전효성은 체중 감량 후 다소 마른 각선미를 드러냈다.\n전효성은 꾸준한 다이어트로 몸매 관리를 하는 것으로 알려졌다.\n그는 한 방송에서 다이어트를 하게 된 이유에 대해 \\\"짧고 굵다는 네티즌의 댓글에 충격을 받고 살을 뺐다\\\"고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 전효성이 몸무게를 공개했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전효성은 최근 SBS 뷰티 토크쇼 '스타일 팔로우'에 출연해 \\\"데뷔한 후 역대 최저 몸무게를 달성했다\\\"고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"현재 체중 45kg을 왔다 갔다 한다\\\"고 덧붙였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공식 프로필에 따르면 전효성의 키는 158cm이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한때 '베이글녀'로 글래머러스한 몸매를 자랑했던 전효성은 체중 감량 후 다소 마른 각선미를 드러냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전효성은 꾸준한 다이어트로 몸매 관리를 하는 것으로 알려졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 한 방송에서 다이어트를 하게 된 이유에 대해 \\\"짧고 굵다는 네티즌의 댓글에 충격을 받고 살을 뺐다\\\"고 밝힌 바 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "데뷔 후 '역대 최저 몸무게'라는 걸그룹 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

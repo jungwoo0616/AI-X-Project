@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271854",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신동엽 부친상 비보…향년 88세",
+		"newsSubTitle": "",
+		"newsContent": "방송인 신동엽이 부친상을 당했다.\n신동엽 소속사 SM C&C에 따르면 신동엽은 31일 부친상을 당했다.\n신동엽의 부친상과 관련해 자세한 정보는 알려지지 않았고 소속사가 이를 확인 중인 것으로 알려졌다.\n신동엽 부친의 나이는 88세였다.\n신동엽은 최근 요양병원에 있던 부친을 찾아보지 못한 슬픔을 방송에서 내비친 적이 있다.\n그는 지난해 설 특집으로 꾸려진 KBS2 예능 프로그램 ‘불후의명곡’에 출연해 배우 장광 부녀의 무대를 본 뒤 말을 잇지 못하고 눈물을 흘렸다.\n당시 그는 “저희 아버지가 87세가 됐는데 요양병원에 계신다. 1년째 만나뵙지 못하고 있다”며 “오늘도 전화통화를 하면서 왔는데 첫 무대에서 이 노래를 들으니 아버지가 생각도 났다가 돌아가신 어머니도 생각났다”고 말했다.\n이밖에도 신동엽은 여러 예능 프로그램에서 부친의 젊었을 적 모습과 여러 사연을 공개하는 등 부친과의 애정을 지속적으로 드러내왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 신동엽이 부친상을 당했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신동엽 소속사 SM C&C에 따르면 신동엽은 31일 부친상을 당했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신동엽의 부친상과 관련해 자세한 정보는 알려지지 않았고 소속사가 이를 확인 중인 것으로 알려졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신동엽 부친의 나이는 88세였다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신동엽은 최근 요양병원에 있던 부친을 찾아보지 못한 슬픔을 방송에서 내비친 적이 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 지난해 설 특집으로 꾸려진 KBS2 예능 프로그램 ‘불후의명곡’에 출연해 배우 장광 부녀의 무대를 본 뒤 말을 잇지 못하고 눈물을 흘렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당시 그는 “저희 아버지가 87세가 됐는데 요양병원에 계신다. 1년째 만나뵙지 못하고 있다”며 “오늘도 전화통화를 하면서 왔는데 첫 무대에서 이 노래를 들으니 아버지가 생각도 났다가 돌아가신 어머니도 생각났다”고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이밖에도 신동엽은 여러 예능 프로그램에서 부친의 젊었을 적 모습과 여러 사연을 공개하는 등 부친과의 애정을 지속적으로 드러내왔다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신동엽 부친상 비보…향년 88세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

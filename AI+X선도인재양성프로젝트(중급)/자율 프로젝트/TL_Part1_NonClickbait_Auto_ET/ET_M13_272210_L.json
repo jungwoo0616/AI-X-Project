@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272210",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정준일, 10일 미발표 곡 정식 발매[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 정준일이 팬들을 위해 특별한 노래를 발표한다고 소속사가 밝혔다.\n정준일 측은 지난 2일 오후 공식 SNS를 통해 사진을 올리며 미발표 곡 발매 소식을 알렸다.\n흔들리는 차창 밖의 풍경을 담아낸 듯한 사진에는 ‘참 많이 울었지 그때 너는 / 세모처럼 뾰족한 날 매일 다듬어주던 너’란 글귀와 함께 발매일을 암시하는 ‘6/10’ 숫자가 담겨있다.\n사진 속 글귀는 정준일이 2년 전 공식 유튜브 채널을 통해 한차례 공개했던 미발표 곡의 노랫말이다.\n정준일은 2년 동안 변함없는 관심과 응원을 보내준 팬들의 기다림에 화답하고자 이번에 미발표 곡의 정식 발매를 결정했다.\n유튜브 라이브 영상에도 높은 관심이 이어지고 있다.\n투박한 키보드 사운드가 귓가에 속삭이는 듯한 정준일의 감미로운 보컬과 어우러져 포근한 분위기를 이끌며 정준일표 감성을 완성했다. ‘세모’라는 가제로 공개됐던 해당 곡이 어떤 제목으로 정식 발매될지 팬들의 궁금증이 뒤따라오고 있다.\n정준일은 ‘안아줘’ ‘고백’ ‘새겨울’ ‘바램’ ‘그래 아니까’ 등 독보적인 음악적 색깔과 감성을 담아낸 노래를 선보이며 대중들의 꾸준한 사랑을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정준일이 팬들을 위해 특별한 노래를 발표한다고 소속사가 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정준일 측은 지난 2일 오후 공식 SNS를 통해 사진을 올리며 미발표 곡 발매 소식을 알렸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "흔들리는 차창 밖의 풍경을 담아낸 듯한 사진에는 ‘참 많이 울었지 그때 너는 / 세모처럼 뾰족한 날 매일 다듬어주던 너’란 글귀와 함께 발매일을 암시하는 ‘6/10’ 숫자가 담겨있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 글귀는 정준일이 2년 전 공식 유튜브 채널을 통해 한차례 공개했던 미발표 곡의 노랫말이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정준일은 2년 동안 변함없는 관심과 응원을 보내준 팬들의 기다림에 화답하고자 이번에 미발표 곡의 정식 발매를 결정했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유튜브 라이브 영상에도 높은 관심이 이어지고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "투박한 키보드 사운드가 귓가에 속삭이는 듯한 정준일의 감미로운 보컬과 어우러져 포근한 분위기를 이끌며 정준일표 감성을 완성했다. ‘세모’라는 가제로 공개됐던 해당 곡이 어떤 제목으로 정식 발매될지 팬들의 궁금증이 뒤따라오고 있다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정준일은 ‘안아줘’ ‘고백’ ‘새겨울’ ‘바램’ ‘그래 아니까’ 등 독보적인 음악적 색깔과 감성을 담아낸 노래를 선보이며 대중들의 꾸준한 사랑을 받고 있다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정준일, 10일 미발표 곡 정식 발매[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

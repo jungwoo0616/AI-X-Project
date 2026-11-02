@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278400",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "주원, 경찰 홍보단 합격, 차기작 후 입대 예정 \\\"경찰 홍보단이 뭐지?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 주원이 서울지방경찰청 경찰홍보단(호루라기 연극단)으로 선발돼 의무경찰로 군복무할 예정이다.\n주원의 소속사 '심엔터테인먼트' 측은 16일 '디스패치'와의 통화에서 \\\"주원이 최근 의무경찰 선발시험에 최종 합격했다\\\"며 \\\"예능 특기병으로 국방의 의무를 다할 것\\\"이라고 전햇다.\n단, 입대일은 아직 확정되지 않았다.\n주원의 소속사 측은 \\\"현재 드라마, 영화 등 다방면에서 차기작을 검토 중\\\"이라며 \\\"한 작품을 마치고 입대할 것\\\"이라고 밝혔다.\n한편 경찰홍보단에서는 청소년 단막극, 아동범죄 예방 공연 등을 주로 소화하고 있다.\n현재 그룹 '동방신기' 심창민, '슈퍼주니어'의 동해와 최시원 등이 복무하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 주원이 서울지방경찰청 경찰홍보단(호루라기 연극단)으로 선발돼 의무경찰로 군복무할 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주원의 소속사 '심엔터테인먼트' 측은 16일 '디스패치'와의 통화에서 \\\"주원이 최근 의무경찰 선발시험에 최종 합격했다\\\"며 \\\"예능 특기병으로 국방의 의무를 다할 것\\\"이라고 전햇다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "단, 입대일은 아직 확정되지 않았다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주원의 소속사 측은 \\\"현재 드라마, 영화 등 다방면에서 차기작을 검토 중\\\"이라며 \\\"한 작품을 마치고 입대할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 경찰홍보단에서는 청소년 단막극, 아동범죄 예방 공연 등을 주로 소화하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 그룹 '동방신기' 심창민, '슈퍼주니어'의 동해와 최시원 등이 복무하고 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "주원, 경찰 홍보단 합격, 차기작 후 입대 예정 \\\"경찰 홍보단이 뭐지?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

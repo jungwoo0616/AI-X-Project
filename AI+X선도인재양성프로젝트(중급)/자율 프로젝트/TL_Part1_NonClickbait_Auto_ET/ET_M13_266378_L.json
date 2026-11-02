@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266378",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 안성훈, 상인들 따뜻한 메시지 전하는 응원단장",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 밝은 에너지를 선사하는 응원단장으로 완벽 자리매김했다.\n안성훈은 8일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연, ‘60초를 잡아라’ 코너를 진행했다.\n이날 안성훈은 ‘안성맞춤시장’에 방문하며 플랜카드와 “안성훈 파이팅” 등의 화려한 응원과 환영을 받으며 남다른 진행 실력으로 상인들의 마음을 사로잡을 것을 예고했다.\n안성훈은 점차 능숙해지는 진행 실력을 통해 시장 상인들과의 인터뷰를 이어나가며 어색함 없는 적재적소 멘트들과 특유의 눈웃음으로 안정감과 웃음을 선사, 긍정적인 기운을 전달했다.\n안성훈은 새로운 캐릭터인 먹방 샛별로 칼국수, 잠봉 베이글 등을 맛있게 시식해 시청자들의 군침을 자극한 것은 물론 지켜보는 것으로도 미소를 짓게 했다.\n안성훈은 탄탄한 가창 실력을 엿볼 수 있는 곡들을 짧게 짧게 선보여 감탄을 자아냈으며 상인들의 미션 성공을 위해 물구나무를 서는 등 열정을 보여 안방극장을 웃음으로 물들였다.\n안성훈은 ‘6시 내고향’에서 활약을 펼치는 것은 물론 다채로운 콘텐츠를 통해 대중들과 소통을 이어나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 밝은 에너지를 선사하는 응원단장으로 완벽 자리매김했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 8일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연, ‘60초를 잡아라’ 코너를 진행했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 안성훈은 ‘안성맞춤시장’에 방문하며 플랜카드와 “안성훈 파이팅” 등의 화려한 응원과 환영을 받으며 남다른 진행 실력으로 상인들의 마음을 사로잡을 것을 예고했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안성훈은 점차 능숙해지는 진행 실력을 통해 시장 상인들과의 인터뷰를 이어나가며 어색함 없는 적재적소 멘트들과 특유의 눈웃음으로 안정감과 웃음을 선사, 긍정적인 기운을 전달했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안성훈은 새로운 캐릭터인 먹방 샛별로 칼국수, 잠봉 베이글 등을 맛있게 시식해 시청자들의 군침을 자극한 것은 물론 지켜보는 것으로도 미소를 짓게 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안성훈은 탄탄한 가창 실력을 엿볼 수 있는 곡들을 짧게 짧게 선보여 감탄을 자아냈으며 상인들의 미션 성공을 위해 물구나무를 서는 등 열정을 보여 안방극장을 웃음으로 물들였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안성훈은 ‘6시 내고향’에서 활약을 펼치는 것은 물론 다채로운 콘텐츠를 통해 대중들과 소통을 이어나갈 예정이다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 안성훈, 상인들 따뜻한 메시지 전하는 응원단장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

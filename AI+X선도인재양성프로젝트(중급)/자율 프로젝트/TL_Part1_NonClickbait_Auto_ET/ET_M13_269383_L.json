@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269383",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "손연재, 유일한 장기라며 선보인 국대급 개인기",
+		"newsSubTitle": "",
+		"newsContent": "전 리듬체조 선수 손연재가 의외의 축구 실력을 뽐냈다.\n손연재는 6일 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 축구공을 다루는 모습을 영상으로 게재했다.\n손연재는 “촬영 중에 자랑하는 나의 유일한 장기”라며 축구에서 쓰이는 개인기 중 하나로 뒤꿈치로 공을 차올리는 동작인 사포(레이보우 킥)를 구사하는 모습을 영상으로 담았다.\n이후 손연재는 볼을 능수능란하게 트래핑하며 해맑은 미소로 밝은 분위기를 자아냈다.\n한편, 리듬체조 국가대표로 활약하던 손연재는 은퇴 후 아이들을 가르치는 아카데미를 설립하고 있으며, 지난달 2일 방송된 MBC 예능프로그램 ‘전지적 참견 시점’을 통해 은퇴 후 일상을 공개했다.\n또 손연재는 지난달 7일 비연예인 남성과 열애를 인정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 리듬체조 선수 손연재가 의외의 축구 실력을 뽐냈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손연재는 6일 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 축구공을 다루는 모습을 영상으로 게재했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손연재는 “촬영 중에 자랑하는 나의 유일한 장기”라며 축구에서 쓰이는 개인기 중 하나로 뒤꿈치로 공을 차올리는 동작인 사포(레이보우 킥)를 구사하는 모습을 영상으로 담았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 손연재는 볼을 능수능란하게 트래핑하며 해맑은 미소로 밝은 분위기를 자아냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 리듬체조 국가대표로 활약하던 손연재는 은퇴 후 아이들을 가르치는 아카데미를 설립하고 있으며, 지난달 2일 방송된 MBC 예능프로그램 ‘전지적 참견 시점’을 통해 은퇴 후 일상을 공개했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 손연재는 지난달 7일 비연예인 남성과 열애를 인정했다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손연재, 유일한 장기라며 선보인 국대급 개인기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

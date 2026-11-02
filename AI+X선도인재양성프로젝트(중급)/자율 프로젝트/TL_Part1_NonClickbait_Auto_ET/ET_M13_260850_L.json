@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260850",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘기부천사’ 박보영, 올해생일에도 이어진다",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보영의 선한 영향력은 올해에도 이어진다.\n국제개발협력NGO 지파운데이션(대표이사 박충관)은 박보영이 국내 저소득 가정 여성 청소년을 지원하기 위해 5000만원을 기탁했다고 14일 밝혔다.\n박보영이 전달한 기부금은 생리대가 부족해 어려움을 겪고 있는 여성청소년이 위생적이고 안정한 생리기간을 보낼 수 있도록 생리대를 지원하는 데 사용된다.\n박보영은 데뷔 이래 꾸준히 국내외 저소득 가정 아동청소년에게 뜻깊은 마음을 전달해온 스타다.\n최근 코로나19로 어려움을 겪고 있는 취약계층과 소방대원을 위해 기부하는 등 지속적으로 선한 영향력을 펼쳐오고 있다.\n2월 12일이 본인의 생일인 박보영은 지난해에도 생일을 맞아 3000만원을 기부한 것에 이어 올해 생일에도 선행을 이어와 그 의미를 더했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보영의 선한 영향력은 올해에도 이어진다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국제개발협력NGO 지파운데이션(대표이사 박충관)은 박보영이 국내 저소득 가정 여성 청소년을 지원하기 위해 5000만원을 기탁했다고 14일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박보영이 전달한 기부금은 생리대가 부족해 어려움을 겪고 있는 여성청소년이 위생적이고 안정한 생리기간을 보낼 수 있도록 생리대를 지원하는 데 사용된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박보영은 데뷔 이래 꾸준히 국내외 저소득 가정 아동청소년에게 뜻깊은 마음을 전달해온 스타다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 코로나19로 어려움을 겪고 있는 취약계층과 소방대원을 위해 기부하는 등 지속적으로 선한 영향력을 펼쳐오고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2월 12일이 본인의 생일인 박보영은 지난해에도 생일을 맞아 3000만원을 기부한 것에 이어 올해 생일에도 선행을 이어와 그 의미를 더했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘기부천사’ 박보영, 올해생일에도 이어진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

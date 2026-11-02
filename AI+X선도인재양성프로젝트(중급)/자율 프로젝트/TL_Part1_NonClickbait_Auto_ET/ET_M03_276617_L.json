@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276617",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "군필자 분노케한 일본에서 판매중인 '한국 군대 정식'",
+		"newsSubTitle": "",
+		"newsContent": "일본에서 판매 중인 독특한 한국 음식이 화제다.\n최근 각종 온라인 커뮤니티를 통해 일본에서 판매 중이라는 한국의 ‘군대 정식’이 주목받고 있다.\n식판에 담겨 나오는 군대 정식은 밥, 국과 반찬 4종류로 이뤄져 있다.\n가격은 약 6700원 정도다.\n군대를 다녀온 남성 네티즌들은 “군대에서 계란 프라이 먹기 힘든데 너무 미화한 것 같다” “한국군을 조롱하려고 만든 건가?” “프라이가 아니라 삶은 달걀이 나와야 한다” “계란 프라이부터 사기” 등의 반응을 보인다.\n실제 군대 식단보다 일본의 군대 정식의 질이 훨씬 높다는 것이다.\n한편 “이것도 한류라면 한류”라고 긍정적인 반응을 보이는 네티즌들도 적지 않다.\n군에 입대한 한류 스타의 팬이라면 자신이 좋아하는 스타가 먹게 될 군대 음식을 맛보고 싶을 수 있다는 것이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본에서 판매 중인 독특한 한국 음식이 화제다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 각종 온라인 커뮤니티를 통해 일본에서 판매 중이라는 한국의 ‘군대 정식’이 주목받고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "식판에 담겨 나오는 군대 정식은 밥, 국과 반찬 4종류로 이뤄져 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가격은 약 6700원 정도다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "군대를 다녀온 남성 네티즌들은 “군대에서 계란 프라이 먹기 힘든데 너무 미화한 것 같다” “한국군을 조롱하려고 만든 건가?” “프라이가 아니라 삶은 달걀이 나와야 한다” “계란 프라이부터 사기” 등의 반응을 보인다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제 군대 식단보다 일본의 군대 정식의 질이 훨씬 높다는 것이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 “이것도 한류라면 한류”라고 긍정적인 반응을 보이는 네티즌들도 적지 않다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "군에 입대한 한류 스타의 팬이라면 자신이 좋아하는 스타가 먹게 될 군대 음식을 맛보고 싶을 수 있다는 것이다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "군필자 분노케한 일본에서 판매중인 '한국 군대 정식'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

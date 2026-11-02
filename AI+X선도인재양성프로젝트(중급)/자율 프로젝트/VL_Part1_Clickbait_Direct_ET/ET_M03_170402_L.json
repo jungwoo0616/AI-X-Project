@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170402",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'한채아와 열애설' 차세찌 누구? CF 보니 '세쌍둥이인 줄'",
+    "newsSubTitle": "",
+    "newsContent": "배우 한채아와 열애설이 난 차세찌에 관심이 집중되고 있다.\n2일 한 매체는 한채아와 차세찌가 1년째 교제 중이라고 보도했다.\n두 사람이 만난 지 꽤 됐다면서 목격담이 많다고 전했으나 소속사 측은 일간스포츠에 \\\"사실이 아니다\\\"라고 열애설을 해명했다.\n김성은·정조국 부부를 통해 모임 자리에서 처음 만나 친분이 있기는 하지만 연인 관계는 아니라는 것이다.\n차세찌는 차범근 전 축구감독의 아들이자 축구선수 차두리의 동생이다.\n그는 차범근·차두리와 함께 CF에도 출연하기도 했다.\n한채아는 지난달 25일 방송된 JTBC '아는 형님'에서 \\\"남자친구가 있냐\\\"는 질문에 선뜻 대답을 하지 못하고 망설이면서 현재 남자친구가 있는 것 아니냐는 의혹이 제기된 바 있다.\n당시 소속사 측은 다음 날 \\\"남자친구가 없다\\\"고 밝혔다.\n또, 한채아는 1일 방송된 MBC '황금어장 라디오스타'에서 \\\"화장을 하는 남자는 별로 안 좋아한다\\\"며 남성적인 스타일을 선호한다고 말했다.\n한편 한채아는 영화 '비정규직 특수요원' 개봉을 앞두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한채아와 열애설이 난 차세찌에 관심이 집중되고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 한 매체는 한채아와 차세찌가 1년째 교제 중이라고 보도했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람이 만난 지 꽤 됐다면서 목격담이 많다고 전했으나 소속사 측은 일간스포츠에 \\\"사실이 아니다\\\"라고 열애설을 해명했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김성은·정조국 부부를 통해 모임 자리에서 처음 만나 친분이 있기는 하지만 연인 관계는 아니라는 것이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "차세찌는 차범근 전 축구감독의 아들이자 축구선수 차두리의 동생이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 차범근·차두리와 함께 CF에도 출연하기도 했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한채아는 지난달 25일 방송된 JTBC '아는 형님'에서 \\\"남자친구가 있냐\\\"는 질문에 선뜻 대답을 하지 못하고 망설이면서 현재 남자친구가 있는 것 아니냐는 의혹이 제기된 바 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당시 소속사 측은 다음 날 \\\"남자친구가 없다\\\"고 밝혔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또, 한채아는 1일 방송된 MBC '황금어장 라디오스타'에서 \\\"화장을 하는 남자는 별로 안 좋아한다\\\"며 남성적인 스타일을 선호한다고 말했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 한채아는 영화 '비정규직 특수요원' 개봉을 앞두고 있다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 한채아와 차세찌, 1년째 은밀한 교제 중? 열애설 보도에 관심 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

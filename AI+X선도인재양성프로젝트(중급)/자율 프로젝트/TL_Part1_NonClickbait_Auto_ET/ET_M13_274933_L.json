@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274933",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "BTS 뷔, 또다시 신기록 경신",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 뷔의 독보적인 파급력이 화제다.\n7일 오전 10시 기준 뷔는 4629만 팔로워를 넘어섰다.\n이는 한국 남자 연예인 최초 기록이다.\n특히 뷔는 케이팝 전용 차트쇼 케이팝레이더(K-POPRADAR)에 따르면 6월 한 달간 2,697,437명의 팔로워를 모으며 한국 인스타그램 계정 중 가장 높은 증가량을 보였다.\n뷔는 얼마전 아시아 셀럽 최초로 2000만 ‘좋아요’를 기록하며 ‘역대 인스타그램 좋아요 톱 20’ 랭킹 18위에 올랐다.\n그는 ‘전세계에서 가장 영향력 있는 인플루언서 톱 1000’ 9위, ‘미국에서 가장 영향력 있는 인플루언서 톱 1000’ 8위에 오르며 한국인 셀럽 중 가장 높은 순위를 기록하기도 했다.\n한편 뷔는 최근 배우 박보검, 그룹 블랙핑크의 리사와 함께 파리 패션위크에 참석하며 전세계적인 관심을 한 몸에 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 뷔의 독보적인 파급력이 화제다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 오전 10시 기준 뷔는 4629만 팔로워를 넘어섰다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 한국 남자 연예인 최초 기록이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 뷔는 케이팝 전용 차트쇼 케이팝레이더(K-POPRADAR)에 따르면 6월 한 달간 2,697,437명의 팔로워를 모으며 한국 인스타그램 계정 중 가장 높은 증가량을 보였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뷔는 얼마전 아시아 셀럽 최초로 2000만 ‘좋아요’를 기록하며 ‘역대 인스타그램 좋아요 톱 20’ 랭킹 18위에 올랐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 ‘전세계에서 가장 영향력 있는 인플루언서 톱 1000’ 9위, ‘미국에서 가장 영향력 있는 인플루언서 톱 1000’ 8위에 오르며 한국인 셀럽 중 가장 높은 순위를 기록하기도 했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 뷔는 최근 배우 박보검, 그룹 블랙핑크의 리사와 함께 파리 패션위크에 참석하며 전세계적인 관심을 한 몸에 받았다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BTS 뷔, 또다시 신기록 경신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

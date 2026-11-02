@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274925",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크, 전세계 흔들다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 블랙핑크(BLACKPINK)의 컴백 소식이 전세계를 기대감으로 물들였다.\n지난 6일 YG엔터테인먼트는 블랙핑크의 8월 신곡 발표와 연말까지 이어질 월드투어 등 순차적 대형 프로젝트를 예고했다.\n이에 국내를 넘어 세계 각국 외신이 즉각 주목했다.\n미국 유력 경제 전문지 포브스(Forbes)는 “여왕의귀환. 2022 하반기는 블랙핑크의 것”이라며 보도했고, 미국 빌보드, NME, CNN 등도 블랙핑크를 조명했다.\n미국 빌보드는 “한국말을 몰라도 비주얼과 분위기만으로 음악을 충분히 즐길 수 있다”는 과거 지수의 인터뷰를 언급하며 다가오는 블랙핑크의 신보 및 YG 프로젝트에 큰 기대감을 표했다.\n이외 일본, 인도네시아, 말레이시아, 대만, 베트남, 홍콩, 인도, 스위스 등 각국의 매체들 역시 실시간으로 큰 관심을 보인 가운데 블랙핑크 관련 해시태그(#BLACKPINK IS COMING)가 이날 트위터 월드 와이드 트렌드 최상위권을 장악하며 이들의 압도적 존재감을 증명했다.\n한편 블랙핑크는 지난 2016년 데뷔 이래 ‘뚜두뚜두 (DDU-DU DDU-DU)’ ‘Kill This Love’ ‘How You Like That’ ‘Lovesick Girls’ 등 다수의 메가히트곡을 탄생시키며 글로벌한 사랑을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 블랙핑크(BLACKPINK)의 컴백 소식이 전세계를 기대감으로 물들였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 6일 YG엔터테인먼트는 블랙핑크의 8월 신곡 발표와 연말까지 이어질 월드투어 등 순차적 대형 프로젝트를 예고했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 국내를 넘어 세계 각국 외신이 즉각 주목했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국 유력 경제 전문지 포브스(Forbes)는 “여왕의귀환. 2022 하반기는 블랙핑크의 것”이라며 보도했고, 미국 빌보드, NME, CNN 등도 블랙핑크를 조명했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국 빌보드는 “한국말을 몰라도 비주얼과 분위기만으로 음악을 충분히 즐길 수 있다”는 과거 지수의 인터뷰를 언급하며 다가오는 블랙핑크의 신보 및 YG 프로젝트에 큰 기대감을 표했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외 일본, 인도네시아, 말레이시아, 대만, 베트남, 홍콩, 인도, 스위스 등 각국의 매체들 역시 실시간으로 큰 관심을 보인 가운데 블랙핑크 관련 해시태그(#BLACKPINK IS COMING)가 이날 트위터 월드 와이드 트렌드 최상위권을 장악하며 이들의 압도적 존재감을 증명했다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 블랙핑크는 지난 2016년 데뷔 이래 ‘뚜두뚜두 (DDU-DU DDU-DU)’ ‘Kill This Love’ ‘How You Like That’ ‘Lovesick Girls’ 등 다수의 메가히트곡을 탄생시키며 글로벌한 사랑을 받고 있다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크, 전세계 흔들다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

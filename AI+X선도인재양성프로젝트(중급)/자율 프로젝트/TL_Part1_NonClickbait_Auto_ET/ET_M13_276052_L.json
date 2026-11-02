@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276052",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조정석 사칭자 있다, 주의 당부",
+		"newsSubTitle": "",
+		"newsContent": "배우 조정석을 사칭하는 이들이 있어 주의가 당부된다.\n조정석 소속사 잼 엔터테인먼트는 지난 21일 “배우의 이름으로 댓글 및 DM(인스타그램 다이렉트 메시지)을 보내 접근하는 사칭 계정 피싱 사례가 있어 주의를 당부드린다”고 밝혔다.\n이어 “조정석은 개인 사회관계망서비스(SNS)를 사용하지 않으며 댓글 및 DM으로 연락을 취하지도 않는다”고 했다.\n이와 같은 계정을 발견할 경우 제보를 부탁했다.\n소속사는 “댓글 혹은 DM이 올 경우 꼭 신고하시고 피해가 발생하지 않도록 주의 당부드린다”고 했다.\n조정석은 영화 ‘파일럿’에 캐스팅 돼 잘나가던 파일럿에서 한순간에 실직자가 된 정우 역으로 유쾌한 연기를 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 조정석을 사칭하는 이들이 있어 주의가 당부된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조정석 소속사 잼 엔터테인먼트는 지난 21일 “배우의 이름으로 댓글 및 DM(인스타그램 다이렉트 메시지)을 보내 접근하는 사칭 계정 피싱 사례가 있어 주의를 당부드린다”고 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “조정석은 개인 사회관계망서비스(SNS)를 사용하지 않으며 댓글 및 DM으로 연락을 취하지도 않는다”고 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 같은 계정을 발견할 경우 제보를 부탁했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 “댓글 혹은 DM이 올 경우 꼭 신고하시고 피해가 발생하지 않도록 주의 당부드린다”고 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조정석은 영화 ‘파일럿’에 캐스팅 돼 잘나가던 파일럿에서 한순간에 실직자가 된 정우 역으로 유쾌한 연기를 펼칠 예정이다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조정석 사칭자 있다, 주의 당부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

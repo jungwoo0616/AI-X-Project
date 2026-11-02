@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260568",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "탕웨이, ‘♥김태용’과 이혼설 일축",
+		"newsSubTitle": "",
+		"newsContent": "중국 배우 탕웨이와 남편 김태용 감독이 이혼 루머에 휩싸인 가운데, 탕웨이 측은 사실무근이라는 입장이다.\n10일 중국 매체 시나연예는 최근 중국 내에서는 탕웨이와 김태용 감독이 결혼 생활에 문제가 있다는 소문이 퍼졌다고 보도했다.\n이 매체는 두 사람이 이미 6개월 이상 별거 중이라고 전했다.\n이에 탕웨이의 소속사 측은 한 홍콩 매체에 “별거설은 사실이 아니다. 탕웨이 부부는 현재 행복하게 잘살고 있다”며 “탕웨이는 현재 김 감독의 영화 사후 녹음을 하고 있다”고 반박했다.\n이어 소속사 측은 “탕웨이 부부는 행복한 결혼 생활을 유지하고 있다”고 재차 강조했다.\n한편 김태용 감독과 탕웨이는 지난 2011년 개봉한 ‘만추’를 통해 처음으로 인연을 맺었으며, 이후 연인으로 발전해 2014년 결혼식을 올렸다.\n이후 2016년에는 홍콩에서 딸 ‘썸머(Summer)’를 품에 안았다.\n탕웨이는 김태용 감독의 신작 영화 ‘원더랜드’에 출연해 남편과 다시 한번 호흡을 맞췄으며, 또 그는 박찬욱 감독의 신작 ‘헤어질 결심’에도 캐스팅되어 12년 만에 한국 영화로 돌아올 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 배우 탕웨이와 남편 김태용 감독이 이혼 루머에 휩싸인 가운데, 탕웨이 측은 사실무근이라는 입장이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 중국 매체 시나연예는 최근 중국 내에서는 탕웨이와 김태용 감독이 결혼 생활에 문제가 있다는 소문이 퍼졌다고 보도했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 매체는 두 사람이 이미 6개월 이상 별거 중이라고 전했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 탕웨이의 소속사 측은 한 홍콩 매체에 “별거설은 사실이 아니다. 탕웨이 부부는 현재 행복하게 잘살고 있다”며 “탕웨이는 현재 김 감독의 영화 사후 녹음을 하고 있다”고 반박했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 소속사 측은 “탕웨이 부부는 행복한 결혼 생활을 유지하고 있다”고 재차 강조했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김태용 감독과 탕웨이는 지난 2011년 개봉한 ‘만추’를 통해 처음으로 인연을 맺었으며, 이후 연인으로 발전해 2014년 결혼식을 올렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 2016년에는 홍콩에서 딸 ‘썸머(Summer)’를 품에 안았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "탕웨이는 김태용 감독의 신작 영화 ‘원더랜드’에 출연해 남편과 다시 한번 호흡을 맞췄으며, 또 그는 박찬욱 감독의 신작 ‘헤어질 결심’에도 캐스팅되어 12년 만에 한국 영화로 돌아올 예정이다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "탕웨이, ‘♥김태용’과 이혼설 일축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

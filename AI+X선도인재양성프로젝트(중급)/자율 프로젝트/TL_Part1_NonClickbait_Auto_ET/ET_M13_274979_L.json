@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274979",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“공부 정말 힘들다” 박은혜, ‘늦깎이 대학생’ 학구열 증명",
+		"newsSubTitle": "",
+		"newsContent": "‘늦깎이 대학생’ 배우 박은혜가 대학교 성적표를 공개했다.\n박은혜는 7일 인스타그램을 통해 “이번 학기 문법론에 B가 하나 있지만 쉬는 날도 거의 없이 촬영했는데 이 정도면 정말 만족한다”는 글과 함께 2022년도 1학기 성적표를 공개했다.\n공개된 성적표에 따르면 박은혜는 ‘한국어문법론’을 제외한 모든 과목에서 A 이상의 학점을 받았다.\n이중 ‘신체훈련’, ‘언어학개론’ 과목에서는 A+를 받았다.\n박은혜는 “연기 수업도 어렵지만 40대에 국어 공부 정말 힘들다. 그래서 공부는 때가 있다”며 “하지만 열심히 해서 한국어교사자격증 2급을 반드시 따고 말 것”고 다짐했다.\n이어 “서울문화예술대학교 연극영화과, 한국어교육학과 복수전공 파이팅”이라고 덧붙였다.\n박은혜는 1995년 뮤지컬 ‘피터 팬’으로 데뷔한 후 MBC 드라마 ‘대장금’(2003), ‘이산’(2007), ‘그대없인 못 살아’(2012), tvN 드라마 ‘하이클래스’(2021)에 출연하며 활발히 활동하고 있다.\n최근에는 tvN 드라마 ‘환혼’에서 ‘진호경’역을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘늦깎이 대학생’ 배우 박은혜가 대학교 성적표를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박은혜는 7일 인스타그램을 통해 “이번 학기 문법론에 B가 하나 있지만 쉬는 날도 거의 없이 촬영했는데 이 정도면 정말 만족한다”는 글과 함께 2022년도 1학기 성적표를 공개했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 성적표에 따르면 박은혜는 ‘한국어문법론’을 제외한 모든 과목에서 A 이상의 학점을 받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이중 ‘신체훈련’, ‘언어학개론’ 과목에서는 A+를 받았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박은혜는 “연기 수업도 어렵지만 40대에 국어 공부 정말 힘들다. 그래서 공부는 때가 있다”며 “하지만 열심히 해서 한국어교사자격증 2급을 반드시 따고 말 것”고 다짐했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “서울문화예술대학교 연극영화과, 한국어교육학과 복수전공 파이팅”이라고 덧붙였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박은혜는 1995년 뮤지컬 ‘피터 팬’으로 데뷔한 후 MBC 드라마 ‘대장금’(2003), ‘이산’(2007), ‘그대없인 못 살아’(2012), tvN 드라마 ‘하이클래스’(2021)에 출연하며 활발히 활동하고 있다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근에는 tvN 드라마 ‘환혼’에서 ‘진호경’역을 맡았다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“공부 정말 힘들다” 박은혜, ‘늦깎이 대학생’ 학구열 증명",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

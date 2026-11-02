@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284148",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "배두나X김원중 '이보다 잘 어울릴 수 없다'",
+		"newsSubTitle": "",
+		"newsContent": "배우 배두나와 모델 김원중의 커플 화보가 공개됐다.\n두 사람의 '케미'가 시선을 압도하고 있다.\n배두나와 김원중은 5일 발간된 스타 스타일 매거진 '하이컷' 화보를 통해 패셔너블하고 매력적인 워너비 커플을 이뤘다.\n이번 화보는 터프하고 섹시한 여자 친구 배두나, 독특하고 감성적인 남자 친구 김원중이라는 콘셉트로 진행됐다.\n소파에 나른하게 기대 눕거나 무심하게 어깨동무를 하는 등 캐릭터에 걸맞은 능숙한 포즈와 자연스러운 표정연기가 돋보였다.\n무엇보다 과감한 하의실종과 상의실종 룩을 선보인 배두나의 늘씬하고 탄력적인 몸매가 시선을 사로잡는다.\n배두나의 화보는 하이컷 161호를 통해 만나볼 수 있다.\n또 11월 10일 발행되는 '디지털 하이컷'을 통해 지면에선 볼 수 없는 생동감 넘치는 화보와 영상을 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 배두나와 모델 김원중의 커플 화보가 공개됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "두 사람의 '케미'가 시선을 압도하고 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배두나와 김원중은 5일 발간된 스타 스타일 매거진 '하이컷' 화보를 통해 패셔너블하고 매력적인 워너비 커플을 이뤘다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 화보는 터프하고 섹시한 여자 친구 배두나, 독특하고 감성적인 남자 친구 김원중이라는 콘셉트로 진행됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소파에 나른하게 기대 눕거나 무심하게 어깨동무를 하는 등 캐릭터에 걸맞은 능숙한 포즈와 자연스러운 표정연기가 돋보였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "무엇보다 과감한 하의실종과 상의실종 룩을 선보인 배두나의 늘씬하고 탄력적인 몸매가 시선을 사로잡는다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "배두나의 화보는 하이컷 161호를 통해 만나볼 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 11월 10일 발행되는 '디지털 하이컷'을 통해 지면에선 볼 수 없는 생동감 넘치는 화보와 영상을 감상할 수 있다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배두나X김원중 '이보다 잘 어울릴 수 없다'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

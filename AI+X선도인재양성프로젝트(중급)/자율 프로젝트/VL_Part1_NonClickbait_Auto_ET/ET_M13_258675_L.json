@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258675",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "양미라 “임밍 아웃”…둘째 임신",
+		"newsSubTitle": "",
+		"newsContent": "배우 양미라가 기쁜 소식을 전했다.\n19일 양미라는 자신의 SNS에 “엄마 뱃속에 동생이 생겼대요 #임밍아웃”이라는 글과 함께 여러 장의 사진을 올렸다.\n사진 속 양미라는 아들 서호와 외출해 눈을 즐기고 있다.\n서호는 동생이 생긴 기쁨을 전하는 듯 아기 모양의 풍선을 들고 거리를 걷고 잇는 모습이다.\n양미라는 2018년 2세 연상 사업가 정신욱과 결혼해 슬하에 1남을 두고 있다.\n이들 가족은 TV조선 예능 프로그램 ‘아내의 맛’에 출연한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 양미라가 기쁜 소식을 전했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 양미라는 자신의 SNS에 “엄마 뱃속에 동생이 생겼대요 #임밍아웃”이라는 글과 함께 여러 장의 사진을 올렸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 양미라는 아들 서호와 외출해 눈을 즐기고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서호는 동생이 생긴 기쁨을 전하는 듯 아기 모양의 풍선을 들고 거리를 걷고 잇는 모습이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양미라는 2018년 2세 연상 사업가 정신욱과 결혼해 슬하에 1남을 두고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들 가족은 TV조선 예능 프로그램 ‘아내의 맛’에 출연한 바 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양미라 “임밍 아웃”…둘째 임신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272011",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최무성 “이동합니다”…멋진 변신 인증",
+		"newsSubTitle": "",
+		"newsContent": "배우 최무성이 팬들에게 근황을 알렸다.\n최무성은 SNS에 “오늘도 골프 치러 이동합니다”라는 글과 함께 자동차에서 찍은 셀카 사진을 올렸다.\n공개된 사진에는 골프를 치러 이동하던 중 셀카를 찍고 있는 최무성의 모습이 담겨 있다.\n최무성은 체중감량을 통해 21kg 감량 후 달라진 분위기로 팬들 이목을 집중시켰다.\n최무성은 지난달 31일에도 “모두 모두 행복하세요. 골프 여행 중입니다”라는 글과 함께 필드에 있는 사진을 공개한 바 있다.\n최무성은 앞서 “삶에 활기가 많이 생긴 것 같다. 50대 중반의 나이에 체중까지 많이 나가다 보니 항상 만성 피로가 있었고 무기력했는데 지금은 예전 40대 때의 활력을 되찾은 것 같다”고 소감을 밝혔다.\n그는 tvN ‘응답하라 1988’에서 ‘택이 아빠’ 역으로 출연 당시 후덕한 이미지와 달리 날렵한 모습으로 변신에 성공했다.\n최무성은 최근 ‘뜨거운 피’와 ‘배니싱: 미제사건’의 개봉으로 바쁜 일정을 소화하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최무성이 팬들에게 근황을 알렸다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최무성은 SNS에 “오늘도 골프 치러 이동합니다”라는 글과 함께 자동차에서 찍은 셀카 사진을 올렸다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 골프를 치러 이동하던 중 셀카를 찍고 있는 최무성의 모습이 담겨 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최무성은 체중감량을 통해 21kg 감량 후 달라진 분위기로 팬들 이목을 집중시켰다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최무성은 지난달 31일에도 “모두 모두 행복하세요. 골프 여행 중입니다”라는 글과 함께 필드에 있는 사진을 공개한 바 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최무성은 앞서 “삶에 활기가 많이 생긴 것 같다. 50대 중반의 나이에 체중까지 많이 나가다 보니 항상 만성 피로가 있었고 무기력했는데 지금은 예전 40대 때의 활력을 되찾은 것 같다”고 소감을 밝혔다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 tvN ‘응답하라 1988’에서 ‘택이 아빠’ 역으로 출연 당시 후덕한 이미지와 달리 날렵한 모습으로 변신에 성공했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최무성은 최근 ‘뜨거운 피’와 ‘배니싱: 미제사건’의 개봉으로 바쁜 일정을 소화하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최무성 “이동합니다”…멋진 변신 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

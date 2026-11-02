@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264921",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "CJ ENM, 물적분할 철회",
+		"newsSubTitle": "",
+		"newsContent": "CJ ENM이 물적분할 계획을 철회하고 현금 출자 방식으로 콘텐츠 스튜디오 설립을 추진한다고 공시했다.\nCJ ENM은 24일 이사회를 열고 지난해 11월 발표했던 물적분할을 통한 신규 스튜디오 설립 계획을 철회하고, 현금 출자를 통해 스튜디오를 설립하는 계획을 승인했다고 공시를 했다.\n이에 대해 물적분할에 대한 주주들 우려와 관련 규제 환경이 급변한 상황을 종합적으로 고려한 것이라고 CJ ENM은 밝혔다.\n현금 출자 방식은 기존 물적분할 방안과 달리 CJ ENM 본체 사업 부문이 분사되지 않는다.\n신설 스튜디오 설립에 따라서 CJ ENM은 기존 스튜디오드래곤과 지난해 인수한 엔데버 콘텐트를 포함해 3개 스튜디오를 산하에 둔 멀티스튜디오 체제를 갖추게 된다.\n신설 스튜디오는 온라인동영상서비스(OTT) 플랫폼 중심 콘텐츠 제작과 웹툰·웹소설을 포함한 원천 지식재산(IP) 개발, 콘텐츠 융합 등 사업을 담당하게 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CJ ENM이 물적분할 계획을 철회하고 현금 출자 방식으로 콘텐츠 스튜디오 설립을 추진한다고 공시했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CJ ENM은 24일 이사회를 열고 지난해 11월 발표했던 물적분할을 통한 신규 스튜디오 설립 계획을 철회하고, 현금 출자를 통해 스튜디오를 설립하는 계획을 승인했다고 공시를 했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 대해 물적분할에 대한 주주들 우려와 관련 규제 환경이 급변한 상황을 종합적으로 고려한 것이라고 CJ ENM은 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현금 출자 방식은 기존 물적분할 방안과 달리 CJ ENM 본체 사업 부문이 분사되지 않는다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신설 스튜디오 설립에 따라서 CJ ENM은 기존 스튜디오드래곤과 지난해 인수한 엔데버 콘텐트를 포함해 3개 스튜디오를 산하에 둔 멀티스튜디오 체제를 갖추게 된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신설 스튜디오는 온라인동영상서비스(OTT) 플랫폼 중심 콘텐츠 제작과 웹툰·웹소설을 포함한 원천 지식재산(IP) 개발, 콘텐츠 융합 등 사업을 담당하게 된다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CJ ENM, 물적분할 철회",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

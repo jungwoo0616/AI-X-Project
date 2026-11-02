@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261054",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘필로폰 투약 혐의’ 에이미, 2년 6개월 구형",
+		"newsSubTitle": "",
+		"newsContent": "강제 추방 5년만에 한국으로 돌아온 후 다시 약물에 손을 댄 방송인 에이미에게 검찰이 징역 2년 6개월을 구형했다.\n법조계에 따르면 지난 14일 춘천지법 원주지원 형사1부(부장판사 신교식) 심리로 열린 마약류 관리에 관한 법률 위반 사건 결심공판에서 검찰은 에이미에게 이와 같이 구형했다.\n에이미는 지난해 6회에 걸쳐 필로폰을 투약한 혐의로 긴급체포되어 재판에 넘겨졌다.\n재판에서 에이미는 함께 기소된 공범 A씨에 의해 비자발적으로 감금된 상태에서 마약 투약이 이뤄진 것이라며 혐의를 부인한 것으로 전해졌다.\n미국 국적인 에이미는 2012년 프로포폴 투약 사실이 적발돼 징역 8월에 집행유예 2년을 선고받았다.\n이후 2014년 9월에도 졸피뎀 투약 혐의로 벌금 500만 원 처분을 받은 바 있다.\n출입국관리사무소는 에이미에 대해 출국명령 처분을 내렸고, 재판 끝에 2015년 강제 추방됐다.\n에이미가 한국으로 돌아온 것은 입국 금지 기간 만료 후인 지난해 1월이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강제 추방 5년만에 한국으로 돌아온 후 다시 약물에 손을 댄 방송인 에이미에게 검찰이 징역 2년 6개월을 구형했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "법조계에 따르면 지난 14일 춘천지법 원주지원 형사1부(부장판사 신교식) 심리로 열린 마약류 관리에 관한 법률 위반 사건 결심공판에서 검찰은 에이미에게 이와 같이 구형했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "에이미는 지난해 6회에 걸쳐 필로폰을 투약한 혐의로 긴급체포되어 재판에 넘겨졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "재판에서 에이미는 함께 기소된 공범 A씨에 의해 비자발적으로 감금된 상태에서 마약 투약이 이뤄진 것이라며 혐의를 부인한 것으로 전해졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국 국적인 에이미는 2012년 프로포폴 투약 사실이 적발돼 징역 8월에 집행유예 2년을 선고받았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 2014년 9월에도 졸피뎀 투약 혐의로 벌금 500만 원 처분을 받은 바 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "출입국관리사무소는 에이미에 대해 출국명령 처분을 내렸고, 재판 끝에 2015년 강제 추방됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에이미가 한국으로 돌아온 것은 입국 금지 기간 만료 후인 지난해 1월이었다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘필로폰 투약 혐의’ 에이미, 2년 6개월 구형",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

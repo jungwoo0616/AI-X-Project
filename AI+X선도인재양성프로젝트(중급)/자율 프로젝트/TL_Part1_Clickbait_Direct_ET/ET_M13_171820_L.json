@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171820",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "저 세상 몸매, 차현승[화보]",
+    "newsSubTitle": "",
+    "newsContent": "댄서 차현승의 멋진 몸매가 돋보이는 패션 화보가 공개됐다.\n코스모폴리탄코리아는 17일 엠포리오 아르마니 언더웨어 컬렉션과 함께한 댄서 차현승의 화보를 공개했다.\n보디 프로필 촬영을 준비하고 있는 멋진 남자의 일상을 콘셉트로 한 언더웨어 화보와 패션 필름 속에서 차현승은 조각된 듯 섬세하고 멋진 근육을 드러내며 매력을 뽐냈다.\n차현승은 넷플릭스 ‘솔로지옥’을 통해 대중에 얼굴을 알렸다.\n가수 선미의 댄서로 알려지며 큰 인기를 얻었다.\nMnet ‘스트릿 맨 파이터’ 크루 라인업에 이름을 올릴 프로젝트 댄스 크루를 결성하는 ‘비 엠비셔스(Be Mbitious)’ 예고편에 모습을 드러내 기대를 모으고 있다.\n차현승의 더 많은 화보는 ‘코스모폴리탄’ 인스타그램과 웹사이트, 패션 필름은 ‘코스모폴리탄’ 인스타그램과 유튜브 채널을 통해 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "댄서 차현승의 멋진 몸매가 돋보이는 패션 화보가 공개됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "코스모폴리탄코리아는 17일 엠포리오 아르마니 언더웨어 컬렉션과 함께한 댄서 차현승의 화보를 공개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보디 프로필 촬영을 준비하고 있는 멋진 남자의 일상을 콘셉트로 한 언더웨어 화보와 패션 필름 속에서 차현승은 조각된 듯 섬세하고 멋진 근육을 드러내며 매력을 뽐냈다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차현승은 넷플릭스 ‘솔로지옥’을 통해 대중에 얼굴을 알렸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가수 선미의 댄서로 알려지며 큰 인기를 얻었다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "Mnet ‘스트릿 맨 파이터’ 크루 라인업에 이름을 올릴 프로젝트 댄스 크루를 결성하는 ‘비 엠비셔스(Be Mbitious)’ 예고편에 모습을 드러내 기대를 모으고 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "차현승의 더 많은 화보는 ‘코스모폴리탄’ 인스타그램과 웹사이트, 패션 필름은 ‘코스모폴리탄’ 인스타그램과 유튜브 채널을 통해 만나볼 수 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "멋진 근육질 몸매 돋보이는 댄서, 그의 패션 화보 공개돼...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

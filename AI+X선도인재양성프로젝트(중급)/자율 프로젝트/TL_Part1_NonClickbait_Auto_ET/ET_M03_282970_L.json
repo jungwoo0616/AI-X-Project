@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282970",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'내 딸 금사월' 유재석, \\\"저는 그림자일 뿐입니다\\\"…'이게 유재석이라고?'",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유재석이 '내 딸, 금사월'에 카메오로 출연해 웃음을 끌어냈다.\n22일 방송된 MBC 주말드라마 '내 딸, 금사월'에서는 유재석이 특별 출연해 화제를 모았다.\n이날 강만후(손창민)는 헤더신(전인화)와 만났고, 유재석은 헤더신의 수행 비서로서 휠체어를 밀며 모습을 나타냈다.\n그는 강만후의 바지에 물을 흘렸고, 휴지로 닦아내며 크게 당황하는 모습을 보였다.\n이에 헤더신은 \\\"유 비서가 초면에 실수를 했다. 그림자처럼 따라다니라고 했더니\\\"라고 말했고, 유재석은 \\\"저는 상관하지 않으셔도 된다. 그림자일뿐입니다\\\"라고 말해 웃음을 자아냈다.\n그는 강만후의 만류에도 불구하고 연신 물기를 닦기 위해 달려들었다. '내 딸, 금사월'은 인간 삶의 보금자리인 집에 대한 드라마로, 주인공 금사월이 복수와 증오로 완전히 해체된 가정 위에 새롭게 꿈의 집을 짓는 작품으로 매주 주말 오후 10시 방송된다.\n온라인 중앙일보 내 딸 금사월, 유재석 [사진 MBC ‘내 딸 금사월’ 방송화면 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유재석이 '내 딸, 금사월'에 카메오로 출연해 웃음을 끌어냈다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 방송된 MBC 주말드라마 '내 딸, 금사월'에서는 유재석이 특별 출연해 화제를 모았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 강만후(손창민)는 헤더신(전인화)와 만났고, 유재석은 헤더신의 수행 비서로서 휠체어를 밀며 모습을 나타냈다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 강만후의 바지에 물을 흘렸고, 휴지로 닦아내며 크게 당황하는 모습을 보였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 헤더신은 \\\"유 비서가 초면에 실수를 했다. 그림자처럼 따라다니라고 했더니\\\"라고 말했고, 유재석은 \\\"저는 상관하지 않으셔도 된다. 그림자일뿐입니다\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 강만후의 만류에도 불구하고 연신 물기를 닦기 위해 달려들었다. '내 딸, 금사월'은 인간 삶의 보금자리인 집에 대한 드라마로, 주인공 금사월이 복수와 증오로 완전히 해체된 가정 위에 새롭게 꿈의 집을 짓는 작품으로 매주 주말 오후 10시 방송된다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 내 딸 금사월, 유재석 [사진 MBC ‘내 딸 금사월’ 방송화면 캡처]",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'내 딸 금사월' 유재석, \\\"저는 그림자일 뿐입니다\\\"…'이게 유재석이라고?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

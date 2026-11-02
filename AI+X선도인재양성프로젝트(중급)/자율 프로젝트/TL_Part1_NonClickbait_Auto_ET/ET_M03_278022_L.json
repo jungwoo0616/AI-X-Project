@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278022",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'김민희와 불륜설' 홍상수 감독, 프랑스 영화제에서 포착",
+		"newsSubTitle": "",
+		"newsContent": "배우 김민희(34)와 불륜설에 휩싸인 홍상수 감독(56)이 프랑스 마르세유 국제영화제(FID Marseille 2016)에 참석한 것으로 확인됐다.\n14일 마르세유 국제영화제 측은 공식 페이스북을 통해, 12일(현지시간) 마르세유 영화제에 참석한 홍상수 감독의 모습을 공개했다.\n사진 속 홍상수 감독은 다소 야윈 모습으로 마이크 앞에 서서 이야기를 하고 있었다.\n이날 홍상수 감독이 영화제에 김민희와 동행했는지는 확인되지 않았다.\n마르세유 국제영화제는 홍 감독이 20년간 연출했던 영화 17편을 상영 중이다.\n홍 감독은 영화제 측에 회고전에 참석할 의사를 밝혔으나 지난달 불륜설이 언론에 보도된 시기에 해외로 나간 뒤 행적이 묘연해 그의 참석 여부에 관심이 쏠렸다.\n홍상수 감독과 김민희는 2015년 9월 개봉한 영화 ‘지금은 맞고 그때는 틀리다’에서 감독과 배우로 만난 뒤 부적절한 관계로 발전했다는 불륜설에 휘말렸다.\n그러나 둘은 지금까지 아무런 입장도 표명하지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김민희(34)와 불륜설에 휩싸인 홍상수 감독(56)이 프랑스 마르세유 국제영화제(FID Marseille 2016)에 참석한 것으로 확인됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 마르세유 국제영화제 측은 공식 페이스북을 통해, 12일(현지시간) 마르세유 영화제에 참석한 홍상수 감독의 모습을 공개했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 홍상수 감독은 다소 야윈 모습으로 마이크 앞에 서서 이야기를 하고 있었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 홍상수 감독이 영화제에 김민희와 동행했는지는 확인되지 않았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마르세유 국제영화제는 홍 감독이 20년간 연출했던 영화 17편을 상영 중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍 감독은 영화제 측에 회고전에 참석할 의사를 밝혔으나 지난달 불륜설이 언론에 보도된 시기에 해외로 나간 뒤 행적이 묘연해 그의 참석 여부에 관심이 쏠렸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "홍상수 감독과 김민희는 2015년 9월 개봉한 영화 ‘지금은 맞고 그때는 틀리다’에서 감독과 배우로 만난 뒤 부적절한 관계로 발전했다는 불륜설에 휘말렸다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러나 둘은 지금까지 아무런 입장도 표명하지 않고 있다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'김민희와 불륜설' 홍상수 감독, 프랑스 영화제에서 포착",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

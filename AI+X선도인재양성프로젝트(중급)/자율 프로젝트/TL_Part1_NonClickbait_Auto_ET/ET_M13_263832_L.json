@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263832",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "오나미, ♥박민과 결혼임박 예고 “혼인신고서 가져왔다”",
+		"newsSubTitle": "",
+		"newsContent": "오나미가 남자친구인 전 축구선수 박민과 결혼에 임박했다는 사실을 공개했다.\n14일 방송된 MBC 표준FM ‘박준형, 정경미의 2시 만세’에서는 오나미, 김혜선, 김승혜가 출연했다.\nSBS 예능 프로그램 ‘골 때리는 그녀들’에 출연 오나미는 유니폼 안 티셔츠에 ‘박민 하트 나랑 결혼하자’라는 메시지로 남자친구 박민에게 프러포즈를 했다.\n그는 “어디까지 진행 됐냐”는 질문에 “제가 구청에 가서 혼인신고서를 가져왔다. 아직 쓰지는 않았다. 방송을 보면서 (박민에게)혼인신고서를 줬다”고 답했다.\n그러면서 “프러포즈는 박민이 먼저 했다. 처음 소개팅한 장소에서 소개팅한 지 1년째 되는 날 밥을 먹었다. 그 친구가 갑자기 화장실을 갔다 온다고 하더니 꽃다발이랑 가지고 와서 ‘나랑 결혼해 줄래?’라고 했다. 너무 감사해서 울었다. 나한테 이런 일이 있구나…”라고 프로포즈를 받던 날을 회상했다.\n이에 정경미는 “올해 안에 좋은 소식이 있나”고 물었고, 오나미는 “준비를 해야하지 않을까”라고 답해 결혼이 임박했음을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오나미가 남자친구인 전 축구선수 박민과 결혼에 임박했다는 사실을 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 방송된 MBC 표준FM ‘박준형, 정경미의 2시 만세’에서는 오나미, 김혜선, 김승혜가 출연했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SBS 예능 프로그램 ‘골 때리는 그녀들’에 출연 오나미는 유니폼 안 티셔츠에 ‘박민 하트 나랑 결혼하자’라는 메시지로 남자친구 박민에게 프러포즈를 했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “어디까지 진행 됐냐”는 질문에 “제가 구청에 가서 혼인신고서를 가져왔다. 아직 쓰지는 않았다. 방송을 보면서 (박민에게)혼인신고서를 줬다”고 답했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 “프러포즈는 박민이 먼저 했다. 처음 소개팅한 장소에서 소개팅한 지 1년째 되는 날 밥을 먹었다. 그 친구가 갑자기 화장실을 갔다 온다고 하더니 꽃다발이랑 가지고 와서 ‘나랑 결혼해 줄래?’라고 했다. 너무 감사해서 울었다. 나한테 이런 일이 있구나…”라고 프로포즈를 받던 날을 회상했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 정경미는 “올해 안에 좋은 소식이 있나”고 물었고, 오나미는 “준비를 해야하지 않을까”라고 답해 결혼이 임박했음을 전했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오나미, ♥박민과 결혼임박 예고 “혼인신고서 가져왔다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

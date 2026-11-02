@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277979",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'불타는 청춘' 구본승, 이연수에 '초면에 죄송한데 키스해도 될까요?\\\" 키스신 재연",
+		"newsSubTitle": "",
+		"newsContent": "‘불타는 청춘’ 구본승과 이연수가 깜짝 키스신을 선보였다.\n26일 방송된 SBS 예능 프로그램 ‘불타는 청춘’에 출연한 구본승은 “그때만 해도 큰 키 때문에 카메라 감독님들께 혼나기도 했다”며 “여배우가 나무판자에 올라가 키를 맞추거나 내가 ‘매너다리’를 하기도 했다”며 과거 키스신을 회상했다.\n이에 '불타는 청춘' 멤버들은 이연수와 키스신을 재연하도록 부추겼다.\n그러자 구본승은 이연수에게 “초면에 죄송한데, 키스해도 될까요?”라고 물었고 이연수는 부끄러워하는 듯 하더니 이내 “좋아요 해요!”라고 대답했다.\n두 사람이 볼에 뽀뽀를 하자 주변 사람들은 환호했다.\n이연수는 제작진과의 인터뷰에서 구본승과의 키스신에 대해 \\\"(내 마음을) 들켰어요. 진짜로 설렜다니까요\\\" 라고 말해 눈길을 끌었다.\n한편, SBS 예능 프로그램 ‘불타는 청춘’은 매주 화요일 오후 11시 10분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘불타는 청춘’ 구본승과 이연수가 깜짝 키스신을 선보였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 방송된 SBS 예능 프로그램 ‘불타는 청춘’에 출연한 구본승은 “그때만 해도 큰 키 때문에 카메라 감독님들께 혼나기도 했다”며 “여배우가 나무판자에 올라가 키를 맞추거나 내가 ‘매너다리’를 하기도 했다”며 과거 키스신을 회상했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 '불타는 청춘' 멤버들은 이연수와 키스신을 재연하도록 부추겼다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 구본승은 이연수에게 “초면에 죄송한데, 키스해도 될까요?”라고 물었고 이연수는 부끄러워하는 듯 하더니 이내 “좋아요 해요!”라고 대답했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람이 볼에 뽀뽀를 하자 주변 사람들은 환호했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이연수는 제작진과의 인터뷰에서 구본승과의 키스신에 대해 \\\"(내 마음을) 들켰어요. 진짜로 설렜다니까요\\\" 라고 말해 눈길을 끌었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, SBS 예능 프로그램 ‘불타는 청춘’은 매주 화요일 오후 11시 10분에 방송된다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'불타는 청춘' 구본승, 이연수에 '초면에 죄송한데 키스해도 될까요?\\\" 키스신 재연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

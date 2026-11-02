@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260670",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅, 김호중 그리고 이찬원",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 2월 1주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다.\n아이돌차트에 따르면 지난 2월 4일부터 2월 10일까지 집계된 평점랭킹에서 임영웅은 65만 3146표를 얻어 최다득표를 기록했다.\n이로써 임영웅은 아이돌차트 평점랭킹에서 46주 연속 1위에 오르게 됐다.\n2위는 김호중(30만 2315표)이 차지했다.\n이어 이찬원(29만 9053표), 영탁(7만 7198표), 지민(방탄소년단, 3만 7782표), 뷔(방탄소년단, 3만 2895표), 송가인(3만 1180표), 정국(방탄소년단, 1만 9088표), 진(방탄소년단, 1만 4040표), 제이홉(방탄소년단, 9193표)순으로 집계됐다.\n스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 6만 6883개를 받았다.\n이어 이찬원(3만 56개), 김호중(2만 9239개), 영탁(8812), 지민(4144개), 송가인(3633개), 뷔(3275개), 이병찬(1890개), 정국(1657개), 진(1594개) 순으로 ‘좋아요’ 수를 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 2월 1주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이돌차트에 따르면 지난 2월 4일부터 2월 10일까지 집계된 평점랭킹에서 임영웅은 65만 3146표를 얻어 최다득표를 기록했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로써 임영웅은 아이돌차트 평점랭킹에서 46주 연속 1위에 오르게 됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2위는 김호중(30만 2315표)이 차지했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이찬원(29만 9053표), 영탁(7만 7198표), 지민(방탄소년단, 3만 7782표), 뷔(방탄소년단, 3만 2895표), 송가인(3만 1180표), 정국(방탄소년단, 1만 9088표), 진(방탄소년단, 1만 4040표), 제이홉(방탄소년단, 9193표)순으로 집계됐다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 6만 6883개를 받았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 이찬원(3만 56개), 김호중(2만 9239개), 영탁(8812), 지민(4144개), 송가인(3633개), 뷔(3275개), 이병찬(1890개), 정국(1657개), 진(1594개) 순으로 ‘좋아요’ 수를 기록했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 김호중 그리고 이찬원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261863",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "장기하 “40대, 롤모델 없는 삶 살고 싶어”",
+		"newsSubTitle": "",
+		"newsContent": "가수 장기하가 특별한 40대를 예고했다.\n장기하는 23일 화상을 통해 진행된 첫 EP ‘공중부양’ 발매 인터뷰에서 롤모델을 묻는 질문에 “예전에는 배철수 선배님, 김창완 선배님이 롤모델이었다. 그런데 이젠 누구처럼 되고 싶다는 게 없다”고 말했다.\n이어 “누구처럼 되고 싶다고 생각해서 그렇게 되지도 않고, 시대가 달라서 여러 상황이 다르고 내 길을 가는 것은 나 자신 뿐이라는 생각이 들었다”며 “40대 이후에는 롤모델 없는 삶을 살아보고 싶다”고 밝혔다.\n더불어 수염을 기르는 것과 관련해서도 “마흔을 앞두고 ‘어려보이려고 노력하지 않겠다’, ‘내 발로 당당히 40대로 가겠다’는 의지였다”며 “며칠 전에 40대에 입성을 했으니 이제 잘라도 되지 않나 생각도 한다”고 전했다.\n장기하는 지난 22일 첫 EP ‘공중부양’으로 2018년 밴드 장기하와 얼굴들 해체 이후 3년여 만에 솔로 가수로 컴백했다. ‘공중부양’은 가장 장기하스럽지만 더없이 새로운 음반으로, 타이틀곡 ‘부럽지가 않어’를 포함해 긴 시간 공들여 만든 만큼 그의 정체성을 오롯이 담은 총 5곡이 담겼다.\n다음달 17일~20일, 24일~27일까지 단독 공연 ‘공중부양’을 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 장기하가 특별한 40대를 예고했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장기하는 23일 화상을 통해 진행된 첫 EP ‘공중부양’ 발매 인터뷰에서 롤모델을 묻는 질문에 “예전에는 배철수 선배님, 김창완 선배님이 롤모델이었다. 그런데 이젠 누구처럼 되고 싶다는 게 없다”고 말했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “누구처럼 되고 싶다고 생각해서 그렇게 되지도 않고, 시대가 달라서 여러 상황이 다르고 내 길을 가는 것은 나 자신 뿐이라는 생각이 들었다”며 “40대 이후에는 롤모델 없는 삶을 살아보고 싶다”고 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더불어 수염을 기르는 것과 관련해서도 “마흔을 앞두고 ‘어려보이려고 노력하지 않겠다’, ‘내 발로 당당히 40대로 가겠다’는 의지였다”며 “며칠 전에 40대에 입성을 했으니 이제 잘라도 되지 않나 생각도 한다”고 전했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장기하는 지난 22일 첫 EP ‘공중부양’으로 2018년 밴드 장기하와 얼굴들 해체 이후 3년여 만에 솔로 가수로 컴백했다. ‘공중부양’은 가장 장기하스럽지만 더없이 새로운 음반으로, 타이틀곡 ‘부럽지가 않어’를 포함해 긴 시간 공들여 만든 만큼 그의 정체성을 오롯이 담은 총 5곡이 담겼다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다음달 17일~20일, 24일~27일까지 단독 공연 ‘공중부양’을 개최한다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장기하 “40대, 롤모델 없는 삶 살고 싶어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

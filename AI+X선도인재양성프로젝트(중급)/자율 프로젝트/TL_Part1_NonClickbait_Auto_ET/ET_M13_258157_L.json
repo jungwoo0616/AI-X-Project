@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258157",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "송지아, CG같은 비현실적 아름다움",
+		"newsSubTitle": "",
+		"newsContent": "14일 송지아가 자신의 인스타그램에 프링이(프리지아 팬)들에게 “지벤져스 사랑해”라며 여러 장의 사진을 올렸다.\n화려한 프릴이 달린 의상과 메이크업이 시선을 사로잡고 있다.\n입체적인 이목구비와 우아한 미모가 눈길을 끌고 있다.\n송지아는 직각 어깨 라인을 드러내 남다른 비주얼을 자랑하고 있다.\n파란색 렌즈는 이국적인 느낌을 준다.\n작은 얼굴에 도톰한 입술까지 마치 CG같은 ‘비현실적 아름다움’을 자아내고 있다.\n송지아는 앞서 개인 유튜브 채널을 통해 성형 의혹에 대해 해명한 바 있다.\n그는 “오른쪽과 왼쪽이 짝눈이다. 이상하다고 하시는 분들도 많았다. 짝눈도 매력 있다고 생각해서 교정하진 않을 거다. 쌍꺼풀 수술이나 입술 필러는 안 했고, 코 수술만 고등학교 2학년 때 했었다”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "14일 송지아가 자신의 인스타그램에 프링이(프리지아 팬)들에게 “지벤져스 사랑해”라며 여러 장의 사진을 올렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "화려한 프릴이 달린 의상과 메이크업이 시선을 사로잡고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "입체적인 이목구비와 우아한 미모가 눈길을 끌고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송지아는 직각 어깨 라인을 드러내 남다른 비주얼을 자랑하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파란색 렌즈는 이국적인 느낌을 준다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "작은 얼굴에 도톰한 입술까지 마치 CG같은 ‘비현실적 아름다움’을 자아내고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송지아는 앞서 개인 유튜브 채널을 통해 성형 의혹에 대해 해명한 바 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 “오른쪽과 왼쪽이 짝눈이다. 이상하다고 하시는 분들도 많았다. 짝눈도 매력 있다고 생각해서 교정하진 않을 거다. 쌍꺼풀 수술이나 입술 필러는 안 했고, 코 수술만 고등학교 2학년 때 했었다”라고 밝혔다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송지아, CG같은 비현실적 아름다움",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

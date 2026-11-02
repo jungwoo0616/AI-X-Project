@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277739",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"제발 가지마, 우린 함께 할거야\\\" 팬들 향한 산다라박의 편지",
+		"newsSubTitle": "",
+		"newsContent": "그룹 2NE1이 공식적으로 해체를 알린 가운데 산다라박의 팬들에게 전한 편지가 눈길을 끈다.\n최근 온라인 커뮤니티에는 산다라박이 팬에게 전한 편지가 공개됐다.\n산다라박은 필리핀 방송에서 만난 한 팬에게 편지를 전달한 뒤 2NE1 팬들과 이 편지를 공유해달라고 부탁한 것으로 알려졌다.\n산다라박은 편지를 통해 \\\"제발 가지마, 나 너무 외로워. 우린 함께 할거야. 난 다른 사람들이 뭐라고 하든 신경쓰지 않아\\\"라고 말했다.\n편지에서 산다라박은 '플리즈 돈 고' '론리' '캔트 노바디' '아이 돈 케어' '스테이 투게더' 등 2NE1의 노래 제목을 이용해 문장을 만들었다.\nYG엔터테이먼트 측은 지난 25일 2NE1의 해체를 공식 발표했다.\nYG는 \\\"지난 5월 2NE1의 전속 계약이 만료됐고, 공민지양이 함께 할 수 없게 된 상황 속에서 YG는 나머지 멤버들과 오랜 상의 끝에 2NE1의 공식 해체를 결정하게 되었습니다\\\"라고 전했다.\nYG는 5월 이후 CL과 산다라박의 솔로 계약을 체결했지만 박봄과는 재계약을 체결하지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 2NE1이 공식적으로 해체를 알린 가운데 산다라박의 팬들에게 전한 편지가 눈길을 끈다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에는 산다라박이 팬에게 전한 편지가 공개됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "산다라박은 필리핀 방송에서 만난 한 팬에게 편지를 전달한 뒤 2NE1 팬들과 이 편지를 공유해달라고 부탁한 것으로 알려졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "산다라박은 편지를 통해 \\\"제발 가지마, 나 너무 외로워. 우린 함께 할거야. 난 다른 사람들이 뭐라고 하든 신경쓰지 않아\\\"라고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "편지에서 산다라박은 '플리즈 돈 고' '론리' '캔트 노바디' '아이 돈 케어' '스테이 투게더' 등 2NE1의 노래 제목을 이용해 문장을 만들었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "YG엔터테이먼트 측은 지난 25일 2NE1의 해체를 공식 발표했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "YG는 \\\"지난 5월 2NE1의 전속 계약이 만료됐고, 공민지양이 함께 할 수 없게 된 상황 속에서 YG는 나머지 멤버들과 오랜 상의 끝에 2NE1의 공식 해체를 결정하게 되었습니다\\\"라고 전했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "YG는 5월 이후 CL과 산다라박의 솔로 계약을 체결했지만 박봄과는 재계약을 체결하지 않았다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"제발 가지마, 우린 함께 할거야\\\" 팬들 향한 산다라박의 편지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

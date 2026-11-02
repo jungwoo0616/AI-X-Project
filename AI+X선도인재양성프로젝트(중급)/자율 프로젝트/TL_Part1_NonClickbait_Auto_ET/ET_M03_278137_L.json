@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278137",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유상무 또 다른 여자친구 등장 \\\"저 같은 피해자가 없었으면\\\"",
+		"newsSubTitle": "",
+		"newsContent": "성폭행 혐의를 받고 있는 코미디언 유상무(35)가 현재 출연 중이거나 출연 예정이었던 모든 방송 프로그램에서 사실상 하차하면서 화제가 되고 있다.\n유상무가 고정으로 출연 중이었던 케이블 채널 tvN '코미디 빅리그'와 '렛츠고 시간탐험대3'는 유상무 없이 촬영하기로 했으며 KBS 2TV의 새 예능프로그램 '어느날 갑자기 외.개.인'은 '유상무 사태'가 벌어지면서 21일로 예정됐던 첫 방송을 연기하기도 했다.\n한편 한 매체가 자신이 유상무의 여자친구라고 주장하는 한 여성과의 인터뷰를 공개하면서 '유상무 사태'는 걷잡을 수 없이 커져 논란이 되고 있다.\n이 여성은 \\\"다시는 (저 같은) 피해자가 없었으면 한다\\\"며 유상무와 나눈 카카오톡 대화내용을 공개했다.\n한편 유상무는 지난 18일 오전 3시께 서울 강남경찰서에 성폭행 가해자로 신고 당했다.\n신고한 여성은 5시간정도 뒤에 신고를 취소했으나 다시 \\\"성폭행당한 게 맞다. 수사해 달라\\\"고 진술하면서 현재 경찰은 유상무에 대한 조사를 진행 중에 있다.\n온라인 중앙일보 [사진 일간스포츠 제공]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "성폭행 혐의를 받고 있는 코미디언 유상무(35)가 현재 출연 중이거나 출연 예정이었던 모든 방송 프로그램에서 사실상 하차하면서 화제가 되고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유상무가 고정으로 출연 중이었던 케이블 채널 tvN '코미디 빅리그'와 '렛츠고 시간탐험대3'는 유상무 없이 촬영하기로 했으며 KBS 2TV의 새 예능프로그램 '어느날 갑자기 외.개.인'은 '유상무 사태'가 벌어지면서 21일로 예정됐던 첫 방송을 연기하기도 했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한편 한 매체가 자신이 유상무의 여자친구라고 주장하는 한 여성과의 인터뷰를 공개하면서 '유상무 사태'는 걷잡을 수 없이 커져 논란이 되고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 여성은 \\\"다시는 (저 같은) 피해자가 없었으면 한다\\\"며 유상무와 나눈 카카오톡 대화내용을 공개했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 유상무는 지난 18일 오전 3시께 서울 강남경찰서에 성폭행 가해자로 신고 당했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신고한 여성은 5시간정도 뒤에 신고를 취소했으나 다시 \\\"성폭행당한 게 맞다. 수사해 달라\\\"고 진술하면서 현재 경찰은 유상무에 대한 조사를 진행 중에 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠 제공]",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유상무 또 다른 여자친구 등장 \\\"저 같은 피해자가 없었으면\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

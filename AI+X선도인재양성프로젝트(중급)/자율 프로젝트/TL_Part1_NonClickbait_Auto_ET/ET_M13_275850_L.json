@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275850",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "TBS, 국제 이슈 전하는 ‘월드뉴스공장’ 22일 첫 방송",
+		"newsSubTitle": "",
+		"newsContent": "TBS가 국제 이슈를 전문적으로 전하는 ‘월드뉴스공장’을 선보인다. ‘월드뉴스공장’은 전 세계 생존을 위협하고 있는 기후 문제를 비롯해 우크라이나 전쟁, 코로나19 변이 등 국내에도 큰 영향을 미치는 국제 이슈를 전달하여, 국제 문제에 대응할 힘을 기르는 데 도움을 주고자 기획되었다.\n세계 각국에서 일어나는 일들이 국내에 미치는 영향을 고려하여 시의적절한 아이템으로 시청자들에게 힘이 되는 알찬 정보를 제공할 예정이다.\n국제뉴스의 정확성과 깊이를 강화하기 위해 다년간의 해외 경험과 탄탄한 국제 네트워크를 가진 국제 전문 기자들이 기획부터 제작까지 직접 담당한다.\n국제 문제를 국내 시선으로만 보지 않고 해외 현지 취재를 동반해 사안을 깊이 있게 분석한다는 점에서 차별성이 있다.\n뿐만 아니라 제작진은 외신을 통해 전해지는 번역 오류를 바로잡아 대한민국 국제뉴스의 정확도와 분석의 깊이를 한층 끌어올리겠다는 각오다.\n국제 전문기자들이 총출동해 알찬 지구촌 소식통이 되어줄 TBS TV ‘월드뉴스공장’은 오는 22일 오전 9시 TBS TV를 통해 첫 방송되며, 유튜브 ‘TBS 시민의방송’ 채널을 통해서는 이보다 조금 더 빠른 오전 6시 45분에 만나볼 수 있다.\nTBS TV는 IPTV(KT 214번, SK 167번, LG 245번), 케이블 TV(TBS 홈페이지 혹은 각 지역 케이블방송 문의)와 TBS 유튜브 계정, TBS 앱(스마트폰) 등에서 시청할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "TBS가 국제 이슈를 전문적으로 전하는 ‘월드뉴스공장’을 선보인다. ‘월드뉴스공장’은 전 세계 생존을 위협하고 있는 기후 문제를 비롯해 우크라이나 전쟁, 코로나19 변이 등 국내에도 큰 영향을 미치는 국제 이슈를 전달하여, 국제 문제에 대응할 힘을 기르는 데 도움을 주고자 기획되었다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "세계 각국에서 일어나는 일들이 국내에 미치는 영향을 고려하여 시의적절한 아이템으로 시청자들에게 힘이 되는 알찬 정보를 제공할 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국제뉴스의 정확성과 깊이를 강화하기 위해 다년간의 해외 경험과 탄탄한 국제 네트워크를 가진 국제 전문 기자들이 기획부터 제작까지 직접 담당한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국제 문제를 국내 시선으로만 보지 않고 해외 현지 취재를 동반해 사안을 깊이 있게 분석한다는 점에서 차별성이 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뿐만 아니라 제작진은 외신을 통해 전해지는 번역 오류를 바로잡아 대한민국 국제뉴스의 정확도와 분석의 깊이를 한층 끌어올리겠다는 각오다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국제 전문기자들이 총출동해 알찬 지구촌 소식통이 되어줄 TBS TV ‘월드뉴스공장’은 오는 22일 오전 9시 TBS TV를 통해 첫 방송되며, 유튜브 ‘TBS 시민의방송’ 채널을 통해서는 이보다 조금 더 빠른 오전 6시 45분에 만나볼 수 있다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "TBS TV는 IPTV(KT 214번, SK 167번, LG 245번), 케이블 TV(TBS 홈페이지 혹은 각 지역 케이블방송 문의)와 TBS 유튜브 계정, TBS 앱(스마트폰) 등에서 시청할 수 있다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "TBS, 국제 이슈 전하는 ‘월드뉴스공장’ 22일 첫 방송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

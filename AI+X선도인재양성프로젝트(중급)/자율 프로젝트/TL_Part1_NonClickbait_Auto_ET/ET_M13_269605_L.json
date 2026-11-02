@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269605",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "싱어송라이터 오열, 10일 ‘바다로 간 기차’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘싱어게인2’에 출연했던 가수 오열(OYEOL)이 신곡 ‘바다로 간 기차’를 발매한다. 9일 오열은 ‘바다로 간 기차’ 음원과 뮤직비디오가 오는 10일 낮 12시에 공개된다고 밝혔다. ‘바다로 간 기차’는 레마(Rema)의 작곡과 크로스오버 밴드 두번째달 최진경의 편곡으로 탄생했다.\n시인 박소이의 산문시 ‘바다로 간 기차’에 오열의 음색이 더해진 곡으로 ‘오열X레마’ 프로젝트로는 처음 공개되는 싱글 앨범이다.\n싱어송라이터 오열은 ‘밝음을 물들인다’는 뜻을 가진 아티스트로 힘이 들고 어두운 순간이 올 때 음악으로 빛을 밝히는 존재가 되길 바라는 염원을 담고 있다.\n지난 2017년 전통공연예술진흥재단 주최 아리랑 창작곡 공모 ‘아리랑X?’에서 ‘강강’으로 대상을 받으며 이름을 알리기 시작했다.\n2018년 EP ‘단잠’ 발매를 시작으로 2019년 EBS ‘올해의 헬로루키’ 6팀, 2020년 ‘플랫폼창동61’ 입주뮤지션으로 선정됐다.\n지난해에는 2021년 JTBC ‘싱어게인2’에 출연했으며 최근 서울시·서울문화재단의 후원으로 EP ‘한강열차’를 발매했다.\n한편 오열의 신곡 ‘바다로 간 기차’는 오는 10일 낮 12시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘싱어게인2’에 출연했던 가수 오열(OYEOL)이 신곡 ‘바다로 간 기차’를 발매한다. 9일 오열은 ‘바다로 간 기차’ 음원과 뮤직비디오가 오는 10일 낮 12시에 공개된다고 밝혔다. ‘바다로 간 기차’는 레마(Rema)의 작곡과 크로스오버 밴드 두번째달 최진경의 편곡으로 탄생했다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시인 박소이의 산문시 ‘바다로 간 기차’에 오열의 음색이 더해진 곡으로 ‘오열X레마’ 프로젝트로는 처음 공개되는 싱글 앨범이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "싱어송라이터 오열은 ‘밝음을 물들인다’는 뜻을 가진 아티스트로 힘이 들고 어두운 순간이 올 때 음악으로 빛을 밝히는 존재가 되길 바라는 염원을 담고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2017년 전통공연예술진흥재단 주최 아리랑 창작곡 공모 ‘아리랑X?’에서 ‘강강’으로 대상을 받으며 이름을 알리기 시작했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2018년 EP ‘단잠’ 발매를 시작으로 2019년 EBS ‘올해의 헬로루키’ 6팀, 2020년 ‘플랫폼창동61’ 입주뮤지션으로 선정됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해에는 2021년 JTBC ‘싱어게인2’에 출연했으며 최근 서울시·서울문화재단의 후원으로 EP ‘한강열차’를 발매했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 오열의 신곡 ‘바다로 간 기차’는 오는 10일 낮 12시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싱어송라이터 오열, 10일 ‘바다로 간 기차’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

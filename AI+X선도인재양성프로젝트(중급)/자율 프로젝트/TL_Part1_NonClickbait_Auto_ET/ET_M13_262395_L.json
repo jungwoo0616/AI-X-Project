@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262395",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘싱어게인2’ 결선, 김소연 선곡은 ‘사람들은 모두 변하나 봐’",
+		"newsSubTitle": "",
+		"newsContent": "‘싱어게인2’ 최종 우승을 가리는 파이널 무대가 펼쳐졌다.\n28일 방송된 JTBC 예능 프로그램 ‘싱어게인2’ 최종회는 우승자를 가리는 파이널 스테이지가 이어졌다.\n추가 합격해 위기를 극복했던 김소연이 첫 번째를 장식했다.\n김소연은 밴드 연과 함께 무대에 오른 소감을 밝혔다.\n김소연은 ‘강철 멘털’이라는 수식어를 얻은 것에 대해 “긴장 안 한다는 이미지에 강박감이 생겼었다, ‘강철 멘털’이라는 얘기가 처음에는 부담이 됐다”고 털어놨다.\n김소연은 “‘싱어게인2’를 하면서 한계점을 넘은 것 같고, 성장한 것 같다”고 덧붙였다.\n김소연은 전설적인 재즈록 밴드 봄여름가을겨울의 ‘사람들은 모두 변하나 봐’를 선곡, 파이널 무대 첫 포퍼먼스를 마쳤고 심사위원 점수 751점을 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘싱어게인2’ 최종 우승을 가리는 파이널 무대가 펼쳐졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 방송된 JTBC 예능 프로그램 ‘싱어게인2’ 최종회는 우승자를 가리는 파이널 스테이지가 이어졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "추가 합격해 위기를 극복했던 김소연이 첫 번째를 장식했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김소연은 밴드 연과 함께 무대에 오른 소감을 밝혔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김소연은 ‘강철 멘털’이라는 수식어를 얻은 것에 대해 “긴장 안 한다는 이미지에 강박감이 생겼었다, ‘강철 멘털’이라는 얘기가 처음에는 부담이 됐다”고 털어놨다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김소연은 “‘싱어게인2’를 하면서 한계점을 넘은 것 같고, 성장한 것 같다”고 덧붙였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김소연은 전설적인 재즈록 밴드 봄여름가을겨울의 ‘사람들은 모두 변하나 봐’를 선곡, 파이널 무대 첫 포퍼먼스를 마쳤고 심사위원 점수 751점을 기록했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘싱어게인2’ 결선, 김소연 선곡은 ‘사람들은 모두 변하나 봐’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

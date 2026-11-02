@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171791",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "성시경, 암표상에 일침 “제일 한심하고 불쌍”",
+    "newsSubTitle": "",
+    "newsContent": "콘서트를 앞둔 가수 성시경이 암표상에 일침을 날렸다.\n성시경은 4일 자신의 SNS 인스타그램에 “세상엔 참 다양한 사람들이 있죠. 뭐 각자의 사정이 있겠죠. 그리 될 수 밖에 없었던. 제 생각에 제일 한심하고 불쌍한 게 암표상인것 같아요. 그 머리와 그 부지런함으로 공부를 하지”란 글을 남겼다.\n함께 공개한 사진에는 전석 매진 된 성시경의 콘서트 예매창 캡처가 담겨있다.\n그러면서 성시경은 “금요일 공연 하겠습니다. 암표 사지마셔요”며 팬을 위한 추가 공연을 예고했다.\n팬들은 “지능적 플미들 프로그램 덕분에 서버 진입 도못하고 튕겨 버리고 슬프다” “암표상에게 한 방 먹이시는거 속 시원하네요” “금요일은 진정 팬들만 겟하길 바래봅니다” 등의 댓글을 남겼다.\n성시경은 이달 28일과 29일 서울 잠실종합운동장 보조경기장에서 2022 성시경 콘서트 ‘축가’를 개최한다.\n당초 이틀 간의 공연이 예정돼 있었지만 암표상들의 티켓 대량 구매로 많은 팬들이 티켓을 구매하지 못했다는 사실을 알게되자 추가 공연을 준비하려는 것으로 보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "콘서트를 앞둔 가수 성시경이 암표상에 일침을 날렸다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "성시경은 4일 자신의 SNS 인스타그램에 “세상엔 참 다양한 사람들이 있죠. 뭐 각자의 사정이 있겠죠. 그리 될 수 밖에 없었던. 제 생각에 제일 한심하고 불쌍한 게 암표상인것 같아요. 그 머리와 그 부지런함으로 공부를 하지”란 글을 남겼다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "함께 공개한 사진에는 전석 매진 된 성시경의 콘서트 예매창 캡처가 담겨있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 성시경은 “금요일 공연 하겠습니다. 암표 사지마셔요”며 팬을 위한 추가 공연을 예고했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "팬들은 “지능적 플미들 프로그램 덕분에 서버 진입 도못하고 튕겨 버리고 슬프다” “암표상에게 한 방 먹이시는거 속 시원하네요” “금요일은 진정 팬들만 겟하길 바래봅니다” 등의 댓글을 남겼다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성시경은 이달 28일과 29일 서울 잠실종합운동장 보조경기장에서 2022 성시경 콘서트 ‘축가’를 개최한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당초 이틀 간의 공연이 예정돼 있었지만 암표상들의 티켓 대량 구매로 많은 팬들이 티켓을 구매하지 못했다는 사실을 알게되자 추가 공연을 준비하려는 것으로 보인다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "성시경, SNS에서 이 사람에게 일침 날려...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270943",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "클라씨, AR같은 라이브로 ‘인기가요’ 점령완료",
+		"newsSubTitle": "",
+		"newsContent": "클라씨(CLASS:y)가 AR(All Recorded) 같은 완벽한 라이브 무대로 ‘인기가요’를 점령했다.\n클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유)는 22일 오후 3시 50분 방송된 SBS ‘인기가요’에서 뛰어난 실력을 뽐냈다. ‘대세 걸그룹’으로 주목 받고 있는 클라씨는 데뷔곡 ‘셧다운(SHUT DOWN)’으로 무대를 꾸몄다.\n클라씨는 매 무대마다 신인의 패기와 대체불가 에너지를 선보여 눈길을 끈 가운데 ‘인기가요’에서도 무결점 퍼포먼스를 선보였다.\n클라씨는 신선한 K-WOOD 멜로디 위 각 멤버들의 음색을 담아 탄탄한 내공의 라이브를 선보인 가운데 흔들림 없는 안정적인 댄스 브레이크까지 소화해내 K팝 팬들의 이목을 집중시켰다.\n또한 ‘괴물 신인’로서 입지를 다지는 모습을 보인 클라씨는 그들만의 매력을 한껏 살려낸 스쿨룩 스타일링을 통해 당찬 소녀의 느낌을 표현, 빛나는 각 멤버들의 개성을 표현해내며 훈훈함을 자아냈다.\n한편, 클라씨는 데뷔곡 ‘셧다운(SHUT DOWN)’을 통해 글로벌 팬들에게 독보적 신인으로 눈도장을 찍고 있는 가운데 데뷔 6일차에 1위 후보에 오르는 남다른 저력을 과시하며 놀라움을 일으키는 행보를 이어나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클라씨(CLASS:y)가 AR(All Recorded) 같은 완벽한 라이브 무대로 ‘인기가요’를 점령했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라씨(명형서·윤채원·홍혜주·김리원·원지민·박보은·김선유)는 22일 오후 3시 50분 방송된 SBS ‘인기가요’에서 뛰어난 실력을 뽐냈다. ‘대세 걸그룹’으로 주목 받고 있는 클라씨는 데뷔곡 ‘셧다운(SHUT DOWN)’으로 무대를 꾸몄다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클라씨는 매 무대마다 신인의 패기와 대체불가 에너지를 선보여 눈길을 끈 가운데 ‘인기가요’에서도 무결점 퍼포먼스를 선보였다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클라씨는 신선한 K-WOOD 멜로디 위 각 멤버들의 음색을 담아 탄탄한 내공의 라이브를 선보인 가운데 흔들림 없는 안정적인 댄스 브레이크까지 소화해내 K팝 팬들의 이목을 집중시켰다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 ‘괴물 신인’로서 입지를 다지는 모습을 보인 클라씨는 그들만의 매력을 한껏 살려낸 스쿨룩 스타일링을 통해 당찬 소녀의 느낌을 표현, 빛나는 각 멤버들의 개성을 표현해내며 훈훈함을 자아냈다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 클라씨는 데뷔곡 ‘셧다운(SHUT DOWN)’을 통해 글로벌 팬들에게 독보적 신인으로 눈도장을 찍고 있는 가운데 데뷔 6일차에 1위 후보에 오르는 남다른 저력을 과시하며 놀라움을 일으키는 행보를 이어나갈 예정이다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "클라씨, AR같은 라이브로 ‘인기가요’ 점령완료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

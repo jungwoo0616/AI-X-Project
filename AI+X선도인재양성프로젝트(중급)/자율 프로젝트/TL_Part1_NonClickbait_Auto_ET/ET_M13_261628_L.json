@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261628",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "레드벨벳 웬디 생일, 멤버들 축하 속 아이린은 어디로?",
+		"newsSubTitle": "",
+		"newsContent": "그룹 레드벨벳의 멤버들이 웬디의 생일을 축하하며 우정을 과시했다.\n슬기는 이 날 자신의 사회관계망서비스(SNS) 인스타그램을 통해 ‘생일축하해 뜽와니(승완이)’라며 웬디와 함께 찍은 사진을 올렸다.\n사진 속 헤어롤을 한 채 윙크를 하는 웬디의 자연스러운 미모가 돋보였다.\n예리 역시 자신의 인스타그램에 ‘사랑하는 웬디 언니 생일 축하해’ 라며 촬영장에서의 사진을 공개했다.\n사진 속 예리는 슬기,웬디와 함께 손을 잡고 카메라를 보고 있었다.\n조이는 20일 자신의 인스타그램에 ‘사랑하는 우리 천사 웬디언니 생일축하해요’ 라며 웬디와 함께 찍은 사진을 공개했다.\n이 날 아이린은 여론을 의식한 탓인지 입장을 보이지 않았다.\n그는 지난 2020년 10월 ‘갑질 폭로’ 사건 이후 SNS 활동을 중단했으나, 2021년 8월 다시 게시물을 올리기 시작했다.\n그는 지난 1월 1일 이후 SNS 활동을 하지 않고 있다.\n한편 레드벨벳의 소속사 SM 엔터테인먼트는 레드벨벳이 3월 컴백할 예정이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 레드벨벳의 멤버들이 웬디의 생일을 축하하며 우정을 과시했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슬기는 이 날 자신의 사회관계망서비스(SNS) 인스타그램을 통해 ‘생일축하해 뜽와니(승완이)’라며 웬디와 함께 찍은 사진을 올렸다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 헤어롤을 한 채 윙크를 하는 웬디의 자연스러운 미모가 돋보였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예리 역시 자신의 인스타그램에 ‘사랑하는 웬디 언니 생일 축하해’ 라며 촬영장에서의 사진을 공개했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 예리는 슬기,웬디와 함께 손을 잡고 카메라를 보고 있었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조이는 20일 자신의 인스타그램에 ‘사랑하는 우리 천사 웬디언니 생일축하해요’ 라며 웬디와 함께 찍은 사진을 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 날 아이린은 여론을 의식한 탓인지 입장을 보이지 않았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 지난 2020년 10월 ‘갑질 폭로’ 사건 이후 SNS 활동을 중단했으나, 2021년 8월 다시 게시물을 올리기 시작했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그는 지난 1월 1일 이후 SNS 활동을 하지 않고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 레드벨벳의 소속사 SM 엔터테인먼트는 레드벨벳이 3월 컴백할 예정이라고 밝혔다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레드벨벳 웬디 생일, 멤버들 축하 속 아이린은 어디로?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

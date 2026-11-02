@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172180",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송혜교와 결혼 발표 후 다시 주목받는 송중기 과거 인터뷰 발언",
+    "newsSubTitle": "",
+    "newsContent": "배우 송중기와 배우 송혜교의 결혼이 발표된 가운데, 과거 송중기의 한 매체와의 인터뷰가 다시 주목받고 있다.\n송중기는 패션 잡지 W코리아 5월호 인터뷰에서 '과거는 교훈, 현재는 선물, 미래는 동기'라는 말에 대해 어떻게 생각하냐는 질문을 받았다.\n이에 대해 송중기는 과거든 현재든 미래든 통틀어서 생각한다면 '가족'이 떠오른다고 답했다.\n그는 \\\"제가 꿈꾸는 삶은 가족을 꾸리는 것\\\"이라며 \\\"야망이든 욕망이든 혹은 욕심이든 간에 그 무엇보다 더 중요한 건 가족\\\"임을 강조했다.\n끝으로 \\\"궁극적으로 좋은 아빠와 좋은 남편이 되고 싶고, 그게 최고인 것 같아요\\\"라고 말했다.\n한편 소식을 접한 네티즌들은 \\\"송혜교 님 부럽네요\\\" \\\"좋은 사람이랑 좋은 사람이 만나네\\\" \\\"내 첫 덕질 대상이었던 중기 오빠 결혼 축하해요\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송중기와 배우 송혜교의 결혼이 발표된 가운데, 과거 송중기의 한 매체와의 인터뷰가 다시 주목받고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송중기는 패션 잡지 W코리아 5월호 인터뷰에서 '과거는 교훈, 현재는 선물, 미래는 동기'라는 말에 대해 어떻게 생각하냐는 질문을 받았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 대해 송중기는 과거든 현재든 미래든 통틀어서 생각한다면 '가족'이 떠오른다고 답했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"제가 꿈꾸는 삶은 가족을 꾸리는 것\\\"이라며 \\\"야망이든 욕망이든 혹은 욕심이든 간에 그 무엇보다 더 중요한 건 가족\\\"임을 강조했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "끝으로 \\\"궁극적으로 좋은 아빠와 좋은 남편이 되고 싶고, 그게 최고인 것 같아요\\\"라고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 소식을 접한 네티즌들은 \\\"송혜교 님 부럽네요\\\" \\\"좋은 사람이랑 좋은 사람이 만나네\\\" \\\"내 첫 덕질 대상이었던 중기 오빠 결혼 축하해요\\\" 등 반응을 보였다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송중기, 과거 인터뷰에서 '이것' 꿈꿔... 송혜교와 함께 하나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

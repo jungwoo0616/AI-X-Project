@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276310",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "지난 1년간 1147억원 번 비욘세, 女뮤지션 수입 1위…2위는?",
+		"newsSubTitle": "",
+		"newsContent": "미국의 팝 디바 비욘세가 지난 1년간 전 세계 음악계에서 최고수익을 올렸다.\n21일(현지시간) 미국 유력 경제전문 매체 포브스는 세계에서 세전수익을 기준으로 수입이 가장 높은 여자 가수 순위를 발표했다.\n이에 따르면 비욘세는 지난해 6월부터 올해 6월까지 1년간 음반 판매와 '포메이션(Formation)' 콘서트 투어에 힘입어 1억500만 달러(1147억여 원)를 벌어들였다.\n앨범 '25'로 미국 판매 첫 주 기록을 경신한 바 있는 영국 팝스타 아델은 6900만 달러로 뒤를 이었다.\n지난해 1억7000만 달러로 최고수익을 기록했던 미국 팝스타 테일러 스위프트는 올해 4400만 달러를 벌어들여 3위로 내려앉았다.\n다만 2017년 가장 많이 팔린 앨범으로 기록될 전망인 테일러 스위프트의 새 앨범 '레퓨테이션(Reputation)'은 내년 조사에나 포함돼 그의 최고수익 순위는 그때 다시 오를 것으로 보인다.\n캐나다 출신 팝스타 셀린 디옹은 4200만 달러로 4위를 차지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국의 팝 디바 비욘세가 지난 1년간 전 세계 음악계에서 최고수익을 올렸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일(현지시간) 미국 유력 경제전문 매체 포브스는 세계에서 세전수익을 기준으로 수입이 가장 높은 여자 가수 순위를 발표했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따르면 비욘세는 지난해 6월부터 올해 6월까지 1년간 음반 판매와 '포메이션(Formation)' 콘서트 투어에 힘입어 1억500만 달러(1147억여 원)를 벌어들였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앨범 '25'로 미국 판매 첫 주 기록을 경신한 바 있는 영국 팝스타 아델은 6900만 달러로 뒤를 이었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 1억7000만 달러로 최고수익을 기록했던 미국 팝스타 테일러 스위프트는 올해 4400만 달러를 벌어들여 3위로 내려앉았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 2017년 가장 많이 팔린 앨범으로 기록될 전망인 테일러 스위프트의 새 앨범 '레퓨테이션(Reputation)'은 내년 조사에나 포함돼 그의 최고수익 순위는 그때 다시 오를 것으로 보인다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "캐나다 출신 팝스타 셀린 디옹은 4200만 달러로 4위를 차지했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지난 1년간 1147억원 번 비욘세, 女뮤지션 수입 1위…2위는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

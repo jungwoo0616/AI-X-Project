@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278264",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘수요미식회’ 김밥 맛있게 만드는 비법은 물",
+		"newsSubTitle": "",
+		"newsContent": "‘수요미식회’ 김밥 편에서 요리연구가 홍신애가 김밥 맛있게 만드는 방법을 공개했다.\n6일 방송된 tvN '수요미식회'김밥을 주제로 진행됐다.\n이날 홍신애는 집에서도 김밥을 맛있고 잘 쌀수 있는 비법을 공개했다.\n홍신애가 공개한 김밥 쌀 때 꼭 필요한 아이템은 물을 한 그릇이다.\n홍신애는 “김밥 쌀 때 손을 물에다 살짝 적셔가며 밥을 만지면 달라붙지 않는다. 물에 식초를 떨어트리면 밥을 상하는 것도 방지할 수 있다”고 말했다.\n이어 홍신애는 김을 펼쳤을 때, 밥은 양옆을 남기고 김이 보이게 넓게 펼쳤다.\n그리고 단무지와 달걀 지단을 떨어뜨려 놓고 그 사이로 시금치 소고기, 당근 등 자잘한 재료를 넣으면 큰 덩어리 기둥 역할을 해 단단하게 쌀 수 있다고 말했다.\n또, 김밥을 썰 때는 잘 들지 않는 칼을 사용하면 끝이 덜 썰려서 풀려버리기 때문에 잘드는 칼을 사용하라고 조언했다.\n한편 이날 ‘수요미식회’ 편에는 ‘나물김밥’, ‘다시마김밥’, ‘돈가스김밥’을 3대 맛집으로 꼽았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘수요미식회’ 김밥 편에서 요리연구가 홍신애가 김밥 맛있게 만드는 방법을 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 방송된 tvN '수요미식회'김밥을 주제로 진행됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 홍신애는 집에서도 김밥을 맛있고 잘 쌀수 있는 비법을 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍신애가 공개한 김밥 쌀 때 꼭 필요한 아이템은 물을 한 그릇이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍신애는 “김밥 쌀 때 손을 물에다 살짝 적셔가며 밥을 만지면 달라붙지 않는다. 물에 식초를 떨어트리면 밥을 상하는 것도 방지할 수 있다”고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 홍신애는 김을 펼쳤을 때, 밥은 양옆을 남기고 김이 보이게 넓게 펼쳤다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그리고 단무지와 달걀 지단을 떨어뜨려 놓고 그 사이로 시금치 소고기, 당근 등 자잘한 재료를 넣으면 큰 덩어리 기둥 역할을 해 단단하게 쌀 수 있다고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또, 김밥을 썰 때는 잘 들지 않는 칼을 사용하면 끝이 덜 썰려서 풀려버리기 때문에 잘드는 칼을 사용하라고 조언했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 이날 ‘수요미식회’ 편에는 ‘나물김밥’, ‘다시마김밥’, ‘돈가스김밥’을 3대 맛집으로 꼽았다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘수요미식회’ 김밥 맛있게 만드는 비법은 물",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

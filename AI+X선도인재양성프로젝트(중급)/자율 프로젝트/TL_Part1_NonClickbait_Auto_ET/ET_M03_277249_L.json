@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277249",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "고등래퍼 출연해 조롱당한 김구라 아들 'MC그리'",
+		"newsSubTitle": "",
+		"newsContent": "MC그리(김동현)가 대한민국 최초 고등학생 랩 대항전 '고등래퍼'에 출연해 '조롱'을 당하는 듯한 모습이 공개돼 화제가 되고 있다.\nMnet '고등래퍼'에 출연한 김구라의 아들 MC그리는 참가자와 주변 사람들로부터 비판과 함께 조롱을 당했다.\n앞서 '고등래퍼' 지역대표 선발전 참가자 대기실을 찾은 MC그리는 참가자들에게 인사를 하며 자신을 소개했다.\n대기실에 있던 참가자 강현우는 \\\"인정하는 래퍼입니다\\\"라며 고개를 90도로 숙였다.\n하지만 강현우는 인사를 하자마자 뒤로 돌아 \\\"하하하\\\" 멋쩍은 웃음을 지으며 자리를 떠 버렸다.\n앞서 \\\"인정한다\\\"는 말은 그저 MC그리에게 면박을 주기 위한 말인 것처럼 보였다.\n또 다른 참가자들은 MC그리를 가리키며 \\\"과대평가 됐다\\\" \\\"낙하산이죠\\\" \\\"인맥발이다. 아빠발이다\\\"라며 비판했다.\n김동현은 \\\"저와 같은 꿈을 꾸고 있는 또래 아이들이 저를 가장 싫어하는 것 같다. 그 친구들에게 인정받고 싶어서 나왔다\\\"며 참가 이유를 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MC그리(김동현)가 대한민국 최초 고등학생 랩 대항전 '고등래퍼'에 출연해 '조롱'을 당하는 듯한 모습이 공개돼 화제가 되고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "Mnet '고등래퍼'에 출연한 김구라의 아들 MC그리는 참가자와 주변 사람들로부터 비판과 함께 조롱을 당했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 '고등래퍼' 지역대표 선발전 참가자 대기실을 찾은 MC그리는 참가자들에게 인사를 하며 자신을 소개했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대기실에 있던 참가자 강현우는 \\\"인정하는 래퍼입니다\\\"라며 고개를 90도로 숙였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 강현우는 인사를 하자마자 뒤로 돌아 \\\"하하하\\\" 멋쩍은 웃음을 지으며 자리를 떠 버렸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 \\\"인정한다\\\"는 말은 그저 MC그리에게 면박을 주기 위한 말인 것처럼 보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 다른 참가자들은 MC그리를 가리키며 \\\"과대평가 됐다\\\" \\\"낙하산이죠\\\" \\\"인맥발이다. 아빠발이다\\\"라며 비판했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김동현은 \\\"저와 같은 꿈을 꾸고 있는 또래 아이들이 저를 가장 싫어하는 것 같다. 그 친구들에게 인정받고 싶어서 나왔다\\\"며 참가 이유를 밝혔다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고등래퍼 출연해 조롱당한 김구라 아들 'MC그리'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

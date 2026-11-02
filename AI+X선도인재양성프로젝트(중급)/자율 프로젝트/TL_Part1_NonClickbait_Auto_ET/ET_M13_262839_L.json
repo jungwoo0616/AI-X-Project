@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262839",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김희철, 대선 투표 독려 “선거법 위반 좀 알아봐야겠다”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 슈퍼주니어 멤버 김희철이 대선 사전투표를 독려하며 선거법 위반에 조심하려 한다.\n김희철은 4일 자신의 인스타그램 스토리에 “오늘, 내일 사전투표네요. 3월 9일 안 되시는 분들은 오늘이나 내일 투표하시면 돼요.”라는 글과 함께 사진을 게재했다.\n김희철은 “이따 인증샷 올리기 전에 선거법 위반 좀 알아봐야겠다”라며 제20대 대통령선거 책자형 선거 공보를 사진으로 첨부했다.\n김희철은 케이윌의 선거법 위반 논란을 의식한 것으로 보인다.\n케이윌은 4일 자신의 SNS에 제20대 대통령선거 사전투표 사진을 올렸다가 논란이 일자 삭제했다.\n케이윌이 올린 사진에는 대선 후보 이름이 적힌 투표용지가 그대로 노출되어 문제가 됐다.\n앞서 김희철은 2017년 대선 당시 사전투표를 하는 과정에서 투표용지를 투표함에 넣을 때 기표란에 찍힌 도장이 카메라에 포착된 해프닝이 벌어진 바 있다.\n한편 김희철은 현재 ‘강철부대2’, KBS Joy ‘이십세기 힛트쏭’ 등에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 슈퍼주니어 멤버 김희철이 대선 사전투표를 독려하며 선거법 위반에 조심하려 한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김희철은 4일 자신의 인스타그램 스토리에 “오늘, 내일 사전투표네요. 3월 9일 안 되시는 분들은 오늘이나 내일 투표하시면 돼요.”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김희철은 “이따 인증샷 올리기 전에 선거법 위반 좀 알아봐야겠다”라며 제20대 대통령선거 책자형 선거 공보를 사진으로 첨부했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김희철은 케이윌의 선거법 위반 논란을 의식한 것으로 보인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "케이윌은 4일 자신의 SNS에 제20대 대통령선거 사전투표 사진을 올렸다가 논란이 일자 삭제했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "케이윌이 올린 사진에는 대선 후보 이름이 적힌 투표용지가 그대로 노출되어 문제가 됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 김희철은 2017년 대선 당시 사전투표를 하는 과정에서 투표용지를 투표함에 넣을 때 기표란에 찍힌 도장이 카메라에 포착된 해프닝이 벌어진 바 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 김희철은 현재 ‘강철부대2’, KBS Joy ‘이십세기 힛트쏭’ 등에 출연 중이다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김희철, 대선 투표 독려 “선거법 위반 좀 알아봐야겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

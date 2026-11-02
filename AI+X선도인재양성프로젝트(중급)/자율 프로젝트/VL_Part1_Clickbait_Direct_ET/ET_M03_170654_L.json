@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170654",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송지효-개리, \\\"한 달만 사귀자\\\" 고백에 '하트빵' 건네…월요커플 건재함 확인",
+    "newsSubTitle": "",
+    "newsContent": "송지효-개리, \\\"한 달만 사귀자\\\" 고백에 '하트과자'와 수줍은 미소로 관계 확인? 배우 송지효가 '월요커플' 가수 개리에게 하트빵을 선물해 월요커플이 건재함을 알렸다.\n23일 저녁 방송된 SBS 예능 프로그램 '일요일이 좋다-런닝맨'(이하 '런닝맨')에서는 밀리언셀러 레이스 두 번째 편에 이어 5주년 특집 이벤트로 '런닝맨' 멤버들과 제작진간의 공포의 의리게임, 한밤중 폐교에서 추격전을 펼치는 모습이 그려졌다.\n이날 '런닝맨' 제작진은 프로그램 5주년을 기념하며 멤버들을 야시장으로 데려갔다.\n이에 출연진 모두가 야시장에서 군것질을 하며 들뜬 기분을 만끽했다.\n이 가운데 송지효는 개리를 불러 세웠고 \\\"내 마음이다\\\"고 말하며 하트 모양으로 만들어진 빵을 선물했다.\n이에 개리는 수줍은 미소로 답했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "송지효-개리, \\\"한 달만 사귀자\\\" 고백에 '하트과자'와 수줍은 미소로 관계 확인? 배우 송지효가 '월요커플' 가수 개리에게 하트빵을 선물해 월요커플이 건재함을 알렸다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 저녁 방송된 SBS 예능 프로그램 '일요일이 좋다-런닝맨'(이하 '런닝맨')에서는 밀리언셀러 레이스 두 번째 편에 이어 5주년 특집 이벤트로 '런닝맨' 멤버들과 제작진간의 공포의 의리게임, 한밤중 폐교에서 추격전을 펼치는 모습이 그려졌다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 '런닝맨' 제작진은 프로그램 5주년을 기념하며 멤버들을 야시장으로 데려갔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 출연진 모두가 야시장에서 군것질을 하며 들뜬 기분을 만끽했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 가운데 송지효는 개리를 불러 세웠고 \\\"내 마음이다\\\"고 말하며 하트 모양으로 만들어진 빵을 선물했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 개리는 수줍은 미소로 답했다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'런닝맨' 송지효. 개리에게 은밀히 하트빵 선물해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

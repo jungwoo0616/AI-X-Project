@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264818",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘맛녀석’ 유민상×김민경×홍윤화, 각양각색 먹방 브이로그 공개",
+		"newsSubTitle": "",
+		"newsContent": "유민상, 김민경, 홍윤화가 자택 먹방 브이로그를 선보인다.\n오는 25일(금) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 370회에서는 ‘3인 3색 먹방 브이로그’를 펼치는 유민상, 김민경, 홍윤화의 모습이 공개된다.\n최근 진행된 녹화에서 세 사람은 자택 먹방 브이로그를 진행했다.\n먼저 홍윤화는 제작진이 놓고 간 장비에 개인 장비를 더해 고퀄리티 브이로그를 완성했다.\n고기 불판 테이블부터 곱창전골 ASMR까지, 시·청각을 만족시키는 먹방으로 보는 이들의 침샘을 자극했다.\n유민상은 맛둥이들과의 실시간 채팅으로 웃음이 가득한 시간을 보냈다.\n중식과 아이스크림을 모두 주문한 그는 ‘이십끼 형’다운 먹방으로 “형 다웠다”, “민상했다” 등의 뜨거운 반응을 이끌어냈다.\n마지막으로 김민경은 배달 음식 대신 직접 김치볶음밥, 어묵탕을 만들어 먹으며 레시피를 전수했다.\n세 사람의 3인 3색 먹방 브이로그는 오는 25일 저녁 8시, 채널 IHQ에서 방송되는 ‘맛있는 녀석들’ 370회에서 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유민상, 김민경, 홍윤화가 자택 먹방 브이로그를 선보인다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 25일(금) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 370회에서는 ‘3인 3색 먹방 브이로그’를 펼치는 유민상, 김민경, 홍윤화의 모습이 공개된다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 진행된 녹화에서 세 사람은 자택 먹방 브이로그를 진행했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 홍윤화는 제작진이 놓고 간 장비에 개인 장비를 더해 고퀄리티 브이로그를 완성했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고기 불판 테이블부터 곱창전골 ASMR까지, 시·청각을 만족시키는 먹방으로 보는 이들의 침샘을 자극했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유민상은 맛둥이들과의 실시간 채팅으로 웃음이 가득한 시간을 보냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중식과 아이스크림을 모두 주문한 그는 ‘이십끼 형’다운 먹방으로 “형 다웠다”, “민상했다” 등의 뜨거운 반응을 이끌어냈다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "마지막으로 김민경은 배달 음식 대신 직접 김치볶음밥, 어묵탕을 만들어 먹으며 레시피를 전수했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "세 사람의 3인 3색 먹방 브이로그는 오는 25일 저녁 8시, 채널 IHQ에서 방송되는 ‘맛있는 녀석들’ 370회에서 확인 가능하다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘맛녀석’ 유민상×김민경×홍윤화, 각양각색 먹방 브이로그 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

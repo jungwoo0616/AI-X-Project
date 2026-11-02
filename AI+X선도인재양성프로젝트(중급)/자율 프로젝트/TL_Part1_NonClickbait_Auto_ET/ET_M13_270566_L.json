@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270566",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘사냥개들’ 측 “‘음주운전’ 혐의 김새론, 촬영 일정 조율 중”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 김새론이 음주운전 혐의 구설에 오른 가운데, 현재 촬영 중인 OTT플랫폼 넷플릭스 새 시리즈 ‘사냥개들’ 측이 입을 열었다. ‘사냥개들’ 측은 18일 ‘스포츠경향’에 “현재 촬영 중이다. 이후 촬영 일정은 조정 예정이며 공개 일정 역시 충분한 논의 후 정리되는 대로 말하겠다”고 밝혔다. ‘사냥개들’은 동명의 인기 웹툰을 원작으로 한 드라마다.\n돈을 쫓아 사채업의 세계에 발을 들인 세 젊은이가 거대한 세력에 휘말리며 벌어지는 이야기를 담는다.\n김새론은 극 중 사채업의 전설 최사장에게 가족 같은 존재이자 그의 뒤를 이을 ‘현주’로 분한다.\n우도환, 이상이, 박성웅, 허준호 등이 출연할 예정이다.\n그러나 김새론의 음주운전 적발로 ‘사냥개들’ 행보에 빨간불이 켜졌다.\n김새론은 이날 도로교통법 위반(음주운전) 혐의로 경찰 조사를 받고 있다.\n경찰 측은 “비틀거리며 운전하는 차가 있다”라는 신고를 받고 서울 강남구 청담동 학동사거리로 출동해 김새론을 현장에서 붙잡았다.\n김새론은 음주 측정 대신 채혈을 요구, 병원으로 이동한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김새론이 음주운전 혐의 구설에 오른 가운데, 현재 촬영 중인 OTT플랫폼 넷플릭스 새 시리즈 ‘사냥개들’ 측이 입을 열었다. ‘사냥개들’ 측은 18일 ‘스포츠경향’에 “현재 촬영 중이다. 이후 촬영 일정은 조정 예정이며 공개 일정 역시 충분한 논의 후 정리되는 대로 말하겠다”고 밝혔다. ‘사냥개들’은 동명의 인기 웹툰을 원작으로 한 드라마다.",
+				"sentenceSize": 195
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "돈을 쫓아 사채업의 세계에 발을 들인 세 젊은이가 거대한 세력에 휘말리며 벌어지는 이야기를 담는다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김새론은 극 중 사채업의 전설 최사장에게 가족 같은 존재이자 그의 뒤를 이을 ‘현주’로 분한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우도환, 이상이, 박성웅, 허준호 등이 출연할 예정이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 김새론의 음주운전 적발로 ‘사냥개들’ 행보에 빨간불이 켜졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김새론은 이날 도로교통법 위반(음주운전) 혐의로 경찰 조사를 받고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경찰 측은 “비틀거리며 운전하는 차가 있다”라는 신고를 받고 서울 강남구 청담동 학동사거리로 출동해 김새론을 현장에서 붙잡았다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김새론은 음주 측정 대신 채혈을 요구, 병원으로 이동한 것으로 알려졌다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘사냥개들’ 측 “‘음주운전’ 혐의 김새론, 촬영 일정 조율 중”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

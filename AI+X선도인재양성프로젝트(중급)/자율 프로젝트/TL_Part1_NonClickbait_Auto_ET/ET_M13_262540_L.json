@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262540",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장제원, 노엘 독방 특혜논란에 “어떠한 개입 안했다”",
+		"newsSubTitle": "",
+		"newsContent": "국민의힘 장제원 의원이 자신의 아들 래퍼 노엘(장용준)의 구치소 독거실 수용 특혜 논란과 관련해 입장을 내놨다.\n장제원 의원은 2일 페이스북에 “아들 문제가 발생한 이후 저는 어떠한 개입을 한 적이 없음을 분명히 밝힌다”며 “노엘이 아니라 장제원 아들로 불려지는 상황에서 민감한 문제임을 잘 알기에 아들 문제에 대해 사건 발생과 수용 상황 등 어떠한 문제에 대해 언급이나 개입을 한 적은 없다”고 밝혔다.\n이어 “보도가 나간 뒤 변호사 측에 알아보니 노엘은 오히려 혼거를 원했지만, 구치소 측에서 관리 문제를 들어 독거를 결정했다는 얘기를 전해들었다”며 “5개월이 넘는 독방 생활을 하고 있는 아들을 두고 특혜라고 하니 어처구니가 없다”고 했다.\n장제원 의원은 “피눈물이 난다”고도 했다.\n경향신문에 따르면 지난해 10월 구속된 노엘은 2주간의 격리 기간을 거친 뒤 현재까지 약 5개월 동안 서울구치소 독거실에 수용돼 있다.\n노엘의 독거실 수용과 관련해 특혜가 아니냐는 일각의 주장이 제기되는 것으로 전해졌다.\n서울구치소 측은 “독거수용이 오히려 힘든 수용자도 있는 만큼 독거 수용이 특혜라고 볼 수 없다”며 “교정당국이 특정인을 봐줄 이유도 없다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국민의힘 장제원 의원이 자신의 아들 래퍼 노엘(장용준)의 구치소 독거실 수용 특혜 논란과 관련해 입장을 내놨다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장제원 의원은 2일 페이스북에 “아들 문제가 발생한 이후 저는 어떠한 개입을 한 적이 없음을 분명히 밝힌다”며 “노엘이 아니라 장제원 아들로 불려지는 상황에서 민감한 문제임을 잘 알기에 아들 문제에 대해 사건 발생과 수용 상황 등 어떠한 문제에 대해 언급이나 개입을 한 적은 없다”고 밝혔다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “보도가 나간 뒤 변호사 측에 알아보니 노엘은 오히려 혼거를 원했지만, 구치소 측에서 관리 문제를 들어 독거를 결정했다는 얘기를 전해들었다”며 “5개월이 넘는 독방 생활을 하고 있는 아들을 두고 특혜라고 하니 어처구니가 없다”고 했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장제원 의원은 “피눈물이 난다”고도 했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경향신문에 따르면 지난해 10월 구속된 노엘은 2주간의 격리 기간을 거친 뒤 현재까지 약 5개월 동안 서울구치소 독거실에 수용돼 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노엘의 독거실 수용과 관련해 특혜가 아니냐는 일각의 주장이 제기되는 것으로 전해졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서울구치소 측은 “독거수용이 오히려 힘든 수용자도 있는 만큼 독거 수용이 특혜라고 볼 수 없다”며 “교정당국이 특정인을 봐줄 이유도 없다”고 했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장제원, 노엘 독방 특혜논란에 “어떠한 개입 안했다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

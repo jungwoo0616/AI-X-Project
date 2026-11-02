@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268552",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박하선, 순백 드레스 입고 반전美 “진정한 비하인드 컷”",
+		"newsSubTitle": "",
+		"newsContent": "배우 박하선이 순백의 드레스를 입고 반전 매력을 선보였다.\n박하선은 29일 본인 소셜미디어에 하늘하늘한 드레스를 입은 여러 장의 사진을 게재했다.\n그는 “이게 얼마만의 정상적인 영화제 개최입니까. 전주국제영화제 여러분 다들 고생 많으셨어요. 오랜만에 많이 뵐 수 있어서 좋았어요. 전 오늘부터 국제경쟁부문 심사를. 이게 다 ‘씨네타운’ 덕분인 듯”이라고 말했다.\n이어 “제 첫 영화 ‘바보’도 전주에서 찍었었고 영화 ‘고백’도 인연이 좀 있고 아직 개봉 안 한 영화 ‘첫번째아이’도 작년에 경쟁부문에 올랐고. 영화제 초창기에도 와봤었는데 인연이 깊네요”라고 덧붙였다.\n공개된 사진 속 박하선은 순백의 드레스를 입고 포즈를 취하고 있다.\n이어 그는 “난 사실 이런 사진이 더 좋아..” “크레인이 힙하네”라면서 여러 장의 ‘진정한 비하인드 컷’을 공개, 반전 매력을 보였다.\n한편 지난 28일 전주국제영화제 레드카펫에 섰던 박하선은 이번 영화제에서 국제경쟁부문 심사위원으로 활약할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박하선이 순백의 드레스를 입고 반전 매력을 선보였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박하선은 29일 본인 소셜미디어에 하늘하늘한 드레스를 입은 여러 장의 사진을 게재했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “이게 얼마만의 정상적인 영화제 개최입니까. 전주국제영화제 여러분 다들 고생 많으셨어요. 오랜만에 많이 뵐 수 있어서 좋았어요. 전 오늘부터 국제경쟁부문 심사를. 이게 다 ‘씨네타운’ 덕분인 듯”이라고 말했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “제 첫 영화 ‘바보’도 전주에서 찍었었고 영화 ‘고백’도 인연이 좀 있고 아직 개봉 안 한 영화 ‘첫번째아이’도 작년에 경쟁부문에 올랐고. 영화제 초창기에도 와봤었는데 인연이 깊네요”라고 덧붙였다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 사진 속 박하선은 순백의 드레스를 입고 포즈를 취하고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 그는 “난 사실 이런 사진이 더 좋아..” “크레인이 힙하네”라면서 여러 장의 ‘진정한 비하인드 컷’을 공개, 반전 매력을 보였다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지난 28일 전주국제영화제 레드카펫에 섰던 박하선은 이번 영화제에서 국제경쟁부문 심사위원으로 활약할 예정이다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박하선, 순백 드레스 입고 반전美 “진정한 비하인드 컷”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

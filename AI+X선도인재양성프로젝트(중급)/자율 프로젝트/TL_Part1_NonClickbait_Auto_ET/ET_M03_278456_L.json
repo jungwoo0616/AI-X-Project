@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278456",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "14세 연하 검사와 결혼한 김원준, 연애는 가슴 아닌 머리로? \\\"순수한 남자 부러워…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 김원준의 결혼이 알려져 화제인 가운데, 과거 방송에서 언급된 그의 연애관도 눈길을 끈다.\n김원준은 지난 2015년 KBS2 '대국민 토크쇼 - 안녕하세요'에 출연했다.\n이날 방송에서 일주일에 여자에게 8번 차인 남자의 사연이 소개되자 김원준은 \\\"고민이 아닌 것 같다. 이분의 순수함이 부럽다\\\"라는 의미심장한 말로 눈길을 끌었다.\n이어서 김원준은 \\\"순수하니 가슴이 하라는대로 하는것\\\"이라며 \\\"나는 이제 연애를 머리로 생각하게 된다\\\"고 밝혔다.\n한편 김원준은 14세 연하의 검사와 결혼하는 것으로 알려졌다.\n김원준의 소속사는 \\\"우리도 얼마전에 알았다. 상견례는 이미 마쳤으며 양가 부모님의 뜻에 따라 비공개로 식이 진행될 것이다\\\"라고 밝혔다.\n온라인 중앙일보 사진출처: KBS2 '대국민 토크쇼 - 안녕하세요' 캡처",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김원준의 결혼이 알려져 화제인 가운데, 과거 방송에서 언급된 그의 연애관도 눈길을 끈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김원준은 지난 2015년 KBS2 '대국민 토크쇼 - 안녕하세요'에 출연했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 일주일에 여자에게 8번 차인 남자의 사연이 소개되자 김원준은 \\\"고민이 아닌 것 같다. 이분의 순수함이 부럽다\\\"라는 의미심장한 말로 눈길을 끌었다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어서 김원준은 \\\"순수하니 가슴이 하라는대로 하는것\\\"이라며 \\\"나는 이제 연애를 머리로 생각하게 된다\\\"고 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김원준은 14세 연하의 검사와 결혼하는 것으로 알려졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김원준의 소속사는 \\\"우리도 얼마전에 알았다. 상견례는 이미 마쳤으며 양가 부모님의 뜻에 따라 비공개로 식이 진행될 것이다\\\"라고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 사진출처: KBS2 '대국민 토크쇼 - 안녕하세요' 캡처",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "14세 연하 검사와 결혼한 김원준, 연애는 가슴 아닌 머리로? \\\"순수한 남자 부러워…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

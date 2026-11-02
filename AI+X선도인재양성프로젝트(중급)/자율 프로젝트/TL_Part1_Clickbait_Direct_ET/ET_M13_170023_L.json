@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170023",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "유빈, 르엔터 사무실 최초 공개",
+    "newsSubTitle": "",
+    "newsContent": "유빈이 CEO로 있는 르엔터테인먼트 사무실 내부를 최초 공개했다.\n유빈은 지난 15일 오후 8시 30분 개인 유튜브 채널을 통해 새 사무실을 소개하는 영상을 공개했다.\n공개된 영상 속 유빈은 “원래 공유 오피스를 사용했는데 식구가 늘어 단독 사무실이 생겼다”며 기쁨을 감추지 못했다.\n유빈은 자신의 책상을 정리하며 그 위에 놓인 물건들도 소개했다. “박진영 피디님께 드려야 하는데 아직도 전달드리지 못했다”며 지난 1월 발매된 ‘향수(PERFUME)’ 앨범을 보여줘 눈길을 끌었다.\n폴라로이드 사진기 이름을 잠시 잊은 유빈은 “송은이 언니가 까먹어도 절대 찾아보면 안 된다고, 무조건 기억해 내야 한다고 했다”며 기억을 더듬어 웃음을 자아냈다.\n또 소속 아티스트인 우혜림의 책을 선보이며 “우리 혜림이 책이다. 정말 열심히 읽었다. 우리 아티스트니까!”라고 말해 깊은 애정을 표현했다.\n유빈은 SBS ‘당신이 혹하는 사이2’, MBC ‘우리 식구됐어요’ 등에 출연, 시원하고 털털한 매력을 선보이며 종횡무진 활약을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유빈이 CEO로 있는 르엔터테인먼트 사무실 내부를 최초 공개했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유빈은 지난 15일 오후 8시 30분 개인 유튜브 채널을 통해 새 사무실을 소개하는 영상을 공개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속 유빈은 “원래 공유 오피스를 사용했는데 식구가 늘어 단독 사무실이 생겼다”며 기쁨을 감추지 못했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유빈은 자신의 책상을 정리하며 그 위에 놓인 물건들도 소개했다. “박진영 피디님께 드려야 하는데 아직도 전달드리지 못했다”며 지난 1월 발매된 ‘향수(PERFUME)’ 앨범을 보여줘 눈길을 끌었다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "폴라로이드 사진기 이름을 잠시 잊은 유빈은 “송은이 언니가 까먹어도 절대 찾아보면 안 된다고, 무조건 기억해 내야 한다고 했다”며 기억을 더듬어 웃음을 자아냈다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 소속 아티스트인 우혜림의 책을 선보이며 “우리 혜림이 책이다. 정말 열심히 읽었다. 우리 아티스트니까!”라고 말해 깊은 애정을 표현했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유빈은 SBS ‘당신이 혹하는 사이2’, MBC ‘우리 식구됐어요’ 등에 출연, 시원하고 털털한 매력을 선보이며 종횡무진 활약을 펼치고 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유빈, 르엔터 사무실 최초 공개에 '헉'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267157",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최정윤의 조금 특별한 가족사진",
+		"newsSubTitle": "",
+		"newsContent": "배우 최정윤이 딸과 단둘이 찍은 가족사진을 공개했다.\n최정윤은 17일 자신의 SNS 인스타그램에 “김보하 작가님과의 특별한 시간. 만삭 사진에 이어 지우와 저의 성장을 담아주신 소중한 시간이었다. 가족사진”이라는 글과 함께 사진을 게재했다.\n사진 속 최정윤과 딸 지우양은 검은색 원피스로 커플룩을 맞춰 입고 미소 짓고 있다.\n한편 최정윤은 2011년 이랜드 그룹 부회장 장남인 윤태준과 결혼해 ‘재벌가 며느리’라는 수식어를 달고 살았다.\n최근 이혼절차를 밟고 있다고 밝혀 충격을 줬다.\n최씨는 최근 KBS2 ‘박원숙의 같이 삽시다’에 출연해 “별거한 지 3년 차”라며 “둘만 있었으면 진작 이혼을 했다. 근데 어린아이가 아빠를 찾고 너무 기다린다”며 딸 때문에 이혼을 쉽게 결정하지 못했다고 고백했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최정윤이 딸과 단둘이 찍은 가족사진을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최정윤은 17일 자신의 SNS 인스타그램에 “김보하 작가님과의 특별한 시간. 만삭 사진에 이어 지우와 저의 성장을 담아주신 소중한 시간이었다. 가족사진”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 최정윤과 딸 지우양은 검은색 원피스로 커플룩을 맞춰 입고 미소 짓고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 최정윤은 2011년 이랜드 그룹 부회장 장남인 윤태준과 결혼해 ‘재벌가 며느리’라는 수식어를 달고 살았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 이혼절차를 밟고 있다고 밝혀 충격을 줬다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최씨는 최근 KBS2 ‘박원숙의 같이 삽시다’에 출연해 “별거한 지 3년 차”라며 “둘만 있었으면 진작 이혼을 했다. 근데 어린아이가 아빠를 찾고 너무 기다린다”며 딸 때문에 이혼을 쉽게 결정하지 못했다고 고백했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최정윤의 조금 특별한 가족사진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

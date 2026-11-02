@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262599",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "문빈&산하 ‘REFUGE’로 완성한 카리스마",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아스트로 문빈&산하가 새로운 카리스마를 드러냈다.\n문빈&산하는 지난 2일 오후 판타지오 공식 SNS를 통해 오는 15일 발매하는 미니 2집 ‘REFUGE’(레퓨지)의 ‘THE WEST’(더 웨스트) 버전 콘셉트 포토를 공개했다.\n콘셉트 포토 속 문빈&산하는 샹들리에와 스테인드글라스를 배경으로 서 있는 모습이다.\n문빈은 블랙 위주의 스타일링을 윤산하는 블랙과 화이트의 조화가 돋보이는 착장에 아련한 눈빛을 더했다.\n여기에 두 사람 모두 유니크한 액세서리를 착용하며 한층 신비로운 무드를 완성했다.\n미니 2집 ‘REFUGE’를 통해 ‘만인의 구원자’로 돌아올 문빈&산하가 어떤 이야기를 전할지 궁금증이 더해진다.\n한편 문빈&산하의 ‘REFUGE’는 오는 15일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아스트로 문빈&산하가 새로운 카리스마를 드러냈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "문빈&산하는 지난 2일 오후 판타지오 공식 SNS를 통해 오는 15일 발매하는 미니 2집 ‘REFUGE’(레퓨지)의 ‘THE WEST’(더 웨스트) 버전 콘셉트 포토를 공개했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "콘셉트 포토 속 문빈&산하는 샹들리에와 스테인드글라스를 배경으로 서 있는 모습이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문빈은 블랙 위주의 스타일링을 윤산하는 블랙과 화이트의 조화가 돋보이는 착장에 아련한 눈빛을 더했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 두 사람 모두 유니크한 액세서리를 착용하며 한층 신비로운 무드를 완성했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미니 2집 ‘REFUGE’를 통해 ‘만인의 구원자’로 돌아올 문빈&산하가 어떤 이야기를 전할지 궁금증이 더해진다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 문빈&산하의 ‘REFUGE’는 오는 15일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "문빈&산하 ‘REFUGE’로 완성한 카리스마",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

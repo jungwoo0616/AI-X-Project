@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277364",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "롯데월드서 포착된 지드래곤·설리·구하라·가인…무슨 사이?",
+		"newsSubTitle": "",
+		"newsContent": "가수 지드래곤·설리·구하라·가인이 함께 롯데월드에 갔던 모습이 포착됐다.\n2일 한 온라인 커뮤니티에는 '같이 롯데월드 간 지드래곤·설리·구하라·가인'이라는 제목의 사진이 올라왔다.\n사진에는 카메라를 보며 표정을 짓고 있는 이들이 담겨 있다.\n구하라와 가인, 지드래곤은 검정 마스크로 얼굴을 가리고 있다.\n특히 지드래곤은 모자에 얼굴이 가려져 제대로 알아볼 수 없지만, 네티즌은 그가 들고 있는 핸드폰 케이스를 근거로 지드래곤이 맞다 추측하고 있다.\n지드래곤이 들고 있는 핸드폰 케이스는 그가 지난달 30일 자신의 인스타그램을 통해 공개한 것이다.\n설리는 머리에 토끼 머리띠를 쓴 채 귀여운 표정을 짓고 있다.\n앞서 설리, 구하라, 가인은 설 연휴 동안 자신들의 소셜네트워크서비스(SNS)를 통해 프랑스 파리를 방문한 사진을 공개한 바 있다.\n이들은 파리로 우정 여행을 떠났다고 알려졌다.\n특히 여행 기간 동안 가인은 샤넬 패션쇼, 피스마이너스원(peaceminusone) 공식 일정으로 파리를 방문한 지드래곤을 유추케 하는 사진들을 올려 네 사람 사이의 친분이 화제로 떠올랐다.\n이날 인터넷을 통해 네 사람이 함께 롯데월드까지 다녀왔다는 사실까지 알려지며 다시 한 번 네티즌의 이목이 집중되고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 지드래곤·설리·구하라·가인이 함께 롯데월드에 갔던 모습이 포착됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 한 온라인 커뮤니티에는 '같이 롯데월드 간 지드래곤·설리·구하라·가인'이라는 제목의 사진이 올라왔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 카메라를 보며 표정을 짓고 있는 이들이 담겨 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구하라와 가인, 지드래곤은 검정 마스크로 얼굴을 가리고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 지드래곤은 모자에 얼굴이 가려져 제대로 알아볼 수 없지만, 네티즌은 그가 들고 있는 핸드폰 케이스를 근거로 지드래곤이 맞다 추측하고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지드래곤이 들고 있는 핸드폰 케이스는 그가 지난달 30일 자신의 인스타그램을 통해 공개한 것이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "설리는 머리에 토끼 머리띠를 쓴 채 귀여운 표정을 짓고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 설리, 구하라, 가인은 설 연휴 동안 자신들의 소셜네트워크서비스(SNS)를 통해 프랑스 파리를 방문한 사진을 공개한 바 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이들은 파리로 우정 여행을 떠났다고 알려졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 여행 기간 동안 가인은 샤넬 패션쇼, 피스마이너스원(peaceminusone) 공식 일정으로 파리를 방문한 지드래곤을 유추케 하는 사진들을 올려 네 사람 사이의 친분이 화제로 떠올랐다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이날 인터넷을 통해 네 사람이 함께 롯데월드까지 다녀왔다는 사실까지 알려지며 다시 한 번 네티즌의 이목이 집중되고 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "롯데월드서 포착된 지드래곤·설리·구하라·가인…무슨 사이?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

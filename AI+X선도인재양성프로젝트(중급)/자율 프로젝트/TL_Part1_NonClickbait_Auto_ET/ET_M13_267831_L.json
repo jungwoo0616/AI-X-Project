@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267831",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "황정음, 다이어트 선언 후 뭐 먹나 봤더니…",
+		"newsSubTitle": "",
+		"newsContent": "배우 황정음이 다이어트 선언 후 식단 관리를 근황으로 전했다.\n황정음은 22일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 사진 3장을 게재했다.\n황정음은 빵과 오믈렛, 싱싱한 샐러드로 브런치를 즐기는 모습을 담은 사진을 공개했다.\n이어진 사진에는 방금 먹은 것으로 만족 못했는지 “한 번 더”라는 글과 함께 다음 샐러드와 과일들 그리고 채소들을 담은 접시를 공개했다.\n한편 황정음은 2016년 프로골퍼 겸 사업가 이영돈과 결혼해 이혼 위기를 겪었으나 재결합에 성공, 최근 둘째를 출산하며 슬하에 두 아들을 두고 있다.\n또 황정음은 지난 18일 SNS에 “다이어트 시작. 지금 63kg니까 52kg까지 뺄게요”라며 다어이트 선언해 화제가 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 황정음이 다이어트 선언 후 식단 관리를 근황으로 전했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "황정음은 22일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 사진 3장을 게재했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "황정음은 빵과 오믈렛, 싱싱한 샐러드로 브런치를 즐기는 모습을 담은 사진을 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어진 사진에는 방금 먹은 것으로 만족 못했는지 “한 번 더”라는 글과 함께 다음 샐러드와 과일들 그리고 채소들을 담은 접시를 공개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 황정음은 2016년 프로골퍼 겸 사업가 이영돈과 결혼해 이혼 위기를 겪었으나 재결합에 성공, 최근 둘째를 출산하며 슬하에 두 아들을 두고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 황정음은 지난 18일 SNS에 “다이어트 시작. 지금 63kg니까 52kg까지 뺄게요”라며 다어이트 선언해 화제가 됐다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황정음, 다이어트 선언 후 뭐 먹나 봤더니…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

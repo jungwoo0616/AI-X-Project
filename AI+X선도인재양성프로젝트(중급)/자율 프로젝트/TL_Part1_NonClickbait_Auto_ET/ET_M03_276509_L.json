@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276509",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "방송 중 엄청난 함성 자아낸 아이린 SNL '이 장면'",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 레드벨벳 아이린이 'SNL코리아'에 호스트로 등장했다.\n아이린은 22일 방송된 tvN SNL코리아 '3분 내 사람' 코너에서 정상훈의 여자친구로 등장했다.\n이날 방송에서 '열일하는(열심히 일하는) 미모의 여친'으로 아이린이 등장하자 남성들의 환호가 이어졌다.\n정상훈은 아이린을 본 뒤 \\\"이 얼굴 실화냐\\\"며 감탄했다.\n아이린은 '예쁜 외모' 콘셉트에 따라 \\\"내 얼굴을 보면 안구 정화가 된대\\\"라며 갖가지 애교를 펼쳤고, 아이린의 얼굴이 클로즈업될 때마다 함성이 터져 나왔다.\n한편 레드벨벳은 지난 9일 신곡 '빨간 맛'으로 컴백해 음원차트 상위권에 오르며 저력을 과시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 레드벨벳 아이린이 'SNL코리아'에 호스트로 등장했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이린은 22일 방송된 tvN SNL코리아 '3분 내 사람' 코너에서 정상훈의 여자친구로 등장했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 '열일하는(열심히 일하는) 미모의 여친'으로 아이린이 등장하자 남성들의 환호가 이어졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정상훈은 아이린을 본 뒤 \\\"이 얼굴 실화냐\\\"며 감탄했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이린은 '예쁜 외모' 콘셉트에 따라 \\\"내 얼굴을 보면 안구 정화가 된대\\\"라며 갖가지 애교를 펼쳤고, 아이린의 얼굴이 클로즈업될 때마다 함성이 터져 나왔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 레드벨벳은 지난 9일 신곡 '빨간 맛'으로 컴백해 음원차트 상위권에 오르며 저력을 과시했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방송 중 엄청난 함성 자아낸 아이린 SNL '이 장면'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

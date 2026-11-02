@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265452",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "20대 유튜버, 개인방송 중 또래 폭행으로 집행유예",
+		"newsSubTitle": "",
+		"newsContent": "개인방송을 하던 중 폭행을 한 20대 유튜버가 징역형의 집행유예를 선고받았다.\n인천지법 형사14단독 박신영 판사는 정보통신망 이용 촉진 및 정보보호 등에 관한 법률상 명예훼손과 상해 등 혐의로 기소된 유튜버 A(26)씨에게 징역 1년 6개월에 집행유예 3년을 선고하고 160시간 사회봉사를 명령했다고 30일 밝혔다.\n박 판사는 또 상해 혐의로 함께 기소된 유튜버 B(24)씨에게는 벌금 200만원을 선고했다.\nA씨는 2020년 6월 25일 오전 0시 30분께 인천시 미추홀구 한 아파트에서 인터넷 개인방송을 하던 중 C씨를 넘어뜨려 폭행하고 입에 머금고 있던 물을 얼굴에 뱉은 혐의 등으로 기소됐다.\n그는 방송이 끝난 뒤에도 아파트 인근 공원에서 C씨 가슴을 발로 걷어차고 뺨을 2차례 때렸다.\nA씨는 또 같은 해 9월에는 여자친구에게 욕설·협박을 했고, 개인방송 시청장 2명을 속여 600여만원을 받아 가로챈 혐의도 받았다.\n박 판사는 A씨에게 “피고인의 범행 수법이나 경위를 보면 죄질이 상당히 좋지 않다”며 “재판을 받는 중에도 계속 추가 범행을 저지른 피고인이 진정으로 자신의 잘못을 반성하고 있는지도 의심스럽다”고 질타했다.\nB씨는 다음 날 A씨 아파트에 찾아와 권투 글러브를 끼고 스파링을 하자며 C씨 팔을 5차례 때려 다치게 한 혐의로 기소됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개인방송을 하던 중 폭행을 한 20대 유튜버가 징역형의 집행유예를 선고받았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인천지법 형사14단독 박신영 판사는 정보통신망 이용 촉진 및 정보보호 등에 관한 법률상 명예훼손과 상해 등 혐의로 기소된 유튜버 A(26)씨에게 징역 1년 6개월에 집행유예 3년을 선고하고 160시간 사회봉사를 명령했다고 30일 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박 판사는 또 상해 혐의로 함께 기소된 유튜버 B(24)씨에게는 벌금 200만원을 선고했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A씨는 2020년 6월 25일 오전 0시 30분께 인천시 미추홀구 한 아파트에서 인터넷 개인방송을 하던 중 C씨를 넘어뜨려 폭행하고 입에 머금고 있던 물을 얼굴에 뱉은 혐의 등으로 기소됐다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 방송이 끝난 뒤에도 아파트 인근 공원에서 C씨 가슴을 발로 걷어차고 뺨을 2차례 때렸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "A씨는 또 같은 해 9월에는 여자친구에게 욕설·협박을 했고, 개인방송 시청장 2명을 속여 600여만원을 받아 가로챈 혐의도 받았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박 판사는 A씨에게 “피고인의 범행 수법이나 경위를 보면 죄질이 상당히 좋지 않다”며 “재판을 받는 중에도 계속 추가 범행을 저지른 피고인이 진정으로 자신의 잘못을 반성하고 있는지도 의심스럽다”고 질타했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "B씨는 다음 날 A씨 아파트에 찾아와 권투 글러브를 끼고 스파링을 하자며 C씨 팔을 5차례 때려 다치게 한 혐의로 기소됐다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "20대 유튜버, 개인방송 중 또래 폭행으로 집행유예",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

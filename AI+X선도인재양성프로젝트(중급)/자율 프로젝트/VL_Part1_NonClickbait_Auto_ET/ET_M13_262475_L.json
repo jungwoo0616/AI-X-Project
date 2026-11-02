@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262475",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이린, 무결점 피부 빛난 ‘라 메르’ 캠페인 영상 공개",
+		"newsSubTitle": "",
+		"newsContent": "모델 겸 방송인으로 활동 중인 아이린이 APAC(아태지역) 앰버서더로 활동하고 있는 프리미엄 스킨케어 브랜드 ‘라 메르(LaMer)’의 신제품 캠페인 영상이 공개됐다.\n공개된 캠페인 영상에서 아이린은 수분 에너지 가득한 광채로 빛나는 피부를 뽐내며 우아하면서도 세련된 매력을 발산했다.\n고급스러운 비주얼은 물론 톱모델다운 포스를 뿜어낸 그녀는 ‘라 메르’의 신제품을 만나 더욱 건강하고 탄력 있는 피부로 단번에 시선을 사로잡았다.\n평소 건강하고 긍정적인 이미지로 대중의 사랑을 받는 아이린이 라 메르 앰버서더로 활약하며 보일 새로운 모습 또한 기대되는 바이다.\n아이린은 최근 톱모델, 그리고 글로벌 패션 인플루언서로는 물론 SBS 예능 프로그램 ‘골 때리는 그녀들’에서 ‘까만 리본 아이린’이라는 새로운 수식어를 얻으며 FC 구척장신의 골키퍼로서 활약 중이다.\n한편, 라 메르와 함께한 아이린의 영상 및 비하인드 컷은 ‘라 메르 코리아’ 공식 인스타그램(@lamer.korea)에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 겸 방송인으로 활동 중인 아이린이 APAC(아태지역) 앰버서더로 활동하고 있는 프리미엄 스킨케어 브랜드 ‘라 메르(LaMer)’의 신제품 캠페인 영상이 공개됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 캠페인 영상에서 아이린은 수분 에너지 가득한 광채로 빛나는 피부를 뽐내며 우아하면서도 세련된 매력을 발산했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고급스러운 비주얼은 물론 톱모델다운 포스를 뿜어낸 그녀는 ‘라 메르’의 신제품을 만나 더욱 건강하고 탄력 있는 피부로 단번에 시선을 사로잡았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "평소 건강하고 긍정적인 이미지로 대중의 사랑을 받는 아이린이 라 메르 앰버서더로 활약하며 보일 새로운 모습 또한 기대되는 바이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이린은 최근 톱모델, 그리고 글로벌 패션 인플루언서로는 물론 SBS 예능 프로그램 ‘골 때리는 그녀들’에서 ‘까만 리본 아이린’이라는 새로운 수식어를 얻으며 FC 구척장신의 골키퍼로서 활약 중이다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 라 메르와 함께한 아이린의 영상 및 비하인드 컷은 ‘라 메르 코리아’ 공식 인스타그램(@lamer.korea)에서 만나볼 수 있다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이린, 무결점 피부 빛난 ‘라 메르’ 캠페인 영상 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

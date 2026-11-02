@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167105",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "카림 벤제마, ‘성관계 동영상 협박’ 혐의로 집유 10개월 구형 받아",
+    "newsSubTitle": "",
+    "newsContent": "프랑스 검찰이 성관계 동영상으로 동료를 협박하려 한 혐의로 재판에 넘겨진 자국 출신 축구선수 카림 벤제마에게 집행유예 10개월을 구형했다고 현지 언론들이 21일(현지시간) 보도했다.\n검찰은 스페인 프로축구 레알마드리드에서 공격수로 뛰고 있는 벤제마에게 벌금 7만5000유로(1억원)와 함께 이같이 선고해달라며 재판부에 요청했다.\n벤제마는 2015년 당시 프랑스 축구대표팀이었던 마티외 발부에나에게 성관계 동영상을 빌미로 돈을 뜯어내려는 일당과 공모한 혐의로 기소됐다.\n이날 파리 외곽 베르사유 법원에서 열린 재판에 출석하지 않은 벤제마는 발부에나가 상황에서 벗어날 수 있도록 도우려 했던 것이라며 혐의를 부인하고 있다.\n검찰은 그러나 벤제마가 발부에나를 협박하려는 사람들이 돈을 뜯어내겠다는 목표를 달성할 수 있게끔 행동했다며, 그가 ‘선한 사마리아인’이 아니라고 주장했다.\n벤제마는 이 사건으로 프랑스 대표팀에서 퇴출당했다가 6년만인 지난해 2020 유럽축구선수권대회(유로 2020)를 앞두고 대표팀에 복귀를 해 다시 논란을 일으켰다.\n검찰은 벤제마와 함께 발부에나를 협박하려고 공모한 혐의로 재판에 넘겨진 다른 4명에게는 징역 1년 6개월∼4년을 구형했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프랑스 검찰이 성관계 동영상으로 동료를 협박하려 한 혐의로 재판에 넘겨진 자국 출신 축구선수 카림 벤제마에게 집행유예 10개월을 구형했다고 현지 언론들이 21일(현지시간) 보도했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "검찰은 스페인 프로축구 레알마드리드에서 공격수로 뛰고 있는 벤제마에게 벌금 7만5000유로(1억원)와 함께 이같이 선고해달라며 재판부에 요청했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "벤제마는 2015년 당시 프랑스 축구대표팀이었던 마티외 발부에나에게 성관계 동영상을 빌미로 돈을 뜯어내려는 일당과 공모한 혐의로 기소됐다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 파리 외곽 베르사유 법원에서 열린 재판에 출석하지 않은 벤제마는 발부에나가 상황에서 벗어날 수 있도록 도우려 했던 것이라며 혐의를 부인하고 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "검찰은 그러나 벤제마가 발부에나를 협박하려는 사람들이 돈을 뜯어내겠다는 목표를 달성할 수 있게끔 행동했다며, 그가 ‘선한 사마리아인’이 아니라고 주장했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "벤제마는 이 사건으로 프랑스 대표팀에서 퇴출당했다가 6년만인 지난해 2020 유럽축구선수권대회(유로 2020)를 앞두고 대표팀에 복귀를 해 다시 논란을 일으켰다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "검찰은 벤제마와 함께 발부에나를 협박하려고 공모한 혐의로 재판에 넘겨진 다른 4명에게는 징역 1년 6개월∼4년을 구형했다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "축구선수 카림 벤제마, 집행유예 10개월 구형... 대체 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

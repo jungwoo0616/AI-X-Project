@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282560",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'사람이 좋다', 김가연·임요환 부부, 늦은 나이임에도 출산 … 왜?",
+		"newsSubTitle": "",
+		"newsContent": "'사람이 좋다', 김가연·임요환 배우 김가연이 늦은 나이에 출산을 선택한 이유를 밝혔다.\n28일 방송된 MBC '휴먼다큐 사람이 좋다'에서는 배우 김가연 프로 포커플레이어 임요환 부부의 이야기가 공개됐다.\n이날 김가연은 생후 100일 된 둘째 딸을 공개했다.\n그녀는 마흔 넷에 아이를 낳았다.\n김가연은 \\\"늦은 나이에 가진 아기라 더 소중하겠죠. 아무래도? 남편을 닮은 아이가 갖고 싶기도 했고, 나중에는 오기가 생겼다. 해내지 못할거라 생각했는데 해냈기 때문에 그래서 더 귀하다. 마흔 넷에 아이를 갖고 낳는건 쉽지 않으니까요\\\"라고 말했다.\n임요환 역시 \\\"아기가 전치 태반이라고 해서 계속 출혈이 나와서 여러 차례 병원에 갔었다. 또 미숙아라서 40일 정도 일찍 나왔는데 바로 인큐베이터 들어가 있을 때 짠했지만 지금은 건강하다\\\"며 \\\"그런 고난과 역경들이 지금 아이를 보면서 다 풀어진다\\\"고 말하며 딸바보다운 면모를 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'사람이 좋다', 김가연·임요환 배우 김가연이 늦은 나이에 출산을 선택한 이유를 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 방송된 MBC '휴먼다큐 사람이 좋다'에서는 배우 김가연 프로 포커플레이어 임요환 부부의 이야기가 공개됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김가연은 생후 100일 된 둘째 딸을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그녀는 마흔 넷에 아이를 낳았다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김가연은 \\\"늦은 나이에 가진 아기라 더 소중하겠죠. 아무래도? 남편을 닮은 아이가 갖고 싶기도 했고, 나중에는 오기가 생겼다. 해내지 못할거라 생각했는데 해냈기 때문에 그래서 더 귀하다. 마흔 넷에 아이를 갖고 낳는건 쉽지 않으니까요\\\"라고 말했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임요환 역시 \\\"아기가 전치 태반이라고 해서 계속 출혈이 나와서 여러 차례 병원에 갔었다. 또 미숙아라서 40일 정도 일찍 나왔는데 바로 인큐베이터 들어가 있을 때 짠했지만 지금은 건강하다\\\"며 \\\"그런 고난과 역경들이 지금 아이를 보면서 다 풀어진다\\\"고 말하며 딸바보다운 면모를 보였다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사람이 좋다', 김가연·임요환 부부, 늦은 나이임에도 출산 … 왜?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

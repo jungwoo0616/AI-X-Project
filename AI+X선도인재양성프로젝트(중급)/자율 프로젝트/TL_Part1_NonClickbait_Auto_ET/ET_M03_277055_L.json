@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277055",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "인피니트 성규, 방송 게임 촬영하다 갈비뼈 부상",
+		"newsSubTitle": "",
+		"newsContent": "인피니트 멤버 성규가 촬영 도중 갈비뼈가 부러지는 부상을 했다.\n29일 소속사 울림엔터테인먼트에 따르면 성규는 1주일 전 MC를 맡은 채널A '싱데렐라-야식이 빛나는 밤' 녹화 도중 철봉에 매달려 상대를 떨어뜨리는 게임을 하다가 갈비뼈가 골절됐다.\n소속사 관계자는 통화에서 \\\"성규가 병원에서 갈비뼈 피로골절 진단을 받았다\\\"며 \\\"의료진은 2주가량 휴식을 취하면 회복될 수 있다는 소견을 냈다\\\"고 말했다.\n피로골절은 뼈에 과도한 스트레스가 쌓여 미세한 골절 형태로 나타나는 부상이다.\n인피니트는 5월 국내 컴백과 일본 활동을 계획 중으로 향후 뮤직비디오 촬영 등의 일정을 조율할 예정이다.\n소속사 관계자는 \\\"성규의 회복 상태를 고려해 준비할 것\\\"이라며 \\\"대략적인 일정에는 크게 차질이 없을 것으로 보인다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인피니트 멤버 성규가 촬영 도중 갈비뼈가 부러지는 부상을 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 소속사 울림엔터테인먼트에 따르면 성규는 1주일 전 MC를 맡은 채널A '싱데렐라-야식이 빛나는 밤' 녹화 도중 철봉에 매달려 상대를 떨어뜨리는 게임을 하다가 갈비뼈가 골절됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사 관계자는 통화에서 \\\"성규가 병원에서 갈비뼈 피로골절 진단을 받았다\\\"며 \\\"의료진은 2주가량 휴식을 취하면 회복될 수 있다는 소견을 냈다\\\"고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "피로골절은 뼈에 과도한 스트레스가 쌓여 미세한 골절 형태로 나타나는 부상이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인피니트는 5월 국내 컴백과 일본 활동을 계획 중으로 향후 뮤직비디오 촬영 등의 일정을 조율할 예정이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사 관계자는 \\\"성규의 회복 상태를 고려해 준비할 것\\\"이라며 \\\"대략적인 일정에는 크게 차질이 없을 것으로 보인다\\\"고 전했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인피니트 성규, 방송 게임 촬영하다 갈비뼈 부상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

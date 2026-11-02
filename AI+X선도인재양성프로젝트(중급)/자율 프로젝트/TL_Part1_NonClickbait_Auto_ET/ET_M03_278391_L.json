@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278391",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "임요환 김가연 웨딩화보, 내조의 여왕 김가연의 입이 떡벌어지는 집밥",
+		"newsSubTitle": "",
+		"newsContent": "배우 김가연과 전 프로게이머 임요환의 웨딩사진이 화제인 가운데 과거 공개한 김가연의 밥상이 재조명받고 있다.\n과거 방송된SBS 예능 ‘일요일이 좋다-맨발의 친구들’에서는 강호동, 윤종신 등이 김가연-임요환 부부의 집을 방문해 김가연의 요리 솜씨를 모습이 방송됐다.\n이날 김가연은 곱게 한복을 차려입고 평소 남편에게 차려준다는 전라도식 밥상을 직접 선보여 눈길을 끌었다.\n특히 간장 꽃게찜, 홍어사합, 토란대 오리탕 등 어마어마한 상차림에 멤버들은 황홀해 했고, 윤종신은 김가연이 직접 개발한 '팥스프'를 맛보고는 \\\"너무 맛있다. 팔아도 될 정도\\\"라며 극찬했다.\n이어 김가연은 남편 임요환이 언제든 쉴 수 있는 안마 의자를 소개했고, 주문 즉시 요리가 제공되는 야식 메뉴 차림표를 공개해 내조의 여왕임을 입증했다.\n한편 김가연 임요환 부부는 결혼식 없이 5년간 법적 부부로만 지내오다올해 5월 식을 올린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김가연과 전 프로게이머 임요환의 웨딩사진이 화제인 가운데 과거 공개한 김가연의 밥상이 재조명받고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된SBS 예능 ‘일요일이 좋다-맨발의 친구들’에서는 강호동, 윤종신 등이 김가연-임요환 부부의 집을 방문해 김가연의 요리 솜씨를 모습이 방송됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김가연은 곱게 한복을 차려입고 평소 남편에게 차려준다는 전라도식 밥상을 직접 선보여 눈길을 끌었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 간장 꽃게찜, 홍어사합, 토란대 오리탕 등 어마어마한 상차림에 멤버들은 황홀해 했고, 윤종신은 김가연이 직접 개발한 '팥스프'를 맛보고는 \\\"너무 맛있다. 팔아도 될 정도\\\"라며 극찬했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 김가연은 남편 임요환이 언제든 쉴 수 있는 안마 의자를 소개했고, 주문 즉시 요리가 제공되는 야식 메뉴 차림표를 공개해 내조의 여왕임을 입증했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김가연 임요환 부부는 결혼식 없이 5년간 법적 부부로만 지내오다올해 5월 식을 올린다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임요환 김가연 웨딩화보, 내조의 여왕 김가연의 입이 떡벌어지는 집밥",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

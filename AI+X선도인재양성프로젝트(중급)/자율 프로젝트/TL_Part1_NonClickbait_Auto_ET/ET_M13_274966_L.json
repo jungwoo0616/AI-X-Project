@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274966",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "프로포폴 투약 휘성, 작사작곡 참여로 음악활동 재개",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 작곡가 휘성이 작사, 작곡 작업으로 활동 재개를 알렸다.\n휘성은 7일 자신의 사회관계망서비스(SNS)에 “Babylon-EGO 90‘S Do or Die (죽거나 미치거나) 작사 작곡 가창에 참여했습니다. 참고 있던 참을 수밖에 없었던 걸 쏟은 곡 입니다. 90~00년 초반 컨템포러리 알앤비 무드가 그리웠다면 정말 기대해도 좋을 앨범입니다”라는 글과 함께 앨범 트랙리스트 사진을 게재했다.\n휘성이 작사, 작곡에 참여한 앨범은 알앤비 싱어송라이터 베이빌론의 세 번째 정규 앨범이다.\n휘성 외에도 엄정화, 박진영 등도 작업에 참여했다.\n앞서 휘성은 2019년 9월부터 3개월간 지속적으로 프로포폴 매수, 투약한 혐의로 기소됐다.\n이후 징역 1년 집행유예 2년은 선고 받고 자숙에 들어갔으며 지난해 크리스마스 콘서트로 활동 시작을 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 작곡가 휘성이 작사, 작곡 작업으로 활동 재개를 알렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "휘성은 7일 자신의 사회관계망서비스(SNS)에 “Babylon-EGO 90‘S Do or Die (죽거나 미치거나) 작사 작곡 가창에 참여했습니다. 참고 있던 참을 수밖에 없었던 걸 쏟은 곡 입니다. 90~00년 초반 컨템포러리 알앤비 무드가 그리웠다면 정말 기대해도 좋을 앨범입니다”라는 글과 함께 앨범 트랙리스트 사진을 게재했다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "휘성이 작사, 작곡에 참여한 앨범은 알앤비 싱어송라이터 베이빌론의 세 번째 정규 앨범이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휘성 외에도 엄정화, 박진영 등도 작업에 참여했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 휘성은 2019년 9월부터 3개월간 지속적으로 프로포폴 매수, 투약한 혐의로 기소됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 징역 1년 집행유예 2년은 선고 받고 자숙에 들어갔으며 지난해 크리스마스 콘서트로 활동 시작을 알렸다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "프로포폴 투약 휘성, 작사작곡 참여로 음악활동 재개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

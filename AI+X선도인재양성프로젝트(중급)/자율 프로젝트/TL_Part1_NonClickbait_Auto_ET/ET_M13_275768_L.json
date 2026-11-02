@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275768",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "CGV, 명동 예술영화 전용관 다음달 폐관",
+		"newsSubTitle": "",
+		"newsContent": "서울 명동에 있는 예술영화 전용관인 CGV명동역 씨네라이브러리가 다음달 문을 닫는다.\nCGV는 임대기간 만료 등 문제로 CGV명동역 씨네라이브러리를 다음달 16일까지만 운영한다고 18일 전했다.\nCGV 관계자는 “코로나19로 인한 운영상 어려움이 가중됐고, 임대료 및 관리비 부담 등으로 더 이상 운영하기 어려워 부득이하게 영업을 종료하게 됐다”고 말했다.\nCGV명동역 씨네라이브러리는 5관 694석 규모 예술영화 전용 상영관이다.\n1만1천여 권의 장서를 소장한 국내 최초 영화 전문 도서관을 갖추고 있다.\n이 상영관은 코로나19 팬데믹 기간 수지타산이 맞지 않아 임시휴업 대상에 포함된 바 있다.\nCGV는 장서들을 일단 CGV용산아이파크몰 내 공간으로 옮긴 후 적당한 장소를 확보해 다시 공개할 예정이다. 고 김기영 감독에게 헌정한 ‘김기영관’은 CGV여의도로 이전된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 명동에 있는 예술영화 전용관인 CGV명동역 씨네라이브러리가 다음달 문을 닫는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CGV는 임대기간 만료 등 문제로 CGV명동역 씨네라이브러리를 다음달 16일까지만 운영한다고 18일 전했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CGV 관계자는 “코로나19로 인한 운영상 어려움이 가중됐고, 임대료 및 관리비 부담 등으로 더 이상 운영하기 어려워 부득이하게 영업을 종료하게 됐다”고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CGV명동역 씨네라이브러리는 5관 694석 규모 예술영화 전용 상영관이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1만1천여 권의 장서를 소장한 국내 최초 영화 전문 도서관을 갖추고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 상영관은 코로나19 팬데믹 기간 수지타산이 맞지 않아 임시휴업 대상에 포함된 바 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CGV는 장서들을 일단 CGV용산아이파크몰 내 공간으로 옮긴 후 적당한 장소를 확보해 다시 공개할 예정이다. 고 김기영 감독에게 헌정한 ‘김기영관’은 CGV여의도로 이전된다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CGV, 명동 예술영화 전용관 다음달 폐관",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

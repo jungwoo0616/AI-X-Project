@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276914",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "브리트니 스피어스, 선명한 복근 인증샷",
+		"newsSubTitle": "",
+		"newsContent": "브리트니 스피어스(36)가 탄탄한 복근을 공개했다.\n브리트니 스피어스는 1일(한국시간) 오전 자신의 SNS를 통해 “헬스장으로 돌아왔다… 스트레칭하고 뛸 거예요.(Back at the gym.... stretch and run all the way)”라는 글과 함께 사진을 올렸다.\n공개된 사진에는 브리트니 스피어스가 헬스장에서 탄력 있는 몸매를 과시하며 인증샷을 촬영하고 있다.\n특히 군살 하나 없는 건강미를 자랑해 눈길을 끌었다.\n아이 둘 엄마라고는 믿기 힘든 탄력 몸매가 눈길을 끈다.\n현재 '브리트니:라이브 인 콘서트(Britney:Live in Concert)'로 해외 순회공연을 펼치고 있는 그는 오는 6월 한국 콘서트를 조율 중인 것으로 알려졌다.\n계획이 성사되면 브리트니 스피어스의 첫 내한공연이 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "브리트니 스피어스(36)가 탄탄한 복근을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "브리트니 스피어스는 1일(한국시간) 오전 자신의 SNS를 통해 “헬스장으로 돌아왔다… 스트레칭하고 뛸 거예요.(Back at the gym.... stretch and run all the way)”라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 브리트니 스피어스가 헬스장에서 탄력 있는 몸매를 과시하며 인증샷을 촬영하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 군살 하나 없는 건강미를 자랑해 눈길을 끌었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이 둘 엄마라고는 믿기 힘든 탄력 몸매가 눈길을 끈다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 '브리트니:라이브 인 콘서트(Britney:Live in Concert)'로 해외 순회공연을 펼치고 있는 그는 오는 6월 한국 콘서트를 조율 중인 것으로 알려졌다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "계획이 성사되면 브리트니 스피어스의 첫 내한공연이 된다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브리트니 스피어스, 선명한 복근 인증샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

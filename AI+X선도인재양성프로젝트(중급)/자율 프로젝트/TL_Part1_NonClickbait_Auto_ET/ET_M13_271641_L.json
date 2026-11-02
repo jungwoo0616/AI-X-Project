@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271641",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘더 워스트 원스’, 칸 국제영화제 주목할 만한 시선 대상",
+		"newsSubTitle": "",
+		"newsContent": "리즈 아코카·로만느 귀레 감독의 영화 ‘더 워스트 원스’가 제75회 칸영화제 주목할 만한 시선 대상을 수상했다.\n칸영화제 주목할 만한 시선 심사위원단은 28일(한국시간) ‘더 워스트 원스’의 수상소식을 알렸다.\n주목할 만한 시선은 다양한 지역의 특색있는 영화를 소개하는 부문이다.\n올해는 오광록, 박민서 등 한국 배우들이 출연하고 프랑스 감독 데비 슈가 연출한 ‘올 더 피플 아일 네버 비’ 등 20편이 부문에 이름을 올렸다.\n심사위원상은 사임 사디크 감독의 ‘조이랜드’, 감독상은 ‘메트로놈’의 알렉산드루 벨크 감독이 받았다.\n각본상은 마하 하즈 감독의 ‘메디터레이니언 피버’에 돌아갔다.\n경쟁부문 수상작은 한국시간으로 29일 오전 3시30분 뤼미에르 대극장에서 열리는 폐막식에서 발표된다.\n박찬욱 감독의 ‘헤어질 결심’과 고레에다 히로카즈 감독의 ‘브로커’ 등 한국영화 2편을 포함한 21편의 영화 가운데 황금종려상 수상작이 가려진다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "리즈 아코카·로만느 귀레 감독의 영화 ‘더 워스트 원스’가 제75회 칸영화제 주목할 만한 시선 대상을 수상했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "칸영화제 주목할 만한 시선 심사위원단은 28일(한국시간) ‘더 워스트 원스’의 수상소식을 알렸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주목할 만한 시선은 다양한 지역의 특색있는 영화를 소개하는 부문이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해는 오광록, 박민서 등 한국 배우들이 출연하고 프랑스 감독 데비 슈가 연출한 ‘올 더 피플 아일 네버 비’ 등 20편이 부문에 이름을 올렸다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "심사위원상은 사임 사디크 감독의 ‘조이랜드’, 감독상은 ‘메트로놈’의 알렉산드루 벨크 감독이 받았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각본상은 마하 하즈 감독의 ‘메디터레이니언 피버’에 돌아갔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경쟁부문 수상작은 한국시간으로 29일 오전 3시30분 뤼미에르 대극장에서 열리는 폐막식에서 발표된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박찬욱 감독의 ‘헤어질 결심’과 고레에다 히로카즈 감독의 ‘브로커’ 등 한국영화 2편을 포함한 21편의 영화 가운데 황금종려상 수상작이 가려진다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더 워스트 원스’, 칸 국제영화제 주목할 만한 시선 대상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167979",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "빌보드 넘버원 콜드플레이가 올린 한 장의 사진",
+    "newsSubTitle": "",
+    "newsContent": "2014년 미국 빌보드 차트에서 최고 주간 판매량을 기록한 영국 록그룹 콜드플레이가 내한했다.\n13일 원래 일정보다 하루 일찍 ‘기습 내한’한 콜드플레이는 15일 자신의 인스타그램에 한국 방문 사진을 올렸다.\n서울 강남역에 위치한 싸이의 ‘강남스타일’ 기념 조형물 밑에서 자세를 취한 콜드 플레이 한 멤버는 “남한에 와서 매우 기쁘다. 아시아 공연을 보러 온 모든 분께 감사드린다”고 밝혔다.\n콜드플레이는 1998년 영국 런던에서 결성된 록그룹이다.\n2000년 1집 앨범 파라슈트(Parachutes)부터 지금까지 낸 모든 정규앨범이 빌보드 최상위권에 올랐다.\n지난 2011년 국내 지산 밸리 록페스티벌에 출연한다는 소식이 있었지만 불발된 적이 있다.\n콜드플레이 내한 공연은 오늘(15일) 오후 7시 서울 잠실종합운동장 주경기장에서 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2014년 미국 빌보드 차트에서 최고 주간 판매량을 기록한 영국 록그룹 콜드플레이가 내한했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 원래 일정보다 하루 일찍 ‘기습 내한’한 콜드플레이는 15일 자신의 인스타그램에 한국 방문 사진을 올렸다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서울 강남역에 위치한 싸이의 ‘강남스타일’ 기념 조형물 밑에서 자세를 취한 콜드 플레이 한 멤버는 “남한에 와서 매우 기쁘다. 아시아 공연을 보러 온 모든 분께 감사드린다”고 밝혔다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "콜드플레이는 1998년 영국 런던에서 결성된 록그룹이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2000년 1집 앨범 파라슈트(Parachutes)부터 지금까지 낸 모든 정규앨범이 빌보드 최상위권에 올랐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 2011년 국내 지산 밸리 록페스티벌에 출연한다는 소식이 있었지만 불발된 적이 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "콜드플레이 내한 공연은 오늘(15일) 오후 7시 서울 잠실종합운동장 주경기장에서 열린다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'남한에 와서 매우 기쁘다' 내한한 콜드플레이, 어떤 그룹?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

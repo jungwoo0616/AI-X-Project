@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171498",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘복면가왕’ 김주택 “‘팬텀싱어’ 배두훈에 가왕 노리고 출연”",
+    "newsSubTitle": "",
+    "newsContent": "‘복면가왕’ 백전무패의 정체는 바리톤 김주택으로 밝혀졌다.\n24일 오후 방송된 MBC ‘복면가왕’에서는 가왕 빈대떡 신사에 도전하는 복면 가수 4인의 무대가 시선을 끌었다.\n이날 3라운드에서는 백전무패와 곰발바닥의 대결로 꾸며졌다.\n백전무패는 얀 ‘그래서 그대는’을 선곡해 묵직하고 섬세한 감성을 끌어올렸다.\n곰발바닥은 빅마마 ‘연’을 선곡해 맑은 목소리로 무대를 가득 채우며 고음을 폭발시켰다.\n대결 결과 17 대 4로 곰발바닥이 승리해 가왕 결정전에 진출했다.\n이어 복면을 벗은 백전무패의 정체는 ‘팬텀싱어2’ 준우승 미라클라스 김주택이었다. ‘팬텀싱어’ 배두훈이 가왕이 된 것에 김주택은 “두훈이랑 저는 친구다. 저는 정체를 알고 있었다. ‘팬텀싱어’ 출신 가수들이 여기 나와서 가왕이 된 적이 없어서 설마 가왕이 되겠나 싶었는데 돼서 너무 좋았다. 나도 나와서 가왕을 노려볼 수 있지 않을까 해서 나왔는데 백전일패가 됐다”라며 웃어 보였다.\n앞으로의 계획으로 김주택은 “성악가들이 가장 꿈을 꾸는 무대가 오케스트라 50인조 이상과의 컬래버 공연이다. 다음 달에 독창회가 있다. 제 이름 기억해주시고요 열심히 하겠다”라고 전했다.\n한편 ‘복면가왕’은 매주 일요일 오후 6시 5분 MBC에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘복면가왕’ 백전무패의 정체는 바리톤 김주택으로 밝혀졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 오후 방송된 MBC ‘복면가왕’에서는 가왕 빈대떡 신사에 도전하는 복면 가수 4인의 무대가 시선을 끌었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 3라운드에서는 백전무패와 곰발바닥의 대결로 꾸며졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "백전무패는 얀 ‘그래서 그대는’을 선곡해 묵직하고 섬세한 감성을 끌어올렸다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "곰발바닥은 빅마마 ‘연’을 선곡해 맑은 목소리로 무대를 가득 채우며 고음을 폭발시켰다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대결 결과 17 대 4로 곰발바닥이 승리해 가왕 결정전에 진출했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 복면을 벗은 백전무패의 정체는 ‘팬텀싱어2’ 준우승 미라클라스 김주택이었다. ‘팬텀싱어’ 배두훈이 가왕이 된 것에 김주택은 “두훈이랑 저는 친구다. 저는 정체를 알고 있었다. ‘팬텀싱어’ 출신 가수들이 여기 나와서 가왕이 된 적이 없어서 설마 가왕이 되겠나 싶었는데 돼서 너무 좋았다. 나도 나와서 가왕을 노려볼 수 있지 않을까 해서 나왔는데 백전일패가 됐다”라며 웃어 보였다.",
+        "sentenceSize": 214
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞으로의 계획으로 김주택은 “성악가들이 가장 꿈을 꾸는 무대가 오케스트라 50인조 이상과의 컬래버 공연이다. 다음 달에 독창회가 있다. 제 이름 기억해주시고요 열심히 하겠다”라고 전했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 ‘복면가왕’은 매주 일요일 오후 6시 5분 MBC에서 만나볼 수 있다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕' 곰발바닥 배두훈과 대결한 백전무패의 정체는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

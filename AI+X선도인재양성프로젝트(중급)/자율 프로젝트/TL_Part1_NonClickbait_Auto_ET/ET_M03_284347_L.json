@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284347",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "칠성파 행동대장 호화 결혼식, 알고보니 과거 곽경택 감독 협박",
+		"newsSubTitle": "",
+		"newsContent": "서울 도심에서 폭력조직 칠성파 간부의 결혼식이 열려 경찰 인력이 대거 배치되는 상황이 벌어졌다.\n3일 송파경찰서는 전날인 2일 오후 5시 서울 송파구 잠실동 소재 한 호텔에서 부산 기반의 유명 폭력조직인 칠성파의 행동대장 권모(56)씨가 결혼식을 올렸다고 전했다.\n권 씨의 결혼을 축하하기 위해 조폭계 원로인 ‘신상사파’ 두목 신상현 씨를 비롯해 전국 각지의 조직폭력배 두목급 인사들이 집결한 것으로 알려졌다.\n이날 결혼식은 250여 명의 하객이 참석한 가운데 호화롭게 치러졌으며 유명 연예인이 결혼식 사회와 축가를 맡았다.\n경찰은 만약의 충돌사태를 대비해 결혼식이 종료된 오후 8시께까지 60여명의 경찰 인력을 현장 및 인근에 배치했다.\n경찰에 따르면 이날 결혼식은 별도의 충돌 없이 끝났으며, 결혼식에 참석한 칠성파 조직원들은 식 종료 직후 부산으로 돌아갔다.\n경찰 역시 대법원 판례에 따라 공포심 조장 등 특이사항이 없다는 점을 파악 후 별도 조치 없이 배치 상태를 해제했다.\n한편 이날 결혼식을 올린 권씨는 영화 ‘친구’의 실제 모델인 조직원 정모 씨와 함께 곽경택 감독을 협박해 징역 3년을 선고받은 인물이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 도심에서 폭력조직 칠성파 간부의 결혼식이 열려 경찰 인력이 대거 배치되는 상황이 벌어졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 송파경찰서는 전날인 2일 오후 5시 서울 송파구 잠실동 소재 한 호텔에서 부산 기반의 유명 폭력조직인 칠성파의 행동대장 권모(56)씨가 결혼식을 올렸다고 전했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권 씨의 결혼을 축하하기 위해 조폭계 원로인 ‘신상사파’ 두목 신상현 씨를 비롯해 전국 각지의 조직폭력배 두목급 인사들이 집결한 것으로 알려졌다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 결혼식은 250여 명의 하객이 참석한 가운데 호화롭게 치러졌으며 유명 연예인이 결혼식 사회와 축가를 맡았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경찰은 만약의 충돌사태를 대비해 결혼식이 종료된 오후 8시께까지 60여명의 경찰 인력을 현장 및 인근에 배치했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰에 따르면 이날 결혼식은 별도의 충돌 없이 끝났으며, 결혼식에 참석한 칠성파 조직원들은 식 종료 직후 부산으로 돌아갔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경찰 역시 대법원 판례에 따라 공포심 조장 등 특이사항이 없다는 점을 파악 후 별도 조치 없이 배치 상태를 해제했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이날 결혼식을 올린 권씨는 영화 ‘친구’의 실제 모델인 조직원 정모 씨와 함께 곽경택 감독을 협박해 징역 3년을 선고받은 인물이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "칠성파 행동대장 호화 결혼식, 알고보니 과거 곽경택 감독 협박",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

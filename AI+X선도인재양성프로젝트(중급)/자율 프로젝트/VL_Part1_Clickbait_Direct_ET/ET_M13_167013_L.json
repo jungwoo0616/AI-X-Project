@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167013",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "남우현 미니4집 프리뷰 공개",
+    "newsSubTitle": "",
+    "newsContent": "그룹 인피니트(INFINITE) 남우현이 ‘귀 호강’을 예고했다.\n소속사 울림엔터테인먼트는 지난 14일 오후 6시 공식 유튜브 채널을 통해 남우현 미니 4집 ‘위드’(With) 프리뷰 영상을 공개했다.\n영상에는 남우현의 다양한 이미지와 함께 ‘위드’에 수록된 곡들의 음원 일부가 흘러나와 이목을 모았다.\n인트로 ‘위드’를 시작으로 타이틀곡 ‘냉정과 열정 사이’, ‘론리 나이트’(Lonely Night), ‘오늘따라 (My Diary)’, ‘얼론(Alone)’, ‘어 송 포 유’(A Song For You)까지, 다채로운 장르의 6곡은 ‘역대급 명반’의 탄생을 기대하게 했다.\n타이틀곡 ‘냉정과 열정 사이’는 몽환적인 분위기의 R&B 팝 장르로 무게감 있는 베이스라인과 간결하면서도 센티멘털한 비트, 남우현의 절제된 보컬이 특징이다.\n사랑과 그로 인해 발생한 내면의 사유를 ‘냉정을 가장한 열정의 모습’으로 표현했다.\n이와 더불어 남우현은 ‘냉정과 열정 사이’, ‘얼론’의 작사, ‘어 송 포 유’의 작곡, 작사에 참여해 자신만의 색깔을 더했다.\n한편 남우현의 네 번째 미니 앨범 ‘위드’는 오는 19일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 인피니트(INFINITE) 남우현이 ‘귀 호강’을 예고했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 울림엔터테인먼트는 지난 14일 오후 6시 공식 유튜브 채널을 통해 남우현 미니 4집 ‘위드’(With) 프리뷰 영상을 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에는 남우현의 다양한 이미지와 함께 ‘위드’에 수록된 곡들의 음원 일부가 흘러나와 이목을 모았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "인트로 ‘위드’를 시작으로 타이틀곡 ‘냉정과 열정 사이’, ‘론리 나이트’(Lonely Night), ‘오늘따라 (My Diary)’, ‘얼론(Alone)’, ‘어 송 포 유’(A Song For You)까지, 다채로운 장르의 6곡은 ‘역대급 명반’의 탄생을 기대하게 했다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡 ‘냉정과 열정 사이’는 몽환적인 분위기의 R&B 팝 장르로 무게감 있는 베이스라인과 간결하면서도 센티멘털한 비트, 남우현의 절제된 보컬이 특징이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사랑과 그로 인해 발생한 내면의 사유를 ‘냉정을 가장한 열정의 모습’으로 표현했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이와 더불어 남우현은 ‘냉정과 열정 사이’, ‘얼론’의 작사, ‘어 송 포 유’의 작곡, 작사에 참여해 자신만의 색깔을 더했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 남우현의 네 번째 미니 앨범 ‘위드’는 오는 19일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'귀 호강' 예고한 남우현의 미니 4집의 매력 포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266496",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘복면가왕’ 이도진, 폭풍 리액션 흥폭발",
+		"newsSubTitle": "",
+		"newsContent": "가수 이도진 ‘복면가왕’에서 폭풍 리액션을 선사했다.\n이도진은 10일 오후 방송된 MBC ‘복면가왕’에서 판정단으로 참석했다.\n이날 이도진은 무대에 오른 가수들을 향해 아낌없는 환호와 응원, 격려의 리액션을 선사하며 판정단의 한 축으로 분위기를 이끌었다.\n특히 1라운드에서 ‘1%의영감’이 캔의 ‘내게도 사랑이’를 선곡해 흥 넘치는 무대를 선사하자 이도진은 누구보다 무대를 즐겁게 관람하며 하트로 보답하는 이도진은 흥과 에너지를 발산하며 무대를 진심으로 즐기는 모습을 보였다.\n또한 가수들에게 진정성 넘치는 응원의 반응을 보였다.\n한편 이도진은 최근 해금과 가야금 선율이 두드러진 국악풍 트로트 장르 ‘그대 내게 다시 올까요’를 발매하고 활발히 활동을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이도진 ‘복면가왕’에서 폭풍 리액션을 선사했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이도진은 10일 오후 방송된 MBC ‘복면가왕’에서 판정단으로 참석했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이도진은 무대에 오른 가수들을 향해 아낌없는 환호와 응원, 격려의 리액션을 선사하며 판정단의 한 축으로 분위기를 이끌었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 1라운드에서 ‘1%의영감’이 캔의 ‘내게도 사랑이’를 선곡해 흥 넘치는 무대를 선사하자 이도진은 누구보다 무대를 즐겁게 관람하며 하트로 보답하는 이도진은 흥과 에너지를 발산하며 무대를 진심으로 즐기는 모습을 보였다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 가수들에게 진정성 넘치는 응원의 반응을 보였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이도진은 최근 해금과 가야금 선율이 두드러진 국악풍 트로트 장르 ‘그대 내게 다시 올까요’를 발매하고 활발히 활동을 이어가고 있다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘복면가왕’ 이도진, 폭풍 리액션 흥폭발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

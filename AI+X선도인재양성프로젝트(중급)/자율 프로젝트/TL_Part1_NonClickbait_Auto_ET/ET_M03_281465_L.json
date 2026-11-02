@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281465",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'김용준 열애' 박혜원, 파격 수영복입고 뒤태 공개… \\\"몸매까지 완벽?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 박혜원이 SG워너비 김용준의 새 연인으로 밝혀진 가운데 그녀의 SNS 사진이 눈길을 끌고 있다.\n박혜원은 최근 자신의 인스타그램에 \\\"sexy back\\\"라는 글과 함께 사진 한 장을 게재했다.\n공개된 사진 속 박혜원은 등이 훤히 보이는 수영복을 입은채 아름다운 뒤태를 과시하고 있다.\n특히 매끈한 등과 군살 없는 각선미를 자랑해 화제가 됐다.\n한편 김용준 소속사 CJ E&M 관계자는 10일 \\\"김용준의 여자친구는 모델 겸 배우 박혜원이 맞다. 현재 연예계에서 일하고 있지 않고 향후 활동 계획에 대해서도 알고 있는 게 없어 조심스러운 상황이다. 사실상 일반인이다\\\"고 밝혔다.\n온라인 중앙일보 [사진=박혜원 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박혜원이 SG워너비 김용준의 새 연인으로 밝혀진 가운데 그녀의 SNS 사진이 눈길을 끌고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박혜원은 최근 자신의 인스타그램에 \\\"sexy back\\\"라는 글과 함께 사진 한 장을 게재했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 박혜원은 등이 훤히 보이는 수영복을 입은채 아름다운 뒤태를 과시하고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 매끈한 등과 군살 없는 각선미를 자랑해 화제가 됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김용준 소속사 CJ E&M 관계자는 10일 \\\"김용준의 여자친구는 모델 겸 배우 박혜원이 맞다. 현재 연예계에서 일하고 있지 않고 향후 활동 계획에 대해서도 알고 있는 게 없어 조심스러운 상황이다. 사실상 일반인이다\\\"고 밝혔다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진=박혜원 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'김용준 열애' 박혜원, 파격 수영복입고 뒤태 공개… \\\"몸매까지 완벽?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

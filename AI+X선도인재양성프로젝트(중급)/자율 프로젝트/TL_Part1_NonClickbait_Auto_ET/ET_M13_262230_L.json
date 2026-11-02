@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262230",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "정형돈이 경찰서 찾아 자수한 까닭",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 정형돈이 운전 중 휴대전화를 사용한 것에 대해 스스로 ‘자진납세’를 했다.\n최근 정형돈의 유튜브 채널 ‘정형돈의 제목없음TV’에는 정형돈이 울산의 교통 상황을 체감해보기 위해 직접 운전을 하는 모습이 담긴 영상이 게재됐다.\n공개된 영상에서 정형돈은 운전을 하면서 한 손으로 휴대전화를 들고 통화를 했다.\n영상에서 정형돈은 교통이 혼잡하기로 유명한 울산의 3대 로터리를 운전했다.\n그 과정에서 정형돈은 한 시민과 통화를 시도했다.\n영상은 전화를 끊자마자 “잠깐” “운전중” “핸드폰 사용” “명백한 불법!”이라는 큰 글씨의 자막이 떴고, 또한 “합당한 처벌을 받겠습니다”라는 정형돈의 이름이 담긴 자막도 올라왔다.\n이어 해당 채널 공지에는 “영상 내용 중 한 손으로 핸드폰을 든 채로 스피커폰 통화 인터뷰 장면이 위법 사항으로 판단돼 직접 경찰서로 가서 자수 할 예정”이라며 “저희 ‘제목없음TV’는 교통 법규 콘텐츠에서 앞으로 더욱 신중히 행동하도록 하겠다, 죄송하다”는 사과 글을 올리기도 했다.\n한편 도로교통법 제49조에 따르면 운전 중 휴대전화 사용은 불법이다.\n적발 시 벌점 15점 부과와 승합차 7만원, 승용차 6만원, 이륜차 4만원의 범칙금이 부과된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 정형돈이 운전 중 휴대전화를 사용한 것에 대해 스스로 ‘자진납세’를 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 정형돈의 유튜브 채널 ‘정형돈의 제목없음TV’에는 정형돈이 울산의 교통 상황을 체감해보기 위해 직접 운전을 하는 모습이 담긴 영상이 게재됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에서 정형돈은 운전을 하면서 한 손으로 휴대전화를 들고 통화를 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상에서 정형돈은 교통이 혼잡하기로 유명한 울산의 3대 로터리를 운전했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 과정에서 정형돈은 한 시민과 통화를 시도했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영상은 전화를 끊자마자 “잠깐” “운전중” “핸드폰 사용” “명백한 불법!”이라는 큰 글씨의 자막이 떴고, 또한 “합당한 처벌을 받겠습니다”라는 정형돈의 이름이 담긴 자막도 올라왔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 해당 채널 공지에는 “영상 내용 중 한 손으로 핸드폰을 든 채로 스피커폰 통화 인터뷰 장면이 위법 사항으로 판단돼 직접 경찰서로 가서 자수 할 예정”이라며 “저희 ‘제목없음TV’는 교통 법규 콘텐츠에서 앞으로 더욱 신중히 행동하도록 하겠다, 죄송하다”는 사과 글을 올리기도 했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 도로교통법 제49조에 따르면 운전 중 휴대전화 사용은 불법이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "적발 시 벌점 15점 부과와 승합차 7만원, 승용차 6만원, 이륜차 4만원의 범칙금이 부과된다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정형돈이 경찰서 찾아 자수한 까닭",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

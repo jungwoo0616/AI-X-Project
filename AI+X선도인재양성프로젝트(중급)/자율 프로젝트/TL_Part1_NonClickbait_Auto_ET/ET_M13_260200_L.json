@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260200",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[단독] 이희준, ‘황야’ 출연…마동석과 뭉친다",
+		"newsSubTitle": "",
+		"newsContent": "배우 이희준이 영화 ‘황야’(가제)에 출연한다. 7일 스포츠경향 취재 결과 이희준은 마동석, 노정의, 이준영 등이 합류한 ‘황야’에 출연을 결정했다. ‘황야’는 ‘콘크리트 유토피아’의 세계관을 이어받는 작품이다.\n애초 ‘콘크리트 킹덤’ ‘콘크리트 유토피아2’ 등으로 불리기도 했다. ‘콘트리트 유토피아’는 김숭늉 작가의 웹툰 ‘유쾌한 왕따’의 2부 ‘유쾌한 이웃’을 원작을 바탕으로, 대지진 탓에 폐허가 된 서울에서 유일하게 남은 황궁아파트로 사람들이 모여들면서 벌어지는 일을 그린다. 1편에선 엄태화 감독과 이병헌, 박서준, 박보영, 박지후 등이 뭉쳐 지난해 촬영을 마쳤다. ‘황야’는 이 세계관을 잇는 작품으로 허명행 무술감독이 처음 메가폰을 잡는다.\n마동석, 노정의, 이준영 등이 이희준과 함께 합을 맞춘다.\n이희준과 마동석은 2013년 영화 ‘감기’서 호흡을 맞춘 바 있다.\n그동안 ‘남산의 부장들’ ‘미쓰백’ ‘1987’ 등에서 명품 연기력을 보여준 그가 마동석과 어떤 시너지 효과를 낼지 관심이 쏠린다. ‘황야’는 올 상반기 촬영을 목표로 하고 있다.\n한편 이희준은 현재 서경대학교 공연예술센터에서 상연되는 연극 ‘그때도 오늘’에서 열연을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이희준이 영화 ‘황야’(가제)에 출연한다. 7일 스포츠경향 취재 결과 이희준은 마동석, 노정의, 이준영 등이 합류한 ‘황야’에 출연을 결정했다. ‘황야’는 ‘콘크리트 유토피아’의 세계관을 이어받는 작품이다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애초 ‘콘크리트 킹덤’ ‘콘크리트 유토피아2’ 등으로 불리기도 했다. ‘콘트리트 유토피아’는 김숭늉 작가의 웹툰 ‘유쾌한 왕따’의 2부 ‘유쾌한 이웃’을 원작을 바탕으로, 대지진 탓에 폐허가 된 서울에서 유일하게 남은 황궁아파트로 사람들이 모여들면서 벌어지는 일을 그린다. 1편에선 엄태화 감독과 이병헌, 박서준, 박보영, 박지후 등이 뭉쳐 지난해 촬영을 마쳤다. ‘황야’는 이 세계관을 잇는 작품으로 허명행 무술감독이 처음 메가폰을 잡는다.",
+				"sentenceSize": 247
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마동석, 노정의, 이준영 등이 이희준과 함께 합을 맞춘다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이희준과 마동석은 2013년 영화 ‘감기’서 호흡을 맞춘 바 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그동안 ‘남산의 부장들’ ‘미쓰백’ ‘1987’ 등에서 명품 연기력을 보여준 그가 마동석과 어떤 시너지 효과를 낼지 관심이 쏠린다. ‘황야’는 올 상반기 촬영을 목표로 하고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이희준은 현재 서경대학교 공연예술센터에서 상연되는 연극 ‘그때도 오늘’에서 열연을 펼치고 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독] 이희준, ‘황야’ 출연…마동석과 뭉친다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

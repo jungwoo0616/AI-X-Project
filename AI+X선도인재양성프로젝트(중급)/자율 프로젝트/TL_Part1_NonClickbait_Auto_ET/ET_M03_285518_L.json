@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285518",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[화보]현아 vs 보라 '과도한 노출 경쟁'",
+		"newsSubTitle": "",
+		"newsContent": "패션쇼를 찾은 여자 연예인들의 과감한 노출이 화제를 모으고 있다.\n걸그룹 대표 섹시 아이콘 현아와 보라가 그 주인공. 두 사람은 어깨와 등, 다리가 완전히 노출되는 과감한 의상을 입고 현장에 참석해 시선을 사로 잡았다.\n21일 오후 서울 종로구 JW메리어트 동대문에서 맥앤로건(MAG&LOGAN) 16 S/S 컬렉션 기념 포토월 행사가 열렸다.\n이날 가장 핫 한 노출을 선보인 건 현아와 보라였다.\n현아는 어깨가 완전히 드러나는 상의에 초미니스커트로 과감한 노출을 시도 섹시한 이미지를 한껏 발산했다.\n보라는 뒤태가 노출되는 시스루 상의에 핫팬츠로 과감함을 더했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "패션쇼를 찾은 여자 연예인들의 과감한 노출이 화제를 모으고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "걸그룹 대표 섹시 아이콘 현아와 보라가 그 주인공. 두 사람은 어깨와 등, 다리가 완전히 노출되는 과감한 의상을 입고 현장에 참석해 시선을 사로 잡았다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일 오후 서울 종로구 JW메리어트 동대문에서 맥앤로건(MAG&LOGAN) 16 S/S 컬렉션 기념 포토월 행사가 열렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 가장 핫 한 노출을 선보인 건 현아와 보라였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현아는 어깨가 완전히 드러나는 상의에 초미니스커트로 과감한 노출을 시도 섹시한 이미지를 한껏 발산했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보라는 뒤태가 노출되는 시스루 상의에 핫팬츠로 과감함을 더했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[화보]현아 vs 보라 '과도한 노출 경쟁'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

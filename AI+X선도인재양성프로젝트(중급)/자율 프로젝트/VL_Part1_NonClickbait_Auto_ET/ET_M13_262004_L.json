@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262004",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘모럴센스’ 이준영 돌파감염, 촬영일정 전면 중단",
+		"newsSubTitle": "",
+		"newsContent": "배우 이준영이 코로나19 확진 판정을 받았다.\n이준영 소속사 제이플랙스는 24일 입장을 내고 “이준영은 22일 오후 스케줄을 앞두고 선제적으로 진행한 자가진단키트 검사에서 양성 반응을 확인했다”며 “곧바로 진행한 PCR(유전자증폭) 검사를 진행했고 23일 오후 최종 양성 판정을 받았다”고 밝혔다.\n소속사에 따르면 이준영 역시 코로나19 백신 2차 접종을 완료한 상태였으나 돌파감염됐다.\n그는 현재 특별한 증상은 없는 것으로도 전해졌다.\n소속사는 “이준영이 조속히 건강을 회복할 수 있도록 최선을 다해 지원할 예정”이라며 “많은 분들께 심려를 끼쳐 죄송하다”라고 했다.\n이준영은 최근 넷플릭스 영화 ‘모럴센스’에서 서현과 호흡을 맞추며 눈길을 끌고 있는 배우다.\n지난해 말부터 신혜선과 함께 영화 ‘용감한 시민’을 촬영 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이준영이 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이준영 소속사 제이플랙스는 24일 입장을 내고 “이준영은 22일 오후 스케줄을 앞두고 선제적으로 진행한 자가진단키트 검사에서 양성 반응을 확인했다”며 “곧바로 진행한 PCR(유전자증폭) 검사를 진행했고 23일 오후 최종 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 이준영 역시 코로나19 백신 2차 접종을 완료한 상태였으나 돌파감염됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 현재 특별한 증상은 없는 것으로도 전해졌다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 “이준영이 조속히 건강을 회복할 수 있도록 최선을 다해 지원할 예정”이라며 “많은 분들께 심려를 끼쳐 죄송하다”라고 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이준영은 최근 넷플릭스 영화 ‘모럴센스’에서 서현과 호흡을 맞추며 눈길을 끌고 있는 배우다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 말부터 신혜선과 함께 영화 ‘용감한 시민’을 촬영 중이다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘모럴센스’ 이준영 돌파감염, 촬영일정 전면 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

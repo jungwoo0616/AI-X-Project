@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171136",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘놀라운 토요일’ 코드 쿤스트 “넉살, ‘쇼미’부터 이미 완성형” 극찬",
+    "newsSubTitle": "",
+    "newsContent": "‘놀라운 토요일’ 코드 쿤스트가 넉살을 극찬했다.\n11일 오후 방송된 tvN ‘놀라운 토요일’에서는 개코와 코드 쿤스트가 게스트로 출연했다.\n이날 대한민국 3대 코 중 중간 형 개코는 “분위기 좀 녹일 때, 어색할 때 3대 코 멘트를 써먹었다”라고 밝혔다.\n이에 신동엽은 “최백호 선배님도 행사장에서 ‘맏형 최백호입니다’라고 한다”라고 폭로했다.\n코드 쿤스트는 지난 출연을 떠올리며 “바나나가 너무 맛있었다. 너무 재미있었다. 대활약”이라며 자기애를 폭발시켰다.\n개코는 “저희 노래가 많이 나온 것 알고 있다. 최근 ‘될 대로 되라고 해’가 나왔는데 너무 빨리 맞혀서 아쉬웠다”라고 밝혔다. ‘쇼미 더 머니’ 프로듀싱만 세 번째인 코드 쿤스트는 ‘아무리 눈 씻고 찾아봐도 넉살을 뛰어넘는 실력자는 안 나온 것 같다’라고 말해 넉살을 기쁘게 했다.\n그는 “‘쇼미 더 머니’는 완성형 참가자보다 발전하려는 참가자들이 많이 나온다. 넉살은 이미 완성 돼 있었다. 더 발전할 곳이 없다”라고 극찬했다.\n한편 tvN ‘놀라운 토요일’은 매주 토요일 오후 7시 40분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘놀라운 토요일’ 코드 쿤스트가 넉살을 극찬했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 오후 방송된 tvN ‘놀라운 토요일’에서는 개코와 코드 쿤스트가 게스트로 출연했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 대한민국 3대 코 중 중간 형 개코는 “분위기 좀 녹일 때, 어색할 때 3대 코 멘트를 써먹었다”라고 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 신동엽은 “최백호 선배님도 행사장에서 ‘맏형 최백호입니다’라고 한다”라고 폭로했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "코드 쿤스트는 지난 출연을 떠올리며 “바나나가 너무 맛있었다. 너무 재미있었다. 대활약”이라며 자기애를 폭발시켰다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개코는 “저희 노래가 많이 나온 것 알고 있다. 최근 ‘될 대로 되라고 해’가 나왔는데 너무 빨리 맞혀서 아쉬웠다”라고 밝혔다. ‘쇼미 더 머니’ 프로듀싱만 세 번째인 코드 쿤스트는 ‘아무리 눈 씻고 찾아봐도 넉살을 뛰어넘는 실력자는 안 나온 것 같다’라고 말해 넉살을 기쁘게 했다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 “‘쇼미 더 머니’는 완성형 참가자보다 발전하려는 참가자들이 많이 나온다. 넉살은 이미 완성 돼 있었다. 더 발전할 곳이 없다”라고 극찬했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 tvN ‘놀라운 토요일’은 매주 토요일 오후 7시 40분에 방송된다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코드 쿤스트, \"'이 사람' 뛰어넘을 실력자는 안 나왔다\" 극찬 일색",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

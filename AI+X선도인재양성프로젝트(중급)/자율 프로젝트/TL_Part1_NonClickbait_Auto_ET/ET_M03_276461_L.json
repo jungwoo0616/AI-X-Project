@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276461",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"이렇게까지 하고 싶지 않았는데\\\" 김정민이 공개한 손태영 문자 메시지",
+		"newsSubTitle": "",
+		"newsContent": "커피스미스 손태영 대표가 김정민에게 보낸 문자 메시지가 공개됐다.\n24일 방송된 채널A '풍문쇼'에서는 최근 법적 공방으로 치달은 김정민과 손 대표의 논란이 언급, 김정민이 손 대표로부터 받은 메시지가 공개됐다.\n공개된 메시지에서 손 대표는 \\\"이렇게까지 하고 싶지 않았는데, 네가 오늘 하는 것 보니 모든 것이 다시 정리된다\\\"며 \\\"소송은 시간도 걸리고 바로 끝장나는 것으로 가자. 나도 그렇게까지 하고 더 살고 싶은 마음도 없고 알아서 하고 알아서 가마\\\"라고 했다.\n이어 \\\"잘살아 봐 개쪽당하면서. 내 얘기 계속 무시하는데 1시간 후에 꼭 인터넷 봐라. 전화기 꺼놓고 자고. X 같은 것 너 죽고 나 죽자. 기대해 내일 돈 다시 들고 와서 눈물 흘리게 해주마\\\"라고 덧붙였다.\n손 대표는 지난 11일 공갈 및 공갈미수 혐의로 불구속기소 됐다.\n2013년 7월부터 교제한 김정민이 헤어지자고 하자 언론에 사생활을 폭로하거나 동영상을 유포하겠다고 협박해 현금 1억 6000만원과 물품을 갈취한 혐의다.\n손 대표는 이후 자신이 김정민에게 쇼핑 비용부터 생활ㆍ이사 비용은 물론 월세 등을 지원한 금액이 20억 원에 이른다고 주장하며 김정민을 혼인빙자사기로 민사소송을 청구했다.\n이와 관련해 본지는 손 대표의 입장을 듣기 위해 휴대전화 통화를 시도했지만 받지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "커피스미스 손태영 대표가 김정민에게 보낸 문자 메시지가 공개됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 방송된 채널A '풍문쇼'에서는 최근 법적 공방으로 치달은 김정민과 손 대표의 논란이 언급, 김정민이 손 대표로부터 받은 메시지가 공개됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 메시지에서 손 대표는 \\\"이렇게까지 하고 싶지 않았는데, 네가 오늘 하는 것 보니 모든 것이 다시 정리된다\\\"며 \\\"소송은 시간도 걸리고 바로 끝장나는 것으로 가자. 나도 그렇게까지 하고 더 살고 싶은 마음도 없고 알아서 하고 알아서 가마\\\"라고 했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"잘살아 봐 개쪽당하면서. 내 얘기 계속 무시하는데 1시간 후에 꼭 인터넷 봐라. 전화기 꺼놓고 자고. X 같은 것 너 죽고 나 죽자. 기대해 내일 돈 다시 들고 와서 눈물 흘리게 해주마\\\"라고 덧붙였다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손 대표는 지난 11일 공갈 및 공갈미수 혐의로 불구속기소 됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2013년 7월부터 교제한 김정민이 헤어지자고 하자 언론에 사생활을 폭로하거나 동영상을 유포하겠다고 협박해 현금 1억 6000만원과 물품을 갈취한 혐의다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손 대표는 이후 자신이 김정민에게 쇼핑 비용부터 생활ㆍ이사 비용은 물론 월세 등을 지원한 금액이 20억 원에 이른다고 주장하며 김정민을 혼인빙자사기로 민사소송을 청구했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이와 관련해 본지는 손 대표의 입장을 듣기 위해 휴대전화 통화를 시도했지만 받지 않았다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이렇게까지 하고 싶지 않았는데\\\" 김정민이 공개한 손태영 문자 메시지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

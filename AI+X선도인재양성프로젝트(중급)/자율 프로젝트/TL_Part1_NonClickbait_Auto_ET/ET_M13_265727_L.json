@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265727",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "션, 러닝 크루 새 회원 박보검·진태현 영입",
+		"newsSubTitle": "",
+		"newsContent": "가수 션이 러닝 크루에 새로운 멤버 박보검과 진태현을 영입했다.\n션은 2일 자신의 사회관계망서비스(SNS) 인스타그램에 “오리엔테이션 10km 런 우리 멤버 모두 화이팅!”이라는 글과 사진을 게재했다.\n또 션은 ‘아직도 이름 못 정한 러닝 크루’, ‘새로운 멤버 영입’, ‘박보검·진태현’ 해시태그를 붙여 러닝 크루 새 멤버를 소개했다.\n션은 새 러닝 크루 멤버 박보검, 진태현과 함께 마스크를 쓴 채 포즈를 취한 셀피를 올렸다.\n특히 전역을 앞두고 조용히 보낼 것이라는 박보검의 근황에 많은 팬이 반가움을 표했다.\n션의 두 사람 이외에도 이영표, 이시영, 조원희, 최시원, 임시완, 장호준, 윤세아 등을 태그함으로써 멤버임을 알렸다.\n션은 “우리는 ‘선’ 한마음으로 ‘건’ 강한 삶을 위해서 ‘런’ 한다!”고 러닝 크루의 취지를 전했다.\n한편 박보검은 지난 2020년 8월 해군에 입대해 지난 2월 24일 마지막 휴가를 나왔으며, 4월 30일 미복귀 전역을 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 션이 러닝 크루에 새로운 멤버 박보검과 진태현을 영입했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "션은 2일 자신의 사회관계망서비스(SNS) 인스타그램에 “오리엔테이션 10km 런 우리 멤버 모두 화이팅!”이라는 글과 사진을 게재했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 션은 ‘아직도 이름 못 정한 러닝 크루’, ‘새로운 멤버 영입’, ‘박보검·진태현’ 해시태그를 붙여 러닝 크루 새 멤버를 소개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "션은 새 러닝 크루 멤버 박보검, 진태현과 함께 마스크를 쓴 채 포즈를 취한 셀피를 올렸다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 전역을 앞두고 조용히 보낼 것이라는 박보검의 근황에 많은 팬이 반가움을 표했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "션의 두 사람 이외에도 이영표, 이시영, 조원희, 최시원, 임시완, 장호준, 윤세아 등을 태그함으로써 멤버임을 알렸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "션은 “우리는 ‘선’ 한마음으로 ‘건’ 강한 삶을 위해서 ‘런’ 한다!”고 러닝 크루의 취지를 전했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 박보검은 지난 2020년 8월 해군에 입대해 지난 2월 24일 마지막 휴가를 나왔으며, 4월 30일 미복귀 전역을 한다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "션, 러닝 크루 새 회원 박보검·진태현 영입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268306",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "산다라박, 파격 로우라이즈도 완벽 소화",
+		"newsSubTitle": "",
+		"newsContent": "가수 산다라박이 근황을 전했다.\n산다라박은 26일 자신의 사회관계망서비스(SNS) 인스타그램에 “Dara in LA(다라 인 엘에이)”라는 글과 함께 사진 여러 장을 게시했다.\n사진 속 산다라박은 잔디밭에서 포즈를 취하고 있다.\n특히 그는 속옷이 드러나는 로우라이즈 패션을 과감히 소화해 눈길을 끈다.\n누리꾼들은 해당 사진에 “표정이 치명적이다” “너무 예쁘다” “오늘의 패션은 정말 마음에 든다”며 긍정적인 반응을 보였다.\n한편 산다라박은 최근 미국 최대 음악 축제 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌’에 2NE1 멤버로 참석, 약 6년 만의 완전체 무대를 선보여 많은 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 산다라박이 근황을 전했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "산다라박은 26일 자신의 사회관계망서비스(SNS) 인스타그램에 “Dara in LA(다라 인 엘에이)”라는 글과 함께 사진 여러 장을 게시했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 산다라박은 잔디밭에서 포즈를 취하고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 그는 속옷이 드러나는 로우라이즈 패션을 과감히 소화해 눈길을 끈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 해당 사진에 “표정이 치명적이다” “너무 예쁘다” “오늘의 패션은 정말 마음에 든다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 산다라박은 최근 미국 최대 음악 축제 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌’에 2NE1 멤버로 참석, 약 6년 만의 완전체 무대를 선보여 많은 화제를 모았다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "산다라박, 파격 로우라이즈도 완벽 소화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

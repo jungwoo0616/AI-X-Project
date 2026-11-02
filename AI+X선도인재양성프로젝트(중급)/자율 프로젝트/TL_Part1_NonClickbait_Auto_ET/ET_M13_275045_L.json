@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275045",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "“신용불량자였어요” 지연수의 가난고백(자본주의학교)",
+		"newsSubTitle": "",
+		"newsContent": "모델 출신 방송인 지연수가 ‘자본주의 식당’을 오픈한다.\nKBS2 예능 프로그램 ‘자본주의학교’는 창업주에 지원하기 위해 제작진을 찾은 지연수, 유키스 수현, 유키스 훈, 강재준의 모습이 담긴 예고편 영상을 공개했다.\n이들이 출연하는 ‘자본주의학교’는 오는 10일 방송된다.\n오픈 예고 영상에서는 식 마스터 김현준과 예비 창업자들이 모여 모처의 식당을 찾는다.\n강재준은 최근 식당을 폐업한 뼈아픈 경험이 있는 상태였다.\n유키스 수현과 훈이 함께 식당에 들어서는 모습으로 등장해 경쟁을 예고했다.\n지연수가 의자에 앉아 고백하는 모습도 포함됐다.\n그는 “신용불량자였다. 그래서 내가 선택할 수 있는 것이 없다”고 말해 자신의 간절함을 표현하기도 했다.\n제작진은 “‘자본주의식당’으로 실패하지 않고 창업하는 노하우를 전수받는 과정을 리얼하게 보여줄 예정”이라며 “각자 다양한 사연을 갖고 찾아오는 젊은 창업 후보자 중에 누가 선정될지 애정으로 지켜봐달라”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 출신 방송인 지연수가 ‘자본주의 식당’을 오픈한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS2 예능 프로그램 ‘자본주의학교’는 창업주에 지원하기 위해 제작진을 찾은 지연수, 유키스 수현, 유키스 훈, 강재준의 모습이 담긴 예고편 영상을 공개했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들이 출연하는 ‘자본주의학교’는 오는 10일 방송된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오픈 예고 영상에서는 식 마스터 김현준과 예비 창업자들이 모여 모처의 식당을 찾는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강재준은 최근 식당을 폐업한 뼈아픈 경험이 있는 상태였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유키스 수현과 훈이 함께 식당에 들어서는 모습으로 등장해 경쟁을 예고했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지연수가 의자에 앉아 고백하는 모습도 포함됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 “신용불량자였다. 그래서 내가 선택할 수 있는 것이 없다”고 말해 자신의 간절함을 표현하기도 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제작진은 “‘자본주의식당’으로 실패하지 않고 창업하는 노하우를 전수받는 과정을 리얼하게 보여줄 예정”이라며 “각자 다양한 사연을 갖고 찾아오는 젊은 창업 후보자 중에 누가 선정될지 애정으로 지켜봐달라”고 말했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“신용불량자였어요” 지연수의 가난고백(자본주의학교)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

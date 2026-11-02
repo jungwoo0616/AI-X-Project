@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277895",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'PD 이경규가 간다' 끊임없이 도전하는 35년 예능 대부",
+		"newsSubTitle": "",
+		"newsContent": "이경규가 신입 PD로서의 각오를 전했다.\n이경규는 7일 오후 서울 영등포구 여의도동 여의도 IFC몰 CGV에서 열린 MBC에브리원 'PD 이경규가 간다' 제작발표회에 참석해 \\\"모든 PD를 벤치마킹 하겠다\\\"고 밝혔다.\n이경규는 \\\"저는 운 좋게도 훌륭한 PD들과 작업을 많이 했다\\\"며 \\\"송창의 PD, 김영희 PD, 신원호 PD와 작업을 했다. 나영석 PD만 못했다\\\"고 말했다.\n그는 \\\"가장 기억에 남는 PD는 동갑인 김영희 PD가 보고 싶고 생각이 많이 난다. '이경규가 간다', '양심냉장고' 등을 같이 했었기 때문에 많은 이야기를 나눴고, PD로 데뷔했다고 했을 때 반응이 궁금하다\\\"며 웃음을 보였다.\n신인 PD 이경규는 \\\"모든 PD의 좋은 점을 벤치마킹하려고 한다\\\"고 의지를 표현했다.\n온라인 중앙일보 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이경규가 신입 PD로서의 각오를 전했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이경규는 7일 오후 서울 영등포구 여의도동 여의도 IFC몰 CGV에서 열린 MBC에브리원 'PD 이경규가 간다' 제작발표회에 참석해 \\\"모든 PD를 벤치마킹 하겠다\\\"고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이경규는 \\\"저는 운 좋게도 훌륭한 PD들과 작업을 많이 했다\\\"며 \\\"송창의 PD, 김영희 PD, 신원호 PD와 작업을 했다. 나영석 PD만 못했다\\\"고 말했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"가장 기억에 남는 PD는 동갑인 김영희 PD가 보고 싶고 생각이 많이 난다. '이경규가 간다', '양심냉장고' 등을 같이 했었기 때문에 많은 이야기를 나눴고, PD로 데뷔했다고 했을 때 반응이 궁금하다\\\"며 웃음을 보였다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신인 PD 이경규는 \\\"모든 PD의 좋은 점을 벤치마킹하려고 한다\\\"고 의지를 표현했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠]",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'PD 이경규가 간다' 끊임없이 도전하는 35년 예능 대부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

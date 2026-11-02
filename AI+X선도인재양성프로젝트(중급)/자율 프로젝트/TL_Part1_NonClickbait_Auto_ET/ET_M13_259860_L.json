@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259860",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정상수 ‘턱스크’ 활보하다 방역법 위반 고발당해",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 정상수가 방역수칙 위반으로 고발 당했다.\n정상수를 방역법 위반 등으로 고발한 A씨는 정상수가 롯데월드 실내 공간 내에서 턱에 마스크를 걸친 사진을 올리며 “마스크를 턱에 쓰고 유튜브 촬영을 한 정상수를 방역법 위반으로 신고한다”고 했다.\n해당 고발 민원은 서울송파경찰서에서 접수했다.\n정상수는 최근 롯데월드를 찾아 콘텐츠 촬영을 진행했다.\n다만 정상수의 해당 모습을 담은 타 동영상 등에는 정상수가 온전히 마스크를 착용하고 있는 모습이 담겼다.\n엠넷 오디션 프로그램 ‘쇼미더머니’ 출연자인 정상수는 주취폭력 등 각종 사건을 일으켜 논란이 된 인물이다.\n이후 개인방송을 하며 인터넷 ‘밈’으로 떠오르며 젊은 층들에게 인기를 누렸고 최근 굿즈 등을 출시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 정상수가 방역수칙 위반으로 고발 당했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정상수를 방역법 위반 등으로 고발한 A씨는 정상수가 롯데월드 실내 공간 내에서 턱에 마스크를 걸친 사진을 올리며 “마스크를 턱에 쓰고 유튜브 촬영을 한 정상수를 방역법 위반으로 신고한다”고 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 고발 민원은 서울송파경찰서에서 접수했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정상수는 최근 롯데월드를 찾아 콘텐츠 촬영을 진행했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 정상수의 해당 모습을 담은 타 동영상 등에는 정상수가 온전히 마스크를 착용하고 있는 모습이 담겼다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엠넷 오디션 프로그램 ‘쇼미더머니’ 출연자인 정상수는 주취폭력 등 각종 사건을 일으켜 논란이 된 인물이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 개인방송을 하며 인터넷 ‘밈’으로 떠오르며 젊은 층들에게 인기를 누렸고 최근 굿즈 등을 출시했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정상수 ‘턱스크’ 활보하다 방역법 위반 고발당해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

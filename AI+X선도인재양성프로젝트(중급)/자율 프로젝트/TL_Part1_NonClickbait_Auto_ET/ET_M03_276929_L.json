@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276929",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "세인트루이스 오승환과 ‘찰칵’한 여배우 딸",
+		"newsSubTitle": "",
+		"newsContent": "미국 프로야구 세인트루이스 투수 오승환과 사진을 찍은 여배우 딸이 화제다.\n배우 서민정은 지난 17일 자신의 인스타그램에 자신의 딸 예진이 오승환과 찍은 사진을 올렸다.\n서민정은 “한국의 자랑스런 오승환 선수와 함께”라고 적었다.\n재미동포 치과의사와 결혼한 서민정은 현재 미국 뉴욕에 거주 중이다.\n지난 1월 MBC 예능프로그램 ‘라디오스타’에 전화로 출연하기도 했다.\n세인트루이스 소속 오승환은 이날 신시내티와 홈경기에서 8대 5로 끌려가던 7회 초 등판해 2이닝을 1피안타 2탈삼진 1볼넷 무실점으로 막았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 프로야구 세인트루이스 투수 오승환과 사진을 찍은 여배우 딸이 화제다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 서민정은 지난 17일 자신의 인스타그램에 자신의 딸 예진이 오승환과 찍은 사진을 올렸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서민정은 “한국의 자랑스런 오승환 선수와 함께”라고 적었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "재미동포 치과의사와 결혼한 서민정은 현재 미국 뉴욕에 거주 중이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 1월 MBC 예능프로그램 ‘라디오스타’에 전화로 출연하기도 했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세인트루이스 소속 오승환은 이날 신시내티와 홈경기에서 8대 5로 끌려가던 7회 초 등판해 2이닝을 1피안타 2탈삼진 1볼넷 무실점으로 막았다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세인트루이스 오승환과 ‘찰칵’한 여배우 딸",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

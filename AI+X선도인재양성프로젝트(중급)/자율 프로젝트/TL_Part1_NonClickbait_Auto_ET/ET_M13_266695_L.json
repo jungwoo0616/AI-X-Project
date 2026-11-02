@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266695",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "NFT 힙콩즈, 브레이브 엔터 전속계약",
+		"newsSubTitle": "",
+		"newsContent": "K팝 히트곡 메이커 용감한 형제의 프로듀싱을 받아 탄생한 NFT 힙콩즈가 브레이브 엔터테인먼트와 전속 계약을 체결했다.\n지난 11일, 브레이브 엔터테인먼트는 회사 홈페이지를 통해 브레이브콩즈 NFT 첫 번째 프로젝트 ‘힙콩즈’의 프로필을 게재했다.\n이어 금일, 보도자료를 통해 “지난 11일, 힙콩즈와 전속계약을 체결했다.”, “앞으로 K팝 문화를 블록체인 및 메타버스 세계에 알리고 향후 BMP 코인 생태계를 활성화시킬 수 있도록 힙콩즈에게 아낌없는 지원을 할 계획이다.”라고 전했다.\n힙콩즈는 메타콩즈가 브레이브 엔터테인먼트의 수장, 용감한 형제의 프로듀싱을 받아 힙합 가수로 데뷔한다는 내용의 NFT(PFP)프로젝트 중 하나로 올 봄, 음반 발매를 목표로 데뷔 준비에 박차를 가하고 있다.\n한편, 브레이브 엔터테인먼트는 힙콩즈와의 전속 계약 체결을 시작으로 또 다른 프로젝트를 통해 점차 글로벌 NFT 세계로까지 영역을 확장해 나갈 예정이다.\n자세한 내용은 브레이브콩즈 홈페이지를 통해 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "K팝 히트곡 메이커 용감한 형제의 프로듀싱을 받아 탄생한 NFT 힙콩즈가 브레이브 엔터테인먼트와 전속 계약을 체결했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 11일, 브레이브 엔터테인먼트는 회사 홈페이지를 통해 브레이브콩즈 NFT 첫 번째 프로젝트 ‘힙콩즈’의 프로필을 게재했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 금일, 보도자료를 통해 “지난 11일, 힙콩즈와 전속계약을 체결했다.”, “앞으로 K팝 문화를 블록체인 및 메타버스 세계에 알리고 향후 BMP 코인 생태계를 활성화시킬 수 있도록 힙콩즈에게 아낌없는 지원을 할 계획이다.”라고 전했다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "힙콩즈는 메타콩즈가 브레이브 엔터테인먼트의 수장, 용감한 형제의 프로듀싱을 받아 힙합 가수로 데뷔한다는 내용의 NFT(PFP)프로젝트 중 하나로 올 봄, 음반 발매를 목표로 데뷔 준비에 박차를 가하고 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 브레이브 엔터테인먼트는 힙콩즈와의 전속 계약 체결을 시작으로 또 다른 프로젝트를 통해 점차 글로벌 NFT 세계로까지 영역을 확장해 나갈 예정이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자세한 내용은 브레이브콩즈 홈페이지를 통해 확인 가능하다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "NFT 힙콩즈, 브레이브 엔터 전속계약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

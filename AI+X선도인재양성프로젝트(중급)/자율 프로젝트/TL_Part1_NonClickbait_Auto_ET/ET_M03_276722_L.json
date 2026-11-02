@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276722",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "다이어트 고충 털어놓은 '41kg' 박보영",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보영이 다이어트에 대한 고충을 털어놨다.\n박보영은 11일 네이버 브이앱에서 팬들이 실시간으로 올린 다양한 질문에 답하며 소통하는 시간을 가졌다.\n박보영은 이날 한 팬이 다이어트 비법을 묻자 \\\"비타민을 먹으면서 식이조절을 한다. 몸에 안 좋은 음식을 매일 먹지만 않으면 괜찮지 않을까\\\"라고 답했다.\n포털사이트에 제공된 박보영의 프로필에 따르면 그의 키는 158cm, 몸무게 41kg이다.\n그는 \\\"요즘에는 작품을 하지 않고 백수라서 조금 느슨하다\\\"며 \\\"사실 우리나라 기준이 너무 박하고 갈수록 심해진다. 연예인이 아닌 분들에게도 마름을 강요한다. 제 동생도 자기가 통통한 것 같다고 해서 속상하다\\\"고 털어놨다.\n이어 \\\"건강에 적신호가 올 정도의 체중만 아니라면 괜찮지 않을까. 저는 TV에 나오는 연예인이라서 관리를 열심히 하는 것\\\"이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보영이 다이어트에 대한 고충을 털어놨다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박보영은 11일 네이버 브이앱에서 팬들이 실시간으로 올린 다양한 질문에 답하며 소통하는 시간을 가졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박보영은 이날 한 팬이 다이어트 비법을 묻자 \\\"비타민을 먹으면서 식이조절을 한다. 몸에 안 좋은 음식을 매일 먹지만 않으면 괜찮지 않을까\\\"라고 답했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "포털사이트에 제공된 박보영의 프로필에 따르면 그의 키는 158cm, 몸무게 41kg이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 \\\"요즘에는 작품을 하지 않고 백수라서 조금 느슨하다\\\"며 \\\"사실 우리나라 기준이 너무 박하고 갈수록 심해진다. 연예인이 아닌 분들에게도 마름을 강요한다. 제 동생도 자기가 통통한 것 같다고 해서 속상하다\\\"고 털어놨다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"건강에 적신호가 올 정도의 체중만 아니라면 괜찮지 않을까. 저는 TV에 나오는 연예인이라서 관리를 열심히 하는 것\\\"이라고 덧붙였다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다이어트 고충 털어놓은 '41kg' 박보영",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

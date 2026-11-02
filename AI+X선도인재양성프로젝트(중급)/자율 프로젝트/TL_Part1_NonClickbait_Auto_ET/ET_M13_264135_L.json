@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264135",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘어서와’ 기욤×제레미×알레한드로, 시골 달밤 연주회",
+		"newsSubTitle": "",
+		"newsContent": "기욤과 뮤지션 친구들이 시골 로망 실현에 나선다. 17일 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에는 버클리 출신 드러머 기욤이 친구들과 촌캉스 여행을 떠나는 모습이 그려진다. 3인 3색 시골 로망 체험부터 침샘 폭발 먹방까지 다양한 재미를 선사할 예정이다.\n이날 방송에서는 기욤과 제레미, 알레한드로가 촌캉스의 로망을 실현할 마지막 밤을 준비한다.\n반나절 만에 시골 생활에 완벽 적응한 세 친구는 닭장 속 달걀 서리에 도전한다.\n수십 마리의 닭이 경계 태세를 선 긴장되는 상황에서 제레미가 암탉을 번쩍 들어 올려 큰 웃음을 안긴다.\n이날 세 친구가 실현한 첫 번째 로망은 자연 마당에서 함께하는 저녁 식사. 이들은 솥뚜껑 위에 삼겹살과 김치를 구워 완벽 비주얼 한 끼를 완성한다.\n또, 동네 주민이 선물한 냉이로 마음마저 배부른 먹방을 선보일 예정이다.\n밤이 깊어가자 세 친구는 촌캉스의 마무리로 즉흥 연주와 진심을 담은 노래를 시작한다.\n특히 이번 촌캉스를 통해 느낀 세 친구의 특별한 감정도 공개될 예정. 특히 제레미는 “계속 길에서 연주하고 싶다”라며 코로나로 인해 중단해야 했던 버스킹에 대한 안타까운 심정을 고백한다.\n세 친구의 진심이 담긴 노래는 3월 17일(목) 저녁 8시 30분 MBC에브리원 ‘어서와 한국은 처음이지’를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기욤과 뮤지션 친구들이 시골 로망 실현에 나선다. 17일 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에는 버클리 출신 드러머 기욤이 친구들과 촌캉스 여행을 떠나는 모습이 그려진다. 3인 3색 시골 로망 체험부터 침샘 폭발 먹방까지 다양한 재미를 선사할 예정이다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 방송에서는 기욤과 제레미, 알레한드로가 촌캉스의 로망을 실현할 마지막 밤을 준비한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반나절 만에 시골 생활에 완벽 적응한 세 친구는 닭장 속 달걀 서리에 도전한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수십 마리의 닭이 경계 태세를 선 긴장되는 상황에서 제레미가 암탉을 번쩍 들어 올려 큰 웃음을 안긴다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 세 친구가 실현한 첫 번째 로망은 자연 마당에서 함께하는 저녁 식사. 이들은 솥뚜껑 위에 삼겹살과 김치를 구워 완벽 비주얼 한 끼를 완성한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또, 동네 주민이 선물한 냉이로 마음마저 배부른 먹방을 선보일 예정이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "밤이 깊어가자 세 친구는 촌캉스의 마무리로 즉흥 연주와 진심을 담은 노래를 시작한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 이번 촌캉스를 통해 느낀 세 친구의 특별한 감정도 공개될 예정. 특히 제레미는 “계속 길에서 연주하고 싶다”라며 코로나로 인해 중단해야 했던 버스킹에 대한 안타까운 심정을 고백한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "세 친구의 진심이 담긴 노래는 3월 17일(목) 저녁 8시 30분 MBC에브리원 ‘어서와 한국은 처음이지’를 통해 확인할 수 있다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘어서와’ 기욤×제레미×알레한드로, 시골 달밤 연주회",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

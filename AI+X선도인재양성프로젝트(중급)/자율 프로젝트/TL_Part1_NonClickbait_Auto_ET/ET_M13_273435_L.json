@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273435",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "세븐틴 정한 팔꿈치 수술 진단…“향후 유동적으로 활동 예정”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 세븐틴 멤버 정한(윤정한)의 건강에 적신호가 왔다.\n소속사 플레디스엔터테인먼트는 17일 팬 커뮤니티 플랫폼 위버스에서 “멤버 정한이 최근 팔꿈치 통증이 심해져 병원을 찾은 결과 수술이 필요하다는 진단을 받았다”며 “지난 15일 오전 수술했다. 현재 정한은 무사히 수술받고 퇴원해 안정을 취하고 있다”고 밝혔다.\n소속사에 따르면 정한은 현재 오른쪽 팔꿈치 바깥쪽 힘줄 부위에 염증 등 손상이 발생한 상태다.\n그동안 주사 치료 등을 받았으나 상처가 악화한 것으로 보인다.\n소속사는 “정한은 당분간 깁스를 착용할 예정이며 수술 부위를 보호하고 빠르게 회복하기 위해 향후 보조기도 착용할 계획이다”라고 전했다.\n정한의 월드 투어 참여 여부에 대해 소속사는 “예정된 일정에 모두 참여하겠다는 정한의 의지가 매우 강한 상황이나 의료진 소견과 아티스트의 회복을 최우선 순위에 두고 향후 활동을 유동적으로 운영할 계획”이라고 설명했다.\n이어 “의료진과의 논의에 따라 정한은 깁스와 보조기를 착용하고 무리가 되지 않는 선에서 월드 투어 ‘비 더 선’(BE THE SUN) 등의 일정을 소화할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 세븐틴 멤버 정한(윤정한)의 건강에 적신호가 왔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 플레디스엔터테인먼트는 17일 팬 커뮤니티 플랫폼 위버스에서 “멤버 정한이 최근 팔꿈치 통증이 심해져 병원을 찾은 결과 수술이 필요하다는 진단을 받았다”며 “지난 15일 오전 수술했다. 현재 정한은 무사히 수술받고 퇴원해 안정을 취하고 있다”고 밝혔다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 정한은 현재 오른쪽 팔꿈치 바깥쪽 힘줄 부위에 염증 등 손상이 발생한 상태다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 주사 치료 등을 받았으나 상처가 악화한 것으로 보인다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 “정한은 당분간 깁스를 착용할 예정이며 수술 부위를 보호하고 빠르게 회복하기 위해 향후 보조기도 착용할 계획이다”라고 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정한의 월드 투어 참여 여부에 대해 소속사는 “예정된 일정에 모두 참여하겠다는 정한의 의지가 매우 강한 상황이나 의료진 소견과 아티스트의 회복을 최우선 순위에 두고 향후 활동을 유동적으로 운영할 계획”이라고 설명했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “의료진과의 논의에 따라 정한은 깁스와 보조기를 착용하고 무리가 되지 않는 선에서 월드 투어 ‘비 더 선’(BE THE SUN) 등의 일정을 소화할 것”이라고 밝혔다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐틴 정한 팔꿈치 수술 진단…“향후 유동적으로 활동 예정”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

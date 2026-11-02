@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267120",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "수란, ‘내일’ OST 군단 합류",
+		"newsSubTitle": "",
+		"newsContent": "가수 수란이 MBC 금토극 ‘내일’ OST 군단에 합류한다.\n수란이 부른 ‘내일’ OST 파트3 ‘나의 외로움이 널 부를때’는 16일 오후 6시 전 온라인 음원 사이트에서 발매된다. ‘나의 외로움이 널 부를 때’는 대한민국 포크계 대표 싱어송라이터 장필순이 부른 동명의 곡을 재해석한 팝 발라드 작품이다.\n수란의 유니크한 음색과 가사 속에 담긴 섬세한 위로의 메시지가 어우러져 리스너들에게 감동을 선사할 전망이다.\n수란은 지난 2014년 싱글 ‘아이 필(I Feel)’로 데뷔한 이후 독보적인 음색과 뛰어난 프로듀싱 능력을 인정받으며 실력파 아티스트로 떠올랐다.\n또한 그는 ‘하이클래스’, ‘도시남녀의 사랑법’, ‘영혼수선공’ 등 다양한 드라마 OST에 참여해 극의 몰입도를 높였다. ‘내일’은 ‘죽은 자’를 인도하던 저승사자들이, 이제 ‘죽고 싶은 사람들’을 살리는 저승 오피스 휴먼 판타지다.\n매주 금요일과 토요일 밤 9시 50분 MBC에서 방송한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 수란이 MBC 금토극 ‘내일’ OST 군단에 합류한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수란이 부른 ‘내일’ OST 파트3 ‘나의 외로움이 널 부를때’는 16일 오후 6시 전 온라인 음원 사이트에서 발매된다. ‘나의 외로움이 널 부를 때’는 대한민국 포크계 대표 싱어송라이터 장필순이 부른 동명의 곡을 재해석한 팝 발라드 작품이다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수란의 유니크한 음색과 가사 속에 담긴 섬세한 위로의 메시지가 어우러져 리스너들에게 감동을 선사할 전망이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수란은 지난 2014년 싱글 ‘아이 필(I Feel)’로 데뷔한 이후 독보적인 음색과 뛰어난 프로듀싱 능력을 인정받으며 실력파 아티스트로 떠올랐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 그는 ‘하이클래스’, ‘도시남녀의 사랑법’, ‘영혼수선공’ 등 다양한 드라마 OST에 참여해 극의 몰입도를 높였다. ‘내일’은 ‘죽은 자’를 인도하던 저승사자들이, 이제 ‘죽고 싶은 사람들’을 살리는 저승 오피스 휴먼 판타지다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매주 금요일과 토요일 밤 9시 50분 MBC에서 방송한다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수란, ‘내일’ OST 군단 합류",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

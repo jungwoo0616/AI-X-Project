@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264678",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "체육 대신 제육 택한 ‘운동뚱’ 김민경, 이번엔 테니스다",
+		"newsSubTitle": "",
+		"newsContent": "‘운동뚱’ 김민경이 전미라와 테니스 발리로 무한 랠리를 펼친다.\n오늘(23일) 공개되는 채널 IHQ 웹예능 ‘시켜서 한다! 오늘부터 운동뚱’(이하 운동뚱) 99회에서는 지난주에 이어 전미라에게 테니스를 배우는 김민경의 모습이 전파를 탄다.\n최근 진행된 녹화에서 김민경은 포핸드, 백핸드, 발리, 스매싱을 차례로 배웠다.\n포핸드 자세를 따라 하던 그는 손과 발의 방향을 제대로 잡지 못해 진땀을 흘렸다. “오늘 뼈대를 만들겠다”라고 선언한 전미라가 “오랜만에 색다른 스타일의 회원님을 만났다. 난항이 예상된다”라며 걱정했을 정도. 하지만 이도 잠시, 김민경은 이어진 발리 연습에서 발군의 실력을 보여줘 “정말 잘한다”라는 전미라의 칭찬을 받았다.\n김민경의 발리 실력이 심상치 않음을 느낀 전미라는 즉석에서 발리 랠리 수업을 진행했고, 두 사람 모두 오랫동안 랠리를 이어가 보는 이들의 감탄을 자아냈다는 후문이다.\n김민경의 ‘테린이(테니스 어린이)’ 탈출기는 오늘(23일) 오후 6시 유튜브 채널 ‘맛있는 녀석들’을 통해 공개되는 ‘운동뚱’ 99회에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘운동뚱’ 김민경이 전미라와 테니스 발리로 무한 랠리를 펼친다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(23일) 공개되는 채널 IHQ 웹예능 ‘시켜서 한다! 오늘부터 운동뚱’(이하 운동뚱) 99회에서는 지난주에 이어 전미라에게 테니스를 배우는 김민경의 모습이 전파를 탄다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 진행된 녹화에서 김민경은 포핸드, 백핸드, 발리, 스매싱을 차례로 배웠다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "포핸드 자세를 따라 하던 그는 손과 발의 방향을 제대로 잡지 못해 진땀을 흘렸다. “오늘 뼈대를 만들겠다”라고 선언한 전미라가 “오랜만에 색다른 스타일의 회원님을 만났다. 난항이 예상된다”라며 걱정했을 정도. 하지만 이도 잠시, 김민경은 이어진 발리 연습에서 발군의 실력을 보여줘 “정말 잘한다”라는 전미라의 칭찬을 받았다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김민경의 발리 실력이 심상치 않음을 느낀 전미라는 즉석에서 발리 랠리 수업을 진행했고, 두 사람 모두 오랫동안 랠리를 이어가 보는 이들의 감탄을 자아냈다는 후문이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김민경의 ‘테린이(테니스 어린이)’ 탈출기는 오늘(23일) 오후 6시 유튜브 채널 ‘맛있는 녀석들’을 통해 공개되는 ‘운동뚱’ 99회에서 확인할 수 있다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "체육 대신 제육 택한 ‘운동뚱’ 김민경, 이번엔 테니스다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

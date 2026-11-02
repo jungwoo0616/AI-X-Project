@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272788",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘닥터로이어’ 신성록, 오늘 강렬한 첫 등장",
+		"newsSubTitle": "",
+		"newsContent": "키 플레이어 신성록이 등장한다.\nMBC 금토드라마 ‘닥터로이어’는 소지섭(한이한 역), 신성록(제이든 리 역), 임수향(금석영 역) 믿고 보는 주연 3인 캐스팅 라인업으로 방송 전부터 뜨겁게 주목받았다.\n이런 가운데 10일 3회 본방송을 앞두고 드디어 제이든 리의 첫 등장이 포착됐다.\n사진 속 제이든 리는 비행기 퍼스트 클래스 좌석에 앉아 여유롭게 태블릿 PC를 보고 있다.\n하지만 상황은 급 반전되고 누군가 비행기 안에서 정신을 잃고 쓰러져있다.\n일촉즉발의 상황 속에서 제이든 리는 승무원과 함께 환자의 곁을 지키고 있다.\n밝혀진 제이든 리의 직업은 로비스트이다.\n의사도 아닌 제이든 리가 기내에 환자가 발생한 위급 상황에서 어떤 역할을 하는 것인지, 왜 환자의 곁에 있는 것인지 궁금증이 높아진다.\n신성록의 첫 등장은 6월 10일 밤 9시 50분 방송되는 MBC 금토드라마 ‘닥터로이어’ 3회에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "키 플레이어 신성록이 등장한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "MBC 금토드라마 ‘닥터로이어’는 소지섭(한이한 역), 신성록(제이든 리 역), 임수향(금석영 역) 믿고 보는 주연 3인 캐스팅 라인업으로 방송 전부터 뜨겁게 주목받았다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이런 가운데 10일 3회 본방송을 앞두고 드디어 제이든 리의 첫 등장이 포착됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 제이든 리는 비행기 퍼스트 클래스 좌석에 앉아 여유롭게 태블릿 PC를 보고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 상황은 급 반전되고 누군가 비행기 안에서 정신을 잃고 쓰러져있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일촉즉발의 상황 속에서 제이든 리는 승무원과 함께 환자의 곁을 지키고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "밝혀진 제이든 리의 직업은 로비스트이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "의사도 아닌 제이든 리가 기내에 환자가 발생한 위급 상황에서 어떤 역할을 하는 것인지, 왜 환자의 곁에 있는 것인지 궁금증이 높아진다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신성록의 첫 등장은 6월 10일 밤 9시 50분 방송되는 MBC 금토드라마 ‘닥터로이어’ 3회에서 확인할 수 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘닥터로이어’ 신성록, 오늘 강렬한 첫 등장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

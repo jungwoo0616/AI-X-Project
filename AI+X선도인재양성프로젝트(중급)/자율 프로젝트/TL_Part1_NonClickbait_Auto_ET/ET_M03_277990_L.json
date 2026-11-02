@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277990",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'무한도전' 김현철 X발-쪼쪼댄스로 10년만에 화려한 복귀",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 김현철이 '무한도전'을 통해 과거 억울한 사연을 고백했다.\n지난 23일 방송된 MBC 예능프로그램 '무한도전'에서는 '히트다 히트'라는 유행어를 놓고 '분쟁조정위원회' 특집으로 꾸며졌다.\n이날 김현철은 하하의 참고인으로 깜짝 출연해 박명수의 유행어가 원래는 자신의 것이었다고 밝혀 눈길을 끌었다.\n이후 그는 10년 전 '무한도전' 월드컵 토고전 특집에 출연했다가 욕설 논란에 휩싸인 사연을 밝히기도 했다.\n김현철은 \\\"당시 PD가 집에서 경기를 보 듯 편하게 리액션을 해달라고 요청했다\\\"며 \\\"집에서 볼 때는 욕도 하면서 축구를 본다. 욕을 두 글자 했는데 안타깝게도 뒤에 '발'이라는 글자가 무음처리되지 않았다\\\"고 억울함을 토로해 폭소를 자아냈다.\n온라인 중앙일보 [사진 MBC 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 김현철이 '무한도전'을 통해 과거 억울한 사연을 고백했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 23일 방송된 MBC 예능프로그램 '무한도전'에서는 '히트다 히트'라는 유행어를 놓고 '분쟁조정위원회' 특집으로 꾸며졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김현철은 하하의 참고인으로 깜짝 출연해 박명수의 유행어가 원래는 자신의 것이었다고 밝혀 눈길을 끌었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 그는 10년 전 '무한도전' 월드컵 토고전 특집에 출연했다가 욕설 논란에 휩싸인 사연을 밝히기도 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김현철은 \\\"당시 PD가 집에서 경기를 보 듯 편하게 리액션을 해달라고 요청했다\\\"며 \\\"집에서 볼 때는 욕도 하면서 축구를 본다. 욕을 두 글자 했는데 안타깝게도 뒤에 '발'이라는 글자가 무음처리되지 않았다\\\"고 억울함을 토로해 폭소를 자아냈다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC 캡처]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'무한도전' 김현철 X발-쪼쪼댄스로 10년만에 화려한 복귀",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

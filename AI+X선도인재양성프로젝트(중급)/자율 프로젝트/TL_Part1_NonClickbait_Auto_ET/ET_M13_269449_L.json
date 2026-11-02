@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269449",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수, 빈티지 필름마저 도회적인 ‘블랙 스완’",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크(BLACK PINK) 멤버 지수가 고혹적인 미모를 뽐냈다.\n지수는 7일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 “필 름 사 진”이라는 글과 함께 사진 5장을 게재했다.\n지수는 그물망이 눈에 띄는 검은 홀터넥 원피스를 입고 있다.\n빈티지나는 필터에도 지수의 미모는 도회적인 무드를 자아냈다.\n지수는 지난달 30일 서울 서대문구 신촌동 이화여자대학교에서 열린 ‘디올 2022 가을 여성 컬렉션 패션쇼’에서의 사진도 필름을 입혀 공개했다.\n한편 지수는 지난해 JTBC 드라마 ‘설강화:snowdrop’에서 첫 연기에 도전했다.\n또 지수는 최근 블랙핑크 컴백을 준비하는 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크(BLACK PINK) 멤버 지수가 고혹적인 미모를 뽐냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수는 7일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 “필 름 사 진”이라는 글과 함께 사진 5장을 게재했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지수는 그물망이 눈에 띄는 검은 홀터넥 원피스를 입고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빈티지나는 필터에도 지수의 미모는 도회적인 무드를 자아냈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지수는 지난달 30일 서울 서대문구 신촌동 이화여자대학교에서 열린 ‘디올 2022 가을 여성 컬렉션 패션쇼’에서의 사진도 필름을 입혀 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지수는 지난해 JTBC 드라마 ‘설강화:snowdrop’에서 첫 연기에 도전했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 지수는 최근 블랙핑크 컴백을 준비하는 것으로 알려졌다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수, 빈티지 필름마저 도회적인 ‘블랙 스완’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

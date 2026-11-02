@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279447",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최홍만, 억대 사기 혐의 징역 1년+집행유예 2년 \\\"피해자와 합의..\\\"",
+		"newsSubTitle": "",
+		"newsContent": "사기 혐의로 재판에 넘겨진 종합격투기 선수 최홍만(35)에게 집행유예가 선고됐다.\n서울동부지법(형사9단독 강수정 판사)은 14일 지인에게서 억대의 돈을 빌리고 이를 갚지 않은 혐의로 불구속 기소된 최홍만에게 징역 1년에 집행유예 2년을 선고했다.\n최홍만은 지난 2013년 12월 홍콩에서 지인 으로부터 71만 홍콩달러를 빌리고 갚지 않아 사기 혐의로 피소됐다.\n지난해 10월에는 다른 지인에게 2550만원을 빌리고 갚지 않은 혐의도 있다.\n법원은 이날 “공소 사실은 대부분 유죄로 인정되지만 피고인이 잘못을 인정하고 있고 피해자들과 합의를 했다. 피해자들이 처벌을 원치 않는다고 탄원을 하고 있으며 피고인에게 다른 범죄전력이 없다는 점을 고려했다”며 판결 이유를 설명했다.\n온라인 중앙일보 최홍만 최홍만",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사기 혐의로 재판에 넘겨진 종합격투기 선수 최홍만(35)에게 집행유예가 선고됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울동부지법(형사9단독 강수정 판사)은 14일 지인에게서 억대의 돈을 빌리고 이를 갚지 않은 혐의로 불구속 기소된 최홍만에게 징역 1년에 집행유예 2년을 선고했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최홍만은 지난 2013년 12월 홍콩에서 지인 으로부터 71만 홍콩달러를 빌리고 갚지 않아 사기 혐의로 피소됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 10월에는 다른 지인에게 2550만원을 빌리고 갚지 않은 혐의도 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "법원은 이날 “공소 사실은 대부분 유죄로 인정되지만 피고인이 잘못을 인정하고 있고 피해자들과 합의를 했다. 피해자들이 처벌을 원치 않는다고 탄원을 하고 있으며 피고인에게 다른 범죄전력이 없다는 점을 고려했다”며 판결 이유를 설명했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 최홍만 최홍만",
+				"sentenceSize": 16
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최홍만, 억대 사기 혐의 징역 1년+집행유예 2년 \\\"피해자와 합의..\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

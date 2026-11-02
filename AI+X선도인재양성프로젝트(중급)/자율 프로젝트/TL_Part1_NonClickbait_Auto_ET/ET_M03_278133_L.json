@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278133",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'가화만사성' 김소연·유현기 아들 의료사고, 집도의 이상우로 밝혀져…'충격'",
+		"newsSubTitle": "",
+		"newsContent": "'가화만사성' 유현기가 아들의 의료사고 당시 집도의가 이상우였다는 사실을 알게 됐다.\n지난 22일 방송된 MBC '가화만사성' 26회에서는 서지건(이상우 분)이 5년 전 수술 중 사망했던 김소연(봉해령 분)·유현기(이필모 분) 아들의 집도의였다는 사실이 드러났다.\n서지건의 전 장인은 서지건이 자신의 딸과 재결합한다는 거짓 기사가 유포되게 만들었고, 이에 분노한 서지건은 전 장인을 찾아가 사직서를 냈다.\n그러자 전 장인은 유현기를 찾아가 5년 전 서지건이 의료사고를 냈다는 사실을 스스로 인정했다고 알렸다.\n그는 \\\"5년 전 의사로서 큰 실수를 했다. 그 일 때문에 마음을 못 잡고 내 딸을 팽개쳐두지만 않았어도 이혼까지는 가지 않았을 것\\\"이라고 설명했다.\n이를 들은 유현기는 병원을 찾아가 진료기록을 확인했다.\n사고 당시의 진료기록에는 '집도의: 서지건'이라고 적혀 있었고, 유현기는 충격을 감추지 못했다.\n온라인 중앙일보 [사진 MBC '가화만사성' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'가화만사성' 유현기가 아들의 의료사고 당시 집도의가 이상우였다는 사실을 알게 됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일 방송된 MBC '가화만사성' 26회에서는 서지건(이상우 분)이 5년 전 수술 중 사망했던 김소연(봉해령 분)·유현기(이필모 분) 아들의 집도의였다는 사실이 드러났다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서지건의 전 장인은 서지건이 자신의 딸과 재결합한다는 거짓 기사가 유포되게 만들었고, 이에 분노한 서지건은 전 장인을 찾아가 사직서를 냈다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 전 장인은 유현기를 찾아가 5년 전 서지건이 의료사고를 냈다는 사실을 스스로 인정했다고 알렸다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 \\\"5년 전 의사로서 큰 실수를 했다. 그 일 때문에 마음을 못 잡고 내 딸을 팽개쳐두지만 않았어도 이혼까지는 가지 않았을 것\\\"이라고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 들은 유현기는 병원을 찾아가 진료기록을 확인했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사고 당시의 진료기록에는 '집도의: 서지건'이라고 적혀 있었고, 유현기는 충격을 감추지 못했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC '가화만사성' 캡처]",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가화만사성' 김소연·유현기 아들 의료사고, 집도의 이상우로 밝혀져…'충격'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

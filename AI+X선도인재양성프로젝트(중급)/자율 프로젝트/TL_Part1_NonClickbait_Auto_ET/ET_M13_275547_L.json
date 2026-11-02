@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275547",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "우즈(조승연), 태국 접수",
+		"newsSubTitle": "",
+		"newsContent": "가수 우즈(조승연)가 태국을 접수한다.\n우즈는 오는 9월 3일 오후 5시(현지 시각) 태국 방콕 썬더돔 무앙 통 타니(Thunder Dome, Muang Thong Thani)에서 ‘우즈 라이브 컬러풀 트라우마 인 방콕(WOODZ LIVE COLORFUL TRAUMA in BANGKOK)’을 개최한다.\n이번 공연은 지난 2020년 태국 팬들과 온라인 팬 이벤트를 개최한 이후 2년 만에 이뤄지는 행사다.\n2018년부터 본격 솔로 활동을 시작한 우즈는 ‘올라운더’ 아티스트로 국내외 팬들의 사랑을 받고 있다.\n이에 지난해 아시아 아티스트 어워즈(2021 AAA) 가수 부문 아이콘상을 수상하며 글로벌 인기를 입증했다.\n최근 ‘컬러풀 트라우마(COLORFUL TRAUMA)’를 발매한 우즈는 타이틀곡 ‘난 너 없이(I hate you)’로 활동하며 음악성을 인정받았다.\n한편 우즈는 MBC 라디오와 글로벌 팬덤 플랫폼 유니버스가 공동 제작하는 아이돌 전문 프로그램 ‘아이돌 라디오 시즌2’ 스페셜 DJ로 활약했으며, 지난 5월에는 데뷔 후 첫 야외 페스티벌인 ‘피크 페스티벌 2022(PEAK FESTIVAL 2022)’에 출연했다.\n또 티빙 오리지널 시리즈 ‘유미의 세포들 시즌2’ OST ‘어바웃 유(About You)’를 발매한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 우즈(조승연)가 태국을 접수한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우즈는 오는 9월 3일 오후 5시(현지 시각) 태국 방콕 썬더돔 무앙 통 타니(Thunder Dome, Muang Thong Thani)에서 ‘우즈 라이브 컬러풀 트라우마 인 방콕(WOODZ LIVE COLORFUL TRAUMA in BANGKOK)’을 개최한다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공연은 지난 2020년 태국 팬들과 온라인 팬 이벤트를 개최한 이후 2년 만에 이뤄지는 행사다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2018년부터 본격 솔로 활동을 시작한 우즈는 ‘올라운더’ 아티스트로 국내외 팬들의 사랑을 받고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 지난해 아시아 아티스트 어워즈(2021 AAA) 가수 부문 아이콘상을 수상하며 글로벌 인기를 입증했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 ‘컬러풀 트라우마(COLORFUL TRAUMA)’를 발매한 우즈는 타이틀곡 ‘난 너 없이(I hate you)’로 활동하며 음악성을 인정받았다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 우즈는 MBC 라디오와 글로벌 팬덤 플랫폼 유니버스가 공동 제작하는 아이돌 전문 프로그램 ‘아이돌 라디오 시즌2’ 스페셜 DJ로 활약했으며, 지난 5월에는 데뷔 후 첫 야외 페스티벌인 ‘피크 페스티벌 2022(PEAK FESTIVAL 2022)’에 출연했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 티빙 오리지널 시리즈 ‘유미의 세포들 시즌2’ OST ‘어바웃 유(About You)’를 발매한 바 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우즈(조승연), 태국 접수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

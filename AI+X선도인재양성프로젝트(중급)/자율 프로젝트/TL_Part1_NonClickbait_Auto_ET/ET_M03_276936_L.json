@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276936",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "치대 중퇴한 가수 \\\"치과 개업한 친구들 배아팠다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 장한별이 치대를 중퇴한 이유를 밝혔다.\n장한별은 21일 오후 1시 서울 마포구에 위치한 드림홀에서 새 싱글 '뭣 같은 러브' 쇼케이스를 열었다.\n이날 장한별은 호주 치대에 재학 중이었다며 \\\"3년을 휴학했다가, 결국 중퇴했다. 학교에서 나를 도저히 못 기다리겠다고 하더라\\\"고 말했다.\n장한별은 \\\"지금 제 동기들이 다 치과를 차리더라. 약간 배아프다. 저 길로 갔으면 약간 편했겠다는 생각이 들더라\\\"고 말했다.\n그는 \\\"다시 치과 의사를 꿈꾸는 일은 없을 것이다. 대학 들어가려면 시험을 다시 봐야 한다. 치아를 하루 종일 보는 게 힘들더라\\\"고 덧붙였다.\n장한별의 타이틀곡 '뭣 같은 러브'는 23일 낮 12시에 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 장한별이 치대를 중퇴한 이유를 밝혔다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장한별은 21일 오후 1시 서울 마포구에 위치한 드림홀에서 새 싱글 '뭣 같은 러브' 쇼케이스를 열었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 장한별은 호주 치대에 재학 중이었다며 \\\"3년을 휴학했다가, 결국 중퇴했다. 학교에서 나를 도저히 못 기다리겠다고 하더라\\\"고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장한별은 \\\"지금 제 동기들이 다 치과를 차리더라. 약간 배아프다. 저 길로 갔으면 약간 편했겠다는 생각이 들더라\\\"고 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 \\\"다시 치과 의사를 꿈꾸는 일은 없을 것이다. 대학 들어가려면 시험을 다시 봐야 한다. 치아를 하루 종일 보는 게 힘들더라\\\"고 덧붙였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장한별의 타이틀곡 '뭣 같은 러브'는 23일 낮 12시에 공개될 예정이다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치대 중퇴한 가수 \\\"치과 개업한 친구들 배아팠다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

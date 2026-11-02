@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276897",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최현석 셰프가 레스토랑 막내와 사진 한 장에 같이 나올 수 없는 이유",
+		"newsSubTitle": "",
+		"newsContent": "셰프 최현석이 운영하는 레스토랑의 막내가 공개돼 화제다.\n1일 최현석은 자신의 인스타그램에 \\\"우리 주방 막내를 소개한다\\\"며 사진을 올렸다.\n그는 \\\"키는 비밀\\\"이라며 \\\"밥 많이 먹고 귀엽다\\\"고 소개했다.\n사진 속에는 팔짱을 끼고 있는 최현석 옆에 자리한 막내 김선화 양이 있다.\n김양은 최현석 어깨에도 미치지 못하는 키로 눈길을 끌었다.\n최현석은 \\\"어린 나이에도 씩씩하고 밝고 부지런히 일 잘하는 우리 선남이\\\"라며 \\\"우리는 사진 한장에 같이 나올 수는 없는 거니\\\"라고 물어 웃음을 자아냈다.\n이를 접한 네티즌 역시 \\\"너무 귀엽다\\\" \\\"으악 심쿵사\\\"라고 적었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "셰프 최현석이 운영하는 레스토랑의 막내가 공개돼 화제다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 최현석은 자신의 인스타그램에 \\\"우리 주방 막내를 소개한다\\\"며 사진을 올렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"키는 비밀\\\"이라며 \\\"밥 많이 먹고 귀엽다\\\"고 소개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속에는 팔짱을 끼고 있는 최현석 옆에 자리한 막내 김선화 양이 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김양은 최현석 어깨에도 미치지 못하는 키로 눈길을 끌었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최현석은 \\\"어린 나이에도 씩씩하고 밝고 부지런히 일 잘하는 우리 선남이\\\"라며 \\\"우리는 사진 한장에 같이 나올 수는 없는 거니\\\"라고 물어 웃음을 자아냈다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 접한 네티즌 역시 \\\"너무 귀엽다\\\" \\\"으악 심쿵사\\\"라고 적었다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최현석 셰프가 레스토랑 막내와 사진 한 장에 같이 나올 수 없는 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

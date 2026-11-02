@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275059",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "수지, 완벽한 직각어깨",
+		"newsSubTitle": "",
+		"newsContent": "가수이자 배우 수지의 ‘안나’ 촬영 비하인드가 공개됐다.\n8일 수지의 소속사 매니지먼트 숲의 공식 SNS에는 “오늘은 마지막 ‘안’요일 #수지 배우의 #안나 마지막까지 본방사수”라는 글과 함께 촬영에 열중하는 수지의 사진 여러 장이 공개됐다.\n사진 속 수지는 블랙 홀터넥 원피스를 입은 채 카메라를 향해 미소짓고 있다.\n그의 완벽한 직각어깨와 빛이 나는 피부가 시선을 사로잡는다.\n이날 해당 게시물을 접한 누리꾼들은 “수지 너무 예쁘다” “마지막 에피소드는 해피엔딩이길” “확장판 나와서 너무 좋다” 등 수지의 드라마‘안나'에 커다란 애정을 보였다.\n한편 수지가 출연한‘안나’는 오는 8월 쿠팡플레이에서 확장판이 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수이자 배우 수지의 ‘안나’ 촬영 비하인드가 공개됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 수지의 소속사 매니지먼트 숲의 공식 SNS에는 “오늘은 마지막 ‘안’요일 #수지 배우의 #안나 마지막까지 본방사수”라는 글과 함께 촬영에 열중하는 수지의 사진 여러 장이 공개됐다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 수지는 블랙 홀터넥 원피스를 입은 채 카메라를 향해 미소짓고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 완벽한 직각어깨와 빛이 나는 피부가 시선을 사로잡는다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 해당 게시물을 접한 누리꾼들은 “수지 너무 예쁘다” “마지막 에피소드는 해피엔딩이길” “확장판 나와서 너무 좋다” 등 수지의 드라마‘안나'에 커다란 애정을 보였다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 수지가 출연한‘안나’는 오는 8월 쿠팡플레이에서 확장판이 공개될 예정이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수지, 완벽한 직각어깨",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

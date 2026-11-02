@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276542",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "짧은 원피스가 신경 쓰여 자꾸 내리는 아이린",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 '레드벨벳' 아이린이 음악 무대에서 짧은 원피스가 신경 쓰이는 듯 자꾸 내리는 장면이 팬들에게 포착됐다.\n20일 동영상 공유사이트 유튜브 'MPD 직캠' 채널에는 최근 '빨간 맛 (Red Flavor)'으로 컴백한 레드벨벳의 음악 무대 영상이 게재됐다.\n공개된 영상에서 아이린은 몸에 밀착된 초록색 원피스를 입었다.\n원피스는 허벅지를 웃돌 정도로 짧은 길이였다.\n손을 위로 들어 올리는 동작이 많은 안무 탓에 원피스는 수시로 올라갔고, 아이린은 공연 내내 신경 쓰이는 듯 옷을 계속 내렸다.\n이를 본 일부 팬들은 안무를 소화하기에 불편해 보이는 아이린의 치마 길이를 지적하며 코디에 대한 불만을 드러냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 '레드벨벳' 아이린이 음악 무대에서 짧은 원피스가 신경 쓰이는 듯 자꾸 내리는 장면이 팬들에게 포착됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 동영상 공유사이트 유튜브 'MPD 직캠' 채널에는 최근 '빨간 맛 (Red Flavor)'으로 컴백한 레드벨벳의 음악 무대 영상이 게재됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에서 아이린은 몸에 밀착된 초록색 원피스를 입었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "원피스는 허벅지를 웃돌 정도로 짧은 길이였다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손을 위로 들어 올리는 동작이 많은 안무 탓에 원피스는 수시로 올라갔고, 아이린은 공연 내내 신경 쓰이는 듯 옷을 계속 내렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 일부 팬들은 안무를 소화하기에 불편해 보이는 아이린의 치마 길이를 지적하며 코디에 대한 불만을 드러냈다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "짧은 원피스가 신경 쓰여 자꾸 내리는 아이린",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

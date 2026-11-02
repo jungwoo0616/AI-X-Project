@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277947",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'1박 2일' 박보검 화끈한 댄스 신고식 '앙증 붐바스틱'",
+		"newsSubTitle": "",
+		"newsContent": "'1박 2일' 박보검이 화끈한 댄스 신고식을 예고했다.\n20일 '해피선데이-1박 2일 시즌3' 측은 20일 공식 페이스북을 통해 즉흥 여행을 떠나기 전 댄스 신고식을 펼친 박보검의 스틸컷을 공개했다.\n이 장면은 '열심히 춤을 추면 용돈 획득 게임에서 유리하다'는 제작진의 말을 듣고 박보검이 주저 없이 댄스 실력을 뽐낸 모습으로, 박보검은 춤에 심취한 모습으로 시선을 끌었다.\n특히 최근 그가 선보인 붐바스틱 댄스와 흡사해 눈길을 끌었다.\n박보검은 KBS2 새 드라마 '구르미 그린 달빛' 티저 영상을 통해 붐바스틱 댄스를 공개한 바 있다.\n극 중 왕세자 이영 역을 맡은 박보검은 내시로 분한 이준혁과 함께 파워풀한 코믹 댄스를 선보여 폭소를 자아냈다.\n한편 박보검이 출연하는 '1박 2일'은 21일 오후 6시 25분에 방송될 예정이다.\n온라인 중앙일보 [사진 1박 2일]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'1박 2일' 박보검이 화끈한 댄스 신고식을 예고했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 '해피선데이-1박 2일 시즌3' 측은 20일 공식 페이스북을 통해 즉흥 여행을 떠나기 전 댄스 신고식을 펼친 박보검의 스틸컷을 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 장면은 '열심히 춤을 추면 용돈 획득 게임에서 유리하다'는 제작진의 말을 듣고 박보검이 주저 없이 댄스 실력을 뽐낸 모습으로, 박보검은 춤에 심취한 모습으로 시선을 끌었다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 최근 그가 선보인 붐바스틱 댄스와 흡사해 눈길을 끌었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박보검은 KBS2 새 드라마 '구르미 그린 달빛' 티저 영상을 통해 붐바스틱 댄스를 공개한 바 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "극 중 왕세자 이영 역을 맡은 박보검은 내시로 분한 이준혁과 함께 파워풀한 코믹 댄스를 선보여 폭소를 자아냈다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 박보검이 출연하는 '1박 2일'은 21일 오후 6시 25분에 방송될 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 1박 2일]",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'1박 2일' 박보검 화끈한 댄스 신고식 '앙증 붐바스틱'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

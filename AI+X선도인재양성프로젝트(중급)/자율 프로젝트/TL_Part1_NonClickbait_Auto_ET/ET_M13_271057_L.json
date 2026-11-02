@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271057",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "모델 이나라, S&A엔터테인먼트 전속계약…“앞으로 다양한 활동 보여드릴 것”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "S&A 엔터테인먼트가 모델 이나라와 전속 계약을 체결했다고 23일 발표했다.\nS&A 엔터테인먼트와 전속계약을 체결한 모델 이나라는 그동안 소녀나라 서포터즈, 뉴델리 뮤즈모델, 드레스빌앤샵 모델, 몰디브 컴태닝 광고 모델, 스튜디오 응접실 모델, 랄라블라 썸바이미 홍보 영상 모델, 메이크핫 모델, 스타일밀 모델 등 다양한 광고에서 모델로 활동하고 있다.\n이나라는 중학교 2학년 때 아르바이트를 하고 싶다는 생각에, 피팅 모델을 시작했고 주변에서 ‘끼가 많다’는 얘기와 적성에 맞는 것 같아서 피팅 모델 지원을 통해 본격적으로 모델 활동을 시작했다고 한다.\n이나라는 “소속사 관련해서 사실은 외적인 모습이나 경력적으로 많이 부족하다고 생각했는데, 연락이 먼저 와주셔서 너무 기뻤고, 계약을 맺게 되어서 너무 행복합니다”라며 “앞으로 지금보다 더 많은 다양한 활동을 하면서 좋은 모습 보여드리도록 하겠습니다. 감사합니다”라고 소감을 밝혔다.\n피팅 모델 아르바이트로 시작한 이나라가 앞으로 연기 등 다양한 장르에서 보여 줄 활동이 기대된다.\n이나라와 새로운 시작을 알린 S&A 엔터테인먼트는 김신도, 최동현, 이미래, 은솔, 서주영, 정수정, 김진석, 박희주 등이 소속되어 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "S&A 엔터테인먼트가 모델 이나라와 전속 계약을 체결했다고 23일 발표했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "S&A 엔터테인먼트와 전속계약을 체결한 모델 이나라는 그동안 소녀나라 서포터즈, 뉴델리 뮤즈모델, 드레스빌앤샵 모델, 몰디브 컴태닝 광고 모델, 스튜디오 응접실 모델, 랄라블라 썸바이미 홍보 영상 모델, 메이크핫 모델, 스타일밀 모델 등 다양한 광고에서 모델로 활동하고 있다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이나라는 중학교 2학년 때 아르바이트를 하고 싶다는 생각에, 피팅 모델을 시작했고 주변에서 ‘끼가 많다’는 얘기와 적성에 맞는 것 같아서 피팅 모델 지원을 통해 본격적으로 모델 활동을 시작했다고 한다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이나라는 “소속사 관련해서 사실은 외적인 모습이나 경력적으로 많이 부족하다고 생각했는데, 연락이 먼저 와주셔서 너무 기뻤고, 계약을 맺게 되어서 너무 행복합니다”라며 “앞으로 지금보다 더 많은 다양한 활동을 하면서 좋은 모습 보여드리도록 하겠습니다. 감사합니다”라고 소감을 밝혔다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "피팅 모델 아르바이트로 시작한 이나라가 앞으로 연기 등 다양한 장르에서 보여 줄 활동이 기대된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이나라와 새로운 시작을 알린 S&A 엔터테인먼트는 김신도, 최동현, 이미래, 은솔, 서주영, 정수정, 김진석, 박희주 등이 소속되어 있다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모델 이나라, S&A엔터테인먼트 전속계약…“앞으로 다양한 활동 보여드릴 것”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

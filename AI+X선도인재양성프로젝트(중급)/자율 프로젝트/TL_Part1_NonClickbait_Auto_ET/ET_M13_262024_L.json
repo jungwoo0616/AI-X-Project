@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262024",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "MC몽, 16일 만에 13kg 감량 “난 한다면 하는 놈”",
+		"newsSubTitle": "",
+		"newsContent": "MC몽이 13kg을 감량한 근황을 전했다.\n가수 MC몽(신동현)은 24일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “90kg에서 16일 만에 78~77kg 한다면 하는 놈 푸하하하하하하하 13kg 감량”이라는 글과 함께 한 장의 사진을 게시했다.\n사진 속 그의 몸무게는 78.3kg이었다.\nMC몽은 지난 17일 인스타그램을 통해 7kg을 감량했다고 밝히며 누리꾼들의 놀라움을 샀다.\n그는 이 날 “목표치를 달성한 것 같다”는 팬의 댓글에 “4kg 더 남았다”라고 답했다.\n한편 MC몽은 지난 1월 21일 가수 소유와 함께‘엑스 바이 엑스(X by X) 프로젝트의 세번째 곡‘깨우지마’를 발표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MC몽이 13kg을 감량한 근황을 전했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가수 MC몽(신동현)은 24일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “90kg에서 16일 만에 78~77kg 한다면 하는 놈 푸하하하하하하하 13kg 감량”이라는 글과 함께 한 장의 사진을 게시했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그의 몸무게는 78.3kg이었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC몽은 지난 17일 인스타그램을 통해 7kg을 감량했다고 밝히며 누리꾼들의 놀라움을 샀다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 이 날 “목표치를 달성한 것 같다”는 팬의 댓글에 “4kg 더 남았다”라고 답했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 MC몽은 지난 1월 21일 가수 소유와 함께‘엑스 바이 엑스(X by X) 프로젝트의 세번째 곡‘깨우지마’를 발표했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MC몽, 16일 만에 13kg 감량 “난 한다면 하는 놈”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

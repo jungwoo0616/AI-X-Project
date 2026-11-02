@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276394",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김구라가 밝힌 ‘위너’ 남태현 탈퇴 이유는…",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 김구라가 그룹 ‘위너’ 남태현의 탈퇴 이유에 대해 언급했다.\n9일 방송된 MBC 예능프로그램 ‘라디오스타’에선 터보 김종국과 김정남, 2PM 찬성, 위너 진우가 출연했다.\n이날 김구라는 “위너 멤버들이 굉장히 솔직하더라. 강승윤에게 위너 남태현의 탈퇴 이유를 물었더니 사실적으로 설명해주더라”고 밝혔다.\n이에 위너의 김진우는 “멤버들이 솔직한 편이다”고 말했다.\n이에 김구라는 “그 친구 얘기는 ‘안 맞는다’고 하더라”고 말했다.\n김진우가 당황하는 모습을 보이자 김종국은 김정남을 가리키며 “이 분도 안 맞아서 나갔던 분”이라고 말해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 김구라가 그룹 ‘위너’ 남태현의 탈퇴 이유에 대해 언급했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 방송된 MBC 예능프로그램 ‘라디오스타’에선 터보 김종국과 김정남, 2PM 찬성, 위너 진우가 출연했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김구라는 “위너 멤버들이 굉장히 솔직하더라. 강승윤에게 위너 남태현의 탈퇴 이유를 물었더니 사실적으로 설명해주더라”고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 위너의 김진우는 “멤버들이 솔직한 편이다”고 말했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 김구라는 “그 친구 얘기는 ‘안 맞는다’고 하더라”고 말했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김진우가 당황하는 모습을 보이자 김종국은 김정남을 가리키며 “이 분도 안 맞아서 나갔던 분”이라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김구라가 밝힌 ‘위너’ 남태현 탈퇴 이유는…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265704",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "오마이걸, ‘너목보9’ 출격",
+		"newsSubTitle": "",
+		"newsContent": "그룹 오마이걸이 케이블채널 엠넷 ‘너의 목소리가 보여9’(이하 ‘너목보9’)에 출격한다. 2일 방송하는 ‘너목보9’에는 최근 정규 2집 앨범 ‘리얼 러브’로 돌아온 오마이걸이 초대 스타로 출연한다.\n오마이걸은 등장과 동시에 넘치는 끼와 예능감으로 스튜디오를 장악한 것은 물론 미스터리 싱어들과의 대결에서도 자신들만의 추리력으로 과감한 선택을 예고하고 있다.\n멤버들끼리 똘똘 뭉쳐 실력자 찾기에 나선 오마이걸의 모습에 음치수사대 허경환은 “정신 안 차리면 한마디도 못하고 집에 갈 수 있다”며 위기 의식을 느끼기도 했다고 해 오마이걸의 추리 결과에 관심이 모아지고 있다.\n하지만, 자신감 가득찬 오마이걸에 대적할 강력한 미스터리 싱어들이 기다리고 있다.\n호기롭게 추리를 이어가던 오마이걸도 예상치 못한 미스터리 싱어의 정체에 말문이 막혔다는 후문이다.\n특히, 공개된 예고편에서 오마이걸 효정과 유빈이 눈물을 흘리는 모습이 담겨있어 궁금증을 더한다.\n시종일관 높은 텐션을 유지하던 오마이걸을 놀라게 한 미스터리 싱어의 반전 정체는 무엇일지 이날 밤 11시에 방송하는 ‘너목보9’ 10회에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 오마이걸이 케이블채널 엠넷 ‘너의 목소리가 보여9’(이하 ‘너목보9’)에 출격한다. 2일 방송하는 ‘너목보9’에는 최근 정규 2집 앨범 ‘리얼 러브’로 돌아온 오마이걸이 초대 스타로 출연한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오마이걸은 등장과 동시에 넘치는 끼와 예능감으로 스튜디오를 장악한 것은 물론 미스터리 싱어들과의 대결에서도 자신들만의 추리력으로 과감한 선택을 예고하고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "멤버들끼리 똘똘 뭉쳐 실력자 찾기에 나선 오마이걸의 모습에 음치수사대 허경환은 “정신 안 차리면 한마디도 못하고 집에 갈 수 있다”며 위기 의식을 느끼기도 했다고 해 오마이걸의 추리 결과에 관심이 모아지고 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만, 자신감 가득찬 오마이걸에 대적할 강력한 미스터리 싱어들이 기다리고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "호기롭게 추리를 이어가던 오마이걸도 예상치 못한 미스터리 싱어의 정체에 말문이 막혔다는 후문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히, 공개된 예고편에서 오마이걸 효정과 유빈이 눈물을 흘리는 모습이 담겨있어 궁금증을 더한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시종일관 높은 텐션을 유지하던 오마이걸을 놀라게 한 미스터리 싱어의 반전 정체는 무엇일지 이날 밤 11시에 방송하는 ‘너목보9’ 10회에서 확인할 수 있다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오마이걸, ‘너목보9’ 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

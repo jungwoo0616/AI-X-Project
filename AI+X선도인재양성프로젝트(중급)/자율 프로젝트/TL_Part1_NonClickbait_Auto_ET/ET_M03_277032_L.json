@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277032",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "AOA 될 뻔했다는 걸스데이 멤버",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 걸스데이 유라가 AOA로 데뷔할 뻔 했던 이야기를 전했다.\n지난 30일 방송된 KBS 2TV ‘해피투게더3’에서는 걸스데이 혜리, 유라, EXID 하니, 구구단 세정, 전소미가 출연해 15주년 특집을 꾸렸다.\n이날 MC들은 유라에게 “기획사 60군데에서 캐스팅 제의가 왔었다고 하던데”라며 질문했다.\n이에 유라는 “큰 기획사부터 개인이 운영하는 에이전시까지 다양한 기획사들에게서 연락이 왔다. 총 60군데 정도 됐다”고 말해 주위를 놀라게 했다.\n그녀는 “학창시절 미술을 배웠다. 그러다 어느날 갑자기 데뷔를 한 내 모습이 떠올랐다. 부모님께 고3까지만 데뷔를 준비하겠다고 했다. 근데 내가 딱 고3때 데뷔를 했다”고 말했다.\n이어 “데뷔 전에 미니홈피라는 게 있었다. 메인에 소개되는 미니홈피라는 것을 보고 소속사에서 먼저 연락이 오게 해야겠다 생각했다. 그래서 예쁜 사진을 올렸더니 소속사에서 연락이 많이 왔다”고 밝혔다.\nMC들은 “그 중 유명한 곳도 있었냐”고 묻자 유라는 “FNC가 있었다. 지금의 AOA를 준비하고 있었던 것으로 안다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 걸스데이 유라가 AOA로 데뷔할 뻔 했던 이야기를 전했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 30일 방송된 KBS 2TV ‘해피투게더3’에서는 걸스데이 혜리, 유라, EXID 하니, 구구단 세정, 전소미가 출연해 15주년 특집을 꾸렸다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 MC들은 유라에게 “기획사 60군데에서 캐스팅 제의가 왔었다고 하던데”라며 질문했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 유라는 “큰 기획사부터 개인이 운영하는 에이전시까지 다양한 기획사들에게서 연락이 왔다. 총 60군데 정도 됐다”고 말해 주위를 놀라게 했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그녀는 “학창시절 미술을 배웠다. 그러다 어느날 갑자기 데뷔를 한 내 모습이 떠올랐다. 부모님께 고3까지만 데뷔를 준비하겠다고 했다. 근데 내가 딱 고3때 데뷔를 했다”고 말했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “데뷔 전에 미니홈피라는 게 있었다. 메인에 소개되는 미니홈피라는 것을 보고 소속사에서 먼저 연락이 오게 해야겠다 생각했다. 그래서 예쁜 사진을 올렸더니 소속사에서 연락이 많이 왔다”고 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "MC들은 “그 중 유명한 곳도 있었냐”고 묻자 유라는 “FNC가 있었다. 지금의 AOA를 준비하고 있었던 것으로 안다”고 말했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AOA 될 뻔했다는 걸스데이 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

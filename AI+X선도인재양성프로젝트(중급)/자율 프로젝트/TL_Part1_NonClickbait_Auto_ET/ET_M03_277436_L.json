@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277436",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "찬열 인스타그램에 댓글 단 태연",
+		"newsSubTitle": "",
+		"newsContent": "'엑소' 찬열의 인스타그램에 태연이 댓글을 달아 화제다.\n찬열은 자신의 인스타그램에 \\\"푸들 두 마리 미씽나인 본방사수 대기중 #오늘부턴많이나올수도\\\"라는 글과 함께 자신의 반려견 사진을 게재했다.\n찬열의 사진에 많은 팬들이 댓글을 달며 반려견의 귀여움에 대해 칭찬했다.\n그 수많은 댓글 중 눈에 띄는 댓글이 있었다. '소녀시대' 태연이 \\\"아, 너무 귀엽다. 나도 우리 진져가 보고싶네\\\"라고 댓글을 단 것.이어 태연은 자신의 인스타그램애 \\\"핫바디\\\"라는 글과 함께 자신의 반려견 사진을 게재했다.\n태연의 댓글에 팬들은 \\\"아, 둘 다 너무 귀엽다\\\" \\\"탱구, 여기에도 댓글 남기네\\\"라며 긍정적인 반응을 보였다.\n한편 태연은 다른 연예인들의 인스타그램에 자주 댓글을 남기며 소통해 팬들의 사랑을 받아왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'엑소' 찬열의 인스타그램에 태연이 댓글을 달아 화제다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "찬열은 자신의 인스타그램에 \\\"푸들 두 마리 미씽나인 본방사수 대기중 #오늘부턴많이나올수도\\\"라는 글과 함께 자신의 반려견 사진을 게재했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "찬열의 사진에 많은 팬들이 댓글을 달며 반려견의 귀여움에 대해 칭찬했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그 수많은 댓글 중 눈에 띄는 댓글이 있었다. '소녀시대' 태연이 \\\"아, 너무 귀엽다. 나도 우리 진져가 보고싶네\\\"라고 댓글을 단 것.이어 태연은 자신의 인스타그램애 \\\"핫바디\\\"라는 글과 함께 자신의 반려견 사진을 게재했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "태연의 댓글에 팬들은 \\\"아, 둘 다 너무 귀엽다\\\" \\\"탱구, 여기에도 댓글 남기네\\\"라며 긍정적인 반응을 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 태연은 다른 연예인들의 인스타그램에 자주 댓글을 남기며 소통해 팬들의 사랑을 받아왔다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "찬열 인스타그램에 댓글 단 태연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280272",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'내딸 금사월' 시청률 30%, 박세영 \\\"명품 악녀연기\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘내딸 금사월’ 36회에서 송하윤이 교통사고로 목숨을 잃었다.\n3일 방송된 MBC 주말드라마 ‘내딸 금사월’에서 오혜상(박세영)은 이홍도(송하윤)를 구하지 않았다.\n오혜상은 주기황(안내상)을 만나러 가는 이홍도를 보게 되고 이홍도가 제 과거 악행을 주기황에게 알릴까 두려워 납치를 감행했다.\n오혜상은 운전을 하던 중 차가 뒤집히는 사고를 당했고, 오혜상은 뒤집힌 차에서 탈출했지만 이홍도는 나오지 못했다.\n오혜상은 이홍도에게 “내가 너 구해주면 더 이상 나랑 사월이 이야기 누구에게도 말 안 하겠다고 약속해라”고 말했다.\n이에 이홍도는 “그럴 수 없다. 네가 지은 죗값은 치러야 한다”고 답했고 오혜상은 “그럼 어쩔 수 없다. 그냥 여기서 죽어 버려라. 마지막 거래를 거절한 건 너다. 난 죄 없다”고 말하며 도망쳤다.\n이후 이홍도가 타고 있는 차는 폭발했고 홍도는 차안에서 빠져나오지 못해 결국 죽음을 맞았다.\n금사월은 갑작스러운 사고 소식에 망연자실했고, 친딸 홍도의 소식을 접한 기황(안내상) 역시 \\\"불쌍한 널 누가 이렇게 만든 거야\\\"라며 눈물을 흘려 안타까움을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘내딸 금사월’ 36회에서 송하윤이 교통사고로 목숨을 잃었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 방송된 MBC 주말드라마 ‘내딸 금사월’에서 오혜상(박세영)은 이홍도(송하윤)를 구하지 않았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오혜상은 주기황(안내상)을 만나러 가는 이홍도를 보게 되고 이홍도가 제 과거 악행을 주기황에게 알릴까 두려워 납치를 감행했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오혜상은 운전을 하던 중 차가 뒤집히는 사고를 당했고, 오혜상은 뒤집힌 차에서 탈출했지만 이홍도는 나오지 못했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오혜상은 이홍도에게 “내가 너 구해주면 더 이상 나랑 사월이 이야기 누구에게도 말 안 하겠다고 약속해라”고 말했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 이홍도는 “그럴 수 없다. 네가 지은 죗값은 치러야 한다”고 답했고 오혜상은 “그럼 어쩔 수 없다. 그냥 여기서 죽어 버려라. 마지막 거래를 거절한 건 너다. 난 죄 없다”고 말하며 도망쳤다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 이홍도가 타고 있는 차는 폭발했고 홍도는 차안에서 빠져나오지 못해 결국 죽음을 맞았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "금사월은 갑작스러운 사고 소식에 망연자실했고, 친딸 홍도의 소식을 접한 기황(안내상) 역시 \\\"불쌍한 널 누가 이렇게 만든 거야\\\"라며 눈물을 흘려 안타까움을 자아냈다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'내딸 금사월' 시청률 30%, 박세영 \\\"명품 악녀연기\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

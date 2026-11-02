@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265468",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "곽진언, 4월 6일 돌아온다",
+		"newsSubTitle": "",
+		"newsContent": "가수 곽진언이 새 앨범을 발매한다. 31일 곽진언 소속사 뮤직팜은 “곽진언이 새 미니 앨범으로 오는 4월 6일 컴백한다”고 밝히며, “이번 미니 앨범은 곽진언만의 서정적인 감성을 그리워한 이들에게 선물 같은 앨범이 될 것”이라고 팬들의 기대를 높였다.\n곽진언의 새 미니 앨범에는 총 4곡이 수록될 예정이다.\n독보적인 감성과 특유의 중저음 보이스로 팬들에게 많은 사랑을 받고 있는 곽진언이 어떤 음악으로 돌아올지 관심이 모인다.\n지난 2016년 정규 앨범 ‘나랑 갈래’를 발매한 곽진언은 앨범 프로듀싱 전반에 참여해 ‘완성형 뮤지션’으로서의 탄생을 알렸다.\n어쿠스틱 포크 음악을 기반으로 하는 곽진언은 탁월한 보컬 톤과 읊조리는 듯 담담히 위로를 전하는 화법으로 리스너들의 사랑을 받고 있다.\n한편, 곽진언은 오는 4월 6일 오후 6시 새 앨범을 공개할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 곽진언이 새 앨범을 발매한다. 31일 곽진언 소속사 뮤직팜은 “곽진언이 새 미니 앨범으로 오는 4월 6일 컴백한다”고 밝히며, “이번 미니 앨범은 곽진언만의 서정적인 감성을 그리워한 이들에게 선물 같은 앨범이 될 것”이라고 팬들의 기대를 높였다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "곽진언의 새 미니 앨범에는 총 4곡이 수록될 예정이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "독보적인 감성과 특유의 중저음 보이스로 팬들에게 많은 사랑을 받고 있는 곽진언이 어떤 음악으로 돌아올지 관심이 모인다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2016년 정규 앨범 ‘나랑 갈래’를 발매한 곽진언은 앨범 프로듀싱 전반에 참여해 ‘완성형 뮤지션’으로서의 탄생을 알렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어쿠스틱 포크 음악을 기반으로 하는 곽진언은 탁월한 보컬 톤과 읊조리는 듯 담담히 위로를 전하는 화법으로 리스너들의 사랑을 받고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 곽진언은 오는 4월 6일 오후 6시 새 앨범을 공개할 예정이다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "곽진언, 4월 6일 돌아온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

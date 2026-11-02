@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260404",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김희재, 백혈병 환아에 120만 원 기부",
+		"newsSubTitle": "",
+		"newsContent": "가수 김희재가 한국소아암재단에 기부한 사실이 알려졌다.\n한국소아암재단은 김희재가 선한트롯 1월 가왕전 상금 120만 원을 소아암 백혈병 환아와 가족을 위한 ‘정서 지원 사업’을 위해 기부했다고 금일(9일)밝혔다.\n김희재는 매월 가왕전을 통해 지속해서 쉼 없이 선행을 이어왔고, 어느덧 선한트롯 가왕전 상금의 누적 기부금액이 1,453만 원에 이르렀다. 김희재는 힘든 겨울을 나고 있는 환아들에게 변함없는 관심과 도움으로 희망이라는 선물을 전하며 선한 영향력의 선두 주자로서 모범을 보여 대중들에게 큰 감동을 선사하고 있다.\n한국소아암재단은 가수 김희재 이름으로 기부한 가왕전 상금을 소아암, 백혈병, 희귀 난치질환으로 고통받고 있는 환아와 가족들을 위해 비대면 플라워클래스 사업으로 사용할 예정이라고 밝혔다.\n한국소아암재단은 2001년 보건복지부에 등록된 비영리 재단법인으로 소아암, 백혈병 및 희귀질환 어린이 치료비 및 수술비 지원, 외래치료비 및 긴급 치료비 지원, 정서 지원, 헌혈 캠페인, 소아암 어린이 쉼터운영 등 다양한 사업 활동을 펼치고 있다.\n한편, 김희재는 올해 방송 예정인 MBC 드라마 ‘지금부터, 쇼타임!’으로 연기 데뷔에 나서는 등 다양하고 왕성한 활동을 벌일 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김희재가 한국소아암재단에 기부한 사실이 알려졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국소아암재단은 김희재가 선한트롯 1월 가왕전 상금 120만 원을 소아암 백혈병 환아와 가족을 위한 ‘정서 지원 사업’을 위해 기부했다고 금일(9일)밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김희재는 매월 가왕전을 통해 지속해서 쉼 없이 선행을 이어왔고, 어느덧 선한트롯 가왕전 상금의 누적 기부금액이 1,453만 원에 이르렀다. 김희재는 힘든 겨울을 나고 있는 환아들에게 변함없는 관심과 도움으로 희망이라는 선물을 전하며 선한 영향력의 선두 주자로서 모범을 보여 대중들에게 큰 감동을 선사하고 있다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국소아암재단은 가수 김희재 이름으로 기부한 가왕전 상금을 소아암, 백혈병, 희귀 난치질환으로 고통받고 있는 환아와 가족들을 위해 비대면 플라워클래스 사업으로 사용할 예정이라고 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국소아암재단은 2001년 보건복지부에 등록된 비영리 재단법인으로 소아암, 백혈병 및 희귀질환 어린이 치료비 및 수술비 지원, 외래치료비 및 긴급 치료비 지원, 정서 지원, 헌혈 캠페인, 소아암 어린이 쉼터운영 등 다양한 사업 활동을 펼치고 있다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 김희재는 올해 방송 예정인 MBC 드라마 ‘지금부터, 쇼타임!’으로 연기 데뷔에 나서는 등 다양하고 왕성한 활동을 벌일 계획이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김희재, 백혈병 환아에 120만 원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

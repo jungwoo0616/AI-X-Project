@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269748",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘갓파더’ 김숙×조나단, 명품 편집숍에 뜬 ‘갓남매’",
+		"newsSubTitle": "",
+		"newsContent": "김숙이 명품 플렉스를 예고했다.\n10일 방송되는 KBS 2TV 예능프로그램 ‘新가족관계증명서 갓파더’(이하 ‘갓파더’)에서는 김숙과 조나단이 서울 청담동의 한 명품 편집숍을 방문한다.\n김숙은 광주에서 오래 살아온 조나단을 위해 자신이 알고 있는 서울의 유명한 장소들을 알려준다.\n먼저 청담동의 명품 편집숍에 들리게 된 김숙과 조나단. 명품들이 가득한 가운데, 김숙은 조나단과 물건들을 구경한다.\n반면 조나단은 명품 편집숍 직원이 고가의 명품들을 소개할 때 마다 입을 다물지 못한다고. 이를 옆에서 지켜보던 김숙은 조나단에게 “진짜 마음에 들면 살 수 있다”라며 플렉스를 예고해 관심이 집중된다.\n이후 김숙과 조나단은 호기롭게 매장의 물건들을 살펴본다.\n특히 조나단은 마음에 든 신발을 신어본다.\n하지만 명품 편집숍 직원은 조나단 때문에 크게 당황한다고, 조나단이 어떤 행동을 한 것인지 궁금증이 모아진다. ‘갓남매’ 김숙과 조나단의 명품 편집숍 방문기는 10일 밤 10시 40분 방송되는 KBS 2TV 예능프로그램 ‘新가족관계증명서 갓파더’를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김숙이 명품 플렉스를 예고했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 방송되는 KBS 2TV 예능프로그램 ‘新가족관계증명서 갓파더’(이하 ‘갓파더’)에서는 김숙과 조나단이 서울 청담동의 한 명품 편집숍을 방문한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김숙은 광주에서 오래 살아온 조나단을 위해 자신이 알고 있는 서울의 유명한 장소들을 알려준다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 청담동의 명품 편집숍에 들리게 된 김숙과 조나단. 명품들이 가득한 가운데, 김숙은 조나단과 물건들을 구경한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면 조나단은 명품 편집숍 직원이 고가의 명품들을 소개할 때 마다 입을 다물지 못한다고. 이를 옆에서 지켜보던 김숙은 조나단에게 “진짜 마음에 들면 살 수 있다”라며 플렉스를 예고해 관심이 집중된다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 김숙과 조나단은 호기롭게 매장의 물건들을 살펴본다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 조나단은 마음에 든 신발을 신어본다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 명품 편집숍 직원은 조나단 때문에 크게 당황한다고, 조나단이 어떤 행동을 한 것인지 궁금증이 모아진다. ‘갓남매’ 김숙과 조나단의 명품 편집숍 방문기는 10일 밤 10시 40분 방송되는 KBS 2TV 예능프로그램 ‘新가족관계증명서 갓파더’를 통해 확인할 수 있다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘갓파더’ 김숙×조나단, 명품 편집숍에 뜬 ‘갓남매’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273216",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘세계 다크투어’ 신입 봉태규, 완벽한 추리력 선보여",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘세계 다크투어’에 새로 합류한 봉태규가 고된 신고식을 치른다.\n봉태규는 오는 16일 프로파일러 표창원과 함께 세계의 어둠을 찾아가는 ‘다크투어 버스’에 참가한다.\n표창원은 “오늘 만나볼 범죄자는 100명의 여성을 살해했다”며 “어느 때보다 어두운 여행이 될 것이다”라고 말했다.\n표창원이 과연 어떤 현장을 안내할지 궁금증을 유발한다.\n참혹한 범행 장소에 발을 들인 다섯 MC는 현장에 남겨진 흔적을 보고 사건 당시 상황을 추리한다.\n봉태규가 범죄자의 심리를 완벽하게 간파한다는 소식이 알려져 기대를 모으고 있다.\n막내 이정현은 범죄를 둘러싼 이상한 궁금증으로 여행객들의 원성을 샀다.\n이를 지켜보던 봉태규가 “원래 이렇게 엉망진창이냐”며 “뭐 하는 프로그램이야 이거?”라고 의문을 표해 웃음을 자아낸다.\n봉태규의 날카로운 추리력과 입담은 오는 16일 오후 9시 JTBC ‘세계 다크투어’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘세계 다크투어’에 새로 합류한 봉태규가 고된 신고식을 치른다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "봉태규는 오는 16일 프로파일러 표창원과 함께 세계의 어둠을 찾아가는 ‘다크투어 버스’에 참가한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "표창원은 “오늘 만나볼 범죄자는 100명의 여성을 살해했다”며 “어느 때보다 어두운 여행이 될 것이다”라고 말했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "표창원이 과연 어떤 현장을 안내할지 궁금증을 유발한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "참혹한 범행 장소에 발을 들인 다섯 MC는 현장에 남겨진 흔적을 보고 사건 당시 상황을 추리한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "봉태규가 범죄자의 심리를 완벽하게 간파한다는 소식이 알려져 기대를 모으고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "막내 이정현은 범죄를 둘러싼 이상한 궁금증으로 여행객들의 원성을 샀다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 지켜보던 봉태규가 “원래 이렇게 엉망진창이냐”며 “뭐 하는 프로그램이야 이거?”라고 의문을 표해 웃음을 자아낸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "봉태규의 날카로운 추리력과 입담은 오는 16일 오후 9시 JTBC ‘세계 다크투어’에서 확인할 수 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘세계 다크투어’ 신입 봉태규, 완벽한 추리력 선보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

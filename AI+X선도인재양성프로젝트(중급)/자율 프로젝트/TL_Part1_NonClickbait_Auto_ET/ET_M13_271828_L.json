@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271828",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "블랙핑크 ‘How You Like That’ MV, 11억뷰 돌파",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크의 ‘How You Like That’ 뮤직비디오가 유튜브에서 11억뷰를 돌파했다.\n블랙핑크 통산 6번째 11억뷰 영상이다.\n30일 YG엔터테인먼트에 따르면 블랙핑크의 ‘How You Like That’ 뮤직비디오는 이날 오후 4시 51분께 유튜브에서 조회수 11억 회를 넘어섰다.\n지난 2020년 6월 26일 공개된 지 약 1년 11개월 만이다.\n이로써 블랙핑크는 유튜브에서 11억뷰 이상 영상을 총 6편 보유하게 됐다.\n앞서 ‘뚜두뚜두’(18억뷰), ‘Kill This Love’(15억뷰), ‘붐바야’(14억뷰), ‘마지막처럼’(11억뷰) 뮤직비디오가 같은 조회수를 달성했었다. ‘How You Like That’은 어떤 상황에서도 굴하지 않고 높이 비상하자는 메시지를 담은 곡이다.\n2020 미국 MTV 비디오뮤직어워즈에서 ‘올여름 최고의 곡(Song of The Summer)’을 수상했으며 그해 유튜브가 선정한 ‘글로벌 톱 섬머 송(Global Top Summer Song)’ 1위를 차지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크의 ‘How You Like That’ 뮤직비디오가 유튜브에서 11억뷰를 돌파했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블랙핑크 통산 6번째 11억뷰 영상이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "30일 YG엔터테인먼트에 따르면 블랙핑크의 ‘How You Like That’ 뮤직비디오는 이날 오후 4시 51분께 유튜브에서 조회수 11억 회를 넘어섰다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2020년 6월 26일 공개된 지 약 1년 11개월 만이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이로써 블랙핑크는 유튜브에서 11억뷰 이상 영상을 총 6편 보유하게 됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 ‘뚜두뚜두’(18억뷰), ‘Kill This Love’(15억뷰), ‘붐바야’(14억뷰), ‘마지막처럼’(11억뷰) 뮤직비디오가 같은 조회수를 달성했었다. ‘How You Like That’은 어떤 상황에서도 굴하지 않고 높이 비상하자는 메시지를 담은 곡이다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2020 미국 MTV 비디오뮤직어워즈에서 ‘올여름 최고의 곡(Song of The Summer)’을 수상했으며 그해 유튜브가 선정한 ‘글로벌 톱 섬머 송(Global Top Summer Song)’ 1위를 차지했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 ‘How You Like That’ MV, 11억뷰 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

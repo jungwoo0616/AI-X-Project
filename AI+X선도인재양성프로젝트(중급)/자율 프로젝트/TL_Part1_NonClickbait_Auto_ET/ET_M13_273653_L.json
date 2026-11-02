@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273653",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "함소원 “점심 먹으러 가요”",
+		"newsSubTitle": "",
+		"newsContent": "엔터테이너 함소원이 S라인 몸매를 뽐냈다.\n함소원은 20일 SNS에 “혜정이 영유간사이 남편과 점심 먹으러 가요”라는 글과 함께 영상을 공개했다.\n영상에는 함소원이 파란색 반바지에 누드톤 상의를 입은 모습이 담겼다.\n한소원은 47살 나이에도 날씬한 몸을 유지하고 있다.\n함소원은 18살 연하 중국인 남편과 결혼해 슬하에 딸을 두고 있다.\nTV 조선 ‘아내의 맛’을 통해 일상을 전했던 함소원은 방송 조작 논란으로 물의를 빚은 바 있다.\n파문이 이어지자 방송에서 하차를 했던 함소원은 최근 채널S ‘진격의 할매’에 출연하며 방송에 복귀했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엔터테이너 함소원이 S라인 몸매를 뽐냈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "함소원은 20일 SNS에 “혜정이 영유간사이 남편과 점심 먹으러 가요”라는 글과 함께 영상을 공개했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에는 함소원이 파란색 반바지에 누드톤 상의를 입은 모습이 담겼다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한소원은 47살 나이에도 날씬한 몸을 유지하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "함소원은 18살 연하 중국인 남편과 결혼해 슬하에 딸을 두고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "TV 조선 ‘아내의 맛’을 통해 일상을 전했던 함소원은 방송 조작 논란으로 물의를 빚은 바 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파문이 이어지자 방송에서 하차를 했던 함소원은 최근 채널S ‘진격의 할매’에 출연하며 방송에 복귀했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "함소원 “점심 먹으러 가요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

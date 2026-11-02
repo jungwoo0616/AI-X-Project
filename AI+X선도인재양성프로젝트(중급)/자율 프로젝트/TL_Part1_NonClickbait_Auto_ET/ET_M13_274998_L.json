@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274998",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정유미, 박은빈에게 빠졌다 “나도 김밥 좋아해”",
+		"newsSubTitle": "",
+		"newsContent": "2 배우 정유미가 박은빈이 연기하는 ‘우영우’에 완전히 매료됐다.\n정유미는 7일 자신의 사회관계망서비스(SNS)에 ENA 드라마 ‘이상한 변호사 우영우’를 관람 인증사진을 남겼다.\n정유미는 노트북으로 드라마 ‘이상한 변호사 우영우’에 등장하는 박은빈의 모습이 담았다.\n드라마 속 박은빈의 연기에 감동한 정유미는 이모티콘으로 ‘따봉’을 만들어 보였다.\n또 정유미는 ‘우영우’가 좋아하는 김밥 사진을 올리며 “나도 김밥 좋아해”라며 과몰입 상태를 드러냈다.\n앞서 ‘우영우’는 케이블 드라마의 장벽을 허물고 수목극 시청률 4%로 기록해 1위를 차지했다. (닐슨코리아 제공-전국기준) ‘우영우’의 1화 시청률 0.8%라는 점에서 이는 괄목한 상승세다.\n한편 정유미는 김태용 감독의 신작 ‘원더랜드’의 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2 배우 정유미가 박은빈이 연기하는 ‘우영우’에 완전히 매료됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정유미는 7일 자신의 사회관계망서비스(SNS)에 ENA 드라마 ‘이상한 변호사 우영우’를 관람 인증사진을 남겼다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정유미는 노트북으로 드라마 ‘이상한 변호사 우영우’에 등장하는 박은빈의 모습이 담았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "드라마 속 박은빈의 연기에 감동한 정유미는 이모티콘으로 ‘따봉’을 만들어 보였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 정유미는 ‘우영우’가 좋아하는 김밥 사진을 올리며 “나도 김밥 좋아해”라며 과몰입 상태를 드러냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 ‘우영우’는 케이블 드라마의 장벽을 허물고 수목극 시청률 4%로 기록해 1위를 차지했다. (닐슨코리아 제공-전국기준) ‘우영우’의 1화 시청률 0.8%라는 점에서 이는 괄목한 상승세다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 정유미는 김태용 감독의 신작 ‘원더랜드’의 개봉을 앞두고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정유미, 박은빈에게 빠졌다 “나도 김밥 좋아해”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277123",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "셀카 요청에 ‘남사친’처럼 포즈 취해주는 '고등래퍼'",
+		"newsSubTitle": "",
+		"newsContent": "고등래퍼 최서현이 팬들과 찍은 다정한 셀카가 화제다.\n최근 SNS에 Mnet'고등래퍼‘최서현이 팬들과 찍은 사진이 공개돼 눈길을 끌었다.\n사진 속 최서현은 선한 미소를 지으며 팬들의 셀카 요청에 친절하게 응하고 있다.\n그는 팬들과 셀카를 찍을 때 다정한 포즈를 취한 뒤 윙크, V자를 그리는 등의 친근한 행동을 보여 주목을 받았다.\n그는 사진을 함께 찍자고 요청하는 이들에게 농담도 건네고 친밀하게 행동해 상대를 편하게 해 준다고 한다.\n최서현은‘고등래퍼’광주·전라 지역 대표로 참가해 뛰어난 실력으로 많은 주목을 받았으나 개인 대결과 팀 대결에서 연이어 패배하며 아쉽게 탈락했다.\n그는 현재 패자부활전을 통해 다시 도전할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고등래퍼 최서현이 팬들과 찍은 다정한 셀카가 화제다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 SNS에 Mnet'고등래퍼‘최서현이 팬들과 찍은 사진이 공개돼 눈길을 끌었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 최서현은 선한 미소를 지으며 팬들의 셀카 요청에 친절하게 응하고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 팬들과 셀카를 찍을 때 다정한 포즈를 취한 뒤 윙크, V자를 그리는 등의 친근한 행동을 보여 주목을 받았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 사진을 함께 찍자고 요청하는 이들에게 농담도 건네고 친밀하게 행동해 상대를 편하게 해 준다고 한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최서현은‘고등래퍼’광주·전라 지역 대표로 참가해 뛰어난 실력으로 많은 주목을 받았으나 개인 대결과 팀 대결에서 연이어 패배하며 아쉽게 탈락했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 현재 패자부활전을 통해 다시 도전할 예정이다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "셀카 요청에 ‘남사친’처럼 포즈 취해주는 '고등래퍼'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

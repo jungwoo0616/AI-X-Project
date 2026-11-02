@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271777",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임성훈 “채널A 고소할 것” 불륜·가정폭력설 반박",
+		"newsSubTitle": "",
+		"newsContent": "코미디언 임성훈이 양육비 미지급 및 가정폭력 논란에 관해 부인했다.\n임성훈은 30일 한 인터넷 방송인과의 전화통화에서 “해당 논란은 90%가 거짓”이라며 “자료가 다 있다. 양육비를 한 푼도 주지 않았다는 것도 거짓말”이라고 말했다.\n이어 그는 “곧 입장을 표명할 것”이라며 “양육비가 밀린 것은 맞지만 초반에는 150만원 씩 지급했으며 지급했던 내용이 남아있다”고 주장했다.\n끝으로 그는 “채널A를 고소할 예정”이라고 밝히며 “아닌 사실을 왜 그렇게 만드는지 모르겠다”고 억울함을 호소했다.\n앞서 지난 28일 채널A 예능프로그램 ‘다시 뜨거워지고 싶은 애로부부(이하 애로부부)’에서는 성공 이후 불륜은 뿐만 아니라 뒷바라지를 한 아내를 향해 가정폭력까지 행사한 뒤 이혼 이후 양육비도 제대로 지급하지 있지 않는 남편의 사연을 공개했다.\n이날 방송에서 남편의 실명은 언급되지 않았으나 해당 방송이 공개된 후 누리꾼들 사이에서 남편이 임성훈으로 지목되며 논란이 되었다.\n임성훈은 논란의 중심이 되자 30일 자신의 SNS를 비공개로 돌리며 누리꾼들의 추측을 증폭시켰다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코미디언 임성훈이 양육비 미지급 및 가정폭력 논란에 관해 부인했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임성훈은 30일 한 인터넷 방송인과의 전화통화에서 “해당 논란은 90%가 거짓”이라며 “자료가 다 있다. 양육비를 한 푼도 주지 않았다는 것도 거짓말”이라고 말했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 그는 “곧 입장을 표명할 것”이라며 “양육비가 밀린 것은 맞지만 초반에는 150만원 씩 지급했으며 지급했던 내용이 남아있다”고 주장했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "끝으로 그는 “채널A를 고소할 예정”이라고 밝히며 “아닌 사실을 왜 그렇게 만드는지 모르겠다”고 억울함을 호소했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 지난 28일 채널A 예능프로그램 ‘다시 뜨거워지고 싶은 애로부부(이하 애로부부)’에서는 성공 이후 불륜은 뿐만 아니라 뒷바라지를 한 아내를 향해 가정폭력까지 행사한 뒤 이혼 이후 양육비도 제대로 지급하지 있지 않는 남편의 사연을 공개했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 방송에서 남편의 실명은 언급되지 않았으나 해당 방송이 공개된 후 누리꾼들 사이에서 남편이 임성훈으로 지목되며 논란이 되었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "임성훈은 논란의 중심이 되자 30일 자신의 SNS를 비공개로 돌리며 누리꾼들의 추측을 증폭시켰다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임성훈 “채널A 고소할 것” 불륜·가정폭력설 반박",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

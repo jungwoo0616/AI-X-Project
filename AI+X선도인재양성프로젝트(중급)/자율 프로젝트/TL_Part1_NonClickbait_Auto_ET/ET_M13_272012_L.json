@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272012",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "잔나비 ‘여름가을겨울 봄.’ MV…레트로감성 담았다",
+		"newsSubTitle": "",
+		"newsContent": "그룹사운드 잔나비가 ‘여름가을겨울 봄.’ 뮤직비디오를 공개했다.\n잔나비는 지난 1일 공식 유튜브 채널을 통해 지난달 발매한 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’ 세 번째 트랙 ‘여름가을겨울 봄.’ 뮤직비디오를 선보였다.\n이날 공개된 영상은 한바탕 어지러이 흘러가는 일상 속 가면을 쓴 한 사람의 모습이 반전되는 분위기를 이끌며 이목을 모았다.\n레트로한 영상미와 빈티지한 컬러감 또한 곡의 매력을 끌어올리며 한 편의 고전 영화를 보는 듯한 완성도를 보여줬다.\n특히 다채로운 오케스트레이션 사운드 위로 시적인 노랫말이 어우러져 듣고 보는 재미를 선사했다. ‘여름가을겨울 봄’은 봄이 계절의 처음에 있는지에 대한 의문을 음악으로 풀어낸 곡이다.\n잔나비는 애써 피운 꽃을 떠나보내기보다는 꽃 한바탕 피우고 박수받으며 마지막을 장식하고 싶다는 메시지를 담았다.\n한편 JTBC ‘뜨거운 싱어즈’ 음악감독으로 활약했던 잔나비는 최근 대학 축제 무대에 올라 기분 좋은 에너지를 전파하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹사운드 잔나비가 ‘여름가을겨울 봄.’ 뮤직비디오를 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잔나비는 지난 1일 공식 유튜브 채널을 통해 지난달 발매한 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’ 세 번째 트랙 ‘여름가을겨울 봄.’ 뮤직비디오를 선보였다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 공개된 영상은 한바탕 어지러이 흘러가는 일상 속 가면을 쓴 한 사람의 모습이 반전되는 분위기를 이끌며 이목을 모았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "레트로한 영상미와 빈티지한 컬러감 또한 곡의 매력을 끌어올리며 한 편의 고전 영화를 보는 듯한 완성도를 보여줬다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 다채로운 오케스트레이션 사운드 위로 시적인 노랫말이 어우러져 듣고 보는 재미를 선사했다. ‘여름가을겨울 봄’은 봄이 계절의 처음에 있는지에 대한 의문을 음악으로 풀어낸 곡이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "잔나비는 애써 피운 꽃을 떠나보내기보다는 꽃 한바탕 피우고 박수받으며 마지막을 장식하고 싶다는 메시지를 담았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 JTBC ‘뜨거운 싱어즈’ 음악감독으로 활약했던 잔나비는 최근 대학 축제 무대에 올라 기분 좋은 에너지를 전파하고 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "잔나비 ‘여름가을겨울 봄.’ MV…레트로감성 담았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

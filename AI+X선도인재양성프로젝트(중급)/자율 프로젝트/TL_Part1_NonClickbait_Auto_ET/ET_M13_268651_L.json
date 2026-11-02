@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268651",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘엄마는 예뻤다’ 박현우CP “엄마에게 선물하는 프로그램”",
+		"newsSubTitle": "",
+		"newsContent": "박현우 CP가 ‘엄마는 예뻤다’의 제작 동기를 밝혔다.\nLG헬로비전과 MBN의 예능 프로그램 ‘엄마는 예뻤다’ 제작 발표회가 29일 온라인으로 진행됐다.\n현장에는 배우 황신혜, 가수 이지혜와 장민호, 메이크업 아티스트 이경민, 박현우CP가 참석했다. ‘엄마는 예뻤다’는 의학, 패션, 뷰티 등 각 분야 전문가들이 맞춤형 솔루션을 제공해 엄마의 예뻤던 청춘으로 회귀시켜줄 뿐 아니라 엄마의 마음까지 치유해 삶을 대하는 방식을 바꿔주는 솔루션 프로그램이다.\n박현우 CP는 이날 ‘엄마는 예뻤다’에 대해 “엄마들이 가정을 위해 살다 본인의 삶이 사라지곤 한다. 자식들의 신청을 받아 엄마에게 선물해주고 싶은 마음을 함께 도와주는 프로그램”이라고 설명했다.\n또한 그는 “엄마를 보고 선정한다기 보다는 자녀들의 사연을 통해 출연자를 선택했다”고 밝히는 한편 “내가 효심이 부족해 한을 풀기 위해 만든 프로그램이다”라고 너스레를 떨어 현장을 웃음바다로 만들었다.\n박현우CP가 제작한 LG헬로비전과 MBN의 새 예능 프로그램 ‘엄마는 에뻤다’는 배우 오는 5월 1일 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박현우 CP가 ‘엄마는 예뻤다’의 제작 동기를 밝혔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG헬로비전과 MBN의 예능 프로그램 ‘엄마는 예뻤다’ 제작 발표회가 29일 온라인으로 진행됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현장에는 배우 황신혜, 가수 이지혜와 장민호, 메이크업 아티스트 이경민, 박현우CP가 참석했다. ‘엄마는 예뻤다’는 의학, 패션, 뷰티 등 각 분야 전문가들이 맞춤형 솔루션을 제공해 엄마의 예뻤던 청춘으로 회귀시켜줄 뿐 아니라 엄마의 마음까지 치유해 삶을 대하는 방식을 바꿔주는 솔루션 프로그램이다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박현우 CP는 이날 ‘엄마는 예뻤다’에 대해 “엄마들이 가정을 위해 살다 본인의 삶이 사라지곤 한다. 자식들의 신청을 받아 엄마에게 선물해주고 싶은 마음을 함께 도와주는 프로그램”이라고 설명했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 그는 “엄마를 보고 선정한다기 보다는 자녀들의 사연을 통해 출연자를 선택했다”고 밝히는 한편 “내가 효심이 부족해 한을 풀기 위해 만든 프로그램이다”라고 너스레를 떨어 현장을 웃음바다로 만들었다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박현우CP가 제작한 LG헬로비전과 MBN의 새 예능 프로그램 ‘엄마는 에뻤다’는 배우 오는 5월 1일 첫 방송된다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엄마는 예뻤다’ 박현우CP “엄마에게 선물하는 프로그램”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

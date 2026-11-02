@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283817",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'마리텔' 이말년, 생방송 전반 1위…\\\"이 방송을 3만명이나 보다니\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'마리텔 이말년' '이말년' 만화가 이말년이 자신의 연봉을 공개해 화제다.\n지난 8일 방송된 MBC 예능 프로그램 '마이 리틀 텔레비전'에는 유명 만화가 이말년이 출연해 유쾌한 예능감을 뽐냈다.\n이날 이말년은 자신의 연봉을 솔직하게 공개했다.\n이말년은 “연봉은 그때 그때 다르다. 왜냐하면 본편 연재하는 게 있고, 외주하는 게 그때 그때 다르기 때문에 연마다 다르다”라고 말했다.\n이어 이말년은 “대충 억 대이다. 억 대 초반이다. 이렇게 번 지는 얼마 안 됐다. 원랜 처참했다. 맨 처음 야후에서 연재할 땐 월 40만원인가 50만원을 받았다. 근데 다른 작가님들은 60만원을 준다고 하더라. 그래서 나도 60만원으로 맞춰 달라고 했다”고 말해 웃음을 자아냈다.\n또한 이말년은 “같은 지면에 연재하고 동료 작가들이기 때문에 맞춰달라고 한 건데 안 된다더라. 딱히 그 이유는 설명을 안 해줬는데 왠지 알 것 같더라”라고 셀프디스를 해 폭소를 유발했다.\n한편 '마이 리틀 텔레비전'의 MLT-15에서는 김현욱 아나운서, 가수 윤상과 걸그룹 러블리즈, 웹툰 작가 이말년, 요리 연구가 이혜정, 개그맨 김구라가 개인 방송을 진행했다. '마리텔 이말년' '이말년' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'마리텔 이말년' '이말년' 만화가 이말년이 자신의 연봉을 공개해 화제다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 8일 방송된 MBC 예능 프로그램 '마이 리틀 텔레비전'에는 유명 만화가 이말년이 출연해 유쾌한 예능감을 뽐냈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이말년은 자신의 연봉을 솔직하게 공개했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이말년은 “연봉은 그때 그때 다르다. 왜냐하면 본편 연재하는 게 있고, 외주하는 게 그때 그때 다르기 때문에 연마다 다르다”라고 말했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이말년은 “대충 억 대이다. 억 대 초반이다. 이렇게 번 지는 얼마 안 됐다. 원랜 처참했다. 맨 처음 야후에서 연재할 땐 월 40만원인가 50만원을 받았다. 근데 다른 작가님들은 60만원을 준다고 하더라. 그래서 나도 60만원으로 맞춰 달라고 했다”고 말해 웃음을 자아냈다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 이말년은 “같은 지면에 연재하고 동료 작가들이기 때문에 맞춰달라고 한 건데 안 된다더라. 딱히 그 이유는 설명을 안 해줬는데 왠지 알 것 같더라”라고 셀프디스를 해 폭소를 유발했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 '마이 리틀 텔레비전'의 MLT-15에서는 김현욱 아나운서, 가수 윤상과 걸그룹 러블리즈, 웹툰 작가 이말년, 요리 연구가 이혜정, 개그맨 김구라가 개인 방송을 진행했다. '마리텔 이말년' '이말년' 온라인 중앙일보",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'마리텔' 이말년, 생방송 전반 1위…\\\"이 방송을 3만명이나 보다니\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

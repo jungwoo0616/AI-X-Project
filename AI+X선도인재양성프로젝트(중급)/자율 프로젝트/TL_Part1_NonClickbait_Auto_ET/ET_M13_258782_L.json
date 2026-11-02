@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258782",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘캠핑 뮤직 페스티벌’ 2월 26일개막",
+		"newsSubTitle": "",
+		"newsContent": "밴드 몽니, 브로콜리너마저 등 뮤지션과 관객이 만나 캠핑을 즐기듯 음악에 빠지는 무대가 마련된다..\n모던보이엔터테인먼트가 2월 26∼27일 서울 용산구 노들섬 라이브하우스에서 ‘2022 캠핑 뮤직 페스티벌’을 연다고 20일 밝혔다.\n페스티벌은 캠핑장으로 꾸며진 공연장에서 뮤지션과 관객이 만나는 무대다.\n복잡한 일상을 벗어나 도심 속에서 펼쳐지는 ‘음악 여행’을 즐기자는 콘셉트로 마련됐다.\n공연은 이틀간 총 3번에 걸쳐 열린다.\n첫날 1회차 공연에는 기프트·몽니, 2회차 공연에는 윤딴딴·브로콜리너마저가 무대에 오른다.\n마지막 공연은 탄타라 프로젝트(고유진, 김신의, 조장혁, 김용진, 오아랜)와 짙은이 채울 예정이다.\n주최사 측은 “실제로 캠핑장에 온 듯한 분위기의 무대와 포토존 등 다양한 연출 구성으로 도심 속 캠핑장을 재현해 관객들에게 만족도 높은 공연을 선보일 계획”이라고 밝혔다.\n페스티벌 티켓은 이달 28일 정오 예스24를 통해 예매할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "밴드 몽니, 브로콜리너마저 등 뮤지션과 관객이 만나 캠핑을 즐기듯 음악에 빠지는 무대가 마련된다..",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모던보이엔터테인먼트가 2월 26∼27일 서울 용산구 노들섬 라이브하우스에서 ‘2022 캠핑 뮤직 페스티벌’을 연다고 20일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페스티벌은 캠핑장으로 꾸며진 공연장에서 뮤지션과 관객이 만나는 무대다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "복잡한 일상을 벗어나 도심 속에서 펼쳐지는 ‘음악 여행’을 즐기자는 콘셉트로 마련됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공연은 이틀간 총 3번에 걸쳐 열린다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "첫날 1회차 공연에는 기프트·몽니, 2회차 공연에는 윤딴딴·브로콜리너마저가 무대에 오른다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마지막 공연은 탄타라 프로젝트(고유진, 김신의, 조장혁, 김용진, 오아랜)와 짙은이 채울 예정이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주최사 측은 “실제로 캠핑장에 온 듯한 분위기의 무대와 포토존 등 다양한 연출 구성으로 도심 속 캠핑장을 재현해 관객들에게 만족도 높은 공연을 선보일 계획”이라고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "페스티벌 티켓은 이달 28일 정오 예스24를 통해 예매할 수 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘캠핑 뮤직 페스티벌’ 2월 26일개막",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

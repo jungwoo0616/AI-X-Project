@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263781",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이승윤 “BTS 콘서트, 티켓팅 실패해 온콘 대기 중”",
+		"newsSubTitle": "",
+		"newsContent": "이승윤이 방탄소년단에 대한 팬심을 공개했다.\n이승윤은 13일 자신의 사회관계망서비스(SNS) 트위터를 통해 “티켓팅에 성공한 아내는 혼자 첫공(첫 공연) 다녀오고 실패한 나는 온콘(온라인 콘서트) 대기중”이라는 글과 함께 사진 한 장을 게시했다.\n사진 속에는 방탄소년단의 플랜카드를 TV 밑에 전시해두고 방탄소년단의 온라인 콘서트를 관람하는 그의 뒷모습이 담겨있어 웃음을 자아내게 했다.\n이승윤은 평소에도 자신의 트위터를 통해 방탄소년단의 생일을 축하하거나, 방탄소년단의 공연을 관람하는 모습을 공개하는 등 방탄소년단에 대한 사랑을 꾸준히 보인 바 있다.\n방탄소년단은 10일 오후 7시, 11일 오후 4시 양일간 온라인 콘서트 ‘방탄소년단 맵 오브 더 솔 원(BTS MAP OF THE SOUL ON:E)’을 개최했다.\n한편 이승윤은 지난 12일 종영한 KBS2 예능프로그램 ‘개승자’에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이승윤이 방탄소년단에 대한 팬심을 공개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이승윤은 13일 자신의 사회관계망서비스(SNS) 트위터를 통해 “티켓팅에 성공한 아내는 혼자 첫공(첫 공연) 다녀오고 실패한 나는 온콘(온라인 콘서트) 대기중”이라는 글과 함께 사진 한 장을 게시했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 방탄소년단의 플랜카드를 TV 밑에 전시해두고 방탄소년단의 온라인 콘서트를 관람하는 그의 뒷모습이 담겨있어 웃음을 자아내게 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이승윤은 평소에도 자신의 트위터를 통해 방탄소년단의 생일을 축하하거나, 방탄소년단의 공연을 관람하는 모습을 공개하는 등 방탄소년단에 대한 사랑을 꾸준히 보인 바 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단은 10일 오후 7시, 11일 오후 4시 양일간 온라인 콘서트 ‘방탄소년단 맵 오브 더 솔 원(BTS MAP OF THE SOUL ON:E)’을 개최했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이승윤은 지난 12일 종영한 KBS2 예능프로그램 ‘개승자’에 출연했다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승윤 “BTS 콘서트, 티켓팅 실패해 온콘 대기 중”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

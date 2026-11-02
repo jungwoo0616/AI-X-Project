@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277626",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이유 위해 산타클로스로 변신한 유인나 영상",
+		"newsSubTitle": "",
+		"newsContent": "아이유를 위해 유인나가 산타클로스로 변장했다.\n25일 아이유는 자신의 인스타그램에 영상과 함께 \\\"이걸(스노우볼) 보내고 진짜 이 복장으로 우리집까지 온 유산타. 다행히 엘리베이터에서 아무도 안 마주쳤다고 한다\\\"란 글을 올렸다.\n영상속에는 산타클로스 복장을 한 유인나의 모습이 담겼다.\n유인나는 \\\"아이유야 메리크리스마스 2016년동안 울지도 않고 거짓말도 안했으니 이 산타가 선물을 준비했다\\\"고 전했다.\n유인나는 머리부터 발끝까지 산타복장을 하고 양손에는 쇼핑백을 들었다.\n10살 차이가 나는 유인나와 아이유는 연예게 오래된 절친으로 유명하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이유를 위해 유인나가 산타클로스로 변장했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 아이유는 자신의 인스타그램에 영상과 함께 \\\"이걸(스노우볼) 보내고 진짜 이 복장으로 우리집까지 온 유산타. 다행히 엘리베이터에서 아무도 안 마주쳤다고 한다\\\"란 글을 올렸다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상속에는 산타클로스 복장을 한 유인나의 모습이 담겼다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유인나는 \\\"아이유야 메리크리스마스 2016년동안 울지도 않고 거짓말도 안했으니 이 산타가 선물을 준비했다\\\"고 전했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유인나는 머리부터 발끝까지 산타복장을 하고 양손에는 쇼핑백을 들었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "10살 차이가 나는 유인나와 아이유는 연예게 오래된 절친으로 유명하다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유 위해 산타클로스로 변신한 유인나 영상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

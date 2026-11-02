@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276726",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "쉬는 동안 10kg 쪘다는 '33사이즈' 여배우 근황",
+		"newsSubTitle": "",
+		"newsContent": "배우 선우선이 쉬는 동안 몸무게가 늘었다고 고백했다.\n8일 방송된 올리브TV '어느 날 갑자기 백만원'에서는 옥택연, 선우선, 박나래가 출연해 100만원으로 생활하는 모습이 그려졌다.\n선우선은 이날 소속사 대표와 만나 \\\"100만원이 갑자기 주어져 무엇을 해야 할지 모르겠다. 너무 사고 싶은 게 많아서 잘 모르겠다\\\"고 말했다.\n소속사 대표는 이에 선우선을 보며 \\\"갑자기 부피가 많이 커졌다\\\"고 했고, 선우선은 \\\"10kg 쪘다. 예전에는 33사이즈였다. 운동은 꼭 해야 한다\\\"고 말했다.\n선우선은 \\\"지금 사이즈가 어떻게 되냐\\\"고 묻자 \\\"44 사이즈다. 66 사이즈에서 44 사이즈로 감량했다\\\"고 답했다.\n또 관계자가 선우선의 마른 시절의 사진을 보여주며 \\\"이때 기억하냐\\\"고 묻자, 선우선은 \\\"저 때는 33 사이즈다. 43~4kg이었다\\\"라고 말해 놀라움을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 선우선이 쉬는 동안 몸무게가 늘었다고 고백했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 방송된 올리브TV '어느 날 갑자기 백만원'에서는 옥택연, 선우선, 박나래가 출연해 100만원으로 생활하는 모습이 그려졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "선우선은 이날 소속사 대표와 만나 \\\"100만원이 갑자기 주어져 무엇을 해야 할지 모르겠다. 너무 사고 싶은 게 많아서 잘 모르겠다\\\"고 말했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사 대표는 이에 선우선을 보며 \\\"갑자기 부피가 많이 커졌다\\\"고 했고, 선우선은 \\\"10kg 쪘다. 예전에는 33사이즈였다. 운동은 꼭 해야 한다\\\"고 말했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "선우선은 \\\"지금 사이즈가 어떻게 되냐\\\"고 묻자 \\\"44 사이즈다. 66 사이즈에서 44 사이즈로 감량했다\\\"고 답했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 관계자가 선우선의 마른 시절의 사진을 보여주며 \\\"이때 기억하냐\\\"고 묻자, 선우선은 \\\"저 때는 33 사이즈다. 43~4kg이었다\\\"라고 말해 놀라움을 자아냈다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쉬는 동안 10kg 쪘다는 '33사이즈' 여배우 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261651",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "경기 라디오방송 공모서 도로교통공단 최고점",
+		"newsSubTitle": "",
+		"newsContent": "도로교통공단이 경기지역 라디오방송 사업자 선정 심사에서 최고점을 받았으나 보도 기능 수행에 대한 법적 검토가 필요해 최종 선정이 보류됐다.\n방송통신위원회(방통위)는 경기지역 라디오방송 사업자 선정 심사위원회의 심사 결과 도로교통공단이 신청 사업자 7곳 중 최고점을 획득했다고 21일 밝혔다.\n신청 사업자는 경인방송, 경기도, 도로교통공단, OBS 경인TV, 케이방송, 뉴경기방송, 경기도민방송 등이다.\n방통위는 사업자 선정에 앞서 법률적 요건 등을 검토·확인하기로 하고, 도로교통공단을 허가 대상 사업자로 선정하는 것을 보류했다.\n심사위 심사 과정에서 도로교통공단이 도로교통법 상 사업목적과 공단 정관 상 사업범위를 벗어나 보도를 포함한 종합편성방송을 할 수 있는지 문제가 제기된 데 따른 것이다.\n앞서 경기도와 도로교통공단을 제외한 5개 사업자들은 경기도에 대해서는 방송의 독립성을, 도로교통공단에 대해서는 교통방송의 역할을 문제 삼아 사업자 선정에 반대하는 공동 건의문을 방통위에 제출한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도로교통공단이 경기지역 라디오방송 사업자 선정 심사에서 최고점을 받았으나 보도 기능 수행에 대한 법적 검토가 필요해 최종 선정이 보류됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방송통신위원회(방통위)는 경기지역 라디오방송 사업자 선정 심사위원회의 심사 결과 도로교통공단이 신청 사업자 7곳 중 최고점을 획득했다고 21일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신청 사업자는 경인방송, 경기도, 도로교통공단, OBS 경인TV, 케이방송, 뉴경기방송, 경기도민방송 등이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방통위는 사업자 선정에 앞서 법률적 요건 등을 검토·확인하기로 하고, 도로교통공단을 허가 대상 사업자로 선정하는 것을 보류했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "심사위 심사 과정에서 도로교통공단이 도로교통법 상 사업목적과 공단 정관 상 사업범위를 벗어나 보도를 포함한 종합편성방송을 할 수 있는지 문제가 제기된 데 따른 것이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 경기도와 도로교통공단을 제외한 5개 사업자들은 경기도에 대해서는 방송의 독립성을, 도로교통공단에 대해서는 교통방송의 역할을 문제 삼아 사업자 선정에 반대하는 공동 건의문을 방통위에 제출한 바 있다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "경기 라디오방송 공모서 도로교통공단 최고점",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

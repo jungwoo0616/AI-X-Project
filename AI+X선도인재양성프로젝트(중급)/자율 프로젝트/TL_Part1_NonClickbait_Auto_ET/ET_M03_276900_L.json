@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276900",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "지드래곤의 '피스마이너스원'이 중국서 판매하고 있는 퍼 재킷 가격",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅 리더 지드래곤(본명 권지용·28)의 브랜드 '피스마이너스원(peaceminusone)에서 2300여만원에 달하는 퍼 재킷을 출시했다는 주장이 제기됐다. 2일 한 온라인 커뮤니티에는 '지드래곤 2300만 원짜리 퍼 재킷 출시'라는 제목의 게시글이 올라왔다.\n이에 따르면 피스마이너스원은 중국에서 139999 위안(한화 약 2292만원)에 달하는 퍼 재킷을 판매하고 있다.\n앞서 피스마이너스원은 지난달 중국 최대 규모 명품 편집숍 I.T에 입점한 바 있다.\n이 글을 쓴 네티즌은 피스마이너스원이 판매하는 퍼 재킷이 100% 밍크로 추정된다고 전했다.\n고가의 가격 때문이다.\n이를 본 한 네티즌은 \\\"같은 라인의 담배 케이스가 100% 밍크였기 때문에 2300만원 퍼 재킷 역시 100% 밍크가 아니겠냐\\\"고 추측했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅 리더 지드래곤(본명 권지용·28)의 브랜드 '피스마이너스원(peaceminusone)에서 2300여만원에 달하는 퍼 재킷을 출시했다는 주장이 제기됐다. 2일 한 온라인 커뮤니티에는 '지드래곤 2300만 원짜리 퍼 재킷 출시'라는 제목의 게시글이 올라왔다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따르면 피스마이너스원은 중국에서 139999 위안(한화 약 2292만원)에 달하는 퍼 재킷을 판매하고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 피스마이너스원은 지난달 중국 최대 규모 명품 편집숍 I.T에 입점한 바 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 글을 쓴 네티즌은 피스마이너스원이 판매하는 퍼 재킷이 100% 밍크로 추정된다고 전했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고가의 가격 때문이다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 한 네티즌은 \\\"같은 라인의 담배 케이스가 100% 밍크였기 때문에 2300만원 퍼 재킷 역시 100% 밍크가 아니겠냐\\\"고 추측했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지드래곤의 '피스마이너스원'이 중국서 판매하고 있는 퍼 재킷 가격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

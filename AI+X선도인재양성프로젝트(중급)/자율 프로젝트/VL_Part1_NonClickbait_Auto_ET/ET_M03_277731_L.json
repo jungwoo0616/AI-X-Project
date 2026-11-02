@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277731",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "원전사고 그린 영화 ‘판도라’ 박정우 감독 “현실성 90%”",
+		"newsSubTitle": "",
+		"newsContent": "원전 사고 이후의 이야기를 그린 영화 ‘판도라’의 박정우 감독은 “현실성이 90% 이상된다”고 말했다.\n박 감독은 29일 오후 서울 성동구 CGV왕십리에서 열린 판도라의 언론배급 시사회에서 “영화 제작을 위해 자료를 조사하면서 내린 결론은 원전은 100% 완벽하게 안전하지 않다는 것”이라며 이렇게 말했다.\n그는 “우리나라는 원전사고가 났을 때의 대책이 거의 없다시피하다”며 “영화 스토리는 만약 우리나라에서 원전 사고가 나면 어떤 상황으로 흘러갈 것인가 시뮬레이션하면서 만들었다”고 설명했다.\n박 감독은 “영화를 만들면서 사실성과 현실성 꼭 가져가야 한다”며 “실제 존재하는 공간에서 이런 일이 벌어졌을 때로 가정해서 자료를 취합하고 실제 공간과 비슷하게 만들었다”고 전했다.\n다음달 7일 개봉하는 영화 판도라는 역대 최대 규모의 강진에 원전사고까지 겹친 대한민국을 그린 재난영화다.\n김남길·문정희·정진영·강신일 등이 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "원전 사고 이후의 이야기를 그린 영화 ‘판도라’의 박정우 감독은 “현실성이 90% 이상된다”고 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박 감독은 29일 오후 서울 성동구 CGV왕십리에서 열린 판도라의 언론배급 시사회에서 “영화 제작을 위해 자료를 조사하면서 내린 결론은 원전은 100% 완벽하게 안전하지 않다는 것”이라며 이렇게 말했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “우리나라는 원전사고가 났을 때의 대책이 거의 없다시피하다”며 “영화 스토리는 만약 우리나라에서 원전 사고가 나면 어떤 상황으로 흘러갈 것인가 시뮬레이션하면서 만들었다”고 설명했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박 감독은 “영화를 만들면서 사실성과 현실성 꼭 가져가야 한다”며 “실제 존재하는 공간에서 이런 일이 벌어졌을 때로 가정해서 자료를 취합하고 실제 공간과 비슷하게 만들었다”고 전했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음달 7일 개봉하는 영화 판도라는 역대 최대 규모의 강진에 원전사고까지 겹친 대한민국을 그린 재난영화다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김남길·문정희·정진영·강신일 등이 출연한다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원전사고 그린 영화 ‘판도라’ 박정우 감독 “현실성 90%”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

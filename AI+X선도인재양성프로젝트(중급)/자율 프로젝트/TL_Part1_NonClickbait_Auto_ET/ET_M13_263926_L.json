@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263926",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "컴백 (여자)아이들 ‘TOMBOY’ 뮤비 1000만뷰",
+		"newsSubTitle": "",
+		"newsContent": "그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)의 신곡 ‘TOMBOY’ 뮤직비디오가 1,000만 뷰를 돌파했다.\n지난 14일 오후 6시에 공개된 첫 번째 정규 앨범 ‘I NEVER DIE’의 타이틀곡 ‘TOMBOY’ 뮤직비디오가 공개 16시간 만에 천만 뷰를 돌파했고 유튜브 인기 급상승 2위에 랭크되며 글로벌 흥행 몰이를 시작했다.\n앞서 (여자)아이들은 신곡 ‘TOMBOY’로 벅스 뮤직 차트 1위에 이름을 올렸고, 멜론 최신 차트 2위, TOP 100 6위에 안착하며 뜨거운 인기를 입증했다.\n또한 지니 실시간 차트 2위를 기록했고 플로에도 차트인하며 막강한 음원 파워를 증명했다.\n신곡 ‘TOMBOY’는 (여자)아이들의 유니크한 보이스와 거칠고 웅장한 악기 사운드가 어우러진 중독성 넘치는 곡으로 당당한 애티튜드가 마음껏 드러나는 직설적인 가사가 돋보이는 곡이다.\n한편, (여자)아이들은 신곡 ‘TOMBOY’로 활발한 활동을 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 (여자)아이들(미연, 민니, 소연, 우기, 슈화)의 신곡 ‘TOMBOY’ 뮤직비디오가 1,000만 뷰를 돌파했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 14일 오후 6시에 공개된 첫 번째 정규 앨범 ‘I NEVER DIE’의 타이틀곡 ‘TOMBOY’ 뮤직비디오가 공개 16시간 만에 천만 뷰를 돌파했고 유튜브 인기 급상승 2위에 랭크되며 글로벌 흥행 몰이를 시작했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 (여자)아이들은 신곡 ‘TOMBOY’로 벅스 뮤직 차트 1위에 이름을 올렸고, 멜론 최신 차트 2위, TOP 100 6위에 안착하며 뜨거운 인기를 입증했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 지니 실시간 차트 2위를 기록했고 플로에도 차트인하며 막강한 음원 파워를 증명했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신곡 ‘TOMBOY’는 (여자)아이들의 유니크한 보이스와 거칠고 웅장한 악기 사운드가 어우러진 중독성 넘치는 곡으로 당당한 애티튜드가 마음껏 드러나는 직설적인 가사가 돋보이는 곡이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, (여자)아이들은 신곡 ‘TOMBOY’로 활발한 활동을 펼칠 예정이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "컴백 (여자)아이들 ‘TOMBOY’ 뮤비 1000만뷰",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

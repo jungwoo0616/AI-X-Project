@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275524",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 윤서령, 새참 먹방 요정 등극 ",
+		"newsSubTitle": "",
+		"newsContent": "‘트롯 비타민’ 윤서령이 농가에 활력을 더했다.\n윤서령은 14일 방송된 KBS1 ‘6시 내고향’에 출연했다.\n윤서령은 ‘6시 내고향’ 스튜디오에 출격해 안정적인 진행 능력과 함께 하이텐션을 자랑하며 현장 분위기를 끌어올렸다.\n윤서령은 전국에서 모인 대학생들과 전라북도 남원시에 방문, 열정 가득한 모습으로 농촌에 활기를 더하며 이목을 집중시켰다.\n먼저 감자밭을 찾은 윤서령은 부지런히 감자를 캐면서 막간을 이용해 토크 타임까지 진행한 것은 물론, 이후 방문한 포도 농가에서는 새참 먹방으로 시청자의 입맛까지 자극하며 새로운 먹방 요정으로 떠올랐다.\n윤서령은 가창력과 함께 농민을 위한 노래로 넘치는 흥을 선사하는가 하면, “도움이 필요한 농촌 어르신들께 저희의 재능을 나눠드릴 수 있어서 너무 보람찬 시간이었다”라고 밝히며 훈훈함을 자아내기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘트롯 비타민’ 윤서령이 농가에 활력을 더했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤서령은 14일 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤서령은 ‘6시 내고향’ 스튜디오에 출격해 안정적인 진행 능력과 함께 하이텐션을 자랑하며 현장 분위기를 끌어올렸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤서령은 전국에서 모인 대학생들과 전라북도 남원시에 방문, 열정 가득한 모습으로 농촌에 활기를 더하며 이목을 집중시켰다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "먼저 감자밭을 찾은 윤서령은 부지런히 감자를 캐면서 막간을 이용해 토크 타임까지 진행한 것은 물론, 이후 방문한 포도 농가에서는 새참 먹방으로 시청자의 입맛까지 자극하며 새로운 먹방 요정으로 떠올랐다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤서령은 가창력과 함께 농민을 위한 노래로 넘치는 흥을 선사하는가 하면, “도움이 필요한 농촌 어르신들께 저희의 재능을 나눠드릴 수 있어서 너무 보람찬 시간이었다”라고 밝히며 훈훈함을 자아내기도 했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 윤서령, 새참 먹방 요정 등극 ",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277778",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘질투의 화신’ 보다가 유방암 발견한 시청자",
+		"newsSubTitle": "",
+		"newsContent": "‘질투의 화신’ 드라마를 보다 유방암을 발견한 시청자의 사연이 전해졌다.\n지난 4일 SBS 드라마 ‘질투의 화신’ 시청자게시판에는 ‘질투의 화신 덕분에 유방암을 발견했습니다’라는 제목의 글이 올라왔다.\n이 시청자는 “유방암에 대해 아무것도 모르던 제가, 상상도 해본 적 없었는데 방송을 보면서 유방암.. 뭔가 만져지는 게 있나?”라는 생각으로 자가진단을 해보게 됐다고 밝혔다.\n이 시청자는 병원을 찾고 지난 9월 암 진단을 받았다.\n이후 다양한 검사를 진행하고 11월 말 수술 일정을 잡았다고 밝혔다.\n드라마 속 주인공이 수술 이후 멀쩡히 직장을 다니고 일상생활을 한 장면을 들어 “유방암이라는 의사선생님의 진단에도 담담했다. 나도 화신님처럼 수술만 하면 직장도 다시 나가고 금세 괜찮아지지 않을까 하는 마음에요”라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘질투의 화신’ 드라마를 보다 유방암을 발견한 시청자의 사연이 전해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 4일 SBS 드라마 ‘질투의 화신’ 시청자게시판에는 ‘질투의 화신 덕분에 유방암을 발견했습니다’라는 제목의 글이 올라왔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 시청자는 “유방암에 대해 아무것도 모르던 제가, 상상도 해본 적 없었는데 방송을 보면서 유방암.. 뭔가 만져지는 게 있나?”라는 생각으로 자가진단을 해보게 됐다고 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 시청자는 병원을 찾고 지난 9월 암 진단을 받았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 다양한 검사를 진행하고 11월 말 수술 일정을 잡았다고 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "드라마 속 주인공이 수술 이후 멀쩡히 직장을 다니고 일상생활을 한 장면을 들어 “유방암이라는 의사선생님의 진단에도 담담했다. 나도 화신님처럼 수술만 하면 직장도 다시 나가고 금세 괜찮아지지 않을까 하는 마음에요”라고 전했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘질투의 화신’ 보다가 유방암 발견한 시청자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

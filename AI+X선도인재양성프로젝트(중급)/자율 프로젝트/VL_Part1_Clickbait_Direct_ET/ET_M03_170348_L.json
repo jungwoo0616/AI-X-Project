@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170348",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "주진우 발언 뒤 김성주 출연 프로그램 하차 요구 빗발",
+    "newsSubTitle": "",
+    "newsContent": "방송인 김성주를 향한 네티즌들의 분노가 하차 요구로 이어지고 있다.\n시사인 주진우 기자가 지난 13일 열린 MBC 총파업 집회에서 2012 MBC 총파업 당시 대체 인력으로 마이크를 잡았던 김성주를 공개 비판한 뒤 벌어진 일이다.\n주진우 기자는 이 자리에서 \\\"동료들이 마이크를 내려놓을 때 김성주처럼 보고 싶지 않은 사람들이 그 자리를 차지했다. 나는 그런 사람들이 너무 밉다\\\"고 말했다.\n공개 저격 이후 김성주가 출연 중인 프로그램 시청자 게시판에는 그의 하차 요구가 빗발치고 있다.\n다른 한편에서는 \\\"김성주 마녀사냥 그만하라\\\" \\\"김성주 힘내세요. 하차 반대합니다\\\" 등 김성주를 응원하는 글도 올라오고 있다.\n당시 김성주는 MBC 퇴사 후 프리랜서로 활동하며 언론인이 아닌 방송연예인이나 마찬가지라는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 김성주를 향한 네티즌들의 분노가 하차 요구로 이어지고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시사인 주진우 기자가 지난 13일 열린 MBC 총파업 집회에서 2012 MBC 총파업 당시 대체 인력으로 마이크를 잡았던 김성주를 공개 비판한 뒤 벌어진 일이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주진우 기자는 이 자리에서 \\\"동료들이 마이크를 내려놓을 때 김성주처럼 보고 싶지 않은 사람들이 그 자리를 차지했다. 나는 그런 사람들이 너무 밉다\\\"고 말했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개 저격 이후 김성주가 출연 중인 프로그램 시청자 게시판에는 그의 하차 요구가 빗발치고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다른 한편에서는 \\\"김성주 마녀사냥 그만하라\\\" \\\"김성주 힘내세요. 하차 반대합니다\\\" 등 김성주를 응원하는 글도 올라오고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 김성주는 MBC 퇴사 후 프리랜서로 활동하며 언론인이 아닌 방송연예인이나 마찬가지라는 것이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주진우 기자의 김성주 공개 저격, 도 넘은 마녀사냥인가 정당한 비판인가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

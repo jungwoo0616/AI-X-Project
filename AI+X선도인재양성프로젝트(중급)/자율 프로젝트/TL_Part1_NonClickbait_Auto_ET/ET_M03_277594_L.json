@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277594",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "블랙넛, 자신 휴대폰 번호 공개한 스윙스에 고소장?",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 블랙넛이 자신의 전화번호를 공개한 스윙스에게 고소를 예고했다.\n블랙넛은 3일 자신의 카카오톡 프로필 사진을 ‘스윙스에게 보내는 고소장’으로 변경했다.\n사진 속 고소장에 고소인은 김대웅, 피고소인에는 스윙스의 본명인 문지훈이 적혀있다.\n블랙넛이 실제로 고소장을 경찰에 제출했는지는 불분명하지만 SNS와 각종 온라인커뮤니티에서 뜨거운 반응을 얻고 있다.\n지난 2일 래퍼 스윙스는 자신의 페이스북에 블랙넛의 전화번호를 공개하는 영상을 올렸다.\n해당 영상에서 스윙스는 “지금 블랙넛의 생일파티에 왔는데 술김에 복수를 좀 해야겠다”며 “요즘 블랙넛이 앨범을 안 내서 짜증났다”며 블랙넛의 전화번호를 공개했다.\n이후 폭주하는 전화 때문에 블랙넛은 휴대폰을 꺼놓은 것으로 알려졌다.\n스윙스와 블랙넛은 저스트뮤직 소속 아티스트로 절친한 사이인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 블랙넛이 자신의 전화번호를 공개한 스윙스에게 고소를 예고했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블랙넛은 3일 자신의 카카오톡 프로필 사진을 ‘스윙스에게 보내는 고소장’으로 변경했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 고소장에 고소인은 김대웅, 피고소인에는 스윙스의 본명인 문지훈이 적혀있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "블랙넛이 실제로 고소장을 경찰에 제출했는지는 불분명하지만 SNS와 각종 온라인커뮤니티에서 뜨거운 반응을 얻고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 2일 래퍼 스윙스는 자신의 페이스북에 블랙넛의 전화번호를 공개하는 영상을 올렸다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 영상에서 스윙스는 “지금 블랙넛의 생일파티에 왔는데 술김에 복수를 좀 해야겠다”며 “요즘 블랙넛이 앨범을 안 내서 짜증났다”며 블랙넛의 전화번호를 공개했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 폭주하는 전화 때문에 블랙넛은 휴대폰을 꺼놓은 것으로 알려졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스윙스와 블랙넛은 저스트뮤직 소속 아티스트로 절친한 사이인 것으로 알려졌다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙넛, 자신 휴대폰 번호 공개한 스윙스에 고소장?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

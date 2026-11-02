@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276113",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이혜성 등 KBS 아나운서들, 연차수당 부당수령으로 징계",
+		"newsSubTitle": "",
+		"newsContent": "연차수당을 부당 수령해 논란이 된 KBS 현직 아나운서들에 대한 징계 수위가 결정됐다.\nKBS 관계자는 11일 뉴스1에 “지난 2월 26일 이혜성·한상헌 아나운서 등 7명의 아나운서의 연차보상수당의 부당 수령과 관련해 징계가 발표됐다”고 밝혔다.\n이 관계자에 따르면 이혜성 아나운서는 견책, 한상헌 아나운서는 1개월 감봉 조치 징계를 받았다.\n견책은 앞으로 같은 일이 없도록 주의를 주는 가벼운 징계 처분이다.\n이외의 부당 수령과 관련된 다른 KBS 아나운서들도 수위에 따라 견책 및 감봉 징계가 내려졌다.\n이들 아나운서는 2018년 휴가를 쓰고도 근무를 한 것으로 기록해 연차보상수당을 부당하게 수령했다는 의혹에 휩싸였다.\n논란이 확산하자 KBS 아나운서실은 지난해 11월 근태 착오를 자체 적발하고 자진 신고했다며 추가 지급된 수당도 모두 환수했다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연차수당을 부당 수령해 논란이 된 KBS 현직 아나운서들에 대한 징계 수위가 결정됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS 관계자는 11일 뉴스1에 “지난 2월 26일 이혜성·한상헌 아나운서 등 7명의 아나운서의 연차보상수당의 부당 수령과 관련해 징계가 발표됐다”고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 관계자에 따르면 이혜성 아나운서는 견책, 한상헌 아나운서는 1개월 감봉 조치 징계를 받았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "견책은 앞으로 같은 일이 없도록 주의를 주는 가벼운 징계 처분이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이외의 부당 수령과 관련된 다른 KBS 아나운서들도 수위에 따라 견책 및 감봉 징계가 내려졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들 아나운서는 2018년 휴가를 쓰고도 근무를 한 것으로 기록해 연차보상수당을 부당하게 수령했다는 의혹에 휩싸였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "논란이 확산하자 KBS 아나운서실은 지난해 11월 근태 착오를 자체 적발하고 자진 신고했다며 추가 지급된 수당도 모두 환수했다고 밝혔다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이혜성 등 KBS 아나운서들, 연차수당 부당수령으로 징계",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

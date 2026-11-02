@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273675",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 청량함 가득[화보]",
+		"newsSubTitle": "",
+		"newsContent": "가수 아이유가 청량한 매력을 뽐냈다.\n21일 ‘코스모폴리탄’은 아이유와 함께한 화보를 공개했다.\n화보 속 아이유는 생기 넘치는 스타일링과 산뜻한 분위기로 ‘화보 장인’다운 모습을 뽐냈다.\n아이유는 초록색 카라 티셔츠에 흰색 테니스 스커트를 매치해 러블리한 스포티룩을 완성했다.\n또 다른 화보 속 아이유는 아이보리색 원피스에 실버 주얼리를 매치하며 로맨틱한 분위기를 자아내기도 했다.\n아이유는 최근 개봉한 고레에다 히로카즈 감독의 영화 ‘브로커’에 출연하며 화제가 되었다.\n그는 오는 24일 ‘브로커’의 일본 개봉을 기념해 일본 현지 프로모션 일정을 확정하며 배우로서의 커리어도 차근차근 쌓아가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 아이유가 청량한 매력을 뽐냈다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 ‘코스모폴리탄’은 아이유와 함께한 화보를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화보 속 아이유는 생기 넘치는 스타일링과 산뜻한 분위기로 ‘화보 장인’다운 모습을 뽐냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이유는 초록색 카라 티셔츠에 흰색 테니스 스커트를 매치해 러블리한 스포티룩을 완성했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 화보 속 아이유는 아이보리색 원피스에 실버 주얼리를 매치하며 로맨틱한 분위기를 자아내기도 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이유는 최근 개봉한 고레에다 히로카즈 감독의 영화 ‘브로커’에 출연하며 화제가 되었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 오는 24일 ‘브로커’의 일본 개봉을 기념해 일본 현지 프로모션 일정을 확정하며 배우로서의 커리어도 차근차근 쌓아가고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 청량함 가득[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

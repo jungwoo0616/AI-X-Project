@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281696",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김주혁 하차에 정준영 \\\"수고했어요 구탱이형\\\" 사진 속 행복한 미소",
+		"newsSubTitle": "",
+		"newsContent": "'김주혁 하차' 김주혁 하차 소식이 전해진 가운데 가수 정준영이 SNS에 올린 인증샷이 화제다.\n정준영은 '1박 2일'에서 함께 호흡을 맞췄던 김주혁에게 작별 인사를 전했다.\n정준영은 지난 6일 자신의 인스타그램에 \\\"수고했어요 구탱이형. C u bro\\\"라는 글과 함께 한 장의 사진을 게재했다.\n공개된 사진에는 정준영은 김주혁에게 백허그를 하며 환하게 웃고 있고, 김주혁 역시 즐거운 표정이 시선을 끌었다.\n한편 김주혁은 이날 방송을 마지막으로 2013년 12월 1일부터 함께한 KBS 2TV '해피선데이-1박2일 시즌3'에서 2년 만에 하차했다.\n김주혁은 방송을 통해 \\\"솔직히 이 일은 내 주업이 아니다\\\"라며 \\\"더 망가질 수 있는데 이상하게 끝까지 안되더라. 내가 이 팀에 민폐라고 생각했다\\\"라고 하차 이유를 밝혔다. '김주혁 하차' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'김주혁 하차' 김주혁 하차 소식이 전해진 가운데 가수 정준영이 SNS에 올린 인증샷이 화제다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정준영은 '1박 2일'에서 함께 호흡을 맞췄던 김주혁에게 작별 인사를 전했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정준영은 지난 6일 자신의 인스타그램에 \\\"수고했어요 구탱이형. C u bro\\\"라는 글과 함께 한 장의 사진을 게재했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 정준영은 김주혁에게 백허그를 하며 환하게 웃고 있고, 김주혁 역시 즐거운 표정이 시선을 끌었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김주혁은 이날 방송을 마지막으로 2013년 12월 1일부터 함께한 KBS 2TV '해피선데이-1박2일 시즌3'에서 2년 만에 하차했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김주혁은 방송을 통해 \\\"솔직히 이 일은 내 주업이 아니다\\\"라며 \\\"더 망가질 수 있는데 이상하게 끝까지 안되더라. 내가 이 팀에 민폐라고 생각했다\\\"라고 하차 이유를 밝혔다. '김주혁 하차' 온라인 중앙일보",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김주혁 하차에 정준영 \\\"수고했어요 구탱이형\\\" 사진 속 행복한 미소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

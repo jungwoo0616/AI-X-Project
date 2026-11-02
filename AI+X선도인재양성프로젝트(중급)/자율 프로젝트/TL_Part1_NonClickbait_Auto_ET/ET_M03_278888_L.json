@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278888",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "도지원 입원, 일과성 허혈성 증상으로 치료중…\\\"피로 누적으로 인해 쇼크가\\\"",
+		"newsSubTitle": "",
+		"newsContent": "도지원 입원 배우 도지원이 건강 이상으로 병원에 입원했다.\n도지원 소속사 나무엑터스 관계자는 도지원은 지난 13일 몸이 불편하다고 호소한 뒤로 강남성모병원에 입원해 치료를 받고 있다고 밝혔다.\n관계자는 \\\"도지원이 몸에 이상을 느껴 병원에 입원해 검사를 받았다. 일과성 허혈성 증상으로 현재 병원에서 치료를 받고 있다\\\"며 \\\"최근 촬영에 따른 피로누적으로 인해 쇼크가 온 것 같다\\\"고 상황을 설명했다.\n일과성 허혈성 증상은 뇌에 향하는 혈액 흐름에 일시적인 문제가 생겨 운동마비 등의 증상이 일어나는 것을 말한다.\n소속사 측은 \\\"일각에서 뇌경색 증세라고 보도한 것은 사실과 다르다. 오는 16일 퇴원할 예정이다\\\"고 덧붙여 병세에 둘러싼 세간의 이야기를 일축했다.\n관계자는 \\\"도지원이 회복 중이라 당분간 그녀가 출연 중인 '내 딸, 금사월' 촬영은 퇴원 후 촬영 일정을 잡을 계획이다. 건강 상태에 따라 유동적으로 스케줄을 잡을 것\\\"이라고 전했다.\n온라인중앙일보 도지원 입원",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도지원 입원 배우 도지원이 건강 이상으로 병원에 입원했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "도지원 소속사 나무엑터스 관계자는 도지원은 지난 13일 몸이 불편하다고 호소한 뒤로 강남성모병원에 입원해 치료를 받고 있다고 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관계자는 \\\"도지원이 몸에 이상을 느껴 병원에 입원해 검사를 받았다. 일과성 허혈성 증상으로 현재 병원에서 치료를 받고 있다\\\"며 \\\"최근 촬영에 따른 피로누적으로 인해 쇼크가 온 것 같다\\\"고 상황을 설명했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일과성 허혈성 증상은 뇌에 향하는 혈액 흐름에 일시적인 문제가 생겨 운동마비 등의 증상이 일어나는 것을 말한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사 측은 \\\"일각에서 뇌경색 증세라고 보도한 것은 사실과 다르다. 오는 16일 퇴원할 예정이다\\\"고 덧붙여 병세에 둘러싼 세간의 이야기를 일축했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "관계자는 \\\"도지원이 회복 중이라 당분간 그녀가 출연 중인 '내 딸, 금사월' 촬영은 퇴원 후 촬영 일정을 잡을 계획이다. 건강 상태에 따라 유동적으로 스케줄을 잡을 것\\\"이라고 전했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인중앙일보 도지원 입원",
+				"sentenceSize": 14
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도지원 입원, 일과성 허혈성 증상으로 치료중…\\\"피로 누적으로 인해 쇼크가\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

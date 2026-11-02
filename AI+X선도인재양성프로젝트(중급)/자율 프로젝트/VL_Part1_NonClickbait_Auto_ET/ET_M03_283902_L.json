@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283902",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "복면가왕 상감마마, 그는 누구? \\\"네티즌 수사대…황치열 혹은 모세\\\"",
+		"newsSubTitle": "",
+		"newsContent": "복면가왕 상감마마 '복면가왕' 상감마마, 정체가 화제다.\n복면가왕 상감마마 납시오가 2라운드에 진출해 눈길을 끌고 있다.\n지난 1일 방송된 MBC '일밤-복면가왕'(이하 복면가왕)에서는 '소녀의 순정, 코스모스'에 도전장을 내민 8명의 복면가수들의 대결이 펼쳐졌다.\n이날 1라운드 네 번째 무대에서는 두 명의 남자 보컬 상감마마와 뱀파이어가 가수 이승기의 ‘결혼해 줄래’를 열창했다.\n상감마마가 뱀파이어를 누르고 2라운드에 진출하자, 당장 정체를 알 수 없게 된 상감마마를 네티즌들이 추리하기 시작했다.\n네티즌들은 가수 모세를 상감마마의 유력한 후보로 보고 있다.\n연예인 판정단 김창렬 또한 비슷한 추측을 내놓았다.\n또한 일부 네티즌들은 가수 황치열일 것이라고 추측해 과연 누가 상감마마일지 관심이 집중되고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "복면가왕 상감마마 '복면가왕' 상감마마, 정체가 화제다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "복면가왕 상감마마 납시오가 2라운드에 진출해 눈길을 끌고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 1일 방송된 MBC '일밤-복면가왕'(이하 복면가왕)에서는 '소녀의 순정, 코스모스'에 도전장을 내민 8명의 복면가수들의 대결이 펼쳐졌다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 1라운드 네 번째 무대에서는 두 명의 남자 보컬 상감마마와 뱀파이어가 가수 이승기의 ‘결혼해 줄래’를 열창했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "상감마마가 뱀파이어를 누르고 2라운드에 진출하자, 당장 정체를 알 수 없게 된 상감마마를 네티즌들이 추리하기 시작했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 가수 모세를 상감마마의 유력한 후보로 보고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연예인 판정단 김창렬 또한 비슷한 추측을 내놓았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 일부 네티즌들은 가수 황치열일 것이라고 추측해 과연 누가 상감마마일지 관심이 집중되고 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "복면가왕 상감마마, 그는 누구? \\\"네티즌 수사대…황치열 혹은 모세\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

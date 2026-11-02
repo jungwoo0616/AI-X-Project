@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272202",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "권상우, 오늘 ‘왜 오수재인가’ 첫방 특별출연",
+		"newsSubTitle": "",
+		"newsContent": "배우 권상우가 ‘왜 오수재인가’에 특별출연한다.\nSBS 새 금토드라마 ‘왜 오수재인가’ 측은 오늘(3일) 첫 방송을 앞두고, 권상우의 깜짝 등장을 예고하는 스틸컷을 공개했다. ‘왜 오수재인가’는 ‘살기 위해, 가장 위에서, 더 독하게’ 성공만을 좇다 속이 텅 비어버린 차가운 변호사 오수재(서현진 분)와 그런 그녀를 지키기 위해서라면 무엇도 두렵지 않은 따뜻한 로스쿨 학생 공찬(황인엽 분)의 아프지만 설레는 이야기를 그린다.\n공개된 사진 속 권상우는 의사 가운 차림으로 눈길을 끈다.\n그는 오수재의 유일한 친구인 채준희(차청화 분)의 남편 ‘정현수’ 역을 맡아, 친절하고 넉살 좋은 훈남 의사로 변신할 예정이다.\n이번 권상우의 특별출연은 감독과의 인연으로 성사됐다고. ‘왜 오수재인가’ 제작진은 “권상우는 특유의 유쾌함으로 작품은 물론 현장 분위기를 이끌었다. 짧지만 강렬한 존재감으로 1회를 더욱 풍성하게 채운 그의 출격을 기대해 달라”고 전했다.\n한편, SBS 새 금토드라마 ‘왜 오수재인가’는 오늘(3일) 밤 10시에 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 권상우가 ‘왜 오수재인가’에 특별출연한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SBS 새 금토드라마 ‘왜 오수재인가’ 측은 오늘(3일) 첫 방송을 앞두고, 권상우의 깜짝 등장을 예고하는 스틸컷을 공개했다. ‘왜 오수재인가’는 ‘살기 위해, 가장 위에서, 더 독하게’ 성공만을 좇다 속이 텅 비어버린 차가운 변호사 오수재(서현진 분)와 그런 그녀를 지키기 위해서라면 무엇도 두렵지 않은 따뜻한 로스쿨 학생 공찬(황인엽 분)의 아프지만 설레는 이야기를 그린다.",
+				"sentenceSize": 211
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 권상우는 의사 가운 차림으로 눈길을 끈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 오수재의 유일한 친구인 채준희(차청화 분)의 남편 ‘정현수’ 역을 맡아, 친절하고 넉살 좋은 훈남 의사로 변신할 예정이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 권상우의 특별출연은 감독과의 인연으로 성사됐다고. ‘왜 오수재인가’ 제작진은 “권상우는 특유의 유쾌함으로 작품은 물론 현장 분위기를 이끌었다. 짧지만 강렬한 존재감으로 1회를 더욱 풍성하게 채운 그의 출격을 기대해 달라”고 전했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, SBS 새 금토드라마 ‘왜 오수재인가’는 오늘(3일) 밤 10시에 첫 방송된다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "권상우, 오늘 ‘왜 오수재인가’ 첫방 특별출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

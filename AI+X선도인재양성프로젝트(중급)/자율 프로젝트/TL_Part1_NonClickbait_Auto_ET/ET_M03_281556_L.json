@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281556",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "클로이 모레츠, 영화 '인어공주'에서 빨간머리 안 한다",
+		"newsSubTitle": "",
+		"newsContent": "클로이 모레츠가 연기하는 '리틀 머메이드'는 만화영화의 빨간머리가 아닌 원작 동화의 금발이 될 전망이다.\n클로이 모레츠는 지난 4일(현지시간) 키스 에프엠 아이하트라디오 징글벨 콘서트를 통해 '리틀 머메이드' 캐릭터에 대해 이야기했다.\n그는 '디즈니 만화영화의 아리엘에 맞추기 위해 머리를 빨갛게 염색하려고 했다'라고 운을 뗀 뒤 '하지만 영화는 안데르센의 원작 설정에 맞춰 제작될 예정이라 금발로 연기하게 됐다'고 밝혔다.\n또 '영화는 현대 여성들에게 진보적인 내용을 담고 있다'고 덧붙였다.\n실사판으로 제작되는 '리틀 머메이드'는 당초 소피아 코폴라 감독이 메가폰을 잡을 예정이었으나 의견 차이로 하차해 아직 연출자는 정해지지 않은 상황이다.\n각본은 '노팅힐' '어바웃 타임'의 리차드 커티스가 맡아 제작된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클로이 모레츠가 연기하는 '리틀 머메이드'는 만화영화의 빨간머리가 아닌 원작 동화의 금발이 될 전망이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클로이 모레츠는 지난 4일(현지시간) 키스 에프엠 아이하트라디오 징글벨 콘서트를 통해 '리틀 머메이드' 캐릭터에 대해 이야기했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 '디즈니 만화영화의 아리엘에 맞추기 위해 머리를 빨갛게 염색하려고 했다'라고 운을 뗀 뒤 '하지만 영화는 안데르센의 원작 설정에 맞춰 제작될 예정이라 금발로 연기하게 됐다'고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 '영화는 현대 여성들에게 진보적인 내용을 담고 있다'고 덧붙였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실사판으로 제작되는 '리틀 머메이드'는 당초 소피아 코폴라 감독이 메가폰을 잡을 예정이었으나 의견 차이로 하차해 아직 연출자는 정해지지 않은 상황이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각본은 '노팅힐' '어바웃 타임'의 리차드 커티스가 맡아 제작된다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "클로이 모레츠, 영화 '인어공주'에서 빨간머리 안 한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

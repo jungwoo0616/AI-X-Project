@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274951",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "노엘, 2심에서도 징역 3년 구형",
+		"newsSubTitle": "",
+		"newsContent": "음주운전 측정을 거부하고 경찰관을 폭행한 혐의로 재판에 넘겨진 래퍼 노엘(장용준)이 2심에서도 징역 3년을 구형받았다.\n뉴스1에 따르면 검찰은 7일 서울중앙지법 형사항소4-3부(부장판사 차은경, 양지정, 전연숙) 심리로 열린 노엘의 2심 결심공판에서 “집행유예 기간에 동종범죄를 또 저질렀고 범행 정황도 불량하다”라며 징역 3년 실형을 선고해달라고 요청했다.\n노엘은 지난해 9월 서울시 서초구 반포동 인근 교차로에서 무면허 상태로 흰색 벤츠 차량을 운전하다 접촉사고를 냈고 현장에 출동한 경찰이 음주운전 측정을 요구했으나 이에 불응하고 경찰관을 폭행한 혐의를 받는다.\n노엘은 구속된 상태로 1심 재판에 임했고 재판부는 지난 4월 8일 노엘에게 징역 1년을 선고했다.\n1심에서도 검찰은 노엘에 대해 징역 3년을 구형했다.\n당시 재판부는 “피고인이 음주운전으로 징역형의 집행유예를 선고받고서도 자중하지 않고 음주측정을 거부하고 이 사건 범행을 저질러 죄질이 무겁다”라며 “실형선고가 불가피하다”라고 판시했다.\n이후 노엘 측은 “이번엔 항소를 안 하고 그대로 확정되면 앞 사건에 유예된 1년6개월의 형까지 복역해야할 수 있어 항소할 수밖에 없다”며 항소했고, 검찰도 양형부당을 이유로 항소했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "음주운전 측정을 거부하고 경찰관을 폭행한 혐의로 재판에 넘겨진 래퍼 노엘(장용준)이 2심에서도 징역 3년을 구형받았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뉴스1에 따르면 검찰은 7일 서울중앙지법 형사항소4-3부(부장판사 차은경, 양지정, 전연숙) 심리로 열린 노엘의 2심 결심공판에서 “집행유예 기간에 동종범죄를 또 저질렀고 범행 정황도 불량하다”라며 징역 3년 실형을 선고해달라고 요청했다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노엘은 지난해 9월 서울시 서초구 반포동 인근 교차로에서 무면허 상태로 흰색 벤츠 차량을 운전하다 접촉사고를 냈고 현장에 출동한 경찰이 음주운전 측정을 요구했으나 이에 불응하고 경찰관을 폭행한 혐의를 받는다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노엘은 구속된 상태로 1심 재판에 임했고 재판부는 지난 4월 8일 노엘에게 징역 1년을 선고했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1심에서도 검찰은 노엘에 대해 징역 3년을 구형했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 재판부는 “피고인이 음주운전으로 징역형의 집행유예를 선고받고서도 자중하지 않고 음주측정을 거부하고 이 사건 범행을 저질러 죄질이 무겁다”라며 “실형선고가 불가피하다”라고 판시했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 노엘 측은 “이번엔 항소를 안 하고 그대로 확정되면 앞 사건에 유예된 1년6개월의 형까지 복역해야할 수 있어 항소할 수밖에 없다”며 항소했고, 검찰도 양형부당을 이유로 항소했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노엘, 2심에서도 징역 3년 구형",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

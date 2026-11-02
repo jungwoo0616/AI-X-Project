@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274519",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘최진실 딸’ 최준희 “오늘 아침 눈바디야”",
+		"newsSubTitle": "",
+		"newsContent": "고 최진실 딸 최준희가 건강한 몸매를 자랑했다.\n최준희는 1일 자신의 SNS로 누리꾼들 질문에 답하는 시간을 가졌다.\n한 누리꾼이 최준희가 공동구매를 진행하는 제품을 빨리 주문하고 싶다는 글을 올렸다.\n이에 최준희는 “오늘 아침 눈바디야. 3차 전까지 나도 탈탈 털어먹었어. 튼살이 있어도 굴하지 않는 이유”라며 사진을 공개했다. ‘눈바디’는 눈(眼)과 체성분 분석기 브랜드 ‘인바디’를 합성한 말로 체중계상 몸무게 보다 거울에 비친 자신의 몸의 변화를 체크한다는 신조어다.\n사진 속 최준희는 속옷 차림으로 자신의 모습을 찍었다.\n최근 44kg 체중 감량을 한 최준희는 날씬한 몸매를 뽐냈다.\n최준희는 작가, 배우 등 다양한 활동을 모색하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고 최진실 딸 최준희가 건강한 몸매를 자랑했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최준희는 1일 자신의 SNS로 누리꾼들 질문에 답하는 시간을 가졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한 누리꾼이 최준희가 공동구매를 진행하는 제품을 빨리 주문하고 싶다는 글을 올렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 최준희는 “오늘 아침 눈바디야. 3차 전까지 나도 탈탈 털어먹었어. 튼살이 있어도 굴하지 않는 이유”라며 사진을 공개했다. ‘눈바디’는 눈(眼)과 체성분 분석기 브랜드 ‘인바디’를 합성한 말로 체중계상 몸무게 보다 거울에 비친 자신의 몸의 변화를 체크한다는 신조어다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 최준희는 속옷 차림으로 자신의 모습을 찍었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 44kg 체중 감량을 한 최준희는 날씬한 몸매를 뽐냈다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최준희는 작가, 배우 등 다양한 활동을 모색하고 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘최진실 딸’ 최준희 “오늘 아침 눈바디야”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

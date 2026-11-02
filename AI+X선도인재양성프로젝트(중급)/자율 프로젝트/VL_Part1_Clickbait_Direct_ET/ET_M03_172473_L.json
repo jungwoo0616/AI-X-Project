@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172473",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임창정 이어 버즈도 음원 차트 상위권…제2 전성기?",
+    "newsSubTitle": "",
+    "newsContent": "밴드 버즈가 신곡 '넌 살아있다'로 음원 차트 상위권에 오르는 저력을 보여줬다.\n버즈는 30일 0시 각종 음원사이트를 통해 신곡 '넌 살아있다'를 공개했다. '넌 살아있다'는 민경훈의 호소력 짙은 목소리, 드라마틱하게 고조되는 감정선이 돋보이는 노래다.\n30일 오전 11시 기준 '넌 살아있다'는 엠넷, 소리바다에서 차트 1위를 기록했다.\n다른 차트에서도 상위권에 오르며 버즈의 힘을 보여주고 있다.\n임창정의 음원 역주행에 이어 '추억의 가수' 버즈도 그의 성공 행보를 따르고 있다.\n버즈는 2003년 데뷔한 14년차 가수다. 버즈가 라이브로 부르는 '넌 살아있다'는 11월 부터 시작되는 버즈 전국투어 콘서트 '더 밴드'에서 볼 수 있을 전망이다.\n팬들은 \\\"보컬 쌈자의 힘이 느껴진다\\\", \\\"노래 너무 좋다, 감동이다\\\" 등의 댓글로 버즈의 복귀를 환영하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "밴드 버즈가 신곡 '넌 살아있다'로 음원 차트 상위권에 오르는 저력을 보여줬다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "버즈는 30일 0시 각종 음원사이트를 통해 신곡 '넌 살아있다'를 공개했다. '넌 살아있다'는 민경훈의 호소력 짙은 목소리, 드라마틱하게 고조되는 감정선이 돋보이는 노래다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "30일 오전 11시 기준 '넌 살아있다'는 엠넷, 소리바다에서 차트 1위를 기록했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다른 차트에서도 상위권에 오르며 버즈의 힘을 보여주고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "임창정의 음원 역주행에 이어 '추억의 가수' 버즈도 그의 성공 행보를 따르고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "버즈는 2003년 데뷔한 14년차 가수다. 버즈가 라이브로 부르는 '넌 살아있다'는 11월 부터 시작되는 버즈 전국투어 콘서트 '더 밴드'에서 볼 수 있을 전망이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팬들은 \\\"보컬 쌈자의 힘이 느껴진다\\\", \\\"노래 너무 좋다, 감동이다\\\" 등의 댓글로 버즈의 복귀를 환영하고 있다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'추억의 가수' 버즈, 신곡 공개하자 '이곳'에서 엄청난 실적… '제2 전성기'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

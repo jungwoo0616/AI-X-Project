@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262466",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 화이트데이 맞아 도발적 눈빛",
+		"newsSubTitle": "",
+		"newsContent": "가수 아이유가 화사함을 안고 왔다.\n주얼리 브랜드 제이에스티나는 뮤즈 아이유와 함께한 2022년 봄 시즌 화이트데이 추가 광고 사진을 2일 공개했다.\n아이유는 흩날리는 꽃잎을 배경으로 핑크색 드레스를 입으며 화이트데이의 설렘을 전했다.\n아이유는 제이리본 컬렉션 목걸이를 착용해 화사한 분위기를 더했다.\n또 다른 광고 사진에서 아이유는 파스텔톤으로 이뤄진 스트라이프 티셔츠에 라제이 컬렉션 주얼리 등으로 포인트를 줬다.\n여기에 아이유는 도발적인 눈빛으로 화이트데이를 맞아 유혹의 느낌을 전달하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 아이유가 화사함을 안고 왔다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주얼리 브랜드 제이에스티나는 뮤즈 아이유와 함께한 2022년 봄 시즌 화이트데이 추가 광고 사진을 2일 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이유는 흩날리는 꽃잎을 배경으로 핑크색 드레스를 입으며 화이트데이의 설렘을 전했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이유는 제이리본 컬렉션 목걸이를 착용해 화사한 분위기를 더했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 광고 사진에서 아이유는 파스텔톤으로 이뤄진 스트라이프 티셔츠에 라제이 컬렉션 주얼리 등으로 포인트를 줬다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여기에 아이유는 도발적인 눈빛으로 화이트데이를 맞아 유혹의 느낌을 전달하기도 했다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 화이트데이 맞아 도발적 눈빛",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

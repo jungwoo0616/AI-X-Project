@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276940",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이린 동생인 줄... 아이린과 똑닮은 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 '브레이브걸스' 유나의 '레드벨벳' 아이린 닮은 외모가 화제다.\n최근 온라인 커뮤니티에 '아이린인줄 알았는데...'라는 제목의 게시물이 올라왔다.\n글쓴이는 \\\"아이린인줄 알았지만 브레이브걸스 소속인 유나\\\"라며 유나의 사진을 소개했다.\n사진 속 유나는 아이린과 똑 닮아 있었다.\n유나의 뽀얀 피부와 이목구비가 아이린과 상당히 유사했다.\n마치 '루키루키'를 외칠것만 같은 사진 속 유나는 사실 브레이브걸스 멤버로 리드 보컬을 맡고 있다.\n한편 글쓴이는 \\\"신세경도 황승언도 보이네요\\\"라며 글을 마무리했다.\n아이린·신세경·황승언이 보이는 유나의 사진을 소개한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 '브레이브걸스' 유나의 '레드벨벳' 아이린 닮은 외모가 화제다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 '아이린인줄 알았는데...'라는 제목의 게시물이 올라왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 \\\"아이린인줄 알았지만 브레이브걸스 소속인 유나\\\"라며 유나의 사진을 소개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 유나는 아이린과 똑 닮아 있었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유나의 뽀얀 피부와 이목구비가 아이린과 상당히 유사했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마치 '루키루키'를 외칠것만 같은 사진 속 유나는 사실 브레이브걸스 멤버로 리드 보컬을 맡고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 글쓴이는 \\\"신세경도 황승언도 보이네요\\\"라며 글을 마무리했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이린·신세경·황승언이 보이는 유나의 사진을 소개한다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이린 동생인 줄... 아이린과 똑닮은 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

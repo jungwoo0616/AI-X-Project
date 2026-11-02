@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258495",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이지혜, 둘째 딸 공개 “아빠 판박이 문엘리”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 이지혜가 둘째 딸을 공개했다.\n이지혜는 18일 자신의 인스타그램에 “저는 문엘리입니다”라는 글을 게재했다.\n공개된 사진에는 이지혜의 두 딸과 남편 문재완의 모습이 담겼다.\n특히 둘째 엘리 양은 아빠와 똑 닮은 붕어빵 외모를 자랑해 눈길을 끌었다.\n이지혜는 “문재완, 문태리, 문엘리 잘부탁드립니다. 아빠 판박이. 둘째 딸. 세젤귀(세상에서 제일 귀엽다). 생후 26일”이라며 애정을 드러냈다.\n앞서 이지혜는 지난 17일 방송된 SBS 예능 프로그램 ‘동상이몽2-너는 내 운명’에서 둘째 아이 출산기가 공개했다.\n이날 방송에서 그는 둘째 딸의 모습을 처음 공개해 화제를 모았다.\n한편, 이지혜는 지난 2017년 세무사 문재완과 결혼, 2018년 첫째 딸 문태리를 품에 안았다.\n이어 지난해 12월 24일 둘째 출산 소식을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 이지혜가 둘째 딸을 공개했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이지혜는 18일 자신의 인스타그램에 “저는 문엘리입니다”라는 글을 게재했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 이지혜의 두 딸과 남편 문재완의 모습이 담겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 둘째 엘리 양은 아빠와 똑 닮은 붕어빵 외모를 자랑해 눈길을 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이지혜는 “문재완, 문태리, 문엘리 잘부탁드립니다. 아빠 판박이. 둘째 딸. 세젤귀(세상에서 제일 귀엽다). 생후 26일”이라며 애정을 드러냈다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 이지혜는 지난 17일 방송된 SBS 예능 프로그램 ‘동상이몽2-너는 내 운명’에서 둘째 아이 출산기가 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 방송에서 그는 둘째 딸의 모습을 처음 공개해 화제를 모았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 이지혜는 지난 2017년 세무사 문재완과 결혼, 2018년 첫째 딸 문태리를 품에 안았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이어 지난해 12월 24일 둘째 출산 소식을 전했다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이지혜, 둘째 딸 공개 “아빠 판박이 문엘리”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

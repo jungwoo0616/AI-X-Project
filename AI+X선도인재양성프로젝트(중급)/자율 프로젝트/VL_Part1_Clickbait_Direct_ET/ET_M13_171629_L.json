@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171629",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘인기가요’ 트렌드지, 엔딩 포즈도 완벽",
+    "newsSubTitle": "",
+    "newsContent": "신예 TRENDZ(트렌드지)가 ‘인기가요’를 찾았다.\nTRENDZ(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 16일 오후 3시 50분 방송된 SBS ‘인기가요’에 출연해 신곡 ‘TNT’ 무대를 선보였다.\n네이비 컬러의 슈트를 착용한 TRENDZ는 안정적인 라이브를 소화하며 퍼포먼스를 이어갔다.\n이들은 유연한 춤선을 자랑하는가 하면, 고음 파트에서도 어려움 없이 라이브 실력을 뽐내 보는 이들을 감탄하게 했다.\nTRENDZ의 데뷔 앨범 타이틀곡 ‘TNT(Truth&Trust)’는 일렉트로닉과 힙합 요소가 섞인 댄스곡으로 멤버들의 가창력과 랩, 퍼포먼스가 돋보인다.\n한편 TRENDZ는 다채로운 무대와 방송을 통해 팬들을 찾을 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 TRENDZ(트렌드지)가 ‘인기가요’를 찾았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "TRENDZ(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 16일 오후 3시 50분 방송된 SBS ‘인기가요’에 출연해 신곡 ‘TNT’ 무대를 선보였다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "네이비 컬러의 슈트를 착용한 TRENDZ는 안정적인 라이브를 소화하며 퍼포먼스를 이어갔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 유연한 춤선을 자랑하는가 하면, 고음 파트에서도 어려움 없이 라이브 실력을 뽐내 보는 이들을 감탄하게 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "TRENDZ의 데뷔 앨범 타이틀곡 ‘TNT(Truth&Trust)’는 일렉트로닉과 힙합 요소가 섞인 댄스곡으로 멤버들의 가창력과 랩, 퍼포먼스가 돋보인다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 TRENDZ는 다채로운 무대와 방송을 통해 팬들을 찾을 예정이다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'인기가요' 출연해 타이틀곡 'TNT'를 선보인 그룹은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

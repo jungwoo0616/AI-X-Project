@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173026",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'디데이' 하석진-윤주희, 열애설 극구 부인 \\\"어느 부분이 열애인정인지…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'윤주희 열애설 부인' 배우 하석진 측이 윤주희와의 열애설을 부인했다.\n하석진의 소속사 측은 23일 한 매체 보도로 불거진 윤주희와의 열애설에 “현장 공개에서 나왔던 말이 와전 됐을 뿐. 하석진과 윤주희의 열애설 보도는 오보, 사실무근이다”고 전했다.\n앞서 열린 드라마 '디데이' 현장 공개에서 하석진이 \\\"친구들이 드라마를 보고 윤주희씨 이야기를 많이 한다\\\"고 윤주희를 언급한 내용이 '실제 연인 사이'로 전해지면서 열애설이 불거졌다.\n오해의 소지가 없었던 발언이 열애 인정으로 둔갑한 상황에 소속사 측은 황당하다는 반응, 빠른 해명 덕분에 이들의 열애설은 단순 해프닝으로 종료됐다.\n한편 JTBC 금토드라마 '디데이'는 서울 대지진, 처절한 절망 속에서 신념과 생명을 위해 목숨 건 사투를 벌이는 재난 의료팀의 활약상을 그린다.\n하석진 윤주희 정소민 김영광 등이 출연하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'윤주희 열애설 부인' 배우 하석진 측이 윤주희와의 열애설을 부인했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하석진의 소속사 측은 23일 한 매체 보도로 불거진 윤주희와의 열애설에 “현장 공개에서 나왔던 말이 와전 됐을 뿐. 하석진과 윤주희의 열애설 보도는 오보, 사실무근이다”고 전했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 열린 드라마 '디데이' 현장 공개에서 하석진이 \\\"친구들이 드라마를 보고 윤주희씨 이야기를 많이 한다\\\"고 윤주희를 언급한 내용이 '실제 연인 사이'로 전해지면서 열애설이 불거졌다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오해의 소지가 없었던 발언이 열애 인정으로 둔갑한 상황에 소속사 측은 황당하다는 반응, 빠른 해명 덕분에 이들의 열애설은 단순 해프닝으로 종료됐다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 JTBC 금토드라마 '디데이'는 서울 대지진, 처절한 절망 속에서 신념과 생명을 위해 목숨 건 사투를 벌이는 재난 의료팀의 활약상을 그린다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하석진 윤주희 정소민 김영광 등이 출연하고 있다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'디데이' 하석진, 이 배우와의 열애설 결국 오보였다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

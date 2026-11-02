@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276644",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "한국인들이 삼겹살을 많이 먹게된 불행한 역사",
+		"newsSubTitle": "",
+		"newsContent": "\\\"그런데 우리나라 사람들은 왜 이렇게 삼겹살을 많이 먹는 거예요?\\\" 베이컨을 굽던 김영하 작가가 무심결에 한 질문에 뜻밖의 대답이 돌아왔다.\n30일 방송된 tvN '알쓸신잡'(알아두면 쓸데없는 신비한 잡학사전)에서 황교익 맛 칼럼니스트는 우리나라 사람들이 삼겹살을 많이 먹게 된 데에는 '굉장히 불행한 역사'가 있다고 설명했다.\n황교익은 \\\"1960~70년대 대규모 양돈산업은 일본에 수출하기 위해 만들어 진 것\\\"이라며 \\\"일본 사람들이 본격적으로 고기를 먹기 시작하면서 돼지를 키우게 됐다\\\"고 말했다.\n돼지를 키우면 '배변물 처리'가 문제였다.\n그래서 일본인들이 소비할 돼지를 우리나라에서 키우게 된 것이라는 설명이 덧붙여졌다.\n황교익은 \\\"일본에 수출했던 돼지 부위는 주로 안심, 등심이었고 한국에 남은 것은 삼겹살, 족발, 머릿고기, 돼지국밥, 순대, 껍데기 등이었다\\\"고 말했다.\n한편 리얼미터의 올해 5월 6일 조사에 따르면 '대선 개표방송을 보면서 가장 먹고 싶은 음식'으로 응답자의 34.7%는 치킨을 꼽았다.\n이어 족발(9.2%), 삼겹살(8.4%), 보쌈(6.4%)이 뒤를 이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"그런데 우리나라 사람들은 왜 이렇게 삼겹살을 많이 먹는 거예요?\\\" 베이컨을 굽던 김영하 작가가 무심결에 한 질문에 뜻밖의 대답이 돌아왔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 tvN '알쓸신잡'(알아두면 쓸데없는 신비한 잡학사전)에서 황교익 맛 칼럼니스트는 우리나라 사람들이 삼겹살을 많이 먹게 된 데에는 '굉장히 불행한 역사'가 있다고 설명했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "황교익은 \\\"1960~70년대 대규모 양돈산업은 일본에 수출하기 위해 만들어 진 것\\\"이라며 \\\"일본 사람들이 본격적으로 고기를 먹기 시작하면서 돼지를 키우게 됐다\\\"고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "돼지를 키우면 '배변물 처리'가 문제였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그래서 일본인들이 소비할 돼지를 우리나라에서 키우게 된 것이라는 설명이 덧붙여졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "황교익은 \\\"일본에 수출했던 돼지 부위는 주로 안심, 등심이었고 한국에 남은 것은 삼겹살, 족발, 머릿고기, 돼지국밥, 순대, 껍데기 등이었다\\\"고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 리얼미터의 올해 5월 6일 조사에 따르면 '대선 개표방송을 보면서 가장 먹고 싶은 음식'으로 응답자의 34.7%는 치킨을 꼽았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 족발(9.2%), 삼겹살(8.4%), 보쌈(6.4%)이 뒤를 이었다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국인들이 삼겹살을 많이 먹게된 불행한 역사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

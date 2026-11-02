@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171277",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "동방신기 창민, 호날두 극장 골에 “살아 있는 전설” 환호",
+    "newsSubTitle": "",
+    "newsContent": "그룹 동방신기 최강창민이 맨체스터 유나이티드의 극장 골에 환호했다.\n최강창민은 30일 자신의 인스타그램 스토리에 맨체스터 유나이티드 경기 관람을 인증하며 팬심을 드러냈다.\n맨체스터 유나이티드는 30일(한국 시간) 영국 맨체스터에 위치한 올드 트래포드에서 2021-22시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL) 조별리그 F조 2차전을 비야레알과 치뤘다.\n이날 맨유는 후반 8분 파코 알카세르에게 선제골을 실점했지만 이내 두 골을 따라잡으며 2-1로 승리했다.\n특히 후반 추가시간 터진 크리스티아누 호날두의 골은 보는 이에게 전율을 선사했다.\n최강창민도 흥분을 감추지 못했다.\n그는 호날두의 골 장면을 캡처해 게재하며 “호날두, 살아있는 전설”이라고 팬심을 드러냈다.\n최강창민은 연예계 소문난 축구 마니아로 알려졌다.\n지난 2월 그룹 샤이니 민호는 KBS 2TV 예능 ‘옥탑방의 문제아들’에 출연해 “최강창민과 나는 축구랑 영화 보는 것이 공통 취미다”라고 밝히기도 했다.\n한편, 최강창민은 지난해 10월 비연예인 여성과 결혼했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 동방신기 최강창민이 맨체스터 유나이티드의 극장 골에 환호했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최강창민은 30일 자신의 인스타그램 스토리에 맨체스터 유나이티드 경기 관람을 인증하며 팬심을 드러냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "맨체스터 유나이티드는 30일(한국 시간) 영국 맨체스터에 위치한 올드 트래포드에서 2021-22시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL) 조별리그 F조 2차전을 비야레알과 치뤘다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 맨유는 후반 8분 파코 알카세르에게 선제골을 실점했지만 이내 두 골을 따라잡으며 2-1로 승리했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 후반 추가시간 터진 크리스티아누 호날두의 골은 보는 이에게 전율을 선사했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최강창민도 흥분을 감추지 못했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 호날두의 골 장면을 캡처해 게재하며 “호날두, 살아있는 전설”이라고 팬심을 드러냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최강창민은 연예계 소문난 축구 마니아로 알려졌다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 2월 그룹 샤이니 민호는 KBS 2TV 예능 ‘옥탑방의 문제아들’에 출연해 “최강창민과 나는 축구랑 영화 보는 것이 공통 취미다”라고 밝히기도 했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편, 최강창민은 지난해 10월 비연예인 여성과 결혼했다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소문난 축구 마니아 최강창민, 이 선수에게 남다른 팬심 드러내...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

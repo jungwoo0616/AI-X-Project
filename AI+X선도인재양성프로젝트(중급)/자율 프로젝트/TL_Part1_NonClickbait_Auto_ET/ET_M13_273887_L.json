@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273887",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "중국 인터넷방송도 규제 강화",
+		"newsSubTitle": "",
+		"newsContent": "중국 당국이 인터넷 방송 규제 강화에 나섰다.\n국가광파전시총국(광전총국)과 문화여유국은 금지 조항 31가지를 담은 ‘인터넷 방송 진행자 행동 규범’을 22일 발표했다.\n앞 서 서방에 맞선 중국 입장을 대변해온 러위청 외교부 부부장이 지난 14일 방송을 총괄 관리하는 광전총국 부국장에 임명되자 강경한 대외 정책 선전과 여론 통제가 강화될 것이라는 예상이 나온 바 있다.\n중국 공산당 영도, 사회주의 제도, 개혁·개방 성과 등을 약화·왜곡·부정하는 내용이나 사회적 이슈와 관련해 의도적으로 여론을 조성하는 행위를 금지 대상에 넣었다.\n헌법상 기본 원칙과 법률 위반, 국가·정권 전복 및 위해, 국가의 통일·주권·영토 보전·안보 저해, 국가 보안 누설, 국가 존엄과 명예·이익 손상에 영향을 끼치는 내용의 방송도 금지했다.\n중화민족 문화 전통 폄훼, 민족 증오·차별 및 단결 저해, 역사와 역사 인물 왜곡, 풍습 침해 행위도 포함됐다.\n의료위생, 재정금융, 법률, 교육 분야 생방송 진행자는 관련 분야 자격을 취득해야 하며 생방송 플랫폼을 사전에 신고해야 한다.\n규제 당국은 인터넷 진행자 자질도 심사해 그 기록을 보존하도록 했다.\n규범 위반 행위에 대해 경고·시정하는 등 통제를 강화하고, 중대한 위반자는 계정 차단은 물론 블랙리스트에 이름을 올려 플랫폼을 바꿔 복귀하거나 대중 공연에 출연하지 못하도록 했으며 형사 책임도 묻도록 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 당국이 인터넷 방송 규제 강화에 나섰다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국가광파전시총국(광전총국)과 문화여유국은 금지 조항 31가지를 담은 ‘인터넷 방송 진행자 행동 규범’을 22일 발표했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞 서 서방에 맞선 중국 입장을 대변해온 러위청 외교부 부부장이 지난 14일 방송을 총괄 관리하는 광전총국 부국장에 임명되자 강경한 대외 정책 선전과 여론 통제가 강화될 것이라는 예상이 나온 바 있다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중국 공산당 영도, 사회주의 제도, 개혁·개방 성과 등을 약화·왜곡·부정하는 내용이나 사회적 이슈와 관련해 의도적으로 여론을 조성하는 행위를 금지 대상에 넣었다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "헌법상 기본 원칙과 법률 위반, 국가·정권 전복 및 위해, 국가의 통일·주권·영토 보전·안보 저해, 국가 보안 누설, 국가 존엄과 명예·이익 손상에 영향을 끼치는 내용의 방송도 금지했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중화민족 문화 전통 폄훼, 민족 증오·차별 및 단결 저해, 역사와 역사 인물 왜곡, 풍습 침해 행위도 포함됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "의료위생, 재정금융, 법률, 교육 분야 생방송 진행자는 관련 분야 자격을 취득해야 하며 생방송 플랫폼을 사전에 신고해야 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "규제 당국은 인터넷 진행자 자질도 심사해 그 기록을 보존하도록 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "규범 위반 행위에 대해 경고·시정하는 등 통제를 강화하고, 중대한 위반자는 계정 차단은 물론 블랙리스트에 이름을 올려 플랫폼을 바꿔 복귀하거나 대중 공연에 출연하지 못하도록 했으며 형사 책임도 묻도록 했다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국 인터넷방송도 규제 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

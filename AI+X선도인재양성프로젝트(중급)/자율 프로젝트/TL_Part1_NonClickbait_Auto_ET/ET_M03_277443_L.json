@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277443",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최자와 설리가 사귀게 된 계기",
+		"newsSubTitle": "",
+		"newsContent": "설리와 다이나믹 듀오 최자 커플의 첫만남이 공개됐다.\n지난 9일 방송된 케이블 TV tvN '2017 명단공개'에서는 '연예계 최강 나이 파괴 스타 커플들'의 명단이 공개됐다.\n이날 설리·최자 커플은 5위에 올랐다.\n하재근 대중문화 평론가는 \\\"김희철 씨가 2013년 공익근무 해제 파티를 했는데 그 파티장에서 두 사람이 만났다\\\"며 \\\"최자씨가 설리씨에게 연락처를 물어봤다고 한다\\\"고 전했다.\n이어 하재근 평론가는 \\\"어느 날 단 둘이 만나서 맥주 데이트를 했는데 바로 그 날이 두 사람의 1일이 됐다고 한다\\\"고 말했다.\n두 사람은 지난 2013년 맥줏집 데이트 사진이 보도되면서 열애설에 휩싸였다.\n당시 두 사람은 열애설을 부정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "설리와 다이나믹 듀오 최자 커플의 첫만남이 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 9일 방송된 케이블 TV tvN '2017 명단공개'에서는 '연예계 최강 나이 파괴 스타 커플들'의 명단이 공개됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 설리·최자 커플은 5위에 올랐다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하재근 대중문화 평론가는 \\\"김희철 씨가 2013년 공익근무 해제 파티를 했는데 그 파티장에서 두 사람이 만났다\\\"며 \\\"최자씨가 설리씨에게 연락처를 물어봤다고 한다\\\"고 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 하재근 평론가는 \\\"어느 날 단 둘이 만나서 맥주 데이트를 했는데 바로 그 날이 두 사람의 1일이 됐다고 한다\\\"고 말했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 지난 2013년 맥줏집 데이트 사진이 보도되면서 열애설에 휩싸였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당시 두 사람은 열애설을 부정했다.",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최자와 설리가 사귀게 된 계기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

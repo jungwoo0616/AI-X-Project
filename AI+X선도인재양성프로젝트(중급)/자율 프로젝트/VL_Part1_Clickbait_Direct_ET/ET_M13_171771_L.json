@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171771",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "한지민, 역시 대한민국 청순 1등",
+    "newsSubTitle": "",
+    "newsContent": "배우 한지민이 청순한 일상을 공유했다.\n한지민은 23일 자신의 사회관계망서비스(SNS)에 여러 장의 사진을 게재했다.\n공개한 사진에서 한지민은 카페에 앉아 커피를 마시며 여유로운 일상을 즐겼다.\n한지민은 특유의 청순하면서 청초한 매력을 유감없이 과시했다.\n한편 한지민은 지난 9일 첫 방송된 tvN 드라마 ‘우리들의 블루스’에 출연 중이다.\n한지민은 1년 차 해녀 이영옥 역을 맡아 열연을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한지민이 청순한 일상을 공유했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한지민은 23일 자신의 사회관계망서비스(SNS)에 여러 장의 사진을 게재했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개한 사진에서 한지민은 카페에 앉아 커피를 마시며 여유로운 일상을 즐겼다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한지민은 특유의 청순하면서 청초한 매력을 유감없이 과시했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 한지민은 지난 9일 첫 방송된 tvN 드라마 ‘우리들의 블루스’에 출연 중이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한지민은 1년 차 해녀 이영옥 역을 맡아 열연을 펼치고 있다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청순 그 자체인 여배우의 일상 공개?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

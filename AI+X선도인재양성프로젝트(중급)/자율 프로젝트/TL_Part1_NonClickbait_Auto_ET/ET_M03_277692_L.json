@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277692",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“지난달 공연만 31개” 래퍼 슈퍼비의 한 달 수입",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 슈퍼비가 지난달 수입을 공개해 화제다.\n12일 공개된 OSEN과의 인터뷰에서 슈퍼비는 “쇼미 끝나고 공연 횟수가 많이 늘었다”며 “지난 달에는 좀 많이 벌었다”고 말했다.\n이어 슈퍼비는 “지난달에 공연만 31개를 했다”며 “광고도 하나 찍게 돼 정확하게 1억을 찍었다”고 전했다.\n면도 역시 “저번 달에 3000만원 정도 찍었다. 정말 감사한 일이다”라고 말했다.\n두 사람의 소득의 차이가 어디서 왔느냐는 질문에 슈퍼비는 “랩 실력이라고 본다”고 답했다.\n반면 면도는‘‘쇼미’의 영향‘을 언급하며 “히트곡 수도 슈퍼비가 더 많기 때문에 행사가 많이 들어온 것 같다”고 전했다.\n지난 8일 슈퍼비는 자신의 SNS에 고급 외제차 마세라티의 인증샷을 공개하기도 했다.\n슈퍼비는 지난해 Mnet‘쇼미더머니4‘출연에 이어’쇼미더머니5‘에도 출연하며 뛰어난 랩 실력과 특유의 장난스러움으로 화제가 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 슈퍼비가 지난달 수입을 공개해 화제다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 공개된 OSEN과의 인터뷰에서 슈퍼비는 “쇼미 끝나고 공연 횟수가 많이 늘었다”며 “지난 달에는 좀 많이 벌었다”고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 슈퍼비는 “지난달에 공연만 31개를 했다”며 “광고도 하나 찍게 돼 정확하게 1억을 찍었다”고 전했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "면도 역시 “저번 달에 3000만원 정도 찍었다. 정말 감사한 일이다”라고 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람의 소득의 차이가 어디서 왔느냐는 질문에 슈퍼비는 “랩 실력이라고 본다”고 답했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 면도는‘‘쇼미’의 영향‘을 언급하며 “히트곡 수도 슈퍼비가 더 많기 때문에 행사가 많이 들어온 것 같다”고 전했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 8일 슈퍼비는 자신의 SNS에 고급 외제차 마세라티의 인증샷을 공개하기도 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "슈퍼비는 지난해 Mnet‘쇼미더머니4‘출연에 이어’쇼미더머니5‘에도 출연하며 뛰어난 랩 실력과 특유의 장난스러움으로 화제가 됐다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“지난달 공연만 31개” 래퍼 슈퍼비의 한 달 수입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

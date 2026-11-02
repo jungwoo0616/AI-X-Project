@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263580",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘뮤뱅’ 원호, 오늘 ‘썸바디’ 무대 최초 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 원호(WONHO)가 ‘뮤직뱅크’를 시작으로 후속곡 활동에 돌입한다.\n원호는 11일 KBS 2TV ‘뮤직뱅크’에 출연해 첫 싱글 ‘옵세션(OBSESSION)’의 수록곡 ‘썸바디(Somebody)’의 무대를 음악 방송 최초로 공개한다.\n영어 가사로 이루어진 ‘썸바디’는 어쿠스틱한 피아노와 신스를 시작으로 기타와 베이스 리프가 돋보이는 곡으로, 원호의 보컬과 파워풀하며 그루비한 베이스 사운드가 완벽한 조화를 이루는 팝 스타일의 노래다.\n원호는 ‘썸바디’ 무대를 통해 타이틀곡 ‘아이 온 유(EYE ON YOU)’와는 또다른 매력적인 퍼포먼스를 선보이며 또 한 번 글로벌 팬들을 사로잡을 전망이다.\n앞서 원호는 지난달 16일 발매한 첫 싱글 ‘옵세션’의 타이틀곡 ‘아이 온 유’로 아이튠즈 톱 송 차트에서 전 세계 10개 국가 및 지역 1위를 차지한 것은 물론, 수록곡 ‘썸바디’ 역시 차트 상위권에 이름을 올리며 명실상부 글로벌 대세의 저력을 과시했다.\n원호의 후속곡 ‘썸바디’ 첫 음악 방송 무대는 11일 오후 5시 방송되는 ‘뮤직뱅크’에서 만날 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 원호(WONHO)가 ‘뮤직뱅크’를 시작으로 후속곡 활동에 돌입한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원호는 11일 KBS 2TV ‘뮤직뱅크’에 출연해 첫 싱글 ‘옵세션(OBSESSION)’의 수록곡 ‘썸바디(Somebody)’의 무대를 음악 방송 최초로 공개한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영어 가사로 이루어진 ‘썸바디’는 어쿠스틱한 피아노와 신스를 시작으로 기타와 베이스 리프가 돋보이는 곡으로, 원호의 보컬과 파워풀하며 그루비한 베이스 사운드가 완벽한 조화를 이루는 팝 스타일의 노래다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "원호는 ‘썸바디’ 무대를 통해 타이틀곡 ‘아이 온 유(EYE ON YOU)’와는 또다른 매력적인 퍼포먼스를 선보이며 또 한 번 글로벌 팬들을 사로잡을 전망이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 원호는 지난달 16일 발매한 첫 싱글 ‘옵세션’의 타이틀곡 ‘아이 온 유’로 아이튠즈 톱 송 차트에서 전 세계 10개 국가 및 지역 1위를 차지한 것은 물론, 수록곡 ‘썸바디’ 역시 차트 상위권에 이름을 올리며 명실상부 글로벌 대세의 저력을 과시했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "원호의 후속곡 ‘썸바디’ 첫 음악 방송 무대는 11일 오후 5시 방송되는 ‘뮤직뱅크’에서 만날 수 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘뮤뱅’ 원호, 오늘 ‘썸바디’ 무대 최초 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

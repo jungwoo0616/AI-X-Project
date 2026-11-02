@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170001",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "뱀뱀, 참스 컬래버로 직접 디자인한 아이템 내놨다",
+    "newsSubTitle": "",
+    "newsContent": "갓세븐 뱀뱀과 강요한 디자이너의 참스(CHARMS)가 함께한 컬렉션이 공개됐다.\n참스 홍보팀은 7일 오전 뱀뱀과 참스의 컬래버 제품 판매가 시작됐다고 밝혔다.\n컬렉션은 뱀뱀이 그린 벌새 아트웍 포인트를 참스 아이템에 접목해 제작됐다.\n컬래버 제품은 뱀뱀의 디자인이 들어간 후드티 5종, 맨투맨 4종, 반팔티 11종, 조거팬츠 2종, 재킷 2종과 볼캡, 미니 크로스백 등으로 구성됐다.\n뱀뱀과 참스의 컬렉션 판매는 7일부터 시작하며, 참스 자사몰과 스타일크루에서 프리오더로 진행된다.\n모든 구매 고객에게는 뱀뱀 포토카드가 증정되며 구매 고객 대상 추첨을 통해 뱀뱀 폴라로이드 사진과 싸인 티셔츠를 증정하는 이벤트가 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "갓세븐 뱀뱀과 강요한 디자이너의 참스(CHARMS)가 함께한 컬렉션이 공개됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "참스 홍보팀은 7일 오전 뱀뱀과 참스의 컬래버 제품 판매가 시작됐다고 밝혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "컬렉션은 뱀뱀이 그린 벌새 아트웍 포인트를 참스 아이템에 접목해 제작됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "컬래버 제품은 뱀뱀의 디자인이 들어간 후드티 5종, 맨투맨 4종, 반팔티 11종, 조거팬츠 2종, 재킷 2종과 볼캡, 미니 크로스백 등으로 구성됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뱀뱀과 참스의 컬렉션 판매는 7일부터 시작하며, 참스 자사몰과 스타일크루에서 프리오더로 진행된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "모든 구매 고객에게는 뱀뱀 포토카드가 증정되며 구매 고객 대상 추첨을 통해 뱀뱀 폴라로이드 사진과 싸인 티셔츠를 증정하는 이벤트가 진행된다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뱀뱀, 관능적인 파격적 디자인 선보여... 소비자들의 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

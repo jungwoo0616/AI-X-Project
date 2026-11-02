@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278127",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "박한별, 1살 연하 사업가와 열애설…공식 입장은 '아직'",
+		"newsSubTitle": "",
+		"newsContent": "연기자 박한별(32)이 열애설에 휩싸였다.\n23일 한 매체는 박한별이 1살 연하의 사업가와 4개월째 열애중이라고 보도했다.\n지난해 12월 주얼리 회사 대표와의 열애설이 불거진 뒤 약 5개월 만의 열애설이다.\n당시 주얼리 대표와의 열애설은 \\\"친한 사이일 뿐 사귀는 건 아니다\\\"라고 부인했다.\n박한별의 소속사 측은 아직 공식 입장을 내놓지 않았다.\n열애를 인정할지, 혹은 부인할지 관심이 모이고 있다.\n한편 박한별은 2월 종영한 SBS 드라마 ‘애인있어요’ 이후 별다른 활동을 하지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연기자 박한별(32)이 열애설에 휩싸였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 한 매체는 박한별이 1살 연하의 사업가와 4개월째 열애중이라고 보도했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 12월 주얼리 회사 대표와의 열애설이 불거진 뒤 약 5개월 만의 열애설이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 주얼리 대표와의 열애설은 \\\"친한 사이일 뿐 사귀는 건 아니다\\\"라고 부인했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박한별의 소속사 측은 아직 공식 입장을 내놓지 않았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "열애를 인정할지, 혹은 부인할지 관심이 모이고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 박한별은 2월 종영한 SBS 드라마 ‘애인있어요’ 이후 별다른 활동을 하지 않고 있다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박한별, 1살 연하 사업가와 열애설…공식 입장은 '아직'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

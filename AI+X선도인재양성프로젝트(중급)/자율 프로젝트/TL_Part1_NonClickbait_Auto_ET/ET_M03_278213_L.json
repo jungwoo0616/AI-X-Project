@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278213",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "박수진, 파리 화보 촬영 중인 근황..매혹적인 레드립",
+		"newsSubTitle": "",
+		"newsContent": "배우 박수진의 파리 화보 촬영 현장이 깜짝 공개됐다.\n25일 '하이컷'은 인스타그램을 통해 박수진의 프랑스 파리 화보 현장을 공개했다.\n인스타그램에는 \\\"[She is coming] #박수진, 2016.05.05 #하이컷 #highcut #하이컷스타 #highcutstar #sheiscoming #highfilm #ParkSujin\\\"이라는 글과 함께 영상이 게재됐다.\n공개된 영상 속에는 화보 촬영에 열중하고 있는 박수진의 모습이 담겨있다.\n특히 박수진은 레드립 메이크업을 완벽소화하며 섹시매력을 발산해 눈길을 끌고 있다.\n또한 박수진은 파리 에펠탑을 배경으로 우아하면서도 고혹적인 매력을 뽐내 더욱 시선을 사로잡고 있다.\n한편, 박수진의 파리 화보 일정에 남편 배용준이 사비로 동행한 사실이 알려져 화제를 모은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박수진의 파리 화보 촬영 현장이 깜짝 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 '하이컷'은 인스타그램을 통해 박수진의 프랑스 파리 화보 현장을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인스타그램에는 \\\"[She is coming] #박수진, 2016.05.05 #하이컷 #highcut #하이컷스타 #highcutstar #sheiscoming #highfilm #ParkSujin\\\"이라는 글과 함께 영상이 게재됐다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 영상 속에는 화보 촬영에 열중하고 있는 박수진의 모습이 담겨있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 박수진은 레드립 메이크업을 완벽소화하며 섹시매력을 발산해 눈길을 끌고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 박수진은 파리 에펠탑을 배경으로 우아하면서도 고혹적인 매력을 뽐내 더욱 시선을 사로잡고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 박수진의 파리 화보 일정에 남편 배용준이 사비로 동행한 사실이 알려져 화제를 모은 바 있다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박수진, 파리 화보 촬영 중인 근황..매혹적인 레드립",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

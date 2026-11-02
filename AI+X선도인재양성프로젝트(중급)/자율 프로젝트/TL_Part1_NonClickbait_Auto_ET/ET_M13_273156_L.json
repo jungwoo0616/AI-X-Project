@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273156",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장영란 “글쎄 임신이라니”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 장영란이 셋째 아이를 가졌다.\n장영란은 14일 SNS로 셋째 임신 소식을 직접 알렸다.\n장영란은 “사랑하는 인친님들. 저를 아껴주시는 모든 분들. 믿겨지지 않는 일이 일어났어요. 저희 가족에게 너무나 행복하고 감사한 일이 생겼어요. 아기천사가 저희 가족을 찾아왔어요”라는 글과 함께 사진과 동영상도 공개를 했다.\n장영란은 “사실 많이 놀라기도 했고 당황스럽게도 했어요. 꿈인지 생시인지 구분이 안가더라고요”라며 “폐경인 줄 알고 벌써 때가 됐구나. 갱년기인가? 나도 늙었구나했는데 글쎄 임신이라니”라며 늦둥이를 임신한 심경을 전했다.\n또 “사실 많은 분들이 태몽을 꿔주셨어요. ‘언니가 임신하는 꿈 꿨어요’라고 문자 온 현희야. 많이 놀랐지? 네 말이 맞았어”라고 전했다.\n장영란은 “아직 말씀드리기엔 조심스러운 단계인데 제가 워낙 솔직한 스타일이라 사람들한테 숨기는 게 너무 괴롭고 힘들었어요”라며 “건강하게 태교 잘하고 건강하게 방송도 잘하고 건강하게 육아도 잘해볼게요. 모든 조심조심 잘해볼게요”라고 밝혔다.\n올해 45세인 장영란은 2009년 한의사 한창과 결혼해 슬하에 1녀 1남을 두고 있다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 장영란이 셋째 아이를 가졌다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장영란은 14일 SNS로 셋째 임신 소식을 직접 알렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장영란은 “사랑하는 인친님들. 저를 아껴주시는 모든 분들. 믿겨지지 않는 일이 일어났어요. 저희 가족에게 너무나 행복하고 감사한 일이 생겼어요. 아기천사가 저희 가족을 찾아왔어요”라는 글과 함께 사진과 동영상도 공개를 했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장영란은 “사실 많이 놀라기도 했고 당황스럽게도 했어요. 꿈인지 생시인지 구분이 안가더라고요”라며 “폐경인 줄 알고 벌써 때가 됐구나. 갱년기인가? 나도 늙었구나했는데 글쎄 임신이라니”라며 늦둥이를 임신한 심경을 전했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 “사실 많은 분들이 태몽을 꿔주셨어요. ‘언니가 임신하는 꿈 꿨어요’라고 문자 온 현희야. 많이 놀랐지? 네 말이 맞았어”라고 전했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장영란은 “아직 말씀드리기엔 조심스러운 단계인데 제가 워낙 솔직한 스타일이라 사람들한테 숨기는 게 너무 괴롭고 힘들었어요”라며 “건강하게 태교 잘하고 건강하게 방송도 잘하고 건강하게 육아도 잘해볼게요. 모든 조심조심 잘해볼게요”라고 밝혔다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올해 45세인 장영란은 2009년 한의사 한창과 결혼해 슬하에 1녀 1남을 두고 있다",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장영란 “글쎄 임신이라니”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

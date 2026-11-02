@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272407",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "에스파, 미·일 쇼케이스 확정…글로벌 행보 본격화",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에스파가 글로벌 진출을 공식화한다.\n에스파 소속사 SM엔터테인먼트는 에스파가 오는 26일(현지시간) 미국 LA 유튜브 시어터에서 ‘에스파 쇼케이스 싱크 인 LA’(aespa Showcase SYNK in LA)를 개최하고 현지 팬들과 만난다고 7일 밝혔다.\n이번 쇼케이스에서 에스파의 신곡 및 히트곡 무대를 비롯해 근황 토크와 미니 게임 등 팬들을 위한 다채로운 코너가 준비됐다고 소속사는 설명했다.\n이밖에도 에스파는 이번 LA 쇼케이스에 이어 8월 6~7일 양일간 일본 요코하마 피아 아레나 MM에서 일본 첫 쇼케이스도 앞두고 있다.\n미국과 일본 쇼케이스를 이어가며 에스파는 본격적인 글로벌 활동에 박차를 가할 예정이다.\n에스파의 두 번째 미니 앨범 ‘걸스’(Girls)는 7월 8일 한국과 미국에서 동시 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에스파가 글로벌 진출을 공식화한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에스파 소속사 SM엔터테인먼트는 에스파가 오는 26일(현지시간) 미국 LA 유튜브 시어터에서 ‘에스파 쇼케이스 싱크 인 LA’(aespa Showcase SYNK in LA)를 개최하고 현지 팬들과 만난다고 7일 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 쇼케이스에서 에스파의 신곡 및 히트곡 무대를 비롯해 근황 토크와 미니 게임 등 팬들을 위한 다채로운 코너가 준비됐다고 소속사는 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이밖에도 에스파는 이번 LA 쇼케이스에 이어 8월 6~7일 양일간 일본 요코하마 피아 아레나 MM에서 일본 첫 쇼케이스도 앞두고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국과 일본 쇼케이스를 이어가며 에스파는 본격적인 글로벌 활동에 박차를 가할 예정이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에스파의 두 번째 미니 앨범 ‘걸스’(Girls)는 7월 8일 한국과 미국에서 동시 발매된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스파, 미·일 쇼케이스 확정…글로벌 행보 본격화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

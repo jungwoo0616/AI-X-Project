@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276805",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'문재인'을 최초로 드라마에서 연기했던 배우",
+		"newsSubTitle": "",
+		"newsContent": "'문재인'을 최초로 드라마에서 연기했던 배우가 눈길을 끈다. 26일 한 온라인 커뮤니티에는 이 같은 내용을 담은 게시 글 하나가 올라왔다.\n이에 따르면 배우 한가인은 문재인 대통령과 동명이인인 캐릭터를 연기한 바 있다.\n한가인은 2010년 방송된 SBS '나쁜 남자'에서 문재인 역을 연기했다.\n그가 맡은 문재인 역은 미술관 아트 컨설턴트로, 출세 지향적인 인물이다.\n당시 '나쁜 남자' 측이 공식 홈페이지에서 공개한 인물 설명에 따르면 문재인 캐릭터는 결혼을 통해 상류사회에 진입하려는 뚜렷한 목표를 가지고 있다.\n이를 접한 네티즌은 \\\"웃기다\\\" \\\"'나쁜 남자' 재밌다\\\" 등 반응을 보였다.\n한편 '나쁜 남자'는 배우 김남길·오연수·김재욱·정소민 등이 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'문재인'을 최초로 드라마에서 연기했던 배우가 눈길을 끈다. 26일 한 온라인 커뮤니티에는 이 같은 내용을 담은 게시 글 하나가 올라왔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따르면 배우 한가인은 문재인 대통령과 동명이인인 캐릭터를 연기한 바 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한가인은 2010년 방송된 SBS '나쁜 남자'에서 문재인 역을 연기했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그가 맡은 문재인 역은 미술관 아트 컨설턴트로, 출세 지향적인 인물이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 '나쁜 남자' 측이 공식 홈페이지에서 공개한 인물 설명에 따르면 문재인 캐릭터는 결혼을 통해 상류사회에 진입하려는 뚜렷한 목표를 가지고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 접한 네티즌은 \\\"웃기다\\\" \\\"'나쁜 남자' 재밌다\\\" 등 반응을 보였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 '나쁜 남자'는 배우 김남길·오연수·김재욱·정소민 등이 출연했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'문재인'을 최초로 드라마에서 연기했던 배우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

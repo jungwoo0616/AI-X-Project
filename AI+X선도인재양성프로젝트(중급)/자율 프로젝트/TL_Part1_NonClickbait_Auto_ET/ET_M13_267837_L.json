@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267837",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "공영홈쇼핑, 농가돕기 봄나물·양파·고구마 판매 방송",
+		"newsSubTitle": "",
+		"newsContent": "공영홈쇼핑이 코로나19에 따른 소비 감소로 어려움을 겪는 농가를 지원하기 위해 TV홈쇼핑을 통해 우리 농산물 판매 방송을 특별 편성한다고 22일 밝혔다.\n공영홈쇼핑은 오는 27일에는 참두릅, 삼나물, 명이, 곰취 등 강원도 봄나물 4종을 모아 판매한다.\n코로나19 여파로 강원도 11개 시·군 산나물 축제가 전면 취소되면서 농가들이 판로를 찾지 못해 어려움을 겪고 있는 상황이다.\n최근 가격 하락으로 어려움을 겪는 양파 재배 농가를 돕기 위해 오는 29일 ‘제주도 햇양파’ 판매 방송도 준비했다.\n공영홈쇼핑은 모바일 라이브커머스 ‘공영라방’을 통해서도 오는 25일 ‘유기농 꿀고구마’를 판매한다.\n학교 급식 중단 등으로 친환경 농산물의 소비량이 급감해 어려움을 겪고 있는 농가를 돕기 위한 것이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공영홈쇼핑이 코로나19에 따른 소비 감소로 어려움을 겪는 농가를 지원하기 위해 TV홈쇼핑을 통해 우리 농산물 판매 방송을 특별 편성한다고 22일 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공영홈쇼핑은 오는 27일에는 참두릅, 삼나물, 명이, 곰취 등 강원도 봄나물 4종을 모아 판매한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코로나19 여파로 강원도 11개 시·군 산나물 축제가 전면 취소되면서 농가들이 판로를 찾지 못해 어려움을 겪고 있는 상황이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 가격 하락으로 어려움을 겪는 양파 재배 농가를 돕기 위해 오는 29일 ‘제주도 햇양파’ 판매 방송도 준비했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공영홈쇼핑은 모바일 라이브커머스 ‘공영라방’을 통해서도 오는 25일 ‘유기농 꿀고구마’를 판매한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "학교 급식 중단 등으로 친환경 농산물의 소비량이 급감해 어려움을 겪고 있는 농가를 돕기 위한 것이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공영홈쇼핑, 농가돕기 봄나물·양파·고구마 판매 방송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279291",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "쯔위 논란에 JYP 홈페이지 다운…디도스 공격 추정 \\\"중국해커들이?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "JYP 홈페이지가 디도스 공격으로 다운 됐다.\nJYP는 지난 17일 한 매체와의 통화에서 “쯔위의 사과 전부터 간헐적으로 홈페이지가 다운돼 복구했다”며 “16일 오후에는 불특정 IP와 랜덤 IP가 한꺼번에 들어와 홈페이지 접속을 차단하는 디도스 공격을 받았다”고 밝혔다.\n이어 “그러나 어디서 공격한 지는 기술적으로 아는 게 불가능한 상황”이라며 “현재 홈페이지 복구 중으로 시간이 다소 걸릴 것 같다”고 덧붙였다.\nJYP 온라인 홈페이지는 디도스 공격으로 현재까지도 다운 상태다.\n일각에서는 중국, 혹은 대만 해커들의 소행이라는 추측이 있지만 아직 추측일 뿐, 명확한 증거는 없는 상황이다.\n한편 쯔위는 지난해 11월 MBC 예능프로그램 ‘마이리틀텔레비전’에 나와 대만 국기를 흔들었고, 중국 네티즌의 반발이 커지자 15일 유투브에 사과 영상을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JYP 홈페이지가 디도스 공격으로 다운 됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JYP는 지난 17일 한 매체와의 통화에서 “쯔위의 사과 전부터 간헐적으로 홈페이지가 다운돼 복구했다”며 “16일 오후에는 불특정 IP와 랜덤 IP가 한꺼번에 들어와 홈페이지 접속을 차단하는 디도스 공격을 받았다”고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “그러나 어디서 공격한 지는 기술적으로 아는 게 불가능한 상황”이라며 “현재 홈페이지 복구 중으로 시간이 다소 걸릴 것 같다”고 덧붙였다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "JYP 온라인 홈페이지는 디도스 공격으로 현재까지도 다운 상태다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일각에서는 중국, 혹은 대만 해커들의 소행이라는 추측이 있지만 아직 추측일 뿐, 명확한 증거는 없는 상황이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 쯔위는 지난해 11월 MBC 예능프로그램 ‘마이리틀텔레비전’에 나와 대만 국기를 흔들었고, 중국 네티즌의 반발이 커지자 15일 유투브에 사과 영상을 올렸다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쯔위 논란에 JYP 홈페이지 다운…디도스 공격 추정 \\\"중국해커들이?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

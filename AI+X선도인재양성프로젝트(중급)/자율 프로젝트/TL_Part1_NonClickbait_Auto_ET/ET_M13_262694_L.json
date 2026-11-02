@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262694",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단, 미국 휩쓸다…공연 선예매 하루 만에 매진",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단의 미국 콘서트 티켓 선예매가 하루 만에 전석 매진됐다.\n방탄소년단의 공연 티켓 판매처인 티켓마스터는 3일 공식 사회관계망서비스(SNS) 트위터를 통해 “현재 모든 공연이 매진됐다. 일반 팬클럽 선예매나 일반 티켓 예매 판매는 진행되지 않는다”고 밝혔다.\n방탄소년단은 4월 8일과 9일, 15일, 16일(이하 현지시간) 총 4일 동안 미국 라스베이거스에 위치한 얼리전트 스타디움에서 대면 단독 콘서트 ‘BTS PERMISSION TO DANCE ON STAGE - LAS VEGAS’(비티에스 퍼미션 투 댄스 온 스테이지 - 라스베이거스)를 개최한다.\n얼리전트 스타디움의 수용 인원은 6만 5,000여 석으로 알려져 있다.\n티켓마스터는 지난 2일 방탄소년단의 팬덤인 ‘아미(ARMY)’ 회원들을 대상으로 선예매를 진행했다.\n공연 티켓은 예매 시작 후 하루만에 매진되는 쾌거를 이루며 방탄소년단의 글로벌 인기를 입증했다.\n한편 방탄소년단은 올해 한국 가수 최초로 그래미 어워즈에서 ‘베스트 팝 듀오·그룹 퍼포먼스’ 후보로 지명됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단의 미국 콘서트 티켓 선예매가 하루 만에 전석 매진됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단의 공연 티켓 판매처인 티켓마스터는 3일 공식 사회관계망서비스(SNS) 트위터를 통해 “현재 모든 공연이 매진됐다. 일반 팬클럽 선예매나 일반 티켓 예매 판매는 진행되지 않는다”고 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방탄소년단은 4월 8일과 9일, 15일, 16일(이하 현지시간) 총 4일 동안 미국 라스베이거스에 위치한 얼리전트 스타디움에서 대면 단독 콘서트 ‘BTS PERMISSION TO DANCE ON STAGE - LAS VEGAS’(비티에스 퍼미션 투 댄스 온 스테이지 - 라스베이거스)를 개최한다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "얼리전트 스타디움의 수용 인원은 6만 5,000여 석으로 알려져 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "티켓마스터는 지난 2일 방탄소년단의 팬덤인 ‘아미(ARMY)’ 회원들을 대상으로 선예매를 진행했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공연 티켓은 예매 시작 후 하루만에 매진되는 쾌거를 이루며 방탄소년단의 글로벌 인기를 입증했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 방탄소년단은 올해 한국 가수 최초로 그래미 어워즈에서 ‘베스트 팝 듀오·그룹 퍼포먼스’ 후보로 지명됐다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 미국 휩쓸다…공연 선예매 하루 만에 매진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

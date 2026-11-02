@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284736",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'마녀사냥' 서지혜, 이상형은 소지섭 \\\"지금 마음에 두고 있는 사람은 없다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 서지혜가 자신의 이상형이 배우 소지섭이라고 밝혀 화제다.\n30일 방송된 JTBC '마녀사냥'에는 MC 신동엽, 성시경, 허지웅, 유세윤이 게스트 래퍼 빈지노와 솔직하게 19금 대화를 나누는 내용이 방송되었다.\n신동엽이 서지혜에게 \\\"지금 마음에 두고 있는 사람 있냐\\\"고 묻자 \\\"없다\\\"고 단칼에 잘라 말했다.\n신동엽은 포기하지 않고 \\\"가수 중에 좋아하는 사람 있냐\\\"고 물었고 서지혜는 똑같은 대답을 했다.\n결국 신동엽은 \\\"배우 중에는 있냐\\\"고 물었고 서지혜는 \\\"소지섭이다. 쌍꺼풀 없고 그윽한 눈빛 좋아한다. 너무 잘 생긴 얼굴은 말고\\\"라며 \\\"장동건 씨 같은 조각미남 말고 부담감 없는 사람이 좋다\\\"고 털어 놓았다.\n온라인 중앙일보 [사진 JTBC ‘마녀사냥’ 방송화면 캡처] 서지혜, 이상형은 소지섭",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 서지혜가 자신의 이상형이 배우 소지섭이라고 밝혀 화제다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 JTBC '마녀사냥'에는 MC 신동엽, 성시경, 허지웅, 유세윤이 게스트 래퍼 빈지노와 솔직하게 19금 대화를 나누는 내용이 방송되었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신동엽이 서지혜에게 \\\"지금 마음에 두고 있는 사람 있냐\\\"고 묻자 \\\"없다\\\"고 단칼에 잘라 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신동엽은 포기하지 않고 \\\"가수 중에 좋아하는 사람 있냐\\\"고 물었고 서지혜는 똑같은 대답을 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "결국 신동엽은 \\\"배우 중에는 있냐\\\"고 물었고 서지혜는 \\\"소지섭이다. 쌍꺼풀 없고 그윽한 눈빛 좋아한다. 너무 잘 생긴 얼굴은 말고\\\"라며 \\\"장동건 씨 같은 조각미남 말고 부담감 없는 사람이 좋다\\\"고 털어 놓았다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC ‘마녀사냥’ 방송화면 캡처] 서지혜, 이상형은 소지섭",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'마녀사냥' 서지혜, 이상형은 소지섭 \\\"지금 마음에 두고 있는 사람은 없다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

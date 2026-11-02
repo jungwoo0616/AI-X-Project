@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271101",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "발라드 여왕 백지영 돌아온다",
+		"newsSubTitle": "",
+		"newsContent": "발라드 여왕 백지영이 신곡을 발매한다.\n백지영은 최근 TV조선 ‘내일은 국민가수’, ‘국가가 부른다’, JTBC ‘내가 나로 돌아가는 곳-해방타운’등 방송프로그램과 유튜브 ‘백지영’ 채널을 통해 유쾌하고 넘치는 예능감으로 화제를 모으며 많은 사랑을 받았다.\n그랬던 백지영이 약 11개월 만에 디지털 싱글 곡 ‘사랑 앞에서 난 바보가 돼’를 발매하며 본업으로 복귀한다.\n백지영의 신곡 ‘사랑 앞에서 난 바보가 돼’는 발매에 앞서 SNS에 스포일러 티저 영상을 공개하며 기대감을 드높였다.\n스포일러 영상에는 “사랑 앞에서 난 바보가 돼 너 없이 하루도 살아갈 수 없는 나라서 너만 찾을 나라서” 등의 현실적이고 애절한 가사와 백지영의 짙은 목소리가 만나 감정을 극대화 시키고 있다.\n또 한 번 백지영 표 발라드 탄생을 예고했다.\n백지영의 신곡은 스포일러 영상을 시작으로 뮤직비디오 티저, 본편, 라이브 클립 등 순차적으로 콘텐츠를 공개할 예정이다.\n백지영의 신곡 ‘사랑 앞에서 난 바보가 돼’는 2일(목) 오후 6시 온라인 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "발라드 여왕 백지영이 신곡을 발매한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "백지영은 최근 TV조선 ‘내일은 국민가수’, ‘국가가 부른다’, JTBC ‘내가 나로 돌아가는 곳-해방타운’등 방송프로그램과 유튜브 ‘백지영’ 채널을 통해 유쾌하고 넘치는 예능감으로 화제를 모으며 많은 사랑을 받았다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그랬던 백지영이 약 11개월 만에 디지털 싱글 곡 ‘사랑 앞에서 난 바보가 돼’를 발매하며 본업으로 복귀한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "백지영의 신곡 ‘사랑 앞에서 난 바보가 돼’는 발매에 앞서 SNS에 스포일러 티저 영상을 공개하며 기대감을 드높였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스포일러 영상에는 “사랑 앞에서 난 바보가 돼 너 없이 하루도 살아갈 수 없는 나라서 너만 찾을 나라서” 등의 현실적이고 애절한 가사와 백지영의 짙은 목소리가 만나 감정을 극대화 시키고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 한 번 백지영 표 발라드 탄생을 예고했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "백지영의 신곡은 스포일러 영상을 시작으로 뮤직비디오 티저, 본편, 라이브 클립 등 순차적으로 콘텐츠를 공개할 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "백지영의 신곡 ‘사랑 앞에서 난 바보가 돼’는 2일(목) 오후 6시 온라인 음원사이트를 통해 공개된다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "발라드 여왕 백지영 돌아온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

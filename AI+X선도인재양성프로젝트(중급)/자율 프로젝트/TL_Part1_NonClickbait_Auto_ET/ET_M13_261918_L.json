@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261918",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "군소정당 대선후보 8명 TV토론, 시청률 4%",
+		"newsSubTitle": "",
+		"newsContent": "제20대 대통령 선거에 출마한 군소 정당 소속 후보들의 TV 토론회 시청률 합이 4%대로 집계됐다.\n시청률 조사업체 닐슨코리아는 22일 오후 11시부터 1시간 50분간 지상파 3곳(KBS·SBS·MBC)이 동시에 생중계한 ‘대통령선거 후보자 토론회’ 시청률 합이 4%로 집계됐다고 23일 밝혔다.\n채널별 시청률은 KBS 2.1%, SBS 1.4%, MBC 0.5% 순으로 나타났다.\n이번 토론의 시청률은 하루 전인 21일 열린 여야 대선 후보 4명(더불어민주당 이재명, 국민의힘 윤석열, 국민의당 안철수, 정의당 심상정) TV 토론회의 지상파 3사 시청률 합 17.5%보다 13.5%포인트 낮다.\n군소 정당 소속 후보들의 TV 토론은 중앙선거방송토론위원회 주최로 서울 마포구 상암동 MBC 스튜디오에서 열렸다.\n토론회에는 기본소득당 오준호·국가혁명당 허경영·노동당 이백윤·새누리당 옥은호·신자유민주연합 김경재·진보당 김재연·통일한국당 이경희·한류연합당 김민찬 등 총 8명의 후보(기호순)가 참석해 저마다의 공약을 내세웠다.\n새로운물결 김동연, 우리공화당 조원진 후보는 토론회에 참석하지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제20대 대통령 선거에 출마한 군소 정당 소속 후보들의 TV 토론회 시청률 합이 4%대로 집계됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시청률 조사업체 닐슨코리아는 22일 오후 11시부터 1시간 50분간 지상파 3곳(KBS·SBS·MBC)이 동시에 생중계한 ‘대통령선거 후보자 토론회’ 시청률 합이 4%로 집계됐다고 23일 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "채널별 시청률은 KBS 2.1%, SBS 1.4%, MBC 0.5% 순으로 나타났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 토론의 시청률은 하루 전인 21일 열린 여야 대선 후보 4명(더불어민주당 이재명, 국민의힘 윤석열, 국민의당 안철수, 정의당 심상정) TV 토론회의 지상파 3사 시청률 합 17.5%보다 13.5%포인트 낮다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "군소 정당 소속 후보들의 TV 토론은 중앙선거방송토론위원회 주최로 서울 마포구 상암동 MBC 스튜디오에서 열렸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "토론회에는 기본소득당 오준호·국가혁명당 허경영·노동당 이백윤·새누리당 옥은호·신자유민주연합 김경재·진보당 김재연·통일한국당 이경희·한류연합당 김민찬 등 총 8명의 후보(기호순)가 참석해 저마다의 공약을 내세웠다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "새로운물결 김동연, 우리공화당 조원진 후보는 토론회에 참석하지 않았다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "군소정당 대선후보 8명 TV토론, 시청률 4%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

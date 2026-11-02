@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280391",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "일출 시간, 서울 7시 47분…대부분 지역에서 해돋이 볼 수 있을 듯",
+		"newsSubTitle": "",
+		"newsContent": "새해 첫날 전국이 대체로 맑아 대부분 지역에서 해돋이를 볼 수 있을 전망이다.\n주요 도시의 일출 시각은 서울 오전 7시 47분, 인천 7시 48분, 강릉 7시 40분, 대전 7시 42분, 대구 7시 36분, 부산 7시 33분, 광주 7시 41분, 울산 7시 32분, 해남 7시 40분, 제주 7시 38분 등이다.\n해가 가장 먼저 뜨는 곳은 독도다.\n독도의 일출 시각은 오전 7시 26분 18초로 예상된다.\n오후부터는 전국에 점차 구름이 많아질 전망이다.\n아침 최저기온은 영하 7도에서 영상 2도이며, 낮 최고기온은 4도에서 12도로 전날과 비슷하거나 조금 높을 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "새해 첫날 전국이 대체로 맑아 대부분 지역에서 해돋이를 볼 수 있을 전망이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주요 도시의 일출 시각은 서울 오전 7시 47분, 인천 7시 48분, 강릉 7시 40분, 대전 7시 42분, 대구 7시 36분, 부산 7시 33분, 광주 7시 41분, 울산 7시 32분, 해남 7시 40분, 제주 7시 38분 등이다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해가 가장 먼저 뜨는 곳은 독도다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "독도의 일출 시각은 오전 7시 26분 18초로 예상된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오후부터는 전국에 점차 구름이 많아질 전망이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아침 최저기온은 영하 7도에서 영상 2도이며, 낮 최고기온은 4도에서 12도로 전날과 비슷하거나 조금 높을 전망이다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일출 시간, 서울 7시 47분…대부분 지역에서 해돋이 볼 수 있을 듯",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

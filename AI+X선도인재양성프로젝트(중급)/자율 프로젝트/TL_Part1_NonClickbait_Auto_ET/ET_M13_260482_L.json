@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260482",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘딸바보’ 아이키 “나 혼자 ‘못’산다”",
+		"newsSubTitle": "",
+		"newsContent": "댄서 아이키가 9일 딸과 함께 한 근황을 전했다.\n아이키는 이날 SNS에 “나 혼자 ‘못’산다”라는 글과 함께 사진을 올렸다.\n사진 속에는 아이키가 딸의 손을 잡고 함께 카메라를 응시하고 있다.\n다정한 모녀 모습에 효진초이는 “우리 연우 공주님이 따로 없네”라고 댓글을 달았다.\n아이키는 댄스 크루 훅 리더로 지난해 인기를 끈 Mnet ‘스트릿 우먼 파이터’에 출연했다.\n최근 종영한 ‘스트릿댄스 걸스 파이터’에 마스터로 출연했고 MBC ‘방과후 설렘’에도 출연중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 아이키가 9일 딸과 함께 한 근황을 전했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이키는 이날 SNS에 “나 혼자 ‘못’산다”라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 아이키가 딸의 손을 잡고 함께 카메라를 응시하고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다정한 모녀 모습에 효진초이는 “우리 연우 공주님이 따로 없네”라고 댓글을 달았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이키는 댄스 크루 훅 리더로 지난해 인기를 끈 Mnet ‘스트릿 우먼 파이터’에 출연했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 종영한 ‘스트릿댄스 걸스 파이터’에 마스터로 출연했고 MBC ‘방과후 설렘’에도 출연중이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘딸바보’ 아이키 “나 혼자 ‘못’산다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

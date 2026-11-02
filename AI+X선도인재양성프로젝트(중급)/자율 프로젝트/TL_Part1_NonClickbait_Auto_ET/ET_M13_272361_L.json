@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272361",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "백종원 ‘백종원 클라쓰’서 국물 요리 꿀팁 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 방송인 성시경이 백종원을 집으로 초대하려는 진짜 이유는 무엇일까.\n오늘 저녁 글로벌 음식 문화 토크쇼 KBS 2TV ‘백종원 클라쓰’에서는 백종원의 돼지주물럭 곰취 쌈밥, 성시경의 곰취전 등 향긋하고 쌉싸래한 곰취 파티가 그려진다.\n이날 백종원은 보기만 해도 침샘이 폭발하는 매콤한 고추장 돼지주물럭에 김치를 품은 돼지고기 김치말이까지 두 가지 요리를 뚝딱 만들어 내며 명불허전 ‘스타들의 요리 사부’다운 실력을 발휘했다.\n특히 모세의 한식 스킬 향상을 위해 1대1 교육을 맡은 백종원은 누구나 쉽고 간편하게 따라 할 수 있는 돼지주물럭 양념 레시피를 알려주었다는데.\n여기에 백종원은 미역국 100인분을 만들던 파브리와 모에카에게 “외국 사람들이 한국식 국을 끓일 때 건더기와 물의 비율을 못 맞춰서 실패한다”며 국물 요리의 황금 비율을 맞출 수 있는 꿀팁을 전수했다고 해 과연 어떤 비결인지 오늘 방송에 관심을 모으고 있다.\n한편 향긋한 강원도 태백 곰취 파티 현장과 백종원의 미역국 꿀팁은 오늘(6일) 오후 8시 30분 KBS 2TV ‘백종원 클라쓰’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 방송인 성시경이 백종원을 집으로 초대하려는 진짜 이유는 무엇일까.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘 저녁 글로벌 음식 문화 토크쇼 KBS 2TV ‘백종원 클라쓰’에서는 백종원의 돼지주물럭 곰취 쌈밥, 성시경의 곰취전 등 향긋하고 쌉싸래한 곰취 파티가 그려진다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 백종원은 보기만 해도 침샘이 폭발하는 매콤한 고추장 돼지주물럭에 김치를 품은 돼지고기 김치말이까지 두 가지 요리를 뚝딱 만들어 내며 명불허전 ‘스타들의 요리 사부’다운 실력을 발휘했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 모세의 한식 스킬 향상을 위해 1대1 교육을 맡은 백종원은 누구나 쉽고 간편하게 따라 할 수 있는 돼지주물럭 양념 레시피를 알려주었다는데.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 백종원은 미역국 100인분을 만들던 파브리와 모에카에게 “외국 사람들이 한국식 국을 끓일 때 건더기와 물의 비율을 못 맞춰서 실패한다”며 국물 요리의 황금 비율을 맞출 수 있는 꿀팁을 전수했다고 해 과연 어떤 비결인지 오늘 방송에 관심을 모으고 있다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 향긋한 강원도 태백 곰취 파티 현장과 백종원의 미역국 꿀팁은 오늘(6일) 오후 8시 30분 KBS 2TV ‘백종원 클라쓰’에서 확인할 수 있다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백종원 ‘백종원 클라쓰’서 국물 요리 꿀팁 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

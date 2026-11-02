@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166952",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "조진웅 “‘올해의 배우상’ 심사기준? 배우의 진심”[26th BIFF]",
+    "newsSubTitle": "",
+    "newsContent": "배우 조진웅이 제26회 부산국제영화제 ‘올해의 배우상’ 심사기준을 공개했다.\n조진웅은 8일 오후 부산광역시 해운대구 영화의전당에서 진행된 ‘올해의 배우상’ 심사위원 기자간담회에서 배우에게 가장 중요한 덕목을 묻자 “진심이 제일 중요하다. 자연스럽게 다가올 수 있어야 한다”며 “이번에도 분명히 내게 다가오는 배우가 있을 것”이라고 밝혔다.\n그는 “매 작품 진심으로 다가오는 배우가 나타난다면 고민일텐데 한편으론 ‘어떻게 선택해야 할까’ 기대가 된다”고 입을 뗐다.\n이어 “인쇄된 활자를 영상화하고 메시지를 전달할 때 배우가 상당히 중요한 위치인데, 진심과 메시지를 올곧게 전달할 수 있는 사람이라면 그 사람이 ‘올해의 배우상’을 받지 않을까”라며 “나도 많이 배울 것 같다”고 설명했다.\n이어 함께 심사위원으로 나선 엄정화에 대해선 “같은 소속사고 함께 작업을 하기도 해서 내가 느끼는 엄정화 색채도 나와 비슷하지 않을까 싶다”면서도 “이견이 있다면 싸워야 하나”고 농담을 던졌다.\n제26회 부산국제영화제는 오는 15일까지 영화의전당, CGV 센텀시티, 롯데시네마 센텀시티 등 6개 극장 29개 스크린에서 열흘간 개최된다.\n코로나19 방역 차원에서 전체 좌석수의 50%만을 운영해 거리두기를 실천한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 조진웅이 제26회 부산국제영화제 ‘올해의 배우상’ 심사기준을 공개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조진웅은 8일 오후 부산광역시 해운대구 영화의전당에서 진행된 ‘올해의 배우상’ 심사위원 기자간담회에서 배우에게 가장 중요한 덕목을 묻자 “진심이 제일 중요하다. 자연스럽게 다가올 수 있어야 한다”며 “이번에도 분명히 내게 다가오는 배우가 있을 것”이라고 밝혔다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “매 작품 진심으로 다가오는 배우가 나타난다면 고민일텐데 한편으론 ‘어떻게 선택해야 할까’ 기대가 된다”고 입을 뗐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “인쇄된 활자를 영상화하고 메시지를 전달할 때 배우가 상당히 중요한 위치인데, 진심과 메시지를 올곧게 전달할 수 있는 사람이라면 그 사람이 ‘올해의 배우상’을 받지 않을까”라며 “나도 많이 배울 것 같다”고 설명했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 함께 심사위원으로 나선 엄정화에 대해선 “같은 소속사고 함께 작업을 하기도 해서 내가 느끼는 엄정화 색채도 나와 비슷하지 않을까 싶다”면서도 “이견이 있다면 싸워야 하나”고 농담을 던졌다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제26회 부산국제영화제는 오는 15일까지 영화의전당, CGV 센텀시티, 롯데시네마 센텀시티 등 6개 극장 29개 스크린에서 열흘간 개최된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "코로나19 방역 차원에서 전체 좌석수의 50%만을 운영해 거리두기를 실천한다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "심사위원 조진웅이 밝힌 '올해의 배우상' 심사기준은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283566",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'인기가요' 지코, ‘Boys and Girls’로 태연·아이유 꺾고 1위… 7777 점수도 화제",
+		"newsSubTitle": "",
+		"newsContent": "'인기가요' 지코, ‘Boys and Girls’로 태연·아이유 꺾고 1위… 7777 점수도 화제 인기가요에서 지코가 ‘Boys and Girls’로 1위를 차지했다.\n지코는 15일 오후 방송한 SBS '인기가요'에서 '보이즈 앤드 걸스(Boys and Girls)'로 1위 후보에 올라 태연의 '아이', 아이유의 '스물셋'과 경쟁 끝에 정상을 차지했다.\n지코는 태연과 아이유보다 음원 점수와 생방송 집계 점수에서 크게 앞서며 트로피의 주인공이 됐다.\n이번 1위는 지코가 방송 활동 없이 거둔 성과라 더욱 의미가 깊었고 특히 7777이라는 ‘잭팟’을 연상하는 숫자가 나와 화제를 모았다.\n이날 '인기가요'에는 f(x), 빅스, 브라운아이드걸스, 비투비, 서인영, 러블리즈, 디셈버, 트와이스, MAP6, 엔플라잉, 로미오, 매드타운, 라니아, 루커스, 타히티, 하이포, 마이비 등이 출연했다.\n한편, 지코는 15일 오후 인스타그램을 통해 \\\"인기가요 1위 감사합니다. 더 멋진 음악으로 보답하겠습니다!\\\"라며 '인기가요' 1위 소식에 감사의 인사를 건네기도 했다. ‘인기가요 지코’ ‘인기가요 지코’ [사진 SBS 인기가요 캡처] 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'인기가요' 지코, ‘Boys and Girls’로 태연·아이유 꺾고 1위… 7777 점수도 화제 인기가요에서 지코가 ‘Boys and Girls’로 1위를 차지했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지코는 15일 오후 방송한 SBS '인기가요'에서 '보이즈 앤드 걸스(Boys and Girls)'로 1위 후보에 올라 태연의 '아이', 아이유의 '스물셋'과 경쟁 끝에 정상을 차지했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지코는 태연과 아이유보다 음원 점수와 생방송 집계 점수에서 크게 앞서며 트로피의 주인공이 됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 1위는 지코가 방송 활동 없이 거둔 성과라 더욱 의미가 깊었고 특히 7777이라는 ‘잭팟’을 연상하는 숫자가 나와 화제를 모았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 '인기가요'에는 f(x), 빅스, 브라운아이드걸스, 비투비, 서인영, 러블리즈, 디셈버, 트와이스, MAP6, 엔플라잉, 로미오, 매드타운, 라니아, 루커스, 타히티, 하이포, 마이비 등이 출연했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 지코는 15일 오후 인스타그램을 통해 \\\"인기가요 1위 감사합니다. 더 멋진 음악으로 보답하겠습니다!\\\"라며 '인기가요' 1위 소식에 감사의 인사를 건네기도 했다. ‘인기가요 지코’ ‘인기가요 지코’ [사진 SBS 인기가요 캡처] 온라인 중앙일보",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'인기가요' 지코, ‘Boys and Girls’로 태연·아이유 꺾고 1위… 7777 점수도 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

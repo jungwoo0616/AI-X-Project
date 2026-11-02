@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277347",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'뭉쳐야 뜬다' 정형돈, 쌍둥이 딸 모습 첫 공개",
+		"newsSubTitle": "",
+		"newsContent": "정형돈이 '뭉쳐야 뜬다' 멤버들이 보낸 선물을 착용한 딸들의 모습을 공개했다.\nJTBC'뭉쳐야 뜬다‘스위스 녹화 당시 크리스마스 마켓을 구경하던 멤버들은 어머니의 병환으로 함께하지 못한 정형돈의 쌍둥이 딸들을 위해 선물을 준비했다.\n스위스의 아름다운 풍경을 감상하는 내내 함께하지 못한 정형돈을 그리워하던 멤버들은 아기들의 귀여운 가방을 파는 가게에서 선물을 구입하는 것으로 크리스마스를 함께 하지 못한 아쉬움을 달랬다.\n윤두준, 안정환, 김성주, 김용만 남자 4명이 유주-유하를 위해 그 어느 때보다 세심하게 선물을 골랐고 가방에 쌍둥이의 이니셜을 새기는 정성까지 보였다.\n선물을 전달 받은 정형돈은 멤버들이 사준 가방을 메고 있는 쌍둥이들의 모습을 인증하며 감사 인사를 전했다.\n정형돈은 쌍둥이들의 사진과 함께 “형들이 사준 가방을 메고 할머니 병문안 가는 중이다. 고맙다”며 멤버들에게 고마움을 표시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정형돈이 '뭉쳐야 뜬다' 멤버들이 보낸 선물을 착용한 딸들의 모습을 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JTBC'뭉쳐야 뜬다‘스위스 녹화 당시 크리스마스 마켓을 구경하던 멤버들은 어머니의 병환으로 함께하지 못한 정형돈의 쌍둥이 딸들을 위해 선물을 준비했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스위스의 아름다운 풍경을 감상하는 내내 함께하지 못한 정형돈을 그리워하던 멤버들은 아기들의 귀여운 가방을 파는 가게에서 선물을 구입하는 것으로 크리스마스를 함께 하지 못한 아쉬움을 달랬다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤두준, 안정환, 김성주, 김용만 남자 4명이 유주-유하를 위해 그 어느 때보다 세심하게 선물을 골랐고 가방에 쌍둥이의 이니셜을 새기는 정성까지 보였다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "선물을 전달 받은 정형돈은 멤버들이 사준 가방을 메고 있는 쌍둥이들의 모습을 인증하며 감사 인사를 전했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정형돈은 쌍둥이들의 사진과 함께 “형들이 사준 가방을 메고 할머니 병문안 가는 중이다. 고맙다”며 멤버들에게 고마움을 표시했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'뭉쳐야 뜬다' 정형돈, 쌍둥이 딸 모습 첫 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

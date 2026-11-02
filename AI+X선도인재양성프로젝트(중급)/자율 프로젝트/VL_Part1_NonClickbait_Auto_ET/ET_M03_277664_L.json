@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277664",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'70㎏ 감량' 김수영 근황 공개…요요 현상?",
+		"newsSubTitle": "",
+		"newsContent": "'헬스보이' 개그맨 김수영의 근황이 공개돼 화제다.\n19일 방송된 코미디TV '맛있는 녀석들'에서는 유민상, 김준현, 김민경, 문세윤이 통닭 먹방을 선보였다.\n이날 유민상은 아버지가 월급날 통닭을 사 오셨던 추억을 생각하면서 먹어보자며 상황극을 시작했다.\n유민상이 치킨이 담긴 종이봉투를 들고 \\\"아빠가 치킨 사왔다\\\"라고 말하자, 촬영장 뒷편에서 한 사람이 큰 소리와 함께 등장했다.\n개그맨 김수영이었다.\n두 사람은 지난 2013년 개그콘서트에서 '아빠와 아들' 코너를 함께 했다.\n두 사람의 재회에 네티즌들은 화들짝 놀라는 모습이었다.\n김수영은 지난 2015년 혹독한 다이어트로 70㎏를 감량해 많은 이들의 응원을 받은 바 있다.\n현재 모습은 당시에 비해 훨씬 살이 찐 모습이었지만 김준현, 김민경, 문세윤과 함께 치킨을 나눠 먹으며 시청자들에게 웃음을 선사했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'헬스보이' 개그맨 김수영의 근황이 공개돼 화제다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 방송된 코미디TV '맛있는 녀석들'에서는 유민상, 김준현, 김민경, 문세윤이 통닭 먹방을 선보였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 유민상은 아버지가 월급날 통닭을 사 오셨던 추억을 생각하면서 먹어보자며 상황극을 시작했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유민상이 치킨이 담긴 종이봉투를 들고 \\\"아빠가 치킨 사왔다\\\"라고 말하자, 촬영장 뒷편에서 한 사람이 큰 소리와 함께 등장했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개그맨 김수영이었다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 지난 2013년 개그콘서트에서 '아빠와 아들' 코너를 함께 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람의 재회에 네티즌들은 화들짝 놀라는 모습이었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김수영은 지난 2015년 혹독한 다이어트로 70㎏를 감량해 많은 이들의 응원을 받은 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "현재 모습은 당시에 비해 훨씬 살이 찐 모습이었지만 김준현, 김민경, 문세윤과 함께 치킨을 나눠 먹으며 시청자들에게 웃음을 선사했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'70㎏ 감량' 김수영 근황 공개…요요 현상?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270620",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘음주운전 파문’ 김새론, 20대 동승자는 누구?…운전 중 변압기 들이 받아 정전도 발생[종합]",
+		"newsSubTitle": "",
+		"newsContent": "배우 김새론이 음주운전 혐의로 경찰에 잡혔다.\n서울 강남경찰서는 18일 김새론을 도로교통법 위반(음주운전) 혐의로 입건했다.\n경찰은 이날 오전 8시쯤 “강남구 청담동에서 주행 중인 차량이 눈에 띄게 흔들린다”는 시민들 신고를 받고 출동해 운전 중인 김새롬을 붙잡았다.\n경찰은 음주 감지기를 테스트해 양성 반응이 나오자 혈중알코올농도를 측정하려 했으나 김새론은 이를 거부하고 채혈 의사를 밝혔다.\n경찰 관계자는 “채혈 결과를 보고 혐의를 확정 지을 예정”이라며 “결과는 일주일가량 뒤에 나온다”고 말했다.\n경찰은 또 사고 당시 차량에 같이 있던 20대 동승자도 음주운전 방조 혐의를 적용할 수 있는지 살펴보고 있다.\n김새론은 운전 중 가드레일과 가로수 등을 여러 차례 들이받은 것으로 조사됐다.\n다행히 다친 사람은 없었다.\n하지만 그 과정에서 변압기를 들이받아 인근 상점 등 57곳에 전기 공급이 끊겼다가 약 3시간 만에 복구됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김새론이 음주운전 혐의로 경찰에 잡혔다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울 강남경찰서는 18일 김새론을 도로교통법 위반(음주운전) 혐의로 입건했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경찰은 이날 오전 8시쯤 “강남구 청담동에서 주행 중인 차량이 눈에 띄게 흔들린다”는 시민들 신고를 받고 출동해 운전 중인 김새롬을 붙잡았다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경찰은 음주 감지기를 테스트해 양성 반응이 나오자 혈중알코올농도를 측정하려 했으나 김새론은 이를 거부하고 채혈 의사를 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경찰 관계자는 “채혈 결과를 보고 혐의를 확정 지을 예정”이라며 “결과는 일주일가량 뒤에 나온다”고 말했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰은 또 사고 당시 차량에 같이 있던 20대 동승자도 음주운전 방조 혐의를 적용할 수 있는지 살펴보고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김새론은 운전 중 가드레일과 가로수 등을 여러 차례 들이받은 것으로 조사됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다행히 다친 사람은 없었다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 그 과정에서 변압기를 들이받아 인근 상점 등 57곳에 전기 공급이 끊겼다가 약 3시간 만에 복구됐다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘음주운전 파문’ 김새론, 20대 동승자는 누구?…운전 중 변압기 들이 받아 정전도 발생[종합]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

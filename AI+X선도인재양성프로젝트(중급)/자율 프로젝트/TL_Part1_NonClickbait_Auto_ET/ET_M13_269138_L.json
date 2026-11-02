@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269138",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송혜교, 올여름 단발병 유발자",
+		"newsSubTitle": "",
+		"newsContent": "배우 송혜교가 광채가 나는 미모를 뽐냈다.\n3일 송혜교는 자신의 사회관계망서비스(SNS) 인스타그램 계정에 한 주얼리 브랜드와 함께 찍은 화보 사진 3을 게재했다.\n송혜교는 화보 사진 속 검은색 단발머리를 해 눈길을 끌었다.\n또 그는 검은색 끈 미니드레스를 입고 포즈를 취하고 있다.\n특히 액세서리를 센스 있게 착용하며 멋스러움을 더해 고급스러운 매력을 배가시켰다.\n이를 본 핑클의 이진은 하트 이모티콘을 댓글로 남기며 감탄했고, 누리꾼들은 “레전드다”, “이건 하트를 백만 개 눌러야 해” 등 다양한 반응을 댓글로 남기며 송혜교의 수려한 외모에 관한 찬사를 보냈다.\n한편 송혜교는 학교 폭력 복수극을 담은 넷플릭스 오리지널 ‘더 글로리’에 출연해, ‘태양의 후예’(2016) 이후 김은숙 작가와 다시 한번 의기투합한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송혜교가 광채가 나는 미모를 뽐냈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 송혜교는 자신의 사회관계망서비스(SNS) 인스타그램 계정에 한 주얼리 브랜드와 함께 찍은 화보 사진 3을 게재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송혜교는 화보 사진 속 검은색 단발머리를 해 눈길을 끌었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그는 검은색 끈 미니드레스를 입고 포즈를 취하고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 액세서리를 센스 있게 착용하며 멋스러움을 더해 고급스러운 매력을 배가시켰다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 핑클의 이진은 하트 이모티콘을 댓글로 남기며 감탄했고, 누리꾼들은 “레전드다”, “이건 하트를 백만 개 눌러야 해” 등 다양한 반응을 댓글로 남기며 송혜교의 수려한 외모에 관한 찬사를 보냈다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 송혜교는 학교 폭력 복수극을 담은 넷플릭스 오리지널 ‘더 글로리’에 출연해, ‘태양의 후예’(2016) 이후 김은숙 작가와 다시 한번 의기투합한다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송혜교, 올여름 단발병 유발자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

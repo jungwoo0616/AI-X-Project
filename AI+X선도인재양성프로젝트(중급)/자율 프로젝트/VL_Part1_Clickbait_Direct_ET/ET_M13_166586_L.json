@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166586",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김병현, 장군 엔터와 전속계약…본격 예능인 행보",
+    "newsSubTitle": "",
+    "newsContent": "메이저리그 출신 김병현이 방송인 김성주와 한솥밥을 먹는다.\n장군 엔터테인먼트는 31일 “메이저리거 출신 아구계 레전드인 김병현과 전속계약을 체결했다”며 “김병현의 현 스포스타즈 에이전시와 장군 엔터테인먼트는 업무협약을 체결해 변화하는 미디어에 맞춰 전문적인 매니지먼트로 김병현의 폭넓은 활약을 이어갈 수 있도록 전폭적인 지원을 아끼지 않겠다”고 밝혔다.\n장군 엔터테인먼트에는 김성주를 비롯해 개그맨 정성호, 방송인 박슬기 등이 소속돼 있다.\n김병현은 현재 KBS2 예능 프로그램 ‘사장님 귀는 당나귀 귀’에 출연하며 방송인으로서의 행보를 보여왔다.\n요식업에도 진심인 사장님의 모습과 함께 MBC 예능 프로그램 ‘안 싸운면 다행이야’에서도 안정환, 허재, 현주엽과 함께 출연하고 있다.\n이밖에도 채널A 예능 프로그램 ‘내일은 야구왕’에서도 유소년 야구팀 감독으로 활약하고 있다.\n김병현 또한 “전문적인 매니지먼트와 처음 계약을 진행해 기대되고 설렌다”며 소감을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메이저리그 출신 김병현이 방송인 김성주와 한솥밥을 먹는다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장군 엔터테인먼트는 31일 “메이저리거 출신 아구계 레전드인 김병현과 전속계약을 체결했다”며 “김병현의 현 스포스타즈 에이전시와 장군 엔터테인먼트는 업무협약을 체결해 변화하는 미디어에 맞춰 전문적인 매니지먼트로 김병현의 폭넓은 활약을 이어갈 수 있도록 전폭적인 지원을 아끼지 않겠다”고 밝혔다.",
+        "sentenceSize": 164
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장군 엔터테인먼트에는 김성주를 비롯해 개그맨 정성호, 방송인 박슬기 등이 소속돼 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김병현은 현재 KBS2 예능 프로그램 ‘사장님 귀는 당나귀 귀’에 출연하며 방송인으로서의 행보를 보여왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "요식업에도 진심인 사장님의 모습과 함께 MBC 예능 프로그램 ‘안 싸운면 다행이야’에서도 안정환, 허재, 현주엽과 함께 출연하고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이밖에도 채널A 예능 프로그램 ‘내일은 야구왕’에서도 유소년 야구팀 감독으로 활약하고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김병현 또한 “전문적인 매니지먼트와 처음 계약을 진행해 기대되고 설렌다”며 소감을 전했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김성주 소속사와 계약한 메이저리그 출신 방송인은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

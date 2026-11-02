@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269502",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "남원 제92회 춘향제 ‘미스 춘향 진’ 최성경",
+		"newsSubTitle": "",
+		"newsContent": "전북 남원시는 ‘제92회 춘향제’ 행사의 하나로 지난 4일 남원 광한루원에서 열린 ‘전국춘향선발대회’에서 최성경씨(23·전북)가 최고 영예 ‘미스 춘향 진’에 올랐다고 밝혔다.\n한국전통미인을 뽑는 춘향선발대회에서 진에 뽑힌 최씨는 “색다른 경험을 하고 싶어 참가했는데 뜻밖의 영광을 안게 됐다”며 “전공을 살려 남원과 춘향의 이야기를 라디오를 통해 널리 알리고 싶다”고 말했다.\n최씨에 이어 미스 춘향 선에는 정가야(24·서울), 미에는 김규리(24·서울), 정에는 진세민(21·서울), 숙에는 이빈(23), 현과 우정상에는 김민지(24·경기)씨가 각각 선정됐다.\n올해 대회는 전국에서 340명이 참가했고 서류와 면접 심사를 통과한 30명이 본선에 올랐다.\n본선 수상자 6명은 남원시 홍보대사로 위촉됐다.\n이들은 3년간 국내·외 관광, 축제, 박람회 등에서 남원을 알리고, 춘향문화 홍보 행사에 참여하게 된다.\n춘향선발대회는 배우 최란(1979년)·박지영(1988년)·오정해(1992년)·윤손하(1994년) 등 스타급 연예인들을 배출했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전북 남원시는 ‘제92회 춘향제’ 행사의 하나로 지난 4일 남원 광한루원에서 열린 ‘전국춘향선발대회’에서 최성경씨(23·전북)가 최고 영예 ‘미스 춘향 진’에 올랐다고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전통미인을 뽑는 춘향선발대회에서 진에 뽑힌 최씨는 “색다른 경험을 하고 싶어 참가했는데 뜻밖의 영광을 안게 됐다”며 “전공을 살려 남원과 춘향의 이야기를 라디오를 통해 널리 알리고 싶다”고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최씨에 이어 미스 춘향 선에는 정가야(24·서울), 미에는 김규리(24·서울), 정에는 진세민(21·서울), 숙에는 이빈(23), 현과 우정상에는 김민지(24·경기)씨가 각각 선정됐다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해 대회는 전국에서 340명이 참가했고 서류와 면접 심사를 통과한 30명이 본선에 올랐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "본선 수상자 6명은 남원시 홍보대사로 위촉됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들은 3년간 국내·외 관광, 축제, 박람회 등에서 남원을 알리고, 춘향문화 홍보 행사에 참여하게 된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "춘향선발대회는 배우 최란(1979년)·박지영(1988년)·오정해(1992년)·윤손하(1994년) 등 스타급 연예인들을 배출했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남원 제92회 춘향제 ‘미스 춘향 진’ 최성경",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

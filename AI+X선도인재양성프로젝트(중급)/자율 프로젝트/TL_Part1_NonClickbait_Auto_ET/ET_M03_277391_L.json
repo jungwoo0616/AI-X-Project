@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277391",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "차오루 “연예인이라는 직업 불안정해 부업 찾는 중”",
+		"newsSubTitle": "",
+		"newsContent": "피에스타의 멤버인 차오루가 부업을 찾고 있다고 고백했다.\n지난 30일 방송된 KBS 2TV'안녕하세요‘는 명절인 설을 맞이해 외국인 특집으로 구성됐다.\n본격적으로 방송을 시작하기 앞서 MC 신동엽이 게스트인 차오루의 고민을 먼저 물어봤다.\n차오루는 “연예인이라는 직업이 불안정해 고민이다. 운이 가면 훅 간다. 돌아오지 않는다”며 부업에 대한 관심을 내비쳤다.\n이어 그녀는“만두집을 하고 싶다.\n이름까지 생각했다.\n속이'차오루'는 만두집이다”고 구체적인 계획까지 언급했고 “다들 놀러 오실 거죠?”라고 말하며 호객행위를 해 웃음을 선사했다.차오루가 아직 가게를 열기 위한 자금 마련이 안됐다고 하자 정찬우는 “대출을 해요”라고 권유했고 차오루는 “대출 쉽게 하면 큰일 나요”라고 똑부러지게 답하는 모습을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "피에스타의 멤버인 차오루가 부업을 찾고 있다고 고백했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 30일 방송된 KBS 2TV'안녕하세요‘는 명절인 설을 맞이해 외국인 특집으로 구성됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "본격적으로 방송을 시작하기 앞서 MC 신동엽이 게스트인 차오루의 고민을 먼저 물어봤다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차오루는 “연예인이라는 직업이 불안정해 고민이다. 운이 가면 훅 간다. 돌아오지 않는다”며 부업에 대한 관심을 내비쳤다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 그녀는“만두집을 하고 싶다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이름까지 생각했다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "속이'차오루'는 만두집이다”고 구체적인 계획까지 언급했고 “다들 놀러 오실 거죠?”라고 말하며 호객행위를 해 웃음을 선사했다.차오루가 아직 가게를 열기 위한 자금 마련이 안됐다고 하자 정찬우는 “대출을 해요”라고 권유했고 차오루는 “대출 쉽게 하면 큰일 나요”라고 똑부러지게 답하는 모습을 보였다.",
+				"sentenceSize": 166
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "차오루 “연예인이라는 직업 불안정해 부업 찾는 중”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

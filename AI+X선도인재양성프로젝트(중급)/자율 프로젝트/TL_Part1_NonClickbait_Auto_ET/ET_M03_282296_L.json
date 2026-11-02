@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282296",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이주노 억대 사기 혐의 기소, 23세 연하와 결혼해 방송 출연했었는데",
+		"newsSubTitle": "",
+		"newsContent": "이주노 억대 사기 혐의 기소, \\\"돈을 빌려주면 며칠 내로 갚겠다\\\" 한 뒤 서태지와 아이들의 멤버였던 가수 이주노(48·본명 이상우)씨가 1억원대 사기 혐의로 재판에 넘겨졌다.\n서울중앙지검 형사1부(부장 심우정)는 지난해 지인들에게 사업자금 명목으로 1억1500만원을 빌린 뒤 갚지 않은 혐의(사기)로 이씨를 불구속 기소했다고 30일 밝혔다.\n검찰에 따르면 이주노씨는 2013년 초 천안에서 돌잔치 전문업체 S사를 개업한다며 사업 자금 10억원을 모으는 과정에서 지인들에게 돈을 빌리고 갚지 않은 혐의를 받고 있다.\n지난해 1월 지인 두 명에게 “돈을 빌려주면 며칠 내로 갚겠다”고 한 뒤 각각 5000만원, 6500만원을 송금받은 것으로 조사됐다.\n검찰은 이주노씨가 2012년 12월 파산 선고를 받는 등 별다른 재산이나 수입이 없는 상태에서 빌린 돈을 갚을 능력이나 의사가 없는 것으로 판단했다.\n이주노 억대 사기 혐의 기소, 23세 연하와 결혼식 올렸다가… 한편 이주노씨는 1996년 서태지와 아이들이 해체하고 1998년까지 기획사를 운영하다가 음반산업 불황으로 가진 사업을 모두 탕진하고 2012년에는 뮤지컬에 투자했다가 손해를 보고 법원으로부터 파산선고를 받기도 했다.\n지난 2012년에는 23세 연하 신부와 결혼식을 올리고, 이후 방송 등에 출연해 가족들과의 일상에 대해 공개한 바 있다.\n지난해에는 돌잔치 관련 사업을 한다는 사실을 밝히기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이주노 억대 사기 혐의 기소, \\\"돈을 빌려주면 며칠 내로 갚겠다\\\" 한 뒤 서태지와 아이들의 멤버였던 가수 이주노(48·본명 이상우)씨가 1억원대 사기 혐의로 재판에 넘겨졌다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울중앙지검 형사1부(부장 심우정)는 지난해 지인들에게 사업자금 명목으로 1억1500만원을 빌린 뒤 갚지 않은 혐의(사기)로 이씨를 불구속 기소했다고 30일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "검찰에 따르면 이주노씨는 2013년 초 천안에서 돌잔치 전문업체 S사를 개업한다며 사업 자금 10억원을 모으는 과정에서 지인들에게 돈을 빌리고 갚지 않은 혐의를 받고 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 1월 지인 두 명에게 “돈을 빌려주면 며칠 내로 갚겠다”고 한 뒤 각각 5000만원, 6500만원을 송금받은 것으로 조사됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "검찰은 이주노씨가 2012년 12월 파산 선고를 받는 등 별다른 재산이나 수입이 없는 상태에서 빌린 돈을 갚을 능력이나 의사가 없는 것으로 판단했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이주노 억대 사기 혐의 기소, 23세 연하와 결혼식 올렸다가… 한편 이주노씨는 1996년 서태지와 아이들이 해체하고 1998년까지 기획사를 운영하다가 음반산업 불황으로 가진 사업을 모두 탕진하고 2012년에는 뮤지컬에 투자했다가 손해를 보고 법원으로부터 파산선고를 받기도 했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 2012년에는 23세 연하 신부와 결혼식을 올리고, 이후 방송 등에 출연해 가족들과의 일상에 대해 공개한 바 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해에는 돌잔치 관련 사업을 한다는 사실을 밝히기도 했다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이주노 억대 사기 혐의 기소, 23세 연하와 결혼해 방송 출연했었는데",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278313",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'택시' 이세영, 알고보니 19금 소설 작가? \\\"누나의 입술을 탐하기 시작해…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "이세영이 ‘택시’에서 자신이 쓴 19금 소설 ‘누나의 뽕’을 공개했다.\n29일 방송된 케이블채널 tvN ‘현장토크쇼 택시’에 출연한 이세영은 자신이 쓴 19금 소설에 대해 언급했다.\n이날 이세영은 평소 자신의 블로그에 소설을 연재한다고 밝히며 그중 한 작품인 ‘누나의 뽕’이라는 단편을 직접 낭독했다.\n특히 “누나의 입술을 탐하기 시작했다”라는 문장을 시작으로 수위가 높아지자 다음 내용은 ‘삐’ 소리로 처리돼 대부분 전파를 타지 못했다.\n이에 함께 출연한 정주리와 낸시랭은 “방송 못 나가겠다. 네가 뭘 안다고 이런 걸 써”고 말하며 당황해 웃음을 자아냈다.\n자신의 소설에 대해 이세영은 “원래 만화가가 꿈이었다. 성인이 되고 난 후 성인물을 볼 수 있었다. 그래서 쓰다 보니까 ‘누나의 뽕’이라는 역작이 탄생하게 됐다”고 고백했다.\n온라인 중앙일보 [사진 tvN '현장토크쇼 택시' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이세영이 ‘택시’에서 자신이 쓴 19금 소설 ‘누나의 뽕’을 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 방송된 케이블채널 tvN ‘현장토크쇼 택시’에 출연한 이세영은 자신이 쓴 19금 소설에 대해 언급했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이세영은 평소 자신의 블로그에 소설을 연재한다고 밝히며 그중 한 작품인 ‘누나의 뽕’이라는 단편을 직접 낭독했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 “누나의 입술을 탐하기 시작했다”라는 문장을 시작으로 수위가 높아지자 다음 내용은 ‘삐’ 소리로 처리돼 대부분 전파를 타지 못했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 함께 출연한 정주리와 낸시랭은 “방송 못 나가겠다. 네가 뭘 안다고 이런 걸 써”고 말하며 당황해 웃음을 자아냈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자신의 소설에 대해 이세영은 “원래 만화가가 꿈이었다. 성인이 되고 난 후 성인물을 볼 수 있었다. 그래서 쓰다 보니까 ‘누나의 뽕’이라는 역작이 탄생하게 됐다”고 고백했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 tvN '현장토크쇼 택시' 캡처]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'택시' 이세영, 알고보니 19금 소설 작가? \\\"누나의 입술을 탐하기 시작해…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

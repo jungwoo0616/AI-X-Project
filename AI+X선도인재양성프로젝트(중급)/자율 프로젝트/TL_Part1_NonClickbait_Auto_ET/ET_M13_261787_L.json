@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261787",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘더쇼’ 임창정, ‘나는 트로트가 싫어요’ 익살 퍼포먼스",
+		"newsSubTitle": "",
+		"newsContent": "가수 임창정이 넘치는 흥과 반전 매력으로 무대를 장악했다.\n임창정은 22일 오후 6시 방송된 SBS MTV ‘더쇼’에 출연, ‘나는 트로트가 싫어요’ 무대를 공개했다.\n임창정은 ‘나는 트로트가 싫어요’의 재치 넘치는 가사를 익살스럽게 표현해내며 시청자를 사로잡은 것은 물론, 완벽한 꺾기와 시원한 가창력을 선보여 눈과 귀를 즐겁게 했다.\n무대에서 귀여운 포인트 안무까지 더해 신명나는 흥을 선물한 임창정은 유쾌한 에너지까지 전파하며 ‘믿고 듣는 임창정’의 수식어를 입증했다. ‘나는 트로트가 싫어요’는 정규 17집 ‘별거 없던 그 하루로’의 후속 타이틀곡으로 임창정이 직접 작사, 작곡에 참여, 그의 색깔을 한껏 담아냈다.\n임창정은 여기에 트로트 장르에 대한 선입견으로 기피하던 시절을 지나 아버지를 닮아가며 트로트를 좋아하게 된 애틋한 감정을 유머러스하게 담아냈다.\n지난 18일 공개된 ‘나는 트로트가 싫어요’ 뮤직비디오에는 이수근, 신동, 넉살, 봉태규, 이지훈 등 화려한 라인업이 출연하며 뜨거운 화제를 모은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임창정이 넘치는 흥과 반전 매력으로 무대를 장악했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임창정은 22일 오후 6시 방송된 SBS MTV ‘더쇼’에 출연, ‘나는 트로트가 싫어요’ 무대를 공개했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임창정은 ‘나는 트로트가 싫어요’의 재치 넘치는 가사를 익살스럽게 표현해내며 시청자를 사로잡은 것은 물론, 완벽한 꺾기와 시원한 가창력을 선보여 눈과 귀를 즐겁게 했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무대에서 귀여운 포인트 안무까지 더해 신명나는 흥을 선물한 임창정은 유쾌한 에너지까지 전파하며 ‘믿고 듣는 임창정’의 수식어를 입증했다. ‘나는 트로트가 싫어요’는 정규 17집 ‘별거 없던 그 하루로’의 후속 타이틀곡으로 임창정이 직접 작사, 작곡에 참여, 그의 색깔을 한껏 담아냈다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임창정은 여기에 트로트 장르에 대한 선입견으로 기피하던 시절을 지나 아버지를 닮아가며 트로트를 좋아하게 된 애틋한 감정을 유머러스하게 담아냈다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 18일 공개된 ‘나는 트로트가 싫어요’ 뮤직비디오에는 이수근, 신동, 넉살, 봉태규, 이지훈 등 화려한 라인업이 출연하며 뜨거운 화제를 모은 바 있다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더쇼’ 임창정, ‘나는 트로트가 싫어요’ 익살 퍼포먼스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

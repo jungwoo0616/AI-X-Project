@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277158",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'사드 반대' 게시물로 중국에서 일약 스타 된 한국 BJ",
+		"newsSubTitle": "",
+		"newsContent": "한 인터넷 방송 BJ가 최근 자신의 SNS를 통해 '사드 반대 의사'를 내비쳐 화제다.\n최근 '사드 보복'과 '한한령'으로 한국과 중국의 관계가 살얼음판을 걷고 있다.\n그 가운데 지난 13일 인터넷 방송 BJ 윤소원 씨는 중국 SNS인 웨이보에 사드를 반대한다는 내용의 팻말을 들고 찍은 사진을 올렸다.\n윤 씨가 든 팻말에는 \\\"작은 날갯짓이 중한 양국 국민에게 평화를 가져다주길 바란다\\\"고 쓰여있다.\n한국인 BJ가 올린 이 '사드 반대' 게시물에 중국인들은 열광했고 중국 온라인 커뮤니티 상에서 일약 스타로 떠올랐다.\n윤 씨는 현재 웨이보 내에 개설된 팬클럽 회원만 22만명에 달할 정도로 중국인들 사이에서 큰 인기를 끌고 있다.\n이를 본 일부 한국 네티즌들은 '한·중'이 아닌 '중·한'으로 표현한 점을 지적하며 비판하기도 했다.\n앞서 윤소원씨는 완다그룹 회장 아들이자 중국 인터넷 방송 '판다 TV' 소유자인 왕쓰총이 그를 영입하기 위해 2000만 위안(약 33억원)을 제시해 화제가 되기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한 인터넷 방송 BJ가 최근 자신의 SNS를 통해 '사드 반대 의사'를 내비쳐 화제다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 '사드 보복'과 '한한령'으로 한국과 중국의 관계가 살얼음판을 걷고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 가운데 지난 13일 인터넷 방송 BJ 윤소원 씨는 중국 SNS인 웨이보에 사드를 반대한다는 내용의 팻말을 들고 찍은 사진을 올렸다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤 씨가 든 팻말에는 \\\"작은 날갯짓이 중한 양국 국민에게 평화를 가져다주길 바란다\\\"고 쓰여있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국인 BJ가 올린 이 '사드 반대' 게시물에 중국인들은 열광했고 중국 온라인 커뮤니티 상에서 일약 스타로 떠올랐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤 씨는 현재 웨이보 내에 개설된 팬클럽 회원만 22만명에 달할 정도로 중국인들 사이에서 큰 인기를 끌고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 일부 한국 네티즌들은 '한·중'이 아닌 '중·한'으로 표현한 점을 지적하며 비판하기도 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 윤소원씨는 완다그룹 회장 아들이자 중국 인터넷 방송 '판다 TV' 소유자인 왕쓰총이 그를 영입하기 위해 2000만 위안(약 33억원)을 제시해 화제가 되기도 했다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사드 반대' 게시물로 중국에서 일약 스타 된 한국 BJ",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

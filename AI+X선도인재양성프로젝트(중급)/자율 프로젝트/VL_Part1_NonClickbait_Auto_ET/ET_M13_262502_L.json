@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262502",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장동민, 자가격리 해제…“너무 아팠어요”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 장동민이 코로나19 완치 소식을 알렸다.\n장동민은 2일 자신의 사회관계망서비스(SNS)에 “격리 끝나고 이제 스케줄 소화해요~ 다들 코로나 조심하세요. 저는 너무 아팠어요ㅜㅜ”라는 글과 함께 사진을 게재했다.\n공개된 사진에서 장동민은 코로나19를 완치해 건강한 모습을 알렸다.\n다소 핼쑥했지만 건강을 되찾은 모습이었다.\n장동민은 앞서 지난달 23일 코로나19 확진 판정을 받았다.\n자가진단 검사에서 양성이 나왔고, 이후 PCR 검사에서도 양성이 나와 확진 판정을 받았다.\n장동민은 백신 접종 2차까지 완료한 상태였다.\n한편 장동민은 지난해 12월 6세 연하 여성과 결혼식을 올렸고, 이후 아내의 임신 소식을 전해 많은 이들의 축하를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 장동민이 코로나19 완치 소식을 알렸다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장동민은 2일 자신의 사회관계망서비스(SNS)에 “격리 끝나고 이제 스케줄 소화해요~ 다들 코로나 조심하세요. 저는 너무 아팠어요ㅜㅜ”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 장동민은 코로나19를 완치해 건강한 모습을 알렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다소 핼쑥했지만 건강을 되찾은 모습이었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장동민은 앞서 지난달 23일 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자가진단 검사에서 양성이 나왔고, 이후 PCR 검사에서도 양성이 나와 확진 판정을 받았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장동민은 백신 접종 2차까지 완료한 상태였다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 장동민은 지난해 12월 6세 연하 여성과 결혼식을 올렸고, 이후 아내의 임신 소식을 전해 많은 이들의 축하를 받았다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장동민, 자가격리 해제…“너무 아팠어요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171073",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘불후의 명곡’ 명품 보컬 임태경, 모두를 울려버린 역대급 무대 선사",
+    "newsSubTitle": "",
+    "newsContent": "오는 9월 4일 방송되는 KBS 2TV ‘불후의 명곡’에는 뮤지컬 황태자 임태경과 실력파 뮤지션 핫펠트&한해가 역대급 무대를 예고해 화제를 모은다.\n먼저 이날 임태경은 ‘불후의 포식자’로 불리며 존재감만으로도 다른 출연자들을 긴장하게 만들었다.\n이어 ‘사랑한 후에’를 선곡, 모두를 깜짝 놀라게 만든 특별한 무대를 선보이며 출연자들의 눈물샘을 자극했다.\n이어 ‘불후의 명곡’ 첫 출연이자 첫 듀엣무대를 준비한 핫펠트와 한해는 이날 “우리의 목표는 친해지는 것”이라며 어색한 모습을 보이기도 했다.\n하지만 들국화의 명곡 ‘제발’을 본인들만의 매력으로 소화해내며 모두가 부러워할만한 환상의 케미를 드러냈다는 후문이다.\n두 팀의 무대는 오는 9월 4일 토요일 오후 6시 5분에 KBS 2TV ‘불후의 명곡’에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 9월 4일 방송되는 KBS 2TV ‘불후의 명곡’에는 뮤지컬 황태자 임태경과 실력파 뮤지션 핫펠트&한해가 역대급 무대를 예고해 화제를 모은다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "먼저 이날 임태경은 ‘불후의 포식자’로 불리며 존재감만으로도 다른 출연자들을 긴장하게 만들었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 ‘사랑한 후에’를 선곡, 모두를 깜짝 놀라게 만든 특별한 무대를 선보이며 출연자들의 눈물샘을 자극했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 ‘불후의 명곡’ 첫 출연이자 첫 듀엣무대를 준비한 핫펠트와 한해는 이날 “우리의 목표는 친해지는 것”이라며 어색한 모습을 보이기도 했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 들국화의 명곡 ‘제발’을 본인들만의 매력으로 소화해내며 모두가 부러워할만한 환상의 케미를 드러냈다는 후문이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 팀의 무대는 오는 9월 4일 토요일 오후 6시 5분에 KBS 2TV ‘불후의 명곡’에서 확인할 수 있다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'불후의 포식자' 임태경, '이 곡'으로 특별한 무대 선보여...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

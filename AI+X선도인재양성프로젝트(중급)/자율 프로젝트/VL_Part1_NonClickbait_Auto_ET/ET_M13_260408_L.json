@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260408",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "BTS 슈가, 2년 전 ‘곤룡포 한복’ 소환 의미는?",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단(BTS) 멤버 슈가가 한복 입은 독특한 분위기의 사진을 공개했다.\n슈가는 8일 자신의 인스타그램에 “D”라는 글과 함께 한 장의 사진을 게재했다.\n해당 사진은 슈가가 2020년 5월 ‘어거스트 디(Agust D)’라는 솔로 활동명으로 발표한 ‘대취타’ 활동 당시의 모습이다.\n이 노래 뮤직비디오에서 슈가는 검은색 곤룡포를 입고 나와 강렬한 인상을 남겼다.\n이는 베이징 동계올림픽 개막식에서 한복을 입은 여성이 등장하면서 중국의 ‘한복 공정’ 논란이 커지고 있는 가운데, 슈가가 이 같은 게시물을 올리면서 큰 주목을 받고 있다.\n슈가의 솔로곡 ‘대취타’는 한국 전통 군악 대취타를 샘플링해서 만든 곡으로, 트랩 비트와 전통 악기 소리가 어우러지는 곡이다.\n그의 한국적인 비트 사랑은 예전부터 꾸준히 알려져 왔으나 그것이 그의 솔로곡에 적용된 것은 이번이 처음이었다. ‘대취타’는 국악의 한 곡으로 임금의 행차가 있을 때 연주되었던 행진가이다.\n한편 슈가의 솔로곡 ‘대취타’는 9일 기준 유튜브 조회 수 3억 4000만 뷰를 넘었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단(BTS) 멤버 슈가가 한복 입은 독특한 분위기의 사진을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슈가는 8일 자신의 인스타그램에 “D”라는 글과 함께 한 장의 사진을 게재했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 사진은 슈가가 2020년 5월 ‘어거스트 디(Agust D)’라는 솔로 활동명으로 발표한 ‘대취타’ 활동 당시의 모습이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 노래 뮤직비디오에서 슈가는 검은색 곤룡포를 입고 나와 강렬한 인상을 남겼다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 베이징 동계올림픽 개막식에서 한복을 입은 여성이 등장하면서 중국의 ‘한복 공정’ 논란이 커지고 있는 가운데, 슈가가 이 같은 게시물을 올리면서 큰 주목을 받고 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슈가의 솔로곡 ‘대취타’는 한국 전통 군악 대취타를 샘플링해서 만든 곡으로, 트랩 비트와 전통 악기 소리가 어우러지는 곡이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그의 한국적인 비트 사랑은 예전부터 꾸준히 알려져 왔으나 그것이 그의 솔로곡에 적용된 것은 이번이 처음이었다. ‘대취타’는 국악의 한 곡으로 임금의 행차가 있을 때 연주되었던 행진가이다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 슈가의 솔로곡 ‘대취타’는 9일 기준 유튜브 조회 수 3억 4000만 뷰를 넘었다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BTS 슈가, 2년 전 ‘곤룡포 한복’ 소환 의미는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

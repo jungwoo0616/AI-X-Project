@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272220",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "YTN, 아침·주말 콘텐츠 강화",
+		"newsSubTitle": "",
+		"newsContent": "YTN이 여름을 맞아 아침과 주말 뉴스 강화를 위해 기존 편성 시간을 변경하고, ‘뉴스 라이더’, ‘뉴스퍼레이드’ 등 신규 프로그램도 선보인다고 3일 전했다.\n평일 오전 4시 20분 방송하던 ‘뉴스출발’을 오전 3시 50분에 방송한다.\n또 평일 오전 5시 20분에 시작하던 ‘굿모닝 와이티엔’은 오전 4시 50분으로 앞당겨 시작하며, 방송 시간을 기존 2시간에서 3시간으로 늘려 1·2부로 방송한다.\n주말 뉴스 강화를 위해 ‘뉴스출발’과 ‘굿모닝 와이티엔’은 주말에도 똑같이 방송한다.\n새로 선보이는 프로그램 ‘뉴스 라이더’는 평일 오전 8시, ‘뉴스 퍼레이드’는 평일 오후 8시 35분에 방송한다.\n또 한 가지 이슈를 한 달간 다양한 형식으로 취재해 만드는 ‘월간 뉴있저’를 매월 마지막 주 일요일에 선보인다.\n장애인을 위한 방송인 수어방송과 화면해설방송 시간대도 조정된다.\n수어방송은 평일 오전 11시 50분과 오후 5시 50분, 주말에는 오전 11시 50분과 오후 2시 50분에 방송되고, 화면해설방송은 평일 오전 11시 50분부터 오후 3시 50분까지 4시간 제공된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "YTN이 여름을 맞아 아침과 주말 뉴스 강화를 위해 기존 편성 시간을 변경하고, ‘뉴스 라이더’, ‘뉴스퍼레이드’ 등 신규 프로그램도 선보인다고 3일 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "평일 오전 4시 20분 방송하던 ‘뉴스출발’을 오전 3시 50분에 방송한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 평일 오전 5시 20분에 시작하던 ‘굿모닝 와이티엔’은 오전 4시 50분으로 앞당겨 시작하며, 방송 시간을 기존 2시간에서 3시간으로 늘려 1·2부로 방송한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주말 뉴스 강화를 위해 ‘뉴스출발’과 ‘굿모닝 와이티엔’은 주말에도 똑같이 방송한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "새로 선보이는 프로그램 ‘뉴스 라이더’는 평일 오전 8시, ‘뉴스 퍼레이드’는 평일 오후 8시 35분에 방송한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 한 가지 이슈를 한 달간 다양한 형식으로 취재해 만드는 ‘월간 뉴있저’를 매월 마지막 주 일요일에 선보인다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장애인을 위한 방송인 수어방송과 화면해설방송 시간대도 조정된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수어방송은 평일 오전 11시 50분과 오후 5시 50분, 주말에는 오전 11시 50분과 오후 2시 50분에 방송되고, 화면해설방송은 평일 오전 11시 50분부터 오후 3시 50분까지 4시간 제공된다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "YTN, 아침·주말 콘텐츠 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

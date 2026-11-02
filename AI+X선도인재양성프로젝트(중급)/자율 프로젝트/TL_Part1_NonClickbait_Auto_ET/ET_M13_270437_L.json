@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270437",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "화사니까 소화 가능…전신 타이즈 패션",
+		"newsSubTitle": "",
+		"newsContent": "가수 화사가 ‘화사니까’ ‘화사만’ 소화 가능한 전신 타이즈 패션을 선보였다.\n마마무 화사는 16일 자신의 SNS인스타그램에 공연 사진 여러 장을 올렸다.\n사진 속 화사는 핫핑크 전신 타이즈 의상을 입고 자신감 넘치는 포즈를 취하고 있다.\n화사가 입은 타이즈 의상은 ‘캣 슈트’ 로 불리는 옷으로 목부터 발까지 전신이 타이트하게 달라붙는 디자인이다.\n그의 볼륨감 있는 몸매에 누리꾼들은 “화사니까 소화 가능하다”며 찬사를 보냈다.\n화사는 솔라, 문별, 휘인과 마마무로 활동 중이다.\n이날 마마무는 ‘K POP FLEX to Germany’ 일정을 마치고 독일 프랑크푸르트에서 돌아왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 화사가 ‘화사니까’ ‘화사만’ 소화 가능한 전신 타이즈 패션을 선보였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마마무 화사는 16일 자신의 SNS인스타그램에 공연 사진 여러 장을 올렸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 화사는 핫핑크 전신 타이즈 의상을 입고 자신감 넘치는 포즈를 취하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화사가 입은 타이즈 의상은 ‘캣 슈트’ 로 불리는 옷으로 목부터 발까지 전신이 타이트하게 달라붙는 디자인이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그의 볼륨감 있는 몸매에 누리꾼들은 “화사니까 소화 가능하다”며 찬사를 보냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "화사는 솔라, 문별, 휘인과 마마무로 활동 중이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 마마무는 ‘K POP FLEX to Germany’ 일정을 마치고 독일 프랑크푸르트에서 돌아왔다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화사니까 소화 가능…전신 타이즈 패션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

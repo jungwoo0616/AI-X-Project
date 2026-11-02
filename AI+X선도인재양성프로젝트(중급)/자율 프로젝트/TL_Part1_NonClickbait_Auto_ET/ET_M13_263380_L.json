@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263380",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "소유나, 에이티원엔터와 전속계약[공식]",
+		"newsSubTitle": "",
+		"newsContent": "싱어송라이터 소유나가 음악 전문 엔터테인먼트사 에이티원엔터테인먼트에 새 둥지를 틀었다.\n에이티원엔터테인먼트는 “소유나와 전속 계약을 체결했다”고 10일 밝혔다.\n소유나는 JTBC 예능 프로그램 ‘효리네 민박2’ 삽입곡 ‘여기, 제주도’로 많은 사랑을 받은 여성 듀오 더썸바디페인(thesomebodypain) 출신이다.\n팀 내에서 기타 연주와 작사, 작곡을 담당하며 왕성한 활동을 펼쳤으며 2018년 홀로서기를 택했다.\n다양한 세션 활동도 병행해왔다.\n동갑내기 절친 싱어송라이터 모트와 단독 공연 및 여러 페스티벌 무대에 함께 올라 남다른 케미를 발산해 주목받기도 했다.\n에이티원 엔터테인먼트에서 새 출발하는 소유나는 앞으로 자신만의 색을 입힌 음악으로 대중과 교감해나가겠다는 계획이다.\n소유나는 “음악에 전념할 수 있는 환경과 든든한 버팀목이 생긴 것 같아 너무 기쁜 마음”이라고 기대감을 드러냈다.\n에이티원엔터테인먼트에는 임지안, 하이브로, 슬로우 폴 등이 속해 있다.\n밴드, 발라더, 싱어송라이터 등 탄탄한 아티스트 라인업을 구축한 에이티원엔터테인먼트는 “다양한 장르의 음악 제작과 신인 아티스트 발굴을 위해 더욱 힘쓸 것”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "싱어송라이터 소유나가 음악 전문 엔터테인먼트사 에이티원엔터테인먼트에 새 둥지를 틀었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에이티원엔터테인먼트는 “소유나와 전속 계약을 체결했다”고 10일 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소유나는 JTBC 예능 프로그램 ‘효리네 민박2’ 삽입곡 ‘여기, 제주도’로 많은 사랑을 받은 여성 듀오 더썸바디페인(thesomebodypain) 출신이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팀 내에서 기타 연주와 작사, 작곡을 담당하며 왕성한 활동을 펼쳤으며 2018년 홀로서기를 택했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다양한 세션 활동도 병행해왔다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "동갑내기 절친 싱어송라이터 모트와 단독 공연 및 여러 페스티벌 무대에 함께 올라 남다른 케미를 발산해 주목받기도 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "에이티원 엔터테인먼트에서 새 출발하는 소유나는 앞으로 자신만의 색을 입힌 음악으로 대중과 교감해나가겠다는 계획이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소유나는 “음악에 전념할 수 있는 환경과 든든한 버팀목이 생긴 것 같아 너무 기쁜 마음”이라고 기대감을 드러냈다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "에이티원엔터테인먼트에는 임지안, 하이브로, 슬로우 폴 등이 속해 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "밴드, 발라더, 싱어송라이터 등 탄탄한 아티스트 라인업을 구축한 에이티원엔터테인먼트는 “다양한 장르의 음악 제작과 신인 아티스트 발굴을 위해 더욱 힘쓸 것”이라고 전했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소유나, 에이티원엔터와 전속계약[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165842",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'부산경찰'이 공개한 어미 잃은 아기고양이 '레오'의 근황",
+    "newsSubTitle": "",
+    "newsContent": "2017년 5월 22일 '부산경찰' 인스타그램 계정에 부산 금정경찰서의 아기고양이 '레오'의 소식이 소개돼 시민들의 호응을 얻은 적이 있다.\n금정 경찰서에 따르면 5월15일 한 시민이 혼자 있는 아기 고양이를 주워 경찰서 입구 초소에 데려다줬다고 한다.\n아기 고양이는 한동안 엄마 고양이를 기다렸지만, 끝내 나타나지 않았다.\n아기 고양이의 사랑스러움에 푹 빠진 의경들은 고양이를 맡아 키우기로 했다고 한다.\n검은색과 흰색의 털빛이 과자 '오레오' 같다고 하여 이름을 '레오'라고 이름 붙였다.\n최근 아기고양이 '레오'의 근황이 전해져 네티즌들이 반가워하고 있다.\n8월 3일 '부산경찰' 계정에 아기 고양이 '레오'의 최근 사진이 공개됐는데, 금정경찰서 의경들이 손수 만든 캣타워의 모습도 함께 소개됐다.\n시민들은 부쩍 자란 '레오'의 모습이 대견하다는 반응이다.\n네티즌들은 \\\"레오 사진 매일 올려주세요\\\" \\\"마음이 따뜻한 의경 형아들 멋있어요\\\" \\\"금정 경찰서도 고양이 집사로 전직\\\" 등의 다양한 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2017년 5월 22일 '부산경찰' 인스타그램 계정에 부산 금정경찰서의 아기고양이 '레오'의 소식이 소개돼 시민들의 호응을 얻은 적이 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "금정 경찰서에 따르면 5월15일 한 시민이 혼자 있는 아기 고양이를 주워 경찰서 입구 초소에 데려다줬다고 한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아기 고양이는 한동안 엄마 고양이를 기다렸지만, 끝내 나타나지 않았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아기 고양이의 사랑스러움에 푹 빠진 의경들은 고양이를 맡아 키우기로 했다고 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "검은색과 흰색의 털빛이 과자 '오레오' 같다고 하여 이름을 '레오'라고 이름 붙였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 아기고양이 '레오'의 근황이 전해져 네티즌들이 반가워하고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "8월 3일 '부산경찰' 계정에 아기 고양이 '레오'의 최근 사진이 공개됐는데, 금정경찰서 의경들이 손수 만든 캣타워의 모습도 함께 소개됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시민들은 부쩍 자란 '레오'의 모습이 대견하다는 반응이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "네티즌들은 \\\"레오 사진 매일 올려주세요\\\" \\\"마음이 따뜻한 의경 형아들 멋있어요\\\" \\\"금정 경찰서도 고양이 집사로 전직\\\" 등의 다양한 반응을 보였다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'부산경찰' 아기고양이 레오 소식 공개 '핵귀요미'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

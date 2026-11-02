@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272837",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 안성훈, ‘겨울연가’ 원빈으로 재탄생 “얼마면 돼”",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 시장에 활력을 더하며 행복 바이러스를 전파했다.\n안성훈은 10일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.\n삼천포 용궁 수산시장에 방문한 안성훈은 여전한 흥과 끼는 물론, 재치 넘치는 예능감까지 더해 상인들과 시청자를 즐겁게 했다.\n능수능란한 진행 능력으로 ‘60초를 잡아라’ 코너를 진행한 안성훈은 드라마 ‘겨울연가’의 원빈 명대사인 “얼마면 돼” 성대모사로 텐션을 끌어올리는가 하면, 갯장어 먹방까지 선보이며 시청자의 입맛을 자극했다.\n상인들을 만난 안성훈은 다채로운 이야기를 함께 나누면서 시장의 활기를 더했고, 재치 있는 입담과 함께 활발한 소통에 나서며 보는 이를 웃음 짓게 했다.\n안성훈은 응원 단장답게 직접 수산 시장 홍보에 나선 가운데 ‘장바구니를 잡아라’ 이벤트까지 소개하기도 했다.\n안성훈은 매주 금요일 ‘6시 내고향’을 통해 팬들과 만나고 있으며, 최근 신곡 ‘좋다!’를 발매하는 등 활발한 활동을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 시장에 활력을 더하며 행복 바이러스를 전파했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 10일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼천포 용궁 수산시장에 방문한 안성훈은 여전한 흥과 끼는 물론, 재치 넘치는 예능감까지 더해 상인들과 시청자를 즐겁게 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "능수능란한 진행 능력으로 ‘60초를 잡아라’ 코너를 진행한 안성훈은 드라마 ‘겨울연가’의 원빈 명대사인 “얼마면 돼” 성대모사로 텐션을 끌어올리는가 하면, 갯장어 먹방까지 선보이며 시청자의 입맛을 자극했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "상인들을 만난 안성훈은 다채로운 이야기를 함께 나누면서 시장의 활기를 더했고, 재치 있는 입담과 함께 활발한 소통에 나서며 보는 이를 웃음 짓게 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안성훈은 응원 단장답게 직접 수산 시장 홍보에 나선 가운데 ‘장바구니를 잡아라’ 이벤트까지 소개하기도 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안성훈은 매주 금요일 ‘6시 내고향’을 통해 팬들과 만나고 있으며, 최근 신곡 ‘좋다!’를 발매하는 등 활발한 활동을 이어가고 있다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 안성훈, ‘겨울연가’ 원빈으로 재탄생 “얼마면 돼”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

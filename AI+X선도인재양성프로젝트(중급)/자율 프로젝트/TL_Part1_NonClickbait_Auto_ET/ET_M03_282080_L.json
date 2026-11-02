@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282080",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'마마 2015' 주윤발, 빅뱅과 익살 셀카…여전한 외모",
+		"newsSubTitle": "",
+		"newsContent": "마마 2015 주윤발이 빅뱅과 함께 찍은 셀카가 공개됐다.\n지난 2일 홍콩에서 진행된 '2015 엠넷 아시안 뮤직 어워즈'(마마 2015) 3부 무대에 주윤발이 '올해의 가수' 시상자로 참석했다.\n마마 2015에 주윤발은 검은색 슈트를 입고 등장해 조각외모를 뽐내 눈길을 모았다.\n빅뱅 태양은 3일 인스타그램에 주윤발 및 멤버들과 함께 찍은 단체 셀카를 공개했다.\n한편 올해로 7회째를 맞이한 'MAMA'는 콘텐츠 기업 CJ E&;M이 주최하는 아시아 대표 음악 축제로 1999년 'Mnet영상음악대상'으로 시작해 2009년을 기점으로 'MAMA'로 변모했다.\n이번 '2015 MAMA'에는 빅뱅과 싸이, 씨엘, 아이콘, 엑소, 태티서, 레드벨벳, 박진영, 제시, 현아 등이 참석해 화려한 무대를 꾸몄다.\n또 한효주, 박보영, 박신혜, 한채영, 김강우, 정석원을 비롯해 이정재, 공효진, 고아성, 유연석, 손호준, 이상윤, 여진구, 이기우, 하석진, 서강준, 김소은 등이 시상자로 참석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마마 2015 주윤발이 빅뱅과 함께 찍은 셀카가 공개됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2일 홍콩에서 진행된 '2015 엠넷 아시안 뮤직 어워즈'(마마 2015) 3부 무대에 주윤발이 '올해의 가수' 시상자로 참석했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마마 2015에 주윤발은 검은색 슈트를 입고 등장해 조각외모를 뽐내 눈길을 모았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빅뱅 태양은 3일 인스타그램에 주윤발 및 멤버들과 함께 찍은 단체 셀카를 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 올해로 7회째를 맞이한 'MAMA'는 콘텐츠 기업 CJ E&;M이 주최하는 아시아 대표 음악 축제로 1999년 'Mnet영상음악대상'으로 시작해 2009년을 기점으로 'MAMA'로 변모했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 '2015 MAMA'에는 빅뱅과 싸이, 씨엘, 아이콘, 엑소, 태티서, 레드벨벳, 박진영, 제시, 현아 등이 참석해 화려한 무대를 꾸몄다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 한효주, 박보영, 박신혜, 한채영, 김강우, 정석원을 비롯해 이정재, 공효진, 고아성, 유연석, 손호준, 이상윤, 여진구, 이기우, 하석진, 서강준, 김소은 등이 시상자로 참석했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'마마 2015' 주윤발, 빅뱅과 익살 셀카…여전한 외모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

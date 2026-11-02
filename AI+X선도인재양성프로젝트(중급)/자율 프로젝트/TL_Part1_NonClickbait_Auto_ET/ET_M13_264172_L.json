@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264172",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "KBS 아나운서실, ‘출연자 언어교육’ 영상 제작",
+		"newsSubTitle": "",
+		"newsContent": "KBS 아나운서실(실장 김태규)이 ‘2022 출연자 언어교육’ 영상을 제작했다.\n시청의 편의를 위해 8분으로 제작된 ‘출연자 언어교육’ 영상은 방송통신심의위원회와 KBS 심의실 자료를 분석해 잘못 사용되는 방송언어를 ‘심의 TOP10’으로 정리했다.\n그동안 아나운서실은 KBS의 방송언어가 대한민국 표준이 돼야 한다는 자부심으로 KBS에 출연하는 출연자들을 대상으로 대면 방송언어 교육을 실시해왔다.\n그러나 코로나19로 인해 교육이 2년여간 중단돼 대면 교육이 어려운 현 상황에 맞게 출연자 교육 영상을 제작하게 됐다.\nMC는 주말 9시뉴스 앵커이자 ‘우리말 겨루기’ 진행자인 박지원 아나운서가 맡았고 이광엽, 김진웅, 이윤정 아나운서가 출연했다.\n비속어, 성차별 언어, 신체 비하, 불필요한 외국어 등 방송에 부적합한 언어들을 사례와 함께 소개하며 정보와 재미를 더했다.\n아나운서실은 “출연자 언어교육 영상은 KBS 홈페이지에도 업로드돼 방송 출연자가 아닌 시청자들도 방송언어의 특징을 살펴보고, 잘못된 언어 습관을 바로잡을 수 있을 것으로 기대된다”며 “앞으로도 KBS 아나운서실은 방송언어 순화와 수신료 가치 실현을 위해 더욱 노력할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS 아나운서실(실장 김태규)이 ‘2022 출연자 언어교육’ 영상을 제작했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시청의 편의를 위해 8분으로 제작된 ‘출연자 언어교육’ 영상은 방송통신심의위원회와 KBS 심의실 자료를 분석해 잘못 사용되는 방송언어를 ‘심의 TOP10’으로 정리했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그동안 아나운서실은 KBS의 방송언어가 대한민국 표준이 돼야 한다는 자부심으로 KBS에 출연하는 출연자들을 대상으로 대면 방송언어 교육을 실시해왔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 코로나19로 인해 교육이 2년여간 중단돼 대면 교육이 어려운 현 상황에 맞게 출연자 교육 영상을 제작하게 됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MC는 주말 9시뉴스 앵커이자 ‘우리말 겨루기’ 진행자인 박지원 아나운서가 맡았고 이광엽, 김진웅, 이윤정 아나운서가 출연했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비속어, 성차별 언어, 신체 비하, 불필요한 외국어 등 방송에 부적합한 언어들을 사례와 함께 소개하며 정보와 재미를 더했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아나운서실은 “출연자 언어교육 영상은 KBS 홈페이지에도 업로드돼 방송 출연자가 아닌 시청자들도 방송언어의 특징을 살펴보고, 잘못된 언어 습관을 바로잡을 수 있을 것으로 기대된다”며 “앞으로도 KBS 아나운서실은 방송언어 순화와 수신료 가치 실현을 위해 더욱 노력할 것”이라고 밝혔다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KBS 아나운서실, ‘출연자 언어교육’ 영상 제작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

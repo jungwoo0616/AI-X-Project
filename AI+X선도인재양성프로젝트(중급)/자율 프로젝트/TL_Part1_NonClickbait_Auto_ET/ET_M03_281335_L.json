@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281335",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'부탁해요 엄마' 민아, 최태준의 결혼 사실 알아버려 … 운명의 장난?!",
+		"newsSubTitle": "",
+		"newsContent": "'부탁해요 엄마' 민아 '부탁해요 엄마'에서 민아가 최태준이 결혼한 사실을 알았다.\n12일 저녁 방송된 KBS2 주말드라마 '부탁해요 엄마'(극본 윤경아·연출 이건준) 35회에서 고앵두(민아)는 이형순(최태준)을 유혹하기 위해 의도적으로 접근했다. 고앵두는 이형순 앞에서 일부러 쓰러지는 척 했고, 이형순은 그런 고앵두를 붙잡아주며 괜찮냐고 물었다.\n이어 고앵두는 괜찮다고 답하며 이형순에게 \\\"저 오빠랑 같은 동네로 이사 갔다\\\"고 말하며 어필했다.\n이형순은 흔쾌히 이를 수락했고, 고앵두는 회심의 미소를 지었다.\n이형순은 집으로 가던 중 고앵두에게 자신이 결혼했다는 사실을 말했다.\n이에 고앵두는 놀라워하며 \\\"진짜냐\\\"고 되물었고, 이형순은 \\\"맞다. 결혼도 했고, 곧 있으면 아이도 태어난다\\\"고 대답했다.\n이를 들은 고앵두는 자신도 모르게 \\\"에이 씨!\\\"라며 짜증을 냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'부탁해요 엄마' 민아 '부탁해요 엄마'에서 민아가 최태준이 결혼한 사실을 알았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 저녁 방송된 KBS2 주말드라마 '부탁해요 엄마'(극본 윤경아·연출 이건준) 35회에서 고앵두(민아)는 이형순(최태준)을 유혹하기 위해 의도적으로 접근했다. 고앵두는 이형순 앞에서 일부러 쓰러지는 척 했고, 이형순은 그런 고앵두를 붙잡아주며 괜찮냐고 물었다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 고앵두는 괜찮다고 답하며 이형순에게 \\\"저 오빠랑 같은 동네로 이사 갔다\\\"고 말하며 어필했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이형순은 흔쾌히 이를 수락했고, 고앵두는 회심의 미소를 지었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이형순은 집으로 가던 중 고앵두에게 자신이 결혼했다는 사실을 말했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 고앵두는 놀라워하며 \\\"진짜냐\\\"고 되물었고, 이형순은 \\\"맞다. 결혼도 했고, 곧 있으면 아이도 태어난다\\\"고 대답했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 들은 고앵두는 자신도 모르게 \\\"에이 씨!\\\"라며 짜증을 냈다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'부탁해요 엄마' 민아, 최태준의 결혼 사실 알아버려 … 운명의 장난?!",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

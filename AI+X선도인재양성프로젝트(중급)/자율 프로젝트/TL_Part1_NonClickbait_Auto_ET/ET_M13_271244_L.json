@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271244",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단 지민 ‘위드유’ 여전히 ‘핫핫’",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 멤버 지민이 음악적 재능과 인기를 이어가고 있다.\n방탄소년단 팬덤 아미에 따르면 방탄소년단 지민이 첫 O.S.T ‘위드 유’(With You)는 빌보드 핫 트렌딩 송즈 차트에서 3주 연속 1위를 기록했다.\n앞서 ‘위드 유’는 빌보드 핫트렌딩 송즈 차트 주간에서 1위를 차지했고 3주 연속 1위라는 대기록으로 빌보드를 장악했다.\n해당 차트가 생긴 이후 3주 연속 1위를 기록한 곡은 방탄소년단의 ‘버터’(20주)와 SB19의 ‘바징가’(Bazinga)뿐이다. ‘위드 유’는 발매 첫 주 빌보드 핫 트렌딩 송즈 주간 차트에서 4일 만의 집계 기간으로도 5월 7일 주간 차트에서 2위에 오르며 무서운 속도로 순위가 상승하기 시작했다.\n빌보드 핫 트렌딩 송즈 차트란 지난 24시간 또는 지난 7일간 트위터에서 가장 많이 언급된 곡의 실시간 순위를 제공하는 차트다.\n아미는 “‘위드 유’는 발매 후 1위에 오른 이후 현재 29일째 일일 랭킹 1위, 5월 25일 오전 6시 기준 44만8038개 실시간 언급량을 기록하며 O.S.T 돌풍의 주인공이 됐다”며 “빌보드에서 가장 핫 트렌디한 최고의 곡으로 대기록 행진을 이어가고 있는 것”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 멤버 지민이 음악적 재능과 인기를 이어가고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단 팬덤 아미에 따르면 방탄소년단 지민이 첫 O.S.T ‘위드 유’(With You)는 빌보드 핫 트렌딩 송즈 차트에서 3주 연속 1위를 기록했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 ‘위드 유’는 빌보드 핫트렌딩 송즈 차트 주간에서 1위를 차지했고 3주 연속 1위라는 대기록으로 빌보드를 장악했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 차트가 생긴 이후 3주 연속 1위를 기록한 곡은 방탄소년단의 ‘버터’(20주)와 SB19의 ‘바징가’(Bazinga)뿐이다. ‘위드 유’는 발매 첫 주 빌보드 핫 트렌딩 송즈 주간 차트에서 4일 만의 집계 기간으로도 5월 7일 주간 차트에서 2위에 오르며 무서운 속도로 순위가 상승하기 시작했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빌보드 핫 트렌딩 송즈 차트란 지난 24시간 또는 지난 7일간 트위터에서 가장 많이 언급된 곡의 실시간 순위를 제공하는 차트다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아미는 “‘위드 유’는 발매 후 1위에 오른 이후 현재 29일째 일일 랭킹 1위, 5월 25일 오전 6시 기준 44만8038개 실시간 언급량을 기록하며 O.S.T 돌풍의 주인공이 됐다”며 “빌보드에서 가장 핫 트렌디한 최고의 곡으로 대기록 행진을 이어가고 있는 것”이라고 전했다.",
+				"sentenceSize": 156
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 지민 ‘위드유’ 여전히 ‘핫핫’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

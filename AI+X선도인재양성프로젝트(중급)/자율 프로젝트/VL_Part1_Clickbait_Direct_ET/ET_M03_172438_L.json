@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172438",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'전과 3범' 정운택 근황…\\\"좋은 일 하고 싶다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'전과 3범' 배우 정운택의 근황이 공개됐다.\n27일 방송된 EBS '리얼극장 행복'에서는 정운택의 여행기가 전파를 탔다.\n2001년 영화 '친구'로 데뷔해 인기몰이를 한 정운택은 최근 대리 기사 폭행 등으로 물의를 일으키며 활동을 중단했다.\n그러다 어머니가 직장암 말기 판정을 받고 공백기간이 길어지며 경제적으로 어려움을 겪었다.\n정운택은 당시 대중의 차가운 시선을 견디질 못했다.\n그는 \\\"내 인생은 여기까지인가 보다. 자살까지 생각을 했었다\\\"고 고백했다.\n이날 방송에서 그는 어려운 가정사를 고백하기도 했다.\n정운택은 \\\"학창시절 우리집은 역 앞에서 돼지국밥 식당을 했다\\\"며 \\\"당시 아버지는 매일 술을 드시고 가게 살림을 부쉈다. 내가 그런 성질을 물려받은 것 같다. 말도 모질게 한다\\\"고 밝혔다.\n이어 \\\"나처럼 실수를 하고 잘못을 저지르는 사람들이 나를 계기로 바뀌었으면 한다. 앞으로 저 또한 좋은 일을 많이 하면서 살고 싶다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'전과 3범' 배우 정운택의 근황이 공개됐다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 방송된 EBS '리얼극장 행복'에서는 정운택의 여행기가 전파를 탔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2001년 영화 '친구'로 데뷔해 인기몰이를 한 정운택은 최근 대리 기사 폭행 등으로 물의를 일으키며 활동을 중단했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러다 어머니가 직장암 말기 판정을 받고 공백기간이 길어지며 경제적으로 어려움을 겪었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정운택은 당시 대중의 차가운 시선을 견디질 못했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"내 인생은 여기까지인가 보다. 자살까지 생각을 했었다\\\"고 고백했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 방송에서 그는 어려운 가정사를 고백하기도 했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정운택은 \\\"학창시절 우리집은 역 앞에서 돼지국밥 식당을 했다\\\"며 \\\"당시 아버지는 매일 술을 드시고 가게 살림을 부쉈다. 내가 그런 성질을 물려받은 것 같다. 말도 모질게 한다\\\"고 밝혔다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이어 \\\"나처럼 실수를 하고 잘못을 저지르는 사람들이 나를 계기로 바뀌었으면 한다. 앞으로 저 또한 좋은 일을 많이 하면서 살고 싶다\\\"고 말했다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "좋은 일 하고 싶다며 '이것'말하는 '전과 3범' 배우... 과연 진심일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276003",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘컬투쇼’ 김우빈, 잘생긴 기분 묻자 “상쾌하다”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김우빈 재치 있는 입담을 전헀다.\n김우빈은 21일에 방송된 SBS 파워FM ‘두시탈출 컬투쇼’(이하 ‘컬투쇼’) 영화 ‘외계+인’(감독 최동훈) 홍보 차 게스트로 출연했다.\n이날 김우빈에게 DJ 김태균이 “7년 만에 봤는데도 여전히 잘생겼다”며 “이렇게 잘생긴 기분이 어떠냐”고 물었다.\n이에 김우빈은 “형님도 그대로다”라며 훈훈한 분위기를 자아냈다.\n김태균은 이어 “정확한 키가 어떻게 되냐”고 물었고, 김우빈은 “188cm”라고 답했다.\n또 김태균은 김우빈의 넓은 어깨, 잘생긴 비주얼을 계속해서 칭찬했다.\n결국 김우빈은 감태균이 질문한 “잘생긴 기분은 어떤가? 느껴보고 싶다”에 대한 답변으로 “상쾌하다”라고 너스레를 떨며 대답했다.\n한편 김우빈이 출연하는 ‘외계+인’ 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김우빈 재치 있는 입담을 전헀다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김우빈은 21일에 방송된 SBS 파워FM ‘두시탈출 컬투쇼’(이하 ‘컬투쇼’) 영화 ‘외계+인’(감독 최동훈) 홍보 차 게스트로 출연했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김우빈에게 DJ 김태균이 “7년 만에 봤는데도 여전히 잘생겼다”며 “이렇게 잘생긴 기분이 어떠냐”고 물었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 김우빈은 “형님도 그대로다”라며 훈훈한 분위기를 자아냈다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김태균은 이어 “정확한 키가 어떻게 되냐”고 물었고, 김우빈은 “188cm”라고 답했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 김태균은 김우빈의 넓은 어깨, 잘생긴 비주얼을 계속해서 칭찬했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결국 김우빈은 감태균이 질문한 “잘생긴 기분은 어떤가? 느껴보고 싶다”에 대한 답변으로 “상쾌하다”라고 너스레를 떨며 대답했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 김우빈이 출연하는 ‘외계+인’ 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘컬투쇼’ 김우빈, 잘생긴 기분 묻자 “상쾌하다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

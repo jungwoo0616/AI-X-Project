@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283618",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'지드래곤과 열애설' 미즈하라 키코, 현남친은 노무라 슈헤이?",
+		"newsSubTitle": "",
+		"newsContent": "'노무라 슈헤이 미즈하라 키코' 그룹 빅뱅 지드래곤과의 스캔들로 유명한 모델 미즈하라 키코가 새로운 상대와 열애설에 휩싸였다.\n일본의 한 매체는 11일 오후 일본 배우 노무라 슈헤이와 미즈하라 키코의 열애설을 보도했다.\n매체는 노무라 슈헤이와 미즈하라 키코가 손을 잡고 거리를 걷는 모습도 포착했습니다.\n해당 매체는 노무라 슈헤이와 미즈하라 키코가 최근 도내에 있는 고급 초밥집 카운터에서 서로 마주 보면서 식사를 하는 모습이 포착됐으며, 식사를 마친 미즈하라 키코와 노무라 슈헤이는 손을 잡고 서로의 몸에 기댄채 회원제 바(bar)로 향한 것으로 알려졌다.\n매체는 오는 14일 생일을 맞는 노무라 슈헤이를 위해 미즈하라 키코가 친구들과 파티를 연 것으로 보고 있다.\n한편, 노무라 슈헤이와 미즈하라 키코는 패션 잡지 촬영에서 인연을 맺어 연인으로 발전한 것으로 전해졌다. '노무라 슈헤이 미즈하라 키코' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'노무라 슈헤이 미즈하라 키코' 그룹 빅뱅 지드래곤과의 스캔들로 유명한 모델 미즈하라 키코가 새로운 상대와 열애설에 휩싸였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일본의 한 매체는 11일 오후 일본 배우 노무라 슈헤이와 미즈하라 키코의 열애설을 보도했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매체는 노무라 슈헤이와 미즈하라 키코가 손을 잡고 거리를 걷는 모습도 포착했습니다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 매체는 노무라 슈헤이와 미즈하라 키코가 최근 도내에 있는 고급 초밥집 카운터에서 서로 마주 보면서 식사를 하는 모습이 포착됐으며, 식사를 마친 미즈하라 키코와 노무라 슈헤이는 손을 잡고 서로의 몸에 기댄채 회원제 바(bar)로 향한 것으로 알려졌다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매체는 오는 14일 생일을 맞는 노무라 슈헤이를 위해 미즈하라 키코가 친구들과 파티를 연 것으로 보고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 노무라 슈헤이와 미즈하라 키코는 패션 잡지 촬영에서 인연을 맺어 연인으로 발전한 것으로 전해졌다. '노무라 슈헤이 미즈하라 키코' 온라인 중앙일보",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'지드래곤과 열애설' 미즈하라 키코, 현남친은 노무라 슈헤이?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

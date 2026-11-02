@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259382",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "팝스타 엘튼 존, 코로나19 ‘돌파감염’으로 美 공연 연기",
+		"newsSubTitle": "",
+		"newsContent": "영국 출신의 세계적인 팝스타 엘튼 존이 코로나19 확진 판정을 받으며 미국에서 진행할 예정이던 콘서트 일정을 조정했다.\n25일(현지시간) 뉴욕타임스(NYT) 등에 따르면 미국 순회공연에 나선 엘튼 존은 코로나19 돌파 감염으로 텍사스주 댈러스 아메리칸 에어라인 센터에서 개최하려던 콘서트를 연기했다.\n엘튼 존은 백신 접종을 마쳤고 부스터 샷까지 맞았으나 양성 판정을 받았다.\n아메리칸 에어라인 센터는 “엘튼 존이 최근 코로나19 양성 반응을 보여 이틀간 예정된 ‘페어웰 옐로 브릭 로드’ 투어 일정을 연기하게 됐다”고 밝혔다.\n엘튼 존은 코로나19 사태로 지난 2년 동안 순회공연을 중단했고, 올해 1월 미국 뉴올리언스에서 재개했으나 돌파 감염으로 다시 공연 일정에 차질을 빚었다.\n그는 SNS에 코로나에 걸렸지만, 증상은 경미하다며 “콘서트를 연기하게 돼 아쉽지만, 저 자신과 공연 팀을 안전하게 지키고 싶다”며 팬들에 양해를 구했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영국 출신의 세계적인 팝스타 엘튼 존이 코로나19 확진 판정을 받으며 미국에서 진행할 예정이던 콘서트 일정을 조정했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일(현지시간) 뉴욕타임스(NYT) 등에 따르면 미국 순회공연에 나선 엘튼 존은 코로나19 돌파 감염으로 텍사스주 댈러스 아메리칸 에어라인 센터에서 개최하려던 콘서트를 연기했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엘튼 존은 백신 접종을 마쳤고 부스터 샷까지 맞았으나 양성 판정을 받았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아메리칸 에어라인 센터는 “엘튼 존이 최근 코로나19 양성 반응을 보여 이틀간 예정된 ‘페어웰 옐로 브릭 로드’ 투어 일정을 연기하게 됐다”고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엘튼 존은 코로나19 사태로 지난 2년 동안 순회공연을 중단했고, 올해 1월 미국 뉴올리언스에서 재개했으나 돌파 감염으로 다시 공연 일정에 차질을 빚었다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 SNS에 코로나에 걸렸지만, 증상은 경미하다며 “콘서트를 연기하게 돼 아쉽지만, 저 자신과 공연 팀을 안전하게 지키고 싶다”며 팬들에 양해를 구했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팝스타 엘튼 존, 코로나19 ‘돌파감염’으로 美 공연 연기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

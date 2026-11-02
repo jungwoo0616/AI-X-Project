@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259013",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅, 교통사고로 쓰러진 남성 심폐소생술로 살려",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 시민을 구하는 ‘영웅(英雄)’이 됐다.\n23일 스타 뉴스 보도에 따르면 지난 21일 오후 서울 올림픽대로 여의도 방향 반포대교 인근에서 한 승합차가 복수의 차량들과 추돌하고 가드레일을 들이받는 교통사고가 발생했다.\n이때 현장에 있던 임영웅은 발 벗고 나서 현장 정리를 도왔다.\n임영웅은 조수석의 여성이 정신을 잃은 남성 운전자를 깨우고 있는 것을 목격해 운전석을 눕힌 뒤 심폐소생술을 실시한 것으로 전해졌다.\n또 119 최초 신고자 역시 임영웅인 것으로 드러났다.\n이에 대해 소속사 물고기 뮤직 측은 “보도가 사실”이라며 “일정 끝나고 돌아오는 중에 교통사고 현장을 목격하게 됐고, 임영웅이 나서서 교통사고 운전자를 도왔다”고 설명했다.\n이어 “임영웅을 포함한 모두가 그 상황을 보고 놀랐다”며 “임영웅은 응급처치 중 다치거나 한 부분 없이 건강한 상태”라고 덧붙였다.\n한편, 임영웅은 지난 2020년 ‘미스터 트롯’에서 우승을 하며 신드롬에 가까운 인기를 구가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 시민을 구하는 ‘영웅(英雄)’이 됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 스타 뉴스 보도에 따르면 지난 21일 오후 서울 올림픽대로 여의도 방향 반포대교 인근에서 한 승합차가 복수의 차량들과 추돌하고 가드레일을 들이받는 교통사고가 발생했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이때 현장에 있던 임영웅은 발 벗고 나서 현장 정리를 도왔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅은 조수석의 여성이 정신을 잃은 남성 운전자를 깨우고 있는 것을 목격해 운전석을 눕힌 뒤 심폐소생술을 실시한 것으로 전해졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 119 최초 신고자 역시 임영웅인 것으로 드러났다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 대해 소속사 물고기 뮤직 측은 “보도가 사실”이라며 “일정 끝나고 돌아오는 중에 교통사고 현장을 목격하게 됐고, 임영웅이 나서서 교통사고 운전자를 도왔다”고 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “임영웅을 포함한 모두가 그 상황을 보고 놀랐다”며 “임영웅은 응급처치 중 다치거나 한 부분 없이 건강한 상태”라고 덧붙였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 임영웅은 지난 2020년 ‘미스터 트롯’에서 우승을 하며 신드롬에 가까운 인기를 구가하고 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 교통사고로 쓰러진 남성 심폐소생술로 살려",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

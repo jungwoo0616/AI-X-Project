@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265711",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘폭행 논란’ 윌 스미스, 아카데미 회원 사퇴 “책임지겠다”",
+		"newsSubTitle": "",
+		"newsContent": "제94회 미국 아카데미시상식서 폭행 사건으로 물의를 빚은 할리우드 배우 윌 스미스가 아카데미상을 주관하는 미국 영화예술과학아카데미(AMPAS) 회원직에서 사퇴했다.\n1일(현지시각) 현지 매체에 따르면 윌 스미스는 이날 성명을 내고 “아카데미 회원직에서 물러난다. 아카데미의 추가 처벌을 받아들이겠다”고 밝혔다.\n이어 “내 행동에 대한 모든 결과를 전적으로 받아들이겠다. 아카데미 시상식에서 보여준 내 행동은 충격적이고 고통스러웠으며 용서할 수 없었다”고 잘못을 인정했다.\n그는 “다른 후보자들과 수상자들이 축하하고 축하받을 기회를 내가 빼앗았다. 그들의 업적을 다시 조명해달라. 내 폭력성이 이성을 넘지 않도록 노력하겠다”고 강조했다.\n윌 스미스는 지난달 27일 진행된 아카데미 시상식에서 자신의 아내 제이다 핑킷 스미스의 삭발 스타일을 조롱한 코미디언 크리스 록의 뺨을 냅다 때렸다.\n그는 영화 ‘킹 리차드’로 남우주연상을 받으며 연기력을 인정받았지만, 폭행 논란으로 연일 도마 위에 오르고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제94회 미국 아카데미시상식서 폭행 사건으로 물의를 빚은 할리우드 배우 윌 스미스가 아카데미상을 주관하는 미국 영화예술과학아카데미(AMPAS) 회원직에서 사퇴했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일(현지시각) 현지 매체에 따르면 윌 스미스는 이날 성명을 내고 “아카데미 회원직에서 물러난다. 아카데미의 추가 처벌을 받아들이겠다”고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “내 행동에 대한 모든 결과를 전적으로 받아들이겠다. 아카데미 시상식에서 보여준 내 행동은 충격적이고 고통스러웠으며 용서할 수 없었다”고 잘못을 인정했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “다른 후보자들과 수상자들이 축하하고 축하받을 기회를 내가 빼앗았다. 그들의 업적을 다시 조명해달라. 내 폭력성이 이성을 넘지 않도록 노력하겠다”고 강조했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윌 스미스는 지난달 27일 진행된 아카데미 시상식에서 자신의 아내 제이다 핑킷 스미스의 삭발 스타일을 조롱한 코미디언 크리스 록의 뺨을 냅다 때렸다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 영화 ‘킹 리차드’로 남우주연상을 받으며 연기력을 인정받았지만, 폭행 논란으로 연일 도마 위에 오르고 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘폭행 논란’ 윌 스미스, 아카데미 회원 사퇴 “책임지겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

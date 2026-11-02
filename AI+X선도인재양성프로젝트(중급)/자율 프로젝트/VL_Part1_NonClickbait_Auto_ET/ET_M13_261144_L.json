@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261144",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신승훈 16일 부친상, 노환으로 별세",
+		"newsSubTitle": "",
+		"newsContent": "가수 신승훈이 부친상을 당했다.\n신승훈의 부친 신중철씨는 지난 16일 노환으로 별세한 것으로 전해졌다.\n향년 89세 나이다.\n유족으로는 배우자 김월현씨와 신승훈을 포함한 2남 3녀가 있다.\n신승훈은 이들 중 장남이다.\n고인의 빈소는 대전 충남대병원 장례식장 VIP실로 발인은 18일 오전 8시 30분이며 장지는 충북 진천군 이월면 선영이다.\n신승훈이 가수가 된 계기는 그의 부친이 만들어 준 것으로 전해졌다.\n신승훈이 중학교 시절 부친에게 선물로 기타를 선물 받았고, 이를 “나의 인생을 지켜줄 생명체라고 느꼈다”고 표현했다.\n이후 신승훈은 가수가 되기로 결심했다.\n1990년 11월 가요계에 데뷔한 신승훈은 숱한 히트곡을 내며 ‘발라드계의 황태자’라는 별칭을 얻었다.\n싱어송라이터로서도 두각을 나타내며 프로듀서 능력도 가요계에 펼쳐왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 신승훈이 부친상을 당했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신승훈의 부친 신중철씨는 지난 16일 노환으로 별세한 것으로 전해졌다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "향년 89세 나이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유족으로는 배우자 김월현씨와 신승훈을 포함한 2남 3녀가 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신승훈은 이들 중 장남이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고인의 빈소는 대전 충남대병원 장례식장 VIP실로 발인은 18일 오전 8시 30분이며 장지는 충북 진천군 이월면 선영이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신승훈이 가수가 된 계기는 그의 부친이 만들어 준 것으로 전해졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신승훈이 중학교 시절 부친에게 선물로 기타를 선물 받았고, 이를 “나의 인생을 지켜줄 생명체라고 느꼈다”고 표현했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 신승훈은 가수가 되기로 결심했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "1990년 11월 가요계에 데뷔한 신승훈은 숱한 히트곡을 내며 ‘발라드계의 황태자’라는 별칭을 얻었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "싱어송라이터로서도 두각을 나타내며 프로듀서 능력도 가요계에 펼쳐왔다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신승훈 16일 부친상, 노환으로 별세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

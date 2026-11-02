@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270492",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘식지않는다’ 방탄소년단 지민의 글로벌 인기",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 멤버 지민이 ‘위드유’(With You)로 글로벌 흥행을 이어가고 있다.\n방탄소년단 팬덤 아미에 따르면 지민이 하성운과 노래한 ‘위드유’는 ‘빌보드 글로벌 200’(미국제외)차트에서 181위에 안착하며 2주 연속 차트 진입에 성공했다. ‘위드유’는 발매 첫주 14위, 둘째주 71위를 기록했다.\n이는 한국 드라마 O.S.T 사상 가장 높은 순위이기도 하다. ‘위드유’의 이번 성적은 빌보드 차트 전반에 걸쳐 음원 중복 구매(다운로드)를 집계에서 제외하기로 규정이 변경된 것을 감안하면 괄목할 만한 성과라고 아미는 전했다.\n이밖에도 인도 음악 시장을 대표하는 첫 공식 차트 ‘IMI 인터내셔널 톱20 싱글 차트’에서 13위에 올라 인도에서의 인기도 굳건히 했다.\n또한 싱가포르, 네덜란드, 뉴질랜드, 헝가리, 독일 등 다수 국가의 음원 차트에서 차트를 이어가며 높은 인기를 이어가고 있다.\n아미는 “세계적 퍼포머이자, 아티스트로 인정받고 있는 지민은 ‘위드유’로 팬덤뿐만 아니라 대중까지 아우르는 명품 보컬리스트로서 역량을 전하고 있다”며 “팀과 한국을 대표하는 O.S.T 계의 신흥 강자로 떠오르며 명성을 빛내고 있다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 멤버 지민이 ‘위드유’(With You)로 글로벌 흥행을 이어가고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단 팬덤 아미에 따르면 지민이 하성운과 노래한 ‘위드유’는 ‘빌보드 글로벌 200’(미국제외)차트에서 181위에 안착하며 2주 연속 차트 진입에 성공했다. ‘위드유’는 발매 첫주 14위, 둘째주 71위를 기록했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 한국 드라마 O.S.T 사상 가장 높은 순위이기도 하다. ‘위드유’의 이번 성적은 빌보드 차트 전반에 걸쳐 음원 중복 구매(다운로드)를 집계에서 제외하기로 규정이 변경된 것을 감안하면 괄목할 만한 성과라고 아미는 전했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이밖에도 인도 음악 시장을 대표하는 첫 공식 차트 ‘IMI 인터내셔널 톱20 싱글 차트’에서 13위에 올라 인도에서의 인기도 굳건히 했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 싱가포르, 네덜란드, 뉴질랜드, 헝가리, 독일 등 다수 국가의 음원 차트에서 차트를 이어가며 높은 인기를 이어가고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아미는 “세계적 퍼포머이자, 아티스트로 인정받고 있는 지민은 ‘위드유’로 팬덤뿐만 아니라 대중까지 아우르는 명품 보컬리스트로서 역량을 전하고 있다”며 “팀과 한국을 대표하는 O.S.T 계의 신흥 강자로 떠오르며 명성을 빛내고 있다”고 설명했다.",
+				"sentenceSize": 136
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘식지않는다’ 방탄소년단 지민의 글로벌 인기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

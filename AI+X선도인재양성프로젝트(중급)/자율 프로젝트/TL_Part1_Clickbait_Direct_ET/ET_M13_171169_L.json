@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171169",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "장민호, 첫 단독 콘서트 티켓 오픈",
+    "newsSubTitle": "",
+    "newsContent": "가수 장민호가 첫 단독 콘서트로 팬들을 찾아간다.\n장민호의 첫 단독 콘서트 ‘드라마’ 티켓 예매가 16일 오전 11시부터 인터파크 티켓을 통해 진행된다.\n오는 10월 16일, 17일 서울 올림픽공원 올림픽홀에서 개최되는 ‘드라마’는 장민호가 지난 1997년 데뷔 후 24년 만에 처음으로 개최하는 단독 콘서트다.\n이번 공연은 서울에서 시작한 후 전국 각지에서 개최될 예정이다.\n이에 앞서 공개된 ‘드라마’ 포스터에서 장민호는 캐주얼한 스웨터부터 포멀한 슈트룩을 선보이며 다채로운 매력을 발산했다.\n또한 미소를 머금은 장민호의 훤칠한 비주얼은 팬들의 설렘을 증폭시켰다.\n특히 장민호는 전국 각지에 분포한 팬클럽 ‘민호특공대(이하 ’민트‘)’를 위한 다채로운 구성의 무대를 준비하고 있다는 후문이다.\n이에 장민호는 이번 공연을 통해 팬들에게 올가을 감성을 촉촉하게 적실 한 편의 ‘드라마’ 같은 무대를 선사할 전망이다.\n한편, 장민호의 첫 단독 콘서트 ‘드라마’는 10월 16일 오후 7시, 17일 오후 3시 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 장민호가 첫 단독 콘서트로 팬들을 찾아간다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장민호의 첫 단독 콘서트 ‘드라마’ 티켓 예매가 16일 오전 11시부터 인터파크 티켓을 통해 진행된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오는 10월 16일, 17일 서울 올림픽공원 올림픽홀에서 개최되는 ‘드라마’는 장민호가 지난 1997년 데뷔 후 24년 만에 처음으로 개최하는 단독 콘서트다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 공연은 서울에서 시작한 후 전국 각지에서 개최될 예정이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 앞서 공개된 ‘드라마’ 포스터에서 장민호는 캐주얼한 스웨터부터 포멀한 슈트룩을 선보이며 다채로운 매력을 발산했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 미소를 머금은 장민호의 훤칠한 비주얼은 팬들의 설렘을 증폭시켰다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 장민호는 전국 각지에 분포한 팬클럽 ‘민호특공대(이하 ’민트‘)’를 위한 다채로운 구성의 무대를 준비하고 있다는 후문이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 장민호는 이번 공연을 통해 팬들에게 올가을 감성을 촉촉하게 적실 한 편의 ‘드라마’ 같은 무대를 선사할 전망이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 장민호의 첫 단독 콘서트 ‘드라마’는 10월 16일 오후 7시, 17일 오후 3시 열린다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장민호가 1997년 데뷔 후 24년 만에 처음으로 시도하는 `이것`",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

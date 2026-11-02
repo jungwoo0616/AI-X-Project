@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270568",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "청하, 오늘 ‘아이돌 블라썸2’ 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "가수 청하가 블라블라 ‘아이돌 블라썸2’ 게스트로 나선다.\n청하는 18일 오후 9시 공개되는 ‘아이돌 블라썸2’ 게스트로 출격, 호스트 이성종과 신선한 케미스트리를 선보인다.\n청하는 EBS ‘청소년 소통프로젝트 경청’ 라디오 DJ로 2년간 함께한 PD와 의리를 지키기 위해 흔쾌히 게스트 출연을 결정했다는 후문이다. ‘아이돌 블라썸2’에 출연하는 청하는 다채로운 스페셜 코너를 통해 솔직하고 당당한 매력을 공개할 예정이다.\n특히 호스트 이성종과 처음으로 함께하는 ‘티키타카 토크’로 신선한 매력을 선보일 계획이다.\n청하는 K팝 대표 솔로 아티스트로, ‘롤러코스터(Roller Coaster)’, ‘벌써 12시’, ‘스냅핑(Snapping)’ 등 다양한 히트곡을 보유했다.\n올해는 ‘제19회 한국대중음악상’에서 앨범 ‘케렌시아(Querencia)’로 ‘최우수 K팝 음반상’을 수상하며 대중과 평단의 호평을 고루 받았다. ‘아이돌 블라썸’은 메타보이스 커뮤니티 플랫폼 블라블라의 오리지널 콘텐츠로, 매회 2000명 이상의 유저들이 참여하며 시즌2까지 인기를 이어가고 있다.\n특히 시즌2에서도 다양한 아이돌 아티스트가 출연, 다양한 앱 기능을 이용한 투표, 실시간 채팅, 보이스 연결을 통해 일반 라디오보다 더 친근한 방송으로 인기를 이어가고 있다. ‘아이돌 블라썸2’는 18일 오후 9시 블라블라 앱을 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 청하가 블라블라 ‘아이돌 블라썸2’ 게스트로 나선다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "청하는 18일 오후 9시 공개되는 ‘아이돌 블라썸2’ 게스트로 출격, 호스트 이성종과 신선한 케미스트리를 선보인다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "청하는 EBS ‘청소년 소통프로젝트 경청’ 라디오 DJ로 2년간 함께한 PD와 의리를 지키기 위해 흔쾌히 게스트 출연을 결정했다는 후문이다. ‘아이돌 블라썸2’에 출연하는 청하는 다채로운 스페셜 코너를 통해 솔직하고 당당한 매력을 공개할 예정이다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 호스트 이성종과 처음으로 함께하는 ‘티키타카 토크’로 신선한 매력을 선보일 계획이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "청하는 K팝 대표 솔로 아티스트로, ‘롤러코스터(Roller Coaster)’, ‘벌써 12시’, ‘스냅핑(Snapping)’ 등 다양한 히트곡을 보유했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해는 ‘제19회 한국대중음악상’에서 앨범 ‘케렌시아(Querencia)’로 ‘최우수 K팝 음반상’을 수상하며 대중과 평단의 호평을 고루 받았다. ‘아이돌 블라썸’은 메타보이스 커뮤니티 플랫폼 블라블라의 오리지널 콘텐츠로, 매회 2000명 이상의 유저들이 참여하며 시즌2까지 인기를 이어가고 있다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 시즌2에서도 다양한 아이돌 아티스트가 출연, 다양한 앱 기능을 이용한 투표, 실시간 채팅, 보이스 연결을 통해 일반 라디오보다 더 친근한 방송으로 인기를 이어가고 있다. ‘아이돌 블라썸2’는 18일 오후 9시 블라블라 앱을 통해 공개된다.",
+				"sentenceSize": 136
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청하, 오늘 ‘아이돌 블라썸2’ 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

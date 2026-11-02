@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276875",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이유가 가수 지망생 소녀에게 준 마이크의 '놀라운 가격'",
+		"newsSubTitle": "",
+		"newsContent": "아이유가 선물한 마이크의 놀라운 가격이 화제다.\n지난달 29일 유튜브 채널 '딩고 스튜디오'는 어려운 형편에도 가수의 꿈을 이어가는 소녀를 방문한 아이유의 이야기를 소개했다.\n당시 아이유는 소녀가 털어놓은 고민에 귀를 귀울이며 소녀를 알뜰살뜰 챙겼다.\n특히 경제적인 문제로 음악에만 집중할수 없어 힘겨워하던 소녀의 모습에서 과거 자신의 처지와 비슷함을 느꼈던 것. 소녀와 얘기를 나누던 아이유는 잠시 화장을 고치러 간다며 밖으로 나갔고, 이내 양손 가득 선물 꾸러미를 들고 소녀 앞에 나타났다.\n무엇을 좋아할지 몰라 다 가져왔다며 너스레를 떨던 아이유의 손에는 파스, 헤드폰, 마이크 등 소녀에게 꼭 필요한 선물을 한것. 이후 온라인 커뮤니티에서는 아이유가 선물한 마이크 가격이 새삼 화제가 됐다.\n네티즌 조사에 따르면 부담갖지 말고 받으라 했던 마이크의 가격이 무려 300만원을 훌쩍 넘는 고가의 제품이었던 것. 이에 네티즌은 \\\"아이유가 키다리 언니네\\\" \\\"고민한 흔적이 보인다\\\" \\\"인성과 마음씨 대단해\\\" 등 댓글을 달며 아낌없이 칭찬했다.\n한편 아이유는 소녀에게 정성스런 손편지와 선불카드를 선물하며 꿈을 향해 나아갈 수 있도록 돕는 등 대인배의 모습으로 감동을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이유가 선물한 마이크의 놀라운 가격이 화제다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 29일 유튜브 채널 '딩고 스튜디오'는 어려운 형편에도 가수의 꿈을 이어가는 소녀를 방문한 아이유의 이야기를 소개했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 아이유는 소녀가 털어놓은 고민에 귀를 귀울이며 소녀를 알뜰살뜰 챙겼다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 경제적인 문제로 음악에만 집중할수 없어 힘겨워하던 소녀의 모습에서 과거 자신의 처지와 비슷함을 느꼈던 것. 소녀와 얘기를 나누던 아이유는 잠시 화장을 고치러 간다며 밖으로 나갔고, 이내 양손 가득 선물 꾸러미를 들고 소녀 앞에 나타났다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무엇을 좋아할지 몰라 다 가져왔다며 너스레를 떨던 아이유의 손에는 파스, 헤드폰, 마이크 등 소녀에게 꼭 필요한 선물을 한것. 이후 온라인 커뮤니티에서는 아이유가 선물한 마이크 가격이 새삼 화제가 됐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌 조사에 따르면 부담갖지 말고 받으라 했던 마이크의 가격이 무려 300만원을 훌쩍 넘는 고가의 제품이었던 것. 이에 네티즌은 \\\"아이유가 키다리 언니네\\\" \\\"고민한 흔적이 보인다\\\" \\\"인성과 마음씨 대단해\\\" 등 댓글을 달며 아낌없이 칭찬했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 아이유는 소녀에게 정성스런 손편지와 선불카드를 선물하며 꿈을 향해 나아갈 수 있도록 돕는 등 대인배의 모습으로 감동을 전했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유가 가수 지망생 소녀에게 준 마이크의 '놀라운 가격'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

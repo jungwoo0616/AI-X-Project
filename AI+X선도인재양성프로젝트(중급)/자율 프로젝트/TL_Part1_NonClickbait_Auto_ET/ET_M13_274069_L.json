@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274069",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "프랭크 와일드혼, BTS 뷔에 러브콜 “지킬 역할로 탐나”",
+		"newsSubTitle": "",
+		"newsContent": "‘한국인이 가장 사랑하는 작곡가’ 프랭크 와일드혼이 한국을 찾았다.\n연합뉴스에 따르면 와일드혼은 최근 열린 기자간담회에서 박효신의 목소리를 ‘국보’라고 극찬했다.\n그는 “그를 위해 뮤지컬 ‘웃는 남자’에서 ‘모두의 세상’, ‘그 눈을 떠’, ‘웃는 남자’ 등 3개 넘버를 작곡했다”고 밝혔다.\n그는 또 “방탄소년단(BTS) 뷔가 콘서트 사전 음향체크를 하면서 ‘지금 이 순간’(지킬 앤 하이드 대표 넘버)을 부르더라”며 “내가 지킬 역할로 탐내고 있다”고 러브콜을 보내기도 했다.\n현재 ‘웃는남자’ ‘마타하리’ ‘데스노트’ 등 서울 주요 뮤지컬 극장에서 와일드혼의 작품 3개가 동시에 공연되고 있다. ‘지킬 앤 하이드’도 지방 투어 공연 중이다.\n다음 달 7일에는 서울 서초구 예술의전당 콘서트홀에서 뮤지컬 콘서트 ‘온리 러브’도 연다. 와일드혼은 “매일 밤 제 작품을 보는 (한국)관객 수가 7000∼8000명”이라며 “18년 동안 한국 관객과 제 음악 사이 아름답고 낭만적인 연애가 이뤄졌고, 감사할 따름”이라고 인사를 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘한국인이 가장 사랑하는 작곡가’ 프랭크 와일드혼이 한국을 찾았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스에 따르면 와일드혼은 최근 열린 기자간담회에서 박효신의 목소리를 ‘국보’라고 극찬했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “그를 위해 뮤지컬 ‘웃는 남자’에서 ‘모두의 세상’, ‘그 눈을 떠’, ‘웃는 남자’ 등 3개 넘버를 작곡했다”고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 또 “방탄소년단(BTS) 뷔가 콘서트 사전 음향체크를 하면서 ‘지금 이 순간’(지킬 앤 하이드 대표 넘버)을 부르더라”며 “내가 지킬 역할로 탐내고 있다”고 러브콜을 보내기도 했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 ‘웃는남자’ ‘마타하리’ ‘데스노트’ 등 서울 주요 뮤지컬 극장에서 와일드혼의 작품 3개가 동시에 공연되고 있다. ‘지킬 앤 하이드’도 지방 투어 공연 중이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다음 달 7일에는 서울 서초구 예술의전당 콘서트홀에서 뮤지컬 콘서트 ‘온리 러브’도 연다. 와일드혼은 “매일 밤 제 작품을 보는 (한국)관객 수가 7000∼8000명”이라며 “18년 동안 한국 관객과 제 음악 사이 아름답고 낭만적인 연애가 이뤄졌고, 감사할 따름”이라고 인사를 전했다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "프랭크 와일드혼, BTS 뷔에 러브콜 “지킬 역할로 탐나”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274929",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "뷰티 유튜버 김기수 “왜 이리 화가 났나…이 루저들아”",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 겸 뷰티 유튜버 김기수가 악성 댓글에 분노했다.\n김기수는 6일 인스타그램에 “악성 댓글 좀 멈춰주면 안 되나. 피드백도 아니고 얼굴 평가에 아주 난리들이 나셨다”라고 글을 올렸다.\n이어 “왜 이렇게 화가 난 건가? 제 영상에 관심 없었잖나. 당신들 예뻐지는 거 관심 없잖나. 그러곤 상대방이 안 예뻐해 주면 난리 피우잖나”라며 “갑자기 한 명이 얼굴 평가를 하니까 다 들어와서 왜 그러냐”라며 “이러면 제가 이긴 게 된다. 이 루저들아”라고 글을 마쳤다.\n팬들은 “다들 마음을 좀 이쁘게 썼으면 좋겠다”, “신경 쓸 필요 없는 댓글들이다”, “멋지다” 등의 반응을 보이며 김기수를 응원했다.\n김기수는 2001년 KBS 16기 공채 개그맨으로 데뷔했다.\n현재 뷰티 유튜버로 활동하고 있으며 구독자 11만 명을 달성했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 겸 뷰티 유튜버 김기수가 악성 댓글에 분노했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김기수는 6일 인스타그램에 “악성 댓글 좀 멈춰주면 안 되나. 피드백도 아니고 얼굴 평가에 아주 난리들이 나셨다”라고 글을 올렸다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “왜 이렇게 화가 난 건가? 제 영상에 관심 없었잖나. 당신들 예뻐지는 거 관심 없잖나. 그러곤 상대방이 안 예뻐해 주면 난리 피우잖나”라며 “갑자기 한 명이 얼굴 평가를 하니까 다 들어와서 왜 그러냐”라며 “이러면 제가 이긴 게 된다. 이 루저들아”라고 글을 마쳤다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들은 “다들 마음을 좀 이쁘게 썼으면 좋겠다”, “신경 쓸 필요 없는 댓글들이다”, “멋지다” 등의 반응을 보이며 김기수를 응원했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김기수는 2001년 KBS 16기 공채 개그맨으로 데뷔했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 뷰티 유튜버로 활동하고 있으며 구독자 11만 명을 달성했다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뷰티 유튜버 김기수 “왜 이리 화가 났나…이 루저들아”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

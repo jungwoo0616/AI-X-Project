@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259360",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "에이티즈 ‘2022 월드투어’에 美 롤링스톤도 반했다",
+		"newsSubTitle": "",
+		"newsContent": "에이티즈(ATEEZ)가 2022 월드투어로 미국 뉴어크 공연을 성료하며 눈에 띄는 성장으로 국내외 주목을 받고 있다.\n25일(현지시간) 미국 유력 음악 매체 롤링스톤(Rolling Stone)에는 ‘마침내 미국으로 돌아온 K팝 스타 에이티즈, 모든 것을 무대에 남겨두다’라는 제목의 기사가 게재됐다.\n미국의 문화 평론가 나탈리 모린(Natalie Morin)은 지난 24일(현지 시간) 개최된 에이티즈의 2022 월드투어 ‘더 펠로우십 : 비기닝 오브 디 엔드(THE FELLOWSHIP : BEGINNING OF THE END)’ 뉴어크 공연에 대해 “에이티즈는 무대에 올랐을 때 ‘여유’를 보여주었다. 이들은 증명할 것도 없이 훌륭하게 공연을 이끌어나갔다”라고 전하며 ‘여유’라는 단어를 한글로도 표기해 눈길을 끌었다.\n특히 나탈리는“이번 뉴어크 공연은 에이티즈의 커리어 중 가장 큰 무대였다.\n에이티즈는 공연 시작과 동시에 높은 에너지를 자랑했고, ‘두려움 없이 앞서 나가고 있다’라는 메시지를 분명하게 전했다’”라는 극찬으로 공연을 묘사했다. 뿐만 아니라 K팝 전문 칼럼니스트 제프 벤자민(Jeff Benjamin) 또한 공연 관람 직후 자신의 SNS를 통해 “종호의 라이브는 실제로 봐야 믿을 수 있다.\n그의 성량은 믿을 수 없을 정도이다”라며 퍼포먼스뿐만 아니라 라이브를 통한 이들의 관객 흡입력에 대해서도 감탄했다.\n한편, 에이티즈는 오는 27일(현지시간) 미국 댈러스에서 이들의 여정을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에이티즈(ATEEZ)가 2022 월드투어로 미국 뉴어크 공연을 성료하며 눈에 띄는 성장으로 국내외 주목을 받고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일(현지시간) 미국 유력 음악 매체 롤링스톤(Rolling Stone)에는 ‘마침내 미국으로 돌아온 K팝 스타 에이티즈, 모든 것을 무대에 남겨두다’라는 제목의 기사가 게재됐다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국의 문화 평론가 나탈리 모린(Natalie Morin)은 지난 24일(현지 시간) 개최된 에이티즈의 2022 월드투어 ‘더 펠로우십 : 비기닝 오브 디 엔드(THE FELLOWSHIP : BEGINNING OF THE END)’ 뉴어크 공연에 대해 “에이티즈는 무대에 올랐을 때 ‘여유’를 보여주었다. 이들은 증명할 것도 없이 훌륭하게 공연을 이끌어나갔다”라고 전하며 ‘여유’라는 단어를 한글로도 표기해 눈길을 끌었다.",
+				"sentenceSize": 236
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 나탈리는“이번 뉴어크 공연은 에이티즈의 커리어 중 가장 큰 무대였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "에이티즈는 공연 시작과 동시에 높은 에너지를 자랑했고, ‘두려움 없이 앞서 나가고 있다’라는 메시지를 분명하게 전했다’”라는 극찬으로 공연을 묘사했다. 뿐만 아니라 K팝 전문 칼럼니스트 제프 벤자민(Jeff Benjamin) 또한 공연 관람 직후 자신의 SNS를 통해 “종호의 라이브는 실제로 봐야 믿을 수 있다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그의 성량은 믿을 수 없을 정도이다”라며 퍼포먼스뿐만 아니라 라이브를 통한 이들의 관객 흡입력에 대해서도 감탄했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 에이티즈는 오는 27일(현지시간) 미국 댈러스에서 이들의 여정을 이어간다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이티즈 ‘2022 월드투어’에 美 롤링스톤도 반했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

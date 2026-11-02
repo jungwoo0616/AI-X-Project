@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265822",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "권은비, 오늘(4일) 두 번째 미니 앨범 ‘Color’ 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 권은비가 7개월 만의 새 앨범으로 컴백한다.\n권은비는 4일 오후 6시 각종 음원 사이트를 통해 두 번째 미니 앨범 ‘컬러(Color)’를 발매하고 글로벌 팬들 곁에 돌아온다. ‘컬러’에는 타이틀곡 ‘글리치(Glitch)’를 비롯해 ‘더 컬러스 오브 라이트(The Colors of Light)’, ‘마그네틱(Magnetic)’, ‘컬러스(Colors)’, ‘우리의 속도’, ‘오프(OFF)’까지 다채로운 장르의 총 6곡이 실렸다.\n권은비의 다채로운 음악 ‘컬러’를 담았다.\n타이틀곡 ‘글리치’는 촘하게 짜여진 그리드 라인을 벗어나 시스템이라는 ‘정답’에 의문점을 던지는 UK-개러지(UK-Garage) 장르로, 뉴타입이엔티의 프로듀서 탁(TAK)과 코빈(Corbin)의 협업을 통해 ‘나만의 동화 속 주인공’이라는 모토를 담아내며 아티스트 권은비의 내면과 음악적 세계관을 완성했다.\n특히 권은비는 삶의 고단함과 상처로 인한 수많은 생각으로 불면의 밤을 보내는 나에게 나 자신이 직접 건네는 위로의 메시지를 담은 수록곡 ‘오프’에 작곡에 참여하며 자신의 음악적 역량을 드러냈다.\n권은비만의 색깔을 담은 두 번째 미니 앨범 ‘컬러’는 4일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 권은비가 7개월 만의 새 앨범으로 컴백한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "권은비는 4일 오후 6시 각종 음원 사이트를 통해 두 번째 미니 앨범 ‘컬러(Color)’를 발매하고 글로벌 팬들 곁에 돌아온다. ‘컬러’에는 타이틀곡 ‘글리치(Glitch)’를 비롯해 ‘더 컬러스 오브 라이트(The Colors of Light)’, ‘마그네틱(Magnetic)’, ‘컬러스(Colors)’, ‘우리의 속도’, ‘오프(OFF)’까지 다채로운 장르의 총 6곡이 실렸다.",
+				"sentenceSize": 215
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권은비의 다채로운 음악 ‘컬러’를 담았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타이틀곡 ‘글리치’는 촘하게 짜여진 그리드 라인을 벗어나 시스템이라는 ‘정답’에 의문점을 던지는 UK-개러지(UK-Garage) 장르로, 뉴타입이엔티의 프로듀서 탁(TAK)과 코빈(Corbin)의 협업을 통해 ‘나만의 동화 속 주인공’이라는 모토를 담아내며 아티스트 권은비의 내면과 음악적 세계관을 완성했다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 권은비는 삶의 고단함과 상처로 인한 수많은 생각으로 불면의 밤을 보내는 나에게 나 자신이 직접 건네는 위로의 메시지를 담은 수록곡 ‘오프’에 작곡에 참여하며 자신의 음악적 역량을 드러냈다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "권은비만의 색깔을 담은 두 번째 미니 앨범 ‘컬러’는 4일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "권은비, 오늘(4일) 두 번째 미니 앨범 ‘Color’ 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282819",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아만다 사이프리드, 에릭남과 셀카 '무슨 사이?'",
+		"newsSubTitle": "",
+		"newsContent": "아만다 사이프리드가 주목받는 가운데, 그의 과거 사진이 다시금 화제다.\n지난해 에릭남의 미투데이에는 \\\"아만다와 재미있는 인터뷰. 일요일 MBC '섹션 TV 연예통신'에서\\\"라는 글과 함께 한 장의 사진을 공개했다.\n공개된 사진에서 에릭남과 아만다 사이프리드는 환하게 미소를 띠며 카메라를 응시하고 있다.\n특히 아만다 사이프리드의 동그랗고 또렷한 눈매가 돋보인다.\n아만다 사이프리드의 사진을 본 네티즌들은 \\\"아만다 사이프리드, 여신\\\" \\\"아만다 사이프리드, 에릭남과 잘 어울리네\\\" 등과 같은 반응을 보였다.\n온라인 중앙일보 아만다 사이프리드,",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아만다 사이프리드가 주목받는 가운데, 그의 과거 사진이 다시금 화제다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 에릭남의 미투데이에는 \\\"아만다와 재미있는 인터뷰. 일요일 MBC '섹션 TV 연예통신'에서\\\"라는 글과 함께 한 장의 사진을 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 에릭남과 아만다 사이프리드는 환하게 미소를 띠며 카메라를 응시하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 아만다 사이프리드의 동그랗고 또렷한 눈매가 돋보인다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아만다 사이프리드의 사진을 본 네티즌들은 \\\"아만다 사이프리드, 여신\\\" \\\"아만다 사이프리드, 에릭남과 잘 어울리네\\\" 등과 같은 반응을 보였다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 아만다 사이프리드,",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아만다 사이프리드, 에릭남과 셀카 '무슨 사이?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

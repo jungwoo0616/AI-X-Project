@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269125",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘소유·비비지·이무진까지’…빅플래닛, 6월 콘서트 개최",
+		"newsSubTitle": "",
+		"newsContent": "가요엔터테인먼트사 빅플래닛메이드가 역대급 라인업을 갖춘 페스티벌을 개최한다.\n빅플래닛메이드는 지난 3일 오후 공식 SNS를 통해 ‘2022 B.N.F Festival’ 개최 소식을 알리는 포스터를 공개했다. ‘B.N.F Festival’은 ‘2022 빅 플래닛 메이드 & 프렌즈 페스티벌(Big planet made & Friends Festival)’로, 빅플래닛메이드엔터에서 선보이는 색다른 야외 콘서트다.\n오는 6월 4일과 5일 양일간 서울 올림픽공원 내 88호수 수변무대에서 펼쳐지는 ‘2022 B.N.F Festival’은 소유, 은하·신비·엄지(VIVIZ), 허각, 하성운, 이무진, 비오가 출연한다.\n또한 최근 빅플래닛메이드와 전속계약을 체결한 마이티마우스까지 실력과 개성을 모두 갖춘 아티스트들이 한 무대에 올라 특별한 공연을 선보인다.\n지난해 정식 론칭한 빅플래닛메이드는 스윙엔터테인먼트와 MOU를 체결하고 탄탄한 제작 시스템을 구축하며 K팝을 대표하는 아티스트들을 대거 영입하고 있다.\n유명 아티스트들을 한 자리에서 만나볼 수 있는 역대급 라인업과 함께 차별화된 공연이 펼쳐질 ‘2022 B.N.F Festival’에 대한 기대가 높아지고 있다.\n한편 ‘2022 B.N.F Festival’ 티켓은 오는 9일 오후 8시부터 예스24 티켓을 통해 오픈된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가요엔터테인먼트사 빅플래닛메이드가 역대급 라인업을 갖춘 페스티벌을 개최한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅플래닛메이드는 지난 3일 오후 공식 SNS를 통해 ‘2022 B.N.F Festival’ 개최 소식을 알리는 포스터를 공개했다. ‘B.N.F Festival’은 ‘2022 빅 플래닛 메이드 & 프렌즈 페스티벌(Big planet made & Friends Festival)’로, 빅플래닛메이드엔터에서 선보이는 색다른 야외 콘서트다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오는 6월 4일과 5일 양일간 서울 올림픽공원 내 88호수 수변무대에서 펼쳐지는 ‘2022 B.N.F Festival’은 소유, 은하·신비·엄지(VIVIZ), 허각, 하성운, 이무진, 비오가 출연한다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 최근 빅플래닛메이드와 전속계약을 체결한 마이티마우스까지 실력과 개성을 모두 갖춘 아티스트들이 한 무대에 올라 특별한 공연을 선보인다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 정식 론칭한 빅플래닛메이드는 스윙엔터테인먼트와 MOU를 체결하고 탄탄한 제작 시스템을 구축하며 K팝을 대표하는 아티스트들을 대거 영입하고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유명 아티스트들을 한 자리에서 만나볼 수 있는 역대급 라인업과 함께 차별화된 공연이 펼쳐질 ‘2022 B.N.F Festival’에 대한 기대가 높아지고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘2022 B.N.F Festival’ 티켓은 오는 9일 오후 8시부터 예스24 티켓을 통해 오픈된다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘소유·비비지·이무진까지’…빅플래닛, 6월 콘서트 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259427",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "크래비티, 2월 22일 새 앨범 컴백",
+		"newsSubTitle": "",
+		"newsContent": "그룹 크래비티(CRAVITY)가 약 6개월 만에 새 신보로 돌아온다.\n크래비티는 지난 26일 오후 공식 SNS 채널을 통해 정규앨범 파트 2 ‘LIBERTY: IN OUR COSMOS(리버티: 인 아워 코스모스)’의 커밍순 이미지를 공개했다.\n크래비티는 2021년 8월 데뷔 1년 4개월 만에 첫 정규앨범 파트 1 ‘THE AWAKENING: Written in the stars(디 어웨이크닝: 리튼 인 더 스타즈)’를 발매하며 새로운 세계관의 시작을 알렸다.\n특히 크래비티는 해당 앨범으로 초동 판매량 자체 최고 신기록을 달성했으며, 다수 국가의 아이튠즈 차트 톱10에 진입하는 호성적까지 거둔 바 있다.\n또한 ‘퍼포비티(퍼포먼스+크래비티)’라는 수식어를 증명하듯 한층 파워풀해진 퍼포먼스와 폭넓은 음악적 역량을 보여준 크래비티는 미국 경제 전문지 포브스(Forbes)와 매거진 팝랩(PopWrapped), MTV 등 각종 해외 매체의 집중 조명을 독차지하며 ‘4세대 K팝 루키’다운 행보를 펼치기도 했다.\n6개월 만의 컴백으로 2022년 활동의 포문을 연 크래비티는 공식 SNS 채널을 통해 순차적으로 ‘LIBERTY: IN OUR COSMOS’의 콘텐츠를 오픈할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 크래비티(CRAVITY)가 약 6개월 만에 새 신보로 돌아온다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크래비티는 지난 26일 오후 공식 SNS 채널을 통해 정규앨범 파트 2 ‘LIBERTY: IN OUR COSMOS(리버티: 인 아워 코스모스)’의 커밍순 이미지를 공개했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "크래비티는 2021년 8월 데뷔 1년 4개월 만에 첫 정규앨범 파트 1 ‘THE AWAKENING: Written in the stars(디 어웨이크닝: 리튼 인 더 스타즈)’를 발매하며 새로운 세계관의 시작을 알렸다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 크래비티는 해당 앨범으로 초동 판매량 자체 최고 신기록을 달성했으며, 다수 국가의 아이튠즈 차트 톱10에 진입하는 호성적까지 거둔 바 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 ‘퍼포비티(퍼포먼스+크래비티)’라는 수식어를 증명하듯 한층 파워풀해진 퍼포먼스와 폭넓은 음악적 역량을 보여준 크래비티는 미국 경제 전문지 포브스(Forbes)와 매거진 팝랩(PopWrapped), MTV 등 각종 해외 매체의 집중 조명을 독차지하며 ‘4세대 K팝 루키’다운 행보를 펼치기도 했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "6개월 만의 컴백으로 2022년 활동의 포문을 연 크래비티는 공식 SNS 채널을 통해 순차적으로 ‘LIBERTY: IN OUR COSMOS’의 콘텐츠를 오픈할 계획이다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "크래비티, 2월 22일 새 앨범 컴백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

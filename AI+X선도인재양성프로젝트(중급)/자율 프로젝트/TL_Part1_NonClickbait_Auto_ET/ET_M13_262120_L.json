@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262120",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘사내맞선’ 김민규 “설인아 아기 같아, 계속 보살펴주고파”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김민규가 설인아에 대한 애정을 표현했다.\n김민규는 25일 오후 온라인생중계된 SBS ‘사내맞선’ 제작발표회에서 “설인아는 아기 같다. 계속 보살펴주고 보듬어줘야 한다”고 밝혔다.\n그는 “그게 계속 되다 보니까 가만히 있어도 신경이 쓰이더라. 얘가 밥은 먹었나, 아프진 않나 싶었다”고 말했다.\n이어 “설인아는 순수하고 맑은 아이”라며 “지치고 피곤할 때 설인아 덕분에 힘이 나더라”고 덧붙였다.\n설인아는 “파트너가 생기면 말을 엄청 많이 건다. 일할 때 말고도 대기할 때나 호흡 맞출 때 친해지려고 장난을 많이 쳤다”며 “노래를 부르며 김민규 주변을 뒹굴뒹굴 돌아다녔다”고 당시를 회상했다.\n이어 “김민규가 착해서 다 받아주더라. ‘오구오구’ 해주는데 친오빠인 줄 알았다”며 “‘댕댕이’ 같은 날 잘 돌봐주는 사랑스러운 파트너”라고 화답했다. ‘사내맞선’은 얼굴 천재 능력남 CEO 강태무(안효섭)와 정체를 속인 맞선녀 직원 신하리(김세정)의 오피스 로맨스다.\n오는 28일 오후10시에 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김민규가 설인아에 대한 애정을 표현했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김민규는 25일 오후 온라인생중계된 SBS ‘사내맞선’ 제작발표회에서 “설인아는 아기 같다. 계속 보살펴주고 보듬어줘야 한다”고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “그게 계속 되다 보니까 가만히 있어도 신경이 쓰이더라. 얘가 밥은 먹었나, 아프진 않나 싶었다”고 말했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “설인아는 순수하고 맑은 아이”라며 “지치고 피곤할 때 설인아 덕분에 힘이 나더라”고 덧붙였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설인아는 “파트너가 생기면 말을 엄청 많이 건다. 일할 때 말고도 대기할 때나 호흡 맞출 때 친해지려고 장난을 많이 쳤다”며 “노래를 부르며 김민규 주변을 뒹굴뒹굴 돌아다녔다”고 당시를 회상했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “김민규가 착해서 다 받아주더라. ‘오구오구’ 해주는데 친오빠인 줄 알았다”며 “‘댕댕이’ 같은 날 잘 돌봐주는 사랑스러운 파트너”라고 화답했다. ‘사내맞선’은 얼굴 천재 능력남 CEO 강태무(안효섭)와 정체를 속인 맞선녀 직원 신하리(김세정)의 오피스 로맨스다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오는 28일 오후10시에 첫 방송된다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘사내맞선’ 김민규 “설인아 아기 같아, 계속 보살펴주고파”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

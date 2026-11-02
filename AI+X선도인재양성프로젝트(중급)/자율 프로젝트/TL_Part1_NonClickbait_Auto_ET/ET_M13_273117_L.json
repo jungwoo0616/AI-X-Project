@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273117",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유명 아이돌 A씨, 유흥업소 목격담 일파만파",
+		"newsSubTitle": "",
+		"newsContent": "유명 아이돌 A씨가 유흥업소에 자주 출입한다는 추문에 휩싸였다.\n최근 유튜브와 온라인 커뮤니티 등에서는 유명 아이돌 A씨가 유흥업소에 자주 드나든다는 소문이 확산되고 있다.\n소문의 시발점은 인증을 해야 가입할 수 있는 한 온라인 커뮤니티에 작성된 목격담들로, 글 작성자는 “A씨를 내가 일하는 유흥업소에서 목격했다. 눈이 엄청 높다”고 주장했다.\n해당 글에는 A씨가 다른 업소에도 방문했다며 목격담이 이어졌다.\n댓글 중에는 A씨의 가까운 지인 B씨 역시 유흥업소에서 유명하다는 주장 역시 제기되었다.\n해당 글이 온라인 커뮤니티 상에서 확산되자, 누리꾼들은 A씨가 누구인지에 대한 추측을 내놓고 있다.\n일각에서는 A씨의 실명도 거론되며 논란이 일파만파로 번지고 있는 상황이다.\n이에 소식을 접한 누리꾼들은 “익명 글을 팩트라고 믿는 것이 이상하다” “해당 글을 확산시킨 유튜브 채널을 믿지 말라. 이전에도 거짓 주장을 한 적이 있다” “소속사들이 단체로 고소했으면 좋겠다”라고 우려의 목소리를 높이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유명 아이돌 A씨가 유흥업소에 자주 출입한다는 추문에 휩싸였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 유튜브와 온라인 커뮤니티 등에서는 유명 아이돌 A씨가 유흥업소에 자주 드나든다는 소문이 확산되고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소문의 시발점은 인증을 해야 가입할 수 있는 한 온라인 커뮤니티에 작성된 목격담들로, 글 작성자는 “A씨를 내가 일하는 유흥업소에서 목격했다. 눈이 엄청 높다”고 주장했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 글에는 A씨가 다른 업소에도 방문했다며 목격담이 이어졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "댓글 중에는 A씨의 가까운 지인 B씨 역시 유흥업소에서 유명하다는 주장 역시 제기되었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 글이 온라인 커뮤니티 상에서 확산되자, 누리꾼들은 A씨가 누구인지에 대한 추측을 내놓고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일각에서는 A씨의 실명도 거론되며 논란이 일파만파로 번지고 있는 상황이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 소식을 접한 누리꾼들은 “익명 글을 팩트라고 믿는 것이 이상하다” “해당 글을 확산시킨 유튜브 채널을 믿지 말라. 이전에도 거짓 주장을 한 적이 있다” “소속사들이 단체로 고소했으면 좋겠다”라고 우려의 목소리를 높이고 있다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유명 아이돌 A씨, 유흥업소 목격담 일파만파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

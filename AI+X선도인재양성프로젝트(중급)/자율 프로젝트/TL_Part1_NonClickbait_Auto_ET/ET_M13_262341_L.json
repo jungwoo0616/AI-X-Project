@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262341",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박해수, 정호연-이정재와 SAG 현장 인증샷 공개",
+		"newsSubTitle": "",
+		"newsContent": "배우 박해수가 SAG 시상식 현장을 공개했다.\n박해수는 28일 자신의 인스타그램에 “Congratulations to @from_jjlee and @hoooooyeony!”라는 글과 함께 이정재, 정호연과 함께 한 사진을 게재했다.\n공개된 사진에서 박해수는 이정재, 정호연과 함께 나란히 서 환한 웃음을 지었다.\n특히 이정재와 정호연이 받은 상을 박해수가 들며 미소를 지어 서로에 대한 배려와 훈훈한 마음을 볼 수 있었다.\n박해수는 27일(현지시간) 넷플릭스 오리지널 드라마 ‘오징어 게임’으로 미국 로스앤젤레스에서 열린 SAG 시상식에 참가했다. ‘오징어게임’은 TV드라마 부문 앙상블상·스턴트 앙상블상을 포함해 남녀연기상 등 4개 부문 후보에 올랐고 이중 3개의 트로피를 휩쓸었다.\n특히 이정재와 정호연은 각각 남우주연상, 여우주연상을 수상했다. ‘오징어 게임’은 456억 원의 상금을 놓고 목숨을 건 게임을 벌이는 참가자들의 이야기를 그린 작품 지난해 9월 넷플릭스에서 공개된 후 전 세계적으로 선풍적인 인기를 끌며 신드롬을 일으킨 작품이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박해수가 SAG 시상식 현장을 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박해수는 28일 자신의 인스타그램에 “Congratulations to @from_jjlee and @hoooooyeony!”라는 글과 함께 이정재, 정호연과 함께 한 사진을 게재했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 박해수는 이정재, 정호연과 함께 나란히 서 환한 웃음을 지었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이정재와 정호연이 받은 상을 박해수가 들며 미소를 지어 서로에 대한 배려와 훈훈한 마음을 볼 수 있었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박해수는 27일(현지시간) 넷플릭스 오리지널 드라마 ‘오징어 게임’으로 미국 로스앤젤레스에서 열린 SAG 시상식에 참가했다. ‘오징어게임’은 TV드라마 부문 앙상블상·스턴트 앙상블상을 포함해 남녀연기상 등 4개 부문 후보에 올랐고 이중 3개의 트로피를 휩쓸었다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 이정재와 정호연은 각각 남우주연상, 여우주연상을 수상했다. ‘오징어 게임’은 456억 원의 상금을 놓고 목숨을 건 게임을 벌이는 참가자들의 이야기를 그린 작품 지난해 9월 넷플릭스에서 공개된 후 전 세계적으로 선풍적인 인기를 끌며 신드롬을 일으킨 작품이다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박해수, 정호연-이정재와 SAG 현장 인증샷 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

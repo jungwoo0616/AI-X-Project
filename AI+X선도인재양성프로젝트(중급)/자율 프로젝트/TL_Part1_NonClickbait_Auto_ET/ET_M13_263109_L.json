@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263109",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "위너, 서울 콘서트 오프라인 관람권 일반 예매 시작",
+		"newsSubTitle": "",
+		"newsContent": "그룹 위너의 서울 콘서트 오프라인 관람권 일반 예매가 오늘 (7일) 오후 8시부터 옥션 티켓에서 시작된다.\n위너는 오는 4월 30일과 5월 1일 서울 방이동 올림픽공원 올림픽홀에서 ‘WINNER 2022 CONCERT’를 공연한다.\n완전체 위너가 약 2년 만에 전 세계 팬들과 호흡하는 자리기에 팬들의 큰 관심이 쏠리고 있다.\nYG 측은 “완전체 콘서트 개최까지 팬들에게 매 순간 설렘을 안겨주고 싶다는 위너의 의지가 강하다”며 “최고의 무대를 위해 심혈을 기울이고 있다. 다채로운 모습으로 팬분들을 찾아갈 위너를 기대해 달라”라고 전했다. ‘WINNER 2022 CONCERT’ 첫날은 오프라인만, 둘째날은 온·오프라인 동시 진행된다.\n생중계 외 딜레이 스트리밍, 온라인 리허설 관람 등 여러 옵션이 포함된 온라인 관람권은 3월 8일 오후 2시부터 위버스샵에서 누구나 구매가 가능하다.\n위너는 이날 영상을 통해 “팬 여러분들과 정말 오랜만에 완전체로 콘서트에서 뛰놀 생각을 하니까 벌써 떨린다”며 “항상 저희 곁에서 함께 해주시는 분들을 위해서 열심히 준비하고 있으니 즐겨주시면 좋겠다”고 전했다.\n한편 ‘WINNER 2022 CONCERT’ 오프라인 관람은 방역 지침을 철저히 지켜 운영되며, 코로나19 확산 추이에 따른 변동 가능성도 있다.\n그밖의 예매 관련 상세 내용은 추후 YG 공식 홈페이지를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 위너의 서울 콘서트 오프라인 관람권 일반 예매가 오늘 (7일) 오후 8시부터 옥션 티켓에서 시작된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "위너는 오는 4월 30일과 5월 1일 서울 방이동 올림픽공원 올림픽홀에서 ‘WINNER 2022 CONCERT’를 공연한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "완전체 위너가 약 2년 만에 전 세계 팬들과 호흡하는 자리기에 팬들의 큰 관심이 쏠리고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "YG 측은 “완전체 콘서트 개최까지 팬들에게 매 순간 설렘을 안겨주고 싶다는 위너의 의지가 강하다”며 “최고의 무대를 위해 심혈을 기울이고 있다. 다채로운 모습으로 팬분들을 찾아갈 위너를 기대해 달라”라고 전했다. ‘WINNER 2022 CONCERT’ 첫날은 오프라인만, 둘째날은 온·오프라인 동시 진행된다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "생중계 외 딜레이 스트리밍, 온라인 리허설 관람 등 여러 옵션이 포함된 온라인 관람권은 3월 8일 오후 2시부터 위버스샵에서 누구나 구매가 가능하다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "위너는 이날 영상을 통해 “팬 여러분들과 정말 오랜만에 완전체로 콘서트에서 뛰놀 생각을 하니까 벌써 떨린다”며 “항상 저희 곁에서 함께 해주시는 분들을 위해서 열심히 준비하고 있으니 즐겨주시면 좋겠다”고 전했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘WINNER 2022 CONCERT’ 오프라인 관람은 방역 지침을 철저히 지켜 운영되며, 코로나19 확산 추이에 따른 변동 가능성도 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그밖의 예매 관련 상세 내용은 추후 YG 공식 홈페이지를 통해 확인할 수 있다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위너, 서울 콘서트 오프라인 관람권 일반 예매 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

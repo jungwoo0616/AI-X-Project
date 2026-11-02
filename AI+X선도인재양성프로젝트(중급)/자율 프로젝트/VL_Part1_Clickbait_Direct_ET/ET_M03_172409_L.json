@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172409",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'8만 팔로워' 주상욱이 유일하게 팔로우하는 사람",
+    "newsSubTitle": "",
+    "newsContent": "주상욱이 연인 차예련에 대한 애정을 드러냈다.\n배우 주상욱이 8만명이 넘는 인스타그램 팔로워 수를 기록하며 인기를 새삼 드러냈다.\n그런 가운데 주상욱이 유일하게 팔로우하는 사람이 눈길을 끌고 있다.\n8만명 팔로워를 가진 주상욱이 유일하게 팔로우하는 사람은 연인 차예련이다.\n이런 사실이 알려지자 네티즌들은 \\\"여자들이 원하는 남자친구의 모습\\\" \\\"내 여자만 바라보는 주상욱\\\"이라며 호평하고 있다.\n차예련 역시 자신의 SNS에 주상욱과의 사진을 올리면서 애정을 과시했다.\n주상욱과 차예련은 앞서 MBC 드라마 '화려한 유혹' 촬영 중 연인 사이로 발전했다.\n둘은 지난해 3월 공식적으로 열애를 인정했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주상욱이 연인 차예련에 대한 애정을 드러냈다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우 주상욱이 8만명이 넘는 인스타그램 팔로워 수를 기록하며 인기를 새삼 드러냈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런 가운데 주상욱이 유일하게 팔로우하는 사람이 눈길을 끌고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "8만명 팔로워를 가진 주상욱이 유일하게 팔로우하는 사람은 연인 차예련이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이런 사실이 알려지자 네티즌들은 \\\"여자들이 원하는 남자친구의 모습\\\" \\\"내 여자만 바라보는 주상욱\\\"이라며 호평하고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "차예련 역시 자신의 SNS에 주상욱과의 사진을 올리면서 애정을 과시했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주상욱과 차예련은 앞서 MBC 드라마 '화려한 유혹' 촬영 중 연인 사이로 발전했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "둘은 지난해 3월 공식적으로 열애를 인정했다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 주상욱이 유일하게 팔로우하는 '이 사람'은 누구인가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

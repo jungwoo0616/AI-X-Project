@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277600",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"까만 ×끼 한국와서 뭐하냐\\\" 샘오취리, 차별 당했던 사연 공개",
+		"newsSubTitle": "",
+		"newsContent": "방송인 샘 오취리가 JTBC '말하는대로'에 출연해 한국에서 인종 차별을 겪었던 사연을 공개했다.\n샘 오취리는 대학생 때 지하철에서 인종차별을 경험했다고 고백했다.\n그는 \\\"빈자리에 앉으려니까 어떤 아주머니가 그 자리에 앉으면서 '까만 새끼가 한국 와서 뭐하냐. 본인 나라로 돌아가라'는 식으로 대놓고 차별했다\\\"고 말했다.\n이외에도 \\\"아프리카 사람이라고 했을 때 '집에서 사자를 키우냐'는 질문을 많이 받는다\\\"며 \\\"하도 많이 듣다 보니 '아빠가 사자 두 마리를 키운다'고 대답한다\\\"고 말했다.\n이어 그는 \\\"가끔 한국사람들이 '흑형'이라고 부르는데, 피부색이랑 상관없이 오취리 형, 오취리 동생이라고 불러줬으면 좋겠다\\\"고 말했다.\n샘 오취리의 사연은 4일 오후 9시 30분 JTBC ‘말하는대로’에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 샘 오취리가 JTBC '말하는대로'에 출연해 한국에서 인종 차별을 겪었던 사연을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "샘 오취리는 대학생 때 지하철에서 인종차별을 경험했다고 고백했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"빈자리에 앉으려니까 어떤 아주머니가 그 자리에 앉으면서 '까만 새끼가 한국 와서 뭐하냐. 본인 나라로 돌아가라'는 식으로 대놓고 차별했다\\\"고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이외에도 \\\"아프리카 사람이라고 했을 때 '집에서 사자를 키우냐'는 질문을 많이 받는다\\\"며 \\\"하도 많이 듣다 보니 '아빠가 사자 두 마리를 키운다'고 대답한다\\\"고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 그는 \\\"가끔 한국사람들이 '흑형'이라고 부르는데, 피부색이랑 상관없이 오취리 형, 오취리 동생이라고 불러줬으면 좋겠다\\\"고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "샘 오취리의 사연은 4일 오후 9시 30분 JTBC ‘말하는대로’에서 방송된다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"까만 ×끼 한국와서 뭐하냐\\\" 샘오취리, 차별 당했던 사연 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263307",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "권은비 ‘ESPER’, 영상미+영화 같은 스토리 예고",
+		"newsSubTitle": "",
+		"newsContent": "권은비의 신곡 티저 영상이 공개됐다.\n글로벌 팬덤 플랫폼 유니버스(UNIVERSE)는 9일 앱과 공식 SNS 채널을 통해 권은비의 신곡 ‘ESPER(에스퍼)’ 뮤직비디오 티저 영상을 공개했다.\n공개된 티저 영상 속 권은비는 붉은 쪽지에 적힌 비밀 미션을 수행하는 킬러 같은 모습으로 그려졌다.\n진한 레드 립에 슈트 차림으로 당당하면서도 도발적인 아우라를 뿜어내 시선을 집중시켰다.\n권은비는 화이트 드레스에 블랙 가면을 쓰고 화려한 연회장에서 날카로운 눈빛을 드러내 묘한 긴장감을 유발했다.\n특히, 드레스 안에 숨겨둔 레그 홀스터에서 권총을 꺼내 향후 공개될 뮤직비디오 스토리에 대한 궁금증을 높였다.\n유니버스 뮤직은 ‘ESPER’를 통해 권은비의 다채로운 매력을 극대화해 음악적 새로운 도전을 예고하고 있다. ‘ESPER’ 발매를 하루 앞둔 가운데 유니버스와 권은비가 선보일 시너지에 글로벌 팬들의 뜨거운 관심이 이어지고 있다.\n한편, 유니버스 뮤직 신곡 권은비의 ‘ESPER’는 오는 10일 오후 6시 전 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "권은비의 신곡 티저 영상이 공개됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 팬덤 플랫폼 유니버스(UNIVERSE)는 9일 앱과 공식 SNS 채널을 통해 권은비의 신곡 ‘ESPER(에스퍼)’ 뮤직비디오 티저 영상을 공개했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 티저 영상 속 권은비는 붉은 쪽지에 적힌 비밀 미션을 수행하는 킬러 같은 모습으로 그려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "진한 레드 립에 슈트 차림으로 당당하면서도 도발적인 아우라를 뿜어내 시선을 집중시켰다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "권은비는 화이트 드레스에 블랙 가면을 쓰고 화려한 연회장에서 날카로운 눈빛을 드러내 묘한 긴장감을 유발했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히, 드레스 안에 숨겨둔 레그 홀스터에서 권총을 꺼내 향후 공개될 뮤직비디오 스토리에 대한 궁금증을 높였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유니버스 뮤직은 ‘ESPER’를 통해 권은비의 다채로운 매력을 극대화해 음악적 새로운 도전을 예고하고 있다. ‘ESPER’ 발매를 하루 앞둔 가운데 유니버스와 권은비가 선보일 시너지에 글로벌 팬들의 뜨거운 관심이 이어지고 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 유니버스 뮤직 신곡 권은비의 ‘ESPER’는 오는 10일 오후 6시 전 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "권은비 ‘ESPER’, 영상미+영화 같은 스토리 예고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

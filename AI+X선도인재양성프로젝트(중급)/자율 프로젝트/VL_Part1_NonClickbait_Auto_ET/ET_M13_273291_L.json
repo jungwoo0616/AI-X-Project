@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273291",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘헤일로’ 하예린 “‘할머니’ 손숙 보며 배우의 길 따라와”",
+		"newsSubTitle": "",
+		"newsContent": "OTT플랫폼 티빙 파라마운트+ 브랜드관 새 오리지널 ‘헤일로’ 주연 하예린이 할머니인 손숙에 대한 존경심을 표현했다.\n하예린은 16일 오전 서울 종로구 포시즌스 호텔 서울에서 진행된 ‘티빙X파라마운트 미디어데이’에서 손숙에 대한 질문이 나오자 “어릴 때 한국을 자주 왔다갔다하면서 할머니 연극을 봐왔다”며 “배우란 직업으로 관객들을 울고 웃길 수 있다는 게 신기해서 그 길을 계속 따라왔다”고 밝혔다.\n그는 “연기를 통해서 다른 사람을 흔들 수 있다는 게 신기했다”고 운을 뗐다.\n이어 “이렇게 ‘헤일로’를 통해서 많은 시청자를 만날 수 있다는 게 정말 영광”이라며 “동양계 배우로서 열심히 해야하고, 대표적인 모습을 보여줄 수 있도록 노력하고 있다”고 각오를 다졌다.\n또한 연기 포인트에 대해 “혼자서 어떻게 살아남아야 하는지에 신경쓰면서 연기하려고 했다”며 “운동을 엄청 많이 하면서 준비했다. 세계관을 공부하면서 어떻게 이 인물이 그 세계에 쏙 들어갔는지를 연구했다”고 설명했다.\n한편 ‘파라마운트+ 브랜드관’은 이날 티빙에서 론칭되며 ‘스타트렉’ 시리즈를 비롯해 ‘미션 임파서블’ ‘트랜스 포머’ 시리즈 등 파라마운트 역대 히트작들을 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "OTT플랫폼 티빙 파라마운트+ 브랜드관 새 오리지널 ‘헤일로’ 주연 하예린이 할머니인 손숙에 대한 존경심을 표현했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하예린은 16일 오전 서울 종로구 포시즌스 호텔 서울에서 진행된 ‘티빙X파라마운트 미디어데이’에서 손숙에 대한 질문이 나오자 “어릴 때 한국을 자주 왔다갔다하면서 할머니 연극을 봐왔다”며 “배우란 직업으로 관객들을 울고 웃길 수 있다는 게 신기해서 그 길을 계속 따라왔다”고 밝혔다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “연기를 통해서 다른 사람을 흔들 수 있다는 게 신기했다”고 운을 뗐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “이렇게 ‘헤일로’를 통해서 많은 시청자를 만날 수 있다는 게 정말 영광”이라며 “동양계 배우로서 열심히 해야하고, 대표적인 모습을 보여줄 수 있도록 노력하고 있다”고 각오를 다졌다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 연기 포인트에 대해 “혼자서 어떻게 살아남아야 하는지에 신경쓰면서 연기하려고 했다”며 “운동을 엄청 많이 하면서 준비했다. 세계관을 공부하면서 어떻게 이 인물이 그 세계에 쏙 들어갔는지를 연구했다”고 설명했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘파라마운트+ 브랜드관’은 이날 티빙에서 론칭되며 ‘스타트렉’ 시리즈를 비롯해 ‘미션 임파서블’ ‘트랜스 포머’ 시리즈 등 파라마운트 역대 히트작들을 만나볼 수 있다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘헤일로’ 하예린 “‘할머니’ 손숙 보며 배우의 길 따라와”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

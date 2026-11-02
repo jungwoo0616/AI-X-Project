@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277467",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'설리 절친' 구하라의 인스타그램 사진 화제",
+		"newsSubTitle": "",
+		"newsContent": "구하라의 근황이 온라인서 화제다.\n구하라는 21일 자신의 인스타그램에 '설리'와 같이 찍은 셀카를 \\\"하라진리\\\"라는 글과 함께 게재했다.\n구하라는 설리와 '절친' 사이로 알려졌다.\n팬들은 \\\"친구도 예쁘고 그 친구의 친구도 예쁘고\\\"라며 그들의 미모를 칭찬했다.\n지난 18일 구하라는 인스타그램에 몽환적인 분위기의 사진을 연달아 올려 팬들의 관심을 받았다.\n사진에는 구하라로 추정되는 이와 다른 여성의 다리 사진이 담겼다.\n이어 망사 스타킹을 신고 바닥에 누운 포즈의 사진도 게재해 팬들의 이목을 끌었다.\n한편 구하라는 지난해 1월 '카라'와 계약이 종료된 후로 SNS로 근황을 전해왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구하라의 근황이 온라인서 화제다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구하라는 21일 자신의 인스타그램에 '설리'와 같이 찍은 셀카를 \\\"하라진리\\\"라는 글과 함께 게재했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "구하라는 설리와 '절친' 사이로 알려졌다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들은 \\\"친구도 예쁘고 그 친구의 친구도 예쁘고\\\"라며 그들의 미모를 칭찬했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 18일 구하라는 인스타그램에 몽환적인 분위기의 사진을 연달아 올려 팬들의 관심을 받았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진에는 구하라로 추정되는 이와 다른 여성의 다리 사진이 담겼다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 망사 스타킹을 신고 바닥에 누운 포즈의 사진도 게재해 팬들의 이목을 끌었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 구하라는 지난해 1월 '카라'와 계약이 종료된 후로 SNS로 근황을 전해왔다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'설리 절친' 구하라의 인스타그램 사진 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

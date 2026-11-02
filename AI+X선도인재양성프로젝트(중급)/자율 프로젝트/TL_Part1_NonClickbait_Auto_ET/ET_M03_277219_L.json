@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277219",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "일본 방송에 출연한 트와이스, 일본어 실력 보니",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스가 일본 방송에 출연해 눈길을 끌고 있다.\n24일 트와이스는 일본 후지TV의 '메자마시'에 출연했다.\n이날 방송은 데뷔곡 '우아하게'부터 '치어업' '티티(TT)' 등 트와이스의 3연속 히트곡들을 소개했다.\n일본인 멤버 미나·사나·모모는 능숙하게 모국어를 구사하며 인터뷰에 임했다.\n이날 지효는 \\\"최근에 일본어를 공부하고 있다\\\"고 밝혔다.\n이에 정연은 \\\"사랑해요\\\"를 일본어로 말했고, 쯔위는 \\\"배고파요\\\"라고 말해 웃음을 자아냈다.\n트와이스의 VCR을 지켜본 스튜디오에 있는 패널들은 \\\"귀엽다\\\"는 반응을 보였다.\n한편 트와이스는 20일 '낙낙(KNOCK KNOCK)'을 발표하고 활발한 활동을 벌이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스가 일본 방송에 출연해 눈길을 끌고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 트와이스는 일본 후지TV의 '메자마시'에 출연했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송은 데뷔곡 '우아하게'부터 '치어업' '티티(TT)' 등 트와이스의 3연속 히트곡들을 소개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일본인 멤버 미나·사나·모모는 능숙하게 모국어를 구사하며 인터뷰에 임했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 지효는 \\\"최근에 일본어를 공부하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 정연은 \\\"사랑해요\\\"를 일본어로 말했고, 쯔위는 \\\"배고파요\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "트와이스의 VCR을 지켜본 스튜디오에 있는 패널들은 \\\"귀엽다\\\"는 반응을 보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 트와이스는 20일 '낙낙(KNOCK KNOCK)'을 발표하고 활발한 활동을 벌이고 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일본 방송에 출연한 트와이스, 일본어 실력 보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

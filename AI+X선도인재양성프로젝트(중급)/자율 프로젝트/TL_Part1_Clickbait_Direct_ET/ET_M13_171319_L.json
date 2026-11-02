@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171319",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "브로맨스 이찬동 “이젠 윤은오 입니다”",
+    "newsSubTitle": "",
+    "newsContent": "실력파 보컬 그룹 브로맨스 멤버 이찬동이 윤은오로 활동명을 변경하고 새로운 출발을 알렸다.\n소속사 RBW 측은 “소속 아티스트 이찬동이 윤은오로 활동명을 변경했다. 은은하게 오래 기억되고 싶다는 뜻을 담아 본업인 가수 활동은 물론 배우로서도 다채로운 모습을 보여 줄 예정이다”라고 밝혔다.\n윤은오는 최근 활동명을 변경한 뒤 2021년 뮤지컬 ‘쓰릴 미’에 출연, 밀도 높은 감정 연기와 섬세한 표현력을 선보이며 주목받았다.\n2016년 7월 브로맨스 소속으로 미니 1집 ‘THE ACTION’을 발표하며 가요계에 정식 데뷔한 윤은오는 ‘힘쎈여자 도봉순’, ‘맨투맨’, ‘슈츠’, ‘검색어를 입력하세요 WWW’ 등 다양한 작품의 OST 가창자로 활약하며 뛰어난 보컬 실력을 입증했다.\n이후 2019년 뮤지컬 ‘광화문연가’를 시작으로 ‘나빌레라’, ‘귀환’, ‘쓰릴 미’ 무대에 오른 데 이어 현재는 한국 록의 대부 신중현의 노래로 만든 주크박스 뮤지컬 ‘미인’에 출연 중이다.\n어두운 시대에도 음악과 사랑을 꿈꾸며, 낭만과 오락의 무대 하륜관에서 가수로 데뷔하는 강호 역을 맡아 강렬한 인상을 남기고 있다.\n이처럼 윤은오는 음악과 뮤지컬, 연기 등 다양한 영역에서 아티스트로서 재능을 펼치며 더욱 활발한 활동을 예고해 귀추가 주목된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "실력파 보컬 그룹 브로맨스 멤버 이찬동이 윤은오로 활동명을 변경하고 새로운 출발을 알렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 RBW 측은 “소속 아티스트 이찬동이 윤은오로 활동명을 변경했다. 은은하게 오래 기억되고 싶다는 뜻을 담아 본업인 가수 활동은 물론 배우로서도 다채로운 모습을 보여 줄 예정이다”라고 밝혔다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤은오는 최근 활동명을 변경한 뒤 2021년 뮤지컬 ‘쓰릴 미’에 출연, 밀도 높은 감정 연기와 섬세한 표현력을 선보이며 주목받았다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2016년 7월 브로맨스 소속으로 미니 1집 ‘THE ACTION’을 발표하며 가요계에 정식 데뷔한 윤은오는 ‘힘쎈여자 도봉순’, ‘맨투맨’, ‘슈츠’, ‘검색어를 입력하세요 WWW’ 등 다양한 작품의 OST 가창자로 활약하며 뛰어난 보컬 실력을 입증했다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 2019년 뮤지컬 ‘광화문연가’를 시작으로 ‘나빌레라’, ‘귀환’, ‘쓰릴 미’ 무대에 오른 데 이어 현재는 한국 록의 대부 신중현의 노래로 만든 주크박스 뮤지컬 ‘미인’에 출연 중이다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어두운 시대에도 음악과 사랑을 꿈꾸며, 낭만과 오락의 무대 하륜관에서 가수로 데뷔하는 강호 역을 맡아 강렬한 인상을 남기고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이처럼 윤은오는 음악과 뮤지컬, 연기 등 다양한 영역에서 아티스트로서 재능을 펼치며 더욱 활발한 활동을 예고해 귀추가 주목된다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"이젠 윤은오입니다\" 브로맨스의 '이 멤버', 활동명 변경 후 새출발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

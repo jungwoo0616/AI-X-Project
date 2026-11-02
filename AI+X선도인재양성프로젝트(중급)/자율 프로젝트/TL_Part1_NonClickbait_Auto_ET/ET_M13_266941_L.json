@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266941",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘봄의 여신’ 송가인, 컴백 앞두고 트롯스타 35주 연속 1위",
+		"newsSubTitle": "",
+		"newsContent": "가수 송가인이 트롯스타 투표에서 35주 연속 1위를 차지했다.\n송가인은 지난 4월 7부터 14일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 68,872표를 획득해 1위를 차지, 35주 연속 정상에 이름을 올리며 막강한 영향력을 과시하고 있다.\n35주 연속 1위에 이름을 올린 송가인은 각종 업계에서 ‘섭외 0순위’ 아티스트로 꼽히며 이름값을 증명하기도 했다.\n송가인은 음악 프로그램과 예능프로그램은 물론, 각종 CF까지 휩쓸고 있다.\n또, 송가인은 8회 연속 AGAIN(팬클럽 명)이 제작한 옥외 전광판 특전을 획득하며 뜨거운 반응을 다.\n송가인은 앞서 올봄 컴백과 함께 단독 콘서트를 진행한다고 알리며 팬들의 기대감을 더한 바 있다. 2022년에 처음으로 발매하는 앨범과 콘서트에서는 어떤 새로운 매력을 담아 팬들에게 설렘을 전할 것인가에 귀추가 주목된다.\n송가인은 컴백을 위한 준비에 박차를 가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 송가인이 트롯스타 투표에서 35주 연속 1위를 차지했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송가인은 지난 4월 7부터 14일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 68,872표를 획득해 1위를 차지, 35주 연속 정상에 이름을 올리며 막강한 영향력을 과시하고 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "35주 연속 1위에 이름을 올린 송가인은 각종 업계에서 ‘섭외 0순위’ 아티스트로 꼽히며 이름값을 증명하기도 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송가인은 음악 프로그램과 예능프로그램은 물론, 각종 CF까지 휩쓸고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또, 송가인은 8회 연속 AGAIN(팬클럽 명)이 제작한 옥외 전광판 특전을 획득하며 뜨거운 반응을 다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송가인은 앞서 올봄 컴백과 함께 단독 콘서트를 진행한다고 알리며 팬들의 기대감을 더한 바 있다. 2022년에 처음으로 발매하는 앨범과 콘서트에서는 어떤 새로운 매력을 담아 팬들에게 설렘을 전할 것인가에 귀추가 주목된다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송가인은 컴백을 위한 준비에 박차를 가하고 있다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘봄의 여신’ 송가인, 컴백 앞두고 트롯스타 35주 연속 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

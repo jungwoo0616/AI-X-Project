@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277497",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "트와이스 '사나'가 눈물 꾹 참으며 춤춘 이유",
+		"newsSubTitle": "",
+		"newsContent": "골든디스크에서 대상을 수여받은 사나가 흘러내리는 눈물을 꾹 참는 모습이 포착됐다.\n지난 13일 열린 제31회 골든디스크 어워즈에서 트와이스가 골든디스크 대상을 수여받았다.\n이날 트와이스는 대상을 수상하고 감동의 소감을 전했다.\n특히 사나는 울먹이는 목소리로 \\\"앞으로도 더욱 더 노력할테니까 저희 트와이스를 따뜻한 눈으로 지켜봐주세요\\\"라고 전했다.\n이후 트와이스는 관객들을 위한 앙코르 무대를 선보였다.\n사나는 앙코르무대에서도 눈물을 꾹 참고 춤을 추기 시작했다.\n그러던 중 사나는 감정이 북받쳐 오른 듯 고개를 떨군 채 안무를 이어갔다.\n결국 벅차오르는 감정을 숨기지 못한 사나는 마지막엔 같은 그룹 멤버인 나연에게 안겨 울었다.\n이를 본 네티즌들은 \\\"가슴 아프다 사나야\\\" \\\"사나는 울어도 예쁜듯\\\"과 같은 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "골든디스크에서 대상을 수여받은 사나가 흘러내리는 눈물을 꾹 참는 모습이 포착됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 13일 열린 제31회 골든디스크 어워즈에서 트와이스가 골든디스크 대상을 수여받았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 트와이스는 대상을 수상하고 감동의 소감을 전했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 사나는 울먹이는 목소리로 \\\"앞으로도 더욱 더 노력할테니까 저희 트와이스를 따뜻한 눈으로 지켜봐주세요\\\"라고 전했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 트와이스는 관객들을 위한 앙코르 무대를 선보였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사나는 앙코르무대에서도 눈물을 꾹 참고 춤을 추기 시작했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러던 중 사나는 감정이 북받쳐 오른 듯 고개를 떨군 채 안무를 이어갔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "결국 벅차오르는 감정을 숨기지 못한 사나는 마지막엔 같은 그룹 멤버인 나연에게 안겨 울었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 본 네티즌들은 \\\"가슴 아프다 사나야\\\" \\\"사나는 울어도 예쁜듯\\\"과 같은 반응을 보였다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 '사나'가 눈물 꾹 참으며 춤춘 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

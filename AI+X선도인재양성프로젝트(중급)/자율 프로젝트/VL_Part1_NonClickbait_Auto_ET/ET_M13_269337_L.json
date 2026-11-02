@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269337",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김지민 “청와대 개방 첫날 관람 신청”(오픈런)",
+		"newsSubTitle": "",
+		"newsContent": "김지민이 오픈런에 대한 포부를 밝힌다.\n오는 9일(월) 오전 9시 방송되는 SBS플러스 ‘오픈런’에서는 MC 김지민이 ‘청와대 개방’ 오픈런에 도전했다고 밝혀 눈길을 모은다.\n특히 개방 첫날 관람을 원하는 신청자가 8만 3천여 명에 달한다고 밝히며 방문에 대한 기대감을 더한다.\n청와대 개방 소개 외에도 이날 ‘오픈런’에는 엘랸 니링크가 초대손님으로 함께 한다.\n벨기에 출신인 엘랸은 곧 오픈런 할 해외 여행지로 벨기에의 매력을 소개한다.\n또 벨기에 외에도 지금 이맘때 가장 아름다운 뷰를 자랑하는 국내 캠핑 명소를 소개한다.\nMC 김지민은 ‘캠핑을 자주하는 편’이라면서 캠핑의 진짜 매력을 전하고 MC 전진은 아내 류이서와 함께 캠핑카 신혼여행을 했다면서 캠핑에 대한 에피소드를 쏟아낸다.\n오늘의 트렌드를 ‘초고속으로 리뷰’ 해주는 SBS플러스 ‘오픈런’은 오는 9일(월) 9시 방송 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김지민이 오픈런에 대한 포부를 밝힌다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 9일(월) 오전 9시 방송되는 SBS플러스 ‘오픈런’에서는 MC 김지민이 ‘청와대 개방’ 오픈런에 도전했다고 밝혀 눈길을 모은다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 개방 첫날 관람을 원하는 신청자가 8만 3천여 명에 달한다고 밝히며 방문에 대한 기대감을 더한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "청와대 개방 소개 외에도 이날 ‘오픈런’에는 엘랸 니링크가 초대손님으로 함께 한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "벨기에 출신인 엘랸은 곧 오픈런 할 해외 여행지로 벨기에의 매력을 소개한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 벨기에 외에도 지금 이맘때 가장 아름다운 뷰를 자랑하는 국내 캠핑 명소를 소개한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "MC 김지민은 ‘캠핑을 자주하는 편’이라면서 캠핑의 진짜 매력을 전하고 MC 전진은 아내 류이서와 함께 캠핑카 신혼여행을 했다면서 캠핑에 대한 에피소드를 쏟아낸다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오늘의 트렌드를 ‘초고속으로 리뷰’ 해주는 SBS플러스 ‘오픈런’은 오는 9일(월) 9시 방송 된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김지민 “청와대 개방 첫날 관람 신청”(오픈런)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261455",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "제주 check out 이효리…누리꾼 “이번엔 누구 속옷 빌려입나?”",
+		"newsSubTitle": "",
+		"newsContent": "가수 이효리가 제주를 떠나는 모습이 누리꾼 사이에서 화제를 모았다.\n19일 오전 이효리 남편 이상순은 자신의 SNS에 “제주 체크아웃”이라며 이효리 사진 한 장을 올렸다.\n사진 속 이효리는 제주 공항 건물을 배경으로 남편을 향해 손을 흔들고 있다.\n마스크를 착용했음에도 숨길 수 없는 ‘잇몸 만개 미소’가 눈길을 끌었다.\n이효리는 숏패딩에 카고바지를 입은 간편한 차림이었다.\n등에 맨 백팩도 매우 작았다.\n누리꾼들은 이효리가 티빙 파일럿 예능 ‘서울체크인’ 후속을 찍기 위해 간편한 차림으로 제주를 떠나는 것이 아니냐고 추측했다.\n당시 이효리는 Mnet MAMA에 호스트 출연 겸, 스우파 리더들과 무대에 오르기 위해 제주에서 서울로 올라와 2박3일간 머무는 모습을 공개했다.\n이효리는 수 일간의 중요 스케줄에도 숙소를 정하거나 짐을 챙기지 않고 거의 맨 몸으로 제주를 떠나 친한 언니인 엄정화의 집에 머물며 화장품, 옷은 물론 속옷까지 빌려 입는 모습을 보여 웃음을 유발했다.\n해당 사진을 본 누리꾼들은 “와~서울체크인 시작이다” “언니 서울 갈 생각에 신나셨네요, 찐 행복한 표정”“이번엔 누구 속옷을 빌려 입을까?” 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이효리가 제주를 떠나는 모습이 누리꾼 사이에서 화제를 모았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 오전 이효리 남편 이상순은 자신의 SNS에 “제주 체크아웃”이라며 이효리 사진 한 장을 올렸다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 이효리는 제주 공항 건물을 배경으로 남편을 향해 손을 흔들고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마스크를 착용했음에도 숨길 수 없는 ‘잇몸 만개 미소’가 눈길을 끌었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이효리는 숏패딩에 카고바지를 입은 간편한 차림이었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "등에 맨 백팩도 매우 작았다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "누리꾼들은 이효리가 티빙 파일럿 예능 ‘서울체크인’ 후속을 찍기 위해 간편한 차림으로 제주를 떠나는 것이 아니냐고 추측했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 이효리는 Mnet MAMA에 호스트 출연 겸, 스우파 리더들과 무대에 오르기 위해 제주에서 서울로 올라와 2박3일간 머무는 모습을 공개했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이효리는 수 일간의 중요 스케줄에도 숙소를 정하거나 짐을 챙기지 않고 거의 맨 몸으로 제주를 떠나 친한 언니인 엄정화의 집에 머물며 화장품, 옷은 물론 속옷까지 빌려 입는 모습을 보여 웃음을 유발했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 사진을 본 누리꾼들은 “와~서울체크인 시작이다” “언니 서울 갈 생각에 신나셨네요, 찐 행복한 표정”“이번엔 누구 속옷을 빌려 입을까?” 등의 반응을 보였다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제주 check out 이효리…누리꾼 “이번엔 누구 속옷 빌려입나?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

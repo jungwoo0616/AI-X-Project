@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262315",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유영, ‘오륜기영’이 피었습니다",
+		"newsSubTitle": "",
+		"newsContent": "피겨 국가대표 선수 유영이 올림픽 때 찍은 사진들을 올렸다.\n유영은 28일 자신의 사회 관계망 서비스(SNS)에 “이제야 올리는 사진들. 늘 감사합니다”라며 사진들을 게재했다.\n사진에서 유영은 ‘2022 베이징 동계 올림픽’ 출전 당시 추억들을 공개했다.\n숙소 앞에 설치된 오륜기 장식을 배경으로 사진을 찍기도 했고, 국가대표 선수들과도 사진을 남겼다.\n이 가운데 유영은 쇼트트랙 국가대표 선수들과도 함께 했다.\n곽윤기, 황대헌, 이준서, 김동욱 등이 오륜기를 만들고 그 안에서 유영이 서 있는 자세를 사진에 담았다.\n이 게시물을 접한 누리꾼들은 “어어 거기 올라가면 안 되는데”, “올림픽 사진 넘 보고싶었어요 드디어 오륜기 영!”, “인스타 들어오자마자 눈호강을…” “4번째 사진 양말 귀엽네요” 등 반가워하는 반응을 했다.\n한편, 유영은 ‘2022 베이징 동계 올림픽’ 피겨스케이팅에서 6위에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "피겨 국가대표 선수 유영이 올림픽 때 찍은 사진들을 올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유영은 28일 자신의 사회 관계망 서비스(SNS)에 “이제야 올리는 사진들. 늘 감사합니다”라며 사진들을 게재했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에서 유영은 ‘2022 베이징 동계 올림픽’ 출전 당시 추억들을 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "숙소 앞에 설치된 오륜기 장식을 배경으로 사진을 찍기도 했고, 국가대표 선수들과도 사진을 남겼다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 가운데 유영은 쇼트트랙 국가대표 선수들과도 함께 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "곽윤기, 황대헌, 이준서, 김동욱 등이 오륜기를 만들고 그 안에서 유영이 서 있는 자세를 사진에 담았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 게시물을 접한 누리꾼들은 “어어 거기 올라가면 안 되는데”, “올림픽 사진 넘 보고싶었어요 드디어 오륜기 영!”, “인스타 들어오자마자 눈호강을…” “4번째 사진 양말 귀엽네요” 등 반가워하는 반응을 했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 유영은 ‘2022 베이징 동계 올림픽’ 피겨스케이팅에서 6위에 올랐다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유영, ‘오륜기영’이 피었습니다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

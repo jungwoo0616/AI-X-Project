@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168324",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'천의 얼굴' 배우 천우희 화보 공개, 매혹적인 핫핑크 입술 주목",
+    "newsSubTitle": "",
+    "newsContent": "배우 천우희가 로라 메르시에와 함께한 2016년 봄/여름 벨루어 러버스 립 컬러 광고를 공개했다.\n공개된 화보 속 천우희는 사랑과 욕망의 컬러로 물들여진 매혹적인 입술을 연출했다.\n팝한 핑크 컬러로 물들여진 천우희 도톰한 입술은 관능미 속 순수한 모습으로 대담하게 그의 키스를 부른다.\n함께 공개된 다른 컷들에서는 코랄 핑크빛 입술로 사랑의 열병으로 상기된 듯한 모습, 강렬한 레드 입술로 연인을 향한 뜨겁고 열정적인 사랑에 빠진 여인의 모습을 완벽하게 소화했다.\n한편 천우희는 4월 개봉을 앞두고 있는 영화 '해어화'에서 심금을 울리는 목소리를 가진 연희 역으로 열연했다.\n영화속 천우희는 로라 메르시에 벨루어 러버스 립 컬러 포어 플레이를 사용해 붉은 입술로 신비스러운 도화 메이크업을 보여줄 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 천우희가 로라 메르시에와 함께한 2016년 봄/여름 벨루어 러버스 립 컬러 광고를 공개했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공개된 화보 속 천우희는 사랑과 욕망의 컬러로 물들여진 매혹적인 입술을 연출했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "팝한 핑크 컬러로 물들여진 천우희 도톰한 입술은 관능미 속 순수한 모습으로 대담하게 그의 키스를 부른다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함께 공개된 다른 컷들에서는 코랄 핑크빛 입술로 사랑의 열병으로 상기된 듯한 모습, 강렬한 레드 입술로 연인을 향한 뜨겁고 열정적인 사랑에 빠진 여인의 모습을 완벽하게 소화했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 천우희는 4월 개봉을 앞두고 있는 영화 '해어화'에서 심금을 울리는 목소리를 가진 연희 역으로 열연했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영화속 천우희는 로라 메르시에 벨루어 러버스 립 컬러 포어 플레이를 사용해 붉은 입술로 신비스러운 도화 메이크업을 보여줄 예정이다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'2016년 벨루어 러버스 립 컬러' 매혹적인 입술의 주인공은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

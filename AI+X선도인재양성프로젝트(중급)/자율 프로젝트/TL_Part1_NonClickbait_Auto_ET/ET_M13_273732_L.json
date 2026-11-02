@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273732",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘임요환♥’ 배우 김가연 “오늘은 더우니까”",
+		"newsSubTitle": "",
+		"newsContent": "배우 김가연이 팬들에게 일상을 알렸다.\n김가연은 21일 자신의 SNS에 “뒷모습.. 오늘은 더우니까 등 좀 시원하게~ #3샷 #화질무엇 #모녀스타그램”이라는 글과 함께 사진들을 올렸다.\n사진 속에는 김가연이 첫째 딸, 둘째 딸과 함께 셀카를 찍고 있는 모습이 담겼다.\n자매들 큰 언니라고 해도 믿을 김가연의 동안 외모가 이채롭다.\n김가연은 다른 사진에선 등이 파인 반전 원피스로 여배우의 각선미를 뽐내기도 했다.\n김가연은 프로게이머 임요환과 결혼했고 슬하에 두 딸을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김가연이 팬들에게 일상을 알렸다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김가연은 21일 자신의 SNS에 “뒷모습.. 오늘은 더우니까 등 좀 시원하게~ #3샷 #화질무엇 #모녀스타그램”이라는 글과 함께 사진들을 올렸다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 김가연이 첫째 딸, 둘째 딸과 함께 셀카를 찍고 있는 모습이 담겼다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자매들 큰 언니라고 해도 믿을 김가연의 동안 외모가 이채롭다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김가연은 다른 사진에선 등이 파인 반전 원피스로 여배우의 각선미를 뽐내기도 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김가연은 프로게이머 임요환과 결혼했고 슬하에 두 딸을 두고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘임요환♥’ 배우 김가연 “오늘은 더우니까”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283585",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "허경영, 8억원 롤스로이스 보험료 지불하지 않아서 … ‘결과는?’",
+		"newsSubTitle": "",
+		"newsContent": "허경영 롤스로이스 허경영 롤스로이스 보험료 적발 소식이 전해졌다.\n11월13일 한 종편채널은 허경영이 책임보험료가 미납된 롤스로이스 차량을 몰다가 교통 당국에 적발됐다고 보도했다.\n이는 지난 11일 교통 단속공무원이 마트 앞에 주차된 '롤스로이스 팬텀 리무진'의 차량 번호를 조회했고 보험료가 미납된 사실을 발견하면서 적발됐다.\n이에 대해 허경영은 한 매체를 통해 “리스료로 매달 800만 원을 내왔는데, 리스회사에서 착오가 있어서 책임보험료가 미납된 것으로 안다”며 “단속 공무원에게 지적을 받은 직후 바로 보험료를 냈다”고 해명했다.\n한편 허경영의 차종은 롤스로이스 팬텀 차량으로 가격은 8억원에 달하는 것으로 알려졌다.\n허경영 롤스로이스 온라인 중앙일보 허경영 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "허경영 롤스로이스 허경영 롤스로이스 보험료 적발 소식이 전해졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11월13일 한 종편채널은 허경영이 책임보험료가 미납된 롤스로이스 차량을 몰다가 교통 당국에 적발됐다고 보도했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 11일 교통 단속공무원이 마트 앞에 주차된 '롤스로이스 팬텀 리무진'의 차량 번호를 조회했고 보험료가 미납된 사실을 발견하면서 적발됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 대해 허경영은 한 매체를 통해 “리스료로 매달 800만 원을 내왔는데, 리스회사에서 착오가 있어서 책임보험료가 미납된 것으로 안다”며 “단속 공무원에게 지적을 받은 직후 바로 보험료를 냈다”고 해명했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 허경영의 차종은 롤스로이스 팬텀 차량으로 가격은 8억원에 달하는 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "허경영 롤스로이스 온라인 중앙일보 허경영 [사진 일간스포츠]",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허경영, 8억원 롤스로이스 보험료 지불하지 않아서 … ‘결과는?’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

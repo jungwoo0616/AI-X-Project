@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165516",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "크래비티 정모×민희, 감미로운 ‘드림’",
+    "newsSubTitle": "",
+    "newsContent": "그룹 크래비티(CRAVITY) 정모와 민희가 ‘Dream(드림)’ 커버에 도전했다.\n지난 14일 오후 원더케이 오리지널(1theK Originals) 공식 유튜브 채널을 통해 정모와 민희가 부른 수지, 백현의 ‘Dream(드림)’ 커버 영상이 공개됐다.\n공개된 영상 속 정모와 민희는 댄디한 스타일링이 돋보이는 슈트 핏으로 글로벌 팬심을 저격하는가 하면, 청순한 비주얼까지 뽐내며 시선을 사로잡고 있다.\n특히 두 사람은 원곡이 지닌 달달한 감성을 감미로운 보이스와 화음으로 재해석하는 것은 물론, 눈을 맞추고 노래하며 유닛 ‘미니모’(민희, 정모)의 케미까지 한껏 발산했다. ‘Dream’을 시작으로 ‘미니모 쥬크박스(MINIMO Jukebox)’ 콘텐츠 릴레이를 이어갈 정모와 민희는 앞서 크래비티 공식 SNS 채널을 통해 ‘소나기’, ‘안녕’, ‘Little Star(리틀 스타)’ 등의 커버로 탄탄한 보컬을 자랑, 앞으로를 기대하게 만들고 있다.\n정모와 민희가 속한 크래비티는 최근 첫 정규앨범 파트 1 ‘THE AWAKENING: Written in the stars(디 어웨이크닝: 리튼 인 더 스타즈)’ 활동을 성황리에 마무리하며 ‘4세대 아이돌’의 입지를 굳건히 했다.\n다채로운 콘텐츠로 팬들을 만날 크래비티는 계속해서 활발한 활동을 이어갈 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 크래비티(CRAVITY) 정모와 민희가 ‘Dream(드림)’ 커버에 도전했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 14일 오후 원더케이 오리지널(1theK Originals) 공식 유튜브 채널을 통해 정모와 민희가 부른 수지, 백현의 ‘Dream(드림)’ 커버 영상이 공개됐다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속 정모와 민희는 댄디한 스타일링이 돋보이는 슈트 핏으로 글로벌 팬심을 저격하는가 하면, 청순한 비주얼까지 뽐내며 시선을 사로잡고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 두 사람은 원곡이 지닌 달달한 감성을 감미로운 보이스와 화음으로 재해석하는 것은 물론, 눈을 맞추고 노래하며 유닛 ‘미니모’(민희, 정모)의 케미까지 한껏 발산했다. ‘Dream’을 시작으로 ‘미니모 쥬크박스(MINIMO Jukebox)’ 콘텐츠 릴레이를 이어갈 정모와 민희는 앞서 크래비티 공식 SNS 채널을 통해 ‘소나기’, ‘안녕’, ‘Little Star(리틀 스타)’ 등의 커버로 탄탄한 보컬을 자랑, 앞으로를 기대하게 만들고 있다.",
+        "sentenceSize": 250
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정모와 민희가 속한 크래비티는 최근 첫 정규앨범 파트 1 ‘THE AWAKENING: Written in the stars(디 어웨이크닝: 리튼 인 더 스타즈)’ 활동을 성황리에 마무리하며 ‘4세대 아이돌’의 입지를 굳건히 했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다채로운 콘텐츠로 팬들을 만날 크래비티는 계속해서 활발한 활동을 이어갈 계획이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "달달 케미 터지는 '미니모', 'Dream' 커버 공개! 비주얼도 '시강'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

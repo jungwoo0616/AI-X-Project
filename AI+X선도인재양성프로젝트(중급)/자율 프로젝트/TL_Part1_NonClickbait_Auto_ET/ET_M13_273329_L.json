@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273329",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박재범, 마동석·손석구와 한 자리서 만나다",
+		"newsSubTitle": "",
+		"newsContent": "가수 박재범이 배우 마동석과 손석구를 만나 인증샷을 찍었다.\n박재범은 16일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 영화 ‘범죄도시2’ 출연진과 함께 찍은 사진 3장을 게재했다.\n박재범은 “진짜 살아있는 슈퍼 히어로들과 함께”라며 마동석, 손석구와 찍은 셀피 사진을 공개했다.\n박재범은 마동석·손석구 앞에서 다정한 포즈를 취한 모습으로 해시태그 ‘난 거기 왜 있지’를 덧붙여 보는 이들의 웃음을 자아냈다.\n박재범은 “범죄도시2 국내 천만 넘었으니까 글로벌로 가자!! 내가 본 최고의 액션 영화 중 하나”라고 ‘범죄도시2’에 대한 찬사를 남겼다.\n마동석·손석구가 출연하는 영화 ‘범죄도시2’ 지난 11일 누적 관객 수가 천만 명을 돌파했다.\n이는 2019년에 개봉한 영화 ‘기생충’이후 나온 첫 기록이다.\n한편 박재범은 지난 3월 11일 아이유가 피처링한 싱글 ‘가나다라’(GANADARA)를 발매했다.\n이어 소주 사업에도 뛰어들며 화제가 된 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박재범이 배우 마동석과 손석구를 만나 인증샷을 찍었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박재범은 16일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 영화 ‘범죄도시2’ 출연진과 함께 찍은 사진 3장을 게재했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박재범은 “진짜 살아있는 슈퍼 히어로들과 함께”라며 마동석, 손석구와 찍은 셀피 사진을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박재범은 마동석·손석구 앞에서 다정한 포즈를 취한 모습으로 해시태그 ‘난 거기 왜 있지’를 덧붙여 보는 이들의 웃음을 자아냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박재범은 “범죄도시2 국내 천만 넘었으니까 글로벌로 가자!! 내가 본 최고의 액션 영화 중 하나”라고 ‘범죄도시2’에 대한 찬사를 남겼다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마동석·손석구가 출연하는 영화 ‘범죄도시2’ 지난 11일 누적 관객 수가 천만 명을 돌파했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 2019년에 개봉한 영화 ‘기생충’이후 나온 첫 기록이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 박재범은 지난 3월 11일 아이유가 피처링한 싱글 ‘가나다라’(GANADARA)를 발매했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이어 소주 사업에도 뛰어들며 화제가 된 바 있다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박재범, 마동석·손석구와 한 자리서 만나다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

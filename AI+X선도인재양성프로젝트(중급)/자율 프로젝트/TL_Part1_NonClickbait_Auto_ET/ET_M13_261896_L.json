@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261896",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 가수 별, 코로나19 확진 “치료와 회복에 전념”",
+		"newsSubTitle": "",
+		"newsContent": "가수 별이 코로나19 확진 판정을 받았다.\n별 소속사는 23일 “당사 아티스트 별이 코로나19 확진 판정을 받았다”며 “22일 오전 스케줄 참석을 위한 자가 진단키트 검사에서 양성 반응이 나왔고, 이후 PCR 검사를 받아 22일 밤 최종 양성 판정을 받았다”고 밝혔다.\n또 “별은 2차 백신 접종을 완료한 상태이며, 현재 예정된 모든 일정을 중단하고 보건 당국의 지침을 준수하여 치료와 회복에 전념하고 있다”고 전했다.\n다음은 별 소속사 입장문 전문 안녕하세요.\n콴엔터테인먼트입니다.\n당사 아티스트 별이 코로나19 확진 판정을 받아 소식을 전합니다.\n별은 22일 오전 스케줄 참석을 위한 자가 진단키트 검사에서 양성 반응이 나왔고, 이후 PCR 검사를 받아 22일 밤 최종 양성 판정을 받았습니다.\n별은 2차 백신 접종을 완료한 상태이며, 현재 예정된 모든 일정을 중단하고 보건 당국의 지침을 준수하여 치료와 회복에 전념하고 있습니다.\n또한 하하는 지난 12일 코로나19 확진 후 격리 치료에 집중하였으며, 보건 당국의 감염 전파 우려가 없다는 판단 하에 격리 해제 조치되어 일상 생활에 복귀하였음을 알려드립니다.\n당사는 앞으로도 방역 지침을 준수하여 소속 아티스트 및 모두의 건강과 안전을 위해 최선을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 별이 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "별 소속사는 23일 “당사 아티스트 별이 코로나19 확진 판정을 받았다”며 “22일 오전 스케줄 참석을 위한 자가 진단키트 검사에서 양성 반응이 나왔고, 이후 PCR 검사를 받아 22일 밤 최종 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 “별은 2차 백신 접종을 완료한 상태이며, 현재 예정된 모든 일정을 중단하고 보건 당국의 지침을 준수하여 치료와 회복에 전념하고 있다”고 전했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다음은 별 소속사 입장문 전문 안녕하세요.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "콴엔터테인먼트입니다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당사 아티스트 별이 코로나19 확진 판정을 받아 소식을 전합니다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "별은 22일 오전 스케줄 참석을 위한 자가 진단키트 검사에서 양성 반응이 나왔고, 이후 PCR 검사를 받아 22일 밤 최종 양성 판정을 받았습니다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "별은 2차 백신 접종을 완료한 상태이며, 현재 예정된 모든 일정을 중단하고 보건 당국의 지침을 준수하여 치료와 회복에 전념하고 있습니다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 하하는 지난 12일 코로나19 확진 후 격리 치료에 집중하였으며, 보건 당국의 감염 전파 우려가 없다는 판단 하에 격리 해제 조치되어 일상 생활에 복귀하였음을 알려드립니다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "당사는 앞으로도 방역 지침을 준수하여 소속 아티스트 및 모두의 건강과 안전을 위해 최선을 다하겠습니다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 가수 별, 코로나19 확진 “치료와 회복에 전념”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

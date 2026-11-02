@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272432",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "수지, 데뷔 초와 똑같은 ‘방부제 미모’",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 수지가 근황을 공개했다.\n수지는 7일 자신의 사회관계망서비스(SNS) 인스타그램에 “고딩윰 모니터윰”이라는 글과 함께 사진 여러 장을 올렸다.\n사진 속 수지는 촬영 후 화면을 모니터링하고 있는 모습이다.\n화장기 없는 얼굴에도 불구하고 청초한 미모가 시선을 사로잡는다.\n특히 교복을 입은 수지의 옆모습은 데뷔초와 다름없는 모습으로 감탄을 자아낸다.\n누리꾼들은 해당 게시물에 “교복 너무 잘 어울린다” “정말 예쁘다” “기대된다”며 수지의 미모는 물론 차기작 ‘안나’에 대한 관심을 보였다.\n한편 수지의 차기작은 쿠팡플레이 시리즈 ‘안나’로 수지는 첫 단독 주연에 도전한다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기다.\n오는 6월 24일(금)을 시작으로 매주 금요일 오후 8시 쿠팡플레이를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 수지가 근황을 공개했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수지는 7일 자신의 사회관계망서비스(SNS) 인스타그램에 “고딩윰 모니터윰”이라는 글과 함께 사진 여러 장을 올렸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 수지는 촬영 후 화면을 모니터링하고 있는 모습이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화장기 없는 얼굴에도 불구하고 청초한 미모가 시선을 사로잡는다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 교복을 입은 수지의 옆모습은 데뷔초와 다름없는 모습으로 감탄을 자아낸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 해당 게시물에 “교복 너무 잘 어울린다” “정말 예쁘다” “기대된다”며 수지의 미모는 물론 차기작 ‘안나’에 대한 관심을 보였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 수지의 차기작은 쿠팡플레이 시리즈 ‘안나’로 수지는 첫 단독 주연에 도전한다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 6월 24일(금)을 시작으로 매주 금요일 오후 8시 쿠팡플레이를 통해 확인할 수 있다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수지, 데뷔 초와 똑같은 ‘방부제 미모’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

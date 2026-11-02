@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270474",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "도로교통공단, 경기 라디오사업 탈락에 법적대응 검토",
+		"newsSubTitle": "",
+		"newsContent": "도로교통공단이 최근 방송통신위원회가 경기지역 라디오방송 사업자 선정 과정서 공단에 ‘선정 불가’ 판정을 내린 데 대해 법적 대응을 검토 중이라고 17일 알렸다.\n공단은 앞서 심사에서 최고 득점을 했지만 보도 기능 수행에 대한 법적 검토 뒤 방통위로부터 신청 자격에 부합하지 않는 사업자라는 판단을 받았다.\n공단은 “이번 결정은 신뢰보호원칙과 평등의 원칙 등 행정 관련법에 위배된다”며 “행정소송 등 법적 대응을 검토 중”이라고 밝혔다.\n방통위가 공모 신청 요건에 ‘신청법인의 사업 목적’을 제한하지 않은 채 사업계획서를 받아 검토하고 심사를 진행했다고 비판했다.\n경기지역 라디오방송 사업자 공모는 도로교통공단 외에 경인방송, 경기도, OBS 경인TV, 케이방송, 뉴경기방송, 경기도민방송 등 7곳이 신청했다.\n경기도와 도로교통공단을 제외한 5개 사업자는 경기도에 대해 방송 독립성을, 도로교통공단에 대해선 교통방송의 역할을 문제 삼아 사업자 선정에 반대해왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도로교통공단이 최근 방송통신위원회가 경기지역 라디오방송 사업자 선정 과정서 공단에 ‘선정 불가’ 판정을 내린 데 대해 법적 대응을 검토 중이라고 17일 알렸다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공단은 앞서 심사에서 최고 득점을 했지만 보도 기능 수행에 대한 법적 검토 뒤 방통위로부터 신청 자격에 부합하지 않는 사업자라는 판단을 받았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공단은 “이번 결정은 신뢰보호원칙과 평등의 원칙 등 행정 관련법에 위배된다”며 “행정소송 등 법적 대응을 검토 중”이라고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방통위가 공모 신청 요건에 ‘신청법인의 사업 목적’을 제한하지 않은 채 사업계획서를 받아 검토하고 심사를 진행했다고 비판했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경기지역 라디오방송 사업자 공모는 도로교통공단 외에 경인방송, 경기도, OBS 경인TV, 케이방송, 뉴경기방송, 경기도민방송 등 7곳이 신청했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경기도와 도로교통공단을 제외한 5개 사업자는 경기도에 대해 방송 독립성을, 도로교통공단에 대해선 교통방송의 역할을 문제 삼아 사업자 선정에 반대해왔다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도로교통공단, 경기 라디오사업 탈락에 법적대응 검토",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

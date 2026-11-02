@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280847",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마리와 나 강호동, 고양이 토토 재우기 도전…인생 최대위기 왜",
+		"newsSubTitle": "",
+		"newsContent": "방송인 강호동이 고양이 토토 재우기에 나섰다.\n23일 방송되는 JTBC ‘마리와 나’에서는 토토에게 끊임없이 말을 건네며, 생애 처음으로 반려동물과의 교감에 성공한 초보 마리아빠 강호동이 자신만만하게 아기고양이 낮잠재우기에 도전한다.\n이날 강호동은 스마트폰을 꺼내 어렵게 클래식 연주곡을 검색해 토토에게 들려주는 등 정성을 다했고, 토토 역시 이런 노력에 보답이라도 하듯 점점 잠에 빠져들었다.\n하지만 강호동은 예상치 못한 난관에 봉착했고, 당황스러운 상황이 반복되었지만 해결하지 못해 발만 동동 굴렀다.\n강호동이 우왕좌왕하는 사이 토토는 결국 잠에서 깨어났다.\n강호동은 아기 고양이와의 교감에는 성공했으나, 현대 문물과의 교감에는 실패한 것. 강호동이 위기에 빠진 이유는 23일(수) 밤 10시 50분에 방송되는 JTBC ‘마리와 나’에서 확인할 수 있다.\n온라인 중앙일보 '마리와 나 강호동'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 강호동이 고양이 토토 재우기에 나섰다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 방송되는 JTBC ‘마리와 나’에서는 토토에게 끊임없이 말을 건네며, 생애 처음으로 반려동물과의 교감에 성공한 초보 마리아빠 강호동이 자신만만하게 아기고양이 낮잠재우기에 도전한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 강호동은 스마트폰을 꺼내 어렵게 클래식 연주곡을 검색해 토토에게 들려주는 등 정성을 다했고, 토토 역시 이런 노력에 보답이라도 하듯 점점 잠에 빠져들었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 강호동은 예상치 못한 난관에 봉착했고, 당황스러운 상황이 반복되었지만 해결하지 못해 발만 동동 굴렀다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강호동이 우왕좌왕하는 사이 토토는 결국 잠에서 깨어났다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강호동은 아기 고양이와의 교감에는 성공했으나, 현대 문물과의 교감에는 실패한 것. 강호동이 위기에 빠진 이유는 23일(수) 밤 10시 50분에 방송되는 JTBC ‘마리와 나’에서 확인할 수 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 '마리와 나 강호동'",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마리와 나 강호동, 고양이 토토 재우기 도전…인생 최대위기 왜",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

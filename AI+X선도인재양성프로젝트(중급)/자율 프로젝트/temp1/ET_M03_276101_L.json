@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276101",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이다인 “이승기와 6개월 전부터 좋은 만남”",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 이승기(34·왼쪽 사진)와 배우 이다인(29·오른쪽)이 열애 중이다.\n24일 이다인 소속사 9아토엔터테인먼트는 “선후배 관계로 만나 5~6개월 전부터 좋은 감정을 가지고 조심스럽게 서로를 알아가는 중”이라며 열애 사실을 인정했다.\n그러면서 “좋은 만남을 이어갈 수 있도록 따뜻한 관심과 응원 부탁드린다”고 전했다.\n이승기는 2004년 데뷔해 ‘내 여자라니까’ ‘결혼해줄래’ ‘잘할게’ 등 다수의 히트곡을 발표했고 예능인으로도 활약 중이다.\n또한 ‘찬란한 유산’ ‘마우스’ 등에 출연하며 배우로서 입지를 굳혔다.\n이다인은 배우 견미리의 딸로 2014년 데뷔해 드라마 ‘화랑’ ‘황금빛 내인생’ ‘닥터 프리즈너’ 등에 출연해 이름을 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 이승기(34·왼쪽 사진)와 배우 이다인(29·오른쪽)이 열애 중이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 이다인 소속사 9아토엔터테인먼트는 “선후배 관계로 만나 5~6개월 전부터 좋은 감정을 가지고 조심스럽게 서로를 알아가는 중”이라며 열애 사실을 인정했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “좋은 만남을 이어갈 수 있도록 따뜻한 관심과 응원 부탁드린다”고 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이승기는 2004년 데뷔해 ‘내 여자라니까’ ‘결혼해줄래’ ‘잘할게’ 등 다수의 히트곡을 발표했고 예능인으로도 활약 중이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 ‘찬란한 유산’ ‘마우스’ 등에 출연하며 배우로서 입지를 굳혔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이다인은 배우 견미리의 딸로 2014년 데뷔해 드라마 ‘화랑’ ‘황금빛 내인생’ ‘닥터 프리즈너’ 등에 출연해 이름을 알렸다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이다인 “이승기와 6개월 전부터 좋은 만남”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

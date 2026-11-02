@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276016",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "팝스타 저스틴 비버, 안면마비 희소병 딛고 월드투어 나선다",
+		"newsSubTitle": "",
+		"newsContent": "팝스타 저스틴 비버가 안면이 마비되는 희소병으로 중단했던 월드투어 일정을 다시 시작한다고 CNN등 현지언론이 20일(현지시간) 전했다.\n영국 공연기획사 AEG 프레젠츠는 지난 18일 SNS에 “저스틴 비버가 월드투어를 재개한다”고 발표하고 “7월 31일 이탈리아에서 유럽 페스티벌을 시작으로 남미, 남아프리카, 중동, 아시아, 호주와 뉴질랜드를 거쳐 다시 2023년 유럽으로 돌아온다”고 밝혔다.\n연기됐던 미국 공연과 관련해서도 곧 상세내용을 발표하겠다고 덧붙였다.\n미국 매체 버라이어티에 따르면 투어는 2023년 3월 25일 폴란드 공연이 마지막으로 북미 일정은 내년 봄으로 예상된다.\n지난달 10일 비버는 SNS에 램지헌트 증후군을 앓고 있다고 털어놓으면서 휴식을 취할 예정이라고 발표했다.\n램지헌트 증후군은 대상포진 바이러스가 귀 근처 안면 신경에 침투해 안면 마비를 비롯해 발진, 근육 약화, 난청 등을 유발하는 질병이다.\n영상에서 비버는 오른쪽 눈이 제대로 감기지 않거나 왼쪽으로만 미소를 지어 보이는 등 한쪽 얼굴이 제대로 움직이지 않는 모습을 보여줬다.\n그는 2월부터 월드투어에 나선 상황이었지만 해당 질환으로 지난달과 이달 초까지 예정된 북미 공연을 중단했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팝스타 저스틴 비버가 안면이 마비되는 희소병으로 중단했던 월드투어 일정을 다시 시작한다고 CNN등 현지언론이 20일(현지시간) 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영국 공연기획사 AEG 프레젠츠는 지난 18일 SNS에 “저스틴 비버가 월드투어를 재개한다”고 발표하고 “7월 31일 이탈리아에서 유럽 페스티벌을 시작으로 남미, 남아프리카, 중동, 아시아, 호주와 뉴질랜드를 거쳐 다시 2023년 유럽으로 돌아온다”고 밝혔다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연기됐던 미국 공연과 관련해서도 곧 상세내용을 발표하겠다고 덧붙였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국 매체 버라이어티에 따르면 투어는 2023년 3월 25일 폴란드 공연이 마지막으로 북미 일정은 내년 봄으로 예상된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난달 10일 비버는 SNS에 램지헌트 증후군을 앓고 있다고 털어놓으면서 휴식을 취할 예정이라고 발표했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "램지헌트 증후군은 대상포진 바이러스가 귀 근처 안면 신경에 침투해 안면 마비를 비롯해 발진, 근육 약화, 난청 등을 유발하는 질병이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영상에서 비버는 오른쪽 눈이 제대로 감기지 않거나 왼쪽으로만 미소를 지어 보이는 등 한쪽 얼굴이 제대로 움직이지 않는 모습을 보여줬다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 2월부터 월드투어에 나선 상황이었지만 해당 질환으로 지난달과 이달 초까지 예정된 북미 공연을 중단했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팝스타 저스틴 비버, 안면마비 희소병 딛고 월드투어 나선다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

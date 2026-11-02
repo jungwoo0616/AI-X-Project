@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273048",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유방암 투병 서정희, 항암치료 중 고열로 응급실행",
+		"newsSubTitle": "",
+		"newsContent": "유방암 투병 중인 방송인 서정희가 고열로 인한 고통을 호소했다.\n서정희는 14일 인스타그램에 “항암치료 3차 부작용으로 고열이 있다. 낮부터 체온으로 39도였다”며 “계속 3시간 동안 안 내려서 또 응급실가고 열 조절하고 지금 왔다”고 적었다.\n이어 “이틀째 고열이 있어서 약을 먹고 버티고 있다”며 “오늘은 외식도 가능할 것 같고, 열만 내리면 나갈 것”이라고 했다.\n또한 서정희는 “고열은 내릴지어다, 통증은 멈출지어다”라며 건강 회복을 기원하는 자신의 마음을 적어 올렸다.\n서정희는 지난 3일 자신의 딸 서동주가 운영하는 유튜브 채널에 출연해 유방암 투병 사실을 고백했다.\n그는 “유방암 선고를 받고 가볍게 생각했는데 전체를 절제하는 수술을 받게 됐다”며 “지금은 항암치료에 들어갔고 머리를 만질 때마다 머리카락이 한 움큼씩 빠졌다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유방암 투병 중인 방송인 서정희가 고열로 인한 고통을 호소했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서정희는 14일 인스타그램에 “항암치료 3차 부작용으로 고열이 있다. 낮부터 체온으로 39도였다”며 “계속 3시간 동안 안 내려서 또 응급실가고 열 조절하고 지금 왔다”고 적었다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “이틀째 고열이 있어서 약을 먹고 버티고 있다”며 “오늘은 외식도 가능할 것 같고, 열만 내리면 나갈 것”이라고 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 서정희는 “고열은 내릴지어다, 통증은 멈출지어다”라며 건강 회복을 기원하는 자신의 마음을 적어 올렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서정희는 지난 3일 자신의 딸 서동주가 운영하는 유튜브 채널에 출연해 유방암 투병 사실을 고백했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “유방암 선고를 받고 가볍게 생각했는데 전체를 절제하는 수술을 받게 됐다”며 “지금은 항암치료에 들어갔고 머리를 만질 때마다 머리카락이 한 움큼씩 빠졌다”고 말했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유방암 투병 서정희, 항암치료 중 고열로 응급실행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

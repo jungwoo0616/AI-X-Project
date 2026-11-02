@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171414",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘돌싱글즈2’ 이혜영 “시즌1은 ‘소나기’, 시즌2는 ‘사랑과 전쟁’”",
+    "newsSubTitle": "",
+    "newsContent": "이혜영이 주목하고 있는 참가자를 언급했다.\n이혜영은 15일 온라인으로 진행된 MBN 예능 ‘돌싱글즈2’ 제작발표회에서 “참가자들의 이혼한 연차를 많이 보는 편”이라고 운을 뗐다.\n이어 “이혼 후 시간이 지날 때마다 감정이 다르다”며 “이번 시즌에는 3개월 밖에 안 된 분이 나오는데 그때 내가 어땠나 생각을 해보니 제정신이 아니었던 것 같다. 그 참가자가 이 프로그램을 왜 선택 했을까, 그녀가 찾는 게 무엇일까 궁금하다”고 귀띔했다.\n그러면서 “시즌2 참가자는 시즌1을 보지 않았나. 시즌 1이 소설 ‘소나기’ 같은 분위기였다면, 이번에는 참가자들이 시스템을 잘 알고 있다 보니 ‘사랑과 전쟁’이 되지 않을까”라고 말해 궁금증을 더해 기대를 높였다. ‘돌싱글즈2’는 국내 최초로 돌싱들의 연애와 동거 생활을 그리는 연애 예능이다.\n새로운 인연을 찾기 위해 ‘돌싱 빌리지’에 입성한 돌싱남녀 8인이 서로를 향한 직진 로맨스를 가동, ‘두 번째 웨딩 로드’의 주인공이 되기 위해 치열한 전쟁을 벌인다.\n오는 17일 밤 9시 20분 첫 방송.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이혜영이 주목하고 있는 참가자를 언급했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이혜영은 15일 온라인으로 진행된 MBN 예능 ‘돌싱글즈2’ 제작발표회에서 “참가자들의 이혼한 연차를 많이 보는 편”이라고 운을 뗐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “이혼 후 시간이 지날 때마다 감정이 다르다”며 “이번 시즌에는 3개월 밖에 안 된 분이 나오는데 그때 내가 어땠나 생각을 해보니 제정신이 아니었던 것 같다. 그 참가자가 이 프로그램을 왜 선택 했을까, 그녀가 찾는 게 무엇일까 궁금하다”고 귀띔했다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “시즌2 참가자는 시즌1을 보지 않았나. 시즌 1이 소설 ‘소나기’ 같은 분위기였다면, 이번에는 참가자들이 시스템을 잘 알고 있다 보니 ‘사랑과 전쟁’이 되지 않을까”라고 말해 궁금증을 더해 기대를 높였다. ‘돌싱글즈2’는 국내 최초로 돌싱들의 연애와 동거 생활을 그리는 연애 예능이다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "새로운 인연을 찾기 위해 ‘돌싱 빌리지’에 입성한 돌싱남녀 8인이 서로를 향한 직진 로맨스를 가동, ‘두 번째 웨딩 로드’의 주인공이 되기 위해 치열한 전쟁을 벌인다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 17일 밤 9시 20분 첫 방송.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이혜영이 주목하는 그녀, 환승연애도 아니고, 이제는 '환승결혼'이다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

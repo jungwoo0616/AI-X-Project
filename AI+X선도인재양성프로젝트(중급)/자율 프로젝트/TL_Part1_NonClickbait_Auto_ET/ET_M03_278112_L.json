@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278112",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "릴리 로즈 뎁 \\\"父 조니뎁, 정말 멋진 아빠…사람들은 다 안다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 조니뎁의 딸 릴리 로즈 뎁이 아버지를 옹호했다.\n릴리 로즈 뎁은 조니뎁의 가정폭력 논란에 대한 의견을 인스타그램에 게재했다.\n릴리 로즈 뎁은 \\\"나의 아버지는 사람들이 다 알정도로 정말 다정하다. 남동생과 나에게 정말 멋진 아빠이고, 모두 그에 대해 같은 말을 한다(My dad is the sweetest most loving person I know, He’s been nothing but a wonderful father to my little brother and I, and everyone who knows him would say the same)\\\"라며 가정폭력 논란에 휩싸인 아버지 조니뎁을 옹호했다.\n또한 릴리 로즈 뎁은 자신의 의견과 함께 어린시절 자신을 돌봐주고 있는 아버지 조니뎁의 모습을 공개해 눈길을 끌고 있다.\n한편, 조니뎁과 엠버허드는 지난 22일 이혼소송을 제기해 화제를 모은 바 있다.\n특히 엠버허드는 자신의 멍든 얼굴을 공개하며 조니뎁이 가정폭력을 휘둘렀다고 밝혀 더욱 충격을 안겼다.\n온라인 중앙일보 [사진 릴리 로즈 뎁 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 조니뎁의 딸 릴리 로즈 뎁이 아버지를 옹호했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "릴리 로즈 뎁은 조니뎁의 가정폭력 논란에 대한 의견을 인스타그램에 게재했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "릴리 로즈 뎁은 \\\"나의 아버지는 사람들이 다 알정도로 정말 다정하다. 남동생과 나에게 정말 멋진 아빠이고, 모두 그에 대해 같은 말을 한다(My dad is the sweetest most loving person I know, He’s been nothing but a wonderful father to my little brother and I, and everyone who knows him would say the same)\\\"라며 가정폭력 논란에 휩싸인 아버지 조니뎁을 옹호했다.",
+				"sentenceSize": 276
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 릴리 로즈 뎁은 자신의 의견과 함께 어린시절 자신을 돌봐주고 있는 아버지 조니뎁의 모습을 공개해 눈길을 끌고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 조니뎁과 엠버허드는 지난 22일 이혼소송을 제기해 화제를 모은 바 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 엠버허드는 자신의 멍든 얼굴을 공개하며 조니뎁이 가정폭력을 휘둘렀다고 밝혀 더욱 충격을 안겼다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 릴리 로즈 뎁 인스타그램]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "릴리 로즈 뎁 \\\"父 조니뎁, 정말 멋진 아빠…사람들은 다 안다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

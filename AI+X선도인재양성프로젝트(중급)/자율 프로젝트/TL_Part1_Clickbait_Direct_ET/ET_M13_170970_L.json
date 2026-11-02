@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170970",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘갯마을 차차차’ 김선호 “캐릭터 위해 서핑 배워, 공인중개사 자격증 탐나”",
+    "newsSubTitle": "",
+    "newsContent": "배우 김선호가 캐릭터 준비를 위한 노력을 언급했다.\n김선호는 24일 온라인으로 진행된 tvN 새 토일극 ‘갯마을 차차차’ 제작발표회에서 “‘홍반장’이 워낙 하는 일이 많다”고 운을 뗐다.\n이어 “이를 숙지 하기 위해 서핑이나 커피 내리는 법 등을 드라마 준비 과정에서 배웠다”며 “그럼에도 불구하고 딱히 직업이 없는 캐릭터니까 동네 사람들에게 젖어드는 게 중요하다고 생각했다. 이에 촬영 전에 선배님들과 대화하를 하면서 가까워지거나 그런 부분에 있어 사전 준비를 많이 했다”고 답했다.\n김선호가 맡은 ‘홍두식’은 ‘만능 백수’라는 캐릭터상 수많은 자격증을 보유하고 있다.\n이중 가장 탐났던 자격증을 묻는 질문에 김선호는 “요즘 가장 관심 있는 공인중개사 자격증”이라고 답했다.\n이어 “과일 플레이팅을 하는 자격증도 있다고 하더라. 그런 자격증도 있으면 재밌겠다고 생각했다”고 말했다. ‘갯마을 차차차’는 현실주의 치과의사 윤혜진(신민아)과 만능 백수 홍반장(김선호)이 짠내 사람내음 가득한 바닷마을 ‘공진’에서 벌이는 티키타카 힐링 로맨스다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김선호가 캐릭터 준비를 위한 노력을 언급했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김선호는 24일 온라인으로 진행된 tvN 새 토일극 ‘갯마을 차차차’ 제작발표회에서 “‘홍반장’이 워낙 하는 일이 많다”고 운을 뗐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “이를 숙지 하기 위해 서핑이나 커피 내리는 법 등을 드라마 준비 과정에서 배웠다”며 “그럼에도 불구하고 딱히 직업이 없는 캐릭터니까 동네 사람들에게 젖어드는 게 중요하다고 생각했다. 이에 촬영 전에 선배님들과 대화하를 하면서 가까워지거나 그런 부분에 있어 사전 준비를 많이 했다”고 답했다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김선호가 맡은 ‘홍두식’은 ‘만능 백수’라는 캐릭터상 수많은 자격증을 보유하고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이중 가장 탐났던 자격증을 묻는 질문에 김선호는 “요즘 가장 관심 있는 공인중개사 자격증”이라고 답했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “과일 플레이팅을 하는 자격증도 있다고 하더라. 그런 자격증도 있으면 재밌겠다고 생각했다”고 말했다. ‘갯마을 차차차’는 현실주의 치과의사 윤혜진(신민아)과 만능 백수 홍반장(김선호)이 짠내 사람내음 가득한 바닷마을 ‘공진’에서 벌이는 티키타카 힐링 로맨스다.",
+        "sentenceSize": 148
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘갯마을 차차차’ 김선호, 캐릭터 준비하며 '이런 것'까지 배웠다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

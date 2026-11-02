@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276692",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "음주단속 걸려 위로해달라는 팬에게 박보영이 보인 반응",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보영이 음주운전 사실을 밝힌 팬을 따끔하게 지적했다.\n박보영은 최근 네이버 브이앱에서 팬들이 실시간으로 올린 다양한 질문에 답하며 소통하는 시간을 가졌다.\n박보영은 이날 한 팬으로부터 \\\"음주단속에 걸렸어요. 위로해주세요\\\"라고 요청을 받자 정색하며 \\\"세상 안 될 사람이네. 큰일 낼 사람이다. 저 사람\\\"이라고 했다.\n그는 혼잣말로 \\\"웬일이야 혼나야겠네\\\"라고 되뇌며 요청을 한 팬에게 \\\"(방송에서) 나가세요\\\"라고 말했다.\n장난스럽게 말했지만, 얼굴빛은 다소 불편해 보였다.\n이어 \\\"여러분 절대 술을 먹고 운전대를 잡아선 안 된다. 이건 살인미수라고 생각한다\\\"며 \\\"지금 뭐하는 거지 무슨 말을 하는 거지, 말도 안 되는 소리 하고 있다\\\"고 놀라움을 감추지 못했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보영이 음주운전 사실을 밝힌 팬을 따끔하게 지적했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박보영은 최근 네이버 브이앱에서 팬들이 실시간으로 올린 다양한 질문에 답하며 소통하는 시간을 가졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박보영은 이날 한 팬으로부터 \\\"음주단속에 걸렸어요. 위로해주세요\\\"라고 요청을 받자 정색하며 \\\"세상 안 될 사람이네. 큰일 낼 사람이다. 저 사람\\\"이라고 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 혼잣말로 \\\"웬일이야 혼나야겠네\\\"라고 되뇌며 요청을 한 팬에게 \\\"(방송에서) 나가세요\\\"라고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장난스럽게 말했지만, 얼굴빛은 다소 불편해 보였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"여러분 절대 술을 먹고 운전대를 잡아선 안 된다. 이건 살인미수라고 생각한다\\\"며 \\\"지금 뭐하는 거지 무슨 말을 하는 거지, 말도 안 되는 소리 하고 있다\\\"고 놀라움을 감추지 못했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "음주단속 걸려 위로해달라는 팬에게 박보영이 보인 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

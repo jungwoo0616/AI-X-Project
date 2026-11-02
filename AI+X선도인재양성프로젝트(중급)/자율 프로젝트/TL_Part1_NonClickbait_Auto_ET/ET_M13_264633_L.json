@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264633",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "신인선 신곡 ‘개나리 사랑’ 30일 나온다",
+		"newsSubTitle": "",
+		"newsContent": "트로트 스타 신인선이 오는 3월 30일 신곡 ‘개나리 사랑’을 발표한다.\n소속사 빅컬쳐엔터테인먼트(대표 석현수)는 23일 “신인선이 오는 3월 30일 봄을 맞이해 신곡을 발표한다”고 밝혔다.\n이로써 신인선은 ‘아프지마세요’ 이후 무려 1년 만에 신곡을 내는 셈이다.\n소속사 빅컬쳐엔터테인먼트는 “2022년 따뜻한 봄에 사랑이 찾아왔음을 알리는, 봄에 딱 맞는 느낌의 곡으로 많은 분들에게 특별한 봄의 선물을 준비했다”고 했다.\n신인선의 신곡은 대한민국 최고의 보컬 코러스 김현아와 함께 ‘아프지마세요’ 작사가 아사달 시루몬, 작곡자 석무현과 이아민이 국악과 전통 트로트 리듬을 가미해 기대감을 고조시키고 있다.\n신인선은 오는 3월 30일 신곡 발매 이후 4월 초부터 본격적인 활동에 나선다.\n한편 신인선의 신곡 ‘개나리 사랑’은 오는 3월 30일 멜론, 카카오 뮤직과 음원 사이트를 통해 공개된다.\n신인선은 ‘골프 예능 방송 일파만파’, ‘트롯 야사’, ‘6시 내 고향’, ‘팡팡터지는 정보쇼 알맹이’, ‘좋은 아침’, ‘이미엽의 랄라라디오’ 등 각종 TV예능과 라디오 방송을 통해 왕성한 활동을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트로트 스타 신인선이 오는 3월 30일 신곡 ‘개나리 사랑’을 발표한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 빅컬쳐엔터테인먼트(대표 석현수)는 23일 “신인선이 오는 3월 30일 봄을 맞이해 신곡을 발표한다”고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로써 신인선은 ‘아프지마세요’ 이후 무려 1년 만에 신곡을 내는 셈이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사 빅컬쳐엔터테인먼트는 “2022년 따뜻한 봄에 사랑이 찾아왔음을 알리는, 봄에 딱 맞는 느낌의 곡으로 많은 분들에게 특별한 봄의 선물을 준비했다”고 했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신인선의 신곡은 대한민국 최고의 보컬 코러스 김현아와 함께 ‘아프지마세요’ 작사가 아사달 시루몬, 작곡자 석무현과 이아민이 국악과 전통 트로트 리듬을 가미해 기대감을 고조시키고 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신인선은 오는 3월 30일 신곡 발매 이후 4월 초부터 본격적인 활동에 나선다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 신인선의 신곡 ‘개나리 사랑’은 오는 3월 30일 멜론, 카카오 뮤직과 음원 사이트를 통해 공개된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신인선은 ‘골프 예능 방송 일파만파’, ‘트롯 야사’, ‘6시 내 고향’, ‘팡팡터지는 정보쇼 알맹이’, ‘좋은 아침’, ‘이미엽의 랄라라디오’ 등 각종 TV예능과 라디오 방송을 통해 왕성한 활동을 이어가고 있다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신인선 신곡 ‘개나리 사랑’ 30일 나온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

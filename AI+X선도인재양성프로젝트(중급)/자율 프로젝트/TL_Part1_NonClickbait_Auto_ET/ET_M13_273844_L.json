@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273844",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘퀸덤2’ 우승 우주소녀 “더 멋지게 나아가겠다”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 우주소녀가 시크하면서도 도도한 매력을 발산했다.\n매거진 ‘아레나 옴므 플러스’는 23일 우주소녀와 함께 한 화보와 인터뷰를 공개했다.\n우주소녀는 흑백 무드로 진행된 이번 화보에서 시크하면서도 도도한 매력을 발산했다.\n인터뷰에서 우주소녀는 최고의 성과를 거둔 Mnet ‘퀸덤2’에 대해 “우승이라는 성과에 감사하고 앞으로 더 멋지게 나아가고 싶다”며 “방송을 통해 멤버들마다 다른 개성을 선보일 수 있어 기뻤다”고 우승 소감을 밝혔다.\n우주소녀는 지난 2일 종영한 Mnet ‘퀸덤2’에서 최종 우승팀을 가리는 파이널 무대를 리더 엑시의 자작곡 ‘아우라(AURA)’로 화려하게 장식하며 ‘퀸덤2’의 정상 자리를 차지했다.\n또한 오는 7월 5일 스페셜 싱글 ‘시퀀스(Sequence)’ 발매를 앞두고 상큼하면서도 힙한 우주소녀의 모습을 만날 수 있는 콘셉트 포토 등 다양한 프로모션 콘텐츠를 순차적으로 공개하며 컴백 열기를 한껏 고조시키고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 우주소녀가 시크하면서도 도도한 매력을 발산했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매거진 ‘아레나 옴므 플러스’는 23일 우주소녀와 함께 한 화보와 인터뷰를 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우주소녀는 흑백 무드로 진행된 이번 화보에서 시크하면서도 도도한 매력을 발산했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터뷰에서 우주소녀는 최고의 성과를 거둔 Mnet ‘퀸덤2’에 대해 “우승이라는 성과에 감사하고 앞으로 더 멋지게 나아가고 싶다”며 “방송을 통해 멤버들마다 다른 개성을 선보일 수 있어 기뻤다”고 우승 소감을 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우주소녀는 지난 2일 종영한 Mnet ‘퀸덤2’에서 최종 우승팀을 가리는 파이널 무대를 리더 엑시의 자작곡 ‘아우라(AURA)’로 화려하게 장식하며 ‘퀸덤2’의 정상 자리를 차지했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 오는 7월 5일 스페셜 싱글 ‘시퀀스(Sequence)’ 발매를 앞두고 상큼하면서도 힙한 우주소녀의 모습을 만날 수 있는 콘셉트 포토 등 다양한 프로모션 콘텐츠를 순차적으로 공개하며 컴백 열기를 한껏 고조시키고 있다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘퀸덤2’ 우승 우주소녀 “더 멋지게 나아가겠다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

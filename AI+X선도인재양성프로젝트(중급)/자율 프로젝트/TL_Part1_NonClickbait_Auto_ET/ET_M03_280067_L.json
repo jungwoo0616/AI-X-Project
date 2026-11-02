@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280067",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유아인 이미연 최지우, 영화 ‘좋아해줘’ 포스터 공개",
+		"newsSubTitle": "",
+		"newsContent": "배우 유아인, 이미연, 최지우가 출연한 영화 '좋아해줘'가 티저 포스터를 공개했다.\n7일 공개된 티저 포스터는 이미연, 최지우, 김주혁, 유아인, 강하늘, 이솜까지 대한민국 최고 배우들의 사랑스러운 모습을 담아냈다.\nSNS를 통해 펼쳐지는 유쾌한 사랑 이야기를 보여줄 이들은 핸드폰을 들고 당장이라도 사랑하는 사람의 게시물에 ‘좋아요’를 누를 것 같은 모이다.\n또 “추측만 하지 말고 친구해”, “댓글만 달지 말고 대시해”, “연락만 하지 말고 고백해”라는 카피는 연애하고 싶은 마음을 자극한다.\n대책 없이 ‘좋아요’를 누르다가 진짜 좋아져 버린 내 생애 가장 설레는 로맨스를 그린 영화 '좋아해줘'는 2월 개봉 예정이다.\n온라인 중앙일보 '유아인 이미연 최지우'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유아인, 이미연, 최지우가 출연한 영화 '좋아해줘'가 티저 포스터를 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 공개된 티저 포스터는 이미연, 최지우, 김주혁, 유아인, 강하늘, 이솜까지 대한민국 최고 배우들의 사랑스러운 모습을 담아냈다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SNS를 통해 펼쳐지는 유쾌한 사랑 이야기를 보여줄 이들은 핸드폰을 들고 당장이라도 사랑하는 사람의 게시물에 ‘좋아요’를 누를 것 같은 모이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “추측만 하지 말고 친구해”, “댓글만 달지 말고 대시해”, “연락만 하지 말고 고백해”라는 카피는 연애하고 싶은 마음을 자극한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대책 없이 ‘좋아요’를 누르다가 진짜 좋아져 버린 내 생애 가장 설레는 로맨스를 그린 영화 '좋아해줘'는 2월 개봉 예정이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 '유아인 이미연 최지우'",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유아인 이미연 최지우, 영화 ‘좋아해줘’ 포스터 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

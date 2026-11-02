@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277868",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'냉장고를 부탁해' 온주완, 조보아 사랑의 흔적 들켜? \\\"해명하니 수상해\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘냉장고를 부탁해’에 출연한 배우 온주완이 여자친구인 배우 조보아 언급에 당황하는 모습을 보였다.\n배우 온주완은 지난 19일 밤 9시30분 방송된 JTBC ‘냉장고를 부탁해’에 임창정과 함께 출연해 자신의 냉장고를 공개했다.\n이날 MC 김성주, 안정환을 비롯해 함께 게스트로 출연한 임창정은 두 팔을 걷어 부치고 조보아의 흔적을 찾으려 노력했다.\n십여년간 자취하고 있다는 온주완은 많은 이들의 의심에 진땀을 흘렸다.\n온주완은 냉장고에서 나온 술, 치즈, 마스크팩을 자신의 여자친구인 조보아와 관련없다고 적극적으로 해명했다.\n특히 온주완은 “(조보아는) 술을 안먹는다. 문제가 될 줄 알았으면 미리 빼버렸을 것”이라고 말했다.\n이후 임창정은 냉장고에서 마스크팩이 나오자 “팩이 엄청 많다. 그걸 너만 하는 거냐”고 의심의 눈초리를 거두지 않았다.\n이에 온주완은 “화장품을 사면 주는 것”이라고 적극적으로 해명했고 임창정은 “갑자기 적극적으로 해명하니 수상하다”고 말해 폭소를 자아냈다.\n온라인 중앙일보 [사진 JTBC 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘냉장고를 부탁해’에 출연한 배우 온주완이 여자친구인 배우 조보아 언급에 당황하는 모습을 보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 온주완은 지난 19일 밤 9시30분 방송된 JTBC ‘냉장고를 부탁해’에 임창정과 함께 출연해 자신의 냉장고를 공개했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 MC 김성주, 안정환을 비롯해 함께 게스트로 출연한 임창정은 두 팔을 걷어 부치고 조보아의 흔적을 찾으려 노력했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "십여년간 자취하고 있다는 온주완은 많은 이들의 의심에 진땀을 흘렸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "온주완은 냉장고에서 나온 술, 치즈, 마스크팩을 자신의 여자친구인 조보아와 관련없다고 적극적으로 해명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 온주완은 “(조보아는) 술을 안먹는다. 문제가 될 줄 알았으면 미리 빼버렸을 것”이라고 말했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 임창정은 냉장고에서 마스크팩이 나오자 “팩이 엄청 많다. 그걸 너만 하는 거냐”고 의심의 눈초리를 거두지 않았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 온주완은 “화장품을 사면 주는 것”이라고 적극적으로 해명했고 임창정은 “갑자기 적극적으로 해명하니 수상하다”고 말해 폭소를 자아냈다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC 캡처]",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'냉장고를 부탁해' 온주완, 조보아 사랑의 흔적 들켜? \\\"해명하니 수상해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277611",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘키스신‘ 나오자 아역배우 눈 가려주는 '매너손' 송중기",
+		"newsSubTitle": "",
+		"newsContent": "배우 송중기가 ‘연기대상’ 시상식에서 ‘키스신’이 화면에 나오자 아역배우 허정은 양의 눈을 가려주는 모습이 화제다.\n지난 31일 서울 영등포구 여의도동 KBS 신관 공개홀에서 진행된 ‘2016 KBS 연기대상’ 비하인드 모습이 공개됐다.\n공개된 사진에서 송중기는 아역배우 허정은 양의 눈을 손으로 가려주고 있다.\n그 이유는 KBS2 드라마 ‘태양의 후예’에서 연기한 키스 장면이 공개됐기 때문이다.\n송중기와 송혜교는 ‘베스트 커플상’을 수상했으며 2016년 한 해 최고의 키스신으로 선정됐다.\n송중기는 베스트 커플들의 키스 장면이 방영되자 아역배우 허정은 양을 배려해 직접 눈을 가려준 것이다.\n방송 화면에 포착되진 않았지만 현장에 있던 팬들은 배려 깊은 송중기의 모습을 카메라에 담았고 SNS와 온라인커뮤니티 등에 공개하면서 화제가 됐다.\n이날 송중기는 송혜교와 함께 ‘아시아 최고 커플상’과 ‘명예 대상’을 공동으로 수상하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송중기가 ‘연기대상’ 시상식에서 ‘키스신’이 화면에 나오자 아역배우 허정은 양의 눈을 가려주는 모습이 화제다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 31일 서울 영등포구 여의도동 KBS 신관 공개홀에서 진행된 ‘2016 KBS 연기대상’ 비하인드 모습이 공개됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 송중기는 아역배우 허정은 양의 눈을 손으로 가려주고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그 이유는 KBS2 드라마 ‘태양의 후예’에서 연기한 키스 장면이 공개됐기 때문이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송중기와 송혜교는 ‘베스트 커플상’을 수상했으며 2016년 한 해 최고의 키스신으로 선정됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송중기는 베스트 커플들의 키스 장면이 방영되자 아역배우 허정은 양을 배려해 직접 눈을 가려준 것이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방송 화면에 포착되진 않았지만 현장에 있던 팬들은 배려 깊은 송중기의 모습을 카메라에 담았고 SNS와 온라인커뮤니티 등에 공개하면서 화제가 됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 송중기는 송혜교와 함께 ‘아시아 최고 커플상’과 ‘명예 대상’을 공동으로 수상하기도 했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘키스신‘ 나오자 아역배우 눈 가려주는 '매너손' 송중기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

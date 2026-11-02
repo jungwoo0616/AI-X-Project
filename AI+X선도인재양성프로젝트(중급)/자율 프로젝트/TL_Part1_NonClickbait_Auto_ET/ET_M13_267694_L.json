@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267694",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "AOA 출신 권민아, SNS 재개…“행복하게 잘 지낸다”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 AOA 출신 권민아가 SNS 활동을 재개했다.\n권민아는 21일 자신의 사회관계망서비스(SNS)에 “행복하게 잘 지내고 있어요”라는 글과 함께 여러 장의 사진을 게재했다.\n공개된 사진에서 권민아는 자연스러운 머리스타일고 옅은 미소로 카메라를 가만히 응시했다.\n권민아는 지난 2019년 AOA에서 탈퇴하고 배우로 활동했으나 다양한 사건사고에 휘말렸다.\n지난 2020년 SNS로 AOA 멤버들을 저격하면서 ‘왕따 논란’을 제기했다.\n이 논란은 서로의 진실공방으로 이어졌고, 권민아와 멤버들의 대화로 해결되는 듯했으나 이후에도 수없이 번복되면서 여전히 논란이 진행 중이다.\n또한 실내 흡연 논란 등 여러 논란에 휩싸여 구설에 올랐다.\n이후 권민아는 SNS 계정 비활성화, 활성화를 반복했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 AOA 출신 권민아가 SNS 활동을 재개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "권민아는 21일 자신의 사회관계망서비스(SNS)에 “행복하게 잘 지내고 있어요”라는 글과 함께 여러 장의 사진을 게재했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 권민아는 자연스러운 머리스타일고 옅은 미소로 카메라를 가만히 응시했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권민아는 지난 2019년 AOA에서 탈퇴하고 배우로 활동했으나 다양한 사건사고에 휘말렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 2020년 SNS로 AOA 멤버들을 저격하면서 ‘왕따 논란’을 제기했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 논란은 서로의 진실공방으로 이어졌고, 권민아와 멤버들의 대화로 해결되는 듯했으나 이후에도 수없이 번복되면서 여전히 논란이 진행 중이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 실내 흡연 논란 등 여러 논란에 휩싸여 구설에 올랐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 권민아는 SNS 계정 비활성화, 활성화를 반복했다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AOA 출신 권민아, SNS 재개…“행복하게 잘 지낸다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274757",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송혜교, 파리가 주목하는 ‘블랙스완’",
+		"newsSubTitle": "",
+		"newsContent": "배우 송혜교가 프랑스에서 남다른 아우라를 자랑했다.\n5일 오전, 송혜교는 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 해외에서의 근황을 담은 사진들을 게재했다.\n송혜교는 사진 속에서 ‘블랙스완’이 떠오르는 검은 드레스를 입고 고혹적인 자태를 내뿜었다.\n송혜교만의 고급진 무드가 빛을 발휘했다.\n또 송혜교는 명품 브랜드 C사의 CEO와 함께 찍은 사진도 공개했다.\n그는 해당 브랜드의 아시아 지역 브랜드 앰배서더로 활동하고 있다.\n앞서 송혜교는 지난 1일 프랑스 파리로 출국해 갈라 디너쇼에 참석했다.\n송혜교는 할리우드 스타 다이앤 크루거 등 세계적인 셀럽들과 함께 어울리는 모습으로 화제가 됐다.\n한편 송혜교는 ‘스타작가’ 김은숙의 신작 ’더 글로리‘를 차기작으로 선택했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송혜교가 프랑스에서 남다른 아우라를 자랑했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 오전, 송혜교는 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 해외에서의 근황을 담은 사진들을 게재했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송혜교는 사진 속에서 ‘블랙스완’이 떠오르는 검은 드레스를 입고 고혹적인 자태를 내뿜었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송혜교만의 고급진 무드가 빛을 발휘했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 송혜교는 명품 브랜드 C사의 CEO와 함께 찍은 사진도 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 해당 브랜드의 아시아 지역 브랜드 앰배서더로 활동하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 송혜교는 지난 1일 프랑스 파리로 출국해 갈라 디너쇼에 참석했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "송혜교는 할리우드 스타 다이앤 크루거 등 세계적인 셀럽들과 함께 어울리는 모습으로 화제가 됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 송혜교는 ‘스타작가’ 김은숙의 신작 ’더 글로리‘를 차기작으로 선택했다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송혜교, 파리가 주목하는 ‘블랙스완’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

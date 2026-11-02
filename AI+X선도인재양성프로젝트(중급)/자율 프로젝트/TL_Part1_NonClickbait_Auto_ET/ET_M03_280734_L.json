@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280734",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'동갑내기 여행하기' 이지애, 남편 김정근이 쓴 편지 공개해 …\\\"꿀 떨어지네\\\"",
+		"newsSubTitle": "",
+		"newsContent": "동갑내기 여행하기 이지애 '동갑내기 여행하기' 에 출연중인 이지애가 남편이 직접 쓴 손편지를 공개했다.\n지난 25일 방송된 종합편성채널 채널A '동갑내기 여행하기 in 홍콩'(이하 동갑내기 여행하기)에서는 아나운서 출신 방송인 서현진, 이지애, 김주희, 문지애가 홍콩으로 여행을 떠나는 모습이 그려졌다.\n이날 네 사람은 공항에서 만났다.\n이지애는 \\\"책상 위에 (남편이) 올려놨더라\\\"며 남편이 준 편지를 꺼냈다.\n이어 이지애의 남편 김정근이 쓴 편지가 공개됐다.\n이에 김준희는 문지애에게 \\\"넌 남편 어떻게 된 거야?\\\"라며 \\\"지애 씁쓸해한다\\\"고 말했다.\n이를 보고 있던 서현진은 김주희에게 \\\"우리가 제일 불쌍해\\\"라며 솔로인 자신들의 처지를 셀프디스해 웃음을 유발했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "동갑내기 여행하기 이지애 '동갑내기 여행하기' 에 출연중인 이지애가 남편이 직접 쓴 손편지를 공개했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 25일 방송된 종합편성채널 채널A '동갑내기 여행하기 in 홍콩'(이하 동갑내기 여행하기)에서는 아나운서 출신 방송인 서현진, 이지애, 김주희, 문지애가 홍콩으로 여행을 떠나는 모습이 그려졌다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 네 사람은 공항에서 만났다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이지애는 \\\"책상 위에 (남편이) 올려놨더라\\\"며 남편이 준 편지를 꺼냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이지애의 남편 김정근이 쓴 편지가 공개됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 김준희는 문지애에게 \\\"넌 남편 어떻게 된 거야?\\\"라며 \\\"지애 씁쓸해한다\\\"고 말했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 보고 있던 서현진은 김주희에게 \\\"우리가 제일 불쌍해\\\"라며 솔로인 자신들의 처지를 셀프디스해 웃음을 유발했다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'동갑내기 여행하기' 이지애, 남편 김정근이 쓴 편지 공개해 …\\\"꿀 떨어지네\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

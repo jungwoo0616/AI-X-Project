@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270417",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "트와이스, 데뷔 7년 만 개인 인스타 개설 “이런 날이 오다니”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 트와이스가 데뷔 7년 만에 멤버 별 개인 인스타그램을 만들었다.\n16일 트와이스의 멤버 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위는 모두 개인 인스타그램 계정을 개설한 후 같은 사진을 올렸다.\n사진은 미국 로스앤젤레스에서 열린 북미 콘서트 리허설 당시 찍은 단체 사진으로 멤버의 뒷모습이 담겨져 있다.\n해당 게시물 이후 멤버들은 각자 자신의 일상 사진과 셀카를 공유하는 등 다양한 게시물로 팬들과 소통하고 있다.\n팬들은 트와이스의 개설 소식에 “드디어 개인 인스타라니 너무 기쁘다” “이런 날이 올 줄이야” “당장 팔로우 해야겠다”며 기쁨을 감추지 않았다.\n한편 트와이스는 지난 14일과 15일 미국 로스앤젤레스 ‘뱅크 오브 캘리포니아 스타디움(Banc of California Stadium)’에서 네 번째 월드투어 ‘트와이스 네 번째 월드투어 ’쓰리‘(TWICE 4TH WORLD TOUR ’Ⅲ‘)’의 미국 앙코르 콘서트를 펼쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 트와이스가 데뷔 7년 만에 멤버 별 개인 인스타그램을 만들었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 트와이스의 멤버 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위는 모두 개인 인스타그램 계정을 개설한 후 같은 사진을 올렸다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진은 미국 로스앤젤레스에서 열린 북미 콘서트 리허설 당시 찍은 단체 사진으로 멤버의 뒷모습이 담겨져 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물 이후 멤버들은 각자 자신의 일상 사진과 셀카를 공유하는 등 다양한 게시물로 팬들과 소통하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 트와이스의 개설 소식에 “드디어 개인 인스타라니 너무 기쁘다” “이런 날이 올 줄이야” “당장 팔로우 해야겠다”며 기쁨을 감추지 않았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 트와이스는 지난 14일과 15일 미국 로스앤젤레스 ‘뱅크 오브 캘리포니아 스타디움(Banc of California Stadium)’에서 네 번째 월드투어 ‘트와이스 네 번째 월드투어 ’쓰리‘(TWICE 4TH WORLD TOUR ’Ⅲ‘)’의 미국 앙코르 콘서트를 펼쳤다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스, 데뷔 7년 만 개인 인스타 개설 “이런 날이 오다니”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

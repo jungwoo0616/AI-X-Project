@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266463",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘U＋아이돌Live’서 K팝 공연 독점 생중계",
+		"newsSubTitle": "",
+		"newsContent": "LG유플러스는 대중음악 전문 공연장 예스24라이브홀과 협업해 자사 모바일 서비스인 ‘U＋아이돌Live’를 통해 케이팝 공연을 독점 온라인 생중계한다고 10일 밝혔다.\nLG유플러스는 코로나19 여파로 증가한 온라인 공연을 U＋아이돌Live로 전달하고 주문형비디오(VOD)로 제공하는 등 공연 콘텐츠를 확대할 계획이다.\n양사가 협업해 제공하는 첫 번째 공연은 그룹 마마무 휘인의 첫 단독 팬미팅이다.\n공연은 이달 17일 오후 2시와 오후 6시 30분 서울 광진구 소재 예스24라이브홀에서 열리며, 온라인 관람티켓을 구매한 고객은 U＋아이돌Live에서 시청할 수 있다.\n온라인 관람티켓은 예스24티켓 사이트와 U＋아이돌Live 앱 및 홈페이지에서 구매할 수 있다.\n온라인 관람 가격은 회차당 3만3000원.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 대중음악 전문 공연장 예스24라이브홀과 협업해 자사 모바일 서비스인 ‘U＋아이돌Live’를 통해 케이팝 공연을 독점 온라인 생중계한다고 10일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스는 코로나19 여파로 증가한 온라인 공연을 U＋아이돌Live로 전달하고 주문형비디오(VOD)로 제공하는 등 공연 콘텐츠를 확대할 계획이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사가 협업해 제공하는 첫 번째 공연은 그룹 마마무 휘인의 첫 단독 팬미팅이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공연은 이달 17일 오후 2시와 오후 6시 30분 서울 광진구 소재 예스24라이브홀에서 열리며, 온라인 관람티켓을 구매한 고객은 U＋아이돌Live에서 시청할 수 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "온라인 관람티켓은 예스24티켓 사이트와 U＋아이돌Live 앱 및 홈페이지에서 구매할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 관람 가격은 회차당 3만3000원.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘U＋아이돌Live’서 K팝 공연 독점 생중계",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

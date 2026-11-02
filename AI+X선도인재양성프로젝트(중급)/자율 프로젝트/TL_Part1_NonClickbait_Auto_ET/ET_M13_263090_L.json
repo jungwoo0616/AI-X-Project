@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263090",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "코로나19 격리 해제 블랙핑크 로제 “서프라이즈 준비”",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 자가격리에서 해제된 블랙핑크 로제가 팬들에 대한 감사한 마음을 표현했다.\n로제는 7일 자가격리에서 해제됐다.\n소속사 YG엔터테인먼트는 “로제는 더는 코로나19 감염 전파 우려가 없다는 보건당국의 판단에 따라 어제(6일)부로 격리에서 해제됐다”고 밝혔다.\n격리 기간 동안 특이한 증상은 없었고 건강 상태 역시 매우 좋은 것으로 확인된다.\n앞서 로제는 지난달 28일 해외 일정 출국은 앞두고 실시한 PCR 검사에서 양성 판정을 받아 일정 일부를 취소했다.\n로제는 격리 해제 발표 후 인스타그램 스토리를 통해 팬들에게 인사를 건넸다.\n로제는 “걱정 많이 해준 우리 블링크 너무 미안하고 고마워요. 저는 괜찮습니다”라고 밝혔다.\n이어 “블링크가 그동안 저 많이 보고 싶었을까 봐 서프라이즈 하나 준비했는데… 여러분이 그토록 원했던 브이로그! 이런 거 처음이라 많이 서툴고 좀 부끄럽지만 블링크를 위해 준비했으니까 이따 오후 7시에 나오면 재미있게 봐주세요!”라며 브이로그 영상을 통해 팬들에게 인사를 전하겠다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 자가격리에서 해제된 블랙핑크 로제가 팬들에 대한 감사한 마음을 표현했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로제는 7일 자가격리에서 해제됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사 YG엔터테인먼트는 “로제는 더는 코로나19 감염 전파 우려가 없다는 보건당국의 판단에 따라 어제(6일)부로 격리에서 해제됐다”고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "격리 기간 동안 특이한 증상은 없었고 건강 상태 역시 매우 좋은 것으로 확인된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 로제는 지난달 28일 해외 일정 출국은 앞두고 실시한 PCR 검사에서 양성 판정을 받아 일정 일부를 취소했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로제는 격리 해제 발표 후 인스타그램 스토리를 통해 팬들에게 인사를 건넸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로제는 “걱정 많이 해준 우리 블링크 너무 미안하고 고마워요. 저는 괜찮습니다”라고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 “블링크가 그동안 저 많이 보고 싶었을까 봐 서프라이즈 하나 준비했는데… 여러분이 그토록 원했던 브이로그! 이런 거 처음이라 많이 서툴고 좀 부끄럽지만 블링크를 위해 준비했으니까 이따 오후 7시에 나오면 재미있게 봐주세요!”라며 브이로그 영상을 통해 팬들에게 인사를 전하겠다고 밝혔다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나19 격리 해제 블랙핑크 로제 “서프라이즈 준비”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274325",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "인터넷방송 중 수면제 복용 여성 성추행 한 20대 체포",
+		"newsSubTitle": "",
+		"newsContent": "인터넷 라이브 방송 중에 수면제를 먹고 잠이 든 여성을 성추행한 20대 남성이 경찰에 잡혔다.\n인천 미추홀경찰서는 준강제추행 혐의로 A씨를 체포해 조사하고 있다고 29일 전했다.\nA씨는 전날 오전 11시쯤 자택인 인천시 미추홀구 한 오피스텔에서 진행한 인터넷 라이브 방송 중 잠이 든 여성 B씨를 성추행한 혐의를 받고 있다.\nA씨는 당일 B씨와 함께 술을 마시면서 라이브 방송을 했고, B씨가 수면제를 복용한 후 잠이 들자 성추행한 것으로 파악이 됐다.\nA씨 강제추행 장면은 인터넷 라이브 방송으로 송출이 됐고, 일부 누리꾼이 시청까지 한 것으로 파악이 됐다.\n당일 오후 신고를 받고 출동한 경찰은 A씨를 긴급체포했으며, 추가 조사를 거쳐 구속영장을 신청할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷 라이브 방송 중에 수면제를 먹고 잠이 든 여성을 성추행한 20대 남성이 경찰에 잡혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인천 미추홀경찰서는 준강제추행 혐의로 A씨를 체포해 조사하고 있다고 29일 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 전날 오전 11시쯤 자택인 인천시 미추홀구 한 오피스텔에서 진행한 인터넷 라이브 방송 중 잠이 든 여성 B씨를 성추행한 혐의를 받고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A씨는 당일 B씨와 함께 술을 마시면서 라이브 방송을 했고, B씨가 수면제를 복용한 후 잠이 들자 성추행한 것으로 파악이 됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A씨 강제추행 장면은 인터넷 라이브 방송으로 송출이 됐고, 일부 누리꾼이 시청까지 한 것으로 파악이 됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당일 오후 신고를 받고 출동한 경찰은 A씨를 긴급체포했으며, 추가 조사를 거쳐 구속영장을 신청할 예정이다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인터넷방송 중 수면제 복용 여성 성추행 한 20대 체포",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

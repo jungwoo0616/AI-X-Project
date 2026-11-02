@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264914",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "유튜브, 美서 광고 포함된 TV 프로그램 무료 방영",
+		"newsSubTitle": "",
+		"newsContent": "동영상 공유 플랫폼 유튜브가 23일(현지시간) 광고가 들어간 TV 프로그램 4000여 편을 미국에서 무료로 방송한다고 밝혔다.\n유튜브 조치는 광고 기반 무료 스트리밍 시장에서 경쟁력을 확보하기 위한 것이다.\n미국에선 이 시장을 놓고 파라마운트의 플루토TV, 폭스의 투비, 아마존의 IMDb TV 등이 경쟁을 벌이고 있다.\n영화 전문 매체 데드라인은 유튜브가 안방 시청자들을 늘리고 광고 매출도 함께 올릴 수 있는 무료 동영상 서비스 시장에 뛰어든 것이라고 풀이했다.\n유튜브는 현재 디즈니, 워너브러더스, 파라마운트 등이 제작한 영화 1500편도 무료로 서비스 중이고 그 숫자를 늘리고 있다.\n시청률 조사업체 닐슨에 따르면 유튜브는 작년 12월 기준 미국에서 1억 3500만명 시청자를 확보했다.\n지난해 4분기 유튜브 광고 매출은 전년 동기 대비 25% 증가한 86억달러(10조4600억원)였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "동영상 공유 플랫폼 유튜브가 23일(현지시간) 광고가 들어간 TV 프로그램 4000여 편을 미국에서 무료로 방송한다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유튜브 조치는 광고 기반 무료 스트리밍 시장에서 경쟁력을 확보하기 위한 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국에선 이 시장을 놓고 파라마운트의 플루토TV, 폭스의 투비, 아마존의 IMDb TV 등이 경쟁을 벌이고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영화 전문 매체 데드라인은 유튜브가 안방 시청자들을 늘리고 광고 매출도 함께 올릴 수 있는 무료 동영상 서비스 시장에 뛰어든 것이라고 풀이했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유튜브는 현재 디즈니, 워너브러더스, 파라마운트 등이 제작한 영화 1500편도 무료로 서비스 중이고 그 숫자를 늘리고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시청률 조사업체 닐슨에 따르면 유튜브는 작년 12월 기준 미국에서 1억 3500만명 시청자를 확보했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 4분기 유튜브 광고 매출은 전년 동기 대비 25% 증가한 86억달러(10조4600억원)였다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜브, 美서 광고 포함된 TV 프로그램 무료 방영",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

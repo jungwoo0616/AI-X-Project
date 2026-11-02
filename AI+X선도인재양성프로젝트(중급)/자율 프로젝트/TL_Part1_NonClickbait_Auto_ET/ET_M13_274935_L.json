@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274935",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "김호중, 정규 2집 예판 시작",
+		"newsSubTitle": "",
+		"newsContent": "가수 김호중이 돌아온다.\n김호중은 7일 오후 5시부터 각종 음반사이트를 통해 클래식 정규 2집 ‘PANORAMA’(파노라마)의 예약 판매를 시작한다.\n이번 ‘PANORAMA’ 피지컬 앨범은 한 가지 버전으로, 포토북, CD, 포토카드(15종 중랜덤 1종)로 구성돼 있다.\n이번 앨범은 김호중이 군 소집해제 이후 처음으로 선보이는 클래식 정규 앨범으로, 발매 소식부터 관심이 집중됐다.\n김호중은 이번 앨범을 통해 인생 주마등 속 자리한 연인, 친구, 팬들에게 전하는 메시지를 담았다. ‘PANORAMA’에는 세계적인 피아니스트 이루마가 작곡에 참여한 더블 타이틀곡 ‘약속’부터 레전드 가수 최백호와의 듀엣, 정통 성악, 발라드 성향의 크로스오버, 라틴 음악 등 다양한 장르의 곡들이 담겨 있다.\n소집해제와 동시에 활발한 활동을 이어가고 있는 김호중이 27일 클래식 정규 2집 ‘PANORAMA’로 돌아오는 가운데, 그가 이번에는 어떤 감동과 깊은 울림을 선사할지 이목이 집중된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김호중이 돌아온다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김호중은 7일 오후 5시부터 각종 음반사이트를 통해 클래식 정규 2집 ‘PANORAMA’(파노라마)의 예약 판매를 시작한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 ‘PANORAMA’ 피지컬 앨범은 한 가지 버전으로, 포토북, CD, 포토카드(15종 중랜덤 1종)로 구성돼 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 앨범은 김호중이 군 소집해제 이후 처음으로 선보이는 클래식 정규 앨범으로, 발매 소식부터 관심이 집중됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김호중은 이번 앨범을 통해 인생 주마등 속 자리한 연인, 친구, 팬들에게 전하는 메시지를 담았다. ‘PANORAMA’에는 세계적인 피아니스트 이루마가 작곡에 참여한 더블 타이틀곡 ‘약속’부터 레전드 가수 최백호와의 듀엣, 정통 성악, 발라드 성향의 크로스오버, 라틴 음악 등 다양한 장르의 곡들이 담겨 있다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소집해제와 동시에 활발한 활동을 이어가고 있는 김호중이 27일 클래식 정규 2집 ‘PANORAMA’로 돌아오는 가운데, 그가 이번에는 어떤 감동과 깊은 울림을 선사할지 이목이 집중된다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중, 정규 2집 예판 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

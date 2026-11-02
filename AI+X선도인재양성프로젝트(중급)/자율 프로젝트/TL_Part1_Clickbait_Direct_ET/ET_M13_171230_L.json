@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171230",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "식보이, 새 EP ‘르네상스’ 25일 정오 발매",
+    "newsSubTitle": "",
+    "newsContent": "드림 라이프 레코즈의 대표 아티스트 식보이(Sikboy)가 두 번째 EP ‘르네상스(RENAISSANCE)’를 25일 발표한다.\n총 7곡으로 채워진 이번 EP는 ‘드릴’이라는 장르를 활용해 기존 스타일에서 벗어난 식보이의 새로운 시도를 보여주는데 중점을 뒀다.\n특히 ‘Y.N.C’의 메인 프로듀서 지쓴(Gson)이 함께 총괄 프로듀싱을 맡아 앨범의 완성도를 높였다.\n그동안 ‘곡예사 Remix’와 ‘난세 freestyle’을 통해 베테랑 래퍼들 사이에서도 독보적인 랩 퍼포먼스를 보여줬던 식보이는 이번 EP를 통해 새롭게 변화한 스타일을 선보인다.\n특유의 그루브와 현란한 래핑을 동시에 선보이며 본인이 겪었던 수많은 갈등과 오해, 동료의 배신과 새 가족의 탄생 등을 긴장감 있는 랩으로 풀어냈다.\n타이틀곡 ‘드레즈(DREADS)’는 ‘몽중몽(夢中夢)’ 즉 꿈속에서 또 다른 꿈을 꾸며 자신의 깊은 내면에 존재하는 숨겨왔던 모습을 찾아가는 이야기를 담았다. ‘드레즈’를 받는 도중 잠든 식보이가 평소에 느끼던 두려움의 이유를 꿈속에서 찾는 내용을 담았다.\n식보이의 새 EP ‘르네상스’는 25일 정오 각종 음원사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "드림 라이프 레코즈의 대표 아티스트 식보이(Sikboy)가 두 번째 EP ‘르네상스(RENAISSANCE)’를 25일 발표한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "총 7곡으로 채워진 이번 EP는 ‘드릴’이라는 장르를 활용해 기존 스타일에서 벗어난 식보이의 새로운 시도를 보여주는데 중점을 뒀다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 ‘Y.N.C’의 메인 프로듀서 지쓴(Gson)이 함께 총괄 프로듀싱을 맡아 앨범의 완성도를 높였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그동안 ‘곡예사 Remix’와 ‘난세 freestyle’을 통해 베테랑 래퍼들 사이에서도 독보적인 랩 퍼포먼스를 보여줬던 식보이는 이번 EP를 통해 새롭게 변화한 스타일을 선보인다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특유의 그루브와 현란한 래핑을 동시에 선보이며 본인이 겪었던 수많은 갈등과 오해, 동료의 배신과 새 가족의 탄생 등을 긴장감 있는 랩으로 풀어냈다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "타이틀곡 ‘드레즈(DREADS)’는 ‘몽중몽(夢中夢)’ 즉 꿈속에서 또 다른 꿈을 꾸며 자신의 깊은 내면에 존재하는 숨겨왔던 모습을 찾아가는 이야기를 담았다. ‘드레즈’를 받는 도중 잠든 식보이가 평소에 느끼던 두려움의 이유를 꿈속에서 찾는 내용을 담았다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "식보이의 새 EP ‘르네상스’는 25일 정오 각종 음원사이트를 통해 발매된다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "스타일 변신한 래퍼 식보이, 신규 EP에 '이 장르' 활용했다는데... ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

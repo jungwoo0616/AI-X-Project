@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272846",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "서울의소리, 윤석열 대통령 서초동 집 앞 ‘맞불 집회’ 준비",
+		"newsSubTitle": "",
+		"newsContent": "인터넷 미디어 ‘서울의소리’가 윤석열 대통령 자택 앞에서 24시간 집회를 열기로 했다.\n서울의소리 측은 윤 대통령 자택인 서초 아크로비스타 앞에 이달 8일 집회신고를 냈다며 관련 집회신고서를 유튜브 채널과 홈페이지에 공개했다.\n이들은 문재인 전 대통령 경남 양산 사저 앞에서 열리고 있는 집회·시위의 ‘맞불 집회’로 14일 오후 2시쯤부터 다음 달 7일까지 매일 방송 차량과 스피커 등을 동원해 집회를 열 예정이다.\n서울의소리는 대선 전 김건희 여사와 이명수 기자가 과거 통화했던 7시간 분량 녹음 파일을 공개해 김 여사로부터 손해배상 소송을 당하기도 했다.\n백은종 서울의소리 대표는 윤 대통령이 양산에서 열리는 시위와 관련 ‘대통령 집무실(주변)도 시위가 허가되는 판이니 다 법에 따라 되지 않겠느냐’고 언급한 것을 두고 “정치보복 테러를 옹호하는 망언”이라며 “양산 집회가 끝날 때까지 집회를 이어갈 것”이라고 했다.\n윤석열 대통령 자택을 관할로 둔 서초경찰서 관계자는 “아직 집회 신고만 이뤄졌을 뿐 실제 집회가 열리진 않은 상황이라 경력 동원 계획 등 대응책을 밝히기 어렵다”고 언론에 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷 미디어 ‘서울의소리’가 윤석열 대통령 자택 앞에서 24시간 집회를 열기로 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울의소리 측은 윤 대통령 자택인 서초 아크로비스타 앞에 이달 8일 집회신고를 냈다며 관련 집회신고서를 유튜브 채널과 홈페이지에 공개했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 문재인 전 대통령 경남 양산 사저 앞에서 열리고 있는 집회·시위의 ‘맞불 집회’로 14일 오후 2시쯤부터 다음 달 7일까지 매일 방송 차량과 스피커 등을 동원해 집회를 열 예정이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서울의소리는 대선 전 김건희 여사와 이명수 기자가 과거 통화했던 7시간 분량 녹음 파일을 공개해 김 여사로부터 손해배상 소송을 당하기도 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백은종 서울의소리 대표는 윤 대통령이 양산에서 열리는 시위와 관련 ‘대통령 집무실(주변)도 시위가 허가되는 판이니 다 법에 따라 되지 않겠느냐’고 언급한 것을 두고 “정치보복 테러를 옹호하는 망언”이라며 “양산 집회가 끝날 때까지 집회를 이어갈 것”이라고 했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤석열 대통령 자택을 관할로 둔 서초경찰서 관계자는 “아직 집회 신고만 이뤄졌을 뿐 실제 집회가 열리진 않은 상황이라 경력 동원 계획 등 대응책을 밝히기 어렵다”고 언론에 밝혔다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울의소리, 윤석열 대통령 서초동 집 앞 ‘맞불 집회’ 준비",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

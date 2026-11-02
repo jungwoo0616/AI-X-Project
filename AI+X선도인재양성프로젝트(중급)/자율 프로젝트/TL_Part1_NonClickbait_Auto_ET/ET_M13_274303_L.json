@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274303",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘만취 운전 사고’ 김새론, 검찰 송치",
+		"newsSubTitle": "",
+		"newsContent": "배우 김새론이 만취상태로 운전을 하다 사고를 낸 혐의로 검찰에 넘겨졌다.\n29일 경찰에 따르면 서울 강남경찰서는 전날 도로교통법 위반(음주운전·사고 후 미조치) 혐의로 김씨를 검찰에 불구속 송치했다.\n당시 김새론의 동승자였던 20대 A씨도 함께 음주운전 방조 혐의로 검찰에 넘겨졌다.\n김새론은 지난 5월 18일 오전 8시 서울 강남구 청담동에서 운전하다 도로 위 변압기, 가로수 등을 3번 이상 들이받는 사고를 냈다.\n김새론은 사고 후 음주 감지기 테스트에서 양성 반응이 확인되자 혈중알코올농도 측정을 거부하고 채혈 의사를 밝혔다.\n채혈 검사 결과 김새론의 혈중알코올농도는 도로교통공단이 규정하는 만취 수준인 0.1% 이상을 훌쩍 넘는 수치인 약 0.2%였다.\n김새론의 소속사 골드메달리스트는 이에 대해 “김새론 씨는 명백한 잘못에 대해 깊이 반성하고 있다”며 “사고로 인해 발생한 피해에 대해 최대한 보상을 진행 중이며, 끝까지 최선을 다해 책임질 예정”이라고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김새론이 만취상태로 운전을 하다 사고를 낸 혐의로 검찰에 넘겨졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 경찰에 따르면 서울 강남경찰서는 전날 도로교통법 위반(음주운전·사고 후 미조치) 혐의로 김씨를 검찰에 불구속 송치했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 김새론의 동승자였던 20대 A씨도 함께 음주운전 방조 혐의로 검찰에 넘겨졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김새론은 지난 5월 18일 오전 8시 서울 강남구 청담동에서 운전하다 도로 위 변압기, 가로수 등을 3번 이상 들이받는 사고를 냈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김새론은 사고 후 음주 감지기 테스트에서 양성 반응이 확인되자 혈중알코올농도 측정을 거부하고 채혈 의사를 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "채혈 검사 결과 김새론의 혈중알코올농도는 도로교통공단이 규정하는 만취 수준인 0.1% 이상을 훌쩍 넘는 수치인 약 0.2%였다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김새론의 소속사 골드메달리스트는 이에 대해 “김새론 씨는 명백한 잘못에 대해 깊이 반성하고 있다”며 “사고로 인해 발생한 피해에 대해 최대한 보상을 진행 중이며, 끝까지 최선을 다해 책임질 예정”이라고 밝힌 바 있다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘만취 운전 사고’ 김새론, 검찰 송치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

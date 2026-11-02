@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261928",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘20만 유튜버’ 박삐삐, ‘가라앉는 날’ 뮤직비디오 감짝 공개",
+		"newsSubTitle": "",
+		"newsContent": "인터넷 방송과 유튜브에서 활동 중인 BJ 박삐삐가 강렬한 수중 연기를 선보였다.\n지난 22일 오후 6시 박삐삐는 소속사 로칼하이레코즈를 통해 11일 발매된 ‘가라앉는 날’의 뮤직비디오를 공개, 팬들의 이목을 집중시켰다.\n영상 속 박삐삐는 곡 제목처럼 숨이 턱턱 막히고 눈물도 흐르지 않을 만큼 가라앉는 날, 그런 복합적인 감정을 완벽 소화해 시선을 사로잡았다.\n박삐삐는 홀로 남겨진 방 안에서 추욱 가라앉는 모습과 화려한 모습 뒤에 깊은 물속으로 빠져드는 모습, 또 다른 시선으로 바라보는 자신의 모습 등 복잡하고 미묘한 감정을 뮤직비디오를 통해 표현해 눈길을 끌었다.\n싱글 ‘가라앉는 날’은 감미로운 피아노 선율과 박삐삐의 매력적인 목소리가 조화롭게 어우러져 리스너들에게 따스한 위로를 건네는가 하면, 박삐삐는 “이 곡을 통해 같은 상황에 놓인 사람들이 공감하고 위로받으면 좋겠다”라며 진솔한 응원의 메시지를 전하기도 했다.\nBJ 박삐삐가 소속된 로칼하이레코즈는 국내 최다 아티스트 보유 레이블이며, 만능 엔터테이너로서 대중들에게 더 가깝게 다가갈 박삐삐를 지원하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷 방송과 유튜브에서 활동 중인 BJ 박삐삐가 강렬한 수중 연기를 선보였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일 오후 6시 박삐삐는 소속사 로칼하이레코즈를 통해 11일 발매된 ‘가라앉는 날’의 뮤직비디오를 공개, 팬들의 이목을 집중시켰다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 박삐삐는 곡 제목처럼 숨이 턱턱 막히고 눈물도 흐르지 않을 만큼 가라앉는 날, 그런 복합적인 감정을 완벽 소화해 시선을 사로잡았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박삐삐는 홀로 남겨진 방 안에서 추욱 가라앉는 모습과 화려한 모습 뒤에 깊은 물속으로 빠져드는 모습, 또 다른 시선으로 바라보는 자신의 모습 등 복잡하고 미묘한 감정을 뮤직비디오를 통해 표현해 눈길을 끌었다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "싱글 ‘가라앉는 날’은 감미로운 피아노 선율과 박삐삐의 매력적인 목소리가 조화롭게 어우러져 리스너들에게 따스한 위로를 건네는가 하면, 박삐삐는 “이 곡을 통해 같은 상황에 놓인 사람들이 공감하고 위로받으면 좋겠다”라며 진솔한 응원의 메시지를 전하기도 했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "BJ 박삐삐가 소속된 로칼하이레코즈는 국내 최다 아티스트 보유 레이블이며, 만능 엔터테이너로서 대중들에게 더 가깝게 다가갈 박삐삐를 지원하고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘20만 유튜버’ 박삐삐, ‘가라앉는 날’ 뮤직비디오 감짝 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

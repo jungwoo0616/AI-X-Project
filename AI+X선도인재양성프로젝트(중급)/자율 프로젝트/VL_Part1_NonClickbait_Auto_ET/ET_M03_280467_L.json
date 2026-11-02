@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280467",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "JTBC와 함께 맞이하는 새해",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 연말특집 ‘기억해 2015 기대해 2016’가 100분간 생방송으로 진행된다.\nJTBC 신예리 보도제작국장과 박진규 기자가 진행을 맡는다.\n이날 방송에서는 다사다난했던 올 한 해를 4가지 키워드로 정리해본다.\nJTBC가 선정한 올해의 키워드는 ‘YS와 안철수’ ‘마스크’ ‘요섹남’ ‘흙수저’다.\n또 내년에 국민이 듣고 싶은 뉴스와 소망들에 대해 이야기를 나눈다.\nJTBC ‘정치부 회의’에서 재치있는 입담을 뽐내온 양원보 정치부 기자와 JTBC ‘뉴스룸’에서 활발하게 취재를 벌여온 사회부 이지은 기자가 출연해 올해 사회 이슈를 날카롭게 분석한다.\nJTBC 예능 프로그램 ‘비정상회담’에서 활약 중인 미국의 타일러 라쉬(Tyler Rasch·사진)도 출연해 입담을 뽐낼 예정이다.\n자정에는 보신각을 생중계로 연결해 현장의 생생한 분위기를 전한다.\n지나간 2015년을 돌아보고 다가올 2016년을 준비하는 ‘기억해 2015 기대해 2016’는 31일 오후 11시부터 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 연말특집 ‘기억해 2015 기대해 2016’가 100분간 생방송으로 진행된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JTBC 신예리 보도제작국장과 박진규 기자가 진행을 맡는다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서는 다사다난했던 올 한 해를 4가지 키워드로 정리해본다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "JTBC가 선정한 올해의 키워드는 ‘YS와 안철수’ ‘마스크’ ‘요섹남’ ‘흙수저’다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 내년에 국민이 듣고 싶은 뉴스와 소망들에 대해 이야기를 나눈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "JTBC ‘정치부 회의’에서 재치있는 입담을 뽐내온 양원보 정치부 기자와 JTBC ‘뉴스룸’에서 활발하게 취재를 벌여온 사회부 이지은 기자가 출연해 올해 사회 이슈를 날카롭게 분석한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "JTBC 예능 프로그램 ‘비정상회담’에서 활약 중인 미국의 타일러 라쉬(Tyler Rasch·사진)도 출연해 입담을 뽐낼 예정이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자정에는 보신각을 생중계로 연결해 현장의 생생한 분위기를 전한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지나간 2015년을 돌아보고 다가올 2016년을 준비하는 ‘기억해 2015 기대해 2016’는 31일 오후 11시부터 방송된다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "JTBC와 함께 맞이하는 새해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

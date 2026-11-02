@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274133",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박보검, 군대 다녀오니 더 잘생겨졌다",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보검이 더욱 완벽해진 비주얼로 돌아왔다.\n박보검은 27일 오전(이하 한국시간) 프랑스 파리에서 열린 셀린느 2023 S/S 남성복 컬렉션에 참석했다.\n박보검은 이날 그룹 방탄소년단(BTS)의 멤버 뷔, 걸그룹 블랙핑크(BLACK PINK)의 멤버 리사와 함께 현장에 모습을 드러냈다.\n그는 셀린느 패션쇼에서 에디 레드메인 등 유명 아티스트들을 만나 인사를 나눴다.\n셀린느 행사에 참석한 박보검의 모습은 곧바로 각종 사회관계망서비스(SNS)와 온라인 커뮤니티에 확산하며 주목받았다.\n특히 박보검은 앞머리를 내린 채 올블랙 패션을 선보여 시선을 사로잡았다.\n누리꾼들은 “군대 다녀와서 얼굴 달라진 것 같다. 더 잘생겨졌다” 등 찬사하는 반응을 보였다.\n한편 박보검은 ‘영화’ 원더랜드 촬영을 마치고 지난 2020년 8월 해군 군악·의장대대에 현역 입대해 지난 4월 말 전역했다.\n지난 5월 열린 제58회 백상예술대상 시상식 사회를 시작으로 복귀를 알린 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보검이 더욱 완벽해진 비주얼로 돌아왔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박보검은 27일 오전(이하 한국시간) 프랑스 파리에서 열린 셀린느 2023 S/S 남성복 컬렉션에 참석했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박보검은 이날 그룹 방탄소년단(BTS)의 멤버 뷔, 걸그룹 블랙핑크(BLACK PINK)의 멤버 리사와 함께 현장에 모습을 드러냈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 셀린느 패션쇼에서 에디 레드메인 등 유명 아티스트들을 만나 인사를 나눴다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "셀린느 행사에 참석한 박보검의 모습은 곧바로 각종 사회관계망서비스(SNS)와 온라인 커뮤니티에 확산하며 주목받았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 박보검은 앞머리를 내린 채 올블랙 패션을 선보여 시선을 사로잡았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "누리꾼들은 “군대 다녀와서 얼굴 달라진 것 같다. 더 잘생겨졌다” 등 찬사하는 반응을 보였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 박보검은 ‘영화’ 원더랜드 촬영을 마치고 지난 2020년 8월 해군 군악·의장대대에 현역 입대해 지난 4월 말 전역했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난 5월 열린 제58회 백상예술대상 시상식 사회를 시작으로 복귀를 알린 바 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박보검, 군대 다녀오니 더 잘생겨졌다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

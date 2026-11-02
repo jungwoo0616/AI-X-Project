@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276439",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김사랑 '무단횡단' 논란에…네티즌 반응 \\\"무의식 중에 걸은 듯, 별걸 다 트집\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 김사랑이 무단횡단 논란에 휩싸인 가운데 누리꾼들의 반응도 뜨겁다.\n김사랑은 26일 오전 화보 촬영차 인천국제공항을 통해 런던으로 출국했다.\n이날 기자들은 김사랑의 모습을 찍기 위해 현장을 찾았다.\n그러나 김사랑이 적신호에 길을 건너는 사진이 언론에 공개되면서 '무단횡단 논란'에 휩싸였다.\n이에 소속사 측은 \\\"파란불에 건넜는데, 힐이 높아 걸음이 느려 중간에 신호가 바뀌었다. 매니저가 일단 멈춰 서게 했는데 마저 건너오라고 했던 것\\\"이라고 설명했다.\n그러나 일각에서는 김사랑이 파란불이 아닌 빨간 불에 횡단보도를 건넜다는 보도가 나오면서 소속사가 거짓 해명을 했다는 의견도 제기됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김사랑이 무단횡단 논란에 휩싸인 가운데 누리꾼들의 반응도 뜨겁다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김사랑은 26일 오전 화보 촬영차 인천국제공항을 통해 런던으로 출국했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 기자들은 김사랑의 모습을 찍기 위해 현장을 찾았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 김사랑이 적신호에 길을 건너는 사진이 언론에 공개되면서 '무단횡단 논란'에 휩싸였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 소속사 측은 \\\"파란불에 건넜는데, 힐이 높아 걸음이 느려 중간에 신호가 바뀌었다. 매니저가 일단 멈춰 서게 했는데 마저 건너오라고 했던 것\\\"이라고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 일각에서는 김사랑이 파란불이 아닌 빨간 불에 횡단보도를 건넜다는 보도가 나오면서 소속사가 거짓 해명을 했다는 의견도 제기됐다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김사랑 '무단횡단' 논란에…네티즌 반응 \\\"무의식 중에 걸은 듯, 별걸 다 트집\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

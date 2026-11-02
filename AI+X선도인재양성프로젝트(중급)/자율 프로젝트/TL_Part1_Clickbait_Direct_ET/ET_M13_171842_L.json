@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171842",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "서현, 더 청량하게[화보]",
+    "newsSubTitle": "",
+    "newsContent": "배우 서현이 물오른 비주얼을 선보였다.\n27일 주얼리 브랜드 티르리르(TirrLirr)는 서현과 함께한 화보를 공개했다.\n청량한 푸른 색감의 화보 속 서현은 옅은 하늘색 드레스를 입고, 특유의 투명하고 맑은 이미지를 한껏 살린 완벽한 자태를 뽐냈다.\n그는 신비로운 눈빛과 표정으로 컬러풀한 주얼리 스타일링을 완벽하게 소화하며 화보의 완성도를 높였다.\n브랜드 관계자는 “순수하고 깨끗한 이미지의 뮤즈 서현과 컬러풀한 주얼리들이 서로를 돋보이게 해주어 더욱 완벽한 화보가 탄생했다”라고 말하며 화보에 대한 만족감을 보였다.\n한편, 배우 서현은 내달 15일 공개되는 판타지 로맨스 드라마 <징크스의 연인>에서 저주를 풀기 위해 세상밖으로 뛰어든 여신 ‘슬비’로 분해 안방극장을 찾을 예정이며, 오는 8월에는 소녀시대 데뷔 15주년을 맞아 5년만에 완전체 컴백을 예고해 기대를 모으고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 서현이 물오른 비주얼을 선보였다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 주얼리 브랜드 티르리르(TirrLirr)는 서현과 함께한 화보를 공개했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "청량한 푸른 색감의 화보 속 서현은 옅은 하늘색 드레스를 입고, 특유의 투명하고 맑은 이미지를 한껏 살린 완벽한 자태를 뽐냈다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 신비로운 눈빛과 표정으로 컬러풀한 주얼리 스타일링을 완벽하게 소화하며 화보의 완성도를 높였다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "브랜드 관계자는 “순수하고 깨끗한 이미지의 뮤즈 서현과 컬러풀한 주얼리들이 서로를 돋보이게 해주어 더욱 완벽한 화보가 탄생했다”라고 말하며 화보에 대한 만족감을 보였다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 배우 서현은 내달 15일 공개되는 판타지 로맨스 드라마 <징크스의 연인>에서 저주를 풀기 위해 세상밖으로 뛰어든 여신 ‘슬비’로 분해 안방극장을 찾을 예정이며, 오는 8월에는 소녀시대 데뷔 15주년을 맞아 5년만에 완전체 컴백을 예고해 기대를 모으고 있다.",
+        "sentenceSize": 147
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 서현, 순수+컬러풀 스타일의 '이것' 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

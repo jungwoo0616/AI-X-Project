@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277795",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "어느 연예인의 눈물나는 셀프염색법",
+		"newsSubTitle": "",
+		"newsContent": "'불타는 청춘' 김광규가 독특한 방법으로 셀프 염색을 해 시선을 사로잡았다.\n지난달 25일 방송된 SBS '불타는 청춘'에서 차를 타고 이동 중이던 김광규는 이연수에게 거울이 있냐고 물었다.\n이에 이연수는 가방에서 거울을 꺼내 건네며 \\\"뭐하게요\\\"라고 물었다.\n김광규는 \\\"염색 좀 하게\\\"라며 매직으로 자신의 흰머리를 염색하기 시작했다.\n매직으로 흰 머리를 염색하는 그의 모습에 이연수는 당황하며 놀라움을 감추지 못했다.\n김광규는 \\\"생각보다 편해, 이게 깔끔하다\\\"고 말하며 태연한 모습을 보였다.\n방송을 접한 네티즌들은 “왜 머리가 없는지 알 것 같아졌다” “솔직히 티 많이 안난다” \\\"얼마 안남았다. 소중히 다뤄달라\\\" 등 다양한 의견을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'불타는 청춘' 김광규가 독특한 방법으로 셀프 염색을 해 시선을 사로잡았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 25일 방송된 SBS '불타는 청춘'에서 차를 타고 이동 중이던 김광규는 이연수에게 거울이 있냐고 물었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 이연수는 가방에서 거울을 꺼내 건네며 \\\"뭐하게요\\\"라고 물었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김광규는 \\\"염색 좀 하게\\\"라며 매직으로 자신의 흰머리를 염색하기 시작했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매직으로 흰 머리를 염색하는 그의 모습에 이연수는 당황하며 놀라움을 감추지 못했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김광규는 \\\"생각보다 편해, 이게 깔끔하다\\\"고 말하며 태연한 모습을 보였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방송을 접한 네티즌들은 “왜 머리가 없는지 알 것 같아졌다” “솔직히 티 많이 안난다” \\\"얼마 안남았다. 소중히 다뤄달라\\\" 등 다양한 의견을 보였다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "어느 연예인의 눈물나는 셀프염색법",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

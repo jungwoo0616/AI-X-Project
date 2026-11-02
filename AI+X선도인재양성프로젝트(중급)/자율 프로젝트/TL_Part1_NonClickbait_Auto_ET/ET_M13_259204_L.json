@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259204",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "빅스 레오, 라이브 무대 ‘Im Still Here’ 개최",
+		"newsSubTitle": "",
+		"newsContent": "빅스 레오가 스페셜 라이브 무대를 통해 오랜만에 팬들과 만난다.\n레오는 오는 3월 12일 오후 2시와 7시 총 2회에 걸쳐 광운대학교 동해문화예술관에서 ‘2022 LEO Special LIVE [Im Still Here]’를 개최한다.\n이번 스페셜 라이브 무대는 지난 2019년 12월 열렸던 팬미팅 이후 약 2년 3개월만에 레오와 팬들이 만나는 시간이다.\n특히 이번 스페셜 라이브는 오프라인 뿐 아니라 직접 현장을 방문하지 못하는 전세계 팬들을 위해 온라인 플랫폼 올레 tv, KAVECON에서 생중계 될 예정이다.\n레오는 빅스 활동을 비롯해 솔로 가수이자 뮤지컬 배우 등 다방면에서 활동하며 본인만의 아이덴티티를 구축했으며, 현재 뮤지컬 ‘프랑켄슈타인’에서 앙리 뒤프레와 빅터 피조물인 괴물 1인 2역을 맡아 100% 캐릭터에 녹아든 모습으로 연기력을 인정받으며 확실한 대세 행보를 펼치고 있다.\n한편 ‘2022 LEO Special LIVE [Im Still Here]’ 티켓 예매는 오는 2월 8일 시작된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅스 레오가 스페셜 라이브 무대를 통해 오랜만에 팬들과 만난다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "레오는 오는 3월 12일 오후 2시와 7시 총 2회에 걸쳐 광운대학교 동해문화예술관에서 ‘2022 LEO Special LIVE [Im Still Here]’를 개최한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 스페셜 라이브 무대는 지난 2019년 12월 열렸던 팬미팅 이후 약 2년 3개월만에 레오와 팬들이 만나는 시간이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 스페셜 라이브는 오프라인 뿐 아니라 직접 현장을 방문하지 못하는 전세계 팬들을 위해 온라인 플랫폼 올레 tv, KAVECON에서 생중계 될 예정이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레오는 빅스 활동을 비롯해 솔로 가수이자 뮤지컬 배우 등 다방면에서 활동하며 본인만의 아이덴티티를 구축했으며, 현재 뮤지컬 ‘프랑켄슈타인’에서 앙리 뒤프레와 빅터 피조물인 괴물 1인 2역을 맡아 100% 캐릭터에 녹아든 모습으로 연기력을 인정받으며 확실한 대세 행보를 펼치고 있다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘2022 LEO Special LIVE [Im Still Here]’ 티켓 예매는 오는 2월 8일 시작된다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅스 레오, 라이브 무대 ‘Im Still Here’ 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

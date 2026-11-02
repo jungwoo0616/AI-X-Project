@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270242",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "강다니엘 ‘D-8’ 하라메 공개",
+		"newsSubTitle": "",
+		"newsContent": "강다니엘의 첫 정규 앨범이 서서히 베일을 벗고 있다.\n커넥트엔터테인먼트는 16일 0시 정규 앨범 ‘더 스토리(The Story)’의 하이라이트 메들리를 공개하고, 앨범 전체를 관통하는 분위기와 메시지를 전달했다. ‘Parade’로 시작된 ‘하라메’는 앨범 속에 들어가는 다양한 이미지와 함께 열 트랙이 마치 한 곡처럼 이어졌다.\n이번 영상에서도 타이틀곡이 무엇인지 공개되지 않은 상황이라서 더욱 궁금증을 키우고 있다.\n영상 첫 화면에 앨범명과 함께 나타난 구절도 인상적이다. ‘Every story inspires a generation’, 모든 이야기는 영감을 준다는 문장은 이번 앨범 ‘The Story’와 절묘하게 맞닿는다.\n커넥트엔터테인먼트는 이날 공개된 영상에 대해 “트랙 순서가 아닌 가사에 포인트를 둔 스토리텔링이 있다”며 “데뷔 첫 정규앨범을 준비하면서 느껴온 감정, 굴곡, 팬들을 향한 마음 등을 찾아서 보면 더욱 흥미로울 것”이라고 설명했다.\n하이라이트 메들리를 공개하며 기대감을 최고조로 끌어올리고 있는 가운데, 진화된 강다니엘의 음악 세계를 엿볼 수 있는 ‘The Story’는 오는 24일 오후 6시 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강다니엘의 첫 정규 앨범이 서서히 베일을 벗고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "커넥트엔터테인먼트는 16일 0시 정규 앨범 ‘더 스토리(The Story)’의 하이라이트 메들리를 공개하고, 앨범 전체를 관통하는 분위기와 메시지를 전달했다. ‘Parade’로 시작된 ‘하라메’는 앨범 속에 들어가는 다양한 이미지와 함께 열 트랙이 마치 한 곡처럼 이어졌다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 영상에서도 타이틀곡이 무엇인지 공개되지 않은 상황이라서 더욱 궁금증을 키우고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상 첫 화면에 앨범명과 함께 나타난 구절도 인상적이다. ‘Every story inspires a generation’, 모든 이야기는 영감을 준다는 문장은 이번 앨범 ‘The Story’와 절묘하게 맞닿는다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "커넥트엔터테인먼트는 이날 공개된 영상에 대해 “트랙 순서가 아닌 가사에 포인트를 둔 스토리텔링이 있다”며 “데뷔 첫 정규앨범을 준비하면서 느껴온 감정, 굴곡, 팬들을 향한 마음 등을 찾아서 보면 더욱 흥미로울 것”이라고 설명했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하이라이트 메들리를 공개하며 기대감을 최고조로 끌어올리고 있는 가운데, 진화된 강다니엘의 음악 세계를 엿볼 수 있는 ‘The Story’는 오는 24일 오후 6시 발매된다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강다니엘 ‘D-8’ 하라메 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

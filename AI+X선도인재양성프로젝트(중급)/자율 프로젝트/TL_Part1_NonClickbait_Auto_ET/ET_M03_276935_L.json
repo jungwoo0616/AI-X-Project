@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276935",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "'킹스맨2' 개봉 일주일 더 앞당겨졌다…9월 22일",
+		"newsSubTitle": "",
+		"newsContent": "'킹스맨 : 골든서클'의 개봉이 '더' 앞당겨졌다.\n22일(현지시간) 데드라인 등 외신에 따르면 20세기폭스는 '킹스맨'의 속편인 '킹스맨 : 골든서클'의 개봉을 9월 29일에서 9월 22일로 일주일 앞당긴다고 공식 발표했다.\n앞서 '킹스맨 : 골든 써클'은 10월 6일 미국 개봉 예정이었다.\n하지만 9월 29일로 한차례 개봉을 앞당긴 후 이번에 또다시 개봉을 앞당긴 것이다. '킹스맨 : 골든서클'은 영국이 아닌 미국을 배경으로 한다.\n콜린 퍼스, 태런 에저튼과 함께 새 얼굴인 줄리안 무어, 채닝 테이텀, 할리 베리 등이 출연한다.\n전편에 이어 매튜 본 감독이 메가폰을 잡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'킹스맨 : 골든서클'의 개봉이 '더' 앞당겨졌다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일(현지시간) 데드라인 등 외신에 따르면 20세기폭스는 '킹스맨'의 속편인 '킹스맨 : 골든서클'의 개봉을 9월 29일에서 9월 22일로 일주일 앞당긴다고 공식 발표했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 '킹스맨 : 골든 써클'은 10월 6일 미국 개봉 예정이었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 9월 29일로 한차례 개봉을 앞당긴 후 이번에 또다시 개봉을 앞당긴 것이다. '킹스맨 : 골든서클'은 영국이 아닌 미국을 배경으로 한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "콜린 퍼스, 태런 에저튼과 함께 새 얼굴인 줄리안 무어, 채닝 테이텀, 할리 베리 등이 출연한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전편에 이어 매튜 본 감독이 메가폰을 잡았다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'킹스맨2' 개봉 일주일 더 앞당겨졌다…9월 22일",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

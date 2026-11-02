@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283464",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김지석, '전현무의 굿모닝FM' 일일DJ…하석진 전화연결",
+		"newsSubTitle": "",
+		"newsContent": "배우 김지석이 MBC 라디오 FM4U '굿모닝FM 전현무입니다(굿모닝FM)'에 깜짝 등장했다.\n17일 방송된 '굿모닝FM'에서는 휴가를 떠난 전현무 대신 김지석이 일일 DJ로 나서 청취자들과 만났다.\n이날 전현무를 대신 김지석의 목소리가 나오자 청취자들은 전현무의 행방을 궁금해했다.\n이에 김지석은 \\\"휴가 간 전현무를 대신해 일일 DJ를 맡았다\\\"고 설명했다.\n이어 그는 \\\"이 시간에 나오는 일이 좀 어색하다. 하지만 청취자분들께 힘을 드릴 수 있도록 노력하겠다\\\"고 전했다.\n이날 김지석은 배우 하석진과 전화 연결을 하기도 했다.\n하석진은 한남대교 남단에 있다며 페퍼톤스의 노래 '청춘'을 신청했다.\n전현무, 김지석, 하석진, 페퍼톤스 이장원은 tvN '뇌섹시대-문제적 남자'에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김지석이 MBC 라디오 FM4U '굿모닝FM 전현무입니다(굿모닝FM)'에 깜짝 등장했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 방송된 '굿모닝FM'에서는 휴가를 떠난 전현무 대신 김지석이 일일 DJ로 나서 청취자들과 만났다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 전현무를 대신 김지석의 목소리가 나오자 청취자들은 전현무의 행방을 궁금해했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 김지석은 \\\"휴가 간 전현무를 대신해 일일 DJ를 맡았다\\\"고 설명했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 그는 \\\"이 시간에 나오는 일이 좀 어색하다. 하지만 청취자분들께 힘을 드릴 수 있도록 노력하겠다\\\"고 전했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 김지석은 배우 하석진과 전화 연결을 하기도 했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하석진은 한남대교 남단에 있다며 페퍼톤스의 노래 '청춘'을 신청했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전현무, 김지석, 하석진, 페퍼톤스 이장원은 tvN '뇌섹시대-문제적 남자'에 출연 중이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김지석, '전현무의 굿모닝FM' 일일DJ…하석진 전화연결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

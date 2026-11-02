@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264040",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘고등래퍼·쇼미더머니’ 래퍼, 극단 선택 시도",
+		"newsSubTitle": "",
+		"newsContent": "힙합 오디션 프로그램에 참여해 이름을 알린 래퍼 A씨가 극단적 선택을 시도하다 경찰에 붙잡혔다.\n16일 뉴스1의 보도에 따르면 서울 강남경찰서는 A군(18)을 현주건조물방화미수 혐의로 임의동행했다.\nA씨는 이날 오전 4시 20분 경 서울 강남구의 한 오피스텔에서 극단적 선택을 시도했다.\n그러나 같은 방에서 자던 B씨가 이를 무마해 큰 사고로 벌어지는 것을 막았다.\n현재 A군과 B씨의 건강에는 이상이 없는 상태다.\n신고를 받고 출동한 경찰은 A군과 B씨를 임의동행해 진술을 들은 뒤 귀가 조치했다.\n※우울감 등 말하기 어려운 고민으로 전문가의 도움이 필요하면 자살예방 핫라인 1577-0199, 자살예방 상담전화 1393, 희망의 전화 129, 생명의 전화 1588-9191, 청소년 전화 1388 등에서 24시간 상담을 받을 수 있습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "힙합 오디션 프로그램에 참여해 이름을 알린 래퍼 A씨가 극단적 선택을 시도하다 경찰에 붙잡혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 뉴스1의 보도에 따르면 서울 강남경찰서는 A군(18)을 현주건조물방화미수 혐의로 임의동행했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 이날 오전 4시 20분 경 서울 강남구의 한 오피스텔에서 극단적 선택을 시도했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 같은 방에서 자던 B씨가 이를 무마해 큰 사고로 벌어지는 것을 막았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 A군과 B씨의 건강에는 이상이 없는 상태다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신고를 받고 출동한 경찰은 A군과 B씨를 임의동행해 진술을 들은 뒤 귀가 조치했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "※우울감 등 말하기 어려운 고민으로 전문가의 도움이 필요하면 자살예방 핫라인 1577-0199, 자살예방 상담전화 1393, 희망의 전화 129, 생명의 전화 1588-9191, 청소년 전화 1388 등에서 24시간 상담을 받을 수 있습니다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘고등래퍼·쇼미더머니’ 래퍼, 극단 선택 시도",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

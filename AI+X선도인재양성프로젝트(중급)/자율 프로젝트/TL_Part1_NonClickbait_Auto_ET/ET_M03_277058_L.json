@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277058",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'세계에서 가장 아름다운 할머니‘로 불리는 여성의 동안외모",
+		"newsSubTitle": "",
+		"newsContent": "‘세계에서 가장 아름다운 할머니’로 불리는 패션블로거가 화제다.\n지난 24일(현지 시간) 영국 일간지 미러는 온라인상에서 큰 화제를 몰고 다니는 ‘세계에서 가장 아름다운 할머니’를 소개했다.\n주인공은 이탈리아에 사는 자클리나(Zaklina, 47)라는 여성으로 겉보기에는 20대처럼 보이지만 놀랍게도 28살의 딸과 두 명의 손녀를 두고 있는 할머니다.\n그녀는 SNS를 통해 뛰어난 패션감각이 돋보이는 일상사진을 올리면서 유명세를 타기 시작했고 특히 인스타그램에 해시 태그 #grandmotherthatlovesfashion(할머니는 패션을 사랑해)를 달아 ‘할머니 패셔니스타’로 인기를 누리고 있다.\n세르비아 출신인 자클리나는 젊은 시절 했던 모델 활동과 다양한 도시에 머무른 경험으로 뛰어난 패션감각을 자랑한다.\n사진 속 자클리나는 40대 후반이라는 나이가 믿기지 않을 정도로 뛰어난 옷맵시를 선보여 부러움을 자아냈다.\n자크리나는 인터뷰에서 “나의 목표는 여성들의 당당한 모습을 일깨울 수 있게 영감을 주는 것”이라고 말했다.\n그녀는 SNS 활동 이외에는 28세 딸과 함께 어울려 노는 것을 가장 좋아하는 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘세계에서 가장 아름다운 할머니’로 불리는 패션블로거가 화제다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 24일(현지 시간) 영국 일간지 미러는 온라인상에서 큰 화제를 몰고 다니는 ‘세계에서 가장 아름다운 할머니’를 소개했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주인공은 이탈리아에 사는 자클리나(Zaklina, 47)라는 여성으로 겉보기에는 20대처럼 보이지만 놀랍게도 28살의 딸과 두 명의 손녀를 두고 있는 할머니다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그녀는 SNS를 통해 뛰어난 패션감각이 돋보이는 일상사진을 올리면서 유명세를 타기 시작했고 특히 인스타그램에 해시 태그 #grandmotherthatlovesfashion(할머니는 패션을 사랑해)를 달아 ‘할머니 패셔니스타’로 인기를 누리고 있다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세르비아 출신인 자클리나는 젊은 시절 했던 모델 활동과 다양한 도시에 머무른 경험으로 뛰어난 패션감각을 자랑한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진 속 자클리나는 40대 후반이라는 나이가 믿기지 않을 정도로 뛰어난 옷맵시를 선보여 부러움을 자아냈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자크리나는 인터뷰에서 “나의 목표는 여성들의 당당한 모습을 일깨울 수 있게 영감을 주는 것”이라고 말했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그녀는 SNS 활동 이외에는 28세 딸과 함께 어울려 노는 것을 가장 좋아하는 것으로 알려졌다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'세계에서 가장 아름다운 할머니‘로 불리는 여성의 동안외모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

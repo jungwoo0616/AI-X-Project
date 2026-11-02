@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263087",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "브레이브걸스 ‘THANK YOU’ 첫 유닛&단체 포토 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 브레이브걸스가 유닛 및 단체 포토 티저를 통해 압도적인 콘셉트 소화력을 보여줬다.\n브레이브걸스의 소속사 브레이브 엔터테인먼트는 7일 소속사와 브레이브걸스의 공식 SNS를 통해 브레이브걸스의 미니 6집 ‘THANK YOU’의 첫 번째 유닛 티저 2장과 단체컷 1장을 순차적으로 공개했다.\n사진 속 브레이브걸스는 럭셔리한 미니 드레스에 화려한 액세서리를 매치해 고혹미를 뽐내고 있다.\n카리스마 넘치는 눈빛으로 카메라를 응시하는 브레이브걸스의 모습은 팬들의 시선을 사로잡았다.\n멤버들의 비주얼과 독보적 아우라는 신보 콘셉트에 대한 팬들의 기대감을 고조시키고 있다.\n브레이브걸스의 신곡 ‘Thank You’는 디스코 펑크를 베이스로 한 레트로 팝 장르의 댄스 곡으로 멤버들의 곁에서 함께해 준 사람들에게 고마움을 담았다.\n브레이브걸스는 내일 자정, 정오에 걸쳐 두 번째 포토 티저 이미지를 공개하며 컴백 열기를 이어나갈 예정이다.\n그들의 신곡은 오는 14일 오후 6시, 각종 음원 사이트를 통해 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 브레이브걸스가 유닛 및 단체 포토 티저를 통해 압도적인 콘셉트 소화력을 보여줬다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "브레이브걸스의 소속사 브레이브 엔터테인먼트는 7일 소속사와 브레이브걸스의 공식 SNS를 통해 브레이브걸스의 미니 6집 ‘THANK YOU’의 첫 번째 유닛 티저 2장과 단체컷 1장을 순차적으로 공개했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 브레이브걸스는 럭셔리한 미니 드레스에 화려한 액세서리를 매치해 고혹미를 뽐내고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카리스마 넘치는 눈빛으로 카메라를 응시하는 브레이브걸스의 모습은 팬들의 시선을 사로잡았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멤버들의 비주얼과 독보적 아우라는 신보 콘셉트에 대한 팬들의 기대감을 고조시키고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "브레이브걸스의 신곡 ‘Thank You’는 디스코 펑크를 베이스로 한 레트로 팝 장르의 댄스 곡으로 멤버들의 곁에서 함께해 준 사람들에게 고마움을 담았다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "브레이브걸스는 내일 자정, 정오에 걸쳐 두 번째 포토 티저 이미지를 공개하며 컴백 열기를 이어나갈 예정이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그들의 신곡은 오는 14일 오후 6시, 각종 음원 사이트를 통해 공개될 예정이다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브레이브걸스 ‘THANK YOU’ 첫 유닛&단체 포토 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

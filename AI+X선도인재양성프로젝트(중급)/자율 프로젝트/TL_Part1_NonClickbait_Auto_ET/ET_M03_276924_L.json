@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276924",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'개리 깜짝 결혼'에 대한 런닝맨 멤버들의 반응",
+		"newsSubTitle": "",
+		"newsContent": "'런닝맨' 멤버들이 강개리의 결혼 사실을 알지 못했다고 말했다.\n30일 방송된 SBS '일요일이 좋다-런닝맨'에서 런닝맨 멤버들은 최근 비밀 결혼식을 올린 전 멤버 강개리를 언급했다.\n이광수와 김종국은 \\\"결혼한다는 소식은 못 들었지만, 전화번호는 바꿨지만 우리는 포에버\\\"라며 강개리에 대한 섭섭한 마음을 재치있게 표현했다.\n월요 커플로 큰 사랑을 받았던 송지효도 \\\"강개리 전화번호 바꿨다\\\"고 아쉬움을 토로했다.\n이에 유재석은 \\\"찾아가지 않을게. 연락처라도 알려줘\\\"라고 덧붙여 웃음을 자아냈다.\n지난해 10월 런닝맨에서 공식 하차한 강개리는 지난 5일 인스타그램을 통해 일반인 여성과의 결혼 사실을 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'런닝맨' 멤버들이 강개리의 결혼 사실을 알지 못했다고 말했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 SBS '일요일이 좋다-런닝맨'에서 런닝맨 멤버들은 최근 비밀 결혼식을 올린 전 멤버 강개리를 언급했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이광수와 김종국은 \\\"결혼한다는 소식은 못 들었지만, 전화번호는 바꿨지만 우리는 포에버\\\"라며 강개리에 대한 섭섭한 마음을 재치있게 표현했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "월요 커플로 큰 사랑을 받았던 송지효도 \\\"강개리 전화번호 바꿨다\\\"고 아쉬움을 토로했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 유재석은 \\\"찾아가지 않을게. 연락처라도 알려줘\\\"라고 덧붙여 웃음을 자아냈다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 10월 런닝맨에서 공식 하차한 강개리는 지난 5일 인스타그램을 통해 일반인 여성과의 결혼 사실을 알렸다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'개리 깜짝 결혼'에 대한 런닝맨 멤버들의 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

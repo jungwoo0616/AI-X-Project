@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275908",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "세 번째 마약 혐의 에이미, “강요였다” 주장",
+		"newsSubTitle": "",
+		"newsContent": "마약 투약 혐의로 1심에서 실형을 받은 가수 에이미(이윤지)가 항소심에서 혐의를 부인했다.\n연합뉴스는 20일 “에이미가 이날 열린 마약류 투약 혐의 관련 항소심에서 1심에서의 주장을 되풀이하며 혐의를 부인했다”고 보도했다.\n보도에 따르면 에이미는 이날 “강요로 어쩔 수 없이 투약했다”고 주장하며 1심의 징역 3년 선고가 부당하다고 말했다.\n검찰 측은 “필로폰 등 합성 대마를 취급하는 경우 법정형은 징역 5년 이상이지만, 1심서 사건이 병합되는 과정에서 착오가 있었다”며 1심 선고형이 가볍다고 주장했다.\n에이미는 지난해 4월 말부터 8월 말까지 6회에 걸쳐 필로폰을 투약한 혐의로 기소됐다.\n당시 1심은 에이미의 유죄를 인정하며 징역 3년을 선고했다.\n앞서 에이미는 2012년 프로포폴, 2014년 졸피뎀 투약 혐의로 강제 출국 및 입국 금지 조치를 받은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마약 투약 혐의로 1심에서 실형을 받은 가수 에이미(이윤지)가 항소심에서 혐의를 부인했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스는 20일 “에이미가 이날 열린 마약류 투약 혐의 관련 항소심에서 1심에서의 주장을 되풀이하며 혐의를 부인했다”고 보도했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 에이미는 이날 “강요로 어쩔 수 없이 투약했다”고 주장하며 1심의 징역 3년 선고가 부당하다고 말했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "검찰 측은 “필로폰 등 합성 대마를 취급하는 경우 법정형은 징역 5년 이상이지만, 1심서 사건이 병합되는 과정에서 착오가 있었다”며 1심 선고형이 가볍다고 주장했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "에이미는 지난해 4월 말부터 8월 말까지 6회에 걸쳐 필로폰을 투약한 혐의로 기소됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 1심은 에이미의 유죄를 인정하며 징역 3년을 선고했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 에이미는 2012년 프로포폴, 2014년 졸피뎀 투약 혐의로 강제 출국 및 입국 금지 조치를 받은 바 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세 번째 마약 혐의 에이미, “강요였다” 주장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

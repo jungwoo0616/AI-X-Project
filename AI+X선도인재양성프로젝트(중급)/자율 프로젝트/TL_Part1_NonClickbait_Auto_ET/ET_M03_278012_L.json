@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278012",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'옥중화' 진세연 긴 생머리 늘어뜨린 채…남심 저격 미모",
+		"newsSubTitle": "",
+		"newsContent": "배우 진세연이 (옥중화)에서 고수와의 연기 호흡으로 화제를 모은 가운데 그의 인스타그램 사진이 화제가 되고 있다..\n진세연은 17일 자신의 인스타그램에 “머리야 쭉쭉 자라나라 . 자라나라 머리 머리. 벌써 이 만큼이나. 발끝까지 길러보자”라는 글과 함께 사진을 게시했다.\n공개된 사진 속 진세연은 물오른 미모와 찰랑거리는 머릿결을 과시하고 있다.\n이를 본 누리꾼은 “진세연 (옥중화) 신들린 연기 너무 좋았다” “(옥중화)에서 신들린 진세연 너무 귀여웠어요” “(옥중화)에서 주상전하가 옥녀 좀 도와줬으면” 등의 반응을 보였다.\n한편, 진세연이 출연중인 MBC (옥중화)는 토요일, 일요일 오후 10시에 방송된다.\n온라인 중앙일보 [사진 진세연 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 진세연이 (옥중화)에서 고수와의 연기 호흡으로 화제를 모은 가운데 그의 인스타그램 사진이 화제가 되고 있다..",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "진세연은 17일 자신의 인스타그램에 “머리야 쭉쭉 자라나라 . 자라나라 머리 머리. 벌써 이 만큼이나. 발끝까지 길러보자”라는 글과 함께 사진을 게시했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 진세연은 물오른 미모와 찰랑거리는 머릿결을 과시하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 본 누리꾼은 “진세연 (옥중화) 신들린 연기 너무 좋았다” “(옥중화)에서 신들린 진세연 너무 귀여웠어요” “(옥중화)에서 주상전하가 옥녀 좀 도와줬으면” 등의 반응을 보였다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 진세연이 출연중인 MBC (옥중화)는 토요일, 일요일 오후 10시에 방송된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 진세연 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'옥중화' 진세연 긴 생머리 늘어뜨린 채…남심 저격 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

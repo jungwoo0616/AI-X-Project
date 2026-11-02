@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269456",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[속보] 강수연, 7일 별세",
+		"newsSubTitle": "",
+		"newsContent": "배우 강수연이 7일 세상을 떠났다.\n향년 56세. 7일 영화계에 따르면 고 강수연은 이날 오후 별세했다.\n강수연은 지난 5일 오후 5시48분쯤 서울 강남구 압구정동 자택에서 통증을 호소하다가 가족 신고로 출동한 소방관에게 심정지 상태로 발견됐다.\n이날 오전부터 두통을 호소했던 것으로 전해졌고 의식이 없는 상태에서 강남세브란스병원에서 치료를 받고 있었다.\n현재 고인의 빈소는 서울 삼성서울병원 장례식장에 마련되며, 발인은 5월11일이다.\n영화인장으로 치러진다.\n강수연은 3살에 아역 배우로 데뷔했다. ‘씨받이’ ‘아제 아제 바라아제’ ‘추락하는 것은 날개가 있다’ ‘경마장 가는 길’ ‘그대 안의 블루’ 등 주연으로 활약하며 1980~1990년대 한국 영화계를 주름잡았다. ‘송어’(2000)로는 도쿄 국제 영화제 특별상, 백상예술대상 최우수연기상 등을 수상했다.\nSBS ‘여인천하’ 정난정 역으로 큰 인기를 얻기도 했다.\n2015년부터 2017년까지는 부산국제영화제의 공동집행위원장으로도 활동했고 최근 연상호 감독의 넷플릭스 영화 ‘정이’ 촬영을 마치고 복귀를 앞두고 있었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강수연이 7일 세상을 떠났다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "향년 56세. 7일 영화계에 따르면 고 강수연은 이날 오후 별세했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강수연은 지난 5일 오후 5시48분쯤 서울 강남구 압구정동 자택에서 통증을 호소하다가 가족 신고로 출동한 소방관에게 심정지 상태로 발견됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 오전부터 두통을 호소했던 것으로 전해졌고 의식이 없는 상태에서 강남세브란스병원에서 치료를 받고 있었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 고인의 빈소는 서울 삼성서울병원 장례식장에 마련되며, 발인은 5월11일이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화인장으로 치러진다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강수연은 3살에 아역 배우로 데뷔했다. ‘씨받이’ ‘아제 아제 바라아제’ ‘추락하는 것은 날개가 있다’ ‘경마장 가는 길’ ‘그대 안의 블루’ 등 주연으로 활약하며 1980~1990년대 한국 영화계를 주름잡았다. ‘송어’(2000)로는 도쿄 국제 영화제 특별상, 백상예술대상 최우수연기상 등을 수상했다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SBS ‘여인천하’ 정난정 역으로 큰 인기를 얻기도 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2015년부터 2017년까지는 부산국제영화제의 공동집행위원장으로도 활동했고 최근 연상호 감독의 넷플릭스 영화 ‘정이’ 촬영을 마치고 복귀를 앞두고 있었다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[속보] 강수연, 7일 별세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

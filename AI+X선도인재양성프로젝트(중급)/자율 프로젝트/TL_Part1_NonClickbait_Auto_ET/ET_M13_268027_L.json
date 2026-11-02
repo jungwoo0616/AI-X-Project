@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268027",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "FT아일랜드, 3년 만의 콘서트 “전역 후 첫 완전체”",
+		"newsSubTitle": "",
+		"newsContent": "밴드 FT아일랜드(이홍기, 이재진, 최민환)가 전역 후 약 3년 만에 콘서트를 개최하며 팬들과 만난다.\nFT아일랜드는 오는 5월 15일 오후 6시 서울 중구 장충체육관에서 ‘THE CON 2022 : FT아일랜드’를 개최한다.\n이번 공연은 FT아일랜드가 군 입대 전 개최했던 2019년 콘서트 이후 약 3년 만에 열리는 공연이다. ‘THE CON 2022 : FT아일랜드’ 콘서트는 FT아일랜드의 음악과 매력을 온전히 즐길 수 있는 라이브 콘서트다.\nFT아일랜드는 지금까지 많은 사랑을 받았던 다양한 명곡들을 바탕으로 현장에서 느낄 수 있는 생생하고 파워풀한 밴드의 에너지를 더해 무대를 가득 채울 예정이다.\n특히 이번 공연은 FT아일랜드가 전역 후 처음, 콘서트로써 팬들과 대면하는 자리로 더욱 의미가 뜻깊다.\nFT아일랜드는 코로나19 펜데믹으로 인해 팬들과 만나지 못하는 상황에서도 꾸준히 콘서트에 대한 갈망을 표현하며 팬들과의 만남을 고대해왔다.\n감미로운 보컬과 탄탄한 세트리스트, 그리고 멤버들의 재치 있는 입담으로 또 한 번의 깊은 울림과 재미를 선사할 전망이다.\n한편 FT아일랜드의 ‘THE CON 2022 : FT아일랜드’는 빅샷과 SBS 미디어넷에서 공동 주최, 주관 및 제작한다.\n콘서트 티켓은 오늘(25일) 오후 7시부터 공연 예매 사이트 티켓링크에서 예매할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "밴드 FT아일랜드(이홍기, 이재진, 최민환)가 전역 후 약 3년 만에 콘서트를 개최하며 팬들과 만난다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "FT아일랜드는 오는 5월 15일 오후 6시 서울 중구 장충체육관에서 ‘THE CON 2022 : FT아일랜드’를 개최한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공연은 FT아일랜드가 군 입대 전 개최했던 2019년 콘서트 이후 약 3년 만에 열리는 공연이다. ‘THE CON 2022 : FT아일랜드’ 콘서트는 FT아일랜드의 음악과 매력을 온전히 즐길 수 있는 라이브 콘서트다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "FT아일랜드는 지금까지 많은 사랑을 받았던 다양한 명곡들을 바탕으로 현장에서 느낄 수 있는 생생하고 파워풀한 밴드의 에너지를 더해 무대를 가득 채울 예정이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이번 공연은 FT아일랜드가 전역 후 처음, 콘서트로써 팬들과 대면하는 자리로 더욱 의미가 뜻깊다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "FT아일랜드는 코로나19 펜데믹으로 인해 팬들과 만나지 못하는 상황에서도 꾸준히 콘서트에 대한 갈망을 표현하며 팬들과의 만남을 고대해왔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "감미로운 보컬과 탄탄한 세트리스트, 그리고 멤버들의 재치 있는 입담으로 또 한 번의 깊은 울림과 재미를 선사할 전망이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 FT아일랜드의 ‘THE CON 2022 : FT아일랜드’는 빅샷과 SBS 미디어넷에서 공동 주최, 주관 및 제작한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "콘서트 티켓은 오늘(25일) 오후 7시부터 공연 예매 사이트 티켓링크에서 예매할 수 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "FT아일랜드, 3년 만의 콘서트 “전역 후 첫 완전체”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

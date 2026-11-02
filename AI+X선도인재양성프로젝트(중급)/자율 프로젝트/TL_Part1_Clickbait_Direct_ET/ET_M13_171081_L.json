@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171081",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘음중’ 비투비, ‘아웃사이더’ 첫 무대 섹시美로 찢었다",
+    "newsSubTitle": "",
+    "newsContent": "그룹 비투비가 ‘Outsider’(아웃사이더)의 컴백 무대를 성공적으로 마쳤다.\n비투비는 지난 4일 방송된 MBC ‘쇼! 음악중심’에서 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)의 타이틀곡 ‘Outsider’(아웃사이더) 무대를 선보였다.\n이날 비투비는 블랙과 화이트 컬러의 거친 카리스마를 발산하는 의상을 입어 ‘어른 섹시’라는 타이틀을 완벽하게 소화시켜 무대를 압도시켰다.\n특히 안무 속에서도 흔들리지 않는 라이브 실력은 물론 카리스마 넘치는 눈빛과 절제된 섹시미가 시선을 사로잡았다.\n신곡 ‘Outsider’(아웃사이더)는 쉽게 따라 부를 수 있는 중독적인 멜로디의 Neo Funk/Neo Soul 장르의 곡으로 멤버 이민혁과 프니엘이 참여해 비투비만의 음악적 역량을 담아냈다.\n지난 달 30일 발매한 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 전 세계 13개 지역 아이튠즈 톱 앨범 차트 정상에 올랐으며, 뮤직비디오는 공개 6일 차인 지난(4일) 오전 1시 기준 유튜브 조회수 1000만 뷰를 돌파하며 글로벌 인기를 입증했다.\n한편, 비투비는 신곡 ‘Outsider’(아웃사이더)로 활발한 활동을 펼칠 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 비투비가 ‘Outsider’(아웃사이더)의 컴백 무대를 성공적으로 마쳤다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비투비는 지난 4일 방송된 MBC ‘쇼! 음악중심’에서 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)의 타이틀곡 ‘Outsider’(아웃사이더) 무대를 선보였다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 비투비는 블랙과 화이트 컬러의 거친 카리스마를 발산하는 의상을 입어 ‘어른 섹시’라는 타이틀을 완벽하게 소화시켜 무대를 압도시켰다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 안무 속에서도 흔들리지 않는 라이브 실력은 물론 카리스마 넘치는 눈빛과 절제된 섹시미가 시선을 사로잡았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신곡 ‘Outsider’(아웃사이더)는 쉽게 따라 부를 수 있는 중독적인 멜로디의 Neo Funk/Neo Soul 장르의 곡으로 멤버 이민혁과 프니엘이 참여해 비투비만의 음악적 역량을 담아냈다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 달 30일 발매한 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 전 세계 13개 지역 아이튠즈 톱 앨범 차트 정상에 올랐으며, 뮤직비디오는 공개 6일 차인 지난(4일) 오전 1시 기준 유튜브 조회수 1000만 뷰를 돌파하며 글로벌 인기를 입증했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 비투비는 신곡 ‘Outsider’(아웃사이더)로 활발한 활동을 펼칠 예정이다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비투비, 신곡 '아웃사이더'로 '이곳'에서 아이튠즈 톱 앨범 차트 정상에 올라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

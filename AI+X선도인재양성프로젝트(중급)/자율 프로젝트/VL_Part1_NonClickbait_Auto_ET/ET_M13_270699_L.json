@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270699",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방심위 “동물학대 정보 적발 급증”",
+		"newsSubTitle": "",
+		"newsContent": "방송통신심의위원회 통신심의소위원회가 19일 회의를 열고 동물에 물리적인 고통을 가하는 내용의 정보 102건에 대해 시정요구(삭제·국내접속 차단)를 의결했다고 밝혔다.\n이들 정보는 방심위가 올해 2월과 4월 중점모니터링을 통해 적발한 것이다.\n두 달간 모니터링에 따른 것이지만 지난해 한 해 동안 같은 유형의 사안에 대해 내려진 시정요구 36건의 2.8배에 해당한다.\n방심위가 시정요구를 의결한 동물학대 정보에는 살아있는 동물의 몸에 불을 붙이거나 사지를 묶어 전기로 고문하고, 물리적으로 학대해 살해하며 잔혹·혐오감을 주는 내용 등이 포함됐다.\n주로 해외 동물학대 영상 등을 재게시하는 형태로 유통됐다고 방심위는 전했다.\n지난 2월에는 철망 안에 든 고양이를 산 채로 불태우는 영상이 온라인 커뮤니티 디시인사이드에 올라와 논란이 일었다.\n방심위는 주기적으로 동물학대 정보를 모니터링하면서 동물보호법 위반 소지가 있는 정보를 확인하면 경찰 등 수사기관과의 협조를 통해 강력히 대응할 방침이다.\n인터넷에서 동물학대 관련 정보를 발견하면 방심위 홈페이지에서 민원신청 방식으로 신고할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신심의위원회 통신심의소위원회가 19일 회의를 열고 동물에 물리적인 고통을 가하는 내용의 정보 102건에 대해 시정요구(삭제·국내접속 차단)를 의결했다고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이들 정보는 방심위가 올해 2월과 4월 중점모니터링을 통해 적발한 것이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 달간 모니터링에 따른 것이지만 지난해 한 해 동안 같은 유형의 사안에 대해 내려진 시정요구 36건의 2.8배에 해당한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방심위가 시정요구를 의결한 동물학대 정보에는 살아있는 동물의 몸에 불을 붙이거나 사지를 묶어 전기로 고문하고, 물리적으로 학대해 살해하며 잔혹·혐오감을 주는 내용 등이 포함됐다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주로 해외 동물학대 영상 등을 재게시하는 형태로 유통됐다고 방심위는 전했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2월에는 철망 안에 든 고양이를 산 채로 불태우는 영상이 온라인 커뮤니티 디시인사이드에 올라와 논란이 일었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방심위는 주기적으로 동물학대 정보를 모니터링하면서 동물보호법 위반 소지가 있는 정보를 확인하면 경찰 등 수사기관과의 협조를 통해 강력히 대응할 방침이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인터넷에서 동물학대 관련 정보를 발견하면 방심위 홈페이지에서 민원신청 방식으로 신고할 수 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방심위 “동물학대 정보 적발 급증”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

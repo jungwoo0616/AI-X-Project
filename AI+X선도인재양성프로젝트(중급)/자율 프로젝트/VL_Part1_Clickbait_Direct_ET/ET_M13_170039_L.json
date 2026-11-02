@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170039",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배우 이요원, 유치원부터 현재까지 ‘정변’ 사진 공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 이요원의 과거 사진이 공개됐다.\n23일 이요원 소속사 매니지먼트 구는 이요원의 유치원 졸업 사진과 함께 한결같은 미모가 돋보이는 변천사를 공개해 시선을 사로잡고 있다.\n오밀조밀한 이목구비를 자랑하며 떡잎부터 남달랐던 이요원은 첫 영화 주연작인 ‘고양이를 부탁해’를 통해 극강의 청순함으로 완벽한 ‘정변’의 예시를 보여줬다.\n최근 진행된 화보에서는 데뷔 초를 연상시키는 클래식한 모습을 선보이며 흠잡을 데 없는 아름다움을 완성시키고 있어 절로 감탄을 유발한다.\nJTBC 기대작 ‘그린마더스클럽’ 촬영에 한창인 이요원은 자존심으로 똘똘 뭉친 고학력 엄마 은표 역으로 데뷔 후 첫 엄마 역할에 도전한다.\n또 올해로 개봉 20주년을 맞은 영화 ‘고양이를 부탁해’(감독 정재은)가 10월 13일 재개봉을 확정, 스크린에서 다시 만나게 될 이요원의 모습에 많은 이들의 기대감을 증폭시키고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이요원의 과거 사진이 공개됐다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 이요원 소속사 매니지먼트 구는 이요원의 유치원 졸업 사진과 함께 한결같은 미모가 돋보이는 변천사를 공개해 시선을 사로잡고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오밀조밀한 이목구비를 자랑하며 떡잎부터 남달랐던 이요원은 첫 영화 주연작인 ‘고양이를 부탁해’를 통해 극강의 청순함으로 완벽한 ‘정변’의 예시를 보여줬다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 진행된 화보에서는 데뷔 초를 연상시키는 클래식한 모습을 선보이며 흠잡을 데 없는 아름다움을 완성시키고 있어 절로 감탄을 유발한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "JTBC 기대작 ‘그린마더스클럽’ 촬영에 한창인 이요원은 자존심으로 똘똘 뭉친 고학력 엄마 은표 역으로 데뷔 후 첫 엄마 역할에 도전한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 올해로 개봉 20주년을 맞은 영화 ‘고양이를 부탁해’(감독 정재은)가 10월 13일 재개봉을 확정, 스크린에서 다시 만나게 될 이요원의 모습에 많은 이들의 기대감을 증폭시키고 있다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이요원 과거 사진 노출…. 흠잡을 데 없는 굴곡진 몸매! 그저 감탄 유발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

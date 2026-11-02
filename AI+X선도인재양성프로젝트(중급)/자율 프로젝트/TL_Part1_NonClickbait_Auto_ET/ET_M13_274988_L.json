@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274988",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이브 ‘LOVE DIVE’ 꾸준한 상승세",
+		"newsSubTitle": "",
+		"newsContent": "‘4세대 대표’ 그룹 아이브(IVE, 안유진·가을·레이·장원영·리즈·이서)가 공백기에도 변함 없는 인기를 증명했다.\n7일 소속사 스타쉽엔터테인먼트에 따르면 아이브는 두 번째 싱글 ‘LOVE DIVE’(러브 다이브)로 멜론 TOP 100 차트에서 2주째 1위를 기록하고 있다. ‘LOVE DIVE’는 지난달 19일 멜론 ‘실시간 음원 차트’ 1위에 오른 뒤 2주 연속 1위를 차지했으며 6월 월간 1위를 기록했다.\n이밖에도 네이버 VIBE(바이브), 유튜브 뮤직 인기곡 차트, 벅스 실시간 차트에서도 상위권 행진을 이어가고 있다.\n아이브의 ‘LOVE DIVE’ 인기는 해외에서도 통했다. ‘Billboard Global 200’(빌보드 글로벌 200) 차트 107위, ‘Billboard Global Excl. U.S.’(빌보드 글로벌 미국 제외) 차트에서 62위에 랭크됐다.\n여기에 ‘LOVE DIVE’ 뮤직비디오 조회수가 1억 뷰를 돌파하며 데뷔곡 ‘ELEVEN’(일레븐)에 이은 두 번째 억대 뷰를 기록했다.\n아이브는 공식 활동이 종료됐음에도 3일 방송된 SBS ‘인기가요’ 1위를 거머쥐며 꾸준한 반응을 얻고 있다. ‘LOVE DIVE’로 자체 기록을 경신한 아이브가 앞으로 어떤 모습을 보여줄지 기대감이 커진다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘4세대 대표’ 그룹 아이브(IVE, 안유진·가을·레이·장원영·리즈·이서)가 공백기에도 변함 없는 인기를 증명했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 소속사 스타쉽엔터테인먼트에 따르면 아이브는 두 번째 싱글 ‘LOVE DIVE’(러브 다이브)로 멜론 TOP 100 차트에서 2주째 1위를 기록하고 있다. ‘LOVE DIVE’는 지난달 19일 멜론 ‘실시간 음원 차트’ 1위에 오른 뒤 2주 연속 1위를 차지했으며 6월 월간 1위를 기록했다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이밖에도 네이버 VIBE(바이브), 유튜브 뮤직 인기곡 차트, 벅스 실시간 차트에서도 상위권 행진을 이어가고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이브의 ‘LOVE DIVE’ 인기는 해외에서도 통했다. ‘Billboard Global 200’(빌보드 글로벌 200) 차트 107위, ‘Billboard Global Excl. U.S.’(빌보드 글로벌 미국 제외) 차트에서 62위에 랭크됐다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 ‘LOVE DIVE’ 뮤직비디오 조회수가 1억 뷰를 돌파하며 데뷔곡 ‘ELEVEN’(일레븐)에 이은 두 번째 억대 뷰를 기록했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이브는 공식 활동이 종료됐음에도 3일 방송된 SBS ‘인기가요’ 1위를 거머쥐며 꾸준한 반응을 얻고 있다. ‘LOVE DIVE’로 자체 기록을 경신한 아이브가 앞으로 어떤 모습을 보여줄지 기대감이 커진다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이브 ‘LOVE DIVE’ 꾸준한 상승세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

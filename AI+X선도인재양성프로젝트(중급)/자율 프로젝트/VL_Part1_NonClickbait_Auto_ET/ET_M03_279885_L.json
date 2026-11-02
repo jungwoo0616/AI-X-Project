@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279885",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "배우 유연석, ‘응답하라 1988’ 잘 될 줄 알았다. '솔직고백'",
+		"newsSubTitle": "",
+		"newsContent": "배우 유연석, ‘응답하라 1988’ 잘 될 줄 알았다.\n9일 방송된 SBS 파워FM ‘두시탈출 컬투쇼’의 ‘스타와 토킹 어바웃’코너에는 영화 ‘그날의 분위기’에서 호흡맞춘 유연석 조재윤이 출연했다.\n이날 유연석은 “ ‘응답하라 1988’이 잘 될 줄 알았다. 친분 있는 배우들도 있다”라며“혜리는 연속극을 같이 했었고, 이동휘는 영화를 함께 했다.\n고경표도 드라마를 함께 했고, 류혜영과도 영화를 했다며 자신의 인맥에 대해 말했다.\n이어 유연석은“손호준과 함께 먹을 것을 싸들고 ‘응답하라 1988’ 세트장을 찾았었다”라며“동네가 실제처럼 잘 지어져있었다.\n세트가 실제처럼 돼 있었다.\n실제 동네를 만들었다고 말했다.\n유연석은 1984년 4월 11일 출생, 킹콩엔터테인먼트에 소속되어있는 배우다.\n온라인 중앙일보 [사진 중앙DB]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유연석, ‘응답하라 1988’ 잘 될 줄 알았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 방송된 SBS 파워FM ‘두시탈출 컬투쇼’의 ‘스타와 토킹 어바웃’코너에는 영화 ‘그날의 분위기’에서 호흡맞춘 유연석 조재윤이 출연했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 유연석은 “ ‘응답하라 1988’이 잘 될 줄 알았다. 친분 있는 배우들도 있다”라며“혜리는 연속극을 같이 했었고, 이동휘는 영화를 함께 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고경표도 드라마를 함께 했고, 류혜영과도 영화를 했다며 자신의 인맥에 대해 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 유연석은“손호준과 함께 먹을 것을 싸들고 ‘응답하라 1988’ 세트장을 찾았었다”라며“동네가 실제처럼 잘 지어져있었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세트가 실제처럼 돼 있었다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제 동네를 만들었다고 말했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유연석은 1984년 4월 11일 출생, 킹콩엔터테인먼트에 소속되어있는 배우다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 중앙DB]",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 유연석, ‘응답하라 1988’ 잘 될 줄 알았다. '솔직고백'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

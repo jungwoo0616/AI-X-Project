@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277415",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "윤정수, '30억' 빚 새해에 모두 청산했다",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 윤정수가 30억 원에 달하는 빚을 모두 청산한 것으로 알려져 화제다.\n지난 27일 방송된 SBS '미운우리새끼'에서는 박수홍, 윤정수, 손헌수, 배기성 등의 지인들이 함께 새해를 맞는 모습이 나왔다.\n박수홍은 지인들과 식사를 하며 \\\"윤정수가 드디어 빚을 다 청산했다\\\"며 기쁜 소식을 전했다.\n윤정수는 뿌듯한 듯 수줍게 웃었다.\n이 모습에 박수홍은 \\\"그래서 내가 (다시) 빚을 지게 하려 한다. 삶의 동기 부여가 될 것이다\\\"라며 농담을 건넸다.\n옆에 있던 손헌수 역시 \\\"형은 빚이 있어야 더 열심히 살더라\\\"라고 말하며 장난을 쳤다.\n윤정수는 개그맨 최초로 '파산 신청'을 했으며, 과거 MBC 황금어장-라디오스타에 출연해 \\\"빚이 30억원 있다\\\"는 충격 고백을 한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 윤정수가 30억 원에 달하는 빚을 모두 청산한 것으로 알려져 화제다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 27일 방송된 SBS '미운우리새끼'에서는 박수홍, 윤정수, 손헌수, 배기성 등의 지인들이 함께 새해를 맞는 모습이 나왔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박수홍은 지인들과 식사를 하며 \\\"윤정수가 드디어 빚을 다 청산했다\\\"며 기쁜 소식을 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤정수는 뿌듯한 듯 수줍게 웃었다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 모습에 박수홍은 \\\"그래서 내가 (다시) 빚을 지게 하려 한다. 삶의 동기 부여가 될 것이다\\\"라며 농담을 건넸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "옆에 있던 손헌수 역시 \\\"형은 빚이 있어야 더 열심히 살더라\\\"라고 말하며 장난을 쳤다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윤정수는 개그맨 최초로 '파산 신청'을 했으며, 과거 MBC 황금어장-라디오스타에 출연해 \\\"빚이 30억원 있다\\\"는 충격 고백을 한 바 있다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤정수, '30억' 빚 새해에 모두 청산했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277296",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'레전드' 황승언 남성잡지 화보의 진실 \\\"환상 가지는 분 있는데…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 황승언이 남성지 표지 모델을 장식했던 일을 언급했다.\n15일 첫 방송된 tvN '10살 차이'에서는 가수 황보, 배우 최여진·황승언의 첫 번째 연상연하 소개팅이 전파를 탔다.\n이날 방송에서 황승언은 소개팅에 앞서 \\\"처음 봤을 때 얼굴을 본다\\\"며 \\\"처음 보면 얼굴밖에 안보이니까 얼굴만 보는 게 당연하지 않냐\\\"고 솔직한 면모를 보였다.\n황승언의 10살 연상남은 여행 작가 김동영이었다.\n이날 만남에서 김동영이 황승언이 표지 모델이었던 잡지를 가지고 있자 황승언은 당황함을 감추지 못했다.\n그는 \\\"나도 몰랐는데 보정을 했다\\\"며 \\\"밋밋한 부위가 있었던 것 같다\\\"고 말해 웃음을 자아냈다.\n그러면서 \\\"이 잡지가 저를 알리게 해준 고마운 잡지인데 이것 때문에 환상을 가지는 분들이 있더라\\\"며 \\\"상업적으로 가면 어쩔 수 없는 것 같다\\\"고 속상해했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 황승언이 남성지 표지 모델을 장식했던 일을 언급했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 첫 방송된 tvN '10살 차이'에서는 가수 황보, 배우 최여진·황승언의 첫 번째 연상연하 소개팅이 전파를 탔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 황승언은 소개팅에 앞서 \\\"처음 봤을 때 얼굴을 본다\\\"며 \\\"처음 보면 얼굴밖에 안보이니까 얼굴만 보는 게 당연하지 않냐\\\"고 솔직한 면모를 보였다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "황승언의 10살 연상남은 여행 작가 김동영이었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 만남에서 김동영이 황승언이 표지 모델이었던 잡지를 가지고 있자 황승언은 당황함을 감추지 못했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 \\\"나도 몰랐는데 보정을 했다\\\"며 \\\"밋밋한 부위가 있었던 것 같다\\\"고 말해 웃음을 자아냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러면서 \\\"이 잡지가 저를 알리게 해준 고마운 잡지인데 이것 때문에 환상을 가지는 분들이 있더라\\\"며 \\\"상업적으로 가면 어쩔 수 없는 것 같다\\\"고 속상해했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'레전드' 황승언 남성잡지 화보의 진실 \\\"환상 가지는 분 있는데…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

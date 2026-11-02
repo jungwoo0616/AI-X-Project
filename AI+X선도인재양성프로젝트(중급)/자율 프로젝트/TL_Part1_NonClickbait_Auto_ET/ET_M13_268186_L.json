@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268186",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "스윙스, 수백만원 도난 피해 봤다 “소름 돋도록 무서운 일”",
+		"newsSubTitle": "",
+		"newsContent": "가수 스윙스가 법인 신용카드 도난 피해를 봤다.\n스윙스는 26일 새벽 자신의 사회관계망서비스(SNS)에 “흉흉하다... 어우”라면서 “대략 한 시간 전에 소름 돋도록 무서운 일이 생겼다”며 운을 뗐다.\n그는 “누가 내 법카를 가지고 밥 12시 31분에 의류업체 Far Fetch에서 426만 3천원 정도를 인터넷으로 결제함. 그 전에 낮에 오늘 커피숍에서 지갑을 (또) 잃음. 카페에 전화했더니 지갑 찾았다고 보관해준다고 함. 그 시각은 대략 어제 18시쯤이었음. 그런데 새벽 1시경에 카드사에서 전화가 와서 나에게 상황을 설명하네”라고 알렸다.\n이어 “한도를 확인하려고 처음엔 가격 높은 것 사는 것 봐... 그러고 서서히 낮추다가 승인. 그리고는 마지막에 또 살짝 저렴한 것 구입하려다 실패... 넌 잡는다 내가”라면서 경고했다.\n그러면서 “여러분 지갑 잘 챙기세요...”라고 당부했다.\n한편 스윙스는 최근 “드디어 내 첫 건물을 내 주제에 공투로 구하게 됐고, 지금은 매입 후 1년 가까이 기다려서 이제야 리모델링 공사에 들어갔다”며 건물주가 됐다고 밝혔다.\n해당 건물은 서울 서대문구 연희동에 위치했고, 유튜버 2명과 함께 공동투자로 매입한 것으로 알려졌다.\n스윙스는 지난 2008년 EP앨범 ‘Upgrade(업그레이드)’로 데뷔, 올해로 데뷔 14년차를 맞이하는 래퍼 겸 프로듀서다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 스윙스가 법인 신용카드 도난 피해를 봤다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스윙스는 26일 새벽 자신의 사회관계망서비스(SNS)에 “흉흉하다... 어우”라면서 “대략 한 시간 전에 소름 돋도록 무서운 일이 생겼다”며 운을 뗐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “누가 내 법카를 가지고 밥 12시 31분에 의류업체 Far Fetch에서 426만 3천원 정도를 인터넷으로 결제함. 그 전에 낮에 오늘 커피숍에서 지갑을 (또) 잃음. 카페에 전화했더니 지갑 찾았다고 보관해준다고 함. 그 시각은 대략 어제 18시쯤이었음. 그런데 새벽 1시경에 카드사에서 전화가 와서 나에게 상황을 설명하네”라고 알렸다.",
+				"sentenceSize": 192
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “한도를 확인하려고 처음엔 가격 높은 것 사는 것 봐... 그러고 서서히 낮추다가 승인. 그리고는 마지막에 또 살짝 저렴한 것 구입하려다 실패... 넌 잡는다 내가”라면서 경고했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 “여러분 지갑 잘 챙기세요...”라고 당부했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 스윙스는 최근 “드디어 내 첫 건물을 내 주제에 공투로 구하게 됐고, 지금은 매입 후 1년 가까이 기다려서 이제야 리모델링 공사에 들어갔다”며 건물주가 됐다고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 건물은 서울 서대문구 연희동에 위치했고, 유튜버 2명과 함께 공동투자로 매입한 것으로 알려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스윙스는 지난 2008년 EP앨범 ‘Upgrade(업그레이드)’로 데뷔, 올해로 데뷔 14년차를 맞이하는 래퍼 겸 프로듀서다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스윙스, 수백만원 도난 피해 봤다 “소름 돋도록 무서운 일”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

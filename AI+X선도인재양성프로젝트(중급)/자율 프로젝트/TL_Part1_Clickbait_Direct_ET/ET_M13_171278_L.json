@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171278",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "강호동×이수근 ‘맘마미안’ MC 발탁[공식]",
+    "newsSubTitle": "",
+    "newsContent": "강호동, 이수근이 신규 예능 ‘맘마미안’의 MC로 출격한다.\n오는 12월 방송되는 MBC에브리원 신규 프로그램 ‘맘마미안’은 스타가 출연해 엄마의 손 맛을 찾아내는 예능 프로그램이다.\n스타는 엄마가 만든 음식과 ‘엄마의 손 맛’을 그대로 재현한 셰프 군단의 음식 중에 엄마의 손 맛을 추리해야한다.\n스타가 엄마의 음식을 찾아낼 수 있을지, 셰프의 음식을 선택해 ‘엄마 미안’이라고 외치게 될지 궁금증을 유발한다. ‘맘마미안’ MC는 믿고 보는 최강 콤비 강호동, 이수근으로 확정됐다.\n강호동은 따뜻하고 푸근한 공감 능력과 진정성 있는 진행으로 스타와 엄마의 진솔한 이야기를 이끌어낼 전망이다.\n또한 이수근은 스타 엄마와 셰프 군단의 요리 대결을 긴장감 있게 전하며 특유의 친화력을 한껏 발휘해 프로그램을 더욱 풍성하게 만들 것으로 보인다.\nMC로 발탁된 이수근은 “셰프가 엄마의 손 맛을 완벽하게 따라할 수 있을까. 더 맛있게 만들어도 안 된다”며 첫 촬영에 대한 기대감을 내비쳤다.\nMBC에브리원 신규 예능 프로그램 ‘맘마미안’은 오는 12월 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강호동, 이수근이 신규 예능 ‘맘마미안’의 MC로 출격한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 12월 방송되는 MBC에브리원 신규 프로그램 ‘맘마미안’은 스타가 출연해 엄마의 손 맛을 찾아내는 예능 프로그램이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스타는 엄마가 만든 음식과 ‘엄마의 손 맛’을 그대로 재현한 셰프 군단의 음식 중에 엄마의 손 맛을 추리해야한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스타가 엄마의 음식을 찾아낼 수 있을지, 셰프의 음식을 선택해 ‘엄마 미안’이라고 외치게 될지 궁금증을 유발한다. ‘맘마미안’ MC는 믿고 보는 최강 콤비 강호동, 이수근으로 확정됐다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강호동은 따뜻하고 푸근한 공감 능력과 진정성 있는 진행으로 스타와 엄마의 진솔한 이야기를 이끌어낼 전망이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 이수근은 스타 엄마와 셰프 군단의 요리 대결을 긴장감 있게 전하며 특유의 친화력을 한껏 발휘해 프로그램을 더욱 풍성하게 만들 것으로 보인다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "MC로 발탁된 이수근은 “셰프가 엄마의 손 맛을 완벽하게 따라할 수 있을까. 더 맛있게 만들어도 안 된다”며 첫 촬영에 대한 기대감을 내비쳤다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "MBC에브리원 신규 예능 프로그램 ‘맘마미안’은 오는 12월 방송된다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강호동×이수근 공동 MC 발탁, '손 맛'을 찾아내는 이 프로그램은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

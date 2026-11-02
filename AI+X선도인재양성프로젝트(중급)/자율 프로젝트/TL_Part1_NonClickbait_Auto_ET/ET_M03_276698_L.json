@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276698",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "쇼호스트 이민웅 \\\"성수기 한 달 수입, 중형차 한 대 살 정도\\\"",
+		"newsSubTitle": "",
+		"newsContent": "쇼호스트 이민웅이 '문제적 남자'에 출연했다.\n18일 방송된 tvN '뇌섹시대-문제적 남자'에는 이민웅이 게스트로 출연했다.\n이민웅은 이날 게스트를 소개하겠다며 쇼호스트처럼 출연자를 소개했다.\n알고보니 이날 게스트는 자기 자신이었다.\n전현무는 \\\"이민웅씨는 남자 쇼호스트 중 연봉 1위다\\\"고 밝혔다.\n이민웅은 \\\"쇼호스트 중 잘 버는 사람들은 1년에 2~3억 정도 번다. 난 다른 방송 프로도 하니까 잘 벌 때 한 달에 중형차 정도 수입을 올렸다\\\"고 밝혔다.\n또 이민웅은 김지석이 \\\"완판되면 혜택이 있냐\\\"고 묻자 \\\"출연료가 다음 계약 때 올라간다\\\"고 답했다.\n한편 이민웅은 의상학과 출신으로 L사에 디자이너로 입사했다가 쇼호스트로 전업했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쇼호스트 이민웅이 '문제적 남자'에 출연했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 방송된 tvN '뇌섹시대-문제적 남자'에는 이민웅이 게스트로 출연했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이민웅은 이날 게스트를 소개하겠다며 쇼호스트처럼 출연자를 소개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "알고보니 이날 게스트는 자기 자신이었다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전현무는 \\\"이민웅씨는 남자 쇼호스트 중 연봉 1위다\\\"고 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이민웅은 \\\"쇼호스트 중 잘 버는 사람들은 1년에 2~3억 정도 번다. 난 다른 방송 프로도 하니까 잘 벌 때 한 달에 중형차 정도 수입을 올렸다\\\"고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 이민웅은 김지석이 \\\"완판되면 혜택이 있냐\\\"고 묻자 \\\"출연료가 다음 계약 때 올라간다\\\"고 답했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이민웅은 의상학과 출신으로 L사에 디자이너로 입사했다가 쇼호스트로 전업했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쇼호스트 이민웅 \\\"성수기 한 달 수입, 중형차 한 대 살 정도\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

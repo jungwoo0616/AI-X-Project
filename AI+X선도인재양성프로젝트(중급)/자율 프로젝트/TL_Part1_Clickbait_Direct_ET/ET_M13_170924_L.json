@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170924",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“온몸에 암세포 퍼졌다” 김철민, 투병 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "폐암 말기 투병 중인 개그맨 김철민이 근황을 알렸다.\n김철민은 19일 페이스북에 “제가 폐암 4기 투병 생활한 지 2년이 조금 지났다”며 “현재 몸 상태는 항암치료를 더는 할 수가 없는 상태”라고 밝혔다.\n이어 “그동안 12번의 항암, 5번 경추교체수술, 70번의 방사선 치료, 10번의 사이버 나이프 치료 등 현재 24시간 동안 2시간마다 진통제 주사를 맞고 있다”고 적었다. “온몸으로 암세포가 펴져 있는 상태”라고 설명한 그는 “하지만 포기하지 않고 잘 버티고 있다. 끝까지 ‘존버’하겠다”고 재차 의지를 다졌다.\n앞서 김철민은 16일 페이스북 라이브 방송을 진행했다.\n말없이 화면만을 응시한 뒤 자신의 팔에 꽂은 주삿바늘과 링거 등을 화면에 비췄다.\n라이브 방송에 참여한 팬들은 “목소리가 듣고 싶다” “조금만 더 힘내시라” 등의 응원 메시지를 보냈다.\n팬들의 걱정을 잠재우기 위해 이번 글을 올린 것으로 보인다.\n김철민은 1994년 MBC 5기 공채 개그맨 출신으로 주로 서울 대학로 마로니에 공원에서 버스킹 공연을 하면서 사람들에게 알려졌다.\n왕성한 버스킹 활동을 해오던 그는 2019년 8월 폐암 말기 선언을 받았다고 스스로 선언하며 현재까지 투병 생활을 사회관계망서비스(SNS)에 공개해오고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "폐암 말기 투병 중인 개그맨 김철민이 근황을 알렸다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김철민은 19일 페이스북에 “제가 폐암 4기 투병 생활한 지 2년이 조금 지났다”며 “현재 몸 상태는 항암치료를 더는 할 수가 없는 상태”라고 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “그동안 12번의 항암, 5번 경추교체수술, 70번의 방사선 치료, 10번의 사이버 나이프 치료 등 현재 24시간 동안 2시간마다 진통제 주사를 맞고 있다”고 적었다. “온몸으로 암세포가 펴져 있는 상태”라고 설명한 그는 “하지만 포기하지 않고 잘 버티고 있다. 끝까지 ‘존버’하겠다”고 재차 의지를 다졌다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 김철민은 16일 페이스북 라이브 방송을 진행했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "말없이 화면만을 응시한 뒤 자신의 팔에 꽂은 주삿바늘과 링거 등을 화면에 비췄다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "라이브 방송에 참여한 팬들은 “목소리가 듣고 싶다” “조금만 더 힘내시라” 등의 응원 메시지를 보냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팬들의 걱정을 잠재우기 위해 이번 글을 올린 것으로 보인다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김철민은 1994년 MBC 5기 공채 개그맨 출신으로 주로 서울 대학로 마로니에 공원에서 버스킹 공연을 하면서 사람들에게 알려졌다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "왕성한 버스킹 활동을 해오던 그는 2019년 8월 폐암 말기 선언을 받았다고 스스로 선언하며 현재까지 투병 생활을 사회관계망서비스(SNS)에 공개해오고 있다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그맨 김철민, 폐암 4기... \"이것 더는 할 수가 없는 상태”",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

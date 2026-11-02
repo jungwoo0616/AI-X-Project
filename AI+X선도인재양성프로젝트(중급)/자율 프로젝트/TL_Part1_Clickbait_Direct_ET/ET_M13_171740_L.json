@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171740",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘미스트롯 비타민소녀’ 우현정, 영화 ‘봉필이 학교가다!’ 캐스팅",
+    "newsSubTitle": "",
+    "newsContent": "‘미스트롯 비타민소녀’로 알려진 가수 우현정이 영화 ‘봉필이 학교가다!’에 캐스팅됐다.\n우현정이 영화 대본 리딩을 마쳤다고 제작사가 4일 전했다.\n제작사는 “가수 우현정이 영화 출연을 확정짓고, 본격 연기 활동에 박차를 가한다”고 전했다. ‘봉필이 학교가다!’는 쌈짱 출신인 봉필이가 돈을 벌기 위해, 다시 고등학교에 입학하면서 벌어지는 코미디 학원물이다.\n우현정은 ‘봉필이 학교가다!’에서 ‘현정’ 역을 맡았다.\n극중 현정은 우서고의 엔젤이라 불리는 윤희와 껌딱지처럼 붙어다니는 베스트 프렌드다.\n특유의 톡톡 튀는 활달한 성격으로 사이다 발언을 투척하는 캐릭터지만, 공포의 딸기우유의 수혜자로써 코믹한 분위기를 자아내는데도 한몫하고 있다.\n영화 ‘봉필이 학교가다!’는 오는 13일 크랭크인 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘미스트롯 비타민소녀’로 알려진 가수 우현정이 영화 ‘봉필이 학교가다!’에 캐스팅됐다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우현정이 영화 대본 리딩을 마쳤다고 제작사가 4일 전했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제작사는 “가수 우현정이 영화 출연을 확정짓고, 본격 연기 활동에 박차를 가한다”고 전했다. ‘봉필이 학교가다!’는 쌈짱 출신인 봉필이가 돈을 벌기 위해, 다시 고등학교에 입학하면서 벌어지는 코미디 학원물이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우현정은 ‘봉필이 학교가다!’에서 ‘현정’ 역을 맡았다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "극중 현정은 우서고의 엔젤이라 불리는 윤희와 껌딱지처럼 붙어다니는 베스트 프렌드다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특유의 톡톡 튀는 활달한 성격으로 사이다 발언을 투척하는 캐릭터지만, 공포의 딸기우유의 수혜자로써 코믹한 분위기를 자아내는데도 한몫하고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영화 ‘봉필이 학교가다!’는 오는 13일 크랭크인 한다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'미스트롯' 이 가수, 영화 '봉필이 학교가다!' 캐스팅... 어떤 역할 맡나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

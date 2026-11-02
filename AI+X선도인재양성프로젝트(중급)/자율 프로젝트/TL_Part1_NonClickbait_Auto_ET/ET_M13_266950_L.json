@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266950",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서정희 유방암 수술 소식에 응원 이어져",
+		"newsSubTitle": "",
+		"newsContent": "방송인 서정희가 유방암 판정을 받았다.\n14일 스포츠조선에 따르면 서정희는 유방에 통증을 느껴 병원을 찾았고 유방암 진단을 받았다.\n다행히 최근 수술을 잘 마치고 회복중이라고 매체는 밝혔다.\n서정희는 13일 퇴원해 휴식을 취하고 있으며 딸 서동주가 곁을 지키고 있는 것으로 알려졌다.\n서정희-서동주 모녀는 과거 이혼으로 힘든 시간을 보낸 사실이 있어 더욱 안타까움을 준다.\n서정희는 열아홉살이던 1982년 개그맨 서세원과 결혼했지만 가정폭력 피해 사실이 세간에 알려진 뒤 2015년 이혼했다.\n딸 서동주 역시 지난 2008년 재미교포 남성과 결혼했으나 2014년 이혼 사실이 뒤늦게 알려졌다.\n서동주는 2018년 샌프란시스코 대학 로스쿨을 졸업, 로펌에서 근무 중이며 방송인으로도 활동 중이다.\n모녀는 힘든 일들을 극복하고 함께 방송에 출연하는 등 끈끈한 모습을 보여왔다.\n이에 많은 대중의 응원이 이어지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 서정희가 유방암 판정을 받았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 스포츠조선에 따르면 서정희는 유방에 통증을 느껴 병원을 찾았고 유방암 진단을 받았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다행히 최근 수술을 잘 마치고 회복중이라고 매체는 밝혔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서정희는 13일 퇴원해 휴식을 취하고 있으며 딸 서동주가 곁을 지키고 있는 것으로 알려졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서정희-서동주 모녀는 과거 이혼으로 힘든 시간을 보낸 사실이 있어 더욱 안타까움을 준다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서정희는 열아홉살이던 1982년 개그맨 서세원과 결혼했지만 가정폭력 피해 사실이 세간에 알려진 뒤 2015년 이혼했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "딸 서동주 역시 지난 2008년 재미교포 남성과 결혼했으나 2014년 이혼 사실이 뒤늦게 알려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서동주는 2018년 샌프란시스코 대학 로스쿨을 졸업, 로펌에서 근무 중이며 방송인으로도 활동 중이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "모녀는 힘든 일들을 극복하고 함께 방송에 출연하는 등 끈끈한 모습을 보여왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이에 많은 대중의 응원이 이어지고 있다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서정희 유방암 수술 소식에 응원 이어져",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

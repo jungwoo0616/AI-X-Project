@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274356",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "서동주 “엄마 서정희, 유아처럼 바짝 말라”",
+		"newsSubTitle": "",
+		"newsContent": "미국 변호사 출신 방송인 서동주가 모친 서정희의 암 투병을 언급했다.\n서동주는 29일 방송된 MBC 예능 프로그램 ‘라디오스타’에 게스트로 출연해 자신의 모친의 건강 상태를 설명했다.\n서동주는 서정희의 건강상태에 대한 질문을 받고 “수술을 마친 후에 항암으로 하고 있다”며 “머리도 다 빠지니 가발을 쓰고 치료를 받고 있다”고 말했다.\n이어 “엄마도 나도 힘들 때, 티를 잘 안 낸다”며 “엄마가 수술을 받는 날도 울지 않으려 노력했다”고 말했다.\n그러면서 “수술실에 들어가는 엄마를 보는데 몸이 너무 작더라”라며 “초등학생처럼 바짝 말라 있는 그 모습을 보고 펑펑 울었다”고 했다.\n다행히 서정희는 현재 회복 중인 상태라고도 덧붙였다.\n그는 “현재는 엄마가 낫는 것이 우선이니 항암치료를 받을 때 함께 옆에 있는다”고 말했다.\n서정희는 최근 유방암 진단을 받은 사실을 알리고 지난 4월 수술을 마친 뒤 현재 항암치료를 받고 있다.\n자신의 투병 일상을 인스타그램에 공유하며 소통을 이어오고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 변호사 출신 방송인 서동주가 모친 서정희의 암 투병을 언급했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서동주는 29일 방송된 MBC 예능 프로그램 ‘라디오스타’에 게스트로 출연해 자신의 모친의 건강 상태를 설명했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서동주는 서정희의 건강상태에 대한 질문을 받고 “수술을 마친 후에 항암으로 하고 있다”며 “머리도 다 빠지니 가발을 쓰고 치료를 받고 있다”고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “엄마도 나도 힘들 때, 티를 잘 안 낸다”며 “엄마가 수술을 받는 날도 울지 않으려 노력했다”고 말했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 “수술실에 들어가는 엄마를 보는데 몸이 너무 작더라”라며 “초등학생처럼 바짝 말라 있는 그 모습을 보고 펑펑 울었다”고 했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다행히 서정희는 현재 회복 중인 상태라고도 덧붙였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 “현재는 엄마가 낫는 것이 우선이니 항암치료를 받을 때 함께 옆에 있는다”고 말했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서정희는 최근 유방암 진단을 받은 사실을 알리고 지난 4월 수술을 마친 뒤 현재 항암치료를 받고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "자신의 투병 일상을 인스타그램에 공유하며 소통을 이어오고 있다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서동주 “엄마 서정희, 유아처럼 바짝 말라”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

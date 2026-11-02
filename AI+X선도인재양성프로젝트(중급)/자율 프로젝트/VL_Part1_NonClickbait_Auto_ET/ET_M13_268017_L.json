@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268017",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "싸이퍼 ‘THE CODE’ 스케줄러 공개…25일 예판 시작",
+		"newsSubTitle": "",
+		"newsContent": "그룹 싸이퍼(Ciipher)가 컴백 카운트다운에 돌입했다.\n싸이퍼(현빈, 탄, 휘, 케이타, 태그, 도환, 원)는 지난 22일 사회관계망서비스(SNS)를 통해 미니 3집 ‘THE CODE’ 스케줄러를 게재했다.\n스케줄러에 따르면 싸이퍼는 오는 26일 무드 샘플러를 시작으로 28일과 5월 2일, 이틀에 걸쳐 콘셉트 포토를 선보인다.\n5월 4일부터 9일까지는 트랙리스트와 하이라이트 메들리, 뮤직비디오를 차례로 공개하며 컴백일인 11일까지 다채로운 콘텐츠를 공개한다.\n앨범마다 셀프 프로듀싱한 곡들을 선보인 싸이퍼가 어떤 음악으로 돌아올지 궁금증이 더해진다.\n한편 오는 5월 11일 발매되는 싸이퍼 미니 3집 ‘THE CODE’는 오는 25일 오후 2시부터 예약 구매할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 싸이퍼(Ciipher)가 컴백 카운트다운에 돌입했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "싸이퍼(현빈, 탄, 휘, 케이타, 태그, 도환, 원)는 지난 22일 사회관계망서비스(SNS)를 통해 미니 3집 ‘THE CODE’ 스케줄러를 게재했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스케줄러에 따르면 싸이퍼는 오는 26일 무드 샘플러를 시작으로 28일과 5월 2일, 이틀에 걸쳐 콘셉트 포토를 선보인다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5월 4일부터 9일까지는 트랙리스트와 하이라이트 메들리, 뮤직비디오를 차례로 공개하며 컴백일인 11일까지 다채로운 콘텐츠를 공개한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앨범마다 셀프 프로듀싱한 곡들을 선보인 싸이퍼가 어떤 음악으로 돌아올지 궁금증이 더해진다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 오는 5월 11일 발매되는 싸이퍼 미니 3집 ‘THE CODE’는 오는 25일 오후 2시부터 예약 구매할 수 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싸이퍼 ‘THE CODE’ 스케줄러 공개…25일 예판 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

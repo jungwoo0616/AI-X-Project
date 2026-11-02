@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274194",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "현빈♥손예진, 연내 출산 예정? “호랑이 띠 친구”",
+		"newsSubTitle": "",
+		"newsContent": "배우 현빈과 손예진 부부가 임신 소식을 알린 가운데, 2세 출산 시기에 관심이 모아지고 있다.\n27일 손예진은 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “조심스럽고도 기쁜 소식을 전할까 한다. 우리에게 새 생명이 찾아왔다”라며 임신 소식을 알렸다.\n이 소식에 많은 누리꾼들이 들썩였다.\n누리꾼들은 각종 온라인 커뮤니티와 SNS를 통해 “현빈과 손예진의 아기라면 얼굴에서 빛이 날 것 같다” “아기가 건강하게 태어났으면 좋겠다” “‘사랑의 불시착’ 후속편을 보는 것 같다. 너무 축하한다”라며 손예진의 임신소식에 기뻐했다.\n한편 이날 소식을 접한 손예진의 절친 이정현은 “우리 예진이 너무 축하한다. 우리 축복이와 호랑이 띠 친구”라는 댓글로 그를 축하했다.\n이정현이 지난 4월 딸을 출산했기에 여론은 손예진이 2세를 연내 출산할 것으로 추측하고 있다.\n배우 손예진과 현빈 부부는 영화 ‘협상’과 tvN 드라마 ‘사랑의 불시착’에서 만나 연인으로 발전했다.\n둘은 지난해 1월 열애 사실을 공개했으며 지난 3월 31일 많은 이들의 축복 속에 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 현빈과 손예진 부부가 임신 소식을 알린 가운데, 2세 출산 시기에 관심이 모아지고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 손예진은 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “조심스럽고도 기쁜 소식을 전할까 한다. 우리에게 새 생명이 찾아왔다”라며 임신 소식을 알렸다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 소식에 많은 누리꾼들이 들썩였다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 각종 온라인 커뮤니티와 SNS를 통해 “현빈과 손예진의 아기라면 얼굴에서 빛이 날 것 같다” “아기가 건강하게 태어났으면 좋겠다” “‘사랑의 불시착’ 후속편을 보는 것 같다. 너무 축하한다”라며 손예진의 임신소식에 기뻐했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 이날 소식을 접한 손예진의 절친 이정현은 “우리 예진이 너무 축하한다. 우리 축복이와 호랑이 띠 친구”라는 댓글로 그를 축하했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이정현이 지난 4월 딸을 출산했기에 여론은 손예진이 2세를 연내 출산할 것으로 추측하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "배우 손예진과 현빈 부부는 영화 ‘협상’과 tvN 드라마 ‘사랑의 불시착’에서 만나 연인으로 발전했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "둘은 지난해 1월 열애 사실을 공개했으며 지난 3월 31일 많은 이들의 축복 속에 결혼식을 올렸다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현빈♥손예진, 연내 출산 예정? “호랑이 띠 친구”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

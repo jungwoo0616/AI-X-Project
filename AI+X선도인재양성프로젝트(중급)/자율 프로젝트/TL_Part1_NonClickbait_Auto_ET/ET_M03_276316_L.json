@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276316",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“워너원, 방탄소년단 안무 표절” 주장에 안무가의 입장은?",
+		"newsSubTitle": "",
+		"newsContent": "보이그룹 워너원의 신곡 ‘Beautiful’의 안무가 때아닌 표절 논란에 휩싸였습니다.\n그 대상은 공교롭게도 동명의 곡인 방탄소년단의 ‘Beautiful’인데요.\n워너원의 ‘Beautiful’ 안무 중 여성을 안고 함께 호흡을 맞추는 듯한 동작 등이 방탄소년단의 안무를 따라했다는 주장입니다.\n이에 대해 이번 안무를 연출한 안무가가 입장을 밝혔습니다.\nCJ E&M 최영준 안무가는 14일 YMC 엔터테인먼트 측을 통해 “워너원의 ‘뷰티풀’ 안무 의뢰를 받고 곡을 들었을 때 남자와 여자가 같이 추는 춤을 떠올렸다. 흔히 볼수 있는 볼룸댄스나 피겨스케이팅의 커플 댄스를 모티브로 해서 이 동작을 만들었다”고 말했습니다.\n이어 “곡의 가이드를 받았을때, 보안 때문인지 곡 제목이 ‘미녀와 야수’로 왔다. 그래서 오히려 ‘미녀와 야수’의 야수가 미녀와 행복하게 춤을추는 장면을 떠올려 만들었다”고 부연했습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보이그룹 워너원의 신곡 ‘Beautiful’의 안무가 때아닌 표절 논란에 휩싸였습니다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그 대상은 공교롭게도 동명의 곡인 방탄소년단의 ‘Beautiful’인데요.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "워너원의 ‘Beautiful’ 안무 중 여성을 안고 함께 호흡을 맞추는 듯한 동작 등이 방탄소년단의 안무를 따라했다는 주장입니다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 대해 이번 안무를 연출한 안무가가 입장을 밝혔습니다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CJ E&M 최영준 안무가는 14일 YMC 엔터테인먼트 측을 통해 “워너원의 ‘뷰티풀’ 안무 의뢰를 받고 곡을 들었을 때 남자와 여자가 같이 추는 춤을 떠올렸다. 흔히 볼수 있는 볼룸댄스나 피겨스케이팅의 커플 댄스를 모티브로 해서 이 동작을 만들었다”고 말했습니다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “곡의 가이드를 받았을때, 보안 때문인지 곡 제목이 ‘미녀와 야수’로 왔다. 그래서 오히려 ‘미녀와 야수’의 야수가 미녀와 행복하게 춤을추는 장면을 떠올려 만들었다”고 부연했습니다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“워너원, 방탄소년단 안무 표절” 주장에 안무가의 입장은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

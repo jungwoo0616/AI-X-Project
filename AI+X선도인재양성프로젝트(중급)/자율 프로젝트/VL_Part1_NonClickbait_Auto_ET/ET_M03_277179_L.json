@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277179",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "사실상 촛불집회 최다 참석 연예인",
+		"newsSubTitle": "",
+		"newsContent": "배우 김지훈(35)이 촛불집회에 최다 참석한 연예인이라는 주장이 온라인에서 화제가 되고 있다.\n8일 각종 온라인 커뮤니티에는 '사실상 촛불집회 최다 참석 연예인'이라는 게시글이 퍼지고 있다.\n이는 네티즌들이 김지훈이 촛불집회를 참석할 때마다 자신의 소셜네트워크서비스(SNS)에 올린 사진을 모은 것이다.\n김지훈은 지난 12월 초부터 촛불집회에 참석한 사진을 게재했다.\n그가 SNS에 올린 촛불집회 사진은 14개다.\n그는 8일 헌법재판소의 박근혜 대통령 탄핵심판 선고일이 10일로 확정됐다는 소식을 듣고서는 \\\"짙은 안개 너머에는 눈 부신 햇살이 비추고 있음을 우리는 알고 믿고 있다\\\"는 글을 올리기도 했다.\n한편 김지훈은 KBS '우리 집에 사는 남자', MBC '왔다! 장보리' 등에 출연한 인기배우다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김지훈(35)이 촛불집회에 최다 참석한 연예인이라는 주장이 온라인에서 화제가 되고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 각종 온라인 커뮤니티에는 '사실상 촛불집회 최다 참석 연예인'이라는 게시글이 퍼지고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 네티즌들이 김지훈이 촛불집회를 참석할 때마다 자신의 소셜네트워크서비스(SNS)에 올린 사진을 모은 것이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김지훈은 지난 12월 초부터 촛불집회에 참석한 사진을 게재했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그가 SNS에 올린 촛불집회 사진은 14개다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 8일 헌법재판소의 박근혜 대통령 탄핵심판 선고일이 10일로 확정됐다는 소식을 듣고서는 \\\"짙은 안개 너머에는 눈 부신 햇살이 비추고 있음을 우리는 알고 믿고 있다\\\"는 글을 올리기도 했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김지훈은 KBS '우리 집에 사는 남자', MBC '왔다! 장보리' 등에 출연한 인기배우다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "사실상 촛불집회 최다 참석 연예인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

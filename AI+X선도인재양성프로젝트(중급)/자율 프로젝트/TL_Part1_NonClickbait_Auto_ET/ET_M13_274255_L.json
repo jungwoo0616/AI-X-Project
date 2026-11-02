@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274255",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "르세라핌, 빌보드 차트 탄탄한 인기",
+		"newsSubTitle": "",
+		"newsContent": "르세라핌이미국 빌보드에서 견고한 인기를 과시했다.\n르세라핌(LE SSERAFIM)은 데뷔곡 ‘FEARLESS’로 8주 연속 미국 빌보드 차트에 이름을 올렸다.\n지난 28일(현지시간) 미국 빌보드가 발표한 최신 차트(7월 2일 자)에 따르면, ‘FEARLESS’는 ‘빌보드 글로벌 200’ 200위, ‘빌보드 글로벌(미국 제외)’ 100위에 자리했다.\n르세라핌은 데뷔곡으로 8주 연속 미국 빌보드 차트에 랭크되며 올해 데뷔한 K-팝 걸그룹 중 최장기간 차트인 기록을 썼다. ‘FEARLESS’는 국내 음원 차트에서도 인기몰이 중이다.\n이 곡은 지난 6일 발표된 멜론주간 차트(집계기간 5월 30일~6월 5일)에서 10위에 오르며 발매 후 처음으로 10위권에 안착했고, 최신 차트(집계기간 6월 20일~26일)에서는 9위에 랭크되며 4주 연속 10위권을 지켰다.\n르세라핌은 첫 번째미니앨범 ‘FEARLESS’ 활동을 종료한 지 한 달 가까이 됐음에도 여전히 국내외 차트에서 존재감을 떨치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "르세라핌이미국 빌보드에서 견고한 인기를 과시했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르세라핌(LE SSERAFIM)은 데뷔곡 ‘FEARLESS’로 8주 연속 미국 빌보드 차트에 이름을 올렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 28일(현지시간) 미국 빌보드가 발표한 최신 차트(7월 2일 자)에 따르면, ‘FEARLESS’는 ‘빌보드 글로벌 200’ 200위, ‘빌보드 글로벌(미국 제외)’ 100위에 자리했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "르세라핌은 데뷔곡으로 8주 연속 미국 빌보드 차트에 랭크되며 올해 데뷔한 K-팝 걸그룹 중 최장기간 차트인 기록을 썼다. ‘FEARLESS’는 국내 음원 차트에서도 인기몰이 중이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 곡은 지난 6일 발표된 멜론주간 차트(집계기간 5월 30일~6월 5일)에서 10위에 오르며 발매 후 처음으로 10위권에 안착했고, 최신 차트(집계기간 6월 20일~26일)에서는 9위에 랭크되며 4주 연속 10위권을 지켰다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "르세라핌은 첫 번째미니앨범 ‘FEARLESS’ 활동을 종료한 지 한 달 가까이 됐음에도 여전히 국내외 차트에서 존재감을 떨치고 있다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르세라핌, 빌보드 차트 탄탄한 인기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

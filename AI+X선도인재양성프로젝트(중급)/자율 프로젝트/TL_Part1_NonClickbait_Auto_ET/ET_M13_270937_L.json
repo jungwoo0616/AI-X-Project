@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270937",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘범죄도시2’ 손석구 “영웅들을 소개합니다”",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘범죄도시2’가 관객 300만 명을 돌파하며 흥행몰이 중인 가운데 배우 손석구가 ‘히어로’들을 소개했다.\n손석구는 21일 자신의 사회관계망서비스(SNS)에 4컷의 단체 사진을 올리며 “지금 상영중!”이라고 적었다.\n개봉 전날 “아직도 예매 안했다고?”에 이은 열혈 홍보요정을 자처했다.\n공개된 사진에는 타투 팀, 의상/분장 팀, 스턴트 팀, 배우 팀과 함께 촬영한 모습이다.\n첫 번째 타투 팀과 함께 찍은 사진은 상반신에 타투를 한채 웃통을 벗고 미소를 짓고 있다.\n두 번째 사진은 손석구가 마동석의 큰 재킷을 입고 팔짱을 끼고 포즈를 취하고 있다.\n한편 손석구가 빌런으로 출연한 영화 ‘범죄도시2’는 개봉 닷새째인 22일 오전 누적 관객수 300만 명을 돌파했다.\n또한 현재 방송 중인 JTBC 드라마 ‘나의 해방일지’에서도 열연을 펼치며 인기몰이 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘범죄도시2’가 관객 300만 명을 돌파하며 흥행몰이 중인 가운데 배우 손석구가 ‘히어로’들을 소개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손석구는 21일 자신의 사회관계망서비스(SNS)에 4컷의 단체 사진을 올리며 “지금 상영중!”이라고 적었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개봉 전날 “아직도 예매 안했다고?”에 이은 열혈 홍보요정을 자처했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 타투 팀, 의상/분장 팀, 스턴트 팀, 배우 팀과 함께 촬영한 모습이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "첫 번째 타투 팀과 함께 찍은 사진은 상반신에 타투를 한채 웃통을 벗고 미소를 짓고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 번째 사진은 손석구가 마동석의 큰 재킷을 입고 팔짱을 끼고 포즈를 취하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 손석구가 빌런으로 출연한 영화 ‘범죄도시2’는 개봉 닷새째인 22일 오전 누적 관객수 300만 명을 돌파했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 현재 방송 중인 JTBC 드라마 ‘나의 해방일지’에서도 열연을 펼치며 인기몰이 중이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘범죄도시2’ 손석구 “영웅들을 소개합니다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

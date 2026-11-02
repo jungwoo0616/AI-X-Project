@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263391",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영탁, 산불 피해 이재민에 1억 기부[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁이 산불 피해 이재민들을 위해 1억 원을 기부했다.\n대한적십자사(회장 신희영)는 가수 영탁이 지난 8일 강원·경북 산불 피해지역 긴급구호 지원을 위해 성금 1억 원을 적십자에 기탁했다고 밝혔다.\n적십자사에 따르면 영탁은 “갑작스러운 산불로 삶의 터전을 잃고 힘든 시간을 보내는 이재민들의 일상 회복과 산불 피해지역의 구호·복구 활동에 조금이나마 도움이 되고자 기부를 결정했다.”라고 전했다.\n영탁이 전달한 성금은 산불 피해가 발생한 강원, 경북 등 지역 적십자 지사를 통해 이재민 긴급 구호활동에 사용된다.\n한편 영탁은 이번 산불 피해지역을 위한 기부 외에도 적십자와 특별한 인연을 이어왔다.\n코로나19가 전국적으로 재확산되던 지난해 12월 2일, 영탁은 헌혈의 집 노해로센터를 방문하여 헌혈에 참여했다.\n또 영탁의 팬클럽은 코로나19 대응 활동으로 고생하는 의료진을 응원하기 위해 감염병 전담병원인 인천적십자병원에 커피차를 전달하는 등 가수와 팬들이 함께 선한 영향력을 발휘하며 우리 사회 나눔 문화 확산을 위해 힘써왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁이 산불 피해 이재민들을 위해 1억 원을 기부했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한적십자사(회장 신희영)는 가수 영탁이 지난 8일 강원·경북 산불 피해지역 긴급구호 지원을 위해 성금 1억 원을 적십자에 기탁했다고 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "적십자사에 따르면 영탁은 “갑작스러운 산불로 삶의 터전을 잃고 힘든 시간을 보내는 이재민들의 일상 회복과 산불 피해지역의 구호·복구 활동에 조금이나마 도움이 되고자 기부를 결정했다.”라고 전했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영탁이 전달한 성금은 산불 피해가 발생한 강원, 경북 등 지역 적십자 지사를 통해 이재민 긴급 구호활동에 사용된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 영탁은 이번 산불 피해지역을 위한 기부 외에도 적십자와 특별한 인연을 이어왔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코로나19가 전국적으로 재확산되던 지난해 12월 2일, 영탁은 헌혈의 집 노해로센터를 방문하여 헌혈에 참여했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 영탁의 팬클럽은 코로나19 대응 활동으로 고생하는 의료진을 응원하기 위해 감염병 전담병원인 인천적십자병원에 커피차를 전달하는 등 가수와 팬들이 함께 선한 영향력을 발휘하며 우리 사회 나눔 문화 확산을 위해 힘써왔다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁, 산불 피해 이재민에 1억 기부[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

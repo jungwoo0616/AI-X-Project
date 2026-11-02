@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171223",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "샘김·이진아·정재형·윤석철트리오, 10월 16일 칠포재즈페스티벌 출연",
+    "newsSubTitle": "",
+    "newsContent": "안테나 엔터테인먼트 소속 아티스트가 칠포재즈페스티벌에서 공연한다.\n소속사 안테나 엔터테인먼트는 24일 사회적관계망서비스(SNS)를 통해 샘김, 이진아, 정재형, 윤석철이 2021 칠포재즈페스티벌 무대에 오른다고 밝혔다.\n윤석철이 소속된 윤석철 트리오는 다음 달 16일 오후 5시부터 7시 15분까지, 샘김은 오후 7시 30분부터 8시 5분까지, 이진아는 오후 8시 20분부터 55분까지 ,정재형은 9시 10분부터 10시까지 공연을 진행한다.\n이들 외에도 A fuzz, 전제덕 밴드, 박재홍, 한상원 밴드, 웅산, 김범수, 자우림이 무대를 채울 예정이다.\n칠포재즈페스티벌은 매년 9월 개최하며 올해로 15회를 맞이했다.\n2020년의 경우 코로나19 확산 방지를 위해 페스티벌이 취소됐지만, 올해는 다음 달 16, 17일에 걸쳐 개최가 확정됐다.\n페스티벌과 관련된 사항은 2021 칠포재즈페스티벌 공식 사회적관계망서비스(SNS)를 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "안테나 엔터테인먼트 소속 아티스트가 칠포재즈페스티벌에서 공연한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 안테나 엔터테인먼트는 24일 사회적관계망서비스(SNS)를 통해 샘김, 이진아, 정재형, 윤석철이 2021 칠포재즈페스티벌 무대에 오른다고 밝혔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤석철이 소속된 윤석철 트리오는 다음 달 16일 오후 5시부터 7시 15분까지, 샘김은 오후 7시 30분부터 8시 5분까지, 이진아는 오후 8시 20분부터 55분까지 ,정재형은 9시 10분부터 10시까지 공연을 진행한다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들 외에도 A fuzz, 전제덕 밴드, 박재홍, 한상원 밴드, 웅산, 김범수, 자우림이 무대를 채울 예정이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "칠포재즈페스티벌은 매년 9월 개최하며 올해로 15회를 맞이했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2020년의 경우 코로나19 확산 방지를 위해 페스티벌이 취소됐지만, 올해는 다음 달 16, 17일에 걸쳐 개최가 확정됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "페스티벌과 관련된 사항은 2021 칠포재즈페스티벌 공식 사회적관계망서비스(SNS)를 통해 확인할 수 있다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "칠포재즈페스티벌에서 공연하게 된 '이곳' 소속 가수들은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

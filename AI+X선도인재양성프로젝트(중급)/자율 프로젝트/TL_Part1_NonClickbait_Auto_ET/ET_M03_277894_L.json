@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277894",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "엄지원, 송윤아 ‘악플’에 “내가 속이 터진다”",
+		"newsSubTitle": "",
+		"newsContent": "배우 송윤아가 자신의 사생활을 둘러싼 악성댓글에 처음으로 입을 연 가운데 동료 배우 엄지원이 남긴 응원 댓글이 네티즌의 눈길을 끌고 있다.\n엄지원은 7일 저녁 송윤아가 올린 게시물에 댓글로 “진짜 내가 못산대이. 내가 속이 다 터지네. 울 언니가 얼마나 깊고 결이 고운 사람인지 지인들은, 같이 작업한 사람들은 다 알지”라고 전했다.\n이어 “얼마나 바른 사람인지도 알지”라며 “상처받지마. 혹여 그렇더라도 빨리 회복하기를 얼마나 많은 사람들이 응원하는지 알지”라고 덧붙였다.\n앞서 송윤아는 자신을 향해 ‘불륜녀’라는 댓글을 남긴 일부 네티즌 글을 캡처해 인스타그램에 올렸다.\n그는 “이제 그만들 하셨으면 좋겠다”며 “적어도 사람으로서 해서는 될 일 안 될 일을 놓치며 살지는 않았던 것 같다”고 적었다.\n송윤아는 2009년 배우 설경구와 결혼한 이후 불륜 루머에 시달려왔다.\n설경구가 2006년 전처와 이혼한 것이 송윤아 때문이었다는 주장이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송윤아가 자신의 사생활을 둘러싼 악성댓글에 처음으로 입을 연 가운데 동료 배우 엄지원이 남긴 응원 댓글이 네티즌의 눈길을 끌고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엄지원은 7일 저녁 송윤아가 올린 게시물에 댓글로 “진짜 내가 못산대이. 내가 속이 다 터지네. 울 언니가 얼마나 깊고 결이 고운 사람인지 지인들은, 같이 작업한 사람들은 다 알지”라고 전했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “얼마나 바른 사람인지도 알지”라며 “상처받지마. 혹여 그렇더라도 빨리 회복하기를 얼마나 많은 사람들이 응원하는지 알지”라고 덧붙였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 송윤아는 자신을 향해 ‘불륜녀’라는 댓글을 남긴 일부 네티즌 글을 캡처해 인스타그램에 올렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “이제 그만들 하셨으면 좋겠다”며 “적어도 사람으로서 해서는 될 일 안 될 일을 놓치며 살지는 않았던 것 같다”고 적었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송윤아는 2009년 배우 설경구와 결혼한 이후 불륜 루머에 시달려왔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "설경구가 2006년 전처와 이혼한 것이 송윤아 때문이었다는 주장이다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엄지원, 송윤아 ‘악플’에 “내가 속이 터진다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

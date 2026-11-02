@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275113",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "블랙핑크 ‘불장난’ 안무영상 2억뷰 넘었다",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크의 인기가 뜨겁다.\n블랙핑크(BLACKPINK)의 ‘불장난’ 안무 영상이 2억 뷰를 돌파했다.\n9일 소속사 YG엔터테인먼트에 따르면 블랙핑크의 ‘불장난’ 안무 영상은 이날 오전 1시 2분경 유튜브에서 조회수 2억 회를 넘어섰다. ‘불장난’은 블랙핑크의 지난 2016년 11월 두 번째 디지털 싱글 ‘SQUARE TWO’의 더블 타이틀곡 중 하나다.\n뮤직비디오뿐만 아니라 안무 영상까지 잇단 억대 뷰 행진은 블랙핑크만이 갖는 글로법 입지다.\n실제 유튜브에 게재된 블랙핑크의 총 32편 억대 뷰 콘텐츠 중 2억 뷰 이상 안무 영상만 11편째다. ‘불장난’ 뮤직비디오의 경우 8억 뷰 달성도 눈앞으로 다가왔다.\n발매된 지 약 5년 8개월이 넘은 곡임에도 글로벌 음악 팬들의 꾸준한 사랑을 받고 있다는 반증이다.\n한편 블랙핑크는 오는 8월 신곡 발표를 앞두고 있다.\n아울러 최대 규모의 월드투어를 비롯한 순차적 대형 프로젝트를 예고해 전 세계 팬들의 기대를 모으고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크의 인기가 뜨겁다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블랙핑크(BLACKPINK)의 ‘불장난’ 안무 영상이 2억 뷰를 돌파했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "9일 소속사 YG엔터테인먼트에 따르면 블랙핑크의 ‘불장난’ 안무 영상은 이날 오전 1시 2분경 유튜브에서 조회수 2억 회를 넘어섰다. ‘불장난’은 블랙핑크의 지난 2016년 11월 두 번째 디지털 싱글 ‘SQUARE TWO’의 더블 타이틀곡 중 하나다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뮤직비디오뿐만 아니라 안무 영상까지 잇단 억대 뷰 행진은 블랙핑크만이 갖는 글로법 입지다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 유튜브에 게재된 블랙핑크의 총 32편 억대 뷰 콘텐츠 중 2억 뷰 이상 안무 영상만 11편째다. ‘불장난’ 뮤직비디오의 경우 8억 뷰 달성도 눈앞으로 다가왔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발매된 지 약 5년 8개월이 넘은 곡임에도 글로벌 음악 팬들의 꾸준한 사랑을 받고 있다는 반증이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 블랙핑크는 오는 8월 신곡 발표를 앞두고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아울러 최대 규모의 월드투어를 비롯한 순차적 대형 프로젝트를 예고해 전 세계 팬들의 기대를 모으고 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 ‘불장난’ 안무영상 2억뷰 넘었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

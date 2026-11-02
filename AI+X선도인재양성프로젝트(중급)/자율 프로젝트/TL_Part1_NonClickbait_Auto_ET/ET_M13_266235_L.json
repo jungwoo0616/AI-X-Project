@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266235",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅 콘서트장, 영웅시대가 ‘꽉’ 채운다",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅 콘서트장이 ‘영웅시대’(임영웅 팬덤)로 꽉 채워질 전망이다.\n임영웅 소속사 물고기뮤직은 7일 입장을 내고 “임영웅 콘서트 ‘아이엠 히어로’(IM HERO)는 이날부로 시행된 코로나19 관련 정부 방역 지침 완화로 인해 3:1 거리두기 좌석제가 ‘전좌석 운영제’로 변경됐다”고 밝혔다.\n이어 “좌석 간 띄어앉기가 진행되지 않을 예정이고 타 구역 예매도 가능하니 예매 시 착오 없으시길 바란다”며 “본 공연은 아티스트 및 관객 여러분 안전을 위해 코로나19 방역 지침을 준수하며 진행될 예정”이라고 설명했다.\n임영웅 고양 콘서트 예매가 이날 개시된 가운데 방역수칙 완화로 인해 전 좌석이 예매가 가능해지면서 영웅시대 또한 희망에 부풀 예정이다.\n치열한 피켓팅을 예고하고 있는 임영웅 콘서트는 고양을 비롯해 창원, 광주, 대전, 인천, 대구, 서울 등에서 개최된다.\n각 지열 별 티켓 예매는 순차 오픈된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅 콘서트장이 ‘영웅시대’(임영웅 팬덤)로 꽉 채워질 전망이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임영웅 소속사 물고기뮤직은 7일 입장을 내고 “임영웅 콘서트 ‘아이엠 히어로’(IM HERO)는 이날부로 시행된 코로나19 관련 정부 방역 지침 완화로 인해 3:1 거리두기 좌석제가 ‘전좌석 운영제’로 변경됐다”고 밝혔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “좌석 간 띄어앉기가 진행되지 않을 예정이고 타 구역 예매도 가능하니 예매 시 착오 없으시길 바란다”며 “본 공연은 아티스트 및 관객 여러분 안전을 위해 코로나19 방역 지침을 준수하며 진행될 예정”이라고 설명했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅 고양 콘서트 예매가 이날 개시된 가운데 방역수칙 완화로 인해 전 좌석이 예매가 가능해지면서 영웅시대 또한 희망에 부풀 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "치열한 피켓팅을 예고하고 있는 임영웅 콘서트는 고양을 비롯해 창원, 광주, 대전, 인천, 대구, 서울 등에서 개최된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각 지열 별 티켓 예매는 순차 오픈된다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅 콘서트장, 영웅시대가 ‘꽉’ 채운다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

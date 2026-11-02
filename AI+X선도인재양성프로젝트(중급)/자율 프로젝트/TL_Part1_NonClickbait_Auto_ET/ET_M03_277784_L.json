@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277784",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "홍경민, 방송 최초 미모의 아내·딸 공개한다",
+		"newsSubTitle": "",
+		"newsContent": "한국의 '리키 마틴' 홍경민의 결혼생활이 공개된다.\n6일 MBC 휴먼 다큐 (사람이 좋다)에는 홍경민이 모습을 드러낼 예정이다.\n이날 방송에서 홍경민은 미모의 아내와 딸을 방송 최초로 공개한다.\n홍경민이 작사·작곡했던 '마지막 사랑에게'는 미래의 아내에게 바치는 프러포즈 곡이었다.\n곡을 쓰고 며칠이 지난 후, 운명처럼 현재의 아내 김유나씨를 만났고 결혼 2년 만에 딸 홍라원 양이 태어났다.\n홍경민은 밖에서는 상남자지만 안에서는 '딸 바보'로 변한다.\n혹독한 스케줄로 피곤한 와중에도 집에서는 세상 둘도 없는 사랑꾼으로 변신한다는 후문. 홍경민은 성실함 하나로 연예계에서 20년을 버텨왔다고 말한다.\n또한 일확천금을 바라기 보단 소박하게 가장 잘 할수 있는 노래를 하며 사랑하는 아내와 함께 소박한 가정을 꾸려가고 싶다고 고백했다. '사람 냄새' 나는 홍경민의 매력은 방송을 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국의 '리키 마틴' 홍경민의 결혼생활이 공개된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 MBC 휴먼 다큐 (사람이 좋다)에는 홍경민이 모습을 드러낼 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 홍경민은 미모의 아내와 딸을 방송 최초로 공개한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍경민이 작사·작곡했던 '마지막 사랑에게'는 미래의 아내에게 바치는 프러포즈 곡이었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "곡을 쓰고 며칠이 지난 후, 운명처럼 현재의 아내 김유나씨를 만났고 결혼 2년 만에 딸 홍라원 양이 태어났다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍경민은 밖에서는 상남자지만 안에서는 '딸 바보'로 변한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "혹독한 스케줄로 피곤한 와중에도 집에서는 세상 둘도 없는 사랑꾼으로 변신한다는 후문. 홍경민은 성실함 하나로 연예계에서 20년을 버텨왔다고 말한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 일확천금을 바라기 보단 소박하게 가장 잘 할수 있는 노래를 하며 사랑하는 아내와 함께 소박한 가정을 꾸려가고 싶다고 고백했다. '사람 냄새' 나는 홍경민의 매력은 방송을 통해 확인할 수 있다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍경민, 방송 최초 미모의 아내·딸 공개한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

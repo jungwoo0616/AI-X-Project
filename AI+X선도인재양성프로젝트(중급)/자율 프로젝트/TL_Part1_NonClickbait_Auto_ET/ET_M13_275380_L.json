@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275380",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘♥장윤정’ 도경완 “결혼 전 좋아하던 가수는 별”",
+		"newsSubTitle": "",
+		"newsContent": "아나운서 출신 방송인 도경완이 가수 별(김고은)을 ‘결혼 전 가장 좋아했던 가수’로 꼽았다.\n도경완은 13일 인스타그램을 통해 “누가 나에게 ‘결혼 이전에 가장 좋아하던 가수가 누구냐?’라고 묻는다면 나의 대답은 주저 없이 양파(이은진)와 별”이라는 글과 함께 사진을 올렸다.\n공개된 사진 속에는 도경완과 별이 방송인 하하와 김종국이 운영하는 가게에서 손가락 브이를 하고 있다.\n도경완은 “세월이 지나 처제로 만났지만 그래도 나에겐 스타”라며 “여전히 예쁘고 곱다. 하하 형 사랑한다”고 글을 마쳤다.\n도경완은 2013년 가수 장윤정과 결혼해 슬하에 1남 1녀를 두고 있다.\n별은 2012년 하하와 결혼해 2남 1녀를 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아나운서 출신 방송인 도경완이 가수 별(김고은)을 ‘결혼 전 가장 좋아했던 가수’로 꼽았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "도경완은 13일 인스타그램을 통해 “누가 나에게 ‘결혼 이전에 가장 좋아하던 가수가 누구냐?’라고 묻는다면 나의 대답은 주저 없이 양파(이은진)와 별”이라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 도경완과 별이 방송인 하하와 김종국이 운영하는 가게에서 손가락 브이를 하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도경완은 “세월이 지나 처제로 만났지만 그래도 나에겐 스타”라며 “여전히 예쁘고 곱다. 하하 형 사랑한다”고 글을 마쳤다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "도경완은 2013년 가수 장윤정과 결혼해 슬하에 1남 1녀를 두고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "별은 2012년 하하와 결혼해 2남 1녀를 두고 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘♥장윤정’ 도경완 “결혼 전 좋아하던 가수는 별”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

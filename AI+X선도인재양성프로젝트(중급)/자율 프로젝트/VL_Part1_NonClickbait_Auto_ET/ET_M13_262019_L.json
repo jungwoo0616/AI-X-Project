@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262019",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘긴급 살빼기’ 최민환, 1시간에 -1,000cal 운동은 무엇?(살림남2)",
+		"newsSubTitle": "",
+		"newsContent": "26일 KBS2 예능 프로그램 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 요요 현상이 온 최민환의 긴급 다이어트 도전이 그려진다.\n제대와 함께 몰라보게 달라진 모습으로 다이어트에 성공했던 최민환은 야식에 이어 아침부터 삼겹살을 굽는 등 봉인해뒀던 식욕이 폭발한 모습을 보였다.\n날렵했던 턱선과 복근이 사라진 최민환의 모습을 본 가족들은 앞다퉈 “살찐 것 같다”며 잔소리를 했고, 여기에 다섯 살 아들 재율이의 “아빠 돼지야!” 한 마디에 최민환은 큰 충격에 빠졌다.\n그런 가운데 율희는 1시간에 1,000칼로리를 소모하는 고강도 운동인 ‘번지피지오’를 적극적으로 추천했고, 이에 솔깃한 최민환은 다이어트 중인 장인과 함께 체육관을 찾았다.\n한편, “재미있을 것 같다”며 자신감을 보이던 두 사람은 본격적인 운동을 시작하자마자 움직일 때마다 끙끙 앓는가 하면, 매 순간 몸개그를 펼쳐 현장을 폭소케 했다는 후문이다.\n역대급 웃음을 예고한 최민환의 다이어트 도전기는 26일(토) 오후 9시 15분 KBS2 ‘살림남2’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "26일 KBS2 예능 프로그램 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 요요 현상이 온 최민환의 긴급 다이어트 도전이 그려진다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제대와 함께 몰라보게 달라진 모습으로 다이어트에 성공했던 최민환은 야식에 이어 아침부터 삼겹살을 굽는 등 봉인해뒀던 식욕이 폭발한 모습을 보였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "날렵했던 턱선과 복근이 사라진 최민환의 모습을 본 가족들은 앞다퉈 “살찐 것 같다”며 잔소리를 했고, 여기에 다섯 살 아들 재율이의 “아빠 돼지야!” 한 마디에 최민환은 큰 충격에 빠졌다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그런 가운데 율희는 1시간에 1,000칼로리를 소모하는 고강도 운동인 ‘번지피지오’를 적극적으로 추천했고, 이에 솔깃한 최민환은 다이어트 중인 장인과 함께 체육관을 찾았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, “재미있을 것 같다”며 자신감을 보이던 두 사람은 본격적인 운동을 시작하자마자 움직일 때마다 끙끙 앓는가 하면, 매 순간 몸개그를 펼쳐 현장을 폭소케 했다는 후문이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "역대급 웃음을 예고한 최민환의 다이어트 도전기는 26일(토) 오후 9시 15분 KBS2 ‘살림남2’에서 확인할 수 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘긴급 살빼기’ 최민환, 1시간에 -1,000cal 운동은 무엇?(살림남2)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273108",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이정재, 돌아온 ‘오징어 게임’ 성기훈",
+		"newsSubTitle": "",
+		"newsContent": "‘오징어 게임’ 시즌2 제작이 확정된 가운데 주연 배우 이정재가 근황을 알렸다.\n이정재는 14일 자신의 사회관계망서비스(SNS)에 ‘In LA’라는 짧은 글과 함께 사진을 게재했다.\n공개한 사진에서 이정재는 넷플릭스 오리지널 시리즈 ‘오징어 게임’에서 연기한 ‘기훈’의 모습이 담긴 전광판 앞에서 똑같은 포즈를 취했다.\n해당 장면은 ‘오징어 게임’의 첫 게임 ‘무궁화 꽃이 피었습니다’로 이정재는 해당 장면을 동작과 표정까지 그대로 따라 했다.\n한편 넷플릭스는 13일 ‘오징어 게임’ 시즌2 제작을 확정, 발표했다.\n주인공 이정재의 참여도 확정돼 팬들의 기대를 모았다.\n또한 이정재는 올 여름 자신의 첫 연출작 영화 ‘헌트’ 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘오징어 게임’ 시즌2 제작이 확정된 가운데 주연 배우 이정재가 근황을 알렸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이정재는 14일 자신의 사회관계망서비스(SNS)에 ‘In LA’라는 짧은 글과 함께 사진을 게재했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 이정재는 넷플릭스 오리지널 시리즈 ‘오징어 게임’에서 연기한 ‘기훈’의 모습이 담긴 전광판 앞에서 똑같은 포즈를 취했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 장면은 ‘오징어 게임’의 첫 게임 ‘무궁화 꽃이 피었습니다’로 이정재는 해당 장면을 동작과 표정까지 그대로 따라 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 넷플릭스는 13일 ‘오징어 게임’ 시즌2 제작을 확정, 발표했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주인공 이정재의 참여도 확정돼 팬들의 기대를 모았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 이정재는 올 여름 자신의 첫 연출작 영화 ‘헌트’ 개봉을 앞두고 있다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이정재, 돌아온 ‘오징어 게임’ 성기훈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

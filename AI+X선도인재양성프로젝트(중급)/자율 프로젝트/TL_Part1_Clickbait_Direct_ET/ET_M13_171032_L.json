@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171032",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "문채원, 가을을 입다[화보]",
+    "newsSubTitle": "",
+    "newsContent": "배우 문채원의 화보가 공개됐다.\n문채원은 1일 패션 브랜드 ‘로렌 랄프 로렌(Lauren Ralph Lauren)’과 함께 한 마리끌레르 9월 호 화보를 공개했다.\n공개된 화보 속 문채원은 가을 느낌을 풍기는 꽃들과 오브제, 아름다운 마당이 어우러지는 배경 속에서 블랙과 탠 컬러를 베이스로 현대적으로 해석된 웨스턴 무드의 슈트, 데님과 샴브레이 등을 자신만의 스타일로 선보이고 있다. ‘모던 사우스웨스트’를 콘셉트로 하는 로렌 랄프 로렌의 메인 키룩은 문채원의 고혹적인 눈빛과 특유의 우아함을 통해 완성됐다.\n이날 촬영은 무더위가 한창인 8월 초 진행됐다.\n변덕스러운 날씨 속에서 문채원은 주어진 콘셉트를 완벽하게 소화했다.\n스태프들의 의견에 귀를 기울이며 꼼꼼한 모니터링으로 새로운 컷을 찍을 때마다 변화를 주는 등 프로페셔널함으로 현장을 이끌었다는 후문이다.\n한편, 문채원은 지난해 드라마 ‘악의 꽃’을 통해 사랑과 배신, 믿음과 의심 등 양 극단에 서있는 인물의 감정을 촘촘하게 써 내려가며 자신의 진가를 증명했다.\n문채원의 화보는 마리끌레르 9월 호에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 문채원의 화보가 공개됐다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문채원은 1일 패션 브랜드 ‘로렌 랄프 로렌(Lauren Ralph Lauren)’과 함께 한 마리끌레르 9월 호 화보를 공개했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 화보 속 문채원은 가을 느낌을 풍기는 꽃들과 오브제, 아름다운 마당이 어우러지는 배경 속에서 블랙과 탠 컬러를 베이스로 현대적으로 해석된 웨스턴 무드의 슈트, 데님과 샴브레이 등을 자신만의 스타일로 선보이고 있다. ‘모던 사우스웨스트’를 콘셉트로 하는 로렌 랄프 로렌의 메인 키룩은 문채원의 고혹적인 눈빛과 특유의 우아함을 통해 완성됐다.",
+        "sentenceSize": 193
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 촬영은 무더위가 한창인 8월 초 진행됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "변덕스러운 날씨 속에서 문채원은 주어진 콘셉트를 완벽하게 소화했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스태프들의 의견에 귀를 기울이며 꼼꼼한 모니터링으로 새로운 컷을 찍을 때마다 변화를 주는 등 프로페셔널함으로 현장을 이끌었다는 후문이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 문채원은 지난해 드라마 ‘악의 꽃’을 통해 사랑과 배신, 믿음과 의심 등 양 극단에 서있는 인물의 감정을 촘촘하게 써 내려가며 자신의 진가를 증명했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문채원의 화보는 마리끌레르 9월 호에서 만나볼 수 있다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 문채원이 촬영한 이 화보... 고혹적인 눈빛과 잘 어울려",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

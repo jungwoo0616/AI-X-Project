@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269776",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "양미라 “30주차 썸머” 귀여운 D라인",
+		"newsSubTitle": "",
+		"newsContent": "방송인 양미라가 사진으로 근황을 알렸다.\n10일 양미라는 SNS에 “30주차 썸머 #만삭사진아님주의 #주수사진”이라며 사진을 공개했다.\n사진 속 양미라는 D라인을 자랑하고 있다.\n임신으로 15kg이 쪘다고 했으나 날씬한 팔다리와 부기가 없는 얼굴을 자랑했다.\n양미라는 지난 2018년 2세 연상 사업가와 결혼해 슬하에 아들을 두고 있다.\n양미라는 현재 둘째를 임신 중이며 최근 몸무게가 15kg 늘었다고 전한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 양미라가 사진으로 근황을 알렸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 양미라는 SNS에 “30주차 썸머 #만삭사진아님주의 #주수사진”이라며 사진을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 양미라는 D라인을 자랑하고 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임신으로 15kg이 쪘다고 했으나 날씬한 팔다리와 부기가 없는 얼굴을 자랑했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양미라는 지난 2018년 2세 연상 사업가와 결혼해 슬하에 아들을 두고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양미라는 현재 둘째를 임신 중이며 최근 몸무게가 15kg 늘었다고 전한 바 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양미라 “30주차 썸머” 귀여운 D라인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

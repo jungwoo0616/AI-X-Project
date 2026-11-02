@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262762",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정해인의 실제 취미는…",
+		"newsSubTitle": "",
+		"newsContent": "배우 정해인이 실제 취미를 드러냈다.\n정해인 소속사 FNC 엔터테인먼트는 4일 정해인과 코닥어패럴이 함께한 ‘즐겨보락, 코닥 아노락’ 봄 캠페인 화보를 공개했다.\n이번 화보에서 정해인은 일상적 모습을 드러내 눈길을 끌었다.\n가드닝, 펫워팅, RC카 라이딩 등 정해인 실제 취미를 반영한 5가지 콘셉트로 촬영됐다.\n이중 가드닝 콘셉트는 정해인이 펼소 특별히 관심을 가지고 있던 취미로 화보 몰입도를 높였다.\n소속사는 “정해인은 작품뿐 아니라 광고, 화보에서 다채로운 매력을 발산했다”며 “밝은 에너지로 올해 봄 시작을 알린 그의 행보에 귀추가 주목된다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정해인이 실제 취미를 드러냈다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정해인 소속사 FNC 엔터테인먼트는 4일 정해인과 코닥어패럴이 함께한 ‘즐겨보락, 코닥 아노락’ 봄 캠페인 화보를 공개했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 화보에서 정해인은 일상적 모습을 드러내 눈길을 끌었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가드닝, 펫워팅, RC카 라이딩 등 정해인 실제 취미를 반영한 5가지 콘셉트로 촬영됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이중 가드닝 콘셉트는 정해인이 펼소 특별히 관심을 가지고 있던 취미로 화보 몰입도를 높였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사는 “정해인은 작품뿐 아니라 광고, 화보에서 다채로운 매력을 발산했다”며 “밝은 에너지로 올해 봄 시작을 알린 그의 행보에 귀추가 주목된다”고 했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정해인의 실제 취미는…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

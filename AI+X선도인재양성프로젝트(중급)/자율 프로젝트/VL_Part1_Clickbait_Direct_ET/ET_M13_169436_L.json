@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169436",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘마녀 2’ 일일 매출액 10억 돌파…박스오피스 1위 달성",
+    "newsSubTitle": "",
+    "newsContent": "영화 ‘마녀 2’가 일별 박스오피스 1위를 기록했다.\n영화진흥위원회는 오늘(22일) 영화 입장권 통신 전산망(KOBIS) 박스오피스 통계 결과를 발표했다.\n이 결과에 따르면 지난 21일 기준 ‘마녀 2’는 일일 관객 수 108,188명, 매출액 약 10억 900만 원을 기록하며 박스오피스 1위를 차지했다.\n좌석 점유율 순위에서도 45.1%로 선두를 달리고 있다.\n지난달 개봉한 ‘범죄도시 2’가 그 뒤를 이어가고 있다. ‘범죄도시 2’는 일일 관객 수 73,876명, 매출액 약 7억 3,600만 원을 기록했다.\n좌석 점유율은 26.7%를 기록했다.\n이어 ‘브로커’, ‘버즈 라이트이어’, ‘쥬라기 월드:도미니언’, ‘헤어질 결심’, ‘극장판 포켓몬스터DP:기라티나와 하늘의 꽃다발 쉐이미’, ‘실종’, ‘닥터 스트레인지:대혼돈의 멀티버스’, ‘신비한 동물들과 덤블도어의 비밀’ 순으로 일별 박스오피스 TOP10을 기록했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 ‘마녀 2’가 일별 박스오피스 1위를 기록했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화진흥위원회는 오늘(22일) 영화 입장권 통신 전산망(KOBIS) 박스오피스 통계 결과를 발표했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 결과에 따르면 지난 21일 기준 ‘마녀 2’는 일일 관객 수 108,188명, 매출액 약 10억 900만 원을 기록하며 박스오피스 1위를 차지했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "좌석 점유율 순위에서도 45.1%로 선두를 달리고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난달 개봉한 ‘범죄도시 2’가 그 뒤를 이어가고 있다. ‘범죄도시 2’는 일일 관객 수 73,876명, 매출액 약 7억 3,600만 원을 기록했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "좌석 점유율은 26.7%를 기록했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 ‘브로커’, ‘버즈 라이트이어’, ‘쥬라기 월드:도미니언’, ‘헤어질 결심’, ‘극장판 포켓몬스터DP:기라티나와 하늘의 꽃다발 쉐이미’, ‘실종’, ‘닥터 스트레인지:대혼돈의 멀티버스’, ‘신비한 동물들과 덤블도어의 비밀’ 순으로 일별 박스오피스 TOP10을 기록했다.",
+        "sentenceSize": 153
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 ‘마녀 2’ 일일 관객 수 사상 최고치 기록하며 박스오피스 1위 차지... 이대로 천만 영화 가나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

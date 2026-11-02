@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275361",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "지코, 27일 컴백[공식]",
+		"newsSubTitle": "",
+		"newsContent": "프로듀서 겸 가수 지코(ZICO)가 돌아온다. 13일 소속사 KOZ 엔터테인먼트 측은 “지코가 오는 27일 미니 4집 ‘Grown Ass Kid’(그로운 애스 키드)를 발매하고 전격 컴백한다”라고 밝혔다.\n이로서 지코는 지난 2020년 7월 발매한 미니 3집 ‘RANDOM BOX’(랜덤박스) 이후 2년 만의 컴백인 동시에 군복무 이후 처음으로 앨범을 발표하게 됐다.\n지코는 그간 ‘아무노래’, ‘Summer Hate’(서머 해이트), ‘사람’, ‘남겨짐에 대해’ 등 다수의 히트곡을 발표하며 문화를 선두해왔다.\n그가 이번에는 어떤 음악으로 새로움을 안길지 기대감이 커지고 있다.\n한편, 지코는 ‘아무노래’로 멜론 일간 차트에서 52회 1위를 기록했고, 방송 출연 없이 음악방송 통산 10관왕에 올랐다.\n이 곡은 2020년 연간 가온 디지털 차트, 다운로드 차트, 스트리밍 차트에서 1위를 차지하며 음원강자 지코의 저력을 보여준 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로듀서 겸 가수 지코(ZICO)가 돌아온다. 13일 소속사 KOZ 엔터테인먼트 측은 “지코가 오는 27일 미니 4집 ‘Grown Ass Kid’(그로운 애스 키드)를 발매하고 전격 컴백한다”라고 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이로서 지코는 지난 2020년 7월 발매한 미니 3집 ‘RANDOM BOX’(랜덤박스) 이후 2년 만의 컴백인 동시에 군복무 이후 처음으로 앨범을 발표하게 됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지코는 그간 ‘아무노래’, ‘Summer Hate’(서머 해이트), ‘사람’, ‘남겨짐에 대해’ 등 다수의 히트곡을 발표하며 문화를 선두해왔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그가 이번에는 어떤 음악으로 새로움을 안길지 기대감이 커지고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 지코는 ‘아무노래’로 멜론 일간 차트에서 52회 1위를 기록했고, 방송 출연 없이 음악방송 통산 10관왕에 올랐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 곡은 2020년 연간 가온 디지털 차트, 다운로드 차트, 스트리밍 차트에서 1위를 차지하며 음원강자 지코의 저력을 보여준 바 있다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지코, 27일 컴백[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

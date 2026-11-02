@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269601",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "성시경, 힘겨운 금연에 식욕 폭발",
+		"newsSubTitle": "",
+		"newsContent": "가수 성시경이 최선을 다해 금연 중인 근황을 공개했다.\n성시경은 9일 자신의 사회관계망서비스(SNS)에 “금연 9일째, 금연도 좋은데 오늘부턴 먹는 것도 조금 줄여야겠어요”라는 글과 함께 수많은 음식 사진을 게재했다.\n공개된 사진은 성시경이 금연 중 먹었던 보기만 해도 식욕을 자극하는 음식으로 가득했다.\n성시경은 “역대급 금단 현상으로 밤에 라면을 끓이고 본인 유튜브 북어구이를 보다가 생선까스를 시키고 난리도 아니었네요”라며 금단 증상으로 인해 식욕이 부쩍 올랐다고 밝혔다.\n갑작스럽게 오르는 식욕은 금단 증상의 대표적인 예다.\n한편 성시경은 오는 28일과 29일 서울 잠실종합운동장 보조경기장에서 ‘2022 성시경의 축가 콘서트’를 연다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 성시경이 최선을 다해 금연 중인 근황을 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "성시경은 9일 자신의 사회관계망서비스(SNS)에 “금연 9일째, 금연도 좋은데 오늘부턴 먹는 것도 조금 줄여야겠어요”라는 글과 함께 수많은 음식 사진을 게재했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 성시경이 금연 중 먹었던 보기만 해도 식욕을 자극하는 음식으로 가득했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "성시경은 “역대급 금단 현상으로 밤에 라면을 끓이고 본인 유튜브 북어구이를 보다가 생선까스를 시키고 난리도 아니었네요”라며 금단 증상으로 인해 식욕이 부쩍 올랐다고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "갑작스럽게 오르는 식욕은 금단 증상의 대표적인 예다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 성시경은 오는 28일과 29일 서울 잠실종합운동장 보조경기장에서 ‘2022 성시경의 축가 콘서트’를 연다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "성시경, 힘겨운 금연에 식욕 폭발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

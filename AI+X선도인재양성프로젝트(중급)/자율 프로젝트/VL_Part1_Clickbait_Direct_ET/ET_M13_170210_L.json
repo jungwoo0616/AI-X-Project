@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170210",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "선미, 볼륨감 넘치는 몸매 “쀼”",
+    "newsSubTitle": "",
+    "newsContent": "가수 선미가 과감한 오프숄더 의상을 소화했다.\n선미는 22일 인스타그램에 “쀼”라는 글과 함께 사진의 셀카를 게재했다.\n공개된 사진에는 오프숄더 의상을 입은 선미가 카메라를 바라보고 있는 모습이 담겼다.\n선미는 옅은 메이크업에도 또렷한 이목구비를 뽐내며 화사한 비주얼을 자랑했다.\n이와 함께 선미의 볼륨감 넘치는 몸매가 눈길을 끈다.\n한편 선미는 최근 두바이에서 개최된 두바이 엑스포 한국관 한국의 날 케이팝 콘서트에 참여했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 선미가 과감한 오프숄더 의상을 소화했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "선미는 22일 인스타그램에 “쀼”라는 글과 함께 사진의 셀카를 게재했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 오프숄더 의상을 입은 선미가 카메라를 바라보고 있는 모습이 담겼다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "선미는 옅은 메이크업에도 또렷한 이목구비를 뽐내며 화사한 비주얼을 자랑했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 함께 선미의 볼륨감 넘치는 몸매가 눈길을 끈다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 선미는 최근 두바이에서 개최된 두바이 엑스포 한국관 한국의 날 케이팝 콘서트에 참여했다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "숨길 수 없는 볼륨감, 드러난 어깨만큼 자신감 넘치는 모습 보여준 선미",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

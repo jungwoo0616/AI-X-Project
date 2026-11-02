@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259521",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘은밀한 뉴스룸’ 김형자, 조카 아들로 입양한 사연[채널예약]",
+		"newsSubTitle": "",
+		"newsContent": "배우 김형자가 친언니 아들을 입양, 어머니가 된 사실이 27일 전해졌다.\n김형자는 먼저 세상을 떠난 친언니 아들 김현수씨를 지난해 9월 입양했으며, 모든 법적 절차 역시 마무리한 것으로 확인됐다.\n이는 채널 IHQ ‘은밀한 뉴스룸’에 출연 중인 김형자가 최근 녹화에 참여해 입양 사실을 깜짝 고백하면서 알려졌다.\n현장 스태프에 따르면, 김형자는 누구보다 돈독하게 지냈던 친언니를 떠나보낸 후 줄곧 아들처럼 돌봐온 조카 김현수 씨를 양자로 입양했으며, 김 씨 역시 평소 김형자를 어머니 못지않게 모셔왔던 것으로 전해졌다.\n1970년 TBC 10기 공채 탤런트로 데뷔한 김형자는 스크린과 안방극장을 오가며 인기 스타로 자리매김했다.\n영화 ‘조약돌’로 1976년제12회 한국연극영화TV예술상 영화부문 신인상을 수상했고, 영화 ‘앵무새, 몸으로울었다’와 ‘감자’로 각각 1981년, 1987년 대종상 영화제의 여우조연상을 거머쥐었으며, 2005년 개봉작 ‘마파도’에서도 인상 깊은 연기로 호평을 받았다.\n김형자의 입양 뒷이야기는 오는 29일 오전 11시 채널 IHQ ‘은밀한 뉴스룸’에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김형자가 친언니 아들을 입양, 어머니가 된 사실이 27일 전해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김형자는 먼저 세상을 떠난 친언니 아들 김현수씨를 지난해 9월 입양했으며, 모든 법적 절차 역시 마무리한 것으로 확인됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 채널 IHQ ‘은밀한 뉴스룸’에 출연 중인 김형자가 최근 녹화에 참여해 입양 사실을 깜짝 고백하면서 알려졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현장 스태프에 따르면, 김형자는 누구보다 돈독하게 지냈던 친언니를 떠나보낸 후 줄곧 아들처럼 돌봐온 조카 김현수 씨를 양자로 입양했으며, 김 씨 역시 평소 김형자를 어머니 못지않게 모셔왔던 것으로 전해졌다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1970년 TBC 10기 공채 탤런트로 데뷔한 김형자는 스크린과 안방극장을 오가며 인기 스타로 자리매김했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 ‘조약돌’로 1976년제12회 한국연극영화TV예술상 영화부문 신인상을 수상했고, 영화 ‘앵무새, 몸으로울었다’와 ‘감자’로 각각 1981년, 1987년 대종상 영화제의 여우조연상을 거머쥐었으며, 2005년 개봉작 ‘마파도’에서도 인상 깊은 연기로 호평을 받았다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김형자의 입양 뒷이야기는 오는 29일 오전 11시 채널 IHQ ‘은밀한 뉴스룸’에서 방송된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘은밀한 뉴스룸’ 김형자, 조카 아들로 입양한 사연[채널예약]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

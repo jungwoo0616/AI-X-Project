@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277181",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'60억' 손 보험 들었다는 男배우의 고운 손",
+		"newsSubTitle": "",
+		"newsContent": "'60억' 손 보험에 들었다는 한 중국 배우가 눈길을 끌고 있다.\n중국 배우 왕카이(35·王凱)는 '치후360'이라는 휴대폰 모델로 선정됐을 당시 그의 손을 보고 반한 해당 기업이 손 보험을 들어준 일화로 유명하다.\n크고 긴 손가락을 가지고 있는 왕카이의 손은 3600만 위안(한화 60억) 보험에 들어있다고 한다.\n한 국내 팬은 \\\"왕카이의 손은 중국 연예계 3대 보물\\\"이라면서 소개하기도 했다. '중국 연예계 3대 보물'은 왕카이의 손을 비롯해 곽건화의 속눈썹, 호가의 다리라고 전해진다.\n왕카이는 방송·화보 촬영 등지에서 손을 보여 달라는 취재진의 요구를 자주 받는다.\n그때마다 그는 손을 보여주며 크고 쭉 뻗은 손가락을 자랑한다.\n한편 왕카이는 웨이보(微博ㆍ중국판 트위터)에서 팔로어 1300만명을 보유한 중국 인기스타다.\n그는 지난해 인기리에 종영한 드라마 '여과와우유애정(如果蝸牛有愛情)'에도 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'60억' 손 보험에 들었다는 한 중국 배우가 눈길을 끌고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중국 배우 왕카이(35·王凱)는 '치후360'이라는 휴대폰 모델로 선정됐을 당시 그의 손을 보고 반한 해당 기업이 손 보험을 들어준 일화로 유명하다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "크고 긴 손가락을 가지고 있는 왕카이의 손은 3600만 위안(한화 60억) 보험에 들어있다고 한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 국내 팬은 \\\"왕카이의 손은 중국 연예계 3대 보물\\\"이라면서 소개하기도 했다. '중국 연예계 3대 보물'은 왕카이의 손을 비롯해 곽건화의 속눈썹, 호가의 다리라고 전해진다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "왕카이는 방송·화보 촬영 등지에서 손을 보여 달라는 취재진의 요구를 자주 받는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그때마다 그는 손을 보여주며 크고 쭉 뻗은 손가락을 자랑한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 왕카이는 웨이보(微博ㆍ중국판 트위터)에서 팔로어 1300만명을 보유한 중국 인기스타다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 지난해 인기리에 종영한 드라마 '여과와우유애정(如果蝸牛有愛情)'에도 출연했다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'60억' 손 보험 들었다는 男배우의 고운 손",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

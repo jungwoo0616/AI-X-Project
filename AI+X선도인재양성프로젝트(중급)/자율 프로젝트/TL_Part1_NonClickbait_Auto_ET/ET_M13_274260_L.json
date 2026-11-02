@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274260",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "하이량, CGV 전광판에 떴다",
+		"newsSubTitle": "",
+		"newsContent": "가수 하이량이 팬들의 사랑에 감사한 마음을 전했다.\n하이량은 지난 27일 자신의 사회관계망서비스(SNS)를 통해 팬들이 선물한 영화관 전광판 앞에서 촬영한 인증샷과 영상을 올렸다.\n공개된 사진에는 ‘당신을 위한 신청곡 하이량’이라는 신곡 문구가 적힌 CGV 전광판 앞에서 환한 미소를 짓고 있는 하이량의 모습이 담겼다.\n함께 공개된 영상에서 하이량은 전광판 앞에서 감사 인사와 함께 신곡 일부를 즉석에서 부르는가 하면, 전광판을 끌어안으며 감격에 겨운 댄스로 벅찬 마음을 드러내 팬들의 미소를 불러일으켰다.\n하이량은 “팬들의 신곡 ‘신청곡’ 발매 축하 선물로 CGV 강남점과 송파점 전광판에 2주 동안 하이량 얼굴이 딱. 감사한 마음 평생 잊지 않고 더 열심히 활동하겠습니다”라며 “너무 행복해요. 이렇게나 큰 힘을 주는 좋은 사람들이 곁에 있어 살맛 나는 요즘입니다. 하이량 가수 생활에 버킷리스트 또 하나 이뤘다”라고 전했다.\n하이량은 지난달 24일 댄스 트로트 신곡 ‘신청곡’을 발매, 독보적인 허스키 보이스와 중독성 강한 멜로디, 출구 없는 매력으로 리스너들을 사로잡으며 활발한 활동을 이어가고 있다.\n신곡 ‘신청곡’은 사랑하는 사람을 그리워하는 애절한 마음을 빠르고 신나는 댄스 비트에 담아 역설적인 슬픔이 느껴지는 곡이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 하이량이 팬들의 사랑에 감사한 마음을 전했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이량은 지난 27일 자신의 사회관계망서비스(SNS)를 통해 팬들이 선물한 영화관 전광판 앞에서 촬영한 인증샷과 영상을 올렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 ‘당신을 위한 신청곡 하이량’이라는 신곡 문구가 적힌 CGV 전광판 앞에서 환한 미소를 짓고 있는 하이량의 모습이 담겼다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "함께 공개된 영상에서 하이량은 전광판 앞에서 감사 인사와 함께 신곡 일부를 즉석에서 부르는가 하면, 전광판을 끌어안으며 감격에 겨운 댄스로 벅찬 마음을 드러내 팬들의 미소를 불러일으켰다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하이량은 “팬들의 신곡 ‘신청곡’ 발매 축하 선물로 CGV 강남점과 송파점 전광판에 2주 동안 하이량 얼굴이 딱. 감사한 마음 평생 잊지 않고 더 열심히 활동하겠습니다”라며 “너무 행복해요. 이렇게나 큰 힘을 주는 좋은 사람들이 곁에 있어 살맛 나는 요즘입니다. 하이량 가수 생활에 버킷리스트 또 하나 이뤘다”라고 전했다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하이량은 지난달 24일 댄스 트로트 신곡 ‘신청곡’을 발매, 독보적인 허스키 보이스와 중독성 강한 멜로디, 출구 없는 매력으로 리스너들을 사로잡으며 활발한 활동을 이어가고 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신곡 ‘신청곡’은 사랑하는 사람을 그리워하는 애절한 마음을 빠르고 신나는 댄스 비트에 담아 역설적인 슬픔이 느껴지는 곡이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하이량, CGV 전광판에 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261977",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘유퀴즈’ 김나영, 명품 C사 협찬 “제니 정도 돼야” 자랑",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김나영이 명품 C사 옷을 입고 출연했다.\n지난 23일 방송된 tvN ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’) 143회에는 워너비 트렌드세터가 된 김나영이 게스트로 출연했다.\n이날 김나영은 “옷 입고하는 거를 좋아했다”며 “패션에 대한 꿈이 있었고 방송을 하면서도 그 그림을 그렸다”고 했다.\n또 김나영은 평소 방송 출연 전 누리꾼들과 SNS로 소통, 픽을 받은 의상을 입는 편 아니냐며 이번에도 누리꾼에게 선택받은 옷을 입고 왔냐는 유재석의 질문에 “딱 한 브랜드에서 ‘유퀴즈’에 나간다고 하니 옷을 빌려주셨다. 이 브랜드가 원래 잘 안 해주신다. 배우분들도 잘 안 해주시고”라고 자랑했다.\n김나영은 “오늘 뻗쳐 입고 나왔다”라며 모두 앞에 의상을 선보였고 유재석은 “원래 여기 협찬 안 해주는데”라며 감탄했다.\n김나영은 “제니 씨나 이런 정도 돼야 한다”라며 재차 자랑을 이었고, 유재석은 “제니 씨가 앰배서더이시지 않냐”라고 공감을 표했다.\n제니와 김고은이 앰배서더로 활약 중인 C사 의상이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김나영이 명품 C사 옷을 입고 출연했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 23일 방송된 tvN ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’) 143회에는 워너비 트렌드세터가 된 김나영이 게스트로 출연했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김나영은 “옷 입고하는 거를 좋아했다”며 “패션에 대한 꿈이 있었고 방송을 하면서도 그 그림을 그렸다”고 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 김나영은 평소 방송 출연 전 누리꾼들과 SNS로 소통, 픽을 받은 의상을 입는 편 아니냐며 이번에도 누리꾼에게 선택받은 옷을 입고 왔냐는 유재석의 질문에 “딱 한 브랜드에서 ‘유퀴즈’에 나간다고 하니 옷을 빌려주셨다. 이 브랜드가 원래 잘 안 해주신다. 배우분들도 잘 안 해주시고”라고 자랑했다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김나영은 “오늘 뻗쳐 입고 나왔다”라며 모두 앞에 의상을 선보였고 유재석은 “원래 여기 협찬 안 해주는데”라며 감탄했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김나영은 “제니 씨나 이런 정도 돼야 한다”라며 재차 자랑을 이었고, 유재석은 “제니 씨가 앰배서더이시지 않냐”라고 공감을 표했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제니와 김고은이 앰배서더로 활약 중인 C사 의상이었다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘유퀴즈’ 김나영, 명품 C사 협찬 “제니 정도 돼야” 자랑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

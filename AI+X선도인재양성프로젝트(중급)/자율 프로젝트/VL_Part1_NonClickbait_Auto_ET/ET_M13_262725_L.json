@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262725",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 윤서령, 개그맨 송준근과 전통시장에 출격",
+		"newsSubTitle": "",
+		"newsContent": "‘트롯 비타민’ 윤서령이 전통시장을 찾아 산뜻한 활력을 불어넣었다.\n윤서령은 3일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연, 생방송 스튜디오에서 개그맨 송준근과 활기찬 인사로 시선을 끄는가 하면, 통통 튀는 매력을 뽐내 시청자들의 마음을 사로잡았다.\n윤서령은 송준근과 함께 경기도 광주에 위치한 경안시장을 찾아 코로나19로 지쳤을 상인들에게 응원을 전했다.\n윤서령은 빼어난 라이브 실력을 자랑해 보는 이들의 입꼬리를 끌어올렸고, 송준근과 찰진 케미를 이어가 웃음을 유발했다.\n윤서령은 “올해 스무살이 됐다”라며 유쾌한 텐션을 자랑한 것은 물론, 전통시장 상인들을 만나 애교와 경안시장으로 N행시를 선보이며 재미를 더했다.\n윤서령은 오겹살 맛집에도 방문, 먹방에 이어 상인들을 위한 응원송을 춤과 함께 선보여 마지막까지 존재감을 각인시켰다.\n전통시장에서 남다른 활약을 보여줬던 윤서령은 “제가 응원하기 위해 전통시장을 찾았는데, 상인분들의 열정 덕분에 오히려 좋은 기운을 얻었다”라고 소감을 전해 훈훈함을 자아냈다. ‘트롯 비타민’ 윤서령은 지난 2일 새 싱글 ‘나비소녀’를 발매, 앞으로 다양한 음악 방송과 예능을 통해 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘트롯 비타민’ 윤서령이 전통시장을 찾아 산뜻한 활력을 불어넣었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤서령은 3일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연, 생방송 스튜디오에서 개그맨 송준근과 활기찬 인사로 시선을 끄는가 하면, 통통 튀는 매력을 뽐내 시청자들의 마음을 사로잡았다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤서령은 송준근과 함께 경기도 광주에 위치한 경안시장을 찾아 코로나19로 지쳤을 상인들에게 응원을 전했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤서령은 빼어난 라이브 실력을 자랑해 보는 이들의 입꼬리를 끌어올렸고, 송준근과 찰진 케미를 이어가 웃음을 유발했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤서령은 “올해 스무살이 됐다”라며 유쾌한 텐션을 자랑한 것은 물론, 전통시장 상인들을 만나 애교와 경안시장으로 N행시를 선보이며 재미를 더했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤서령은 오겹살 맛집에도 방문, 먹방에 이어 상인들을 위한 응원송을 춤과 함께 선보여 마지막까지 존재감을 각인시켰다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전통시장에서 남다른 활약을 보여줬던 윤서령은 “제가 응원하기 위해 전통시장을 찾았는데, 상인분들의 열정 덕분에 오히려 좋은 기운을 얻었다”라고 소감을 전해 훈훈함을 자아냈다. ‘트롯 비타민’ 윤서령은 지난 2일 새 싱글 ‘나비소녀’를 발매, 앞으로 다양한 음악 방송과 예능을 통해 대중을 만날 예정이다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 윤서령, 개그맨 송준근과 전통시장에 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171512",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘이터널스’ 흥행세…BTS 지민·아미도 합세",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 멤버 지민의 음악적 재능이 할리우드로 향했다.\n방탄소년단 팬 클럽 아미에 따르면 지민이 작사·작곡 및 프로듀싱한 ‘친구’는 3일 음원사이트 멜론 실시간 검색어 1위에 오른 데 이어 트위터 전 세계 실시간 트렌드로 기록되며 흥행을 이어가고 있다.\n전 세계 아미들은 트위터를 기점으로 영화 ‘이터널스’ 한국 개봉일 3일에 맞춰 지민을 향해 축하 메시지를 보내고 있다. ‘친구’는 배우 마동석이 출연해 국내 팬들에게도 화제를 모은 ‘이터널스’의 O.S.T이기도 하다.\n아미들은 ‘이터널스’ 단체 관람에도 나섰다.\n이들은 ‘Jimin Park’(박지민, 지민의 본명)의 이름이 엔딩 크레딧이 올라있는 것을 인증하며 남다른 팬심을 담아냈다.\n이 같은 성원에 ‘이터널스’는 국내 박스오피스 정상에 오르며 흥행을 이어가는 모양새다.\n4일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘이터널스’는 전날 29만6000명(매출액 점유율 88.9%)의 관객을 모으며 높은 오프닝 스코어를 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 멤버 지민의 음악적 재능이 할리우드로 향했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방탄소년단 팬 클럽 아미에 따르면 지민이 작사·작곡 및 프로듀싱한 ‘친구’는 3일 음원사이트 멜론 실시간 검색어 1위에 오른 데 이어 트위터 전 세계 실시간 트렌드로 기록되며 흥행을 이어가고 있다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전 세계 아미들은 트위터를 기점으로 영화 ‘이터널스’ 한국 개봉일 3일에 맞춰 지민을 향해 축하 메시지를 보내고 있다. ‘친구’는 배우 마동석이 출연해 국내 팬들에게도 화제를 모은 ‘이터널스’의 O.S.T이기도 하다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아미들은 ‘이터널스’ 단체 관람에도 나섰다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들은 ‘Jimin Park’(박지민, 지민의 본명)의 이름이 엔딩 크레딧이 올라있는 것을 인증하며 남다른 팬심을 담아냈다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 같은 성원에 ‘이터널스’는 국내 박스오피스 정상에 오르며 흥행을 이어가는 모양새다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "4일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘이터널스’는 전날 29만6000명(매출액 점유율 88.9%)의 관객을 모으며 높은 오프닝 스코어를 보였다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방탄소년단 지민의 '친구' 덕분? 마블 이 영화 흥행세",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

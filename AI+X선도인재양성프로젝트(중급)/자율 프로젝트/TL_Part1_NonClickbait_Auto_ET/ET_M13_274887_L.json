@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274887",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "경리, 찜통 같은 무더위에 “극도로 예민해지네요”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 나인뮤지스 출신 가수 경리가 무더위에 무너졌다.\n경리는 6일 오후 자신의 사회관계망서비스(sns) 인스타그램 스토리에 사진과 함께 글귀를 게재했다.\n경리는 하얀 실내장식이 인상적인 공간에서 “이게 지금 사람 사는 온도가 맞나”라며 난감하다는 이모티콘을 덧붙였다.\n특히 경리는 “극도로 예민해진다”며 다소 격양된 어투로 기분을 드러냈다.\n평소 경리는 성격 좋은 사람으로 유명했다.\n그랬던 그마저 예민해질 정도로 더워진 날씨가 실감이 나 보는 이들의 공감을 샀다.\n한편 경리는 나인뮤지스 해체 이후 솔로 활동을 이어갔다.\n또 경리는 JTBC 드라마 ‘언더커버’를 통해 연기를 도전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 나인뮤지스 출신 가수 경리가 무더위에 무너졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경리는 6일 오후 자신의 사회관계망서비스(sns) 인스타그램 스토리에 사진과 함께 글귀를 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경리는 하얀 실내장식이 인상적인 공간에서 “이게 지금 사람 사는 온도가 맞나”라며 난감하다는 이모티콘을 덧붙였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 경리는 “극도로 예민해진다”며 다소 격양된 어투로 기분을 드러냈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "평소 경리는 성격 좋은 사람으로 유명했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그랬던 그마저 예민해질 정도로 더워진 날씨가 실감이 나 보는 이들의 공감을 샀다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 경리는 나인뮤지스 해체 이후 솔로 활동을 이어갔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 경리는 JTBC 드라마 ‘언더커버’를 통해 연기를 도전했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "경리, 찜통 같은 무더위에 “극도로 예민해지네요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275196",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "투모로우바이투게더, 22일 신곡 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 투모로우바이투게더가 특별한 컬래버레이션을 만든다. 11일 하이브에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 오는 22일 이안 디올과 협업한 ‘Valley of Lies (feat.iann dior)’(밸리 오브 라이스)를 발표한다. ‘Valley of Lies (feat. iann dior)’는 투모로우바이투게더의 트렌디하고 공감대 높은 음악을 눈 여겨 봐 온 이안 디올의 제안으로 성사됐다.\n이안 디올은 24케이골든(24KGoldn)이 지난 2020년 발매한 싱글 ‘Mood’에 피처링으로 참여해 빌보드 메인 싱글 차트 ‘핫100’에서 정상을 밟은 바 있다.\n두 ‘대세’들의 만남이 어떤 곡으로 탄생될지 관심이 쏠린다.\n이날 하이브측은 ‘Vally of Lies’의 커버 이미지를 공개했다.\n곡 제목 ‘거짓의 계곡’과 함께 계곡을 벗어나 뚜벅뚜벅 앞을 향해 나아가는 소년의 모습이 어떤 의미를 담고 있을지 궁금증을 자아낸다.\n투모로우바이투게더와 이안 디올의 신곡 ‘Valley of Lies (feat. iann dior)’는 22일 오전 0시 글로벌 음원 스트리밍 플랫폼을 통해 동시 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 투모로우바이투게더가 특별한 컬래버레이션을 만든다. 11일 하이브에 따르면 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)는 오는 22일 이안 디올과 협업한 ‘Valley of Lies (feat.iann dior)’(밸리 오브 라이스)를 발표한다. ‘Valley of Lies (feat. iann dior)’는 투모로우바이투게더의 트렌디하고 공감대 높은 음악을 눈 여겨 봐 온 이안 디올의 제안으로 성사됐다.",
+				"sentenceSize": 237
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이안 디올은 24케이골든(24KGoldn)이 지난 2020년 발매한 싱글 ‘Mood’에 피처링으로 참여해 빌보드 메인 싱글 차트 ‘핫100’에서 정상을 밟은 바 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 ‘대세’들의 만남이 어떤 곡으로 탄생될지 관심이 쏠린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 하이브측은 ‘Vally of Lies’의 커버 이미지를 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "곡 제목 ‘거짓의 계곡’과 함께 계곡을 벗어나 뚜벅뚜벅 앞을 향해 나아가는 소년의 모습이 어떤 의미를 담고 있을지 궁금증을 자아낸다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "투모로우바이투게더와 이안 디올의 신곡 ‘Valley of Lies (feat. iann dior)’는 22일 오전 0시 글로벌 음원 스트리밍 플랫폼을 통해 동시 공개된다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "투모로우바이투게더, 22일 신곡 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

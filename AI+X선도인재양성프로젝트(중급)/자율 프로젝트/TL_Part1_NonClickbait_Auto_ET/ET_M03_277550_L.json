@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277550",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'5년째 연애중' 비와이가 여자친구와 처음 만난 곳",
+		"newsSubTitle": "",
+		"newsContent": "11일 MBC-TV '라디오스타'에 나온 비와이가 여자친구와의 첫만남을 공개했다.\n그는 \\\"여자친구와 5년 째 만나고 있다\\\" \\\"첫 만남은 교회 새내기 환영회였다\\\"고 말했다.\n교회 모임에서 여자친구를 본 비와이는 첫눈에 반해 4개월 동안 짝사랑을 이어갔다.\n그는 \\\"여자친구가 원래 긴 생머리였는데 단발로 자르고 나타났다\\\" \\\"그 순간 그 친구 빼고 세상이 다 어둡게 보였다\\\"며 애정을 드러냈다.\n그러면서 그는 \\\"여자친구가 처음 보자마자 홍대를 가자고 하더라\\\" \\\"그 때 나에게 관심이 있는 게 아닐까 생각했다\\\"라고 전했다.\n비와이는 과거 '쇼미더머니5' 파이널 진출을 확정한 후 여자친구 사진을 자신의 인스타그램에 올려 화제가 되기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "11일 MBC-TV '라디오스타'에 나온 비와이가 여자친구와의 첫만남을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 \\\"여자친구와 5년 째 만나고 있다\\\" \\\"첫 만남은 교회 새내기 환영회였다\\\"고 말했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "교회 모임에서 여자친구를 본 비와이는 첫눈에 반해 4개월 동안 짝사랑을 이어갔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"여자친구가 원래 긴 생머리였는데 단발로 자르고 나타났다\\\" \\\"그 순간 그 친구 빼고 세상이 다 어둡게 보였다\\\"며 애정을 드러냈다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 그는 \\\"여자친구가 처음 보자마자 홍대를 가자고 하더라\\\" \\\"그 때 나에게 관심이 있는 게 아닐까 생각했다\\\"라고 전했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비와이는 과거 '쇼미더머니5' 파이널 진출을 확정한 후 여자친구 사진을 자신의 인스타그램에 올려 화제가 되기도 했다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'5년째 연애중' 비와이가 여자친구와 처음 만난 곳",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

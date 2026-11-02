@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265869",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 제니, 월요일을 밝히는 화보 요정",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크(BLACK PINK) 제니가 월요일을 화보로 장식했다.\n제니는 4일 자신의 사회관계망서비스(SNS) 인스타그램과 인스타그램 스토리에 사진들을 올리며 게재했다.\n제니는 깊은 스퀘어넥의 검은색 미니원피스에 넉넉한 품의 부츠를 함께 매치해 섹시하면서도 발랄한 분위기를 냈다.\n다른 사진에서 제니는 크롭 셔츠에 넥타이, 선글라스, 핑크 니트 원피스, 레더 스커트 등 힙한 하이틴 스타일의 의상을 입고 화보 촬영했던 사진들을 공개했다.\n제니는 사진마다 다른 모습으로 화보 장인임을 과시했다.\n그는 도회적인 모습부터 과즙미 넘치는 모습까지 다양한 표정과 포즈로 사진을 다채롭게 했다.\n또 제니는 블링크(블랙핑크 팬클럽)에 “블링크 보고 싶다”라는 말을 전해 팬들에게 근황을 알렸다.\n한편 제니가 속한 블랙핑크는 올해 컴백을 목표로 준비 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크(BLACK PINK) 제니가 월요일을 화보로 장식했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제니는 4일 자신의 사회관계망서비스(SNS) 인스타그램과 인스타그램 스토리에 사진들을 올리며 게재했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제니는 깊은 스퀘어넥의 검은색 미니원피스에 넉넉한 품의 부츠를 함께 매치해 섹시하면서도 발랄한 분위기를 냈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다른 사진에서 제니는 크롭 셔츠에 넥타이, 선글라스, 핑크 니트 원피스, 레더 스커트 등 힙한 하이틴 스타일의 의상을 입고 화보 촬영했던 사진들을 공개했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제니는 사진마다 다른 모습으로 화보 장인임을 과시했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 도회적인 모습부터 과즙미 넘치는 모습까지 다양한 표정과 포즈로 사진을 다채롭게 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 제니는 블링크(블랙핑크 팬클럽)에 “블링크 보고 싶다”라는 말을 전해 팬들에게 근황을 알렸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 제니가 속한 블랙핑크는 올해 컴백을 목표로 준비 중이다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 제니, 월요일을 밝히는 화보 요정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

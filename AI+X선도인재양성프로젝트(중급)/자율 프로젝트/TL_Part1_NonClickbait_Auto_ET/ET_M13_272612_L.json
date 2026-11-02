@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272612",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신예 홍태준, 치즈 신곡 ‘퐁당’ 뮤직비디오 출연",
+		"newsSubTitle": "",
+		"newsContent": "에스팀 소속 라이징 신예 모델 홍태준이 가수 치즈(CHEEZE)의 신곡 ‘퐁당 (Pong Dang)’ 뮤직비디오 속 남자 주인공 역으로 출연, 청량한 매력으로 눈길을 끌었다.\n지난 7일 오후 6시 각종 온라인 음원사이트를 통해 공개된 치즈의 디지털 싱글 ‘퐁당 (Pong Dang)’은 호감 있는 상대가 나에게 조금씩 가까워지길 바라며 거는 귀여운 주문을 치즈만의 독특한 해석으로 풀어낸 곡이다.\n뮤직비디오에서 홍태준은 고등학생 역으로 변신, 그를 향한 여자 주인공의 호감에 귀여운 주문이 걸리는 모습을 펼쳤다.\n앞서 다수의 뮤직비디오 출연 경험으로 자연스러운 연기를 선보인 홍태준은 영상 안에서 훈훈한 비주얼로 보는 이들까지도 사랑에 ‘퐁당’ 빠질 수 있는 경험을 선사했다.\n이번 촬영에서 프로 배우들도 어렵다는 수중 촬영 신도 끝까지 밝은 에너지로 소화하며 함께 출연한 배우들과 끈끈한 케미스트리를 선보였다는 후문이다.\n홍태준은 최근 다양한 매체를 통해 존재감을 드러내고 있는 신예 모델이다.\n패션 업계에서는 물론 광고, 뮤직비디오 등에서 훈훈한 비주얼은 물론 각양각색의 매력으로 존재감을 발산하며 다방면에서 활약을 보이고 있다.\n홍태준이 출연한 치즈의 신곡 ‘퐁당 (Pong Dang)’ 뮤직비디오는 지난 7일 오후 6시 각종 온라인 음원사이트와 치즈 공식 유튜브 채널을 통해 공개됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에스팀 소속 라이징 신예 모델 홍태준이 가수 치즈(CHEEZE)의 신곡 ‘퐁당 (Pong Dang)’ 뮤직비디오 속 남자 주인공 역으로 출연, 청량한 매력으로 눈길을 끌었다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 7일 오후 6시 각종 온라인 음원사이트를 통해 공개된 치즈의 디지털 싱글 ‘퐁당 (Pong Dang)’은 호감 있는 상대가 나에게 조금씩 가까워지길 바라며 거는 귀여운 주문을 치즈만의 독특한 해석으로 풀어낸 곡이다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뮤직비디오에서 홍태준은 고등학생 역으로 변신, 그를 향한 여자 주인공의 호감에 귀여운 주문이 걸리는 모습을 펼쳤다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 다수의 뮤직비디오 출연 경험으로 자연스러운 연기를 선보인 홍태준은 영상 안에서 훈훈한 비주얼로 보는 이들까지도 사랑에 ‘퐁당’ 빠질 수 있는 경험을 선사했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 촬영에서 프로 배우들도 어렵다는 수중 촬영 신도 끝까지 밝은 에너지로 소화하며 함께 출연한 배우들과 끈끈한 케미스트리를 선보였다는 후문이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍태준은 최근 다양한 매체를 통해 존재감을 드러내고 있는 신예 모델이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "패션 업계에서는 물론 광고, 뮤직비디오 등에서 훈훈한 비주얼은 물론 각양각색의 매력으로 존재감을 발산하며 다방면에서 활약을 보이고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "홍태준이 출연한 치즈의 신곡 ‘퐁당 (Pong Dang)’ 뮤직비디오는 지난 7일 오후 6시 각종 온라인 음원사이트와 치즈 공식 유튜브 채널을 통해 공개됐다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신예 홍태준, 치즈 신곡 ‘퐁당’ 뮤직비디오 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

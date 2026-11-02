@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273480",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘에덴’ 양호석, 두 차례 폭행 전력으로 파문?",
+		"newsSubTitle": "",
+		"newsContent": "‘에덴’ 출연자 양호석에 대한 시청자들 하차 요구가 이어지고 있다.\n지난 14일 첫 방송을 한 IHQ 연애 리얼리티 ‘에덴’은 외설적 콘셉트, 출연진 간 수위 높은 접촉으로 대중의 우려를 사고 있는 가운데 출연자 양호석의 과거 행적이 모바일과 온라인에서 파문을 부르고 있다.\n보디빌더 출신인 양호석은 과거 두 차례 폭행 혐의로 입건이 됐다.\n그는 지난 2020년 5월 청담동의 한 클럽에서 다른 손님과 주차 문제로 시비가 붙어, 쌍방폭행 혐의로 경찰 조사를 받았다.\n그는 앞서 2019년 10월에는 피겨 스케이팅 선수 출신 차오름을 폭행해 징역 6개월에 집행유예 2년, 사회봉사 120시간을 선고받았다.\n집행유예 기간이 끝나기도 전에 또 폭행 사건에 연루된 것이다.\n이런 양호석에 전력 때문에 “폭행 논란을 일으킨 사람이 방송에 나오는 것이 불편하다”는 지적이 이어지고 있다. ‘에덴’은 청춘남녀 8인이 출연하는 파격 연애 리얼리티를 표방한 프로그램으로, 그룹 FT아일랜드 이홍기, 그룹 에이핑크 윤보미, 댄서 시미즈가 MC를 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘에덴’ 출연자 양호석에 대한 시청자들 하차 요구가 이어지고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 14일 첫 방송을 한 IHQ 연애 리얼리티 ‘에덴’은 외설적 콘셉트, 출연진 간 수위 높은 접촉으로 대중의 우려를 사고 있는 가운데 출연자 양호석의 과거 행적이 모바일과 온라인에서 파문을 부르고 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보디빌더 출신인 양호석은 과거 두 차례 폭행 혐의로 입건이 됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 지난 2020년 5월 청담동의 한 클럽에서 다른 손님과 주차 문제로 시비가 붙어, 쌍방폭행 혐의로 경찰 조사를 받았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 앞서 2019년 10월에는 피겨 스케이팅 선수 출신 차오름을 폭행해 징역 6개월에 집행유예 2년, 사회봉사 120시간을 선고받았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "집행유예 기간이 끝나기도 전에 또 폭행 사건에 연루된 것이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이런 양호석에 전력 때문에 “폭행 논란을 일으킨 사람이 방송에 나오는 것이 불편하다”는 지적이 이어지고 있다. ‘에덴’은 청춘남녀 8인이 출연하는 파격 연애 리얼리티를 표방한 프로그램으로, 그룹 FT아일랜드 이홍기, 그룹 에이핑크 윤보미, 댄서 시미즈가 MC를 맡았다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘에덴’ 양호석, 두 차례 폭행 전력으로 파문?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

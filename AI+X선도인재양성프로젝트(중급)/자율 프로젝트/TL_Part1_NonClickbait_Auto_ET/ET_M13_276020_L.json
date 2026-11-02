@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276020",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "다이어트 후 3년째 유지중인 다나, 아찔한 다리라인 살아 있네",
+		"newsSubTitle": "",
+		"newsContent": "최근 복귀를 선언한 다나가 연이은 화보를 공개해 눈길을 끈다. 21일 다나는 월한 각선미를 뽐내는 골프복 화보를 공개했다.\n사진속 다나는 양갈래로 땋은 귀여운 헤어스타일로 37살의 나이라고는 느껴지지 않을 만큼 동안미를 자랑했다.\n다나는 연이은 화보 공개로 체중 감량 후 3년 동안 유지하고 있는 비결을 공개했다.\n그는 “솔직히 가끔 체중이 올라갈 때도 있지만 전문가의 도움을 받아 관리를 진행하고 있고 덕분에 3년이 지난 지금도 잘 유지가 되고 있는 것 같다”라고 말했다.\n한편 다나는 다이어트 전문 기업의 도움을 받아 27kg을 감량해 눈길을 끈 바 있다.\n최근에는 수영복 화보도 공개해 복귀에 대한 기대감을 높이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 복귀를 선언한 다나가 연이은 화보를 공개해 눈길을 끈다. 21일 다나는 월한 각선미를 뽐내는 골프복 화보를 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사진속 다나는 양갈래로 땋은 귀여운 헤어스타일로 37살의 나이라고는 느껴지지 않을 만큼 동안미를 자랑했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다나는 연이은 화보 공개로 체중 감량 후 3년 동안 유지하고 있는 비결을 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “솔직히 가끔 체중이 올라갈 때도 있지만 전문가의 도움을 받아 관리를 진행하고 있고 덕분에 3년이 지난 지금도 잘 유지가 되고 있는 것 같다”라고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 다나는 다이어트 전문 기업의 도움을 받아 27kg을 감량해 눈길을 끈 바 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근에는 수영복 화보도 공개해 복귀에 대한 기대감을 높이고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다이어트 후 3년째 유지중인 다나, 아찔한 다리라인 살아 있네",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

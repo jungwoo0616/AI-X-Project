@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262354",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "노홍철, 3월 김해에 빵집 2호점 오픈",
+		"newsSubTitle": "",
+		"newsContent": "방송인 노홍철이 자신의 이름을 내건 빵집 ‘홍철책빵’ 2호점을 낸다. 28일 한경닷컴은 노홍철은 오는 3월 말 경상남도 김해 장유동에 ‘홍철책빵 김해DT점’을 오픈한다고 보도했다.\n이는 서울 용산구 후암동에 있는 ‘홍철책빵’의 첫 지점이다. ‘홍철책빵 김해DT점’은 장유3동 모산공원 인근에 문을 연다. 해당 점포는 지난해 5월 건물 착공에 들어가 그해 말 사용 승인을 받았으며, 지난달 등기까지 마치며 오픈 준비에 박차를 가하고 있다.\n노홍철은 지난 25일 그의 사회관계망서비스(SNS) 인스타그램을 통해 드라이브 스루 형태의 매장을 예고하며 누리꾼들의 관심을 모았다.\n노홍철은 2020년 1월 자신의 집을 개조해 책방, 카페, 베이커리로 구성된 ‘홍철책빵’을 개업했다.\n가게는 정식 오픈 전부터 빵, 초콜릿 마니아인 노홍철이 운영하는 곳으로 SNS 핫플레이스가 되며 유명세를 탔다.\n현재 해당 매장은 신종 코로나바이러스 감염증(코로나19) 여파로 배송 서비스만 하고 있다.\n노홍철의 SNS를 통해 판매 공지가 올라올 때마다 빠르게 매진되며 변함없는 인기를 과시하고 있다.\n한편 노홍철은 현재 SBS 예능프로그램 ‘써클하우스’에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 노홍철이 자신의 이름을 내건 빵집 ‘홍철책빵’ 2호점을 낸다. 28일 한경닷컴은 노홍철은 오는 3월 말 경상남도 김해 장유동에 ‘홍철책빵 김해DT점’을 오픈한다고 보도했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 서울 용산구 후암동에 있는 ‘홍철책빵’의 첫 지점이다. ‘홍철책빵 김해DT점’은 장유3동 모산공원 인근에 문을 연다. 해당 점포는 지난해 5월 건물 착공에 들어가 그해 말 사용 승인을 받았으며, 지난달 등기까지 마치며 오픈 준비에 박차를 가하고 있다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노홍철은 지난 25일 그의 사회관계망서비스(SNS) 인스타그램을 통해 드라이브 스루 형태의 매장을 예고하며 누리꾼들의 관심을 모았다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노홍철은 2020년 1월 자신의 집을 개조해 책방, 카페, 베이커리로 구성된 ‘홍철책빵’을 개업했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가게는 정식 오픈 전부터 빵, 초콜릿 마니아인 노홍철이 운영하는 곳으로 SNS 핫플레이스가 되며 유명세를 탔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 해당 매장은 신종 코로나바이러스 감염증(코로나19) 여파로 배송 서비스만 하고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "노홍철의 SNS를 통해 판매 공지가 올라올 때마다 빠르게 매진되며 변함없는 인기를 과시하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 노홍철은 현재 SBS 예능프로그램 ‘써클하우스’에 출연 중이다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노홍철, 3월 김해에 빵집 2호점 오픈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171632",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "가수 민티 ‘아이돌밴드 횡령 혐의’ 무죄… 2년 만에 ‘명예 회복’[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 민티가 명예를 회복했다.\n민티(유소리나)가 아이돌밴드 어바우츄가 소속된 코로나엑스엔터테인먼트에 피소되었던 업무상횡령 피소 사건에 대해 법원이 무죄로 결론 내렸다고 민티 측 에이전트 이음크리에이티브가 17일 밝혔다.\n민티는 2020년 7월 프로듀싱을 맡았던 아이돌밴드 어바우츄의 무대 의상을 횡령한 혐의로 당시 소속사였던 코로나엑스엔터테인먼트로부터 서울 강남 경철서에 형사고소 당했었다.\n18개월이 넘는 법정공방 끝에, 법원은 “유소리나의 업무상 횡령에 관한 고소사건은 범죄혐의가 인정되지 않아 무죄로 판결한다”라고 결론 내렸다.\n민티(유소리나)는 2018년 첫 번째 싱글 ‘유 두(You Do)’로 데뷔한 후 ‘립 버블(Lip Bubble)’ ‘캔디 클라우디’ ‘트리거 시너지(Trigger Synergy)’ 등 곡을 발표해 팬들 사랑을 받았다.\n민티는 현재 유튜버 섭외 플랫폼 유하(YOUHA)의 CBO(최고비즈니스책임자)로 활동하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 민티가 명예를 회복했다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "민티(유소리나)가 아이돌밴드 어바우츄가 소속된 코로나엑스엔터테인먼트에 피소되었던 업무상횡령 피소 사건에 대해 법원이 무죄로 결론 내렸다고 민티 측 에이전트 이음크리에이티브가 17일 밝혔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "민티는 2020년 7월 프로듀싱을 맡았던 아이돌밴드 어바우츄의 무대 의상을 횡령한 혐의로 당시 소속사였던 코로나엑스엔터테인먼트로부터 서울 강남 경철서에 형사고소 당했었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "18개월이 넘는 법정공방 끝에, 법원은 “유소리나의 업무상 횡령에 관한 고소사건은 범죄혐의가 인정되지 않아 무죄로 판결한다”라고 결론 내렸다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "민티(유소리나)는 2018년 첫 번째 싱글 ‘유 두(You Do)’로 데뷔한 후 ‘립 버블(Lip Bubble)’ ‘캔디 클라우디’ ‘트리거 시너지(Trigger Synergy)’ 등 곡을 발표해 팬들 사랑을 받았다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "민티는 현재 유튜버 섭외 플랫폼 유하(YOUHA)의 CBO(최고비즈니스책임자)로 활동하고 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 민티, 이것 혐의로 이전 소속사에 고소 당해... 결국 무죄 판결 받아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

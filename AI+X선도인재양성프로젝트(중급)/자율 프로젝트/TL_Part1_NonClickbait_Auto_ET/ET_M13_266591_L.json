@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266591",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 컴백하나…제니 새 헤어스타일에 팬들 기대↑",
+		"newsSubTitle": "",
+		"newsContent": "제니가 새로운 헤어스타일을 공개했다.\n제니는 10일 자신의 사회관계망서비스(SNS) 인스타그램에 “나와 내 새로운 머리에 대해 말하지 마”라는 글과 함께 사진 여러 장을 게시했다.\n사진 속 제니는 오렌지 색으로 머리카락을 염색한 채 오렌지 색 꽃 앞에서 카메라를 응시하고 있다.\n그간 어두운 색의 헤어스타일을 고수했던 제니의 파격적인 변신에 대한 팬들의 관심이 쏟아졌다.\n팬들은 그의 게시물에 “컴백의 향기가 느껴진다” “세상에 실화인가” “머리 색 너무 잘 어울린다” 등 긍정적인 반응을 보였다.\n한편 제니는 지난달 유튜브를 통해 블랙핑크가 완전체 컴백을 준비하고 있다고 밝힌 바 있다.\n이 소식에 이어 제니의 새로운 헤어스타일 사진이 공개되자, 블랙핑크 컴백에 대한 팬들의 기대가 커지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제니가 새로운 헤어스타일을 공개했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제니는 10일 자신의 사회관계망서비스(SNS) 인스타그램에 “나와 내 새로운 머리에 대해 말하지 마”라는 글과 함께 사진 여러 장을 게시했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 제니는 오렌지 색으로 머리카락을 염색한 채 오렌지 색 꽃 앞에서 카메라를 응시하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그간 어두운 색의 헤어스타일을 고수했던 제니의 파격적인 변신에 대한 팬들의 관심이 쏟아졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 그의 게시물에 “컴백의 향기가 느껴진다” “세상에 실화인가” “머리 색 너무 잘 어울린다” 등 긍정적인 반응을 보였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 제니는 지난달 유튜브를 통해 블랙핑크가 완전체 컴백을 준비하고 있다고 밝힌 바 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 소식에 이어 제니의 새로운 헤어스타일 사진이 공개되자, 블랙핑크 컴백에 대한 팬들의 기대가 커지고 있다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 컴백하나…제니 새 헤어스타일에 팬들 기대↑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

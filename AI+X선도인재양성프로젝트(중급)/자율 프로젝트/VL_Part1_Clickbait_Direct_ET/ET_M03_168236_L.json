@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168236",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'정오의 희망곡' 김연지 복면가왕 언급 \\\"준비한 노래 다 하니 욕심 생겨\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김연지가 MBC '복면가왕' 출연 비화를 전했다.\n7일 오후 MBC FM4U '정오의 희망곡'에는 가수 김연지가 출연했다.\n이날 김연지는 \\\"준비한 노래만 다 하고 싶다고 생각했다. 그런데 3라운드에 가니 욕심이 생기더라\\\"고 말했다.\n김연지는 \\\"'불광동 휘발유'로 가왕 자리에 올랐다\\\"며 \\\"그 자리를 지키는 게 더 중요한 것 같다\\\"고 덧붙였다.\n한편, 이날 김연지와 함께 유성은이 자리했다.\n유성은은 \\\"'복면가왕'에 나간다면, '용두동 주꾸미'를 닉네임으로 택하겠다\\\"고 말해 웃음을 자아내기도 했다.\n온라인 중앙일보 [사진 MBC 제공]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김연지가 MBC '복면가왕' 출연 비화를 전했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 오후 MBC FM4U '정오의 희망곡'에는 가수 김연지가 출연했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김연지는 \\\"준비한 노래만 다 하고 싶다고 생각했다. 그런데 3라운드에 가니 욕심이 생기더라\\\"고 말했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김연지는 \\\"'불광동 휘발유'로 가왕 자리에 올랐다\\\"며 \\\"그 자리를 지키는 게 더 중요한 것 같다\\\"고 덧붙였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 이날 김연지와 함께 유성은이 자리했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유성은은 \\\"'복면가왕'에 나간다면, '용두동 주꾸미'를 닉네임으로 택하겠다\\\"고 말해 웃음을 자아내기도 했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 MBC 제공]",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC '복면가왕' 출연 비화 밝힌 '정오의 희망곡' 초대 손님은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

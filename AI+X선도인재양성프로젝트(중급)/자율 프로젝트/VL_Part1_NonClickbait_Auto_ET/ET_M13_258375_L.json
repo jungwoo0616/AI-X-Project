@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258375",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김은정 결혼식에 쥬얼리 완전체 떴다",
+		"newsSubTitle": "",
+		"newsContent": "쥬얼리 멤버들이 김은정의 결혼식에서 한 자리에 모여 우정을 과시했다.\n서인영은 17일 자신의 SNS 인스타그램에 “오늘 세상에서 제일 예쁜 우리 은정이! 너무너무 축하하고~ 행복해야 해. 언니들은 눈물 바가지로 흘리고 정작 은정이는 눈물 한 방울도 안 흘림 ㅋㅋ”라는 글과 함께 여러 장의 사진을 게재했다.\n사진에는 신부대기실에 모인 쥬얼리 멤버들의 모습이 담겼다.\n김은정은 비즈가 장식된 드레스에 티아라를 쓰고 화려한 신부의 모습을 뽐냈다.\n쥬얼리 멤버 서인영, 박정아, 하주연, 박세미는 모두 함께 사진을 찍어 변함없는 우정을 과시했다.\n한편 쥬얼리 출신 작사가 김은정은 지난 16일 서울 모처에서 디바인 채널 대표 프로듀서이자 작곡가 임광욱과 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쥬얼리 멤버들이 김은정의 결혼식에서 한 자리에 모여 우정을 과시했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서인영은 17일 자신의 SNS 인스타그램에 “오늘 세상에서 제일 예쁜 우리 은정이! 너무너무 축하하고~ 행복해야 해. 언니들은 눈물 바가지로 흘리고 정작 은정이는 눈물 한 방울도 안 흘림 ㅋㅋ”라는 글과 함께 여러 장의 사진을 게재했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 신부대기실에 모인 쥬얼리 멤버들의 모습이 담겼다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김은정은 비즈가 장식된 드레스에 티아라를 쓰고 화려한 신부의 모습을 뽐냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "쥬얼리 멤버 서인영, 박정아, 하주연, 박세미는 모두 함께 사진을 찍어 변함없는 우정을 과시했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 쥬얼리 출신 작사가 김은정은 지난 16일 서울 모처에서 디바인 채널 대표 프로듀서이자 작곡가 임광욱과 결혼식을 올렸다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김은정 결혼식에 쥬얼리 완전체 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

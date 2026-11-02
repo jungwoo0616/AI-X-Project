@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285173",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "故신해철 부인 윤원희, 27일 '뉴스룸' 출연…손석희 만나",
+		"newsSubTitle": "",
+		"newsContent": "1년 전 갑작스럽게 세상을 떠난 고 신해철의 부인, 윤원희 씨가 ‘JTBC 뉴스룸’을 찾는다.\n그동안 윤원희 씨는 신해철 추모 관련 다큐멘터리에는 출연한 적이 있으나 직접 스튜디오를 방문, 본격 대담을 갖는 건 남편의 사망 이후 처음이다.\n손석희 앵커와 신해철은 과거 ‘백분 토론’을 통해 호흡을 맞춘바 있고 평소에도 서로에게 호감을 비췄던 만큼, 부인과 어떤 진솔한 대화를 나눌지 관심이 모아지고 있다.\n또 오늘 1주기를 맞아 유작 앨범 ‘Welcome To The Real World’가 발매된 만큼, 수록된 미발표 곡들을 스튜디오에서 직접 듣고 노래와 얽힌 비하인드 스토리를 나눌 것으로 예상된다.\n또한 현재 진행중인 병원측과의 의료과실 공방과 관련, 유족 측의 입장도 들어볼 수 있을 것으로 예상된다.\n한편 손석희 앵커와 윤원희씨의 만남은 27일 오후 8시에 방송되는 ‘JTBC 뉴스룸’을 통해 확인할 수 있다.\n온라인 중앙일보 윤원희, 손석희 [사진 중앙포토]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "1년 전 갑작스럽게 세상을 떠난 고 신해철의 부인, 윤원희 씨가 ‘JTBC 뉴스룸’을 찾는다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그동안 윤원희 씨는 신해철 추모 관련 다큐멘터리에는 출연한 적이 있으나 직접 스튜디오를 방문, 본격 대담을 갖는 건 남편의 사망 이후 처음이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손석희 앵커와 신해철은 과거 ‘백분 토론’을 통해 호흡을 맞춘바 있고 평소에도 서로에게 호감을 비췄던 만큼, 부인과 어떤 진솔한 대화를 나눌지 관심이 모아지고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 오늘 1주기를 맞아 유작 앨범 ‘Welcome To The Real World’가 발매된 만큼, 수록된 미발표 곡들을 스튜디오에서 직접 듣고 노래와 얽힌 비하인드 스토리를 나눌 것으로 예상된다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 현재 진행중인 병원측과의 의료과실 공방과 관련, 유족 측의 입장도 들어볼 수 있을 것으로 예상된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 손석희 앵커와 윤원희씨의 만남은 27일 오후 8시에 방송되는 ‘JTBC 뉴스룸’을 통해 확인할 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 윤원희, 손석희 [사진 중앙포토]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "故신해철 부인 윤원희, 27일 '뉴스룸' 출연…손석희 만나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

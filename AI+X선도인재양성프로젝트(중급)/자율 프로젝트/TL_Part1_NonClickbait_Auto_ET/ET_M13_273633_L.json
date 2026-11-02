@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273633",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "이달의 소녀 희진 “차트인·음방 1위 목표, 올 여름 책임질 것”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 이달의 소녀 희진이 활동 목표를 전했다.\n희진은 20일 서울 강남구 코엑스 오디토리움에서 진행된 서머 스페셜 미니 앨범 ‘플립 댓(Flip That)’ 발매 쇼케이스에서 “처음으로 서머송으로 컴백하는 만큼 다양한 목표가 있다”고 말문을 열었다.\n이어 “‘퀸덤2’에서 대중성을 높인 만큼 음원사이트 차트인도 목표고 음악방송에서 1위를 하는 것도 목표 중 하나”라며 “또 서머송이다 보니까 올해 여름을 이달의 소녀가 책임져보면 어떨까 하는 그런 목표도 갖고 있다”고 밝혔다.\n이달의 소녀의 서머 스페셜 미니 앨범 ‘플립 댓’은 1년 만에 발표하는 신보다.\n데뷔 후 처음으로 발표하는 여름 시즌 앨범으로, 이달의 소녀만의 청량하고 몽환적인 색깔로 가득 채웠다.\n그간 독보적인 세계관과 강렬한 퍼포먼스를 선보였던 이달의 소녀는 이번 앨범에서 여름과 걸맞은 싱그러운 매력을 입고 ‘서머퀸’ 변신을 노린다.\n동명의 타이틀곡 ‘플립 댓’을 비롯해 총 6곡이 수록됐다.\n20일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 이달의 소녀 희진이 활동 목표를 전했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "희진은 20일 서울 강남구 코엑스 오디토리움에서 진행된 서머 스페셜 미니 앨범 ‘플립 댓(Flip That)’ 발매 쇼케이스에서 “처음으로 서머송으로 컴백하는 만큼 다양한 목표가 있다”고 말문을 열었다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “‘퀸덤2’에서 대중성을 높인 만큼 음원사이트 차트인도 목표고 음악방송에서 1위를 하는 것도 목표 중 하나”라며 “또 서머송이다 보니까 올해 여름을 이달의 소녀가 책임져보면 어떨까 하는 그런 목표도 갖고 있다”고 밝혔다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이달의 소녀의 서머 스페셜 미니 앨범 ‘플립 댓’은 1년 만에 발표하는 신보다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데뷔 후 처음으로 발표하는 여름 시즌 앨범으로, 이달의 소녀만의 청량하고 몽환적인 색깔로 가득 채웠다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그간 독보적인 세계관과 강렬한 퍼포먼스를 선보였던 이달의 소녀는 이번 앨범에서 여름과 걸맞은 싱그러운 매력을 입고 ‘서머퀸’ 변신을 노린다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "동명의 타이틀곡 ‘플립 댓’을 비롯해 총 6곡이 수록됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "20일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이달의 소녀 희진 “차트인·음방 1위 목표, 올 여름 책임질 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

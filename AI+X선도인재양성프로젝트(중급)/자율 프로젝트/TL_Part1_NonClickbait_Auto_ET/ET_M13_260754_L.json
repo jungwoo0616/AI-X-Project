@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260754",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "대선후보 4명 두 번째 TV토론 시청률 21.37%",
+		"newsSubTitle": "",
+		"newsContent": "종합편성채널과 보도전문채널 6개 채널이 중계한 20대 대선 후보 2차 4자 TV토론 시청률이 20%대로 집계됐다.\n시청률조사회사 닐슨코리아는 11일 오후 8시부터 10시 17분까지 종합편성채널 4개사(MBN·JTBC·채널A·TV조선)와 보도전문채널(연합뉴스TV·YTN) 2개사 등 총 6개 채널이 동시에 생중계한 ‘20대 대선 후보 초청 토론회’의 시청률 합이 21.37%로 집계됐다고 12일 밝혔다.\n이날 대선 후보 TV토론은 한국기자협회 주최로 서울 중구 MBN 스튜디오에서 열렸다.\n더불어민주당 이재명, 국민의힘 윤석열, 국민의당 안철수, 정의당 심상정 후보는 대장동·백현동 의혹, 코로나19 방역, 언론 정책 등 다양한 주제를 놓고 격론을 벌였으며, 후보 배우자 이슈를 두고도 신경전을 벌였다.\n채널별 시청률은 MBN 4.653%, JTBC 4.386%, 채널A 3.617%, TV조선 3.41%, YTN 3.388%, 연합뉴스TV 1.916% 순으로 나타났다.\n시청률은 지난 3일 KBS, MBC, SBS 등 지상파 3사가 생중계한 토론 시청률 39%보다 17.63%포인트 낮았다.\n같은 시간대에 지상파 3사가 은메달을 목에 건 최민정의 쇼트트랙 여자 1,000ｍ 경기 등 2022 베이징 올림픽을 중계해 시청률이 하락한 것으로 관측된다.\n대선 후보 TV토론 역대 시청률 최고 기록은 1997년 제15대 대선 때 55.7%다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "종합편성채널과 보도전문채널 6개 채널이 중계한 20대 대선 후보 2차 4자 TV토론 시청률이 20%대로 집계됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시청률조사회사 닐슨코리아는 11일 오후 8시부터 10시 17분까지 종합편성채널 4개사(MBN·JTBC·채널A·TV조선)와 보도전문채널(연합뉴스TV·YTN) 2개사 등 총 6개 채널이 동시에 생중계한 ‘20대 대선 후보 초청 토론회’의 시청률 합이 21.37%로 집계됐다고 12일 밝혔다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 대선 후보 TV토론은 한국기자협회 주최로 서울 중구 MBN 스튜디오에서 열렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더불어민주당 이재명, 국민의힘 윤석열, 국민의당 안철수, 정의당 심상정 후보는 대장동·백현동 의혹, 코로나19 방역, 언론 정책 등 다양한 주제를 놓고 격론을 벌였으며, 후보 배우자 이슈를 두고도 신경전을 벌였다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "채널별 시청률은 MBN 4.653%, JTBC 4.386%, 채널A 3.617%, TV조선 3.41%, YTN 3.388%, 연합뉴스TV 1.916% 순으로 나타났다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시청률은 지난 3일 KBS, MBC, SBS 등 지상파 3사가 생중계한 토론 시청률 39%보다 17.63%포인트 낮았다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "같은 시간대에 지상파 3사가 은메달을 목에 건 최민정의 쇼트트랙 여자 1,000ｍ 경기 등 2022 베이징 올림픽을 중계해 시청률이 하락한 것으로 관측된다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대선 후보 TV토론 역대 시청률 최고 기록은 1997년 제15대 대선 때 55.7%다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대선후보 4명 두 번째 TV토론 시청률 21.37%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

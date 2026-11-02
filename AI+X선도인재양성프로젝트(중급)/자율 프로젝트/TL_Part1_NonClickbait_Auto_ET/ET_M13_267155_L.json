@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267155",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김범룡 “팬이 몰래 혼인신고, 아직도 기록 남아”",
+		"newsSubTitle": "",
+		"newsContent": "가수 김범룡이 충격적인 사연을 공개했다.\n지난 16일 방송된 MBN ‘속풀이쇼 동치미’에서는 가수 김범룡이 출연해 “나는 두 번 결혼한 남자”라고 깜짝 고백했다.\n김범룡은 “86년도에 한창 바쁠 때 팬들이 찾아와 집 앞에 항상 텐트 3개는 있었다. 하루는 호적을 뗐는데 누가 올라와 있더라. 내가 결혼한 거다. 부인이 있는 거다”고 말해 모두를 놀라게 했다.\n김범룡은 이어 “미국에서 아내를 만나고 아내와 몰래 만나고 있을 때였는데, 난리가 났다”면서 “매일 집 앞에 찾아와 결혼해달라고 하던 팬이 있었다. 경찰이 데려갔다가 오고 뭐 그런 여자였다. 그 사람이 혼자 가서 혼인신고를 한 거다. 주민등록번호를 어떻게 알았는지 모르겠다”고 말했다.\n그러면서 그는 “아내도 그 사람이 누구인지 알고 있었어서 큰 오해는 없었다. 혼인 관계 증명서를 보면 우리 아내 이름 위에 그 사람 이름이 지금도 있다. 말소라고 쓰여있다”고 말해 모두를 놀라게했다.\n이에 신은숙 변호사는 “법에 말소해주게 돼 있다. 신청하시면 된다. 흔적 없이 지워진다. 혼인무효소송 판결을 받으면 아예 지워준다”고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김범룡이 충격적인 사연을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 16일 방송된 MBN ‘속풀이쇼 동치미’에서는 가수 김범룡이 출연해 “나는 두 번 결혼한 남자”라고 깜짝 고백했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김범룡은 “86년도에 한창 바쁠 때 팬들이 찾아와 집 앞에 항상 텐트 3개는 있었다. 하루는 호적을 뗐는데 누가 올라와 있더라. 내가 결혼한 거다. 부인이 있는 거다”고 말해 모두를 놀라게 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김범룡은 이어 “미국에서 아내를 만나고 아내와 몰래 만나고 있을 때였는데, 난리가 났다”면서 “매일 집 앞에 찾아와 결혼해달라고 하던 팬이 있었다. 경찰이 데려갔다가 오고 뭐 그런 여자였다. 그 사람이 혼자 가서 혼인신고를 한 거다. 주민등록번호를 어떻게 알았는지 모르겠다”고 말했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 그는 “아내도 그 사람이 누구인지 알고 있었어서 큰 오해는 없었다. 혼인 관계 증명서를 보면 우리 아내 이름 위에 그 사람 이름이 지금도 있다. 말소라고 쓰여있다”고 말해 모두를 놀라게했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 신은숙 변호사는 “법에 말소해주게 돼 있다. 신청하시면 된다. 흔적 없이 지워진다. 혼인무효소송 판결을 받으면 아예 지워준다”고 조언했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김범룡 “팬이 몰래 혼인신고, 아직도 기록 남아”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

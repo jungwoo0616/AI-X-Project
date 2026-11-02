@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273591",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘뿅뿅 지구오락실’ 안유진 “예쁜 모습은 방송에서 보실 수 없다”",
+		"newsSubTitle": "",
+		"newsContent": "아이브 안유진이 ‘뿅뿅 지구오락실’에서 새로운 모습을 예고했다.\n20일 ‘뿅뿅 지구오락실’ 온라인 제작발표회가 진행됐다.\n연출을 맡은 나영석, 박현용PD와 함께 이은지, 이영지, 오마이걸 미미, 아이브 안유진이 참석했다. ‘뿅뿅 지구오락실’은 지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사가 시공간을 넘나들며 펼치는 신개념 액션 어드벤처 버라이어티다.\n안유진은 이번 프로그램에서 막내로 참여했다.\n그는 “첫 만남 순간이 생생하다. 언니들이 모여있는 자리에 가장 마지막으로 들어갔는데, 제가 등장하자마자 저희 노래 ‘러브 다이브’를 불러주셨다. 촬영을 하며 많이 친해졌고, 지금은 친한 언니들이 생겨 좋다”라고 밝혔다.\n이어 “무대 위의 제 모습도 진짜 제 모습이지만, 무대 밖 모습을 보여드려야 하나 고민했다. 막상 해보니 마치 제가 집에 있을 때 모습이 나왔다”라며 이번 프로그램에서 자연스러운 자신의 모습을 볼 수 있을 것으로 예고했다.\n끝으로 “지금처름 예쁘게 꾸민 모습은 방송에서 볼 수 없으실 것이다. 지금 예쁜 모습 많이 기억해주시길 바란다”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이브 안유진이 ‘뿅뿅 지구오락실’에서 새로운 모습을 예고했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 ‘뿅뿅 지구오락실’ 온라인 제작발표회가 진행됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연출을 맡은 나영석, 박현용PD와 함께 이은지, 이영지, 오마이걸 미미, 아이브 안유진이 참석했다. ‘뿅뿅 지구오락실’은 지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사가 시공간을 넘나들며 펼치는 신개념 액션 어드벤처 버라이어티다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안유진은 이번 프로그램에서 막내로 참여했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “첫 만남 순간이 생생하다. 언니들이 모여있는 자리에 가장 마지막으로 들어갔는데, 제가 등장하자마자 저희 노래 ‘러브 다이브’를 불러주셨다. 촬영을 하며 많이 친해졌고, 지금은 친한 언니들이 생겨 좋다”라고 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “무대 위의 제 모습도 진짜 제 모습이지만, 무대 밖 모습을 보여드려야 하나 고민했다. 막상 해보니 마치 제가 집에 있을 때 모습이 나왔다”라며 이번 프로그램에서 자연스러운 자신의 모습을 볼 수 있을 것으로 예고했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "끝으로 “지금처름 예쁘게 꾸민 모습은 방송에서 볼 수 없으실 것이다. 지금 예쁜 모습 많이 기억해주시길 바란다”라고 밝혔다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘뿅뿅 지구오락실’ 안유진 “예쁜 모습은 방송에서 보실 수 없다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274057",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "블랙레벨 태영 ‘K-STAGE’ 7번째 컬래버 주인공",
+		"newsSubTitle": "",
+		"newsContent": "보이그룹 블랙레벨(Black Level) 태영이 ‘K-STAGE’ 컬래버 음원 프로젝트 일곱 번째 주자로 나선다.\n웹과 앱으로 전 세계에 방송되는 글로벌 음악 방송 ‘K-STAGE UNTACT CONCERT’의 컬래버 프로젝트 7탄 ‘내 일(K-STAGE X Black Level 태영)’이 오늘(26일) 정오 음원사이트를 통해 발매된다.\n신곡 ‘내 일’은 모던 록 장르의 곡으로, 음악이라는 꿈을 가진 후 그 꿈이 있기에 더 나은 내일을 향해 나아갈 수 있다는 마음이 담긴 꿈에게 전하는 편지 같은 노래다.\n블랙레벨 태영이 작사, 작곡에 참여했다.\n태영은 지난 26일 미니앨범 ‘New Start’를 발표하며 블랙레벨로 데뷔, 수록곡 ‘Infection’, ‘Drive’, ‘In my heart’ 등 모든 곡을 작사, 작곡 및 프로듀싱하며 뮤지션으로서의 역량을 발휘했다. ‘K-STAGE’ 컬래버 음원 프로젝트는 앞서 ‘숨은 그대 찾기(MUST B 태건, 우연 X PINK FANTASY 시아)’, ‘커플은 똑같아(VANNER 태환 X PINK FANTASY 하린)’, ‘달빛 연모(MINIMANI 최린)’, ‘가장 먼저 하고 싶은 말(제이준)’, ‘약속(창우 of 5tion)’, ‘Rollin’(Owler) 등을 선보였으며, 앞으로도 매달 K팝 스타들과 함께 다양한 음원을 순차적으로 공개할 예정이다.\n한편 신곡 ‘내 일(K-STAGE X Black Level 태영)’은 오늘(26일) 정오 각종 음원사이트에서 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보이그룹 블랙레벨(Black Level) 태영이 ‘K-STAGE’ 컬래버 음원 프로젝트 일곱 번째 주자로 나선다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "웹과 앱으로 전 세계에 방송되는 글로벌 음악 방송 ‘K-STAGE UNTACT CONCERT’의 컬래버 프로젝트 7탄 ‘내 일(K-STAGE X Black Level 태영)’이 오늘(26일) 정오 음원사이트를 통해 발매된다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신곡 ‘내 일’은 모던 록 장르의 곡으로, 음악이라는 꿈을 가진 후 그 꿈이 있기에 더 나은 내일을 향해 나아갈 수 있다는 마음이 담긴 꿈에게 전하는 편지 같은 노래다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "블랙레벨 태영이 작사, 작곡에 참여했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "태영은 지난 26일 미니앨범 ‘New Start’를 발표하며 블랙레벨로 데뷔, 수록곡 ‘Infection’, ‘Drive’, ‘In my heart’ 등 모든 곡을 작사, 작곡 및 프로듀싱하며 뮤지션으로서의 역량을 발휘했다. ‘K-STAGE’ 컬래버 음원 프로젝트는 앞서 ‘숨은 그대 찾기(MUST B 태건, 우연 X PINK FANTASY 시아)’, ‘커플은 똑같아(VANNER 태환 X PINK FANTASY 하린)’, ‘달빛 연모(MINIMANI 최린)’, ‘가장 먼저 하고 싶은 말(제이준)’, ‘약속(창우 of 5tion)’, ‘Rollin’(Owler) 등을 선보였으며, 앞으로도 매달 K팝 스타들과 함께 다양한 음원을 순차적으로 공개할 예정이다.",
+				"sentenceSize": 368
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 신곡 ‘내 일(K-STAGE X Black Level 태영)’은 오늘(26일) 정오 각종 음원사이트에서 발매된다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙레벨 태영 ‘K-STAGE’ 7번째 컬래버 주인공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

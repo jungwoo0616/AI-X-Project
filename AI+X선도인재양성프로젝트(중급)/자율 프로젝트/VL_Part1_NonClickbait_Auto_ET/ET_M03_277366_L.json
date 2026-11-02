@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277366",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "연습생 시절 멤버에게 혼혈이라고 속인 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "연습생 시절 동료들에게 자신이 혼혈이라고 속인 아이돌이 있다.\n멤버들을 속인 아이돌의 정체는 걸그룹 '라붐'의 멤버인 솔빈. 걸그룹 '라붐'은 1월 9일 스타서울과의 인터뷰를 가졌다.\n인터뷰서 \\\"서로 처음 만났을 때 어땠나요\\\"라는 질문에 해인은 \\\"솔빈이 처음 봤을 때 까무잡잡하고 이국적으로 생겼잖아요. 그래서 이 친구가 저에게 혼혈이라고 장난쳤어요\\\"라고 밝혔다.\n이어 소연이 \\\"해인이는 일본인의 피가 섞여있고 솔빈이도 외국인의 피가 흐른다고 속였는데 다 믿었어요. 몇 달 후에 알아서 충격을 받았어요\\\"라고 말해 팬들에게 웃음을 안겼다.\n해인과 소연의 대답에 솔빈은 \\\"제가 다 남미 쪽이라고 속였어요\\\"라며 \\\"'저희 아버지가 남미분이신데 고추장이랑 쿠키를 만드는 것을 좋아한다. 항상 우리 집 메뉴는 쿠키와 비빔밥'이라고 속였는데 다 믿더라고요. 재미있었어요\\\"라고 말하며 장난끼 가득한 모습을 보였다.\n걸그룹 '라붐'은 지난해 12월 스페셜앨범 '겨울동화'를 발매해 팬들의 사랑을 받아왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연습생 시절 동료들에게 자신이 혼혈이라고 속인 아이돌이 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "멤버들을 속인 아이돌의 정체는 걸그룹 '라붐'의 멤버인 솔빈. 걸그룹 '라붐'은 1월 9일 스타서울과의 인터뷰를 가졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인터뷰서 \\\"서로 처음 만났을 때 어땠나요\\\"라는 질문에 해인은 \\\"솔빈이 처음 봤을 때 까무잡잡하고 이국적으로 생겼잖아요. 그래서 이 친구가 저에게 혼혈이라고 장난쳤어요\\\"라고 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 소연이 \\\"해인이는 일본인의 피가 섞여있고 솔빈이도 외국인의 피가 흐른다고 속였는데 다 믿었어요. 몇 달 후에 알아서 충격을 받았어요\\\"라고 말해 팬들에게 웃음을 안겼다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해인과 소연의 대답에 솔빈은 \\\"제가 다 남미 쪽이라고 속였어요\\\"라며 \\\"'저희 아버지가 남미분이신데 고추장이랑 쿠키를 만드는 것을 좋아한다. 항상 우리 집 메뉴는 쿠키와 비빔밥'이라고 속였는데 다 믿더라고요. 재미있었어요\\\"라고 말하며 장난끼 가득한 모습을 보였다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "걸그룹 '라붐'은 지난해 12월 스페셜앨범 '겨울동화'를 발매해 팬들의 사랑을 받아왔다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연습생 시절 멤버에게 혼혈이라고 속인 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

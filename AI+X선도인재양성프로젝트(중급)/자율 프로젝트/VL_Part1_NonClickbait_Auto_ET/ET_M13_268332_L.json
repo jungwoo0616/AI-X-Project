@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268332",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘블랙’ 최귀화, 밀실 살인 사건에 분노&오열",
+		"newsSubTitle": "",
+		"newsContent": "엄마로 돌아온 혜림이 게스트로 출격한다.\n채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다(이하 블랙)’가 우정이란 이름으로 감춰 온 추악한 속내를 드러내며 친구와 그 아이들을 살해한 ‘밀실 살인 사건’ 범인의 심리를 추적한다.\n오는 29일(금) 방송될 ‘블랙’의 예고편에서는 “외부 침입의 흔적이 없는 밀실의 집 안에서 30대 여성과 3살배기 아들, 10개월 된 딸이 숨진 채 발견됐다. 범인은 피해자와 절친한 여고 동창생이었다”며 스토리텔러 장진이 이야기의 서두를 열었다.\n살인범의 정체를 들은 최귀화는 “절친한 친구에게 왜?”라며 범인이 무엇 때문에 이런 일을 저지른 것일지 의아해했다.\n우정이라는 이름 뒤 감춰져 있던 추악한 속내가 드러나자 게스트 혜림은 충격에 휩싸였다.\n하지만 범죄자는 “아이는 왜 죽였느냐”는 질문에 “걔 옆에 있으니까...”라고 태연하게 답하는 모습을 보였다.\n이에 최귀화는 붉어진 눈시울로 말을 잇지 못했고, 슬픔과 분노 속에 눈물을 펑펑 쏟았다.\n서울 한복판에서 일어난 일가족 밀실 살인 사건의 전말은 29일(금) 밤 11시에 방송되는 채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다’에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엄마로 돌아온 혜림이 게스트로 출격한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다(이하 블랙)’가 우정이란 이름으로 감춰 온 추악한 속내를 드러내며 친구와 그 아이들을 살해한 ‘밀실 살인 사건’ 범인의 심리를 추적한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오는 29일(금) 방송될 ‘블랙’의 예고편에서는 “외부 침입의 흔적이 없는 밀실의 집 안에서 30대 여성과 3살배기 아들, 10개월 된 딸이 숨진 채 발견됐다. 범인은 피해자와 절친한 여고 동창생이었다”며 스토리텔러 장진이 이야기의 서두를 열었다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "살인범의 정체를 들은 최귀화는 “절친한 친구에게 왜?”라며 범인이 무엇 때문에 이런 일을 저지른 것일지 의아해했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우정이라는 이름 뒤 감춰져 있던 추악한 속내가 드러나자 게스트 혜림은 충격에 휩싸였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 범죄자는 “아이는 왜 죽였느냐”는 질문에 “걔 옆에 있으니까...”라고 태연하게 답하는 모습을 보였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 최귀화는 붉어진 눈시울로 말을 잇지 못했고, 슬픔과 분노 속에 눈물을 펑펑 쏟았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서울 한복판에서 일어난 일가족 밀실 살인 사건의 전말은 29일(금) 밤 11시에 방송되는 채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다’에서 공개된다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘블랙’ 최귀화, 밀실 살인 사건에 분노&오열",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

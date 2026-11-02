@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171202",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘달리와 감자탕’ 황보라, 첫방 사수 독려샷",
+    "newsSubTitle": "",
+    "newsContent": "배우 황보라가 ‘달리와 감자탕’ 첫 방 사수 독려에 나섰다.\nKBS 2TV 새 수목드라마 ‘달리와 감자탕’(극본 손은혜 박세은 연출 이정섭)에서 진무학(김민재)의 똑부러지는 비서 여미리 역으로 활약을 예고하고 있는 황보라가 ‘첫 방 사수’ 독려 사진을 공개했다.\n공개된 사진에는 ‘달리와 감자탕’ 대본을 들고 있는 황보라의 모습이 담겼다.\n황보라는 귀여운 미소부터 극 중 무덤덤한 성격의 여미리를 표현한 시크한 표정까지, 다양한 포즈로 ‘홍보 요정’다운 4컷 독려샷을 완성시켰다.\n또한 사진 속 반듯한 포마드 헤어와 슈트 패션을 한 황보라의 포스 가득한 모습이 여미리 캐릭터에 대한 기대감을 더욱 높이고 있다.\n한편, 황보라가 출연하는 KBS 2TV 새 수목드라마 ‘달리와 감자탕’은 ‘무지-무식-무학’ 3無하지만 생활력 하나는 끝내 주는 ‘가성비 주의’ 남자와 본 투 비 귀티 좔좔이지만 생활 무지렁이인 ‘가심비 중시’ 여자가 미술관을 통해 서로의 간극을 좁혀가는 ‘아트’ 로맨스로 오늘 오후 9시 30분에 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 황보라가 ‘달리와 감자탕’ 첫 방 사수 독려에 나섰다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS 2TV 새 수목드라마 ‘달리와 감자탕’(극본 손은혜 박세은 연출 이정섭)에서 진무학(김민재)의 똑부러지는 비서 여미리 역으로 활약을 예고하고 있는 황보라가 ‘첫 방 사수’ 독려 사진을 공개했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 ‘달리와 감자탕’ 대본을 들고 있는 황보라의 모습이 담겼다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "황보라는 귀여운 미소부터 극 중 무덤덤한 성격의 여미리를 표현한 시크한 표정까지, 다양한 포즈로 ‘홍보 요정’다운 4컷 독려샷을 완성시켰다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 사진 속 반듯한 포마드 헤어와 슈트 패션을 한 황보라의 포스 가득한 모습이 여미리 캐릭터에 대한 기대감을 더욱 높이고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 황보라가 출연하는 KBS 2TV 새 수목드라마 ‘달리와 감자탕’은 ‘무지-무식-무학’ 3無하지만 생활력 하나는 끝내 주는 ‘가성비 주의’ 남자와 본 투 비 귀티 좔좔이지만 생활 무지렁이인 ‘가심비 중시’ 여자가 미술관을 통해 서로의 간극을 좁혀가는 ‘아트’ 로맨스로 오늘 오후 9시 30분에 첫 방송된다.",
+        "sentenceSize": 174
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 황보라가 ‘달리와 감자탕’ 본방송 사수 응원 위해 공개한 '이 사진'...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

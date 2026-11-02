@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285541",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "남규리, 과거에 연예인과 연애 사실 고백 \\\"들킨 적 없어\\\" 깜짝",
+		"newsSubTitle": "",
+		"newsContent": "'남규리' 남규리, \\\"들킨 적 없어. 한 공간에서 문자 주고 받고\\\" 배우 남규리가 서울 패션위크에 참석한 가운데 과거 그의 비밀연애 발언이 재조명되고 있다.\n남규리는 과거 방송된 SBS '한밤의 TV연예'에 출연해 자신의 연애사를 고백했다.\n이날 방송에서 남규리는 \\\"진실한 만남은 두 번이었다. 하나는 짝사랑이었고, 하나는 마주 사랑이었다\\\"고 말했다.\n이어 남규리는 \\\"연예인 생활하면서 한 번 누군가를 만났었다. 상대도 연예인이었다. 아주 오래됐다. 가수 때 만났었다\\\"고 깜짝 고백했다.\n남규리는 \\\"월요일 한산한 커피숍에 가서 벽을 보고 나란히 앉았다. 커피를 마시면서 따로 얘기하고 문자 주고받고 했다. 들킨 적은 없다. 고수다\\\"라고 전해 눈길을 모았다.\n한편 10월 20일 오후 서울 중구 동대문디자인플라자(DDP)에서 열린 ‘2016 S/S 헤라 서울패션위크(HERA Seoul Fashion week)’ METROCITY 패션쇼에는 남규리가 참석해 인형같은 외모로 시선을 사로잡았다.\n이어 남규리는 웹드라마 '스완'에 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'남규리' 남규리, \\\"들킨 적 없어. 한 공간에서 문자 주고 받고\\\" 배우 남규리가 서울 패션위크에 참석한 가운데 과거 그의 비밀연애 발언이 재조명되고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남규리는 과거 방송된 SBS '한밤의 TV연예'에 출연해 자신의 연애사를 고백했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 남규리는 \\\"진실한 만남은 두 번이었다. 하나는 짝사랑이었고, 하나는 마주 사랑이었다\\\"고 말했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 남규리는 \\\"연예인 생활하면서 한 번 누군가를 만났었다. 상대도 연예인이었다. 아주 오래됐다. 가수 때 만났었다\\\"고 깜짝 고백했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남규리는 \\\"월요일 한산한 커피숍에 가서 벽을 보고 나란히 앉았다. 커피를 마시면서 따로 얘기하고 문자 주고받고 했다. 들킨 적은 없다. 고수다\\\"라고 전해 눈길을 모았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 10월 20일 오후 서울 중구 동대문디자인플라자(DDP)에서 열린 ‘2016 S/S 헤라 서울패션위크(HERA Seoul Fashion week)’ METROCITY 패션쇼에는 남규리가 참석해 인형같은 외모로 시선을 사로잡았다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 남규리는 웹드라마 '스완'에 출연한다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남규리, 과거에 연예인과 연애 사실 고백 \\\"들킨 적 없어\\\" 깜짝",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

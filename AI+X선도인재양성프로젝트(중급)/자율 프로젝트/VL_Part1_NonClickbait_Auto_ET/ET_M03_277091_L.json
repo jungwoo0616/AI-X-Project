@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277091",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"무한도전 할거야?\\\" 질문에 노홍철이 보인 반응",
+		"newsSubTitle": "",
+		"newsContent": "방송인 노홍철이 MBC '무한도전' 복귀 여부에 대해 입을 열었다.\n22일 오후 JTBC 공식 페이스북에서는 시사교양 프로그램 '잡스'의 스폿 라이브가 진행됐다.\n녹화를 앞둔 MC 박명수와 노홍철은 여느 때와 마찬가지로 근황을 물으며 소통했다.\n박명수는 이 과정에서 노홍철에게 '무한도전' 복귀 여부를 질문했다.\n노홍철은 이에 당황한 기색을 드러내며 \\\"이 형은 방송만 하면 이(무한도전) 얘길 꺼낸다\\\"고 대답을 회피했다.\n또 그는 \\\"라디오 '무도' 중 어느 게 더 좋냐\\\"는 전현무의 질문에도 \\\"당나귀\\\"라고 답했다.\n박명수는 노홍철의 '무한도전' 복귀와 관련해 \\\"(본인이 직접) 얘기를 안 한다. 개인적으로 했으면 좋겠지만 본인의 의지가 중요하다. 여러가지 분위기가 좋아진다면 그때 다시 묻기로 하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 노홍철이 MBC '무한도전' 복귀 여부에 대해 입을 열었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 오후 JTBC 공식 페이스북에서는 시사교양 프로그램 '잡스'의 스폿 라이브가 진행됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "녹화를 앞둔 MC 박명수와 노홍철은 여느 때와 마찬가지로 근황을 물으며 소통했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박명수는 이 과정에서 노홍철에게 '무한도전' 복귀 여부를 질문했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노홍철은 이에 당황한 기색을 드러내며 \\\"이 형은 방송만 하면 이(무한도전) 얘길 꺼낸다\\\"고 대답을 회피했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 그는 \\\"라디오 '무도' 중 어느 게 더 좋냐\\\"는 전현무의 질문에도 \\\"당나귀\\\"라고 답했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박명수는 노홍철의 '무한도전' 복귀와 관련해 \\\"(본인이 직접) 얘기를 안 한다. 개인적으로 했으면 좋겠지만 본인의 의지가 중요하다. 여러가지 분위기가 좋아진다면 그때 다시 묻기로 하겠다\\\"고 말했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"무한도전 할거야?\\\" 질문에 노홍철이 보인 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

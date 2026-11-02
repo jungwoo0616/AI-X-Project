@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_286239",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "송종국·박잎선, 결혼 9년만에 이혼…SNS 비공개 전환",
+		"newsSubTitle": "",
+		"newsContent": "국가대표 축구선수 출신 송종국(36)과 배우 박잎선(36) 부부가 결혼 9년 만에 파경설에 휘말렸다.\n6일 한 연예매체는 업계 관계자를 인용해 박잎선이 최근 법원에 이혼 관련 서류를 접수했다고 밝혔다.\n송종국과 박잎선은 슬하에 아들 지욱과 딸 지아를 두고 있다.\n송종국은퇴한 뒤 스포츠해설가로 활동했다.\n2013년에는 MBC 예능프로그램 '일밤-아빠 어디가'에 딸 지아와 함께 출연해 그해 MBC 방송연예대상 올해의 스타상을 받기도 했다.\n박잎선은 2001년 데뷔했으며 2006년 송종국과 결혼 후 활동을 쉬다 최근 요리프로그램 출연으로 활동을 재개했다.\n이혼 소식이 알려진 가운데, 박잎선이 자신의 SNS를 비공개로 전환했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국가대표 축구선수 출신 송종국(36)과 배우 박잎선(36) 부부가 결혼 9년 만에 파경설에 휘말렸다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 한 연예매체는 업계 관계자를 인용해 박잎선이 최근 법원에 이혼 관련 서류를 접수했다고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송종국과 박잎선은 슬하에 아들 지욱과 딸 지아를 두고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송종국은퇴한 뒤 스포츠해설가로 활동했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2013년에는 MBC 예능프로그램 '일밤-아빠 어디가'에 딸 지아와 함께 출연해 그해 MBC 방송연예대상 올해의 스타상을 받기도 했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박잎선은 2001년 데뷔했으며 2006년 송종국과 결혼 후 활동을 쉬다 최근 요리프로그램 출연으로 활동을 재개했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이혼 소식이 알려진 가운데, 박잎선이 자신의 SNS를 비공개로 전환했다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송종국·박잎선, 결혼 9년만에 이혼…SNS 비공개 전환",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

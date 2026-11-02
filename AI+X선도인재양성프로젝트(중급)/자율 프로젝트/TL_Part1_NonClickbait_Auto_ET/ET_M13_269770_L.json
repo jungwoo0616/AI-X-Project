@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269770",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김희선, 아름다운 한복 자태 뽐내는 한류 여신",
+		"newsSubTitle": "",
+		"newsContent": "배우 김희선이 아름다운 한복 자태를 뽐냈다.\n김희선은 10일 오후 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 “Thank you”라는 글과 함께 사진들을 게재했다.\n김희선은 MBC 금토드라마 ‘내일’ 촬영 현장에 마련된 커피차 앞에서 행복해하고 있는 모습을 사진으로 담았다.\n특히 김희선은 한복을 입고 아름답고 고운 자태를 뽐내 보는 이들의 시선을 집중시켰다.\n앞서 김희선은 촬영 현장에서 검은색 한복을 입은 모습의 사진을 공개한 적이 있다.\n한편, 김희선이 현재 출연하고 있는 ‘내일’은 ‘죽은 자’를 인도하던 저승사자들이 이제 ‘죽고 싶은 사람들’을 살리는 저승 오피스 휴먼 판타지 이야기로 매주 금토 밤 9시 55분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김희선이 아름다운 한복 자태를 뽐냈다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김희선은 10일 오후 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 “Thank you”라는 글과 함께 사진들을 게재했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김희선은 MBC 금토드라마 ‘내일’ 촬영 현장에 마련된 커피차 앞에서 행복해하고 있는 모습을 사진으로 담았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 김희선은 한복을 입고 아름답고 고운 자태를 뽐내 보는 이들의 시선을 집중시켰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 김희선은 촬영 현장에서 검은색 한복을 입은 모습의 사진을 공개한 적이 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 김희선이 현재 출연하고 있는 ‘내일’은 ‘죽은 자’를 인도하던 저승사자들이 이제 ‘죽고 싶은 사람들’을 살리는 저승 오피스 휴먼 판타지 이야기로 매주 금토 밤 9시 55분에 방송된다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김희선, 아름다운 한복 자태 뽐내는 한류 여신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

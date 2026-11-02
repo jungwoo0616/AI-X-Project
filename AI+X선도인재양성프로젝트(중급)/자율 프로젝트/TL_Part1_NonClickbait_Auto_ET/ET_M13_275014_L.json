@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275014",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "박창근, ‘국민가수’ 1등은 강했다...영탁과 빅매치서 승리 (국가부)",
+		"newsSubTitle": "",
+		"newsContent": "‘국가가 부른다’ 박창근이 영탁에게 승리했다.\n7일 오후 방송된 TV CHOSUN ‘국가가 부른다’에서는 영탁, 은가은, 공소원, 신인선, 허찬미, 길병민이 게스트로 출격했다.\n이날 2라운드는 만능 가수 팀 영탁, 국가부 팀 박창근이 붙었다. ‘국민가수’ 1등과 ‘미스터트롯’ 2등의 대결에 모두의 시선이 집중됐다.\n전영록 ‘하얀밤에’를 선곡한 박창근은 숨겨져 있던 터프함을 드러내며 치명미로 심쿵하게 만들었다.\n그의 박력 넘치는 노래에 영탁 또한 깜짝 놀랐고 박창근은 100점을 받았다.\n부담을 갖고 무대에 오른 영탁은 “일어나서 즐기셔도 될까요?”라며 관객들을 벌써 신나게 했다.\n싸이‘예술이야‘를 선곡한 영탁은 랩부터 노래까지 예술로 소화하며 모두를 하나로 만들었고 96점으로 아쉽게 박창근에게 패배했다.\n엔딩급 무대에 신지는 “개운하게 놀았다. 개운하다”라고 말했다.\n한편‘국가가 부른다’는 매주 목요일 오후 10시 TV CHOSUN에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘국가가 부른다’ 박창근이 영탁에게 승리했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 오후 방송된 TV CHOSUN ‘국가가 부른다’에서는 영탁, 은가은, 공소원, 신인선, 허찬미, 길병민이 게스트로 출격했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 2라운드는 만능 가수 팀 영탁, 국가부 팀 박창근이 붙었다. ‘국민가수’ 1등과 ‘미스터트롯’ 2등의 대결에 모두의 시선이 집중됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전영록 ‘하얀밤에’를 선곡한 박창근은 숨겨져 있던 터프함을 드러내며 치명미로 심쿵하게 만들었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그의 박력 넘치는 노래에 영탁 또한 깜짝 놀랐고 박창근은 100점을 받았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "부담을 갖고 무대에 오른 영탁은 “일어나서 즐기셔도 될까요?”라며 관객들을 벌써 신나게 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "싸이‘예술이야‘를 선곡한 영탁은 랩부터 노래까지 예술로 소화하며 모두를 하나로 만들었고 96점으로 아쉽게 박창근에게 패배했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "엔딩급 무대에 신지는 “개운하게 놀았다. 개운하다”라고 말했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편‘국가가 부른다’는 매주 목요일 오후 10시 TV CHOSUN에서 방송된다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박창근, ‘국민가수’ 1등은 강했다...영탁과 빅매치서 승리 (국가부)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

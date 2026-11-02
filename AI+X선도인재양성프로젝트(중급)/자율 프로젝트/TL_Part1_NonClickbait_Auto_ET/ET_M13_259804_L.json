@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259804",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "네이처, 설 인사 “복 많이 받으세요”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 네이처가 새해 소망을 전했다.\n네이처는 1일 0시 공식 유튜브 채널을 통해 설 인사 영상을 공개했다.\n영상에는 로하, 유채, 루, 오로라, 채빈, 새봄, 하루, 소희가 차례로 등장해 새해 인사를 전하고 있다.\n네이처는 릴레이 형식으로 새해 소망과 인사를 손글씨로 쓰며 아크릴판을 가득 채운다.\n특히 네이처는 “리카리카 대박 나자” “네이처 떡상각” “행복하세요 리프들” “돈 많이 벌자” 등의 문구를 공개함과 동시에 “리프(팬덤명) 새해 복 많이 받으세요”라며 직접 인사해 팬들을 향한 남다른 애정을 보여준다.\n네이처는 지난달 24일 스페셜 앨범 ‘리카 라카(RICA RICA)’를 발매하고 1년 6개월 만에 전격 컴백했다.\n컴백에 앞서 직접 만든 모큐멘터리 ‘네이처 이대로 처 망할 수 없다’를 통해 ‘리카 라카’ 제작기를 공개하며 ‘자체 제작돌’ 면모를 보였다.\n또한 답답한 시기를 보내고 있는 현대인들이 걱정 없이 신나게 즐길 수 있는 댄스곡으로 네이처만의 밝은 에너지를 발산하며 활약하고 있다.\n네이처는 앞으로 활발한 음악 활동을 통해 팬들을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 네이처가 새해 소망을 전했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이처는 1일 0시 공식 유튜브 채널을 통해 설 인사 영상을 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에는 로하, 유채, 루, 오로라, 채빈, 새봄, 하루, 소희가 차례로 등장해 새해 인사를 전하고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이처는 릴레이 형식으로 새해 소망과 인사를 손글씨로 쓰며 아크릴판을 가득 채운다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 네이처는 “리카리카 대박 나자” “네이처 떡상각” “행복하세요 리프들” “돈 많이 벌자” 등의 문구를 공개함과 동시에 “리프(팬덤명) 새해 복 많이 받으세요”라며 직접 인사해 팬들을 향한 남다른 애정을 보여준다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이처는 지난달 24일 스페셜 앨범 ‘리카 라카(RICA RICA)’를 발매하고 1년 6개월 만에 전격 컴백했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "컴백에 앞서 직접 만든 모큐멘터리 ‘네이처 이대로 처 망할 수 없다’를 통해 ‘리카 라카’ 제작기를 공개하며 ‘자체 제작돌’ 면모를 보였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 답답한 시기를 보내고 있는 현대인들이 걱정 없이 신나게 즐길 수 있는 댄스곡으로 네이처만의 밝은 에너지를 발산하며 활약하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이처는 앞으로 활발한 음악 활동을 통해 팬들을 만날 예정이다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이처, 설 인사 “복 많이 받으세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

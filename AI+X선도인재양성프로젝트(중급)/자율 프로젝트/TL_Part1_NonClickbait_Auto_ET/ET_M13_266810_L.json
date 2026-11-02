@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266810",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "우주소녀 보나, 맑은 하늘 아래 청순함의 표본",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 우주소녀(WJSN) 멤버 겸 배우 보나(김지연)가 청순함을 자아냈다.\n보나는 13일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “하늘이 예뻤던 어느날”이라는 문구와 함께 사진 4장을 게재했다.\n보나는 다리로 보이는 곳에서 맑은 하늘을 배경으로 사진을 담았다.\n특히 보나는 흰 반팔티에 청바지를 넣어 입음으로써 청순함을 완성해 보는 이들의 시선을 사로잡았다.\n한편 보나는 최근 종영한 tvN 드라마 ‘스물다섯 스물하나’에서 나희도(김태리)의 라이벌이자 절친인 고유림 역을 맡아 큰 사랑을 받은 바 있다.\n또 보나가 속한 우주소녀는 Ment 걸그룹 서바이벌 ‘퀸덤2’에 출연 중이며, 보나는 3차 공연부터 참여할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 우주소녀(WJSN) 멤버 겸 배우 보나(김지연)가 청순함을 자아냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보나는 13일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “하늘이 예뻤던 어느날”이라는 문구와 함께 사진 4장을 게재했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보나는 다리로 보이는 곳에서 맑은 하늘을 배경으로 사진을 담았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 보나는 흰 반팔티에 청바지를 넣어 입음으로써 청순함을 완성해 보는 이들의 시선을 사로잡았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 보나는 최근 종영한 tvN 드라마 ‘스물다섯 스물하나’에서 나희도(김태리)의 라이벌이자 절친인 고유림 역을 맡아 큰 사랑을 받은 바 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 보나가 속한 우주소녀는 Ment 걸그룹 서바이벌 ‘퀸덤2’에 출연 중이며, 보나는 3차 공연부터 참여할 예정이다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우주소녀 보나, 맑은 하늘 아래 청순함의 표본",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

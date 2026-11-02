@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277633",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이광수 수상소감에 송지효의 '가슴 아픈' 반응",
+		"newsSubTitle": "",
+		"newsContent": "25일 SBS 연예대상에서 런닝맨의 이광수가 버라이어티 부문 '최우수상'을 수상했다.\n런닝맨팀의 축하를 받고 시상대에 올라간 이광수는 눈물을 글썽이며 수상소감을 전했다.\n그는 \\\"모든 스태프분들 감사합니다. 수고하셨습니다\\\"라고 말했다.\n소감을 전하던 중 감정이 북받쳐 오른 듯 말문이 막히기도 했다.\n이어 이광수는 \\\"너무 너무 사랑하고 행복했습니다. 26살 때부터 33살까지, 7년동안 정말 행복했고, 과분한 사랑을 받았습니다. 감사합니다\\\"라고 말했다.\n그의 수상 소감에 송지효는 눈물을 흘렸다.\n김종국, 지석진도 눈물이 나는지 고개를 위로 들고 입을 꾹 다물었다.\n최근 SBS '일요일이 좋다-런닝맨'은 김종국과 송지효에게 일방적인 하차 통보를 했다는 논란에 휩싸였다.\n결국 런닝맨은 내년 2월 종영하기로 결정됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "25일 SBS 연예대상에서 런닝맨의 이광수가 버라이어티 부문 '최우수상'을 수상했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "런닝맨팀의 축하를 받고 시상대에 올라간 이광수는 눈물을 글썽이며 수상소감을 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"모든 스태프분들 감사합니다. 수고하셨습니다\\\"라고 말했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소감을 전하던 중 감정이 북받쳐 오른 듯 말문이 막히기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이광수는 \\\"너무 너무 사랑하고 행복했습니다. 26살 때부터 33살까지, 7년동안 정말 행복했고, 과분한 사랑을 받았습니다. 감사합니다\\\"라고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그의 수상 소감에 송지효는 눈물을 흘렸다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김종국, 지석진도 눈물이 나는지 고개를 위로 들고 입을 꾹 다물었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 SBS '일요일이 좋다-런닝맨'은 김종국과 송지효에게 일방적인 하차 통보를 했다는 논란에 휩싸였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "결국 런닝맨은 내년 2월 종영하기로 결정됐다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이광수 수상소감에 송지효의 '가슴 아픈' 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

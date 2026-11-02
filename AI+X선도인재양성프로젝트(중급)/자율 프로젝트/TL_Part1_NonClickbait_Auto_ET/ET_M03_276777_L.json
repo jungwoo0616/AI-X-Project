@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276777",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "지폐 6만원 실수로 갈아버린 네티즌 근황",
+		"newsSubTitle": "",
+		"newsContent": "실수로 파쇄기에 지폐를 갈아버린 네티즌의 사연이 화제다.\n사연의 주인공은 의도치 않게 가지고 있던 화폐 두 장을 휴짓조각으로 만들었다.\n갈기갈기 찢긴 지폐는 5만원 권 1매와 1만원 권 1매로 총 6만원이다.\n황당한 일이 벌어졌지만, 주인공은 침착했다.\n그는 화폐 도안을 인쇄해 직접 지폐 복구에 나섰다.\n처참하게 찢긴 지폐를 복구하기란 쉽지 않아 보였다.\n그러나 의지의 주인공은 끝까지 포기하지 않았다.\n마침내 복구에 성공한 주인공은 근처 은행을 방문했고 '한국은행'으로 가라는 답변을 들었다.\n한편 사연을 본 네티즌은 \\\"대체 어쩌다 갈아버린 거지\\\" \\\"신사임당이라면 나라도 그럴 듯\\\" \\\"우리 엄마도 영수증 사이에 지폐 있는 줄 모르고 쫙쫙 찢었다가...ㅋㅋ\\\" \\\"나라면 포기할 듯\\\" 등 반응을 보였다.\n현재 한국은행법 53조 2항(주화의 훼손 금지)에 따르면 '누구든지 한국은행의 허가 없이 영리를 목적으로 주화를 다른 용도로 사용하기 위하여 융해·분쇄·압착 또는 그 밖의 방법으로 훼손해서는 아니 된다'고 명시되어 있다.\n또 105조 2항(벌칙)은 '53조의2를 위반하여 주화를 훼손한 자는 1년 이하 징역 또는 1천만원 이하의 벌금에 처한다'고 규정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실수로 파쇄기에 지폐를 갈아버린 네티즌의 사연이 화제다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사연의 주인공은 의도치 않게 가지고 있던 화폐 두 장을 휴짓조각으로 만들었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "갈기갈기 찢긴 지폐는 5만원 권 1매와 1만원 권 1매로 총 6만원이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "황당한 일이 벌어졌지만, 주인공은 침착했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 화폐 도안을 인쇄해 직접 지폐 복구에 나섰다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "처참하게 찢긴 지폐를 복구하기란 쉽지 않아 보였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 의지의 주인공은 끝까지 포기하지 않았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "마침내 복구에 성공한 주인공은 근처 은행을 방문했고 '한국은행'으로 가라는 답변을 들었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 사연을 본 네티즌은 \\\"대체 어쩌다 갈아버린 거지\\\" \\\"신사임당이라면 나라도 그럴 듯\\\" \\\"우리 엄마도 영수증 사이에 지폐 있는 줄 모르고 쫙쫙 찢었다가...ㅋㅋ\\\" \\\"나라면 포기할 듯\\\" 등 반응을 보였다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재 한국은행법 53조 2항(주화의 훼손 금지)에 따르면 '누구든지 한국은행의 허가 없이 영리를 목적으로 주화를 다른 용도로 사용하기 위하여 융해·분쇄·압착 또는 그 밖의 방법으로 훼손해서는 아니 된다'고 명시되어 있다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 105조 2항(벌칙)은 '53조의2를 위반하여 주화를 훼손한 자는 1년 이하 징역 또는 1천만원 이하의 벌금에 처한다'고 규정했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지폐 6만원 실수로 갈아버린 네티즌 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

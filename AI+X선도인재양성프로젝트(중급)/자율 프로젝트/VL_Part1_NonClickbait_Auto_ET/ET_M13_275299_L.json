@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275299",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "추성훈, 김준수와 뜻밖의 친분 공개",
+		"newsSubTitle": "",
+		"newsContent": "이종격투기 선수 추성훈이 가수 김준수와의 친분을 공개했다.\n추성훈은 11일 자신의 사회관계망서비스(SNS) 인스타그램에 “오랜만에 만나서 너무 기분이 좋았습니다”라며 김준수와의 사진을 공개했다.\n사진 속 추성훈은 김준수와 함께 다정한 모습으로 카메라를 바라보고 있다.\n해당 게시물에 김준수 역시 “저도 너무 좋았습니다”라며 화답했다.\n누리꾼들은 “멋진 사나이들” “김준수라니 놀랍다” “미쳤다”며 둘의 인연에 놀라워했다.\n한편 추성훈은 모델 야노시호와 2009년 결혼해 슬하 딸 사랑 양을 두고 있다.\n김준수는 최근 일본에서의 팬미팅을 성황리에 마쳤다.\n뮤지컬 ‘데스노트’의 ‘엘’역으로 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이종격투기 선수 추성훈이 가수 김준수와의 친분을 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "추성훈은 11일 자신의 사회관계망서비스(SNS) 인스타그램에 “오랜만에 만나서 너무 기분이 좋았습니다”라며 김준수와의 사진을 공개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 추성훈은 김준수와 함께 다정한 모습으로 카메라를 바라보고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물에 김준수 역시 “저도 너무 좋았습니다”라며 화답했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 “멋진 사나이들” “김준수라니 놀랍다” “미쳤다”며 둘의 인연에 놀라워했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 추성훈은 모델 야노시호와 2009년 결혼해 슬하 딸 사랑 양을 두고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김준수는 최근 일본에서의 팬미팅을 성황리에 마쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "뮤지컬 ‘데스노트’의 ‘엘’역으로 출연 중이다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "추성훈, 김준수와 뜻밖의 친분 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

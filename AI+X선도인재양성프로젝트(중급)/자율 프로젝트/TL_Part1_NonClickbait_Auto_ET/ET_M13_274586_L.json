@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274586",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘인기가요’ TAN(탄), 환경·평화 염원한 ‘Louder’",
+		"newsSubTitle": "",
+		"newsContent": "아이돌그룹 TAN(탄)이 웅장한 퍼포먼스로 주목을 받았다.\n탄(창선, 주안, 재준, 성혁, 현엽, 태훈, 지성)은 3일 방송된 SBS ‘인기가요’에 출연했다.\n탄은 신곡 ‘Louder’로 무대에 올라 견고해진 칼군무를 선보이는 것은 물론, 환경과 평화 이야기를 담은 ‘Louder’로 글로벌 팬들 이목을 집중시켰다.\n7인 7색 비주얼과 차별화된 안무를 보여준 탄은 패기 넘치는 에너지를 발산하는가 하면, 다채로운 매력으로 ‘인기가요’를 물들였다.\n이들은 무더위를 날려버릴 시원한 사이다 보컬도 들려주며 눈길을 끌었다. ‘신흥 짐승돌’로 자리 잡고 있는 탄은 무대 위에서 강한 카리스마를 자랑, 처음부터 끝까지 열정을 다해 무대를 꾸몄다.\n뜨거워진 에너지와 전 세계를 향한 당당한 포부로 돌아온 탄 무대에 글로벌 팬덤도 환호를 보냈다.\nMZ 세대 취향을 저격하는 비주얼, 퍼포먼스, 보컬로 K팝을 사로잡고 있는 탄의 ‘Louder’는 그루브한 베이스라인과 리드미컬한 멜로디의 도입부, 어벤져스를 연상케 하는 웅장한 후렴구가 특징적인 노래다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌그룹 TAN(탄)이 웅장한 퍼포먼스로 주목을 받았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "탄(창선, 주안, 재준, 성혁, 현엽, 태훈, 지성)은 3일 방송된 SBS ‘인기가요’에 출연했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "탄은 신곡 ‘Louder’로 무대에 올라 견고해진 칼군무를 선보이는 것은 물론, 환경과 평화 이야기를 담은 ‘Louder’로 글로벌 팬들 이목을 집중시켰다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "7인 7색 비주얼과 차별화된 안무를 보여준 탄은 패기 넘치는 에너지를 발산하는가 하면, 다채로운 매력으로 ‘인기가요’를 물들였다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들은 무더위를 날려버릴 시원한 사이다 보컬도 들려주며 눈길을 끌었다. ‘신흥 짐승돌’로 자리 잡고 있는 탄은 무대 위에서 강한 카리스마를 자랑, 처음부터 끝까지 열정을 다해 무대를 꾸몄다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뜨거워진 에너지와 전 세계를 향한 당당한 포부로 돌아온 탄 무대에 글로벌 팬덤도 환호를 보냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "MZ 세대 취향을 저격하는 비주얼, 퍼포먼스, 보컬로 K팝을 사로잡고 있는 탄의 ‘Louder’는 그루브한 베이스라인과 리드미컬한 멜로디의 도입부, 어벤져스를 연상케 하는 웅장한 후렴구가 특징적인 노래다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘인기가요’ TAN(탄), 환경·평화 염원한 ‘Louder’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

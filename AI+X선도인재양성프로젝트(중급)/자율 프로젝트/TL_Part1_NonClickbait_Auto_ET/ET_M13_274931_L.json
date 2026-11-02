@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274931",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘박군♥’ 한영, 브랜드 론칭에 김호중→송가인 축하물결",
+		"newsSubTitle": "",
+		"newsContent": "방송인 한영이 브랜드를 론칭했다.\n7일 소속사 생각엔터테인먼트에 따르면 한영은 뷰티‧헬스‧라이프 브랜드를 론칭했다.\n많은 셀럽들이 론칭을 기념해 축하 영상을 오픈하며 뜨거운 관심을 받고 있다.\n공개된 브랜드 론칭 축하 영상에서는 전현무부터 김호중, 슈퍼주니어 김희철, 가수 이상민, 송가인, 박군, 배우 임원희, 코요태 신지, 김종민, 개그맨 허경환과 이진호 등의 스타들이 등장해 축하 인사를 남겼다.\n영상에서 이들은 한마음 한뜻으로 인사를 전하며 팬들의 이목을 단번에 집중시켰다.\n특히 한영은 평소 꼼꼼한 자기관리로 유명기에 그의 향후 행보에 대한 팬들의 기대감이 높아지고 있다.\n한편, SBS ‘미운 우리 새끼’와 JTBC ‘아는 형님’ 등 다양한 예능을 통해 맹활약한 한영은 앞으로도 종횡무진 활약을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 한영이 브랜드를 론칭했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 소속사 생각엔터테인먼트에 따르면 한영은 뷰티‧헬스‧라이프 브랜드를 론칭했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "많은 셀럽들이 론칭을 기념해 축하 영상을 오픈하며 뜨거운 관심을 받고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 브랜드 론칭 축하 영상에서는 전현무부터 김호중, 슈퍼주니어 김희철, 가수 이상민, 송가인, 박군, 배우 임원희, 코요태 신지, 김종민, 개그맨 허경환과 이진호 등의 스타들이 등장해 축하 인사를 남겼다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상에서 이들은 한마음 한뜻으로 인사를 전하며 팬들의 이목을 단번에 집중시켰다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 한영은 평소 꼼꼼한 자기관리로 유명기에 그의 향후 행보에 대한 팬들의 기대감이 높아지고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, SBS ‘미운 우리 새끼’와 JTBC ‘아는 형님’ 등 다양한 예능을 통해 맹활약한 한영은 앞으로도 종횡무진 활약을 이어갈 예정이다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘박군♥’ 한영, 브랜드 론칭에 김호중→송가인 축하물결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

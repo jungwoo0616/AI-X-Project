@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259859",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최지우, 새해에도 변함없는 동안 미모",
+		"newsSubTitle": "",
+		"newsContent": "배우 최지우가 새해에도 변함없는 동안 미모를 자랑했다.\n최지우는 2일 자신의 SNS 인스타그램에 “새해 복 많이 받으세요”라는 글과 함께 사진을 게재했다.\n사진 속 최지우는 직접 만든 듯한 눈사람 앞에서 카메라를 향해 미소 짓고 있다.\n사십대 중반에 출산한 사람이라고는 믿어지지 않을 만큼 어려보이는 동안 비주얼에 누리꾼들은 놀랍다는 반응을 보였다.\n한편, 최지우는 2018년 9세 연하의 사업가 남편과 결혼해 슬하에 딸을 두고 있다.\n최근 JTBC 예능프로그램 ‘시고르 경양식’에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최지우가 새해에도 변함없는 동안 미모를 자랑했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최지우는 2일 자신의 SNS 인스타그램에 “새해 복 많이 받으세요”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 최지우는 직접 만든 듯한 눈사람 앞에서 카메라를 향해 미소 짓고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사십대 중반에 출산한 사람이라고는 믿어지지 않을 만큼 어려보이는 동안 비주얼에 누리꾼들은 놀랍다는 반응을 보였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 최지우는 2018년 9세 연하의 사업가 남편과 결혼해 슬하에 딸을 두고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 JTBC 예능프로그램 ‘시고르 경양식’에 출연했다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최지우, 새해에도 변함없는 동안 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

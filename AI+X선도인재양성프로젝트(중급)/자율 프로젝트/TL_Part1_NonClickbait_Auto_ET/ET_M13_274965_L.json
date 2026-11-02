@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274965",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "황광희 “너무 잘 생긴 내 얼굴 잘못”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 황광희가 남다른 얼굴부심을 부렸다.\n7일(오늘) 달라스튜디오 채널에서 공개될 네고왕 18화에서는 황광희의 젤네일 네고가 진행된다.\n오늘 방송에서는 황광희의 얼굴 부심을 확인할 수 있다.\n시민 인터뷰를 위해 거리로 나선 황광희가 잘생겼다는 시민의 반응에 기뻐하며 인터뷰를 요청하지만 거절당하고, 이내 “내 얼굴이 잘못했어. 너무 잘 생겨서 부담스럽다는 거지”라고 뻔뻔하게 넘겨 현장을 유쾌하게 만들었다는 후문. 이날 황광희의 이상형도 공개된다.\n딸 셋을 둔 어머니에게 본인이 사위가 된다면 어떨 것 같냐며 묻자, 첫째 딸이 뉴욕에 있다는 이야기를 듣고 “뉴욕 사는 사람이 이상형인데”라며 바로 “장모님”이라고 한다고. 본사 건물에 도착한 황광희는 팬 미팅을 방불케 할 정도로 전 직원이 환대하자 감동, 광희다움을 표현한 디자인이 반영된 젤네일 제품까지 준비해 감격한다.\n젤네일왕과의 접전의 결과는 오늘(7일) 오후 6시 30분 달라스튜디오에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 황광희가 남다른 얼굴부심을 부렸다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일(오늘) 달라스튜디오 채널에서 공개될 네고왕 18화에서는 황광희의 젤네일 네고가 진행된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오늘 방송에서는 황광희의 얼굴 부심을 확인할 수 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시민 인터뷰를 위해 거리로 나선 황광희가 잘생겼다는 시민의 반응에 기뻐하며 인터뷰를 요청하지만 거절당하고, 이내 “내 얼굴이 잘못했어. 너무 잘 생겨서 부담스럽다는 거지”라고 뻔뻔하게 넘겨 현장을 유쾌하게 만들었다는 후문. 이날 황광희의 이상형도 공개된다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "딸 셋을 둔 어머니에게 본인이 사위가 된다면 어떨 것 같냐며 묻자, 첫째 딸이 뉴욕에 있다는 이야기를 듣고 “뉴욕 사는 사람이 이상형인데”라며 바로 “장모님”이라고 한다고. 본사 건물에 도착한 황광희는 팬 미팅을 방불케 할 정도로 전 직원이 환대하자 감동, 광희다움을 표현한 디자인이 반영된 젤네일 제품까지 준비해 감격한다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "젤네일왕과의 접전의 결과는 오늘(7일) 오후 6시 30분 달라스튜디오에서 확인할 수 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황광희 “너무 잘 생긴 내 얼굴 잘못”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

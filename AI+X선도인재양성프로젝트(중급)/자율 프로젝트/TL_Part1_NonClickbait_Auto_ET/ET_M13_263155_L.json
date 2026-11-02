@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263155",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 현아, 코로나19 확진…“미열 등 건강상 이상 느껴”",
+		"newsSubTitle": "",
+		"newsContent": "가수 현아가 코로나19에 확진됐다.\n현아 소속사 피네이션(P NATION)은 7일 아티스트 현아의 코로나19 확진 관련 공식입장을 전했다.\n소속사는 “현아는 미열 등 건강 이상을 느껴 신속 항원 검사에 이어 PCR 검사를 진행하였고, 오늘(7일) 최종 양성 판정을 받았다”고 밝혔다.\n또 “예정된 일정을 모두 중단하고 재택 치료에 집중할 예정”이라며 “당사는 보건 당국의 방역 지침을 준수하여 소속 아티스트의 빠른 회복을 위해 최선을 다하겠다”고 덧붙였다.\n다음은 현아 소속사 입장문 전문 당사 소속 아티스트 현아가 7일 코로나19 확진 판정을 받아 안내 드립니다.\n현아는 미열 등 건강 이상을 느껴 신속 항원 검사에 이어 PCR 검사를 진행하였고, 오늘(7일) 최종 양성 판정을 받았습니다.\n현아는 코로나19 백신 2차 접종을 완료한 상태였으며, 예정된 일정을 모두 중단하고 재택 치료에 집중할 예정입니다.\n당사는 보건 당국의 방역 지침을 준수하여 소속 아티스트의 빠른 회복을 위해 최선을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 현아가 코로나19에 확진됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현아 소속사 피네이션(P NATION)은 7일 아티스트 현아의 코로나19 확진 관련 공식입장을 전했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “현아는 미열 등 건강 이상을 느껴 신속 항원 검사에 이어 PCR 검사를 진행하였고, 오늘(7일) 최종 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “예정된 일정을 모두 중단하고 재택 치료에 집중할 예정”이라며 “당사는 보건 당국의 방역 지침을 준수하여 소속 아티스트의 빠른 회복을 위해 최선을 다하겠다”고 덧붙였다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음은 현아 소속사 입장문 전문 당사 소속 아티스트 현아가 7일 코로나19 확진 판정을 받아 안내 드립니다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현아는 미열 등 건강 이상을 느껴 신속 항원 검사에 이어 PCR 검사를 진행하였고, 오늘(7일) 최종 양성 판정을 받았습니다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현아는 코로나19 백신 2차 접종을 완료한 상태였으며, 예정된 일정을 모두 중단하고 재택 치료에 집중할 예정입니다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당사는 보건 당국의 방역 지침을 준수하여 소속 아티스트의 빠른 회복을 위해 최선을 다하겠습니다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 현아, 코로나19 확진…“미열 등 건강상 이상 느껴”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

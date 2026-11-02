@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273126",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "감사원 “국회방송, 3억여원 비효율 집행”",
+		"newsSubTitle": "",
+		"newsContent": "국회방송국 정산 담당자 업무 태만으로 조명 담당 프리랜서에게 조명료가 4000만원 가까이 과다 지급됐다며 감사원이 담당자 징계를 요구했다.\n감사원은 국회의 예산집행과 회계처리에 관한 정기 감사에서 이런 사실을 확인했다고 14일 전했다.\n감사원에 따르면 국회사무처 국회방송국(국회방송)은 2011년부터 조명 프리랜서 A씨에게 조명 업무를 위탁했지만 2018년 12월에야 업무위탁계약서를 작성했다.\n또 국회방송 제작비 지급지침을 보면 조명료는 인건비 10만원과 조명 장비 사용료 10만원으로 나뉘어 있는데도, 국회방송은 A씨가 조명 장비를 사용했는지와 관계없이 조명 업무를 할 때마다 20만원씩을 지급해온 것으로 드러났다.\n이 외에도 A씨가 조명 작업 요청이 없었던 곳에도 조명 작업을 하고 실적으로 청구했는데도 정산 담당자가 제대로 확인하지 않고 A씨가 청구한 대로 실적을 인정하고 조명료를 준 것으로 나타났다.\n감사원은 이처럼 정산 담당자가 업무에 태만한 결과 국회방송이 A씨에게 총 3850만원 조명료를 과다 지급했다며 정산 담당자를 경징계 이상 징계 처분하라고 국회사무총장에게 요구했다.\nA씨에게 부당하게 지급한 조명료도 환수하는 방안을 마련하라고 통보했다.\n감사원은 또 2017년부터 작년까지 국회방송이 67차례 불필요한 중계차 임차를 해 총 3억2000만원 예산이 비효율적으로 집행됐다며 주의를 요구했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국회방송국 정산 담당자 업무 태만으로 조명 담당 프리랜서에게 조명료가 4000만원 가까이 과다 지급됐다며 감사원이 담당자 징계를 요구했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "감사원은 국회의 예산집행과 회계처리에 관한 정기 감사에서 이런 사실을 확인했다고 14일 전했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "감사원에 따르면 국회사무처 국회방송국(국회방송)은 2011년부터 조명 프리랜서 A씨에게 조명 업무를 위탁했지만 2018년 12월에야 업무위탁계약서를 작성했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 국회방송 제작비 지급지침을 보면 조명료는 인건비 10만원과 조명 장비 사용료 10만원으로 나뉘어 있는데도, 국회방송은 A씨가 조명 장비를 사용했는지와 관계없이 조명 업무를 할 때마다 20만원씩을 지급해온 것으로 드러났다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 외에도 A씨가 조명 작업 요청이 없었던 곳에도 조명 작업을 하고 실적으로 청구했는데도 정산 담당자가 제대로 확인하지 않고 A씨가 청구한 대로 실적을 인정하고 조명료를 준 것으로 나타났다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "감사원은 이처럼 정산 담당자가 업무에 태만한 결과 국회방송이 A씨에게 총 3850만원 조명료를 과다 지급했다며 정산 담당자를 경징계 이상 징계 처분하라고 국회사무총장에게 요구했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "A씨에게 부당하게 지급한 조명료도 환수하는 방안을 마련하라고 통보했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "감사원은 또 2017년부터 작년까지 국회방송이 67차례 불필요한 중계차 임차를 해 총 3억2000만원 예산이 비효율적으로 집행됐다며 주의를 요구했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "감사원 “국회방송, 3억여원 비효율 집행”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

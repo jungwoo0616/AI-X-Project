@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276543",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "16살 나이에 명품가방 들고 공항에 나타난 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 아이오아이 출신 소미(본명 전소미·16)가 출국하는 모습이 화제다.\n소미는 지난 17일 리복 클래식의 영상 촬영차 인천국제공항을 통해 미국 캘리포니아주 로스앤젤레스(LA)로 출국했다.\n이날 소미는 군청색 반소매 티셔츠에 청치마, 스니커즈를 매치해 발랄한 스타일을 선보였다.\n특히 명품가방 루이비통을 착용해 눈길을 끌었다.\n이날 소미의 모습은 화제를 모으고 있다.\n그가 굽이 없는 운동화(스니커즈)를 신었음에도 각선미가 돋보인다는 점과, 어린 나이에 명품가방을 들었다는 점이다.\n이날 소미의 패션은 그간 소미가 가지고 있는 이미지인 상큼함과 생기발랄함을 잘 살렸다는 평을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 아이오아이 출신 소미(본명 전소미·16)가 출국하는 모습이 화제다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소미는 지난 17일 리복 클래식의 영상 촬영차 인천국제공항을 통해 미국 캘리포니아주 로스앤젤레스(LA)로 출국했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 소미는 군청색 반소매 티셔츠에 청치마, 스니커즈를 매치해 발랄한 스타일을 선보였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 명품가방 루이비통을 착용해 눈길을 끌었다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 소미의 모습은 화제를 모으고 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그가 굽이 없는 운동화(스니커즈)를 신었음에도 각선미가 돋보인다는 점과, 어린 나이에 명품가방을 들었다는 점이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 소미의 패션은 그간 소미가 가지고 있는 이미지인 상큼함과 생기발랄함을 잘 살렸다는 평을 받고 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "16살 나이에 명품가방 들고 공항에 나타난 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

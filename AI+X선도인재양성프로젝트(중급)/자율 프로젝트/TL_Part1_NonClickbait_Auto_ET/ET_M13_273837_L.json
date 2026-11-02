@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273837",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "임영웅 ‘무지개’ 띄운다",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 팬들을 위해 ‘무지개’를 띄운다.\n임영웅 소속사 물고기뮤직은 임영웅이 23일 엠넷 ‘엠카운트다운’을 시작으로 오는 24일 KBS2 ‘뮤직뱅크’ 25일 ‘쇼! 음악중심’ 등 음악방송 프로그램에 연달아 출연해 ‘무지개’를 최초 공개한다. ‘무지개’는 전회 전석 매진을 이어가고 있는 임영웅의 전국 투어 콘서트 무대 중 하나로 임영웅의 감성적 목소리를 비롯해 댄스까지 곁들여진 곡이라는 것이 소속사의 설명이다.\n임영웅의 댄스 무대는 유튜브 채널에 먼저 공개됐고 콘서트 영상 또한 화제를 낳은 적이 있다.\n임영웅은 팬들의 끝없는 요청과 호응에 보답하고자 이번 음악방송 프로그램을 출연해 ‘무지개’ 무대를 최초 공개할 예정이다.\n팬들을 위해 준비한 ‘무지개’로 임영웅은 ‘우리 함께 가요, 행복 가득 담은 배낭 하나 메고서, 답답했던 일상과 도심을 벗어나 떠나볼래요’ 등 산뜻한 가사와 멜로디를 펼친다는 계획이다.\n소속사는 “비주얼부터, 감성, 힐링 에너지, 댄스 등 빠지지 않는 무대를 선보일 임영웅은 음악방송 출연 외에도 정규 1집 앨범 ‘아임 히어로’로 각종 음원 차트에서 존재감을 드러내고 있고, 전국 투어 콘서트로 하늘색 물결(임영웅 팬 색상)을 펼치고 있다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 팬들을 위해 ‘무지개’를 띄운다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임영웅 소속사 물고기뮤직은 임영웅이 23일 엠넷 ‘엠카운트다운’을 시작으로 오는 24일 KBS2 ‘뮤직뱅크’ 25일 ‘쇼! 음악중심’ 등 음악방송 프로그램에 연달아 출연해 ‘무지개’를 최초 공개한다. ‘무지개’는 전회 전석 매진을 이어가고 있는 임영웅의 전국 투어 콘서트 무대 중 하나로 임영웅의 감성적 목소리를 비롯해 댄스까지 곁들여진 곡이라는 것이 소속사의 설명이다.",
+				"sentenceSize": 207
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임영웅의 댄스 무대는 유튜브 채널에 먼저 공개됐고 콘서트 영상 또한 화제를 낳은 적이 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅은 팬들의 끝없는 요청과 호응에 보답하고자 이번 음악방송 프로그램을 출연해 ‘무지개’ 무대를 최초 공개할 예정이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들을 위해 준비한 ‘무지개’로 임영웅은 ‘우리 함께 가요, 행복 가득 담은 배낭 하나 메고서, 답답했던 일상과 도심을 벗어나 떠나볼래요’ 등 산뜻한 가사와 멜로디를 펼친다는 계획이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사는 “비주얼부터, 감성, 힐링 에너지, 댄스 등 빠지지 않는 무대를 선보일 임영웅은 음악방송 출연 외에도 정규 1집 앨범 ‘아임 히어로’로 각종 음원 차트에서 존재감을 드러내고 있고, 전국 투어 콘서트로 하늘색 물결(임영웅 팬 색상)을 펼치고 있다”고 설명했다.",
+				"sentenceSize": 149
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅 ‘무지개’ 띄운다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

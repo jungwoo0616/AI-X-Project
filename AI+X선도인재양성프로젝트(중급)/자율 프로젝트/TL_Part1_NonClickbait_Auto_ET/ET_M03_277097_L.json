@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277097",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'프로듀스 101 시즌 2' 김시현 자진하차, \\\"건강상의 이유\\\"",
+		"newsSubTitle": "",
+		"newsContent": "춘 엔터테인먼트 소속 김시현이 Mnet '프로듀스 101 시즌 2'에서 하차했다.\n춘 엔터테인먼트 관계자는 \\\"김시현이 '프로듀스 101 시즌 2'에서 하차하기로 결정했다\\\"며, 하차 이유에 대해서는 \\\"체력상의 문제다. 연습생 생활을 시작한 지 얼마 되지 않아 프로그램 일정을 소화하는 데에 부담을 느꼈던 것 같다\\\"고 밝혔다.\n또한 함께 하차했다고 알려진 같은 소속사 연습생 김용국에 대해서는 계속 출연할 예정이라고 전했다.\n앞서 마루기획 연습생 한종연이 인성 논란에 휩싸이며 이 프로그램에서 하차한 바 있다.\n따라서 '프로듀스 101 시즌 2'는 99명의 참가자로 시작하게 됐다.\n한편 연일 화제를 낳으며 사람들의 높은 관심을 받는 Mnet '프로듀스 101 시즌 2'는 오는 4월 7일 첫 방송이 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "춘 엔터테인먼트 소속 김시현이 Mnet '프로듀스 101 시즌 2'에서 하차했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "춘 엔터테인먼트 관계자는 \\\"김시현이 '프로듀스 101 시즌 2'에서 하차하기로 결정했다\\\"며, 하차 이유에 대해서는 \\\"체력상의 문제다. 연습생 생활을 시작한 지 얼마 되지 않아 프로그램 일정을 소화하는 데에 부담을 느꼈던 것 같다\\\"고 밝혔다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 함께 하차했다고 알려진 같은 소속사 연습생 김용국에 대해서는 계속 출연할 예정이라고 전했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 마루기획 연습생 한종연이 인성 논란에 휩싸이며 이 프로그램에서 하차한 바 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "따라서 '프로듀스 101 시즌 2'는 99명의 참가자로 시작하게 됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 연일 화제를 낳으며 사람들의 높은 관심을 받는 Mnet '프로듀스 101 시즌 2'는 오는 4월 7일 첫 방송이 된다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'프로듀스 101 시즌 2' 김시현 자진하차, \\\"건강상의 이유\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

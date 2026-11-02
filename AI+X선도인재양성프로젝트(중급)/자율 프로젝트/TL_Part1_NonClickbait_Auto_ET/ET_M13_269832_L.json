@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269832",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘어서와’ 폴란드 출신 안나, 먹방×친화력 甲 ‘인싸’ 모델",
+		"newsSubTitle": "",
+		"newsContent": "폴란드 출신 모델 안나가 제철 음식 먹방을 선보인다.\n오는 12일(목) 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서는 한국살이 4년 차 폴란드 모델 안나가 출연해 백패커 매력을 선보인다.\n이날 방송에서는 여수 개도로 백패킹을 떠난 모델 안나가 전라남도 백반 먹방을 공개한다.\n안나는 밑반찬으로 나온 쑥전과 미역 초무침을 시작으로 도다리쑥국에 밥까지 말아 먹으며 폭풍 먹방에 돌입한다.\n이어 안나는 갓 잡아 튀긴 농어구이를 야무지게 맨손으로 먹기 시작한다.\n이를 지켜본 MC들은 “조상 중에 한국인이 있는 게 아니냐”라고 의심한다.\n또한, 안나가 먹은 백반은 역대급 맛과 저렴한 가격으로 모두를 놀라게 한다.\n한편, 식사를 마친 안나는 개도의 한 주조장을 찾아 남다른 친화력을 뽐낼 예정이다.\n처음 본 사장님과 금세 친해진 안나는 할머니와 김치와 막걸리를 나눠 마시며 친손녀 같은 친숙한 매력을 발산한다고. 이에 MC 도경완은 “개도 주조장에 폴란드 사람이 할머니한테 술 따라 주는 게 단군 이래 몇 번이나 있었겠냐”라고 말하며 안나의 인싸력을 인정한다.\n모델이자 백패커인 ‘매력 부자’ 안나의 먹방은 5월 12일(목) 저녁 8시 30분 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "폴란드 출신 모델 안나가 제철 음식 먹방을 선보인다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 12일(목) 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서는 한국살이 4년 차 폴란드 모델 안나가 출연해 백패커 매력을 선보인다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서는 여수 개도로 백패킹을 떠난 모델 안나가 전라남도 백반 먹방을 공개한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안나는 밑반찬으로 나온 쑥전과 미역 초무침을 시작으로 도다리쑥국에 밥까지 말아 먹으며 폭풍 먹방에 돌입한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 안나는 갓 잡아 튀긴 농어구이를 야무지게 맨손으로 먹기 시작한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 지켜본 MC들은 “조상 중에 한국인이 있는 게 아니냐”라고 의심한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한, 안나가 먹은 백반은 역대급 맛과 저렴한 가격으로 모두를 놀라게 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 식사를 마친 안나는 개도의 한 주조장을 찾아 남다른 친화력을 뽐낼 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "처음 본 사장님과 금세 친해진 안나는 할머니와 김치와 막걸리를 나눠 마시며 친손녀 같은 친숙한 매력을 발산한다고. 이에 MC 도경완은 “개도 주조장에 폴란드 사람이 할머니한테 술 따라 주는 게 단군 이래 몇 번이나 있었겠냐”라고 말하며 안나의 인싸력을 인정한다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "모델이자 백패커인 ‘매력 부자’ 안나의 먹방은 5월 12일(목) 저녁 8시 30분 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서 만나볼 수 있다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘어서와’ 폴란드 출신 안나, 먹방×친화력 甲 ‘인싸’ 모델",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

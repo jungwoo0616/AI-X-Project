@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265594",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단 진·지민, 만우절에 보여준 유쾌함!",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단 진, 지민이 만우절을 맞아 유쾌한 면모를 보여줬다.\n진과 지민은 1일 각자의 인스타그램 프로필 사진과 소개 글을 변경했다.\n진은 자신의 활동명과 같은 게임 캐릭터의 사진을 프로필로 변경하고 게임 테마 곡 “현장에서 난 피어오른다 붉은 여명에 피어나는 꽃처럼”을 소개 칸에 적었다.\n지민은 방시혁 하이브 의장의 얼굴 사진을 프로필로 설정한 뒤 소개 칸에 “방탄소년단 아부지”라고 적었다.\n두 사람은 만우절을 기념해 프로필 사진과 소개 항목을 변경한 것으로 보인다.\n한편 방탄소년단은 오는 3일(이하 현지시간) 라스베이거스 MGM 그랜드가든아레나에서 열리는 그래미 시상식에 참석한 뒤 8~9일과 15~16일까지 네 차례에 걸쳐 단독 콘서트를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단 진, 지민이 만우절을 맞아 유쾌한 면모를 보여줬다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "진과 지민은 1일 각자의 인스타그램 프로필 사진과 소개 글을 변경했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "진은 자신의 활동명과 같은 게임 캐릭터의 사진을 프로필로 변경하고 게임 테마 곡 “현장에서 난 피어오른다 붉은 여명에 피어나는 꽃처럼”을 소개 칸에 적었다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지민은 방시혁 하이브 의장의 얼굴 사진을 프로필로 설정한 뒤 소개 칸에 “방탄소년단 아부지”라고 적었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람은 만우절을 기념해 프로필 사진과 소개 항목을 변경한 것으로 보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 방탄소년단은 오는 3일(이하 현지시간) 라스베이거스 MGM 그랜드가든아레나에서 열리는 그래미 시상식에 참석한 뒤 8~9일과 15~16일까지 네 차례에 걸쳐 단독 콘서트를 개최한다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 진·지민, 만우절에 보여준 유쾌함!",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

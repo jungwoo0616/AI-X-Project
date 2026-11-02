@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169557",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'이래도 투표 안 할래?'...서현 \\\"미래를 위해 꼭 투표합시다!^^\\\"",
+    "newsSubTitle": "",
+    "newsContent": "대통령 선거 역사상 처음으로 도입된 사전 투표가 4일부터 5일까지 진행되는 가운데, 소녀시대 서현도 자신의 인스타그램 계정을 통해 팬들에 투표 독려 메시지를 전했다.\n서현은 3일 오후 인스타그램에 사진을 올리며 \\\"제19대 대통령 선거일이 코앞으로 다가왔다\\\"라며 \\\"내일부터 사전투표가 시작되니 대한민국의 미래를 위해 꼭 투표합시다\\\"라고 썼다.\n서현은 사전 투표가 진행되는 4~5일, 선거일인 9일 당일 투표 가능 시간도 함께 명기했다.\n4~5일 진행되는 사전투표는 신분증만 지참하면 전국 어디에서나 참여할 수 있다.\n시간은 오전 6시부터 오후 6시까지다.\n선거일인 9일 투표는 오전 6시부터 오후 8시까지 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대통령 선거 역사상 처음으로 도입된 사전 투표가 4일부터 5일까지 진행되는 가운데, 소녀시대 서현도 자신의 인스타그램 계정을 통해 팬들에 투표 독려 메시지를 전했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서현은 3일 오후 인스타그램에 사진을 올리며 \\\"제19대 대통령 선거일이 코앞으로 다가왔다\\\"라며 \\\"내일부터 사전투표가 시작되니 대한민국의 미래를 위해 꼭 투표합시다\\\"라고 썼다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서현은 사전 투표가 진행되는 4~5일, 선거일인 9일 당일 투표 가능 시간도 함께 명기했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "4~5일 진행되는 사전투표는 신분증만 지참하면 전국 어디에서나 참여할 수 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시간은 오전 6시부터 오후 6시까지다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "선거일인 9일 투표는 오전 6시부터 오후 8시까지 진행된다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서현 \"투표가 미래다\" 팬들에 투표 강요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

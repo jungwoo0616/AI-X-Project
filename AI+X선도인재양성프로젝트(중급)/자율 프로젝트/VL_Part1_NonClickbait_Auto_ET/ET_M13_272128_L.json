@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272128",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "효린, 7월 컴백 확정[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 효린이 7월 중 컴백을 확정했다.\n3일 소속사 브리지에 따르면 효린은 오는 7월 중 새 앨범 발매를 확정, 컴백 준비에 한창이다.\n소속사는 “효린이 7월, 약 2년 만에 여름 가요계로 돌아온다. ‘퀸덤2’에서 선보인 퍼포먼스 그 이상을 준비하고 있으니 많은 관심과 응원 부탁드린다”고 밝혔다.\n최근 효린은 Mnet ‘퀸덤2’를 통해 활약을 펼치면서 다시 한번 전성기를 맞고 있다.\n1차와 2차 경연 모두 만점으로 1위를 차지하면서 우승후보로 떠오른 효린은 ‘퀸덤2’를 자신의 프로그램으로 만들었다.\n효린은 ‘퀸덤2’ 경연 준비 중에도 지난달 8일 ‘KCON 2022 Premiere’ 무대에 오른 것을 시작으로 22일에는 유네스코 대구 뮤직위크 전야제에, 이어 26일에는 부천대학교 축제에 출격하는 등 팬들과의 소통에도 집중, 다양한 축제를 통해 대중과 호흡하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 효린이 7월 중 컴백을 확정했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 소속사 브리지에 따르면 효린은 오는 7월 중 새 앨범 발매를 확정, 컴백 준비에 한창이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “효린이 7월, 약 2년 만에 여름 가요계로 돌아온다. ‘퀸덤2’에서 선보인 퍼포먼스 그 이상을 준비하고 있으니 많은 관심과 응원 부탁드린다”고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 효린은 Mnet ‘퀸덤2’를 통해 활약을 펼치면서 다시 한번 전성기를 맞고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1차와 2차 경연 모두 만점으로 1위를 차지하면서 우승후보로 떠오른 효린은 ‘퀸덤2’를 자신의 프로그램으로 만들었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "효린은 ‘퀸덤2’ 경연 준비 중에도 지난달 8일 ‘KCON 2022 Premiere’ 무대에 오른 것을 시작으로 22일에는 유네스코 대구 뮤직위크 전야제에, 이어 26일에는 부천대학교 축제에 출격하는 등 팬들과의 소통에도 집중, 다양한 축제를 통해 대중과 호흡하고 있다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "효린, 7월 컴백 확정[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

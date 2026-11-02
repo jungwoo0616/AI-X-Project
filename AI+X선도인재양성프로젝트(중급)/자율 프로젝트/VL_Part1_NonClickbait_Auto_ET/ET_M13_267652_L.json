@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267652",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "빅뱅 ‘봄여름가을겨울’ 가온차트 2주 연속 1위",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅이 한국음악콘텐츠협회가 운영하는 가온차트서 2주 연속 정상을 차지했다.\n21일 가온차트에 따르면 빅뱅의 디지털 싱글 ‘봄여름가을겨울 (Still Life)’은 올해 16주차(2022.04.10~2022.04.16) 디지털·스트리밍·벨소리·통화연결음 부문 1위를 기록했다.\n특별한 활동이 없음에도 꾸준히 이어지고 있는 인기다.\n실제 ‘봄여름가을겨울 (Still Life)’은 지난 5일 발매 첫날부터 멜론 톱100 24Hits를 비롯해 지니, 벅스, 바이브, 플로 등 1위를 휩쓴 뒤 17일째 주요 차트를 지키고 있다.\n해외에서도 좋은 성적을 거뒀다.\n아이튠즈 월드와이드 차트를 점령한 데 이어 미국 빌보드 글로벌 200과 빌보드 글로벌 차트 등에서 상위권을 기록하며 주류 팝 시장에서도 폭넓은 인기를 얻고 있다. ‘봄여름가을겨울 (Still Life)’은 빅뱅의 지난날에 대한 단상과 고민, 그리고 현재와 미래를 함축적으로 표현한 곡이다.\n아름다운 멜로디와 시적 은유가 깃든 노랫말, 그 안에 담긴 진정성 가득한 서사가 우리 모두의 청춘을 되돌아보게 한다는 평을 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅이 한국음악콘텐츠협회가 운영하는 가온차트서 2주 연속 정상을 차지했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 가온차트에 따르면 빅뱅의 디지털 싱글 ‘봄여름가을겨울 (Still Life)’은 올해 16주차(2022.04.10~2022.04.16) 디지털·스트리밍·벨소리·통화연결음 부문 1위를 기록했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특별한 활동이 없음에도 꾸준히 이어지고 있는 인기다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제 ‘봄여름가을겨울 (Still Life)’은 지난 5일 발매 첫날부터 멜론 톱100 24Hits를 비롯해 지니, 벅스, 바이브, 플로 등 1위를 휩쓴 뒤 17일째 주요 차트를 지키고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해외에서도 좋은 성적을 거뒀다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이튠즈 월드와이드 차트를 점령한 데 이어 미국 빌보드 글로벌 200과 빌보드 글로벌 차트 등에서 상위권을 기록하며 주류 팝 시장에서도 폭넓은 인기를 얻고 있다. ‘봄여름가을겨울 (Still Life)’은 빅뱅의 지난날에 대한 단상과 고민, 그리고 현재와 미래를 함축적으로 표현한 곡이다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아름다운 멜로디와 시적 은유가 깃든 노랫말, 그 안에 담긴 진정성 가득한 서사가 우리 모두의 청춘을 되돌아보게 한다는 평을 받고 있다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅뱅 ‘봄여름가을겨울’ 가온차트 2주 연속 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

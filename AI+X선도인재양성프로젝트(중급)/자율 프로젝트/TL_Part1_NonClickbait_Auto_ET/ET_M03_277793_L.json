@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277793",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“꼴보기 싫다”는 악플에 래퍼 딘딘이 보인 반응",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 딘딘이 네티즌의 악성 댓글에 쿨한 반응을 보여 화제다.\n지난 1일 딘딘은 자신의 인스타그램을 통해 “힙합의 민족 본방사수요”라는 글과 함께 기사에 달린 악플을 캡처해 올렸다.\n악플러는 “딘딘 힙합의 민족에서 나댄다. 꼴보기 싫다”고 적었다.\n또 다른 네티즌은 해당 댓글 아래에는 악플러를 지적하는 댓글을 달았다.\n그리고 딘딘은 악플이 달린 댓글 창에 “힙합의 민족 본방사수요”라는 글을 적은 상태로 해당 페이지를 캡처해 공개했다.\n딘딘은 인스타그램 게시물에 악플러 아이디 일부를 언급하며 “보고있냐”라고 적었고 악플러를 지적한 네티즌의 아이디 역시 일부 언급하며 “고맙습니다”라고 적었다.\n악플을 쿨하게 넘긴 딘딘의 모습에 네티즌들은 귀엽다며 뜨거운 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 딘딘이 네티즌의 악성 댓글에 쿨한 반응을 보여 화제다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1일 딘딘은 자신의 인스타그램을 통해 “힙합의 민족 본방사수요”라는 글과 함께 기사에 달린 악플을 캡처해 올렸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "악플러는 “딘딘 힙합의 민족에서 나댄다. 꼴보기 싫다”고 적었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 다른 네티즌은 해당 댓글 아래에는 악플러를 지적하는 댓글을 달았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그리고 딘딘은 악플이 달린 댓글 창에 “힙합의 민족 본방사수요”라는 글을 적은 상태로 해당 페이지를 캡처해 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "딘딘은 인스타그램 게시물에 악플러 아이디 일부를 언급하며 “보고있냐”라고 적었고 악플러를 지적한 네티즌의 아이디 역시 일부 언급하며 “고맙습니다”라고 적었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "악플을 쿨하게 넘긴 딘딘의 모습에 네티즌들은 귀엽다며 뜨거운 반응을 보이고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“꼴보기 싫다”는 악플에 래퍼 딘딘이 보인 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

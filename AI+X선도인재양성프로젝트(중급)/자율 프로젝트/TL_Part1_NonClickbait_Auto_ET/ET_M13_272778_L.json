@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272778",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "누명벗은 김건모, 결국 장지연과 파경설",
+		"newsSubTitle": "",
+		"newsContent": "가수 김건모가 결혼 2년 8개월만에 파경을 맞은 것으로 전해졌다.\n티브이데일리에 따르면 김건모와 장지연 부부는 최근 관계가 소원해지면서 합의 끝에 이혼하기로 결정했다.\n김건모, 장지연 부부는 2019년 10월 혼인신고를 마쳤고 따로 식은 올리지 않은 채 결혼생활을 이어왔다.\n보도에 따르면 김건모와 장지연은 결혼 시간 동안 개인적 의견 차이를 좁히지 못했고 구체적인 논의에 돌입하며 이혼 절차를 밟기로 했다.\n국민 가수 인지도를 쌓았던 김건모는 50세 넘는 나이에 13살 연하 피아니스트 장지연과 결혼해 당시 화제를 낳았다.\n김건모가 성폭행 혐의로 피소되는 등 여러 사건과 루머에 휩싸이자 여러 차례 파혼설이 돌기도 했으나 확인된 적은 없다.\n김건모는 성폭행 혐의와 관련해 지난해 11월 불기소 처분을 받았다.\n장지연은 미국 버클리 음대에서 실용음악을 전공한 피아니스트로 그의 부친은 유명 작곡가 장욱조, 오빠는 배우 장희웅이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김건모가 결혼 2년 8개월만에 파경을 맞은 것으로 전해졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "티브이데일리에 따르면 김건모와 장지연 부부는 최근 관계가 소원해지면서 합의 끝에 이혼하기로 결정했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김건모, 장지연 부부는 2019년 10월 혼인신고를 마쳤고 따로 식은 올리지 않은 채 결혼생활을 이어왔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보도에 따르면 김건모와 장지연은 결혼 시간 동안 개인적 의견 차이를 좁히지 못했고 구체적인 논의에 돌입하며 이혼 절차를 밟기로 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국민 가수 인지도를 쌓았던 김건모는 50세 넘는 나이에 13살 연하 피아니스트 장지연과 결혼해 당시 화제를 낳았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김건모가 성폭행 혐의로 피소되는 등 여러 사건과 루머에 휩싸이자 여러 차례 파혼설이 돌기도 했으나 확인된 적은 없다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김건모는 성폭행 혐의와 관련해 지난해 11월 불기소 처분을 받았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "장지연은 미국 버클리 음대에서 실용음악을 전공한 피아니스트로 그의 부친은 유명 작곡가 장욱조, 오빠는 배우 장희웅이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "누명벗은 김건모, 결국 장지연과 파경설",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

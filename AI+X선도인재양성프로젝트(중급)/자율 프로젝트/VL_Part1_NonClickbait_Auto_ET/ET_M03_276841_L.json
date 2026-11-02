@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276841",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "박유천, 예비신부와 데이트 사진에 때아닌 흡연 논란",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 박유천과 예비신부와의 데이트 장면이 한 매체에 공개된 가운데 박유천씨가 때아닌 흡연 논란에 휩싸였다.\n15일 오후 디스패치는 박유천과 예비신부가 데이트를 즐기는 모습을 촬영해 공개했다.\n사진 속 두 사람은 포옹을 나누며 애정을 과시했다.\n하지만 일부 누리꾼은 데이트 중 박유천이 손에 들고 있는 담배를 지적했다.\n지난 2012년 박유천씨가 '천식'으로 대체복무 판정을 받았기 때문이다.\n이에 누리꾼들은 박유천이 천식으로 대체복무 판정을 받았음에도 흡연을 할 수 있냐며 당시 신체검사 결과의 적절성을 놓고 의혹을 제기했다.\n박유천은 현재 강남구청에서 복무 중으로 지난달 13일 깜짝 결혼을 발표했다.\n박유천의 예비신부는 대기업 창업주의 손녀인 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 박유천과 예비신부와의 데이트 장면이 한 매체에 공개된 가운데 박유천씨가 때아닌 흡연 논란에 휩싸였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 오후 디스패치는 박유천과 예비신부가 데이트를 즐기는 모습을 촬영해 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 두 사람은 포옹을 나누며 애정을 과시했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 일부 누리꾼은 데이트 중 박유천이 손에 들고 있는 담배를 지적했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 2012년 박유천씨가 '천식'으로 대체복무 판정을 받았기 때문이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 누리꾼들은 박유천이 천식으로 대체복무 판정을 받았음에도 흡연을 할 수 있냐며 당시 신체검사 결과의 적절성을 놓고 의혹을 제기했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박유천은 현재 강남구청에서 복무 중으로 지난달 13일 깜짝 결혼을 발표했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박유천의 예비신부는 대기업 창업주의 손녀인 것으로 전해졌다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박유천, 예비신부와 데이트 사진에 때아닌 흡연 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

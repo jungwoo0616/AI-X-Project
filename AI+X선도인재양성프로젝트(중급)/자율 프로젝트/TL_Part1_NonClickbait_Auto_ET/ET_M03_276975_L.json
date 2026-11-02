@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276975",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "전소미와 '러블리한' 사진 찍은 남성의 정체",
+		"newsSubTitle": "",
+		"newsContent": "가수 전소미가 보컬 트레이너 장진영의 결혼을 축하했다.\n지난 10일 전소미는 자신의 인스타그램에 장진영과 함께 촬영한 영상을 올리며 \\\"축하드려요 쌔에엠~~\\\"이라고 썼다.\n영상 속 전소미와 장진영은 장난기 넘치는 모습으로 러블리한 사제지간을 뽐냈다.\n특히 전소미는 \\\"지충쌤~\\\"이라며 매사에 진지한 스승의 별명을 불렀고, 장진영도 브이(V)를 그려 보이며 제자의 애교에 화답했다.\n장진영은 KBS2' 언니들의 슬램덩크 2'에서 보컬 선생님으로 활약하며 슬램덩크 멤버들의 기량발전에 힘썼을 뿐 아니라 마음 고생하던 전소미의 심리까지 따뜻한 시선으로 꿰뚫어보고 상처를 다독인 마성의 선생님이다.\n최근 결혼을 발표한 장진영은 배우 강해인과 10년 열애 끝에 오는 10월 결혼식을 올린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 전소미가 보컬 트레이너 장진영의 결혼을 축하했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 10일 전소미는 자신의 인스타그램에 장진영과 함께 촬영한 영상을 올리며 \\\"축하드려요 쌔에엠~~\\\"이라고 썼다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 전소미와 장진영은 장난기 넘치는 모습으로 러블리한 사제지간을 뽐냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 전소미는 \\\"지충쌤~\\\"이라며 매사에 진지한 스승의 별명을 불렀고, 장진영도 브이(V)를 그려 보이며 제자의 애교에 화답했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장진영은 KBS2' 언니들의 슬램덩크 2'에서 보컬 선생님으로 활약하며 슬램덩크 멤버들의 기량발전에 힘썼을 뿐 아니라 마음 고생하던 전소미의 심리까지 따뜻한 시선으로 꿰뚫어보고 상처를 다독인 마성의 선생님이다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 결혼을 발표한 장진영은 배우 강해인과 10년 열애 끝에 오는 10월 결혼식을 올린다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전소미와 '러블리한' 사진 찍은 남성의 정체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

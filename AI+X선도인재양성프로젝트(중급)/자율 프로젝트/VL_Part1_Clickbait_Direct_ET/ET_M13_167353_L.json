@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167353",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "롭세, 오늘(8일) 신곡 ‘Noob’ 발매",
+    "newsSubTitle": "",
+    "newsContent": "롭세(ROVXE)가 신곡을 통해 새로운 장르 도전에 나선다.\n롭세는 8일 오후 6시 각종 음원 사이트를 통해 지난 2020년 골드애쉬(Goldash)와 발매한 ‘블랭크(BLANK)’ 이후 2년 만에 새 싱글 ‘눕(Noob)’을 발매한다. ‘눕’은 롭세가 기존에 했던 음악들과는 다른 새로운 장르와 더 넓은 음악적 스펙트럼에 도전하는 곡이다.\n특히 프로듀서 XP ZENO와 ‘XP’라는 프로덕션 크루를 이뤄 처음으로 선보이는 작품이라는 점에서 리스너들의 관심이 더욱 집중되고 있다.\n지난 2018년 래퍼 맥랩(MCRAP)의 ‘모자이크(mosaic (Feat. Rovxe))’의 피처링으로 참여하며 가요계에 데뷔한 롭세는 랩, 프로듀싱, 믹스, 디제잉 등 다양한 분야에서 뛰어난 역량을 발휘하며 ‘실력파 신예 래퍼’로 자리매김했다.\n이후 첫 번째 정규 앨범 ‘라이트, 러브, 아나키(RIGHT, LOVE, XNARCHY)’와 싱글 ‘라이징 스타(RISING STAR)’ 등 독보적인 감성과 음악 색이 담긴 노래를 선보였다.\n롭세의 새 싱글 ‘눕’은 8일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "롭세(ROVXE)가 신곡을 통해 새로운 장르 도전에 나선다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "롭세는 8일 오후 6시 각종 음원 사이트를 통해 지난 2020년 골드애쉬(Goldash)와 발매한 ‘블랭크(BLANK)’ 이후 2년 만에 새 싱글 ‘눕(Noob)’을 발매한다. ‘눕’은 롭세가 기존에 했던 음악들과는 다른 새로운 장르와 더 넓은 음악적 스펙트럼에 도전하는 곡이다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 프로듀서 XP ZENO와 ‘XP’라는 프로덕션 크루를 이뤄 처음으로 선보이는 작품이라는 점에서 리스너들의 관심이 더욱 집중되고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 2018년 래퍼 맥랩(MCRAP)의 ‘모자이크(mosaic (Feat. Rovxe))’의 피처링으로 참여하며 가요계에 데뷔한 롭세는 랩, 프로듀싱, 믹스, 디제잉 등 다양한 분야에서 뛰어난 역량을 발휘하며 ‘실력파 신예 래퍼’로 자리매김했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 첫 번째 정규 앨범 ‘라이트, 러브, 아나키(RIGHT, LOVE, XNARCHY)’와 싱글 ‘라이징 스타(RISING STAR)’ 등 독보적인 감성과 음악 색이 담긴 노래를 선보였다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "롭세의 새 싱글 ‘눕’은 8일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "롭세, 신곡 '눕' 공개... 음원 발매일은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

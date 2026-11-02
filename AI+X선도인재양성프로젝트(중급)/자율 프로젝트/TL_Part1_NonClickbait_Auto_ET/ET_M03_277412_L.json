@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277412",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'뻐드렁니 설현?' 5년전 드라마 모습 화제",
+		"newsSubTitle": "",
+		"newsContent": "뻐드렁니를 바로잡기 위해 끼운 교정기, 덥수룩한 파마머리에 두껍고 커다란 검정 뿔테 안경… 그룹 AOA 멤버 설현(22)이 이 같은 모습으로 과거 드라마에 출연했던 사진이 29일 다시 화제가 됐다.\n2012년 설현이 KBS2 ‘내 딸 서영이’에 출연했던 모습이다.\n이 드라마에서 설현은 못생긴 외모 때문에 남자들에게 무시 당하는 역할을 맡았다.\n설현은 25일 방송한 JTBC ‘한끼줍쇼’에 출연해 ‘의외의 먹방’을 선보이며 설 연휴 화제를 이끌고 있다.\n이경규ㆍ강호동과 함께 무작정 가정집을 찾아가 식사를 얻어먹으며 생활 속 이야기를 나누는 이 프로그램에서 설현은 주인집 아주머니에게서 “오늘은 우리집 딸 해라”는 말까지 들으며 환영을 받았다.\n함께 출연한 강호동도 “설현이가 이렇게 잘 먹는 모습은 처음 본다”며 추켜세웠다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뻐드렁니를 바로잡기 위해 끼운 교정기, 덥수룩한 파마머리에 두껍고 커다란 검정 뿔테 안경… 그룹 AOA 멤버 설현(22)이 이 같은 모습으로 과거 드라마에 출연했던 사진이 29일 다시 화제가 됐다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2012년 설현이 KBS2 ‘내 딸 서영이’에 출연했던 모습이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 드라마에서 설현은 못생긴 외모 때문에 남자들에게 무시 당하는 역할을 맡았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "설현은 25일 방송한 JTBC ‘한끼줍쇼’에 출연해 ‘의외의 먹방’을 선보이며 설 연휴 화제를 이끌고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이경규ㆍ강호동과 함께 무작정 가정집을 찾아가 식사를 얻어먹으며 생활 속 이야기를 나누는 이 프로그램에서 설현은 주인집 아주머니에게서 “오늘은 우리집 딸 해라”는 말까지 들으며 환영을 받았다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "함께 출연한 강호동도 “설현이가 이렇게 잘 먹는 모습은 처음 본다”며 추켜세웠다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'뻐드렁니 설현?' 5년전 드라마 모습 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

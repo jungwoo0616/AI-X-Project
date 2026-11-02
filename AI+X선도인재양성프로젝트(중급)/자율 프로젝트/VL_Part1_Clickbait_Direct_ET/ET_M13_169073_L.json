@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169073",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "정소민X김지석, 교복 입고 환상 ‘케미’",
+    "newsSubTitle": "",
+    "newsContent": "배우 정소민과 김지석이 동안 외모를 뽐냈다.\n정소민은 4일 자신의 인스타그램에 “우리는 교복을 왜 입었을까요? 1. 심심해서 2. 입을 옷이 없어서 3. 월간 집 15화를 보면 알 수 있음”이라는 글과 함께 사진 여러 장을 게재했다.\n공개된 사진 속 정소민과 김지석은 교복을 입고 카메라를 보며 환하게 웃고 있다.\n실제 학생 커플처럼 풋풋하고 귀여운 두 사람의 모습에 완벽한 케미스트리가 느껴진다.\n추가로 공개한 정소민의 단독 사진은 카메라를 의식한 듯 어색한 포즈를 취하고 있어 웃음을 자아낸다.\n사진을 본 누리꾼들은 “둘이 너무 예뻐요” “두 분 교복이 너무 잘 어울려요” “정답은 3번! 본방사수할게요” 등의 반응을 보였다.\n해당 사진은 드라마 촬영 당시 찍은 사진으로 보인다.\n현재 두 사람은 JTBC 드라마 ‘월간 집’에 함께 출연 중이다 한편, JTBC 드라마 ‘월간 집’은 오는 5일 16화 방영을 끝으로 막을 내린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정소민과 김지석이 동안 외모를 뽐냈다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정소민은 4일 자신의 인스타그램에 “우리는 교복을 왜 입었을까요? 1. 심심해서 2. 입을 옷이 없어서 3. 월간 집 15화를 보면 알 수 있음”이라는 글과 함께 사진 여러 장을 게재했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 정소민과 김지석은 교복을 입고 카메라를 보며 환하게 웃고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실제 학생 커플처럼 풋풋하고 귀여운 두 사람의 모습에 완벽한 케미스트리가 느껴진다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "추가로 공개한 정소민의 단독 사진은 카메라를 의식한 듯 어색한 포즈를 취하고 있어 웃음을 자아낸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 본 누리꾼들은 “둘이 너무 예뻐요” “두 분 교복이 너무 잘 어울려요” “정답은 3번! 본방사수할게요” 등의 반응을 보였다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당 사진은 드라마 촬영 당시 찍은 사진으로 보인다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 두 사람은 JTBC 드라마 ‘월간 집’에 함께 출연 중이다 한편, JTBC 드라마 ‘월간 집’은 오는 5일 16화 방영을 끝으로 막을 내린다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정소민X김지석 인스타그램에 사랑스러운 커플 사진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

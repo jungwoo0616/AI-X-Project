@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272313",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "원호 ‘파사드’ 티저…매혹의 곤룡포",
+		"newsSubTitle": "",
+		"newsContent": "가수 원호가 새 콘셉트 필름으로 영화 같은 분위기를 전했다.\n원호의 소속사 하이라인엔터테인먼트는 지난 4일 오후 8시 공식 사회관계망서비스(SNS)와 유튜브 채널을 통해 원호의 세 번째 미니앨범 ‘파사드(FACADE)’의 두 번째 콘셉트 필름을 공개했다.\n두 번째 필름 속 원호는 검은 의상과 푸른빛이 감도는 곤룡포를 입고 치명적인 아우라를 뽐냈다.\n여기에 긴장감을 더하는 배경음악과 감각적인 영상미가 더해져 마치 한 편의 영화를 보는 듯한 느낌을 줬다.\n또 검과 석고상, 오묘한 색감의 컬러렌즈와 함께 공개된 탄탄한 복근은 신비로우면서도 섹시한 분위기를 냈다.\n신보 콘셉트를 엿볼 수 있는 다채로운 티징 콘텐츠를 순서대로 공개하고 있는 원호는 ‘파사드’로 세계적인 인지도를 더욱 높일 계획이다. ‘파사드’는 원호가 전곡의 작사, 작곡에 참여한 다양한 장르의 5곡이 수록된 앨범으로, 오는 13일 오후 6시 각종 음원사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 원호가 새 콘셉트 필름으로 영화 같은 분위기를 전했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원호의 소속사 하이라인엔터테인먼트는 지난 4일 오후 8시 공식 사회관계망서비스(SNS)와 유튜브 채널을 통해 원호의 세 번째 미니앨범 ‘파사드(FACADE)’의 두 번째 콘셉트 필름을 공개했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 번째 필름 속 원호는 검은 의상과 푸른빛이 감도는 곤룡포를 입고 치명적인 아우라를 뽐냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 긴장감을 더하는 배경음악과 감각적인 영상미가 더해져 마치 한 편의 영화를 보는 듯한 느낌을 줬다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 검과 석고상, 오묘한 색감의 컬러렌즈와 함께 공개된 탄탄한 복근은 신비로우면서도 섹시한 분위기를 냈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신보 콘셉트를 엿볼 수 있는 다채로운 티징 콘텐츠를 순서대로 공개하고 있는 원호는 ‘파사드’로 세계적인 인지도를 더욱 높일 계획이다. ‘파사드’는 원호가 전곡의 작사, 작곡에 참여한 다양한 장르의 5곡이 수록된 앨범으로, 오는 13일 오후 6시 각종 음원사이트를 통해 발매된다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원호 ‘파사드’ 티저…매혹의 곤룡포",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

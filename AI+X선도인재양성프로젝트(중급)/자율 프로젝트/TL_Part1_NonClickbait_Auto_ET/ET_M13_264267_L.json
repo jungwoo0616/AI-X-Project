@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264267",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘토밥좋아’ 현주엽VS히밥, 먹방 서열 1인자 누굴까",
+		"newsSubTitle": "",
+		"newsContent": "현주엽, 히밥, 노사연, 박명수, 김종민이 ‘토밥좋아’에서 진정한 먹방 1인자를 가린다.\n가평의 로컬맛집을 순회하는 다섯 멤버들은 오는 19일(토) 방송되는 티캐스트 E채널 ‘토요일은 밥이 좋아(토밥좋아)’에서 아침부터 숯불 삼겹살과 마주한다.\n이번엔 특별히 1인 1화로에 각자 고기를 구워 먹으며 진정한 먹방 서열을 정한다.\n이 순간을 가장 기다려온 현주엽은 구석 자리를 선점하며 “식당 한가운데 앉는 것을 정말 싫어한다. 많이 먹는 게 창피해서 꼭 구석에 앉는다”며 비장한 싸움을 예고한다.\n치열한 경쟁 속에서 현주엽은 최고 라이벌인 히밥을 위해 고기를 구워주기도 하는데, 히밥은 “오빠가 구워주는 것은 기름 함량이 다르다. 고기 굽는 능력 시험이 있다면 현주엽은 1급”이라며 훈훈한 전우애를 보여준다.\n한편 김종민은 식사 중에 배를 움켜잡으며 한계에 직면한다. “배가 터질 것 같다”면서도 “너무 맛있어서 계속 들어간다. 내 인생에서 배가 가장 많이 나온 듯하다”며 힘든 상황에도 계속 먹고 있는 자신을 놀라워한다.\n입짧은 미식가에서 은근 대식가로 거듭난 박명수 역시 “도대체 몇 끼를 먹는 것이냐. 이쯤 되면 방송에 ‘따라 하지 마세요’ 경고를 붙여야 한다”고 소리친다.\n가평에서 최고 먹방 1인자를 가리는 ‘토밥좋아’는 19일 오후 5시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현주엽, 히밥, 노사연, 박명수, 김종민이 ‘토밥좋아’에서 진정한 먹방 1인자를 가린다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가평의 로컬맛집을 순회하는 다섯 멤버들은 오는 19일(토) 방송되는 티캐스트 E채널 ‘토요일은 밥이 좋아(토밥좋아)’에서 아침부터 숯불 삼겹살과 마주한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번엔 특별히 1인 1화로에 각자 고기를 구워 먹으며 진정한 먹방 서열을 정한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 순간을 가장 기다려온 현주엽은 구석 자리를 선점하며 “식당 한가운데 앉는 것을 정말 싫어한다. 많이 먹는 게 창피해서 꼭 구석에 앉는다”며 비장한 싸움을 예고한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "치열한 경쟁 속에서 현주엽은 최고 라이벌인 히밥을 위해 고기를 구워주기도 하는데, 히밥은 “오빠가 구워주는 것은 기름 함량이 다르다. 고기 굽는 능력 시험이 있다면 현주엽은 1급”이라며 훈훈한 전우애를 보여준다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김종민은 식사 중에 배를 움켜잡으며 한계에 직면한다. “배가 터질 것 같다”면서도 “너무 맛있어서 계속 들어간다. 내 인생에서 배가 가장 많이 나온 듯하다”며 힘든 상황에도 계속 먹고 있는 자신을 놀라워한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "입짧은 미식가에서 은근 대식가로 거듭난 박명수 역시 “도대체 몇 끼를 먹는 것이냐. 이쯤 되면 방송에 ‘따라 하지 마세요’ 경고를 붙여야 한다”고 소리친다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가평에서 최고 먹방 1인자를 가리는 ‘토밥좋아’는 19일 오후 5시 방송된다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘토밥좋아’ 현주엽VS히밥, 먹방 서열 1인자 누굴까",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

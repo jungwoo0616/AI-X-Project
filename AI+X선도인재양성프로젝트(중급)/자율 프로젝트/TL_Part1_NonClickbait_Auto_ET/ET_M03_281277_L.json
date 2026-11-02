@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281277",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "저스틴 비버, 타투 중독? 새로운 타투 자랑",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 스타 저스틴 비버가 새로 새긴 타투를 과시했다.\n10일(현지기준) 미국 연예매체 할리우드 라이프는 저스틴 비버가 인스타그램을 통해 새로운 타투를 공개한 사실을 보도했다.\n보도에 따르면 저스틴 비버는 이미 몸에도 꽤 많은 타투를 했으며, 최근 그는 자신의 뒷목에 '천사 날개' 모양의 타투를 새겼다.\n이번 타투는 새앨범 발매를 예고하며 몸에 새겼던 'Purpose' 타투 이후 두 달 만에 한 것이라고 알려졌다.\n할리우드 라이프는 저스틴 비버의 이번 타투가 어떤 의미를 담고 있는지 알 수 없지만, 그의 전 여자친구 셀레나 고메즈와 관련 있을 거로 추측했다.\n셀레나 고메즈가 최근 '2015 빅토리아 시크릿 패션쇼'에 공연차 참석했는데 함께 출연했던 모델들이 가지각색의 '천사 날개' 모양 의상을 착용했기 때문이다.\n이외에도 저스틴 비버는 팔에 자신의 한글이름 '비버'와 하회탈을 새겨넣기도 해 한국팬들의 눈길을 끈 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 스타 저스틴 비버가 새로 새긴 타투를 과시했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일(현지기준) 미국 연예매체 할리우드 라이프는 저스틴 비버가 인스타그램을 통해 새로운 타투를 공개한 사실을 보도했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 저스틴 비버는 이미 몸에도 꽤 많은 타투를 했으며, 최근 그는 자신의 뒷목에 '천사 날개' 모양의 타투를 새겼다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 타투는 새앨범 발매를 예고하며 몸에 새겼던 'Purpose' 타투 이후 두 달 만에 한 것이라고 알려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "할리우드 라이프는 저스틴 비버의 이번 타투가 어떤 의미를 담고 있는지 알 수 없지만, 그의 전 여자친구 셀레나 고메즈와 관련 있을 거로 추측했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "셀레나 고메즈가 최근 '2015 빅토리아 시크릿 패션쇼'에 공연차 참석했는데 함께 출연했던 모델들이 가지각색의 '천사 날개' 모양 의상을 착용했기 때문이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이외에도 저스틴 비버는 팔에 자신의 한글이름 '비버'와 하회탈을 새겨넣기도 해 한국팬들의 눈길을 끈 바 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "저스틴 비버, 타투 중독? 새로운 타투 자랑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

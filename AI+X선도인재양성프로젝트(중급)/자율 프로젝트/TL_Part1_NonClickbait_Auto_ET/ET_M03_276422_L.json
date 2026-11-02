@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276422",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "길거리 공연도중 상인에게 복부 가격당한 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "그룹 스누퍼가 길거리 버스킹 도중 근처에서 장사하는 한 할머니에게 봉변을 당한 사실이 뒤늦게 알려졌다.\n31일 스누퍼 소속사 위드메이 관계자는 “지난 17일 명동에 홍보하러 버스킹을 갔다가 봉변을 당했다. 옆에서 장사하시던 할머니가 사람이 몰리니까 장사에 방해된다고 벌인 일이었다. 멤버 태웅이가 (할머니께) ‘죄송하다’고 한 뒤 행사를 잘 마무리 잘했다”고 밝혔다.\n스누퍼는 지난 17일 서울 명동 인근에서 4번째 미니앨범 발매를 앞두고 시민들과 함께 하는 버스킹을 진행했다.\n버스킹 과정에서 한 상인이 리더 태웅의 복부를 가격하는 상황이 발생했다.\n해당 사실은 한 팬이 직접 찍은 영상을 SNS에 올리면서 뒤늦게 알려졌다.\n한편, 스누퍼는 신곡 ‘유성’과 함께 20일 4번째 미니앨범을 발매했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 스누퍼가 길거리 버스킹 도중 근처에서 장사하는 한 할머니에게 봉변을 당한 사실이 뒤늦게 알려졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 스누퍼 소속사 위드메이 관계자는 “지난 17일 명동에 홍보하러 버스킹을 갔다가 봉변을 당했다. 옆에서 장사하시던 할머니가 사람이 몰리니까 장사에 방해된다고 벌인 일이었다. 멤버 태웅이가 (할머니께) ‘죄송하다’고 한 뒤 행사를 잘 마무리 잘했다”고 밝혔다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스누퍼는 지난 17일 서울 명동 인근에서 4번째 미니앨범 발매를 앞두고 시민들과 함께 하는 버스킹을 진행했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "버스킹 과정에서 한 상인이 리더 태웅의 복부를 가격하는 상황이 발생했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 사실은 한 팬이 직접 찍은 영상을 SNS에 올리면서 뒤늦게 알려졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 스누퍼는 신곡 ‘유성’과 함께 20일 4번째 미니앨범을 발매했다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "길거리 공연도중 상인에게 복부 가격당한 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

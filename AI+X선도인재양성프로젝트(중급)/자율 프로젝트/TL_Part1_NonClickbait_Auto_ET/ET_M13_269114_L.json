@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269114",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지연, 황재균에 벌써 내조 시작하나? 완벽한 차림상",
+		"newsSubTitle": "",
+		"newsContent": "야구선수 황재균이 예비 신부 지연이 만들어 준 식사를 인증했다.\n4일 황재균은 자신의 인스타그램 스토리를 통해 “아까워서 못 먹겠는데... 잘 먹을게”라는 글과 함께 사진을 게재했다.\n황재균은 지연이 자신을 위해 만들어 준 식사가 담긴 사진 올렸다.\n사진 속 음식은 먹음직스러운 찌개와 국, 그리고 반찬들이 보는 이의 시선을 모으며 군침을 삼키게 했다.\n두 사람은 결혼 전부터 서로 밥 해주는 달콤한 일상을 보여주며 누리꾼들의 흐뭇한 미소를 불러일으켰다.\n한편 황재균은 kt wiz(케이티 위즈) 소속 야구선수로, 오는 12월 걸그룹 티아라 멤버 겸 배우 지연과 결혼식을 올릴 예정이다.\n또한 지연은 또 영화 ‘강남’ 출연을 확정 지었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "야구선수 황재균이 예비 신부 지연이 만들어 준 식사를 인증했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 황재균은 자신의 인스타그램 스토리를 통해 “아까워서 못 먹겠는데... 잘 먹을게”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "황재균은 지연이 자신을 위해 만들어 준 식사가 담긴 사진 올렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 음식은 먹음직스러운 찌개와 국, 그리고 반찬들이 보는 이의 시선을 모으며 군침을 삼키게 했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람은 결혼 전부터 서로 밥 해주는 달콤한 일상을 보여주며 누리꾼들의 흐뭇한 미소를 불러일으켰다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 황재균은 kt wiz(케이티 위즈) 소속 야구선수로, 오는 12월 걸그룹 티아라 멤버 겸 배우 지연과 결혼식을 올릴 예정이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 지연은 또 영화 ‘강남’ 출연을 확정 지었다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지연, 황재균에 벌써 내조 시작하나? 완벽한 차림상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

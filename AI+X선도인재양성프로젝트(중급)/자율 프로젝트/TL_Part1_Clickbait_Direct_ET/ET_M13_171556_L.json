@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171556",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "다비치, 크리스마스 요정 변신",
+    "newsSubTitle": "",
+    "newsContent": "다비치(이해리, 강민경)가 새 앨범에 대한 기대감을 더욱 고조시켰다.\n다비치는 2일 0시 공식 SNS를 통해 새 싱글 ‘매일 크리스마스’의 마지막 콘셉트 포토를 공개했다.\n이와 함께 inst 버전 클립을 통해 수록곡 ‘I wish(아이 위시)’ 멜로디를 일부 공개했다. ‘매일 크리스마스’는 다비치가 데뷔 후 처음으로 선보이는 캐럴송이다.\n이번 앨범에는 동명의 타이틀곡 ‘매일 크리스마스’와 함께 ‘I wish’가 수록되어 다비치표 다채로운 겨울 감성을 펼친다.\n다비치는 앨범 발매 전 멜로디를 미리 공개하며 신곡에 대한 관심을 한층 고조시키고 있다.\n한편, 다비치의 새 싱글 ‘매일 크리스마스’는 오는 6일 오후 6시 전 온라인 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다비치(이해리, 강민경)가 새 앨범에 대한 기대감을 더욱 고조시켰다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다비치는 2일 0시 공식 SNS를 통해 새 싱글 ‘매일 크리스마스’의 마지막 콘셉트 포토를 공개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 inst 버전 클립을 통해 수록곡 ‘I wish(아이 위시)’ 멜로디를 일부 공개했다. ‘매일 크리스마스’는 다비치가 데뷔 후 처음으로 선보이는 캐럴송이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 앨범에는 동명의 타이틀곡 ‘매일 크리스마스’와 함께 ‘I wish’가 수록되어 다비치표 다채로운 겨울 감성을 펼친다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다비치는 앨범 발매 전 멜로디를 미리 공개하며 신곡에 대한 관심을 한층 고조시키고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 다비치의 새 싱글 ‘매일 크리스마스’는 오는 6일 오후 6시 전 온라인 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그날이 온다... 다비치, 새 싱글 ‘매일 크리스마스’ 발매",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

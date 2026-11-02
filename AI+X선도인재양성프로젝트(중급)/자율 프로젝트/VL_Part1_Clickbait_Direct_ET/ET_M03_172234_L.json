@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172234",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박보검·양세형의 '같은 옷 다른 느낌'",
+    "newsSubTitle": "",
+    "newsContent": "개그맨 양세형이 코디해준 옷을 입고 등장한 박보검의 남다른 모델 포스가 화제다.\n지난 22일 방송된 MBC '무한도전'에서는 정준하와 양세형이 진정한 패션테러리스트(?) 자리를 놓고 대결을 펼치는 모습이 그려졌다.\n이날 봄 캠퍼스룩을 제안해달라는 멤버들의 요청에 양세형은 박보검에게 자신의 빨간 바지와 셔츠, 초록색 니트를 골라줬다.\n양세형의 옷을 받은 박보검은 보통 사람이라면 소화하기 어려운 애매한 옷을 훤칠한 키와 빛나는 비주얼로 완벽하게 소화해냈다.\n이에 멤버들은 \\\"패션의 완성은 얼굴이다\\\"라고 말했다.\n유재석은 \\\"보검이랑 함께해서 즐거운데 한편으로는 씁쓸하다. 상대적 박탈감이랄까\\\"라고 말하며 부러움을 감추지 못했다.\n양세형이 박보검이 입은 옷을 그대로 입고 등장하자 멤버들은 \\\"어라, 이상한데?\\\"라고 말하며 당황스러움을 감추지 못했다.\n박명수는 \\\"되게 이상하다\\\"고 양세형을 깎아내리며 놀리기 시작했고, 유재석은 \\\"보검이가 입었던 거 맞아?\\\"라고 말해 촬영장을 웃음바다로 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그맨 양세형이 코디해준 옷을 입고 등장한 박보검의 남다른 모델 포스가 화제다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 22일 방송된 MBC '무한도전'에서는 정준하와 양세형이 진정한 패션테러리스트(?) 자리를 놓고 대결을 펼치는 모습이 그려졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 봄 캠퍼스룩을 제안해달라는 멤버들의 요청에 양세형은 박보검에게 자신의 빨간 바지와 셔츠, 초록색 니트를 골라줬다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "양세형의 옷을 받은 박보검은 보통 사람이라면 소화하기 어려운 애매한 옷을 훤칠한 키와 빛나는 비주얼로 완벽하게 소화해냈다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 멤버들은 \\\"패션의 완성은 얼굴이다\\\"라고 말했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유재석은 \\\"보검이랑 함께해서 즐거운데 한편으로는 씁쓸하다. 상대적 박탈감이랄까\\\"라고 말하며 부러움을 감추지 못했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "양세형이 박보검이 입은 옷을 그대로 입고 등장하자 멤버들은 \\\"어라, 이상한데?\\\"라고 말하며 당황스러움을 감추지 못했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박명수는 \\\"되게 이상하다\\\"고 양세형을 깎아내리며 놀리기 시작했고, 유재석은 \\\"보검이가 입었던 거 맞아?\\\"라고 말해 촬영장을 웃음바다로 만들었다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박보검, 역시 숨겨지지 않는 '이것'... 양세형에게는 너무 숨겨져 있어 찾을 수 없다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259092",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘솔로지옥’ 신지연 첫 영상, 3일만에 100만뷰",
+		"newsSubTitle": "",
+		"newsContent": "유튜버 신지연의 ‘Q&A’ 영상이 조회수 100만을 돌파했다.\n지난 23일 신지연의 유튜브 첫 영상 ‘첫 Q&A 골반 뽕, 이상형, MBTI, 솔로지옥, 토론토 라이프, 셀고.....ㅎ’이 조회 수 100만 회를 돌파했고, 유튜브 인기 급상승 동영상 9위에 올랐다. ‘좋아요’ 역시 3만 개 이상이 달렸다.\n신지연은 지난 17일 유튜브 채널을 개설하고 21일 첫 영상을 게재했다.\n해당 영상에서 신지연은 MBTI, 키·몸무게 공개, 몸매 관리, 운동 횟수, 요즘 근황 등 ‘솔로지옥’ 출연 이후 쏟아진 자신과 관련된 질물을 답했다특히 신지연은 골반 뽕 의혹에 대해 “여름에 촬영했기 때문에 몸 관리를 중요시해서 다이어트를 열심히 했다”며 “골반이 화제가 됐는데 골반 뽕은 착용하지 않았고, 원래 골반이 있는 편”이라고 덧붙였다.\n신지연은 넷플릭스 오리지널 시리즈 ‘솔로지옥’에 출연해 큰 인기를 끌었다.\n최종 선택에서 문세훈과 최종 커플로 매칭됐다.\n한편 신지연은 지난해 남원에서 열린 춘향선발대회 출전하여 3위를 한 사실이 알려져 화제다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜버 신지연의 ‘Q&A’ 영상이 조회수 100만을 돌파했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 23일 신지연의 유튜브 첫 영상 ‘첫 Q&A 골반 뽕, 이상형, MBTI, 솔로지옥, 토론토 라이프, 셀고.....ㅎ’이 조회 수 100만 회를 돌파했고, 유튜브 인기 급상승 동영상 9위에 올랐다. ‘좋아요’ 역시 3만 개 이상이 달렸다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신지연은 지난 17일 유튜브 채널을 개설하고 21일 첫 영상을 게재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 영상에서 신지연은 MBTI, 키·몸무게 공개, 몸매 관리, 운동 횟수, 요즘 근황 등 ‘솔로지옥’ 출연 이후 쏟아진 자신과 관련된 질물을 답했다특히 신지연은 골반 뽕 의혹에 대해 “여름에 촬영했기 때문에 몸 관리를 중요시해서 다이어트를 열심히 했다”며 “골반이 화제가 됐는데 골반 뽕은 착용하지 않았고, 원래 골반이 있는 편”이라고 덧붙였다.",
+				"sentenceSize": 194
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신지연은 넷플릭스 오리지널 시리즈 ‘솔로지옥’에 출연해 큰 인기를 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최종 선택에서 문세훈과 최종 커플로 매칭됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 신지연은 지난해 남원에서 열린 춘향선발대회 출전하여 3위를 한 사실이 알려져 화제다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘솔로지옥’ 신지연 첫 영상, 3일만에 100만뷰",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

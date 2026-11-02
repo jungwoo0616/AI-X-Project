@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276802",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신소율, 남친 말에 충격 ‘20kg 감량’…비결 알고 보니",
+		"newsSubTitle": "",
+		"newsContent": "신소율(31)의 다이어트 비법이 화제다.\n신소율은 과거 방송된 MBC '토크클럽 배우들'에 출연해 다이어트에 대해 언급했다.\n당시 방송에서 신소율은 자신의 뚱뚱했던 과거 사진을 공개하며 “이때가 75kg 때다. 남자친구에게 잘 보이려고 살을 뺐다”고 고백했다.\n이어 신소율은 “술자리에서 잠들었다가 깼는데 남자친구의 지인들이 저를 가리키며 살을 좀 빼야 하는 것 아니냐고 하는 말을 들었다”고 말했다.\n이후 충격으로 다이어트를 결심한 신소율은 한 달 동안 생수를 마시며 다이어트를 감행했다고 설명했다.\n특히 신소율은 “운동안하고 그냥 한 달을 굶었다. 양배추랑 물만 먹었다”며 “배고파서 못 견딜 것 같으면 양배추 한 장 먹는 정도로 버텨 46kg까지 뺐다”고 말해 주위를 놀라게 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신소율(31)의 다이어트 비법이 화제다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신소율은 과거 방송된 MBC '토크클럽 배우들'에 출연해 다이어트에 대해 언급했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 방송에서 신소율은 자신의 뚱뚱했던 과거 사진을 공개하며 “이때가 75kg 때다. 남자친구에게 잘 보이려고 살을 뺐다”고 고백했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 신소율은 “술자리에서 잠들었다가 깼는데 남자친구의 지인들이 저를 가리키며 살을 좀 빼야 하는 것 아니냐고 하는 말을 들었다”고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 충격으로 다이어트를 결심한 신소율은 한 달 동안 생수를 마시며 다이어트를 감행했다고 설명했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 신소율은 “운동안하고 그냥 한 달을 굶었다. 양배추랑 물만 먹었다”며 “배고파서 못 견딜 것 같으면 양배추 한 장 먹는 정도로 버텨 46kg까지 뺐다”고 말해 주위를 놀라게 했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신소율, 남친 말에 충격 ‘20kg 감량’…비결 알고 보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

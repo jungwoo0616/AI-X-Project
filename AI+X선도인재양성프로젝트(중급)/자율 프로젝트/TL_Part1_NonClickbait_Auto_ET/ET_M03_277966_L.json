@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277966",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'아침마당' 이봉원 \\\"나는 끊임없이 도전한다\\\" 사업에 대한 식지 않는 열정 보여",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 이봉원이 식지 않은 사업에 대한 열정을 보였다.\n2일 방송한 KBS 1TV '아침마당' 화요초대석에서는 이봉원이 출연했다.\n이날 \\\"사업을 망한 경험이 있는데 또 할 생각이 있느냐\\\"란 질문에 이봉원은 \\\"망했다고 하지 마라. 실패다\\\"라고 대답하며 \\\"이전에는 남의 돈도 끌어다 사업을 했다면 이번에는 내 스스로 돈을 모아서 작게나마 다시 하고 싶다\\\"고 덧붙였다.\n이어 \\\"아내 박미선은 뭐라고 하느냐\\\"란 질문에 이봉원은 \\\"원래 내가 뭘 한다고 하면 (박미선과)상의하지 않는다\\\"며 \\\"내가 저지르고 일방적으로 통보하는 스타일이다. 해야하면 하는 스타일이다\\\"라고 말해 웃음을 자아냈다.\n또한 이봉원은 \\\"워낙 내가 해보고 느껴야하는 성격이다. 수습도 스스로 하지 않느냐\\\"고 말했다.\n앞서 이봉원은 자신의 인생 철학을 언급했다.\n그는 \\\"성공의 반대말은 실패가 아닌 포기다\\\"라며 \\\"나는 끊임없이 도전한다\\\"고 말해 사업에 대한 열정이 식지 않는 이유를 설명했다.\n온라인 중앙일보 [사진 KBS 화면 캡쳐]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 이봉원이 식지 않은 사업에 대한 열정을 보였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 방송한 KBS 1TV '아침마당' 화요초대석에서는 이봉원이 출연했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 \\\"사업을 망한 경험이 있는데 또 할 생각이 있느냐\\\"란 질문에 이봉원은 \\\"망했다고 하지 마라. 실패다\\\"라고 대답하며 \\\"이전에는 남의 돈도 끌어다 사업을 했다면 이번에는 내 스스로 돈을 모아서 작게나마 다시 하고 싶다\\\"고 덧붙였다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"아내 박미선은 뭐라고 하느냐\\\"란 질문에 이봉원은 \\\"원래 내가 뭘 한다고 하면 (박미선과)상의하지 않는다\\\"며 \\\"내가 저지르고 일방적으로 통보하는 스타일이다. 해야하면 하는 스타일이다\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 이봉원은 \\\"워낙 내가 해보고 느껴야하는 성격이다. 수습도 스스로 하지 않느냐\\\"고 말했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 이봉원은 자신의 인생 철학을 언급했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 \\\"성공의 반대말은 실패가 아닌 포기다\\\"라며 \\\"나는 끊임없이 도전한다\\\"고 말해 사업에 대한 열정이 식지 않는 이유를 설명했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS 화면 캡쳐]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'아침마당' 이봉원 \\\"나는 끊임없이 도전한다\\\" 사업에 대한 식지 않는 열정 보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

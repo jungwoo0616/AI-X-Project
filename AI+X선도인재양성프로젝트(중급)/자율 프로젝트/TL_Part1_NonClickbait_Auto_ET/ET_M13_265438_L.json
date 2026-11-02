@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265438",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "하지원, 오랜만의 근황 공개 ‘여전한 여신 미모’",
+		"newsSubTitle": "",
+		"newsContent": "하지원이 오랜만의 근황을 전했다.\n하지원은 30일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “우주가자~~나의 사랑하는1023”이라는 글과 함께 영상을 게시했다.\n영상 속 그는 카메라를 향해 미소를 지으며 손을 흔들고 있다.\n하지원 특유의 청순한 미모가 돋보인다.\n하지원은 지난 3일 이후 오랜만에 SNS를 통해 팬들과 소통했다.\n팬들은 해당 영상에 “많이 보고싶었다” “너무 예쁘다” “너무 오랜만이다”며 그를 반겼다.\n한편 하지원은 최근 영화 ‘비광’의 주연으로 촬영을 마쳤다. ‘비광’은 화려하게 살던 부부가 사건에 휘말려 나락으로 떨어진 뒤 모든 것을 되찾기 위해 분투하는 가족 누아르다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하지원이 오랜만의 근황을 전했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지원은 30일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “우주가자~~나의 사랑하는1023”이라는 글과 함께 영상을 게시했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 그는 카메라를 향해 미소를 지으며 손을 흔들고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지원 특유의 청순한 미모가 돋보인다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지원은 지난 3일 이후 오랜만에 SNS를 통해 팬들과 소통했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들은 해당 영상에 “많이 보고싶었다” “너무 예쁘다” “너무 오랜만이다”며 그를 반겼다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 하지원은 최근 영화 ‘비광’의 주연으로 촬영을 마쳤다. ‘비광’은 화려하게 살던 부부가 사건에 휘말려 나락으로 떨어진 뒤 모든 것을 되찾기 위해 분투하는 가족 누아르다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하지원, 오랜만의 근황 공개 ‘여전한 여신 미모’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

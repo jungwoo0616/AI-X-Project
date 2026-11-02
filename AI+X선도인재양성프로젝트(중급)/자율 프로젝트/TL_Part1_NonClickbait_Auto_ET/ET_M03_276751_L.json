@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276751",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "에펠탑 앞에서 태극기 들고 현충일 축하한 프랑스인",
+		"newsSubTitle": "",
+		"newsContent": "파비앙이 현충일을 맞아 에펠탑 앞에서 태극기를 들고 찍은 사진을 게재했다.\n6일 프랑스 출신 방송인 파비앙은 자신의 인스타그램에 \\\"한국사를 공부하면서 더욱더 깊게 느껴지게 되는 현충일..대한민국에 살 수 있게 해주셔서 감사합니다!\\\"라고 말했다.\n\\\"#대한민국 #대한민국만세 #독립만세 #현충일\\\"을 해시태그로 달았다.\n사진 속 파비앙은 파리 에펠탑 앞에서 큰 태극기를 양 손에 들고 서있다.\n파리의 맑은 하늘을 배경으로 환하게 웃고 있는 파비앙의 모습이 인상적이다.\n파비앙은 2010년 SBS 드라마 '제중원'에서 조연으로 데뷔, 2013년 MBC 예능프로그램 '나혼자 산다'를 통해 얼굴을 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파비앙이 현충일을 맞아 에펠탑 앞에서 태극기를 들고 찍은 사진을 게재했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 프랑스 출신 방송인 파비앙은 자신의 인스타그램에 \\\"한국사를 공부하면서 더욱더 깊게 느껴지게 되는 현충일..대한민국에 살 수 있게 해주셔서 감사합니다!\\\"라고 말했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "\\\"#대한민국 #대한민국만세 #독립만세 #현충일\\\"을 해시태그로 달았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 파비앙은 파리 에펠탑 앞에서 큰 태극기를 양 손에 들고 서있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파리의 맑은 하늘을 배경으로 환하게 웃고 있는 파비앙의 모습이 인상적이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "파비앙은 2010년 SBS 드라마 '제중원'에서 조연으로 데뷔, 2013년 MBC 예능프로그램 '나혼자 산다'를 통해 얼굴을 알렸다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에펠탑 앞에서 태극기 들고 현충일 축하한 프랑스인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

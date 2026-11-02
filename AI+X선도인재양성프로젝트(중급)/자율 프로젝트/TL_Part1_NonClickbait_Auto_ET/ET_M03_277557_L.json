@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277557",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태국에서 난리 … 최연소 한류스타에 등극한 아이",
+		"newsSubTitle": "",
+		"newsContent": "이동국의 아들 대박이가 해외에서도 큰인기를 끌고 있다.\n지난 9일 유튜브에는 '한류스타 대박이 태국에 가다'라는 제목의 영상이 올라왔다.\n영상 속에는 이동국과 함께 태국 공항에 도착한 대박이와 설아, 수아의 모습이 담겼다.\n공항 밖으로 나오자 태국 팬들은 한국말로 \\\"대박아 안녕\\\" \\\"대박아 사랑해\\\" \\\"설아 수아야 안녕\\\"이라며 대박이네 가족을 반겨줬다.\n팬들의 인사에 설아, 수아, 대박이는 약간 당황한 듯한 모습도 보였지만 이내 적응하며 팬들의 말에 호응했다.\n한 팬은 대박에게 \\\"바나나 바나나\\\"라며 바나나를 건네기도 했다.\n앞서 '슈퍼맨이 돌아왔다'에서는 대박이가 바나나를 즐겨 먹는 모습이 방송됐다.\nKBS2 '슈퍼맨이 돌아왔다'가 홍콩, 대만, 태국 등 여러 나라에서 방영되면서 대박이네 가족도 해외에서 큰 인기를 끌고 있는 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이동국의 아들 대박이가 해외에서도 큰인기를 끌고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 9일 유튜브에는 '한류스타 대박이 태국에 가다'라는 제목의 영상이 올라왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에는 이동국과 함께 태국 공항에 도착한 대박이와 설아, 수아의 모습이 담겼다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공항 밖으로 나오자 태국 팬들은 한국말로 \\\"대박아 안녕\\\" \\\"대박아 사랑해\\\" \\\"설아 수아야 안녕\\\"이라며 대박이네 가족을 반겨줬다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들의 인사에 설아, 수아, 대박이는 약간 당황한 듯한 모습도 보였지만 이내 적응하며 팬들의 말에 호응했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한 팬은 대박에게 \\\"바나나 바나나\\\"라며 바나나를 건네기도 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 '슈퍼맨이 돌아왔다'에서는 대박이가 바나나를 즐겨 먹는 모습이 방송됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KBS2 '슈퍼맨이 돌아왔다'가 홍콩, 대만, 태국 등 여러 나라에서 방영되면서 대박이네 가족도 해외에서 큰 인기를 끌고 있는 것으로 보인다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태국에서 난리 … 최연소 한류스타에 등극한 아이",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

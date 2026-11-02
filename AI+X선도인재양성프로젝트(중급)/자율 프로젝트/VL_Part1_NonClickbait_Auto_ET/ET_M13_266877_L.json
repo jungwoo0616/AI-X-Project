@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266877",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "예지, 4년 만에 래퍼 컴백…‘NO NAME’ 공개",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 예지가 돌아온다.\n예지는 14일 오후 6시 각종 음원사이트를 통해 신곡 ‘NO NAME’(노 네임)을 공개, 래퍼로서 컴백한다.\n앞서 예지는 ‘시크릿토(Secreto)’를 비롯해 ‘미묘(迷猫)’, ‘HOME’(홈) 등으로 감성적인 보컬을 선보였다면, 이번 ‘NO NAME’은 헤이터들을 향해 일침을 가하는 가사들과 카리스마 넘치는 랩으로 이목을 집중시킬 예정이다.\n특히 이번 신보는 예지가 래퍼로서 귀환하는 데 있어 그 의미가 남다르다.\n그동안 솔로 활동을 통해 화려한 퍼포먼스, 가창력이 돋보이는 곡으로 보컬로서 거침없는 성장세를 그린 가운데, 지난 2017년 공개한 ‘아낙수나문’에 이어 약 4년 만에 래퍼 예지의 모습을 선보일 예정이다.\n약 10개월 만에 컴백 소식을 알린 예지는 2015년 Mnet ‘언프리티 랩스타2’를 통해 도발적인 가사와 강렬한 랩으로 대중들에게 강렬한 존재감을 각인시킨 바 있다.\n최근 예지의 ‘언프리티 랩스타2’ 영상들이 다시 뜨거운 화제로 떠오른 만큼, 이번 신곡 ‘NO NAME’을 통해 어떤 파격적인 모습으로 돌아올지 뜨거운 기대가 모인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 예지가 돌아온다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "예지는 14일 오후 6시 각종 음원사이트를 통해 신곡 ‘NO NAME’(노 네임)을 공개, 래퍼로서 컴백한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 예지는 ‘시크릿토(Secreto)’를 비롯해 ‘미묘(迷猫)’, ‘HOME’(홈) 등으로 감성적인 보컬을 선보였다면, 이번 ‘NO NAME’은 헤이터들을 향해 일침을 가하는 가사들과 카리스마 넘치는 랩으로 이목을 집중시킬 예정이다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 신보는 예지가 래퍼로서 귀환하는 데 있어 그 의미가 남다르다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그동안 솔로 활동을 통해 화려한 퍼포먼스, 가창력이 돋보이는 곡으로 보컬로서 거침없는 성장세를 그린 가운데, 지난 2017년 공개한 ‘아낙수나문’에 이어 약 4년 만에 래퍼 예지의 모습을 선보일 예정이다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "약 10개월 만에 컴백 소식을 알린 예지는 2015년 Mnet ‘언프리티 랩스타2’를 통해 도발적인 가사와 강렬한 랩으로 대중들에게 강렬한 존재감을 각인시킨 바 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 예지의 ‘언프리티 랩스타2’ 영상들이 다시 뜨거운 화제로 떠오른 만큼, 이번 신곡 ‘NO NAME’을 통해 어떤 파격적인 모습으로 돌아올지 뜨거운 기대가 모인다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "예지, 4년 만에 래퍼 컴백…‘NO NAME’ 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

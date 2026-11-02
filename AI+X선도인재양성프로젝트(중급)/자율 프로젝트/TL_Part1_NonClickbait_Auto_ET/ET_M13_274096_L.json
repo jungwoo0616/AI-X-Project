@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274096",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "27kg 감량한 다나, 요요없이 복귀선언",
+		"newsSubTitle": "",
+		"newsContent": "수년 간 공백기를 가졌던 가수 다나가 ‘요요 현상’ 없는 복귀를 알렸다.\n다이어트 업체 쥬비스 다이어트에 따르면 다나는 “새로운 둥지에서 다시 시작해 보려고 한다”며 “예쁜 모습 보여드리고 싶어 다이어트도 열심히 했다”고 밝혔다.\n이와 함께 최근 촬영한 프로필 사진도 공개했다.\n사진 속에서 다나는 2019년 27㎏을 감량했던 이전 모습을 그대로 유지하고 있다.\n다나는 2년 간의 공백기를 거치며 외보가 달라졌을 것이라는 우려와 달리 감량한 체중을 꾸준히 유지한 모습을 보였다.\n다나는 “공백기를 가지면서 몬도 마음도 많이 힘든 시간을 보냈었다. 그러다 꾸준히 다이어트 전문가 도움을 받으면서 관리를 하다보니 몸도 마음도 안정을 되찾았다”며 “다시는 팬분들 앞에 설 수 있다는 자신감도 되찾았다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "수년 간 공백기를 가졌던 가수 다나가 ‘요요 현상’ 없는 복귀를 알렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다이어트 업체 쥬비스 다이어트에 따르면 다나는 “새로운 둥지에서 다시 시작해 보려고 한다”며 “예쁜 모습 보여드리고 싶어 다이어트도 열심히 했다”고 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 최근 촬영한 프로필 사진도 공개했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속에서 다나는 2019년 27㎏을 감량했던 이전 모습을 그대로 유지하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다나는 2년 간의 공백기를 거치며 외보가 달라졌을 것이라는 우려와 달리 감량한 체중을 꾸준히 유지한 모습을 보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다나는 “공백기를 가지면서 몬도 마음도 많이 힘든 시간을 보냈었다. 그러다 꾸준히 다이어트 전문가 도움을 받으면서 관리를 하다보니 몸도 마음도 안정을 되찾았다”며 “다시는 팬분들 앞에 설 수 있다는 자신감도 되찾았다”고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "27kg 감량한 다나, 요요없이 복귀선언",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277554",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'장제원 잘가라' SNS 달군 '후비적'",
+		"newsSubTitle": "",
+		"newsContent": "9일 온라인 커뮤니티에는 '장제원 잘가라'는 게시물이 퍼졌다.\n게시물은 지난 9일 '최순실 국정농단' 국조특위 7차 청문회에서 하태경 바른정당 의원이 질의하는 동안, 옆에 있던 장제원 개혁보수신당 의원이 검지로 코를 후비적거리고 있는 모습을 담고있다.\n또한 이혜훈 새누리당 의원 옆에서 양 손으로 코를 찌르며 인상을 찌푸린 사진이 누리꾼들에 의해 덩달아 포착됐다.\n이 게시물을 본 누리꾼들은 \\\"보자마자 빵터졌네요\\\" \\\" 이짤 영원히 돌아다닐듯 ㅋㅋㅋㅋㅋ\\\" \\\"손가락으로 코는 막았지만 귀는 막지 않고 소통을 하는 모습..ㅎㅎ\\\" \\\"이홍렬급 크기네요ㅋㅋ\\\" 등 재미있는 반응을 쏟아냈다.\n일부 네티즌은 장 의원의 SNS에 \\\"청문회 보다가 코파시는거 잡혀서 깜짝놀랐어요.. 우째요~ㅋㅋ ㅠㅠ\\\"라는 글을 남겼다.\n이에 장 의원은 \\\"구러게요~~ 우째요. 내려주세요~~\\\"라고 부탁했다.\n시민들과의 소통을 중시하는 장 의원은 '소통왕'으로 불린다.\n과거 시민이 '본인이 맞냐'며 '인증샷'을 요구하는 문자를 보냈고, 이에 손가락 하트를 보내며 자신을 증명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "9일 온라인 커뮤니티에는 '장제원 잘가라'는 게시물이 퍼졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게시물은 지난 9일 '최순실 국정농단' 국조특위 7차 청문회에서 하태경 바른정당 의원이 질의하는 동안, 옆에 있던 장제원 개혁보수신당 의원이 검지로 코를 후비적거리고 있는 모습을 담고있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 이혜훈 새누리당 의원 옆에서 양 손으로 코를 찌르며 인상을 찌푸린 사진이 누리꾼들에 의해 덩달아 포착됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 게시물을 본 누리꾼들은 \\\"보자마자 빵터졌네요\\\" \\\" 이짤 영원히 돌아다닐듯 ㅋㅋㅋㅋㅋ\\\" \\\"손가락으로 코는 막았지만 귀는 막지 않고 소통을 하는 모습..ㅎㅎ\\\" \\\"이홍렬급 크기네요ㅋㅋ\\\" 등 재미있는 반응을 쏟아냈다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일부 네티즌은 장 의원의 SNS에 \\\"청문회 보다가 코파시는거 잡혀서 깜짝놀랐어요.. 우째요~ㅋㅋ ㅠㅠ\\\"라는 글을 남겼다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 장 의원은 \\\"구러게요~~ 우째요. 내려주세요~~\\\"라고 부탁했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시민들과의 소통을 중시하는 장 의원은 '소통왕'으로 불린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "과거 시민이 '본인이 맞냐'며 '인증샷'을 요구하는 문자를 보냈고, 이에 손가락 하트를 보내며 자신을 증명했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'장제원 잘가라' SNS 달군 '후비적'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

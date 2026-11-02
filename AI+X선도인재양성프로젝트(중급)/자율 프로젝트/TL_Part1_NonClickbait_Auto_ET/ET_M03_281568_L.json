@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281568",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "냉장고를 부탁해 이하늬, \\\"15일간 굶어봤다. 함께한 친구는 눈이…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘겟잇뷰티’ 이하늬가 과거 다이어트 이야기를 공개했다.\n과거 방송된 온스타일 ‘겟잇뷰티 2015(이하 겟잇뷰티)'에서 이하늬는 “난 다이어트할 때 15일까지 굶어봤다. 같이 굶었던 친구는 눈이 안 보였다”라고 고백했다.\n이어 이하늬는“대학교 때 예뻐지고 싶어서 무작정 굶었다.\n가야금을 같이 연습하는데, 친구가‘하늬야 줄이 안보여’라고 하더라.\n얼른 데려가서 두유를 먹였다.\n그런 무식한 방법을 많이 해봤다”고 밝혔다.\n한편 지난 7일 방송된 종합편성채널 JTBC‘냉장고를 부탁해’에서는 가수 이승철과 미스코리아 출신 배우 이하늬가 게스트로 출연해 자신의 냉장고를 공개하는 모습이 그려졌다.\n온라인 일간스포츠 [사진=온스타일 방송화면 캡쳐] 이하늬 윤계상",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘겟잇뷰티’ 이하늬가 과거 다이어트 이야기를 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된 온스타일 ‘겟잇뷰티 2015(이하 겟잇뷰티)'에서 이하늬는 “난 다이어트할 때 15일까지 굶어봤다. 같이 굶었던 친구는 눈이 안 보였다”라고 고백했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 이하늬는“대학교 때 예뻐지고 싶어서 무작정 굶었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가야금을 같이 연습하는데, 친구가‘하늬야 줄이 안보여’라고 하더라.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "얼른 데려가서 두유를 먹였다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런 무식한 방법을 많이 해봤다”고 밝혔다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지난 7일 방송된 종합편성채널 JTBC‘냉장고를 부탁해’에서는 가수 이승철과 미스코리아 출신 배우 이하늬가 게스트로 출연해 자신의 냉장고를 공개하는 모습이 그려졌다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 일간스포츠 [사진=온스타일 방송화면 캡쳐] 이하늬 윤계상",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "냉장고를 부탁해 이하늬, \\\"15일간 굶어봤다. 함께한 친구는 눈이…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

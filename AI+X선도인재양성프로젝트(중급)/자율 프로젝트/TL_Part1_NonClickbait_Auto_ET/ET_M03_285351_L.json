@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285351",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "부탁해요 엄마 고두심, 이상우 정체 알고 \\\"전과 다르게 예뻐 보여\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘부탁해요 엄마’ 고두심이 이상우의 재벌남 정체를 알고 돌변했다.\n25일 방송된 KBS 2TV 주말드라마 ‘부탁해요, 엄마’ 22회(극본 윤경아/연출 이건준)에서 고두심은 딸 유진의 연인 이상우의 정체를 알고 흡족해 했다.\n부탁해요 엄마 고두심은 이상우가 김미숙의 아들이란 사실을 알고 “홀어머니에 외아들이라고 해서 좀 그랬는데 대단한 집안 아들이라니까 내 마음이 슬그머니 달라진다. 아까 그 대표가 좀 깐깐해 보이긴 하지만 원래 우리 진애를 좋아했으니까 별 문제 없을 것 같다”고 말했다.\n이어 부탁해요 엄마 고두심은 “아까 뚝딱이 총각이 마당에 들어서는데 전과 다르게 예뻐 보이더라. 귀티가 흐르기도 하고 나도 좀 그렇다”며 속내를 털어놨고, 이동출(김갑수 분) 역시 “나도 마찬가지다. 강소장이랑 결혼하면 진애가 고생은 안하고 살 것 같아 뱃속이 든든하다”고 답했다.\n한편 ‘부탁해요, 엄마’는 앙숙 모녀를 통해 짠한 모녀간 애증의 이야기를 그린 드라마다.\n온라인 중앙일보 부탁해요 엄마 고두심",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘부탁해요 엄마’ 고두심이 이상우의 재벌남 정체를 알고 돌변했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 방송된 KBS 2TV 주말드라마 ‘부탁해요, 엄마’ 22회(극본 윤경아/연출 이건준)에서 고두심은 딸 유진의 연인 이상우의 정체를 알고 흡족해 했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부탁해요 엄마 고두심은 이상우가 김미숙의 아들이란 사실을 알고 “홀어머니에 외아들이라고 해서 좀 그랬는데 대단한 집안 아들이라니까 내 마음이 슬그머니 달라진다. 아까 그 대표가 좀 깐깐해 보이긴 하지만 원래 우리 진애를 좋아했으니까 별 문제 없을 것 같다”고 말했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 부탁해요 엄마 고두심은 “아까 뚝딱이 총각이 마당에 들어서는데 전과 다르게 예뻐 보이더라. 귀티가 흐르기도 하고 나도 좀 그렇다”며 속내를 털어놨고, 이동출(김갑수 분) 역시 “나도 마찬가지다. 강소장이랑 결혼하면 진애가 고생은 안하고 살 것 같아 뱃속이 든든하다”고 답했다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 ‘부탁해요, 엄마’는 앙숙 모녀를 통해 짠한 모녀간 애증의 이야기를 그린 드라마다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 부탁해요 엄마 고두심",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부탁해요 엄마 고두심, 이상우 정체 알고 \\\"전과 다르게 예뻐 보여\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

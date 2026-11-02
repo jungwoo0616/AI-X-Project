@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267502",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박주호 남매, 여전히 화목한 근황 ‘이제 학교 가요’",
+		"newsSubTitle": "",
+		"newsContent": "축구선수 박주호의 아들과 딸 나은과 건후의 근황이 공개됐다.\n20일 박주호의 가족 사회관계망서비스(SNS) 인스타그램에는 “등교는 나은이와 건후를 행복하게 만들었다. 건후는 팬에게 스파이더맨 재킷을 받았는데, 건후가 가장 좋아하는 재킷이다. 나은이는 늘 그랬듯 사랑스럽다”며 나은과 건후의 사진을 공개했다.\n공개된 사진 속 나은과 건후는 밝은 미소를 띄며 카메라를 바라보는가 하면, 서로를 안아주며 다정한 모습을 보이고 있다.\n건후는 스파이더맨 재킷을 입은 채 사랑스러운 모습을 보였다.\n해당 게시물에 누리꾼은 “내가 가장 사랑하는 가족이다. 너무 사랑스럽다” “둘 다 정말 많이 컸다” “나은이 건후 너무 보고싶다”며 애정을 드러냈다.\n한편 박주호의 딸 나은이는 올해 초등학교에 입학하며 많은 이들의 축하를 받았다.\n박주호의 가족과 남매 나은, 건후, 진우는 KBS 2 예능프로그램 ‘슈퍼맨이 돌아왔다’에 출연하며 시청자들의 사랑을 한 몸에 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "축구선수 박주호의 아들과 딸 나은과 건후의 근황이 공개됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 박주호의 가족 사회관계망서비스(SNS) 인스타그램에는 “등교는 나은이와 건후를 행복하게 만들었다. 건후는 팬에게 스파이더맨 재킷을 받았는데, 건후가 가장 좋아하는 재킷이다. 나은이는 늘 그랬듯 사랑스럽다”며 나은과 건후의 사진을 공개했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 나은과 건후는 밝은 미소를 띄며 카메라를 바라보는가 하면, 서로를 안아주며 다정한 모습을 보이고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "건후는 스파이더맨 재킷을 입은 채 사랑스러운 모습을 보였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물에 누리꾼은 “내가 가장 사랑하는 가족이다. 너무 사랑스럽다” “둘 다 정말 많이 컸다” “나은이 건후 너무 보고싶다”며 애정을 드러냈다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 박주호의 딸 나은이는 올해 초등학교에 입학하며 많은 이들의 축하를 받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박주호의 가족과 남매 나은, 건후, 진우는 KBS 2 예능프로그램 ‘슈퍼맨이 돌아왔다’에 출연하며 시청자들의 사랑을 한 몸에 받았다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박주호 남매, 여전히 화목한 근황 ‘이제 학교 가요’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

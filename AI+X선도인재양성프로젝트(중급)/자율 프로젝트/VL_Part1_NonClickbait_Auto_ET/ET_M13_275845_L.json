@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275845",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "SBS 유튜브 계정 7개 해킹으로 ‘먹통’",
+		"newsSubTitle": "",
+		"newsContent": "SBS 여러 유튜브 공식 채널이 해킹으로 인해 최대 20시간 넘게 정상적으로 접속되지 않는 상태가 이어지고 있다.\n19일 오후 5시 40분 현재 SBS 유튜브 채널 중 예능 ‘TV 동물농장’ 영상이 올라오는 ‘애니멀봐’와 소형동물 전문 채널 ‘크리터 클럽’ 등 2개가 막혔다.\n영어 채널 ‘SBS 월드’ 계정은 한때 접속이 되지 않았다가 이날 오후 복구됐지만, 영상이 모두 사라진 상태다.\nSBS에 따르면 전날 오후 9시 30분께부터 이들 3개 채널을 비롯해 SBS 뉴스, 우와한비디오, SBS 캐치, 아임슉 등 7개 채널이 접속 정지됐다.\n아임슉은 19일 오전에, SBS 뉴스·우와한비디오·SBS 캐치 채널은 오후에 접속이 복구됐다.\n유튜브를 운영하는 구글은 자체 알고리즘을 통해 커뮤니티 가이드를 심각하게 또는 반복적으로 위반하는 영상을 올리면 채널 운영을 중단한다.\n인터넷 커뮤니티 사이트 등에서는 SBS 유튜브 채널이 외부 세력의 해킹을 당했을 가능성을 제기하고 있다.\n이들 채널이 먹통이 되기 직전 가상화폐 ‘리플’의 브래드 갈링하우스 최고경영자(CEO)가 등장해 리플의 가격을 예측하는 내용의 영상이 이들 채널에서 실시간 중계됐다는 점이 근거다.\n지난달 12일과 13일에도 YTN 유튜브 공식 채널에 가상화폐 홍보 영상이 올라온 뒤 채널이 총 4시간가량 먹통이 됐다가 복구되는 일이 있었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS 여러 유튜브 공식 채널이 해킹으로 인해 최대 20시간 넘게 정상적으로 접속되지 않는 상태가 이어지고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 오후 5시 40분 현재 SBS 유튜브 채널 중 예능 ‘TV 동물농장’ 영상이 올라오는 ‘애니멀봐’와 소형동물 전문 채널 ‘크리터 클럽’ 등 2개가 막혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영어 채널 ‘SBS 월드’ 계정은 한때 접속이 되지 않았다가 이날 오후 복구됐지만, 영상이 모두 사라진 상태다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SBS에 따르면 전날 오후 9시 30분께부터 이들 3개 채널을 비롯해 SBS 뉴스, 우와한비디오, SBS 캐치, 아임슉 등 7개 채널이 접속 정지됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아임슉은 19일 오전에, SBS 뉴스·우와한비디오·SBS 캐치 채널은 오후에 접속이 복구됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유튜브를 운영하는 구글은 자체 알고리즘을 통해 커뮤니티 가이드를 심각하게 또는 반복적으로 위반하는 영상을 올리면 채널 운영을 중단한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인터넷 커뮤니티 사이트 등에서는 SBS 유튜브 채널이 외부 세력의 해킹을 당했을 가능성을 제기하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 채널이 먹통이 되기 직전 가상화폐 ‘리플’의 브래드 갈링하우스 최고경영자(CEO)가 등장해 리플의 가격을 예측하는 내용의 영상이 이들 채널에서 실시간 중계됐다는 점이 근거다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난달 12일과 13일에도 YTN 유튜브 공식 채널에 가상화폐 홍보 영상이 올라온 뒤 채널이 총 4시간가량 먹통이 됐다가 복구되는 일이 있었다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SBS 유튜브 계정 7개 해킹으로 ‘먹통’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

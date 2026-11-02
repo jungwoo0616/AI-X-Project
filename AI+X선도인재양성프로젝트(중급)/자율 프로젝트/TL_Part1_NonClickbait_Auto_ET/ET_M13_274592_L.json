@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274592",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘IHQ 가요제’ 호남방송·아라방송 편성",
+		"newsSubTitle": "",
+		"newsContent": "지난달 5일 영광 법성포에서 열린 ‘KH그룹 IHQ 가요제’가 지역 축제를 담은 콘텐츠로 LG헬로비전 호남방송과 아라방송에 3일 밤 프로그램으로 편성된다. ‘KH그룹 IHQ는 가요제’는 사회적 거리두기 완화이후 지역경제 활성화와 지역사회 공헌 활동 차원으로 기획되었다.\n대한민국 국민이면 누구나 참여가 가능하며, 예선을 거쳐 본선에 진출한 30팀 중 최종 10팀만결선 무대에 올랐다.\n행사 진행은 아나운서 김일중이 맡았으며 심사위원은 박미경, 양수경, 김현아, 윤일상, 김태우, 더원, 축하무대는 남진, 홍진영, 소유미 등의 가수들이 출연해 공연장을 뜨겁게 달궈놓았다.\n최종 결선에 오른 참가자들은 초등학생부터 해외 이민자까지 다양한 연령대와 과거 가요제 수상 경력자도 포함되어 있어 리허설 때도 치열한 신경전이 벌어졌다는 후문이다.\n시상 분야는 ▲최우수상 ▲우수상 ▲장려상 ▲인기상으로 최우수 수상자에게는 상금 1천만원과 IHQ 전속계약의혜택이 주어졌다.\n참가자 모두 가수 못지않은 실력으로 마지막까지 우승자를 가리기 힘들었던 ‘KH그룹 IHQ 가요제’의생생한 현장 모습은 3일 오후 11시 30분 LG헬로비전(채널번호 25번) 호남방송과 아라방송에서 시청할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 5일 영광 법성포에서 열린 ‘KH그룹 IHQ 가요제’가 지역 축제를 담은 콘텐츠로 LG헬로비전 호남방송과 아라방송에 3일 밤 프로그램으로 편성된다. ‘KH그룹 IHQ는 가요제’는 사회적 거리두기 완화이후 지역경제 활성화와 지역사회 공헌 활동 차원으로 기획되었다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한민국 국민이면 누구나 참여가 가능하며, 예선을 거쳐 본선에 진출한 30팀 중 최종 10팀만결선 무대에 올랐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "행사 진행은 아나운서 김일중이 맡았으며 심사위원은 박미경, 양수경, 김현아, 윤일상, 김태우, 더원, 축하무대는 남진, 홍진영, 소유미 등의 가수들이 출연해 공연장을 뜨겁게 달궈놓았다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최종 결선에 오른 참가자들은 초등학생부터 해외 이민자까지 다양한 연령대와 과거 가요제 수상 경력자도 포함되어 있어 리허설 때도 치열한 신경전이 벌어졌다는 후문이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시상 분야는 ▲최우수상 ▲우수상 ▲장려상 ▲인기상으로 최우수 수상자에게는 상금 1천만원과 IHQ 전속계약의혜택이 주어졌다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "참가자 모두 가수 못지않은 실력으로 마지막까지 우승자를 가리기 힘들었던 ‘KH그룹 IHQ 가요제’의생생한 현장 모습은 3일 오후 11시 30분 LG헬로비전(채널번호 25번) 호남방송과 아라방송에서 시청할 수 있다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘IHQ 가요제’ 호남방송·아라방송 편성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

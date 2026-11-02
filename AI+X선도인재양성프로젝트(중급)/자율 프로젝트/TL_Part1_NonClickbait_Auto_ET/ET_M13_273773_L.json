@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273773",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[단독]유럽일정 마친 방탄소년단 RM, 향후 개인행보는",
+		"newsSubTitle": "",
+		"newsContent": "개인 활동을 선언한 방탄소년단 멤버 RM이 개인일정을 마치고 귀국했다.\n멤버 RM은 유럽 일정을 마치고 22일 인천국제공항을 이용해 입국하는 것으로 확인됐다.\nRM은 개인일정 차 유럽을 방문한 것으로 알려졌다.\n방탄소년단이 최근 팀 활동 일시 중단을 선언하고 개인 활동에 집중하는 만큼, RM의 행보에도 관심이 쏠린다.\n방탄소년단 개인 활동 첫 번째 주자로 멤버 제이홉이 나서고, 멤버 정국이 미국 팝 가수 찰리 푸스와 협업 곡을 발매하는 만큼, RM 또한 어떠한 개인활동을 펼칠 지 업계의 시선이 모였다.\n이와 별개로 방탄소년단이 지난 10일 발매한 앨범 ‘프루프’가 ‘빌보드200’ 차트 1위에 오르고, 지난 16일까지 주간 미국 앨범 판매량이 31만장을 돌파하는 등 흥행을 이어가고 있다.\n이번 앨범으로 ‘1막’ 활동을 마무리하는 방탄소년단을 두고 각 멤버들이 어떠한 개인 활동으로 ‘2막’을 개막할 지 관심이 고조되고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개인 활동을 선언한 방탄소년단 멤버 RM이 개인일정을 마치고 귀국했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "멤버 RM은 유럽 일정을 마치고 22일 인천국제공항을 이용해 입국하는 것으로 확인됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "RM은 개인일정 차 유럽을 방문한 것으로 알려졌다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방탄소년단이 최근 팀 활동 일시 중단을 선언하고 개인 활동에 집중하는 만큼, RM의 행보에도 관심이 쏠린다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단 개인 활동 첫 번째 주자로 멤버 제이홉이 나서고, 멤버 정국이 미국 팝 가수 찰리 푸스와 협업 곡을 발매하는 만큼, RM 또한 어떠한 개인활동을 펼칠 지 업계의 시선이 모였다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 별개로 방탄소년단이 지난 10일 발매한 앨범 ‘프루프’가 ‘빌보드200’ 차트 1위에 오르고, 지난 16일까지 주간 미국 앨범 판매량이 31만장을 돌파하는 등 흥행을 이어가고 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 앨범으로 ‘1막’ 활동을 마무리하는 방탄소년단을 두고 각 멤버들이 어떠한 개인 활동으로 ‘2막’을 개막할 지 관심이 고조되고 있다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]유럽일정 마친 방탄소년단 RM, 향후 개인행보는",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

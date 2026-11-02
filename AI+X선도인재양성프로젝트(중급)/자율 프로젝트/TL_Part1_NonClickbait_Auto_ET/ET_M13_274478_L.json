@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274478",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "선미, 뇌쇄적인 수영복 자태",
+		"newsSubTitle": "",
+		"newsContent": "가수 선미가 아름다운 근황을 공개했다, 선미는 1일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “목정욱이 바라본 나는 이렇구나”라는 글과 함께 자신의 사진 여러 장을 공개했다.\n사진 속 선미는 뇌쇄적인 눈빛으로 카메라를 바라보는가 하면, 레이스로 된 수영복을 입고 햇빛 아래 포즈를 취하고 있다.\n다른 사진 속 선미는 물 속에서 눈을 감고 하늘을 바라보고 있다.\n선미 특유의 몽환적인 아우라가 시선을 사로잡는다.\n해당 사진을 본 누리꾼들은 “너무 예뻐서 놀랐다” “사진 너무 예쁘다. 포토북으로 만들었으면 좋겠다” “이번에 정말 대박이다”라며 선미의 미모에 찬사를 아끼지 않았다.\n한편 선미는 지난 29일 디지털 싱글 ‘열이 올라요’로 컴백했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 선미가 아름다운 근황을 공개했다, 선미는 1일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 “목정욱이 바라본 나는 이렇구나”라는 글과 함께 자신의 사진 여러 장을 공개했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사진 속 선미는 뇌쇄적인 눈빛으로 카메라를 바라보는가 하면, 레이스로 된 수영복을 입고 햇빛 아래 포즈를 취하고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다른 사진 속 선미는 물 속에서 눈을 감고 하늘을 바라보고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "선미 특유의 몽환적인 아우라가 시선을 사로잡는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 사진을 본 누리꾼들은 “너무 예뻐서 놀랐다” “사진 너무 예쁘다. 포토북으로 만들었으면 좋겠다” “이번에 정말 대박이다”라며 선미의 미모에 찬사를 아끼지 않았다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 선미는 지난 29일 디지털 싱글 ‘열이 올라요’로 컴백했다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "선미, 뇌쇄적인 수영복 자태",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

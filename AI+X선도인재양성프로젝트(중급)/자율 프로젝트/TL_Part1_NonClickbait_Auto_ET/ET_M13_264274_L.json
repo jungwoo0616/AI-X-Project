@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264274",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "태국, 블랙핑크 리사 주류광고 위법 여부 조사나서",
+		"newsSubTitle": "",
+		"newsContent": "태국 당국이 그룹 블랙핑크의 멤버인 리사의 주류 광고가 법에 저촉되는지의 여부를 조사한다.\n지난 16일 일간 방콕포스트와 네이션 등 방콕 현지 언론에 따르면 주류규제위원회(OACC)가 유명 위스키 업체의 아시아 브랜드 홍보대사로 활동 중인 리사가 법에 저촉되는지의 여부를 조사할 것이라고 보도했다.\n또한 이를 SNS에 공유한 이들 역시 조사할 예정이라고 밝혔다.\n2008년 발효된 태국의 주류규제법 32조는 술의 광고 및 묘사를 금지하고 있으며 술이 담긴 술잔을 보여주거나 특정 주류의 브랜드를 보여주는 것도 금지하고 있다.\n다른 이들에게 술을 마시도록 장려하는 행위도 허용하지 않는다.\n이를 위반할 경우 50만바트(약 1800만원)의 벌금형 또는 1년 이하의 징역형에 처하거나 두가지 형벌 모두 받을 수도 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "태국 당국이 그룹 블랙핑크의 멤버인 리사의 주류 광고가 법에 저촉되는지의 여부를 조사한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 16일 일간 방콕포스트와 네이션 등 방콕 현지 언론에 따르면 주류규제위원회(OACC)가 유명 위스키 업체의 아시아 브랜드 홍보대사로 활동 중인 리사가 법에 저촉되는지의 여부를 조사할 것이라고 보도했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 이를 SNS에 공유한 이들 역시 조사할 예정이라고 밝혔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2008년 발효된 태국의 주류규제법 32조는 술의 광고 및 묘사를 금지하고 있으며 술이 담긴 술잔을 보여주거나 특정 주류의 브랜드를 보여주는 것도 금지하고 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다른 이들에게 술을 마시도록 장려하는 행위도 허용하지 않는다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 위반할 경우 50만바트(약 1800만원)의 벌금형 또는 1년 이하의 징역형에 처하거나 두가지 형벌 모두 받을 수도 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태국, 블랙핑크 리사 주류광고 위법 여부 조사나서",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

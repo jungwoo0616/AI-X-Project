@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259710",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유빈-우혜림-신민철 등 르엔터 패밀리, 훈훈한 새해 인사",
+		"newsSubTitle": "",
+		"newsContent": "가수 유빈, 우혜림, 태권도 선수 출신 방송인 신민철 등 르엔터테인먼트의 연예인들이 설 인사를 건넸다.\n르엔터테인먼트는 29일 오전 공식 사회관계망서비스(SNS) 채널을 통해 유빈, 우혜림, 신민철의 이미지와 함께 세 사람이 직접 손 글씨로 작성한 새해 메시지를 공개했다.\n예능은 물론 시사·교양 프로그램에서도 활발한 활약을 펼치고 있는 유빈은 “반짝반짝 빛나는 임인년되시길 기원한다”고 인사를 건넸다.\n호랑이 모자를 쓰고 귀여운 매력을 발산한 우혜림은 “설 연휴, 맛있는 것 많이 드시고 호랑이처럼 활기차고 건강한 한 해 보내셨으면 좋겠다”며 긍정의 에너지를 전달했다.\n우혜림은 최근 KBS2 예능 ‘갓파더’에서 강주은과 현실 모녀를 방불케 하는 호흡을 선보이고 있다.\n신민철 역시 호랑이 모자를 쓰고 “2022년 무엇보다 건강하시고 바라시는 바 모두 이루시는 뜻깊은 한 해 보내셨으면 좋겠다”며 훈훈함을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 유빈, 우혜림, 태권도 선수 출신 방송인 신민철 등 르엔터테인먼트의 연예인들이 설 인사를 건넸다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르엔터테인먼트는 29일 오전 공식 사회관계망서비스(SNS) 채널을 통해 유빈, 우혜림, 신민철의 이미지와 함께 세 사람이 직접 손 글씨로 작성한 새해 메시지를 공개했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예능은 물론 시사·교양 프로그램에서도 활발한 활약을 펼치고 있는 유빈은 “반짝반짝 빛나는 임인년되시길 기원한다”고 인사를 건넸다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "호랑이 모자를 쓰고 귀여운 매력을 발산한 우혜림은 “설 연휴, 맛있는 것 많이 드시고 호랑이처럼 활기차고 건강한 한 해 보내셨으면 좋겠다”며 긍정의 에너지를 전달했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우혜림은 최근 KBS2 예능 ‘갓파더’에서 강주은과 현실 모녀를 방불케 하는 호흡을 선보이고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신민철 역시 호랑이 모자를 쓰고 “2022년 무엇보다 건강하시고 바라시는 바 모두 이루시는 뜻깊은 한 해 보내셨으면 좋겠다”며 훈훈함을 자아냈다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유빈-우혜림-신민철 등 르엔터 패밀리, 훈훈한 새해 인사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260923",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "고민시, 생일 맞이 첫 브이라이브",
+		"newsSubTitle": "",
+		"newsContent": "고민시가 생일을 맞아 팬들과 만난다.\n배우 고민시의 소속사 미스틱액터스는 14일 사회관계망서비스(SNS)를 통해 그녀가 오늘 오후 6시 30분 브이라이브로 생방송을 할 예정이라고 밝혔다.\n누리꾼들은 “내가 더 떨린다” “생일과 밸런타인데이 모두 축하한다” “벌써 보고싶다” 며 방송에 대한 기대를 보였다.\n브이라이브는 네이버에서 주관하는 글로벌 스타 인터넷 방송 플랫폼이다.\n줄여서 브이앱(V앱)이라고도 부른다.\n많은 아이돌과 배우들이 브이앱을 통하여 실시간으로 팬들과 소통했다. 고민시는 1995년 2월 15일 출생했다.\n2018년 개봉한 영화 ‘마녀’에서 감초 역할로 주목 받았으며 2020년 넷플릭스 오리지널 시리즈 ‘스위트홈’과 KBS2 드라마 ‘오월의 청춘’에서 주연을 맡아 스타덤에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고민시가 생일을 맞아 팬들과 만난다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 고민시의 소속사 미스틱액터스는 14일 사회관계망서비스(SNS)를 통해 그녀가 오늘 오후 6시 30분 브이라이브로 생방송을 할 예정이라고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누리꾼들은 “내가 더 떨린다” “생일과 밸런타인데이 모두 축하한다” “벌써 보고싶다” 며 방송에 대한 기대를 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "브이라이브는 네이버에서 주관하는 글로벌 스타 인터넷 방송 플랫폼이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "줄여서 브이앱(V앱)이라고도 부른다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "많은 아이돌과 배우들이 브이앱을 통하여 실시간으로 팬들과 소통했다. 고민시는 1995년 2월 15일 출생했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2018년 개봉한 영화 ‘마녀’에서 감초 역할로 주목 받았으며 2020년 넷플릭스 오리지널 시리즈 ‘스위트홈’과 KBS2 드라마 ‘오월의 청춘’에서 주연을 맡아 스타덤에 올랐다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고민시, 생일 맞이 첫 브이라이브",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

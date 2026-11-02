@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264596",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘아이돌 사관학교’ 한림예고, 개인서 법인으로 설립자 지위 승계",
+		"newsSubTitle": "",
+		"newsContent": "‘아이돌 사관학교’로 불리는 학력인정 평생교육시설 한림예고를 법인이 승계해 운영하게 됐다.\n서울시교육청은 한림중·실업연예예술고등학교(한림예고)의 설치자 지위 승계 신고를 최종 수리했다고 22일 밝혔다.\n2007년 개정된 ‘평생교육법’에 따르면 학력인정 평생교육시설의 설립 주체는 학교 법인이나 재단 법인이어야 한다.\n법 개정 전 설립된 한림예고는 지난 2020년 설립자가 사망하면서 법에 따른 자격을 갖추지 못하게 됐다.\n이에 따라 지난해 신입생을 뽑지 못했고, 한림예고 존치를 요구하는 재학생, 학부모, 교직원의 청원이 이어졌다.\n같은 해 6월 마침내 법인화에 성공했다.\n지난해 12월에는 신입생 모집을 조건부로 허가해 올해 2년 만에 신입생과 편입생을 뽑기도 했다.\n법인이 설치자 지위를 승계하면서 서울시교육청 관내에서는 개인 운영 학력인정 평생교육 시설을 법인이 승계해 운영하는 첫 번째 사례가 됐다.\n많은 아이돌을 배출한 한림예고에는 현재 실업계열 2학급(62명), 연예예술계열 26학급(855명) 등 총 917명이 다니고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘아이돌 사관학교’로 불리는 학력인정 평생교육시설 한림예고를 법인이 승계해 운영하게 됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울시교육청은 한림중·실업연예예술고등학교(한림예고)의 설치자 지위 승계 신고를 최종 수리했다고 22일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2007년 개정된 ‘평생교육법’에 따르면 학력인정 평생교육시설의 설립 주체는 학교 법인이나 재단 법인이어야 한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "법 개정 전 설립된 한림예고는 지난 2020년 설립자가 사망하면서 법에 따른 자격을 갖추지 못하게 됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 지난해 신입생을 뽑지 못했고, 한림예고 존치를 요구하는 재학생, 학부모, 교직원의 청원이 이어졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "같은 해 6월 마침내 법인화에 성공했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 12월에는 신입생 모집을 조건부로 허가해 올해 2년 만에 신입생과 편입생을 뽑기도 했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "법인이 설치자 지위를 승계하면서 서울시교육청 관내에서는 개인 운영 학력인정 평생교육 시설을 법인이 승계해 운영하는 첫 번째 사례가 됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "많은 아이돌을 배출한 한림예고에는 현재 실업계열 2학급(62명), 연예예술계열 26학급(855명) 등 총 917명이 다니고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘아이돌 사관학교’ 한림예고, 개인서 법인으로 설립자 지위 승계",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

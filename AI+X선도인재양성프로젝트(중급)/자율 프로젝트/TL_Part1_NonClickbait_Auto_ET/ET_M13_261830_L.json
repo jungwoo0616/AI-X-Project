@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261830",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘명품 몸매’ 오또맘 “이젠 사랑보다 일”",
+		"newsSubTitle": "",
+		"newsContent": "인플루언서 오또맘(오태화)이 여전한 ‘명품 몸매’를 인증했다.\n오또맘은 22일 자신의 사회관계망서비스(SNS)를 통해 ‘촬영 준비’ 라는 글과 함께 흰색 튜브톱을 입은 영상을 공개했다.\n거울 속 그의 탄탄한 복근이 눈길을 끈다.\n그는 이 날 “언니들이 더 젊을 때 일도 사랑도 모두 즐기라고 했지만 솔직히 이젠 사랑의 로망이 사라졌다”며 “이젠 사랑 주제 영화를 봐도 재밌지도 않고 좋은건지 슬픈건지 잘 모르겠다”는 글을 올렸다.\n끝으로 그는 “이제 진짜 일에만 집중해야 할 시간이 와서 그런가, 더 성장할 수 있는 기회가 왔으니 놓치지 않겠다. 혼자 잘 할 수 있다”며 포부를 밝혔다.\n한편 ‘운동하는 엄마’라는 뜻의 오또맘은 한국예술종합학교 무용과를 졸업했으며 100만 팔로워를 가진 유명 인플루언서다.\n지난해 SNS를 통해 싱글맘임을 고백해 화제가 된 그는 식단관리와 운동법 등 다양한 다이어트 정보를 공유하며 인기를 누리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인플루언서 오또맘(오태화)이 여전한 ‘명품 몸매’를 인증했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오또맘은 22일 자신의 사회관계망서비스(SNS)를 통해 ‘촬영 준비’ 라는 글과 함께 흰색 튜브톱을 입은 영상을 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "거울 속 그의 탄탄한 복근이 눈길을 끈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 이 날 “언니들이 더 젊을 때 일도 사랑도 모두 즐기라고 했지만 솔직히 이젠 사랑의 로망이 사라졌다”며 “이젠 사랑 주제 영화를 봐도 재밌지도 않고 좋은건지 슬픈건지 잘 모르겠다”는 글을 올렸다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "끝으로 그는 “이제 진짜 일에만 집중해야 할 시간이 와서 그런가, 더 성장할 수 있는 기회가 왔으니 놓치지 않겠다. 혼자 잘 할 수 있다”며 포부를 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘운동하는 엄마’라는 뜻의 오또맘은 한국예술종합학교 무용과를 졸업했으며 100만 팔로워를 가진 유명 인플루언서다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 SNS를 통해 싱글맘임을 고백해 화제가 된 그는 식단관리와 운동법 등 다양한 다이어트 정보를 공유하며 인기를 누리고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘명품 몸매’ 오또맘 “이젠 사랑보다 일”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267935",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이천수 ‘독박 육아’ 외조, 코피 터졌다 (살림남2)",
+		"newsSubTitle": "",
+		"newsContent": "이천수가 ‘육아 대디’로 거듭났다.\n이천수는 지난 23일 밤 9시 20분 방송한 KBS2 예능 프로그램 ‘살림하는 남자들’ 시즌 2(이하 ‘살림남2’)에서 아내 심하은의 외조를 위해 집에서 아이들을 돌봤다.\n이천수의 육아는 쌍둥이들이 어질러놓은 주은의 방을 청소하는 것으로 시작됐다.\n그는 쌍둥이들에게 직접 치우라고 하며 자신만의 조기교육(?)을 보여줬다.\n또한 이천수는 자신이 청소한 책상을 주은이 좋아하자 기쁨을 감추지 못했다.\n그는 “할 거면 제대로 해야 된다. 아빠처럼”이란 ‘특급 생색’을 더해 웃음을 유발했다.\n화기애애한 분위기도 잠시 쌍둥이들은 계속해서 사고를 치며 이천수를 곤란하게 만들었다.\n특히 이천수는 코피까지 흘리며 육아에 투혼을 불살랐다.\n이천수는 ‘살림남2’에서 서툴지만 아내와 아이들에게 투박한 진심을 보여주며 조금씩 변화되는 모습으로 시청자들을 찾아가고 있다.\n한편, 이천수가 심하은과 함께 출연하는 ‘살림남’은 신세대, 중년, 노년 스타 남편의 리얼 살림기를 담은 프로그램이다.\n매주 토요일 밤 9시 20분 KBS2에서 방송한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이천수가 ‘육아 대디’로 거듭났다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이천수는 지난 23일 밤 9시 20분 방송한 KBS2 예능 프로그램 ‘살림하는 남자들’ 시즌 2(이하 ‘살림남2’)에서 아내 심하은의 외조를 위해 집에서 아이들을 돌봤다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이천수의 육아는 쌍둥이들이 어질러놓은 주은의 방을 청소하는 것으로 시작됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 쌍둥이들에게 직접 치우라고 하며 자신만의 조기교육(?)을 보여줬다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 이천수는 자신이 청소한 책상을 주은이 좋아하자 기쁨을 감추지 못했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “할 거면 제대로 해야 된다. 아빠처럼”이란 ‘특급 생색’을 더해 웃음을 유발했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "화기애애한 분위기도 잠시 쌍둥이들은 계속해서 사고를 치며 이천수를 곤란하게 만들었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 이천수는 코피까지 흘리며 육아에 투혼을 불살랐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이천수는 ‘살림남2’에서 서툴지만 아내와 아이들에게 투박한 진심을 보여주며 조금씩 변화되는 모습으로 시청자들을 찾아가고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편, 이천수가 심하은과 함께 출연하는 ‘살림남’은 신세대, 중년, 노년 스타 남편의 리얼 살림기를 담은 프로그램이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "매주 토요일 밤 9시 20분 KBS2에서 방송한다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이천수 ‘독박 육아’ 외조, 코피 터졌다 (살림남2)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

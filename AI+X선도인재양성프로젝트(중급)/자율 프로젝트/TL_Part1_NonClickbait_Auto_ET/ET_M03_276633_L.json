@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276633",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "은퇴 후 살 쪽 빠진 모습 공개한 손연재",
+		"newsSubTitle": "",
+		"newsContent": "손연재가 자신의 근황을 전했다.\n최근 손연재는 자신의 인스타그램을 통해 근황이 담긴 사진을 공개했다.\n게시물에는 \\\"언제쯤 잘 칠까요\\\"라는 글과 함께 필드 위에서 골프를 즐기고 있는 모습이 담겼다.\n골프웨어를 입고 '체조 요정'다운 건강미를 뽐낸 손연재는 전신 사진 속 놀라운 비율을 자랑했다.\n이를 본 네티즌들은 \\\"더 예뻐졌네\\\" \\\"은퇴하고 살이 더 빠진 것 같다\\\" 등의 반응을 보였다.\n한편 손연재는 지난 2월 체조선수 현역 은퇴 소식을 전했으며, 최근 그룹 FT아일랜드 멤버 최종훈과의 열애 사실이 밝혀진 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "손연재가 자신의 근황을 전했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 손연재는 자신의 인스타그램을 통해 근황이 담긴 사진을 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시물에는 \\\"언제쯤 잘 칠까요\\\"라는 글과 함께 필드 위에서 골프를 즐기고 있는 모습이 담겼다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "골프웨어를 입고 '체조 요정'다운 건강미를 뽐낸 손연재는 전신 사진 속 놀라운 비율을 자랑했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 본 네티즌들은 \\\"더 예뻐졌네\\\" \\\"은퇴하고 살이 더 빠진 것 같다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 손연재는 지난 2월 체조선수 현역 은퇴 소식을 전했으며, 최근 그룹 FT아일랜드 멤버 최종훈과의 열애 사실이 밝혀진 바 있다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "은퇴 후 살 쪽 빠진 모습 공개한 손연재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

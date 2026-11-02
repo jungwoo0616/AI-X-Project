@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278163",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "러셀 크로우, '미이라' 출연 확정..톰 크루즈와 호흡",
+		"newsSubTitle": "",
+		"newsContent": "배우 러셀 크로우(52)가 톰 크루즈가 출연을 결정한 영화 '미이라' 후속편 출연을 확정했다.\n미국 언론들은 최근 러셀 크로우가 '미이라' 출연을 공식화했다고 보도했다.\n러셀 크로우가 출연하는 '미이라'는 사자의 도시에 보물을 찾기 위해 일행과 떠나는 모험기가 담긴 영화다.\n새롭게 선보일 '미이라'는 알렉스 카츠만 감독이 연출하며 현대를 무대로 되살아난 고대 여왕과 대결하는 내용이 담길 예정이다.\n톰 크루즈는 해군 특수 부대 소속 타일러 콜트 역을 연기하며 러셀 크로우는 주연급의 헨리 지킬 박사를 열연할 예정이다.\n온라인 중앙일보 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 러셀 크로우(52)가 톰 크루즈가 출연을 결정한 영화 '미이라' 후속편 출연을 확정했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 언론들은 최근 러셀 크로우가 '미이라' 출연을 공식화했다고 보도했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "러셀 크로우가 출연하는 '미이라'는 사자의 도시에 보물을 찾기 위해 일행과 떠나는 모험기가 담긴 영화다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새롭게 선보일 '미이라'는 알렉스 카츠만 감독이 연출하며 현대를 무대로 되살아난 고대 여왕과 대결하는 내용이 담길 예정이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "톰 크루즈는 해군 특수 부대 소속 타일러 콜트 역을 연기하며 러셀 크로우는 주연급의 헨리 지킬 박사를 열연할 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠]",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "러셀 크로우, '미이라' 출연 확정..톰 크루즈와 호흡",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

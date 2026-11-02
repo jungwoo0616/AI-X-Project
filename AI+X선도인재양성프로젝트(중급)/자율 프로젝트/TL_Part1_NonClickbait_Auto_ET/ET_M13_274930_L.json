@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274930",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "강유미, 결혼 3년 만에 이혼 소식",
+		"newsSubTitle": "",
+		"newsContent": "방송인 겸 개그우먼 강유미의 이혼 소식이 알려졌다.\n7일 YTN은 “강유미가 결혼 3년 만에 파경을 맞았다”라고 보도했다.\n보도에 따르면 최근 이혼에 합의했다.\n강유미는 지난 2019년 8월 일반인 남성과 결혼식을 올렸다.\n남편의 얼굴이나, 신상 등은 공개하지 않았지만 종종 방송에서 남편을 언급했다.\n비교적 최근인 지난해 11월 IHQ ‘언니가 쏜다’에서도 남편을 언급했다.\n강유미는 “6개월 정도 연애 후 결혼했다”, “철저한 결혼 활동을 통해 만났다. 난 인만추(인위적인 만남을 추구)하는 스타일이다”라고 말하기도 했다.\n한편 강유미는 지난 2004년 KBS 19기 공채 개그맨으로 데뷔했다.\n이 기수는 KBS 공채 개그맨 레전드로 불리는 기수로 강유미를 포함해 유세윤, 장동민, 안영미, 유상무, 안상태 등이 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 겸 개그우먼 강유미의 이혼 소식이 알려졌다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 YTN은 “강유미가 결혼 3년 만에 파경을 맞았다”라고 보도했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 최근 이혼에 합의했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강유미는 지난 2019년 8월 일반인 남성과 결혼식을 올렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남편의 얼굴이나, 신상 등은 공개하지 않았지만 종종 방송에서 남편을 언급했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비교적 최근인 지난해 11월 IHQ ‘언니가 쏜다’에서도 남편을 언급했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강유미는 “6개월 정도 연애 후 결혼했다”, “철저한 결혼 활동을 통해 만났다. 난 인만추(인위적인 만남을 추구)하는 스타일이다”라고 말하기도 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 강유미는 지난 2004년 KBS 19기 공채 개그맨으로 데뷔했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 기수는 KBS 공채 개그맨 레전드로 불리는 기수로 강유미를 포함해 유세윤, 장동민, 안영미, 유상무, 안상태 등이 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강유미, 결혼 3년 만에 이혼 소식",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

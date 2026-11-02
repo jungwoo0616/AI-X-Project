@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278412",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'슈가맨' 차수경, \\\"'왜 너를 만나서' 때문에 다른 앨범 묻혀 … 내 길이 아닌가 생각했다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 차수경이 '슈가맨'에 출연해 자신의 공백 기간에 대해 설명했다.\n15일 방송된 JTBC '투유 프로젝트-슈가맨'에는 가수 차수경이 추억의 가수로 등장했다.\n이날 방송에서 차수경은 공백 기간에 대해 \\\"'용서 못해'가 너무 강해서 그 후에 바로 낸 싱글 앨범이 묻혀버렸다\\\"며 \\\"그 이후에도 잘 안됐다\\\"고 밝혔다.\n차수경은 이어서 \\\"사실은 19살 때 데이지라는 걸그룹으로 데뷔했었는데 잘 안되서 내 길이 아닌가 하고 생각했다\\\"라고 덧붙였다.\n한편 차수경은 이날 자신의 최대 히트곡이며 드라마 '아내의 유혹' OST인 '용서 못해'로 100불을 받아 눈길을 끌었다.\n온라인 중앙일보 [사진 JTBC '슈가맨' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 차수경이 '슈가맨'에 출연해 자신의 공백 기간에 대해 설명했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 방송된 JTBC '투유 프로젝트-슈가맨'에는 가수 차수경이 추억의 가수로 등장했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 차수경은 공백 기간에 대해 \\\"'용서 못해'가 너무 강해서 그 후에 바로 낸 싱글 앨범이 묻혀버렸다\\\"며 \\\"그 이후에도 잘 안됐다\\\"고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차수경은 이어서 \\\"사실은 19살 때 데이지라는 걸그룹으로 데뷔했었는데 잘 안되서 내 길이 아닌가 하고 생각했다\\\"라고 덧붙였다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 차수경은 이날 자신의 최대 히트곡이며 드라마 '아내의 유혹' OST인 '용서 못해'로 100불을 받아 눈길을 끌었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 JTBC '슈가맨' 캡처]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'슈가맨' 차수경, \\\"'왜 너를 만나서' 때문에 다른 앨범 묻혀 … 내 길이 아닌가 생각했다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

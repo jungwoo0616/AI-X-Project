@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277532",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이오아이 최유정, 지코 완벽 빙의 '흥폭발'",
+		"newsSubTitle": "",
+		"newsContent": "아이오아이(I.O.I) 최유정이 지코를 패러디해 완벽한 무대를 선보였다.\n지난 12일 방송된 Mnet 금주가무 흥 배틀쇼 '골든탬버린' 5화에 최유정이 지코의 'Very Good' 무대를 패러디 해 화제가 됐다.\n작은 몸에서 뿜어져 나오는 폭발적인 카리스마는 물론 지코 못지 않은 랩 실력과 무대 장악력으로 관중을 열광시켰다.\n최유정의 모습은 마치 'Very Good' 뮤직비디오 속 지코가 바로 튀어나온 듯 했다.\n머리 끝부터 발끝까지 지코의 모습으로 변신에 성공했다.\n방송 직후 지코는 '골든탬버린' 제작진에게 \\\"방송을 보다가 내 무대 패러디가 나와 놀랐다. 유정 양이 나보다 더 잘 한 것 같아 신기하다. 심지어 귀엽기까지 해서 더 재미있게 봤다\\\"고 말했다. '골든탬버린'은 매주 목요일 오후 9시 40분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이오아이(I.O.I) 최유정이 지코를 패러디해 완벽한 무대를 선보였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 12일 방송된 Mnet 금주가무 흥 배틀쇼 '골든탬버린' 5화에 최유정이 지코의 'Very Good' 무대를 패러디 해 화제가 됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "작은 몸에서 뿜어져 나오는 폭발적인 카리스마는 물론 지코 못지 않은 랩 실력과 무대 장악력으로 관중을 열광시켰다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최유정의 모습은 마치 'Very Good' 뮤직비디오 속 지코가 바로 튀어나온 듯 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "머리 끝부터 발끝까지 지코의 모습으로 변신에 성공했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송 직후 지코는 '골든탬버린' 제작진에게 \\\"방송을 보다가 내 무대 패러디가 나와 놀랐다. 유정 양이 나보다 더 잘 한 것 같아 신기하다. 심지어 귀엽기까지 해서 더 재미있게 봤다\\\"고 말했다. '골든탬버린'은 매주 목요일 오후 9시 40분 방송된다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이오아이 최유정, 지코 완벽 빙의 '흥폭발'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

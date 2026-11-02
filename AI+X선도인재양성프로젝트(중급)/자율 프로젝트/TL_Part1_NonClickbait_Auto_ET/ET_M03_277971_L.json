@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277971",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'듀엣가요제' 산들 앙증맞은 SNS 사진 게시…\\\"오빠 너무 귀여워\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'듀엣가요제' 산들이 SNS를 통해 우승 소감을 전했다.\n산들은 30일 자신의 인스타그램 계정을 통해 사진 한 장을 게시했다.\n사진에는 '듀엣가요제'의 우승 트로피를 들고 앙증맞은 표정을 짓는 모습이 담겨 있다.\n특히 그의 오목조목한 이목구비와 귀여운 표정이 보는이들의 눈길을 사로잡고 있다.\n한편 산들은 지난 29일 방송된 MBC '듀엣가요제' 17회의 왕중왕전에서 우승을 차지했다.\n이날 산들과 그의 파트너 조선영은 이승철의 ‘말리꽃’을 선곡해 환상적인 무대를 선보였다.\n온라인 중앙일보 [사진 산들 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'듀엣가요제' 산들이 SNS를 통해 우승 소감을 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "산들은 30일 자신의 인스타그램 계정을 통해 사진 한 장을 게시했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 '듀엣가요제'의 우승 트로피를 들고 앙증맞은 표정을 짓는 모습이 담겨 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 그의 오목조목한 이목구비와 귀여운 표정이 보는이들의 눈길을 사로잡고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 산들은 지난 29일 방송된 MBC '듀엣가요제' 17회의 왕중왕전에서 우승을 차지했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 산들과 그의 파트너 조선영은 이승철의 ‘말리꽃’을 선곡해 환상적인 무대를 선보였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 산들 인스타그램]",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'듀엣가요제' 산들 앙증맞은 SNS 사진 게시…\\\"오빠 너무 귀여워\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

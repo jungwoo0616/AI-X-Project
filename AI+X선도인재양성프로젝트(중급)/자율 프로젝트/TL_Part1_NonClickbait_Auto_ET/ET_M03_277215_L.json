@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277215",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "탈탈 털어도 '흑역사' 없다는 아이돌 멤버",
+		"newsSubTitle": "",
+		"newsContent": "최근 온라인커뮤니티에는 그룹 'NCT' 멤버 재현(20)의 졸업사진이 게재돼 눈길을 끌었다.\n게시물에는 재현의 초등학교·중학교·고등학교 졸업사진이 모두 공개됐다.\n공개된 사진 속 그는 쌍꺼풀진 커다란 눈에 훈훈한 분위기를 자랑했다.\n어릴 적부터 완성된 모태 미남이었다.\n이와 함께 그가 과거 '싸이월드' 등 온라인커뮤니티에 남겼던 글도 새삼 눈길을 끌었다.\n욕설 한 마디 눈에 띄지 않는 자상한 말투였다.\n게임 관련 질문을 던질 때도 예의가 발랐다.\n한편 재현이 속한 NCT 127은 지난 1월 두 번째 미니앨범 ‘리미트리스(LIMITLESS)’를 발매하고 타이틀곡 ‘무한적아’로 활동을 펼쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 온라인커뮤니티에는 그룹 'NCT' 멤버 재현(20)의 졸업사진이 게재돼 눈길을 끌었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게시물에는 재현의 초등학교·중학교·고등학교 졸업사진이 모두 공개됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 그는 쌍꺼풀진 커다란 눈에 훈훈한 분위기를 자랑했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어릴 적부터 완성된 모태 미남이었다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 함께 그가 과거 '싸이월드' 등 온라인커뮤니티에 남겼던 글도 새삼 눈길을 끌었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "욕설 한 마디 눈에 띄지 않는 자상한 말투였다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "게임 관련 질문을 던질 때도 예의가 발랐다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 재현이 속한 NCT 127은 지난 1월 두 번째 미니앨범 ‘리미트리스(LIMITLESS)’를 발매하고 타이틀곡 ‘무한적아’로 활동을 펼쳤다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "탈탈 털어도 '흑역사' 없다는 아이돌 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

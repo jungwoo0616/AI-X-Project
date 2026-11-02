@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263245",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김세정, 산불 성금 1천만원 기부",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 김세정이 산불 피해 이웃을 돕기 위해 성금 1천만원을 기탁하며 따뜻한 기부 행렬에 동참했다.\n김세정은 지난 7일 희망브리지 전국재해구호협회에 산불 피해로 고통받는 이재민들과 산불 진압 최전선에서 고군분투 중인 소방관들을 위해 써달라며 1천만원을 전달했다.\n김세정은 그간 다양한 재능 기부 활동은 물론이고 코로나19 확산과 관련한 피해를 방지하기 위한 성금 기부 등 다양한 선행을 펼치며 꾸준히 도움의 손길이 필요한 취약계층을 위한 적극적인 활동을 실천해왔다.\n또한 이번에도 피해 이재민들의 안타까운 소식을 듣고 기부를 결정하며 다시 한번 선한 영향력을 발휘했다.\n김세정의 이번 기부금은 산불 피해 지역 복구 사업과 구호 물품 지원을 비롯한 주민들의 주거와 생계 지원에 사용될 예정이다.\n한편 김세정은 현재 매주 월, 화요일 밤 10시 방송되는 SBS 월화드라마 ‘사내맞선’에서 정체를 속인 맞선녀 직원 신하리 역을 맡아 열연을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 김세정이 산불 피해 이웃을 돕기 위해 성금 1천만원을 기탁하며 따뜻한 기부 행렬에 동참했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김세정은 지난 7일 희망브리지 전국재해구호협회에 산불 피해로 고통받는 이재민들과 산불 진압 최전선에서 고군분투 중인 소방관들을 위해 써달라며 1천만원을 전달했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김세정은 그간 다양한 재능 기부 활동은 물론이고 코로나19 확산과 관련한 피해를 방지하기 위한 성금 기부 등 다양한 선행을 펼치며 꾸준히 도움의 손길이 필요한 취약계층을 위한 적극적인 활동을 실천해왔다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 이번에도 피해 이재민들의 안타까운 소식을 듣고 기부를 결정하며 다시 한번 선한 영향력을 발휘했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김세정의 이번 기부금은 산불 피해 지역 복구 사업과 구호 물품 지원을 비롯한 주민들의 주거와 생계 지원에 사용될 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 김세정은 현재 매주 월, 화요일 밤 10시 방송되는 SBS 월화드라마 ‘사내맞선’에서 정체를 속인 맞선녀 직원 신하리 역을 맡아 열연을 펼치고 있다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김세정, 산불 성금 1천만원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

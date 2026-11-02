@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170906",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "투바투 연준 “방시혁 PD 제안으로 랩메이킹 참여”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 투모로우바이투게더 연준이 랩메이킹 참여한 이유를 전했다.\n연준은 17일 온라인으로 진행된 정규 2집 리패키지 앨범 ‘혼돈의 장: 파이트 오어 이스케이프(FIGHT OR ESCAPE)’ 발매 기념 쇼케이스에서 “방시혁 PD님이 랩을 써보면 어떻겠냐고 제안해주셔서 처음으로 타이틀곡에 참여하게 됐다. 의미가 남다르다”라고 말했다.\n이어 “넷플릭스 ‘빌어먹을 세상 따위’에서 영감을 받았다. 두 사람이 함께라면 어떤 일도 이겨낼 수 있다는 걸 가사에 담았다”고 설명했다.\n투모로우바이투게더의 정규 2집 리패키지 앨범 ‘혼돈의 장: 파이트 오어 이스케이프’는 ‘혼돈의 장’ 시리즈를 완성하는 앨범으로, 구원처럼 나타난 ‘너’로 인해 얼어 붙은 채 멈춰 있는 것에서 더 나아간 소년의 진짜 속마음을 그린다.\n타이틀곡 ‘루저 러버(LO$ER=LO♡ER)’를 비롯해 11곡이 담겼다.\n17일 오후 6시 각종 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 투모로우바이투게더 연준이 랩메이킹 참여한 이유를 전했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연준은 17일 온라인으로 진행된 정규 2집 리패키지 앨범 ‘혼돈의 장: 파이트 오어 이스케이프(FIGHT OR ESCAPE)’ 발매 기념 쇼케이스에서 “방시혁 PD님이 랩을 써보면 어떻겠냐고 제안해주셔서 처음으로 타이틀곡에 참여하게 됐다. 의미가 남다르다”라고 말했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “넷플릭스 ‘빌어먹을 세상 따위’에서 영감을 받았다. 두 사람이 함께라면 어떤 일도 이겨낼 수 있다는 걸 가사에 담았다”고 설명했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "투모로우바이투게더의 정규 2집 리패키지 앨범 ‘혼돈의 장: 파이트 오어 이스케이프’는 ‘혼돈의 장’ 시리즈를 완성하는 앨범으로, 구원처럼 나타난 ‘너’로 인해 얼어 붙은 채 멈춰 있는 것에서 더 나아간 소년의 진짜 속마음을 그린다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡 ‘루저 러버(LO$ER=LO♡ER)’를 비롯해 11곡이 담겼다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "17일 오후 6시 각종 음원사이트를 통해 공개된다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "투모로우바이투게더 연준... 이것 참여한 진짜 이유는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

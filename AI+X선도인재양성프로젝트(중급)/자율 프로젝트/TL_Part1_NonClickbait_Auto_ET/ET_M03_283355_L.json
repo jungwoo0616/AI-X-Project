@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283355",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "윤혜진 \\\"사실 엄태웅 이상형 아니였다…결혼 생각 없다고 철벽\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'현장토크쇼 택시' 윤혜진이 엄태웅과의 첫 만남을 회상했다.\n17일 저녁 방송된 케이블TV tvN 예능프로그램 '현장토크쇼 택시'는 '진정한 춤꾼' 특집으로 꾸며져 발레리나 윤혜진, 현대무용가 김설진이 출연했다.\n이날 방송에서 윤혜진은 \\\"사실 엄태웅 임을 미리 알고 나가서 실망한 상태였다\\\"며 \\\"엄태웅이 이상형이 아니었다. 피부가 좋고 까무잡잡한 사람이 좋다\\\"고 말했다.\n이어 윤혜진은 \\\"알고 보니 엄태웅도 내가 누구 딸인지를 알고 '실수할까 봐 부담스러워서 싫다'고 했다더라\\\"고 덧붙였다.\n윤혜진은 배우 윤일봉의 딸이다.\n윤혜진은 \\\"당시 엄태웅은 드라마 '적도의 남자'로 인기를 얻은 상태였고, 나는 모나코에 있는 발레단에 합격해 떠나야 하는 상황이었다. 두 사람 다 '결혼 생각이 없다'며 소개팅 내내 철벽을 쳤다\\\"고 말해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'현장토크쇼 택시' 윤혜진이 엄태웅과의 첫 만남을 회상했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 저녁 방송된 케이블TV tvN 예능프로그램 '현장토크쇼 택시'는 '진정한 춤꾼' 특집으로 꾸며져 발레리나 윤혜진, 현대무용가 김설진이 출연했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 윤혜진은 \\\"사실 엄태웅 임을 미리 알고 나가서 실망한 상태였다\\\"며 \\\"엄태웅이 이상형이 아니었다. 피부가 좋고 까무잡잡한 사람이 좋다\\\"고 말했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 윤혜진은 \\\"알고 보니 엄태웅도 내가 누구 딸인지를 알고 '실수할까 봐 부담스러워서 싫다'고 했다더라\\\"고 덧붙였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤혜진은 배우 윤일봉의 딸이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤혜진은 \\\"당시 엄태웅은 드라마 '적도의 남자'로 인기를 얻은 상태였고, 나는 모나코에 있는 발레단에 합격해 떠나야 하는 상황이었다. 두 사람 다 '결혼 생각이 없다'며 소개팅 내내 철벽을 쳤다\\\"고 말해 웃음을 자아냈다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤혜진 \\\"사실 엄태웅 이상형 아니였다…결혼 생각 없다고 철벽\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

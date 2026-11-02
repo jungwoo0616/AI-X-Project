@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272628",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "강혜원X스텔라장 ‘Like a Diamond’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "가수 강혜원과 싱어송라이터 스텔라장의 밝고 당찬 이야기가 음원으로 탄생한다.\n소속사 에잇디엔터테인먼트에 따르면 강혜원과 스텔라장은 새 디지털 싱글 ‘Like a Diamond’를 오늘(9일) 오후 6시 전 온라인 음원사이트에서 발매한다. ‘Like a Diamond’는 강혜원을 위해 스텔라장이 처음으로 프로듀싱을 맡은 곡이다.\n강혜원이 앞으로도 다이아몬드처럼 단단하고 빛나길 응원하는 마음을 담았다는 후문이다.\n특히 ‘Like a Diamond’에는 기타리스트 적재가 함께해 완성도를 높였다.\n재즈한 피아노와 적재의 기타가 만나 한층 트렌디하고 성숙한 멜로디를 예고해 리스너들의 이목을 모으고 있다.\n강혜원은 ‘Like a Diamond’ 티저 이미지에서 시크하면서도 매혹적인 면모를 드러내 눈길을 끌었다.\n스텔라장 또한 ‘Like a Diamond’ 티저 영상을 통해 “착하지 않은 거 해봐도 되지 않을까”라며 궁금증을 높인 상황. 강혜원과 스텔라장이 ‘Like a Diamond’에서 어떤 감성을 선사할지 관심이 집중된다.\n한편, 강혜원과 스텔라장의 ‘Like a Diamond’는 오늘(9일) 오후 6시 전 온라인 음원사이트에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 강혜원과 싱어송라이터 스텔라장의 밝고 당찬 이야기가 음원으로 탄생한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 에잇디엔터테인먼트에 따르면 강혜원과 스텔라장은 새 디지털 싱글 ‘Like a Diamond’를 오늘(9일) 오후 6시 전 온라인 음원사이트에서 발매한다. ‘Like a Diamond’는 강혜원을 위해 스텔라장이 처음으로 프로듀싱을 맡은 곡이다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강혜원이 앞으로도 다이아몬드처럼 단단하고 빛나길 응원하는 마음을 담았다는 후문이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 ‘Like a Diamond’에는 기타리스트 적재가 함께해 완성도를 높였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "재즈한 피아노와 적재의 기타가 만나 한층 트렌디하고 성숙한 멜로디를 예고해 리스너들의 이목을 모으고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강혜원은 ‘Like a Diamond’ 티저 이미지에서 시크하면서도 매혹적인 면모를 드러내 눈길을 끌었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스텔라장 또한 ‘Like a Diamond’ 티저 영상을 통해 “착하지 않은 거 해봐도 되지 않을까”라며 궁금증을 높인 상황. 강혜원과 스텔라장이 ‘Like a Diamond’에서 어떤 감성을 선사할지 관심이 집중된다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 강혜원과 스텔라장의 ‘Like a Diamond’는 오늘(9일) 오후 6시 전 온라인 음원사이트에서 만나볼 수 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강혜원X스텔라장 ‘Like a Diamond’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

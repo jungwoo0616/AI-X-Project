@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277342",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "빅뱅 탑이 멤버들에게 무릎 꿇고 사과하는 이유는",
+		"newsSubTitle": "",
+		"newsContent": "그룹 백뱅 멤버들의 주사가 공개됐다.\n8일 방송된 MBC에브리원 ‘주간아이돌’에서는 군 입대를 하루 앞둔 탑을 위한 빅뱅 스페셜 영상이 공개됐다.\n이날 승리는 \\\"탑은 술에 취하면 미안하다고 사과를 한다\\\"고 폭로했다.\n탑도 \\\"난 취하면 울 때가 있다. 왜 그러는지 모르겠다\\\"고 말했다.\n태양은 \\\"무릎 꿇고 '스미마셍'이라고 한다. 여러가지 언어로 사과한다\\\"고 말해 웃음을 자아냈다.\n승리는 \\\"지드래곤은 술마셔도 슈퍼스타다\\\"고 말했다.\n대성은 혼술하던 버릇 때문에 혼자 취기를 즐기는 편이다.\n이어 탑은 \\\"가족들과 멤버들 생각하면서 생각이 많아졌다\\\"며 입대를 앞둔 심경을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 백뱅 멤버들의 주사가 공개됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 방송된 MBC에브리원 ‘주간아이돌’에서는 군 입대를 하루 앞둔 탑을 위한 빅뱅 스페셜 영상이 공개됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 승리는 \\\"탑은 술에 취하면 미안하다고 사과를 한다\\\"고 폭로했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "탑도 \\\"난 취하면 울 때가 있다. 왜 그러는지 모르겠다\\\"고 말했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "태양은 \\\"무릎 꿇고 '스미마셍'이라고 한다. 여러가지 언어로 사과한다\\\"고 말해 웃음을 자아냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "승리는 \\\"지드래곤은 술마셔도 슈퍼스타다\\\"고 말했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대성은 혼술하던 버릇 때문에 혼자 취기를 즐기는 편이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 탑은 \\\"가족들과 멤버들 생각하면서 생각이 많아졌다\\\"며 입대를 앞둔 심경을 밝혔다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅뱅 탑이 멤버들에게 무릎 꿇고 사과하는 이유는",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276193",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[ONE SHOT] 10월 한국인 선호 TV 프로 1위 ‘나혼자 산다’…2위는",
+		"newsSubTitle": "",
+		"newsContent": "한국 갤럽이 매월 발표하는 ‘한국인이 좋아하는 TV 프로그램’ 10월 조사 결과, (나 혼자 산다)가 7월 이후 또 한 번 1위를 차지했다. (나 혼자 산다)는 혼자 사는 유명인의 일상을 관찰 카메라 형태로 담은 다큐멘터리 형식의 예능 프로그램으로 일명 ‘무지개 모임’으로 불리는 출연진들이 에피소드를 이어가며 꾸준한 인기를 유지하며 이젠 MBC 대표 예능으로 자리를 잡았다.\n탄탄한 고정시청자의 지지를 받는 (나는 자연인이다)가 역대 최고 순위인 2위에 올랐다.\n100회 맞이 즈음이던 2014년 8월 처음으로 20위권에 진입했고, 200회를 넘어선 2016년 가을 이후 10위 안팎을 넘나들다가 2017년 중반부터 10위권 내 안착했다.\n방송 초기부터 중장년, 남성에서의 호응이 꾸준히 이어져 오고 있다.\nKBS 드라마(내일도 맑음)이 3위를 차지했고, SBS 예능 (런닝맨)과 (미운 우리 새끼)가 각각 4위와 5위를 기록했다.\nJTBC (아는 형님)은 한 계단 하락하며 공동 5위에 올랐다.\n7위부터 10위까지는 모두 순위권에 처음으로 이름을 올린 프로그램들로(신서유기5)(백일의 낭군님)(하나뿐인 내편)(알쓸신잡3) 순이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국 갤럽이 매월 발표하는 ‘한국인이 좋아하는 TV 프로그램’ 10월 조사 결과, (나 혼자 산다)가 7월 이후 또 한 번 1위를 차지했다. (나 혼자 산다)는 혼자 사는 유명인의 일상을 관찰 카메라 형태로 담은 다큐멘터리 형식의 예능 프로그램으로 일명 ‘무지개 모임’으로 불리는 출연진들이 에피소드를 이어가며 꾸준한 인기를 유지하며 이젠 MBC 대표 예능으로 자리를 잡았다.",
+				"sentenceSize": 210
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "탄탄한 고정시청자의 지지를 받는 (나는 자연인이다)가 역대 최고 순위인 2위에 올랐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "100회 맞이 즈음이던 2014년 8월 처음으로 20위권에 진입했고, 200회를 넘어선 2016년 가을 이후 10위 안팎을 넘나들다가 2017년 중반부터 10위권 내 안착했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송 초기부터 중장년, 남성에서의 호응이 꾸준히 이어져 오고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KBS 드라마(내일도 맑음)이 3위를 차지했고, SBS 예능 (런닝맨)과 (미운 우리 새끼)가 각각 4위와 5위를 기록했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "JTBC (아는 형님)은 한 계단 하락하며 공동 5위에 올랐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "7위부터 10위까지는 모두 순위권에 처음으로 이름을 올린 프로그램들로(신서유기5)(백일의 낭군님)(하나뿐인 내편)(알쓸신잡3) 순이었다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ONE SHOT] 10월 한국인 선호 TV 프로 1위 ‘나혼자 산다’…2위는",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

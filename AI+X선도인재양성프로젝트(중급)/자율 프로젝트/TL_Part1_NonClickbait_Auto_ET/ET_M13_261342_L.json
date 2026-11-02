@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261342",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "MC딩동, 음주운전 적발 뒤 도주하다 검거",
+		"newsSubTitle": "",
+		"newsContent": "방송인 MC딩동(허용운)이 음주운전으로 적발된 뒤 경찰차까지 들이받고 도주하다 붙잡혔다.\n연합뉴스에 따르면 MC딩동은 도로교통법 위반(음주운전)과 공무집행방해 등의 혐의로 서울종암경찰서에 입건됐다.\nMC딩동은 17일 오후 9시 30분쯤 만취 상태로 차를 몰다 서울 성북구 하월곡동 인근에서 경찰에 적발됐으나 정차 요구에 응하지 않고 그대로 도주한 혐의를 받는다.\nMC딩동을 쫓던 경찰은 약 4시간 뒤인 18일 오전 2시쯤 그를 검거했다.\n음주측정결과 MC딩동의 혈중알코올농도는 면허취소수준(0.08% 이상)이었던 것으로 알려졌다.\n보도에 따르면 경찰은 음주 측정 뒤 MC딩동을 귀가시켰으며, 조만간 그를 다시 불러 자세한 범행 경위를 조사할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 MC딩동(허용운)이 음주운전으로 적발된 뒤 경찰차까지 들이받고 도주하다 붙잡혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스에 따르면 MC딩동은 도로교통법 위반(음주운전)과 공무집행방해 등의 혐의로 서울종암경찰서에 입건됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "MC딩동은 17일 오후 9시 30분쯤 만취 상태로 차를 몰다 서울 성북구 하월곡동 인근에서 경찰에 적발됐으나 정차 요구에 응하지 않고 그대로 도주한 혐의를 받는다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC딩동을 쫓던 경찰은 약 4시간 뒤인 18일 오전 2시쯤 그를 검거했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "음주측정결과 MC딩동의 혈중알코올농도는 면허취소수준(0.08% 이상)이었던 것으로 알려졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보도에 따르면 경찰은 음주 측정 뒤 MC딩동을 귀가시켰으며, 조만간 그를 다시 불러 자세한 범행 경위를 조사할 방침이다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MC딩동, 음주운전 적발 뒤 도주하다 검거",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

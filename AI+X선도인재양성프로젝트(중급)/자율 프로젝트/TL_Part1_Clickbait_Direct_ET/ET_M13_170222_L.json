@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170222",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "낮엔 연극배우, 밤엔 불법마사지샵 사장, 결국 벌금형",
+    "newsSubTitle": "",
+    "newsContent": "연극배우 A씨가 불법으로 마사지 업소를 운영한 혐의로 벌금형을 선고받았다.\n뉴스1에 따르면 서울북부지법 형사5단독 홍순욱 부장판사는 의료법 위반 혐의로 기소된 A씨에 대해 벌금 300만원을 선고하고 598만원 추징 명령을 내렸다.\nA씨는 안마사 자격을 취득하지 않고 2020년 7월부터 이듬해 3월까지 서울 중랑구에서 마사지 업소를 운영한 혐의로 재판에 넘겨졌다.\n보도에 따르면 해당 마사지 업소에서 고용된 안마사 2명도 안마사 자격이 없는 이들이었다.\n이들은 업소 안에 룸 5개를 설치하고 시간당 약 11만원을 받으며 전신을 손으로 주물러 마사지 행위를 제공한 혐의를 받는다.\nA씨는 고용된 안마사와 수익을 6대4로 나눠 영업을 지속해왔다.\n안마사(시각장애인)가 아닌 자가 안마 시술행위를 할 경우 의료법 제88조 또는 의료법 제27조 제1항에 의해 무자격 안마행위, 무면허 의료행위로 간주돼 처벌받을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "연극배우 A씨가 불법으로 마사지 업소를 운영한 혐의로 벌금형을 선고받았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뉴스1에 따르면 서울북부지법 형사5단독 홍순욱 부장판사는 의료법 위반 혐의로 기소된 A씨에 대해 벌금 300만원을 선고하고 598만원 추징 명령을 내렸다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "A씨는 안마사 자격을 취득하지 않고 2020년 7월부터 이듬해 3월까지 서울 중랑구에서 마사지 업소를 운영한 혐의로 재판에 넘겨졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보도에 따르면 해당 마사지 업소에서 고용된 안마사 2명도 안마사 자격이 없는 이들이었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들은 업소 안에 룸 5개를 설치하고 시간당 약 11만원을 받으며 전신을 손으로 주물러 마사지 행위를 제공한 혐의를 받는다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A씨는 고용된 안마사와 수익을 6대4로 나눠 영업을 지속해왔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "안마사(시각장애인)가 아닌 자가 안마 시술행위를 할 경우 의료법 제88조 또는 의료법 제27조 제1항에 의해 무자격 안마행위, 무면허 의료행위로 간주돼 처벌받을 수 있다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연극배우 A씨의 은밀한 사생활, 의료법 위반으로 벌금형 선고",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

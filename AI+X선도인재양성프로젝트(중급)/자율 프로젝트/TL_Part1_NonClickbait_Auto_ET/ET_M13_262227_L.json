@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262227",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "강남, 한국국적 취득 “3년 도전, 행복하다”",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 방송인으로 활동 중인 일본 출신 강남이 한국 국적을 취득하게 됐다.\n강남은 26일 자신의 유튜브 채널 ‘동네친구 강나미’에서 라이브 방송을 통해 귀화 시험에 최종합격했다는 소식을 전했다.\n강남은 방송을 통해 “드디어 3년 만에 귀화했다”면서 “합격해서 지금 마음이 너무 행복하다. 오늘 푹 잘 수 있을 것 같다”고 소감을 밝혔다.\n그는 라이브 방송 시청자들과 팬들, 자신의 어머니와 배우자 이상화 등을 차례로 언급하면서 기쁜 마음을 드러냈다.\n일본에서 나고 자란 강남은 2011년 힙합 그룹 엠아아비(M.I.B)를 통해 한국에서 데뷔한 후 솔직하고 유쾌한 입담으로 각종 예능에서 활약했다.\n2019년에는 전 스피드스케이팅 국가대표 이상화와 결혼해 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 방송인으로 활동 중인 일본 출신 강남이 한국 국적을 취득하게 됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강남은 26일 자신의 유튜브 채널 ‘동네친구 강나미’에서 라이브 방송을 통해 귀화 시험에 최종합격했다는 소식을 전했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강남은 방송을 통해 “드디어 3년 만에 귀화했다”면서 “합격해서 지금 마음이 너무 행복하다. 오늘 푹 잘 수 있을 것 같다”고 소감을 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 라이브 방송 시청자들과 팬들, 자신의 어머니와 배우자 이상화 등을 차례로 언급하면서 기쁜 마음을 드러냈다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일본에서 나고 자란 강남은 2011년 힙합 그룹 엠아아비(M.I.B)를 통해 한국에서 데뷔한 후 솔직하고 유쾌한 입담으로 각종 예능에서 활약했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2019년에는 전 스피드스케이팅 국가대표 이상화와 결혼해 화제를 모았다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강남, 한국국적 취득 “3년 도전, 행복하다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

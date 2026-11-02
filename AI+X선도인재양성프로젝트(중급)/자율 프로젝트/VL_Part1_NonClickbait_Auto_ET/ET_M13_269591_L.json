@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269591",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "삼성전자, 3년 연속 방통위 장애인용 TV 사업자 선정",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자는 2020년, 2021년에 이어 올해까지 3년 연속 방송통신위원회가 시행하는 ‘시각·청각 장애인용 TV 보급사업’ 공급자로 선정됐다고 9일 전했다.\n방송통신위원회는 저소득층 시각·청각 장애인의 방송 접근성 향상을 위해 시각·청각 장애인용 TV를 무료로 보급하는 사업을 매년 시행하고 있다.\n시청자미디어재단이 소득 수준, 장애 정도 등을 고려해 우선 보급 대상자를 선정하고 삼성전자가 시청각 장애인용 TV를 올해 말까지 공급하는 형태로 지원한다.\n공급하게 될 제품은 삼성전자의 40형 TV 1만5천대로, 시각·청각 장애인들을 위한 새 기능들이 추가됐다.\n채널 변경시 화면 해설, 자막 방송 등 장애인 방송 유형을 알려주는 기능부터 자막 글씨체를 취향에 맞게 선택할 수 있는 기능, 높은 음량 안내 기능 등이 새로 적용됐다.\n블루투스를 통해 무선 이어폰과 보청기를 연동할 수 있는 기능, 여러 사용자가 각자 음량을 설정해 TV를 볼 수 있는 ‘소리 다중 출력’ 기능, 수어 화면 확대 기능, 점자 버튼 전용 리모컨 등도 지원한다.\n삼성전자 영상디스플레이사업부 용석우 부사장은 “그동안 접근성 기술 개발에 큰 노력을 기울여 왔다”며 “앞으로도 삼성 TV 사용자는 누구나 제약 없이 제품과 콘텐츠를 즐길 수 있도록 ‘사람이 중심이 되는 기술’ 개발에 최선을 다할 것”이라고 말했다.\n3년 연속 이 사업의 공급자로 선정된 것은 삼성전자가 처음이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자는 2020년, 2021년에 이어 올해까지 3년 연속 방송통신위원회가 시행하는 ‘시각·청각 장애인용 TV 보급사업’ 공급자로 선정됐다고 9일 전했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방송통신위원회는 저소득층 시각·청각 장애인의 방송 접근성 향상을 위해 시각·청각 장애인용 TV를 무료로 보급하는 사업을 매년 시행하고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시청자미디어재단이 소득 수준, 장애 정도 등을 고려해 우선 보급 대상자를 선정하고 삼성전자가 시청각 장애인용 TV를 올해 말까지 공급하는 형태로 지원한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공급하게 될 제품은 삼성전자의 40형 TV 1만5천대로, 시각·청각 장애인들을 위한 새 기능들이 추가됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "채널 변경시 화면 해설, 자막 방송 등 장애인 방송 유형을 알려주는 기능부터 자막 글씨체를 취향에 맞게 선택할 수 있는 기능, 높은 음량 안내 기능 등이 새로 적용됐다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블루투스를 통해 무선 이어폰과 보청기를 연동할 수 있는 기능, 여러 사용자가 각자 음량을 설정해 TV를 볼 수 있는 ‘소리 다중 출력’ 기능, 수어 화면 확대 기능, 점자 버튼 전용 리모컨 등도 지원한다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자 영상디스플레이사업부 용석우 부사장은 “그동안 접근성 기술 개발에 큰 노력을 기울여 왔다”며 “앞으로도 삼성 TV 사용자는 누구나 제약 없이 제품과 콘텐츠를 즐길 수 있도록 ‘사람이 중심이 되는 기술’ 개발에 최선을 다할 것”이라고 말했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "3년 연속 이 사업의 공급자로 선정된 것은 삼성전자가 처음이다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 3년 연속 방통위 장애인용 TV 사업자 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

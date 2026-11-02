@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267237",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "뷔, 달콤한 남자…초콜릿 광고 어울리는 스타 1위",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단(BTS)의 멤버 뷔가 초콜릿 광고에 가장 잘 어울리는 스타 1위로 선정됐다.\n지난 4월 11일부터 4월 17일까지 아이돌차트에서 진행된 ‘초콜릿 광고에 가장 어울리는 스타는?’ 설문에서 뷔는 총 투표수 5만 8446표 중 2만 3421표(투표율 약 40%)를 획득하며 1위에 올랐다.\n2위는 8310표(투표율 약 14%)를 획득한 방탄소년단 RM이 차지했다.\n뒤를 이어 하성운(6153표), 박지훈(4450표), 장민호(2773표), 박창근(2321표), 2PM 준호(1778표), 에이비식스 박우진(1747표), 수지(1164표), 강혜연(1022표), 김요한(922표), 황민현(783표), 이승윤(757표), 레드벨벳 아이린(630표), 박군(622표, 전유진(542표), 지드래곤(391표), 마마무(329표), (여자)아이들(189표), 아이브(142표)순으로 집계됐다.\n설문조사의 결과는 아이돌차트 ‘POLL’ 메뉴에서 확인 가능하다.\n현재 ‘가사를 전달하는 능력이 탁월한 스타는?’이란 주제로 설문이 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단(BTS)의 멤버 뷔가 초콜릿 광고에 가장 잘 어울리는 스타 1위로 선정됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 4월 11일부터 4월 17일까지 아이돌차트에서 진행된 ‘초콜릿 광고에 가장 어울리는 스타는?’ 설문에서 뷔는 총 투표수 5만 8446표 중 2만 3421표(투표율 약 40%)를 획득하며 1위에 올랐다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2위는 8310표(투표율 약 14%)를 획득한 방탄소년단 RM이 차지했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뒤를 이어 하성운(6153표), 박지훈(4450표), 장민호(2773표), 박창근(2321표), 2PM 준호(1778표), 에이비식스 박우진(1747표), 수지(1164표), 강혜연(1022표), 김요한(922표), 황민현(783표), 이승윤(757표), 레드벨벳 아이린(630표), 박군(622표, 전유진(542표), 지드래곤(391표), 마마무(329표), (여자)아이들(189표), 아이브(142표)순으로 집계됐다.",
+				"sentenceSize": 235
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설문조사의 결과는 아이돌차트 ‘POLL’ 메뉴에서 확인 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 ‘가사를 전달하는 능력이 탁월한 스타는?’이란 주제로 설문이 진행 중이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뷔, 달콤한 남자…초콜릿 광고 어울리는 스타 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

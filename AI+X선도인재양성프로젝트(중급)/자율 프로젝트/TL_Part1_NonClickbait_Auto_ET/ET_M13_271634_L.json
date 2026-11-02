@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271634",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "모델 포스 이대형 vs 패션 테러리스트 김병현(당나귀 귀)",
+		"newsSubTitle": "",
+		"newsContent": "패션 테러리스트 김병현은 달라질 수 있을까. 29일 KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 표지 모델 촬영을 준비하는 김병현, 이대형, 유희관의 이야기가 공개된다.\n최근 김병현은 이대형, 유희관과 함께 은퇴 선수로서는 최초로 야구 잡지 표지 모델 제의를 받고 국내 최고의 패션 기획사 대표인 최은호에게 도움을 요청했다.\n갑작스러운 부탁에 난감해하던 최은호는 사무실을 순식간에 런웨이로 만든 ‘비율 깡패’ 이대형에게는 “프로 모델 같다”, 유희관에게는 “표정이 살아 있다”며 긍정적인 반응을 보였다.\n반면 부담스러울 정도로 유니크한 의상을 입고 등장한 김병현을 본 최은호는 충격에 휩싸여 말을 잇지 못하고 한숨만 내쉬었다고. 그러나 이대형이 김병현이 입었던 재킷을 입어보자 출연진들은 “이게 이런 옷이었어?”라며 같은 옷 다른 느낌에 폭소를 터트리고 말았다.\n과연 패션 구원 투수로 나선 최은호 대표는 찐팬 이찬원마저 “난해하다”고 포기한 김병현을 성공한 CEO 느낌이 나는 표지 모델로 환골탈태시킬 수 있을지 관심과 궁금증이 모아진다.\n김병현, 이대형, 유희관의 화려한 패션 메이크 오버가 펼쳐질 ‘사장님 귀는 당나귀 귀’는 29일(일) 오후 5시 KBS2에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "패션 테러리스트 김병현은 달라질 수 있을까. 29일 KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 표지 모델 촬영을 준비하는 김병현, 이대형, 유희관의 이야기가 공개된다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 김병현은 이대형, 유희관과 함께 은퇴 선수로서는 최초로 야구 잡지 표지 모델 제의를 받고 국내 최고의 패션 기획사 대표인 최은호에게 도움을 요청했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "갑작스러운 부탁에 난감해하던 최은호는 사무실을 순식간에 런웨이로 만든 ‘비율 깡패’ 이대형에게는 “프로 모델 같다”, 유희관에게는 “표정이 살아 있다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면 부담스러울 정도로 유니크한 의상을 입고 등장한 김병현을 본 최은호는 충격에 휩싸여 말을 잇지 못하고 한숨만 내쉬었다고. 그러나 이대형이 김병현이 입었던 재킷을 입어보자 출연진들은 “이게 이런 옷이었어?”라며 같은 옷 다른 느낌에 폭소를 터트리고 말았다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과연 패션 구원 투수로 나선 최은호 대표는 찐팬 이찬원마저 “난해하다”고 포기한 김병현을 성공한 CEO 느낌이 나는 표지 모델로 환골탈태시킬 수 있을지 관심과 궁금증이 모아진다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김병현, 이대형, 유희관의 화려한 패션 메이크 오버가 펼쳐질 ‘사장님 귀는 당나귀 귀’는 29일(일) 오후 5시 KBS2에서 방송된다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모델 포스 이대형 vs 패션 테러리스트 김병현(당나귀 귀)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277414",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김소혜가 올린 오락실 인형 인증샷에 정채연이 남긴 글",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아이오아이 김소혜가 오락실 사격장에서 딴 인형을 자랑했다.\n지난 27일 걸그룹 아이오아이의 멤버 김소혜의 인스타그램에는 설 연휴를 맞아 오락실 사격장에 방문한 모습이 담긴 사진이 올라왔다.\n사진 속 김소혜는 커다란 하얀색 인형을 품에 안고 한 손으로 브이를 그리고 있다.\n김소혜는 사진과 함께 \\\"사격 명중, 인형 받았다\\\"라며 해시태그와 함께 '만점', '빵야'라고 적었다.\n김소혜의 사진에 같은 그룹 멤버인 정채연이 댓글을 달아 네티즌들 사이에선 화제가 됐다.\n정채연은 \\\"저 인형은 내꺼\\\" 라고 하자 김소혜가 \\\"그럼 언닌 내꺼\\\"라며 달달한 우정을 자랑했다.\n김소혜와 정채연이 속한 그룹 아이오아이는 지난 22일 콘서트를 끝으로 해체됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이오아이 김소혜가 오락실 사격장에서 딴 인형을 자랑했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 27일 걸그룹 아이오아이의 멤버 김소혜의 인스타그램에는 설 연휴를 맞아 오락실 사격장에 방문한 모습이 담긴 사진이 올라왔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김소혜는 커다란 하얀색 인형을 품에 안고 한 손으로 브이를 그리고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김소혜는 사진과 함께 \\\"사격 명중, 인형 받았다\\\"라며 해시태그와 함께 '만점', '빵야'라고 적었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김소혜의 사진에 같은 그룹 멤버인 정채연이 댓글을 달아 네티즌들 사이에선 화제가 됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정채연은 \\\"저 인형은 내꺼\\\" 라고 하자 김소혜가 \\\"그럼 언닌 내꺼\\\"라며 달달한 우정을 자랑했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김소혜와 정채연이 속한 그룹 아이오아이는 지난 22일 콘서트를 끝으로 해체됐다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김소혜가 올린 오락실 인형 인증샷에 정채연이 남긴 글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279473",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'가만히 있어도 외모 몰아주기' 미란다커, 시선강탈 셀카 공개",
+		"newsSubTitle": "",
+		"newsContent": "미란다 커의 미모 과시 셀카가 공개됐다.\n13일(한국시간) 호주 출신 톱모델 미란다 커는 인스타그램을 통해 \\\"Ready, set, go! Thanks team\\\"이라는 글과 함께 메이크업을 받고 있는 사진을 게재했다.\n공개된 사진 속 미란다 커는 대기실에서 메이크업 팀과 함께 셀카를 찍고 있다.\n미란다 커의 완벽한 동안 미모가 시선을 사로잡았다.\n한편 미란다 커는 할리우드 배우 올랜도 블룸과 결혼 3년 만에 이혼을 발표했으며 슬하에 아들 플린을 두고 있다.\n최근에는 연하남 스냅챗 대표 에반 스피겔과 교제 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미란다 커의 미모 과시 셀카가 공개됐다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일(한국시간) 호주 출신 톱모델 미란다 커는 인스타그램을 통해 \\\"Ready, set, go! Thanks team\\\"이라는 글과 함께 메이크업을 받고 있는 사진을 게재했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 미란다 커는 대기실에서 메이크업 팀과 함께 셀카를 찍고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미란다 커의 완벽한 동안 미모가 시선을 사로잡았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 미란다 커는 할리우드 배우 올랜도 블룸과 결혼 3년 만에 이혼을 발표했으며 슬하에 아들 플린을 두고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근에는 연하남 스냅챗 대표 에반 스피겔과 교제 중이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가만히 있어도 외모 몰아주기' 미란다커, 시선강탈 셀카 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

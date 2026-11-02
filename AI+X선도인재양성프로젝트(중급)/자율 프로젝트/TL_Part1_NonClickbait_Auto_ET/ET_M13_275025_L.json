@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275025",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“부끄럽다” 브래드 피트, 안면인식 장애 고백",
+		"newsSubTitle": "",
+		"newsContent": "배우 브래드 피트가 안면인식 장애 증상과 관련해 고통을 받고 있다고 토로했다.\n미국 매체 CNN은 지난 7일(현지 시각) “브래드 피트가 안면인식 장애 증상 관련 고민을 털어놨다”고 보도했다.\n보도에 따르면 브래드 피트는 이날 현지 남성 잡지 GQ와의 인터뷰에서 “사람들의 얼굴을 기억하는 데 극도로 어려움을 겪고 있다”며 “이런 증상 때문에 주변의 신뢰마저 잃고 있다”고 고백했다.\n그는 “‘장애인 안면 실인증’(안면인식장애)을 공식적으로 진단받은 것은 아니지만, 오랫동안 이 장애로 고통을 받았다”며 “아무도 나를 믿지 않는다. 안면인식 장애 때문에 부끄럽다”고 토로했다.\n이어 “사람들에게 냉담한 인상을 줄까 봐 항상 두렵다”며 “내 문제점을 이해하고 공감해줄 수 있는 사람을 만나고 싶다”고 밝혔다.\n앞서 브래드 피트는 2013년 패션잡지 에스콰이어 인터뷰에서 “사람을 알아보지 못해 자기중심적이고 거만하다는 오해를 받았고 집에 틀어박혀 지내기도 했다”고 밝힌 바 있다.\n미국 국립보건원의 설명에 따르면 장애인 안면 실인증은 뇌졸중이나 퇴행성 신경 질환 등에 의해 발생하고, 가족이나 친구의 얼굴을 알아보는 데에도 어려움을 겪을 수 있는 질환이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 브래드 피트가 안면인식 장애 증상과 관련해 고통을 받고 있다고 토로했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 매체 CNN은 지난 7일(현지 시각) “브래드 피트가 안면인식 장애 증상 관련 고민을 털어놨다”고 보도했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 브래드 피트는 이날 현지 남성 잡지 GQ와의 인터뷰에서 “사람들의 얼굴을 기억하는 데 극도로 어려움을 겪고 있다”며 “이런 증상 때문에 주변의 신뢰마저 잃고 있다”고 고백했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “‘장애인 안면 실인증’(안면인식장애)을 공식적으로 진단받은 것은 아니지만, 오랫동안 이 장애로 고통을 받았다”며 “아무도 나를 믿지 않는다. 안면인식 장애 때문에 부끄럽다”고 토로했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “사람들에게 냉담한 인상을 줄까 봐 항상 두렵다”며 “내 문제점을 이해하고 공감해줄 수 있는 사람을 만나고 싶다”고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 브래드 피트는 2013년 패션잡지 에스콰이어 인터뷰에서 “사람을 알아보지 못해 자기중심적이고 거만하다는 오해를 받았고 집에 틀어박혀 지내기도 했다”고 밝힌 바 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국 국립보건원의 설명에 따르면 장애인 안면 실인증은 뇌졸중이나 퇴행성 신경 질환 등에 의해 발생하고, 가족이나 친구의 얼굴을 알아보는 데에도 어려움을 겪을 수 있는 질환이다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“부끄럽다” 브래드 피트, 안면인식 장애 고백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

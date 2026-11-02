@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277605",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "민아, SNS에 못 다한 수상소감 “공심아, 새해 복 많이 받아”",
+		"newsSubTitle": "",
+		"newsContent": "걸스데이 민아가 SNS를 통해 못다한 수상소감을 전했다.\n지난 31일 상암동에서 열린 'SAF SBS 연기대상'에서 민아는 뉴스타상과 로맨틱 코미디 부분 우수연기상을 받았다.\n민아는 지난 1일 자신의 SNS에 “미녀공심이 팀, 2016년 너무 고생 많으셨습니다! 모두 축하하고 올해에도 좋은 일 가득합시다. 고마워요 안단테씨 석준수씨 공미언니”라며 말문을 열었다.\n이어 “그리고 오늘 제가 너무 얼떨떨하고 많이 떨어서 말씀 못드린 분들이 너무 많은데요”라며 “먼저 정혜선 선생님 따뜻하게 대해주셔서 감사했습니다. 그리고 오현경언니 우현 선배님 감사합니다”라고 덧붙였다.\n또한 민아는 “그리고 견미리 선배님, 김일우 선배님, 김병옥 선배님, 구남이·신수호씨, 김병세선배님, 이혜숙 선배님, 방은희 선배님 정말 감사했습니다. 같이 촬영한 공심이 모든 스텝분들 카메라 감독님, 조명 감독님, 에프디 오빠 현장에서 다들 고생 많으셨고 ‘미녀 공심이’팀 감사했습니다. 안녕 공심아~ 너도 새해 복 많이 받아”라며 한 장의 사진을 공개했다.\n공개된 사진 속에서 민아는 SBS드라마 ‘미녀 공심이’에 함께 출연한 남궁민, 서효림, 온주완과 함께 해맑게 웃고 있다.\n민아는 지난해 7월 종영한 SBS 주말극 ‘미녀 공심이’에서 단발머리 취준생 공심이를 연기했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸스데이 민아가 SNS를 통해 못다한 수상소감을 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 31일 상암동에서 열린 'SAF SBS 연기대상'에서 민아는 뉴스타상과 로맨틱 코미디 부분 우수연기상을 받았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "민아는 지난 1일 자신의 SNS에 “미녀공심이 팀, 2016년 너무 고생 많으셨습니다! 모두 축하하고 올해에도 좋은 일 가득합시다. 고마워요 안단테씨 석준수씨 공미언니”라며 말문을 열었다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “그리고 오늘 제가 너무 얼떨떨하고 많이 떨어서 말씀 못드린 분들이 너무 많은데요”라며 “먼저 정혜선 선생님 따뜻하게 대해주셔서 감사했습니다. 그리고 오현경언니 우현 선배님 감사합니다”라고 덧붙였다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 민아는 “그리고 견미리 선배님, 김일우 선배님, 김병옥 선배님, 구남이·신수호씨, 김병세선배님, 이혜숙 선배님, 방은희 선배님 정말 감사했습니다. 같이 촬영한 공심이 모든 스텝분들 카메라 감독님, 조명 감독님, 에프디 오빠 현장에서 다들 고생 많으셨고 ‘미녀 공심이’팀 감사했습니다. 안녕 공심아~ 너도 새해 복 많이 받아”라며 한 장의 사진을 공개했다.",
+				"sentenceSize": 201
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공개된 사진 속에서 민아는 SBS드라마 ‘미녀 공심이’에 함께 출연한 남궁민, 서효림, 온주완과 함께 해맑게 웃고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "민아는 지난해 7월 종영한 SBS 주말극 ‘미녀 공심이’에서 단발머리 취준생 공심이를 연기했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "민아, SNS에 못 다한 수상소감 “공심아, 새해 복 많이 받아”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

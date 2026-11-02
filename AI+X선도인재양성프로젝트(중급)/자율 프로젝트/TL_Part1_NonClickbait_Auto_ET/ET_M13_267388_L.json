@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267388",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘머슬퀸’ 유승옥, 캐빈74와 전속계약",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유승옥이 캐빈74의 새 식구가 됐다.\n18일 캐빈74 측은 “다채로운 매력과 잠재력을 지닌 방송인이자, 신인배우 유승옥과 전속계약을 체결했다”고 밝혔다.\n유승옥은 2014년 머슬마니아 세계대회에서 동양인 최초로 TOP 5 안에 들며 머슬 퀸 및 피트니스 대회 열풍을 불러일으켰고, 이후 영화 ‘조작된 도시’ ‘미스 푸줏간’ ‘챔피언’ 등에 출연해 배우로도 활약했다.\n캐빈74와의 계약 후, 2022년에는 드라마 “구필수는 없다”에서 탑 인플루언서 라라제이 역 외에도 하반기 방영 예정인 드라마 “아일랜드”에서도 한수진 역을 맡아 시청자들과 만날 예정이다.\n이처럼 방송인에서 어엿한 배우로 성장한 유승옥이 종합 드라마 제작사 및 매니지먼트 캐빈74와 함께 앞으로 어떠한 행보를 이어나갈지 기대가 모인다.\n한편 유승옥이 소속된 캐빈74는 종합 매니지먼트 및 드라마 제작사로, 현재 배우 곽도원, 윤두준 주연의 ENA 특별기획 “구필수는 없다”를 제작하는 드라마 제작사다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유승옥이 캐빈74의 새 식구가 됐다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 캐빈74 측은 “다채로운 매력과 잠재력을 지닌 방송인이자, 신인배우 유승옥과 전속계약을 체결했다”고 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유승옥은 2014년 머슬마니아 세계대회에서 동양인 최초로 TOP 5 안에 들며 머슬 퀸 및 피트니스 대회 열풍을 불러일으켰고, 이후 영화 ‘조작된 도시’ ‘미스 푸줏간’ ‘챔피언’ 등에 출연해 배우로도 활약했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "캐빈74와의 계약 후, 2022년에는 드라마 “구필수는 없다”에서 탑 인플루언서 라라제이 역 외에도 하반기 방영 예정인 드라마 “아일랜드”에서도 한수진 역을 맡아 시청자들과 만날 예정이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이처럼 방송인에서 어엿한 배우로 성장한 유승옥이 종합 드라마 제작사 및 매니지먼트 캐빈74와 함께 앞으로 어떠한 행보를 이어나갈지 기대가 모인다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 유승옥이 소속된 캐빈74는 종합 매니지먼트 및 드라마 제작사로, 현재 배우 곽도원, 윤두준 주연의 ENA 특별기획 “구필수는 없다”를 제작하는 드라마 제작사다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘머슬퀸’ 유승옥, 캐빈74와 전속계약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

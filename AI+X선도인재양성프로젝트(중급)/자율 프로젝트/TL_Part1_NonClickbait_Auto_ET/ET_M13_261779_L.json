@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261779",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“인생 첫 바프” 신수지 ‘거짓말 같은’ 복근",
+		"newsSubTitle": "",
+		"newsContent": "체조선수 출신 방송인 신수지가 ‘그림같은’ 복근을 공개했다.\n신수지는 22일 자신의 SNS인스타그램에 “인생 첫 바프(바디프로필)”이라면서 “오늘밤 ‘노는언니2’에서 방영된다”는 글과 함께 사진을 올렸다.\n사진 속 신수지는 흰색 수영복 차림으로 카메라를 응시하고 있다.\n탄탄한 근육질 몸매, 특히 배위에 선명하게 새겨진 초콜릿 복근이 시선을 끈다.\n사진을 본 방송인 장영란은 “대단하다”고 추켜세웠다.\n치어리더 박기량은 “오늘 배터지게 먹자”고, 프로골퍼 김하늘은 “고생했다”며 감탄의 댓글을 남겼다.\n리듬체조 선수 출신 신수지는 2008년 베이징 올림픽 출전 당시 한국 선수 사상 최고 기록을 세우는 등 활약했다.\n은퇴 후 볼링 선수로 변신하는 등 도전을 두려워하지 않는 모습으로 화제를 모았다.\n예능프로그램 ‘노는 언니’에 출연 중이며 SNS를 통해 여러 개인 영상을 올리며 팬들과 활발히 소통 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "체조선수 출신 방송인 신수지가 ‘그림같은’ 복근을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신수지는 22일 자신의 SNS인스타그램에 “인생 첫 바프(바디프로필)”이라면서 “오늘밤 ‘노는언니2’에서 방영된다”는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 신수지는 흰색 수영복 차림으로 카메라를 응시하고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "탄탄한 근육질 몸매, 특히 배위에 선명하게 새겨진 초콜릿 복근이 시선을 끈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진을 본 방송인 장영란은 “대단하다”고 추켜세웠다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "치어리더 박기량은 “오늘 배터지게 먹자”고, 프로골퍼 김하늘은 “고생했다”며 감탄의 댓글을 남겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "리듬체조 선수 출신 신수지는 2008년 베이징 올림픽 출전 당시 한국 선수 사상 최고 기록을 세우는 등 활약했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "은퇴 후 볼링 선수로 변신하는 등 도전을 두려워하지 않는 모습으로 화제를 모았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "예능프로그램 ‘노는 언니’에 출연 중이며 SNS를 통해 여러 개인 영상을 올리며 팬들과 활발히 소통 중이다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“인생 첫 바프” 신수지 ‘거짓말 같은’ 복근",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

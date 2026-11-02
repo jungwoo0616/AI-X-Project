@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172166",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신정환, 예능으로 9월 방송 복귀한다",
+    "newsSubTitle": "",
+    "newsContent": "원정 도박으로 구속, 가석방된 후 방송에서 모습을 볼 수 없었던 신정환이 방송 복귀 소식을 알렸다.\n신정환 소속사 코엔스타즈는 12일 “최근 신정환이 Mnet과 논의 끝에 9월 론칭 예정인 신규 예능을 통해 복귀할 것을 확정지었다”고 말했다.\n신정환의 복귀작은 ‘초심 소환 프로젝트’ 콘셉트의 리얼리티 프로그램이 될 예정이다.\n상세 출연진과 정확한 편성 일자는 정해지지 않은 것으로 전해졌다.\n신정환은 이에 대해 “새로운 기회가 주어졌다는 사실이 정말 믿기지 않는다. 새롭게 바뀐 방송가의 흐름에 잘 적응할 수 있을지도 걱정이지만, 무엇보다 시청자들이 어떻게 봐주실지…. 그 생각을 하는 것만으로도 떨리고 긴장된다. 이 모든 것은 내가 견뎌야 할 과정이고 시험대이다. 최선으로 행동하고 진정으로 임하겠다”고 복귀 소감을 밝혔다.\n신정환은 2010년 두 번째 원정 도박으로 2011년 6월 징역 8월을 선고받고 구속됐다가 그해 12월 가석방됐다.\n방송 활동을 쉬던 신정환은 올해 4월 코엔스타즈와 전속계약을 맺고 방송 복귀를 준비하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "원정 도박으로 구속, 가석방된 후 방송에서 모습을 볼 수 없었던 신정환이 방송 복귀 소식을 알렸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신정환 소속사 코엔스타즈는 12일 “최근 신정환이 Mnet과 논의 끝에 9월 론칭 예정인 신규 예능을 통해 복귀할 것을 확정지었다”고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신정환의 복귀작은 ‘초심 소환 프로젝트’ 콘셉트의 리얼리티 프로그램이 될 예정이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "상세 출연진과 정확한 편성 일자는 정해지지 않은 것으로 전해졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신정환은 이에 대해 “새로운 기회가 주어졌다는 사실이 정말 믿기지 않는다. 새롭게 바뀐 방송가의 흐름에 잘 적응할 수 있을지도 걱정이지만, 무엇보다 시청자들이 어떻게 봐주실지…. 그 생각을 하는 것만으로도 떨리고 긴장된다. 이 모든 것은 내가 견뎌야 할 과정이고 시험대이다. 최선으로 행동하고 진정으로 임하겠다”고 복귀 소감을 밝혔다.",
+        "sentenceSize": 187
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신정환은 2010년 두 번째 원정 도박으로 2011년 6월 징역 8월을 선고받고 구속됐다가 그해 12월 가석방됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "방송 활동을 쉬던 신정환은 올해 4월 코엔스타즈와 전속계약을 맺고 방송 복귀를 준비하고 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신정환, 오랜 끝에 '이것'한다... “새로운 기회 믿기지 않아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

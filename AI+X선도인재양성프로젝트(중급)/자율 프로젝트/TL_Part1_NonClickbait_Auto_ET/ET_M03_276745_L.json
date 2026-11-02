@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276745",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "가수 세븐이 SNS에 올린 탑 응원 메시지",
+		"newsSubTitle": "",
+		"newsContent": "가수 세븐(본명 최동욱·33)이 빅뱅 멤버 탑(본명 최승현·30)에게 응원 메시지를 전했다.\n세븐은 7일 오후 자신의 SNS에 '하트 모양의 조형물' 사진과 함께 '#staystrongtop' 이라는 해시태그를 게재했다. 'Stay Strong'은 '힘내라', '버텨라'를 뜻한다.\n약물 과다 복용으로 중환자실에 입원 중인 탑이 빨리 회복하길 바라는 마음에 게시글을 올린 것으로 보인다.\n이 게시물을 접한 국내외 팬들도 SNS를 통해 탑을 응원하는 목소리를 내고 있다.\n팬들은 세븐의 게시글에 '#staystrongtop', '탑을 위해 기도합니다' 등의 댓글을 남기거나 이 메시지를 공유해 SNS에 퍼트렸다.\n앞서 지난 6일 탑은 평소에 먹던 신경안정제 과다 복용으로 병원으로 이송됐다.\n탑의 의료진은 7일 기자회견을 열고 \\\"탑의 의식상태가 매우 좋지 않다\\\"며 \\\"오늘 오전 고이산화탄소증은 호전됐으나 의식은 여전히 기면 상태로 정상적인 면담이 불가능한 상황\\\"이라고 전했다.\n검찰에 따르면 탑은 지난해 10월 서울 용산구 자택에서 가수 연습생 한모(21·여)씨와 총 4차례에 걸쳐 대마초를 흡연한 혐의를 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 세븐(본명 최동욱·33)이 빅뱅 멤버 탑(본명 최승현·30)에게 응원 메시지를 전했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "세븐은 7일 오후 자신의 SNS에 '하트 모양의 조형물' 사진과 함께 '#staystrongtop' 이라는 해시태그를 게재했다. 'Stay Strong'은 '힘내라', '버텨라'를 뜻한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "약물 과다 복용으로 중환자실에 입원 중인 탑이 빨리 회복하길 바라는 마음에 게시글을 올린 것으로 보인다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 게시물을 접한 국내외 팬들도 SNS를 통해 탑을 응원하는 목소리를 내고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 세븐의 게시글에 '#staystrongtop', '탑을 위해 기도합니다' 등의 댓글을 남기거나 이 메시지를 공유해 SNS에 퍼트렸다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 지난 6일 탑은 평소에 먹던 신경안정제 과다 복용으로 병원으로 이송됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "탑의 의료진은 7일 기자회견을 열고 \\\"탑의 의식상태가 매우 좋지 않다\\\"며 \\\"오늘 오전 고이산화탄소증은 호전됐으나 의식은 여전히 기면 상태로 정상적인 면담이 불가능한 상황\\\"이라고 전했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "검찰에 따르면 탑은 지난해 10월 서울 용산구 자택에서 가수 연습생 한모(21·여)씨와 총 4차례에 걸쳐 대마초를 흡연한 혐의를 받고 있다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 세븐이 SNS에 올린 탑 응원 메시지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

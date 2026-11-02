@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269535",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "허니제이, 박재범과 손 잡았다…모어비전 行[공식]",
+		"newsSubTitle": "",
+		"newsContent": "댄서 허니제이가 가수 박재범과 손 잡았다.\n소속사 모어비전 측은 9일 허니제이의 영입 소식을 알리며 ‘룩(Look)’이란 제목의 영상과 이미지를 공개했다.\n공개된 영상은 미스터리한 사운드로 시작되어 신비한 분위기를 이끈다.\n심장을 뛰게 하는 과감한 비트와 폭발적인 사운드는 허니제이의 파워풀한 매력을 더욱 돋보이게 한다.\n속도감 넘치는 화면 전환과 감각적인 연출에 완벽하게 녹아든 허니제이는 본인만의 방식대로 거침없이 퍼포먼스를 펼쳐 보이며 한 편의 영화와 같은 몰입감을 선사한다.\n허니제이는 지난해 종영된 케이블채널 엠넷 ‘스트릿 우먼 파이터’의 최종 우승 댄스 크루 홀리뱅 리더로 다양한 방송 활동을 통해 반전 매력을 가감없이 보여주며 대중의 많은 사랑을 받고 있다.\n모어비전은 박재범이 지난 3월 새롭게 론칭한 엔터테인먼트사로 ‘다 함께 신나고 즐거워야 의미가 있다’라는 취지 아래 설립됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 허니제이가 가수 박재범과 손 잡았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 모어비전 측은 9일 허니제이의 영입 소식을 알리며 ‘룩(Look)’이란 제목의 영상과 이미지를 공개했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상은 미스터리한 사운드로 시작되어 신비한 분위기를 이끈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "심장을 뛰게 하는 과감한 비트와 폭발적인 사운드는 허니제이의 파워풀한 매력을 더욱 돋보이게 한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "속도감 넘치는 화면 전환과 감각적인 연출에 완벽하게 녹아든 허니제이는 본인만의 방식대로 거침없이 퍼포먼스를 펼쳐 보이며 한 편의 영화와 같은 몰입감을 선사한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "허니제이는 지난해 종영된 케이블채널 엠넷 ‘스트릿 우먼 파이터’의 최종 우승 댄스 크루 홀리뱅 리더로 다양한 방송 활동을 통해 반전 매력을 가감없이 보여주며 대중의 많은 사랑을 받고 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모어비전은 박재범이 지난 3월 새롭게 론칭한 엔터테인먼트사로 ‘다 함께 신나고 즐거워야 의미가 있다’라는 취지 아래 설립됐다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허니제이, 박재범과 손 잡았다…모어비전 行[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

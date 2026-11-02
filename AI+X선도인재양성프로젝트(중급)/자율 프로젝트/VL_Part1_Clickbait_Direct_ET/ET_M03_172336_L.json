@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172336",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "광희, 다음달 13일 ‘군악병’입대",
+    "newsSubTitle": "",
+    "newsContent": "‘제국의 아이들’ 출신 광희(29)가 다음달 13일 입대한다. 24일 연예 관계자들에 따르면 광희는 3월 13일 충남 논산 육군훈련소로 입소해 5주간의 기초군사훈련을 받은 뒤 군악병으로 복무할 예정이다.\n광희는 육군 전문특기병 중 군악병 모집에 지원해 합격한 것으로 알려졌다.\n광희는 입대 직전까지 ‘무한도전’ 녹화에 참여할 예정이며 입대 전 마지막 녹화는 MBC ‘라디오스타’인 것으로 알려졌다.\n광희는 2010년 그룹 제국의아이들로 데뷔했다.\n지난달 스타제국과 계약 만료 이후 추성훈, 야노시호, 김동현 등이 소속된 본부이엔티와 전속 계약을 맺었다.\n한편 광희의 입대가 확정되면서 ‘무한도전’의 옛 멤버 노홍철, 길, 정형돈이 복귀할지 관심이 쏠리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘제국의 아이들’ 출신 광희(29)가 다음달 13일 입대한다. 24일 연예 관계자들에 따르면 광희는 3월 13일 충남 논산 육군훈련소로 입소해 5주간의 기초군사훈련을 받은 뒤 군악병으로 복무할 예정이다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "광희는 육군 전문특기병 중 군악병 모집에 지원해 합격한 것으로 알려졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "광희는 입대 직전까지 ‘무한도전’ 녹화에 참여할 예정이며 입대 전 마지막 녹화는 MBC ‘라디오스타’인 것으로 알려졌다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "광희는 2010년 그룹 제국의아이들로 데뷔했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난달 스타제국과 계약 만료 이후 추성훈, 야노시호, 김동현 등이 소속된 본부이엔티와 전속 계약을 맺었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 광희의 입대가 확정되면서 ‘무한도전’의 옛 멤버 노홍철, 길, 정형돈이 복귀할지 관심이 쏠리고 있다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이돌 출신 예능인, 13일 '이것'으로 입대",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

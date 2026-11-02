@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280889",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "SNL 이애란, \\\"26일 '러브 액츄얼리' 패러디에 카메오 출연\\\"",
+		"newsSubTitle": "",
+		"newsContent": "이애란 이상민 노민혁이 'SNL코리아6' 마지막 방송 카메오로 출연을 확정지어 화제다.\ntvN 관계자는 12월 21일 한 매체에 \\\"26일 방송하는 tvN 'SNL코리아6'의 영화 '러브 액츄얼리' 패러디에 이애란, 이상민, 클릭비 노민혁이 카메오로 출연한다\\\"고 전했다.\n이어 관계자는 \\\"이애란은 현재의 톱가수, 이상민은 과거의 인기가수 역을 맡을 예정이며 노민혁의 역할은 논의 중이다\\\"고 말했다.\n관계자에 따르면 이애란 이상민 노민혁이 출연하는 'SNL코리아6' 33회는 시즌6 마지막 방송으로 호스트 없이 크루쇼로 진행된다.\n다음 시즌은 내년 상반기에 전파를 탄다.\n한편 'SNL코리아6'는 지난 2월 14일 첫 방송돼 12월 26일 33회를 끝으로 막을 내리게 됐다. 'SNL코리아6' 33회는 26일 오후 9시 45분에 방송된다. [사진 중앙DB] 이애란 SNL 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이애란 이상민 노민혁이 'SNL코리아6' 마지막 방송 카메오로 출연을 확정지어 화제다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "tvN 관계자는 12월 21일 한 매체에 \\\"26일 방송하는 tvN 'SNL코리아6'의 영화 '러브 액츄얼리' 패러디에 이애란, 이상민, 클릭비 노민혁이 카메오로 출연한다\\\"고 전했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 관계자는 \\\"이애란은 현재의 톱가수, 이상민은 과거의 인기가수 역을 맡을 예정이며 노민혁의 역할은 논의 중이다\\\"고 말했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관계자에 따르면 이애란 이상민 노민혁이 출연하는 'SNL코리아6' 33회는 시즌6 마지막 방송으로 호스트 없이 크루쇼로 진행된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음 시즌은 내년 상반기에 전파를 탄다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 'SNL코리아6'는 지난 2월 14일 첫 방송돼 12월 26일 33회를 끝으로 막을 내리게 됐다. 'SNL코리아6' 33회는 26일 오후 9시 45분에 방송된다. [사진 중앙DB] 이애란 SNL 온라인 중앙일보",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SNL 이애란, \\\"26일 '러브 액츄얼리' 패러디에 카메오 출연\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

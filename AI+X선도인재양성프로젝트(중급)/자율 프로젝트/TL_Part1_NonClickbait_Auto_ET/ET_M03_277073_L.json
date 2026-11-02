@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277073",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "발리 '윤식당'의 깜짝 놀랄 만한 현재 모습",
+		"newsSubTitle": "",
+		"newsContent": "최근 화제를 모은 프로그램 '윤식당' 속 현지 건물의 방송 후 철거된 모습이 공개됐다.\n최근 온라인 커뮤니티에 지난 24일 첫 방송을 시작한 나영석PD의 tvN 예능프로그램 '윤식당'의 현재 모습이 담긴 사진이 올라왔다.\n사진 속에는 현지의 따스한 햇살을 받으며 밝은 분위기를 내비쳤던 '윤식당'이 온데간데 없이 사라졌다.\n주위도 허허벌판으로 휴양지의 풍경을 찾아볼 수 없었다.\n현장은 이미 철거되 마치 폐허처럼 변해버린 모습만 덩그러니 담겨 있어 네티즌들은 \\\"너무 아쉽다\\\" \\\"허전하다\\\" \\\"나도 가보고 싶었는데\\\" 등 반응을 보이며 안타까움을 표했다. '윤식당' 촬영지는 인도네시아 발리의 롬복(Lombok)에 딸린 작은 섬, 길리 트라왕간(Gili Trawangan)이다.\n길리 트라왕간은 '죽기 전 반드시 가봐야 할 10대 휴양섬'으로도 꼽힌 곳이다.\n제작진은 열흘 간의 촬영 직후 '윤식당'을 철거한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 화제를 모은 프로그램 '윤식당' 속 현지 건물의 방송 후 철거된 모습이 공개됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 지난 24일 첫 방송을 시작한 나영석PD의 tvN 예능프로그램 '윤식당'의 현재 모습이 담긴 사진이 올라왔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 현지의 따스한 햇살을 받으며 밝은 분위기를 내비쳤던 '윤식당'이 온데간데 없이 사라졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주위도 허허벌판으로 휴양지의 풍경을 찾아볼 수 없었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현장은 이미 철거되 마치 폐허처럼 변해버린 모습만 덩그러니 담겨 있어 네티즌들은 \\\"너무 아쉽다\\\" \\\"허전하다\\\" \\\"나도 가보고 싶었는데\\\" 등 반응을 보이며 안타까움을 표했다. '윤식당' 촬영지는 인도네시아 발리의 롬복(Lombok)에 딸린 작은 섬, 길리 트라왕간(Gili Trawangan)이다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "길리 트라왕간은 '죽기 전 반드시 가봐야 할 10대 휴양섬'으로도 꼽힌 곳이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제작진은 열흘 간의 촬영 직후 '윤식당'을 철거한 것으로 알려졌다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "발리 '윤식당'의 깜짝 놀랄 만한 현재 모습",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

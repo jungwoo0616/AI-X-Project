@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260984",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "비투비 서은광 돌파감염, 복귀일정 차질[공식]",
+		"newsSubTitle": "",
+		"newsContent": "비투비 멤버 서은광이 코로나19 확진 판정을 받음에 따라 복귀 변경이 불가피할 전망이다.\n비투비 소속사 큐브 엔터테인먼트는 15일 “서은광이 오늘 코로나19 확진 판정을 받았다”며 “14일 목감기 증상이 있어 최초 검사(자가검사키트)를 시행했고 음성임을 확인했으나 이후 PCR(유전자증폭)검사를 진행해 금일 확진 판정을 받았다”고 밝혔다.\n이어 “이에 나머지 비투비 멤버들은 선제적으로 PCR 검사를 진행 후 검사 결과가 나올 때까지 자택 내 대기할 예정”이라고 했다.\n서은광은 코로나19 백신 2차까지 접종을 완료한 상태였으나 돌파감염됐다.\n소속사는 “서은광은 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치를 취하고 있다”고 했다.\n비투비는 지난해 11월 멤버 육성재와 임현식이 군복무를 마치고 복귀를 진행 중에 있었다.\n오는 21일 세 번째 앨범 발매에 이어 내달 콘서트를 계획 중에 있었으나 서은광의 확진으로 일정에 일부 차질이 있을 것으로 보인다.\n소속사는 “앞으로도 보건 당국의 방역 지침을 준수해 아티스트의 건강과 안전을 위해 최선을 다하겠다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비투비 멤버 서은광이 코로나19 확진 판정을 받음에 따라 복귀 변경이 불가피할 전망이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비투비 소속사 큐브 엔터테인먼트는 15일 “서은광이 오늘 코로나19 확진 판정을 받았다”며 “14일 목감기 증상이 있어 최초 검사(자가검사키트)를 시행했고 음성임을 확인했으나 이후 PCR(유전자증폭)검사를 진행해 금일 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “이에 나머지 비투비 멤버들은 선제적으로 PCR 검사를 진행 후 검사 결과가 나올 때까지 자택 내 대기할 예정”이라고 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서은광은 코로나19 백신 2차까지 접종을 완료한 상태였으나 돌파감염됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 “서은광은 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치를 취하고 있다”고 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비투비는 지난해 11월 멤버 육성재와 임현식이 군복무를 마치고 복귀를 진행 중에 있었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오는 21일 세 번째 앨범 발매에 이어 내달 콘서트를 계획 중에 있었으나 서은광의 확진으로 일정에 일부 차질이 있을 것으로 보인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소속사는 “앞으로도 보건 당국의 방역 지침을 준수해 아티스트의 건강과 안전을 위해 최선을 다하겠다”고 했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비투비 서은광 돌파감염, 복귀일정 차질[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

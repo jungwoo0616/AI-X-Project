@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277931",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'나혼자산다' 헤이즈 연체동물 뺨치는 S라인 '유쾌한 일상'",
+		"newsSubTitle": "",
+		"newsContent": "헤이즈가 SNS를 통해 유머러스한 일상의 모습을 공개했다.\n헤이즈는 25일 자신의 인스타그램 계정을 통해 \\\"편한 자세 찾았당ㅎ #휴식 #잠들뻔\\\"이라는 글과 함께 사진 한 장을 게재했다.\n해당 사진에는 정체를 알 수 없는 기계 앞아서 편안하게 두 팔을 늘러트린 채 서서 휴식을 취하고 있는 헤이즈의 모습이 담겨 있다.\n특히 기계에 맞추느라 구부린 다리 등 그의 설명과는 다른 불편한 자세가 보는이들을 웃게 만든다.\n한편 헤이즈는 25일 방송된 MBC 예능프로그램 '나 혼자 산다'에 출연해 자신의 일상을 공개했다.\n이날 헤이즈는 부모님이 보내주신 미역국이 상했음에도 불구하고 \\\"아침으로 먹는 중이다, 맛있다\\\"라며 선의의 거짓말을 해 훈훈함을 자아냈다.\n온라인 중앙일보 [사진 헤이즈 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "헤이즈가 SNS를 통해 유머러스한 일상의 모습을 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헤이즈는 25일 자신의 인스타그램 계정을 통해 \\\"편한 자세 찾았당ㅎ #휴식 #잠들뻔\\\"이라는 글과 함께 사진 한 장을 게재했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 사진에는 정체를 알 수 없는 기계 앞아서 편안하게 두 팔을 늘러트린 채 서서 휴식을 취하고 있는 헤이즈의 모습이 담겨 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 기계에 맞추느라 구부린 다리 등 그의 설명과는 다른 불편한 자세가 보는이들을 웃게 만든다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 헤이즈는 25일 방송된 MBC 예능프로그램 '나 혼자 산다'에 출연해 자신의 일상을 공개했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 헤이즈는 부모님이 보내주신 미역국이 상했음에도 불구하고 \\\"아침으로 먹는 중이다, 맛있다\\\"라며 선의의 거짓말을 해 훈훈함을 자아냈다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 헤이즈 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'나혼자산다' 헤이즈 연체동물 뺨치는 S라인 '유쾌한 일상'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170190",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "가수 김희진, 러블리 미모에 반전 걸크러시 라이더 자켓",
+    "newsSubTitle": "",
+    "newsContent": "‘트롯새싹’ 김희진이 센스 넘치는 사복으로 시선을 사로잡았다.\n김희진은 11일 공식 SNS 채널을 통해 사진 두 장을 공개, 팬심을 자극했다.\n공개된 사진 속 김희진은 풋사과 같은 과즙미 넘치는 비주얼 대비 시크함이 돋보이는 올블랙 라이더 자켓 패션으로 반전 매력을 뽐냈다.\n평소 발랄한 매력의 소유자 김희진이 이번 사진에서는 도도함과 세련미 넘치는 모습으로 등장, 그 속에서도 잃지 않는 사랑스러움을 드러내 팬들의 눈길을 끌었다.\n김희진은 공식 SNS 채널을 통해 팬들과 끊임없이 소통을 이어가는 것은 물론, 팔색조 매력을 엿 볼 수 있는 다채로운 스타일링으로 그의 패션 센스에 감탄을 유발하게 만들었다.\n김희진은 1년 10개월만의 갈고닦은 실력을 담은 ‘삼산이수(三山二水)’로 컴백, 뛰어난 곡 소화력과 감성 짙은 보이스로 리스너들에게 눈 도장 찍는가 하면, 뜨거운 호평도 받고 있다.\n김희진은 다채로운 커버 곡을 통해 팬들과 꾸준한 소통을 선보일 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘트롯새싹’ 김희진이 센스 넘치는 사복으로 시선을 사로잡았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김희진은 11일 공식 SNS 채널을 통해 사진 두 장을 공개, 팬심을 자극했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 김희진은 풋사과 같은 과즙미 넘치는 비주얼 대비 시크함이 돋보이는 올블랙 라이더 자켓 패션으로 반전 매력을 뽐냈다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "평소 발랄한 매력의 소유자 김희진이 이번 사진에서는 도도함과 세련미 넘치는 모습으로 등장, 그 속에서도 잃지 않는 사랑스러움을 드러내 팬들의 눈길을 끌었다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김희진은 공식 SNS 채널을 통해 팬들과 끊임없이 소통을 이어가는 것은 물론, 팔색조 매력을 엿 볼 수 있는 다채로운 스타일링으로 그의 패션 센스에 감탄을 유발하게 만들었다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김희진은 1년 10개월만의 갈고닦은 실력을 담은 ‘삼산이수(三山二水)’로 컴백, 뛰어난 곡 소화력과 감성 짙은 보이스로 리스너들에게 눈 도장 찍는가 하면, 뜨거운 호평도 받고 있다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김희진은 다채로운 커버 곡을 통해 팬들과 꾸준한 소통을 선보일 예정이다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "상큼 비주얼 대비 시크함이 돋보이는 반전 매력은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

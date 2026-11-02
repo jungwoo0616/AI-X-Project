@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264026",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "브레이브걸스 유정, 슈트 입은 ‘꼬미넴’",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 브레이브스걸스(Brave Girls) 멤버 유정이 잘생쁨 비주얼을 자랑했다.\n유정은 15일 자신의 사회 관계망 서비스(SNS)에 “숱흐(수트) 꼬미넴”이라는 글과 사진들을 게재했다.\n해당 사진은 유정은 수트를 입고 인증샷을 찍는 모습이다.\n또 유정은 원더케이 오리지널 유튜브 채널 ‘쁘걸+쓰리피스 수트는? 근본이다. 브레이브걸스(Brave Girls) ‘Thank You’ (땡큐) 수트댄스’ 영상을 올렸다 이를 본 유나는 댓글에 “음~예뿌네~꼬미넴”이라고 반응했다.\n이에 유정은 “누구세요”라는 답글을 남겼고, 또 유나는 “쒸”라고 반응을 해 누리꾼들의 웃음을 자아냈다.\n한편 유정은 지난 14일 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받아 재택 치료 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 브레이브스걸스(Brave Girls) 멤버 유정이 잘생쁨 비주얼을 자랑했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유정은 15일 자신의 사회 관계망 서비스(SNS)에 “숱흐(수트) 꼬미넴”이라는 글과 사진들을 게재했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 사진은 유정은 수트를 입고 인증샷을 찍는 모습이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 유정은 원더케이 오리지널 유튜브 채널 ‘쁘걸+쓰리피스 수트는? 근본이다. 브레이브걸스(Brave Girls) ‘Thank You’ (땡큐) 수트댄스’ 영상을 올렸다 이를 본 유나는 댓글에 “음~예뿌네~꼬미넴”이라고 반응했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 유정은 “누구세요”라는 답글을 남겼고, 또 유나는 “쒸”라고 반응을 해 누리꾼들의 웃음을 자아냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 유정은 지난 14일 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받아 재택 치료 중이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브레이브걸스 유정, 슈트 입은 ‘꼬미넴’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

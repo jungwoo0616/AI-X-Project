@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258741",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "원더걸스 출신 혜림 “임신 9개월차, 체중 15kg늘어”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 원더걸스 출신 혜림이 팬들과 근황을 공유했다.\n혜림은 20일 자신의 인스타그램 스토리를 통해 ‘무엇이든 물어보세요’ 질의응답 시간을 가졌다.\n이날 혜림은 ‘요즘 가장 행복했던 순간은 언제’라는 질문에 “집에서 보내는 나만의 시간”이라고 답했다.\n그는 “TV 보고 책 읽고 생각하고 유튜브 보고 배 속에 아기랑 대화하고 맛있는 거 먹는 순간이 소확행”이라고 덧붙였다.\n이어 임신 후 체중이 늘어 고민이라는 한 누리꾼의 말에는 “나는 9개월 차다. 15kg 쪘다”고 말해 눈길을 끌었다.\n이와 함께 혜림은 D라인 촬영 사진을 인증하기도 했다.\n이외에도 ‘사랑이(태명) 만날 날이 다가오는데 이름은 지었냐’는 질문에는 “고민 중”이라고 말했고, 태아의 성별을 묻는 질문에는 “it’s a boy”라며 아들임을 밝혔다.\n한편, 혜림은 7년 열애 후 태권도 선수 신민철과 지난 2020년 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 원더걸스 출신 혜림이 팬들과 근황을 공유했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "혜림은 20일 자신의 인스타그램 스토리를 통해 ‘무엇이든 물어보세요’ 질의응답 시간을 가졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 혜림은 ‘요즘 가장 행복했던 순간은 언제’라는 질문에 “집에서 보내는 나만의 시간”이라고 답했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “TV 보고 책 읽고 생각하고 유튜브 보고 배 속에 아기랑 대화하고 맛있는 거 먹는 순간이 소확행”이라고 덧붙였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 임신 후 체중이 늘어 고민이라는 한 누리꾼의 말에는 “나는 9개월 차다. 15kg 쪘다”고 말해 눈길을 끌었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 함께 혜림은 D라인 촬영 사진을 인증하기도 했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이외에도 ‘사랑이(태명) 만날 날이 다가오는데 이름은 지었냐’는 질문에는 “고민 중”이라고 말했고, 태아의 성별을 묻는 질문에는 “it’s a boy”라며 아들임을 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 혜림은 7년 열애 후 태권도 선수 신민철과 지난 2020년 결혼했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원더걸스 출신 혜림 “임신 9개월차, 체중 15kg늘어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

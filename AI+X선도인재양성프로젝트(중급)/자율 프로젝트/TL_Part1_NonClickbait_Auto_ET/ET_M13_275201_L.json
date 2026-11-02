@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275201",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘파워중독성’ 육중완밴드 ‘바나나 먹고싶다’",
+		"newsSubTitle": "",
+		"newsContent": "육중완밴드가 신곡을 공개한다.\n육중완밴드(강준우, 육중완)는 11일 정오 전 온라인 음원사이트를 통해 신곡 ‘바나나 먹고싶다’를 발매한다.\n신곡 ‘바나나 먹고싶다’는 육중완이 딸의 단순한 말 한마디로 시작해 직접 작사·작곡을 맡아 탄생한 곡이다.\n여기에 멤버 강준우와 육중완밴드 세션이 힘을 보태 사이키델릭한 느낌의 곡을 완성해냈다.\n시원하게 쏟아지는 사운드 위로 반복되는 ‘바나나 먹고 싶다’는 귀여운 노랫말이 거부할 수 없는 중독성을 선사한다.\n특히 귀에 꽂히는 압도적인 밴드 사운드가 두 멤버의 폭발적인 보컬과 절묘하게 어우러져 듣는 주체할 수 없는 흥을 안긴다.\n거친 멜로디와 반전 노랫말이 육중완밴드만의 유니크한 분위기를 완성한 ‘바나나 먹고싶다’는 더운 여름을 잊게 할 시원한 쾌감을 선사할 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "육중완밴드가 신곡을 공개한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "육중완밴드(강준우, 육중완)는 11일 정오 전 온라인 음원사이트를 통해 신곡 ‘바나나 먹고싶다’를 발매한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신곡 ‘바나나 먹고싶다’는 육중완이 딸의 단순한 말 한마디로 시작해 직접 작사·작곡을 맡아 탄생한 곡이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 멤버 강준우와 육중완밴드 세션이 힘을 보태 사이키델릭한 느낌의 곡을 완성해냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시원하게 쏟아지는 사운드 위로 반복되는 ‘바나나 먹고 싶다’는 귀여운 노랫말이 거부할 수 없는 중독성을 선사한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 귀에 꽂히는 압도적인 밴드 사운드가 두 멤버의 폭발적인 보컬과 절묘하게 어우러져 듣는 주체할 수 없는 흥을 안긴다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "거친 멜로디와 반전 노랫말이 육중완밴드만의 유니크한 분위기를 완성한 ‘바나나 먹고싶다’는 더운 여름을 잊게 할 시원한 쾌감을 선사할 전망이다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘파워중독성’ 육중완밴드 ‘바나나 먹고싶다’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

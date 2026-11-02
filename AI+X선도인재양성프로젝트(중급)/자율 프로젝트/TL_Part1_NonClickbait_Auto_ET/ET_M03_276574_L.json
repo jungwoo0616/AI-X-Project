@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276574",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"동화 속 공주님 같은 결혼식\\\"…미란다 커·에반 웨딩화보 공개",
+		"newsSubTitle": "",
+		"newsContent": "미란다 커(34)와 에반 스피겔의 웨딩 사진이 공개됐다.\n17일(한국시간) 미국 연예매체 피플이 호주 출신 톱모델 미란다 커의 결혼식 사진을 공개했다.\n미란다 커는 지난 5월 28일 스냅챗 CEO 에반스피겔과 결혼했다.\n공개된 사진 속 미란다 커는 순백의 웨딩드레스를 입고 남편 품에 안겨 행복한 미소를 지었다.\n고전미를 살린 미란다커의 드레스는 디올의 수석 디자이너 마리아 그라치아 치우리가 디자인 했다.\n헤드 피스는 모자 디자이너 스테판 존스가 제작했다.\n마리아 그라치아는 \\\"미란다 커는 동화같은 결혼식을 원했고, 공주님처럼 찬란한 드레스 자태를 자랑했다\\\"고 전했다.\n한편 미란다 커의 남편 에반 스피겔은 스냅챗CEO다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미란다 커(34)와 에반 스피겔의 웨딩 사진이 공개됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일(한국시간) 미국 연예매체 피플이 호주 출신 톱모델 미란다 커의 결혼식 사진을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미란다 커는 지난 5월 28일 스냅챗 CEO 에반스피겔과 결혼했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진 속 미란다 커는 순백의 웨딩드레스를 입고 남편 품에 안겨 행복한 미소를 지었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고전미를 살린 미란다커의 드레스는 디올의 수석 디자이너 마리아 그라치아 치우리가 디자인 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "헤드 피스는 모자 디자이너 스테판 존스가 제작했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마리아 그라치아는 \\\"미란다 커는 동화같은 결혼식을 원했고, 공주님처럼 찬란한 드레스 자태를 자랑했다\\\"고 전했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 미란다 커의 남편 에반 스피겔은 스냅챗CEO다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"동화 속 공주님 같은 결혼식\\\"…미란다 커·에반 웨딩화보 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

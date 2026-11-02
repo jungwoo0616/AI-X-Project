@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272586",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "공유, 현실엔 없는 잘생긴 강태공",
+		"newsSubTitle": "",
+		"newsContent": "배우 공유가 일상을 팬들과 공유했다.\n공유는 8일 자신의 사회관계망서비스(SNS)에 ‘Back in time 1’이라는 글과 함께 사진을 게재했다.\n공개된 사진에서 공유는 낚시를 즐겼다.\n잡은 물고기를 손에 들고 환한 미소를 지었다.\n또 해변 모래사장에 앉아 여유롭게 일상을 즐기는 모습을 보여줬다.\n현실에서는 찾아 보기 힘든 낚시가 취미인데 잘생기고 멋진 강태공의 면모를 보여줬다.\n또한 공유 특유의 중후하면서도 청량한 매력이 돋보이는 일상이었다.\n한편 공유는 지난해 넷플릭스 오리지널 ‘오징어 게임’, ‘고요의 바다’ 등에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 공유가 일상을 팬들과 공유했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공유는 8일 자신의 사회관계망서비스(SNS)에 ‘Back in time 1’이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 공유는 낚시를 즐겼다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "잡은 물고기를 손에 들고 환한 미소를 지었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 해변 모래사장에 앉아 여유롭게 일상을 즐기는 모습을 보여줬다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현실에서는 찾아 보기 힘든 낚시가 취미인데 잘생기고 멋진 강태공의 면모를 보여줬다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 공유 특유의 중후하면서도 청량한 매력이 돋보이는 일상이었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 공유는 지난해 넷플릭스 오리지널 ‘오징어 게임’, ‘고요의 바다’ 등에 출연했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공유, 현실엔 없는 잘생긴 강태공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

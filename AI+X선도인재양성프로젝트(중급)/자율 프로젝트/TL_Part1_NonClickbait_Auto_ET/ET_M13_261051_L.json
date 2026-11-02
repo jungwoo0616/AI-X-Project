@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261051",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "EBS, 대통령후보 초청 교육정책 대담…17일 안철수 후보편",
+		"newsSubTitle": "",
+		"newsContent": "EBS가 20대 대선을 앞두고 후보들의 교육정책을 들어보는 자리를 마련했다.\nEBS는 4당 대선 후보들 교육정책과 공약을 자세히 살펴보고, 비교해 보기 위해 ‘2022 대통령 후보 초청 특별 대담-대한민국의 미래를 말하다’를 기획했다고 밝혔다.\n첫 출연자는 국민의당 안철수 후보로 오는 17일 오후 9시 50분부터 50분간 EBS1에서 녹화된 영상이 방송된다.\n나머지 후보들 출연 일정은 현재 조율 중이다.\n특별 대담은 19∼69세 국민 1000명을 대상으로 실시한 ‘우리 교육’에 대한 설문조사 결과를 바탕으로 진행될 예정이다.\n입시 제도를 포함해 코로나19 팬데믹이 가져온 ‘교육 격차’ 해소, 고등교육 등에 관한 후보자의 정책 비전을 들여다본다.\n대담은 정관용 국민대 특임교수의 사회로 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "EBS가 20대 대선을 앞두고 후보들의 교육정책을 들어보는 자리를 마련했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EBS는 4당 대선 후보들 교육정책과 공약을 자세히 살펴보고, 비교해 보기 위해 ‘2022 대통령 후보 초청 특별 대담-대한민국의 미래를 말하다’를 기획했다고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫 출연자는 국민의당 안철수 후보로 오는 17일 오후 9시 50분부터 50분간 EBS1에서 녹화된 영상이 방송된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나머지 후보들 출연 일정은 현재 조율 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특별 대담은 19∼69세 국민 1000명을 대상으로 실시한 ‘우리 교육’에 대한 설문조사 결과를 바탕으로 진행될 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "입시 제도를 포함해 코로나19 팬데믹이 가져온 ‘교육 격차’ 해소, 고등교육 등에 관한 후보자의 정책 비전을 들여다본다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대담은 정관용 국민대 특임교수의 사회로 진행된다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "EBS, 대통령후보 초청 교육정책 대담…17일 안철수 후보편",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

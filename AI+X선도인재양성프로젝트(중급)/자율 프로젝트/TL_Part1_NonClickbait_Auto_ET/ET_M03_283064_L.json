@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283064",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'쇼 음악중심' 새 MC 김민재-김새론 투샷…\\\"풋풋하다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'쇼 음악중심'새 MC 김민재-김새론 투샷…\\\"풋풋하다\\\" '쇼 음악중심'의 새 MC 김민재와 김새론이 다정한 투샷을 연출했다.\n김민재는 21일 자신의 인스타그램에 \\\"쇼! 음악중심 새로운 MC~ 많이 사랑해주세요\\\"라는 멘트와 함께 사진을 게재했다.\n공개된 사진 속에는 핑크색 깔맞춤으로 커플룩을 연출 하트를 그리고 있는 김민재와 김새론의 모습이 담겼다.\n두 사람의 화사한 미소와 함께 앳된 미모가 돋보였다.\n한편 MBC '쇼 음악중심' 매주 토요일 오후 3시 50분 방송된다.\n온라인 중앙일보 김민재, 김새론[사진 김민재 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'쇼 음악중심'새 MC 김민재-김새론 투샷…\\\"풋풋하다\\\" '쇼 음악중심'의 새 MC 김민재와 김새론이 다정한 투샷을 연출했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김민재는 21일 자신의 인스타그램에 \\\"쇼! 음악중심 새로운 MC~ 많이 사랑해주세요\\\"라는 멘트와 함께 사진을 게재했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 핑크색 깔맞춤으로 커플룩을 연출 하트를 그리고 있는 김민재와 김새론의 모습이 담겼다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람의 화사한 미소와 함께 앳된 미모가 돋보였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 MBC '쇼 음악중심' 매주 토요일 오후 3시 50분 방송된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 김민재, 김새론[사진 김민재 인스타그램]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'쇼 음악중심' 새 MC 김민재-김새론 투샷…\\\"풋풋하다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266754",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "미자♥김태현, 오늘 결혼 “잘 살겠습니다”",
+		"newsSubTitle": "",
+		"newsContent": "배우 장광의 딸이자 개그우먼 미자가 결혼 소감을 밝혔다.\n미자는 지난 12일 자신의 SNS 인스타그램에 “결혼식이 하루앞으로 다가왔다. 오늘 밤 잠이 올지 모르겠다.잘 살겠다”라는 글을 게재했다.\n공개된 가족 파티 사진에는 배우 장광, 전성애 부부의 행복한 모습이 눈길을 끈다.\n풍선 장식에는 ‘welcome(환영한다)’ ‘태현 my Family(우리 가족)’이라고 적혀있다.\n누리꾼들은 “축하한다” “최고로 이쁠 것” “행복하세요” “가족들이 웃음꽃이 피었네요” 등의 댓글을 달며 결혼을 축하했다.\n한편 미자와 개그맨 김태현은 지난 달 열애 사실을 공개했다.\n오늘(13일) 서울 모 처에서 결혼식을 올린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 장광의 딸이자 개그우먼 미자가 결혼 소감을 밝혔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미자는 지난 12일 자신의 SNS 인스타그램에 “결혼식이 하루앞으로 다가왔다. 오늘 밤 잠이 올지 모르겠다.잘 살겠다”라는 글을 게재했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 가족 파티 사진에는 배우 장광, 전성애 부부의 행복한 모습이 눈길을 끈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "풍선 장식에는 ‘welcome(환영한다)’ ‘태현 my Family(우리 가족)’이라고 적혀있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 “축하한다” “최고로 이쁠 것” “행복하세요” “가족들이 웃음꽃이 피었네요” 등의 댓글을 달며 결혼을 축하했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 미자와 개그맨 김태현은 지난 달 열애 사실을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오늘(13일) 서울 모 처에서 결혼식을 올린다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미자♥김태현, 오늘 결혼 “잘 살겠습니다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

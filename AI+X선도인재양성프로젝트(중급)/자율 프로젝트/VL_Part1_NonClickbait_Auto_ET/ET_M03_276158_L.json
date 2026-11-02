@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276158",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "조덕제가 밝힌 오달수 근황…“복귀 생각 없다고 한 적 없다더라”",
+		"newsSubTitle": "",
+		"newsContent": "배우 조덕제가 미투 논란으로 연예 활동을 중단한 배우 오달수의 근황을 전했다.\n조덕제는 6일 자신의 유튜브 채널 ‘조덕제TV’를 통해 “최근 오달수가 연예계에 복귀할 생각이 없다는 일부 언론 보도는 사실무근”이라며 “오달수에게 직접 확인한 결과 누구에게도 향후 계획을 이야기한 적 없다고 하더라”고 밝혔다.\n이어 “오달수는 지금 심신이 지쳐 있는 상태”라면서 “왕성한 활동을 하다가 하루아침에 성추행범으로 낙인찍혀 1년여간 은둔생활을 하고 있다”고 전했다.\n또 “오달수는 ‘사실을 밝혀도 구차한 변명으로 치부되는데 어떤 말을 할 수 있겠나’라고 말하기도 했다”며 “연기자는 무대를 떠나서는 살 수 없다. 오달수가 반드시 돌아올 것이라 믿는다”고 밝혔다.\n오달수는 지난 2월 미투 논란에 휩싸이면서 모든 활동을 중단했다.\n그의 출연작 또한 개봉이 불투명해졌다.\n한편 조덕제는 배우 반민정을 강제추행한 혐의로 지난 9월 징역 1년, 집행유예 2년의 대법원 판결을 받았다.\n이에 대해 조덕제는 “억울하다”며 유튜브 등을 통해 결백을 주장하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 조덕제가 미투 논란으로 연예 활동을 중단한 배우 오달수의 근황을 전했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조덕제는 6일 자신의 유튜브 채널 ‘조덕제TV’를 통해 “최근 오달수가 연예계에 복귀할 생각이 없다는 일부 언론 보도는 사실무근”이라며 “오달수에게 직접 확인한 결과 누구에게도 향후 계획을 이야기한 적 없다고 하더라”고 밝혔다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “오달수는 지금 심신이 지쳐 있는 상태”라면서 “왕성한 활동을 하다가 하루아침에 성추행범으로 낙인찍혀 1년여간 은둔생활을 하고 있다”고 전했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “오달수는 ‘사실을 밝혀도 구차한 변명으로 치부되는데 어떤 말을 할 수 있겠나’라고 말하기도 했다”며 “연기자는 무대를 떠나서는 살 수 없다. 오달수가 반드시 돌아올 것이라 믿는다”고 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오달수는 지난 2월 미투 논란에 휩싸이면서 모든 활동을 중단했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그의 출연작 또한 개봉이 불투명해졌다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 조덕제는 배우 반민정을 강제추행한 혐의로 지난 9월 징역 1년, 집행유예 2년의 대법원 판결을 받았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 대해 조덕제는 “억울하다”며 유튜브 등을 통해 결백을 주장하고 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조덕제가 밝힌 오달수 근황…“복귀 생각 없다고 한 적 없다더라”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

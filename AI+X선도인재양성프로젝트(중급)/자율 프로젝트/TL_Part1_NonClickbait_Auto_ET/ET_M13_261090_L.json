@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261090",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘자급자족원정대’ 김용명, 엄동설한 상의 탈의한 사연은",
+		"newsSubTitle": "",
+		"newsContent": "김용명이 상의 탈의로 시골 마을을 발칵 뒤집어 놓았다.\n17일 공개되는 ‘자급자족원정대’에서 김용명은 이만기, 윤택, 홍윤화와 함께 예천 금당실 마을의 농촌 일손 돕기에 나선다.\n예천은 콩이 유명한 곳으로 메주가 특산물이다.\n일 년 중 가장 바쁜 시기에 마을을 방문한 자급자족원정대는 각자 역할을 분담해 메주 만들기를 하며 동네 어르신들을 도왔다.\n삶은 콩 운반을 맡은 김용명은 무한 반복되는 업무에 힘겨움을 토로하다 결국 길바닥에 누워버렸고, 이를 보고 달려온 홍윤화는 게으름을 피운다며 잔소리를 했다.\n이에 김용명은 상황극을 펼치며 휴식을 더 취하려 했으나 통하지 않아 폭소를 안겼다.\n그 이후에도 김용명은 계속 수레를 끌며 삶은 콩 나르기에 집중했다.\n영하의 날씨였지만 온몸은 땀에 젖었고 결국 상의를 벗으며 내복 투혼까지 펼쳤다.\n그러나 삶은 콩 운반은 끝날 기미가 보이지 않고 영하의 날씨에도 더위를 느낀 김용명은 상의 누드로 어르신들을 놀래켰다.\n조용한 시골 마을에 맨살로 수레를 끌며 시선을 집중시킨 김용명의 메주 만들기 모습은 내일(17일) 저녁 8시 30분 채널 IHQ ‘자급자족원정대’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김용명이 상의 탈의로 시골 마을을 발칵 뒤집어 놓았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 공개되는 ‘자급자족원정대’에서 김용명은 이만기, 윤택, 홍윤화와 함께 예천 금당실 마을의 농촌 일손 돕기에 나선다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예천은 콩이 유명한 곳으로 메주가 특산물이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일 년 중 가장 바쁜 시기에 마을을 방문한 자급자족원정대는 각자 역할을 분담해 메주 만들기를 하며 동네 어르신들을 도왔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삶은 콩 운반을 맡은 김용명은 무한 반복되는 업무에 힘겨움을 토로하다 결국 길바닥에 누워버렸고, 이를 보고 달려온 홍윤화는 게으름을 피운다며 잔소리를 했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 김용명은 상황극을 펼치며 휴식을 더 취하려 했으나 통하지 않아 폭소를 안겼다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 이후에도 김용명은 계속 수레를 끌며 삶은 콩 나르기에 집중했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "영하의 날씨였지만 온몸은 땀에 젖었고 결국 상의를 벗으며 내복 투혼까지 펼쳤다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그러나 삶은 콩 운반은 끝날 기미가 보이지 않고 영하의 날씨에도 더위를 느낀 김용명은 상의 누드로 어르신들을 놀래켰다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "조용한 시골 마을에 맨살로 수레를 끌며 시선을 집중시킨 김용명의 메주 만들기 모습은 내일(17일) 저녁 8시 30분 채널 IHQ ‘자급자족원정대’에서 확인할 수 있다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘자급자족원정대’ 김용명, 엄동설한 상의 탈의한 사연은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

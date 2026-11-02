@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272813",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최다니엘, ‘분신 같은’ 안경 모델 발탁",
+		"newsSubTitle": "",
+		"newsContent": "배우 최다니엘이 안경 브랜드의 전속모델이 됐다.\n최다니엘은 최근 안경 전문 브랜드 ‘쏘럭스’의 새로운 얼굴로 선정돼 다채로운 활동을 예고했다.\n브랜드의 관계자는 “패션과 캐릭터에 따라 변화하는 안경 디테일 장인 최다니엘과 고급스럽고 세련된 브랜드의 이미지가 잘 맞을 것이라고 판단해 전속모델로 발탁했다”고 전했다.\n그동안 최다니엘은 빼어난 소화력으로 여러 브랜드의 안경을 착용해 화제를 불렀으며, 그가 착용한 브랜드들은 이른바 ‘최다니엘 안경’으로 유명세를 치렀다.\n이에 최다니엘은 전속모델 활동 뿐 아니라 다양한 안경을 착용한 경험을 토대로 소비자의 눈높이에서 신선한 아이디어를 제공하는 등 제품의 기획과정에도 직접 참여해 다음 달 나올 신모델 출시에도 기대감을 높였다.\n최다니엘은 다음 달 29일 방송 예정인 SBS 새 금토극 ‘오늘의 웹툰’에서 웹툰 편집부 부편집장 석지형 역으로 출연해 활발한 활동을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 최다니엘이 안경 브랜드의 전속모델이 됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최다니엘은 최근 안경 전문 브랜드 ‘쏘럭스’의 새로운 얼굴로 선정돼 다채로운 활동을 예고했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "브랜드의 관계자는 “패션과 캐릭터에 따라 변화하는 안경 디테일 장인 최다니엘과 고급스럽고 세련된 브랜드의 이미지가 잘 맞을 것이라고 판단해 전속모델로 발탁했다”고 전했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 최다니엘은 빼어난 소화력으로 여러 브랜드의 안경을 착용해 화제를 불렀으며, 그가 착용한 브랜드들은 이른바 ‘최다니엘 안경’으로 유명세를 치렀다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 최다니엘은 전속모델 활동 뿐 아니라 다양한 안경을 착용한 경험을 토대로 소비자의 눈높이에서 신선한 아이디어를 제공하는 등 제품의 기획과정에도 직접 참여해 다음 달 나올 신모델 출시에도 기대감을 높였다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최다니엘은 다음 달 29일 방송 예정인 SBS 새 금토극 ‘오늘의 웹툰’에서 웹툰 편집부 부편집장 석지형 역으로 출연해 활발한 활동을 이어갈 예정이다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최다니엘, ‘분신 같은’ 안경 모델 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

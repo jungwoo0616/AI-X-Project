@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261159",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "인도 발리우드 ‘디스코 王’ 바피 라히리(Bappi Lahiri) 별세, 향년 70세",
+		"newsSubTitle": "",
+		"newsContent": "인도 영화계 발리우드에서 ‘디스코 왕’으로 불리던 유명 작곡가 겸 가수 바피 라히리(Bappi Lahiri)가 15일 오후(현지시간) 70세를 일기로 세상을 떠났다고 인도 현지언론이 16일 전했다.\n흉부 감염 재발 등 질환을 앓았던 그는 폐쇄성 수면무호흡증(OSA)으로 숨을 거뒀다고 그가 입원했던 뭄바이의 크리티케어 병원은 밝혔다.\n1952년 웨스트벵골주 음악가 집안에서 태어난 그는 1970∼1990년대 디스코 음악으로 인기를 끌었다.\n그의 곡은 ‘찰테 찰테’, ‘디스코 댄서’, ‘샤라아비’ 등의 인기 영화에 삽입돼 크게 히트했다.\n1995년에는 영화 ‘록 댄서’에서 가수이자 모델 서맨사 폭스와 협업해 더 유명해졌다.\n2015년에는 미국 래퍼 스눕독과 ‘파티알라 페그’라는 곡에서 호흡을 맞추기도 했다.\n그의 사망 소식이 알려지자 각계에서 조의가 이어졌다.\n나렌드라 모디 인도 총리는 SNS를 통해 그의 음악은 모두를 아울렀고 아름답게 다양한 감정을 표현했다고 말했다.\n발리우드 스타인 아크샤이 쿠마르도 자신의 SNS에 라히리의 목소리는 나를 포함한 수백만 명이 춤을 추게 한 이유였다고 썼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인도 영화계 발리우드에서 ‘디스코 왕’으로 불리던 유명 작곡가 겸 가수 바피 라히리(Bappi Lahiri)가 15일 오후(현지시간) 70세를 일기로 세상을 떠났다고 인도 현지언론이 16일 전했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "흉부 감염 재발 등 질환을 앓았던 그는 폐쇄성 수면무호흡증(OSA)으로 숨을 거뒀다고 그가 입원했던 뭄바이의 크리티케어 병원은 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1952년 웨스트벵골주 음악가 집안에서 태어난 그는 1970∼1990년대 디스코 음악으로 인기를 끌었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 곡은 ‘찰테 찰테’, ‘디스코 댄서’, ‘샤라아비’ 등의 인기 영화에 삽입돼 크게 히트했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1995년에는 영화 ‘록 댄서’에서 가수이자 모델 서맨사 폭스와 협업해 더 유명해졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2015년에는 미국 래퍼 스눕독과 ‘파티알라 페그’라는 곡에서 호흡을 맞추기도 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그의 사망 소식이 알려지자 각계에서 조의가 이어졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "나렌드라 모디 인도 총리는 SNS를 통해 그의 음악은 모두를 아울렀고 아름답게 다양한 감정을 표현했다고 말했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "발리우드 스타인 아크샤이 쿠마르도 자신의 SNS에 라히리의 목소리는 나를 포함한 수백만 명이 춤을 추게 한 이유였다고 썼다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인도 발리우드 ‘디스코 王’ 바피 라히리(Bappi Lahiri) 별세, 향년 70세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276089",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘나는 솔로’ 옥순 “성형 하나도 안했다”",
+		"newsSubTitle": "",
+		"newsContent": "ENA PLAY, SBS Plus 데이팅 예능프로그램 ‘나는 솔로’ 9기 옥순이 성형 의혹에 대해 일축했다.\n옥순은 22일 자신의 SNS에 “쌍꺼풀 수술, 앞트임 등 성형 하나도 안했다”고 밝혔다.\n옥순은 ‘나는 솔로’ 시청자들로부터 받은 의상 브랜드 질문 등에 답하며 성형 여부를 묻는 시청자들에게도 함께 답변을 남겼다.\n옥순은 “쌍꺼풀 수술, 앞트임 등 성형 하나도 안 했습니다”라며 “한 눈이 저럴 리가 없겠죠? 병원 정보는 드릴 게 없네요”라고 말했다.\n또 “자연미인이라구요”라고 적은 지인 SNS를 인용해 업로드 하며 성형 오해에 대한 억울한 심중도 드러냈다.\n옥순이 출연하는 ‘나는 SOLO’는 매주 수요일 오후 10시 30분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ENA PLAY, SBS Plus 데이팅 예능프로그램 ‘나는 솔로’ 9기 옥순이 성형 의혹에 대해 일축했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옥순은 22일 자신의 SNS에 “쌍꺼풀 수술, 앞트임 등 성형 하나도 안했다”고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "옥순은 ‘나는 솔로’ 시청자들로부터 받은 의상 브랜드 질문 등에 답하며 성형 여부를 묻는 시청자들에게도 함께 답변을 남겼다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "옥순은 “쌍꺼풀 수술, 앞트임 등 성형 하나도 안 했습니다”라며 “한 눈이 저럴 리가 없겠죠? 병원 정보는 드릴 게 없네요”라고 말했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 “자연미인이라구요”라고 적은 지인 SNS를 인용해 업로드 하며 성형 오해에 대한 억울한 심중도 드러냈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "옥순이 출연하는 ‘나는 SOLO’는 매주 수요일 오후 10시 30분 방송된다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘나는 솔로’ 옥순 “성형 하나도 안했다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

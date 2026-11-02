@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268540",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김영희 “이미 오늘 솔드아웃?”",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 김영희가 사회관계망서비스(SNS)로 근황을 전했다.\n김영희는 28일 SNS에 “권여사랑 북촌 일찍 도착해서 런던베이글 왔는데 이미 오늘 솔드아웃?? 언제와야 살수 있을까 ...”라는 글로 모친과 함께 외출한 일상을 사진과 함께 올렸다.\n사진에는 한 빵집 앞에 서서 기념사진을 찍고 있는 김영희 모습이 담겨있다.\n김영희는 시스루 스타일 원피스를 입고 외출했다.\n임심으로 많이 나온 D라인이 눈길을 끈다.\n김영희는 2021년 1월 10살 연하 프로 야구선수 출신 윤승열과 결혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 김영희가 사회관계망서비스(SNS)로 근황을 전했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김영희는 28일 SNS에 “권여사랑 북촌 일찍 도착해서 런던베이글 왔는데 이미 오늘 솔드아웃?? 언제와야 살수 있을까 ...”라는 글로 모친과 함께 외출한 일상을 사진과 함께 올렸다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 한 빵집 앞에 서서 기념사진을 찍고 있는 김영희 모습이 담겨있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김영희는 시스루 스타일 원피스를 입고 외출했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임심으로 많이 나온 D라인이 눈길을 끈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김영희는 2021년 1월 10살 연하 프로 야구선수 출신 윤승열과 결혼했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김영희 “이미 오늘 솔드아웃?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

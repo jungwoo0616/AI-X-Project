@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263401",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘시맨틱 에러’ 박서함, 오늘 입대",
+		"newsSubTitle": "",
+		"newsContent": "‘시맨틱 에러’를 통해 얼굴이 알려진 크나큰 출신 배우 박서함이 오늘 군에 입대한다.\n박서함은 10일 훈련소에 입소해 기초 군사 훈련을 받은 뒤 사회복무요원으로 근무한다.\n박서함은 최근 왓차 ‘시맨틱 에러’ 에서 동성친구 추상우(박재찬)를 괴롭히다가 사랑의 감정을 느끼는 시각디자인과 대학생 장재영 역을 맡아 화제를 모았다. ‘시맨틱 에러’가 왓챠 랭킹에서 1위를 차지하는 등 큰 인기를 끌고 있는 가운데, 박서함은 최종회가 공개되는 날에 군에 입대하게 됐다.\n박서함은 2016년 보이그룹 크나큰으로 데뷔했다.\nMBC 드라마 ‘20세기 소년소녀’를 통해 배우로 활동 반경을 넓혔으며, 웹드라마 ‘한입만 시즌2’, ‘필수연애교양’, ‘7일만 로맨스2’, 왓챠 ‘시맨틱 에러’ 등에 출연했다.\n소속사가 없던 그는 최근 앤피오엔터테인먼트와 전속 계약을 체결했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘시맨틱 에러’를 통해 얼굴이 알려진 크나큰 출신 배우 박서함이 오늘 군에 입대한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박서함은 10일 훈련소에 입소해 기초 군사 훈련을 받은 뒤 사회복무요원으로 근무한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박서함은 최근 왓차 ‘시맨틱 에러’ 에서 동성친구 추상우(박재찬)를 괴롭히다가 사랑의 감정을 느끼는 시각디자인과 대학생 장재영 역을 맡아 화제를 모았다. ‘시맨틱 에러’가 왓챠 랭킹에서 1위를 차지하는 등 큰 인기를 끌고 있는 가운데, 박서함은 최종회가 공개되는 날에 군에 입대하게 됐다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박서함은 2016년 보이그룹 크나큰으로 데뷔했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MBC 드라마 ‘20세기 소년소녀’를 통해 배우로 활동 반경을 넓혔으며, 웹드라마 ‘한입만 시즌2’, ‘필수연애교양’, ‘7일만 로맨스2’, 왓챠 ‘시맨틱 에러’ 등에 출연했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속사가 없던 그는 최근 앤피오엔터테인먼트와 전속 계약을 체결했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘시맨틱 에러’ 박서함, 오늘 입대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

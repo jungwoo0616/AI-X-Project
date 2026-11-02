@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266022",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "CJ ENM, 700억 규모 콘텐츠 스튜디오 설립",
+		"newsSubTitle": "",
+		"newsContent": "CJ ENM이 새 콘텐츠 스튜디오를 설립하고 글로벌 경쟁력 강화에 나선다.\nCJ ENM은 자본금 700억 규모의 콘텐츠 스튜디오 ‘CJ ENM 스튜디오스’ 법인을 신설하고 하용수 CJ ENM 성장추진실장을 대표이사로 선임했다고 5일 밝혔다.\nCJ ENM 스튜디오스는 향후 국내외 온라인 동영상 서비스(OTT) 플랫폼을 타깃으로 한 멀티 장르 콘텐츠 기획개발·제작을 중점적으로 담당한다.\n이를 위해 CJ ENM은 우수 크리에이터 영입과 제작사 인수 등에도 나설 예정이다.\nCJ ENM은 신설한 스튜디오와 2016년 설립한 스튜디오드래곤, 최근 인수작업을 끝낸 미국 엔데버 콘텐트를 멀티스튜디오 삼각편대 체제로 운영하며 콘텐츠 양과 질을 동시에 제고한다는 계획이다.\n스튜디오드래곤은 이미 입증된 글로벌 경쟁력을 바탕으로 토종 및 글로벌 OTT를 겨냥한 드라마 제작물량을 지속해서 늘리고, 엔데버 콘텐트는 미국 현지에서 CJ ENM 콘텐츠를 제작·유통하는 역할을 맡는다.\n하용수 대표는 2009년 CJ 그룹에 합류를 해 CJ 경영전략실장을 거쳐 CJ ENM 경영지원실장과 성장추진실장을 맡아 경영전략 및 M&A 업무 등을 담당했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CJ ENM이 새 콘텐츠 스튜디오를 설립하고 글로벌 경쟁력 강화에 나선다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CJ ENM은 자본금 700억 규모의 콘텐츠 스튜디오 ‘CJ ENM 스튜디오스’ 법인을 신설하고 하용수 CJ ENM 성장추진실장을 대표이사로 선임했다고 5일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CJ ENM 스튜디오스는 향후 국내외 온라인 동영상 서비스(OTT) 플랫폼을 타깃으로 한 멀티 장르 콘텐츠 기획개발·제작을 중점적으로 담당한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 위해 CJ ENM은 우수 크리에이터 영입과 제작사 인수 등에도 나설 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CJ ENM은 신설한 스튜디오와 2016년 설립한 스튜디오드래곤, 최근 인수작업을 끝낸 미국 엔데버 콘텐트를 멀티스튜디오 삼각편대 체제로 운영하며 콘텐츠 양과 질을 동시에 제고한다는 계획이다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스튜디오드래곤은 이미 입증된 글로벌 경쟁력을 바탕으로 토종 및 글로벌 OTT를 겨냥한 드라마 제작물량을 지속해서 늘리고, 엔데버 콘텐트는 미국 현지에서 CJ ENM 콘텐츠를 제작·유통하는 역할을 맡는다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하용수 대표는 2009년 CJ 그룹에 합류를 해 CJ 경영전략실장을 거쳐 CJ ENM 경영지원실장과 성장추진실장을 맡아 경영전략 및 M&A 업무 등을 담당했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CJ ENM, 700억 규모 콘텐츠 스튜디오 설립",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

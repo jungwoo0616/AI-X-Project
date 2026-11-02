@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276350",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "고 최진실 딸 최준희 \\\"엄마, 사는 게 쉽지 않더라\\\"",
+		"newsSubTitle": "",
+		"newsContent": "\\\"엄마, 멋지게 사는 사람이 되고 싶었는데\\\" 2일 배우 최진실 사망 9주기를 맞아 딸 최준희가 엄마를 향한 그리움으로 가득한 심경 글을 남겨 눈길을 끌었다.\n최준희는 2일 자신의 소셜네트워크서비스(SNS)를 통해 \\\"있지, 엄마. 나 되게 멋진 사람이 되고 싶었어\\\"라고 말문을 열며 글을 남겼다.\n그는 \\\"그래서 뭐든 열심히 하려고 했어. 인간관계도, 공부도, 일도. 근데 세상이 참 날 외롭게 해. 뭐든 내 맘대로 되는 게 하나도 없더라\\\"며 아쉬움을 토로했다.\n이어 \\\"엄마 말대로 세상 살아가는 거 쉬운 게 아니더라\\\"며 \\\"정말 멋지게 사는 사람이 되고 싶었는데 그렇게 되기에 난, 너무 부족하고 모자란가\\\"라고 털어놨다.\n그러면서 \\\"난 뭐가 되려고 이러는 걸까? 나, 잘하고 있는 거야? 이렇게 살다 보면 언젠가 나도 행복해질 수 있겠지? 요즈음 나는 살아가는 게 참 힘들다 엄마\\\"라고 덧붙였다.\n이날 최진실 모친 정옥숙씨와 아들 최환희 군, 방송인 이영자 등은 고인이 잠든 경기도의 한 추모공원에 모여 애도의 시간을 가졌다.\n그러나 최준희 양은 최근 가족간의 갈등 등의 이유로 자리에 함께하지 못한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"엄마, 멋지게 사는 사람이 되고 싶었는데\\\" 2일 배우 최진실 사망 9주기를 맞아 딸 최준희가 엄마를 향한 그리움으로 가득한 심경 글을 남겨 눈길을 끌었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최준희는 2일 자신의 소셜네트워크서비스(SNS)를 통해 \\\"있지, 엄마. 나 되게 멋진 사람이 되고 싶었어\\\"라고 말문을 열며 글을 남겼다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"그래서 뭐든 열심히 하려고 했어. 인간관계도, 공부도, 일도. 근데 세상이 참 날 외롭게 해. 뭐든 내 맘대로 되는 게 하나도 없더라\\\"며 아쉬움을 토로했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"엄마 말대로 세상 살아가는 거 쉬운 게 아니더라\\\"며 \\\"정말 멋지게 사는 사람이 되고 싶었는데 그렇게 되기에 난, 너무 부족하고 모자란가\\\"라고 털어놨다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 \\\"난 뭐가 되려고 이러는 걸까? 나, 잘하고 있는 거야? 이렇게 살다 보면 언젠가 나도 행복해질 수 있겠지? 요즈음 나는 살아가는 게 참 힘들다 엄마\\\"라고 덧붙였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 최진실 모친 정옥숙씨와 아들 최환희 군, 방송인 이영자 등은 고인이 잠든 경기도의 한 추모공원에 모여 애도의 시간을 가졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 최준희 양은 최근 가족간의 갈등 등의 이유로 자리에 함께하지 못한 것으로 알려졌다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고 최진실 딸 최준희 \\\"엄마, 사는 게 쉽지 않더라\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

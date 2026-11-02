@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258524",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "유주 “소장가치 있는 앨범, 만들고파”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 여자친구 출신 가수 유주가 솔로활동에 대한 욕심을 내비쳤다.\n유주는 18일 오후 온라인중계된 유주의 첫 솔로앨범 ‘Rec.’ 기자간담회에서 ‘솔로가수로서 원하는 목표’를 묻자 “소장가치 있는 앨범을 만드는 가수가 되고 싶다”고 밝혔다.\n그는 “훌륭한 가수들이 너무 많아 롤모델을 한 사람만 꼽긴 어렵다. 다만 좋은 노래로 팬들과 오래오래 함께하는 가수가 되고 싶다”고 말했다.\n이어 듣고 싶은 평에 대해선 “나에 대해 몰랐던 사람들도 내 노래를 듣곤 ‘유주 노래 좋더라’라고 입소문을 내준다면 그게 가장 행복할 것 같다”고 답했다.\n유주는 이날 오후 6시 각종 음원사이트를 통해 첫번째 솔로 앨범 ‘REC.’를 발매한다.\n그룹 활동 이후 1년 2개월 만의 등장이자, 솔로 아티스트로 음악 인생 2막을 여는 첫 페이지다.\n타이틀 곡 ‘놀이(Play)’를 비롯해 다섯 트랙의 작사, 작곡에 모두 참여했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 여자친구 출신 가수 유주가 솔로활동에 대한 욕심을 내비쳤다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유주는 18일 오후 온라인중계된 유주의 첫 솔로앨범 ‘Rec.’ 기자간담회에서 ‘솔로가수로서 원하는 목표’를 묻자 “소장가치 있는 앨범을 만드는 가수가 되고 싶다”고 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “훌륭한 가수들이 너무 많아 롤모델을 한 사람만 꼽긴 어렵다. 다만 좋은 노래로 팬들과 오래오래 함께하는 가수가 되고 싶다”고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 듣고 싶은 평에 대해선 “나에 대해 몰랐던 사람들도 내 노래를 듣곤 ‘유주 노래 좋더라’라고 입소문을 내준다면 그게 가장 행복할 것 같다”고 답했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유주는 이날 오후 6시 각종 음원사이트를 통해 첫번째 솔로 앨범 ‘REC.’를 발매한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그룹 활동 이후 1년 2개월 만의 등장이자, 솔로 아티스트로 음악 인생 2막을 여는 첫 페이지다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "타이틀 곡 ‘놀이(Play)’를 비롯해 다섯 트랙의 작사, 작곡에 모두 참여했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유주 “소장가치 있는 앨범, 만들고파”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

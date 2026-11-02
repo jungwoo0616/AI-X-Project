@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274999",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "트와이스 사나, 큐티 섹시 본좌가 나섰다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스(TWICE)의 멤버 사나가 도발적인 매력을 뽐냈다.\n사나는 7일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 멘트 없이 사진들을 게재했다.\n사나는 한 잡지사와 촬영 중 찍은 사진을 올렸다.\n특히 사나는 등이 훤히 튼 드레스를 착용해 시원함 무드를 자랑했고, 머리카락을 꼬며 귀여운 느낌까지 잡아냈다.\n앞서 사나는 지난 5월 트와이스 7주년을 맞이해 개인 SNS 계정을 만든 후 활발한 활동으로 팬들과의 소통을 이어가는 중이다.\n한편 사나가 속한 트와이스는 최근 네 번째 월드투어를 성황리에 마쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스(TWICE)의 멤버 사나가 도발적인 매력을 뽐냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사나는 7일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 별다른 멘트 없이 사진들을 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사나는 한 잡지사와 촬영 중 찍은 사진을 올렸다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 사나는 등이 훤히 튼 드레스를 착용해 시원함 무드를 자랑했고, 머리카락을 꼬며 귀여운 느낌까지 잡아냈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 사나는 지난 5월 트와이스 7주년을 맞이해 개인 SNS 계정을 만든 후 활발한 활동으로 팬들과의 소통을 이어가는 중이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 사나가 속한 트와이스는 최근 네 번째 월드투어를 성황리에 마쳤다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 사나, 큐티 섹시 본좌가 나섰다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

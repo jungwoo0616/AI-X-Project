@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270936",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신민아, 이탈리아도 평정한 ‘러블리 미소’",
+		"newsSubTitle": "",
+		"newsContent": "배우 신민아가 러블리한 근황을 공개했다.\n신민아는 21과 22일에 거쳐 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.\n사진 속 신민아는 이탈리아의 거리를 구경하는 등 여행을 즐기는 모습이다.\n아이스크림과 함께 찍은 셀카 속 빛나는 미모가 시선을 끈다.\n사진을 본 신민아의 글로벌 팬들은 “이탈리아에 온 것을 환영한다” “너무 예쁘고 귀엽다” “좋은 시간 보냈길 바란다”며 긍정적인 반응을 보였다.\n한편 신민아는 현재 tvN 드라마 ‘우리들의 블루스’에 출연중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 신민아가 러블리한 근황을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신민아는 21과 22일에 거쳐 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 신민아는 이탈리아의 거리를 구경하는 등 여행을 즐기는 모습이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이스크림과 함께 찍은 셀카 속 빛나는 미모가 시선을 끈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진을 본 신민아의 글로벌 팬들은 “이탈리아에 온 것을 환영한다” “너무 예쁘고 귀엽다” “좋은 시간 보냈길 바란다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 신민아는 현재 tvN 드라마 ‘우리들의 블루스’에 출연중이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신민아, 이탈리아도 평정한 ‘러블리 미소’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

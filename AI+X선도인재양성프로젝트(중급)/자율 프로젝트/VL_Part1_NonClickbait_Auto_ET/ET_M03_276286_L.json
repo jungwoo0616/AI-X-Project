@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276286",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강다니엘 심한 몸살로 고통 호소, 촬영 중단까지",
+		"newsSubTitle": "",
+		"newsContent": "인기 그룹 워너원의 강다니엘이 심한 몸살을 앓고 있다고 전해졌다.\n6일 복수의 가요 관계자에 따르면, 지난 5일부터 강다니엘은 심한 감기몸살을 앓고 있다.\n심지어 고열 증상에 더해 목소리도 제대로 나오지 않는 상태이며, 제대로 걷는 것조차 힘겨워하는 상황이라고 전해졌다.\n지난 5일 위해 병원을 찾아 주사만 맞고 퇴원했지만, 호전되지 않은 것으로 알려졌다.\n이에 6일 예정된 일정을 취소한 뒤 병원을 다시 찾기로 했다.\n그러나 6일 오후 진행되는 팬 행사에는 강다니엘의 의지로 잠시나마 참석해 팬들에게 인사와 사과를 건넬 것으로 알려졌다.\n강다니엘의 추후 스케줄은 협조를 받아 조정될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인기 그룹 워너원의 강다니엘이 심한 몸살을 앓고 있다고 전해졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 복수의 가요 관계자에 따르면, 지난 5일부터 강다니엘은 심한 감기몸살을 앓고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "심지어 고열 증상에 더해 목소리도 제대로 나오지 않는 상태이며, 제대로 걷는 것조차 힘겨워하는 상황이라고 전해졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 5일 위해 병원을 찾아 주사만 맞고 퇴원했지만, 호전되지 않은 것으로 알려졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 6일 예정된 일정을 취소한 뒤 병원을 다시 찾기로 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 6일 오후 진행되는 팬 행사에는 강다니엘의 의지로 잠시나마 참석해 팬들에게 인사와 사과를 건넬 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강다니엘의 추후 스케줄은 협조를 받아 조정될 예정이다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강다니엘 심한 몸살로 고통 호소, 촬영 중단까지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261534",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "봉구 “3월 19일 장가갑니다”[공식]",
+		"newsSubTitle": "예비신부 1살연하 사업가수년간 열애 아름다운 결실",
+		"newsContent": "실력파 남성듀오 길구봉구의 봉구가 결혼한다.\n소속사 트라이어스는 “멤버 봉구가 비연예인 배우자와 결혼식을 올린다”고 전했다.\n예비신부는 1살 연하의 사업가로 여러 해 사랑을 키워오다 결실을 맺게 되었다.\n두 사람의 결혼식은 오는 3월 19일(토) 서울 모처에서 가족, 가까운 지인을 모시고 방역수칙을 준수하여 진행될 예정이다.\n봉구는 지난 18일(금) 저녁 SNS 라이브 방송으로 팬들에게 제일 먼저 결혼 소식을 전했고 많은 축하를 받았다.\n봉구는 “평생을 함께 하고 싶은 사람을 만나 여러분께 좋은 소식을 전해드리게 되었습니다. 여러 계절을 함께 보내면서 행복과 고마운 감정을 크게 느끼게 해준 사람과 결혼을 약속했습니다. 여러분들의 축복 속에 더할 나위 없이 좋은 하루하루를 보내고 있습니다. 그 감사한 마음을 기억하고 앞으로도 좋은 음악으로 인사 드리겠습니다. 감사합니다”라고 소감을 밝혔다.\n한편, 봉구가 속한 길구봉구는 ‘바람이 불었으면 좋겠어’, ‘이 별’, ‘있어줄래’, ‘너 하나야’ 등 발매하는 음원 마다 주요 음원사이트에서 좋은 성적을 거두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실력파 남성듀오 길구봉구의 봉구가 결혼한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 트라이어스는 “멤버 봉구가 비연예인 배우자와 결혼식을 올린다”고 전했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예비신부는 1살 연하의 사업가로 여러 해 사랑을 키워오다 결실을 맺게 되었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람의 결혼식은 오는 3월 19일(토) 서울 모처에서 가족, 가까운 지인을 모시고 방역수칙을 준수하여 진행될 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "봉구는 지난 18일(금) 저녁 SNS 라이브 방송으로 팬들에게 제일 먼저 결혼 소식을 전했고 많은 축하를 받았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "봉구는 “평생을 함께 하고 싶은 사람을 만나 여러분께 좋은 소식을 전해드리게 되었습니다. 여러 계절을 함께 보내면서 행복과 고마운 감정을 크게 느끼게 해준 사람과 결혼을 약속했습니다. 여러분들의 축복 속에 더할 나위 없이 좋은 하루하루를 보내고 있습니다. 그 감사한 마음을 기억하고 앞으로도 좋은 음악으로 인사 드리겠습니다. 감사합니다”라고 소감을 밝혔다.",
+				"sentenceSize": 199
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 봉구가 속한 길구봉구는 ‘바람이 불었으면 좋겠어’, ‘이 별’, ‘있어줄래’, ‘너 하나야’ 등 발매하는 음원 마다 주요 음원사이트에서 좋은 성적을 거두고 있다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "봉구 “3월 19일 장가갑니다”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

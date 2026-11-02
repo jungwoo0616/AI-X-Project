@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276969",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"유나이티드 항공이 식당을 연다면?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 데이브가 자신의 유튜브를 통해 공개한 영상이 화제다.\n지난 11일 데이브는 \\\"유나이티드가 식당을 만들었다면?\\\"이라는 제목의 58초짜리 동영상을 올렸다.\n영상 속에서 데이브는 유나이티드 항공사가 햄버거 가게를 운영하는 상황을 가정했다.\n\\\"직원들이 배가 고픈데 더는 햄버거가 없다\\\"는 말을 들은 데이브는 \\\"걱정하지 말라\\\"며 햄버거를 먹던 손님에게 다가가 \\\"여기서 누군가 햄버거를 하나 줘야 합니다\\\"라고 당당히 말한다.\n그리고는 여러 사람을 둘러보다가 동양인 남성을 선택해 \\\"햄버거를 돌려달라\\\"고 말한다.\n해당 손님은 \\\"싫어요. 계산했잖아요\\\"라고 거부했지만, 데이브는 \\\"우리 오버부킹 됐어요\\\"라고 말하며 손님들 다그쳤다.\n손님 역할을 맡은 남성은 계속해서 저항하지만, 데이브는 이를 무시하고 그를 끌고 나간다.\n이 영상은 동양인 남성을 강제로 하차하게 해 화제가 되는 유나이티드 항공사를 비꼰 것이다.\n데이브는 영상의 마지막에 \\\"고객을 동물 취급하지 말고 개념 챙겨라\\\"라며 \\\"너의 가족이었어도 그렇게 했을까?\\\"라는 문구를 넣어 유나이티드 항공사의 행동에 강력히 항의했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 데이브가 자신의 유튜브를 통해 공개한 영상이 화제다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 11일 데이브는 \\\"유나이티드가 식당을 만들었다면?\\\"이라는 제목의 58초짜리 동영상을 올렸다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에서 데이브는 유나이티드 항공사가 햄버거 가게를 운영하는 상황을 가정했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "\\\"직원들이 배가 고픈데 더는 햄버거가 없다\\\"는 말을 들은 데이브는 \\\"걱정하지 말라\\\"며 햄버거를 먹던 손님에게 다가가 \\\"여기서 누군가 햄버거를 하나 줘야 합니다\\\"라고 당당히 말한다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그리고는 여러 사람을 둘러보다가 동양인 남성을 선택해 \\\"햄버거를 돌려달라\\\"고 말한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 손님은 \\\"싫어요. 계산했잖아요\\\"라고 거부했지만, 데이브는 \\\"우리 오버부킹 됐어요\\\"라고 말하며 손님들 다그쳤다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손님 역할을 맡은 남성은 계속해서 저항하지만, 데이브는 이를 무시하고 그를 끌고 나간다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 영상은 동양인 남성을 강제로 하차하게 해 화제가 되는 유나이티드 항공사를 비꼰 것이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "데이브는 영상의 마지막에 \\\"고객을 동물 취급하지 말고 개념 챙겨라\\\"라며 \\\"너의 가족이었어도 그렇게 했을까?\\\"라는 문구를 넣어 유나이티드 항공사의 행동에 강력히 항의했다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"유나이티드 항공이 식당을 연다면?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

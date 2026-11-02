@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261053",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“아직도 이런 일이…경악” 김혜리, 양심불량 대기업 카페에 일침",
+		"newsSubTitle": "",
+		"newsContent": "가수 김혜리가 ‘양심불량’ 대기업 브랜드 카페에 일침을 날렸다.\n김혜리는 최근 자신의 SNS인스타그램에 “어머나?? 요즘 우리나라에서 이런 일이 아직도 일어날 수 있다는 것에 경악…”이라면서 동영상을 올렸다.\n그는 “컵 한가득 담겨있는 딸기가 너무 맛있어보이길래 딸기 주스를 주문했는데 반 만 갈아서 주는 건 뭐지?”라면서 “너무 묽어서 봤더니 내 컵에 있던 딸기가 다른 컵에 반이 남아있다. 그것도 외국 사람들도 다니는 공항 안에서…뭐라고 하려다가 많은 사람들이 알아야 나 같은 경우를 안 당할 것 같아서 올린다”고 적었다.\n영상에는 한 대기업이 운영하는 프랜차이즈 브랜드 컵에 담긴 딸기 주스가 보인다.\n그는 #창피하다 #반성하세요 #대기업체인점이이럼안되죠 등의 해시태그도 덧붙였다.\n누리꾼들은 “도대체 왜 그러냐” “정성으로 쥬스를 만들어서 손님에게 드려야 하는데…” 등 황당하다는 반응을 보였다.\n한편, 김혜리는 딸과 함께 제주도에 거주 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김혜리가 ‘양심불량’ 대기업 브랜드 카페에 일침을 날렸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김혜리는 최근 자신의 SNS인스타그램에 “어머나?? 요즘 우리나라에서 이런 일이 아직도 일어날 수 있다는 것에 경악…”이라면서 동영상을 올렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “컵 한가득 담겨있는 딸기가 너무 맛있어보이길래 딸기 주스를 주문했는데 반 만 갈아서 주는 건 뭐지?”라면서 “너무 묽어서 봤더니 내 컵에 있던 딸기가 다른 컵에 반이 남아있다. 그것도 외국 사람들도 다니는 공항 안에서…뭐라고 하려다가 많은 사람들이 알아야 나 같은 경우를 안 당할 것 같아서 올린다”고 적었다.",
+				"sentenceSize": 177
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상에는 한 대기업이 운영하는 프랜차이즈 브랜드 컵에 담긴 딸기 주스가 보인다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 #창피하다 #반성하세요 #대기업체인점이이럼안되죠 등의 해시태그도 덧붙였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 “도대체 왜 그러냐” “정성으로 쥬스를 만들어서 손님에게 드려야 하는데…” 등 황당하다는 반응을 보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 김혜리는 딸과 함께 제주도에 거주 중이다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“아직도 이런 일이…경악” 김혜리, 양심불량 대기업 카페에 일침",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

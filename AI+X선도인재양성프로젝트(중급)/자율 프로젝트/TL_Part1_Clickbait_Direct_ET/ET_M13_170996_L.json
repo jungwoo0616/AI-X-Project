@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170996",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조보아, 순백의 美[화보]",
+    "newsSubTitle": "",
+    "newsContent": "배우 조보아의 단아함이 느껴지는 화보를 공개됐다.\n소속사 키이스트는 27일 조보아가 모델로 활동 중인 코스메틱 브랜드의 건강미 넘치는 화보를 공개했다.\n공개된 화보 속 조보아는 무결점 피부와 큰 눈망울, 특유의 밝은 미소로 청초한 미모를 자랑하고 있다.\n또한 화이트 톤의 의상으로 맑고 깨끗한 이미지를 선사했다.\n독보적인 분위기로 시선을 뺏은 그는 내추럴하면서도 우아한 분위기로 눈길을 사로잡는다.\n조보아는 촬영 현장에서 웃음을 잃지 않으며 컷마다 자유자재로 포즈와 표정을 담아냈다.\n이를 본 스태프들은 그의 긍정적인 에너지에 환호했다는 후문이다.\n한편, 조보아는 차기작 검토 중이라 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 조보아의 단아함이 느껴지는 화보를 공개됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 키이스트는 27일 조보아가 모델로 활동 중인 코스메틱 브랜드의 건강미 넘치는 화보를 공개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 화보 속 조보아는 무결점 피부와 큰 눈망울, 특유의 밝은 미소로 청초한 미모를 자랑하고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 화이트 톤의 의상으로 맑고 깨끗한 이미지를 선사했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "독보적인 분위기로 시선을 뺏은 그는 내추럴하면서도 우아한 분위기로 눈길을 사로잡는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조보아는 촬영 현장에서 웃음을 잃지 않으며 컷마다 자유자재로 포즈와 표정을 담아냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 스태프들은 그의 긍정적인 에너지에 환호했다는 후문이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 조보아는 차기작 검토 중이라 알려졌다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조보아, 코스메틱 모델다운 건강미... 스태프들 '이것'에 환호",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

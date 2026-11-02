@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285034",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'마션' 400만 돌파…개봉 20일째 식지 않은 열기",
+		"newsSubTitle": "",
+		"newsContent": "영화 '마션'(리들리 스콧 감독)이 개봉 20일 만에 400만 관객을 돌파했다.\n300만 돌파 이후 잠시 주춤했지만, 식지 않은 열기를 자랑 중이다.\n영화진흥위원회 영화관입장권통합전산망에 따르면 27일 '마션'은 5만2091명의 관객을 모으며, 누적 관객 수 405만954명을 기록했다.\n개봉 1주차 주말에 100만 관객을 사로잡았던 '마션'이 개봉 2주차 주말에도 50만이 넘는 관객을 불러모으며 흥행 열기를 이어갔던 상황. 영화 '더폰' 개봉 후 박스오피스 1위 자리를 내주며 잠시 주춤하는 모습이었으나 400만 고지를 넘어서며 저력을 발휘했다.\n지난 8일 개봉한 '마션'은 화성을 탐사하던 중 고립된 한 남자를 구하기 위해 NASA의 팀원들과 지구인이 펼치는 구출 작전을 그린 작품이다.\n맷 데이먼이 출연했으며, 리들리 스콧이 연출을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 '마션'(리들리 스콧 감독)이 개봉 20일 만에 400만 관객을 돌파했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "300만 돌파 이후 잠시 주춤했지만, 식지 않은 열기를 자랑 중이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영화진흥위원회 영화관입장권통합전산망에 따르면 27일 '마션'은 5만2091명의 관객을 모으며, 누적 관객 수 405만954명을 기록했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개봉 1주차 주말에 100만 관객을 사로잡았던 '마션'이 개봉 2주차 주말에도 50만이 넘는 관객을 불러모으며 흥행 열기를 이어갔던 상황. 영화 '더폰' 개봉 후 박스오피스 1위 자리를 내주며 잠시 주춤하는 모습이었으나 400만 고지를 넘어서며 저력을 발휘했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 8일 개봉한 '마션'은 화성을 탐사하던 중 고립된 한 남자를 구하기 위해 NASA의 팀원들과 지구인이 펼치는 구출 작전을 그린 작품이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "맷 데이먼이 출연했으며, 리들리 스콧이 연출을 맡았다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'마션' 400만 돌파…개봉 20일째 식지 않은 열기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

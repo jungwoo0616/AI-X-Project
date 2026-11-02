@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278328",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "주상욱과 열애 차예련, 박한별과 커플 반지…? \\\"오랜만에 별이 언니랑 데이트\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 차예련과 주상욱의 열애설이 사실로 밝혀져 화제인 가운데 차예련의 SNS에 올라온 사진도 눈길을 끈다.\n지난 1월, 차예련의 인스타그램에는 한 장의 사진이 게시됐다.\n\\\"오랜만에 별이언니랑 데이트 강설리, 강일주의 만남 #우정반지맞춘날\\\"라는 글과 함께 게시된 이 사진은 다정하게 밀착하고 있는 박한별과 차예련 두 사람의 모습을 담고 있었다.\n특히 두 사람은 같은 모양의 반지를 선보이며 우정을 과시해 관심을 모았다.\n한편 29일, 주상욱의 소속사는 \\\"주상욱과 차예련이 드라마를 함께 촬영하며 가까워졌고, 최근 서로 좋은 감정을 가지고 만남을 시작했다\\\"고 입장을 밝혔다.\n온라인 중앙일보 [사진 차예련 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 차예련과 주상욱의 열애설이 사실로 밝혀져 화제인 가운데 차예련의 SNS에 올라온 사진도 눈길을 끈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1월, 차예련의 인스타그램에는 한 장의 사진이 게시됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "\\\"오랜만에 별이언니랑 데이트 강설리, 강일주의 만남 #우정반지맞춘날\\\"라는 글과 함께 게시된 이 사진은 다정하게 밀착하고 있는 박한별과 차예련 두 사람의 모습을 담고 있었다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 두 사람은 같은 모양의 반지를 선보이며 우정을 과시해 관심을 모았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 29일, 주상욱의 소속사는 \\\"주상욱과 차예련이 드라마를 함께 촬영하며 가까워졌고, 최근 서로 좋은 감정을 가지고 만남을 시작했다\\\"고 입장을 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 차예련 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "주상욱과 열애 차예련, 박한별과 커플 반지…? \\\"오랜만에 별이 언니랑 데이트\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

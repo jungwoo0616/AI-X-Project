@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171245",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "에이티즈, 컴백 2주 차에도 글로벌 화력 입증",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에이티즈(ATEEZ)가 앨범 발매 2주 차에도 뜨거운 인기를 이어간다.\n소속사 KQ엔터테인먼트는 27일 에이티즈의 미니 7집이 한터차트 글로벌 부문 실시간(오전 10시 기준), 일간(집계 기간 9월 26일), 주간(집계 기간 9월 20~26일) 차트 1위를 기록했고 밝혔다.\n한터차트 내 글로벌 차트는 전 세계 팬들이 직접 구매한 앨범을 GPS 기반으로 수집해 반영되는 것으로, 에이티즈의 이번 앨범은 일간 기준 프랑스, 마르티니크, 태국 등의 곳에서 사랑을 받았다.\n뿐만 아니라 주간 기준에서 역시 미국, 프랑스, 말레이시아, 싱가포르 순으로 가장 많이 팔리며 다양한 국가에서의 인기를 입증했다. ‘제로 : 피버 파트 3’는 23일 발표된 가온차트 주간(집계 기간 9월 12일~18일) 앨범 차트 2위 및 리테일 앨범 차트 3위를 기록했으며, 초동 66만 장이 달성과 함께 ‘빌보드 200’에 42위로 진입하는 등 총 7개의 차트에 이름을 올려 ‘차세대 K팝 주자’의 입지를 굳혔다.\n특히 발매 2주 만에 스포티파이 전체 스트리밍 수 1160만을 돌파했으며, 활동곡 ‘데자부(Deja Vu)’는 약 550만 회를 앞두며 전작을 훨씬 뛰어넘는 성적을 보여주고 있다.\n한편 에이티즈는 오는 28일 SBS MTV ‘더쇼’에 출연하여 컴백 무대를 이어간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에이티즈(ATEEZ)가 앨범 발매 2주 차에도 뜨거운 인기를 이어간다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 KQ엔터테인먼트는 27일 에이티즈의 미니 7집이 한터차트 글로벌 부문 실시간(오전 10시 기준), 일간(집계 기간 9월 26일), 주간(집계 기간 9월 20~26일) 차트 1위를 기록했고 밝혔다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한터차트 내 글로벌 차트는 전 세계 팬들이 직접 구매한 앨범을 GPS 기반으로 수집해 반영되는 것으로, 에이티즈의 이번 앨범은 일간 기준 프랑스, 마르티니크, 태국 등의 곳에서 사랑을 받았다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "뿐만 아니라 주간 기준에서 역시 미국, 프랑스, 말레이시아, 싱가포르 순으로 가장 많이 팔리며 다양한 국가에서의 인기를 입증했다. ‘제로 : 피버 파트 3’는 23일 발표된 가온차트 주간(집계 기간 9월 12일~18일) 앨범 차트 2위 및 리테일 앨범 차트 3위를 기록했으며, 초동 66만 장이 달성과 함께 ‘빌보드 200’에 42위로 진입하는 등 총 7개의 차트에 이름을 올려 ‘차세대 K팝 주자’의 입지를 굳혔다.",
+        "sentenceSize": 233
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 발매 2주 만에 스포티파이 전체 스트리밍 수 1160만을 돌파했으며, 활동곡 ‘데자부(Deja Vu)’는 약 550만 회를 앞두며 전작을 훨씬 뛰어넘는 성적을 보여주고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 에이티즈는 오는 28일 SBS MTV ‘더쇼’에 출연하여 컴백 무대를 이어간다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 에이티즈(ATEEZ), 어느덧 컴백 2주 차... 가장 반응이 좋은 나라는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263642",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "박봄 ‘꽃’ 3개 음악차트in",
+		"newsSubTitle": "",
+		"newsContent": "가수 박봄(Park Bom)이 화려하게 귀환했다.\n박봄은 11일 오후 6시 각종 음원사이트를 통해 새 싱글 ‘꽃(With 김민석 of 멜로망스)’을 공개, 발매 직후 열띤 관심을 받고 있다.\n공개되자마자 팬들의 뜨거운 응원을 받은 박봄의 ‘꽃’은 벅스 실시간 차트 3위, 지니 실시간 차트 23위, 멜론 실시간 차트 66위(11일 오후 7시 기준)를 기록하며 파워를 입증했다.\n발매 직후 음원사이트 차트인을 달성하며, 화려하게 피어난 박봄의 컴백을 알렸다.\n국내 음원사이트를 점령한 박봄의 ‘꽃’은 무너져 내린 자신을 원망하고 미워한 채 황량하고 피폐한 마음으로 하루를 살아가는 그녀와 그녀를 바라보고 같이 아파하며 묵묵히 같은 길을 걷고자 하는 남자의 마음을 담은 곡으로, 멜로망스 김민석이 함께 참여해 애절한 감성을 더했다.\n한계 없는 장르 소화력과 희소성 높은 보이스로 사랑을 받고 있는 박봄과 또 다른 ‘음색 장인’ 김민석이 함께한 신곡 ‘꽃’에 대해 음악 팬들의 이목이 집중되고 있다.\n한편, 신곡 ‘꽃’으로 돌아온 박봄은 다양한 콘텐츠로 팬들을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박봄(Park Bom)이 화려하게 귀환했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박봄은 11일 오후 6시 각종 음원사이트를 통해 새 싱글 ‘꽃(With 김민석 of 멜로망스)’을 공개, 발매 직후 열띤 관심을 받고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개되자마자 팬들의 뜨거운 응원을 받은 박봄의 ‘꽃’은 벅스 실시간 차트 3위, 지니 실시간 차트 23위, 멜론 실시간 차트 66위(11일 오후 7시 기준)를 기록하며 파워를 입증했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "발매 직후 음원사이트 차트인을 달성하며, 화려하게 피어난 박봄의 컴백을 알렸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내 음원사이트를 점령한 박봄의 ‘꽃’은 무너져 내린 자신을 원망하고 미워한 채 황량하고 피폐한 마음으로 하루를 살아가는 그녀와 그녀를 바라보고 같이 아파하며 묵묵히 같은 길을 걷고자 하는 남자의 마음을 담은 곡으로, 멜로망스 김민석이 함께 참여해 애절한 감성을 더했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한계 없는 장르 소화력과 희소성 높은 보이스로 사랑을 받고 있는 박봄과 또 다른 ‘음색 장인’ 김민석이 함께한 신곡 ‘꽃’에 대해 음악 팬들의 이목이 집중되고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 신곡 ‘꽃’으로 돌아온 박봄은 다양한 콘텐츠로 팬들을 만날 예정이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박봄 ‘꽃’ 3개 음악차트in",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

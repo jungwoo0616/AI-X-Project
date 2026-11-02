@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277661",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마고 로비, 남친과 호주서 극비 결혼",
+		"newsSubTitle": "",
+		"newsContent": "배우 마고 로비가 남자친구 톰 액컬리와 극비 결혼식을 올렸다.\n호주 데일리 텔레그래프는 \\\"두 사람이 주말 바이런 베이에서 결혼식을 올리고 저익 부부가 됐다\\\"고 지난 19일(현지시각) 보도했다.\n이 결혼식에는 마고 로비의 어머니와 그의 세 남매가 참석했다.\n또한 식은 가족과 절친한 친구들만 참석한 후 극비로 진행됐다.\n마고 로비와 톰 액컬리는 크리스마스 연휴를 호주에서 보낼 예정이다.\n마고 로비와 톰 애컬리는 지난 2014년부터 교제해왔다.\n올해 초 약혼하며 결혼을 예고한 바 있다.\n한편, 마고 로비는 영화 '수어사이드 스쿼드'의 할리퀸으로 국내에서도 많은 팬을 보유한 배우다.\n톰 액컬리는 영국 출신의 영화 조감독이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 마고 로비가 남자친구 톰 액컬리와 극비 결혼식을 올렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "호주 데일리 텔레그래프는 \\\"두 사람이 주말 바이런 베이에서 결혼식을 올리고 저익 부부가 됐다\\\"고 지난 19일(현지시각) 보도했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 결혼식에는 마고 로비의 어머니와 그의 세 남매가 참석했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 식은 가족과 절친한 친구들만 참석한 후 극비로 진행됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마고 로비와 톰 액컬리는 크리스마스 연휴를 호주에서 보낼 예정이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마고 로비와 톰 애컬리는 지난 2014년부터 교제해왔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올해 초 약혼하며 결혼을 예고한 바 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 마고 로비는 영화 '수어사이드 스쿼드'의 할리퀸으로 국내에서도 많은 팬을 보유한 배우다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "톰 액컬리는 영국 출신의 영화 조감독이다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마고 로비, 남친과 호주서 극비 결혼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169594",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "황인영 류정한 오늘(13일) 결혼…비공개 ‘스몰웨딩’",
+    "newsSubTitle": "",
+    "newsContent": "류정한(46) 황인영(39)이 결혼한다.\n뮤지컬 배우 류정한과 탤런트 황인영은 3월 13일 1년여의 열애 끝에 비공개로 결혼식을 올린다.\n결혼식은 가족, 친척 가까운 지인 등만 참석하는 스몰웨딩 형식으로 진행된다.\n관계자에 따르면 두 사람은 약 1년 정도 교제하면서 지난해 연말 양가 상견례를 마친 뒤 본격 결혼 준비를 해왔다.\n류정한은 앞서 자신의 공식 사이트에 자필편지로 결혼 소식을 직접 전했다.\n그는 \\\"선물 같은 소중한 사람을 만났다. 오랜 시간 한 길만 바라보고 온 부족한 저에게 여유와 믿음, 소박한 희망을 가질 수 있게 해준 친구\\\"라며 예비신부 황인영에 대한 애정을 드러냈다.\n지난 1999년 영화 '댄스댄스'로 데뷔한 황인영은 SBS '연개소문'(2006) '산부인과'(2010) JTBC '무자식 상팔자'(2012) KBS 1TV '징비록'(2015) 등에 출연했다.\n정한은 서울대 성악과 출신으로 1997년 뮤지컬 '웨스트사이드스토리'로 데뷔, 20여년간 뮤지컬 팬들의 뜨거운 사랑을 받아온 뮤지컬 배우다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "류정한(46) 황인영(39)이 결혼한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "뮤지컬 배우 류정한과 탤런트 황인영은 3월 13일 1년여의 열애 끝에 비공개로 결혼식을 올린다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결혼식은 가족, 친척 가까운 지인 등만 참석하는 스몰웨딩 형식으로 진행된다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "관계자에 따르면 두 사람은 약 1년 정도 교제하면서 지난해 연말 양가 상견례를 마친 뒤 본격 결혼 준비를 해왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "류정한은 앞서 자신의 공식 사이트에 자필편지로 결혼 소식을 직접 전했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"선물 같은 소중한 사람을 만났다. 오랜 시간 한 길만 바라보고 온 부족한 저에게 여유와 믿음, 소박한 희망을 가질 수 있게 해준 친구\\\"라며 예비신부 황인영에 대한 애정을 드러냈다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 1999년 영화 '댄스댄스'로 데뷔한 황인영은 SBS '연개소문'(2006) '산부인과'(2010) JTBC '무자식 상팔자'(2012) KBS 1TV '징비록'(2015) 등에 출연했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정한은 서울대 성악과 출신으로 1997년 뮤지컬 '웨스트사이드스토리'로 데뷔, 20여년간 뮤지컬 팬들의 뜨거운 사랑을 받아온 뮤지컬 배우다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "황인영-류정한, 3월 13일 비밀리에 '스몰웨딩'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

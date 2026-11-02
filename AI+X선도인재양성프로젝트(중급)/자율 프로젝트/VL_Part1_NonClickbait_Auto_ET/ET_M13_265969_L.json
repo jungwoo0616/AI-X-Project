@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265969",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "공효진, 생일 축하에 함박 웃음",
+		"newsSubTitle": "",
+		"newsContent": "배우 공효진이 친구들에게 생일 축하를 받아 행복한 미소를 지었다.\n배우 엄지원은 5일 자신의 사회관계망서비스(SNS) 인스타그램과 인스타그램 스토리를 통해 사진들을 게재했다.\n사진 속 공효진은 친구들에게 생일 축하를 받아 웃고 있는 모습을 담았다.\n특히 공효진 앞에 있는 케이크에는 ‘HAPPY BIRTHDAY HYOJIN’이라고 적혀있어 그의 생일 파티임을 짐작케 한다.\n공효진의 주변에 꽃들이 장식되어 있어 화사한 분위기를 더한다.\n또다른 영상에서 엄지원을 비롯한 지인들은 공효진에게 생일 축하 노래를 불러주며 축하하고 있다.\n앞서 생일을 앞둔 공효진은 지난달 30일 자신의 인스타그램에 “곧 다가올 생일 때 여러분의 넘치는 축하만 받겠다”라고 밝힌 바 있다.\n한편 공효진은 최근 현빈, 손예진의 결혼식에서 부케를 받았다고 알려졌고, 가수 케빈오와 열애 소식을 인정해 화제를 모았다.\n또 공효진은 드라마 ‘별들에게 물어봐’ 출연을 확정지었고, 한국계 미국인 우주비행사 ‘이브 킴’ 역을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 공효진이 친구들에게 생일 축하를 받아 행복한 미소를 지었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 엄지원은 5일 자신의 사회관계망서비스(SNS) 인스타그램과 인스타그램 스토리를 통해 사진들을 게재했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 공효진은 친구들에게 생일 축하를 받아 웃고 있는 모습을 담았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 공효진 앞에 있는 케이크에는 ‘HAPPY BIRTHDAY HYOJIN’이라고 적혀있어 그의 생일 파티임을 짐작케 한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공효진의 주변에 꽃들이 장식되어 있어 화사한 분위기를 더한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또다른 영상에서 엄지원을 비롯한 지인들은 공효진에게 생일 축하 노래를 불러주며 축하하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 생일을 앞둔 공효진은 지난달 30일 자신의 인스타그램에 “곧 다가올 생일 때 여러분의 넘치는 축하만 받겠다”라고 밝힌 바 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 공효진은 최근 현빈, 손예진의 결혼식에서 부케를 받았다고 알려졌고, 가수 케빈오와 열애 소식을 인정해 화제를 모았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 공효진은 드라마 ‘별들에게 물어봐’ 출연을 확정지었고, 한국계 미국인 우주비행사 ‘이브 킴’ 역을 맡았다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공효진, 생일 축하에 함박 웃음",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

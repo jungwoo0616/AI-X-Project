@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170886",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최은경 “생각할 시간이 필요했었나 봐요”",
+    "newsSubTitle": "",
+    "newsContent": "아나운서 출신 방송인 최은경이 방역 수칙 논란 후 2주 만에 자신의 근황을 알렸다.\n13일 최은경은 SNS에 “그동안 시간 내서 참 많이 걸었어요”라는 글과 함께 ‘가던 길 멈추어 서서’라는 글귀가 적힌 책을 찍은 사진도 올렸다.\n최은경은 “이런 저런 생각도 하고 하늘도 보고 꽃도 풀도 보면서 이렇게 주변 찬찬히 보며 좀 천천히 가도 좋을 텐데 쫓기듯 앞으로 내달리던 제 생활에 가던 길 잠시 멈추어 서서 생각할 시간이 필요했었나 봐요”라고 했다.\n또 “그간 기다려주시고 걱정해주신 이야기들 그냥 흘려듣지 않고 마음 속에 꼭 기억하며 살게요”라며 “앞으로도 완벽할 순 없겠지만 지금보다 조금씩 더 나은 사람으로 살아가야지 결심해보는 여름밤”이라고 했다.\n그러면서 “잘하나 못하나 꼭 곁에서 지켜봐주세요. 감사해요”라고 덧붙였다.\n최은경은 지난달 29일 ‘속풀이쇼 동치미’ 촬영 전 출연진들과 함께 박수홍의 결혼 축하 파티를 열고 해당 모습을 SNS에 올렸다.\n그러나 연예인 11명이 마스크를 착용하지 않은 채 모여있는 모습에 방역수칙 위반이라는 지적이 이어졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아나운서 출신 방송인 최은경이 방역 수칙 논란 후 2주 만에 자신의 근황을 알렸다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 최은경은 SNS에 “그동안 시간 내서 참 많이 걸었어요”라는 글과 함께 ‘가던 길 멈추어 서서’라는 글귀가 적힌 책을 찍은 사진도 올렸다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최은경은 “이런 저런 생각도 하고 하늘도 보고 꽃도 풀도 보면서 이렇게 주변 찬찬히 보며 좀 천천히 가도 좋을 텐데 쫓기듯 앞으로 내달리던 제 생활에 가던 길 잠시 멈추어 서서 생각할 시간이 필요했었나 봐요”라고 했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 “그간 기다려주시고 걱정해주신 이야기들 그냥 흘려듣지 않고 마음 속에 꼭 기억하며 살게요”라며 “앞으로도 완벽할 순 없겠지만 지금보다 조금씩 더 나은 사람으로 살아가야지 결심해보는 여름밤”이라고 했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 “잘하나 못하나 꼭 곁에서 지켜봐주세요. 감사해요”라고 덧붙였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최은경은 지난달 29일 ‘속풀이쇼 동치미’ 촬영 전 출연진들과 함께 박수홍의 결혼 축하 파티를 열고 해당 모습을 SNS에 올렸다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 연예인 11명이 마스크를 착용하지 않은 채 모여있는 모습에 방역수칙 위반이라는 지적이 이어졌다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 최은경, 이것 논란 이후 근황... 잠시 멈춰 생각할 시간 필요했었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

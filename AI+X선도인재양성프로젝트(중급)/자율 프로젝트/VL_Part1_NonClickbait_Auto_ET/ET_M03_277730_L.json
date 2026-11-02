@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277730",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이경실 딸 손수아, ‘슈퍼모델’ 본선 진출",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 이경실의 딸 손수아(22)가 2016 슈퍼모델 선발 대회 본선 진출을 확정하며 자기소개 영상을 공개했다.\n손수아는 SBS ‘2016 슈퍼모델 선발대회’ 1차·2차 예선에서 좋은 성적을 내며 여성 15인으로 구성된 본선 예비 진출자에 포함됐다.\n오는 12월 22일 생방송으로 진행되는 본선 무대에 설 예정이다.\n손수아의 신장은 170㎝로 본선 예비 진출자 15인의 평균 신장(174.9㎝)에 비해 작은 축에 속한다.\n손수아는 자기소개 영상에서 “어렸을 때부터 사람들 앞에 서는 걸 좋아했다. 앞에 나가서 춤추고 노래할 때 칭찬 듣는 것을 좋아했다”고 말했다.\nSBS 슈퍼모델 선발대회는 올해 25주년은 맞아 한중 슈퍼모델로 펼쳐진다.\n한국 후보들과 중국 최고의 모델들이 경쟁할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 이경실의 딸 손수아(22)가 2016 슈퍼모델 선발 대회 본선 진출을 확정하며 자기소개 영상을 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손수아는 SBS ‘2016 슈퍼모델 선발대회’ 1차·2차 예선에서 좋은 성적을 내며 여성 15인으로 구성된 본선 예비 진출자에 포함됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오는 12월 22일 생방송으로 진행되는 본선 무대에 설 예정이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손수아의 신장은 170㎝로 본선 예비 진출자 15인의 평균 신장(174.9㎝)에 비해 작은 축에 속한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손수아는 자기소개 영상에서 “어렸을 때부터 사람들 앞에 서는 걸 좋아했다. 앞에 나가서 춤추고 노래할 때 칭찬 듣는 것을 좋아했다”고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SBS 슈퍼모델 선발대회는 올해 25주년은 맞아 한중 슈퍼모델로 펼쳐진다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국 후보들과 중국 최고의 모델들이 경쟁할 예정이다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이경실 딸 손수아, ‘슈퍼모델’ 본선 진출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

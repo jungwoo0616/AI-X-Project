@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277759",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "샘 오취리, 크라우드 펀딩으로 가나에 초등학교 세워",
+		"newsSubTitle": "",
+		"newsContent": "방송인 샘 오취리(25)가 가나에 세워진 ‘572’ 초등학교를 방문했다.\n이 학교는 오취리와 국제구호개발NGO인 월드비전이 함께 진행한 크라우드 펀딩으로 설립됐다. ‘가나 학교 짓기’ 프로젝트에는 약 5000명이 참여했고 7700만원의 후원금이 모였다.\n샘 오취리는 개교식 연설에서 “나를 지원해준 후원자 덕분에 나는 교육의 특권을 누렸다. 그러나 교육은 특권이 아닌 권리가 돼야 한다. 모든 아이들은 교육을 받을 권리가 있다”고 말했다.\n이어 “이 학교에 다닐 1000명의 아이들이 교육받을 권리, 꿈 꿀 수 있는 권리를 누리게 돼 진심으로 기쁘다”며 “5000명의 후원자분들께 진심으로 감사드린다”고 덧붙였다.\n학생들은 샘 오취리의 연설에 대한 답례로 시 낭송과 전통 공연을 펼쳤다.\n오취리는 학생들과 함께 벽에 손도장을 찍으며 개교식을 기념했다.\n학교가 위치한 보수소지역은 중학교 진학률이 초등학교 진학률의 25%인 교육 취약지역이다.\n월드비전은 572스쿨 건립 이외에도 가나 29개 주에서 각종 지역개발사업을 진행하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 샘 오취리(25)가 가나에 세워진 ‘572’ 초등학교를 방문했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 학교는 오취리와 국제구호개발NGO인 월드비전이 함께 진행한 크라우드 펀딩으로 설립됐다. ‘가나 학교 짓기’ 프로젝트에는 약 5000명이 참여했고 7700만원의 후원금이 모였다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "샘 오취리는 개교식 연설에서 “나를 지원해준 후원자 덕분에 나는 교육의 특권을 누렸다. 그러나 교육은 특권이 아닌 권리가 돼야 한다. 모든 아이들은 교육을 받을 권리가 있다”고 말했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “이 학교에 다닐 1000명의 아이들이 교육받을 권리, 꿈 꿀 수 있는 권리를 누리게 돼 진심으로 기쁘다”며 “5000명의 후원자분들께 진심으로 감사드린다”고 덧붙였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "학생들은 샘 오취리의 연설에 대한 답례로 시 낭송과 전통 공연을 펼쳤다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오취리는 학생들과 함께 벽에 손도장을 찍으며 개교식을 기념했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "학교가 위치한 보수소지역은 중학교 진학률이 초등학교 진학률의 25%인 교육 취약지역이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "월드비전은 572스쿨 건립 이외에도 가나 29개 주에서 각종 지역개발사업을 진행하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "샘 오취리, 크라우드 펀딩으로 가나에 초등학교 세워",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263246",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "함소원 새 집 공개, 누리꾼 “호텔 같다”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 함소원이 이사한 집을 공개했다.\n함소원은 8일 자신의 사회관계망서비스(SNS) 인스타그램에 “새로운 시작. 이사 정리는 언제 끝나나”라는 해시태그와 함께 이사한 집을 공개했다.\n공개된 영상 속에는 이사한 집의 안방의 모습이 담겨있었다.\n방 안의 샹들리에와 자동커튼이 고급스러움을 더하며 누리꾼들의 관심을 모았다.\n누리꾼들은 이에 “호텔 같다” “안방이 너무 황홀하다”며 그의 새로운 집에 감탄했다.\n함소원은 지난해 종영한 TV조선의 예능 프로그램 ‘아내의 맛’에 출연하며 대중의 관심을 얻었다.\n그는 2018년 18세 연하 중국인 진화와 결혼해 슬하에 딸 혜정 양을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 함소원이 이사한 집을 공개했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "함소원은 8일 자신의 사회관계망서비스(SNS) 인스타그램에 “새로운 시작. 이사 정리는 언제 끝나나”라는 해시태그와 함께 이사한 집을 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속에는 이사한 집의 안방의 모습이 담겨있었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방 안의 샹들리에와 자동커튼이 고급스러움을 더하며 누리꾼들의 관심을 모았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 이에 “호텔 같다” “안방이 너무 황홀하다”며 그의 새로운 집에 감탄했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "함소원은 지난해 종영한 TV조선의 예능 프로그램 ‘아내의 맛’에 출연하며 대중의 관심을 얻었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 2018년 18세 연하 중국인 진화와 결혼해 슬하에 딸 혜정 양을 두고 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "함소원 새 집 공개, 누리꾼 “호텔 같다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

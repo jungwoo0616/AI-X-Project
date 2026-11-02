@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171899",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "래퍼 도끼, 신규 독립 레이블 808HI 설립",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 도끼(이준경)가 독립 레이블 ‘808HI’를 론칭했다.\n22일 도끼 측은 “독립적인 인터내셔널 레이블 808HI를 설립하고 새롭게 출발하게 됐다. 힙합과 R&B 장르 전반에 걸쳐 다양한 활동을 계획 중”이라고 밝혔다.\n808HI의 첫 번째 아티스트는 남성 R&B 보컬리스트 시즌(SZN)이다.\n그는 22일 오후 6시 데뷔 싱글 ‘드립(feat. Kambo)’을 발매한다.\n앞서 시즌은 지난 5월 공개된 도끼의 믹스테이프 ‘필리피노 사우스 코리안 랩스타(Filipino South Korean Rapstar)’의 수록곡 ‘솔 트립(Soul Trip)’, ‘슬립 타이트(Sleep Tight)’ 등을 피처링한 바 있다.\n도끼는 2019년 10월 보석 대금 미납과 관련해 고소당했다.\n이후 도끼는 자신이 설립한 레이블 ‘일리네어 레코즈’를 탈퇴했으며 소속사 없이 개인 활동을 벌이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 도끼(이준경)가 독립 레이블 ‘808HI’를 론칭했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 도끼 측은 “독립적인 인터내셔널 레이블 808HI를 설립하고 새롭게 출발하게 됐다. 힙합과 R&B 장르 전반에 걸쳐 다양한 활동을 계획 중”이라고 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "808HI의 첫 번째 아티스트는 남성 R&B 보컬리스트 시즌(SZN)이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 22일 오후 6시 데뷔 싱글 ‘드립(feat. Kambo)’을 발매한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 시즌은 지난 5월 공개된 도끼의 믹스테이프 ‘필리피노 사우스 코리안 랩스타(Filipino South Korean Rapstar)’의 수록곡 ‘솔 트립(Soul Trip)’, ‘슬립 타이트(Sleep Tight)’ 등을 피처링한 바 있다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "도끼는 2019년 10월 보석 대금 미납과 관련해 고소당했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 도끼는 자신이 설립한 레이블 ‘일리네어 레코즈’를 탈퇴했으며 소속사 없이 개인 활동을 벌이고 있다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "도끼 새 레이블 '이것' 론칭… 다양한 활동 계획 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

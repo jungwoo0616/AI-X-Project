@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263530",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정수라, JJ엔터테인먼트 전격 합류[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 정수라가 JJ엔터테인먼트에 새로운 식구로 합류한다.\n오늘 11일 JJ엔터테인먼트는 “라이브의 여왕으로 오랜 시간 대중에게 사랑받고 있는 가수 정수라가 합류했다. 당사는 앞으로도 정수라의 활발한 음악 활동을 위해 전폭적으로 지원할 예정이며 새로운 출발을 시작한 정수라에 많은 관심과 응원 부탁드린다”라고 밝혔다.\n정수라는 1974년 제1회 한국가요제에서 ‘종소리’로 인기상을 수상하며 가요계에 데뷔했다. ‘가요톱10’에서 21번의 1위를 거머쥔 전설의 디바로 ‘아! 대한민국’, ‘도시의 거리’, ‘난 너에게’, ‘환희’ 등 수많은 히트곡으로 대중에게 많은 사랑을 받았다.\n최근 정수라는 다양한 TV프로그램에 출연하며 활동을 이어오고 있다.\n특히 지난해 사랑의 콜센터에서 임영웅이 불러 화제를 모은 ‘어느날 문득’은 최근까지 유투브 조회수 1800만 회를 기록하는 등 역주행으로 다시금 사랑을 받고 있으며, 신곡 ‘도라지 꽃’의 활동도 시작하였다.\n특유의 파워풀한 가창력은 물론, 원숙함까지 더해져 전성기 못지 않은 에너지를 전해주고 있다 한편, 정수라가 합류한 JJ엔터테인먼트는 코요태 빽가, 방송인 송준근, 가수 나상도, 채윤이 소속되어 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정수라가 JJ엔터테인먼트에 새로운 식구로 합류한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘 11일 JJ엔터테인먼트는 “라이브의 여왕으로 오랜 시간 대중에게 사랑받고 있는 가수 정수라가 합류했다. 당사는 앞으로도 정수라의 활발한 음악 활동을 위해 전폭적으로 지원할 예정이며 새로운 출발을 시작한 정수라에 많은 관심과 응원 부탁드린다”라고 밝혔다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정수라는 1974년 제1회 한국가요제에서 ‘종소리’로 인기상을 수상하며 가요계에 데뷔했다. ‘가요톱10’에서 21번의 1위를 거머쥔 전설의 디바로 ‘아! 대한민국’, ‘도시의 거리’, ‘난 너에게’, ‘환희’ 등 수많은 히트곡으로 대중에게 많은 사랑을 받았다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 정수라는 다양한 TV프로그램에 출연하며 활동을 이어오고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 지난해 사랑의 콜센터에서 임영웅이 불러 화제를 모은 ‘어느날 문득’은 최근까지 유투브 조회수 1800만 회를 기록하는 등 역주행으로 다시금 사랑을 받고 있으며, 신곡 ‘도라지 꽃’의 활동도 시작하였다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특유의 파워풀한 가창력은 물론, 원숙함까지 더해져 전성기 못지 않은 에너지를 전해주고 있다 한편, 정수라가 합류한 JJ엔터테인먼트는 코요태 빽가, 방송인 송준근, 가수 나상도, 채윤이 소속되어 있다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정수라, JJ엔터테인먼트 전격 합류[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

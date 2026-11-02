@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172394",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유명 DJ 하드웰, 박명수 공개 비난…팟캐스트 방송 불법 다운로드?",
+    "newsSubTitle": "",
+    "newsContent": "유명 DJ 하드웰이 박명수의 공연 영상을 게재하며 공개적으로 비난했다.\n17일 하드웰은 자신의 페이스북 계정에 \\\"디제이가 클럽에서 '하드웰 온 에어'를 틀었을 때\\\"라는 글과 함께 박명수의 공연 영상을 게재했다.\n이 영상은 지난 14일 서울 논현동의 한 클럽에서 촬영된 것으로 전해졌다.\n하드웰은 자신이 진행 중인 팟캐스트 '하드웰 온 에어'를 박명수가 불법 다운로드해 편집한 후 틀었다고 주장했다.\n이 게시글은 17일 오후 2시 기준 약 3000회 공유되며 해외 네티즌들 사이에서 웃음거리가 되고 있다.\n하드웰은 지난 2009년 'Show Me Love vs. Be'를 시작으로 'Encoded''Cobra' 등의 히트곡을 통해 이름을 알렸다.\n댄스 음악 부분 최고의 잡지로 꼽히는‘디제이 맥(DJ Mag)'에서 2년 연속으로 1위 자리를 차지하며 전 세계적으로 많은 사랑을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유명 DJ 하드웰이 박명수의 공연 영상을 게재하며 공개적으로 비난했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 하드웰은 자신의 페이스북 계정에 \\\"디제이가 클럽에서 '하드웰 온 에어'를 틀었을 때\\\"라는 글과 함께 박명수의 공연 영상을 게재했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 영상은 지난 14일 서울 논현동의 한 클럽에서 촬영된 것으로 전해졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하드웰은 자신이 진행 중인 팟캐스트 '하드웰 온 에어'를 박명수가 불법 다운로드해 편집한 후 틀었다고 주장했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 게시글은 17일 오후 2시 기준 약 3000회 공유되며 해외 네티즌들 사이에서 웃음거리가 되고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하드웰은 지난 2009년 'Show Me Love vs. Be'를 시작으로 'Encoded''Cobra' 등의 히트곡을 통해 이름을 알렸다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "댄스 음악 부분 최고의 잡지로 꼽히는‘디제이 맥(DJ Mag)'에서 2년 연속으로 1위 자리를 차지하며 전 세계적으로 많은 사랑을 받고 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유명 DJ 하드웰, 박명수 공개적으로 비난... 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

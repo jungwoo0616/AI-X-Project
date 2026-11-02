@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274122",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서동주, 母 서정희 사망설 퍼뜨린 유튜버에 분노",
+		"newsSubTitle": "",
+		"newsContent": "변호사 겸 방송인 서동주가 어머니 서정희 사망설을 퍼뜨린 유튜버에 분노했다.\n서동주는 27일 자신의 사회관계망서비스(SNS)에 “우리 엄마 멀쩡히 살아계세요. 걱정하지 마세요. 연락 안 주셔도 돼요. 사람 아픈 걸로 돈벌이하는 이런 사람들은 참...”이라는 글과 함께 사진을 게재했다.\n공개된 사진은 한 유튜버가 올린 영상의 썸네일로, 이 유튜버는 암 투병 중인 서정희가 병원에서 사망했다고 주장했다.\n흔히 ‘사이버렉카’라고 알려진 수많은 유튜버 종류 중 하나로 보이며 전형적인 ‘아님 말고’ 식의 영상으로 분석된다.\n서동주는 해당 영상을 접하고 분노하며 어머니 서정희 사망설이 절대 사실이 아니라고 반박했다.\n한편 서동주는 변호사로 활동하며 동시에 방송 활동을 이어가고 있다.\n많은 프로그램에 게스트로 출연 중이며 SBS ‘골 때리는 그녀들’의 FC 불나방에서 활약 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "변호사 겸 방송인 서동주가 어머니 서정희 사망설을 퍼뜨린 유튜버에 분노했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서동주는 27일 자신의 사회관계망서비스(SNS)에 “우리 엄마 멀쩡히 살아계세요. 걱정하지 마세요. 연락 안 주셔도 돼요. 사람 아픈 걸로 돈벌이하는 이런 사람들은 참...”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 한 유튜버가 올린 영상의 썸네일로, 이 유튜버는 암 투병 중인 서정희가 병원에서 사망했다고 주장했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "흔히 ‘사이버렉카’라고 알려진 수많은 유튜버 종류 중 하나로 보이며 전형적인 ‘아님 말고’ 식의 영상으로 분석된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서동주는 해당 영상을 접하고 분노하며 어머니 서정희 사망설이 절대 사실이 아니라고 반박했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 서동주는 변호사로 활동하며 동시에 방송 활동을 이어가고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "많은 프로그램에 게스트로 출연 중이며 SBS ‘골 때리는 그녀들’의 FC 불나방에서 활약 중이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서동주, 母 서정희 사망설 퍼뜨린 유튜버에 분노",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

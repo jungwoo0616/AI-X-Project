@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276393",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“그거 안 쓸거면 나 줘” ‘쇼미더머니’ 에이솔 성희롱 논란",
+		"newsSubTitle": "",
+		"newsContent": "Mnet 예능프로그램 ‘쇼미더머니6’ 래퍼 에이솔(20)이 한 랩이 성희롱 논란에 휩싸였다.\n지난 11일 방송된 해당 프로그램에서 에이솔은 넉살을 향해 “야 넌 끽 해봤자 여왕 왕은 내가 할 테니까”라며 “괜히 그 존심 세우지 말고 너 그거 안 쓸거면 나 줘”라고 말했다.\n해당 랩에서 에이솔은 앉아 넉살의 허리춤을 향해 손을 가리켰다.\n에이솔은 이어 핑크빛 비키니를 던지며 “휴가 보내줄게 이거 입고 꺼져”라고 말했다.\n이에 넉살은 “에이솔 소화 불량 래퍼 피티에 똥 싸기 전문 진짜 이름 ** 내 방구가 네 랩보다 낫지”라고 응답했다.\n에이솔은 이날 팀 배틀에서 패배하며 프로그램에서 최종 탈락했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Mnet 예능프로그램 ‘쇼미더머니6’ 래퍼 에이솔(20)이 한 랩이 성희롱 논란에 휩싸였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 11일 방송된 해당 프로그램에서 에이솔은 넉살을 향해 “야 넌 끽 해봤자 여왕 왕은 내가 할 테니까”라며 “괜히 그 존심 세우지 말고 너 그거 안 쓸거면 나 줘”라고 말했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 랩에서 에이솔은 앉아 넉살의 허리춤을 향해 손을 가리켰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에이솔은 이어 핑크빛 비키니를 던지며 “휴가 보내줄게 이거 입고 꺼져”라고 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 넉살은 “에이솔 소화 불량 래퍼 피티에 똥 싸기 전문 진짜 이름 ** 내 방구가 네 랩보다 낫지”라고 응답했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에이솔은 이날 팀 배틀에서 패배하며 프로그램에서 최종 탈락했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“그거 안 쓸거면 나 줘” ‘쇼미더머니’ 에이솔 성희롱 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

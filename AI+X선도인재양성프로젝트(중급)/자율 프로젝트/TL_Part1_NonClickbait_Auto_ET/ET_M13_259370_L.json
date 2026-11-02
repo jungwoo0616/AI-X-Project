@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259370",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "초아, 코로나 19 음성 판정[공식]",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 AOA 출신 초아가 코로나 19 검사에서 음성 판정으로 확인됐다.\n26일 그레이트엠엔터테인먼트는 스포츠경향에 “초아의 코로나 19 검사 결과는 음성이다”라고 전했다. ‘더블 트러블’에 함께 출연하고 있는 김동한의 확진 여파는 피했다.\n김동한과 함께 ‘더블 트러블’에 출연 중이던 스타들은 코로나 19 검사에 임했다.\n효린 측은 감염 소식을 전했다.\n26일 효린의 소속사 브리지는 “효린은 2차 접종까지 완료한 상태였으나 검사 결과 확진 판정을 받았다”고 밝혔다.\n임슬옹과 먼데이는 음성 판정을 받았으며, 현재 많은 출연진이 현재 검사 결과를 기다리고 있다.\n한편 ‘더블 트러블’은 남녀 아이돌 10인이 ‘더블 트러블’ 자리를 놓고 펼치는 웹예능 음악 경연 프로그램으로 지난해 12월 24일 오픈했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 AOA 출신 초아가 코로나 19 검사에서 음성 판정으로 확인됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 그레이트엠엔터테인먼트는 스포츠경향에 “초아의 코로나 19 검사 결과는 음성이다”라고 전했다. ‘더블 트러블’에 함께 출연하고 있는 김동한의 확진 여파는 피했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김동한과 함께 ‘더블 트러블’에 출연 중이던 스타들은 코로나 19 검사에 임했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "효린 측은 감염 소식을 전했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "26일 효린의 소속사 브리지는 “효린은 2차 접종까지 완료한 상태였으나 검사 결과 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임슬옹과 먼데이는 음성 판정을 받았으며, 현재 많은 출연진이 현재 검사 결과를 기다리고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘더블 트러블’은 남녀 아이돌 10인이 ‘더블 트러블’ 자리를 놓고 펼치는 웹예능 음악 경연 프로그램으로 지난해 12월 24일 오픈했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "초아, 코로나 19 음성 판정[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

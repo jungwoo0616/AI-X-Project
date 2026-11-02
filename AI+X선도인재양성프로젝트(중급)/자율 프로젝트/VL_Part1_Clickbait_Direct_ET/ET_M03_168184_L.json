@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168184",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "대만 국기 흔들었던 쯔위, 대만에서 가장 인기있는 한류 연예인 선정",
+    "newsSubTitle": "",
+    "newsContent": "대만에서 올해 가장 인기있는 한류 연예인 검색 1위로 걸그룹 트와이스의 대만 국적의 멤버 쯔위(17)가 선정됐다.\n올해 대만 인터넷과 SNS에서 검색 1위 한류 연예인으로 쯔위가 선정됐다고 26일 대만 자유시보가 보도했다.\n지난 1월 쯔위는 대만 총통선거 직전에 한국의 한 예능 프로그램에서 대만 국기인 ‘청천백일만지홍기(靑天白日滿地紅旗)’를 흔들었다가 큰 파문을 불러일으켰다.\n당시 중국에서 활동 중인 대만 출신 한 연예인은 쯔위를 ‘대만 독립 분자’라고 공격했다.\n중국 내에서 거센 비난이 있은 직후 쯔위는 온라인 영상으로 “중국은 하나입니다”라며 공개 사과를 했다.\n트와이스는 중국, 일본 등 다양한 국적의 멤버들이 속해 있는 다국적 그룹이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대만에서 올해 가장 인기있는 한류 연예인 검색 1위로 걸그룹 트와이스의 대만 국적의 멤버 쯔위(17)가 선정됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올해 대만 인터넷과 SNS에서 검색 1위 한류 연예인으로 쯔위가 선정됐다고 26일 대만 자유시보가 보도했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 1월 쯔위는 대만 총통선거 직전에 한국의 한 예능 프로그램에서 대만 국기인 ‘청천백일만지홍기(靑天白日滿地紅旗)’를 흔들었다가 큰 파문을 불러일으켰다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 중국에서 활동 중인 대만 출신 한 연예인은 쯔위를 ‘대만 독립 분자’라고 공격했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "중국 내에서 거센 비난이 있은 직후 쯔위는 온라인 영상으로 “중국은 하나입니다”라며 공개 사과를 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "트와이스는 중국, 일본 등 다양한 국적의 멤버들이 속해 있는 다국적 그룹이다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대만에서 가장 인기 있는 한류 연예인 1위로 선정된 쯔위, 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

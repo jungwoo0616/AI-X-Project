@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260676",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블핑 로제 ‘생일’ 멤버들과 아름다운 우정",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크 로제가 멤버들과의 여전한 우정을 보여줬다.\n로제는 11일 생일을 맞아 인스타그램 스토리에 멤버들에게 축하받은 사진들을 여러 장 게시했다.\n로제는 인스타 스토리에 멤버 리사가 ‘사랑해 챙 내가 생일 선물’이 적힌 머리끈으로 머리를 묶은 사진을 게시하여 리사와의 돈독한 우정을 보여주었다.\n리사는 인스타그램 스토리에 ‘Happy 25th birthday to my 찐프’ 라는 글과 함께 로제와 함께 찍은 사진을 로제에 대한 애정을 드러냈다.\n멤버 제니 역시 인스타그램 스토리를 통해 ‘Happy birthday to my rosie posie!’ 라는 글로 로제의 생일을 축하했고, 로제는 하트 이모티콘으로 이에 화답했다.\n지수는 로제와 함께 호떡을 들고 있는 사진을 올리며 ‘길거리 호떡의 추억, 알럽유 울 챙람쥐(로제의 본명 박채영과 다람쥐를 합친 별명)’라는 글과 함께 로제의 생일을 맞아 그와의 추억을 회상했다.\n로제는 1997년 2월 11일 태어났다.\n2012년에 블랙핑크로 데뷔하여 현재까지 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크 로제가 멤버들과의 여전한 우정을 보여줬다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로제는 11일 생일을 맞아 인스타그램 스토리에 멤버들에게 축하받은 사진들을 여러 장 게시했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로제는 인스타 스토리에 멤버 리사가 ‘사랑해 챙 내가 생일 선물’이 적힌 머리끈으로 머리를 묶은 사진을 게시하여 리사와의 돈독한 우정을 보여주었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리사는 인스타그램 스토리에 ‘Happy 25th birthday to my 찐프’ 라는 글과 함께 로제와 함께 찍은 사진을 로제에 대한 애정을 드러냈다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멤버 제니 역시 인스타그램 스토리를 통해 ‘Happy birthday to my rosie posie!’ 라는 글로 로제의 생일을 축하했고, 로제는 하트 이모티콘으로 이에 화답했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지수는 로제와 함께 호떡을 들고 있는 사진을 올리며 ‘길거리 호떡의 추억, 알럽유 울 챙람쥐(로제의 본명 박채영과 다람쥐를 합친 별명)’라는 글과 함께 로제의 생일을 맞아 그와의 추억을 회상했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로제는 1997년 2월 11일 태어났다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2012년에 블랙핑크로 데뷔하여 현재까지 활동 중이다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블핑 로제 ‘생일’ 멤버들과 아름다운 우정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268865",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "비아이, 13일 컴백[공식]",
+		"newsSubTitle": "",
+		"newsContent": "아티스트 비아이(B.I)가 글로벌 앨범 프로젝트를 예고했다.\n소속사는 2일 0시 비아이 사회관계망서비스(SNS)를 통해 선공개 싱글 발매 일시를 알리는 컴백 포스터 이미지를 선보였다.\n도심을 내려다보며 서 있는 비아이의 뒷모습이 강렬한 분위기를 선사하는 가운데 ‘LOVE OR LOVED PART 1’, ‘2022.5.13 1PM KST / 12AM EDT’라는 발매일이 담겨 있다.\n지난달 어나운스먼트 티저 영상으로 신호탄을 쏘아 올린 비아이의 글로벌 앨범 프로젝트는 한 장의 선공개 싱글과 두 장의 EP로 구성된다.\n그중 선공개 싱글의 발매 일시가 가장 먼저 공개돼 눈길을 끈다.\n비아이는 지난해 데뷔 7년 만의 첫 정규 앨범 ‘WATERFALL’(워터폴)과 하프앨범 ‘COSMOS’(코스모스)를 발매하고 솔로 아티스트로서 도약했다.\n지난 1월에는 미국 그래미의 공연 시리즈 ‘그래미 글로벌스핀’(GRAMMYs Global Spin)의 첫 번째 아시안이자 K-POP 아티스트로 참여했다.\n최근 미국의 대형 에이전시 Wasserman(와서맨)과 계약을 체결한 비아이가 어떤 음악으로 돌아올지 귀추가 주목된다.\n한편 비아이의 선공개 싱글은 오는 13일 오후 1시 국내외 전 세계 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아티스트 비아이(B.I)가 글로벌 앨범 프로젝트를 예고했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사는 2일 0시 비아이 사회관계망서비스(SNS)를 통해 선공개 싱글 발매 일시를 알리는 컴백 포스터 이미지를 선보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "도심을 내려다보며 서 있는 비아이의 뒷모습이 강렬한 분위기를 선사하는 가운데 ‘LOVE OR LOVED PART 1’, ‘2022.5.13 1PM KST / 12AM EDT’라는 발매일이 담겨 있다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 어나운스먼트 티저 영상으로 신호탄을 쏘아 올린 비아이의 글로벌 앨범 프로젝트는 한 장의 선공개 싱글과 두 장의 EP로 구성된다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그중 선공개 싱글의 발매 일시가 가장 먼저 공개돼 눈길을 끈다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비아이는 지난해 데뷔 7년 만의 첫 정규 앨범 ‘WATERFALL’(워터폴)과 하프앨범 ‘COSMOS’(코스모스)를 발매하고 솔로 아티스트로서 도약했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 1월에는 미국 그래미의 공연 시리즈 ‘그래미 글로벌스핀’(GRAMMYs Global Spin)의 첫 번째 아시안이자 K-POP 아티스트로 참여했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 미국의 대형 에이전시 Wasserman(와서맨)과 계약을 체결한 비아이가 어떤 음악으로 돌아올지 귀추가 주목된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 비아이의 선공개 싱글은 오는 13일 오후 1시 국내외 전 세계 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비아이, 13일 컴백[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

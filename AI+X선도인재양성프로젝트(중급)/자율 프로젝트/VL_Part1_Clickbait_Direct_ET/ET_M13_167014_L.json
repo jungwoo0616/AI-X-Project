@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167014",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "2AM 미니4집, 조권·이창민 콘셉트 포토 공개",
+    "newsSubTitle": "",
+    "newsContent": "그룹 2AM이 컴백 프로모션에 돌입했다.\n2AM은 15일 공식 SNS를 통해 새 미니앨범 ‘Ballad 21 F/W’(발라드 21 가을/겨울)의 조권, 이창민 콘셉트 포토를 선보였다.\n공개된 사진 속 조권은 올곧은 눈빛으로 카메라를 응시하고 있으며 셔츠에 니트를 레이어드한 스타일링으로 세련된 분위기를 뽐냈다.\n반면 이창민은 시크하면서도 절제된 카리스마를 자아내며 디테일한 손 제스처로 눈길을 사로잡았다.\n2AM은 다음 달 1일 7년의 공백을 깨고 미니 앨범 ‘Ballad 21 F/W’를 발표한다.\n오랜만의 완전체 컴백인 만큼 앨범 타이틀부터 ‘발라드’를 앞세워 2AM만의 색깔을 보여줄 전망이다.\n이들은 그동안 ‘이 노래’, ‘죽어도 못 보내’, ‘전활 받지 않는 너에게’, ‘너도 나처럼’, ‘어느 봄날’ 등으로 많은 사랑을 받았으며 신보 ‘Ballad 21 F/W’를 통해서는 한층 깊어진 음악을 들려줄 예정이다.\n한편 2AM의 미니 앨범 ‘Ballad 21 F/W’는 오는 11월 1일 오후 6시 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 2AM이 컴백 프로모션에 돌입했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2AM은 15일 공식 SNS를 통해 새 미니앨범 ‘Ballad 21 F/W’(발라드 21 가을/겨울)의 조권, 이창민 콘셉트 포토를 선보였다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 조권은 올곧은 눈빛으로 카메라를 응시하고 있으며 셔츠에 니트를 레이어드한 스타일링으로 세련된 분위기를 뽐냈다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "반면 이창민은 시크하면서도 절제된 카리스마를 자아내며 디테일한 손 제스처로 눈길을 사로잡았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2AM은 다음 달 1일 7년의 공백을 깨고 미니 앨범 ‘Ballad 21 F/W’를 발표한다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오랜만의 완전체 컴백인 만큼 앨범 타이틀부터 ‘발라드’를 앞세워 2AM만의 색깔을 보여줄 전망이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들은 그동안 ‘이 노래’, ‘죽어도 못 보내’, ‘전활 받지 않는 너에게’, ‘너도 나처럼’, ‘어느 봄날’ 등으로 많은 사랑을 받았으며 신보 ‘Ballad 21 F/W’를 통해서는 한층 깊어진 음악을 들려줄 예정이다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 2AM의 미니 앨범 ‘Ballad 21 F/W’는 오는 11월 1일 오후 6시 공개된다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "7년 만에 돌아온 2AM, 어떤 모습으로 컴백할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

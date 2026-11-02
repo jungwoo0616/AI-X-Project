@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280302",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 정목 스님, 이광기에게 자녀 교육 상담",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 예능 프로그램 ‘유자식 상팔자’에서는 치유의 어머니로 떠오른 정목(사진) 스님이 출연한다.\n이날 방송에서 정목 스님은 ‘우리가 화를 내는 이유’라는 주제에 대해 강연을 펼친다.\n특히 가족 간 서로 배려와 존중을 해야 하는 이유에 대해 중점적으로 이야기한다.\n강연이 끝난 뒤에는 부모와 사춘기 자녀 간 갈등을 어떻게 해결하면 좋을지에 대한 패널들의 질의응답이 이어진다.\n배우 이광기와 그의 딸은 서로 마음속에 쌓인 서운함을 솔직하게 털어놓는다.\n이광기는 “딸에게 관심이 많은 편이라 이성 친구 문제에도 촉을 세우고 SNS에 몰래 들어가 염탐을 하기도 한다”며 “딸에게 더 다가갈수록 점점 멀어지는 것 같아 속상하다”고 말한다.\n이에 정목 스님은 이광기에게 아빠와 딸의 건강한 관계를 위한 행동 강령을 알려준다.\n또 패널들은 정목 스님이 준비한 명상 시간을 통해 서로 허물을 용서하고 이해하는 시간을 갖는다.\n정목 스님과 함께한 신년특집 ‘유자식 상팔자’는 3일 오후 8시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 예능 프로그램 ‘유자식 상팔자’에서는 치유의 어머니로 떠오른 정목(사진) 스님이 출연한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 방송에서 정목 스님은 ‘우리가 화를 내는 이유’라는 주제에 대해 강연을 펼친다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 가족 간 서로 배려와 존중을 해야 하는 이유에 대해 중점적으로 이야기한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강연이 끝난 뒤에는 부모와 사춘기 자녀 간 갈등을 어떻게 해결하면 좋을지에 대한 패널들의 질의응답이 이어진다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배우 이광기와 그의 딸은 서로 마음속에 쌓인 서운함을 솔직하게 털어놓는다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이광기는 “딸에게 관심이 많은 편이라 이성 친구 문제에도 촉을 세우고 SNS에 몰래 들어가 염탐을 하기도 한다”며 “딸에게 더 다가갈수록 점점 멀어지는 것 같아 속상하다”고 말한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 정목 스님은 이광기에게 아빠와 딸의 건강한 관계를 위한 행동 강령을 알려준다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 패널들은 정목 스님이 준비한 명상 시간을 통해 서로 허물을 용서하고 이해하는 시간을 갖는다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정목 스님과 함께한 신년특집 ‘유자식 상팔자’는 3일 오후 8시 30분에 방송된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 정목 스님, 이광기에게 자녀 교육 상담",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

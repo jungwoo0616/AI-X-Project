@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171355",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘은밀한 뉴스룸’ 신인선 “임영웅, 친한 친구로 지내고 있다”[채널예약]",
+    "newsSubTitle": "",
+    "newsContent": "가수 신인선이 채널 IHQ 신개념 연예토크쇼 ‘은밀한 뉴스룸’의 스페셜 게스트로 출연한다.\n오는 9일 오전 11시 방송되는 채널 IHQ ‘은밀한 뉴스룸’ 7회가 트로트 특집으로 꾸며진 가운데, ‘트로트 대세’ 임영웅을 집중 조명하고, 트로트 역사를 세대별로 되짚어보는 시간을 가진다.\n방송에는 ‘퍼포먼스 1인자’로 불리는 대세 트로트 가수 신인선이 패널로 출연해 스페셜 무대 ‘은밀한 콜센타’를 장식한다.\n신인선과 즉석 전화 연결이 된 한 팬은 자신을 오랜 ‘찐팬’이라고 소개하며, 자신의 숨은 정체를 공개해 모두를 깜짝 놀라게 한다. ‘찐팬’의 요청으로 트로트 역사상 최초의 ‘1곡 5장르’ 곡으로 알려진 신인선의 ‘신선해’ 라이브 무대가 펼쳐지면서 시청자들의 눈과 귀를 만족시킬 예정이다.\n이제껏 본 적 없는 신인선의 유쾌한 스페셜 무대 덕분에 녹화 당시 스튜디오 분위기까지 후끈 달아올랐다는 후문이다.\n신인선은 ‘미스터 트롯’을 통해 처음 만난 임영웅과의 우정도 공개한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 신인선이 채널 IHQ 신개념 연예토크쇼 ‘은밀한 뉴스룸’의 스페셜 게스트로 출연한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 9일 오전 11시 방송되는 채널 IHQ ‘은밀한 뉴스룸’ 7회가 트로트 특집으로 꾸며진 가운데, ‘트로트 대세’ 임영웅을 집중 조명하고, 트로트 역사를 세대별로 되짚어보는 시간을 가진다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송에는 ‘퍼포먼스 1인자’로 불리는 대세 트로트 가수 신인선이 패널로 출연해 스페셜 무대 ‘은밀한 콜센타’를 장식한다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신인선과 즉석 전화 연결이 된 한 팬은 자신을 오랜 ‘찐팬’이라고 소개하며, 자신의 숨은 정체를 공개해 모두를 깜짝 놀라게 한다. ‘찐팬’의 요청으로 트로트 역사상 최초의 ‘1곡 5장르’ 곡으로 알려진 신인선의 ‘신선해’ 라이브 무대가 펼쳐지면서 시청자들의 눈과 귀를 만족시킬 예정이다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이제껏 본 적 없는 신인선의 유쾌한 스페셜 무대 덕분에 녹화 당시 스튜디오 분위기까지 후끈 달아올랐다는 후문이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신인선은 ‘미스터 트롯’을 통해 처음 만난 임영웅과의 우정도 공개한다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 신인선, '은밀한 뉴스룸' 출연해 '이 사람'과 인연 고백한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260009",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김민선, IHQ 새 둥지[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 김민선이 IHQ에 둥지를 틀었다.\nIHQ는 4일 “기본기가 탄탄한 신예 배우 김민선과 전속계약을 체결했다”고 전하며 “무한한 잠재력을 가진 배우로 멋진 활약을 펼칠 수 있도록 지원을 아끼지 않을 예정이다”라고 밝혔다.\n김민선은 2018년 KBS TV소설 ‘파도야파도야’로 데뷔해 ‘동네변호사 조들호’와 ‘본 어게인’에 출연하며 안정적인 연기를 펼쳤다.\n또 JTBC ‘히든싱어’에서 가창력을 뽐내며 예능감을 인정 받았고, MBC ‘호구의 연애’에서도 돋보이는 활약으로 눈도장을 찍었다.\n김민선은 “IHQ는 많은 한류스타와 아티스트들을 배출한 엔터테인먼트사로 배우로서 성장할 수 있는 발판을 만들 줄 것이라고 생각한다. 더 다양한 매력으로 곳곳에서 러브콜을 받는 연기자가 될 수 있도록 노력하겠다.”라고 포부를 밝혔다.\n한편 IHQ는 오세영, 주인서, 이소원, 박지안 등 최근 신인 배우들을 영입하며 아티스트 양성에 힘쓰고 있으며 장혁, 김혜윤, 황제성, 양수경, 박미경, 양파 등 톱스타들이 소속되어 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김민선이 IHQ에 둥지를 틀었다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IHQ는 4일 “기본기가 탄탄한 신예 배우 김민선과 전속계약을 체결했다”고 전하며 “무한한 잠재력을 가진 배우로 멋진 활약을 펼칠 수 있도록 지원을 아끼지 않을 예정이다”라고 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김민선은 2018년 KBS TV소설 ‘파도야파도야’로 데뷔해 ‘동네변호사 조들호’와 ‘본 어게인’에 출연하며 안정적인 연기를 펼쳤다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 JTBC ‘히든싱어’에서 가창력을 뽐내며 예능감을 인정 받았고, MBC ‘호구의 연애’에서도 돋보이는 활약으로 눈도장을 찍었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김민선은 “IHQ는 많은 한류스타와 아티스트들을 배출한 엔터테인먼트사로 배우로서 성장할 수 있는 발판을 만들 줄 것이라고 생각한다. 더 다양한 매력으로 곳곳에서 러브콜을 받는 연기자가 될 수 있도록 노력하겠다.”라고 포부를 밝혔다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 IHQ는 오세영, 주인서, 이소원, 박지안 등 최근 신인 배우들을 영입하며 아티스트 양성에 힘쓰고 있으며 장혁, 김혜윤, 황제성, 양수경, 박미경, 양파 등 톱스타들이 소속되어 있다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김민선, IHQ 새 둥지[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278258",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘가화만사성’ 윤진이, 촬영중 환자복 입고 미모 과시 “세리는 병원입니다”",
+		"newsSubTitle": "",
+		"newsContent": "‘가화만사성’ 윤진이가 SNS를 통해 미모를 과시했다.\n윤진이는 10일 자신의 인스타그램에 “가화만사성 촬영. 병원 세리는 병원입니다. 거짓말?”이라는 글과 함께 사진을 게재했다.\n게재된 사진 속 윤진이는 ‘가화만사성’ 촬영 중으로 병원 환자복을 입고 카메라를 응시하고 있다.\n윤진이는 단아하고 청초한 미모를 자랑, 특히 티없는 피부가 시선을 사로잡았다.\n한편 윤진이는 ‘가화만사성’에서 주세리 역을 맡아 열연을 펼치고 있다.\n온라인 중앙일보 [사진 윤진이 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘가화만사성’ 윤진이가 SNS를 통해 미모를 과시했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤진이는 10일 자신의 인스타그램에 “가화만사성 촬영. 병원 세리는 병원입니다. 거짓말?”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게재된 사진 속 윤진이는 ‘가화만사성’ 촬영 중으로 병원 환자복을 입고 카메라를 응시하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤진이는 단아하고 청초한 미모를 자랑, 특히 티없는 피부가 시선을 사로잡았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 윤진이는 ‘가화만사성’에서 주세리 역을 맡아 열연을 펼치고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 윤진이 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘가화만사성’ 윤진이, 촬영중 환자복 입고 미모 과시 “세리는 병원입니다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

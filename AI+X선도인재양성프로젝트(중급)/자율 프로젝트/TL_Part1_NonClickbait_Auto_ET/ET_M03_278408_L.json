@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278408",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "님과함께 장동민, 나비 노출 못하게 해…'키스신도 손잡는 신으로 대체'",
+		"newsSubTitle": "",
+		"newsContent": "'님과 함께2'에 출연한 나비-장동민 커플이 화제인 가운데, 장동민이 과거 방송에 출연해 나비와 전화 연결을 했던 것도 눈길을 끈다.\n과거 방송된 KBS2 '해피투게더3'에는 장동민·허경환·오나미·김지민·박휘순이 출연했다.\n이날 방송 중 장동민은 나비와 전화 연결을 해 대화를 나눴다.\nMC들이 나비에게 \\\"장동민이 못하게 하는 게 있나\\\"라고 묻자 나비는 \\\"노출이 있는 의상을 싫어해서 입지 않기로 했다. 뮤지컬 중 키스신도 싫다고 하는 바람에 손잡는 신으로 대체했다\\\"고 답해 웃음을 자아냈다.\n한편 두 사람은 15일 JTBC '님과 함께2'에 출연해 오나미-허경환 가상부부의 신혼집을 방문했다.\n온라인 중앙일보 [사진 KBS '해피투게더3' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'님과 함께2'에 출연한 나비-장동민 커플이 화제인 가운데, 장동민이 과거 방송에 출연해 나비와 전화 연결을 했던 것도 눈길을 끈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 방송된 KBS2 '해피투게더3'에는 장동민·허경환·오나미·김지민·박휘순이 출연했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송 중 장동민은 나비와 전화 연결을 해 대화를 나눴다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC들이 나비에게 \\\"장동민이 못하게 하는 게 있나\\\"라고 묻자 나비는 \\\"노출이 있는 의상을 싫어해서 입지 않기로 했다. 뮤지컬 중 키스신도 싫다고 하는 바람에 손잡는 신으로 대체했다\\\"고 답해 웃음을 자아냈다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 두 사람은 15일 JTBC '님과 함께2'에 출연해 오나미-허경환 가상부부의 신혼집을 방문했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS '해피투게더3' 캡처]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "님과함께 장동민, 나비 노출 못하게 해…'키스신도 손잡는 신으로 대체'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268845",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김종국♥송지효, 연기 피어오르는 연인설(런닝맨)",
+		"newsSubTitle": "",
+		"newsContent": "지석진이 김종국과 송지효가 결혼한다면 대형 TV와 냉장고를 선물해 주겠다고 말했다.\n1일 방송된 SBS ‘런닝맨’ 박경혜, 변우석, 주우재가 게스트로 출연한 가운데 ‘런닝몬 레이스’가 펼쳐졌다.\n첫 번째 미션을 마친 후 이동하는 버스에서 멤버들은 MBTI 이야기를 나눴다.\n김종국은 주우재가 MBTI에 대해 질문하자 “유재석과 똑같이 나왔다”고 답했다.\n그러자 송지효가 “오빠가 나랑 똑같이 나왔다. INFJ”라고 지적했다.\n이 모습을 본 유재석은 김종국에게 “지효에게 신경 좀 써라”라며 한마디 했고 송지효도 “나한테 신경 좀 써라. 내가 이것까지 외워야 되나?”라고 핀잔을 줬다.\n김종국과 송지효 모습을 본 주우재는 “제가 저 라인 팬이에요”라고 말했고 하하는 “이루어지지 않아서 팬이 되는 거야”라고 웃었다.\n유재석은 “종국이랑 지효가 연결돼야 된다는 생각은 안 하는 게 좋다”고 정리했고 지석진은 “혹시 모른다. 둘이 만나고 있을지. 둘이 결혼하면 대형 TV에 냉장고까지 선물해 준다”고 약속했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지석진이 김종국과 송지효가 결혼한다면 대형 TV와 냉장고를 선물해 주겠다고 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 방송된 SBS ‘런닝맨’ 박경혜, 변우석, 주우재가 게스트로 출연한 가운데 ‘런닝몬 레이스’가 펼쳐졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫 번째 미션을 마친 후 이동하는 버스에서 멤버들은 MBTI 이야기를 나눴다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김종국은 주우재가 MBTI에 대해 질문하자 “유재석과 똑같이 나왔다”고 답했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 송지효가 “오빠가 나랑 똑같이 나왔다. INFJ”라고 지적했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 모습을 본 유재석은 김종국에게 “지효에게 신경 좀 써라”라며 한마디 했고 송지효도 “나한테 신경 좀 써라. 내가 이것까지 외워야 되나?”라고 핀잔을 줬다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김종국과 송지효 모습을 본 주우재는 “제가 저 라인 팬이에요”라고 말했고 하하는 “이루어지지 않아서 팬이 되는 거야”라고 웃었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유재석은 “종국이랑 지효가 연결돼야 된다는 생각은 안 하는 게 좋다”고 정리했고 지석진은 “혹시 모른다. 둘이 만나고 있을지. 둘이 결혼하면 대형 TV에 냉장고까지 선물해 준다”고 약속했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김종국♥송지효, 연기 피어오르는 연인설(런닝맨)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

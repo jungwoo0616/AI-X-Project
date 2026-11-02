@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265336",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "임영웅, 5월 첫 단독 전국투어 콘서트 연다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 5월 단독 콘서트를 개최한다.\n이번 콘서트는 오는 5월 6일 고양을 시작으로 창원, 광주, 대전, 인천, 대구 그리고 서울로 이어지는 총 21회 대규모 투어 일정의 데뷔 첫 단독 전국투어 콘서트다.\n이와 함께 30일 오전 공식 SNS 채널을 통해 공개된 티저 이미지에는 임영웅의 뒷모습과 콘서트 일정이 함께 공개되어 팬들의 기대감을 높였다.\n임영웅은 작년 12월 KBS 송년특집 ‘We’re HERO’로 16.1%라는 높은 시청률을 기록했으며, 최근 종영된 KBS2 주말 드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’로 음원 차트를 석권하며 견고한 존재감을 입증해왔다.\n최근 정규 앨범 발매 소식을 알리며 컴백 초읽기에 들어간 임영웅은 이번 콘서트 소식과 함께 팬들의 열기는 더 뜨거워질 전망이다.\n임영웅 전국투어 콘서트 티켓 예매는 4월 7일 목요일 오후 8시 고양 콘서트를 시작으로 인터넷 예매 사이트 예스 24를 통해 오픈된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 5월 단독 콘서트를 개최한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 콘서트는 오는 5월 6일 고양을 시작으로 창원, 광주, 대전, 인천, 대구 그리고 서울로 이어지는 총 21회 대규모 투어 일정의 데뷔 첫 단독 전국투어 콘서트다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 30일 오전 공식 SNS 채널을 통해 공개된 티저 이미지에는 임영웅의 뒷모습과 콘서트 일정이 함께 공개되어 팬들의 기대감을 높였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅은 작년 12월 KBS 송년특집 ‘We’re HERO’로 16.1%라는 높은 시청률을 기록했으며, 최근 종영된 KBS2 주말 드라마 ‘신사와 아가씨’ OST ‘사랑은 늘 도망가’로 음원 차트를 석권하며 견고한 존재감을 입증해왔다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 정규 앨범 발매 소식을 알리며 컴백 초읽기에 들어간 임영웅은 이번 콘서트 소식과 함께 팬들의 열기는 더 뜨거워질 전망이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임영웅 전국투어 콘서트 티켓 예매는 4월 7일 목요일 오후 8시 고양 콘서트를 시작으로 인터넷 예매 사이트 예스 24를 통해 오픈된다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 5월 첫 단독 전국투어 콘서트 연다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

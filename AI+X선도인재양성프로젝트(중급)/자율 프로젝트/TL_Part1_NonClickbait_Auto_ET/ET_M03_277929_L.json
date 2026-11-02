@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277929",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'음악중심' 스피카 화려한 컴백 '이젠 스피카 타임'",
+		"newsSubTitle": "",
+		"newsContent": "스피카가 화려하게 컴백 무대를 마쳤다.\n27일 방송된 MBC '쇼 음악중심'에는 걸그룹 스피카가 출연해 2년 7개월 만에 컴백 무대가 방송됐다.\n이날 스피카는 '시크릿 타임(Secret Time)'의 무대를 꾸몄다.\n스피카 멤버들은 핫팬츠에 허리가 크롭탑을 입고 늘씬한 몸매와 비주얼을 과시했다.\n스피카는 시원시원한 가창력과 퍼포먼스를 선보이며 한 편의 뮤지컬을 보는 듯한 화려한 무대를 선사했다.\n스피카의 '시크릿 타임'은 뛰어난 스피카의 가창력과 강렬하고 임팩트 있는 걸크러쉬 이미지를 모두 느낄 수 있는 팝 알앤비(R&B) 장르의 댄스 곡이다.\n이 곡은 일렉트로닉 신스 사운드와 펑키한 기타 등 라이브 악기 사운드가 특징이다.\n온라인 중앙일보 [사진 MBC 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스피카가 화려하게 컴백 무대를 마쳤다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 방송된 MBC '쇼 음악중심'에는 걸그룹 스피카가 출연해 2년 7개월 만에 컴백 무대가 방송됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 스피카는 '시크릿 타임(Secret Time)'의 무대를 꾸몄다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스피카 멤버들은 핫팬츠에 허리가 크롭탑을 입고 늘씬한 몸매와 비주얼을 과시했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스피카는 시원시원한 가창력과 퍼포먼스를 선보이며 한 편의 뮤지컬을 보는 듯한 화려한 무대를 선사했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스피카의 '시크릿 타임'은 뛰어난 스피카의 가창력과 강렬하고 임팩트 있는 걸크러쉬 이미지를 모두 느낄 수 있는 팝 알앤비(R&B) 장르의 댄스 곡이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 곡은 일렉트로닉 신스 사운드와 펑키한 기타 등 라이브 악기 사운드가 특징이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC 캡처]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'음악중심' 스피카 화려한 컴백 '이젠 스피카 타임'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276240",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강동원 측 \\\"고레에다 히로카즈 신작 출연? 진행 중인 것 없어\\\" (공식)",
+		"newsSubTitle": "",
+		"newsContent": "배우 강동원 측이 일본 거장 고레에다 히로카즈의 영화에 출연한다는 보도에 선을 그었다.\n고레에다 히로카즈 감독은 지난 19일(현지시간) 폐막한 제71회 칸영화제에서 대상인 황금종려상을 받았다.\n28일 일간스포츠에 따르면 강동원 소속사 YG엔터테인먼트 관계자는 \\\"강동원이 고레에다 히로카즈 감독의 신작에 출연한다는 내용은 사실이 아니다\\\"라고 말했다.\n이 관계자는 또 \\\"현재 뭔가 진행되고 있는 것도 없다\\\"고 했다.\n과거 고레에다 히로카즈 감독이 강동원에게 '나중에 기회가 되면 같이 해보면 좋겠다'고 말한 정도가 전부라는 설명이다.\n앞서 한 매체는 강동원이 고레에다 히로카즈 감독의 신작 '캐서린에 대한 진실(The Truth About Catherine)' 출연에 대해 논의 중이라고 보도했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강동원 측이 일본 거장 고레에다 히로카즈의 영화에 출연한다는 보도에 선을 그었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고레에다 히로카즈 감독은 지난 19일(현지시간) 폐막한 제71회 칸영화제에서 대상인 황금종려상을 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "28일 일간스포츠에 따르면 강동원 소속사 YG엔터테인먼트 관계자는 \\\"강동원이 고레에다 히로카즈 감독의 신작에 출연한다는 내용은 사실이 아니다\\\"라고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 관계자는 또 \\\"현재 뭔가 진행되고 있는 것도 없다\\\"고 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과거 고레에다 히로카즈 감독이 강동원에게 '나중에 기회가 되면 같이 해보면 좋겠다'고 말한 정도가 전부라는 설명이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 한 매체는 강동원이 고레에다 히로카즈 감독의 신작 '캐서린에 대한 진실(The Truth About Catherine)' 출연에 대해 논의 중이라고 보도했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강동원 측 \\\"고레에다 히로카즈 신작 출연? 진행 중인 것 없어\\\" (공식)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

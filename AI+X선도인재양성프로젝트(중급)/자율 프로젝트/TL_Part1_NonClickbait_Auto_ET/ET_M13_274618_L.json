@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274618",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "나연, 빌보드 차트 7위 달성",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 트와이스 나연의 첫 번째 솔로 미니음반 ‘아임 나연’(IM NAYEON)이 미국 빌보드 차트 7위를 기록했다.\n미국 빌보드는 지난 3일(현지 시각) “나연이 빌보드 메인차트 ‘빌보드 200’ 앨범 판매량 7위에 이름을 올렸다”고 보도했다.\n보도에 따르면 나연은 실물 음반 판매량 5만 2천 장, SEA(스트리밍 횟수를 앨범 판매량으로 환산한 수치) 4천 장, TEA(디지털 음원 다운로드 횟수를 앨범 판매량으로 환산한 수치) 1천 장 미만으로 총 5만 7천 장 상당의 앨범 판매량을 기록했다.\n이는 K팝 솔로 가수의 ‘빌보드 200’ 신기록에 해당하는 판매량이다.\n빌보드는 “나연의 앨범은 다른 많은 K팝 그룹과 마찬가지로 포토카드·엽서·포스터 같은 무작위 요소와 세트 아이템이 있는 수집 가능한 디럭스 패키지로 발매했다”며 “첫 주 앨범 판매량의 98%는 CD였고, 2%는 디지털 앨범이었다”고 설명했다.\n나연은 지난달 24일 첫 솔로 앨범 ‘아임 나연’을 발표했다.\n이 앨범은 발매 전부터 선주문 50만 장을 돌파하며 전 세계 팬들의 기대를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 트와이스 나연의 첫 번째 솔로 미니음반 ‘아임 나연’(IM NAYEON)이 미국 빌보드 차트 7위를 기록했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 빌보드는 지난 3일(현지 시각) “나연이 빌보드 메인차트 ‘빌보드 200’ 앨범 판매량 7위에 이름을 올렸다”고 보도했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 나연은 실물 음반 판매량 5만 2천 장, SEA(스트리밍 횟수를 앨범 판매량으로 환산한 수치) 4천 장, TEA(디지털 음원 다운로드 횟수를 앨범 판매량으로 환산한 수치) 1천 장 미만으로 총 5만 7천 장 상당의 앨범 판매량을 기록했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 K팝 솔로 가수의 ‘빌보드 200’ 신기록에 해당하는 판매량이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빌보드는 “나연의 앨범은 다른 많은 K팝 그룹과 마찬가지로 포토카드·엽서·포스터 같은 무작위 요소와 세트 아이템이 있는 수집 가능한 디럭스 패키지로 발매했다”며 “첫 주 앨범 판매량의 98%는 CD였고, 2%는 디지털 앨범이었다”고 설명했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "나연은 지난달 24일 첫 솔로 앨범 ‘아임 나연’을 발표했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 앨범은 발매 전부터 선주문 50만 장을 돌파하며 전 세계 팬들의 기대를 모았다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나연, 빌보드 차트 7위 달성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

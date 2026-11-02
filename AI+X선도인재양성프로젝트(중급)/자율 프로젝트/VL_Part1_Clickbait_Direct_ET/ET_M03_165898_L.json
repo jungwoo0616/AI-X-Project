@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165898",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "요즘 여자 아이돌 사이서 유행인 옷의 정체",
+    "newsSubTitle": "",
+    "newsContent": "여러 여자 아이돌이 같은 디자인의 원피스를 입고 나와 화제다.\n가장 먼저 레드벨벳의 아이린과 예리가 '루키'의 무대의상으로 이 원피스를 입었다.\n레드벨벳의 귀여운 외모와 신나는 곡 '루키'와 잘 어울리는 앙증맞은 코디다.\n또, 러블리즈의 예인이 신곡 'WoW!'에서 같은 옷을 입고 나왔다.\n이 원피스는 뮤직비디오의 색감을 한층 더 눈에 띄게 하였다.\n마지막으로 구구단의 샐리도 신곡 '나 같은 애'의 뮤직비디오에서 같은 원피스를 입었다. '나르시즘'이라는 신곡의 컨셉에 맞게 통통 튀는 색감의 옷은 샐리의 매력을 한층 더 돋보이게 한다.\n이 옷의 정체는 'MSGM'의 원피스다. 'MSGM'은 디자이너 마시모 조르제티(Massimo Giorgetti)의 이탈리아 컨템포러리 패션브랜드로 개성있는 프린트와 독창적인 디자인으로 젊은층에 폭발적인 인기를 얻고 있는 브랜드다.\n이 때문에 화제가 된 원피스 외에도 다양한 옷들이 걸그룹의 의상으로 활용되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여러 여자 아이돌이 같은 디자인의 원피스를 입고 나와 화제다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가장 먼저 레드벨벳의 아이린과 예리가 '루키'의 무대의상으로 이 원피스를 입었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "레드벨벳의 귀여운 외모와 신나는 곡 '루키'와 잘 어울리는 앙증맞은 코디다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또, 러블리즈의 예인이 신곡 'WoW!'에서 같은 옷을 입고 나왔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 원피스는 뮤직비디오의 색감을 한층 더 눈에 띄게 하였다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마지막으로 구구단의 샐리도 신곡 '나 같은 애'의 뮤직비디오에서 같은 원피스를 입었다. '나르시즘'이라는 신곡의 컨셉에 맞게 통통 튀는 색감의 옷은 샐리의 매력을 한층 더 돋보이게 한다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 옷의 정체는 'MSGM'의 원피스다. 'MSGM'은 디자이너 마시모 조르제티(Massimo Giorgetti)의 이탈리아 컨템포러리 패션브랜드로 개성있는 프린트와 독창적인 디자인으로 젊은층에 폭발적인 인기를 얻고 있는 브랜드다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 때문에 화제가 된 원피스 외에도 다양한 옷들이 걸그룹의 의상으로 활용되고 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여자아이돌들의 같은 옷 다른 느낌? 오지고 지린다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

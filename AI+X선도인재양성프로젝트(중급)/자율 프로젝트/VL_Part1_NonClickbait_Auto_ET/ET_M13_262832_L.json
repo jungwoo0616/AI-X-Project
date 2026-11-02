@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262832",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "봄이 ‘로제’ 맞추다[화보]",
+		"newsSubTitle": "",
+		"newsContent": "컨템포러리 브랜드 ‘오아이오아이컬렉션(OIOICOLLECTION)’이 블랙핑크 로제와 함께한 2022SS 컬렉션의 첫 번째 화보를 3월 4일, 오후 6시부터 브랜드 공식 홈페이지를 통해 공개한다.\n공개된 화보 속 로제는 오아이오아이컬렉션만의 감성으로 새롭게 완성한 뉴트로 트렌드를 완벽하게 소화하며 다시 한번 강렬한 존재감을 발휘했다.\n로제는 집업 점퍼로 쿨한 스포티 룩을 연출하는가 하면 크롭 니트로 과감하면서도 경쾌한 캐주얼룩을 선보이기도 했다.\n여기에 로제 다운 당당한 포즈로 특유의 자유로운 분위기를 선보였다.\n특히 로제는 화이트 팬츠와 화이트 크롭 티셔츠 위에 바시티 무드의 ‘코팅 점퍼’를 레이어드 해 레트로적인 감성과 동시대적 트렌드를 잘 조합했다.\n세련된 컬러 배색도 신선하다.\n한편, 오아이오아이컬렉션은 지난해 블랙핑크 로제를 모델로 기용한 이후 브랜드 이미지를 한층 더 고급스럽게 승화시킴과 동시에 글로벌 브랜드로 입지를 굳건히 다졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "컨템포러리 브랜드 ‘오아이오아이컬렉션(OIOICOLLECTION)’이 블랙핑크 로제와 함께한 2022SS 컬렉션의 첫 번째 화보를 3월 4일, 오후 6시부터 브랜드 공식 홈페이지를 통해 공개한다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 화보 속 로제는 오아이오아이컬렉션만의 감성으로 새롭게 완성한 뉴트로 트렌드를 완벽하게 소화하며 다시 한번 강렬한 존재감을 발휘했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로제는 집업 점퍼로 쿨한 스포티 룩을 연출하는가 하면 크롭 니트로 과감하면서도 경쾌한 캐주얼룩을 선보이기도 했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 로제 다운 당당한 포즈로 특유의 자유로운 분위기를 선보였다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 로제는 화이트 팬츠와 화이트 크롭 티셔츠 위에 바시티 무드의 ‘코팅 점퍼’를 레이어드 해 레트로적인 감성과 동시대적 트렌드를 잘 조합했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세련된 컬러 배색도 신선하다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 오아이오아이컬렉션은 지난해 블랙핑크 로제를 모델로 기용한 이후 브랜드 이미지를 한층 더 고급스럽게 승화시킴과 동시에 글로벌 브랜드로 입지를 굳건히 다졌다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "봄이 ‘로제’ 맞추다[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

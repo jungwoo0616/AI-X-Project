@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277985",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'케이팝스타' 안예은 \\\"#내가메갈이다\\\" 발언으로 구설수, 이후 \\\"경솔한 행동 죄송합니다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "SBS 예능프로그램 ‘케이팝 스타 시즌5’에서 준우승을 차지했던 뮤지션 안예은이 메갈리아 옹호 발언을 했다가 자신의 SNS에 사과 글을 게재했다.\n안예은은 지난 24일 자신의 SNS에 “티셔츠를 샀다고 메갈이면 메갈하지 뭐”라는 메시지와 함께 ‘#내가메갈이다’라는 해시태그를 달았다.\n다음날인 새벽 1시경에는 “저는 메갈리아가 무엇을 하는 사이트인지 잘 알아요. 물론 이 사태에 대해서도요”라며 “멘션들에 대한 답은 이미 알티로 해놓은 수많은 똑똑 분들께서 모두 해주셨기에 추가로 하지 않겠습니다”라는 글을 게재했다.\n하지만 오늘(25일) 오후 2시 경 안예은은 자신의 트위터를 통해 \\\"경솔한 행동으로 상처받고 실망하셨을 모든 분들꼐 죄송하다는 말씀을 드린다\\\"는 내용의 사과문을 올렸다.\n안예은의 발언은 SNS를 타고 일파만파 퍼져 논란이 됐다.\n결국 사과문을 올렸지만 누리꾼들의 반응은 나뉘고 있다.\n한 누리꾼은 \\\"SNS는 자신의 의견을 개진하는 곳\\\"이라며 안예은의 행동을 옹호하는 반면 다른 누리꾼은 \\\"메갈리아를 옹호하는 것은 공인으로서 잘못된 행동\\\"이라는 의견을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS 예능프로그램 ‘케이팝 스타 시즌5’에서 준우승을 차지했던 뮤지션 안예은이 메갈리아 옹호 발언을 했다가 자신의 SNS에 사과 글을 게재했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안예은은 지난 24일 자신의 SNS에 “티셔츠를 샀다고 메갈이면 메갈하지 뭐”라는 메시지와 함께 ‘#내가메갈이다’라는 해시태그를 달았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다음날인 새벽 1시경에는 “저는 메갈리아가 무엇을 하는 사이트인지 잘 알아요. 물론 이 사태에 대해서도요”라며 “멘션들에 대한 답은 이미 알티로 해놓은 수많은 똑똑 분들께서 모두 해주셨기에 추가로 하지 않겠습니다”라는 글을 게재했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 오늘(25일) 오후 2시 경 안예은은 자신의 트위터를 통해 \\\"경솔한 행동으로 상처받고 실망하셨을 모든 분들꼐 죄송하다는 말씀을 드린다\\\"는 내용의 사과문을 올렸다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안예은의 발언은 SNS를 타고 일파만파 퍼져 논란이 됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결국 사과문을 올렸지만 누리꾼들의 반응은 나뉘고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 누리꾼은 \\\"SNS는 자신의 의견을 개진하는 곳\\\"이라며 안예은의 행동을 옹호하는 반면 다른 누리꾼은 \\\"메갈리아를 옹호하는 것은 공인으로서 잘못된 행동\\\"이라는 의견을 보였다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'케이팝스타' 안예은 \\\"#내가메갈이다\\\" 발언으로 구설수, 이후 \\\"경솔한 행동 죄송합니다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264457",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "노홍철, 의외의 인맥 공개에 누리꾼 “CL이라니!”",
+		"newsSubTitle": "",
+		"newsContent": "노홍철이 CL과 장기하와의 친분을 공개했다.\n노홍철은 20일 자신의 사회관계망서비스(SNS) 인스타그램에 “하고 싶은 것도 한 것도 많아 감사한, 주말 순삭” 이라는 글과 함께 사진 여러 장을 게시했다.\n사진 속 그는 CL과 장기하와 다정하게 카메라를 보고 있는가 하면, 그들과 함께 골프와 바이크를 즐기고 식당을 방문했다.\n그의 의외의 인맥에 누리꾼들은 “CL이라니” “멋진 모습 보는 나도 행복해진다” “부럽다” 등의 반응을 보였다.\n한편 노홍철은 김해에 위치한 ‘홍철책빵 2호점’의 공사를 마무리하고 있다.\n해당 점포는 독특한 인테리어로 화제를 모은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "노홍철이 CL과 장기하와의 친분을 공개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노홍철은 20일 자신의 사회관계망서비스(SNS) 인스타그램에 “하고 싶은 것도 한 것도 많아 감사한, 주말 순삭” 이라는 글과 함께 사진 여러 장을 게시했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그는 CL과 장기하와 다정하게 카메라를 보고 있는가 하면, 그들과 함께 골프와 바이크를 즐기고 식당을 방문했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 의외의 인맥에 누리꾼들은 “CL이라니” “멋진 모습 보는 나도 행복해진다” “부럽다” 등의 반응을 보였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 노홍철은 김해에 위치한 ‘홍철책빵 2호점’의 공사를 마무리하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 점포는 독특한 인테리어로 화제를 모은 바 있다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노홍철, 의외의 인맥 공개에 누리꾼 “CL이라니!”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

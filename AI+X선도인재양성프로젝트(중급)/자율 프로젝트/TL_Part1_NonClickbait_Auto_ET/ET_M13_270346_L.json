@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270346",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘뷰티풀 민트 라이프 2022’ 티켓 매진 열기 속 공연 펼쳐",
+		"newsSubTitle": "",
+		"newsContent": "서울 송파구 올림픽공원 88잔디마당에서 개최된 야외 음악축제 ‘뷰티풀 민트 라이프 2022’(이하 뷰민라)가 성료됐다.\n뷰민라는 지난 13일 전야행사에 이어 14·15일 본행사가 진행이 됐다.\n14~15일 본공연 8000석 전석이 매진됐고 그룹사운드 잔나비 등이 출연한 전야제는 이례적인 매진으로 인해 준비가 됐다.\n현재 50인 이상 모이는 실외 공연장에선 마스크 착용이 의무이기 때문에 공연기간 동안 청중은 지정 좌석에 앉아 마스크를 쓰고 공연을 관람했지만 ‘떼창’으로 불리는 관객의 합창과 환호는 허용됐다.\n아직 코로나19 종식 전이라 스탠딩존은 지정좌석으로 대체가 됐고 식음료는 테이블을 미리 설치해 관객 편익성을 높였다.\n올해 ‘뷰민라’는 거리두기 해제 후 열리는 첫번째 대형 야외음악 페스티벌이라는 점에서 앞으로 개최가 될 록페스티벌과 EDM 페스티벌, 음악축제들에 기준점이 된다는 의미가 컸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 송파구 올림픽공원 88잔디마당에서 개최된 야외 음악축제 ‘뷰티풀 민트 라이프 2022’(이하 뷰민라)가 성료됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뷰민라는 지난 13일 전야행사에 이어 14·15일 본행사가 진행이 됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "14~15일 본공연 8000석 전석이 매진됐고 그룹사운드 잔나비 등이 출연한 전야제는 이례적인 매진으로 인해 준비가 됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 50인 이상 모이는 실외 공연장에선 마스크 착용이 의무이기 때문에 공연기간 동안 청중은 지정 좌석에 앉아 마스크를 쓰고 공연을 관람했지만 ‘떼창’으로 불리는 관객의 합창과 환호는 허용됐다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아직 코로나19 종식 전이라 스탠딩존은 지정좌석으로 대체가 됐고 식음료는 테이블을 미리 설치해 관객 편익성을 높였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 ‘뷰민라’는 거리두기 해제 후 열리는 첫번째 대형 야외음악 페스티벌이라는 점에서 앞으로 개최가 될 록페스티벌과 EDM 페스티벌, 음악축제들에 기준점이 된다는 의미가 컸다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘뷰티풀 민트 라이프 2022’ 티켓 매진 열기 속 공연 펼쳐",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

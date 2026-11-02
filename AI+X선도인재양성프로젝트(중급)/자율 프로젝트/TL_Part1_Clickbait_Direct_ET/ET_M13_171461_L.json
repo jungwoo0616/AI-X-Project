@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171461",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘꼬꼬무’ 장현성 “장항준보단 모든 걸 잘할 수 있어”",
+    "newsSubTitle": "",
+    "newsContent": "배우 장현성이 SBS ‘꼬리에 꼬리를 무는 그날 이야기’ 장항준 감독의 배턴을 이어받는 소감을 밝혔다.\n장현성은 21일 오전 온라인생중계된 ‘꼬리에 꼬리를 무는 그날 이야기’(이하 ‘꼬꼬무’) 제작발표회에서 “장항준보다 더 잘 할 수 있는 게 뭐냐”는 질문에 “장항준보단 모든 걸 잘할 수 있다”고 해 웃음을 자아냈다.\n장현성은 “직업이 배우라서 인물에 감정 이입하는 게 조금 더 낫지 않을까 생각한다”고 답했다.\n이어 “사실 장항준을 밀어내는 데엔 힘이 많이 들지 않았다”며 “장항준과 30년지기다. 장항준 감독이 ‘꼬꼬무’에 출연한 게 태어나서 제일 잘 한 것 같다”고 농담을 건넸다.\n또한 “장항준 직업이 영화감독이라 해야되는 스케줄도 있다”며 “그가 가장 좋아한 프로그램과 여행을 내가 대신 손잡고 갈 수 있다는 게 너무 고맙다”고 진심을 내비쳤다.\n정규편성된 ‘꼬꼬무’는 이날 오후 10시30분 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 장현성이 SBS ‘꼬리에 꼬리를 무는 그날 이야기’ 장항준 감독의 배턴을 이어받는 소감을 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장현성은 21일 오전 온라인생중계된 ‘꼬리에 꼬리를 무는 그날 이야기’(이하 ‘꼬꼬무’) 제작발표회에서 “장항준보다 더 잘 할 수 있는 게 뭐냐”는 질문에 “장항준보단 모든 걸 잘할 수 있다”고 해 웃음을 자아냈다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장현성은 “직업이 배우라서 인물에 감정 이입하는 게 조금 더 낫지 않을까 생각한다”고 답했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “사실 장항준을 밀어내는 데엔 힘이 많이 들지 않았다”며 “장항준과 30년지기다. 장항준 감독이 ‘꼬꼬무’에 출연한 게 태어나서 제일 잘 한 것 같다”고 농담을 건넸다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 “장항준 직업이 영화감독이라 해야되는 스케줄도 있다”며 “그가 가장 좋아한 프로그램과 여행을 내가 대신 손잡고 갈 수 있다는 게 너무 고맙다”고 진심을 내비쳤다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정규편성된 ‘꼬꼬무’는 이날 오후 10시30분 첫 방송된다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'꼬꼬무' 이어받는 이 배우... \"장항준보단 모든 걸 잘할 수 있어\" 소감 밝혀...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

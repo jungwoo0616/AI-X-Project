@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273944",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘나는 솔로’ 8기 옥순 “스스로도 아쉬워” 소감 공개",
+		"newsSubTitle": "",
+		"newsContent": "SBS 플러스, ENA PLAY 예능 프로그램 ‘나는 솔로’ 8기 옥순이 출연 소감을 전했다.\n옥순은 지난 23일 SNS에서 “지난 6주는 얻은 것도, 배운 것도 많은 시간이었다”고 출연 소감을 전했다.\n이어 “솔로나라에 과몰입하다 보니 자신도 아쉬운 모습이 있었다”며 “부족한 부분이 있어도 너그러이 봐주셨으면 좋겠다”고 밝혔다.\n옥순은 “8기 언니, 오빠들을 안 것만으로도 행복하다. 모든 분께 감사드린다”며 글을 마쳤다.\n옥순은 지난 22일 방송된 ‘나는 솔로’ 최종 선택에서 그간 호감을 쌓아온 영식을 선택하지 않았다.\n옥순은 이날 영식의 고백 이후 “너무 미안해서 얼굴을 못 보겠다”고 전해 안타까움을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS 플러스, ENA PLAY 예능 프로그램 ‘나는 솔로’ 8기 옥순이 출연 소감을 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옥순은 지난 23일 SNS에서 “지난 6주는 얻은 것도, 배운 것도 많은 시간이었다”고 출연 소감을 전했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “솔로나라에 과몰입하다 보니 자신도 아쉬운 모습이 있었다”며 “부족한 부분이 있어도 너그러이 봐주셨으면 좋겠다”고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "옥순은 “8기 언니, 오빠들을 안 것만으로도 행복하다. 모든 분께 감사드린다”며 글을 마쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "옥순은 지난 22일 방송된 ‘나는 솔로’ 최종 선택에서 그간 호감을 쌓아온 영식을 선택하지 않았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "옥순은 이날 영식의 고백 이후 “너무 미안해서 얼굴을 못 보겠다”고 전해 안타까움을 자아냈다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘나는 솔로’ 8기 옥순 “스스로도 아쉬워” 소감 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

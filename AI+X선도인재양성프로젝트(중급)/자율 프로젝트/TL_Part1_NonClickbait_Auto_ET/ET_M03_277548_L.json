@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277548",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "서양 네티즌을 충격에 빠트린 엠마 왓슨 인형",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 스타 엠마 왓슨(27)의 '미녀와 야수' 캐릭터 인형이 서양 네티즌들 사이에서 화제를 모으고 있다.\n최근 인형 수집가인 윌리엄 헤링턴은 우연히 보게 된 '벨'(Belle) 인형의 사진을 자신의 플리커에 공개했다.\n그는 이 인형을 미국 콜로라도 주 그랜드정크션에 위치한 메사 몰 내 J.C페니 매장에서 발견했다고 덧붙였다.\n그런데 해당 인형은 주인공 엠마 왓슨의 모습과 많이 달라 서양 네티즌의 공분을 샀다.\n공개된 인형은 엠마 왓슨의 가녀리고 아리따운 모습과는 반대로 커다란 골격과 까무잡잡한 피부, 많은 주근깨를 가지고 있다.\n이를 본 서양 네티즌들은 \\\"엠마 왓슨 인형을 주문했더니 저스틴 비버 인형이 왔다\\\"며 냉소적인 반응을 보였다.\n한편 엠마 왓슨이 출연하는 '미녀와 야수'는 오는 3월 17일 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 스타 엠마 왓슨(27)의 '미녀와 야수' 캐릭터 인형이 서양 네티즌들 사이에서 화제를 모으고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 인형 수집가인 윌리엄 헤링턴은 우연히 보게 된 '벨'(Belle) 인형의 사진을 자신의 플리커에 공개했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 이 인형을 미국 콜로라도 주 그랜드정크션에 위치한 메사 몰 내 J.C페니 매장에서 발견했다고 덧붙였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그런데 해당 인형은 주인공 엠마 왓슨의 모습과 많이 달라 서양 네티즌의 공분을 샀다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 인형은 엠마 왓슨의 가녀리고 아리따운 모습과는 반대로 커다란 골격과 까무잡잡한 피부, 많은 주근깨를 가지고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 서양 네티즌들은 \\\"엠마 왓슨 인형을 주문했더니 저스틴 비버 인형이 왔다\\\"며 냉소적인 반응을 보였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 엠마 왓슨이 출연하는 '미녀와 야수'는 오는 3월 17일 개봉을 앞두고 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서양 네티즌을 충격에 빠트린 엠마 왓슨 인형",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263000",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오마이걸 유아, 코로나19 확진…일정 중단",
+		"newsSubTitle": "",
+		"newsContent": "오마이걸 유아가 코로나19(코로나바이러스감염증-19) 양성 판정을 받았다.\n소속사 WM엔터테인먼트는 6일 보도자료를 내고 “오마이걸 유아의 코로나19 확진 안내드린다”며 “유아는 5일 선제적으로 진행한 자가진단키트 검사에서 양성 반응을 보여 곧바로 PCR 검사 진행했고, 금일 오전 코로나19 확진 판정을 받았다”고 밝혔다.\n소속사측은 이어 “모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치 및 휴식을 취하고 있다”고 밝혔다.\n유아는 코로나19 백신 2차 접종을 완료한 상태였던 것으로 전해졌다.\n이하는 다음은 공식입장 전문 안녕하세요.\nWM엔터테인먼트입니다.\n오마이걸 유아의 코로나19 확진 안내드립니다.\n멤버 유아는 지난 5일 선제적으로 진행한 자가진단 키트 검사에서 양성 반응을 보여 곧바로 PCR 검사 진행하였고, 금일(6일) 오전 코로나19 확진 판정을 받았습니다.\n유아는 코로나19 백신 2차 접종을 완료한 상태였으며, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치 및 휴식을 취하고 있습니다.\n당사는 아티스트의 건강과 안전을 최우선으로 고려하여 치료와 회복에 전념할 수 있도록 최선을 다하겠습니다.\n또한 방역 당국의 요청 및 지침에도 성실히 협조하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오마이걸 유아가 코로나19(코로나바이러스감염증-19) 양성 판정을 받았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 WM엔터테인먼트는 6일 보도자료를 내고 “오마이걸 유아의 코로나19 확진 안내드린다”며 “유아는 5일 선제적으로 진행한 자가진단키트 검사에서 양성 반응을 보여 곧바로 PCR 검사 진행했고, 금일 오전 코로나19 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사측은 이어 “모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치 및 휴식을 취하고 있다”고 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유아는 코로나19 백신 2차 접종을 완료한 상태였던 것으로 전해졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이하는 다음은 공식입장 전문 안녕하세요.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "WM엔터테인먼트입니다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오마이걸 유아의 코로나19 확진 안내드립니다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "멤버 유아는 지난 5일 선제적으로 진행한 자가진단 키트 검사에서 양성 반응을 보여 곧바로 PCR 검사 진행하였고, 금일(6일) 오전 코로나19 확진 판정을 받았습니다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "유아는 코로나19 백신 2차 접종을 완료한 상태였으며, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치 및 휴식을 취하고 있습니다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "당사는 아티스트의 건강과 안전을 최우선으로 고려하여 치료와 회복에 전념할 수 있도록 최선을 다하겠습니다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또한 방역 당국의 요청 및 지침에도 성실히 협조하겠습니다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오마이걸 유아, 코로나19 확진…일정 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

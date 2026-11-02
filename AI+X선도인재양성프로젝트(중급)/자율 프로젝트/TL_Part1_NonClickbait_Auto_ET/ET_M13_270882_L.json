@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270882",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "우주소녀 수빈·은서·루다·다원, 몽환적 비주얼",
+		"newsSubTitle": "",
+		"newsContent": "그룹 우주소녀(WJSN)가 단독 콘서트를 앞두고 모든 멤버들의 콘셉트 포토를 공개했다.\n우주소녀는 지난 19일과 20일 사회관계망서비스(SNS)를 통해 ‘2022 WJSN CONCERT “WONDERLAND(원더랜드)”’ 수빈, 은서, 루다, 다원의 콘셉트 포토를 선보였다.\n네 사람은 파나마모자와 귀걸이, 목걸이 등 화려한 액세서리를 착용한 채 몽환적인 분위기를 드러냈다.\n오는 6월 11일과 12일 양일간 서울 올림픽공원 올림픽홀에서 열리는 ‘2022 WJSN CONCERT “WONDERLAND”’는 지난 2019년 개최된 ‘Would you stay♥-Secret Box’ 이후 약 3년 3개월 만에 선보이는 오프라인 콘서트다.\n우주소녀는 콘서트를 앞두고 개별 콘셉트 포토를 공개하며 팬들의 열띤 반응을 얻고 있다.\n한편 우주소녀는 그룹, 유닛, 뮤지컬 등으로 쌓은 내공을 바탕으로 Mnet ‘퀸덤2’에서 활약하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 우주소녀(WJSN)가 단독 콘서트를 앞두고 모든 멤버들의 콘셉트 포토를 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우주소녀는 지난 19일과 20일 사회관계망서비스(SNS)를 통해 ‘2022 WJSN CONCERT “WONDERLAND(원더랜드)”’ 수빈, 은서, 루다, 다원의 콘셉트 포토를 선보였다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네 사람은 파나마모자와 귀걸이, 목걸이 등 화려한 액세서리를 착용한 채 몽환적인 분위기를 드러냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오는 6월 11일과 12일 양일간 서울 올림픽공원 올림픽홀에서 열리는 ‘2022 WJSN CONCERT “WONDERLAND”’는 지난 2019년 개최된 ‘Would you stay♥-Secret Box’ 이후 약 3년 3개월 만에 선보이는 오프라인 콘서트다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우주소녀는 콘서트를 앞두고 개별 콘셉트 포토를 공개하며 팬들의 열띤 반응을 얻고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 우주소녀는 그룹, 유닛, 뮤지컬 등으로 쌓은 내공을 바탕으로 Mnet ‘퀸덤2’에서 활약하고 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우주소녀 수빈·은서·루다·다원, 몽환적 비주얼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

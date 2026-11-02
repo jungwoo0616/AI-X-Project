@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271248",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "류준열, 팔뚝에 힘줄까지…‘남친짤의 정석’",
+		"newsSubTitle": "",
+		"newsContent": "배우 류준열이 근황을 공개했다.\n류준열을 24일 자신의 사회관계망서비스(SNS) 인스타그램에 “요즘 날씨”라는 글과 함께 사진 여러 장을 공개했다.\n사진 속 류준열은 흰색 티셔츠에 니트 베스트를 입은 채 카메라를 바라보고 있다.\n그의 훤칠한 키와 훈훈한 비주얼이 시선을 사로잡는다.\n해당 게시물을 본 누리꾼들은 “손등에 힘줄이 시강이다” “얼굴이 청량하다” “너무 멋지다. 역시 최고”라며 긍정적인 반응을 보였다.\n한편 류준열은 영화 ‘외계+인 1부’에 배우 김우빈, 김태리와 함께 주연으로 출연할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 류준열이 근황을 공개했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "류준열을 24일 자신의 사회관계망서비스(SNS) 인스타그램에 “요즘 날씨”라는 글과 함께 사진 여러 장을 공개했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 류준열은 흰색 티셔츠에 니트 베스트를 입은 채 카메라를 바라보고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 훤칠한 키와 훈훈한 비주얼이 시선을 사로잡는다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물을 본 누리꾼들은 “손등에 힘줄이 시강이다” “얼굴이 청량하다” “너무 멋지다. 역시 최고”라며 긍정적인 반응을 보였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 류준열은 영화 ‘외계+인 1부’에 배우 김우빈, 김태리와 함께 주연으로 출연할 예정이다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "류준열, 팔뚝에 힘줄까지…‘남친짤의 정석’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

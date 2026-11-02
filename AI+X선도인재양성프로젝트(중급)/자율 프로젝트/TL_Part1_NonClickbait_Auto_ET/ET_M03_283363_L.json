@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283363",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "심형탁, 19금 솔직 화법 \\\"가슴 수술 한 분은 Y자고 안한 분은…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "[사진 출처=일간스포츠 DB]심형탁 \\\"딱 보면 가슴 사이즈를 아는 능력 있다더라\\\" 비법이 배우 심형탁이 11월 18일 방송된 MBC 라디오 FM4U '굿모닝FM 전현무입니다'에서 휴가 간 전현무를 대신해 스페셜 DJ를 맡아 빈자리를 채웠다.\n심형탁은 솔직한 화법으로 유명하다.\n심형탁은 과거 방송에서도 거침없는 입담으로 주변을 놀라게 했다.\n지난 10월 21일에 방송된 JTBC '마녀사냥'에서 성시경은 \\\"심형탁이 딱 보면 가슴 사이즈를 아는 능력이 있다더라\\\"며 비법이 무엇인지 궁금해 했다.\n심형탁, \\\"가슴 수술 한 분은 Y자고 안한 분은 1자냐\\\" 질문에 \\\"맞다\\\" 심형탁은 \\\"사이즈보다 그거다. 수술한 가슴과 안 한 가슴을 구별하는 것이 가능하다. 골을 보고 판단한다\\\"고 했다.\n이에 유세윤은 \\\"수술 한 분은 Y자고 안 한 분은 1자냐\\\"고 물었고 심형탁은 \\\"맞다\\\"고 대답해 전문가다운 포스를 드러냈다.\n그동안 순진한 모습을 보여줬던 심형탁은 솔직한 19금 화법을 선보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "[사진 출처=일간스포츠 DB]심형탁 \\\"딱 보면 가슴 사이즈를 아는 능력 있다더라\\\" 비법이 배우 심형탁이 11월 18일 방송된 MBC 라디오 FM4U '굿모닝FM 전현무입니다'에서 휴가 간 전현무를 대신해 스페셜 DJ를 맡아 빈자리를 채웠다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "심형탁은 솔직한 화법으로 유명하다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "심형탁은 과거 방송에서도 거침없는 입담으로 주변을 놀라게 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 10월 21일에 방송된 JTBC '마녀사냥'에서 성시경은 \\\"심형탁이 딱 보면 가슴 사이즈를 아는 능력이 있다더라\\\"며 비법이 무엇인지 궁금해 했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "심형탁, \\\"가슴 수술 한 분은 Y자고 안한 분은 1자냐\\\" 질문에 \\\"맞다\\\" 심형탁은 \\\"사이즈보다 그거다. 수술한 가슴과 안 한 가슴을 구별하는 것이 가능하다. 골을 보고 판단한다\\\"고 했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 유세윤은 \\\"수술 한 분은 Y자고 안 한 분은 1자냐\\\"고 물었고 심형탁은 \\\"맞다\\\"고 대답해 전문가다운 포스를 드러냈다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그동안 순진한 모습을 보여줬던 심형탁은 솔직한 19금 화법을 선보였다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "심형탁, 19금 솔직 화법 \\\"가슴 수술 한 분은 Y자고 안한 분은…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

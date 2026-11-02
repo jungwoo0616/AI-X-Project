@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277270",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'인스타 사진' 찍으려 300m 빌딩에 매달린 여자",
+		"newsSubTitle": "",
+		"newsContent": "완벽한 사진을 찍기 위해 300m가 넘는 마천루에 매달려 사진을 찍은 러시아 여자 모델이 화제다.\n지난 15일(현지시간) 영국 데일리메일은 두바이 카얀 빌딩 꼭대기에 올라 위험천만한 사진을 찍은 러시아 모델 비키 오딘트코바를 보도했다.\n비키는 75층, 높이 307m에 달하는 카얀 타워의 꼭대기에서 남성 조수의 손에만 의지해 사진을 찍었다.\n사진 속 비키는 안전장치 없이 남성의 손에만 매달려 포즈를 취하는 위험천만한 행동을 하고 있다.\n비키는 러시아에서 모델활동을 하고 있으며 300만명이 넘는 팔로워를 보유한 SNS 스타다.\n그녀는 좀 더 많은 사람들의 관심을 끌기 위해 이와 같은 시도를 한 것으로 보이며 촬영 과정도 동영상으로 찍어서 공개했다.\n네티즌들은 이를 보고 “정말 멍청한 짓이다” “사진이 뭐라고 저런 위험천만한 짓을 하냐” 등의 반응을 보이며 비키에게 거센 비난을 가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "완벽한 사진을 찍기 위해 300m가 넘는 마천루에 매달려 사진을 찍은 러시아 여자 모델이 화제다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 15일(현지시간) 영국 데일리메일은 두바이 카얀 빌딩 꼭대기에 올라 위험천만한 사진을 찍은 러시아 모델 비키 오딘트코바를 보도했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비키는 75층, 높이 307m에 달하는 카얀 타워의 꼭대기에서 남성 조수의 손에만 의지해 사진을 찍었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 비키는 안전장치 없이 남성의 손에만 매달려 포즈를 취하는 위험천만한 행동을 하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비키는 러시아에서 모델활동을 하고 있으며 300만명이 넘는 팔로워를 보유한 SNS 스타다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그녀는 좀 더 많은 사람들의 관심을 끌기 위해 이와 같은 시도를 한 것으로 보이며 촬영 과정도 동영상으로 찍어서 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네티즌들은 이를 보고 “정말 멍청한 짓이다” “사진이 뭐라고 저런 위험천만한 짓을 하냐” 등의 반응을 보이며 비키에게 거센 비난을 가했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'인스타 사진' 찍으려 300m 빌딩에 매달린 여자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

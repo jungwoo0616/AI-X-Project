@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277556",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "일본서 \\\"완벽하다\\\" 호평 속 평점 테러난 한국 영화",
+		"newsSubTitle": "",
+		"newsContent": "영화 '변호인'이 일본에서 개봉되며 호평받고 있다.\n하지만 낮은 평점을 받으며 궁금증을 자아냈다.\n지난해 11월 송광호가 출연한 영화 '변호인'이 일본에서 개봉됐다.\n일본 영화 평점 사이트에는 변호인에 대한 호평이 이어졌다.\n일본 네티즌들은 평점 5점을 주며 찬사를 아끼지 않았다.\n네티즌들은 \\\"올해 72편의 영화를 봤지만 이 영화가 제일 기억에 남는다\\\" \\\"대단했다, 정말 대단했다. 이를 '연기'라고 부르는 것이다\\\" \\\"작품 속 송강호는 무서운 연기력을 보여준다\\\" \\\"배우의 연기력과 작품의 완성도가 모두 일본 작품을 뛰어 넘는다\\\" \\\"완벽했다. 700엔이나 하는 영화 팸플릿을 고민하지 않고 구입했다\\\"와 같은 반응이 이어졌다.\n하지만 그럼에도 영화 평점은 2.83점에 머물렀다.\n이에 대해 네티즌들은 \\\"일부러 한국 영화의 평점을 낮게 하려는 사람들이 있는 것 같다\\\" \\\"우익은 한국과 관련되면 무엇이든 저평가 하는 듯\\\" \\\"정당한 평가를 하세요\\\"와 같은 반응을 보이며 저평가된 평점을 지적했다.\n일본에는 혐한 현상을 견인하는 '넷우익' '네투우요' 등과 같은 사람들이 있다.\n이들은 '혐한'을 내세우며 한국 관련 글들을 공격하는 특징이 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 '변호인'이 일본에서 개봉되며 호평받고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지만 낮은 평점을 받으며 궁금증을 자아냈다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 11월 송광호가 출연한 영화 '변호인'이 일본에서 개봉됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일본 영화 평점 사이트에는 변호인에 대한 호평이 이어졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일본 네티즌들은 평점 5점을 주며 찬사를 아끼지 않았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 \\\"올해 72편의 영화를 봤지만 이 영화가 제일 기억에 남는다\\\" \\\"대단했다, 정말 대단했다. 이를 '연기'라고 부르는 것이다\\\" \\\"작품 속 송강호는 무서운 연기력을 보여준다\\\" \\\"배우의 연기력과 작품의 완성도가 모두 일본 작품을 뛰어 넘는다\\\" \\\"완벽했다. 700엔이나 하는 영화 팸플릿을 고민하지 않고 구입했다\\\"와 같은 반응이 이어졌다.",
+				"sentenceSize": 201
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 그럼에도 영화 평점은 2.83점에 머물렀다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 대해 네티즌들은 \\\"일부러 한국 영화의 평점을 낮게 하려는 사람들이 있는 것 같다\\\" \\\"우익은 한국과 관련되면 무엇이든 저평가 하는 듯\\\" \\\"정당한 평가를 하세요\\\"와 같은 반응을 보이며 저평가된 평점을 지적했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일본에는 혐한 현상을 견인하는 '넷우익' '네투우요' 등과 같은 사람들이 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이들은 '혐한'을 내세우며 한국 관련 글들을 공격하는 특징이 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일본서 \\\"완벽하다\\\" 호평 속 평점 테러난 한국 영화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

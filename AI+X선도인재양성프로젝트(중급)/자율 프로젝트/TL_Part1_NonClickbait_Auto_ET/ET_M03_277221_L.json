@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277221",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'고등래퍼' 최하민 과거? \\\"할 말 많아…좋은 쪽으로\\\"",
+		"newsSubTitle": "",
+		"newsContent": "Mnet 예능 프로그램 '고등래퍼'에 출연 중인 최하민의 과거에 대한 글이 온라인 커뮤니티에 게재됐다.\n18일 한 네티즌은 \\\"요즘 고등래퍼 나오신 분들 인성이나 과거에 대해서 말 많던데 나도 최하민에 대해서 할 말 많다\\\"며 \\\"좋은 쪽으로\\\"라고 글을 시작했다.\n최하민의 중학교 후배였다고 주장하는 이 네티즌은 \\\"최하민 진짜 착하다고 말 나올 정도로 착했다\\\"며 \\\"공부도 잘하고 노래도 잘하고 심지어 말도 잘했다\\\"고 전했다.\n그러면서 \\\"전교 회장 출마 당시 마지막 발언 시간에 (준비해 온) 종이를 찢으면서 내가 생각나는 대로 할거라고 말할 때 대박이었다'고 회상했다.\n글쓴이는 \\\"(최하민이) 좋은 사람이었다는 건 같이 학교 생활한 사람 모두가 알고 있을 것\\\"이라며 \\\"그 정도로 좋은 분이니 앞으로도 많이 좋아해 줘\\\"라고 당부했다.\n앞서 '고등래퍼'에 출연했던 장용준은 성매매 의혹 등으로 프로그램에서 하차했으며 양홍원도 일진설이 불거졌다.\n한편 24일 방송에서 최하민은 1위 래퍼들과의 대결에서 서정적인 가사와 흔들림 없는 랩으로 1위를 차지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Mnet 예능 프로그램 '고등래퍼'에 출연 중인 최하민의 과거에 대한 글이 온라인 커뮤니티에 게재됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 한 네티즌은 \\\"요즘 고등래퍼 나오신 분들 인성이나 과거에 대해서 말 많던데 나도 최하민에 대해서 할 말 많다\\\"며 \\\"좋은 쪽으로\\\"라고 글을 시작했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최하민의 중학교 후배였다고 주장하는 이 네티즌은 \\\"최하민 진짜 착하다고 말 나올 정도로 착했다\\\"며 \\\"공부도 잘하고 노래도 잘하고 심지어 말도 잘했다\\\"고 전했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 \\\"전교 회장 출마 당시 마지막 발언 시간에 (준비해 온) 종이를 찢으면서 내가 생각나는 대로 할거라고 말할 때 대박이었다'고 회상했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "글쓴이는 \\\"(최하민이) 좋은 사람이었다는 건 같이 학교 생활한 사람 모두가 알고 있을 것\\\"이라며 \\\"그 정도로 좋은 분이니 앞으로도 많이 좋아해 줘\\\"라고 당부했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 '고등래퍼'에 출연했던 장용준은 성매매 의혹 등으로 프로그램에서 하차했으며 양홍원도 일진설이 불거졌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 24일 방송에서 최하민은 1위 래퍼들과의 대결에서 서정적인 가사와 흔들림 없는 랩으로 1위를 차지했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'고등래퍼' 최하민 과거? \\\"할 말 많아…좋은 쪽으로\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

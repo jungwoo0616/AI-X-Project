@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276470",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'윤식당' 정유미 스타일 따라한 '중국 4대 여신'",
+		"newsSubTitle": "",
+		"newsContent": "'윤식당' 표절 의혹을 받고 있는 중국 예능 프로그램 '중찬팅'이 화제다.\n지난 22일 첫 방송된 후난TV '중찬팅'은 스타들이 태국에서 식당을 열고 중국의 맛을 해외에 알린다는 콘셉트다.\n이는 지난 5월 국내에서 인기리에 종영된 tvN '윤식당'의 콘셉트와 상당 부분이 비슷하다.\n방송 전부터 화제를 모았던 표절 의혹은 '중찬팅'의 첫 방송 직후 더 확산된 모양새다.\n이날 방송된 '중찬팅'에서는 '윤식당'과의 유사점이 여러 곳에서 포착됐다.\n특히 '중찬팅' 셰프로 출연하는 중국의 톱배우 조미(46)의 패션을 놓고도 지적이 일었다.\n조미는 방송에서 '윤식당'에 출연했던 배우 정유미와 흡사한 반다나 스타일링을 선보였다.\n네티즌들 사이에서 '중국의 4대 미녀'로 불리는 조미는 중국 드라마 '황제의 딸'의 주인공으로 국내에서도 많은 사랑을 받은 배우다.\n이외에도 식당의 구조와 전체적인 촬영 방식, 프로그램 내 자막 폰트 등도 비슷하다는 의혹이 제기됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'윤식당' 표절 의혹을 받고 있는 중국 예능 프로그램 '중찬팅'이 화제다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일 첫 방송된 후난TV '중찬팅'은 스타들이 태국에서 식당을 열고 중국의 맛을 해외에 알린다는 콘셉트다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 5월 국내에서 인기리에 종영된 tvN '윤식당'의 콘셉트와 상당 부분이 비슷하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송 전부터 화제를 모았던 표절 의혹은 '중찬팅'의 첫 방송 직후 더 확산된 모양새다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송된 '중찬팅'에서는 '윤식당'과의 유사점이 여러 곳에서 포착됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 '중찬팅' 셰프로 출연하는 중국의 톱배우 조미(46)의 패션을 놓고도 지적이 일었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조미는 방송에서 '윤식당'에 출연했던 배우 정유미와 흡사한 반다나 스타일링을 선보였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네티즌들 사이에서 '중국의 4대 미녀'로 불리는 조미는 중국 드라마 '황제의 딸'의 주인공으로 국내에서도 많은 사랑을 받은 배우다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이외에도 식당의 구조와 전체적인 촬영 방식, 프로그램 내 자막 폰트 등도 비슷하다는 의혹이 제기됐다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'윤식당' 정유미 스타일 따라한 '중국 4대 여신'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

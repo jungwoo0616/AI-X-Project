@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278300",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "음악의신2 이수민이 김지향 으로…“데뷔 임박 나쁜 선택 아니다”",
+		"newsSubTitle": "",
+		"newsContent": "음악의신2 이수민, 슈퍼모델 김지향 으로…“수민이가 일주인 전 나갔다” ‘음악의신2’ 이수민이 아닌 김지향이 등장했다.\n30일 공개된 엠넷 ‘음악의신2’에는 LTE 엔터테인먼트를 차리는 이상민, 탁재훈의 모습이 그려졌다.\n이날 이상민은 ‘음악의신’ 시즌1에 등장한 연습생 음악의신2‘이수민’을 불렀다.\n이수민은 그동안 연습했던 춤을 추며 끼를 발산했다.\n하지만 음악의신2 이수민은 시즌1의 이수민이 아니었다.\n음악의신2 이수민은 슈퍼모델 출신 김지향이다.\n김지향은 “대표님이 일단 음악의신2 이수민인척 하래요”라며 “인지도도 어느정도 쌓여 있고, 데뷔도 임박했으니까 저한테 절대 나쁜 선택이 아니라고”라고 말했다.\n이에 이상민은 “사업을 하다보면 때로는 선의의 거짓말이 필요하다”라며 “수민이는 사실 기나긴 연습생활을 참지 못하고 일주일전 회사를 나갔다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "음악의신2 이수민, 슈퍼모델 김지향 으로…“수민이가 일주인 전 나갔다” ‘음악의신2’ 이수민이 아닌 김지향이 등장했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 공개된 엠넷 ‘음악의신2’에는 LTE 엔터테인먼트를 차리는 이상민, 탁재훈의 모습이 그려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이상민은 ‘음악의신’ 시즌1에 등장한 연습생 음악의신2‘이수민’을 불렀다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이수민은 그동안 연습했던 춤을 추며 끼를 발산했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 음악의신2 이수민은 시즌1의 이수민이 아니었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "음악의신2 이수민은 슈퍼모델 출신 김지향이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김지향은 “대표님이 일단 음악의신2 이수민인척 하래요”라며 “인지도도 어느정도 쌓여 있고, 데뷔도 임박했으니까 저한테 절대 나쁜 선택이 아니라고”라고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 이상민은 “사업을 하다보면 때로는 선의의 거짓말이 필요하다”라며 “수민이는 사실 기나긴 연습생활을 참지 못하고 일주일전 회사를 나갔다”고 말했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "음악의신2 이수민이 김지향 으로…“데뷔 임박 나쁜 선택 아니다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

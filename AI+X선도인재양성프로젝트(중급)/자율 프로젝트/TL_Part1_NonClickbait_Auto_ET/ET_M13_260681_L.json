@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260681",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "블핑 로제 커버곡, 콜드플레이 “정말 좋다”",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크 로제가 생일을 맞아 팬들을 위한 깜짝 선물을 공개했다.\n로제는 11일 자신의 공식 유튜브 채널에 영국 인기 록밴드 콜드플레이(Coldplay)의 대표곡 ‘비바 라 비다(Viva La Vida)’의 커버곡을 공개했다 영상에서는 로제가 가벼운 옷차림으로 기타 반주에 맞춰 노래하는 모습을 볼 수 있다.\n로제는 특유의 목소리로 ‘Viva La Vida’를 새롭게 해석해 누리꾼들의 호평을 얻었다.\n팬들은 “그녀의 목소리는 이 노래에 완벽하게 잘 어울린다. 마음에 든다”, “천사같은 목소리로 또 다시 마음을 훔쳤다”라며 영상에 댓글을 남겼다.\n이 영상을 본 콜드플레이는 11일 공식 인스타그램 스토리에 “마음에 든다. 목소리가 정말 좋다. 로제 생일 축하한다”라며 로제의 영상에 화답했다.\n로제는 공식 유튜브 채널을 통해 영국 록밴드 넥 딥(Neck deep)의 ‘디셈버(December)’와 영국 역사상 가장 인기있었던 록 밴드 오아시스(Oasis)의 ‘돈 룩 백 인 앵거(Don’t look back in anger)’의 커버곡을 공개했다.\n로제(박채영)은 1997년 2월 11일 태어났다.\n2012년에 블랙핑크로 데뷔하여 현재까지 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크 로제가 생일을 맞아 팬들을 위한 깜짝 선물을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로제는 11일 자신의 공식 유튜브 채널에 영국 인기 록밴드 콜드플레이(Coldplay)의 대표곡 ‘비바 라 비다(Viva La Vida)’의 커버곡을 공개했다 영상에서는 로제가 가벼운 옷차림으로 기타 반주에 맞춰 노래하는 모습을 볼 수 있다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로제는 특유의 목소리로 ‘Viva La Vida’를 새롭게 해석해 누리꾼들의 호평을 얻었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들은 “그녀의 목소리는 이 노래에 완벽하게 잘 어울린다. 마음에 든다”, “천사같은 목소리로 또 다시 마음을 훔쳤다”라며 영상에 댓글을 남겼다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 영상을 본 콜드플레이는 11일 공식 인스타그램 스토리에 “마음에 든다. 목소리가 정말 좋다. 로제 생일 축하한다”라며 로제의 영상에 화답했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로제는 공식 유튜브 채널을 통해 영국 록밴드 넥 딥(Neck deep)의 ‘디셈버(December)’와 영국 역사상 가장 인기있었던 록 밴드 오아시스(Oasis)의 ‘돈 룩 백 인 앵거(Don’t look back in anger)’의 커버곡을 공개했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로제(박채영)은 1997년 2월 11일 태어났다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2012년에 블랙핑크로 데뷔하여 현재까지 활동 중이다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블핑 로제 커버곡, 콜드플레이 “정말 좋다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

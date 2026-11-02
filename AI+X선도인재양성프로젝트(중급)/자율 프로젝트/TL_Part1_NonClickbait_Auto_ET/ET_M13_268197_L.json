@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268197",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이형택, “윤종신은 좋은데, 전미라는”",
+		"newsSubTitle": "",
+		"newsContent": "지난 25일 방송된 채널A ‘슈퍼 DNA 피는 못 속여’에는 전미라가 스튜디오에 직접 출연해 맹활약을 펼쳤다.\n이날 전미라의 출연에 이형택은 “힝기스가 1위였는데 시합 전에는 1등인 줄 몰랐다. 처음 본 친구였는데 어린 친구가 끝까지 집에 안 가고 연습하더라. 저랑 붙는 친구가 저 친구였다”고 첫 만남을 회상했다.\n이어 “전미라는 당시 스타였다. 주니어 선수는 금전적인 걸 받진 않는데 당시에 그거까지 받았을 정도면”이라고 전미라의 인기를 언급했다.\n그러다 이내 “중학교 때 부터 알고 같이 시합 다녔는데 갑자기 형수님이 되더라. 윤종신 선배는 너무 좋은데”라고 말해 폭소를 안겼다.\n전미라가 이동국 딸 재아를 만난 현장이 공개됐다.\n앞서 무릎 부상으로 인해 재활에 집중했던 재아는 3개월 만에 테니스장을 다시 찾았다.\n재아는 아빠와 필드 적응 훈련에 나섰고, 이때 전미라가 깜짝 등장했다.\n재아는 대선배이자 우상인 전미라를 향해 “주니어 때 정상을 밟으셨던 분이라 너무 멋있다”며 존경심을 드러냈다.\n전미라는 대한민국 최초 주니어 윔블던 대회 준우승 출신이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 25일 방송된 채널A ‘슈퍼 DNA 피는 못 속여’에는 전미라가 스튜디오에 직접 출연해 맹활약을 펼쳤다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 전미라의 출연에 이형택은 “힝기스가 1위였는데 시합 전에는 1등인 줄 몰랐다. 처음 본 친구였는데 어린 친구가 끝까지 집에 안 가고 연습하더라. 저랑 붙는 친구가 저 친구였다”고 첫 만남을 회상했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “전미라는 당시 스타였다. 주니어 선수는 금전적인 걸 받진 않는데 당시에 그거까지 받았을 정도면”이라고 전미라의 인기를 언급했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러다 이내 “중학교 때 부터 알고 같이 시합 다녔는데 갑자기 형수님이 되더라. 윤종신 선배는 너무 좋은데”라고 말해 폭소를 안겼다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전미라가 이동국 딸 재아를 만난 현장이 공개됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 무릎 부상으로 인해 재활에 집중했던 재아는 3개월 만에 테니스장을 다시 찾았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "재아는 아빠와 필드 적응 훈련에 나섰고, 이때 전미라가 깜짝 등장했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "재아는 대선배이자 우상인 전미라를 향해 “주니어 때 정상을 밟으셨던 분이라 너무 멋있다”며 존경심을 드러냈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전미라는 대한민국 최초 주니어 윔블던 대회 준우승 출신이다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이형택, “윤종신은 좋은데, 전미라는”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258586",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "박신혜, ♥최태준 주니어에게 애정 담은 인사 “잘자요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 박신혜가 최태준과 결혼을 앞두고 근황을 공개했다.\n박신혜는 18일 인스타그램에 “잘자요 내사랑들. 아름답고 행복한 꿈 꾸기를”이라며 사진 한 장을 올렸다.\n사진 속 박신혜는 흰 티셔츠를 입고 청초한 미모를 뽐냈다.\n작은 상자에 들어간 고양이 사진도 올렸다. “저 박스는 리모컨 박스”라며 “리모컨을 넣어 놓으면 굳이 와서 앞발로 다 빼내고 커다란 몸둥아리를 구겨 넣죠. 아니 굳이 왜”라고 남겼다.\n사진에서 깔끔한 인테리어의 집을 엿볼 수 있다.\n박신혜와 최태준은 22일 오전 11시30분 서울 강동구 한 교회에서 결혼식을 올릴 예정이다.\n두 사람은 중앙대 연극학과 선후배 사이다. 2017년 5월 열애설에 휩싸였지만, “친한 사이일 뿐”이라고 부인했다.\n2018년 3월 열애를 인정했고, 5년 여 만에 부부 결실을 맺게 됐다.\n청첩장에서 두 사람은 “주님이 주시는 하루란 선물을 하나 하나 같이 풀어보고 싶은 사람이 생겼습니다”라며 “오셔서 축복해 주세요. 서로를 보듬으며 세상을 아름답게 살겠습니다”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박신혜가 최태준과 결혼을 앞두고 근황을 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박신혜는 18일 인스타그램에 “잘자요 내사랑들. 아름답고 행복한 꿈 꾸기를”이라며 사진 한 장을 올렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 박신혜는 흰 티셔츠를 입고 청초한 미모를 뽐냈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "작은 상자에 들어간 고양이 사진도 올렸다. “저 박스는 리모컨 박스”라며 “리모컨을 넣어 놓으면 굳이 와서 앞발로 다 빼내고 커다란 몸둥아리를 구겨 넣죠. 아니 굳이 왜”라고 남겼다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진에서 깔끔한 인테리어의 집을 엿볼 수 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박신혜와 최태준은 22일 오전 11시30분 서울 강동구 한 교회에서 결혼식을 올릴 예정이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람은 중앙대 연극학과 선후배 사이다. 2017년 5월 열애설에 휩싸였지만, “친한 사이일 뿐”이라고 부인했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2018년 3월 열애를 인정했고, 5년 여 만에 부부 결실을 맺게 됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "청첩장에서 두 사람은 “주님이 주시는 하루란 선물을 하나 하나 같이 풀어보고 싶은 사람이 생겼습니다”라며 “오셔서 축복해 주세요. 서로를 보듬으며 세상을 아름답게 살겠습니다”라고 밝혔다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박신혜, ♥최태준 주니어에게 애정 담은 인사 “잘자요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

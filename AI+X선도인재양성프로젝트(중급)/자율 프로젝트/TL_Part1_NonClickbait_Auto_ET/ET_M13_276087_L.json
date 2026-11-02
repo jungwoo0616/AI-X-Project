@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276087",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘뮤뱅’ 효린, 더위 날린 걸크러쉬 ‘NO THANKS’",
+		"newsSubTitle": "",
+		"newsContent": "가수 효린이 ‘아이스 퀸’의 탄생을 알렸다.\n효린은 22일 오후 방송된 KBS2 ‘뮤직뱅크’에 출연했다.\n세 번째 미니앨범 ‘iCE’의 타이틀곡 ‘NO THANKS’로 무대를 꾸민 효린은 압도적인 분위기와 함께 등장, 무더위를 날려버릴 걸크러시로 이목을 집중시켰다.\n효린은 개성 넘치는 보이스와 폭발적인 가창력은 물론, 다채로운 표정 연기까지 더해 무대의 완성도를 높이며 ‘아이스 퀸’의 저력을 과시했다.\n효린은 카모 스타일링으로 시원하고 섹시한 매력을 완성, 물오른 완벽 비주얼로 시선을 사로잡았다.\n지난 18일 컴백과 함께 또 한번 여름 절대 강자로 자리매김할 효린의 ‘NO THANKS’는 힙합과 R&B가 믹스 매치된 힙합 댄스곡으로, 쿨하게 상대를 밀어내지만 가끔은 사랑을 바라고 얼음처럼 차갑지만 한순간 대책 없이 녹아버리기도 하는 마음을 효린답게 표현해낸 곡이다.\n효린은 ‘유일무이 솔로 아티스트’로서 다양한 음악과 활동을 통해 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 효린이 ‘아이스 퀸’의 탄생을 알렸다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "효린은 22일 오후 방송된 KBS2 ‘뮤직뱅크’에 출연했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세 번째 미니앨범 ‘iCE’의 타이틀곡 ‘NO THANKS’로 무대를 꾸민 효린은 압도적인 분위기와 함께 등장, 무더위를 날려버릴 걸크러시로 이목을 집중시켰다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "효린은 개성 넘치는 보이스와 폭발적인 가창력은 물론, 다채로운 표정 연기까지 더해 무대의 완성도를 높이며 ‘아이스 퀸’의 저력을 과시했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "효린은 카모 스타일링으로 시원하고 섹시한 매력을 완성, 물오른 완벽 비주얼로 시선을 사로잡았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 18일 컴백과 함께 또 한번 여름 절대 강자로 자리매김할 효린의 ‘NO THANKS’는 힙합과 R&B가 믹스 매치된 힙합 댄스곡으로, 쿨하게 상대를 밀어내지만 가끔은 사랑을 바라고 얼음처럼 차갑지만 한순간 대책 없이 녹아버리기도 하는 마음을 효린답게 표현해낸 곡이다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "효린은 ‘유일무이 솔로 아티스트’로서 다양한 음악과 활동을 통해 대중을 만날 예정이다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘뮤뱅’ 효린, 더위 날린 걸크러쉬 ‘NO THANKS’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

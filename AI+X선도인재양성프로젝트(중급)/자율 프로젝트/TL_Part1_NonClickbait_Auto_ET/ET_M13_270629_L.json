@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270629",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "골든차일드 태그 측 “위독한 상태 아냐…컨디션 난조로 검사”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 골든차일드 태그가 컨디션 난조로 병원 검사를 받았다.\n소속사 울림엔터테인먼트 측은 지난 18일 오후 스포츠경향에 “태그는 현재 위독한 상태는 전혀 아니다”라고 밝혔다.\n그러면서 “최근 컨디션 난조로 인해 오늘(18일) 오전 병원에 내원해 여러 가지 검사를 마치고 결과를 기다리는 중”이라고 설명했다.\n지난 18일 한 매체는 태그가 급성 간부전으로 위독한 상태이며, 서울 모처의 대학병원에 입원해 간 이식이 시급한 상황이라고 전했다.\n이에 골든차일드 팬, K팝 리스너들은 큰 충격을 받았지만, 소속사는 건강이 위독하다는 보도에 대해서는 “사실이 아니다”라고 했다.\n한편 태그가 속한 골든차일드는 지난 2017년 데뷔한 뒤 ‘담다디’, ‘워너비’ 등을 발표했다.\n오는 6월 24일부터 7월 11일까지는 미국 새너제이, LA, 덴버, 댈러스, 미니애폴리스, 시카고, 내슈빌, 애틀란타, 뉴욕, 필라델피아까지 총 10개 도시에서 투어를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 골든차일드 태그가 컨디션 난조로 병원 검사를 받았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 울림엔터테인먼트 측은 지난 18일 오후 스포츠경향에 “태그는 현재 위독한 상태는 전혀 아니다”라고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “최근 컨디션 난조로 인해 오늘(18일) 오전 병원에 내원해 여러 가지 검사를 마치고 결과를 기다리는 중”이라고 설명했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 18일 한 매체는 태그가 급성 간부전으로 위독한 상태이며, 서울 모처의 대학병원에 입원해 간 이식이 시급한 상황이라고 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 골든차일드 팬, K팝 리스너들은 큰 충격을 받았지만, 소속사는 건강이 위독하다는 보도에 대해서는 “사실이 아니다”라고 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 태그가 속한 골든차일드는 지난 2017년 데뷔한 뒤 ‘담다디’, ‘워너비’ 등을 발표했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오는 6월 24일부터 7월 11일까지는 미국 새너제이, LA, 덴버, 댈러스, 미니애폴리스, 시카고, 내슈빌, 애틀란타, 뉴욕, 필라델피아까지 총 10개 도시에서 투어를 개최한다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "골든차일드 태그 측 “위독한 상태 아냐…컨디션 난조로 검사”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168927",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "살사소스 만들기, 새콤한 살사소스 만드는 꿀팁 공개",
+    "newsSubTitle": "",
+    "newsContent": "살사소스 만들기, 새콤한 살사소스 만드는 비법은? 살사소스 만들기가 포털사이트를 중심으로 화제가 되고 있다.\n우선 살사소스를 만들기 위해서는 토마토케첩 2와 1/2큰술(25g), 양파 1/10개(20g), 토마토 1/5개(40g), 레몬(레몬즙) 1/2큰술(7ml), 피망 1/4개(15g), 핫소스 1큰술(15ml)가 필요하다.\n재료가 준비됐다면 피망과 양파부터 잘게 다진다.\n토마토는 끓는 물에 살짝 데친 후 껍질을 벗기고 잘게 다진다.\n이후 유리볼에 준비된 피망, 양파, 토마토, 핫소스, 토마토케첩, 레몬즙, 소금, 후추를 넣고 섞으면 완성된다.\n한편 완성된 살사소스는 뚜껑을 잘 닫아 서늘한 곳 또는 냉장보관하는 게 좋다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "살사소스 만들기, 새콤한 살사소스 만드는 비법은? 살사소스 만들기가 포털사이트를 중심으로 화제가 되고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우선 살사소스를 만들기 위해서는 토마토케첩 2와 1/2큰술(25g), 양파 1/10개(20g), 토마토 1/5개(40g), 레몬(레몬즙) 1/2큰술(7ml), 피망 1/4개(15g), 핫소스 1큰술(15ml)가 필요하다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "재료가 준비됐다면 피망과 양파부터 잘게 다진다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "토마토는 끓는 물에 살짝 데친 후 껍질을 벗기고 잘게 다진다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 유리볼에 준비된 피망, 양파, 토마토, 핫소스, 토마토케첩, 레몬즙, 소금, 후추를 넣고 섞으면 완성된다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 완성된 살사소스는 뚜껑을 잘 닫아 서늘한 곳 또는 냉장보관하는 게 좋다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "요즘 유행하는 살사 소스 어떻게 만드나 봤더니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276495",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "전현무가 한혜진에게 \\\"왜 이렇게 고추를 잘 따요\\\"라고 말한 이유",
+		"newsSubTitle": "",
+		"newsContent": "지난 21일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서 한혜진이 '고추 따기'의 달인으로 등극해 웃음을 선사했다.\n한혜진은 같은 팀에 편성된 전현무, 윤현민보다 더 빠른 속도로 고추를 수확했다.\n한혜진이 두 사람을 보며 \\\"빨리 오라\\\"며 핀잔을 주는 장면도 연출됐다.\n전현무는 한혜진을 보고 \\\"왜 이렇게 고추를 잘 따요\\\"라며 농담을 건네기도 했다.\n한혜진에 대한 전현무의 농담이 계속 이어졌다.\n한혜진이 수확한 고추를 보자고 말하자 전현무가 \\\"고추를 보자고요? 곤란한데\\\"라고 응수한 것이다.\n이어서 한혜진이 전현무와 윤현민을 보며 \\\"고추반\\\"이라고 부르자, 전현무는 \\\"어느 고추를 말하는 건가요\\\"라고 대답했다.\n특히, 전현무는 한혜진의 고추 수확 실력을 가리켜 \\\"한혜진 회원님이 고추 따기의 명인이었더라\\\"며 \\\"미스 고추아가씨 수준\\\"이라고 평가해 웃음을 주기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 21일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서 한혜진이 '고추 따기'의 달인으로 등극해 웃음을 선사했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한혜진은 같은 팀에 편성된 전현무, 윤현민보다 더 빠른 속도로 고추를 수확했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한혜진이 두 사람을 보며 \\\"빨리 오라\\\"며 핀잔을 주는 장면도 연출됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전현무는 한혜진을 보고 \\\"왜 이렇게 고추를 잘 따요\\\"라며 농담을 건네기도 했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한혜진에 대한 전현무의 농담이 계속 이어졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한혜진이 수확한 고추를 보자고 말하자 전현무가 \\\"고추를 보자고요? 곤란한데\\\"라고 응수한 것이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어서 한혜진이 전현무와 윤현민을 보며 \\\"고추반\\\"이라고 부르자, 전현무는 \\\"어느 고추를 말하는 건가요\\\"라고 대답했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히, 전현무는 한혜진의 고추 수확 실력을 가리켜 \\\"한혜진 회원님이 고추 따기의 명인이었더라\\\"며 \\\"미스 고추아가씨 수준\\\"이라고 평가해 웃음을 주기도 했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전현무가 한혜진에게 \\\"왜 이렇게 고추를 잘 따요\\\"라고 말한 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

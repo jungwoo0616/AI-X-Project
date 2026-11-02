@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272902",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "천만 넘은 ‘범죄도시2’, 어디까지 갈까",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘범죄도시2’(감독 이상용)가 천만 고지를 넘고 순항 중이다.\n12일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘범죄도시2’는 11일 33만9167명이 관람해 박스오피스 1위에 올랐다.\n누적관객수 1017만2349명이다. ‘범죄도시2’는 지난달 18일 개봉 이후 팬데믹 이후 한국영화 최고 오프닝 스코어 등 역대급 기록을 경신하면서 흥행에 시동을 걸었다.\n이어 지난 11일 팬데믹 이후 첫 ‘천만영화’ 탄생을 알리며 이름값을 증명해냈다.\n여전히 박스오피스 1위를 놓치지 않고 있어, 그 흥행세가 어디까지 갈지 관심이 쏠린다.\n2위는 ‘브로커’다. 22만4120명이 관람해 누적관객수 59만4659명을 달성했다. ‘쥬라기 월드: 도미니언’과 ‘극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미’가 나란히 3, 4위에 올랐다.\n각각 13만7630명, 6만9726명이 선택했다.\n5위는 4243명이 본 ‘그대가 조국’이 차지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘범죄도시2’(감독 이상용)가 천만 고지를 넘고 순항 중이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘범죄도시2’는 11일 33만9167명이 관람해 박스오피스 1위에 올랐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누적관객수 1017만2349명이다. ‘범죄도시2’는 지난달 18일 개봉 이후 팬데믹 이후 한국영화 최고 오프닝 스코어 등 역대급 기록을 경신하면서 흥행에 시동을 걸었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 지난 11일 팬데믹 이후 첫 ‘천만영화’ 탄생을 알리며 이름값을 증명해냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여전히 박스오피스 1위를 놓치지 않고 있어, 그 흥행세가 어디까지 갈지 관심이 쏠린다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2위는 ‘브로커’다. 22만4120명이 관람해 누적관객수 59만4659명을 달성했다. ‘쥬라기 월드: 도미니언’과 ‘극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미’가 나란히 3, 4위에 올랐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "각각 13만7630명, 6만9726명이 선택했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5위는 4243명이 본 ‘그대가 조국’이 차지했다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "천만 넘은 ‘범죄도시2’, 어디까지 갈까",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

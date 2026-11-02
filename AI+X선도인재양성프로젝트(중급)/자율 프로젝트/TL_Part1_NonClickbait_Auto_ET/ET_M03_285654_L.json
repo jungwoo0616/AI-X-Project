@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285654",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이파니, 몸매 관리 비법 공개…\\\"이거하면 C컵으로 변신\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'이파니' 이파니의 몸매 관리 비법이 주목을 받고 있다.\n이파니는 지난 16일 JTBC '집밥의 여왕'에 출연해 배다해, 채자연, 비키와 함께 집밥 대결을 펼쳤다.\n당시 방송에서 이파니는 밥상 공개에 앞서 몸매 관리 비법을 소개했다.\n이파니는 자신의 볼륨 넘치는 가슴의 비법으로 가슴 마사지를 꼽았다.\n이어 이파니는 \\\"샤워 후 거울을 보고 목에서 교차한 가슴 라인을 손으로 쓸어올려준다\\\"라며 \\\"또 등 뒤로부터 겨등랑이 위로 쓸어 올린다. 유선을 자극해 볼륨을 키워준다\\\"라고 말했다.\n출연진들이 민망해하자, 이파니는 \\\"실제로 일본에서 유행하는 운동\\\"이라며 \\\"A컵이 C컵까지 올라가는 사례가 있다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'이파니' 이파니의 몸매 관리 비법이 주목을 받고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이파니는 지난 16일 JTBC '집밥의 여왕'에 출연해 배다해, 채자연, 비키와 함께 집밥 대결을 펼쳤다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 방송에서 이파니는 밥상 공개에 앞서 몸매 관리 비법을 소개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이파니는 자신의 볼륨 넘치는 가슴의 비법으로 가슴 마사지를 꼽았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이파니는 \\\"샤워 후 거울을 보고 목에서 교차한 가슴 라인을 손으로 쓸어올려준다\\\"라며 \\\"또 등 뒤로부터 겨등랑이 위로 쓸어 올린다. 유선을 자극해 볼륨을 키워준다\\\"라고 말했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "출연진들이 민망해하자, 이파니는 \\\"실제로 일본에서 유행하는 운동\\\"이라며 \\\"A컵이 C컵까지 올라가는 사례가 있다\\\"고 설명했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이파니, 몸매 관리 비법 공개…\\\"이거하면 C컵으로 변신\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

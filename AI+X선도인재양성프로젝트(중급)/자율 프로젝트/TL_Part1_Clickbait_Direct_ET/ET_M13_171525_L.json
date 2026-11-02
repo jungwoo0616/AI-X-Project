@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171525",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이민호, 8년 만 美 ‘상속자들’ 촬영지 방문 “잘 있었니”",
+    "newsSubTitle": "",
+    "newsContent": "배우 이민호(34)가 추억의 장소에 방문해 향수를 자극했다.\n이민호는 10일 자신의 인스타그램에 “잘 있었니”라는 글과 함께 여러 장의 사진을 게재했다.\n공개된 사진에는 미국 캘리포니아 헌팅턴 비치를 방문한 이민호의 모습이 담겼다.\n해당 장소는 지난 2013년 방송된 SBS 드라마 ‘상속자들’ 촬영지로, 미국 유학 당시 김탄(이민호 분)이 거주하던 장소다.\n여주인공 차은상(박신혜)와 처음 마주하는 장소이기도 하다.\n그는 약 8년 만에 다시 방문하게 됐다. ‘상속자들’은 부유층 고교생들의 사랑과 우정을 그리는 청춘 트렌디 드라마로 방영 당시 최고 시청률 25.6%를 기록하는 등 폭발적인 인기를 끌었다.\n이민호는 극 중 제국그룹 상속자 김탄 역 맡아 열연을 펼쳤다.\n이를 본 누리꾼들은 “상속자들 정주행 갑니다” “상속자들 촬영지네 김탄 사랑해” “보고싶었어요” 등의 반응을 보냈다.\n한편, 이민호는 지난 6일 미국 로스앤젤레스 카운티 미술관에서 열린 LACMA 아트+필름 갈라에 참석했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이민호(34)가 추억의 장소에 방문해 향수를 자극했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이민호는 10일 자신의 인스타그램에 “잘 있었니”라는 글과 함께 여러 장의 사진을 게재했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 미국 캘리포니아 헌팅턴 비치를 방문한 이민호의 모습이 담겼다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 장소는 지난 2013년 방송된 SBS 드라마 ‘상속자들’ 촬영지로, 미국 유학 당시 김탄(이민호 분)이 거주하던 장소다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여주인공 차은상(박신혜)와 처음 마주하는 장소이기도 하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 약 8년 만에 다시 방문하게 됐다. ‘상속자들’은 부유층 고교생들의 사랑과 우정을 그리는 청춘 트렌디 드라마로 방영 당시 최고 시청률 25.6%를 기록하는 등 폭발적인 인기를 끌었다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이민호는 극 중 제국그룹 상속자 김탄 역 맡아 열연을 펼쳤다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 누리꾼들은 “상속자들 정주행 갑니다” “상속자들 촬영지네 김탄 사랑해” “보고싶었어요” 등의 반응을 보냈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 이민호는 지난 6일 미국 로스앤젤레스 카운티 미술관에서 열린 LACMA 아트+필름 갈라에 참석했다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이민호, 8년 만에 이곳 방문해 “잘 있었니”",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

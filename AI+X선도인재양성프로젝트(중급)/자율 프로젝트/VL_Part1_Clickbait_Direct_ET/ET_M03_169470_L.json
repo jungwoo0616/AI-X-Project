@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169470",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "혜은이ㆍ김동현 결혼 29년 만에 황혼 이혼",
+    "newsSubTitle": "",
+    "newsContent": "가수 혜은이(64)와 배우 김동현(70)이 결혼 29년 만에 이혼했다.\n29일 가요계ㆍ방송계에 따르면 1990년 결혼한 두 사람은 지난해 7월 협의이혼으로 부부 관계를 정리했다.\n1975년 ‘당신은 모르실 거야’로 데뷔한 혜은이는 ‘진짜 진짜 좋아해’ ‘감수광’ ‘제3한강교’ ‘파란 나라’ 등 숱한 히트곡을 내며 1970~80년대 전성기를 누렸다.\n1984년 사업가와 첫 결혼 후 4년 만인 88년 이혼했고, 2년 뒤 김동현과 재혼했다.\n김동현은 1978년 영화 ‘마지막 겨울’로 데뷔, 드라마 ‘아내의 유혹’ ‘대조영’ 등에서 중후한 이미지로 주목을 받은 배우다.\n두 사람은 아들을 낳고 결혼생활을 꾸려갔으나 김동현의 연이은 사업 실패로 경제적인 어려움을 겪은 것으로 알려졌다.\n김동현은 2012년과 2016년 사기죄로 벌금형을 선고받았고, 금전 문제로 여러 차례 구설에 오른 바 있다.\n혜은이는 이혼 사실이 알려진 뒤 ‘더팩트’와의 전화 인터뷰에서 “이혼 얘기는 오래 전부터 있었다. (김동현이) 결혼 후 고생만 시켰다며 맘 편히 살라고 했다”면서 “(이혼 후) 처음엔 많이 힘들었는데 그동안 마음을 추스르며 많이 가라앉았다”고 심경을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 혜은이(64)와 배우 김동현(70)이 결혼 29년 만에 이혼했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 가요계ㆍ방송계에 따르면 1990년 결혼한 두 사람은 지난해 7월 협의이혼으로 부부 관계를 정리했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1975년 ‘당신은 모르실 거야’로 데뷔한 혜은이는 ‘진짜 진짜 좋아해’ ‘감수광’ ‘제3한강교’ ‘파란 나라’ 등 숱한 히트곡을 내며 1970~80년대 전성기를 누렸다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1984년 사업가와 첫 결혼 후 4년 만인 88년 이혼했고, 2년 뒤 김동현과 재혼했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김동현은 1978년 영화 ‘마지막 겨울’로 데뷔, 드라마 ‘아내의 유혹’ ‘대조영’ 등에서 중후한 이미지로 주목을 받은 배우다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람은 아들을 낳고 결혼생활을 꾸려갔으나 김동현의 연이은 사업 실패로 경제적인 어려움을 겪은 것으로 알려졌다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김동현은 2012년과 2016년 사기죄로 벌금형을 선고받았고, 금전 문제로 여러 차례 구설에 오른 바 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "혜은이는 이혼 사실이 알려진 뒤 ‘더팩트’와의 전화 인터뷰에서 “이혼 얘기는 오래 전부터 있었다. (김동현이) 결혼 후 고생만 시켰다며 맘 편히 살라고 했다”면서 “(이혼 후) 처음엔 많이 힘들었는데 그동안 마음을 추스르며 많이 가라앉았다”고 심경을 밝혔다.",
+        "sentenceSize": 144
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김동현, 사업 실패로 풍비박산... 혜은이, '이렇게는 못 살아'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

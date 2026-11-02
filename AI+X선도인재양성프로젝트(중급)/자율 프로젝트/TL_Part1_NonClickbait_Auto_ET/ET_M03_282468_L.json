@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282468",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "복면가왕 미스코리아, 정체는 힙합 여전사 '제시'…특유의 산만한 모습 들통",
+		"newsSubTitle": "",
+		"newsContent": "미스코리아의 정체는 제시로 밝혀졌다.\n제시는 29일 오후 4시 50분 방송된 MBC '일밤-복면가왕'에서 파워풀한 성량을 뽐냈으나 안타깝게 떨어졌다.\n이날 제시는 미스코리아 드레스를 입고 등장했으나 특유의 시크한 모습을 숨기지 못하고 산만한 모습으로 MC 김성주를 당황시켰다.\n김창렬은 \\\"미스코리아는 제시가 확실하다. 교포 발음이다\\\"라고 예측하기도 했다.\n이날 방송에는 지난 주 가왕 3파전에서 거미와 조장혁을 꺾고 승리를 거머쥔 가창력 끝판왕 ‘여전사 캣츠걸’에게 도전하는 새로운 8인의 복면가수들이 자리를 빛냈다.\n온라인 중앙일보 [사진 MBC '복면가왕‘방송화면 캡처]‘복면가왕 미스코리아’‘제시‘",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미스코리아의 정체는 제시로 밝혀졌다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제시는 29일 오후 4시 50분 방송된 MBC '일밤-복면가왕'에서 파워풀한 성량을 뽐냈으나 안타깝게 떨어졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 제시는 미스코리아 드레스를 입고 등장했으나 특유의 시크한 모습을 숨기지 못하고 산만한 모습으로 MC 김성주를 당황시켰다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김창렬은 \\\"미스코리아는 제시가 확실하다. 교포 발음이다\\\"라고 예측하기도 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에는 지난 주 가왕 3파전에서 거미와 조장혁을 꺾고 승리를 거머쥔 가창력 끝판왕 ‘여전사 캣츠걸’에게 도전하는 새로운 8인의 복면가수들이 자리를 빛냈다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC '복면가왕‘방송화면 캡처]‘복면가왕 미스코리아’‘제시‘",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "복면가왕 미스코리아, 정체는 힙합 여전사 '제시'…특유의 산만한 모습 들통",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

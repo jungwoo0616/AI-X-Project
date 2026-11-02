@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270780",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "프리지아, 자숙 4개월 만에 근황…봉사활동 중",
+		"newsSubTitle": "",
+		"newsContent": "유튜버 프리지아(송지아)가 가품 논란 후 4개월 만에 근황이 드러났다.\n프리지아는 지난 19일 이수근의 아내 박지연의 개인 사회관계망서비스(SNS) 인스타그램 계정에 근황이 포착됐다.\n박지연은 “요리할 때 제일 행복한 저, 그 행복함을 좋은 분들과 함께하고 왔어요”라며 운을 뗐다.\n또 박지연은 “예전부터 마음만 있고 실천하지 못한 마음을 강예원 언니가 꾸준히 하고 계셔서 함께하고 왔어요”라며 “프리지아(송지아) 예쁜 동생과도 함께 했던 행복했던 시간”이라고 덧붙이며 함께 봉사활동 하는 사진을 게재했다.\n가톨릭사랑평화의집 측 역시 이날 공식 페이지에 올리며 “지아 님과 예원 님이 한 달에 한 번씩 오셔서 주방에서 열심히 봉사하신다. 쪽방촌 도시락 배달도 동참해주신다. 두 분 하는 일 쭉쭉 풀리고 선한 영향력 앞으로도 꾸준히 전파 부탁드린다”는 글과 사진들을 올리며 프리지아의 근황 및 봉사활동을 전했다.\n프리지아는 가품 논란이 터진 후 4개월 만에 근황이다.\n강예원 역시 해당 논란이 터진 이후 처음으로 함께 나타나 이목이 쏠린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜버 프리지아(송지아)가 가품 논란 후 4개월 만에 근황이 드러났다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프리지아는 지난 19일 이수근의 아내 박지연의 개인 사회관계망서비스(SNS) 인스타그램 계정에 근황이 포착됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박지연은 “요리할 때 제일 행복한 저, 그 행복함을 좋은 분들과 함께하고 왔어요”라며 운을 뗐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 박지연은 “예전부터 마음만 있고 실천하지 못한 마음을 강예원 언니가 꾸준히 하고 계셔서 함께하고 왔어요”라며 “프리지아(송지아) 예쁜 동생과도 함께 했던 행복했던 시간”이라고 덧붙이며 함께 봉사활동 하는 사진을 게재했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가톨릭사랑평화의집 측 역시 이날 공식 페이지에 올리며 “지아 님과 예원 님이 한 달에 한 번씩 오셔서 주방에서 열심히 봉사하신다. 쪽방촌 도시락 배달도 동참해주신다. 두 분 하는 일 쭉쭉 풀리고 선한 영향력 앞으로도 꾸준히 전파 부탁드린다”는 글과 사진들을 올리며 프리지아의 근황 및 봉사활동을 전했다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프리지아는 가품 논란이 터진 후 4개월 만에 근황이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강예원 역시 해당 논란이 터진 이후 처음으로 함께 나타나 이목이 쏠린다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "프리지아, 자숙 4개월 만에 근황…봉사활동 중",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

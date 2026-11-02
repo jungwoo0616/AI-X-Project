@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170982",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘주간아’ 스트레이키즈, 데이식스 따라잡기",
+    "newsSubTitle": "",
+    "newsContent": "스트레이키즈가 데이식스를 향한 팬심을 고백한다.\n오늘(25일) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 정규 2집 ‘NOEASY’의 타이틀곡 ‘소리꾼’으로 컴백해 지난 8월 17일 선주문 수량 83만 장을 돌파하는 등 뜨거운 인기를 얻고 있는 스트레이키즈가 출연한다.\n이날 ‘Weekly Playlist’ 코너에서 스트레이키즈의 보컬라인인 보컬라차 승민, 아이엔과 올라운더 방찬이 데이식스의 ‘노력해볼게요’ 커버를 통해 서정적인 매력을 선보인다.\n평소 승민은 소속사 선배 그룹인 데이식스의 찐팬으로 유명, 김마이데이(데이식스 팬덤명)의 면모를 보여왔다.\n이에 승민은 데이식스를 향한 팬심은 물론, 언제나 스트레이키즈를 기다려주고 응원해준 STYA를 위해 노력하겠다는 마음으로 이 곡을 준비했다고 밝힌다.\n세 사람은 부드러운 음색과 화음으로 신곡 ‘소리꾼’과는 또 다른 매력을 선사한다.\n지켜보던 MC들은 “음색이 정말 잘 어울렸다”라며 감탄을 금치 못하는가 하면, 무대 아래서 지켜보던 멤버들도 환호성으로 응원을 보냈다.\n마라맛 스트레이키즈의 달달한 반전 하모니 무대는 8월 25일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스트레이키즈가 데이식스를 향한 팬심을 고백한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(25일) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 정규 2집 ‘NOEASY’의 타이틀곡 ‘소리꾼’으로 컴백해 지난 8월 17일 선주문 수량 83만 장을 돌파하는 등 뜨거운 인기를 얻고 있는 스트레이키즈가 출연한다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 ‘Weekly Playlist’ 코너에서 스트레이키즈의 보컬라인인 보컬라차 승민, 아이엔과 올라운더 방찬이 데이식스의 ‘노력해볼게요’ 커버를 통해 서정적인 매력을 선보인다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "평소 승민은 소속사 선배 그룹인 데이식스의 찐팬으로 유명, 김마이데이(데이식스 팬덤명)의 면모를 보여왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 승민은 데이식스를 향한 팬심은 물론, 언제나 스트레이키즈를 기다려주고 응원해준 STYA를 위해 노력하겠다는 마음으로 이 곡을 준비했다고 밝힌다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "세 사람은 부드러운 음색과 화음으로 신곡 ‘소리꾼’과는 또 다른 매력을 선사한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지켜보던 MC들은 “음색이 정말 잘 어울렸다”라며 감탄을 금치 못하는가 하면, 무대 아래서 지켜보던 멤버들도 환호성으로 응원을 보냈다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "마라맛 스트레이키즈의 달달한 반전 하모니 무대는 8월 25일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘주간아’ 스트레이키즈, 데이식스 향한 팬심... '이 노래' 불렀다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

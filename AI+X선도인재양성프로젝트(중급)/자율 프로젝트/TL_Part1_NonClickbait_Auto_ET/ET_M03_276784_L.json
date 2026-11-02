@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276784",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘차우찬의 연인’ 한혜진의 모델다운 옆·뒤라인",
+		"newsSubTitle": "",
+		"newsContent": "모델 겸 방송인 한혜진(34)이 모델다운 남다른 다리맵시를 뽐냈다.\n한혜진은 28일 자신의 인스타그램에 “졸려”라는 글과 함께 사진을 올렸다.\n이어 수영복을 입고 바닷가에서 파도를 향해 포즈를 취한 모습도 올렸다.\n특히 수영복을 입고 바닷가에서 난관을 잡고 뒤태를 뽐낸 사진은 압권이었다.\n굴곡진 체형과 우월한 기럭지가 시선을 압도했다.\n한혜진은 최근 LG 트윈스 차우찬과의 열애 소식으로 화제를 모았다.\n지난 24일 한혜진의 소속사는 “예전부터 알고 지내던 한혜진과 차우찬이 최근 호감을 갖고 연인 관계로 발전하게 됐다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 겸 방송인 한혜진(34)이 모델다운 남다른 다리맵시를 뽐냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한혜진은 28일 자신의 인스타그램에 “졸려”라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 수영복을 입고 바닷가에서 파도를 향해 포즈를 취한 모습도 올렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 수영복을 입고 바닷가에서 난관을 잡고 뒤태를 뽐낸 사진은 압권이었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "굴곡진 체형과 우월한 기럭지가 시선을 압도했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한혜진은 최근 LG 트윈스 차우찬과의 열애 소식으로 화제를 모았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 24일 한혜진의 소속사는 “예전부터 알고 지내던 한혜진과 차우찬이 최근 호감을 갖고 연인 관계로 발전하게 됐다”고 밝혔다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘차우찬의 연인’ 한혜진의 모델다운 옆·뒤라인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

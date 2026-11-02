@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276093",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지수 ‘라푼젤 닮은꼴’ 으뜸",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크 지수가 ‘라푼젤 닮은꼴’ 여자 아이돌 1위에 뽑혔다.\n그룹 블랙핑크(BLACKPINK) 멤버 겸 배우 지수가 ‘디즈니 라푼젤에서 방금 튀어나온 듯, 명랑하고 사랑스러운 느낌의 여자 아이돌은?’ 설문에서 1위에 오르며 인기를 입증했다.\n마이셀럽스가 운영하는 익사이팅 디시 7월 3주 투표에서 지수가 1위를 차지했다.\n지난 7월 17일부터 7월 23일까지 진행된 7월 3주 투표는 ‘디즈니 라푼젤에서 방금 튀어나온 듯, 명랑하고 사랑스러운 느낌의 여자 아이돌은?’이란 제목으로 진행됐다.\n지수는 3,802표(82.03%)를 얻으며 1위애 올랐다.\n지수의 매력 키워드 순위는 ‘해맑은’이 66%였으며, ‘미모’ 22%, ‘러블리’ 8%, ‘부드러운’ 4% 순으로 나타났다.\n한편 지수가 속한 블랙핑크는 오는 8월 완전체로 컴백한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크 지수가 ‘라푼젤 닮은꼴’ 여자 아이돌 1위에 뽑혔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그룹 블랙핑크(BLACKPINK) 멤버 겸 배우 지수가 ‘디즈니 라푼젤에서 방금 튀어나온 듯, 명랑하고 사랑스러운 느낌의 여자 아이돌은?’ 설문에서 1위에 오르며 인기를 입증했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마이셀럽스가 운영하는 익사이팅 디시 7월 3주 투표에서 지수가 1위를 차지했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 7월 17일부터 7월 23일까지 진행된 7월 3주 투표는 ‘디즈니 라푼젤에서 방금 튀어나온 듯, 명랑하고 사랑스러운 느낌의 여자 아이돌은?’이란 제목으로 진행됐다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지수는 3,802표(82.03%)를 얻으며 1위애 올랐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지수의 매력 키워드 순위는 ‘해맑은’이 66%였으며, ‘미모’ 22%, ‘러블리’ 8%, ‘부드러운’ 4% 순으로 나타났다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지수가 속한 블랙핑크는 오는 8월 완전체로 컴백한다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지수 ‘라푼젤 닮은꼴’ 으뜸",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

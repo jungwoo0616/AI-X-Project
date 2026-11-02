@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170192",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "AOMG, 새 아티스트 영입한다[공식]",
+    "newsSubTitle": "",
+    "newsContent": "AOMG가 새로운 아티스트를 영입한다.\n힙합 레이블 AOMG는 지난 17일 사회관계망서비스(SNS)와 유튜브 채널에 ‘NEW ARTIST ANNOUNCEMENT’ 티저 영상을 공개했다.\n영상에는 ‘NEW ARTIST ANNOUNCEMENT’, ‘D-7’이라는 문구가 등장하며 7일 뒤 새로운 아티스트를 발표한다는 내용을 담고 있다.\n아티스트에 대한 정보는 공개되지 않았다.\n이에 지난 14일 공개된 AOMG 유튜브 콘텐츠 ‘미노이의 요리조리 시즌2’ 4회도 화제를 모으고 있다.\n당시 코드 쿤스트는 AOMG에서 관심 있는 래퍼가 ‘두 글자 이름’이라고 언급했던 터, 이 부분이 AOMG의 새 아티스트에 대한 힌트일지 궁금증이 더해진다.\n한편 AOMG의 새로운 아티스트는 오는 24일 발표된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "AOMG가 새로운 아티스트를 영입한다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "힙합 레이블 AOMG는 지난 17일 사회관계망서비스(SNS)와 유튜브 채널에 ‘NEW ARTIST ANNOUNCEMENT’ 티저 영상을 공개했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에는 ‘NEW ARTIST ANNOUNCEMENT’, ‘D-7’이라는 문구가 등장하며 7일 뒤 새로운 아티스트를 발표한다는 내용을 담고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아티스트에 대한 정보는 공개되지 않았다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 지난 14일 공개된 AOMG 유튜브 콘텐츠 ‘미노이의 요리조리 시즌2’ 4회도 화제를 모으고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 코드 쿤스트는 AOMG에서 관심 있는 래퍼가 ‘두 글자 이름’이라고 언급했던 터, 이 부분이 AOMG의 새 아티스트에 대한 힌트일지 궁금증이 더해진다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 AOMG의 새로운 아티스트는 오는 24일 발표된다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "새로운 아티스트 영입? '팬들 궁금해 기절 직전'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

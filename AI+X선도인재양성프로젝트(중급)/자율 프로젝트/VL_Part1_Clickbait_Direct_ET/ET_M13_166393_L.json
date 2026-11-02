@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166393",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘장윤정의 도장깨기’ 유도 트롯 홍시 출연",
+    "newsSubTitle": "",
+    "newsContent": "‘장윤정의 도장깨기’ 반응이 뜨겁다.\n캠핑카에서 진행된 ‘장윤정의 도장깨기’ 두 번째 방송에 홍시가 출연 눈길을 끌었다고 소속사가 10일 전했다.\n대선배 나훈아에게 곡 ‘홍시’ 리메이크를 허락받으며 현재 유도 트롯으로 활동하고 있는 가수 홍시는 ‘홍시 EDM’을 캠핑장 라이브로 선보였고, 장윤정은 그녀에게 족집게 레슨을 해주었다.\n방송에서 홍시는 현재 힘들게 걸어온 트로트 무명 10년의 고충을 이야기하며 현재 할머니와 어머니의 암투병을 하고 있는 심정을 얘기했다.\n앞으로의 활동에 대해 선배 가수 장윤정의 조언과 위로를 받았다.\nLG헬로비전에서 새롭게 제작한 예능 버라이어티 ‘장윤정의 도장깨기’는 지난달 29일 첫회를 했으며, 장윤정과 도경완이 출연해서 부부의 캐미가 잘 표현한 프로그램이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘장윤정의 도장깨기’ 반응이 뜨겁다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "캠핑카에서 진행된 ‘장윤정의 도장깨기’ 두 번째 방송에 홍시가 출연 눈길을 끌었다고 소속사가 10일 전했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "대선배 나훈아에게 곡 ‘홍시’ 리메이크를 허락받으며 현재 유도 트롯으로 활동하고 있는 가수 홍시는 ‘홍시 EDM’을 캠핑장 라이브로 선보였고, 장윤정은 그녀에게 족집게 레슨을 해주었다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방송에서 홍시는 현재 힘들게 걸어온 트로트 무명 10년의 고충을 이야기하며 현재 할머니와 어머니의 암투병을 하고 있는 심정을 얘기했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞으로의 활동에 대해 선배 가수 장윤정의 조언과 위로를 받았다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "LG헬로비전에서 새롭게 제작한 예능 버라이어티 ‘장윤정의 도장깨기’는 지난달 29일 첫회를 했으며, 장윤정과 도경완이 출연해서 부부의 캐미가 잘 표현한 프로그램이다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'장윤정 도장깨기' 유도 트롯 홍시 출연, 그가 밝힌 무명 10년의 이야기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

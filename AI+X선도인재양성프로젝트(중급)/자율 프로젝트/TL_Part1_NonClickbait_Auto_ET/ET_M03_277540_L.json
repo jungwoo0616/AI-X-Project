@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277540",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "썰전 전원책 특급 예언 \\\"4월에 차기 대통령 나타난다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'전스트라다무스'라는 별명을 가진 전원책 변호사가 차기 대통령에 관한 새로운 예언을 했다.\n12일 JTBC '썰전'에 출연한 전 변호사는 반기문 전 유엔 사무총장의 귀국과 더물어민주당 문재인 전 대표 계파 갈등에 대해 이야기했다.\n이후 한 줄 논평을 해달라는 MC 김구라의 요청에 전 변호사는 \\\"오늘 방송에서 다루지 않은 분들 걱정하지 말라\\\"며 \\\"지금까지 거론된 분들 중에 대통령이 될 거라고 생각하지 않는다\\\"고 말했다.\n전 변호사의 특급 예언에 함께 출연한 유시민 작가는 \\\"이거 맞으면 대박이야\\\"라고 거들었다.\n그러자 전 변호사는 \\\"이 예언이 맞으면 세 사람이 건물 하나 빌려서 썰점 점집을 차리자\\\"고 제안했다.\n김구라는 \\\"애매 모호하게 말하지 말고 그럼 이름을 알려달라\\\"고 타박했고 전 변호사는 \\\"4월에 나타난다\\\"고 또 다른 예언을 해 궁금증을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'전스트라다무스'라는 별명을 가진 전원책 변호사가 차기 대통령에 관한 새로운 예언을 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 JTBC '썰전'에 출연한 전 변호사는 반기문 전 유엔 사무총장의 귀국과 더물어민주당 문재인 전 대표 계파 갈등에 대해 이야기했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 한 줄 논평을 해달라는 MC 김구라의 요청에 전 변호사는 \\\"오늘 방송에서 다루지 않은 분들 걱정하지 말라\\\"며 \\\"지금까지 거론된 분들 중에 대통령이 될 거라고 생각하지 않는다\\\"고 말했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전 변호사의 특급 예언에 함께 출연한 유시민 작가는 \\\"이거 맞으면 대박이야\\\"라고 거들었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 전 변호사는 \\\"이 예언이 맞으면 세 사람이 건물 하나 빌려서 썰점 점집을 차리자\\\"고 제안했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김구라는 \\\"애매 모호하게 말하지 말고 그럼 이름을 알려달라\\\"고 타박했고 전 변호사는 \\\"4월에 나타난다\\\"고 또 다른 예언을 해 궁금증을 자아냈다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "썰전 전원책 특급 예언 \\\"4월에 차기 대통령 나타난다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

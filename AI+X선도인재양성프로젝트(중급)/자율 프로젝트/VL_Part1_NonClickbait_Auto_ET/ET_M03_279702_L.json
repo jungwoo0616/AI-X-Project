@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279702",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'내딸 금사월' 주말 안방극 1위 차지, 손창민 전인화 '최고의 연기'",
+		"newsSubTitle": "",
+		"newsContent": "'내딸 금사월'이 연이어 자체최고시청률을 갱신하며 주말 드라마 시청자들의 뜨거운 지지를 얻고 있다.\n11일 시청률 조사회사 닐슨코리아에 따르면 지난 10일 방송된 '내딸 금사월'은 31.8%(이하 전국기준)의 시청률을 나타냈다.\n이는 지난 9일 방송분이 기록한 30.7%보다 1.1% 상승한 수치다.\n내딸 금사월은 진실을 숨기려는 자와 복수를 하려는 자, 그들 부부의 25년에 걸친 소리 없는 전쟁과 목숨을 건 한판승부를 그린다.\n특히 전인화와 손창민의 분노에 가득찬 연기와 윤현민-백진희의 러브라인이 시청자들을 사로잡는 요인으로 꼽힌다.\n아직 사월(백진희)이 신득예(전인화)의 친딸이라는 사실이 밝혀지지 않은 채 아무 것도 모르는 두 사람은 드라마 속 단비와 같은 유일한 청정한 러브라인으로 극의 활력을 불어넣으며 시청자들의 많은 응원을 받고 있다.\n한편 이날 '애인 있어요'는 6.7%, '장영실'은 11.3% 시청률을 기록했다.\n온라인중앙일보 내딸금사월 최고 시청률 기록",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'내딸 금사월'이 연이어 자체최고시청률을 갱신하며 주말 드라마 시청자들의 뜨거운 지지를 얻고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 시청률 조사회사 닐슨코리아에 따르면 지난 10일 방송된 '내딸 금사월'은 31.8%(이하 전국기준)의 시청률을 나타냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 9일 방송분이 기록한 30.7%보다 1.1% 상승한 수치다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "내딸 금사월은 진실을 숨기려는 자와 복수를 하려는 자, 그들 부부의 25년에 걸친 소리 없는 전쟁과 목숨을 건 한판승부를 그린다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 전인화와 손창민의 분노에 가득찬 연기와 윤현민-백진희의 러브라인이 시청자들을 사로잡는 요인으로 꼽힌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아직 사월(백진희)이 신득예(전인화)의 친딸이라는 사실이 밝혀지지 않은 채 아무 것도 모르는 두 사람은 드라마 속 단비와 같은 유일한 청정한 러브라인으로 극의 활력을 불어넣으며 시청자들의 많은 응원을 받고 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이날 '애인 있어요'는 6.7%, '장영실'은 11.3% 시청률을 기록했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인중앙일보 내딸금사월 최고 시청률 기록",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'내딸 금사월' 주말 안방극 1위 차지, 손창민 전인화 '최고의 연기'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

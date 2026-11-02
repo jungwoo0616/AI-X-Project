@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266122",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘제7회 울주세계산악영화제’ 경쟁부문 후보작 7편 선정",
+		"newsSubTitle": "",
+		"newsContent": "울산에서 열리는 국내 유일 국제 산악영화제 ‘제7회 울주세계산악영화제’(UMFF)가 경쟁부문 최종 후보작 7편이 6일 발표됐다.\n국제경쟁 30편 중 대상을 비롯한 알피니즘과 클라이밍, 모험과 탐험, 자연과 사람 부문 작품상과 심사위원 특별상 후보 5편, 아시아경쟁 12편 중 넷팩상과 청소년심사단 특별상을 받게 될 2편 후보작이 확정됐다.\n국제경쟁 최종 후보작은 ▲ 극지 탐험가 윌 스테거의 여정을 따라가는 ‘애프터 안타티카’ ▲ 사랑하는 사람을 등반으로 잃은 미국 등반계 구성원들의 이야기 ‘그리움의 얼굴들’ ▲ 산악스키 선수들의 우정과 열정을 그린 ‘도전:멈추거나 나아가거나’ ▲ 산골 은둔자와 도시 여행자의 인연을 다룬 다큐멘터리 ‘눈이 녹으면’ ▲ 우연히 만난 세 등산객의 고지대 여행기 ‘산’ 등 5편 작품이 선정됐다.\n아시아경쟁 후보작은 대구단편영화제와 전주국제영화제 수상작으로 주목받은 ‘나랑 아니면’, 호주에서 발생한 들불 참사를 다룬 ‘불 속에서’ 등 2편이다.\n최종 후보작 중 ‘도전:멈추거나 나아가거나’를 제외한 6편 후보작은 오는 8일부터 10일까지 사흘간 영화제 홈페이지 온라인 상영관에서 감상할 수 있다.\n수상작은 10일 오후 열리는 폐막식에서 발표된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "울산에서 열리는 국내 유일 국제 산악영화제 ‘제7회 울주세계산악영화제’(UMFF)가 경쟁부문 최종 후보작 7편이 6일 발표됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국제경쟁 30편 중 대상을 비롯한 알피니즘과 클라이밍, 모험과 탐험, 자연과 사람 부문 작품상과 심사위원 특별상 후보 5편, 아시아경쟁 12편 중 넷팩상과 청소년심사단 특별상을 받게 될 2편 후보작이 확정됐다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국제경쟁 최종 후보작은 ▲ 극지 탐험가 윌 스테거의 여정을 따라가는 ‘애프터 안타티카’ ▲ 사랑하는 사람을 등반으로 잃은 미국 등반계 구성원들의 이야기 ‘그리움의 얼굴들’ ▲ 산악스키 선수들의 우정과 열정을 그린 ‘도전:멈추거나 나아가거나’ ▲ 산골 은둔자와 도시 여행자의 인연을 다룬 다큐멘터리 ‘눈이 녹으면’ ▲ 우연히 만난 세 등산객의 고지대 여행기 ‘산’ 등 5편 작품이 선정됐다.",
+				"sentenceSize": 217
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아시아경쟁 후보작은 대구단편영화제와 전주국제영화제 수상작으로 주목받은 ‘나랑 아니면’, 호주에서 발생한 들불 참사를 다룬 ‘불 속에서’ 등 2편이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최종 후보작 중 ‘도전:멈추거나 나아가거나’를 제외한 6편 후보작은 오는 8일부터 10일까지 사흘간 영화제 홈페이지 온라인 상영관에서 감상할 수 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수상작은 10일 오후 열리는 폐막식에서 발표된다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘제7회 울주세계산악영화제’ 경쟁부문 후보작 7편 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

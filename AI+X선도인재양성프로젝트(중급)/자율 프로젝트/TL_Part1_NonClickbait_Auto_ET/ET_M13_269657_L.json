@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269657",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오늘(10일) 잔나비 ‘초록을거머쥔우리는’ 듣는날",
+		"newsSubTitle": "",
+		"newsContent": "그룹사운드 잔나비가 초록 감성으로 돌아온다.\n잔나비는 10일 오후 6시 온라인 음원사이트를 통해 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’을 발매한다. ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’은 지난해 7월 발매한 정규 3집 ‘환상의 나라’ 이후 약 10개월 만에 선보이는 신보로 ‘집에서, 오후에, 주로 창밖을 바라보면서 만든 곡들’로 가득 채워졌다.\n앨범명과 동명의 타이틀곡 ‘초록을거머쥔우리는’은 여유로운 분위기가 돋보이는 곡으로 정규 3집 수록곡 ‘밤의 공원’의 ‘초록을 거머쥔 우리는 여름으로’란 구절에서 제목이 탄생했다.\n이밖에도 ‘레이디버드’, ‘여름가을겨울 봄.’, ‘슬픔이여안녕’까지 잔나비표 감성을 한가득 담은 4개의 트랙이 이번 신보를 구성한다.\n전작 타이틀곡 ‘외딴섬 로맨틱’으로 청량한 분위기를 선보인 잔나비가 어떤 음악을 공개할지 궁금증이 더해진다.\n한편 잔나비의 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’은 10일 오후 6시 전 온라인 음원사이트를 통해 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹사운드 잔나비가 초록 감성으로 돌아온다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잔나비는 10일 오후 6시 온라인 음원사이트를 통해 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’을 발매한다. ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’은 지난해 7월 발매한 정규 3집 ‘환상의 나라’ 이후 약 10개월 만에 선보이는 신보로 ‘집에서, 오후에, 주로 창밖을 바라보면서 만든 곡들’로 가득 채워졌다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앨범명과 동명의 타이틀곡 ‘초록을거머쥔우리는’은 여유로운 분위기가 돋보이는 곡으로 정규 3집 수록곡 ‘밤의 공원’의 ‘초록을 거머쥔 우리는 여름으로’란 구절에서 제목이 탄생했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이밖에도 ‘레이디버드’, ‘여름가을겨울 봄.’, ‘슬픔이여안녕’까지 잔나비표 감성을 한가득 담은 4개의 트랙이 이번 신보를 구성한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전작 타이틀곡 ‘외딴섬 로맨틱’으로 청량한 분위기를 선보인 잔나비가 어떤 음악을 공개할지 궁금증이 더해진다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 잔나비의 새 앨범 ‘잔나비 소곡집 Ⅱ : 초록을거머쥔우리는’은 10일 오후 6시 전 온라인 음원사이트를 통해 만나볼 수 있다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오늘(10일) 잔나비 ‘초록을거머쥔우리는’ 듣는날",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

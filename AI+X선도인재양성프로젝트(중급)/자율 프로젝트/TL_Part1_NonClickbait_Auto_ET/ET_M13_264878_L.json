@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264878",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "KBS 측 “‘디어엠’ 일본 등에서 수출판권 계약체결”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "KBS 2TV 드라마 ‘디어엠’이 해외에서 먼저 공개될 예정이다.\nKBS 측은 24일 스포츠경향에 “‘디어엠’은 국내 편성 전에 일본 등 해외에 수출 판권 계약을 체결한 상태”라고 밝혔다. ‘디어엠’은 서연대학교를 발칵 뒤집어놓은 서연대 커뮤니티 글의 주인공 ‘M’을 찾으며 핑크빛 추리를 펼치는 청춘 로맨스 장르로 배우 박혜수, NCT127 재현, 노정의, 배현성, 이진혁, 우다비 등이 출연한다.\n지난해 2월 26일 첫 방송될 예정이었지만, 박혜수의 학교폭력 논란으로 제작발표회와 전체 방송 일정이 연기됐다.\n지난해 2월 한 온라인 커뮤니티를 통해 박혜수의 학교폭력 논란이 불거졌고, 박혜수는 소속사의 공식입장과 사회관계망서비스(SNS)를 통해 남긴 해명 글을 통해 논란을 부인했다.\n그러나 박혜수에게 학폭을 당했다는 ‘피해자 모임’ 또한 거센 반박과 함께 주장을 굽히지 않았다.\n당시 KBS 측은 사회적 분위기를 고려해 방영을 연기했으며, 후속 프로그램인 ‘이미테이션’을 먼저 편성했다. ‘디어엠’은 현재까지도 편성 보류된 상태다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS 2TV 드라마 ‘디어엠’이 해외에서 먼저 공개될 예정이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS 측은 24일 스포츠경향에 “‘디어엠’은 국내 편성 전에 일본 등 해외에 수출 판권 계약을 체결한 상태”라고 밝혔다. ‘디어엠’은 서연대학교를 발칵 뒤집어놓은 서연대 커뮤니티 글의 주인공 ‘M’을 찾으며 핑크빛 추리를 펼치는 청춘 로맨스 장르로 배우 박혜수, NCT127 재현, 노정의, 배현성, 이진혁, 우다비 등이 출연한다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 2월 26일 첫 방송될 예정이었지만, 박혜수의 학교폭력 논란으로 제작발표회와 전체 방송 일정이 연기됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 2월 한 온라인 커뮤니티를 통해 박혜수의 학교폭력 논란이 불거졌고, 박혜수는 소속사의 공식입장과 사회관계망서비스(SNS)를 통해 남긴 해명 글을 통해 논란을 부인했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 박혜수에게 학폭을 당했다는 ‘피해자 모임’ 또한 거센 반박과 함께 주장을 굽히지 않았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 KBS 측은 사회적 분위기를 고려해 방영을 연기했으며, 후속 프로그램인 ‘이미테이션’을 먼저 편성했다. ‘디어엠’은 현재까지도 편성 보류된 상태다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KBS 측 “‘디어엠’ 일본 등에서 수출판권 계약체결”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

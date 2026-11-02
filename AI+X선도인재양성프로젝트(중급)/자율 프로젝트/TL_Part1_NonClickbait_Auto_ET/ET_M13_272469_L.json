@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272469",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "에스파, 올해 걸그룹 유튜브 조회수 1등 차지",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 에스파(Aespa)가 컴백 발표 날짜가 발표한 가운데 새로운 기록을 써내며 겹경사를 맛봤다.\n7일 발표한 구글 통계사이트 올 케이팝은, 지난해 6월부터 집계된 유튜트 통계 데이터를 토대로 에스파의 유튜브 채널이 올해 한국 걸그룹 중 가장 높은 조회수를 기록했다고 발표했다.\n에스파의 공식 유튜브 채널은 국내에서 약 2억 8,600만 뷰를 기록해 올해 K-POP 걸그룹 중 가장 높은 조회수를 기록한 타이틀을 얻었다.\n에스파에 이어 2등은 블랙핑크(BACLK PINK)가 2억 3,000만 표로 차지했고, 트와이스(TWICE)가 2억 2,300만 표로 근소한 차이로 3등이 됐다.\n두 팀 역시 올해 컴백을 앞두고 있어 많은 K-POP 팬들의 마음을 설레게 하는 중이다.\n한편 에스파는 다음 달 8일 한국과 미국에서 두 번째 미니음반 ‘걸스’(Girls) 동시 발매를 앞두고 있다.\n또한 에스파는 LA에 이어 오는 8월 6~7일 양일간 일본 요코하마 피아 아레나 MM에서 일본 첫 쇼케이스 ‘에스파 재팬 프리미엄 쇼케이스 2022 ~싱크~’도 열고 본격적인 글로벌 활동을 펼친다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 에스파(Aespa)가 컴백 발표 날짜가 발표한 가운데 새로운 기록을 써내며 겹경사를 맛봤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 발표한 구글 통계사이트 올 케이팝은, 지난해 6월부터 집계된 유튜트 통계 데이터를 토대로 에스파의 유튜브 채널이 올해 한국 걸그룹 중 가장 높은 조회수를 기록했다고 발표했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "에스파의 공식 유튜브 채널은 국내에서 약 2억 8,600만 뷰를 기록해 올해 K-POP 걸그룹 중 가장 높은 조회수를 기록한 타이틀을 얻었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에스파에 이어 2등은 블랙핑크(BACLK PINK)가 2억 3,000만 표로 차지했고, 트와이스(TWICE)가 2억 2,300만 표로 근소한 차이로 3등이 됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 팀 역시 올해 컴백을 앞두고 있어 많은 K-POP 팬들의 마음을 설레게 하는 중이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 에스파는 다음 달 8일 한국과 미국에서 두 번째 미니음반 ‘걸스’(Girls) 동시 발매를 앞두고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 에스파는 LA에 이어 오는 8월 6~7일 양일간 일본 요코하마 피아 아레나 MM에서 일본 첫 쇼케이스 ‘에스파 재팬 프리미엄 쇼케이스 2022 ~싱크~’도 열고 본격적인 글로벌 활동을 펼친다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에스파, 올해 걸그룹 유튜브 조회수 1등 차지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

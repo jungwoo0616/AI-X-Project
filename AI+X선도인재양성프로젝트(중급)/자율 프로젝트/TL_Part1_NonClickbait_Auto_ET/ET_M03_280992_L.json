@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280992",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'너목보2' 주니퍼, 15년만의 방송 출연…지금은 민박집 주인장?",
+		"newsSubTitle": "",
+		"newsContent": "'너목보2' 주니퍼, 김범수 \\\"내 대학동기, 떨어질까봐 조마조마\\\" '너의 목소리가 보여2'에 출연한 가수 주니퍼가 화제다.\n지난 17일 방송된 Mnet '너의 목소리가 보여2'에서는 가수 휘성이 출연해 음치를 선정했다.\n이날 '괌 지르는 민박집 주인장'은 자신이 가수 주니퍼라고 소개했다.\n이에 휘성은 립싱크 영상을 보면서 민박집 주인장을 음치라고 판단했고 이후 진실의 무대에서 실제 주니퍼의 보컬 박준영으로 드러나 관객들을 놀라게 했다.\n주니퍼는 변함없는 음색과 파워풀한 고음으로 실력을 뽐냈다.\nMC 김범수는 \\\"주니퍼 씨는 사실 대학 동기이다.\n그래서 떨어지면 어쩌나 조마조마했다”고 말해 웃음을 자아냈다.\n온라인 중앙일보 너의 목소리가 보여 시즌2, 주니퍼[사진 Mnet 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'너목보2' 주니퍼, 김범수 \\\"내 대학동기, 떨어질까봐 조마조마\\\" '너의 목소리가 보여2'에 출연한 가수 주니퍼가 화제다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 17일 방송된 Mnet '너의 목소리가 보여2'에서는 가수 휘성이 출연해 음치를 선정했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 '괌 지르는 민박집 주인장'은 자신이 가수 주니퍼라고 소개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 휘성은 립싱크 영상을 보면서 민박집 주인장을 음치라고 판단했고 이후 진실의 무대에서 실제 주니퍼의 보컬 박준영으로 드러나 관객들을 놀라게 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주니퍼는 변함없는 음색과 파워풀한 고음으로 실력을 뽐냈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "MC 김범수는 \\\"주니퍼 씨는 사실 대학 동기이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그래서 떨어지면 어쩌나 조마조마했다”고 말해 웃음을 자아냈다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 너의 목소리가 보여 시즌2, 주니퍼[사진 Mnet 캡처]",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'너목보2' 주니퍼, 15년만의 방송 출연…지금은 민박집 주인장?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

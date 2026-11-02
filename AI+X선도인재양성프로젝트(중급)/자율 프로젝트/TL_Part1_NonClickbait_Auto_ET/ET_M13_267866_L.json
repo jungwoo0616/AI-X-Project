@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267866",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "HBO “글로벌 가입자 7680만명”",
+		"newsSubTitle": "",
+		"newsContent": "OTT 선두주자 넷플릭스가 11년 만에 처음으로 유료 구독자 감소를 기록한 가운데 경쟁업체 HBO가 가입자를 늘린 것으로 나타났다.\n미국 경제 매체 CNBC 방송은 21일(현지시간) 워너 계열 스트리밍 플랫폼 HBO 맥스와 케이블 채널 HBO의 1분기 기준 글로벌 가입자가 7680만명을 기록했다고 전했다.\n이는 작년 동기 대비 1280만명, 직전 분기 대비 300만명 증가한 수치다.\n연예 매체 할리우드리포터는 “HBO 실적은 넷플릭스의 가입자 감소와 대조를 이뤘다”고 보도했다.\nHBO 맥스와 HBO를 거느린 워너미디어는 지난 9일 AT&T에서 분리돼 디스커버리와 합병했고 워너브러더스 디스커버리라는 새로운 거대 미디어 기업으로 재탄생했다.\nHBO 맥스와 HBO의 올해 1분기 실적은 합병 전 경영 지표여서 옛 모기업인 AT&T가 발표했다.\nAT&T는 스트리밍 플랫폼 HBO 맥스가 미국뿐만 아니라 해외에서도 가입자를 늘렸다고 강조했다.\n존 스탠키 AT&T 최고경영자(CEO)는 “HBO 맥스가 더 많은 지역에 출시되면서 지속적인 성장 잠재력을 보여줬다”며 “워너브러더스 디스커버리의 데이비드 재슬러브 신임 CEO가 가장 사랑받는 지식재산권 포트폴리오를 갖게 됐다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "OTT 선두주자 넷플릭스가 11년 만에 처음으로 유료 구독자 감소를 기록한 가운데 경쟁업체 HBO가 가입자를 늘린 것으로 나타났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 경제 매체 CNBC 방송은 21일(현지시간) 워너 계열 스트리밍 플랫폼 HBO 맥스와 케이블 채널 HBO의 1분기 기준 글로벌 가입자가 7680만명을 기록했다고 전했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 작년 동기 대비 1280만명, 직전 분기 대비 300만명 증가한 수치다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연예 매체 할리우드리포터는 “HBO 실적은 넷플릭스의 가입자 감소와 대조를 이뤘다”고 보도했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "HBO 맥스와 HBO를 거느린 워너미디어는 지난 9일 AT&T에서 분리돼 디스커버리와 합병했고 워너브러더스 디스커버리라는 새로운 거대 미디어 기업으로 재탄생했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "HBO 맥스와 HBO의 올해 1분기 실적은 합병 전 경영 지표여서 옛 모기업인 AT&T가 발표했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AT&T는 스트리밍 플랫폼 HBO 맥스가 미국뿐만 아니라 해외에서도 가입자를 늘렸다고 강조했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "존 스탠키 AT&T 최고경영자(CEO)는 “HBO 맥스가 더 많은 지역에 출시되면서 지속적인 성장 잠재력을 보여줬다”며 “워너브러더스 디스커버리의 데이비드 재슬러브 신임 CEO가 가장 사랑받는 지식재산권 포트폴리오를 갖게 됐다”고 밝혔다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "HBO “글로벌 가입자 7680만명”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

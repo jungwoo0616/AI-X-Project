@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278377",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이은결 결혼, 20일 일반인과 비공개로…신혼여행은",
+		"newsSubTitle": "",
+		"newsContent": "마술사 이은결 결혼이 화제다.\n마술사 이은결은 20일 결혼식을 올린다. 17일 일간스포츠에 따르면 이은결은 20일 오후 5시 강남에 위치한 식장에서 결혼식을 올린다.\n이은결 결혼식은 일반인인 신부를 배려해 비공개로 치러진다.\n이은결과 예비 신부는 올해로 14년째 열애 중으로 알려졌다.\n앞서 이은결은 지난해 10월 방송된 JTBC '마녀사냥'에서 여자친구와 13년째 교제 중이라고 밝혀 화제를 모았다.\n이은결 결혼식 축가는 공연 형태로 꾸며진다.\n이은결이 세계적으로 유명한 마술사인데다 퍼포먼스적으로 뛰어난 기량을 갖고 있어 결혼식에서도 환상적인 무대를 보여줄 것으로 기대된다.\n한편 이은결은 5월 4일부터 15일까지 국립극장 해오름극장에서 데뷔 20주년 기념 '일루셔니스트 이은결'을 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마술사 이은결 결혼이 화제다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마술사 이은결은 20일 결혼식을 올린다. 17일 일간스포츠에 따르면 이은결은 20일 오후 5시 강남에 위치한 식장에서 결혼식을 올린다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이은결 결혼식은 일반인인 신부를 배려해 비공개로 치러진다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이은결과 예비 신부는 올해로 14년째 열애 중으로 알려졌다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 이은결은 지난해 10월 방송된 JTBC '마녀사냥'에서 여자친구와 13년째 교제 중이라고 밝혀 화제를 모았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이은결 결혼식 축가는 공연 형태로 꾸며진다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이은결이 세계적으로 유명한 마술사인데다 퍼포먼스적으로 뛰어난 기량을 갖고 있어 결혼식에서도 환상적인 무대를 보여줄 것으로 기대된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이은결은 5월 4일부터 15일까지 국립극장 해오름극장에서 데뷔 20주년 기념 '일루셔니스트 이은결'을 개최한다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이은결 결혼, 20일 일반인과 비공개로…신혼여행은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

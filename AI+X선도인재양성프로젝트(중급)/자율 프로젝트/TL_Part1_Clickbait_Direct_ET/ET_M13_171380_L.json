@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171380",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "엿들어보실래요? ‘다수의 수다’",
+    "newsSubTitle": "",
+    "newsContent": "‘다수의 수다’의 첫 티저 영상이 공개됐다.\n12일(화) 공개된 JTBC ‘다수의 수다’의 티저 영상은 총 2종으로 개미들의 수다 편, 대리들의 수다 편으로 구성됐다.\n티저 영상에서는 자유롭게 수다를 떠는 사람들의 모습과 그 이야기를 엿듣고 싶어 하는 한 남성의 모습을 담아 프로그램을 소개했다.\n대화에 홀린 듯 귀를 기울이는 이 남성의 모습은 엿듣고 싶을 만큼 흥미로운 이야기를 함께 하는 ‘다수의 수다’라는 프로그램의 아이덴티티를 나타낸다. ‘다수의 수다’는 매주 한 분야 전문가들이 모여 고급 정보, 뜨거운 토론, 날 것 그대로의 이야기 등 한계 없는 수다를 나누는 프로그램이다.\n한 번쯤 궁금했지만 한 번도 들을 수 없었던 전문가들의 진짜 이야기를 공개한다. ‘다수의 수다’에는 연예계 대표 ‘수다꾼’ 유희열과 차태현이 MC로 출연해 다양한 분야의 전문가인 ‘다수’와 함께한다.\n두 사람은 다수의 수다를 직관하고 자유롭게 대화하며 이들의 이야기가 단순한 정보 전달이 아닌 현실과 맞닿은 이야기가 될 수 있도록 이끌 예정이다. ‘다수의 수다’는 ‘효리네 민박1,2’ ‘캠핑클럽’의 마건영PD와 ‘싱어게인’의 박지예PD가 공동 연출자로 나선다.\n첫 방송은 오는 11월 12일(금) 밤 9시.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘다수의 수다’의 첫 티저 영상이 공개됐다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일(화) 공개된 JTBC ‘다수의 수다’의 티저 영상은 총 2종으로 개미들의 수다 편, 대리들의 수다 편으로 구성됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "티저 영상에서는 자유롭게 수다를 떠는 사람들의 모습과 그 이야기를 엿듣고 싶어 하는 한 남성의 모습을 담아 프로그램을 소개했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대화에 홀린 듯 귀를 기울이는 이 남성의 모습은 엿듣고 싶을 만큼 흥미로운 이야기를 함께 하는 ‘다수의 수다’라는 프로그램의 아이덴티티를 나타낸다. ‘다수의 수다’는 매주 한 분야 전문가들이 모여 고급 정보, 뜨거운 토론, 날 것 그대로의 이야기 등 한계 없는 수다를 나누는 프로그램이다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 번쯤 궁금했지만 한 번도 들을 수 없었던 전문가들의 진짜 이야기를 공개한다. ‘다수의 수다’에는 연예계 대표 ‘수다꾼’ 유희열과 차태현이 MC로 출연해 다양한 분야의 전문가인 ‘다수’와 함께한다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람은 다수의 수다를 직관하고 자유롭게 대화하며 이들의 이야기가 단순한 정보 전달이 아닌 현실과 맞닿은 이야기가 될 수 있도록 이끌 예정이다. ‘다수의 수다’는 ‘효리네 민박1,2’ ‘캠핑클럽’의 마건영PD와 ‘싱어게인’의 박지예PD가 공동 연출자로 나선다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "첫 방송은 오는 11월 12일(금) 밤 9시.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "적나라한 남의 이야기를 듣게 해주는 JTBC 신규 프로그램은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

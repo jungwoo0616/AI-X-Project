@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272814",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "황우림, 21일 신곡 ‘내사랑 바보’ 발매[공식]",
+		"newsSubTitle": "",
+		"newsContent": "황우림이 신곡 ‘내사랑 바보’로 컴백한다.\n린브랜딩은 9일 공식 SNS 채널을 통해 황우림의 컴백을 예고하는 커밍순 이미지를 공개했다.\n공개된 사진 속에는 감각적이고 매력적인 파란 장미 꽃다발이 흰 테이블 위에 놓여져 있고 ‘내사랑 바보’라는 신곡 제목과 21일 낮 12시라는 발매 일까지 표기돼 있다.\n특히 황우림이 지난 해 8월 ‘왜 불러’ 리메이크 버전을 공개한 이후 약 10개월만에 신곡을 선보이게 돼 이번엔 어떤 매력을 보여줄지 궁금증이 모아진다.\n황우림은 지난 해 ‘미스트롯2’에서 독보적인 비주얼과 분위기로 ‘트롯계 포카혼타스’라는 애칭을 얻으며 탄탄한 실력은 물론이고 넘치는 끼를 자랑하며 팬들의 극찬을 받았다.\n최근에도 ‘화요일은 밤이 좋아’를 비롯한 각종 방송은 물론이고 유튜브 채널 ‘황우림의 포카림’, 뮤지컬 ‘프리다’ 등에서 존재감을 드러내며 맹활약하고 있다.\n한편 황우림의 신곡 ‘내사랑 바보’는 오는 21일 낮 12시 전 온라인 음원사이트 등을 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "황우림이 신곡 ‘내사랑 바보’로 컴백한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "린브랜딩은 9일 공식 SNS 채널을 통해 황우림의 컴백을 예고하는 커밍순 이미지를 공개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 감각적이고 매력적인 파란 장미 꽃다발이 흰 테이블 위에 놓여져 있고 ‘내사랑 바보’라는 신곡 제목과 21일 낮 12시라는 발매 일까지 표기돼 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 황우림이 지난 해 8월 ‘왜 불러’ 리메이크 버전을 공개한 이후 약 10개월만에 신곡을 선보이게 돼 이번엔 어떤 매력을 보여줄지 궁금증이 모아진다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "황우림은 지난 해 ‘미스트롯2’에서 독보적인 비주얼과 분위기로 ‘트롯계 포카혼타스’라는 애칭을 얻으며 탄탄한 실력은 물론이고 넘치는 끼를 자랑하며 팬들의 극찬을 받았다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근에도 ‘화요일은 밤이 좋아’를 비롯한 각종 방송은 물론이고 유튜브 채널 ‘황우림의 포카림’, 뮤지컬 ‘프리다’ 등에서 존재감을 드러내며 맹활약하고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 황우림의 신곡 ‘내사랑 바보’는 오는 21일 낮 12시 전 온라인 음원사이트 등을 통해 발매된다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황우림, 21일 신곡 ‘내사랑 바보’ 발매[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

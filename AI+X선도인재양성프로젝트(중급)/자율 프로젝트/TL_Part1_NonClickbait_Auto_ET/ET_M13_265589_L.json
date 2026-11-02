@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265589",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "엄지원, 손예진♥현빈 결혼식 참석…핑크 하객룩 ‘꽃 미모’",
+		"newsSubTitle": "",
+		"newsContent": "배우 엄지원이 하객룩 패션을 선보였다.\n엄지원은 31일 자신의 사회관계망서비스(SNS) 인스타그램에 “아 너무 부었다. 이 놈의 야식”이라는 글과 함께 자신의 사진을 공개했다.\n사진 속 엄지원은 핑크빛 정장을 입은 채 손으로 얼굴을 가리고 있다.\n부었다는 설명에도 불구하고 수줍은 미소와 단아한 미모가 돋보인다.\n엄지원은 이날 평소 친분이 있었던 배우 손예진의 결혼식에 참여했다.\n한편 손예진은 31일 배우 현빈과 많은 이들의 축하 속에 결혼식을 올렸다.\n철통보안 속 이루어진 결혼식에는 장동건·고소영 부부를 비롯해 배우 공유, 공효진, 하지원, 정해인, 한재석 등 톱스타들이 하객으로 참여했다.\n사회는 박경림이 봤으며, 현빈의 오랜 절친인 장동건이 축사를 했다.\n가수 거미와 김범수, 폴킴이 축가로 두 사람의 앞날을 축복했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 엄지원이 하객룩 패션을 선보였다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엄지원은 31일 자신의 사회관계망서비스(SNS) 인스타그램에 “아 너무 부었다. 이 놈의 야식”이라는 글과 함께 자신의 사진을 공개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 엄지원은 핑크빛 정장을 입은 채 손으로 얼굴을 가리고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부었다는 설명에도 불구하고 수줍은 미소와 단아한 미모가 돋보인다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엄지원은 이날 평소 친분이 있었던 배우 손예진의 결혼식에 참여했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 손예진은 31일 배우 현빈과 많은 이들의 축하 속에 결혼식을 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "철통보안 속 이루어진 결혼식에는 장동건·고소영 부부를 비롯해 배우 공유, 공효진, 하지원, 정해인, 한재석 등 톱스타들이 하객으로 참여했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사회는 박경림이 봤으며, 현빈의 오랜 절친인 장동건이 축사를 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가수 거미와 김범수, 폴킴이 축가로 두 사람의 앞날을 축복했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엄지원, 손예진♥현빈 결혼식 참석…핑크 하객룩 ‘꽃 미모’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

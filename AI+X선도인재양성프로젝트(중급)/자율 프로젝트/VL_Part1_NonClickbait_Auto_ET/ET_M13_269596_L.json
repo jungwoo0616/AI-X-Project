@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269596",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "임영웅, 엑소 백현 제쳤다…110만장, ‘솔로 신기록’",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 역대 솔로 가수 신기록을 썼다.\n9일 가요계에 따르면 지난 2일 발매된 임영웅의 정규 1집‘아임 히어로(IM HERO)는 1주일간 약 110만2천장(한터차트 기준)을 팔아치우며 역대 솔로 가수 신기록을 세웠다.\n솔로 가수 첫 주 판매량 최고 기록이던 엑소 백현의‘밤비’(Bambi)보다 약 24만장 많은 수치다.\n전 세계 K팝 열풍을 타고 해외 팬들이 수만 장씩 구매하는 다른 가수와 달리 트로트 시장 특성상 국내 팬덤으로만 이뤄낸 성과다.\n또 매출 증대를 위해 팬 사인회나 영상통화회 같은 이벤트를 열지 않고서도 1주일에 100만장 이상 판매했다는 점에서 이례적이다.\n임영웅은 지난 6∼8일 경기도 고양시 킨텍스에서 앨범과 같은 이름을 내건 공연을 열고 전국투어 콘서트를 시작했다.\n이 공연에는 3일간 2만3000명의 관객이 다녀갔다.\n소속사 물고기 뮤직측은 “전국 방방곡곡에서 관객을 태운 대절 버스가 출동했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 역대 솔로 가수 신기록을 썼다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 가요계에 따르면 지난 2일 발매된 임영웅의 정규 1집‘아임 히어로(IM HERO)는 1주일간 약 110만2천장(한터차트 기준)을 팔아치우며 역대 솔로 가수 신기록을 세웠다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "솔로 가수 첫 주 판매량 최고 기록이던 엑소 백현의‘밤비’(Bambi)보다 약 24만장 많은 수치다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전 세계 K팝 열풍을 타고 해외 팬들이 수만 장씩 구매하는 다른 가수와 달리 트로트 시장 특성상 국내 팬덤으로만 이뤄낸 성과다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 매출 증대를 위해 팬 사인회나 영상통화회 같은 이벤트를 열지 않고서도 1주일에 100만장 이상 판매했다는 점에서 이례적이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임영웅은 지난 6∼8일 경기도 고양시 킨텍스에서 앨범과 같은 이름을 내건 공연을 열고 전국투어 콘서트를 시작했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 공연에는 3일간 2만3000명의 관객이 다녀갔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소속사 물고기 뮤직측은 “전국 방방곡곡에서 관객을 태운 대절 버스가 출동했다”고 밝혔다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 엑소 백현 제쳤다…110만장, ‘솔로 신기록’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

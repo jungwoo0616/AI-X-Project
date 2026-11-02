@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260815",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "코로나 확진 윤택, 후각·미각상실 고통 호소",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 윤택이 코로나19에 의한 미각·후각 상실 고통을 호소했다.\n윤택은 13일 인스타그램에 “코로나19 확진 자가격리 5일차”라며 “최초 목 따끔거림, 이후 기침, 가래, 점차 나아지다 오늘 아침 미각·후각 상실, 치약 맛이 안 느껴진다”라고 밝혔다.\n이어 “배는 고픈데, 밥을 먹어도 아무 맛도 안나고 냄새도 못 느낀다”며 “다들 조심합시다”라고 했다.\n해당 게시물에 동료 개그맨 김태균은 “그래도 잘 먹고 잘 자고 회복하라”고 위로했다.\n윤택은 지난 10일 코로나19 양성 판정을 받고 현재까지 자가 격리 중이다.\n예정된 스케줄도 전면 취소했다.\n코로나의 증상은 사람마다 다르게 나타나지만, 회복 과정에서 장기 후유증으로 후각과 미각 상실을 호소하는 환자가 다수다.\n미국 질병통제예방센터는 “새로 맛이나 냄새를 못 느끼는 것이 코로나19의 증상”이라고 설명했다.\n코로나19 완치 후에도 후각 상실, 후각 이상을 호소하는 이들도 많다.\n현재까지 연구에 따르면 후각 이상이 일어나도 3분의 2 환자는 발생한 지 몇 달 내로 후각을 회복하는 것으로 알려져 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 윤택이 코로나19에 의한 미각·후각 상실 고통을 호소했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤택은 13일 인스타그램에 “코로나19 확진 자가격리 5일차”라며 “최초 목 따끔거림, 이후 기침, 가래, 점차 나아지다 오늘 아침 미각·후각 상실, 치약 맛이 안 느껴진다”라고 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “배는 고픈데, 밥을 먹어도 아무 맛도 안나고 냄새도 못 느낀다”며 “다들 조심합시다”라고 했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물에 동료 개그맨 김태균은 “그래도 잘 먹고 잘 자고 회복하라”고 위로했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤택은 지난 10일 코로나19 양성 판정을 받고 현재까지 자가 격리 중이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예정된 스케줄도 전면 취소했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코로나의 증상은 사람마다 다르게 나타나지만, 회복 과정에서 장기 후유증으로 후각과 미각 상실을 호소하는 환자가 다수다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "미국 질병통제예방센터는 “새로 맛이나 냄새를 못 느끼는 것이 코로나19의 증상”이라고 설명했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코로나19 완치 후에도 후각 상실, 후각 이상을 호소하는 이들도 많다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재까지 연구에 따르면 후각 이상이 일어나도 3분의 2 환자는 발생한 지 몇 달 내로 후각을 회복하는 것으로 알려져 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나 확진 윤택, 후각·미각상실 고통 호소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

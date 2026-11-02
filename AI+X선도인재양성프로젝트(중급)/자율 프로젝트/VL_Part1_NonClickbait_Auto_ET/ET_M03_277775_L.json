@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277775",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이유, '달의 연인' 비하인드 컷 공개 \\\"숨겨진 엔딩?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "아이유가 '달의 연인' 종영 이후 SNS에 올린 사진이 화제가 되고 있다.\n아이유는 7일 자신의 인스타그램에 \\\"잉? 손수건…?\\\"이라는 글과 함께 사진을 게시했다.\n사진 속 아이유는 두 손으로 얼굴을 가린 채 오열하는 모습이다.\n네티즌들은 아이유가 올린 사진이 '달의 연인'에는 나오지 않은 결말이라고 추측하고 있다.\n실제로 '달의 연인' 최종회에는 현실에서 아이유와 이준기가 재회하는 모습이 나오지 않았다.\n네티즌들은 \\\"감독판인가, 손수건이라니 ㅠㅠ\\\", \\\"둘이 현실에서 만나야 되는데!\\\" 등의 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이유가 '달의 연인' 종영 이후 SNS에 올린 사진이 화제가 되고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이유는 7일 자신의 인스타그램에 \\\"잉? 손수건…?\\\"이라는 글과 함께 사진을 게시했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 아이유는 두 손으로 얼굴을 가린 채 오열하는 모습이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네티즌들은 아이유가 올린 사진이 '달의 연인'에는 나오지 않은 결말이라고 추측하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제로 '달의 연인' 최종회에는 현실에서 아이유와 이준기가 재회하는 모습이 나오지 않았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 \\\"감독판인가, 손수건이라니 ㅠㅠ\\\", \\\"둘이 현실에서 만나야 되는데!\\\" 등의 반응을 보이고 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, '달의 연인' 비하인드 컷 공개 \\\"숨겨진 엔딩?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

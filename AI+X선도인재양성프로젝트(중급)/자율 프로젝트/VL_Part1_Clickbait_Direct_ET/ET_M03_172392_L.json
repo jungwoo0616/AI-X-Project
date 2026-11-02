@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172392",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박명수, 해외 유명DJ에게 디스 당한 이유 \\\"내 노래를…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "방송인 박명수씨가 17일 세계적인 EDM DJ인 하드웰(Hardwell)에게 공개 저격을 당해 논란이 되고 있다.\n박씨가 하드웰의 미공개 음원을 불법 다운로드해 클럽 공연에서 사용했다는 의혹 때문이다.\n하드웰은 이날 자신의 페이스북 계정에 박명수씨의 공연 영상과 함께 “When the DJ's play Hardwell on Air in the club(디제이가 클럽에서 '하드웰 온에어'를 틀었을 때)”이라는 글을 남겼다.\n해당 영상은 박씨가 지난 14일 서울 강남의 유명 클럽에서 공연을 한 영상으로, 하드웰은 자신의 팟캐스트인 '하드웰 온에어' 중 쥬엘즈 앤 스팍스(Jewelz &; Sparks)의 'Grande Opera'음원을 불법 다운로드해 재편집했다고 주장했다.\n쥬엘즈 앤 스팍스는 내한 공연을 한 적 있는 EDM 내에서는 인기 뮤지션이다.\n하드웰이 자신의 페이스북에 이같은 글을 올리자 온라인을 통해 한국에서도 급속도로 이 사실이 알려졌다.\n특히 'EDM의 아버지'라고 불릴만큼 EDM을 사랑한다고 자부한 박씨가 불법으로 음원을 사용한 데 대해 한국 네티즌들은 '부끄럽다'는 반응을 보였다.\n자신을 한국인 DJ라고 소개한 한 네티즌은 하드웰의 페이스북에 “대신 사과한다. 창피한 일”이라는 글을 올리기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 박명수씨가 17일 세계적인 EDM DJ인 하드웰(Hardwell)에게 공개 저격을 당해 논란이 되고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박씨가 하드웰의 미공개 음원을 불법 다운로드해 클럽 공연에서 사용했다는 의혹 때문이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하드웰은 이날 자신의 페이스북 계정에 박명수씨의 공연 영상과 함께 “When the DJ's play Hardwell on Air in the club(디제이가 클럽에서 '하드웰 온에어'를 틀었을 때)”이라는 글을 남겼다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 영상은 박씨가 지난 14일 서울 강남의 유명 클럽에서 공연을 한 영상으로, 하드웰은 자신의 팟캐스트인 '하드웰 온에어' 중 쥬엘즈 앤 스팍스(Jewelz &; Sparks)의 'Grande Opera'음원을 불법 다운로드해 재편집했다고 주장했다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "쥬엘즈 앤 스팍스는 내한 공연을 한 적 있는 EDM 내에서는 인기 뮤지션이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하드웰이 자신의 페이스북에 이같은 글을 올리자 온라인을 통해 한국에서도 급속도로 이 사실이 알려졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 'EDM의 아버지'라고 불릴만큼 EDM을 사랑한다고 자부한 박씨가 불법으로 음원을 사용한 데 대해 한국 네티즌들은 '부끄럽다'는 반응을 보였다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "자신을 한국인 DJ라고 소개한 한 네티즌은 하드웰의 페이스북에 “대신 사과한다. 창피한 일”이라는 글을 올리기도 했다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박명수, 해외 유명 DJ에게 욕먹었다? 그 이유는...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

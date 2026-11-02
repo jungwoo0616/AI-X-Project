@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277680",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "잘못 없지만 누나들과 함께 벌 받은 의젓한 대박이",
+		"newsSubTitle": "",
+		"newsContent": "잘못한 게 없지만 의젓하게 벌을 받는 대박이의 모습이 화제다.\n지난 11일 방송된 KBS2 '슈퍼맨이 돌아왔다'에서 설아와 수아는 이동국이 한 눈을 팔고 있는 사이 머리끈 봉투를 꺼내 소파 뒤에 봉지 째로 쏟아버렸다.\n뒤늦게 어질러진 쇼파 뒤를 발견한 이동국은 삼남매에 물었고 수아와 설아는 서로 하지 않았다며 책임을 넘겼다.\n그러나 대박이는 “같이 했냐”는 이동국의 물음에 “응”이라고 대답했다.\n이동국은 지금껏 아이들이 사고를 쳤을 때 크게 혼내지 않았지만 머리끈의 경우 대박이가 입에 넣을 수도 있기 때문에 따끔하게 훈육하기로 결심했다.\n이동국은 삼남매를 떨어뜨려 놓고 훌라후프 안에 들어가 잘못한 점을 생각하라고 단호하게 말했다.‘귀를 잡고 서 있으라’는 이동국의 말에 수아와 설아는 금방 몸을 배배 꼬았다.\n하지만 대박이는 4분간 점잖은 자세를 유지했다.\n대박이 본인은 잘못이 없었지만 끝까지 누나들과 함께 벌을 받았다.\n이후 이동국은 대박이를 안아주며 “앞으로는 누나들이 잘못할 때 말려야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "잘못한 게 없지만 의젓하게 벌을 받는 대박이의 모습이 화제다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 11일 방송된 KBS2 '슈퍼맨이 돌아왔다'에서 설아와 수아는 이동국이 한 눈을 팔고 있는 사이 머리끈 봉투를 꺼내 소파 뒤에 봉지 째로 쏟아버렸다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뒤늦게 어질러진 쇼파 뒤를 발견한 이동국은 삼남매에 물었고 수아와 설아는 서로 하지 않았다며 책임을 넘겼다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 대박이는 “같이 했냐”는 이동국의 물음에 “응”이라고 대답했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이동국은 지금껏 아이들이 사고를 쳤을 때 크게 혼내지 않았지만 머리끈의 경우 대박이가 입에 넣을 수도 있기 때문에 따끔하게 훈육하기로 결심했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이동국은 삼남매를 떨어뜨려 놓고 훌라후프 안에 들어가 잘못한 점을 생각하라고 단호하게 말했다.‘귀를 잡고 서 있으라’는 이동국의 말에 수아와 설아는 금방 몸을 배배 꼬았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 대박이는 4분간 점잖은 자세를 유지했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대박이 본인은 잘못이 없었지만 끝까지 누나들과 함께 벌을 받았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 이동국은 대박이를 안아주며 “앞으로는 누나들이 잘못할 때 말려야 한다”고 말했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "잘못 없지만 누나들과 함께 벌 받은 의젓한 대박이",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275203",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이주빈, 극과 극 눈빛 (닥터로이어)",
+		"newsSubTitle": "",
+		"newsContent": "배우 이주빈이 활약을 펼치고 있다.\n이주빈은 지난 8일과 9일 방송된 MBC 드라마 ‘닥터로이어’의 반석 R&D 센터장 임유나 역을 맡아 극에 긴장을 더했다.\n이날 임유나는 연인 구현성(이동하)과의 관계를 정리하는가 하면, 제이든 리(신성록)와 미래를 약속하며 앞으로의 전개에 궁금증을 유발했다.\n또 그는 한이한(소지섭)에게 아버지 임태문(남명렬)의 비밀을 털어놓으며 긴장감을 더했다.\n이 가운데 이주빈은 차가움과 따뜻함을 오가는 눈빛으로 극과 극 매력을 발산했다.\n그는 오롯이 자신만의 능력으로 더 높은 목표를 이루겠다는 임유나를 흔들림 없는 표정과 목소리로 표현, 시청자들의 몰입을 높였다.\n특히 이주빈은 욕망의 발톱을 드러내며 극 후반부 전개에 궁금증을 더하는 임유나 캐릭터를 섬세히 그려가며 남다른 존재감을 발산하고 있다.\n한편 이주빈이 활약하고 있는‘닥터로이어'는 조작된 수술로 모든 걸 빼앗기고 변호사가 된 천재 외과의사와 의료 범죄 전담부 검사의 메디컬 서스펜스 법정 드라마로, 매주 금요일과 토요일 오후 9시 50분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이주빈이 활약을 펼치고 있다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이주빈은 지난 8일과 9일 방송된 MBC 드라마 ‘닥터로이어’의 반석 R&D 센터장 임유나 역을 맡아 극에 긴장을 더했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 임유나는 연인 구현성(이동하)과의 관계를 정리하는가 하면, 제이든 리(신성록)와 미래를 약속하며 앞으로의 전개에 궁금증을 유발했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그는 한이한(소지섭)에게 아버지 임태문(남명렬)의 비밀을 털어놓으며 긴장감을 더했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 가운데 이주빈은 차가움과 따뜻함을 오가는 눈빛으로 극과 극 매력을 발산했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 오롯이 자신만의 능력으로 더 높은 목표를 이루겠다는 임유나를 흔들림 없는 표정과 목소리로 표현, 시청자들의 몰입을 높였다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 이주빈은 욕망의 발톱을 드러내며 극 후반부 전개에 궁금증을 더하는 임유나 캐릭터를 섬세히 그려가며 남다른 존재감을 발산하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이주빈이 활약하고 있는‘닥터로이어'는 조작된 수술로 모든 걸 빼앗기고 변호사가 된 천재 외과의사와 의료 범죄 전담부 검사의 메디컬 서스펜스 법정 드라마로, 매주 금요일과 토요일 오후 9시 50분에 방송된다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이주빈, 극과 극 눈빛 (닥터로이어)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

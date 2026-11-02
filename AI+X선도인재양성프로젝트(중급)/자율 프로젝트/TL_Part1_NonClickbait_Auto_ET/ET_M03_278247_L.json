@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278247",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태양의 후예 김은숙 작가 \\\"드라마 결말? 전작같은 실수는 안할 것\\\"",
+		"newsSubTitle": "",
+		"newsContent": "김은숙 작가가 KBS2 수목드라마 '태양의 후예' 결말에 대해 언급했다.\n김은숙 작가는 13일 오전 KBS1 라디오 '안녕하십니까 홍지명입니까'와 전화인터뷰를 갖고 '태양의 후예'의 결말에 대해 밝혔다.\n김은숙 작가는 \\\"이 날이 오긴 오는구나. 중간에는 빨리 끝났으면 좋겠다고 생각했는데 아마 내일이 되면 눈물이 나지 않을까 싶다\\\"고 말문을 열었다.\n김은숙 작가는 \\\"들은 것 중에 유시진 이등병의 꿈이었다는 결말을 들었다. 제가 진짜 이런 결말을 냈으면 전 아마 이민 가야했을 거다. 대한민국에 못 살 것\\\"이라고 말했다.\n김은숙 작가는 \\\"전작들의 엔딩에 대해서 시청자분들께 혼이 많이 났다. 아마 같은 실수는 하지 않지 않을까 싶다\\\"고 설명했다.\n한편 '태양의 후예'는 14일 최종회로 종영하며 20일부터 22일까지 3일간 종영의 아쉬움을 달랠 스페셜 편성을 내보낸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김은숙 작가가 KBS2 수목드라마 '태양의 후예' 결말에 대해 언급했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김은숙 작가는 13일 오전 KBS1 라디오 '안녕하십니까 홍지명입니까'와 전화인터뷰를 갖고 '태양의 후예'의 결말에 대해 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김은숙 작가는 \\\"이 날이 오긴 오는구나. 중간에는 빨리 끝났으면 좋겠다고 생각했는데 아마 내일이 되면 눈물이 나지 않을까 싶다\\\"고 말문을 열었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김은숙 작가는 \\\"들은 것 중에 유시진 이등병의 꿈이었다는 결말을 들었다. 제가 진짜 이런 결말을 냈으면 전 아마 이민 가야했을 거다. 대한민국에 못 살 것\\\"이라고 말했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김은숙 작가는 \\\"전작들의 엔딩에 대해서 시청자분들께 혼이 많이 났다. 아마 같은 실수는 하지 않지 않을까 싶다\\\"고 설명했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 '태양의 후예'는 14일 최종회로 종영하며 20일부터 22일까지 3일간 종영의 아쉬움을 달랠 스페셜 편성을 내보낸다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태양의 후예 김은숙 작가 \\\"드라마 결말? 전작같은 실수는 안할 것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

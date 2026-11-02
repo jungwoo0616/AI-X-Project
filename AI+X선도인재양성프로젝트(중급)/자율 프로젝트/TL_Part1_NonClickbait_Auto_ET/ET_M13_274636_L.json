@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274636",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이해리 품절녀 됐다…조세호·유재석 결혼식 참석 인증",
+		"newsSubTitle": "",
+		"newsContent": "가수 이해리가 결혼식을 올렸다.\n4일 소속사 웨이크원에 따르면 이해리는 지난 3일 가족과 친지, 지인 등과 함께 소규모 비공개 결혼식을 진행했다.\n개그맨 조세호는 3일 유재석, 가수 이적과 함께 한 이해리 결혼식 참석 인증샷을 올렸다.\n조세호는 그러면서 “해리 결혼식 왔습니다. 해리야! 결혼 축하해”라는 글을 올렸다.\n조세호는 보통 신랑들이 결혼식에서 메는 검은색 나비넥타이까지 메고 있어 눈길을 끈다.\n앞서 유재석과 조세호는 ‘유 퀴즈 온 더 블럭’ 다비치 편에서 이해리의 결혼식에 참석하겠다고 약속한 바 있다.\n이해리는 지난 5월 비연예인과 7월 결혼을 발표했다.\n이해리는 “같이 있으면 웃을 일이 많아지고, 배울점이 많은 좋은 사람”이라며 “뭣보다 저를 누구보다 존중하고 아껴주는 사람”이라고 예비 신랑을 소개했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이해리가 결혼식을 올렸다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 소속사 웨이크원에 따르면 이해리는 지난 3일 가족과 친지, 지인 등과 함께 소규모 비공개 결혼식을 진행했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개그맨 조세호는 3일 유재석, 가수 이적과 함께 한 이해리 결혼식 참석 인증샷을 올렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조세호는 그러면서 “해리 결혼식 왔습니다. 해리야! 결혼 축하해”라는 글을 올렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조세호는 보통 신랑들이 결혼식에서 메는 검은색 나비넥타이까지 메고 있어 눈길을 끈다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 유재석과 조세호는 ‘유 퀴즈 온 더 블럭’ 다비치 편에서 이해리의 결혼식에 참석하겠다고 약속한 바 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이해리는 지난 5월 비연예인과 7월 결혼을 발표했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이해리는 “같이 있으면 웃을 일이 많아지고, 배울점이 많은 좋은 사람”이라며 “뭣보다 저를 누구보다 존중하고 아껴주는 사람”이라고 예비 신랑을 소개했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이해리 품절녀 됐다…조세호·유재석 결혼식 참석 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

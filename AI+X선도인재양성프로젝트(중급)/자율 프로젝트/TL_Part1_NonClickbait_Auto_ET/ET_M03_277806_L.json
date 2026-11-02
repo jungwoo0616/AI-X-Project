@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277806",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "육지담 \\\"걸그룹 제안 받기도...살짝 흔들렸다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 육지담이 과거 걸그룹 제안을 받았었다고 밝혔다.\n28일 공개된 OSEN과의 인터뷰에서 육지담은 대형 기획사에서 러브콜도 받았지만 거절했다고 밝혔다.\n육지담은 “저는 저만의 길이 있고 또 걸어온 길이 있는데 갑자기 걸그룹을 하기가 좀 그랬어요”고 말했다.\n이어 “사실 살짝 흔들리긴 했어요. 걸그룹들은 멋있고 예쁘잖아요”라고 덧붙였다.\n초등학교 때부터 랩에 관심을 가졌다는 육지담은 “그래도 저의 길이 있는 것 같아요”라며 당시 걸그룹 제안을 거절한 이유를 설명했다.\n육지담은 “활동을 활발하게 하고 싶어요. 일단 ‘겟 잇 뷰티’를 찍었고 다른 예능 프로그램도 나가고 싶은 마음이 있어요”라며 곡 작업뿐만이 아닌 다양한 활동에 의욕을 보이기도 했다.\n그는 올해 ‘언프리티랩스타3’에 재출연하며 발전한 랩 실력을 선보여 큰 관심을 받은 바 있다.\n몇 차례 논란이 되기도 했지만 방송에서 센스있는 가사와 빠른 시간에 가사를 외워 시청자들의 감탄을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 육지담이 과거 걸그룹 제안을 받았었다고 밝혔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 공개된 OSEN과의 인터뷰에서 육지담은 대형 기획사에서 러브콜도 받았지만 거절했다고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "육지담은 “저는 저만의 길이 있고 또 걸어온 길이 있는데 갑자기 걸그룹을 하기가 좀 그랬어요”고 말했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “사실 살짝 흔들리긴 했어요. 걸그룹들은 멋있고 예쁘잖아요”라고 덧붙였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "초등학교 때부터 랩에 관심을 가졌다는 육지담은 “그래도 저의 길이 있는 것 같아요”라며 당시 걸그룹 제안을 거절한 이유를 설명했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "육지담은 “활동을 활발하게 하고 싶어요. 일단 ‘겟 잇 뷰티’를 찍었고 다른 예능 프로그램도 나가고 싶은 마음이 있어요”라며 곡 작업뿐만이 아닌 다양한 활동에 의욕을 보이기도 했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 올해 ‘언프리티랩스타3’에 재출연하며 발전한 랩 실력을 선보여 큰 관심을 받은 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "몇 차례 논란이 되기도 했지만 방송에서 센스있는 가사와 빠른 시간에 가사를 외워 시청자들의 감탄을 자아냈다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "육지담 \\\"걸그룹 제안 받기도...살짝 흔들렸다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

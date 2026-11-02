@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273225",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘돈쭐내러 왔습니다2’ 이영자, 팀 대결 불꽃 자극",
+		"newsSubTitle": "",
+		"newsContent": "‘돈쭐내러 왔습니다2’ 먹요원들이 언니팀, 동생팀으로 나뉘어 먹방 대결을 펼친다.\n오는 16일 저녁 8시 30분 방송되는 채널 IHQ 예능 프로그램 ‘돈쭐내러 왔습니다2’ 11회에서는 인천광역시 부평구 청천동에 위치한 한 즉석떡볶이 맛집에서 ‘돈쭐(돈으로 혼쭐)’ 작전을 펼치는 먹피아 조직의 모습이 공개된다.\n이날 의뢰인은 이모가 운영 중인 가게의 ‘돈쭐’을 요청한다.\n제작진을 다큐멘터리 촬영팀으로 알고 있는 사장님은 코로나19로 힘든 상황 속에서도 꾸준히 떡볶이 기부를 하고 있음을 털어놔 감동을 준다.\n이를 듣고 ‘120분 동안 70만원 매출’이라는 목표를 세운 먹피아 조직. 먹요원들은 30대 언니들인 쏘영, 수향, 아미와 20대 동생들인 먹갱, 만리, 쑤다로 팀을 나눠 대결을 펼친다.\n특히 이영자는 첫 번째로 투입된 언니팀이 차돌박이 사리로만 20만 원의 매출을 올리자 동생팀을 자극, “가능하겠나? 모자란 건 용서하지 않지만 넘치는 건 우리가 다 계산한다”, “1인 1버너로 해서 각자 먹고 싶은 만큼 먹자”라고 제안해 먹요원들의 대결을 더욱 불꽃 튀게 만들었다.\n한편 ‘돈쭐내러 왔습니다2’ 11회는 오는 16일 저녁 8시 30분 채널 IHQ에서 시청 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘돈쭐내러 왔습니다2’ 먹요원들이 언니팀, 동생팀으로 나뉘어 먹방 대결을 펼친다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 16일 저녁 8시 30분 방송되는 채널 IHQ 예능 프로그램 ‘돈쭐내러 왔습니다2’ 11회에서는 인천광역시 부평구 청천동에 위치한 한 즉석떡볶이 맛집에서 ‘돈쭐(돈으로 혼쭐)’ 작전을 펼치는 먹피아 조직의 모습이 공개된다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 의뢰인은 이모가 운영 중인 가게의 ‘돈쭐’을 요청한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제작진을 다큐멘터리 촬영팀으로 알고 있는 사장님은 코로나19로 힘든 상황 속에서도 꾸준히 떡볶이 기부를 하고 있음을 털어놔 감동을 준다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 듣고 ‘120분 동안 70만원 매출’이라는 목표를 세운 먹피아 조직. 먹요원들은 30대 언니들인 쏘영, 수향, 아미와 20대 동생들인 먹갱, 만리, 쑤다로 팀을 나눠 대결을 펼친다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 이영자는 첫 번째로 투입된 언니팀이 차돌박이 사리로만 20만 원의 매출을 올리자 동생팀을 자극, “가능하겠나? 모자란 건 용서하지 않지만 넘치는 건 우리가 다 계산한다”, “1인 1버너로 해서 각자 먹고 싶은 만큼 먹자”라고 제안해 먹요원들의 대결을 더욱 불꽃 튀게 만들었다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘돈쭐내러 왔습니다2’ 11회는 오는 16일 저녁 8시 30분 채널 IHQ에서 시청 가능하다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘돈쭐내러 왔습니다2’ 이영자, 팀 대결 불꽃 자극",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

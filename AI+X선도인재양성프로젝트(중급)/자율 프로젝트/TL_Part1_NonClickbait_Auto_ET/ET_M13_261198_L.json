@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261198",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘맛녀석’ 유민상×김민경→문세윤, 꽁트×먹방 컬래버",
+		"newsSubTitle": "",
+		"newsContent": "뚱5가 배달 음식 섭렵에 나선다.\n오는 18일 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 365회에서는 ‘뚱가족 유니버스’ 특집으로 배달 음식을 시켜 먹는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 공개된다.\n뚱5는 최근 진행된 녹화에서 각각 뚱아빠, 운동뚱 형수, 백수 유튜버 도련님, 인싸 딸, 그냥 아들로 변신해 ‘뚱가족 유니버스’에 몰입했다.\n유민상의 집에서 모인 이들은 재택근무라는 콘셉트 하에 불고기 백반, 고등어 백반, 돈가스, 오삼불고기, 두부찌개, 에그빵 등 다채로운 음식으로 아침을 먹었다.\n특히 김민경은 “배달에 가격 제한이 있으니 두 끼 먹을 걸 한 번에 시켜라. 남겨놨다가 데워서 오후에 또 먹으면 된다”라고 배달 음식 주문 꿀팁을 전수해 눈길을 끈다.\n하지만 이도 잠시, 김민경의 먹방 스피드를 지켜보던 유민상은 “거짓말하지 마라. 남겼다가 먹다니. 한 번에 다 먹지 않나”라고 의문을 제기해 녹화 현장을 웃음바다로 만들었다.\n한편 뚱5의 ‘뚱가족 유니버스’ 특집은 오는 18일 저녁 8시, 채널 IHQ에서 방송되는 ‘맛있는 녀석들’ 365회에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뚱5가 배달 음식 섭렵에 나선다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 18일 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 365회에서는 ‘뚱가족 유니버스’ 특집으로 배달 음식을 시켜 먹는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 공개된다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뚱5는 최근 진행된 녹화에서 각각 뚱아빠, 운동뚱 형수, 백수 유튜버 도련님, 인싸 딸, 그냥 아들로 변신해 ‘뚱가족 유니버스’에 몰입했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유민상의 집에서 모인 이들은 재택근무라는 콘셉트 하에 불고기 백반, 고등어 백반, 돈가스, 오삼불고기, 두부찌개, 에그빵 등 다채로운 음식으로 아침을 먹었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 김민경은 “배달에 가격 제한이 있으니 두 끼 먹을 걸 한 번에 시켜라. 남겨놨다가 데워서 오후에 또 먹으면 된다”라고 배달 음식 주문 꿀팁을 전수해 눈길을 끈다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 이도 잠시, 김민경의 먹방 스피드를 지켜보던 유민상은 “거짓말하지 마라. 남겼다가 먹다니. 한 번에 다 먹지 않나”라고 의문을 제기해 녹화 현장을 웃음바다로 만들었다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 뚱5의 ‘뚱가족 유니버스’ 특집은 오는 18일 저녁 8시, 채널 IHQ에서 방송되는 ‘맛있는 녀석들’ 365회에서 확인할 수 있다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘맛녀석’ 유민상×김민경→문세윤, 꽁트×먹방 컬래버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

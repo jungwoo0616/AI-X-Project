@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260546",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송가인, 26주연속 1위어라",
+		"newsSubTitle": "",
+		"newsContent": "가수 송가인이 트롯스타 투표에서 26주 연속 1위에 이름을 올렸다.\n송가인은 지난 2월 3일부터 10일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 72,090표를 획득해 1위를 차지하여 26주 연속 정상에 이름을 올렸다.\n26주 연속 1위를 차지한 송가인은 그동안 음원 발매와 동시에 각종 사이트에서 1위를 기록하며 송가인의 파워를 증명했다.\n그녀만의 힘 있는 보컬로 높은 화제성을 얻으며 각종 프로그램에 출연해 시원한 입담을 뽐냈다.\n앞서 송가인은 24주 연속 1위를 차지하며 6회 연속 어게인(AGAIN,팬클럽 명)이 제작한 옥외 광고판 특전을 획득하기도 했다.\n이처럼 팬들의 변함없는 사랑과 응원을 받고 있는 송가인의 인기 독주는 앞으로도 지속될 전망이다.\n한편, 송가인은 컴백을 위해 박차를 가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 송가인이 트롯스타 투표에서 26주 연속 1위에 이름을 올렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송가인은 지난 2월 3일부터 10일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 72,090표를 획득해 1위를 차지하여 26주 연속 정상에 이름을 올렸다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "26주 연속 1위를 차지한 송가인은 그동안 음원 발매와 동시에 각종 사이트에서 1위를 기록하며 송가인의 파워를 증명했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그녀만의 힘 있는 보컬로 높은 화제성을 얻으며 각종 프로그램에 출연해 시원한 입담을 뽐냈다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 송가인은 24주 연속 1위를 차지하며 6회 연속 어게인(AGAIN,팬클럽 명)이 제작한 옥외 광고판 특전을 획득하기도 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이처럼 팬들의 변함없는 사랑과 응원을 받고 있는 송가인의 인기 독주는 앞으로도 지속될 전망이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 송가인은 컴백을 위해 박차를 가하고 있다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송가인, 26주연속 1위어라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

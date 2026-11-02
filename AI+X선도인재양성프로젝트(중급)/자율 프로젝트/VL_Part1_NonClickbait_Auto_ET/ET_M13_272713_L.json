@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272713",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘제 1회 전주 스트리트 재즈 축제’ 17일 개막",
+		"newsSubTitle": "",
+		"newsContent": "재즈 본고장 미국 뉴올리언스의 정통 재즈를 즐기는 축제가 전북 전주에서 열린다.\n전주시는 ‘제1회 전주 스트리트 재즈 페스티벌’을 오는 17일부터 사흘간 한옥마을 거리 곳곳에서 개최한다고 9일 밝혔다. ‘재즈여행’을 주제로 한 이 축제는 전주시의 우호 도시인 미 뉴올리언스의 정통 재즈와 국내 유명 뮤지션들의 공연을 한 자리에서 만나볼 기회다.\n뉴올리언스의 ‘제임스앤드류스 크리센트 시티 올스타스’와 재즈 디바 말로가 재즈의 진수를 선보인다.\n대한민국 최고의 빅밴드인 브라소닛 빅밴드와 이건희 퀸텟, 임인건밴드, 소울국모 BMK도 무대에 오른다.\n미8군 재즈악단의 마칭퍼레이드가 한옥마을 거리에서 펼쳐지고 김성수·김주환·황대귀 등 지역에서 활동하는 뮤지션들도 거리 곳곳에서 미니 공연을 한다.\n공연단들은 행사 기간에 남부시장과 객리단길, 전북혁신도시 등도 찾아가 재즈 선율을 전해준다.\n자세한 공연 내용은 축제 누리집에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "재즈 본고장 미국 뉴올리언스의 정통 재즈를 즐기는 축제가 전북 전주에서 열린다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전주시는 ‘제1회 전주 스트리트 재즈 페스티벌’을 오는 17일부터 사흘간 한옥마을 거리 곳곳에서 개최한다고 9일 밝혔다. ‘재즈여행’을 주제로 한 이 축제는 전주시의 우호 도시인 미 뉴올리언스의 정통 재즈와 국내 유명 뮤지션들의 공연을 한 자리에서 만나볼 기회다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뉴올리언스의 ‘제임스앤드류스 크리센트 시티 올스타스’와 재즈 디바 말로가 재즈의 진수를 선보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대한민국 최고의 빅밴드인 브라소닛 빅밴드와 이건희 퀸텟, 임인건밴드, 소울국모 BMK도 무대에 오른다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미8군 재즈악단의 마칭퍼레이드가 한옥마을 거리에서 펼쳐지고 김성수·김주환·황대귀 등 지역에서 활동하는 뮤지션들도 거리 곳곳에서 미니 공연을 한다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공연단들은 행사 기간에 남부시장과 객리단길, 전북혁신도시 등도 찾아가 재즈 선율을 전해준다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자세한 공연 내용은 축제 누리집에서 확인할 수 있다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘제 1회 전주 스트리트 재즈 축제’ 17일 개막",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

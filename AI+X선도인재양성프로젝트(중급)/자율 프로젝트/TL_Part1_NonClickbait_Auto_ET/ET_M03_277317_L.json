@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277317",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "전소미가 직접 밝힌 '트와이스' 최종 탈락 이유",
+		"newsSubTitle": "",
+		"newsContent": "아이오아이 출신 가수 전소미가 과거 트와이스 최종 멤버에서 탈락한 이유를 밝혔다.\n지난 10일 KBS2 '언니들의 슬램덩크2'에서 전소미는 다시 한 번 걸그룹에 도전하는 모습을 보여줬다.\n전소미는 이미 서바이벌 프로그램에 두 번이나 출연한 바 있다.\n지난 2015년 '식스틴'과 지난해 방송된 '프로듀스 101'이다.\n이날 전소미는 트와이스 멤버를 최종 선발하는 '식스틴'에서 탈락한 이유를 말했다.\n전소미는 \\\"원래 꿈이 가수여서 서바이벌 프로그램에 두 번이나 출연했다. 식스틴에서는 마지막까지 갔는데 춤이 부족해서 떨어졌다\\\"고 말했다. '식스틴'에서 탈락한 전소미는 이후 춤 실력이 부족하다는 말을 듣지 않기 위해 '프로듀스 101' 출연 전까지 엄청난 연습을 했다고 한다.\n이번 '언니들의 슬램덩크2' 출연에 대해서도 전소미는 \\\"하고 싶은 건 시간이 걸려도 꼭 해야한다\\\"며 \\\"슬램덩크2를 통해 다시 한 번 도전하고 싶다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이오아이 출신 가수 전소미가 과거 트와이스 최종 멤버에서 탈락한 이유를 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 10일 KBS2 '언니들의 슬램덩크2'에서 전소미는 다시 한 번 걸그룹에 도전하는 모습을 보여줬다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전소미는 이미 서바이벌 프로그램에 두 번이나 출연한 바 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2015년 '식스틴'과 지난해 방송된 '프로듀스 101'이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 전소미는 트와이스 멤버를 최종 선발하는 '식스틴'에서 탈락한 이유를 말했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전소미는 \\\"원래 꿈이 가수여서 서바이벌 프로그램에 두 번이나 출연했다. 식스틴에서는 마지막까지 갔는데 춤이 부족해서 떨어졌다\\\"고 말했다. '식스틴'에서 탈락한 전소미는 이후 춤 실력이 부족하다는 말을 듣지 않기 위해 '프로듀스 101' 출연 전까지 엄청난 연습을 했다고 한다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 '언니들의 슬램덩크2' 출연에 대해서도 전소미는 \\\"하고 싶은 건 시간이 걸려도 꼭 해야한다\\\"며 \\\"슬램덩크2를 통해 다시 한 번 도전하고 싶다\\\"고 말했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전소미가 직접 밝힌 '트와이스' 최종 탈락 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

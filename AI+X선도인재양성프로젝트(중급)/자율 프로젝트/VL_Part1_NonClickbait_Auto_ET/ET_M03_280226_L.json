@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280226",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘치즈인더트랩’ 김고은, 박해진과의 인상적인 첫 만남… \\\"기분나빠\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘치즈인더트랩’ 김고은이 박해진과 첫 만남을 가졌다.\n4일 첫 방송된 tvN 새 월화드라마 ‘치즈인더트랩’에서는 개강파티에 참석한 홍설(김고은)의 모습이 그려졌다.\n복학한 홍설은 개강파티에서 유정(박해진)을 처음 만나게 됐다.\n그리고 남주연(차주영)은 완벽한 선배 유정에게 잘보이기 위해 노력했고 남주연은 유정에게 술을 따라주려 하다 술을 쏟았다.\n이 과정을 지켜보던 홍설은 ‘일부러 쏟은 것 같은데…’라며 의심의 눈초리를 던졌다.\n그때 유정이 살짝 미소 짓는 모습을 본 홍설은 ‘일부러 쏟은 것 맞네’라고 생각했다.\n그 순간 유정과 눈이 마주친 홍설은 깜짝 놀랐다.\n이후 화장실에서 홍설은 “뭐야 그 선배? 기분 나빠”라며 중얼거렸다.\n한편 이날 ‘치즈인더트랩’에서 김상철(문지윤)은 자신의 뒤통수를 때린 사람으로 홍설을 의심했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘치즈인더트랩’ 김고은이 박해진과 첫 만남을 가졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 첫 방송된 tvN 새 월화드라마 ‘치즈인더트랩’에서는 개강파티에 참석한 홍설(김고은)의 모습이 그려졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "복학한 홍설은 개강파티에서 유정(박해진)을 처음 만나게 됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그리고 남주연(차주영)은 완벽한 선배 유정에게 잘보이기 위해 노력했고 남주연은 유정에게 술을 따라주려 하다 술을 쏟았다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 과정을 지켜보던 홍설은 ‘일부러 쏟은 것 같은데…’라며 의심의 눈초리를 던졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그때 유정이 살짝 미소 짓는 모습을 본 홍설은 ‘일부러 쏟은 것 맞네’라고 생각했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 순간 유정과 눈이 마주친 홍설은 깜짝 놀랐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 화장실에서 홍설은 “뭐야 그 선배? 기분 나빠”라며 중얼거렸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 이날 ‘치즈인더트랩’에서 김상철(문지윤)은 자신의 뒤통수를 때린 사람으로 홍설을 의심했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘치즈인더트랩’ 김고은, 박해진과의 인상적인 첫 만남… \\\"기분나빠\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

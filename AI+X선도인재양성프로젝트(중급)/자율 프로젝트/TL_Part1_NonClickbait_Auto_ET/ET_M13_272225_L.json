@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272225",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 안성훈, ‘빨간 맛’ 트로트버전 가창으로 분위기 업",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 금요일 오후를 따스한 웃음으로 채웠다.\n안성훈은 3일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연해 전통시장 홍보를 위한 응원단장으로 나섰다.\n김해 외동 전통시장을 찾은 안성훈은 능청스러운 코너 진행력으로 흥미를 불어넣는가 하면, 칼국수를 먹음직스럽게 시식, 시청자들의 눈을 더욱 즐겁게 했다.\n안성훈은 디저트 딸기 설기를 보자마자 레드벨벳의 ‘빨간 맛’ 트로트 버전을 선보이며 지치지 않는 열정으로 보는 이들의 흐뭇한 미소를 자아냈다.\n안성훈은 이후 홍보 타임을 획득하기 위해 게임에 도전한 상인들을 적극 응원했고, 상인들의 여러 사연에 귀 기울이며 공감대를 형성했다.\n또 아픈 남편 걱정에 상인이 눈물을 흘리자 “빠른 쾌유를 응원합니다”라고 전해 훈훈함을 불어넣었다.\n따스한 웃음을 선사한 안성훈은 앞으로도 매주 금요일 ‘6시 내고향’을 통해 안방극장을 찾을 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 금요일 오후를 따스한 웃음으로 채웠다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 3일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연해 전통시장 홍보를 위한 응원단장으로 나섰다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김해 외동 전통시장을 찾은 안성훈은 능청스러운 코너 진행력으로 흥미를 불어넣는가 하면, 칼국수를 먹음직스럽게 시식, 시청자들의 눈을 더욱 즐겁게 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안성훈은 디저트 딸기 설기를 보자마자 레드벨벳의 ‘빨간 맛’ 트로트 버전을 선보이며 지치지 않는 열정으로 보는 이들의 흐뭇한 미소를 자아냈다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안성훈은 이후 홍보 타임을 획득하기 위해 게임에 도전한 상인들을 적극 응원했고, 상인들의 여러 사연에 귀 기울이며 공감대를 형성했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 아픈 남편 걱정에 상인이 눈물을 흘리자 “빠른 쾌유를 응원합니다”라고 전해 훈훈함을 불어넣었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "따스한 웃음을 선사한 안성훈은 앞으로도 매주 금요일 ‘6시 내고향’을 통해 안방극장을 찾을 예정이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 안성훈, ‘빨간 맛’ 트로트버전 가창으로 분위기 업",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

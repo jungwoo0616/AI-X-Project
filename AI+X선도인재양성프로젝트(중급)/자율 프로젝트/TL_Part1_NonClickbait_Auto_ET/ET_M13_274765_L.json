@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274765",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "에이비식스, 美 WNBA 경기에서 공연…K-POP 아이돌 최초",
+		"newsSubTitle": "",
+		"newsContent": "그룹 AB6IX(에이비식스)가 K-POP 아이돌 최초로 미국 여자 프로농구(WNBA) 경기의 하프타임을 빛냈다.\n4일 오후 4시(현지시간) 미국 로스앤젤레스 크립토닷컴 아레나에서 열린 ‘로스앤젤레스 스파크스’와 ‘피닉스 머큐리’ 경기 하프타임에 에이비식스가 공연을 펼쳐 응원 열기를 높였다.\n2만 석 규모 경기장 가운데에 등장한 멤버들은 약 4분간 힘차게 ‘할리우드(HOLLYWOOD)’ 영어 버전 무대를 선보였고, 공연이 펼쳐진 로스앤젤레스 스파크스의 홈경기장 안은 함성과 박수로 가득 찼다.\n특히 WNBA에서 K-POP 아티스트 공연이 처음인 만큼, 에이비식스는 현지 관중들에게 한류 문화를 각인시키며 주목받았다.\nK-POP 아티스트를 대표해 열띤 무대를 마친 에이비식스는 “WNBA 하프타임 공연에 서게 돼 영광이다”라고 소감을 전했다.\n한편 지난 1일 미주 6개 도시 팬 미팅 투어를 마친 에이비식스(전웅·김동현·박우진·이대휘)는 미국에서 팬 사인회, 버스킹 등 다양한 프로모션을 진행 중이다.\n현지 팬들에게 첫 대면 공연을 선보이며 향후 글로벌 활동에 대한 기대감이 모이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 AB6IX(에이비식스)가 K-POP 아이돌 최초로 미국 여자 프로농구(WNBA) 경기의 하프타임을 빛냈다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 오후 4시(현지시간) 미국 로스앤젤레스 크립토닷컴 아레나에서 열린 ‘로스앤젤레스 스파크스’와 ‘피닉스 머큐리’ 경기 하프타임에 에이비식스가 공연을 펼쳐 응원 열기를 높였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2만 석 규모 경기장 가운데에 등장한 멤버들은 약 4분간 힘차게 ‘할리우드(HOLLYWOOD)’ 영어 버전 무대를 선보였고, 공연이 펼쳐진 로스앤젤레스 스파크스의 홈경기장 안은 함성과 박수로 가득 찼다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 WNBA에서 K-POP 아티스트 공연이 처음인 만큼, 에이비식스는 현지 관중들에게 한류 문화를 각인시키며 주목받았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "K-POP 아티스트를 대표해 열띤 무대를 마친 에이비식스는 “WNBA 하프타임 공연에 서게 돼 영광이다”라고 소감을 전했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지난 1일 미주 6개 도시 팬 미팅 투어를 마친 에이비식스(전웅·김동현·박우진·이대휘)는 미국에서 팬 사인회, 버스킹 등 다양한 프로모션을 진행 중이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현지 팬들에게 첫 대면 공연을 선보이며 향후 글로벌 활동에 대한 기대감이 모이고 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이비식스, 美 WNBA 경기에서 공연…K-POP 아이돌 최초",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

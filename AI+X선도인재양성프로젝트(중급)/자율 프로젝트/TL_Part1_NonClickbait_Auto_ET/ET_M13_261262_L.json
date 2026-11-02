@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261262",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "가비, 코로나19 자가키트 양성…SNL 코리아2 녹화취소+결방",
+		"newsSubTitle": "",
+		"newsContent": "댄서 가비가 코로나19 자가키트 검사에서 양성 반응을 보였다.\n그가 출연 예정이던 ‘SNL2’가 결방을 예고했다.\n쿠팡플레이 오리지널 ‘SNL 코리아2’는 공식 입장을 내고 “금일 녹화 취소 및 19일 예정이었던 8회 모니카, 아이키, 가비 편의 결방 소식을 알려드린다”고 밝혔다. ‘SNL2’ 제작진은 “코로나19 예방을 위해 금일 예정된 녹화에 앞서 전원 실시한 자가 키트 검사에서 호스트 1인이 양성 반응을 보였다”며 “내부 대응 방침에 따라 금일 녹화 및 19일 8회 방송 취소를 결정했다”고 설명했다.\n확진자는 가비였다.\n가비측은 17일 “가비가 자가키트 검사에서 전날은 음성이었지만, 오늘은 양성 반응이 나와 바로 PCR 검사를 받았고 결과를 기다리고 있다”고 밝혔다.\n가비는 지난해 Mnet ‘스트릿 우먼 파이터’를 통해 스타덤에 올랐다.\n현재 ‘섭외 1순위’로 꼽힐 만큼 활발한 활동을 펼치고 있어 프로그램에 차질이 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 가비가 코로나19 자가키트 검사에서 양성 반응을 보였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그가 출연 예정이던 ‘SNL2’가 결방을 예고했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쿠팡플레이 오리지널 ‘SNL 코리아2’는 공식 입장을 내고 “금일 녹화 취소 및 19일 예정이었던 8회 모니카, 아이키, 가비 편의 결방 소식을 알려드린다”고 밝혔다. ‘SNL2’ 제작진은 “코로나19 예방을 위해 금일 예정된 녹화에 앞서 전원 실시한 자가 키트 검사에서 호스트 1인이 양성 반응을 보였다”며 “내부 대응 방침에 따라 금일 녹화 및 19일 8회 방송 취소를 결정했다”고 설명했다.",
+				"sentenceSize": 221
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "확진자는 가비였다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가비측은 17일 “가비가 자가키트 검사에서 전날은 음성이었지만, 오늘은 양성 반응이 나와 바로 PCR 검사를 받았고 결과를 기다리고 있다”고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가비는 지난해 Mnet ‘스트릿 우먼 파이터’를 통해 스타덤에 올랐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 ‘섭외 1순위’로 꼽힐 만큼 활발한 활동을 펼치고 있어 프로그램에 차질이 예상된다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가비, 코로나19 자가키트 양성…SNL 코리아2 녹화취소+결방",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276124",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "베트남 공항 직원, 엑소 찬열·세훈 여권 사진 유출 '논란'",
+		"newsSubTitle": "",
+		"newsContent": "베트남 공항 직원이 국내 아이돌그룹 '엑소'(EXO) 멤버 찬열과 세훈의 여권 사진을 유출해 논란이 거세다. 11일 VN익스프레스 등 현지 언론에 따르면 찬열 등은 지난 10일 오후 베트남 하노이 노이바이 공항으로 입국했다.\n이날 오후 하노이 미딘 국립경기장에서 열리는 '2020 K팝 슈퍼 콘서트 인 하노이' 공연에 참여하기 위해서다.\n당시 현지 공항 직원은 찬열 등의 여권 사진을 찍어 유출했고 이는 현지 소셜네트워크서비스(SNS)를 통해 퍼졌다.\n엑소 팬들은 강하게 반발했고 재발 방지 대책을 요구하는 글이 쏟아졌다.\n이에 논란을 일으킨 공항 직원은 페이스북 계정에 \\\"엑소 팬인 친구에게 보내줬는데 그것이 이렇게 확산할 것이라고 생각하지 못했다\\\"면서 \\\"엑소 팬들에게 진심으로 사과한다\\\"고 밝혔다.\n현재 이 직원의 페이스북 계정은 비활성화됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "베트남 공항 직원이 국내 아이돌그룹 '엑소'(EXO) 멤버 찬열과 세훈의 여권 사진을 유출해 논란이 거세다. 11일 VN익스프레스 등 현지 언론에 따르면 찬열 등은 지난 10일 오후 베트남 하노이 노이바이 공항으로 입국했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 오후 하노이 미딘 국립경기장에서 열리는 '2020 K팝 슈퍼 콘서트 인 하노이' 공연에 참여하기 위해서다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 현지 공항 직원은 찬열 등의 여권 사진을 찍어 유출했고 이는 현지 소셜네트워크서비스(SNS)를 통해 퍼졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엑소 팬들은 강하게 반발했고 재발 방지 대책을 요구하는 글이 쏟아졌다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 논란을 일으킨 공항 직원은 페이스북 계정에 \\\"엑소 팬인 친구에게 보내줬는데 그것이 이렇게 확산할 것이라고 생각하지 못했다\\\"면서 \\\"엑소 팬들에게 진심으로 사과한다\\\"고 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 이 직원의 페이스북 계정은 비활성화됐다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베트남 공항 직원, 엑소 찬열·세훈 여권 사진 유출 '논란'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

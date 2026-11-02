@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274433",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘정성호♥’ 경맑음, 다섯째 아이 성별 공개",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 정성호의 아내 경맑음이 다섯째 아이 성별을 공개했다.\n경맑음은 30일 자신의 인스타그램에 산부인과에서 찍은 부부 셀카를 올렸다.\n사진 속 경맑음은 남편 정성호와 다정한 분위기를 뽐냈다.\n경맑음은 아기 초음파 사진도 공개를 했다.\n이와 함께 그는 “여러분 오늘은 짧게 산부인과에서 히어로 인사드립니다아아아아 #세상에서_가장_행복한_임산부 #다섯째임신중 ”이란 해시태그도 전했다.\n그는 고추 이모티콘을 첨부해 다섯째 성별이 아들임을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 정성호의 아내 경맑음이 다섯째 아이 성별을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경맑음은 30일 자신의 인스타그램에 산부인과에서 찍은 부부 셀카를 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 경맑음은 남편 정성호와 다정한 분위기를 뽐냈다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경맑음은 아기 초음파 사진도 공개를 했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 함께 그는 “여러분 오늘은 짧게 산부인과에서 히어로 인사드립니다아아아아 #세상에서_가장_행복한_임산부 #다섯째임신중 ”이란 해시태그도 전했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 고추 이모티콘을 첨부해 다섯째 성별이 아들임을 밝혔다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘정성호♥’ 경맑음, 다섯째 아이 성별 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

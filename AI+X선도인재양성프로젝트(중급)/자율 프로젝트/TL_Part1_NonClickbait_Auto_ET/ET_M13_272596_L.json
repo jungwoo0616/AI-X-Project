@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272596",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "파라마운트, ‘탑건’ 속편 저작권 침해 문제로 송사?",
+		"newsSubTitle": "",
+		"newsContent": "블록버스터 영화 ‘탑건’ 속편을 만든 미국 할리우드 메이저 스튜디오 파라마운트가 저작권 침해 송사에 휘말렸다.\n7일(시간) NBC등에 따르면 탑건 모태가 되는 이야기를 쓴 언론인의 가족은 파라마운트가 저작권을 침해했다며 로스앤젤레스(LA) 연방법원에 손해배상을 요구하는 소송을 냈다.\n이스라엘 출신 언론인 고 에후드 요나이의 부인과 아들은 고소장에서 파라마운트가 탑건 속편인 ‘탑건:매버릭’ 개봉에 앞서 저작권을 다시 획득하지 않았다고 주장했다.\n요나이는 1983년 캘리포니아 매거진에 미국 해군 전투기 조종사 훈련생들의 이야기를 다룬 기사 ‘탑 건스’를 작성했고 파라마운트는 당시 이 기사를 토대로 영화를 만들 수 있는 저작권을 확보한 후 1986년 탑건을 출시했고, 올해 속편을 개봉했다.\n요나이 가족은 ‘탑건:매버릭’도 1983년 기사에서 파생된 영화이기 때문에 저작권을 재취득해야 한다고 밝혔다.\n파라마운트 측은 요나이 가족이 일고의 가치가 없는 주장을 하고 있다며 법적 대응에 나서겠다는 입장을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블록버스터 영화 ‘탑건’ 속편을 만든 미국 할리우드 메이저 스튜디오 파라마운트가 저작권 침해 송사에 휘말렸다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일(시간) NBC등에 따르면 탑건 모태가 되는 이야기를 쓴 언론인의 가족은 파라마운트가 저작권을 침해했다며 로스앤젤레스(LA) 연방법원에 손해배상을 요구하는 소송을 냈다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이스라엘 출신 언론인 고 에후드 요나이의 부인과 아들은 고소장에서 파라마운트가 탑건 속편인 ‘탑건:매버릭’ 개봉에 앞서 저작권을 다시 획득하지 않았다고 주장했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "요나이는 1983년 캘리포니아 매거진에 미국 해군 전투기 조종사 훈련생들의 이야기를 다룬 기사 ‘탑 건스’를 작성했고 파라마운트는 당시 이 기사를 토대로 영화를 만들 수 있는 저작권을 확보한 후 1986년 탑건을 출시했고, 올해 속편을 개봉했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "요나이 가족은 ‘탑건:매버릭’도 1983년 기사에서 파생된 영화이기 때문에 저작권을 재취득해야 한다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "파라마운트 측은 요나이 가족이 일고의 가치가 없는 주장을 하고 있다며 법적 대응에 나서겠다는 입장을 보였다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파라마운트, ‘탑건’ 속편 저작권 침해 문제로 송사?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

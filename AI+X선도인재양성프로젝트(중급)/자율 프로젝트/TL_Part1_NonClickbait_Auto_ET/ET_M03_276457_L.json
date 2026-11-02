@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276457",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'왜 전부 백인에 남자냐' 덩케르크가 뜻밖의 논란에 휘말린 이유",
+		"newsSubTitle": "",
+		"newsContent": "크리스토퍼 놀란 감독의 화제작 '덩케르크'가 논란에 휩싸였다.\n논란의 시작은 미국 매체 '유에스에이 투데이(USA Today)'에 게재된 영화평 때문이다.\n논란이 된 구절은 영화 전문 기자 브라이언 트루잇(Brian Truitt)의 영화평 중 \\\"영화에 소수의 여성만이 드러나고 유색인종 주인공이 없다는 사실이 몇몇을 분개하게 할 것\\\"이라는 부분이다.\n칼럼이 나간 뒤 또 다른 미국 매체 '데일리 와이어(The Daily Wire)'의 존 놀티(John Nolte)는 '덩케르크'에 여성 출연자와 소수자가 적다고 불평하는 것은 \\\"힙합 음악 영화에 백인 가수의 음악이 없다고 불평하는 것이나 아동용 애니메이션에 선정적인 장면이 묘사되지 않았다고 불평하는 것과 마찬가지\\\"라고 비판했다.\n그는 이어 \\\"덩케르크에 갇힌 사람들도 젊은 백인 남성들이었고, 그들을 구한 것도 젊은 백인 남성들이었으며, 그들을 죽이려고 한 것도 젊은 백인 남성들이었다\\\"라는 것이 정론이라며 영화감독들을 괴롭히려는 극단적(매카시즘적)인 생각에서 벗어나라고 일갈했다.\n이에 대해 미국 네티즌들은 \\\"실제로 전쟁에 참여한 유색인종의 숫자가 궁금하다\\\" \\\"역사적 사건을 다룬 영화를 놓고 출연자 비율에 대한 비판은 지나친 것 같다\\\" \\\"당시 활약한 여성들의 모습도 등장하기는 하더라\\\" 등의 다양한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "크리스토퍼 놀란 감독의 화제작 '덩케르크'가 논란에 휩싸였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "논란의 시작은 미국 매체 '유에스에이 투데이(USA Today)'에 게재된 영화평 때문이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "논란이 된 구절은 영화 전문 기자 브라이언 트루잇(Brian Truitt)의 영화평 중 \\\"영화에 소수의 여성만이 드러나고 유색인종 주인공이 없다는 사실이 몇몇을 분개하게 할 것\\\"이라는 부분이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "칼럼이 나간 뒤 또 다른 미국 매체 '데일리 와이어(The Daily Wire)'의 존 놀티(John Nolte)는 '덩케르크'에 여성 출연자와 소수자가 적다고 불평하는 것은 \\\"힙합 음악 영화에 백인 가수의 음악이 없다고 불평하는 것이나 아동용 애니메이션에 선정적인 장면이 묘사되지 않았다고 불평하는 것과 마찬가지\\\"라고 비판했다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 이어 \\\"덩케르크에 갇힌 사람들도 젊은 백인 남성들이었고, 그들을 구한 것도 젊은 백인 남성들이었으며, 그들을 죽이려고 한 것도 젊은 백인 남성들이었다\\\"라는 것이 정론이라며 영화감독들을 괴롭히려는 극단적(매카시즘적)인 생각에서 벗어나라고 일갈했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 대해 미국 네티즌들은 \\\"실제로 전쟁에 참여한 유색인종의 숫자가 궁금하다\\\" \\\"역사적 사건을 다룬 영화를 놓고 출연자 비율에 대한 비판은 지나친 것 같다\\\" \\\"당시 활약한 여성들의 모습도 등장하기는 하더라\\\" 등의 다양한 반응을 보였다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'왜 전부 백인에 남자냐' 덩케르크가 뜻밖의 논란에 휘말린 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

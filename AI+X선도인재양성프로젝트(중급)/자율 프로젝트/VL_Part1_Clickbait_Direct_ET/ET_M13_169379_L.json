@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169379",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "태연 1위, 에스파·아이유·임영웅…",
+    "newsSubTitle": "",
+    "newsContent": "가수 태연이 2월 3주차 아이돌차트 아차랭킹 1위에 올랐다.\n태연은 5일 발표된 아이돌차트 2월 3주차(22.2.21~22.2.27) 아차랭킹에서 음원점수 1541점, 유튜브 점수 4723점, 소셜점수 594점 등 총점 6918점으로 1위를 기록했다.\n태연은 지난달 정규 3집 ‘INVU’를 발매했다.\n발매 후 멜론, 지니, 벅스 등 주요 음원 차트 실시간 및 일간, 주간 모두 1위를 차지함은 물론, Mnet ‘엠카운트다운’, MBC ‘쇼! 음악중심’, SBS ‘인기가요’ 등 음악 방송에서도 1위 트로피를 거머쥐며 3관왕에 올라 막강한 파워를 입증했다.\n2위는 총점 4949점의 스테이씨가 차지했다.\n뒤를 이어 에스파(총점 4467점), 아이유(총점 4351점), 임영웅(총점 4177점), 방탄소년단(총점 3986점), 최예나(총점 2624점), 아이브(총점 2508점), 이찬원(총점 2395점), 갓더비트(총점 2094점)순으로 집계됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 태연이 2월 3주차 아이돌차트 아차랭킹 1위에 올랐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "태연은 5일 발표된 아이돌차트 2월 3주차(22.2.21~22.2.27) 아차랭킹에서 음원점수 1541점, 유튜브 점수 4723점, 소셜점수 594점 등 총점 6918점으로 1위를 기록했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "태연은 지난달 정규 3집 ‘INVU’를 발매했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "발매 후 멜론, 지니, 벅스 등 주요 음원 차트 실시간 및 일간, 주간 모두 1위를 차지함은 물론, Mnet ‘엠카운트다운’, MBC ‘쇼! 음악중심’, SBS ‘인기가요’ 등 음악 방송에서도 1위 트로피를 거머쥐며 3관왕에 올라 막강한 파워를 입증했다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2위는 총점 4949점의 스테이씨가 차지했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뒤를 이어 에스파(총점 4467점), 아이유(총점 4351점), 임영웅(총점 4177점), 방탄소년단(총점 3986점), 최예나(총점 2624점), 아이브(총점 2508점), 이찬원(총점 2395점), 갓더비트(총점 2094점)순으로 집계됐다.",
+        "sentenceSize": 136
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 태연, 2월 3주차 아차랭킹 압도적 1위",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

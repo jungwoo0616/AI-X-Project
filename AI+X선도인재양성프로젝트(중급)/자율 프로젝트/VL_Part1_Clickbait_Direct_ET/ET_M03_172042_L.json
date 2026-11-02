@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172042",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘장군의 아들’ 박상민, 11살 연하와 4월 결혼",
+    "newsSubTitle": "",
+    "newsContent": "배우 박상민(49)이 오는 4월 11살 연하의 신부를 맞이한다.\n소속사 위브나인은 27일 박상민이 오는 4월 초 밀레니엄 서울 힐튼에서 양가 가족과 친지, 가까운 지인을 초대해 11살 연하의 연예인이 아닌 여성과 결혼한다고 밝혔다.\n소속사는 “두 사람이 지인들과 함께 만나는 자리에서 자연스럽게 인연을 맺은 후 사랑을 키워왔다”며 “박상민이 예비 신부의 사려 깊은 마음과 배려심, 긍정적인 마음에 반해 인생의 동반자가 되기로 결심했다”고 설명했다.\n박상민은 지난 1990년 영화 ‘장군의 아들’로 데뷔한 후 ‘형제의 강’ ‘젊은이의 양지’ ‘태양은 가득히’‘자이언트’ ‘무신’ ‘돈의 화신’ ‘스캔들’ 등에 출연하며 꾸준히 연기활동을 이어온 배우다.\n다음달 6일 방송 예정인 OCN 새 드라마 ‘빙의’ 출연을 앞두고 있다.\n소속사는 “박상민이 결혼 후에도 배우로서 영화와 드라마를 넘나들며 활발하게 활동할 것”이라고 예고했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박상민(49)이 오는 4월 11살 연하의 신부를 맞이한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 위브나인은 27일 박상민이 오는 4월 초 밀레니엄 서울 힐튼에서 양가 가족과 친지, 가까운 지인을 초대해 11살 연하의 연예인이 아닌 여성과 결혼한다고 밝혔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 “두 사람이 지인들과 함께 만나는 자리에서 자연스럽게 인연을 맺은 후 사랑을 키워왔다”며 “박상민이 예비 신부의 사려 깊은 마음과 배려심, 긍정적인 마음에 반해 인생의 동반자가 되기로 결심했다”고 설명했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박상민은 지난 1990년 영화 ‘장군의 아들’로 데뷔한 후 ‘형제의 강’ ‘젊은이의 양지’ ‘태양은 가득히’‘자이언트’ ‘무신’ ‘돈의 화신’ ‘스캔들’ 등에 출연하며 꾸준히 연기활동을 이어온 배우다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다음달 6일 방송 예정인 OCN 새 드라마 ‘빙의’ 출연을 앞두고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사는 “박상민이 결혼 후에도 배우로서 영화와 드라마를 넘나들며 활발하게 활동할 것”이라고 예고했다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 박상민, 11살 연하의 일반인과 결혼 결심한 이유는 이것...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

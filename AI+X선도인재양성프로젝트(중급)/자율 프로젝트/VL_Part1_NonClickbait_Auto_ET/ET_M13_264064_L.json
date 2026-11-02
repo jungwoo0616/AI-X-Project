@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264064",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "윤태진, 축구로 마른비만 ‘극복’",
+		"newsSubTitle": "",
+		"newsContent": "아나운서 윤태진이 마른 비만에서 벗어났다고 전했다.\n윤태진은 16일 자신의 사회 관계망 서비스(SNS)에 사진을 게재했다.\n윤태진은 “다시 필라테스 등록. 인바디 재면 똑같은 이야기를 항상 듣지만 축구 덕분에 마른비만을 극복했다”며 “체지방은 줄고 근육량이 올갔다”고 전했다.\n사진 속 윤태진은 필라테스를 위해 레깅스와 반팔 티셔츠를 입은 채 거울 앞에서 셀피를 찍고 있는 모습이 담겼다.\n이어 윤태진이 자신의 몸이 동글해졌다고 얘기하자 누리꾼들은 “윤태진은 원래 귀여운 스타일이잖아요”, “동글해도 나미춘 누나가 최고” 이라며 답해 화목한 분위기를 자아냈다.\n한편 윤태진은 SBS ‘골 때리는 그녀들’에서 FC아나콘다 멤버로 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아나운서 윤태진이 마른 비만에서 벗어났다고 전했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤태진은 16일 자신의 사회 관계망 서비스(SNS)에 사진을 게재했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤태진은 “다시 필라테스 등록. 인바디 재면 똑같은 이야기를 항상 듣지만 축구 덕분에 마른비만을 극복했다”며 “체지방은 줄고 근육량이 올갔다”고 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 윤태진은 필라테스를 위해 레깅스와 반팔 티셔츠를 입은 채 거울 앞에서 셀피를 찍고 있는 모습이 담겼다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 윤태진이 자신의 몸이 동글해졌다고 얘기하자 누리꾼들은 “윤태진은 원래 귀여운 스타일이잖아요”, “동글해도 나미춘 누나가 최고” 이라며 답해 화목한 분위기를 자아냈다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 윤태진은 SBS ‘골 때리는 그녀들’에서 FC아나콘다 멤버로 출연 중이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤태진, 축구로 마른비만 ‘극복’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

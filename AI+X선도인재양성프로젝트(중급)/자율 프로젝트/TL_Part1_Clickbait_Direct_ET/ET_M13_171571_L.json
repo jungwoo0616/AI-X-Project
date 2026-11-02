@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171571",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘폐암 말기’ 김철민 “덕분에 행복했습니다” 이별 암시",
+    "newsSubTitle": "",
+    "newsContent": "폐암 말기 코미디언 김철민이 이별을 암시하는 글을 남겨 팬들의 마음을 울렸다.\n김철민은 10일 자신의 페이스북에 별다른 사진 없이 “덕분에 행복했습니다. 고맙습니다. 사랑합니다”라는 짧은 글을 남겼다.\n과거 암 투병 중에도 밝은 근황을 전한 것과 달리 이번 글은 이별을 전하는 듯한 분위기를 풍겨 걱정을 더했다.\n앞서 김철민은 지난 2019년 8월 폐암 말기 판정을 받은 후 항암 치료를 받고 있다고 전해 모두를 놀라게 했다.\n그는 같은 해 9월 개 구충제인 펜벤다졸 복용으로 건강이 호전됐다고 밝혔지만 이후 검증되지 않은 대체 요법 등에 대한 문제점 등을 언급하며 펜벤다졸 복용 중단 했다.\n이를 본 누리꾼들은 “힘내세요” “건강을 기도합니다” “포기하지 마세요” 등의 응원 댓글을 남겼다.\n한편, 김철민은 1994년 MBC 공채 개그맨 출신으로 대학로에서 버스킹 공연을 하며 대중에게 얼굴을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "폐암 말기 코미디언 김철민이 이별을 암시하는 글을 남겨 팬들의 마음을 울렸다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김철민은 10일 자신의 페이스북에 별다른 사진 없이 “덕분에 행복했습니다. 고맙습니다. 사랑합니다”라는 짧은 글을 남겼다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "과거 암 투병 중에도 밝은 근황을 전한 것과 달리 이번 글은 이별을 전하는 듯한 분위기를 풍겨 걱정을 더했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 김철민은 지난 2019년 8월 폐암 말기 판정을 받은 후 항암 치료를 받고 있다고 전해 모두를 놀라게 했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 같은 해 9월 개 구충제인 펜벤다졸 복용으로 건강이 호전됐다고 밝혔지만 이후 검증되지 않은 대체 요법 등에 대한 문제점 등을 언급하며 펜벤다졸 복용 중단 했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 누리꾼들은 “힘내세요” “건강을 기도합니다” “포기하지 마세요” 등의 응원 댓글을 남겼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 김철민은 1994년 MBC 공채 개그맨 출신으로 대학로에서 버스킹 공연을 하며 대중에게 얼굴을 알렸다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "폐암 투병 김철민, 이것까지 복용했지만... “덕분에 행복했습니다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

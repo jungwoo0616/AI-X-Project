@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277422",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "허경영, 가수 컴백…\\\"올해 대선출마 고민중\\\"",
+		"newsSubTitle": "",
+		"newsContent": "허경영(사진) 전 민주공화당 총재가 최근 신곡 녹음을 마쳤다.\n허 전 총재의 소속사인 본좌엔터테인먼트는 26일, 허 전 총재와 다른 가수가 함께 듀엣으로 녹음한 신곡을 발표할 예정이라고 밝혔다.\n신곡 발표 시점은 2월 중순이 될 전망이다.\n한편, 허 전 총재는 현재 19대 대선 출마를 고심중인 것으로 전해졌다.\n\\\"19대 대통령 허경영\\\"이라는 문구와 함께 허 전 총재의 사진이 부착된 홍보 차량이 공개된 가운데 허 전 총재측은 \\\"19대 대선출마를 고려하고있다\\\"고 밝혔다.\n지난 17대 대선에 출마했던 허 전 총재는 당시 득표율 0.4%를 기록한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "허경영(사진) 전 민주공화당 총재가 최근 신곡 녹음을 마쳤다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "허 전 총재의 소속사인 본좌엔터테인먼트는 26일, 허 전 총재와 다른 가수가 함께 듀엣으로 녹음한 신곡을 발표할 예정이라고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신곡 발표 시점은 2월 중순이 될 전망이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편, 허 전 총재는 현재 19대 대선 출마를 고심중인 것으로 전해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "\\\"19대 대통령 허경영\\\"이라는 문구와 함께 허 전 총재의 사진이 부착된 홍보 차량이 공개된 가운데 허 전 총재측은 \\\"19대 대선출마를 고려하고있다\\\"고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 17대 대선에 출마했던 허 전 총재는 당시 득표율 0.4%를 기록한 바 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허경영, 가수 컴백…\\\"올해 대선출마 고민중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

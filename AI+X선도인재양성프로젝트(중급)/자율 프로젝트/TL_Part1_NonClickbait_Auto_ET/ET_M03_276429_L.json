@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276429",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "뉴욕서 옆 테이블 식사한 지드래곤이 팬에게 해 준 일",
+		"newsSubTitle": "",
+		"newsContent": "지드래곤의 한 남성 팬이 지드래곤과의 일화를 자신의 인스타그램에 소개했다.\n지난 29일 지드래곤의 팬인 한 남성은 자신의 SNS에 뉴욕에 있는 '이치란 라멘'식당에서 지드래곤을 만났다고 밝혔다.\n그는 \\\"우리가 말하고 사진 찍는 것을 지드래곤의 보디가드가 막았다\\\"며 아쉬움을 표했다.\n또한 \\\"그러나 우리는 나중에 그가 우리의 저녁 식사비를 결제한 것을 발견했다\\\"고 밝혔다.\n마지막으로 \\\"우리는 지드래곤에 감사하다고 말하지 못했다. 지드래곤이 식당에서 우리보다 나중에 나왔기 때문이다\\\"라고 전했다.\n팬이 올린 게시물을 보면 출구 쪽에 지드래곤으로 추정되는 남성이 검은색 모자를 쓰고 앉아 있다.\n이를 본 네티즌들은 \\\"진짜 운이 좋은 것 같다\\\" \\\"나도 라멘 좋아하는데...\\\" \\\"지드래곤 진짜 멋있다\\\" 등의 반응을 보였다.\n한편 지드래곤은 현재 전 세계 29개 도시를 순회하는 솔로 월드투어를 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지드래곤의 한 남성 팬이 지드래곤과의 일화를 자신의 인스타그램에 소개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 29일 지드래곤의 팬인 한 남성은 자신의 SNS에 뉴욕에 있는 '이치란 라멘'식당에서 지드래곤을 만났다고 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"우리가 말하고 사진 찍는 것을 지드래곤의 보디가드가 막았다\\\"며 아쉬움을 표했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 \\\"그러나 우리는 나중에 그가 우리의 저녁 식사비를 결제한 것을 발견했다\\\"고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마지막으로 \\\"우리는 지드래곤에 감사하다고 말하지 못했다. 지드래곤이 식당에서 우리보다 나중에 나왔기 때문이다\\\"라고 전했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬이 올린 게시물을 보면 출구 쪽에 지드래곤으로 추정되는 남성이 검은색 모자를 쓰고 앉아 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌들은 \\\"진짜 운이 좋은 것 같다\\\" \\\"나도 라멘 좋아하는데...\\\" \\\"지드래곤 진짜 멋있다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 지드래곤은 현재 전 세계 29개 도시를 순회하는 솔로 월드투어를 진행 중이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뉴욕서 옆 테이블 식사한 지드래곤이 팬에게 해 준 일",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

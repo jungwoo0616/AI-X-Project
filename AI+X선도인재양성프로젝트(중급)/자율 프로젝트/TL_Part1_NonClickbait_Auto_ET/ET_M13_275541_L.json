@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275541",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "백호, 오늘(15일) ‘BAEKATION’ 떠난다",
+		"newsSubTitle": "",
+		"newsContent": "가수 백호가 단독 오프라인 팬미팅으로 팬들과 만난다.\n백호는 15일부터 3일간 서울 광진구 예스24 라이브홀에서 BAEKHO FAN MEETING ‘BAEKATION’을 개최한다.\n이번 팬미팅은 백호가 약 2년 반 만에 단독으로 개최하는 것으로 오는 21일 백호의 생일을 앞두고 개최되는 행사다.\n팬미팅 명인 ‘BAEKATION’은 백호와 휴가(VACATION)를 합친 말로 팬들과 함께 여름 휴가를 보낸다는 메시지를 담았다.\n특히 백호는 팬미팅 개최를 앞두고 SNS를 통해 미공개 곡의 일부를 깜짝 공개하며 기대감을 한층 높였다.\n팬들과 오랜만에 대면하는 만큼 백호는 공연 준비에 매진했다는 후문. 백호가 팬들과 어떤 무대로 소통할지 궁금증이 더해진다.\n한편 BAEKHO FAN MEETING ‘BAEKAITON’은 오는 15~17일 서울 광진구 예스24 라이브홀에서 개최된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 백호가 단독 오프라인 팬미팅으로 팬들과 만난다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "백호는 15일부터 3일간 서울 광진구 예스24 라이브홀에서 BAEKHO FAN MEETING ‘BAEKATION’을 개최한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 팬미팅은 백호가 약 2년 반 만에 단독으로 개최하는 것으로 오는 21일 백호의 생일을 앞두고 개최되는 행사다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬미팅 명인 ‘BAEKATION’은 백호와 휴가(VACATION)를 합친 말로 팬들과 함께 여름 휴가를 보낸다는 메시지를 담았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 백호는 팬미팅 개최를 앞두고 SNS를 통해 미공개 곡의 일부를 깜짝 공개하며 기대감을 한층 높였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들과 오랜만에 대면하는 만큼 백호는 공연 준비에 매진했다는 후문. 백호가 팬들과 어떤 무대로 소통할지 궁금증이 더해진다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 BAEKHO FAN MEETING ‘BAEKAITON’은 오는 15~17일 서울 광진구 예스24 라이브홀에서 개최된다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백호, 오늘(15일) ‘BAEKATION’ 떠난다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

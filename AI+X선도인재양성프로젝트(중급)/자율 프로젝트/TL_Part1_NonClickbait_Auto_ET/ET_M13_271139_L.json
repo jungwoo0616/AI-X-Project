@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271139",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이하늬, D라인도 스타일리시하게[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 이하늬가 아름다운 D라인을 뽐냈다.\n이하늬는 24일 보그코리아와 함께한 만삭 화보를 공개했다.\n화보 속 이하늬는 크롭탑, 미니스커트, 찢어진 청바지, 비키니 등 기존 만삭 화보에선 상상할 수 없는 아이템들을 장착하며 임신한 여성의 아름다운 몸을 강조한다.\n이하늬는 “여성의 몸이 이토록 신비하다는 것을 보여주고 싶었다”며 “동시에 기존에 못 본 새로운 방식을 원했다. 어떤 역에 대한 고정적인 시선을 거두는 것부터 시작했다. 임신부도 원하는 옷을 입을 수 있고 섹시할 수 있다”고 했다.\n이어 “이미 임신으로 너무 많이 배웠다. 출산하면 더 성장할 것”이라며 “나 자신을 위해서도 하지 않던 일을 누군가를 위하는 마음으로 할 수 있다는 사실이 굉장히 놀랍다”고 했다.\n이하늬는 지난해 12월 비연예인 남성과 결혼했다. ‘스포츠경향’ 단독 보도로 임신 사실을 알린 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이하늬가 아름다운 D라인을 뽐냈다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이하늬는 24일 보그코리아와 함께한 만삭 화보를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화보 속 이하늬는 크롭탑, 미니스커트, 찢어진 청바지, 비키니 등 기존 만삭 화보에선 상상할 수 없는 아이템들을 장착하며 임신한 여성의 아름다운 몸을 강조한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이하늬는 “여성의 몸이 이토록 신비하다는 것을 보여주고 싶었다”며 “동시에 기존에 못 본 새로운 방식을 원했다. 어떤 역에 대한 고정적인 시선을 거두는 것부터 시작했다. 임신부도 원하는 옷을 입을 수 있고 섹시할 수 있다”고 했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “이미 임신으로 너무 많이 배웠다. 출산하면 더 성장할 것”이라며 “나 자신을 위해서도 하지 않던 일을 누군가를 위하는 마음으로 할 수 있다는 사실이 굉장히 놀랍다”고 했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이하늬는 지난해 12월 비연예인 남성과 결혼했다. ‘스포츠경향’ 단독 보도로 임신 사실을 알린 바 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이하늬, D라인도 스타일리시하게[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

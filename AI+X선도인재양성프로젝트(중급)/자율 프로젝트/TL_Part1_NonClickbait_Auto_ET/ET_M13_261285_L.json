@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261285",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "여자(아이들), 내달 컴백…5인 체제 후 첫 앨범[공식]",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 (여자)아이들이 오는 3월 새 앨범을 발매하고 컴백한다. 17일 큐브엔터테인먼트 관계자는 스포츠경향에 “(여자)아이들은 오는 3월 컴백을 목표로 준비 중이다”라고 전했다. (여자)아이들의 컴백은 2021년 1월 발매한 ‘화(火花)’ 이후 1년 2개월 만에 신보다.\n특히 이번 (여자)아이들의 컴백은 5인 체제가 된 이후 첫 컴백이라는 점에서 주목할 만하다.\n멤버 수진은 지난 2021년 학교폭력 가해자로 지목된 이후 그해 8월 팀을 탈퇴했다.\n이후 수진은 자신의 의혹은 허위라고 주장한 가운데 이에 대한 경찰 조사도 완전히 매듭을 짓지 못했다. (여자)아이들은 1년 2개월의 공백기 동안 음악 작업은 물론이고 다양한 개인 활동으로 역량을 키웠다.\n소연은 지난해 7월 솔로 앨범 ‘윈디’를 내고 활동하고 현재는 MBC ‘방과후설렘’에 출연하며 현실적이면서도 진심 어린 조언으로 주목받고 있다.\n또 멤버 민니와 우기는 공백기 동안 자신의 나라로 돌아가 개인 활동을 펼친 후 돌아왔다. (여자)아이들이 이번 3월 새 앨범을 통해 긴 공백기를 어떻게 채울지 주목된다.\n또 5인 체제 이후의 (여자)아이들에게도 큰 관심이 쏠릴 것으로 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 (여자)아이들이 오는 3월 새 앨범을 발매하고 컴백한다. 17일 큐브엔터테인먼트 관계자는 스포츠경향에 “(여자)아이들은 오는 3월 컴백을 목표로 준비 중이다”라고 전했다. (여자)아이들의 컴백은 2021년 1월 발매한 ‘화(火花)’ 이후 1년 2개월 만에 신보다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특히 이번 (여자)아이들의 컴백은 5인 체제가 된 이후 첫 컴백이라는 점에서 주목할 만하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "멤버 수진은 지난 2021년 학교폭력 가해자로 지목된 이후 그해 8월 팀을 탈퇴했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 수진은 자신의 의혹은 허위라고 주장한 가운데 이에 대한 경찰 조사도 완전히 매듭을 짓지 못했다. (여자)아이들은 1년 2개월의 공백기 동안 음악 작업은 물론이고 다양한 개인 활동으로 역량을 키웠다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소연은 지난해 7월 솔로 앨범 ‘윈디’를 내고 활동하고 현재는 MBC ‘방과후설렘’에 출연하며 현실적이면서도 진심 어린 조언으로 주목받고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 멤버 민니와 우기는 공백기 동안 자신의 나라로 돌아가 개인 활동을 펼친 후 돌아왔다. (여자)아이들이 이번 3월 새 앨범을 통해 긴 공백기를 어떻게 채울지 주목된다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 5인 체제 이후의 (여자)아이들에게도 큰 관심이 쏠릴 것으로 예상된다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "여자(아이들), 내달 컴백…5인 체제 후 첫 앨범[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

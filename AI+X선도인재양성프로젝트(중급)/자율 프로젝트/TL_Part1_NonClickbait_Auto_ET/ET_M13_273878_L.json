@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273878",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장성규, 뮤지컬 1세대 입장 지지 “응원한다”",
+		"newsSubTitle": "",
+		"newsContent": "아나운서 출신 방송인 장성규가 뮤지컬 배우 김소현을 지지했다.\n23일 장성규는 김소현의 사회관계망서비스(SNS) 인스타그램 게시물에 “응원합니다”라는 댓글로 김소현에 힘을 더했다.\n김소현이 게시한 글은 뮤지컬 1세대인 남경주, 최정원, 박칼린의 입장문으로, 세 사람은 최근 파장되고 있는 뮤지컬계의 고소 사건에 대한 비탄의 마음을 느낀다며 배우, 스태프, 제작사의 직업의식과 이에 대한 자정노력을 촉구했다.\n앞서 지난 14일 뮤지컬 배우 김호영은 사회관계망서비스(SNS)에 사진 한 장과 “아사리판은 옛말이다. 지금은 옥장판”이라는 글을 올렸다.\n이에 일부 누리꾼들은 함께 공개된 사진에 공연장 이모지가 들어 있다는 점과 뮤지컬 ‘엘리자벳’ 출연진 공개 후 게재된 글이라는 점에서 캐스팅 저격이 아니냐는 의혹을 제기했다.\n논란이 커지자 옥주현은 김호영 및 누리꾼들에 명예훼손 혐의 고소장을 제출했다고 밝혔으며 김호영 측은 이에 김호영 배우에게 피해가 발생할 경우 명예훼손으로 강경 대응할 예정이라고 맞대응을 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아나운서 출신 방송인 장성규가 뮤지컬 배우 김소현을 지지했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 장성규는 김소현의 사회관계망서비스(SNS) 인스타그램 게시물에 “응원합니다”라는 댓글로 김소현에 힘을 더했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김소현이 게시한 글은 뮤지컬 1세대인 남경주, 최정원, 박칼린의 입장문으로, 세 사람은 최근 파장되고 있는 뮤지컬계의 고소 사건에 대한 비탄의 마음을 느낀다며 배우, 스태프, 제작사의 직업의식과 이에 대한 자정노력을 촉구했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 지난 14일 뮤지컬 배우 김호영은 사회관계망서비스(SNS)에 사진 한 장과 “아사리판은 옛말이다. 지금은 옥장판”이라는 글을 올렸다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 일부 누리꾼들은 함께 공개된 사진에 공연장 이모지가 들어 있다는 점과 뮤지컬 ‘엘리자벳’ 출연진 공개 후 게재된 글이라는 점에서 캐스팅 저격이 아니냐는 의혹을 제기했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "논란이 커지자 옥주현은 김호영 및 누리꾼들에 명예훼손 혐의 고소장을 제출했다고 밝혔으며 김호영 측은 이에 김호영 배우에게 피해가 발생할 경우 명예훼손으로 강경 대응할 예정이라고 맞대응을 예고했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장성규, 뮤지컬 1세대 입장 지지 “응원한다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

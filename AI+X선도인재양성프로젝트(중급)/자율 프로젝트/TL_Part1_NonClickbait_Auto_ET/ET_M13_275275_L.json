@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275275",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "DKZ, 브라질도 홀렸다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 DKZ(경윤, 종형, 재찬, 민규, 기석, 세현)가 브라질도 홀렸다.\nDKZ는 지난 9일과 10일(현지시간) 브라질 상파울루에서 개최된 브라질 최대 규모 한류 문화축제인 ‘K-엑스포 2022’ 무대에 서 관객들의 환호를 받았다.\n이날 DKZ는 브라질 전역에서 찾아온 1만여 명 한류 팬들과 직접적으로 소통을 하는가 하면, 무한한 팬사랑을 보여주며 즐거운 시간을 가졌다.\n특히 DKZ는 ‘뤼팽(LUPIN)’을 비롯해 ‘유니버스(Universe)’, ‘못된 송아지 엉덩이에 뿔(CRAZY NIGHT)’, 신곡 ‘사랑도둑(Cupid)’ 등 다채로운 음악으로 무대를 채웠고, 현지 팬들이 한국어로 떼창을 하며 이들의 인기를 실감케했다.\n이뿐만 아니라 브라질 내 인기곡인 ‘AI SE EU TE PEGO’ 커버 무대까지 준비, 현장을 찾은 팬들과 하나가 됐다.\n팬들과 특별한 시간을 보낸 DKZ는 앞으로도 활발한 활동을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 DKZ(경윤, 종형, 재찬, 민규, 기석, 세현)가 브라질도 홀렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "DKZ는 지난 9일과 10일(현지시간) 브라질 상파울루에서 개최된 브라질 최대 규모 한류 문화축제인 ‘K-엑스포 2022’ 무대에 서 관객들의 환호를 받았다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 DKZ는 브라질 전역에서 찾아온 1만여 명 한류 팬들과 직접적으로 소통을 하는가 하면, 무한한 팬사랑을 보여주며 즐거운 시간을 가졌다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 DKZ는 ‘뤼팽(LUPIN)’을 비롯해 ‘유니버스(Universe)’, ‘못된 송아지 엉덩이에 뿔(CRAZY NIGHT)’, 신곡 ‘사랑도둑(Cupid)’ 등 다채로운 음악으로 무대를 채웠고, 현지 팬들이 한국어로 떼창을 하며 이들의 인기를 실감케했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이뿐만 아니라 브라질 내 인기곡인 ‘AI SE EU TE PEGO’ 커버 무대까지 준비, 현장을 찾은 팬들과 하나가 됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들과 특별한 시간을 보낸 DKZ는 앞으로도 활발한 활동을 이어갈 예정이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DKZ, 브라질도 홀렸다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

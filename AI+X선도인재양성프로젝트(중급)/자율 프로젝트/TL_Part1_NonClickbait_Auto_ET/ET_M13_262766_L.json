@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262766",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "명품 행사장에서 만난 고소영 “미모가 열일”",
+		"newsSubTitle": "",
+		"newsContent": "배우 고소영이 50대라고는 믿어지지 않는 명품 각선미를 뽐냈다.\n고소영은 3일 오후 자신의 SNS 인스타그램에 한 명품 브랜드의 2022 겨울 컬렉션 행사장에서 찍은 사진을 공개했다.\n사진 속 고소영은 화사한 연두색 니트에 미니스커트를 입고 포즈를 취했다.\n50대 나이가 믿기지 않는 늘씬한 각선미와 동안 피부를 자랑했다.\n가수 아이비는 “우앙 세젤예(세상에서 제일 예쁘다)”라며 감탄 댓글을 남겼다.\n누리꾼들은 “아름다움 최고치” “오늘도 미모 열일” “안 어울리는 컬러가 없네” “방송에 좀 나와주세요” 등의 반응을 보였다.\n고소영은 과거 한 예능에서 “매일 하루 세 번 체중계예 올라 몸무게를 측정한다”면서 “1kg 이라도 늘어있으면 바로 관리에 들어간다”는 몸매 비결을 밝힌바 있다.\n한편 고소영은 지난 2010년 동료 배우 장동건과 결혼해 슬하에 1남 1녀를 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 고소영이 50대라고는 믿어지지 않는 명품 각선미를 뽐냈다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고소영은 3일 오후 자신의 SNS 인스타그램에 한 명품 브랜드의 2022 겨울 컬렉션 행사장에서 찍은 사진을 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 고소영은 화사한 연두색 니트에 미니스커트를 입고 포즈를 취했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "50대 나이가 믿기지 않는 늘씬한 각선미와 동안 피부를 자랑했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가수 아이비는 “우앙 세젤예(세상에서 제일 예쁘다)”라며 감탄 댓글을 남겼다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 “아름다움 최고치” “오늘도 미모 열일” “안 어울리는 컬러가 없네” “방송에 좀 나와주세요” 등의 반응을 보였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고소영은 과거 한 예능에서 “매일 하루 세 번 체중계예 올라 몸무게를 측정한다”면서 “1kg 이라도 늘어있으면 바로 관리에 들어간다”는 몸매 비결을 밝힌바 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 고소영은 지난 2010년 동료 배우 장동건과 결혼해 슬하에 1남 1녀를 두고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "명품 행사장에서 만난 고소영 “미모가 열일”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

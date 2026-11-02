@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274720",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "돈 스파이크 “이럴거면 티켓 팔지마라”…항공사 비판",
+		"newsSubTitle": "",
+		"newsContent": "돈 스파이크가 수화물이 도착하지 않았는데도 고객 응대를 하지 않는 모 항공사에 분노했다.\n그는 5일 SNS에 자신의 통화 목록을 공개했다.\n공개된 사진에는 10통 이상의 통화가 취소된 모습이 담겨있다.\n돈 스파이크는 “이렇게 전화 한 통 안 받고, 나 몰라라 할 거면 티켓을 팔지를 말라”며 “50만 원 넘게 하는 비즈니스 (좌석) 티켓 팔고 하는 짓을 봐라”라는 글과 해당 항공사를 태그했다.\n돈 스파이크가 이렇게 분노하는 이유는 수화물 미도착 건에 대한 항공사의 대응이 미흡했기 때문이다.\n앞서 그는 최근 아내와 발리로 신혼여행을 떠났다.\n그러나 신혼의 행복은 오래가지 못했다.\n짐이 도착하지 않아 양말 한 짝도 없는 여행이 됐기 때문이다.\n돈 스파이크는 항공사 측에서 답변을 전혀 듣지 못한 것으로 전해졌다.\n돈 스파이크는 지난 3일 SNS를 통해 “항공사 분들, 제 러기지(수화물)가 안 왔다. 양말 한 짝도 없는 신혼여행”이라며 “혈압약도 없고, 제발”이라고 호소했다.\n이어 “전화라도 좀 받아주지. 너무한다”고 불만을 표출했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "돈 스파이크가 수화물이 도착하지 않았는데도 고객 응대를 하지 않는 모 항공사에 분노했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 5일 SNS에 자신의 통화 목록을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 10통 이상의 통화가 취소된 모습이 담겨있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "돈 스파이크는 “이렇게 전화 한 통 안 받고, 나 몰라라 할 거면 티켓을 팔지를 말라”며 “50만 원 넘게 하는 비즈니스 (좌석) 티켓 팔고 하는 짓을 봐라”라는 글과 해당 항공사를 태그했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "돈 스파이크가 이렇게 분노하는 이유는 수화물 미도착 건에 대한 항공사의 대응이 미흡했기 때문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 그는 최근 아내와 발리로 신혼여행을 떠났다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 신혼의 행복은 오래가지 못했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "짐이 도착하지 않아 양말 한 짝도 없는 여행이 됐기 때문이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "돈 스파이크는 항공사 측에서 답변을 전혀 듣지 못한 것으로 전해졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "돈 스파이크는 지난 3일 SNS를 통해 “항공사 분들, 제 러기지(수화물)가 안 왔다. 양말 한 짝도 없는 신혼여행”이라며 “혈압약도 없고, 제발”이라고 호소했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이어 “전화라도 좀 받아주지. 너무한다”고 불만을 표출했다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "돈 스파이크 “이럴거면 티켓 팔지마라”…항공사 비판",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

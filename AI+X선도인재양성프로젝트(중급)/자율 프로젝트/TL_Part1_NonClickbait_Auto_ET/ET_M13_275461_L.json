@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275461",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "NCT 재현 “이제는 책임감을 느낀다”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 NCT의 재현이 팬들에 대한 사랑을 보였다.\n14일 ‘엘르’는 재현의 화보와 인터뷰를 공개했다.\n재현은 오사카부터 싱가포르를 거치며 월드 투어에 한창이다.\n그는 “무대를 하나씩 완성해가며 노래하고 춤추길 잘했다는 생각을 다시금 하게 된다”라고 애정을 드러냈다.\n최근 NCT127의 괄목할 성과들에 관해서도 “예전에는 뭔가 제대로 증명하고 보여줘야 한다는 자세를 취했다면, 이제는 큰 사랑을 받는 것에 대한 일종의 책임감을 느낀다. 보답해야 한다는 마음이 점점 더 커진다” 라며 팬들에 대한 고마움을 드러냈다.\n재현은 아티스트로서, 패션 아이콘으로서의 앞으로에 관해 “평소와 똑같이 연습하고 고민하고. 일에 대한 자세나 목표의식도 같지만, 눈앞에 놓인 무언가가 조금씩 더 분명해진다는 느낌이 든다. 아직 갈 길이 멀지만, 분명 조금씩 잘 해나가고 있다고 스스로 얘기해주고 싶다”라고 전했다.\n한편 재현이 속한 그룹 NCT는 오는 8월 20일 수원 월드컵 경기장에서 콘서트 ‘SMTOWN LIVE 2022’에 출연할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 NCT의 재현이 팬들에 대한 사랑을 보였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 ‘엘르’는 재현의 화보와 인터뷰를 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "재현은 오사카부터 싱가포르를 거치며 월드 투어에 한창이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “무대를 하나씩 완성해가며 노래하고 춤추길 잘했다는 생각을 다시금 하게 된다”라고 애정을 드러냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 NCT127의 괄목할 성과들에 관해서도 “예전에는 뭔가 제대로 증명하고 보여줘야 한다는 자세를 취했다면, 이제는 큰 사랑을 받는 것에 대한 일종의 책임감을 느낀다. 보답해야 한다는 마음이 점점 더 커진다” 라며 팬들에 대한 고마움을 드러냈다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "재현은 아티스트로서, 패션 아이콘으로서의 앞으로에 관해 “평소와 똑같이 연습하고 고민하고. 일에 대한 자세나 목표의식도 같지만, 눈앞에 놓인 무언가가 조금씩 더 분명해진다는 느낌이 든다. 아직 갈 길이 멀지만, 분명 조금씩 잘 해나가고 있다고 스스로 얘기해주고 싶다”라고 전했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 재현이 속한 그룹 NCT는 오는 8월 20일 수원 월드컵 경기장에서 콘서트 ‘SMTOWN LIVE 2022’에 출연할 예정이다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "NCT 재현 “이제는 책임감을 느낀다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

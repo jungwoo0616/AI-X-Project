@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275040",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "공유-손흥민, 뜻밖의 친분 공개",
+		"newsSubTitle": "",
+		"newsContent": "배우 공유가 축구선수 손흥민과의 친분을 공개했다.\n공유는 8일 자신의 사회관계망서비스(SNS) 인스타그램에 “늘 건강하길 바람!”이라는 글과 함께 사진 한 장을 공개했다.\n사진 속 공유는 손흥민의 집으로 보이는 곳에서 그가 2021/2022 시즌 EPL 득점왕을 하며 받은 골드부츠 트로피를 들고 웃고 있다.\n공유의 편안한 옷차림이 시선을 끈다.\n해당 게시물을 본 누리꾼들은 “손흥민 집에 간 건가” “공유와 손흥민이라니 소원이 이루어졌다”라며 놀라워했으며 “건강이 최고” “싸이 앨범이 눈에 띈다” “요새 근황을 자주 공개해서 반갑다” 등 다양한 반응을 보였다.\n한편 공유는 박보검, 수지, 정유미, 최우식, 탕웨이 등이 함께 출연하는 영화 ‘원더랜드’ 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 공유가 축구선수 손흥민과의 친분을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공유는 8일 자신의 사회관계망서비스(SNS) 인스타그램에 “늘 건강하길 바람!”이라는 글과 함께 사진 한 장을 공개했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 공유는 손흥민의 집으로 보이는 곳에서 그가 2021/2022 시즌 EPL 득점왕을 하며 받은 골드부츠 트로피를 들고 웃고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공유의 편안한 옷차림이 시선을 끈다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물을 본 누리꾼들은 “손흥민 집에 간 건가” “공유와 손흥민이라니 소원이 이루어졌다”라며 놀라워했으며 “건강이 최고” “싸이 앨범이 눈에 띈다” “요새 근황을 자주 공개해서 반갑다” 등 다양한 반응을 보였다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 공유는 박보검, 수지, 정유미, 최우식, 탕웨이 등이 함께 출연하는 영화 ‘원더랜드’ 개봉을 앞두고 있다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공유-손흥민, 뜻밖의 친분 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

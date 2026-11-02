@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267435",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘가왕’ 조용필, 9년만에 돌아온다",
+		"newsSubTitle": "",
+		"newsContent": "‘가왕’ 조용필이 새 앨범을 준비 중인 것으로 전해졌다.\nYTNStar에 따르면 조용필은 연내 새 앨범 발매를 목표로 올해 초부터 본격적인 준비 작업에 돌입했다.\n조용필은 여러 작곡가와 접촉해 장르에 제한되지 않고 다양한 시도를 계획하고 있다.\n조용필이 이번 년도 내 앨범을 발매할 경우 무려 9년 만의 복귀다.\n조용필은 지난 2013년 4월 정규 앨범 ‘헬로’(Hello) 발매 이후 별다른 활동을 하지 않았다.\n타이틀 곡 ‘바운스’(Bounce)는 싸이 ‘강남스타일’에 이어 그해 한국대중음음악상 올해의 노래로 선정되며 명성을 이어나갔다.\n원조 가왕의 복귀 소식인 만큼 조용필의 앨범 발매는 가요계에도 상당한 영향을 끼칠 것으로 보인다.\n조용필은 지난 앨범 ‘헬로’에서도 팝 록, 일터너티브 록, 일렉트로닉 뮤직 등 다채로운 장르를 오가며 후배 가수들에게 귀감을 안겼다.\n조용필이 이번 앨범에서 어떠한 시도로 대중성과 다양성을 사로잡을 지 관심이 쏠리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘가왕’ 조용필이 새 앨범을 준비 중인 것으로 전해졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YTNStar에 따르면 조용필은 연내 새 앨범 발매를 목표로 올해 초부터 본격적인 준비 작업에 돌입했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조용필은 여러 작곡가와 접촉해 장르에 제한되지 않고 다양한 시도를 계획하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조용필이 이번 년도 내 앨범을 발매할 경우 무려 9년 만의 복귀다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조용필은 지난 2013년 4월 정규 앨범 ‘헬로’(Hello) 발매 이후 별다른 활동을 하지 않았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이틀 곡 ‘바운스’(Bounce)는 싸이 ‘강남스타일’에 이어 그해 한국대중음음악상 올해의 노래로 선정되며 명성을 이어나갔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "원조 가왕의 복귀 소식인 만큼 조용필의 앨범 발매는 가요계에도 상당한 영향을 끼칠 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조용필은 지난 앨범 ‘헬로’에서도 팝 록, 일터너티브 록, 일렉트로닉 뮤직 등 다채로운 장르를 오가며 후배 가수들에게 귀감을 안겼다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "조용필이 이번 앨범에서 어떠한 시도로 대중성과 다양성을 사로잡을 지 관심이 쏠리고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘가왕’ 조용필, 9년만에 돌아온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

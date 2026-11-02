@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276385",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "이해할 수 없던 아빠, 이젠 내 영웅이예요",
+		"newsSubTitle": "[매거진M] '안녕 히어로' 영화 리뷰",
+		"newsContent": "감독 한영희 | 장르 다큐멘터리 | 상영 시간 109분 | 등급 12세 관람가 ★★★ [매거진M] 현우의 아버지 정운은 7년째 쌍용자동차 해고 노동자 복직 투쟁을 하고 있다.\n그 사이 현우는 아버지가 감옥에 가는 모습을, 국회의원 선거 유세를위해 멋지게 연설하는 모습도 보았다.\n사랑하지만 답답하고 이해할 수 없던 아버지를 영웅이라 부르기까지. 이 작품은 현우가 아버지를 이해하게 되는 과정을 충실히 담는다.\n부조리한 세상과 끝끝내 이에 맞서는 아버지라니.\n모든 상황이 10대 현우에겐 조금 버거워 보인다.\n일찍 철든 현우가 담담하게 근심과 소망, 가족을 보살피려는 착한 속내를 털어놓는 모습에 마음이 미어진다.\n투쟁과 저항의 이면에 있는 가장 보편적인 가족이라는 가치. 발상의 전환이 돋보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "감독 한영희 | 장르 다큐멘터리 | 상영 시간 109분 | 등급 12세 관람가 ★★★ [매거진M] 현우의 아버지 정운은 7년째 쌍용자동차 해고 노동자 복직 투쟁을 하고 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그 사이 현우는 아버지가 감옥에 가는 모습을, 국회의원 선거 유세를위해 멋지게 연설하는 모습도 보았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사랑하지만 답답하고 이해할 수 없던 아버지를 영웅이라 부르기까지. 이 작품은 현우가 아버지를 이해하게 되는 과정을 충실히 담는다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부조리한 세상과 끝끝내 이에 맞서는 아버지라니.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모든 상황이 10대 현우에겐 조금 버거워 보인다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일찍 철든 현우가 담담하게 근심과 소망, 가족을 보살피려는 착한 속내를 털어놓는 모습에 마음이 미어진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "투쟁과 저항의 이면에 있는 가장 보편적인 가족이라는 가치. 발상의 전환이 돋보인다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이해할 수 없던 아빠, 이젠 내 영웅이예요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

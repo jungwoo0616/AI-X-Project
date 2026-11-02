@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168773",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'그놈이다' 이유영, 과거 노출 연기…몸매가",
+    "newsSubTitle": "",
+    "newsContent": "'그놈이다' 영화 ‘그놈이다’에 관심이 뜨거운 가운데 ‘그놈이다’에 출연한 이유영의 몸매가 화제다. ‘그놈이다’이유영은 과거 출연한 영화 ‘봄’에서 파격적인 노출을 선보였다.\n공개된 사진 속 이유영은 매혹적인 눈빛과 글래머스러운 몸매로 보는 이들의 시선을 끈다.\n또 이유영은 지난 5월 개봉한 영화 '간신'에서 조선 최고의 명기 설중매 역으로 출연했다.\n영화 속에서 이유영은 연산군(김강우 분)의 서로를 탐하라는 명에 단희(임지연 분)와 리얼한 동성 베드신 연기를 펼쳤다.\n이유영은 노출 연기에 대해 \\\"캐릭터를 보고 해낼 수 있었다\\\"며 \\\"캐릭터에 몰입해 연기할 수 있었다\\\"고 밝혔다.\n한편 이유영이 출연한 영화 ‘그놈이다’가 개봉 첫날 예매율 1위를 기록하고 있다. '그놈이다'는 여동생을 잃은 남자가 죽음을 예견하는 소녀의 도움으로 끈질기게 범인을 쫓는 이야기를 그린 영화다.\n온라인 중앙일보 '그놈이다'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'그놈이다' 영화 ‘그놈이다’에 관심이 뜨거운 가운데 ‘그놈이다’에 출연한 이유영의 몸매가 화제다. ‘그놈이다’이유영은 과거 출연한 영화 ‘봄’에서 파격적인 노출을 선보였다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공개된 사진 속 이유영은 매혹적인 눈빛과 글래머스러운 몸매로 보는 이들의 시선을 끈다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 이유영은 지난 5월 개봉한 영화 '간신'에서 조선 최고의 명기 설중매 역으로 출연했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영화 속에서 이유영은 연산군(김강우 분)의 서로를 탐하라는 명에 단희(임지연 분)와 리얼한 동성 베드신 연기를 펼쳤다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이유영은 노출 연기에 대해 \\\"캐릭터를 보고 해낼 수 있었다\\\"며 \\\"캐릭터에 몰입해 연기할 수 있었다\\\"고 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이유영이 출연한 영화 ‘그놈이다’가 개봉 첫날 예매율 1위를 기록하고 있다. '그놈이다'는 여동생을 잃은 남자가 죽음을 예견하는 소녀의 도움으로 끈질기게 범인을 쫓는 이야기를 그린 영화다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 '그놈이다'",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'그놈이다' 이유영, 글래머 몸매 공개... 동성 베드신 연기도 가능?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

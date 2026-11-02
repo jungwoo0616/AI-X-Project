@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276962",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "전원책, “트럼프가 北 때릴 것 같지 않아요?” 질문에 목욕탕서 정치토론",
+		"newsSubTitle": "“답변을 안 할 수가 없어서 탕 속에 앉아 ‘명분이 있어야 하지 않겠느냐’고 대답”",
+		"newsContent": "전원책 변호사가 공중목욕탕에서 한 시민과 알몸으로 정치토론 한 사연을 털어놨다.\n13일 오후 방송된 JTBC ‘썰전’에서는 최근 SNS 등을 통해 급속히 퍼지고 있는 북한 핵ㆍ미사일 문제를 둘러싼 ‘한반도 4월 위기설’에 대해 이야기를 나눴다.\n이날 전 변호사는 “어제 내가 공중목욕탕에 갔는데, 젊은 친구가 내 등을 때리며 반갑습니다라고 인사를 하면서 ‘트럼프가 북한 때릴 것 같지 않아요?’라고 물어보더라”며 목욕탕에서 정치토론을 했다고 털어놨다.\n그는 “답변을 안 할 수가 없어서 탕 속에 앉아 ‘명분이 있어야 하지 않겠느냐’고 대답했다. 그런데 계속 따라와서 질문을 하더라”고 회상하며, 알몸으로 대답해야 했던 당시 상황을 설명했다.\n이어 “제발 부탁인데 등짝은 안 때렸으면 좋겠다”고 말해 주변을 웃음 짓게 했다.\n그러자 유시민 작가 역시 “나는 어쩌다 공중목욕탕에 가게 되면, 얼른 거품을 내서 제일 구석에 있는 기둥 뒤로 간다”고 고백했다.\n도널드 트럼프 미국 대통령은 지난 11일 트위터에 “북한이 말썽이다. 중국이 돕는다면 좋은 일이다. 그러나 돕지 않는다면 우리가 단독으로 해결하겠다”며 독자 행동에 대한 강경한 입장을 피력했다.\n같은 날 숀 스파이서 미 백악관 대변인도 북한을 공습할 것이냐는 질문에 “대통령은 행동할 준비가 돼 있고, 필요하다면 행동을 할 것”이라고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전원책 변호사가 공중목욕탕에서 한 시민과 알몸으로 정치토론 한 사연을 털어놨다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 오후 방송된 JTBC ‘썰전’에서는 최근 SNS 등을 통해 급속히 퍼지고 있는 북한 핵ㆍ미사일 문제를 둘러싼 ‘한반도 4월 위기설’에 대해 이야기를 나눴다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 전 변호사는 “어제 내가 공중목욕탕에 갔는데, 젊은 친구가 내 등을 때리며 반갑습니다라고 인사를 하면서 ‘트럼프가 북한 때릴 것 같지 않아요?’라고 물어보더라”며 목욕탕에서 정치토론을 했다고 털어놨다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “답변을 안 할 수가 없어서 탕 속에 앉아 ‘명분이 있어야 하지 않겠느냐’고 대답했다. 그런데 계속 따라와서 질문을 하더라”고 회상하며, 알몸으로 대답해야 했던 당시 상황을 설명했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “제발 부탁인데 등짝은 안 때렸으면 좋겠다”고 말해 주변을 웃음 짓게 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러자 유시민 작가 역시 “나는 어쩌다 공중목욕탕에 가게 되면, 얼른 거품을 내서 제일 구석에 있는 기둥 뒤로 간다”고 고백했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "도널드 트럼프 미국 대통령은 지난 11일 트위터에 “북한이 말썽이다. 중국이 돕는다면 좋은 일이다. 그러나 돕지 않는다면 우리가 단독으로 해결하겠다”며 독자 행동에 대한 강경한 입장을 피력했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "같은 날 숀 스파이서 미 백악관 대변인도 북한을 공습할 것이냐는 질문에 “대통령은 행동할 준비가 돼 있고, 필요하다면 행동을 할 것”이라고 밝힌 바 있다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전원책, “트럼프가 北 때릴 것 같지 않아요?” 질문에 목욕탕서 정치토론",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

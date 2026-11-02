@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278999",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이경실 남편, 성추행 혐의로 실형 선고…징역 10월",
+		"newsSubTitle": "",
+		"newsContent": "자신의 차에서 지인의 아내를 강제추행한 혐의를 받은 이경실의 남편 최모(59)씨가 실형을 선고받고 법정구속됐다.\n서울서부지법 형사9단독 이광우 판사는 4일 강제추행 혐의로 기소된 최모씨에게 징역 10월을 선고하고 성폭력프로그램 40시간 이수명령을 내렸다.\n다만 최씨가 종전에 성폭력범죄로 처벌받은 적이 없는 점을 고려해 신상정보는 등록만 하고 공개하지는 않기로 했다.\n최 씨는 지난해 8월 지인의 아내를 집에 데려다주겠다며 자신의 차에 태운 뒤 강제추행한 혐의로 불구속 기소됐다.\n재판부에 따르면 최씨는 사건이 불거지자 A씨에게 새벽에 전화를 걸어 욕설하는가 하면 A씨 남편에게도 욕설과 함께 \\\"자식을 생각하라\\\"는 취지의 협박 문자메시지를 보내기도 했다.\n재판부는 \\\"10여년간 알고 지낸 지인의 배우자를 심야에 달리는 승용차 안에서 추행해 죄질이 무거움에도 수사와 재판 과정에서 피해자를 부도덕한 사람으로 매도하는 등 2차 피해를 가했다\\\"고 양형 이유를 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자신의 차에서 지인의 아내를 강제추행한 혐의를 받은 이경실의 남편 최모(59)씨가 실형을 선고받고 법정구속됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울서부지법 형사9단독 이광우 판사는 4일 강제추행 혐의로 기소된 최모씨에게 징역 10월을 선고하고 성폭력프로그램 40시간 이수명령을 내렸다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다만 최씨가 종전에 성폭력범죄로 처벌받은 적이 없는 점을 고려해 신상정보는 등록만 하고 공개하지는 않기로 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최 씨는 지난해 8월 지인의 아내를 집에 데려다주겠다며 자신의 차에 태운 뒤 강제추행한 혐의로 불구속 기소됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "재판부에 따르면 최씨는 사건이 불거지자 A씨에게 새벽에 전화를 걸어 욕설하는가 하면 A씨 남편에게도 욕설과 함께 \\\"자식을 생각하라\\\"는 취지의 협박 문자메시지를 보내기도 했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "재판부는 \\\"10여년간 알고 지낸 지인의 배우자를 심야에 달리는 승용차 안에서 추행해 죄질이 무거움에도 수사와 재판 과정에서 피해자를 부도덕한 사람으로 매도하는 등 2차 피해를 가했다\\\"고 양형 이유를 밝혔다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이경실 남편, 성추행 혐의로 실형 선고…징역 10월",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171251",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘김구라 아들’ 그리, 23살 차 동생 탄생 소감 “축하해줘서 감사”",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 그리(본명 김동현)가 늦둥이 동생의 탄생을 축하하는 사람들에게 감사의 인사를 전했다.\n그리는 27일 자신의 인스타그램에 “동생의 탄생을 축하해 주셔서 감사합니다”라는 짧은 글이 담긴 사진을 게재했다.\n앞서 그리의 아버지이자 방송인 김구라는 지난 24일 그리와 함께 운영 중인 유튜브 채널 ‘그리구라’를 통해 늦둥이 출산 소식을 전했다.\n당시 김구라는 “아이가 일찍 나왔다. 두 달을 인큐베이터에 있었다. 그 상황에서 얘기하는 게 좀 아닌 것 같았다. 아내가 나보다 12살 어리지만 마흔 가까이 됐기 때문에 조심했다”고 둘째 소식을 늦게 알린 이유에 대해 설명했다.\n이어 그는 “동현이도 축하해 줬다. 그러나 동현이에게 ‘23세 어린 동생 생긴 그리’라는 수식어가 생기게 되면, 동현이 입장에서는 부담될 수 있겠다는 생각이 든다”고 아들 그리를 걱정한 바 있다.\n한편 김구라는 2015년 이혼했으며 12살 연하 A씨를 만나 지난해 혼인신고를 했다.\n이후 약 1년여가 지난 23일 출산 소식을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 그리(본명 김동현)가 늦둥이 동생의 탄생을 축하하는 사람들에게 감사의 인사를 전했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그리는 27일 자신의 인스타그램에 “동생의 탄생을 축하해 주셔서 감사합니다”라는 짧은 글이 담긴 사진을 게재했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 그리의 아버지이자 방송인 김구라는 지난 24일 그리와 함께 운영 중인 유튜브 채널 ‘그리구라’를 통해 늦둥이 출산 소식을 전했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 김구라는 “아이가 일찍 나왔다. 두 달을 인큐베이터에 있었다. 그 상황에서 얘기하는 게 좀 아닌 것 같았다. 아내가 나보다 12살 어리지만 마흔 가까이 됐기 때문에 조심했다”고 둘째 소식을 늦게 알린 이유에 대해 설명했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 그는 “동현이도 축하해 줬다. 그러나 동현이에게 ‘23세 어린 동생 생긴 그리’라는 수식어가 생기게 되면, 동현이 입장에서는 부담될 수 있겠다는 생각이 든다”고 아들 그리를 걱정한 바 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김구라는 2015년 이혼했으며 12살 연하 A씨를 만나 지난해 혼인신고를 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 약 1년여가 지난 23일 출산 소식을 전했다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김구라 아들 래퍼 그리 늦둥이 동생 탄생! 나이 차가 무려...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

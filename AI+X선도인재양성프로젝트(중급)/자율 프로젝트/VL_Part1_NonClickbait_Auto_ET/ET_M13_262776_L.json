@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262776",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘한화이글스 클럽하우스’ 지금껏 본 적 없는 리얼 야구 이야기",
+		"newsSubTitle": "",
+		"newsContent": "왓챠 오리지널 다큐멘터리 ‘한화이글스: 클럽하우스’가 오는 3월 24일(목) 공개를 확정한 가운데, 티저 포스터와 보도스틸을 공개한다.\n리빌딩 첫해를 맞이한 프로야구단 한화이글스 프론트와 선수단의 변화, 그리고 성장스토리를 담은 다큐멘터리 ‘한화이글스: 클럽하우스’에 기대감이 모이고 있다.\n먼저 공개된 티저 포스터는 클럽하우스를 걸어가는 카를로스 수베로 감독의 뒷모습이 눈길을 끈다. ‘이게 우리의 길(THIS IS OUR WAY)’이라는 캐치프레이즈 아래 리빌딩을 선언하며 파격적인 실험을 시도하지만 2021년 한화이글스의 도전은 여의치 않다.\n그럼에도 불구하고 목표를 향해 묵묵하게 걸어가는 수베로 감독의 모습은 새로운 변화를 만들어갈 한화이글스의 의지를 느끼게 한다.\n여기에 “지금까지 본 적 없는 리얼 야구” 카피는 경기장 안팎에서 벌어지는 다채로운 에피소드가 공개될 것을 암시하며 기대감을 높인다.\n화려한 스포트라이트를 받는 경기장의 모습부터 클럽하우스의 비하인드까지 총 6개의 에피소드로 제작된 왓챠 오리지널 다큐멘터리 ‘한화이글스: 클럽하우스’는 오는 3월 24일(목) 1·2·3부가 먼저 공개되고, 3월 31일(목) 4·5·6부가 공개될 예정이다.\n※클럽하우스란? 야구 경기 전에 선수들이 유니폼을 정비하고 감독과 선수 간에 미팅이 일어나는 장소",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "왓챠 오리지널 다큐멘터리 ‘한화이글스: 클럽하우스’가 오는 3월 24일(목) 공개를 확정한 가운데, 티저 포스터와 보도스틸을 공개한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "리빌딩 첫해를 맞이한 프로야구단 한화이글스 프론트와 선수단의 변화, 그리고 성장스토리를 담은 다큐멘터리 ‘한화이글스: 클럽하우스’에 기대감이 모이고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "먼저 공개된 티저 포스터는 클럽하우스를 걸어가는 카를로스 수베로 감독의 뒷모습이 눈길을 끈다. ‘이게 우리의 길(THIS IS OUR WAY)’이라는 캐치프레이즈 아래 리빌딩을 선언하며 파격적인 실험을 시도하지만 2021년 한화이글스의 도전은 여의치 않다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그럼에도 불구하고 목표를 향해 묵묵하게 걸어가는 수베로 감독의 모습은 새로운 변화를 만들어갈 한화이글스의 의지를 느끼게 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 “지금까지 본 적 없는 리얼 야구” 카피는 경기장 안팎에서 벌어지는 다채로운 에피소드가 공개될 것을 암시하며 기대감을 높인다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "화려한 스포트라이트를 받는 경기장의 모습부터 클럽하우스의 비하인드까지 총 6개의 에피소드로 제작된 왓챠 오리지널 다큐멘터리 ‘한화이글스: 클럽하우스’는 오는 3월 24일(목) 1·2·3부가 먼저 공개되고, 3월 31일(목) 4·5·6부가 공개될 예정이다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "※클럽하우스란? 야구 경기 전에 선수들이 유니폼을 정비하고 감독과 선수 간에 미팅이 일어나는 장소",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘한화이글스 클럽하우스’ 지금껏 본 적 없는 리얼 야구 이야기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

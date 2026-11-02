@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259132",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "원호, 컴백일은 2월 16일[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 원호(WONHO)가 2월 16일 신보를 발매한다.\n소속사 하이라인엔터테인먼트는 지난 24일 오후 8시 사회관계망서비스(SNS)를 통해 원호의 첫 번째 싱글 ‘옵세션’(OBSESSION) 컴백 스케줄러 이미지를 선보였다.\n컴백 스케줄러에 따르면 원호는 오는 26일 트랙리스트를 시작으로 2월 14일 뮤직비디오 티저, 2월 15일 앨범 프리뷰를 순차적으로 공개한다.\n이번 신보는 원호가 지난해 9월 발매한 미니 2집 ‘블루 레터’(Blue Letter) 이후 5개월 만에 발매하는 앨범으로 더욱 기대를 모은다.\n앞서 ‘블루 레터’의 전곡 작사, 작곡에 참여해 자신만의 스펙트럼을 보여준 원호가 어떤 음악으로 돌아올지 궁금증이 더해진다.\n한편 원호의 싱글 ‘옵세션’은 오는 2월 16일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 원호(WONHO)가 2월 16일 신보를 발매한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 하이라인엔터테인먼트는 지난 24일 오후 8시 사회관계망서비스(SNS)를 통해 원호의 첫 번째 싱글 ‘옵세션’(OBSESSION) 컴백 스케줄러 이미지를 선보였다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "컴백 스케줄러에 따르면 원호는 오는 26일 트랙리스트를 시작으로 2월 14일 뮤직비디오 티저, 2월 15일 앨범 프리뷰를 순차적으로 공개한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 신보는 원호가 지난해 9월 발매한 미니 2집 ‘블루 레터’(Blue Letter) 이후 5개월 만에 발매하는 앨범으로 더욱 기대를 모은다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 ‘블루 레터’의 전곡 작사, 작곡에 참여해 자신만의 스펙트럼을 보여준 원호가 어떤 음악으로 돌아올지 궁금증이 더해진다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 원호의 싱글 ‘옵세션’은 오는 2월 16일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원호, 컴백일은 2월 16일[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

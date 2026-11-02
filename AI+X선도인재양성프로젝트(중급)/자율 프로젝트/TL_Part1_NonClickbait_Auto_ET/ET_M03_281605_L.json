@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281605",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "백종원 표 어묵볶음 '동공 확대 비주얼이쥬?'…어묵볶음 칼로리는?",
+		"newsSubTitle": "",
+		"newsContent": "'어묵볶음 칼로리' 어묵볶음 칼로리가 인터넷상에서 화제다 지난 'tvN 집밥 백선생' 방송에서 백종원이 만능간장을 활용한 어묵볶음 레시피가 화제다.\n이날 백종원은 청양고추와 양파, 그리고 당근과 감자를 적당히 썰며 “감자랑 어묵이랑 볶으면 맛있다. 어려운 이유가 있다. 서로 익는데 걸리는 시간이 다르기 때문”이라고 말했다.\n이어 백종원은 팬에 물 한 컵, 만능간장 반 컵을 넣은 후 숟가락으로 고춧가루 2 큰 술, 간마늘 1 큰 술을 넣었다.\n여기에 감자와 당근을 넣어주고 그 뒤로 어묵과 양파를 넣어준 후 볶아줬다.\n마지막으로 백종원은 “끓는 동안 물 조절만 하면 된다. 지금 물 양만 봤을 땐 조림이라고 생각하겠지만 어묵이 물을 빨아들일 것”이라고 말해 이목을 집중시켰다.\n한편, 어묵볶음 칼로리는 1인분 기준 257kcal 이다.\n온라인 중앙일보 '어묵볶음 칼로리' [사진 tvN 방송 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'어묵볶음 칼로리' 어묵볶음 칼로리가 인터넷상에서 화제다 지난 'tvN 집밥 백선생' 방송에서 백종원이 만능간장을 활용한 어묵볶음 레시피가 화제다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 백종원은 청양고추와 양파, 그리고 당근과 감자를 적당히 썰며 “감자랑 어묵이랑 볶으면 맛있다. 어려운 이유가 있다. 서로 익는데 걸리는 시간이 다르기 때문”이라고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 백종원은 팬에 물 한 컵, 만능간장 반 컵을 넣은 후 숟가락으로 고춧가루 2 큰 술, 간마늘 1 큰 술을 넣었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 감자와 당근을 넣어주고 그 뒤로 어묵과 양파를 넣어준 후 볶아줬다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마지막으로 백종원은 “끓는 동안 물 조절만 하면 된다. 지금 물 양만 봤을 땐 조림이라고 생각하겠지만 어묵이 물을 빨아들일 것”이라고 말해 이목을 집중시켰다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 어묵볶음 칼로리는 1인분 기준 257kcal 이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 '어묵볶음 칼로리' [사진 tvN 방송 캡처]",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백종원 표 어묵볶음 '동공 확대 비주얼이쥬?'…어묵볶음 칼로리는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

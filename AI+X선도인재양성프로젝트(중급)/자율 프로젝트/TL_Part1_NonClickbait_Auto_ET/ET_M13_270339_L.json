@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270339",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김한결, 5월 컴백 예고 “앨범 준비”",
+		"newsSubTitle": "",
+		"newsContent": "가수 김한결이 컴백을 예고해 팬심을 후끈 달아오르게 했다.\n김한결은 16일 공식 SNS 채널을 통해 모델핏이 돋보이는 한 장의 사진을 공개했다.\n공개된 사진 속 김한결은 감각적인 스타일링을 완벽히 소화해 시선을 독차지하는가 하면, “앨범 준비”란 짧은 글을 남겨 다음 앨범에 대한 궁금증을 한층 높였다.\n김한결의 컴백 스포에 팬들은 “기대된다, 파이팅”, “힘내세요!” 등 응원을 쏟아내며 파워 보컬리스트의 귀환에 높은 기대를 드러냈다.\n5월 새 앨범으로 약 3개월 만에 초고속 컴백을 확정한 김한결은 앞서 싱글 ‘그대가 온다’, ‘순간의 기적’, ‘애써’, ‘말도 못해’를 통해 폭넓은 음악 스펙트럼을 증명하며, ‘고음 발라드의 정석’임을 확고히 한 바 있다.\n올봄 음악팬들의 귀호강을 책임질 김한결은 새 앨범 준비에 박차를 가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김한결이 컴백을 예고해 팬심을 후끈 달아오르게 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김한결은 16일 공식 SNS 채널을 통해 모델핏이 돋보이는 한 장의 사진을 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 김한결은 감각적인 스타일링을 완벽히 소화해 시선을 독차지하는가 하면, “앨범 준비”란 짧은 글을 남겨 다음 앨범에 대한 궁금증을 한층 높였다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김한결의 컴백 스포에 팬들은 “기대된다, 파이팅”, “힘내세요!” 등 응원을 쏟아내며 파워 보컬리스트의 귀환에 높은 기대를 드러냈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "5월 새 앨범으로 약 3개월 만에 초고속 컴백을 확정한 김한결은 앞서 싱글 ‘그대가 온다’, ‘순간의 기적’, ‘애써’, ‘말도 못해’를 통해 폭넓은 음악 스펙트럼을 증명하며, ‘고음 발라드의 정석’임을 확고히 한 바 있다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올봄 음악팬들의 귀호강을 책임질 김한결은 새 앨범 준비에 박차를 가하고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김한결, 5월 컴백 예고 “앨범 준비”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

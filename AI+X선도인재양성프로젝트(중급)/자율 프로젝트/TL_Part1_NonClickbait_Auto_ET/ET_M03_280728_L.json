@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280728",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'개밥주는 남자' 주병진, 강아지에게 펜트하우스 습격당해…\\\"그래도 좋다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "개밥주는남자 주병진 ‘개밥 주는 남자’ 주병진이 반려견과의 이색 동거를 시작했다.\n25일 방영된 채널A ‘개밥 주는 남자’에서는 초호화 펜트하우스에서 강아지들을 만나는 주병진의 모습이 전파를 탔다.\n이날 방송에서 주병진은 “평소 강아지를 예뻐라 한다”고 말했다.\n분양소에서 자신에 맞는 반려견을 추천받은 주병진은 웰시코기 세 마리를 처음 만났다.\n그러나 주병진의 펜트하우스는 웰시코기 삼둥이들의 대소변으로 엉망이 되기 시작한다.\n뒤처리에 정신없는 시간을 보낸 주병진은 “혼자 있을 때보다 말도 많아지고 신경 쓸 일이 생겨 좋다”며 긍정적인 모습을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개밥주는남자 주병진 ‘개밥 주는 남자’ 주병진이 반려견과의 이색 동거를 시작했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 방영된 채널A ‘개밥 주는 남자’에서는 초호화 펜트하우스에서 강아지들을 만나는 주병진의 모습이 전파를 탔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 주병진은 “평소 강아지를 예뻐라 한다”고 말했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "분양소에서 자신에 맞는 반려견을 추천받은 주병진은 웰시코기 세 마리를 처음 만났다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 주병진의 펜트하우스는 웰시코기 삼둥이들의 대소변으로 엉망이 되기 시작한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뒤처리에 정신없는 시간을 보낸 주병진은 “혼자 있을 때보다 말도 많아지고 신경 쓸 일이 생겨 좋다”며 긍정적인 모습을 보였다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'개밥주는 남자' 주병진, 강아지에게 펜트하우스 습격당해…\\\"그래도 좋다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

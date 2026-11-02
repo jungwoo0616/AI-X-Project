@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266501",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "한영, 박군 어머니 묘원 찾아 “잘살겠다” (미우새)",
+		"newsSubTitle": "",
+		"newsContent": "방송인 한영이 박군의 어머니 묘원에 방문해 첫 인사를 올렸다.\n한영은 지난 10일 오후 9시 5분 방송된 SBS ‘미운 우리 새끼’(이하 ‘미우새’)에 출연했다.\n이날 한영은 박군과 함께 박군 어머니 묘원에 방문, 생전 좋아하셨던 음식부터 특별한 선물까지 준비해 감동을 자아냈다.\n예비 며느리로서 절을 올린 한영은 “어머님이 계시면 사드리고 싶은 마음에 빨간색 구두를 준비했다. 좋아하실 것 같은 건 다 사드리고 싶었다”라며 눈물을 흘렸다.\n특히 한영은 “이제 걱정 안 하셨으면 좋겠다. 저희 잘 살겠습니다 어머니”라고 전하며 감동을 선사했고, 박군에게 “이제 어머니 마음이 편하실까? 이제 울지마”라고 위로했다.\n이어 박군의 이모 집에 방문한 한영은 절을 올리며 첫 인사를 드린 것은 물론, 이모의 질문에 “박군이 많이 진솔하다. 지켜주고 싶고 저를 지켜줄 것 같다. 이런 사람 잘 없다”라고 고백하기도 했다.\n한편, 한영은 최근 MBC ‘우리는 식구당’에서 생각엔터테인먼트 식구들과 끈끈한 우정으로 많은 사랑을 받은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 한영이 박군의 어머니 묘원에 방문해 첫 인사를 올렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한영은 지난 10일 오후 9시 5분 방송된 SBS ‘미운 우리 새끼’(이하 ‘미우새’)에 출연했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 한영은 박군과 함께 박군 어머니 묘원에 방문, 생전 좋아하셨던 음식부터 특별한 선물까지 준비해 감동을 자아냈다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예비 며느리로서 절을 올린 한영은 “어머님이 계시면 사드리고 싶은 마음에 빨간색 구두를 준비했다. 좋아하실 것 같은 건 다 사드리고 싶었다”라며 눈물을 흘렸다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 한영은 “이제 걱정 안 하셨으면 좋겠다. 저희 잘 살겠습니다 어머니”라고 전하며 감동을 선사했고, 박군에게 “이제 어머니 마음이 편하실까? 이제 울지마”라고 위로했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 박군의 이모 집에 방문한 한영은 절을 올리며 첫 인사를 드린 것은 물론, 이모의 질문에 “박군이 많이 진솔하다. 지켜주고 싶고 저를 지켜줄 것 같다. 이런 사람 잘 없다”라고 고백하기도 했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 한영은 최근 MBC ‘우리는 식구당’에서 생각엔터테인먼트 식구들과 끈끈한 우정으로 많은 사랑을 받은 바 있다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한영, 박군 어머니 묘원 찾아 “잘살겠다” (미우새)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276558",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "수척해진 모습으로 걱정 자아냈던 강민경의 근황",
+		"newsSubTitle": "",
+		"newsContent": "최근 수척해진 모습으로 팬들의 걱정을 자아냈던 가수 강민경의 근황이 공개됐다.\n강민경은 19일 자신의 인스타그램에 셀카를 게재하며 근황을 밝혔다.\n사진 속 새하얗고 투명한 피부의 강민경은 여전히 청순한 분위기를 과시했다.\n더욱 갸름해진 턱선은 시선을 사로잡았다.\n앞서 강민경은 인스타그램 라이브 방송에서 살이 빠진 듯 다소 수척해진 모습으로 모두를 놀라게 했다.\n팬들의 우려가 이어지자 강민경은 건강한 모습의 또 다른 셀카를 공개하며 걱정을 잠재웠다.\n강민경은 지난해 출연한 MBC 드라마 '최고의 연인' 종영 후 휴식을 취하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 수척해진 모습으로 팬들의 걱정을 자아냈던 가수 강민경의 근황이 공개됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강민경은 19일 자신의 인스타그램에 셀카를 게재하며 근황을 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 새하얗고 투명한 피부의 강민경은 여전히 청순한 분위기를 과시했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더욱 갸름해진 턱선은 시선을 사로잡았다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 강민경은 인스타그램 라이브 방송에서 살이 빠진 듯 다소 수척해진 모습으로 모두를 놀라게 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들의 우려가 이어지자 강민경은 건강한 모습의 또 다른 셀카를 공개하며 걱정을 잠재웠다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강민경은 지난해 출연한 MBC 드라마 '최고의 연인' 종영 후 휴식을 취하고 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수척해진 모습으로 걱정 자아냈던 강민경의 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

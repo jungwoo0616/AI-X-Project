@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271479",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘국가부’ 냉동 인형 간미연, 97년생 김영흠에 “그때 데뷔했다”",
+		"newsSubTitle": "",
+		"newsContent": "‘국가가 부른다’ 간미연이 여전한 비주얼을 자랑했다.\n26일 오후 방송된 TV CHOSUN ‘국가가 부른다’에서는 김동완, 현진영, 김현정, 천명훈, 간미연, 이성욱이 출연해 90년대 핫스타 특집으로 꾸며졌다.\n이날 4라운드는 세기말 팀 간미연, 새천년 팀 김영흠이 붙었다.\n97년생이라는 김영흠에 간미연은 “제가 그때 데뷔했다”라고 말해 웃음 짓게 했다.\n화려한 올블랙으로 옷을 갈아입고 온 간미연은 엄정화 ‘초대’를 선곡했다.\n냉동 인형 비주얼을 자랑한 간미연은 고혹미 넘치는 무대로 모두의 시선을 빼앗았다.\n이어 천명훈의 랩 서포트까지 받은 간미연은 그의 팀킬에도 흔들리지 않으며 끝까지 몰입해 98점을 받았다.\n김영흠은 박진영 ‘Honey’를 선곡해 1998년 시간 여행에 나섰다.\n허스키 보이스로 거친 매력을 뽐낸 김영흠은 98점으로 동점을 이뤄냈다.\n한편 ‘국가가 부른다’는 매주 목요일 오후 10시 TV CHOSUN에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘국가가 부른다’ 간미연이 여전한 비주얼을 자랑했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 오후 방송된 TV CHOSUN ‘국가가 부른다’에서는 김동완, 현진영, 김현정, 천명훈, 간미연, 이성욱이 출연해 90년대 핫스타 특집으로 꾸며졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 4라운드는 세기말 팀 간미연, 새천년 팀 김영흠이 붙었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "97년생이라는 김영흠에 간미연은 “제가 그때 데뷔했다”라고 말해 웃음 짓게 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "화려한 올블랙으로 옷을 갈아입고 온 간미연은 엄정화 ‘초대’를 선곡했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "냉동 인형 비주얼을 자랑한 간미연은 고혹미 넘치는 무대로 모두의 시선을 빼앗았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 천명훈의 랩 서포트까지 받은 간미연은 그의 팀킬에도 흔들리지 않으며 끝까지 몰입해 98점을 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김영흠은 박진영 ‘Honey’를 선곡해 1998년 시간 여행에 나섰다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "허스키 보이스로 거친 매력을 뽐낸 김영흠은 98점으로 동점을 이뤄냈다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 ‘국가가 부른다’는 매주 목요일 오후 10시 TV CHOSUN에서 방송된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘국가부’ 냉동 인형 간미연, 97년생 김영흠에 “그때 데뷔했다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

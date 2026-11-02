@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259257",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘윤남기♥’ 이다은 “병원 동행”",
+		"newsSubTitle": "",
+		"newsContent": "MBN 예능 프로그램 ‘돌싱글즈2’ 출연자 이다은이 든든한 예비남편 윤남기의 매력을 자랑했다.\n25일 이다은은 자신의 SNS에 “허리 삐끗. 병원 동행 스위남♥”이라는 글과 함께 사진을 올렸다.\n사진 속에는 이다은과 윤남기가 병원 대기실에서 손을 잡고 있는 모습이다.\n아픈 이다은을 위해 병원을 동행한 윤남기는 예비 남편다운 모습이다.\n이다은-윤남기 커플은 ‘돌싱글즈2’를 통해 연인이 됐다.\n최근 비하인드 방송에서 재혼을 발표해 ‘돌싱글즈’ 1호 부부가 될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBN 예능 프로그램 ‘돌싱글즈2’ 출연자 이다은이 든든한 예비남편 윤남기의 매력을 자랑했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 이다은은 자신의 SNS에 “허리 삐끗. 병원 동행 스위남♥”이라는 글과 함께 사진을 올렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 이다은과 윤남기가 병원 대기실에서 손을 잡고 있는 모습이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아픈 이다은을 위해 병원을 동행한 윤남기는 예비 남편다운 모습이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이다은-윤남기 커플은 ‘돌싱글즈2’를 통해 연인이 됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 비하인드 방송에서 재혼을 발표해 ‘돌싱글즈’ 1호 부부가 될 예정이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘윤남기♥’ 이다은 “병원 동행”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

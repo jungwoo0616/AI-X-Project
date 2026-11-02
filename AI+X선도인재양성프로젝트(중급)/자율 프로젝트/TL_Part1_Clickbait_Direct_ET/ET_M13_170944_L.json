@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170944",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "정찬 ‘싱글파파’ 로 살고 있는 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 정찬이 ‘싱글파파’로 살아가는 근황을 전한다.\n20일 방송된 JTBC 예능프로그램 ‘용감한 솔로 육아-내가 키운다’(이하 ‘내가 키운다’)의 예고편에는 다음 주 게스트로 정찬이 등장했다.\n정찬은 현재 초등학교 3학년 딸과 초등학교 2학년 아들을 홀로 키우고 있다고 말했다.\n그는 육아 꿀팁 질문에 “일단 핸드폰 앱을 몇 개 깔아야 한다”고 했다.\n이어 “방학 때마다 손톱 기르면 네일 케어를 해준다”며 ‘딸 바보’ 면모를 드러냈다.\n또 정찬은 “입은 아줌마 모드로 빙의돼서 막 얘기한다”며 다른 ‘싱글맘’ 출연진들과 공감대를 형성했다.\n이를 지켜보던 김구라는 “정찬이 나오면 나랑 교감이 될 줄 알았는데 저쪽이었다”라고 말해 웃음을 자아냈다.\n한편 정찬은 지난 2012년 7세 연하의 비연예인과 결혼했지만, 3년 만에 성격 차이로 이혼했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정찬이 ‘싱글파파’로 살아가는 근황을 전한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 방송된 JTBC 예능프로그램 ‘용감한 솔로 육아-내가 키운다’(이하 ‘내가 키운다’)의 예고편에는 다음 주 게스트로 정찬이 등장했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정찬은 현재 초등학교 3학년 딸과 초등학교 2학년 아들을 홀로 키우고 있다고 말했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 육아 꿀팁 질문에 “일단 핸드폰 앱을 몇 개 깔아야 한다”고 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “방학 때마다 손톱 기르면 네일 케어를 해준다”며 ‘딸 바보’ 면모를 드러냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 정찬은 “입은 아줌마 모드로 빙의돼서 막 얘기한다”며 다른 ‘싱글맘’ 출연진들과 공감대를 형성했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 지켜보던 김구라는 “정찬이 나오면 나랑 교감이 될 줄 알았는데 저쪽이었다”라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 정찬은 지난 2012년 7세 연하의 비연예인과 결혼했지만, 3년 만에 성격 차이로 이혼했다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘싱글파파’ 정찬, 방학마다 딸에게 이것 해준다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

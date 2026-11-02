@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265062",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘푸른거탑’ 김호창, 오늘 9세 연하 신부와 결혼",
+		"newsSubTitle": "",
+		"newsContent": "‘푸른거탑’으로 유명한 배우 이호창이 결혼한다.\n배우 김호창은 오늘(26일) 오후 2시 서울 모처에서 결혼식을 올린다.\n예비 신부는 9살 연하 직장인으로, 비연예인이다.\n김호창은 지인을 통해 예비 신부와 처음 인연을 맺게 된 것으로 전해졌다.\n김호창은 “(예비 신부도) 예술을 하던 친구여서 항상 저를 위해 긍정적인 말을 해줬고, 어떤 일이든 감사해하며 함께 해줬다”며 예비 신부의 배려심에 반해 결혼을 결심하게 됐다고 밝혔다.\n이어 “올해 중·하반기에는 배우로서 좋은 모습을 보여 드릴 계획이다”고 덧붙였다.\n한편 김호창은 드라마 ‘산부인과’, ‘내 여자친구는 구미호’, ‘49일’, ‘무사 백동수’ 등에 출연했다.\n특히 ‘푸른거탑’을 통해 대중에게 널리 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘푸른거탑’으로 유명한 배우 이호창이 결혼한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 김호창은 오늘(26일) 오후 2시 서울 모처에서 결혼식을 올린다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예비 신부는 9살 연하 직장인으로, 비연예인이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김호창은 지인을 통해 예비 신부와 처음 인연을 맺게 된 것으로 전해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김호창은 “(예비 신부도) 예술을 하던 친구여서 항상 저를 위해 긍정적인 말을 해줬고, 어떤 일이든 감사해하며 함께 해줬다”며 예비 신부의 배려심에 반해 결혼을 결심하게 됐다고 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “올해 중·하반기에는 배우로서 좋은 모습을 보여 드릴 계획이다”고 덧붙였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김호창은 드라마 ‘산부인과’, ‘내 여자친구는 구미호’, ‘49일’, ‘무사 백동수’ 등에 출연했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 ‘푸른거탑’을 통해 대중에게 널리 알려졌다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘푸른거탑’ 김호창, 오늘 9세 연하 신부와 결혼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

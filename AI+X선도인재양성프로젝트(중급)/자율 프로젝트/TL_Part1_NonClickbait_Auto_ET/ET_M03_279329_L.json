@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279329",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "JYP \\\"쯔위 전속 계약권, 대만 잡지사 36억 인수? 사실무근\\\"",
+		"newsSubTitle": "",
+		"newsContent": "JYP 엔터테인먼트(JYP)가 대만의 한 잡지사가 트와이스 쯔위 전속 계약권을 36억원에 인수했다는 설에 대해 사실무근이라고 일축했다.\nJYP 측 관계자는 18일 오전 일간스포츠에 \\\"보도를 접했다. 들어본 적도 없는 매체이며, 당연히 사실무근이다\\\"라고 반박했다.\n이어 쯔위의 활동에 대해서는 \\\"국내 트와이스 활동은 그대로 유지한다. 중국 활동은 계획이 없다. JYP 소속 가수들 역시 2PM 일정 취소건 이후 중국에서 제제를 가한 사안이 아직 없다\\\"고 덧붙였다.\n앞서 쯔위는 최근 MBC '마이 리틀 텔레비전'에 출연해 태극기와 대만 국기를 함께 흔들었다.\n이 모습을 본 대만 출신 가수 황안이 중국과 대만의 정치 관계와 관련해 \\\"쯔위가 대만 독립을 지지하고 있다\\\"며 불편한 심경을 드러내 논란이 됐다.\n논란이 커지자 쯔위는 15일 유튜브와 중국 동영상 사이트에 자신의 행동을 사과하는 1분27초 길이의 사과 영상을 올리고 박진영 JYP 대표는 공식 사과문을 발표했다.\n유튜브 영상은 게재 이틀 만에 480여만건의 조회수와 좋아요 2만, 반대 32만여 건을 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JYP 엔터테인먼트(JYP)가 대만의 한 잡지사가 트와이스 쯔위 전속 계약권을 36억원에 인수했다는 설에 대해 사실무근이라고 일축했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JYP 측 관계자는 18일 오전 일간스포츠에 \\\"보도를 접했다. 들어본 적도 없는 매체이며, 당연히 사실무근이다\\\"라고 반박했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 쯔위의 활동에 대해서는 \\\"국내 트와이스 활동은 그대로 유지한다. 중국 활동은 계획이 없다. JYP 소속 가수들 역시 2PM 일정 취소건 이후 중국에서 제제를 가한 사안이 아직 없다\\\"고 덧붙였다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 쯔위는 최근 MBC '마이 리틀 텔레비전'에 출연해 태극기와 대만 국기를 함께 흔들었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 모습을 본 대만 출신 가수 황안이 중국과 대만의 정치 관계와 관련해 \\\"쯔위가 대만 독립을 지지하고 있다\\\"며 불편한 심경을 드러내 논란이 됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "논란이 커지자 쯔위는 15일 유튜브와 중국 동영상 사이트에 자신의 행동을 사과하는 1분27초 길이의 사과 영상을 올리고 박진영 JYP 대표는 공식 사과문을 발표했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유튜브 영상은 게재 이틀 만에 480여만건의 조회수와 좋아요 2만, 반대 32만여 건을 기록했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "JYP \\\"쯔위 전속 계약권, 대만 잡지사 36억 인수? 사실무근\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

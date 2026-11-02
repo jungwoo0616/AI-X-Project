@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277370",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"이런 거 안해봤어요?\\\" 질문에 당황한 강원도 여자",
+		"newsSubTitle": "",
+		"newsContent": "최근 온라인 커뮤니티에 재미있는 사진이 올라왔다.\n과거 KBS 1 '다큐 공감'의 짧은 에피소드를 캡처해 올린 것으로 강원도 영월에 살고 있는 석정여고 1학년(방송 당시) 이은지 양의 일화를 소개했다. '다큐 공감' 제작진은 이은지 양과 함께 아궁이로 향했다.\n벌겋게 타오르는 숯불 앞에서 이은지 양은 왠지 모르게 쭈뼛거렸다.\n\\\"처음 해봐요\\\"라는 말이 그의 입에서 튀어나오자 제작진은 \\\"영월에 살면서 이런 것도 안 해봤어요?\\\"라며 당황한 기색을 내비쳤다.\n하지만 이은지 양은 가소롭다는 듯 해맑은 표정으로 \\\"우리 집 아파트예요\\\" \\\"영월도 아파트 있는데\\\"라고 답해 웃음을 자아냈다.\n이를 본 네티즌은 \\\"ㅋㅋㅋㅋㅋㅋ\\\" \\\"섬에 산다고 하면, 공 차면 바다에 빠지겠다고 하는데...거제도가 여의도보다 50배는 크거든!!\\\" \\\"통영에서 왔다고 하니까 등하교 배타고 하냐고 하던 친구도 있었어요\\\" \\\"양상국: 마!~~ 우리도 이마트에서 회 사먹는다\\\" 등 저마다의 황당했던 사연을 소개하며 공감을 표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 온라인 커뮤니티에 재미있는 사진이 올라왔다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 KBS 1 '다큐 공감'의 짧은 에피소드를 캡처해 올린 것으로 강원도 영월에 살고 있는 석정여고 1학년(방송 당시) 이은지 양의 일화를 소개했다. '다큐 공감' 제작진은 이은지 양과 함께 아궁이로 향했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "벌겋게 타오르는 숯불 앞에서 이은지 양은 왠지 모르게 쭈뼛거렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "\\\"처음 해봐요\\\"라는 말이 그의 입에서 튀어나오자 제작진은 \\\"영월에 살면서 이런 것도 안 해봤어요?\\\"라며 당황한 기색을 내비쳤다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 이은지 양은 가소롭다는 듯 해맑은 표정으로 \\\"우리 집 아파트예요\\\" \\\"영월도 아파트 있는데\\\"라고 답해 웃음을 자아냈다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌은 \\\"ㅋㅋㅋㅋㅋㅋ\\\" \\\"섬에 산다고 하면, 공 차면 바다에 빠지겠다고 하는데...거제도가 여의도보다 50배는 크거든!!\\\" \\\"통영에서 왔다고 하니까 등하교 배타고 하냐고 하던 친구도 있었어요\\\" \\\"양상국: 마!~~ 우리도 이마트에서 회 사먹는다\\\" 등 저마다의 황당했던 사연을 소개하며 공감을 표했다.",
+				"sentenceSize": 180
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이런 거 안해봤어요?\\\" 질문에 당황한 강원도 여자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

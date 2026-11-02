@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281746",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "빈지노 母 금동원, \\\"아들 여자친구 미초바 마음에 든다…아들이 선택한 연애가 중요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "/사진=여성중앙 '빈지노 미초바' 래퍼 빈지노의 엄마가 아들의 여자친구 스테파니 미초바에 대한 생각을 밝혔다.\n29일 라이프 스타일 매거진 '여성중앙'은 빈지노의 엄마이자 색채 화가로 저명한 금동원의 사진과 인터뷰를 공개했다.\n공개된 사진 속 빈지노 모자는 화려한 전시회 작품을 배경으로 포즈를 취했다.\n이와 함께 진행된 인터뷰에서 빈지노는 \\\"엄마는 쿨했다. 엄마와 나는 '어릴 때 널 어떻게 키웠는데' 같은 추억팔이는 안 하는 부류. 현재와 앞으로의 이야기를 나눈다\\\"고 모자 사이를 밝혔다.\n엄마 금동원은 아들에 대해 \\\"아이의 미래를 놓고 좌지우지하지 않았다. 아들의 정체성을 가만히 지켜봐 주려고만 했다. 엄마 입장에서 아이를 놓아준다는 것은 긴 시간의 인내와 용기가 필요했지만 스스로 길을 찾는 게 인생\\\"이라고 말했다.\n특히 금동원은 빈지노의 여자친구 스테파니 미초바에 대해 \\\"지금 여자 친구가 맘에 든다. 언제나 아들이 선택한 자유 연애가 중요하다\\\"고 밝혀 눈길을 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "/사진=여성중앙 '빈지노 미초바' 래퍼 빈지노의 엄마가 아들의 여자친구 스테파니 미초바에 대한 생각을 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 라이프 스타일 매거진 '여성중앙'은 빈지노의 엄마이자 색채 화가로 저명한 금동원의 사진과 인터뷰를 공개했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 빈지노 모자는 화려한 전시회 작품을 배경으로 포즈를 취했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 진행된 인터뷰에서 빈지노는 \\\"엄마는 쿨했다. 엄마와 나는 '어릴 때 널 어떻게 키웠는데' 같은 추억팔이는 안 하는 부류. 현재와 앞으로의 이야기를 나눈다\\\"고 모자 사이를 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엄마 금동원은 아들에 대해 \\\"아이의 미래를 놓고 좌지우지하지 않았다. 아들의 정체성을 가만히 지켜봐 주려고만 했다. 엄마 입장에서 아이를 놓아준다는 것은 긴 시간의 인내와 용기가 필요했지만 스스로 길을 찾는 게 인생\\\"이라고 말했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 금동원은 빈지노의 여자친구 스테파니 미초바에 대해 \\\"지금 여자 친구가 맘에 든다. 언제나 아들이 선택한 자유 연애가 중요하다\\\"고 밝혀 눈길을 끌었다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빈지노 母 금동원, \\\"아들 여자친구 미초바 마음에 든다…아들이 선택한 연애가 중요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

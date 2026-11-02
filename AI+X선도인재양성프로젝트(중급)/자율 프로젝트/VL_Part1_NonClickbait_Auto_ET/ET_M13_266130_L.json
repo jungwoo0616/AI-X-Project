@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266130",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "영진위, 영화 제작 고용인력 1000명 인건비 지원",
+		"newsSubTitle": "",
+		"newsContent": "문화체육관광부와 영화진흥위원회는 침체한 영화 제작업계 일자리 창출과 영화 제작 활성화를 위해 ‘코로나19 극복 영화제작 인력 지원사업’을 실시한다고 6일 전했다.\n올해 진행되는 영화 제작에 참여하는 영화사의 고용인력 1000명 인건비를 최장 6개월까지 지원하는 사업이다.\n상영업을 제외한 영화 제작 모든 업종을 대상으로 하며 인건비 지원 기간은 6월부터 11월까지다. 1인당 180만원을 정액 지원하고 최대 5명까지 지원받을 수 있다.\n영진위는 코로나19로 인한 피해 사실과 영화 개봉 가능성, 인력 운영 계획 타당성과 적합성, 사업 수행 실적 등을 심사해 지원 대상을 선정할 계획이다.\n오는 18일부터 27일까지 영진위 홈페이지를 통해 접수하면 된다.\n문체부와 영진위는 영화 제작 인력 지원 사업 외에 영화관 인력 지원 사업(302억원)과 한국 영화 개봉 촉진을 위한 영화관 특별 기획전 지원 사업(164억원)을 시행하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "문화체육관광부와 영화진흥위원회는 침체한 영화 제작업계 일자리 창출과 영화 제작 활성화를 위해 ‘코로나19 극복 영화제작 인력 지원사업’을 실시한다고 6일 전했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 진행되는 영화 제작에 참여하는 영화사의 고용인력 1000명 인건비를 최장 6개월까지 지원하는 사업이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "상영업을 제외한 영화 제작 모든 업종을 대상으로 하며 인건비 지원 기간은 6월부터 11월까지다. 1인당 180만원을 정액 지원하고 최대 5명까지 지원받을 수 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영진위는 코로나19로 인한 피해 사실과 영화 개봉 가능성, 인력 운영 계획 타당성과 적합성, 사업 수행 실적 등을 심사해 지원 대상을 선정할 계획이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오는 18일부터 27일까지 영진위 홈페이지를 통해 접수하면 된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문체부와 영진위는 영화 제작 인력 지원 사업 외에 영화관 인력 지원 사업(302억원)과 한국 영화 개봉 촉진을 위한 영화관 특별 기획전 지원 사업(164억원)을 시행하고 있다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영진위, 영화 제작 고용인력 1000명 인건비 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278973",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마돈나, 양육권 소송에서 아들 지키려 '사설 탐정' 고용",
+		"newsSubTitle": "",
+		"newsContent": "마돈나(57)가 양육권 소송에서 10대 아들 로코 리치를 지켜내고자 사설 탐정까지 고용했다.\n9일 미국 연예매체 할리우드 라이프에 따르면 마돈나와 전 남편 가이 리치 사이에 아들 로코를 지켜내기 위한 보이지 않는 전쟁이 가열되고 있다.\n마돈나는 현재 영국에서 아빠와 함께 생활하고 있는 아들을 다시 그녀의 품으로 되돌리기 위해 사설 탐정도 고용했다.\n비록 마돈나가 다시 아들을 미국으로 데려오는데에는 무거운 의무와 법적 조치가 필요하지만, 그 전까지 마돈나는 많은 룰을 깨서라도 아들을 소식통으로 지켜보고 있다고 TMZ가 전했다.\n한편 마돈나와 가이 라치는 지난 2008년 7년간의 결혼 생활 끝에 이혼했으며, 현재는 양육권 소송 중이다.\n마돈나의 아들 로코 리치는 맨해튼 대법원은 마돈나가 있는 뉴욕으로 돌아가라고 판결했지만 아직 아빠가 있는 영국 런던에 머물고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마돈나(57)가 양육권 소송에서 10대 아들 로코 리치를 지켜내고자 사설 탐정까지 고용했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 미국 연예매체 할리우드 라이프에 따르면 마돈나와 전 남편 가이 리치 사이에 아들 로코를 지켜내기 위한 보이지 않는 전쟁이 가열되고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마돈나는 현재 영국에서 아빠와 함께 생활하고 있는 아들을 다시 그녀의 품으로 되돌리기 위해 사설 탐정도 고용했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비록 마돈나가 다시 아들을 미국으로 데려오는데에는 무거운 의무와 법적 조치가 필요하지만, 그 전까지 마돈나는 많은 룰을 깨서라도 아들을 소식통으로 지켜보고 있다고 TMZ가 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 마돈나와 가이 라치는 지난 2008년 7년간의 결혼 생활 끝에 이혼했으며, 현재는 양육권 소송 중이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마돈나의 아들 로코 리치는 맨해튼 대법원은 마돈나가 있는 뉴욕으로 돌아가라고 판결했지만 아직 아빠가 있는 영국 런던에 머물고 있다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마돈나, 양육권 소송에서 아들 지키려 '사설 탐정' 고용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

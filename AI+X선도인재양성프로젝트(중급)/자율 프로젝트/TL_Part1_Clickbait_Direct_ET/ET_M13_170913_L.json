@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170913",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "오존, ‘블루버스데이’ OST로 감성 전하다",
+    "newsSubTitle": "",
+    "newsContent": "싱어송라이터 오존(O3ohn)이 드라마 ‘블루버스데이’ OST에 참여했다.\n오존이 부른 ‘어떤 날도, 어떤 말도 (2021)’는 8월 17일 (화) 오후 6시에 각종 음원사이트를 통해 공개됐다. ‘어떤 날도, 어떤 말도 (2021)’는 2011년에 발매된 에피톤 프로젝트의 곡을 새롭게 재해석한 버전의 곡이다.\n서정적이고 감성적인 멜로디에 오존 특유의 담백하면서도 섬세한 목소리가 어우러져 원곡과 다른 매력을 선사한다. ‘블루버스데이’를 위한 곡인 만큼 화려하고 드라마틱한 구성보다 장면을 더욱 돋보이게 할 만한 세밀하고 다층적인 구성에 중점을 두어 조화로움을 부각시켰다.\n플레이리스트 금토드라마 ‘블루버스데이’는 김예림, 홍석 출연의 판타지 로맨스릴러로, 매주 네이버TV와 유튜브에서 인기리에 방영되고 있다.\n한편, 오존은 5월 25일 EP ‘co’를 발표한 후 다양한 활동을 활발하게 이어 나가고 있다.\n오존은 ‘미스터 선샤인’, ‘검색어를 입력하세요 WWW’, 등의 인기 드라마 OST에 참여해 호평을 받으며 전세계 드라마 시청자들과 리스너들에게 큰 관심과 사랑을 받아왔다.\n이번 곡을 통해 또 한 번 어떤 매력을 선보일지 기대를 모으고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "싱어송라이터 오존(O3ohn)이 드라마 ‘블루버스데이’ OST에 참여했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오존이 부른 ‘어떤 날도, 어떤 말도 (2021)’는 8월 17일 (화) 오후 6시에 각종 음원사이트를 통해 공개됐다. ‘어떤 날도, 어떤 말도 (2021)’는 2011년에 발매된 에피톤 프로젝트의 곡을 새롭게 재해석한 버전의 곡이다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서정적이고 감성적인 멜로디에 오존 특유의 담백하면서도 섬세한 목소리가 어우러져 원곡과 다른 매력을 선사한다. ‘블루버스데이’를 위한 곡인 만큼 화려하고 드라마틱한 구성보다 장면을 더욱 돋보이게 할 만한 세밀하고 다층적인 구성에 중점을 두어 조화로움을 부각시켰다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "플레이리스트 금토드라마 ‘블루버스데이’는 김예림, 홍석 출연의 판타지 로맨스릴러로, 매주 네이버TV와 유튜브에서 인기리에 방영되고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 오존은 5월 25일 EP ‘co’를 발표한 후 다양한 활동을 활발하게 이어 나가고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오존은 ‘미스터 선샤인’, ‘검색어를 입력하세요 WWW’, 등의 인기 드라마 OST에 참여해 호평을 받으며 전세계 드라마 시청자들과 리스너들에게 큰 관심과 사랑을 받아왔다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 곡을 통해 또 한 번 어떤 매력을 선보일지 기대를 모으고 있다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "싱어송라이터 오존... 인기리에 방영 중인 이 드라마 OST 참여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

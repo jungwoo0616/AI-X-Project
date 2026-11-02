@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264754",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송가인, 단독 콘서트 일정 발표 연기",
+		"newsSubTitle": "",
+		"newsContent": "가수 송가인이 2022년 첫 단독 콘서트 발표 일정을 연기했다.\n23일 소속사 포켓돌스튜디오 측은 “송가인의 2022년 첫 투어 콘서트 일정 발표를 오는 31일로 연기하게 됐다”라며 “현재 코로나 19 상황으로 인하여 팬들의 안전을 고려, 최종 일정을 조율한 후 세부 사안을 발표할 예정이다. 단독콘서트의 첫 번째 지역은 서울과 광주로 압축됐다”고 밝혔다.\n송가인은 주요 팬층이 중, 장년층이기에 안전이 가장 우선시 되어야 한다는 확고한 의지로 일정 조율을 진행하고 있다고 알려졌다.\n코로나 19 상황인 만큼, 팬들의 건강과 안전, 정부와 질병 관리청에서 권고하는 지침에 따라 철저한 방역 및 예방 수칙을 고려해 한차례 미뤄 31일에 최종 결정할 계획이다.\n송가인은 단독 콘서트와 특집 프로그램을 통해 인기를 입증한 바 있다. 2019년 경희대 평화의 전당에서 진행된 첫 번째 단독 콘서트는 오케스트라가 등장하는 등 역대급 스케일을 선사했다.\n뿐만 아니라, 송가인은 자신의 이름을 건 특집 프로그램을 선보이며, 트로트부터 국악, 판소리까지 모든 장르 음악으로 팬들에게 감동을 전하기도 했다.\n송가인은 이번 2022년 첫 단독 콘서트를 통해 그간 선보이지 않았던 다채로운 모습을 담은 무대로 팬들에게 새로운 볼거리와 감동을 전할 전망이다.\n송가인의 2022년 첫 번째 단독 콘서트 최종 일정은 오는 31일에 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 송가인이 2022년 첫 단독 콘서트 발표 일정을 연기했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 소속사 포켓돌스튜디오 측은 “송가인의 2022년 첫 투어 콘서트 일정 발표를 오는 31일로 연기하게 됐다”라며 “현재 코로나 19 상황으로 인하여 팬들의 안전을 고려, 최종 일정을 조율한 후 세부 사안을 발표할 예정이다. 단독콘서트의 첫 번째 지역은 서울과 광주로 압축됐다”고 밝혔다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송가인은 주요 팬층이 중, 장년층이기에 안전이 가장 우선시 되어야 한다는 확고한 의지로 일정 조율을 진행하고 있다고 알려졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나 19 상황인 만큼, 팬들의 건강과 안전, 정부와 질병 관리청에서 권고하는 지침에 따라 철저한 방역 및 예방 수칙을 고려해 한차례 미뤄 31일에 최종 결정할 계획이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송가인은 단독 콘서트와 특집 프로그램을 통해 인기를 입증한 바 있다. 2019년 경희대 평화의 전당에서 진행된 첫 번째 단독 콘서트는 오케스트라가 등장하는 등 역대급 스케일을 선사했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뿐만 아니라, 송가인은 자신의 이름을 건 특집 프로그램을 선보이며, 트로트부터 국악, 판소리까지 모든 장르 음악으로 팬들에게 감동을 전하기도 했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송가인은 이번 2022년 첫 단독 콘서트를 통해 그간 선보이지 않았던 다채로운 모습을 담은 무대로 팬들에게 새로운 볼거리와 감동을 전할 전망이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "송가인의 2022년 첫 번째 단독 콘서트 최종 일정은 오는 31일에 공개된다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송가인, 단독 콘서트 일정 발표 연기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

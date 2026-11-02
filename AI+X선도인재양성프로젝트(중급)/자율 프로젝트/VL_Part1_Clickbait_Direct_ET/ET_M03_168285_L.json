@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168285",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'K팝스타5 우승' 이수정, 과거 눈물에 박진영 \\\"마음 이해한다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'K팝스타5'에서 우승을 차지한 이수정이 화제인 가운데 과거 그에 대한 심사위원 박진영의 발언이 눈길을 끈다.\n지난 2월 방송된 SBS '일요일이 좋다-서바이벌 오디션 K팝 스타 시즌5(K팝 스타5)'에서 이수정은 god의 '거짓말'로 무대에 섰다.\n이날 이수정은 곡에 너무 몰입해 노래 도중 눈물을 흘렸다.\n이에 유희열이 \\\"왜 울었냐\\\"라고 묻자 이수정은 \\\"다음 가사가 뭐지?\\\"하는데 갑자기 눈물이 났다\\\"라고 밝혔다. 그러자 박진영은 \\\"난 이해한다.\n나도 갑자기 건반 위로 발이 올라왔던 적이 있다.\n똑같은 것이다\\\"라고 \\\"근데 왜 내 것은 웃기냐\\\"라고 토로해 웃음을 자아냈다.\n한편 지난 10일 방송된 SBS '일요일이 좋다-서바이벌 오디션 K팝 스타 시즌5'에서는 이수정이 최종 우승자로 결정됐다.\n그는 소속사로 유희열의 안테나뮤직을 선택해 관심을 모았다.\n온라인 중앙일보 [사진 SBS 'K팝스타5' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'K팝스타5'에서 우승을 차지한 이수정이 화제인 가운데 과거 그에 대한 심사위원 박진영의 발언이 눈길을 끈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2월 방송된 SBS '일요일이 좋다-서바이벌 오디션 K팝 스타 시즌5(K팝 스타5)'에서 이수정은 god의 '거짓말'로 무대에 섰다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이수정은 곡에 너무 몰입해 노래 도중 눈물을 흘렸다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 유희열이 \\\"왜 울었냐\\\"라고 묻자 이수정은 \\\"다음 가사가 뭐지?\\\"하는데 갑자기 눈물이 났다\\\"라고 밝혔다. 그러자 박진영은 \\\"난 이해한다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나도 갑자기 건반 위로 발이 올라왔던 적이 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "똑같은 것이다\\\"라고 \\\"근데 왜 내 것은 웃기냐\\\"라고 토로해 웃음을 자아냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 지난 10일 방송된 SBS '일요일이 좋다-서바이벌 오디션 K팝 스타 시즌5'에서는 이수정이 최종 우승자로 결정됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 소속사로 유희열의 안테나뮤직을 선택해 관심을 모았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 [사진 SBS 'K팝스타5' 캡처]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'K팝스타 5 우승' 이수정, 눈물 흘린 그녀에게 던진 박진영의 한 마디는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

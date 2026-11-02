@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273989",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘마녀2’ 저스틴 하비, 신스틸러 눈도장",
+		"newsSubTitle": "",
+		"newsContent": "저스틴 하비가 첫 연기 도전인 영화 ‘마녀2’에서 신스틸러로 눈도장을 찍었다.\n지난 15일 개봉한 영화 ‘마녀(魔女) Part2. The Other One(이하 ‘마녀2’)’는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀(신시아 분) 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션 영화다.\n저스틴 하비는 극 중 본사 요원 톰 역을 맡아, 대장 조현(서은수 분)과 코믹함과 진지함을 오가는 티키타카를 선보였다.\n톰은 소녀를 쫓는 세력들에 맞서 화려하고 강렬한 액션을 선보이는가 하면, 조현과 영어와 한국어를 넘나들며 ‘상하케미’로 깨알 같은 웃음을 선사하며 확실한 존재감을 드러냈다.\n이처럼 ‘마녀2’를 통해 처음으로 연기에 도전한 저스틴 하비는 다양하고 강도 높은 액션을 실감나게 소화했고, 서은수와 티격태격하면서도 의리 넘치는 모습을 완벽한 호흡으로 그려내며 신스틸러로 관객들을 사로잡고 있다. ‘마녀2’는 개봉 첫날부터 박스오피스 1위를 차지하며 흥행몰이 중이다.\n한편 저스틴 하비는 최근 종합엔터테인먼트사 앤드마크와 전속계약을 체결, ‘마녀2’를 비롯해 더욱 다양한 활동으로 대중들과 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "저스틴 하비가 첫 연기 도전인 영화 ‘마녀2’에서 신스틸러로 눈도장을 찍었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 15일 개봉한 영화 ‘마녀(魔女) Part2. The Other One(이하 ‘마녀2’)’는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀(신시아 분) 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션 영화다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "저스틴 하비는 극 중 본사 요원 톰 역을 맡아, 대장 조현(서은수 분)과 코믹함과 진지함을 오가는 티키타카를 선보였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "톰은 소녀를 쫓는 세력들에 맞서 화려하고 강렬한 액션을 선보이는가 하면, 조현과 영어와 한국어를 넘나들며 ‘상하케미’로 깨알 같은 웃음을 선사하며 확실한 존재감을 드러냈다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이처럼 ‘마녀2’를 통해 처음으로 연기에 도전한 저스틴 하비는 다양하고 강도 높은 액션을 실감나게 소화했고, 서은수와 티격태격하면서도 의리 넘치는 모습을 완벽한 호흡으로 그려내며 신스틸러로 관객들을 사로잡고 있다. ‘마녀2’는 개봉 첫날부터 박스오피스 1위를 차지하며 흥행몰이 중이다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 저스틴 하비는 최근 종합엔터테인먼트사 앤드마크와 전속계약을 체결, ‘마녀2’를 비롯해 더욱 다양한 활동으로 대중들과 만날 예정이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘마녀2’ 저스틴 하비, 신스틸러 눈도장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

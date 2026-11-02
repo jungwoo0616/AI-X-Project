@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281499",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'수요미식회' 최현석, \\\"오늘 맛집? 아내와 또 갈 것\\\" 역시 아내 바보",
+		"newsSubTitle": "",
+		"newsContent": "tvN ‘수요미식회’에서 최현석이 아내사랑을 드러냈다.\n12월 9일 오후 9시 40분 방송되는 tvN ‘수요미식회’에서는 추운 겨울날이면 더욱 생각나는 음식 우동 편이 방송된다.\n이날 최현석은 일본 긴자에서 먹었던 카레 우동의 깊은 맛을 한국에서 발견해 반가웠다는 소식도 전한다.\n그는 \\\"일본에서 아내와 함께 먹었던 우동에서 진한 카레향이 나 그 맛을 잊을 수 없었는데 이번에 찾은 맛집이 바로 그 우동집이었다. 아내와 함께 꼭 다시 가야겠다\\\"고 전해 '아내 바보'를 인증했다는 전언이다.\n이번 우동 편에서는 우동의 본고장 일본부터 휴게소와 간이역의 간판 메뉴 즉석 우동까지 폭넓게 다룬다.\n우동 외길 인생을 걸어온 '우동 전문가' 이계한과 함께 우동에 관한 깊이 있는 미식 토크로 안방을 후끈하게 덥힐 예정. 우동의 본고장인 일본 3대 우동은 물론, 출연진의 극찬이 끊이지 않았던 ‘문닫기 전에 꼭 가야할 집’의 미식 스토리 등 우동에 관한 모든 이야기를 깊이 있게 전달할 예정이다.\n한편, ‘수요미식회’는 이름난 식당에 숨어있는 음식의 역사와 유래, 그리고 비하인드 스토리 등을 포괄적으로 이야기하는 토크쇼로, 음식을 더 맛있게 먹을 수 있는 미식 데이터베이스를 공유하며 음식 예능의 격을 한 단계 높였다는 평을 받고 있는 프로그램이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "tvN ‘수요미식회’에서 최현석이 아내사랑을 드러냈다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12월 9일 오후 9시 40분 방송되는 tvN ‘수요미식회’에서는 추운 겨울날이면 더욱 생각나는 음식 우동 편이 방송된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 최현석은 일본 긴자에서 먹었던 카레 우동의 깊은 맛을 한국에서 발견해 반가웠다는 소식도 전한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"일본에서 아내와 함께 먹었던 우동에서 진한 카레향이 나 그 맛을 잊을 수 없었는데 이번에 찾은 맛집이 바로 그 우동집이었다. 아내와 함께 꼭 다시 가야겠다\\\"고 전해 '아내 바보'를 인증했다는 전언이다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 우동 편에서는 우동의 본고장 일본부터 휴게소와 간이역의 간판 메뉴 즉석 우동까지 폭넓게 다룬다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우동 외길 인생을 걸어온 '우동 전문가' 이계한과 함께 우동에 관한 깊이 있는 미식 토크로 안방을 후끈하게 덥힐 예정. 우동의 본고장인 일본 3대 우동은 물론, 출연진의 극찬이 끊이지 않았던 ‘문닫기 전에 꼭 가야할 집’의 미식 스토리 등 우동에 관한 모든 이야기를 깊이 있게 전달할 예정이다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, ‘수요미식회’는 이름난 식당에 숨어있는 음식의 역사와 유래, 그리고 비하인드 스토리 등을 포괄적으로 이야기하는 토크쇼로, 음식을 더 맛있게 먹을 수 있는 미식 데이터베이스를 공유하며 음식 예능의 격을 한 단계 높였다는 평을 받고 있는 프로그램이다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'수요미식회' 최현석, \\\"오늘 맛집? 아내와 또 갈 것\\\" 역시 아내 바보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

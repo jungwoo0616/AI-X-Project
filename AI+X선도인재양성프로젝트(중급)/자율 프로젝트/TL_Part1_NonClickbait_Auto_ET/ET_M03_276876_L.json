@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276876",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"이런 모습 처음?\\\" 김유정이 올린 사진의 '반전'",
+		"newsSubTitle": "",
+		"newsContent": "배우 김유정의 익살스러운 표정을 지은 사진이 눈길을 끌었다.\n김유정은 3일 제53회 백상예술대상 시상식이 끝난 뒤 자신의 인스타그램을 통해 소감을 전했다.\n이날 드라마 '구르미 그린 달빛'으로 인기상을 수상한 김유정은 \\\"신남\\\"이라는 짧은 소감과 함께 자신의 사진을 공개했다.\n공개된 사진에는 여신 드레스를 입고 수줍은 미소를 짓고 있는 김유정의 모습이 담겨 있다.\n그런데 사진에는 반전이 있었다.\n또 다른 사진에서 김유정은 잔뜩 신난 표정을 지으며 감출수 없는 흥을 드러냈다.\n마치 온라인에서 유명한 사진인 '존X 좋군'을 떠올리게 하는 사진이었다.\n쾌활한 10대 소녀다운 모습에 팬들은 \\\"완전 귀엽다\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김유정의 익살스러운 표정을 지은 사진이 눈길을 끌었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김유정은 3일 제53회 백상예술대상 시상식이 끝난 뒤 자신의 인스타그램을 통해 소감을 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 드라마 '구르미 그린 달빛'으로 인기상을 수상한 김유정은 \\\"신남\\\"이라는 짧은 소감과 함께 자신의 사진을 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 여신 드레스를 입고 수줍은 미소를 짓고 있는 김유정의 모습이 담겨 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런데 사진에는 반전이 있었다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 다른 사진에서 김유정은 잔뜩 신난 표정을 지으며 감출수 없는 흥을 드러냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마치 온라인에서 유명한 사진인 '존X 좋군'을 떠올리게 하는 사진이었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "쾌활한 10대 소녀다운 모습에 팬들은 \\\"완전 귀엽다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이런 모습 처음?\\\" 김유정이 올린 사진의 '반전'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

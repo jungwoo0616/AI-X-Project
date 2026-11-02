@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277354",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "믿기지 않는 00년생 남자아이돌의 비주얼",
+		"newsSubTitle": "",
+		"newsContent": "'NCT' 멤버 제노의 티저 사진이 공개돼 화제다.\nNCT의 틴에이저팀 NCT DREAM(엔시티 드림)이 컴백을 앞두고 공식 홈페이지를 통해 제노의 티저를 포함한 다양한 이미지를 공개했다.\n특히 00년생이라고는 믿기지 않을 정도로 '성숙한' 제노의 사진이 네티즌들의 뜨거운 관심을 받았다.\n공개된 티저 속 제노는 오똑한 콧날에 날렵한 턱선이 인상적이며 한층 성숙해진 느낌을 주고 있다.\n또 노란색 자켓에 파란색 헤어밴드를 한 제노의 모습은 이번 앨범 '마지막 첫사랑'의 컨셉과 딱 맞아 떨어진다.\n이를 본 네티즌들은 “잘 생기면 오빠야” “우리 동생이랑 동갑이라니... 근데 진짜 남자다워졌다” 등 제노의 티저에 뜨거운 관심을 보냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'NCT' 멤버 제노의 티저 사진이 공개돼 화제다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "NCT의 틴에이저팀 NCT DREAM(엔시티 드림)이 컴백을 앞두고 공식 홈페이지를 통해 제노의 티저를 포함한 다양한 이미지를 공개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 00년생이라고는 믿기지 않을 정도로 '성숙한' 제노의 사진이 네티즌들의 뜨거운 관심을 받았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 티저 속 제노는 오똑한 콧날에 날렵한 턱선이 인상적이며 한층 성숙해진 느낌을 주고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 노란색 자켓에 파란색 헤어밴드를 한 제노의 모습은 이번 앨범 '마지막 첫사랑'의 컨셉과 딱 맞아 떨어진다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 “잘 생기면 오빠야” “우리 동생이랑 동갑이라니... 근데 진짜 남자다워졌다” 등 제노의 티저에 뜨거운 관심을 보냈다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "믿기지 않는 00년생 남자아이돌의 비주얼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

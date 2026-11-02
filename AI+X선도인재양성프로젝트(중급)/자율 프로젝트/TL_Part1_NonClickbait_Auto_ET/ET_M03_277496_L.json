@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277496",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김태희와 결혼 비 \\\"훌륭한 남편이자 남자가 되려 한다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가수 비와 배우 김태희가 결혼한다.\n비는 17일 자신의 팬카페에 손편지를 올려 팬들에게 결혼 소식을 전했다.\n비는 \\\"저와 함께했던 많은 팬 여러분들 또한 예쁜 숙녀로 혹은 한 아이의 엄마로 훌륭하게 변했다\\\"며 \\\"이제 저 또한 한 가정의 가장으로서 훌륭한 남편이자 남자가 되려 한다\\\"고 말했다.\n또 \\\"그녀는 제가 힘들 때나 행복할 때나 변치 않고 늘 제 곁을 지켜주며 언제나 많은 것들로 감동을 주었다\\\"며 김태희에 대한 애정을 표현했다.\n그는 \\\"결혼식은 현재 시국이 불안정하고 경제적으로 어려운 시기에 최대한 조용하고 경건하게 마무리하고자 한다\\\"고 전했다.\n한 매체에 따르면 비와 김태희는 오는 2월 19일 모 성당에서 결혼식을 올릴 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 비와 배우 김태희가 결혼한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비는 17일 자신의 팬카페에 손편지를 올려 팬들에게 결혼 소식을 전했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비는 \\\"저와 함께했던 많은 팬 여러분들 또한 예쁜 숙녀로 혹은 한 아이의 엄마로 훌륭하게 변했다\\\"며 \\\"이제 저 또한 한 가정의 가장으로서 훌륭한 남편이자 남자가 되려 한다\\\"고 말했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 \\\"그녀는 제가 힘들 때나 행복할 때나 변치 않고 늘 제 곁을 지켜주며 언제나 많은 것들로 감동을 주었다\\\"며 김태희에 대한 애정을 표현했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 \\\"결혼식은 현재 시국이 불안정하고 경제적으로 어려운 시기에 최대한 조용하고 경건하게 마무리하고자 한다\\\"고 전했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한 매체에 따르면 비와 김태희는 오는 2월 19일 모 성당에서 결혼식을 올릴 예정이다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김태희와 결혼 비 \\\"훌륭한 남편이자 남자가 되려 한다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

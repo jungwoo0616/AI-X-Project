@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271278",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘뭉찬2’ 특급 용병 황희찬 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "황희찬이 ‘어쩌다벤져스’를 만난다.\nJTBC ‘뭉쳐야 찬다 2’에 현역 프리미어리거 황희찬이 출격해 어쩌다벤져스와 특별한 만남이 펼쳐진다.\n이날 어쩌다벤져스는 글로벌 축구 스타와 함께 전국 제패라는 목표를 향한 전력 강화에 힘쓴다.\n첫 번째 글로벌 축구 스타는 바로 대한민국 국가대표이자 영국 프리미어리그 ‘울버햄튼 윈더러스FC’에서 활약 중인 ‘코리안 황소’ 황희찬. 손흥민에 이어 대한민국에서 14번째로 프리미어리거가 된 황희찬은 이번 기회를 통해 국내 조기 축구에 발을 들인다고. 이에 어쩌다벤져스의 특급 용병이 되어 조기 축구 데뷔전을 치르게 된 황희찬의 활약이 기대를 모은다.\n한국인 최초로 프리미어리그 데뷔전에서 데뷔골을 터트렸던 그가 험난한 조기 축구 데뷔전에서도 골을 터트릴 수 있을지 뜨거운 관심이 모아지고 있다.\n현역 프리미어리거 황희찬과 ‘어쩌다벤져스’의 특급 만남은 매주 일요일 저녁 7시 40분에 방송되는 JTBC ‘뭉쳐야 찬다 2’에서 6월 중 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "황희찬이 ‘어쩌다벤져스’를 만난다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JTBC ‘뭉쳐야 찬다 2’에 현역 프리미어리거 황희찬이 출격해 어쩌다벤져스와 특별한 만남이 펼쳐진다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 어쩌다벤져스는 글로벌 축구 스타와 함께 전국 제패라는 목표를 향한 전력 강화에 힘쓴다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "첫 번째 글로벌 축구 스타는 바로 대한민국 국가대표이자 영국 프리미어리그 ‘울버햄튼 윈더러스FC’에서 활약 중인 ‘코리안 황소’ 황희찬. 손흥민에 이어 대한민국에서 14번째로 프리미어리거가 된 황희찬은 이번 기회를 통해 국내 조기 축구에 발을 들인다고. 이에 어쩌다벤져스의 특급 용병이 되어 조기 축구 데뷔전을 치르게 된 황희찬의 활약이 기대를 모은다.",
+				"sentenceSize": 197
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국인 최초로 프리미어리그 데뷔전에서 데뷔골을 터트렸던 그가 험난한 조기 축구 데뷔전에서도 골을 터트릴 수 있을지 뜨거운 관심이 모아지고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현역 프리미어리거 황희찬과 ‘어쩌다벤져스’의 특급 만남은 매주 일요일 저녁 7시 40분에 방송되는 JTBC ‘뭉쳐야 찬다 2’에서 6월 중 공개될 예정이다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘뭉찬2’ 특급 용병 황희찬 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

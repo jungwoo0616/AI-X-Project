@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262121",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "류준열 측, 부동산 투기 의혹에 “개인 사생활”",
+		"newsSubTitle": "",
+		"newsContent": "배우 류준열 측이 부동산 투기 의혹에 관해 입장을 알렸다.\n소속사 씨제스엔터테이먼트는 24일 셀럽미디어에 “배우 개인 자산 및 사업 관련 사생활이라 회사 입장이 나가는 게 조심스럽다”라고 전했다.\n앞서 24일 디스패치는 류준열이 지난 2020년 개인법인 ‘딥브리딩’ 명의로 강남구 역삼동에 빌딩을 지어 이를 지난 1월 150억 원에 매도해 최소 40억 원 이상의 수익을 냈다고 보도했다.\n류준열의 소속사 측은 23일 디스패치에 “류준열이 개인 수입 관리를 목적으로 법인을 설립했다”면서 “해당 법인에서 사진 전시회 등도 기획해 진행했다”고 했다.\n건물 매입 배경에 대해서는 “류준열은 강남에 건물을 지어 (친구들과) 의류 사업을 할 예정이었다”면서 “코로나19로 인해 사업을 보류, 건물 매각을 결정했다”고 덧붙였다.\n디스패치는 이를 두고 “류준열의 부동산 전략은 ‘레버리지’ 투자다. 개인 법인을 설립, 대출을 ‘풀’로 일으켰다. 토지 담보로 1번, 신축 공사로 1번, 총 2차례 대출을 받았다. 한 마디로 ‘빚테크’”라고 했다.\n보도 이후 대중들은 부동산 투기 의혹을 제기했다. ‘서류상 회사’를 설립해 대출 90%를 받고, 신축 공사 후 시세차익을 얻는 것은 전형적인 투기의 형태라고 꼬집었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 류준열 측이 부동산 투기 의혹에 관해 입장을 알렸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 씨제스엔터테이먼트는 24일 셀럽미디어에 “배우 개인 자산 및 사업 관련 사생활이라 회사 입장이 나가는 게 조심스럽다”라고 전했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 24일 디스패치는 류준열이 지난 2020년 개인법인 ‘딥브리딩’ 명의로 강남구 역삼동에 빌딩을 지어 이를 지난 1월 150억 원에 매도해 최소 40억 원 이상의 수익을 냈다고 보도했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "류준열의 소속사 측은 23일 디스패치에 “류준열이 개인 수입 관리를 목적으로 법인을 설립했다”면서 “해당 법인에서 사진 전시회 등도 기획해 진행했다”고 했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "건물 매입 배경에 대해서는 “류준열은 강남에 건물을 지어 (친구들과) 의류 사업을 할 예정이었다”면서 “코로나19로 인해 사업을 보류, 건물 매각을 결정했다”고 덧붙였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "디스패치는 이를 두고 “류준열의 부동산 전략은 ‘레버리지’ 투자다. 개인 법인을 설립, 대출을 ‘풀’로 일으켰다. 토지 담보로 1번, 신축 공사로 1번, 총 2차례 대출을 받았다. 한 마디로 ‘빚테크’”라고 했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보도 이후 대중들은 부동산 투기 의혹을 제기했다. ‘서류상 회사’를 설립해 대출 90%를 받고, 신축 공사 후 시세차익을 얻는 것은 전형적인 투기의 형태라고 꼬집었다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "류준열 측, 부동산 투기 의혹에 “개인 사생활”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171436",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "전주시 ‘2021 전주 조선팝 페스티벌’ 22일 개막",
+    "newsSubTitle": "",
+    "newsContent": "전북 전주시는 전통 가락에 대중음악을 접목한 ‘2021 전주 조선팝 페스티벌’을 오는 22일부터 전주한벽문화관에서 개최한다고 18일 밝혔다. ‘조선’과 ‘팝 음악’의 합성어인 조선팝은 전통음악을 팝과 혼합한 새로운 문화콘텐츠로, 최근 세대를 가리지 않고 인기를 끌고 있다. ‘전주 조선팝 페스티벌’은 조선팝을 글로벌 공연콘텐츠로 육성하자는 취지로 올해 처음 기획됐다.\n페스티벌에는 공개모집으로 선발된 신예 뮤지션 20팀이 노래, 연주, 퍼포먼스 등 다양한 장르의 조선팝 공연을 선보인다.\n뮤지션은 △22일 이희정밴드, 라폴라, 로보트로닉하모닉스, 시도, 디스이즈잇 △23일 k-악당, 심풀, 시:점, 모던국악프로젝트 차오름, 국악인가요 △29일 퓨전국악 비단, 타악&티안, 신들림[NEW SOUND], 뮤르[MuRR], 대금이누나 밴드 △30일 스타피쉬, 조윤성 조선POP 트리오, 놀당갑서×극단문이진규아티스트, 완전6도, 지무단 등 하루에 5팀씩 무대 위에 오른다.\n행사는 22일과 23일, 29일과 30일 등 총 4일에 걸쳐 열린다.\n당초 대면 공연으로 진행될 예정이었지만 코로나19 여파로 공식 유튜브 채널 ‘조선팝TV’를 통한 비대면 공연으로 치러진다.\n공연은 오후 5시부터 저녁 8시까지 생중계되며, 추후에도 즐길 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전북 전주시는 전통 가락에 대중음악을 접목한 ‘2021 전주 조선팝 페스티벌’을 오는 22일부터 전주한벽문화관에서 개최한다고 18일 밝혔다. ‘조선’과 ‘팝 음악’의 합성어인 조선팝은 전통음악을 팝과 혼합한 새로운 문화콘텐츠로, 최근 세대를 가리지 않고 인기를 끌고 있다. ‘전주 조선팝 페스티벌’은 조선팝을 글로벌 공연콘텐츠로 육성하자는 취지로 올해 처음 기획됐다.",
+        "sentenceSize": 205
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "페스티벌에는 공개모집으로 선발된 신예 뮤지션 20팀이 노래, 연주, 퍼포먼스 등 다양한 장르의 조선팝 공연을 선보인다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뮤지션은 △22일 이희정밴드, 라폴라, 로보트로닉하모닉스, 시도, 디스이즈잇 △23일 k-악당, 심풀, 시:점, 모던국악프로젝트 차오름, 국악인가요 △29일 퓨전국악 비단, 타악&티안, 신들림[NEW SOUND], 뮤르[MuRR], 대금이누나 밴드 △30일 스타피쉬, 조윤성 조선POP 트리오, 놀당갑서×극단문이진규아티스트, 완전6도, 지무단 등 하루에 5팀씩 무대 위에 오른다.",
+        "sentenceSize": 212
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "행사는 22일과 23일, 29일과 30일 등 총 4일에 걸쳐 열린다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당초 대면 공연으로 진행될 예정이었지만 코로나19 여파로 공식 유튜브 채널 ‘조선팝TV’를 통한 비대면 공연으로 치러진다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공연은 오후 5시부터 저녁 8시까지 생중계되며, 추후에도 즐길 수 있다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조선팝 페스티벌, 대중 사로잡을 라인업 공개! 그래서 장소가 어디라고?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

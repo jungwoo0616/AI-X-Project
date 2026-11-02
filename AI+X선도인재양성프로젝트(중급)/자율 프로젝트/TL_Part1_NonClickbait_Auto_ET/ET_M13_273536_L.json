@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273536",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "나나의 화끈한 여름[화보]",
+		"newsSubTitle": "",
+		"newsContent": "‘세상에서 가장 예쁜 얼굴’로 유명한 가수 겸 배우 나나가 이번엔 완벽한 몸매를 드러내며 시선을 끌었다.\n나나는 코스모폴리탄 7월호 커버를 장식하며 매력을 뽐냈다.\n화보 속 나나는 수영복 차림으로 시선을 압도하는 아우라를 내뿜었다.\n나나는 이어진 인터뷰에서 “넷플릭스 시리즈 ‘글리치’ 촬영을 마치고, 지금은 새 드라마 ‘내 남자는 큐피드’와 넷플릭스 시리즈 ‘마스크걸’ 촬영을 하며 지내고 있다”면서 “원래 뭐든 쉽게 질려 하는 성격이지만 내 인생에서 유일하게 질리지 않는 것이 연기”라고 배우생활에 대한 만족감을 드러냈다.\n그는 배우가 되어도 ‘나나’라는 예명을 그대로 사용하는 이유에 대해 “‘애프터스쿨’과 ‘오렌지 캬라멜’ 활동은 여전히 내게 큰 의미”라고 전했다.\n끝으로 진정한 아름다움을 묻는 질문에 ‘건강한 정신’이라고 답하며 내면의 중요성을 강조했다.\n나나는 지난 2015년 영화사이트 TC캔들러(TC Candler)가 발표한 ‘2015 세계에서 가장 아름다운 얼굴 100인(100 The Most Beautiful Face of 2015)’ 명단에서 1위를 차지해 큰 화제를 모은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘세상에서 가장 예쁜 얼굴’로 유명한 가수 겸 배우 나나가 이번엔 완벽한 몸매를 드러내며 시선을 끌었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "나나는 코스모폴리탄 7월호 커버를 장식하며 매력을 뽐냈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화보 속 나나는 수영복 차림으로 시선을 압도하는 아우라를 내뿜었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나나는 이어진 인터뷰에서 “넷플릭스 시리즈 ‘글리치’ 촬영을 마치고, 지금은 새 드라마 ‘내 남자는 큐피드’와 넷플릭스 시리즈 ‘마스크걸’ 촬영을 하며 지내고 있다”면서 “원래 뭐든 쉽게 질려 하는 성격이지만 내 인생에서 유일하게 질리지 않는 것이 연기”라고 배우생활에 대한 만족감을 드러냈다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 배우가 되어도 ‘나나’라는 예명을 그대로 사용하는 이유에 대해 “‘애프터스쿨’과 ‘오렌지 캬라멜’ 활동은 여전히 내게 큰 의미”라고 전했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "끝으로 진정한 아름다움을 묻는 질문에 ‘건강한 정신’이라고 답하며 내면의 중요성을 강조했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "나나는 지난 2015년 영화사이트 TC캔들러(TC Candler)가 발표한 ‘2015 세계에서 가장 아름다운 얼굴 100인(100 The Most Beautiful Face of 2015)’ 명단에서 1위를 차지해 큰 화제를 모은 바 있다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나나의 화끈한 여름[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

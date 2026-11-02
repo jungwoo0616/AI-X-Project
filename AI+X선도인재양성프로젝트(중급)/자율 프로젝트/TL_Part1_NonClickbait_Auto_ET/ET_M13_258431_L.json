@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258431",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "최예나 “아이즈원 멤버 전원이 솔로 데뷔 응원해줘”",
+		"newsSubTitle": "",
+		"newsContent": "아이즈원 출신 최예나가 솔로 데뷔 소감을 전했다.\n최예나는 17일 오후 미니 1집 ‘스마일리’(SMiLEY) 발매 기념 쇼케이스를 개최했다.\n이날 행사는 코로나19 확산 방지를 위해 온라인으로 진행됐다.\n최예나는 “안 떨릴 줄 알았는데 너무 떨린다. 오랫동안 바란 꿈이고 팬분들도 기다렸던 순간인 것 같아서 빨리 보여드리고 싶었다”고 컴백 소감을 밝혔다.\n이어 “방금까지 (아이즈원) 멤버들이 단체 메시지방에서 데뷔 축하한다고 응원해줬다. ‘행복하다’ ‘사랑받고 있구나’ 느꼈다”고 감사 인사도 전했다.\n한편, 최예나 미니 1집 ‘스마일리’(SMiLEY)는 17일 오후 6시 각종 음원 사이트를 통해 발매된다.\n타이틀 ‘스마일리’는 힘들고 어려운 상황에서도 웃음으로 넘겨버리는 최예나 특유의 긍정 마인드가 담겨 있는 가사와 밝은 멜로디가 인상적인 곡이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이즈원 출신 최예나가 솔로 데뷔 소감을 전했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최예나는 17일 오후 미니 1집 ‘스마일리’(SMiLEY) 발매 기념 쇼케이스를 개최했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 행사는 코로나19 확산 방지를 위해 온라인으로 진행됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최예나는 “안 떨릴 줄 알았는데 너무 떨린다. 오랫동안 바란 꿈이고 팬분들도 기다렸던 순간인 것 같아서 빨리 보여드리고 싶었다”고 컴백 소감을 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “방금까지 (아이즈원) 멤버들이 단체 메시지방에서 데뷔 축하한다고 응원해줬다. ‘행복하다’ ‘사랑받고 있구나’ 느꼈다”고 감사 인사도 전했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 최예나 미니 1집 ‘스마일리’(SMiLEY)는 17일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "타이틀 ‘스마일리’는 힘들고 어려운 상황에서도 웃음으로 넘겨버리는 최예나 특유의 긍정 마인드가 담겨 있는 가사와 밝은 멜로디가 인상적인 곡이다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최예나 “아이즈원 멤버 전원이 솔로 데뷔 응원해줘”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

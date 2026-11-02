@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275919",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘환승연애2’ 이진주 PD “초반 X추리 재밌을 것”",
+		"newsSubTitle": "",
+		"newsContent": "시청자들의 ‘과몰입’을 불러일으킨 티빙 연애 리얼리티 예능 ‘환승연애’가 시즌2로 돌아왔다.\n20일 열린 ‘환승연애2’ 온라인 제작발표회에서 이진주 PD는 “시즌1을 어떻게 변주할지 고민했는데, 기존에 시청자들이 좋아해 주는 장치들을 바꾸지 않으면서 새 출연자들이 주는 새로운 에너지를 담아내려고 했다”고 말했다.\n과거 연인이었던 출연자들이 숙소 생활 초반 신분을 속이는 만큼, 누가 누구의 연인이었는지를 맞춰보는 추리도 ‘환승연애’의 재미다.\n이 PD는 “시즌2에서 이런 재미를 더 주고자 노력했기 때문에 초반 X에 대한 추리를 중점적으로 보면 재밌을 것”이라고 말했다. ‘환승연애’는 한 차례 이별을 겪은 커플들이 한 공간에 모여 과거의 연인을 택할지, 새로운 사랑을 찾아 떠날지 고민하는 모습을 담아낸 프로그램이다.\n시즌1의 패널 이용진, 유라, 사이먼 도미닉, 김예원 4명이 모두 시즌2에 그대로 출연한다.\n이용진은 “친구가 술집에서 하는 연애상담 정도의 리얼함이 ‘환승연애’의 강점”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시청자들의 ‘과몰입’을 불러일으킨 티빙 연애 리얼리티 예능 ‘환승연애’가 시즌2로 돌아왔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 열린 ‘환승연애2’ 온라인 제작발표회에서 이진주 PD는 “시즌1을 어떻게 변주할지 고민했는데, 기존에 시청자들이 좋아해 주는 장치들을 바꾸지 않으면서 새 출연자들이 주는 새로운 에너지를 담아내려고 했다”고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과거 연인이었던 출연자들이 숙소 생활 초반 신분을 속이는 만큼, 누가 누구의 연인이었는지를 맞춰보는 추리도 ‘환승연애’의 재미다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 PD는 “시즌2에서 이런 재미를 더 주고자 노력했기 때문에 초반 X에 대한 추리를 중점적으로 보면 재밌을 것”이라고 말했다. ‘환승연애’는 한 차례 이별을 겪은 커플들이 한 공간에 모여 과거의 연인을 택할지, 새로운 사랑을 찾아 떠날지 고민하는 모습을 담아낸 프로그램이다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시즌1의 패널 이용진, 유라, 사이먼 도미닉, 김예원 4명이 모두 시즌2에 그대로 출연한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이용진은 “친구가 술집에서 하는 연애상담 정도의 리얼함이 ‘환승연애’의 강점”이라고 말했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘환승연애2’ 이진주 PD “초반 X추리 재밌을 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

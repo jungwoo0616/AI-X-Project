@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269223",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘정겨운♥’ 김우림 “지금도 아파요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 정겨운의 아내 김우림이 괌 여행 모습을 전했다.\n4일 김우림은 SNS에 “못 고르겠어서 둘 다 올려요. 저 태양볕에 스노쿨링 세시간 한 사람. 결과물.. 지금도 아파요”라는 글과 함께 사진을 공개했다.\n사진에는 노을진 해변가에서 포즈를 취하고 있는 김우림 뒷모습이 담겼다.\n수영복을 입은 김우림이 만족한 스노쿨링을 한 후 공개한 등은 빨갛게 익어 있는 모습이다.\n김우림은 최근 괌으로 가족 여행을 떠났다.\n김우림은 10살 연상의 배우 정겨운과 2017년 결혼했다.\n이들은 SBS ‘동상이몽2-너는 내 운명’에 출연해 신혼 일상을 공개하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정겨운의 아내 김우림이 괌 여행 모습을 전했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 김우림은 SNS에 “못 고르겠어서 둘 다 올려요. 저 태양볕에 스노쿨링 세시간 한 사람. 결과물.. 지금도 아파요”라는 글과 함께 사진을 공개했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 노을진 해변가에서 포즈를 취하고 있는 김우림 뒷모습이 담겼다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수영복을 입은 김우림이 만족한 스노쿨링을 한 후 공개한 등은 빨갛게 익어 있는 모습이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김우림은 최근 괌으로 가족 여행을 떠났다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김우림은 10살 연상의 배우 정겨운과 2017년 결혼했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이들은 SBS ‘동상이몽2-너는 내 운명’에 출연해 신혼 일상을 공개하기도 했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘정겨운♥’ 김우림 “지금도 아파요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170874",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "김지석, 유튜브 채널 개설 “자극적이지 않게 만들겠다”",
+    "newsSubTitle": "",
+    "newsContent": "배우 김지석이 유튜브 채널 ‘내 안의 보석’을 개설했다.\n김지석은 12일 오후 ‘내 안의 보석’에 첫 회 영상을 올렸다.\n자신의 첫 보석으로 가족을 꼽은 그는 아버지와 함께 단란한 시간을 보냈다.\n김지석 데뷔 후 처음으로 공개된 아버지는 초반 어색해하며 “애비 노릇하기 힘들다”라고 말해 웃음을 자아냈다.\n그러나 금세 현실 부자의 티격태격하는 모습으로 전환됐고, 특히 아버지의 ‘결혼 압박’, ‘손주 압박’에 시달리는 김지석의 리얼 라이프가 웃음과 공감을 자아냈다.\n이날 김지석은 자신의 채널과 관련, “자극적이지 않은, 또 조회수에 연연하지 않은 채널로 만들고 싶다. 보시는 분들이 위로를 받을 수 있는 콘텐츠를 만들고 싶다”고 전했다.\n그러나 다음 순간, 구독자의 마음을 사로잡는 썸네일을 만들고 싶다는 야망에 아버지 앞에서 돌연 무릎을 꿇는 모습을 보이기도 했다.\n김지석의 ‘내 안의 보석’은 매주 목요일 공개된다.\n웰메이드 유튜브 ‘내 안의 보석’은 김지석의 본명, 김보석에서 따온 채널명으로 ‘좋은 사람’ 김지석이 자신의 진정한 보석을 찾는 여정을 담는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김지석이 유튜브 채널 ‘내 안의 보석’을 개설했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김지석은 12일 오후 ‘내 안의 보석’에 첫 회 영상을 올렸다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자신의 첫 보석으로 가족을 꼽은 그는 아버지와 함께 단란한 시간을 보냈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김지석 데뷔 후 처음으로 공개된 아버지는 초반 어색해하며 “애비 노릇하기 힘들다”라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 금세 현실 부자의 티격태격하는 모습으로 전환됐고, 특히 아버지의 ‘결혼 압박’, ‘손주 압박’에 시달리는 김지석의 리얼 라이프가 웃음과 공감을 자아냈다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 김지석은 자신의 채널과 관련, “자극적이지 않은, 또 조회수에 연연하지 않은 채널로 만들고 싶다. 보시는 분들이 위로를 받을 수 있는 콘텐츠를 만들고 싶다”고 전했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 다음 순간, 구독자의 마음을 사로잡는 썸네일을 만들고 싶다는 야망에 아버지 앞에서 돌연 무릎을 꿇는 모습을 보이기도 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김지석의 ‘내 안의 보석’은 매주 목요일 공개된다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "웰메이드 유튜브 ‘내 안의 보석’은 김지석의 본명, 김보석에서 따온 채널명으로 ‘좋은 사람’ 김지석이 자신의 진정한 보석을 찾는 여정을 담는다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 김지석, 이것 개설... \"자극적이지 않게 만들겠다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

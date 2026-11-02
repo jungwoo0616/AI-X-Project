@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258702",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“다 갈아엎었네”…이세영, 도 넘은 외모 품평에 법적 대응 예고",
+		"newsSubTitle": "",
+		"newsContent": "코미디언 이세영이 악성 댓글에 대한 강경 대응을 예고했다.\n이세영은 19일 자신의 인스타그램에 악성 댓글을 남기는 일부 누리꾼들을 박제했다.\n공개된 사진에는 “궁금해서 그러는데 엉덩이 수술한 거냐. 인위적이라 궁금하다” “대한민국 성형이 대단하다” “다 갈아엎었다” 등 이세영의 외모를 비하하는 댓글들이 담겼다.\n이세영은 이에 대해 “반성문 적을 준비하라”며 강경 대응 방침을 밝혔다.\n앞서 이세영은 지난해 11월 “저에 대한 악성 댓글 제보받는다”며 “특정 사이트, 커뮤니티, 포털 등 댓글을 포함해 제보해 달라”고 법적 대응을 예고한 바 있다.\n한편, 이세영은 2019년부터 연하의 재일교포 남자친구와 공개 열애 중이다.\n두 사람은 유튜브 ‘영평티비’를 통해 연애 일상을 공개하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코미디언 이세영이 악성 댓글에 대한 강경 대응을 예고했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이세영은 19일 자신의 인스타그램에 악성 댓글을 남기는 일부 누리꾼들을 박제했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 “궁금해서 그러는데 엉덩이 수술한 거냐. 인위적이라 궁금하다” “대한민국 성형이 대단하다” “다 갈아엎었다” 등 이세영의 외모를 비하하는 댓글들이 담겼다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이세영은 이에 대해 “반성문 적을 준비하라”며 강경 대응 방침을 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 이세영은 지난해 11월 “저에 대한 악성 댓글 제보받는다”며 “특정 사이트, 커뮤니티, 포털 등 댓글을 포함해 제보해 달라”고 법적 대응을 예고한 바 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 이세영은 2019년부터 연하의 재일교포 남자친구와 공개 열애 중이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람은 유튜브 ‘영평티비’를 통해 연애 일상을 공개하고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“다 갈아엎었네”…이세영, 도 넘은 외모 품평에 법적 대응 예고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

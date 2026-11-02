@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168907",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "해투 권상우, 오랜만의 예능 나들이…전현무 합류 후 첫 '해피투게더'",
+    "newsSubTitle": "",
+    "newsContent": "배우 권상우가 오랜만에 예능에 출연하는 소식이 전해져 화제다.\n배우 성동일, 가수 레이디제인, 아나운서 박은영과 함께'해피투게더3'을 통해 인사할 예정이다.\n9월 10일 오전 '해피투게더3' 관계자에 따르면 오는 9월 12일 진행될 녹화는 '최강콤비' 편으로 성동일, 권상우, 가수 레이디제인, 박은영의 모습이 전파를 탄다.\n관계자는 \\\"이번 녹화에서는 스타들이 연예계 활동을 하면서 자신과 완벽한 호흡을 맞춘 콤비에 대한 다양한 이야기를 털어놓을 것\\\"이라며 \\\"이달 중 방송될 예정이다\\\"고 전했다.\n관계자는 \\\"이번 녹화는 전현무가 '해피투게더3'에 합류하기 전으로 프로그램 개편과는 무관하다\\\"고 말했다.\n한편 '해피투게더3'는 오는 9월 26일부터 전현무가 새 MC로 합류, 개편 후 첫 방송은 오는 10월 8일 방송된다.\n온라인 중앙일보 [사진 중앙DB] 해투 권상우",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 권상우가 오랜만에 예능에 출연하는 소식이 전해져 화제다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우 성동일, 가수 레이디제인, 아나운서 박은영과 함께'해피투게더3'을 통해 인사할 예정이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "9월 10일 오전 '해피투게더3' 관계자에 따르면 오는 9월 12일 진행될 녹화는 '최강콤비' 편으로 성동일, 권상우, 가수 레이디제인, 박은영의 모습이 전파를 탄다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "관계자는 \\\"이번 녹화에서는 스타들이 연예계 활동을 하면서 자신과 완벽한 호흡을 맞춘 콤비에 대한 다양한 이야기를 털어놓을 것\\\"이라며 \\\"이달 중 방송될 예정이다\\\"고 전했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "관계자는 \\\"이번 녹화는 전현무가 '해피투게더3'에 합류하기 전으로 프로그램 개편과는 무관하다\\\"고 말했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 '해피투게더3'는 오는 9월 26일부터 전현무가 새 MC로 합류, 개편 후 첫 방송은 오는 10월 8일 방송된다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 중앙DB] 해투 권상우",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "권상우 오랜만에 예능 출연, 웃고 있는 전현무... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

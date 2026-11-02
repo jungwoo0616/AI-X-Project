@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283886",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "홍진영, \\\"성형하고 나서 일주일은 쉬어야 하는데…\\\"무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "가수 홍진영이 이례적으로 '복면가왕'에 두 번 출연해 화제인 가운데 그녀의 수입이 재조명 되고 있다.\n홍진영은 지난 1월 MBC FM4U '정오의 희망곡-라이브 온 에어(Live on Air)'에 출연해 행사의 여왕다운 면모를 뽐냈다.\nDJ 김신영은 방송에서 \\\"홍진영씨가 예전에 성형 의혹에 대해 성형 하고 나서 일주일은 쉬어야 하는데 하루에 행사 3~4개가 잡혀 그러지 못한다고 했다\\\"라고 말해 웃음을 끌어냈다.\n이를 들은 홍진영은 \\\"행사를 많이 할 때는 한달에 50개~60개 정도 한다\\\"며 \\\"하루에 1~2개씩은 꼬박꼬박 하고 있다고 밝혔다. 방송을 들은 청취자들은 \\\"보통 한 행사에 500만원만 잡아도 한 달이면 2~3억에 달한다\\\"는 실시간 댓글을 남기며 놀라움을 감추지 못했다.\n한편 지난 8일 방송된 MBC '일밤-미스터리 음악쇼 복면가왕'에는 '소녀의 순정 코스모스'에 도전하는 4인의 준결승 진출자들의 대결이 전파를 탔다.\n이날 두 번째 무대에 오른 신선약초 은행잎은 뱅크의 '가을의 전설'을 열창했지만 '상감마마 납시오'에 패하며 얼굴을 공개해야 했고 은행잎의 정체는 트로트 가수 홍진영이었다.\n온라인 중앙일보 홍진영 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 홍진영이 이례적으로 '복면가왕'에 두 번 출연해 화제인 가운데 그녀의 수입이 재조명 되고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍진영은 지난 1월 MBC FM4U '정오의 희망곡-라이브 온 에어(Live on Air)'에 출연해 행사의 여왕다운 면모를 뽐냈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "DJ 김신영은 방송에서 \\\"홍진영씨가 예전에 성형 의혹에 대해 성형 하고 나서 일주일은 쉬어야 하는데 하루에 행사 3~4개가 잡혀 그러지 못한다고 했다\\\"라고 말해 웃음을 끌어냈다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 들은 홍진영은 \\\"행사를 많이 할 때는 한달에 50개~60개 정도 한다\\\"며 \\\"하루에 1~2개씩은 꼬박꼬박 하고 있다고 밝혔다. 방송을 들은 청취자들은 \\\"보통 한 행사에 500만원만 잡아도 한 달이면 2~3억에 달한다\\\"는 실시간 댓글을 남기며 놀라움을 감추지 못했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 지난 8일 방송된 MBC '일밤-미스터리 음악쇼 복면가왕'에는 '소녀의 순정 코스모스'에 도전하는 4인의 준결승 진출자들의 대결이 전파를 탔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 두 번째 무대에 오른 신선약초 은행잎은 뱅크의 '가을의 전설'을 열창했지만 '상감마마 납시오'에 패하며 얼굴을 공개해야 했고 은행잎의 정체는 트로트 가수 홍진영이었다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 홍진영 [사진 일간스포츠]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍진영, \\\"성형하고 나서 일주일은 쉬어야 하는데…\\\"무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

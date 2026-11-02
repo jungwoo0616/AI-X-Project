@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268159",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘탑 발라드’ 추천 받습니다",
+		"newsSubTitle": "",
+		"newsContent": "‘탑 발라드 프로젝트’가 새로운 비상을 준비한다.\n빅오션이엔엠은 지난 25일 오후 6시 공식 SNS에 ‘탑 발라드 프로젝트’의 신규 콘텐츠를 예고하는 이미지를 게재했다.\n공개된 이미지에는 오선지 위에 ‘What is your Top Ballad?’라는 영문이 담겨 눈길을 끈다.\n또한 ‘Top Ballad Project를 통해 당신의 Top Ballad 2를 들려 드립니다’라는 글귀는 호기심을 자극한다.\n빅오션이엔엠은 공식 SNS를 통해 향후 ‘탑 발라드 프로젝트’에서 진행할 발라드를 댓글로 추천받는다.\n기간을 정해두지 않은 채 대중의 다양한 의견들을 수렴할 예정이다. ‘탑 발라드 프로젝트’ part. 1 송하예의 ‘니 소식2’는 지난 16일 발매 이후 멜론 톱 100차트 진입과 함께 각종 음원 사이트 상위권을 차지하며 뜨거운 인기를 기록했던 바. ‘탑 발라드 프로젝트’에 대한 리스너들의 관심이 집중된다.\n한편 ‘탑 발라드 프로젝트’는 대중에게 많은 사랑을 받은 발라드 곡의 뒷이야기를 담는 프로젝트다.\n원곡과 동일한 아티스트가 가창에 참여하는 방식으로 화제를 모으고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘탑 발라드 프로젝트’가 새로운 비상을 준비한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅오션이엔엠은 지난 25일 오후 6시 공식 SNS에 ‘탑 발라드 프로젝트’의 신규 콘텐츠를 예고하는 이미지를 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 이미지에는 오선지 위에 ‘What is your Top Ballad?’라는 영문이 담겨 눈길을 끈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 ‘Top Ballad Project를 통해 당신의 Top Ballad 2를 들려 드립니다’라는 글귀는 호기심을 자극한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빅오션이엔엠은 공식 SNS를 통해 향후 ‘탑 발라드 프로젝트’에서 진행할 발라드를 댓글로 추천받는다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기간을 정해두지 않은 채 대중의 다양한 의견들을 수렴할 예정이다. ‘탑 발라드 프로젝트’ part. 1 송하예의 ‘니 소식2’는 지난 16일 발매 이후 멜론 톱 100차트 진입과 함께 각종 음원 사이트 상위권을 차지하며 뜨거운 인기를 기록했던 바. ‘탑 발라드 프로젝트’에 대한 리스너들의 관심이 집중된다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘탑 발라드 프로젝트’는 대중에게 많은 사랑을 받은 발라드 곡의 뒷이야기를 담는 프로젝트다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "원곡과 동일한 아티스트가 가창에 참여하는 방식으로 화제를 모으고 있다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘탑 발라드’ 추천 받습니다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

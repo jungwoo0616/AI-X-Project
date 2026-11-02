@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264925",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "붐, ♥예비 신부에게 “누구보다 행복하게 해줄 것” (국가가 부른다)",
+		"newsSubTitle": "",
+		"newsContent": "‘국가가 부른다’ 붐이 예비신부에게 마음을 전했다.\n24일 오후 방송된 TV CHOSUN ‘국가가 부른다’에서는 결혼을 앞둔 붐이 예비 신부에게 영상 편지를 보내는 장면이 전파를 탔다.\n이날 MC 김성주는 붐의 결혼 소식을 전했다.\n이에 국가부 요원들은 붐의 결혼을 축하하며 잉꼬 길만 걸으라며 혼수를 건넸다.\n백년해로 원앙 오리 세트부터 복분자, 족쇄까지 등장했다.\n수갑에 붐은 “수갑은 뭐예요?”라고 물었고 김성주는 그에게 “결혼은 처음이죠?”라고 물어 당황하게 했다.\n유튜브에서 다녀온 것처럼 말한다고 처음이라 밝힌 붐은 예비 신부에게 “예신님, 제가 약속한 대로 평생 행복하게 잘 지내고요. 백년가약을 맺는 건데 앞으로의 인생은 누구보다 행복할 수 있게끔 노력하겠다. 저의 싼 티 미이지, 당신에게만큼은 가장 고급스러운 남편이 되도록 하겠다”라고 영상 편지를 전했다.\n한편 TV CHOSUN ‘국가가 부른다’는 매주 목요일 오후 10시에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘국가가 부른다’ 붐이 예비신부에게 마음을 전했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 오후 방송된 TV CHOSUN ‘국가가 부른다’에서는 결혼을 앞둔 붐이 예비 신부에게 영상 편지를 보내는 장면이 전파를 탔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 MC 김성주는 붐의 결혼 소식을 전했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 국가부 요원들은 붐의 결혼을 축하하며 잉꼬 길만 걸으라며 혼수를 건넸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백년해로 원앙 오리 세트부터 복분자, 족쇄까지 등장했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수갑에 붐은 “수갑은 뭐예요?”라고 물었고 김성주는 그에게 “결혼은 처음이죠?”라고 물어 당황하게 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유튜브에서 다녀온 것처럼 말한다고 처음이라 밝힌 붐은 예비 신부에게 “예신님, 제가 약속한 대로 평생 행복하게 잘 지내고요. 백년가약을 맺는 건데 앞으로의 인생은 누구보다 행복할 수 있게끔 노력하겠다. 저의 싼 티 미이지, 당신에게만큼은 가장 고급스러운 남편이 되도록 하겠다”라고 영상 편지를 전했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 TV CHOSUN ‘국가가 부른다’는 매주 목요일 오후 10시에 만나볼 수 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "붐, ♥예비 신부에게 “누구보다 행복하게 해줄 것” (국가가 부른다)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

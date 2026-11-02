@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278179",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김완선, '인기가요'로 컴백…강렬한 붉은빛 의상에 '시선 강탈'",
+		"newsSubTitle": "",
+		"newsContent": "가수 김완선이 '인기가요'로 컴백했다.\n1일 오후 방송된 SBS ‘인기가요’에는 김완선이 출연해 ‘유즈미’를 열창했다.\n이날 김완선은 강렬한 붉은빛 의상과 과감한 금발로 시선을 사로잡았다.\n아울러 ‘한국의 마돈나’ 답게 노련미가 빛나는 퍼포먼스와 흔들림 없는 가창력으로 눈과 귀를 만족시키는 퍼포먼스를 완성했다. ‘유즈미’는 시원한 레트로 일렉트로닉 사운드 위로 중독성 강한 멜로디가 반복해서 펼쳐지는 곡이다.\n이날 방송에는 블락비, 정은지, 빅스, 이하이, 예성, NCT U, TWICE, 러블리즈, 세븐틴, 김완선, 에이프릴, 업텐션, 박보람, 크나큰, 비지, 샘 김 등이 출연해 다채로운 무대를 선사했다.\n온라인 중앙일보 [사진 SBS '인기가요' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김완선이 '인기가요'로 컴백했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 오후 방송된 SBS ‘인기가요’에는 김완선이 출연해 ‘유즈미’를 열창했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김완선은 강렬한 붉은빛 의상과 과감한 금발로 시선을 사로잡았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아울러 ‘한국의 마돈나’ 답게 노련미가 빛나는 퍼포먼스와 흔들림 없는 가창력으로 눈과 귀를 만족시키는 퍼포먼스를 완성했다. ‘유즈미’는 시원한 레트로 일렉트로닉 사운드 위로 중독성 강한 멜로디가 반복해서 펼쳐지는 곡이다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에는 블락비, 정은지, 빅스, 이하이, 예성, NCT U, TWICE, 러블리즈, 세븐틴, 김완선, 에이프릴, 업텐션, 박보람, 크나큰, 비지, 샘 김 등이 출연해 다채로운 무대를 선사했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 SBS '인기가요' 캡처]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김완선, '인기가요'로 컴백…강렬한 붉은빛 의상에 '시선 강탈'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

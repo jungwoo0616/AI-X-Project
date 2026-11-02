@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260199",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "엔하이픈, 22일 日 싱글 ‘Always’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "그룹 ENHYPEN(엔하이픈)이 일본에서 새 디지털 싱글 ‘Always’를 발매한다.\nENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)의 소속사 빌리프랩은 “ENHYPEN이 오는 22일 일본 디지털 싱글 ‘Always’를 발매한다”라고 7일 밝혔다.\n이 곡은 지난달부터 니혼TV(NTV)에서 방영되고 있는 수요 드라마 ‘무챠부리! 내가 사장이 되다니’(ムチャブリ! わたしが社長になるなんて)의 주제가로 선정돼 큰 화제에 오른 바 있다.\n드라마 연출을 맡은 스즈키 아키노 프로듀서는 “드라마의 이야기를 생각했을 때 ‘힘을 주는 아티스트’가 좋다고 생각했고, 그 때 떠오른 것이 ENHYPEN이었다”라고 밝혔다.\nENHYPEN은 첫 드라마 OST 참여에 대해 “‘Always’를 통해 지금을 살아가는 모든 분들께 힘을 줄 수 있으면 좋겠다. 드라마와 함께 노래도 많이 기대해 달라”라고 소감을 전하기도 했다.\nENHYPEN은 지난달 발매한 정규 1집 리패키지 앨범 ‘DIMESION : ANSWER’로 일본 오리콘 데일리 앨범 차트와 주간 앨범 차트는 물론, 주간 합산 앨범 랭킹에서도 정상에 오르며 뜨거운 현지 인기를 입증했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 ENHYPEN(엔하이픈)이 일본에서 새 디지털 싱글 ‘Always’를 발매한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ENHYPEN(정원, 희승, 제이, 제이크, 성훈, 선우, 니키)의 소속사 빌리프랩은 “ENHYPEN이 오는 22일 일본 디지털 싱글 ‘Always’를 발매한다”라고 7일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 곡은 지난달부터 니혼TV(NTV)에서 방영되고 있는 수요 드라마 ‘무챠부리! 내가 사장이 되다니’(ムチャブリ! わたしが社長になるなんて)의 주제가로 선정돼 큰 화제에 오른 바 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "드라마 연출을 맡은 스즈키 아키노 프로듀서는 “드라마의 이야기를 생각했을 때 ‘힘을 주는 아티스트’가 좋다고 생각했고, 그 때 떠오른 것이 ENHYPEN이었다”라고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ENHYPEN은 첫 드라마 OST 참여에 대해 “‘Always’를 통해 지금을 살아가는 모든 분들께 힘을 줄 수 있으면 좋겠다. 드라마와 함께 노래도 많이 기대해 달라”라고 소감을 전하기도 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ENHYPEN은 지난달 발매한 정규 1집 리패키지 앨범 ‘DIMESION : ANSWER’로 일본 오리콘 데일리 앨범 차트와 주간 앨범 차트는 물론, 주간 합산 앨범 랭킹에서도 정상에 오르며 뜨거운 현지 인기를 입증했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엔하이픈, 22일 日 싱글 ‘Always’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

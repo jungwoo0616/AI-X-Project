@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169394",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김영옥, 코로나19 확진…생애 첫 주연작 ‘말임씨를 부탁해’ 비상",
+    "newsSubTitle": "",
+    "newsContent": "생애 첫 주연 영화의 개봉을 앞둔 원로 배우 김영옥(86)이 코로나19 확진 판정을 받았다.\n한 관계자는 스포츠경향에 24일 “배우 김영옥이 이날 코로나19 확진 판정을 받았다”고 밝혔다.\n관계자에 따르면 영화 ‘말임씨를 부탁해’ 언론 시사 및 기자간담회가 잡힌 30일까지 격리 치료에 들어가야 하는 불가피한 상황으로 해당 행사는 시사만 치러지게 됐다. ‘우리 엄마를 부탁해’로 알려진 ‘말임씨를 부탁해’는 김영옥이 현역 최고령으로 주연을 맡아 화제를 모았다.\n또한 김영옥의 연기 인생 첫 주연작이기도 하다. ‘말임씨를 부탁해’는 효자 코스프레하는 아들과 가족 코스프레하는 요양보호사 사이에 낀 85세 정말임 여사의 선택을 그린 가족 이야기다.\n충무로 안팎의 큰 관심을 모았던 ‘말임씨를 부탁해’는 오는 4월 13일 개봉 예정이다.\n한편 김영옥은 현재 JTBC 예능 ‘뜨거운 씽어즈’, 채널S 예능 ‘진격의 할매’, KBS2 주말극 ‘신사와 아가씨’에 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "생애 첫 주연 영화의 개봉을 앞둔 원로 배우 김영옥(86)이 코로나19 확진 판정을 받았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 관계자는 스포츠경향에 24일 “배우 김영옥이 이날 코로나19 확진 판정을 받았다”고 밝혔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "관계자에 따르면 영화 ‘말임씨를 부탁해’ 언론 시사 및 기자간담회가 잡힌 30일까지 격리 치료에 들어가야 하는 불가피한 상황으로 해당 행사는 시사만 치러지게 됐다. ‘우리 엄마를 부탁해’로 알려진 ‘말임씨를 부탁해’는 김영옥이 현역 최고령으로 주연을 맡아 화제를 모았다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 김영옥의 연기 인생 첫 주연작이기도 하다. ‘말임씨를 부탁해’는 효자 코스프레하는 아들과 가족 코스프레하는 요양보호사 사이에 낀 85세 정말임 여사의 선택을 그린 가족 이야기다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "충무로 안팎의 큰 관심을 모았던 ‘말임씨를 부탁해’는 오는 4월 13일 개봉 예정이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김영옥은 현재 JTBC 예능 ‘뜨거운 씽어즈’, 채널S 예능 ‘진격의 할매’, KBS2 주말극 ‘신사와 아가씨’에 출연 중이다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'말임씨를 부탁해' 주연 배우 코로나19 확진 판정에 시사회에 아무도 참석 못 해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259718",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유인영 고가레고 가득, 남다른 취미생활 공개",
+		"newsSubTitle": "",
+		"newsContent": "배우 유인영이 남다른 취미생활을 공개했다.\n유인영은 28일 인스타그램에 “반짝반짝 빛나는 저의 레고들을 소개한다”며 소장한 레고와 함께 포즈를 취한 사진을 올렸다. “사실 저 레고 부자”라고 설명한 유인영은 자신의 유튜브 영상에 레고 영상을 올렸다며 홍보 메시지를 덧붙였다.\n유인영이 소장한 레고들은 고가거나 인기가 많은 제품들로 이뤄져 있다. ‘레고 비트맨 1989 배트윙’(약 25만원), ‘레고 디즈니 미키·미니 마우스’(약 15만원), ‘레고 꽃다발 플라워 부케’(약 10만원), ‘레고 아이디어 그랜드 피아노’(약 47만원), ‘레고 헤리포터 호그와트 아이콘’(약 35만원), ‘레고 마블 스파이너맨 데일리 뷰글’(약 45만원), ‘레고 기묘한 이야기 업사이드 다운’(약 35만원) 등의 제품이 있다.\n모두 최근 출시해 선호도가 높은 제품들로 이뤄져 있다.\n유인영은 해당 레고를 언박싱하고 조립하는 영상을 자신의 유튜브에 공개했다.\n최근 레고는 다양한 브랜드 및 콘텐츠와 협업을 진행하며 인기를 이어오고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유인영이 남다른 취미생활을 공개했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유인영은 28일 인스타그램에 “반짝반짝 빛나는 저의 레고들을 소개한다”며 소장한 레고와 함께 포즈를 취한 사진을 올렸다. “사실 저 레고 부자”라고 설명한 유인영은 자신의 유튜브 영상에 레고 영상을 올렸다며 홍보 메시지를 덧붙였다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유인영이 소장한 레고들은 고가거나 인기가 많은 제품들로 이뤄져 있다. ‘레고 비트맨 1989 배트윙’(약 25만원), ‘레고 디즈니 미키·미니 마우스’(약 15만원), ‘레고 꽃다발 플라워 부케’(약 10만원), ‘레고 아이디어 그랜드 피아노’(약 47만원), ‘레고 헤리포터 호그와트 아이콘’(약 35만원), ‘레고 마블 스파이너맨 데일리 뷰글’(약 45만원), ‘레고 기묘한 이야기 업사이드 다운’(약 35만원) 등의 제품이 있다.",
+				"sentenceSize": 243
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모두 최근 출시해 선호도가 높은 제품들로 이뤄져 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유인영은 해당 레고를 언박싱하고 조립하는 영상을 자신의 유튜브에 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 레고는 다양한 브랜드 및 콘텐츠와 협업을 진행하며 인기를 이어오고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유인영 고가레고 가득, 남다른 취미생활 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

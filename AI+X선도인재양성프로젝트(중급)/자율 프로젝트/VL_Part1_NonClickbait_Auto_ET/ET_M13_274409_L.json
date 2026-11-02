@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274409",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "제시, ‘워터밤’ 얼굴 공격…당황했지만 “가지고 놀자”",
+		"newsSubTitle": "",
+		"newsContent": "가수 제시도 ‘워터밤 2022’ 공연 중 얼굴에 물총 세례를 받았지만 프로답게 대처했다.\n제시는 30일 본인 소셜미디어에 “그들이 당신의 얼굴을 적실 때 당신은 스타일과 우아함으로 그걸 가지고 논다. (When they wet your face… but you play it off with style and grace…)”는 글과 함께 한 개의 영상을 게재했다.\n공개된 영상 속 제시는 최근 서울에서 열린 ‘워터밤 2022’ 무대를 즐기는 모습이 담겼다.\n그는 ‘눈누난나’를 한창 부르던 중 관객들이 뿌리는 물총 세례를 얼굴에 정통으로 맞았다.\n잠시 얼굴을 찡그리며 가렸지만, 이내 웃으며 곧바로 남은 무대에 집중하는 모습을 보였다.\n한편 최근 그룹 (여자)아이들 멤버 슈화도 ‘워터밤 2022’ 무대에 올라 관객에게 물총 세례를 받았다.\n얼굴에 집중적인 물총 공격을 맞은 슈화는 이후 네이버 V앱 라이브를 통해 “누가 얼굴에 물을쏘냐. 물 피하며 눈을 떴는데 30초 동안 사람이 안 보였다. 내가 적당히 하라고 하지 않았냐. 길에서 만나지 말자”라며 분노했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 제시도 ‘워터밤 2022’ 공연 중 얼굴에 물총 세례를 받았지만 프로답게 대처했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제시는 30일 본인 소셜미디어에 “그들이 당신의 얼굴을 적실 때 당신은 스타일과 우아함으로 그걸 가지고 논다. (When they wet your face… but you play it off with style and grace…)”는 글과 함께 한 개의 영상을 게재했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속 제시는 최근 서울에서 열린 ‘워터밤 2022’ 무대를 즐기는 모습이 담겼다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 ‘눈누난나’를 한창 부르던 중 관객들이 뿌리는 물총 세례를 얼굴에 정통으로 맞았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "잠시 얼굴을 찡그리며 가렸지만, 이내 웃으며 곧바로 남은 무대에 집중하는 모습을 보였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 최근 그룹 (여자)아이들 멤버 슈화도 ‘워터밤 2022’ 무대에 올라 관객에게 물총 세례를 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "얼굴에 집중적인 물총 공격을 맞은 슈화는 이후 네이버 V앱 라이브를 통해 “누가 얼굴에 물을쏘냐. 물 피하며 눈을 떴는데 30초 동안 사람이 안 보였다. 내가 적당히 하라고 하지 않았냐. 길에서 만나지 말자”라며 분노했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제시, ‘워터밤’ 얼굴 공격…당황했지만 “가지고 놀자”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259876",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "가수 나비가 준비한 ‘선물’",
+		"newsSubTitle": "",
+		"newsContent": "가수 나비가 따뜻하고 세련된 감성의 티저 이미지를 공개했다.\n나비와 소속사 알앤디컴퍼니는 멜로망스의 대표곡 ‘선물’ 리메이크 소식을 알린데 이어 SNS 채널을 통해 티저 이미지를 공개했다.\n이번 신곡에서 나비는 사랑의 힘이 주는 특별한 순간을 찬사하는 원곡 ‘선물’을 나비 만의 감성으로 재해석, 추운 겨울을 녹이는 따스한 음악을 선사한다.\n섬세한 감성으로 사랑을 속삭이는 초반부를 거쳐 가스펠 사운드와 코러스에 나비의 파워풀한 목소리를 더한 후반부의 다채로운 편곡으로 요즘 인생에서 가장 행복한 순간을 보내고 있다는 나비의 진심 어린 보이스를 들을 수 있을 예정이다.\n나비는 2008년 ‘I love U’로 데뷔한 이래로 ‘마음이 다쳐서’, ‘집에 안갈래’ ,’잘 된 일이야’등 수많은 스테디 곡을 탄생시키며 오래도록 사랑받아 왔다.\n한편 나비는 오는 7일 오후 6시 각종 음원사이트를 통해 신곡‘선물’을 공개할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 나비가 따뜻하고 세련된 감성의 티저 이미지를 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "나비와 소속사 알앤디컴퍼니는 멜로망스의 대표곡 ‘선물’ 리메이크 소식을 알린데 이어 SNS 채널을 통해 티저 이미지를 공개했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 신곡에서 나비는 사랑의 힘이 주는 특별한 순간을 찬사하는 원곡 ‘선물’을 나비 만의 감성으로 재해석, 추운 겨울을 녹이는 따스한 음악을 선사한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "섬세한 감성으로 사랑을 속삭이는 초반부를 거쳐 가스펠 사운드와 코러스에 나비의 파워풀한 목소리를 더한 후반부의 다채로운 편곡으로 요즘 인생에서 가장 행복한 순간을 보내고 있다는 나비의 진심 어린 보이스를 들을 수 있을 예정이다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "나비는 2008년 ‘I love U’로 데뷔한 이래로 ‘마음이 다쳐서’, ‘집에 안갈래’ ,’잘 된 일이야’등 수많은 스테디 곡을 탄생시키며 오래도록 사랑받아 왔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 나비는 오는 7일 오후 6시 각종 음원사이트를 통해 신곡‘선물’을 공개할 예정이다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 나비가 준비한 ‘선물’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

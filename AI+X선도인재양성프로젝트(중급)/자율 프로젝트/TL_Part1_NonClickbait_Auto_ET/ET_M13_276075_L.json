@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276075",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "손석구, 휴마시스 첫 브랜드 광고 모델 발탁[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 손석구가 휴마시스 첫 브랜드 광고 모델로 발탁됐다.\n이번 모델 발탁은 영화 ‘범죄도시2’로 천만배우 반열에 오르며 모든 연령층에서 사랑받고 있는 배우 손석구의 소탈하고 따뜻하면서도 반듯한 이미지와 휴마시스의 브랜드 정체성이 부합해 이뤄졌다.\n특히 출연 작품들의 연이은 성공으로 ‘대세’로 떠오른 손석구를 전속 모델로 발탁하면서 한층 더 다양한 연령층 고객과의 접점을 확대하고 여러 활동을 함께할 예정이다.\n휴마시스 관계자는 “현재 대한민국에서 가장 대중에게 사랑받는 대세 배우 손석구를 모델로 발탁하게 돼 매우 기쁘다”며 “앞으로 다양한 사업 분야를 이끌어갈 휴마시스의 브랜드 이미지를 함께 구축해 나가겠다”고 전했다.\n이어 “올해 하반기에는 국내 및 해외시장에 다양한 진단키트와 헬스케어 제품들을 선보일 예정이다”라고 알렸다.\n한편 손석구는 올해 하반기 디즈니+ 드라마 ‘카지노’와 넷플릭스 오리지널 시리즈 ‘D.P. 시즌2’, ‘살인자o난감’에 출연을 확정하며 행보를 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 손석구가 휴마시스 첫 브랜드 광고 모델로 발탁됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 모델 발탁은 영화 ‘범죄도시2’로 천만배우 반열에 오르며 모든 연령층에서 사랑받고 있는 배우 손석구의 소탈하고 따뜻하면서도 반듯한 이미지와 휴마시스의 브랜드 정체성이 부합해 이뤄졌다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 출연 작품들의 연이은 성공으로 ‘대세’로 떠오른 손석구를 전속 모델로 발탁하면서 한층 더 다양한 연령층 고객과의 접점을 확대하고 여러 활동을 함께할 예정이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휴마시스 관계자는 “현재 대한민국에서 가장 대중에게 사랑받는 대세 배우 손석구를 모델로 발탁하게 돼 매우 기쁘다”며 “앞으로 다양한 사업 분야를 이끌어갈 휴마시스의 브랜드 이미지를 함께 구축해 나가겠다”고 전했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “올해 하반기에는 국내 및 해외시장에 다양한 진단키트와 헬스케어 제품들을 선보일 예정이다”라고 알렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 손석구는 올해 하반기 디즈니+ 드라마 ‘카지노’와 넷플릭스 오리지널 시리즈 ‘D.P. 시즌2’, ‘살인자o난감’에 출연을 확정하며 행보를 이어가고 있다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손석구, 휴마시스 첫 브랜드 광고 모델 발탁[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

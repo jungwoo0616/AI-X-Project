@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171115",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "오정연 “벌써 세 번째 시술”",
+    "newsSubTitle": "",
+    "newsContent": "아나운서 출신 방송인 오정연이 근황을 전했다.\n지난 7일 오정연은 SNS에 “매번 작품 따라 바뀌는 내 헤어스타일”이라며 “2년만인가? 다시 긴머리 짠! 벌써 세 번째 붙임머리 시술”이라는 글과 함께 사진들을 공개했다.\n사진 속에는 보라색 빛 헤어컬러로 변신한 오정연 모습이 담겨있다.\n오정연은 붙임머리 완성된 상태를 보여주기 위해 뒷모습이 담긴 사진도 함께 공개했다.\n검은색 티에 청바지를 입은 산뜻한 스타일이 돋보인다.\n오정연은 KBS 공채아나운서로 2015년까지 근무했다.\n이후 프리랜서 방송인으로 활동중이다.\n오정연은 지난 6월 종영한 tvN 드라마 ‘마인’에 출연했고 오는 10월 30일부터 연극 ‘리어왕’에도 출연할 예정이다..",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아나운서 출신 방송인 오정연이 근황을 전했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 7일 오정연은 SNS에 “매번 작품 따라 바뀌는 내 헤어스타일”이라며 “2년만인가? 다시 긴머리 짠! 벌써 세 번째 붙임머리 시술”이라는 글과 함께 사진들을 공개했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 보라색 빛 헤어컬러로 변신한 오정연 모습이 담겨있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오정연은 붙임머리 완성된 상태를 보여주기 위해 뒷모습이 담긴 사진도 함께 공개했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "검은색 티에 청바지를 입은 산뜻한 스타일이 돋보인다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오정연은 KBS 공채아나운서로 2015년까지 근무했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 프리랜서 방송인으로 활동중이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오정연은 지난 6월 종영한 tvN 드라마 ‘마인’에 출연했고 오는 10월 30일부터 연극 ‘리어왕’에도 출연할 예정이다..",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프리랜서 방송인 오정연... 아나운서에 드라마에 이제 '이것'까지... 종횡무진 활동",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

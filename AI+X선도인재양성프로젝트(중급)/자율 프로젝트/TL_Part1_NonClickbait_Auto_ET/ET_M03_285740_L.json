@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285740",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "허경환, 얼떨결에 실제 키 고백 \\\"164cm\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘용감한 기자들’에 패널로 출연중인 허경환이 출연 8개월 만에 실제 키를 고백했다.\n21일 오후 11시에 방송하는 태광그룹 티캐스트 계열의 E채널 ‘용감한 기자들’은 ‘어설픈 사람들’을 주제로 한 다양한 취재담이 공개된다.\n녹화 당시 본격적인 토크에 앞서 새로운 기자들을 소개하는 자리에서 한 여기자가 멘사회원이라는 사실을 밝혀 눈길을 끌었다.\n이어 여기자의 아이큐가 156이라고 밝혀지자 김태현은 허경환을 향해 “이거 네 키 아니야?”라고 물었다.\n허경환은 얼떨결에 “164”라고 대답했고, 오히려 김태현이 당황해 하며 “경환이가 당황해서 164cm라고 말해버렸다”면서 “이건 편집해서 지켜주자”고 수습했다.\n하지만 허경환은 담담히 “괜찮다”고 밝히며 “그거 하나 나간다고 시청률에 큰 변화 없으니까”라는 쿨한 반응을 보여 웃음을 자아냈다.\n한편, 이날 한 연예부 기자는 친구 사이 우정 여행이라 속인 어느 톱스타 커플의 어설픈 밀월여행에 대해 이야기했다.\n이에 패널들 사이에서 ‘남녀 사이에 우정여행이 가능한가’에 대한 토론이 벌어졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘용감한 기자들’에 패널로 출연중인 허경환이 출연 8개월 만에 실제 키를 고백했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 오후 11시에 방송하는 태광그룹 티캐스트 계열의 E채널 ‘용감한 기자들’은 ‘어설픈 사람들’을 주제로 한 다양한 취재담이 공개된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "녹화 당시 본격적인 토크에 앞서 새로운 기자들을 소개하는 자리에서 한 여기자가 멘사회원이라는 사실을 밝혀 눈길을 끌었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 여기자의 아이큐가 156이라고 밝혀지자 김태현은 허경환을 향해 “이거 네 키 아니야?”라고 물었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허경환은 얼떨결에 “164”라고 대답했고, 오히려 김태현이 당황해 하며 “경환이가 당황해서 164cm라고 말해버렸다”면서 “이건 편집해서 지켜주자”고 수습했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 허경환은 담담히 “괜찮다”고 밝히며 “그거 하나 나간다고 시청률에 큰 변화 없으니까”라는 쿨한 반응을 보여 웃음을 자아냈다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 이날 한 연예부 기자는 친구 사이 우정 여행이라 속인 어느 톱스타 커플의 어설픈 밀월여행에 대해 이야기했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 패널들 사이에서 ‘남녀 사이에 우정여행이 가능한가’에 대한 토론이 벌어졌다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허경환, 얼떨결에 실제 키 고백 \\\"164cm\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

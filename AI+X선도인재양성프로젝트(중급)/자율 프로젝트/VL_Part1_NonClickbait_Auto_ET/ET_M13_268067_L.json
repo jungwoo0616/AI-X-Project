@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268067",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유세윤 vs 유병재 ‘어쩔비율 저쩔비율’",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 유세윤이 방송인 유병재와 함께 심상치 않은 기럭지를 뽐냈다.\n유세윤은 24일 자신의 사회관계망서비스(SNS)에 “병재랑 함께하니까 참 좋다”라면서 사진 한장을 게재했다.\n공개된 사진에는 유세윤과 유병재가 수트를 입은 채 뒷짐을 지고 미소 짓고 있다.\n유병재의 5등신 기럭지와 유세윤의 7등신 기럭지가 눈길을 끈다.\n유세윤은 카메라 앱 필터를 이용해 자신의 비율만 늘려 웃음을 자아낸다.\n이에 누리꾼들은 “왜 참 힘들다로 읽었지?” “상대적 우월감” “기사 식당에서 잠시 휴식 중인 기사님들” “중고차 딜러 같아요” “쌍둥이라서 행복하시네요” “현실 대리님 포스” “와 진짜 길에서 마주칠 것 같은 모습이에요” “어디서부터 손대야 할지 모르겠는 사진” 등의 반응을 이어갔다.\n한편 유세윤은 4살 연상 비연예인 여성과 결혼해 슬하에 아들을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 유세윤이 방송인 유병재와 함께 심상치 않은 기럭지를 뽐냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유세윤은 24일 자신의 사회관계망서비스(SNS)에 “병재랑 함께하니까 참 좋다”라면서 사진 한장을 게재했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 유세윤과 유병재가 수트를 입은 채 뒷짐을 지고 미소 짓고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유병재의 5등신 기럭지와 유세윤의 7등신 기럭지가 눈길을 끈다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유세윤은 카메라 앱 필터를 이용해 자신의 비율만 늘려 웃음을 자아낸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 누리꾼들은 “왜 참 힘들다로 읽었지?” “상대적 우월감” “기사 식당에서 잠시 휴식 중인 기사님들” “중고차 딜러 같아요” “쌍둥이라서 행복하시네요” “현실 대리님 포스” “와 진짜 길에서 마주칠 것 같은 모습이에요” “어디서부터 손대야 할지 모르겠는 사진” 등의 반응을 이어갔다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 유세윤은 4살 연상 비연예인 여성과 결혼해 슬하에 아들을 두고 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유세윤 vs 유병재 ‘어쩔비율 저쩔비율’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278321",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "데이비드 베컴, 딸 사랑도 세계최고",
+		"newsSubTitle": "",
+		"newsContent": "세계적인 축구 스타 데이비드 베컴이 남다른 딸바보 포스를 발산했다.\n베컴은 자신의 인스타그램에 딸 하퍼를 위해 직접 인형을 만드는 모습을 공개했다.\n베컴은 바늘을 든 채 한땀한땀 인형 머리를 바느질하고 있는 모습이다.\n베컴은 인형을 보며 남다른 집중력을 보여 눈길을 끌고 있다.\n특히 카리스마 있는 모습을 보여주던 베컴이 딸바보 포스를 발산해 더욱 시선을 사로잡고 있다.\n한편, 데이비드 베컴은 걸그룹 '스파이시걸스' 출신인 빅토리아 베컴과 결혼 후 브루클린 베컴, 로미오 베컴, 크루즈 베컴과 딸 하퍼 세븐 베컴을 출산한 바 있다.\n온라인 중앙일보 [사진=데이비드 베컴 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계적인 축구 스타 데이비드 베컴이 남다른 딸바보 포스를 발산했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "베컴은 자신의 인스타그램에 딸 하퍼를 위해 직접 인형을 만드는 모습을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "베컴은 바늘을 든 채 한땀한땀 인형 머리를 바느질하고 있는 모습이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "베컴은 인형을 보며 남다른 집중력을 보여 눈길을 끌고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 카리스마 있는 모습을 보여주던 베컴이 딸바보 포스를 발산해 더욱 시선을 사로잡고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 데이비드 베컴은 걸그룹 '스파이시걸스' 출신인 빅토리아 베컴과 결혼 후 브루클린 베컴, 로미오 베컴, 크루즈 베컴과 딸 하퍼 세븐 베컴을 출산한 바 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진=데이비드 베컴 인스타그램]",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "데이비드 베컴, 딸 사랑도 세계최고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

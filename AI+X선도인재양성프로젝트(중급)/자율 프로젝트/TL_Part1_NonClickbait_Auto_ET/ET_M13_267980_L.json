@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267980",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘김원중♥’ 곽지영 모델 임신부의 힙한 D라인",
+		"newsSubTitle": "",
+		"newsContent": "모델 김원중이 임신 중인 아내 곽지영의 D라인을 자랑했다.\n김원중은 24일 자신의 사회관계망서비스(SNS)에 사진 한장을 게재했다.\n사진에는 곽지영이 차 안에 앉아 쉬고 있는 모습이 담겨 있다. ‘Chat Play Casually(무심하게 수다를 떨며 놀자)’라고 적힌 모자를 머리 위에 살포시 얹은 채 무표정으로 휴대전화를 보고 있는 곽지영에게서 모델 임신부의 힙함이 전해진다.\n한편 모델 부부 김원중-곽지영은 지난 2018년 7년 연애를 마치고 부부의 연을 맺었다.\nSBS 예능 프로그램 ‘동상이몽2-너는 내 운명’에 출연해 결혼 생활을 공개했다.\n지난 2월 결혼 4년 만에 임신을 발표했다.\n곽지영은 2009년에 열린 ‘제18회 슈퍼모델 선발대회’에서 2위에 선발되며 모델 활동을 시작했다.\n김원중은 2009년 잡지 모델로 데뷔해 2014년 제9회 아시아모델상시상식 CF모델상을 수상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 김원중이 임신 중인 아내 곽지영의 D라인을 자랑했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김원중은 24일 자신의 사회관계망서비스(SNS)에 사진 한장을 게재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 곽지영이 차 안에 앉아 쉬고 있는 모습이 담겨 있다. ‘Chat Play Casually(무심하게 수다를 떨며 놀자)’라고 적힌 모자를 머리 위에 살포시 얹은 채 무표정으로 휴대전화를 보고 있는 곽지영에게서 모델 임신부의 힙함이 전해진다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 모델 부부 김원중-곽지영은 지난 2018년 7년 연애를 마치고 부부의 연을 맺었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SBS 예능 프로그램 ‘동상이몽2-너는 내 운명’에 출연해 결혼 생활을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2월 결혼 4년 만에 임신을 발표했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "곽지영은 2009년에 열린 ‘제18회 슈퍼모델 선발대회’에서 2위에 선발되며 모델 활동을 시작했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김원중은 2009년 잡지 모델로 데뷔해 2014년 제9회 아시아모델상시상식 CF모델상을 수상했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘김원중♥’ 곽지영 모델 임신부의 힙한 D라인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

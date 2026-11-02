@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170382",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "현아가 입은 티셔츠에 새겨진 문구의 의미",
+    "newsSubTitle": "",
+    "newsContent": "가수 현아가 입은 티셔츠에 적힌 문구가 사람들의 시선을 끌고 있다.\n지난 18일 패션 매체 코스모폴리탄 코리아는 5월호에 실린 현아의 화보를 공개했다.\n공개된 사진 속 현아는 농염한 표정 자세로 남다른 섹시미를 뽐내며 '역시 현아'라는 말이 절로 나오게 한다.\n체리 빛 입술만큼 눈에 띄는 것은 티셔츠 속 문구다.\n이 사진에서 현아가 착용한 흰색의 티셔츠에는 'WE SHOULD ALL BE FEMINIST(우리는 모두 페미니스트가 되어야 한다)'라는 메시지가 적혀있다.\n코스모폴리탄은 사진 아래 \\\"체리 핑크 립처럼 여성스럽지만 볼드한 컬러 립으로 여성 본연의 아름다움을 극대화하고, 자신에게 당당한 것. 이것이 바로 코스모식 페미니즘\\\"이라고 설명했다.\n현아가 착용한 티셔츠는 크리스챤 디올의 제품으로 알려졌다.\n지난해 9월 디올 역사상 첫 여성 크리에이티브 디렉터가 된 마리아 그라치아 치우리(Maria Grazia Chiuri)가 2017 S/S 컬렉션에 이 슬로건 티를 선보였다.'WE SHOULD ALL BE FEMINIST(우리는 모두 페미니스트가 되어야 한다)는 나이지리아 출신 소설가 치마만다 은고지 아다치에(Chimamanda Ngozi Adichie)의 책 제목으로 전 세계 페미니스트의 슬로건으로 활용되기도 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 현아가 입은 티셔츠에 적힌 문구가 사람들의 시선을 끌고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 18일 패션 매체 코스모폴리탄 코리아는 5월호에 실린 현아의 화보를 공개했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 현아는 농염한 표정 자세로 남다른 섹시미를 뽐내며 '역시 현아'라는 말이 절로 나오게 한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "체리 빛 입술만큼 눈에 띄는 것은 티셔츠 속 문구다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 사진에서 현아가 착용한 흰색의 티셔츠에는 'WE SHOULD ALL BE FEMINIST(우리는 모두 페미니스트가 되어야 한다)'라는 메시지가 적혀있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "코스모폴리탄은 사진 아래 \\\"체리 핑크 립처럼 여성스럽지만 볼드한 컬러 립으로 여성 본연의 아름다움을 극대화하고, 자신에게 당당한 것. 이것이 바로 코스모식 페미니즘\\\"이라고 설명했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현아가 착용한 티셔츠는 크리스챤 디올의 제품으로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난해 9월 디올 역사상 첫 여성 크리에이티브 디렉터가 된 마리아 그라치아 치우리(Maria Grazia Chiuri)가 2017 S/S 컬렉션에 이 슬로건 티를 선보였다.'WE SHOULD ALL BE FEMINIST(우리는 모두 페미니스트가 되어야 한다)는 나이지리아 출신 소설가 치마만다 은고지 아다치에(Chimamanda Ngozi Adichie)의 책 제목으로 전 세계 페미니스트의 슬로건으로 활용되기도 한다.",
+        "sentenceSize": 234
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "농염한 섹시미 현아 가슴 위 눈길 끄는 도발적 멘트",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

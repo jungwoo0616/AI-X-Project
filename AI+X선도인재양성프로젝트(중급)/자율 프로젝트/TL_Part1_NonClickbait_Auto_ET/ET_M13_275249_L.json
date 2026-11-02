@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275249",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "류준열, 톰 크루즈-앤드류 가필드와 뜻밖의 투샷",
+		"newsSubTitle": "",
+		"newsContent": "배우 류준열이 할리우드 스타 톰 크루즈와의 인연을 공개했다.\n류준열은 11일 자신의 사회관계망서비스(SNS) “톰 크루즈는 항상 친절하다. 다음에 또 만나자”라는 글과 함께 톰 크루즈와의 투샷을 공개했다.\n사진 속 류준열과 톰 크루즈는 카메라를 향해 미소짓고 있다.\n이날 류준열은 배우 앤드류 가필드와의 사진도 공개했다.\n그는 “나의 사랑스러운 ‘실버 레이크’ 친구”라며 앤드류 가필드와의 다정한 투샷을 공개했다. ‘실버레이크’는 앤드류 가필드의 영화 ‘언더 더 실버레이크’를 지칭한 애칭으로 보인다.\n류준열과 톰 크루즈, 앤드류 가필드는 모두 지난 10일(현지 시각) 영국의 ‘2022 윔블던 테니스 대회’에 참석한 것으로 알려졌다.\n한편 류준열은 영화 ‘외계+인’ 1부의 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 류준열이 할리우드 스타 톰 크루즈와의 인연을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "류준열은 11일 자신의 사회관계망서비스(SNS) “톰 크루즈는 항상 친절하다. 다음에 또 만나자”라는 글과 함께 톰 크루즈와의 투샷을 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 류준열과 톰 크루즈는 카메라를 향해 미소짓고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 류준열은 배우 앤드류 가필드와의 사진도 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “나의 사랑스러운 ‘실버 레이크’ 친구”라며 앤드류 가필드와의 다정한 투샷을 공개했다. ‘실버레이크’는 앤드류 가필드의 영화 ‘언더 더 실버레이크’를 지칭한 애칭으로 보인다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "류준열과 톰 크루즈, 앤드류 가필드는 모두 지난 10일(현지 시각) 영국의 ‘2022 윔블던 테니스 대회’에 참석한 것으로 알려졌다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 류준열은 영화 ‘외계+인’ 1부의 개봉을 앞두고 있다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "류준열, 톰 크루즈-앤드류 가필드와 뜻밖의 투샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258805",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "경서, 신곡 ‘꿈이라면’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "가수 경서가 신곡 ‘꿈이라면’을 발표한다. 21일 오후 6시 뮤직 스토리텔링 프로젝트 ‘THE M’(더 엠)의 두 번째 타이틀곡 ‘꿈이라면’이 각종 음원사이트를 통해 공개된다.\n프로젝트 ‘THE M’의 두 번째 주자로는 가수 경서가 나섰다.\n경서의 신곡 ‘꿈이라면’은 이별의 슬픔이 비에 씻겨지길 기도하며 차라리 모든 게 꿈이었기를 바라는 여자의 심정을 담은 발라드 곡이다.\n사랑하는 연인과 헤어진 후 느끼는 절절한 마음을 경서 특유의 감성과 목소리로 그려냈다.\n프로젝트 ‘THE M’은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림에 담는 시리즈 프로젝트다.\n지난해 11월 공개된 프로젝트 ‘THE M’의 첫 타이틀곡 허각의 ‘작은 온기’는 음원 발매와 동시에 국내 주요 음원 사이트 실시간 차트 상위권에 진입하며 ‘허각 표 발라드’의 저력을 보여준 바 있다.\n스토리텔링 디지털 싱글 프로젝트 ‘THE M’은 ‘작은 온기’, ‘꿈이라면’에 이어 앞으로도 국내 최정상 보컬리스트들과 함께 다양한 콘텐츠를 선보일 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 경서가 신곡 ‘꿈이라면’을 발표한다. 21일 오후 6시 뮤직 스토리텔링 프로젝트 ‘THE M’(더 엠)의 두 번째 타이틀곡 ‘꿈이라면’이 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프로젝트 ‘THE M’의 두 번째 주자로는 가수 경서가 나섰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경서의 신곡 ‘꿈이라면’은 이별의 슬픔이 비에 씻겨지길 기도하며 차라리 모든 게 꿈이었기를 바라는 여자의 심정을 담은 발라드 곡이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사랑하는 연인과 헤어진 후 느끼는 절절한 마음을 경서 특유의 감성과 목소리로 그려냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "프로젝트 ‘THE M’은 그동안 많은 대중에게 사랑받았던 소설, 드라마, 영화 등의 원작을 토대로 만들어진 음악과 이야기를 그림에 담는 시리즈 프로젝트다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 11월 공개된 프로젝트 ‘THE M’의 첫 타이틀곡 허각의 ‘작은 온기’는 음원 발매와 동시에 국내 주요 음원 사이트 실시간 차트 상위권에 진입하며 ‘허각 표 발라드’의 저력을 보여준 바 있다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스토리텔링 디지털 싱글 프로젝트 ‘THE M’은 ‘작은 온기’, ‘꿈이라면’에 이어 앞으로도 국내 최정상 보컬리스트들과 함께 다양한 콘텐츠를 선보일 예정이다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "경서, 신곡 ‘꿈이라면’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

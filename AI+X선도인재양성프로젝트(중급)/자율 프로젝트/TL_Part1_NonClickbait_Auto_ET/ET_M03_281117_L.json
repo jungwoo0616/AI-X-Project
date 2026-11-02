@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281117",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "성형고백 양미라, 과거 CF 보니…진지한 표정으로 전력질주",
+		"newsSubTitle": "",
+		"newsContent": "양미라가 tvN ‘현장토크쇼-택시’에 출연해 화제인 가운데, 그의 과거 사진이 관심을 모으고 있다.\n양미라는 과거 ‘롯데리아’ CF에 출연해 달리기는 하는 포즈를 취하며 발랄한 매력을 드러냈다.\n특히 그의 매력적인 외모와 진지한 표정이 웃음을 자아내고 있다.\n한편 양미라는 15일 tvN ‘택시’에 출연해 성형 사실을 밝혔다.\n양미라는 \\\"활동 당시 연기보다는 예뻐지고 싶다는 욕심이 강했다. 그래서 성형수술을 하게 됐다\\\"며 \\\"코를 세우면 카메라에 더 예쁘게 나온다는 말을 듣고 코부터 했다. 거기서 주사 같은 요법도 서비스로 해줬다. 이후 사람들이 예쁘다고 하니까 점점 더 손보게 됐다\\\"고 말했다.\n이어 \\\"그런데 성형 후 이미지가 너무 세게 바뀌었다. 26살이라는 어린 나이에 전 국민에게 욕을 들었다. 가족들에게 항상 자랑스러운 딸, 언니였는데 너무 힘들었다\\\"고 회상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "양미라가 tvN ‘현장토크쇼-택시’에 출연해 화제인 가운데, 그의 과거 사진이 관심을 모으고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양미라는 과거 ‘롯데리아’ CF에 출연해 달리기는 하는 포즈를 취하며 발랄한 매력을 드러냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 그의 매력적인 외모와 진지한 표정이 웃음을 자아내고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 양미라는 15일 tvN ‘택시’에 출연해 성형 사실을 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양미라는 \\\"활동 당시 연기보다는 예뻐지고 싶다는 욕심이 강했다. 그래서 성형수술을 하게 됐다\\\"며 \\\"코를 세우면 카메라에 더 예쁘게 나온다는 말을 듣고 코부터 했다. 거기서 주사 같은 요법도 서비스로 해줬다. 이후 사람들이 예쁘다고 하니까 점점 더 손보게 됐다\\\"고 말했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"그런데 성형 후 이미지가 너무 세게 바뀌었다. 26살이라는 어린 나이에 전 국민에게 욕을 들었다. 가족들에게 항상 자랑스러운 딸, 언니였는데 너무 힘들었다\\\"고 회상했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "성형고백 양미라, 과거 CF 보니…진지한 표정으로 전력질주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

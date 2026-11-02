@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274039",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "김호중, 플라시도 도밍고와 만났다",
+		"newsSubTitle": "",
+		"newsContent": "트로트 가수 김호중이 세계적 오페라 가수 플라시도 도밍고와 만났다.\n김호중 측은 25일 오후 ‘플라시도 도밍고 라이브 인 부산 2022(Placido domingo Live in Busan 2022)’의 리허설 사진을 공개했다.\n김호중은 앞서 플라시도 도밍고의 공연 게스트로 나선다는 소식을 발표하며 화제의 중심에 섰다.\n그 덕분에 티켓 오픈과 동시에 2분 만에 6500석이 매진됐다.\n한편 김호중은 지난 18일 신곡 ‘빛이 나는 사람’을 발매하며 그만의 저력을 자랑했다.\n또한 오는 9월 30일부터 10월 2일까지 서울 올림픽체조경기장을 시작으로 전국투어 콘서트로 팬들을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트로트 가수 김호중이 세계적 오페라 가수 플라시도 도밍고와 만났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김호중 측은 25일 오후 ‘플라시도 도밍고 라이브 인 부산 2022(Placido domingo Live in Busan 2022)’의 리허설 사진을 공개했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김호중은 앞서 플라시도 도밍고의 공연 게스트로 나선다는 소식을 발표하며 화제의 중심에 섰다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그 덕분에 티켓 오픈과 동시에 2분 만에 6500석이 매진됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김호중은 지난 18일 신곡 ‘빛이 나는 사람’을 발매하며 그만의 저력을 자랑했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 오는 9월 30일부터 10월 2일까지 서울 올림픽체조경기장을 시작으로 전국투어 콘서트로 팬들을 만날 예정이다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중, 플라시도 도밍고와 만났다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

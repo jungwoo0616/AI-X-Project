@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258600",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘솔로지옥’ 신지연, 유튜브 개설…혹시?",
+		"newsSubTitle": "",
+		"newsContent": "넷플릭스 오리지널 ‘솔로지옥’에서 많은 사랑을 받은 신지연이 유튜브를 개설했다.\n신지연은 18일 자신의 SNS를 통해 “갑작스럽지만 너무 큰 사랑과 응원에 행복한 요즘이예요. 근황을 물어봐 주시는 분들이 많았는데, 소식을 전할 길이 없어서 앞으로 소소하게 영상 일기를 만들어볼까 해요. 보고 싶은 영상이 있으면 댓글로 남겨주세요. 얼른 만나요!”라며 사진을 게재했다.\n신지연은 넷플릭스 오리지널 ‘솔로지옥’에 출연했다.\n귀엽고 청순한 이미지로 많은 사랑을 받은 신지연은 문세훈과 최종 커플이 됐다.\n이에 제작진들도 인터뷰를 통해 “현장에서 깜짝 놀랐고, 그때가 기억에 남는 순간이었다. 우리 모두의 놀라움과 반전”이라고 밝혔다.\n신지연의 유튜브 개설에 많은 팬들이 반가워했다.\n특히 팬들은 문세훈과 함께 하는 콘텐츠를 올려달라고 말해 기대를 높였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷플릭스 오리지널 ‘솔로지옥’에서 많은 사랑을 받은 신지연이 유튜브를 개설했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신지연은 18일 자신의 SNS를 통해 “갑작스럽지만 너무 큰 사랑과 응원에 행복한 요즘이예요. 근황을 물어봐 주시는 분들이 많았는데, 소식을 전할 길이 없어서 앞으로 소소하게 영상 일기를 만들어볼까 해요. 보고 싶은 영상이 있으면 댓글로 남겨주세요. 얼른 만나요!”라며 사진을 게재했다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신지연은 넷플릭스 오리지널 ‘솔로지옥’에 출연했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "귀엽고 청순한 이미지로 많은 사랑을 받은 신지연은 문세훈과 최종 커플이 됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 제작진들도 인터뷰를 통해 “현장에서 깜짝 놀랐고, 그때가 기억에 남는 순간이었다. 우리 모두의 놀라움과 반전”이라고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신지연의 유튜브 개설에 많은 팬들이 반가워했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 팬들은 문세훈과 함께 하는 콘텐츠를 올려달라고 말해 기대를 높였다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘솔로지옥’ 신지연, 유튜브 개설…혹시?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

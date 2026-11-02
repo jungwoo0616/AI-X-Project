@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277733",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘파괴왕’ 주호민이 또? ‘서울광장 스케이트장 휴장’",
+		"newsSubTitle": "",
+		"newsContent": "서울시 스케이트장 휴장 소식에 주호민 웹툰 작가가 올린 글이 화제다.\n지난 28일 주호민씨는 자신의 인스타그램에 ‘서울시 스케이트장 휴장’ 관련 뉴스를 캡처한 사진과 함께 “스케이트장 벽면에 들어갈 그림을 보냈는데... 제가 또”라는 글을 올렸다.\n주호민 작가가 스케이트장에 그림을 보낸 이후 스케이트장이 휴장을 결정했다는 사실에 네티즌들이 주목하고 있다.\n지금까지 주호민씨와 관련이 있었던 학과, 업체, 포털사이트 등이 모두 사라져 ‘파괴왕’이라는 별명을 얻었기 때문이다.\n같은 날 서울시는 “매주 토요일 대규모 도심 집회가 열리고 있어 시민 안전을 고려해 올해 서울 광장 스케이트장을 휴장하기로 했다”고 말했다.\n네티즌들은 “이제는 동심파괴왕” “역시 파괴왕답다” “진짜 신기하다” 등 뜨거운 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울시 스케이트장 휴장 소식에 주호민 웹툰 작가가 올린 글이 화제다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 28일 주호민씨는 자신의 인스타그램에 ‘서울시 스케이트장 휴장’ 관련 뉴스를 캡처한 사진과 함께 “스케이트장 벽면에 들어갈 그림을 보냈는데... 제가 또”라는 글을 올렸다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주호민 작가가 스케이트장에 그림을 보낸 이후 스케이트장이 휴장을 결정했다는 사실에 네티즌들이 주목하고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지금까지 주호민씨와 관련이 있었던 학과, 업체, 포털사이트 등이 모두 사라져 ‘파괴왕’이라는 별명을 얻었기 때문이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 날 서울시는 “매주 토요일 대규모 도심 집회가 열리고 있어 시민 안전을 고려해 올해 서울 광장 스케이트장을 휴장하기로 했다”고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 “이제는 동심파괴왕” “역시 파괴왕답다” “진짜 신기하다” 등 뜨거운 반응을 보이고 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘파괴왕’ 주호민이 또? ‘서울광장 스케이트장 휴장’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

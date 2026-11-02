@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278451",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'트와이스의 우아한 사생활' 쯔위, \\\"난 설현보다 못하다\\\"는 거짓말?",
+		"newsSubTitle": "",
+		"newsContent": "'트와이스의 우아한 사생활'이 화제인 가운데 '트와이스'의 멤버 쯔위가 방송에서 보여준 모습도 눈길을 끈다.\n최근 '트와이스'는 SBS '한밤의 TV연예'에 출연했다.\n리포터가 쯔위에게 설현에 대해 어떻게 생각하는지 묻자 그는 \\\"설현 선배는 너무 예쁘시다. 난 부족한 점이 많다\\\"고 답했다.\n그러자 리포터는 거짓말 탐지기를 쯔위에게 들이밀며 \\\"내가 설현보다 못하다\\\"라는 말을 검증했고, 거짓말 탐지기가 울리자 쯔위는 \\\"아니에요, 거짓말 탐지기가 거짓말 하는 것\\\"이라며 당황해 웃음을 자아냈다.\n이어서 지효의 \\\"박진영을 존경한다\\\"는 말은 진실로 밝혀졌고, 정연의 \\\"나는 우리 멤버중에 싸움을 제일 잘하는 사람이 아니다\\\"라는 말은 거짓으로 밝혀져 눈길을 끌었다.\n온라인 중앙일보 사진출처: SBS '한밤의 TV연예' 캡처",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'트와이스의 우아한 사생활'이 화제인 가운데 '트와이스'의 멤버 쯔위가 방송에서 보여준 모습도 눈길을 끈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 '트와이스'는 SBS '한밤의 TV연예'에 출연했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "리포터가 쯔위에게 설현에 대해 어떻게 생각하는지 묻자 그는 \\\"설현 선배는 너무 예쁘시다. 난 부족한 점이 많다\\\"고 답했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 리포터는 거짓말 탐지기를 쯔위에게 들이밀며 \\\"내가 설현보다 못하다\\\"라는 말을 검증했고, 거짓말 탐지기가 울리자 쯔위는 \\\"아니에요, 거짓말 탐지기가 거짓말 하는 것\\\"이라며 당황해 웃음을 자아냈다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어서 지효의 \\\"박진영을 존경한다\\\"는 말은 진실로 밝혀졌고, 정연의 \\\"나는 우리 멤버중에 싸움을 제일 잘하는 사람이 아니다\\\"라는 말은 거짓으로 밝혀져 눈길을 끌었다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 사진출처: SBS '한밤의 TV연예' 캡처",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'트와이스의 우아한 사생활' 쯔위, \\\"난 설현보다 못하다\\\"는 거짓말?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

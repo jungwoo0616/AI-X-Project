@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262837",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[단독] ‘인간샤넬’ 블랙핑크 제니, 5일 파리행",
+		"newsSubTitle": "",
+		"newsContent": "‘인간 샤넬’ 블랙핑크 멤버 제니가 파리로 향한다.\n블랙핑크 멤버 제니는 오는 5일 오후 2시쯤 인천국제공항을 이용해 프랑스 파리 샤를 드 골 공항으로 향한다.\n제니의 이번 출국은 파리에서 열리는 이번 시즌 파리 패션위크 참석을 위해서다.\n지난달 28일부터 진행된 ‘2022 F/W 파리 패션위크’는 오는 8일까지 진행된다.\n앞서 블랙핑크 타 멤버 지수는 파리 패션위크 참석을 위해 지난달 28일 출국길에 올랐다.\n로제 또한 출국할 예정이었으나 코로나19에 확진되면서 일정을 취소했다. ‘인간 샤넬’로 불리는 제니는 파리 패션위크 내 다양한 샤넬 일정을 소화할 것으로 보인다.\n제니는 샤넬의 글로벌 앰배서더로 활동 중이다.\n이번 파리 패션위크 샤넬 컬렉션은 마지막 날인 오는 8일 열린다.\n제니는 매 시즌 파리 패션위크 샤넬 컬렉션에 참석해왔다.\n그는 지난해 10월 진행된 ‘2022 S/S 파리 패션위크’ 샤넬 컬렉션에서 강렬한 레드 드레스로 세계 패션 피플들의 시선을 모으기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘인간 샤넬’ 블랙핑크 멤버 제니가 파리로 향한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블랙핑크 멤버 제니는 오는 5일 오후 2시쯤 인천국제공항을 이용해 프랑스 파리 샤를 드 골 공항으로 향한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제니의 이번 출국은 파리에서 열리는 이번 시즌 파리 패션위크 참석을 위해서다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 28일부터 진행된 ‘2022 F/W 파리 패션위크’는 오는 8일까지 진행된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 블랙핑크 타 멤버 지수는 파리 패션위크 참석을 위해 지난달 28일 출국길에 올랐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로제 또한 출국할 예정이었으나 코로나19에 확진되면서 일정을 취소했다. ‘인간 샤넬’로 불리는 제니는 파리 패션위크 내 다양한 샤넬 일정을 소화할 것으로 보인다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제니는 샤넬의 글로벌 앰배서더로 활동 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 파리 패션위크 샤넬 컬렉션은 마지막 날인 오는 8일 열린다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제니는 매 시즌 파리 패션위크 샤넬 컬렉션에 참석해왔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그는 지난해 10월 진행된 ‘2022 S/S 파리 패션위크’ 샤넬 컬렉션에서 강렬한 레드 드레스로 세계 패션 피플들의 시선을 모으기도 했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독] ‘인간샤넬’ 블랙핑크 제니, 5일 파리행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

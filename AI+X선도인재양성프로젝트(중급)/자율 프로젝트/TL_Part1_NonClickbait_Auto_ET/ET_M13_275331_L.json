@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275331",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘요리조리 맛있는 수업’ 윤서령, 먹방으로 재미 배가",
+		"newsSubTitle": "",
+		"newsContent": "‘트롯 비타민’ 윤서령이 능숙한 진행력으로 만능 MC 존재감을 빛냈다.\n윤서령은 12일 오전 11시 30분 방송된 SBS ‘요리조리 맛있는 수업’의 메인 MC 달콤언니로 등장, 진행력을 발휘했다.\n윤서령은 여름 햇살같은 눈부신 비주얼로 시청자들의 이목을 끄는가 하면, 간식으로도 먹기 좋은 닭고기 요리에도 도전하며 어린이들 호기심을 자극했다.\n닭가슴살롤 만들기에 도전한 윤서령은 다양한 재료를 선택해 관심을 끌었고, 선생님에게 요리 조언도 구하며 어린이들의 궁금증을 해소했다.\n또한 윤서령은 달콤한 맛을 더해주는 재료의 정체도 맞히며, 지루할 틈 없는 진행으로 재미를 배가시켰다.\n초계탕과 닭고기캐슈넛볶음, 간식으로 먹기 좋은 닭가슴살롤까지 완성한 윤서령은 군침이 넘어가는 먹방을 펼쳐 눈길을 사로잡았다.\n윤서령이 메인 MC로 활약하는 ‘요리조리 맛있는 수업’은 세계 각국의 요리를 통해 문화와 정보를 배우는 어린이 프로그램으로, 윤서령은 다음주에도 어린이들 ‘달콤언니’로 찾아올 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘트롯 비타민’ 윤서령이 능숙한 진행력으로 만능 MC 존재감을 빛냈다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤서령은 12일 오전 11시 30분 방송된 SBS ‘요리조리 맛있는 수업’의 메인 MC 달콤언니로 등장, 진행력을 발휘했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤서령은 여름 햇살같은 눈부신 비주얼로 시청자들의 이목을 끄는가 하면, 간식으로도 먹기 좋은 닭고기 요리에도 도전하며 어린이들 호기심을 자극했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "닭가슴살롤 만들기에 도전한 윤서령은 다양한 재료를 선택해 관심을 끌었고, 선생님에게 요리 조언도 구하며 어린이들의 궁금증을 해소했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 윤서령은 달콤한 맛을 더해주는 재료의 정체도 맞히며, 지루할 틈 없는 진행으로 재미를 배가시켰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "초계탕과 닭고기캐슈넛볶음, 간식으로 먹기 좋은 닭가슴살롤까지 완성한 윤서령은 군침이 넘어가는 먹방을 펼쳐 눈길을 사로잡았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윤서령이 메인 MC로 활약하는 ‘요리조리 맛있는 수업’은 세계 각국의 요리를 통해 문화와 정보를 배우는 어린이 프로그램으로, 윤서령은 다음주에도 어린이들 ‘달콤언니’로 찾아올 예정이다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘요리조리 맛있는 수업’ 윤서령, 먹방으로 재미 배가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

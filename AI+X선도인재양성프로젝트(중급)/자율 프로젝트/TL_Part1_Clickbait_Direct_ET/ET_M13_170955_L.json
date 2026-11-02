@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170955",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘9월 컴백’ 넬, 정규 9집 트랙리스트 공개",
+    "newsSubTitle": "",
+    "newsContent": "레전드 밴드 넬(NELL)이 정규 9집으로 팬들 곁에 돌아온다.\n소속사 스페이스보헤미안은 22일 오후 6시 공식 소셜 미디어를 통해 넬의 정규 9집 트랙리스트를 공개했다.\n넬의 새 앨범에는 싱글로 먼저 선보였던 ‘크래시(Crash)’, ‘돈트 허리 업(Don’t hurry up)’, ‘듀엣(Duet)’에 7개의 신곡이 더해져 총 10곡이 수록됐다.\n트랙리스트 아래에는 ‘이런 저런 것들’을 뜻하는 영어 ‘비츠 앤드 피시스(Bits and pieces)’가 적혀 있다.\n넬은 지난 2일 새 앨범명으로 예상되는 ‘모멘츠 인 비트윈(Moments in between)’이 새겨진 티저 이미지와 숫자 ‘202109’로 9월 컴백을 예고했다.\n이어 9일부터 20일까지 앨범에 실린 곡의 설명을 짧은 이야기 형식으로 구성한 티저 이미지를 순차적으로 올렸다.\n넬의 정규 9집은 오는 9월 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "레전드 밴드 넬(NELL)이 정규 9집으로 팬들 곁에 돌아온다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 스페이스보헤미안은 22일 오후 6시 공식 소셜 미디어를 통해 넬의 정규 9집 트랙리스트를 공개했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "넬의 새 앨범에는 싱글로 먼저 선보였던 ‘크래시(Crash)’, ‘돈트 허리 업(Don’t hurry up)’, ‘듀엣(Duet)’에 7개의 신곡이 더해져 총 10곡이 수록됐다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "트랙리스트 아래에는 ‘이런 저런 것들’을 뜻하는 영어 ‘비츠 앤드 피시스(Bits and pieces)’가 적혀 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "넬은 지난 2일 새 앨범명으로 예상되는 ‘모멘츠 인 비트윈(Moments in between)’이 새겨진 티저 이미지와 숫자 ‘202109’로 9월 컴백을 예고했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 9일부터 20일까지 앨범에 실린 곡의 설명을 짧은 이야기 형식으로 구성한 티저 이미지를 순차적으로 올렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "넬의 정규 9집은 오는 9월 발매된다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "밴드 넬, '그 숫자' 의미 맞았나... 정규 9집으로 돌아온다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270497",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "임창정♥서하얀, 첫만남 스토리 공개 (돌싱포맨)",
+		"newsSubTitle": "",
+		"newsContent": "가수 임창정이 아내 서하얀과의 첫 만남 스토리를 공개했다.\n임창정은 17일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’에 출연했다.\n이날 임창정은 서하얀과 처음 만났던 순간에 대해 “내 가게에서 처음 보는 순간 일어났다. 맥주 한 잔 사드리려고 했지만 말이 잘못 나와서 ‘생맥주 하나 사주세요’라고 했다”고 밝혔다.\n이후 임창정은 첫눈에 반해 전화번호를 건넨 스토리와 함께 멋있는 척했던 스토리까지 공개하면서 “그 이후 이틀 동안 넋이 나갔다. 뭘 해도 그 사람만 생각났다”며 당시를 회상했다.\n이어 큰 용기를 내 서하얀에게 문자를 보내 저녁 약속을 잡았다고 밝힌 임창정은 “저녁 식사 이후 노래방에 갔고, 박효신 노래를 불렀지만 잘하지 못한 것 같아서 내 노래 10곡을 불렀다”고 말했다.\n여전한 입담과 다양한 에피소드를 대방출한 임창정은 ‘돌싱포맨’ 멤버들과 폭풍 케미를 선보이며 큰 웃음을 자아냈다.\n한편 임창정은 오는 6월 18일 전국투어 콘서트 ‘Multiverse’의 첫 시작인 전주 공연을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임창정이 아내 서하얀과의 첫 만남 스토리를 공개했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임창정은 17일 방송된 SBS 예능프로그램 ‘신발 벗고 돌싱포맨’에 출연했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 임창정은 서하얀과 처음 만났던 순간에 대해 “내 가게에서 처음 보는 순간 일어났다. 맥주 한 잔 사드리려고 했지만 말이 잘못 나와서 ‘생맥주 하나 사주세요’라고 했다”고 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 임창정은 첫눈에 반해 전화번호를 건넨 스토리와 함께 멋있는 척했던 스토리까지 공개하면서 “그 이후 이틀 동안 넋이 나갔다. 뭘 해도 그 사람만 생각났다”며 당시를 회상했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 큰 용기를 내 서하얀에게 문자를 보내 저녁 약속을 잡았다고 밝힌 임창정은 “저녁 식사 이후 노래방에 갔고, 박효신 노래를 불렀지만 잘하지 못한 것 같아서 내 노래 10곡을 불렀다”고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여전한 입담과 다양한 에피소드를 대방출한 임창정은 ‘돌싱포맨’ 멤버들과 폭풍 케미를 선보이며 큰 웃음을 자아냈다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 임창정은 오는 6월 18일 전국투어 콘서트 ‘Multiverse’의 첫 시작인 전주 공연을 앞두고 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임창정♥서하얀, 첫만남 스토리 공개 (돌싱포맨)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

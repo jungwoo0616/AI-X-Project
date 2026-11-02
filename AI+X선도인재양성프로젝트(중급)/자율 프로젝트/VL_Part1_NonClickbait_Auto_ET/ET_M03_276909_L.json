@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276909",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "전현무 \\\"LA 공항 입국심사에서 격리조치 당했다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'비정상회담' 전현무가 미국 공항에서 격리조치 당한 일화를 밝혔다.\n1일 방송된 JTBC '비정상회담' 147회에서는 세계 공항에 대한 이야기를 나눴다.\n이날 미국 출신 마크는 뉴욕 JFK 공항이 세계 공항 순위 63위에 대해 \\\"인정한다\\\"라며 불편한 점들을 밝혔다.\n기욤은 \\\"질문이 너무 많아서 결국 비행기를 놓쳤다. 하루 더 있었다\\\"라고 불만을 토로했다.\n닉은 \\\"이상한 질문을 한다. 친구를 보러 왔다고 하면, 친구를 왜 보러 왔냐고 묻는다\\\"라고 덧붙였다.\n전현무는 \\\"친구를 보러 왔다고 했는데, 왜 이틀만 있냐고 묻더라. 그래서 있으면 안 되냐고 하니까 왜 이틀 동안 멀리 가서 친구를 보냐고 하더라. 프라이버시라고 했더니 격리조치됐다\\\"라고 밝혔다.\n추후 인터뷰로 입국심사를 통과했다고. 유세윤은 \\\"비슷한 질문을 받았는데, 갑자기 'SNL'이 생각나서 'SNL' 배우라고 소개하면서 인터넷을 보여주었다\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'비정상회담' 전현무가 미국 공항에서 격리조치 당한 일화를 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 방송된 JTBC '비정상회담' 147회에서는 세계 공항에 대한 이야기를 나눴다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 미국 출신 마크는 뉴욕 JFK 공항이 세계 공항 순위 63위에 대해 \\\"인정한다\\\"라며 불편한 점들을 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기욤은 \\\"질문이 너무 많아서 결국 비행기를 놓쳤다. 하루 더 있었다\\\"라고 불만을 토로했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "닉은 \\\"이상한 질문을 한다. 친구를 보러 왔다고 하면, 친구를 왜 보러 왔냐고 묻는다\\\"라고 덧붙였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전현무는 \\\"친구를 보러 왔다고 했는데, 왜 이틀만 있냐고 묻더라. 그래서 있으면 안 되냐고 하니까 왜 이틀 동안 멀리 가서 친구를 보냐고 하더라. 프라이버시라고 했더니 격리조치됐다\\\"라고 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "추후 인터뷰로 입국심사를 통과했다고. 유세윤은 \\\"비슷한 질문을 받았는데, 갑자기 'SNL'이 생각나서 'SNL' 배우라고 소개하면서 인터넷을 보여주었다\\\"라고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전현무 \\\"LA 공항 입국심사에서 격리조치 당했다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

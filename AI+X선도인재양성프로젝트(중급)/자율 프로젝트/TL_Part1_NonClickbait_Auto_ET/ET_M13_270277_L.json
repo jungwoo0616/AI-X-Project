@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270277",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "알렉사, K-POP 아티스트 유일 ‘BBMA’ 참가",
+		"newsSubTitle": "",
+		"newsContent": "가수 알렉사가 ‘2022 빌보드 뮤직 어워즈’(BBMA)에 등장한다.\n알렉사는 지난 10일 방송된 ‘아메리칸 송 콘테스트’에서 (American Song Contest) 우승했다.\n알렉사는 우승 특전으로 16일 미국 라스베이거스 MGM 그랜드 가든 아레나에서 열린 ‘빌보드 뮤직 어워즈’에 참석해 시상식을 지켜보는 시청자들을 향해 인사를 전했다. ‘빌보드 뮤직 어워즈’는 ‘그래미 어워즈’, ‘아메리칸 뮤직 어워즈’와 더불어 미국 대중음악계 3대 시상식으로 꼽힌다.\n올해는 그룹 방탄소년단(BTS)이 일정 문제로 불참하면서 알렉사가 유일한 K팝 아티스트로 본 시상식에 참가하게 됐다.\n알렉사는 ‘아메리칸 송 콘테스트’ 결승 무대에서 최종 우승을 차지했다. ‘아메리칸 송 콘테스트’는 미국의 50개 주와 워싱턴 DC, 5개 해외 영토를 대표하는 56명의 아티스트들이 미국 최고의 히트곡을 차지하기 위해 경쟁하는 올 라이브 음악 경연 프로그램이다.\n유럽 지역의 국가대항 노래 경연 대회인 ‘유로비전 송 콘테스트’의 북미 리메이크 판으로, 유럽 팬들에게도 큰 인기를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 알렉사가 ‘2022 빌보드 뮤직 어워즈’(BBMA)에 등장한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "알렉사는 지난 10일 방송된 ‘아메리칸 송 콘테스트’에서 (American Song Contest) 우승했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "알렉사는 우승 특전으로 16일 미국 라스베이거스 MGM 그랜드 가든 아레나에서 열린 ‘빌보드 뮤직 어워즈’에 참석해 시상식을 지켜보는 시청자들을 향해 인사를 전했다. ‘빌보드 뮤직 어워즈’는 ‘그래미 어워즈’, ‘아메리칸 뮤직 어워즈’와 더불어 미국 대중음악계 3대 시상식으로 꼽힌다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해는 그룹 방탄소년단(BTS)이 일정 문제로 불참하면서 알렉사가 유일한 K팝 아티스트로 본 시상식에 참가하게 됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "알렉사는 ‘아메리칸 송 콘테스트’ 결승 무대에서 최종 우승을 차지했다. ‘아메리칸 송 콘테스트’는 미국의 50개 주와 워싱턴 DC, 5개 해외 영토를 대표하는 56명의 아티스트들이 미국 최고의 히트곡을 차지하기 위해 경쟁하는 올 라이브 음악 경연 프로그램이다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유럽 지역의 국가대항 노래 경연 대회인 ‘유로비전 송 콘테스트’의 북미 리메이크 판으로, 유럽 팬들에게도 큰 인기를 모았다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알렉사, K-POP 아티스트 유일 ‘BBMA’ 참가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

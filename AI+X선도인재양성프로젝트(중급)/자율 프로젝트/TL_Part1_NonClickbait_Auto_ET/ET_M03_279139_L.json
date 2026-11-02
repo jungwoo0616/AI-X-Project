@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279139",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "치인트 박해진 김고은, 차안에서 볼에 뽀뽀하고 도망쳐 \\\"헉!\\\"",
+		"newsSubTitle": "",
+		"newsContent": "치인트 박해진 김고은 치인트 박해진 김고은이 드디어 키스했다.\n25일 오후 방송된 tvN 드라마 ‘치즈인더트랩’에서는 홍설(김고은 분)과 유정(박해진 분)의 키스신이 방송됐다.\n이날 홍설은 유정이 재벌 2세라는 것을 알았고, 그가 자신의 미래에 없을 것이라 생각하고 좌절했다.\n이를 눈치챈 유정은 홍설을 꼭 끌어안으며 “그런 걱정은 말라”며 안심시켰다.\n유정은 홍설에게 키스를 하려 했지만 긴장한 홍설은 얼굴을 돌려 피했다.\n그러나 이내 ‘안 돼. 이대로 보내면 나는 돌이야. 돌’이라며 유정의 얼굴을 잡고 뺨에 입을 맞추고 도망쳐 시청자들을 폭소케 했다.\n온라인 중앙일보 치인트 박해진 김고은",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "치인트 박해진 김고은 치인트 박해진 김고은이 드디어 키스했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 오후 방송된 tvN 드라마 ‘치즈인더트랩’에서는 홍설(김고은 분)과 유정(박해진 분)의 키스신이 방송됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 홍설은 유정이 재벌 2세라는 것을 알았고, 그가 자신의 미래에 없을 것이라 생각하고 좌절했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 눈치챈 유정은 홍설을 꼭 끌어안으며 “그런 걱정은 말라”며 안심시켰다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유정은 홍설에게 키스를 하려 했지만 긴장한 홍설은 얼굴을 돌려 피했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 이내 ‘안 돼. 이대로 보내면 나는 돌이야. 돌’이라며 유정의 얼굴을 잡고 뺨에 입을 맞추고 도망쳐 시청자들을 폭소케 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 치인트 박해진 김고은",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치인트 박해진 김고은, 차안에서 볼에 뽀뽀하고 도망쳐 \\\"헉!\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

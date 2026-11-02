@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278224",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "안신애, 볼에 선명한 키스 마크…상대는 누구?",
+		"newsSubTitle": "",
+		"newsContent": "프로골퍼 안신애가 화제인 가운데 그의 SNS에 게재된 사진이 눈길을 끈다.\n지난 2015년, 안신애의 인스타그램에는 '김사라의 뽀뽀 세례' 라는 글과 함께 한 장의 사진이 게재됐다.\n공개된 사진 속 안신애의 볼에는 선명한 입술 자국이 남아 있어 요염함을 더했다.\n이에 네티즌들은 \\\"너무 예쁘다\\\" \\\"연예인 하셔도 될듯\\\" \\\"부러워\\\"등의 반응을 보였다.\n한편, 안신애는 22일 경남 김해에 위치한 가야 컨트리 클럽에서 열린 ‘넥센·세인트나인 마스터즈 2016’에 출전하고 있다.\n온라인 중앙일보 [사진 안신애 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로골퍼 안신애가 화제인 가운데 그의 SNS에 게재된 사진이 눈길을 끈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2015년, 안신애의 인스타그램에는 '김사라의 뽀뽀 세례' 라는 글과 함께 한 장의 사진이 게재됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 안신애의 볼에는 선명한 입술 자국이 남아 있어 요염함을 더했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 네티즌들은 \\\"너무 예쁘다\\\" \\\"연예인 하셔도 될듯\\\" \\\"부러워\\\"등의 반응을 보였다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 안신애는 22일 경남 김해에 위치한 가야 컨트리 클럽에서 열린 ‘넥센·세인트나인 마스터즈 2016’에 출전하고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 안신애 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안신애, 볼에 선명한 키스 마크…상대는 누구?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

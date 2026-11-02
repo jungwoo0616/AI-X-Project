@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171639",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "버가부 초연 ‘I Love You 3000’ 커버 공개",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 버가부(bugAboo)의 멤버 초연이 사랑스러운 매력을 가득 담은 커버 곡을 공개했다.\n버가부는 19일 자정 공식 SNS와 유튜브를 통해 멤버 초연의 ‘I Love You 3000’ 커버를 공개했다.\n초연은 이번 커버 영상을 통해 그동안 보여줬던 파워풀한 댄스 실력뿐만이 아닌 보컬 실력까지 뽐내 뜨거운 반응을 얻으면서 올라운더로써의 저력을 보여주고 있다.\n초연이 커버한 ‘I Love You 3000’은 스테파니 도허티(Stephanie Poetri)가 지난 2019년에 발표한 노래로, 같은 해 개봉한 영화 ‘어벤져스 엔드게임’에서 영감을 받은 것으로 알려졌다.\n초연이 속한 버가부(bugAboo)는 데뷔곡 ‘bugAboo’(버가부)를 통해 뛰어난 춤 실력과 탄탄한 보컬을 자랑하며 핫루키의 저력을 보여준 바 있다.\n데뷔와 동시에 주요 음원사이트 차트인, MV 1500만뷰 돌파 등 각종 기록을 써 내려간 만큼 다음 앨범에 대한 기대가 높아지고 있다.\n한편, 초연이 속한 ‘완성형 걸그룹’ 버가부는 다양한 콘텐츠를 통해 팬들과 꾸준히 소통을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 버가부(bugAboo)의 멤버 초연이 사랑스러운 매력을 가득 담은 커버 곡을 공개했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "버가부는 19일 자정 공식 SNS와 유튜브를 통해 멤버 초연의 ‘I Love You 3000’ 커버를 공개했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "초연은 이번 커버 영상을 통해 그동안 보여줬던 파워풀한 댄스 실력뿐만이 아닌 보컬 실력까지 뽐내 뜨거운 반응을 얻으면서 올라운더로써의 저력을 보여주고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "초연이 커버한 ‘I Love You 3000’은 스테파니 도허티(Stephanie Poetri)가 지난 2019년에 발표한 노래로, 같은 해 개봉한 영화 ‘어벤져스 엔드게임’에서 영감을 받은 것으로 알려졌다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "초연이 속한 버가부(bugAboo)는 데뷔곡 ‘bugAboo’(버가부)를 통해 뛰어난 춤 실력과 탄탄한 보컬을 자랑하며 핫루키의 저력을 보여준 바 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "데뷔와 동시에 주요 음원사이트 차트인, MV 1500만뷰 돌파 등 각종 기록을 써 내려간 만큼 다음 앨범에 대한 기대가 높아지고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 초연이 속한 ‘완성형 걸그룹’ 버가부는 다양한 콘텐츠를 통해 팬들과 꾸준히 소통을 이어가고 있다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "버가부 멤버 초연, 이 곡의 커버 영상 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

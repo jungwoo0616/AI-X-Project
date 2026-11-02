@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271939",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단(BTS), 바이든 美 대통령 면담 예정",
+		"newsSubTitle": "",
+		"newsContent": "미국 백악관 초청으로 워싱턴DC를 방문 중인 방탄소년단(BTS)이 31일(이하 현지시간) 조 바이든 대통령과 만난다.\n백악관에 따르면 방탄소년단은 미국 ‘아시아·하와이 원주민·태평양 제도 주민(AANHPI) 유산의 달’ 마지막 날인 이날 오후 3시 바이든 대통령과 면담하고 ‘반(反) 아시안 증오범죄 대응 방안’에 대해 의견을 나눌 예정이다.\n현지 언론은 방탄소년단이 행사 참석에 앞서 백악관 기자실을 방문, 대변인 정례 브리핑 때 짧은 인사말을 할 예정이라고 관계자를 인용해 전했다.\n미국에서 아시아계 증오범죄는 코로나19 확산 후 한층 심각한 사회 문제로 대두했다.\n글로벌 K팝 스타인 방탄소년단은 증오범죄를 포함해 인종차별 문제에 목소리를 내왔다.\n이들은 지난해 3월 미국 애틀랜타에서 한인 여성 4명의 목숨을 앗아간 총격 사건 등이 발생했을 당시 희생자 가족에 위로를 전하면서 인종차별과 폭력에 반대한다는 입장문을 냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 백악관 초청으로 워싱턴DC를 방문 중인 방탄소년단(BTS)이 31일(이하 현지시간) 조 바이든 대통령과 만난다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "백악관에 따르면 방탄소년단은 미국 ‘아시아·하와이 원주민·태평양 제도 주민(AANHPI) 유산의 달’ 마지막 날인 이날 오후 3시 바이든 대통령과 면담하고 ‘반(反) 아시안 증오범죄 대응 방안’에 대해 의견을 나눌 예정이다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현지 언론은 방탄소년단이 행사 참석에 앞서 백악관 기자실을 방문, 대변인 정례 브리핑 때 짧은 인사말을 할 예정이라고 관계자를 인용해 전했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국에서 아시아계 증오범죄는 코로나19 확산 후 한층 심각한 사회 문제로 대두했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "글로벌 K팝 스타인 방탄소년단은 증오범죄를 포함해 인종차별 문제에 목소리를 내왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들은 지난해 3월 미국 애틀랜타에서 한인 여성 4명의 목숨을 앗아간 총격 사건 등이 발생했을 당시 희생자 가족에 위로를 전하면서 인종차별과 폭력에 반대한다는 입장문을 냈다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단(BTS), 바이든 美 대통령 면담 예정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

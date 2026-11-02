@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277715",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"사랑해\\\"라는 팬에게 지드래곤이 남긴 댓글",
+		"newsSubTitle": "",
+		"newsContent": "5일 그룹 '빅뱅' 지드래곤(본명 권지용)의 인스타그램 속 게시물에는 '사랑해'라는 팬들의 댓글이 이어지고 있다.\n최근 한 온라인커뮤니티에 게재된 '팬이 올린 인스타그램에 댓글 달아준 지드래곤'이란 글 때문이다.\n이에 따르면 한 팬은 자신의 SNS에 지드래곤의 사진을 올리며 \\\"사랑해\\\"라고 했다.\n지드래곤은 이 게시물에 \\\"나도 사랑해\\\"라고 답글을 남겼다.\n이 같은 지드래곤의 파격적인 팬 서비스는 많은 팬들의 부러움을 자아냈다.\n현재 지드래곤의 SNS에는 그의 답장을 받기 위한 팬들의 댓글이 계속 달리고 있다.\n지난 4일 게재된 그의 게시물에는 16000개가 넘는 댓글이 달리기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "5일 그룹 '빅뱅' 지드래곤(본명 권지용)의 인스타그램 속 게시물에는 '사랑해'라는 팬들의 댓글이 이어지고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한 온라인커뮤니티에 게재된 '팬이 올린 인스타그램에 댓글 달아준 지드래곤'이란 글 때문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따르면 한 팬은 자신의 SNS에 지드래곤의 사진을 올리며 \\\"사랑해\\\"라고 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지드래곤은 이 게시물에 \\\"나도 사랑해\\\"라고 답글을 남겼다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 같은 지드래곤의 파격적인 팬 서비스는 많은 팬들의 부러움을 자아냈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 지드래곤의 SNS에는 그의 답장을 받기 위한 팬들의 댓글이 계속 달리고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 4일 게재된 그의 게시물에는 16000개가 넘는 댓글이 달리기도 했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"사랑해\\\"라는 팬에게 지드래곤이 남긴 댓글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

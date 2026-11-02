@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275581",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 초근접샷도 문제없지",
+		"newsSubTitle": "",
+		"newsContent": "배우 겸 가수 아이유가 근황을 공개했다.\n아이유는 15일 자신의 사회관계망서비스(SNS) 인스타그램에 자신의 사진 여러 장을 공개했다.\n사진 속 아이유는 어두운 색의 옷을 입고 포즈를 취하고 있다. ‘초근접샷’에도 빛나는 피부와 동안 미모가 시선을 사로잡는다.\n해당 게시물을 확인한 누리꾼들은 “더 성숙해졌다” “너무 예쁘고 사랑스럽다” “심장 아프다”며 그의 미모에 대한 찬사를 아끼지 않았다.\n한편 아이유는 현재 상영중인 고레에다 히로카즈 감독의 영화 ‘브로커’의 주연 소영 역으로 출연했다.\n그는 해당 영화 출연으로 칸 영화제에 참석하며 화제가 된 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 겸 가수 아이유가 근황을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이유는 15일 자신의 사회관계망서비스(SNS) 인스타그램에 자신의 사진 여러 장을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 아이유는 어두운 색의 옷을 입고 포즈를 취하고 있다. ‘초근접샷’에도 빛나는 피부와 동안 미모가 시선을 사로잡는다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물을 확인한 누리꾼들은 “더 성숙해졌다” “너무 예쁘고 사랑스럽다” “심장 아프다”며 그의 미모에 대한 찬사를 아끼지 않았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 아이유는 현재 상영중인 고레에다 히로카즈 감독의 영화 ‘브로커’의 주연 소영 역으로 출연했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 해당 영화 출연으로 칸 영화제에 참석하며 화제가 된 바 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 초근접샷도 문제없지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

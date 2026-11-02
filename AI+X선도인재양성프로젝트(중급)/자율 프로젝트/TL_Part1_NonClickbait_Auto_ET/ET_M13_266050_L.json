@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266050",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘운동뚱’ 김민경, 전미라 칭찬에 일취월장",
+		"newsSubTitle": "",
+		"newsContent": "김민경이 스승 전미라에게 테니스 레슨을 받는다.\n오늘(6일) 공개되는 채널 IHQ 웹 예능 ‘시켜서 한다! 오늘부터 운동뚱’(이하 운동뚱) 101회에서는 전미라에게 테니스를 배우는 김민경의 모습이 전파를 탄다.\n최근 진행된 녹화에서 김민경은 포핸드, 백핸드 연습에 돌입했다.\n아직 ‘테린이(테니스 어린이)’인 그는 중간중간 어색한 모습을 보였고, 이때마다 전미라는 자세 교정에 나섰다.\n특히 전미라는 김민경이 좋은 포즈를 취할 때마다 “그렇지”, “엄청 잘했어”, “100점이다” 등의 칭찬을 쏟아낸다고. 이에 힘을 받은 김민경은 이전보다 한층 나아진 실력을 자랑했고, 전미라와의 레슨이 종료된 후에도 스크린 테니스장에서 홀로 연습에 몰입해 ‘갓벽’함을 업그레이드했다.\n그런가 하면, 이날 제작진은 레슨을 마무리한 전미라가 “가을쯤 여자 테니스 국제 대회가 있다”라고 설명하자 “참가 기준이 어떻게 되는가”라고 물어 김민경을 경악하게 만들었다.\n한편 ‘운동뚱’ 101회는 오늘(6일) 오후 6시 유튜브 채널 ‘맛있는 녀석들’을 통해 시청 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김민경이 스승 전미라에게 테니스 레슨을 받는다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(6일) 공개되는 채널 IHQ 웹 예능 ‘시켜서 한다! 오늘부터 운동뚱’(이하 운동뚱) 101회에서는 전미라에게 테니스를 배우는 김민경의 모습이 전파를 탄다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 진행된 녹화에서 김민경은 포핸드, 백핸드 연습에 돌입했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아직 ‘테린이(테니스 어린이)’인 그는 중간중간 어색한 모습을 보였고, 이때마다 전미라는 자세 교정에 나섰다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 전미라는 김민경이 좋은 포즈를 취할 때마다 “그렇지”, “엄청 잘했어”, “100점이다” 등의 칭찬을 쏟아낸다고. 이에 힘을 받은 김민경은 이전보다 한층 나아진 실력을 자랑했고, 전미라와의 레슨이 종료된 후에도 스크린 테니스장에서 홀로 연습에 몰입해 ‘갓벽’함을 업그레이드했다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런가 하면, 이날 제작진은 레슨을 마무리한 전미라가 “가을쯤 여자 테니스 국제 대회가 있다”라고 설명하자 “참가 기준이 어떻게 되는가”라고 물어 김민경을 경악하게 만들었다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘운동뚱’ 101회는 오늘(6일) 오후 6시 유튜브 채널 ‘맛있는 녀석들’을 통해 시청 가능하다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘운동뚱’ 김민경, 전미라 칭찬에 일취월장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

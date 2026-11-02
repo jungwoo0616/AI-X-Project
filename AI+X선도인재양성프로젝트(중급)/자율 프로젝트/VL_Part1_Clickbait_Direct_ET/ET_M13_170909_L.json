@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170909",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "KBS노동조합, 언론중재법과 부적격 이사 반대 비대위 전환",
+    "newsSubTitle": "",
+    "newsContent": "KBS노동조합이 언론중재법 국회 통과 시도, 부적격 KBS 이사 선임 가능성, 양승동 KBS 사장 연임 등에 반대하며 비상대책위원회를 가동한다고 17일 전했다.\nKBS노동조합은 이날 성명을 내고 “집권 여당의 언론중재법 국회 통과 시도는 헌법에 보장된 언론 자유의 가치에 정면으로 도전하는 반헌법적 폭거”라고 비판했다.\n또 “우리는 이미 16명의 이사 후보자에 대해 부적격 사유를 성명서를 통해 밝혔다. 공영방송을 망친 경영, 편파 방송, 인사 등에 관여했거나 책임이 있는 자들”이라고 지적했다.\n이어 “양 사장이 적폐 청산이라는 미명 하에 전임 사장 시절 주요 간부들을 대상으로 진실과미래위원회를 통해 보복작업을 하다 허송세월을 했다”며 “연임은 반드시 저지돼야 한다”고 강조했다.\nKBS노동조합은 비대위를 통해 조합원들과 연대투쟁에 돌입하겠다고 밝혔다.\nKBS에는 다수 노조이자 진보 성향으로 분류되는 민주노총 소속 언론노조 KBS본부와 보수 성향의 소수 노조인 KBS노동조합, KBS공영노조 등 3개 노조가 활동중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "KBS노동조합이 언론중재법 국회 통과 시도, 부적격 KBS 이사 선임 가능성, 양승동 KBS 사장 연임 등에 반대하며 비상대책위원회를 가동한다고 17일 전했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS노동조합은 이날 성명을 내고 “집권 여당의 언론중재법 국회 통과 시도는 헌법에 보장된 언론 자유의 가치에 정면으로 도전하는 반헌법적 폭거”라고 비판했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 “우리는 이미 16명의 이사 후보자에 대해 부적격 사유를 성명서를 통해 밝혔다. 공영방송을 망친 경영, 편파 방송, 인사 등에 관여했거나 책임이 있는 자들”이라고 지적했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “양 사장이 적폐 청산이라는 미명 하에 전임 사장 시절 주요 간부들을 대상으로 진실과미래위원회를 통해 보복작업을 하다 허송세월을 했다”며 “연임은 반드시 저지돼야 한다”고 강조했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "KBS노동조합은 비대위를 통해 조합원들과 연대투쟁에 돌입하겠다고 밝혔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "KBS에는 다수 노조이자 진보 성향으로 분류되는 민주노총 소속 언론노조 KBS본부와 보수 성향의 소수 노조인 KBS노동조합, KBS공영노조 등 3개 노조가 활동중이다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "KBS노동조합, 이것 반대하는 비상대책위원회 가동한다고 밝혀...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

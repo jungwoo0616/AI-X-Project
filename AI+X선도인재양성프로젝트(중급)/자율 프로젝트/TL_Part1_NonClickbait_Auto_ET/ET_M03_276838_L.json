@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276838",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘20kg’감량 이수경, 다이어트 전 모습 화제",
+		"newsSubTitle": "",
+		"newsContent": "‘냉장고를 부탁해’에 출연해 다이어트 비법을 전한 이수경(35)의 과거 모습이 화제다.\n최근 온라인 커뮤니티 게시판에는 “이수경 다이어트 전후”이라는 글과 함께 한장의 사진이 올라왔다.\n공개된 사진 속 이수경은 현재와 사뭇 다른 몸매로 눈길을 끌고 있다.\n그런데도 그의 또렷한 이목구비는 별반 다를 바 없다. 15일 ‘냉장고를 부탁해’에 출연한 이수경은 과거 통통했었던 학창시절 사진을 공개하며, “현재 20kg을 감량했다”고 밝혀 놀라게 했다.\n그는 “평소 먹는 것을 너무 좋아해 식비 때문에 카드가 한도 초과한 적이 있을 정도”라며, “좋아하는 음식을 마음껏 먹기 위해 하루에 3시간씩 운동을 하는 것이 다이어트 비법”이라고 설명했다.\n이어 “여러 가지 운동을 동시에 하는데 지금 3개 정도 하고 있다. 필라테스랑 PT랑 요새 새로 줌바를 시작했다”며 “줌바는 유산소운동이 많이 돼서 800㎉ 이상 소모가 된다. 나는 10분도 못 하겠더라”고 해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘냉장고를 부탁해’에 출연해 다이어트 비법을 전한 이수경(35)의 과거 모습이 화제다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티 게시판에는 “이수경 다이어트 전후”이라는 글과 함께 한장의 사진이 올라왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 이수경은 현재와 사뭇 다른 몸매로 눈길을 끌고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그런데도 그의 또렷한 이목구비는 별반 다를 바 없다. 15일 ‘냉장고를 부탁해’에 출연한 이수경은 과거 통통했었던 학창시절 사진을 공개하며, “현재 20kg을 감량했다”고 밝혀 놀라게 했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “평소 먹는 것을 너무 좋아해 식비 때문에 카드가 한도 초과한 적이 있을 정도”라며, “좋아하는 음식을 마음껏 먹기 위해 하루에 3시간씩 운동을 하는 것이 다이어트 비법”이라고 설명했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “여러 가지 운동을 동시에 하는데 지금 3개 정도 하고 있다. 필라테스랑 PT랑 요새 새로 줌바를 시작했다”며 “줌바는 유산소운동이 많이 돼서 800㎉ 이상 소모가 된다. 나는 10분도 못 하겠더라”고 해 웃음을 자아냈다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘20kg’감량 이수경, 다이어트 전 모습 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

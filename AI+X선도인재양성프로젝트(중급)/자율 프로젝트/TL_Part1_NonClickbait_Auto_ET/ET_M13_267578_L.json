@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267578",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "꽃보다 예쁜 임영웅, 이번엔 청순가련",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 이미지 변신을 예고했다.\n임영웅 소속사 물고기뮤직은 21일 공식 사회관계망서비스(SNS)에 임영웅의 모습이 담긴 첫 정규 앨범 ‘아임 히어로’(IM HERO)콘셉트 사진을 공개했다.\n이번 콘셉트 사진에서 임영웅은 앞서 공개된 사진과 다른 반전 매력을 예고했다.\n임영웅은 꽃을 배경으로 부드러운 미소를 띠고 있다.\n만화 속 주인공을 보는 듯 임영웅은 꽃과 함께 청순한 매력을 내세우며 다채로운 매력 공개를 예고했다.\n임영웅은 오는 5월 2일 ‘아임 히어로’를 공개하며 오는 6일 전국투어 단독 콘서트를 개시해 자신의 인기를 이어나간다.\n소속사는 “이번 사진 공개로 산뜻한 매력을 가진 임영웅은 앞으로 다양한 콘텐츠를 순차 공개하며 변신으로 팬들을 사로잡을 계획”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 이미지 변신을 예고했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임영웅 소속사 물고기뮤직은 21일 공식 사회관계망서비스(SNS)에 임영웅의 모습이 담긴 첫 정규 앨범 ‘아임 히어로’(IM HERO)콘셉트 사진을 공개했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 콘셉트 사진에서 임영웅은 앞서 공개된 사진과 다른 반전 매력을 예고했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅은 꽃을 배경으로 부드러운 미소를 띠고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "만화 속 주인공을 보는 듯 임영웅은 꽃과 함께 청순한 매력을 내세우며 다채로운 매력 공개를 예고했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임영웅은 오는 5월 2일 ‘아임 히어로’를 공개하며 오는 6일 전국투어 단독 콘서트를 개시해 자신의 인기를 이어나간다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소속사는 “이번 사진 공개로 산뜻한 매력을 가진 임영웅은 앞으로 다양한 콘텐츠를 순차 공개하며 변신으로 팬들을 사로잡을 계획”이라고 전했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "꽃보다 예쁜 임영웅, 이번엔 청순가련",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171769",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘핵주먹’ 타이슨, 비행기서 뒷좌석 승객 도발하자 공격",
+    "newsSubTitle": "",
+    "newsContent": "‘핵주먹’이라는 별명을 지닌 세계 헤비급 복싱 챔피언 출신 마이크 타이슨이 같은 비행기에 탄 승객에게 주먹질을 했다.\n미국 연예매체 TMZ는 21일(현지시간) 타이슨이 전날 미국 샌프란시스코에서 플로리다행 여객기에 탑승한 뒤 여객기가 이륙하기 전 뒷좌석 승객을 폭행했다고 전했다.\n타이슨은 자신을 알아본 피해자와 함께 셀카를 찍어주고 간단한 대화도 나눈 것으로 알려졌다.\n하지만 뒷자리에 앉은 승객은 쉬지 않고 타이슨 신경을 건드렸고, 결국 타이슨이 자리에서 일어나 주먹을 날렸다.\n한 승객이 찍은 동영상에는 피해자가 앞자리에 앉은 타이슨을 향해 과장된 동작과 함께 말을 거는 모습이 담겼다.\n타이슨 측은 “뒷좌석의 승객이 만취한 상태였고, 도발을 멈추지 않았다”고 주장했다.\n타이슨은 뒷좌석의 승객을 폭행한 후 스스로 여객기에서 내렸다.\n타이슨 공격으로 이마에서 피가 난 피해자도 응급 처치를 받은 후 당국 조사를 받은 것으로 전해졌다.\n타이슨은 1980년대 무서운 펀치력으로 ‘핵주먹’이라는 세칭을 얻으며 복싱계 스타로 군림했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘핵주먹’이라는 별명을 지닌 세계 헤비급 복싱 챔피언 출신 마이크 타이슨이 같은 비행기에 탄 승객에게 주먹질을 했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 연예매체 TMZ는 21일(현지시간) 타이슨이 전날 미국 샌프란시스코에서 플로리다행 여객기에 탑승한 뒤 여객기가 이륙하기 전 뒷좌석 승객을 폭행했다고 전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타이슨은 자신을 알아본 피해자와 함께 셀카를 찍어주고 간단한 대화도 나눈 것으로 알려졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 뒷자리에 앉은 승객은 쉬지 않고 타이슨 신경을 건드렸고, 결국 타이슨이 자리에서 일어나 주먹을 날렸다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 승객이 찍은 동영상에는 피해자가 앞자리에 앉은 타이슨을 향해 과장된 동작과 함께 말을 거는 모습이 담겼다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "타이슨 측은 “뒷좌석의 승객이 만취한 상태였고, 도발을 멈추지 않았다”고 주장했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "타이슨은 뒷좌석의 승객을 폭행한 후 스스로 여객기에서 내렸다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "타이슨 공격으로 이마에서 피가 난 피해자도 응급 처치를 받은 후 당국 조사를 받은 것으로 전해졌다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "타이슨은 1980년대 무서운 펀치력으로 ‘핵주먹’이라는 세칭을 얻으며 복싱계 스타로 군림했다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "복싱 챔피언 이 사람, 링 위도 아닌데 비행기서 주먹 날려... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

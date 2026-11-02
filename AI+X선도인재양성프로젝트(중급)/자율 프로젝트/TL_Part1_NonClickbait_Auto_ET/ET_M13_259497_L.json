@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259497",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘폭행 혐의’ 이규한, 증거불충분으로 무혐의 처분",
+		"newsSubTitle": "",
+		"newsContent": "폭행 시비에 휘말렸던 배우 이규한(42)이 무혐의 처분을 받았다.\n27일 법조계에 따르면 서울중앙지검 형사5부(부장 박규형)는 특정범죄가중처벌법상 운전자 폭행 등의 혐의를 받은 이규한에 대해 전날 증거불충분으로 혐의없음 판결을 내렸다.\n앞서 이규한은 2020년 8월 서울 강남 인근에서 운전기사를 폭행한 혐의로 진정서가 접수돼 경찰 수사를 받았다.\n이후 경찰은 지난해 11월 사건을 검찰에 송치했다.\n당시 경찰 관계자는 “정확한 혐의 명이나 구체적인 사건 경위는 확인해줄 수 없다”며 “당시 상황을 촬영한 CCTV가 없고, 양측의 주장이 완전히 엇갈리는 등 따져볼 부분이 많아 수사에 긴 시간이 소요됐다”고 전했다.\n이와 관련해 이규한은 폭행 혐의 피소가 보도된 지난해 11월 자신의 인스타그램에 “좋지 않은 소식을 전해드려 그저 마음이 무겁다. 2020년 8월에 있었던 일이 1년 3개월이 지나도록 나를 괴롭히고 있다”며 “내 목숨을 걸고 폭행도 폭언도 그 어떤 것도 하지 않았다”고 주장했다.\n한편, 이규한은 지난해 JTBC 드라마 ‘그린 마더스 클럽’과 SBS ‘어게인 마이 라이프’ 출연 예정이었으나 건강 상태가 악화돼 모두 하차했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "폭행 시비에 휘말렸던 배우 이규한(42)이 무혐의 처분을 받았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 법조계에 따르면 서울중앙지검 형사5부(부장 박규형)는 특정범죄가중처벌법상 운전자 폭행 등의 혐의를 받은 이규한에 대해 전날 증거불충분으로 혐의없음 판결을 내렸다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 이규한은 2020년 8월 서울 강남 인근에서 운전기사를 폭행한 혐의로 진정서가 접수돼 경찰 수사를 받았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 경찰은 지난해 11월 사건을 검찰에 송치했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 경찰 관계자는 “정확한 혐의 명이나 구체적인 사건 경위는 확인해줄 수 없다”며 “당시 상황을 촬영한 CCTV가 없고, 양측의 주장이 완전히 엇갈리는 등 따져볼 부분이 많아 수사에 긴 시간이 소요됐다”고 전했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 관련해 이규한은 폭행 혐의 피소가 보도된 지난해 11월 자신의 인스타그램에 “좋지 않은 소식을 전해드려 그저 마음이 무겁다. 2020년 8월에 있었던 일이 1년 3개월이 지나도록 나를 괴롭히고 있다”며 “내 목숨을 걸고 폭행도 폭언도 그 어떤 것도 하지 않았다”고 주장했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 이규한은 지난해 JTBC 드라마 ‘그린 마더스 클럽’과 SBS ‘어게인 마이 라이프’ 출연 예정이었으나 건강 상태가 악화돼 모두 하차했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘폭행 혐의’ 이규한, 증거불충분으로 무혐의 처분",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262915",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘착한 노쇼’ 임시완, 뛰퉆 인증샷",
+		"newsSubTitle": "",
+		"newsContent": "배우 임시완이 사전투표를 인증했다.\n임시완은 5일 자신의 사회관계망서비스(SNS)에 “뛰 툽”이라고 적고 사진 2장을 올렸다.\n사진 속 임시완은 가수 션과 함께한 모습이다.\n이들은 아침 러닝으로 건강도 챙기고 투표도 한 ‘일석이조’의 풋풋함을 선사했다.\n임시완은 지난 4일에는 러시아와 전쟁중인 우크라이나를 돕기 위해 현지 호텔 숙소를 예약하고 이용하지 않는 ‘노쇼’ 방식으로 힘을 보태기도 했다.\n한편 임시완은 MBC 드라마 ‘트레이서’에서 열연을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 임시완이 사전투표를 인증했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임시완은 5일 자신의 사회관계망서비스(SNS)에 “뛰 툽”이라고 적고 사진 2장을 올렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 임시완은 가수 션과 함께한 모습이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 아침 러닝으로 건강도 챙기고 투표도 한 ‘일석이조’의 풋풋함을 선사했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임시완은 지난 4일에는 러시아와 전쟁중인 우크라이나를 돕기 위해 현지 호텔 숙소를 예약하고 이용하지 않는 ‘노쇼’ 방식으로 힘을 보태기도 했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 임시완은 MBC 드라마 ‘트레이서’에서 열연을 펼치고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘착한 노쇼’ 임시완, 뛰퉆 인증샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

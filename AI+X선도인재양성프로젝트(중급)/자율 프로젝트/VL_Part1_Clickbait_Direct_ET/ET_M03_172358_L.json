@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172358",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "목장에서 알바하다 캐스팅된 일본 여배우의 미모",
+    "newsSubTitle": "",
+    "newsContent": "목장에서 ‘알바’하다 캐스팅된 한 일본 여배우의 미모가 온라인 커뮤니티에서 화제가 되고 있다.\n그 주인공은 일본 여배우 카라타 에리카(唐田 えりかㆍ19). 일본 치바현에 사는 카라타 에리카는 고2때인 지난 2014년 봄 ‘마더 목장’에서 아르바이트를 하던 중 우연히 이곳을 방문한 현재 소속사 매니저에게 스카우트 제의를 받았다고 한다.\n고등학교를 계속 다니면서 소속사에서 연기 지도를 받았고, 그해 9월 ‘소녀시대’의 뮤직 비디오 ‘DIVINE’에 출연하기도 했다.\n이후 일본에서도 조금씩 얼굴을 알렸고, 청초함과 투명한 매력의 대명사로 인기를 끌고 있다.\n2015년 7월 후지 TV의 드라마에 출연하면서 배우로 데뷔했다.\n깨끗한 이미지를 바탕으로 일본 CF 인기 지표인 보험사 광고 모델로 발탁되기도 했다.\n지난해 7월 TV 도쿄의 연속극에 조연으로 출연하면서 조금씩 큰 역할을 맡기 시작했다.\nK-POP을 좋아하며 그 중에서 아이돌그룹 ‘GOT7’을 좋아한다고 인터뷰에서 밝힌 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "목장에서 ‘알바’하다 캐스팅된 한 일본 여배우의 미모가 온라인 커뮤니티에서 화제가 되고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그 주인공은 일본 여배우 카라타 에리카(唐田 えりかㆍ19). 일본 치바현에 사는 카라타 에리카는 고2때인 지난 2014년 봄 ‘마더 목장’에서 아르바이트를 하던 중 우연히 이곳을 방문한 현재 소속사 매니저에게 스카우트 제의를 받았다고 한다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "고등학교를 계속 다니면서 소속사에서 연기 지도를 받았고, 그해 9월 ‘소녀시대’의 뮤직 비디오 ‘DIVINE’에 출연하기도 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 일본에서도 조금씩 얼굴을 알렸고, 청초함과 투명한 매력의 대명사로 인기를 끌고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2015년 7월 후지 TV의 드라마에 출연하면서 배우로 데뷔했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "깨끗한 이미지를 바탕으로 일본 CF 인기 지표인 보험사 광고 모델로 발탁되기도 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 7월 TV 도쿄의 연속극에 조연으로 출연하면서 조금씩 큰 역할을 맡기 시작했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "K-POP을 좋아하며 그 중에서 아이돌그룹 ‘GOT7’을 좋아한다고 인터뷰에서 밝힌 바 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본 여배우, 목장에서 '알바'하다 캐스팅... 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

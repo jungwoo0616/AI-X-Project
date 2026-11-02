@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259188",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘음원 강자’ 아이유, 멜론 연간 차트 Top10 3곡 진입",
+		"newsSubTitle": "",
+		"newsContent": "아이유의 ‘Celebrity’가 2021년 멜론 연간 차트 1위에 올랐다.\n25일 멜론은 2021년 연간 차트 TOP100을 공개했다.\n그중 아이유는 정규 5집 선공개 곡 ‘Celebrity’로 연간 1위를 기록했다. ‘Celebrity’는 2021년 1월 27일에 공개한 아이유의 정규 5집 LILAC의 선공개 곡이다.\n작사는 아이유가 단독으로 했고, 작곡 및 편곡에는 오마이걸의 을 작곡 및 편곡한 프로듀서들 전원이 공동으로 참여하였다.\n이외에도 그는 19위 ‘블루밍’, 20위 ‘에잇’, 52위 ‘코인’, 54위 ‘어푸’ 등등 많은 노래를 연간 차트 TOP100에 진입시켰다.\n이로써 아이유는 현시대 최강의 음원 강자로서 위치를 다시 한번 재확인했다.\n한편, 가수 아이유는 23일 열린 제31회 하이원 서울가요대상에서 본상과 최고 음원상을 수상했으며, 그는 “11년 뒤에도 상을 받을 수 있는 가수가 되었으면 좋겠다”라고 수상 소감을 밝혔다.\n아이유는 지난달 29일 스페셜 미니 앨범 ‘조각집’을 발매했다.\n타이틀곡 ‘겨울잠’은 ‘셀러브리티’ ‘라일락’ ‘스트로베리 문’에 이어 각종 음원차트 1위를 휩쓸며 음원 퀸의 면모를 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이유의 ‘Celebrity’가 2021년 멜론 연간 차트 1위에 올랐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 멜론은 2021년 연간 차트 TOP100을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그중 아이유는 정규 5집 선공개 곡 ‘Celebrity’로 연간 1위를 기록했다. ‘Celebrity’는 2021년 1월 27일에 공개한 아이유의 정규 5집 LILAC의 선공개 곡이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "작사는 아이유가 단독으로 했고, 작곡 및 편곡에는 오마이걸의 을 작곡 및 편곡한 프로듀서들 전원이 공동으로 참여하였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이외에도 그는 19위 ‘블루밍’, 20위 ‘에잇’, 52위 ‘코인’, 54위 ‘어푸’ 등등 많은 노래를 연간 차트 TOP100에 진입시켰다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이로써 아이유는 현시대 최강의 음원 강자로서 위치를 다시 한번 재확인했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 가수 아이유는 23일 열린 제31회 하이원 서울가요대상에서 본상과 최고 음원상을 수상했으며, 그는 “11년 뒤에도 상을 받을 수 있는 가수가 되었으면 좋겠다”라고 수상 소감을 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이유는 지난달 29일 스페셜 미니 앨범 ‘조각집’을 발매했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "타이틀곡 ‘겨울잠’은 ‘셀러브리티’ ‘라일락’ ‘스트로베리 문’에 이어 각종 음원차트 1위를 휩쓸며 음원 퀸의 면모를 보였다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘음원 강자’ 아이유, 멜론 연간 차트 Top10 3곡 진입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

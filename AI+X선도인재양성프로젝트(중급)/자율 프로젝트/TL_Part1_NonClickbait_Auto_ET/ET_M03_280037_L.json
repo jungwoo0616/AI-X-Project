@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280037",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘아바타셰프’ 김정민·광희, 핑크빛 기류?",
+		"newsSubTitle": "",
+		"newsContent": "‘아바타셰프’ 김정민·광희, 핑크빛 기류? ‘아바타셰프’ 김정민과 광희가 신혼부부 케미를 선보여 화제다.\n6일 방송된 올리브TV ‘아바타셰프’에는 아바타로 알베르토와 김정민이 출연했다.\n이날 김정민은 이산호 셰프와 팀을 이뤄 홍소 인삼 사자두, 새우 인삼 부귀 소스를 만들었다.\n먼저 이산호는 기름으로 조리해야 하는 요리의 특성상 “웍 두 개가 필요하다”고 주문했다.\n그러나 김정민은 뭘 골라야 할지 몰라 당황했고, 광희에게 도움을 요청했다.\n이에 광희는 바로 조리 도구를 골라줬다.\n또 광희는 김정민이 요리를 할 동안 말이 없이 김정민을 지켜보기만 했다.\n이 모습을 본 레이먼킴은 “광희 씨가 저렇게 말 안하는 거 처음 봤다”고 말해 웃음을 자아냈다.\n요리 시간 내내 광희는 김정민이 시간 내에 음식을 완성할 수 있도록 옆에서 거들었고, 이를 본 셰프들은 “신혼부부 같다”고 말해 핑크빛 기류를 형성했다 ‘김정민 광희’ ‘김정민 광희’ 온라인 중앙일보 [사진 올리브tv 아바타셰프 캡쳐]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘아바타셰프’ 김정민·광희, 핑크빛 기류? ‘아바타셰프’ 김정민과 광희가 신혼부부 케미를 선보여 화제다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 방송된 올리브TV ‘아바타셰프’에는 아바타로 알베르토와 김정민이 출연했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김정민은 이산호 셰프와 팀을 이뤄 홍소 인삼 사자두, 새우 인삼 부귀 소스를 만들었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 이산호는 기름으로 조리해야 하는 요리의 특성상 “웍 두 개가 필요하다”고 주문했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 김정민은 뭘 골라야 할지 몰라 당황했고, 광희에게 도움을 요청했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 광희는 바로 조리 도구를 골라줬다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 광희는 김정민이 요리를 할 동안 말이 없이 김정민을 지켜보기만 했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 모습을 본 레이먼킴은 “광희 씨가 저렇게 말 안하는 거 처음 봤다”고 말해 웃음을 자아냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "요리 시간 내내 광희는 김정민이 시간 내에 음식을 완성할 수 있도록 옆에서 거들었고, 이를 본 셰프들은 “신혼부부 같다”고 말해 핑크빛 기류를 형성했다 ‘김정민 광희’ ‘김정민 광희’ 온라인 중앙일보 [사진 올리브tv 아바타셰프 캡쳐]",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘아바타셰프’ 김정민·광희, 핑크빛 기류?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167888",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유독 한국에서만 인기라는 의외의 미국 음식",
+    "newsSubTitle": "",
+    "newsContent": "한국에서만 유명한 '미국 음식'이 화제다.\n지난 3월 방송된 JTBC '비정상회담'에서는 “무리한 ‘한식의 세계화’가 불편한 나, 비정상인가요?”라는 주제로 맛 칼럼니스트 황교익이 출연했다.\n세계 음식, 한식 문화 등과 관련된 얘기를 하던 중 미국 대표 마크 테토는 한국에서만 인기 있는 음식으로 ‘햄’을 꼽았다.\n그는 “미국에서 제일 보기 힘든 게 스팸”이라고 말을 뗐다.\n테토는 “미국에서 살며 통조림 햄을 한 번 정도 본 적은 있는데 직접 먹어본 적은 없다”면서 “한국에 오니 부대찌개 안에도 있고 먹으니까 되게 맛있더라”고 말해 스튜디오를 웃음바다로 만들었다.\n테토는 “미국에선 군용 식량으로 쓰이는 햄이 한국에선 추석 선물세트로 포장돼 팔린다”며 놀라자 이를 듣고 있던 황교익은 “스팸이 빵보다 밥과 잘 어울린다”며 스팸의 인기 비결을 언급했다.\n멕시코 대표 크리스티안 부르고스도 영화관에서 독립적인 음식으로 팔리는 ‘나초’를 한국에서 유독 인기 많은 음식으로 언급했다.\n그는 “멕시코에선 나초를 식사에 곁들이는 반찬 정도로 생각한다”며 “영화를 볼 때 나초를 사 먹는 건 멕시코 사람들이 영화 보면서 단무지를 먹는 느낌”이라고 비유했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국에서만 유명한 '미국 음식'이 화제다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 3월 방송된 JTBC '비정상회담'에서는 “무리한 ‘한식의 세계화’가 불편한 나, 비정상인가요?”라는 주제로 맛 칼럼니스트 황교익이 출연했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세계 음식, 한식 문화 등과 관련된 얘기를 하던 중 미국 대표 마크 테토는 한국에서만 인기 있는 음식으로 ‘햄’을 꼽았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “미국에서 제일 보기 힘든 게 스팸”이라고 말을 뗐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "테토는 “미국에서 살며 통조림 햄을 한 번 정도 본 적은 있는데 직접 먹어본 적은 없다”면서 “한국에 오니 부대찌개 안에도 있고 먹으니까 되게 맛있더라”고 말해 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "테토는 “미국에선 군용 식량으로 쓰이는 햄이 한국에선 추석 선물세트로 포장돼 팔린다”며 놀라자 이를 듣고 있던 황교익은 “스팸이 빵보다 밥과 잘 어울린다”며 스팸의 인기 비결을 언급했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "멕시코 대표 크리스티안 부르고스도 영화관에서 독립적인 음식으로 팔리는 ‘나초’를 한국에서 유독 인기 많은 음식으로 언급했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 “멕시코에선 나초를 식사에 곁들이는 반찬 정도로 생각한다”며 “영화를 볼 때 나초를 사 먹는 건 멕시코 사람들이 영화 보면서 단무지를 먹는 느낌”이라고 비유했다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JTBC '비정상회담' 한국에서만 유명한 미국 음식이 화제... 그 음식은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

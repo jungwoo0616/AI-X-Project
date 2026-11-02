@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270076",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김지민, “♥김준호 집 체리지옥 들어가기 싫다”(하우스 대역전)",
+		"newsSubTitle": "",
+		"newsContent": "김지민이 연인 김준호의 집에 대해 언급했다.\n최근 진행된 SBS FiL ‘내 집의 변신-하우스 대역전’(하우스 대역전) 8회 촬영은 ‘역전의 고수’ 편으로 진행됐다.\n김지민은 박군과 함께 2022년 트렌드가 총집합 된 고급스러운 호텔 같은 집을 찾았다.\n집 주인은 “2010년에 지어져 당시에는 체리색으로 몰딩이 돼 있었는데 저희 라이프 스타일에 맞게 콘셉트를 협의해 리모델링하게 됐다”고 소개했다.\n이에 김지민은 “저의 그 분(김준호) 집이 모든 게 체리색이다. 그 집에 들어가기가 싫다”고 너스레를 떨어 폭소케 했다.\n이어 “올드한 분위기가 난다. 바꾸고 싶어서 시트지를 붙였는데 괜찮아지긴 했다”고 덧붙였다.\n하우스 대역전’8회 분은 13일 SBS에서 오후 5시 50분, SBS FiL에서 오후 8시, 라이프타임에서 오후 9시 방송된다.\nSBS MTV에선 14일 낮 12시에 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김지민이 연인 김준호의 집에 대해 언급했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 진행된 SBS FiL ‘내 집의 변신-하우스 대역전’(하우스 대역전) 8회 촬영은 ‘역전의 고수’ 편으로 진행됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김지민은 박군과 함께 2022년 트렌드가 총집합 된 고급스러운 호텔 같은 집을 찾았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "집 주인은 “2010년에 지어져 당시에는 체리색으로 몰딩이 돼 있었는데 저희 라이프 스타일에 맞게 콘셉트를 협의해 리모델링하게 됐다”고 소개했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 김지민은 “저의 그 분(김준호) 집이 모든 게 체리색이다. 그 집에 들어가기가 싫다”고 너스레를 떨어 폭소케 했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “올드한 분위기가 난다. 바꾸고 싶어서 시트지를 붙였는데 괜찮아지긴 했다”고 덧붙였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하우스 대역전’8회 분은 13일 SBS에서 오후 5시 50분, SBS FiL에서 오후 8시, 라이프타임에서 오후 9시 방송된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SBS MTV에선 14일 낮 12시에 확인할 수 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김지민, “♥김준호 집 체리지옥 들어가기 싫다”(하우스 대역전)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

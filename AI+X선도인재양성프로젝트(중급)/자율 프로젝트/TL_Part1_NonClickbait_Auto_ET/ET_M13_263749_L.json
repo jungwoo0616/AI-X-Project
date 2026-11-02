@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263749",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 지수, 美의 기준을 세우다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크(BLACK PINK) 멤버 지수가 깜찍한 모습을 공개했다.\n지수는 13일 자신의 사회 관계망 서비스(SNS)에 “시그”라는 글과 함께 사진들을 게재했다.\n사진 속 지수는 다양한 포즈로 자세를 잡고 있는 모습이다.\n그는 검은색 원피스와 액세사리로 고혹적인 자태까지 자아냈다.\n특히 지수는 시스루 앞머리 스타일과 롱 웨이브 헤어로 인형 같은 미모를 자랑해 보는 이들의 시선을 사로잡았다.\n앞서 지수는 지난 8일 파리패션위크를 통해 국위선양을 마치고 인천공항을 통해 귀국했다.\n이후 지수는 블랙핑크 컴백에 열중할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크(BLACK PINK) 멤버 지수가 깜찍한 모습을 공개했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수는 13일 자신의 사회 관계망 서비스(SNS)에 “시그”라는 글과 함께 사진들을 게재했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 지수는 다양한 포즈로 자세를 잡고 있는 모습이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 검은색 원피스와 액세사리로 고혹적인 자태까지 자아냈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 지수는 시스루 앞머리 스타일과 롱 웨이브 헤어로 인형 같은 미모를 자랑해 보는 이들의 시선을 사로잡았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 지수는 지난 8일 파리패션위크를 통해 국위선양을 마치고 인천공항을 통해 귀국했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 지수는 블랙핑크 컴백에 열중할 예정이다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 지수, 美의 기준을 세우다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169721",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "응답하라 1988 성노을, 귀요미 진주와 父女 케미 '찰칵'",
+    "newsSubTitle": "",
+    "newsContent": "응답하라 1988 성노을, 귀요미 진주와 父女 케미 '찰칵' tvN 드라마 '응답하라 1988' 귀요미 마스코트 김설이 최성원과 함께 찍은 셀카를 공개했다.\n11일 김설의 인스타그램에는 한 장의 사진이 게재됐다.\n공개된 사진 속에는 김설과 최성원이 다정한 눈빛교환을 하고 있는 모습이 담겨있다.\n특히 최성원은 귀요미 마스코트 김설을 향해 다정한 아빠 눈빛을 하고 있어 눈길을 끌고 있다.\n또한 김설과 최성원은 실제 부녀사이 같은 특급 케미를 발산해 더욱 시선을 사로잡고 있다.\n한편, 김설-최성원이 출연 중인 tvN 드라마 '응답하라 1988'은 매주 금토 오후 7시 50분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "응답하라 1988 성노을, 귀요미 진주와 父女 케미 '찰칵' tvN 드라마 '응답하라 1988' 귀요미 마스코트 김설이 최성원과 함께 찍은 셀카를 공개했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 김설의 인스타그램에는 한 장의 사진이 게재됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 김설과 최성원이 다정한 눈빛교환을 하고 있는 모습이 담겨있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 최성원은 귀요미 마스코트 김설을 향해 다정한 아빠 눈빛을 하고 있어 눈길을 끌고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 김설과 최성원은 실제 부녀사이 같은 특급 케미를 발산해 더욱 시선을 사로잡고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 김설-최성원이 출연 중인 tvN 드라마 '응답하라 1988'은 매주 금토 오후 7시 50분에 방송된다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "알고 보면 진짜 부녀 사이? 응팔 성노을, 김설과 찍은 사진 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

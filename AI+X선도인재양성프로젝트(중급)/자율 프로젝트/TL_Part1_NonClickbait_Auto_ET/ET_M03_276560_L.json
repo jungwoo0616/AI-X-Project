@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276560",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "홍석천 \\\"인건비에 월세까지…이태원 가게 정리할까 고민\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 겸 사업가인 홍석천이 계속되는 불황에 고충을 털어놨다.\n홍석천은 19일 SBS 러브FM '윤형빈, 양세형의 투맨쇼'에 출연해 사업가로서의 고민을 털어놨다.\n그는 \\\"이태원에 있는 가게 한두개를 정리할까 한다\\\"며 \\\"경기가 너무 안 좋다. 인건비에 월세까지 계속 뛰어 너무 힘들다\\\"고 말했다.\n양세형이 \\\"최근에 세운 건물은 괜찮냐\\\"고 묻자 홍석천은 \\\"다행히 거기는 괜찮다\\\"고 답해 웃음을 자아냈다.\n홍석천은 서울 용산구 이태원 일대에서 15년간 레스토랑을 운영하면서 성공한 사업가가 됐다.\n그가 이태원 일대에서 운영하는 가게는 모두 13곳으로 알려졌다.\n최근엔 이태원 경리단길에 5층짜리 건물을 지었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 겸 사업가인 홍석천이 계속되는 불황에 고충을 털어놨다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍석천은 19일 SBS 러브FM '윤형빈, 양세형의 투맨쇼'에 출연해 사업가로서의 고민을 털어놨다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"이태원에 있는 가게 한두개를 정리할까 한다\\\"며 \\\"경기가 너무 안 좋다. 인건비에 월세까지 계속 뛰어 너무 힘들다\\\"고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양세형이 \\\"최근에 세운 건물은 괜찮냐\\\"고 묻자 홍석천은 \\\"다행히 거기는 괜찮다\\\"고 답해 웃음을 자아냈다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍석천은 서울 용산구 이태원 일대에서 15년간 레스토랑을 운영하면서 성공한 사업가가 됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그가 이태원 일대에서 운영하는 가게는 모두 13곳으로 알려졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근엔 이태원 경리단길에 5층짜리 건물을 지었다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍석천 \\\"인건비에 월세까지…이태원 가게 정리할까 고민\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

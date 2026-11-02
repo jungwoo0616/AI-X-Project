@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165807",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "FNC “이종현, 걸그룹 성추행 의혹은 루머…법적 대응”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 씨엔블루 이종현 측이 최근 온라인 커뮤니티를 중심으로 확산된 동료 연예인 성추행 의혹에 대해 “사실무근”이라는 입장을 밝혔다.\n이종현의 소속사인 FNC엔터테인먼트는 이날 여러 매체를 통해 “최근 이종현이 동료 연예인을 성추행했다는 루머는 사실무근”이라고 밝혔다.\nFNC는 “이종현이 현재 잘못한 부분에 대해선 인정하고 반성하고 있다”며 “그러나 네티즌의 악의적이고 명백한 허위사실 유포에 대해서는 바로잡고 강력한 법적 대응 예정”이라고 전했다.\n최근 온라인 커뮤니티에는 이종현이 무대에서 동료 연예인에게 일부러 신체 접촉을 했다는 주장과 함께 영상이 올라왔다.\n한편 이종현은 불법 촬영물 유포한 혐의를 받는 정준영의 ‘카카오톡 단체방’ 참여자 중 한명으로 알려진다.\n그는 정준영과의 채팅방에서 불법 촬영한 영상을 받아보고, 부적절한 대화를 한 것으로 전해졌다.\n이에 대해 이종현은 15일 “잘못된 성도덕에 대한 지적을 깊이 받아들이고, 앞으로 반성하고 속죄하겠다”고 사과했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 씨엔블루 이종현 측이 최근 온라인 커뮤니티를 중심으로 확산된 동료 연예인 성추행 의혹에 대해 “사실무근”이라는 입장을 밝혔다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이종현의 소속사인 FNC엔터테인먼트는 이날 여러 매체를 통해 “최근 이종현이 동료 연예인을 성추행했다는 루머는 사실무근”이라고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "FNC는 “이종현이 현재 잘못한 부분에 대해선 인정하고 반성하고 있다”며 “그러나 네티즌의 악의적이고 명백한 허위사실 유포에 대해서는 바로잡고 강력한 법적 대응 예정”이라고 전했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 온라인 커뮤니티에는 이종현이 무대에서 동료 연예인에게 일부러 신체 접촉을 했다는 주장과 함께 영상이 올라왔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이종현은 불법 촬영물 유포한 혐의를 받는 정준영의 ‘카카오톡 단체방’ 참여자 중 한명으로 알려진다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 정준영과의 채팅방에서 불법 촬영한 영상을 받아보고, 부적절한 대화를 한 것으로 전해졌다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 대해 이종현은 15일 “잘못된 성도덕에 대한 지적을 깊이 받아들이고, 앞으로 반성하고 속죄하겠다”고 사과했다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "씨엔블루 이종현, 동료 연예인 성추행 의혹에 '나 몰라라' 극혐",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

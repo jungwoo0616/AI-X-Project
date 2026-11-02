@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280844",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마리와 나 서인국, 라쿤의 만행에 쩔쩔매…\\\"왜 그러니 나한테\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'마리와 나' 서인국이 화제다.\n지난 23일 방송된 JTBC '마리와 나'에서는 라쿤이 어지럽힌 침대를 청소하는 서인국의 모습이 그려졌다.\n이날 서인국은 싱크대 밑으로 들어가는 라쿤을 위해 상자로 벽을 설치하기 시작했다.\n그동안 라쿤은 침대 밑에서 주운 나무조각을 갉아먹으며 서인국의 잠자리를 어지럽혔다.\n잠시 후 서인국은 라쿤의 만행을 발견하고 \\\"이거 누가 치워\\\"라며 한숨을 쉬었다.\n이어 밖으로 나가 이불을 털며 \\\"왜 그러니 나한테\\\"라고 토로해 웃음을 자아냈다.\n이를 접한 네티즌들은 \\\"마리와 나 서인국, 힘들겠다\\\", \\\"마리와 나 서인국, 동물 박사라면서\\\" \\\"마리와 나 서인국, 보는 내내 웃음이 나왔다\\\" 등의 반응을 보였다.\n온라인 중앙일보 마리와 나 서인국 [사진 JTBC 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'마리와 나' 서인국이 화제다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 23일 방송된 JTBC '마리와 나'에서는 라쿤이 어지럽힌 침대를 청소하는 서인국의 모습이 그려졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 서인국은 싱크대 밑으로 들어가는 라쿤을 위해 상자로 벽을 설치하기 시작했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 라쿤은 침대 밑에서 주운 나무조각을 갉아먹으며 서인국의 잠자리를 어지럽혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "잠시 후 서인국은 라쿤의 만행을 발견하고 \\\"이거 누가 치워\\\"라며 한숨을 쉬었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 밖으로 나가 이불을 털며 \\\"왜 그러니 나한테\\\"라고 토로해 웃음을 자아냈다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 접한 네티즌들은 \\\"마리와 나 서인국, 힘들겠다\\\", \\\"마리와 나 서인국, 동물 박사라면서\\\" \\\"마리와 나 서인국, 보는 내내 웃음이 나왔다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 마리와 나 서인국 [사진 JTBC 캡처]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마리와 나 서인국, 라쿤의 만행에 쩔쩔매…\\\"왜 그러니 나한테\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

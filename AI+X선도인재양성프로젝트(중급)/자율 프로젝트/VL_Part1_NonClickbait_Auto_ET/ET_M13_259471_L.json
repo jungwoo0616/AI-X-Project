@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259471",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오늘(27일) 워너원 ‘Beautiful (Part.3)’ 듣는날",
+		"newsSubTitle": "",
+		"newsContent": "그룹 워너원(Wanna One)이 3년 만에 신곡으로 돌아온다.\n워너원은 27일 오후 6시 전 온라인 음원 사이트를 통해 새 디지털 싱글 ‘B-Side’(비-사이드)와 뮤직비디오를 공개한다.\n발매에 앞서 워너원은 27일 사회관계망서비스(SNS)를 통해 단체 이미지를 공개하며 정식 음원에 대한 기대감을 더했다.\n사진 속에는 ‘2021 MAMA’(엠넷 아시안 뮤직 어워즈)를 통해 3년 만에 뭉친 워너원과 팬들의 모습이 담겨 있다.\n워너원의 새 싱글 ‘B-Side’는 ‘A-Side’에 멈춰있던 워너원과 워너블의 시간을 ‘B-Side’로 재생시킴과 동시에 항상 팬들 곁에 있겠다는 ‘Beside’(~옆에)라는 메시지를 전한다. ‘Beautiful (Part.3)’는 ‘2021 MAMA’에서 워너원이 선보인 것으로 2017년 ‘Beautiful’, 2018년 ‘Beautiful (Part.ll)’에 이어 워너원과 워너블의 변함없는 약속을 노래한다.\n이번 신보는 ‘Beautiful’ 시리즈 중 가장 리드미컬한 버전이며, 희망적이고 경쾌한 비트 위에 서정적이고 애절한 멜로디가 돋보인다.\n이와 더불어 멤버들의 개성이 담긴 목소리가 조화를 이루며 워너원을 그리워했던 이들에게 선물이 될 전망이다.\n한편 워너원의 새 디지털 싱글 ‘B-Side’는 27일 오후 6시부터 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 워너원(Wanna One)이 3년 만에 신곡으로 돌아온다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "워너원은 27일 오후 6시 전 온라인 음원 사이트를 통해 새 디지털 싱글 ‘B-Side’(비-사이드)와 뮤직비디오를 공개한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "발매에 앞서 워너원은 27일 사회관계망서비스(SNS)를 통해 단체 이미지를 공개하며 정식 음원에 대한 기대감을 더했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속에는 ‘2021 MAMA’(엠넷 아시안 뮤직 어워즈)를 통해 3년 만에 뭉친 워너원과 팬들의 모습이 담겨 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "워너원의 새 싱글 ‘B-Side’는 ‘A-Side’에 멈춰있던 워너원과 워너블의 시간을 ‘B-Side’로 재생시킴과 동시에 항상 팬들 곁에 있겠다는 ‘Beside’(~옆에)라는 메시지를 전한다. ‘Beautiful (Part.3)’는 ‘2021 MAMA’에서 워너원이 선보인 것으로 2017년 ‘Beautiful’, 2018년 ‘Beautiful (Part.ll)’에 이어 워너원과 워너블의 변함없는 약속을 노래한다.",
+				"sentenceSize": 233
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 신보는 ‘Beautiful’ 시리즈 중 가장 리드미컬한 버전이며, 희망적이고 경쾌한 비트 위에 서정적이고 애절한 멜로디가 돋보인다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 더불어 멤버들의 개성이 담긴 목소리가 조화를 이루며 워너원을 그리워했던 이들에게 선물이 될 전망이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 워너원의 새 디지털 싱글 ‘B-Side’는 27일 오후 6시부터 감상할 수 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오늘(27일) 워너원 ‘Beautiful (Part.3)’ 듣는날",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

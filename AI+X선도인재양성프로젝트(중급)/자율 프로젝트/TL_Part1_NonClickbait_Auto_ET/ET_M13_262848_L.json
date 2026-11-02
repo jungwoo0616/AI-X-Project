@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262848",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "우크라이나 모델 올레나, 원전 폭격한 러시아에 분노 “전쟁 멈춰야해요”",
+		"newsSubTitle": "",
+		"newsContent": "우크라이나 출신 모델 겸 방송인 올레나가 우크라이나 원전 폭팔을 걱정했다.\n올레나는 4일 자신의 인스타그램 스토리에 우크라니아 원전 폭격과 관련된 뉴스 사진을 게재했다.\n올레나는 “체르노빌보다 10배 큰 원전이 폭격당해 화제가 났어요”라며 운을 뗐다.\n이어 올레나는 “이게 터지면 유럽과 아시아 전체가 위험해져요. 제발 이 전쟁을 멈춰야해요”라며 휴전에 대한 목소리를 펼쳤다.\n또 올레나는 “어제 민간인대피 휴전협정을 해놓고 바로 폭격을 시작했어요!!!”라며 러시아의 폭격에 분노를 터뜨렸다.\n이날 오전 우크라이나 자포리자의 원자력 발전소에서 러시아군의 공격으로 화재가 발생했다고 로이터통신과 AFP통신 등이 보도했다.\n자포리자 원전은 우크라이나에서 가동 중인 원자로 15기 중 6기를 보유한 대규모 원전으로 우크라이나 전체 전력 생산의 4분의1 정도를 차지하고 있다.\n유럽 최대 규모의 원자력 발전소라는 평가를 받는다.\n원자력 발전소 화재 소식을 전하며 러시아를 규탄했던 에네르호다르시의 트미트로 오를로프 시장은 “이제 러시아군의 포격이 중단됐다”고 밝혔다.\n한편, 올레나는 KBS1 ‘이웃집 찰스’, MBC에브리원 ‘대한 외국인’ 등에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우크라이나 출신 모델 겸 방송인 올레나가 우크라이나 원전 폭팔을 걱정했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올레나는 4일 자신의 인스타그램 스토리에 우크라니아 원전 폭격과 관련된 뉴스 사진을 게재했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올레나는 “체르노빌보다 10배 큰 원전이 폭격당해 화제가 났어요”라며 운을 뗐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 올레나는 “이게 터지면 유럽과 아시아 전체가 위험해져요. 제발 이 전쟁을 멈춰야해요”라며 휴전에 대한 목소리를 펼쳤다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 올레나는 “어제 민간인대피 휴전협정을 해놓고 바로 폭격을 시작했어요!!!”라며 러시아의 폭격에 분노를 터뜨렸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 오전 우크라이나 자포리자의 원자력 발전소에서 러시아군의 공격으로 화재가 발생했다고 로이터통신과 AFP통신 등이 보도했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자포리자 원전은 우크라이나에서 가동 중인 원자로 15기 중 6기를 보유한 대규모 원전으로 우크라이나 전체 전력 생산의 4분의1 정도를 차지하고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유럽 최대 규모의 원자력 발전소라는 평가를 받는다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "원자력 발전소 화재 소식을 전하며 러시아를 규탄했던 에네르호다르시의 트미트로 오를로프 시장은 “이제 러시아군의 포격이 중단됐다”고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편, 올레나는 KBS1 ‘이웃집 찰스’, MBC에브리원 ‘대한 외국인’ 등에 출연했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우크라이나 모델 올레나, 원전 폭격한 러시아에 분노 “전쟁 멈춰야해요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269916",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "블루 사운드 랩, 첫 컴필레이션 앨범 ‘test.001’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "12일 음악 크루 ‘블루 사운드 랩’의 세계관을 그려내는 첫 번째 컴필레이션 앨범 ‘test.001’을 발매한다.\n이번 앨범에는 IZON, Cluddy, Nerdish Peeps, Popo 등 많은 인디 아티스트들이 참여하였다.\n다양한 아티스트들을 통해, 새로운 세계를 그려내고자 한 ‘test.001’ 은 각기 다른 이야기를 가진 4곡으로 구성되었다.\n각 곡마다 별개의 아티스트들이 참여했으며 각양 각색으로 본인들의 색깔을 표현했다.\n영화 같은 리릭비디오도 시선을 끌어들인다.\n유튜브 채널 Blue Sound Lab에서 이를 확인 할 수 있다. 8월 초에 나오는 두 번째 컴필레이션 앨범 이후 크루 단위로 라이브 공연도 계획 중이다.\n크루 대표 박수민은 “블루사운드랩의 서사의 첫 장을 드디어 넘겨 굉장히 행복하다”라며 “앞으로 계속 만들어갈 세계관을 기대해달라”고 전했다. ‘블루 사운드 랩’이 앞으로 들려줄 사운드가 궁금하다.\n블루 사운드 랩의 컴필레이션 앨범 ‘test.001’은 각종 온라인 플랫폼에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "12일 음악 크루 ‘블루 사운드 랩’의 세계관을 그려내는 첫 번째 컴필레이션 앨범 ‘test.001’을 발매한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 앨범에는 IZON, Cluddy, Nerdish Peeps, Popo 등 많은 인디 아티스트들이 참여하였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다양한 아티스트들을 통해, 새로운 세계를 그려내고자 한 ‘test.001’ 은 각기 다른 이야기를 가진 4곡으로 구성되었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각 곡마다 별개의 아티스트들이 참여했으며 각양 각색으로 본인들의 색깔을 표현했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영화 같은 리릭비디오도 시선을 끌어들인다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유튜브 채널 Blue Sound Lab에서 이를 확인 할 수 있다. 8월 초에 나오는 두 번째 컴필레이션 앨범 이후 크루 단위로 라이브 공연도 계획 중이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "크루 대표 박수민은 “블루사운드랩의 서사의 첫 장을 드디어 넘겨 굉장히 행복하다”라며 “앞으로 계속 만들어갈 세계관을 기대해달라”고 전했다. ‘블루 사운드 랩’이 앞으로 들려줄 사운드가 궁금하다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "블루 사운드 랩의 컴필레이션 앨범 ‘test.001’은 각종 온라인 플랫폼에서 확인할 수 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블루 사운드 랩, 첫 컴필레이션 앨범 ‘test.001’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

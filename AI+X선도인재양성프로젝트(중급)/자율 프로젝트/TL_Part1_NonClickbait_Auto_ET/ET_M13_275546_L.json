@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275546",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“내가 왜 그랬을까”…안산에게 찍힌 ‘권모술수’의 후회",
+		"newsSubTitle": "",
+		"newsContent": "배우 주종혁이 양궁 선수 안산의 경고를 받고 후회했다.\n주종혁은 지난 14일 인스타그램에 “제가 왜 그랬을까요”라는 글과 함께 여러 장의 사진을 올렸다.\n공개된 사진 속에는 착잡한 표정으로 개 앞에 앉아있는 주종혁의 모습이 담겨있다.\n앞서 양궁 선수 안산은 전날 방송된 ENA 드라마 ‘이상한 변호사 우영우’ 5회 속 ‘권민우’(주종혁 분)의 행적에 과몰입해 “권모술수 너 그렇게 살지마. 뒤통수 조심해. 권모술수 너 70m 앞에 서있지 마”라는 글을 올린 바 있다.\n주종혁은 이 글에 재치 있게 답한 것이다. ‘우영우’(박은빈 분)의 멘토 변호사 ‘정명석’ 역을 맡은 배우 강기영은 주종혁의 글에 화살 이모티콘을 남겨 팬들의 웃음을 자아냈다.\n주종혁은 최근 ENA 수목드라마 ‘이상한 변호사 우영우’에서 ‘우영우’를 탐탁지 않아 하는 변호사 ‘권민우’역을 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 주종혁이 양궁 선수 안산의 경고를 받고 후회했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주종혁은 지난 14일 인스타그램에 “제가 왜 그랬을까요”라는 글과 함께 여러 장의 사진을 올렸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 착잡한 표정으로 개 앞에 앉아있는 주종혁의 모습이 담겨있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 양궁 선수 안산은 전날 방송된 ENA 드라마 ‘이상한 변호사 우영우’ 5회 속 ‘권민우’(주종혁 분)의 행적에 과몰입해 “권모술수 너 그렇게 살지마. 뒤통수 조심해. 권모술수 너 70m 앞에 서있지 마”라는 글을 올린 바 있다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주종혁은 이 글에 재치 있게 답한 것이다. ‘우영우’(박은빈 분)의 멘토 변호사 ‘정명석’ 역을 맡은 배우 강기영은 주종혁의 글에 화살 이모티콘을 남겨 팬들의 웃음을 자아냈다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주종혁은 최근 ENA 수목드라마 ‘이상한 변호사 우영우’에서 ‘우영우’를 탐탁지 않아 하는 변호사 ‘권민우’역을 맡았다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“내가 왜 그랬을까”…안산에게 찍힌 ‘권모술수’의 후회",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

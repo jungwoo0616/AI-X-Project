@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264381",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 노제, 코로나19 확진",
+		"newsSubTitle": "",
+		"newsContent": "댄서 노제가 코로나19에 확진됐다.\n소속사 스타팅하우스는 지난 19일 공식입장을 내고 “소속 아티스트 노제가 코로나19 확진 판정을 받았다”고 밝혔다.\n이어 “노제는 지난 18일 선제적으로 실시한 자가진단키트 검사에서 양성 반응을 보여 곧바로 병원으로 이동해 신속항원검사를 진행했고, 코로나19 확진 판정을 받았다”고 전했다.\n그러면서 “노제는 코로나19 백신 2차 접종까지 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 휴식을 취하고 있다”고 설명했다.\n끝으로 소속사는 “향후 방역 당국의 지침을 준수하며 소속 아티스트 그리고 스태프의 건강과 안전을 위해 만전을 기하겠다”고 덧붙였다.\n■다음은 스타팅하우스 입장 전문. 안녕하세요.\n스타팅하우스입니다.\n소속 아티스트 노제가 코로나19 확진 판정을 받아 안내드립니다.\n노제는 지난 18일 선제적으로 실시한 자가진단키트 검사에서 양성 반응을 보여 곧바로 병원으로 이동해 신속항원검사를 진행했고, 코로나19 확진 판정을 받았습니다.\n노제는 코로나19 백신 2차 접종까지 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 휴식을 취하고 있습니다.\n당사는 향후 방역 당국의 지침을 준수하며 소속 아티스트 그리고 스태프의 건강과 안전을 위해 만전을 기하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 노제가 코로나19에 확진됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 스타팅하우스는 지난 19일 공식입장을 내고 “소속 아티스트 노제가 코로나19 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “노제는 지난 18일 선제적으로 실시한 자가진단키트 검사에서 양성 반응을 보여 곧바로 병원으로 이동해 신속항원검사를 진행했고, 코로나19 확진 판정을 받았다”고 전했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “노제는 코로나19 백신 2차 접종까지 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 휴식을 취하고 있다”고 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "끝으로 소속사는 “향후 방역 당국의 지침을 준수하며 소속 아티스트 그리고 스태프의 건강과 안전을 위해 만전을 기하겠다”고 덧붙였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "■다음은 스타팅하우스 입장 전문. 안녕하세요.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스타팅하우스입니다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소속 아티스트 노제가 코로나19 확진 판정을 받아 안내드립니다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "노제는 지난 18일 선제적으로 실시한 자가진단키트 검사에서 양성 반응을 보여 곧바로 병원으로 이동해 신속항원검사를 진행했고, 코로나19 확진 판정을 받았습니다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "노제는 코로나19 백신 2차 접종까지 완료한 상태로, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치와 휴식을 취하고 있습니다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "당사는 향후 방역 당국의 지침을 준수하며 소속 아티스트 그리고 스태프의 건강과 안전을 위해 만전을 기하겠습니다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 노제, 코로나19 확진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

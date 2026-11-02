@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277036",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "영화 '치인트' 측이 밝힌 원작과의 결말 싱크로율",
+		"newsSubTitle": "",
+		"newsContent": "인기 웹툰을 실사화한 영화 '치즈인더트랩'측이 원작의 결말을 따라가진 않을 것이라고 밝혔다.\n영화 '치즈인더트랩'의 제작사 마운틴 무브먼트 스토리 측은 지난 30일 동아닷컴과의 인터뷰에서 \\\"완결된 원작의 전체 풀스토리를 담았다고 말하기는 어렵다\\\"고 밝혔다.\n또한 \\\"영화 버전은 일찌감치 시나리오 작업이 마무리된 상태\\\"라며 \\\"드라마 버전과는 전혀 다른 '치즈인더트랩'이 될 것\\\"이라고 못박았다.\n그러면서도 \\\"원작자인 순끼 작가가 자문으로 나서 원작의 틀은 벗어나지 않을 것\\\"이라고 설명했다.\n웹툰 '치즈인더트랩'은 2010년 부터 7년간 인기리에 연재된 웹툰이다.\n영화 '치즈인더트랩'에는 박해진과 오연서가 주인공으로 캐스팅돼 드라마와는 다른 새로움을 선사할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인기 웹툰을 실사화한 영화 '치즈인더트랩'측이 원작의 결말을 따라가진 않을 것이라고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영화 '치즈인더트랩'의 제작사 마운틴 무브먼트 스토리 측은 지난 30일 동아닷컴과의 인터뷰에서 \\\"완결된 원작의 전체 풀스토리를 담았다고 말하기는 어렵다\\\"고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 \\\"영화 버전은 일찌감치 시나리오 작업이 마무리된 상태\\\"라며 \\\"드라마 버전과는 전혀 다른 '치즈인더트랩'이 될 것\\\"이라고 못박았다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서도 \\\"원작자인 순끼 작가가 자문으로 나서 원작의 틀은 벗어나지 않을 것\\\"이라고 설명했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "웹툰 '치즈인더트랩'은 2010년 부터 7년간 인기리에 연재된 웹툰이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 '치즈인더트랩'에는 박해진과 오연서가 주인공으로 캐스팅돼 드라마와는 다른 새로움을 선사할 예정이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영화 '치인트' 측이 밝힌 원작과의 결말 싱크로율",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

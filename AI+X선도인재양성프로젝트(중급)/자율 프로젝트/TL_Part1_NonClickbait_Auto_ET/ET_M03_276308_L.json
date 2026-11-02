@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276308",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아이린이 못 먹는다는 의외의 음식",
+		"newsSubTitle": "",
+		"newsContent": "레드벨벳 아이린이 못 먹는 음식을 밝혔습니다.\n아이린은 22일 방송된 예능 프로그램 ‘한끼줍쇼’에 출연해 ‘치킨’을 먹지 못한다고 말해 놀라움을 안겼는데요.\n치킨은 한국에서 ‘국민 야식’이라는 별칭이 있을 정도로 많은 사랑을 받는 음식이기 때문이죠.\n아이린은 “어렸을 때 어머니가 일주일 내내 치킨을 시켜주셔서 탈이 났다. 그 뒤로는 닭을 못 먹게 됐다”고 이유를 설명했습니다.\n지난해 레드벨벳이 모델로 활동한 치킨 브랜드의 광고도 주목됐습니다.\n당시 아이린을 비롯한 레드벨벳 멤버들은 상큼하게 치킨을 먹는 광고를 촬영했습니다.\n아이린은 커피도 못 마신다고 합니다.\n한 방송에서 커피 대신 한국의 전통 음료인 ‘식혜(쌀로 달게 만든 음료)’를 좋아한다고 밝혀 멤버들에게 “옛날사람”이라고 놀림을 받기도 했는데요.\n최근 캔커피 음료 모델로 광고를 촬영했죠.\n이에 한국 네티즌들은 “자본주의의 힘에 굴복한 아이린” “역시 프로” 등의 반응을 보였습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레드벨벳 아이린이 못 먹는 음식을 밝혔습니다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이린은 22일 방송된 예능 프로그램 ‘한끼줍쇼’에 출연해 ‘치킨’을 먹지 못한다고 말해 놀라움을 안겼는데요.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "치킨은 한국에서 ‘국민 야식’이라는 별칭이 있을 정도로 많은 사랑을 받는 음식이기 때문이죠.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이린은 “어렸을 때 어머니가 일주일 내내 치킨을 시켜주셔서 탈이 났다. 그 뒤로는 닭을 못 먹게 됐다”고 이유를 설명했습니다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 레드벨벳이 모델로 활동한 치킨 브랜드의 광고도 주목됐습니다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 아이린을 비롯한 레드벨벳 멤버들은 상큼하게 치킨을 먹는 광고를 촬영했습니다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이린은 커피도 못 마신다고 합니다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한 방송에서 커피 대신 한국의 전통 음료인 ‘식혜(쌀로 달게 만든 음료)’를 좋아한다고 밝혀 멤버들에게 “옛날사람”이라고 놀림을 받기도 했는데요.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근 캔커피 음료 모델로 광고를 촬영했죠.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이에 한국 네티즌들은 “자본주의의 힘에 굴복한 아이린” “역시 프로” 등의 반응을 보였습니다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이린이 못 먹는다는 의외의 음식",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

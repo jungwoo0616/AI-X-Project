@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278461",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "남궁민, 'SNL 코리아 7' 호스트로 출연…'악역 연기 볼 수 있을 듯'",
+		"newsSubTitle": "",
+		"newsContent": "배우 남궁민이 'SNL 코리아7'에 호스트로 출연한다.\n일간스포츠에 따르면 오는 12일 생방송되는 tvN 'SNL 코리아7'에 호스트로 확정됐다.\n남궁민은 최근 종영한 SBS 드라마 '리멤버'에서 악랄한 재벌 3세 남규만 역을 맡아 인상적인 악역 연기를 펼친 바 있다.\n관계자는 \\\"남궁민이 'SNL코리아7'을 통해 어떤 콩트를 선보일 지는 계속해서 논의 중이나, '리멤버'에서 보였던 특유의 악역 연기를 다시 한 번 볼 수 있을 것으로 보인다\\\"고 밝혔다.\n한편 오는 5일 방송되는 'SNL 코리아7' 첫 번째 호스트로는 이하늬가 결정됐다.\n이날 게스트로는 클레이 모레츠, 이한위 등이 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 남궁민이 'SNL 코리아7'에 호스트로 출연한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일간스포츠에 따르면 오는 12일 생방송되는 tvN 'SNL 코리아7'에 호스트로 확정됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "남궁민은 최근 종영한 SBS 드라마 '리멤버'에서 악랄한 재벌 3세 남규만 역을 맡아 인상적인 악역 연기를 펼친 바 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관계자는 \\\"남궁민이 'SNL코리아7'을 통해 어떤 콩트를 선보일 지는 계속해서 논의 중이나, '리멤버'에서 보였던 특유의 악역 연기를 다시 한 번 볼 수 있을 것으로 보인다\\\"고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 오는 5일 방송되는 'SNL 코리아7' 첫 번째 호스트로는 이하늬가 결정됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 게스트로는 클레이 모레츠, 이한위 등이 출연한다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남궁민, 'SNL 코리아 7' 호스트로 출연…'악역 연기 볼 수 있을 듯'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276270",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "샤이니 종현, 사망 전 친누나와 주고받은 카톡 보니",
+		"newsSubTitle": "",
+		"newsContent": "아이돌 그룹 샤이니의 종현(28)이 18일 오후 6시 10분 서울 청담동의 한 레지던스에서 숨진 채 발견됐다.\n경찰은 4시 42분 \\\"종현이 자살할 것 같다\\\"는 친누나의 신고를 받고 6시 10분 청담동의 한 레지던스를 찾았다.\n종현은 심정지 상태로 발견됐으며 건대병원으로 후송했으나 결국 숨을 거뒀다.\n경찰에 따르면 종현이 친누나와 주고받은 카톡에는 장문의 유서 같은 것도 있다.\n종현은 친누나에게 \\\"이제까지 힘들었다\\\"는 내용의 톡을 보내기도 했다.\n종현이 마지막으로 보낸 카톡에는 \\\"나 보내달라. 고생했다고 말해달라\\\" \\\"마지막 인사다\\\"라는 내용이 적혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌 그룹 샤이니의 종현(28)이 18일 오후 6시 10분 서울 청담동의 한 레지던스에서 숨진 채 발견됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경찰은 4시 42분 \\\"종현이 자살할 것 같다\\\"는 친누나의 신고를 받고 6시 10분 청담동의 한 레지던스를 찾았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "종현은 심정지 상태로 발견됐으며 건대병원으로 후송했으나 결국 숨을 거뒀다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경찰에 따르면 종현이 친누나와 주고받은 카톡에는 장문의 유서 같은 것도 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "종현은 친누나에게 \\\"이제까지 힘들었다\\\"는 내용의 톡을 보내기도 했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "종현이 마지막으로 보낸 카톡에는 \\\"나 보내달라. 고생했다고 말해달라\\\" \\\"마지막 인사다\\\"라는 내용이 적혔다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "샤이니 종현, 사망 전 친누나와 주고받은 카톡 보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

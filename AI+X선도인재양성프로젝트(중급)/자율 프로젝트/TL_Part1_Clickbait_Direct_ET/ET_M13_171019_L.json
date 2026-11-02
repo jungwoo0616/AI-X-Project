@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171019",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "비투비 이민혁 “앨범 작업 참여율 높아져, 책임감X열정 느껴”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 비투비 이민혁이 새 앨범 작업에 참여한 소감을 전했다.\n이민혁은 30일 온라인으로 진행된 스페셜 앨범 ‘포유 : 아웃사이드(4U : OUTSIDE)’ 발매 기념 기자간담회에서 “이번 앨범에 담긴 여섯 곡 중 세 곡을 프로듀싱했다. 남은 세 곡도 멤버들이 작사에 전부 참여했다”고 밝혔다.\n그러면서 “평소보다 참여율이 더 높아졌다. 책임감을 더 느낀다. 감사함과 동시에 더 열심히 해야겠다는 열정을 한 번 더 얻어가게 됐다”고 소감을 말했다.\n비투비의 스페셜 앨범 ‘포유 : 아웃사이드’는 지난 4월 방송된 엠넷 ‘킹덤 : 레전더리 워’ 출연 후 선보이는 첫 앨범으로, 비투비만의 한층 성숙해진 음악적 깊이와 역량을 예고했다.\n타이틀곡 ‘아웃사이더(Outsider)’는 쉽게 따라 부를 수 있는 중독적인 멜로디의 네오 펑크/네오 소울 장르의 곡으로 현실적인 고민과 걱정을 타파하자는 메시지를 담았다.\n멤버 이민혁과 프니엘이 음악 작업에 참여해 기대를 높인다. 30일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 비투비 이민혁이 새 앨범 작업에 참여한 소감을 전했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이민혁은 30일 온라인으로 진행된 스페셜 앨범 ‘포유 : 아웃사이드(4U : OUTSIDE)’ 발매 기념 기자간담회에서 “이번 앨범에 담긴 여섯 곡 중 세 곡을 프로듀싱했다. 남은 세 곡도 멤버들이 작사에 전부 참여했다”고 밝혔다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 “평소보다 참여율이 더 높아졌다. 책임감을 더 느낀다. 감사함과 동시에 더 열심히 해야겠다는 열정을 한 번 더 얻어가게 됐다”고 소감을 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비투비의 스페셜 앨범 ‘포유 : 아웃사이드’는 지난 4월 방송된 엠넷 ‘킹덤 : 레전더리 워’ 출연 후 선보이는 첫 앨범으로, 비투비만의 한층 성숙해진 음악적 깊이와 역량을 예고했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡 ‘아웃사이더(Outsider)’는 쉽게 따라 부를 수 있는 중독적인 멜로디의 네오 펑크/네오 소울 장르의 곡으로 현실적인 고민과 걱정을 타파하자는 메시지를 담았다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멤버 이민혁과 프니엘이 음악 작업에 참여해 기대를 높인다. 30일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중독적인 멜로디... 비투비 신곡 ‘아웃사이더(Outsider)’, 공개알은 '이 날'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

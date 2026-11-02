@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270036",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신시아, 앤드마크와 전속계약[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 신시아가 앤드마크와 전속계약을 체결했다.\n13일(오늘) 앤드마크 측은“신시아는 신선한 마스크를 가지고 있어 어떤 역이든 소화해낼 수 있는 재능을 지닌 배우다“라며 영입 이유를 밝혔다.\n이어“당사는 신시아 배우가 폭넓은 활동을 할 수 있도록 다방면에서 전폭적인 지원을 아끼지 않을 것”이라며 전속계약 소식을 전했다.\n매력적인 이목구비에 신비스러운 분위기를 자아내는 신시아는 영화 ‘마녀’의 후속작 ‘마녀 Part2. The Other One’(이하 ‘마녀2’) 오디션에서 1,408대 1의 경쟁률을 뚫고 주인공으로 최종 결정되었다.\n그녀는 6월 15일 개봉되는 ‘마녀2’에서 정식으로 대중 앞에 모습을 드러낸다.\n한편 앤드마크는 종합엔터테인먼트사로 김아현, 김예원, 김현수, 김혜준, 박진주, 백진희, 이주빈, 장영남, 저스틴 하비, 정동훈, 차유진, 최준영 등이 속해 있으며, 최근 메타버스의 트렌드인 버츄얼 휴먼 ‘반디(Van:D)’까지 영입하며 사업을 다각화했다.\n영화, 드라마 제작까지 맡으며 비상하고 있는 앤드마크와 무궁무진한 잠재력을 지닌 신시아가 만나 어떤 시너지를 낼지 기대가 모인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 신시아가 앤드마크와 전속계약을 체결했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일(오늘) 앤드마크 측은“신시아는 신선한 마스크를 가지고 있어 어떤 역이든 소화해낼 수 있는 재능을 지닌 배우다“라며 영입 이유를 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어“당사는 신시아 배우가 폭넓은 활동을 할 수 있도록 다방면에서 전폭적인 지원을 아끼지 않을 것”이라며 전속계약 소식을 전했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매력적인 이목구비에 신비스러운 분위기를 자아내는 신시아는 영화 ‘마녀’의 후속작 ‘마녀 Part2. The Other One’(이하 ‘마녀2’) 오디션에서 1,408대 1의 경쟁률을 뚫고 주인공으로 최종 결정되었다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그녀는 6월 15일 개봉되는 ‘마녀2’에서 정식으로 대중 앞에 모습을 드러낸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 앤드마크는 종합엔터테인먼트사로 김아현, 김예원, 김현수, 김혜준, 박진주, 백진희, 이주빈, 장영남, 저스틴 하비, 정동훈, 차유진, 최준영 등이 속해 있으며, 최근 메타버스의 트렌드인 버츄얼 휴먼 ‘반디(Van:D)’까지 영입하며 사업을 다각화했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영화, 드라마 제작까지 맡으며 비상하고 있는 앤드마크와 무궁무진한 잠재력을 지닌 신시아가 만나 어떤 시너지를 낼지 기대가 모인다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신시아, 앤드마크와 전속계약[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

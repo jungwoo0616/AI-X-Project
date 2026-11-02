@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269427",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "황정음, 다이어트 선언 후 한 달…돌아온 V라인",
+		"newsSubTitle": "",
+		"newsContent": "배우 황정음이 다이어트 선언 후 한달 만에 V라인을 자랑했다.\n황정음은 7일 자신의 사회관계망서비스(SNS) 인스타그램 계정을 통해 근황이 담긴 사진을 게재했다.\n황정음은 여행을 즐기고 있는 모습을 사진으로 담았다.\n황정음은 분홍색 수영복을 입고 수영장에서 햇빛을 가득 받고 있다.\n황정음은 명품 티셔츠로 다른 매력인 사진도 공개했다.\n특히 지난달 출산 후 63kg이 됐다며 52kg까지 다이어트를 선언한 황정음은 살이 빠진 모습으로 다이어트 성공을 짐작할 수 있다.\n한편, 황정음은 2016년 프로골퍼 겸 사업가 이영돈과 결혼, 지난달 16일 둘째 아들을 출산했다.\n최근 그는 김순옥 작가 신작으로 2년 만에 안방극장 복귀 가능성을 알려 화제를 모으기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 황정음이 다이어트 선언 후 한달 만에 V라인을 자랑했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "황정음은 7일 자신의 사회관계망서비스(SNS) 인스타그램 계정을 통해 근황이 담긴 사진을 게재했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "황정음은 여행을 즐기고 있는 모습을 사진으로 담았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "황정음은 분홍색 수영복을 입고 수영장에서 햇빛을 가득 받고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "황정음은 명품 티셔츠로 다른 매력인 사진도 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 지난달 출산 후 63kg이 됐다며 52kg까지 다이어트를 선언한 황정음은 살이 빠진 모습으로 다이어트 성공을 짐작할 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 황정음은 2016년 프로골퍼 겸 사업가 이영돈과 결혼, 지난달 16일 둘째 아들을 출산했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 그는 김순옥 작가 신작으로 2년 만에 안방극장 복귀 가능성을 알려 화제를 모으기도 했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황정음, 다이어트 선언 후 한 달…돌아온 V라인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

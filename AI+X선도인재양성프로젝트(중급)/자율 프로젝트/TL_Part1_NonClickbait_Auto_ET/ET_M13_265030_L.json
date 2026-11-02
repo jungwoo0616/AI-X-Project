@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265030",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "배우 전희주, 영화 ‘봉필이 학교가다!’ 최봄 역 낙점[공식]",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 출신 배우 전희주가 영화 ‘봉필이 학교가다!’에 캐스이 됐다고 제작사가 25일 전했다.\n제작사는 “배우 ‘전희주’가 영화 ‘봉필이 학교가다!’ 출연을 확정짓고, 본격 연기 활동에 박차를 가한다”고 전했다. ‘필이 학교가다!’는 쌈짱 출신인 봉필이가 돈을 벌기 위해, 다시 고등학교에 입학하면서 벌어지는 코미디 학원물이다.\n전희주는 ‘봉필이 학교가다!’에서 ‘최봄’ 역을 맡았다.\n극중 ‘최봄’은 자칭 일진이나 실상은 날라리다.\n백치미가 사랑스러운 직진녀로 관종중에 관종인지라 특이한 것에 한번 꽂히면 앞뒤를 안가리는 귀요미다.\n삭았는데 잘 생긴 뽕삘이를 좋아하는 인물이다.\n영화 ‘봉필이 학교가다!’는 오는 4월 크랭크인 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 출신 배우 전희주가 영화 ‘봉필이 학교가다!’에 캐스이 됐다고 제작사가 25일 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제작사는 “배우 ‘전희주’가 영화 ‘봉필이 학교가다!’ 출연을 확정짓고, 본격 연기 활동에 박차를 가한다”고 전했다. ‘필이 학교가다!’는 쌈짱 출신인 봉필이가 돈을 벌기 위해, 다시 고등학교에 입학하면서 벌어지는 코미디 학원물이다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전희주는 ‘봉필이 학교가다!’에서 ‘최봄’ 역을 맡았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "극중 ‘최봄’은 자칭 일진이나 실상은 날라리다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백치미가 사랑스러운 직진녀로 관종중에 관종인지라 특이한 것에 한번 꽂히면 앞뒤를 안가리는 귀요미다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삭았는데 잘 생긴 뽕삘이를 좋아하는 인물이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영화 ‘봉필이 학교가다!’는 오는 4월 크랭크인 예정이다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 전희주, 영화 ‘봉필이 학교가다!’ 최봄 역 낙점[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

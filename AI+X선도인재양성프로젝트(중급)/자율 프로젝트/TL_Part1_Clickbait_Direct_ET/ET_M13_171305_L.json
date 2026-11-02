@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171305",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘살림남2’ 김미려, 건강 이상? “내 입으로 말 못해”",
+    "newsSubTitle": "",
+    "newsContent": "김미려 모녀가 마주 앉아 눈물을 흘린 사연이 공개된다.\n2일 오후 9시 15분 방송되는 KBS2 예능 프로그램 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 생애 처음으로 건강검진을 받은 워킹맘 김미려의 이야기가 그려진다.\n최근 김미려는 몸의 이상 신호를 느껴 건강검진을 받기로 했다.\n초음파, 내시경 등 각종 검사를 마친 김미려는 며칠 후 남편 정성윤과 함께 검사 결과를 듣기 위해 병원을 다시 찾았다가 의사로부터 검진 결과를 듣고 충격을 받았다고 한다.\n때마침 연락이 통 닿지 않아 걱정된 마음에 딸의 집을 찾은 어머니는 김미려의 어두운 표정을 보고 검사 결과를 물어봤지만 김미려가 “내 입으로 얘기 못 하겠다”며 머뭇거리기만 하자 더욱 불안해했다.\n이 가운데 식탁에서 마주 앉아 눈물만 쏟고 있는 김미려 모녀의 모습이 포착돼 과연 무슨 일이 있었는지 궁금증을 일으킨다.\n김미려의 자세한 속사정은 2일 오후 9시 15분 ‘살림남2’를 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김미려 모녀가 마주 앉아 눈물을 흘린 사연이 공개된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 오후 9시 15분 방송되는 KBS2 예능 프로그램 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 생애 처음으로 건강검진을 받은 워킹맘 김미려의 이야기가 그려진다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 김미려는 몸의 이상 신호를 느껴 건강검진을 받기로 했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "초음파, 내시경 등 각종 검사를 마친 김미려는 며칠 후 남편 정성윤과 함께 검사 결과를 듣기 위해 병원을 다시 찾았다가 의사로부터 검진 결과를 듣고 충격을 받았다고 한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "때마침 연락이 통 닿지 않아 걱정된 마음에 딸의 집을 찾은 어머니는 김미려의 어두운 표정을 보고 검사 결과를 물어봤지만 김미려가 “내 입으로 얘기 못 하겠다”며 머뭇거리기만 하자 더욱 불안해했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 가운데 식탁에서 마주 앉아 눈물만 쏟고 있는 김미려 모녀의 모습이 포착돼 과연 무슨 일이 있었는지 궁금증을 일으킨다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김미려의 자세한 속사정은 2일 오후 9시 15분 ‘살림남2’를 통해 확인할 수 있다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김미려, 생애 첫 건강검진 결과에 충격... 무엇이 문제였나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

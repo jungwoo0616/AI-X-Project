@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274113",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서정희 “병원에서 공식 사망? 돈 벌려고 저를 파네요”",
+		"newsSubTitle": "",
+		"newsContent": "유방암 투병중인 배우 서정희가 가짜뉴스를 퍼뜨리는 유튜버에 분노했다.\n서정희는 27일 자신의 SNS인스타그램에 “‘여기 진실만 OO’ 운영하는 유튜버는 클릭수로 돈을 벌려고 암을 이겨내고 열심히 사는 저를 파네요. 제가 병원에서 공식 사망했다(며)영정사진까지 만들어 자극적으로 유인하네요”라며 “저는 29일 4차 항암치료를 받을 예정이예요. 저른 이런 유튜버들의 피해자구요, 가족들 친구들 교회 식구들 전화가 빗발치네요. 어찌할까요?”라며 분노의 목소리를 높였다.\n서정희가 올린 해당 유튜브 채널 캡처 사진에는 ‘서정희는 병원에서 공식 사망했다. 그녀에게 이런 일이 일어나다니 믿을…’라는 글이 적혀있다.\n유튜버는 썸네일 사진으로 스타들이 장례식장에 참석해 울고 있는 모습과 함께 서정희의 얼굴을 이용해 영정사진까지 합성해 만들어 충격을 줬다.\n누리꾼들은 “진짜 너무한다” “고소하세요” “해당 영상 내려가게 신고 버튼 눌러주세요” “살아 있는 사람은 죽었다고 하다니 이건 아니지” 등의 댓글을 이어갔다.\n한편 서정희는 최근 유방암 진단을 받아 지난 4월 수술을 마쳤다.\n가발 구매 소식을 전하는 등 항암치료 과정을 SNS를 통해 대중과 공유하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유방암 투병중인 배우 서정희가 가짜뉴스를 퍼뜨리는 유튜버에 분노했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서정희는 27일 자신의 SNS인스타그램에 “‘여기 진실만 OO’ 운영하는 유튜버는 클릭수로 돈을 벌려고 암을 이겨내고 열심히 사는 저를 파네요. 제가 병원에서 공식 사망했다(며)영정사진까지 만들어 자극적으로 유인하네요”라며 “저는 29일 4차 항암치료를 받을 예정이예요. 저른 이런 유튜버들의 피해자구요, 가족들 친구들 교회 식구들 전화가 빗발치네요. 어찌할까요?”라며 분노의 목소리를 높였다.",
+				"sentenceSize": 220
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서정희가 올린 해당 유튜브 채널 캡처 사진에는 ‘서정희는 병원에서 공식 사망했다. 그녀에게 이런 일이 일어나다니 믿을…’라는 글이 적혀있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유튜버는 썸네일 사진으로 스타들이 장례식장에 참석해 울고 있는 모습과 함께 서정희의 얼굴을 이용해 영정사진까지 합성해 만들어 충격을 줬다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 “진짜 너무한다” “고소하세요” “해당 영상 내려가게 신고 버튼 눌러주세요” “살아 있는 사람은 죽었다고 하다니 이건 아니지” 등의 댓글을 이어갔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 서정희는 최근 유방암 진단을 받아 지난 4월 수술을 마쳤다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가발 구매 소식을 전하는 등 항암치료 과정을 SNS를 통해 대중과 공유하고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서정희 “병원에서 공식 사망? 돈 벌려고 저를 파네요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277186",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "훈남 오빠들로 가득한 김유정 일터",
+		"newsSubTitle": "",
+		"newsContent": "배우 김유정이 훈남 오빠들에 둘러싸여 있는 모습을 공개했다.\n지난 6일 김유정은 자신의 인스타그램에 '구르미 그린 달빛'에 출연한 배우 박보검과 곽동연, 진영과 다정한 모습으로 촬영한 짧은 동영상 한 편을 올렸다.\n카메라를 잡은 박보검은 '셀카'를 찍는 척 했고, 나머지 배우들은 포츠를 취한 채 기다렸다.\n그러자 박보검은 장난스레 \\\"동영상이야\\\"라고 말했다.\n이에 나머지 배우들은 탄성을 내지르며 급히 손바닥을 흔들며 웃음을 지었다.\n동영상을 본 팬들은 \\\"꽃 미모 대잔치다\\\" \\\"김유정은 정말 좋은 일터에서 일하고 있구나\\\" \\\"김유정 진짜 부럽다\\\" 등의 댓글을 남기며 부러움을 표현했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김유정이 훈남 오빠들에 둘러싸여 있는 모습을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 6일 김유정은 자신의 인스타그램에 '구르미 그린 달빛'에 출연한 배우 박보검과 곽동연, 진영과 다정한 모습으로 촬영한 짧은 동영상 한 편을 올렸다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카메라를 잡은 박보검은 '셀카'를 찍는 척 했고, 나머지 배우들은 포츠를 취한 채 기다렸다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 박보검은 장난스레 \\\"동영상이야\\\"라고 말했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 나머지 배우들은 탄성을 내지르며 급히 손바닥을 흔들며 웃음을 지었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "동영상을 본 팬들은 \\\"꽃 미모 대잔치다\\\" \\\"김유정은 정말 좋은 일터에서 일하고 있구나\\\" \\\"김유정 진짜 부럽다\\\" 등의 댓글을 남기며 부러움을 표현했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "훈남 오빠들로 가득한 김유정 일터",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

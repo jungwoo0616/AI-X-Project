@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275340",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이채연, 코로나19 확진(전문)[공식]",
+		"newsSubTitle": "이하 WM엔터테인먼트 공식 입장 전문",
+		"newsContent": "그룹 아이즈원 출신 이채연이 코로나19에 확진됐다.\n12일 이채원의 소속사 WM엔터테인먼트는 “이채연이 금일 신속항원검사에서 양성 판정을 받았다”며 “모든 일정을 중단하고 방역 지침에 따라 자가격리 및 재택 치료에 집중하고 있다”고 말했다.\n소속사에 따르면 이채연은 코로나19 백신 3차 접종을 완료한 상태다.\n한편 이채연은 지난 9일부터 10일까지 서울시 송파구 올림픽공원에서 열린 ‘2022 스트릿 우먼 파이터 리유니온 콘서트 [THE NEXT ERA]’에 출연했다.\n안녕하세요.\nWM엔터테인먼트입니다.\n당사 소속 아티스트 이채연의 코로나19 확진 안내드립니다.\n이채연은 금일(12일) 선제적으로 진행한신속항원검사에서 양성 판정을 받았습니다.\n이채연은 코로나19 백신 3차 접종을 완료한상태이며, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 자가격리 및 재택 치료에 집중하고 있습니다.\n당사는 아티스트의 건강을 최우선으로 고려하여 치료와 회복에 전념할 수 있도록 최선을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이즈원 출신 이채연이 코로나19에 확진됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 이채원의 소속사 WM엔터테인먼트는 “이채연이 금일 신속항원검사에서 양성 판정을 받았다”며 “모든 일정을 중단하고 방역 지침에 따라 자가격리 및 재택 치료에 집중하고 있다”고 말했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 이채연은 코로나19 백신 3차 접종을 완료한 상태다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 이채연은 지난 9일부터 10일까지 서울시 송파구 올림픽공원에서 열린 ‘2022 스트릿 우먼 파이터 리유니온 콘서트 [THE NEXT ERA]’에 출연했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안녕하세요.",
+				"sentenceSize": 6
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "WM엔터테인먼트입니다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당사 소속 아티스트 이채연의 코로나19 확진 안내드립니다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이채연은 금일(12일) 선제적으로 진행한신속항원검사에서 양성 판정을 받았습니다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이채연은 코로나19 백신 3차 접종을 완료한상태이며, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 자가격리 및 재택 치료에 집중하고 있습니다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "당사는 아티스트의 건강을 최우선으로 고려하여 치료와 회복에 전념할 수 있도록 최선을 다하겠습니다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이채연, 코로나19 확진(전문)[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

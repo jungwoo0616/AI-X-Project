@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275554",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김수현, 부드럽거나 도회적이거나",
+		"newsSubTitle": "",
+		"newsContent": "[스포츠경향=이선명 기자] 배우 김수현이 화보 장인 면모를 이어갔다.\n패션지 코스모폴리탄은 김수현과 스위스 시계 브랜드 미도가 함께한 화보 사진을 15일 공개했다.\n김수현은 미도의 글로벌 앰버서더로 활동 중이다.\n이번 화보에서 김수현은 한층 더 성숙해진 카리스마를 선보였다.\n절제된 의상과 함께 그가 소화한 다양한 미도의 컬렉션은 해외의 유명 건축물에서 영감을 받아 출시된 제품들이다.\n지브롤터 해협의 유로파 등대, 에펠탑, 하버브릿지 등 유럽의 건축물을 손목 위에서 만나볼 수 있다.\n이밖에도 김수현은 다양한 표정을 지으며 미도 아이템을 소화했고, 화보 장인다운 면모를 재차 보여 팬들의 지지를 얻어낼 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "[스포츠경향=이선명 기자] 배우 김수현이 화보 장인 면모를 이어갔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "패션지 코스모폴리탄은 김수현과 스위스 시계 브랜드 미도가 함께한 화보 사진을 15일 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김수현은 미도의 글로벌 앰버서더로 활동 중이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 화보에서 김수현은 한층 더 성숙해진 카리스마를 선보였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "절제된 의상과 함께 그가 소화한 다양한 미도의 컬렉션은 해외의 유명 건축물에서 영감을 받아 출시된 제품들이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지브롤터 해협의 유로파 등대, 에펠탑, 하버브릿지 등 유럽의 건축물을 손목 위에서 만나볼 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에도 김수현은 다양한 표정을 지으며 미도 아이템을 소화했고, 화보 장인다운 면모를 재차 보여 팬들의 지지를 얻어낼 예정이다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김수현, 부드럽거나 도회적이거나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280524",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "레이양 비매너 논란 공식 사과 \\\"폐 끼치게 돼 죄송\\\"",
+		"newsSubTitle": "",
+		"newsContent": "레이양의 'MBC 연예대상' 비매너 논란에 대해 사과했다.\n레이양 소속사 측은 30일 오전 \\\"신인 레이양이 의욕이 앞서는 바람에 본의 아니게 김구라 씨에게 폐를 끼치게 돼서 죄송하다\\\"고 공식 사과했다.\n이어 \\\"무대에서는 자신의 모습을 어떻게 나오는지 몰랐다. 내려와서 모니터 후 사태를 파악하고 즉각적으로 사과했다. 김구라씨가 워낙 대선배시니까 넓은 아량으로 괜찮다고 하셨다더라\\\"라고 말했다.\n또 \\\"이후에 레이양 스스로도 민망하고 죄송해서 명백하게 잘못했다고 말을 하고 있다\\\"고 덧붙였다.\n앞서 지난 29일 생방송으로 진행된 '2015 MBC 연예대상'에서는 방송인 김구라가 데뷔 22년 만에 대상을 수상하는 영예를 안았다.\n김구라를 축하하기 위해 무대에 오른 레이양은 카메라에 잡히려는 듯 축하현수막을 제대로 펴지 않았고, 김구라의 뒤에서 포즈를 취하는가 하면 머리를 매만지거나 미소 짓는 모습으로 시선을 분산시켰다.\n이에 대해 일부 시청자들은 김구라의 대상 수상소감에 집중할 수 없었다며 레이양의 태도를 비매너적인 행동이라고 지적했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레이양의 'MBC 연예대상' 비매너 논란에 대해 사과했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "레이양 소속사 측은 30일 오전 \\\"신인 레이양이 의욕이 앞서는 바람에 본의 아니게 김구라 씨에게 폐를 끼치게 돼서 죄송하다\\\"고 공식 사과했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"무대에서는 자신의 모습을 어떻게 나오는지 몰랐다. 내려와서 모니터 후 사태를 파악하고 즉각적으로 사과했다. 김구라씨가 워낙 대선배시니까 넓은 아량으로 괜찮다고 하셨다더라\\\"라고 말했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 \\\"이후에 레이양 스스로도 민망하고 죄송해서 명백하게 잘못했다고 말을 하고 있다\\\"고 덧붙였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 지난 29일 생방송으로 진행된 '2015 MBC 연예대상'에서는 방송인 김구라가 데뷔 22년 만에 대상을 수상하는 영예를 안았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김구라를 축하하기 위해 무대에 오른 레이양은 카메라에 잡히려는 듯 축하현수막을 제대로 펴지 않았고, 김구라의 뒤에서 포즈를 취하는가 하면 머리를 매만지거나 미소 짓는 모습으로 시선을 분산시켰다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 대해 일부 시청자들은 김구라의 대상 수상소감에 집중할 수 없었다며 레이양의 태도를 비매너적인 행동이라고 지적했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레이양 비매너 논란 공식 사과 \\\"폐 끼치게 돼 죄송\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

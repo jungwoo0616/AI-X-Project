@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266137",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "가수 김나영, #안녕 ‘너의 번호를 누르고’ 리메이크",
+		"newsSubTitle": "",
+		"newsContent": "가수 김나영이 리메이크 ‘투톤(TwoTone)’ 프로젝트 두 번째 주자로 나서 #안녕의 ‘너의 번호를 누르고’를 리메이크한다.\n제작사 니즈뮤직 엔터테인먼트는 리메이크 투톤 프로젝트 두 번째 주자로 김나영의 ‘너의 번호를 누르고’를 오는 12일 오후 6시 각종 음원사이트를 통해 공개한다고 전했다.\n투톤(TwoTone) 프로젝트는 음악 팬들의 많은 사랑을 받은 노래의 가창자 성별을 바꿔 리메이크하는 프로젝트이다.\n발매 곡인 ‘너의 번호를 누르고’는 얼굴 없는 가수로 알려진 #안녕의 2019년에 발표된 싱글 앨범으로 리스너들 사이에서 입소문을 타 ‘차트 역주행’을 하며 현재까지 꾸준한 사랑을 받고 있다.\n해당 곡은 김나영만의 감성을 담은 맞춤형 편곡 작업을 통해 원곡과 다른 감성과 감동을 전할 예정이다.\n김나영은 개인 유튜브 채널을 통해 ‘너의 번호를 누르고’의 커버 버전을 업로드하기도 하였다.\n해당 영상은 조회 수 50만을 넘기며 음악 팬들의 많은 관심을 받았으며, 이번 음원 발매에 대한 기대감으로 이어질 전망이다. ‘투톤 프로젝트’ 두 번째 싱글인 김나영의 ‘너의 번호를 누르고’는 오는 12일 오후 6시 주요 음원사이트를 통해 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김나영이 리메이크 ‘투톤(TwoTone)’ 프로젝트 두 번째 주자로 나서 #안녕의 ‘너의 번호를 누르고’를 리메이크한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제작사 니즈뮤직 엔터테인먼트는 리메이크 투톤 프로젝트 두 번째 주자로 김나영의 ‘너의 번호를 누르고’를 오는 12일 오후 6시 각종 음원사이트를 통해 공개한다고 전했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "투톤(TwoTone) 프로젝트는 음악 팬들의 많은 사랑을 받은 노래의 가창자 성별을 바꿔 리메이크하는 프로젝트이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "발매 곡인 ‘너의 번호를 누르고’는 얼굴 없는 가수로 알려진 #안녕의 2019년에 발표된 싱글 앨범으로 리스너들 사이에서 입소문을 타 ‘차트 역주행’을 하며 현재까지 꾸준한 사랑을 받고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 곡은 김나영만의 감성을 담은 맞춤형 편곡 작업을 통해 원곡과 다른 감성과 감동을 전할 예정이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김나영은 개인 유튜브 채널을 통해 ‘너의 번호를 누르고’의 커버 버전을 업로드하기도 하였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 영상은 조회 수 50만을 넘기며 음악 팬들의 많은 관심을 받았으며, 이번 음원 발매에 대한 기대감으로 이어질 전망이다. ‘투톤 프로젝트’ 두 번째 싱글인 김나영의 ‘너의 번호를 누르고’는 오는 12일 오후 6시 주요 음원사이트를 통해 공개될 예정이다.",
+				"sentenceSize": 143
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 김나영, #안녕 ‘너의 번호를 누르고’ 리메이크",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

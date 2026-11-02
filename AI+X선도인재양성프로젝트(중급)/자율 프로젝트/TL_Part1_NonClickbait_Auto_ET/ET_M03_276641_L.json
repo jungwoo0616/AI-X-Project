@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276641",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "다이어트한다는 팬에게 한 여자 아이돌이 건넨 말",
+		"newsSubTitle": "",
+		"newsContent": "다이어트를 하겠다는 팬에게 그룹 마마무 멤버 솔라가 건넨 응원의 한 마디가 화제다.\n최근 마마무는 팬 사인회를 통해 팬들과의 만남을 가졌다.\n이날 한 팬은 \\\"요즘 다이어트를 하려고 운동하고 있는데 응원 한 마디 해주세요\\\"라고 물었다.\n그러자 솔라는 \\\"죽을 것 같지만 죽지 않습니다\\\"라고 조언했다.\n다이어트에 성공해본 경험자로서 건넨 현실적인 조언이 네티즌들의 웃음을 자아냈다.\n이를 본 네티즌들은 \\\"정말 맞는 말이다\\\" \\\"운동하다 죽을 것 같아서 잠깐 쉬면 금방 괜찮아진다\\\" \\\"진짜 명언이네\\\" 등의 반응을 보였다.\n한편 솔라가 속한 마마무는 다섯 번째 미니앨범 타이틀곡 '나로 말할 것 같으면'으로 활발한 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "다이어트를 하겠다는 팬에게 그룹 마마무 멤버 솔라가 건넨 응원의 한 마디가 화제다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 마마무는 팬 사인회를 통해 팬들과의 만남을 가졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 한 팬은 \\\"요즘 다이어트를 하려고 운동하고 있는데 응원 한 마디 해주세요\\\"라고 물었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 솔라는 \\\"죽을 것 같지만 죽지 않습니다\\\"라고 조언했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다이어트에 성공해본 경험자로서 건넨 현실적인 조언이 네티즌들의 웃음을 자아냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 \\\"정말 맞는 말이다\\\" \\\"운동하다 죽을 것 같아서 잠깐 쉬면 금방 괜찮아진다\\\" \\\"진짜 명언이네\\\" 등의 반응을 보였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 솔라가 속한 마마무는 다섯 번째 미니앨범 타이틀곡 '나로 말할 것 같으면'으로 활발한 활동 중이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다이어트한다는 팬에게 한 여자 아이돌이 건넨 말",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

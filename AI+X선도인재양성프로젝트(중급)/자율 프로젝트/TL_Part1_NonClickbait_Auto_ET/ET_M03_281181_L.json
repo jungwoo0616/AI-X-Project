@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281181",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김현중, 유전자 검사 \\\"친자라면 아빠로서 책임 질 것\\\"",
+		"newsSubTitle": "",
+		"newsContent": "김현중이 전 여자친구 A씨와 14일 오후 서울대병원 법의학교실에서 친자 확인 유전자검사를 받았다.\n김현중은 법적대리인과 함께 병원을 찾았으며, A씨는 법적대리인, 아이와 함께 모습을 드러냈다.\n김현중 측 변호인은 \\\"김현중과 A씨가 소송 이후 처음 만났고, 한 공간에서 서로 마주 보고 있었지만 단 한 마디도 주고받지 않았다\\\"고 밝혔다.\n김현중 측에 따르면 아이는 A씨의 어머니가 안고 있어 김현중이 직접 아이를 보지 못했다.\n김현중은 아이가 친자 일 경우 책임지겠다는 입장이다.\n김현중 측 변호인은 \\\"아이가 친자라면 아빠로서 책임을 지겠다는 입장은 변함없다. 검사 결과는 1~2주일 뒤에 나올 것\\\"이라며 \\\"김현중은 군인 신분이기 때문에 검사가 끝나자마자 곧장 군 부대로 복귀했다\\\"고 전했다.\n김현중은 전 여자친구 A씨와 민, 형사상 공방을 이어가고 있다.\nA씨는 김현중의 폭행으로 유산을 했다고 주장하며 정신적 피해 등을 이유로 16억 원대 소송을 제기했다.\n김현중 측 역시 A씨의 임신과 폭행으로 인한 유산이 모두 허위라고 주장하며 손해배상과 위자료 등 12억 원의 반소를 제기한 상태다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김현중이 전 여자친구 A씨와 14일 오후 서울대병원 법의학교실에서 친자 확인 유전자검사를 받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김현중은 법적대리인과 함께 병원을 찾았으며, A씨는 법적대리인, 아이와 함께 모습을 드러냈다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김현중 측 변호인은 \\\"김현중과 A씨가 소송 이후 처음 만났고, 한 공간에서 서로 마주 보고 있었지만 단 한 마디도 주고받지 않았다\\\"고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김현중 측에 따르면 아이는 A씨의 어머니가 안고 있어 김현중이 직접 아이를 보지 못했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김현중은 아이가 친자 일 경우 책임지겠다는 입장이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김현중 측 변호인은 \\\"아이가 친자라면 아빠로서 책임을 지겠다는 입장은 변함없다. 검사 결과는 1~2주일 뒤에 나올 것\\\"이라며 \\\"김현중은 군인 신분이기 때문에 검사가 끝나자마자 곧장 군 부대로 복귀했다\\\"고 전했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김현중은 전 여자친구 A씨와 민, 형사상 공방을 이어가고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "A씨는 김현중의 폭행으로 유산을 했다고 주장하며 정신적 피해 등을 이유로 16억 원대 소송을 제기했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김현중 측 역시 A씨의 임신과 폭행으로 인한 유산이 모두 허위라고 주장하며 손해배상과 위자료 등 12억 원의 반소를 제기한 상태다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김현중, 유전자 검사 \\\"친자라면 아빠로서 책임 질 것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

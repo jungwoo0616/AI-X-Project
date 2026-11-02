@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266148",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘2022 한류 인플루언서 대상 어워즈’ 열린다",
+		"newsSubTitle": "",
+		"newsContent": "국내·외 인플루언서들을 위한 축제가 열린다.\n한류 인플루언서 대상 어워즈 조직위 측은 “오는 6월 1일 일산 빛마루방송센터에서 국내 및 해외 인플루언서들을 대상으로 2022 한류 인플루언서 대상 어워즈가 열린다”라고 밝혔다.\n한류 인플루언서 대상 어워즈는 2022년 상반기 동안 일상, 뷰티, 피트니스, 패션, 모델, 문화예술, 콘텐츠 등 국내 및 해외에서 활발한 활동으로 선한 영향력을 전파한 인플루언서들의 창의적인 활동을 평가하여 다양한 부문 수상자를 선정할 예정이다.\n2022 한류 인플루언서 대상 어워즈 주관사 및 대회장을 맡은 페이턴재단 이민호 이사장은 “길고 긴 코로나가 조만간 종식을 위해 달려가는 이 시점에서 오프라인으로 시상식이 열려 가슴이 벅차다”며 “2022년 상반기 동안 한류의 주역인 인플루언서에게 드리는 선물 같아서 기쁘다”라고 전했다.\n한편 블록체인 기술을 활용한 NFT 자산 기반의 메타버스 플랫폼 기업 페이턴 재단은 OBS경인TV와 미디어형 메타버스를 제작하는 MOU를 체결한 바 있다.\n향후 NFT 마켓 플레이스를 통해 드라마, 예능 등 다양한 콘텐츠를 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내·외 인플루언서들을 위한 축제가 열린다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한류 인플루언서 대상 어워즈 조직위 측은 “오는 6월 1일 일산 빛마루방송센터에서 국내 및 해외 인플루언서들을 대상으로 2022 한류 인플루언서 대상 어워즈가 열린다”라고 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한류 인플루언서 대상 어워즈는 2022년 상반기 동안 일상, 뷰티, 피트니스, 패션, 모델, 문화예술, 콘텐츠 등 국내 및 해외에서 활발한 활동으로 선한 영향력을 전파한 인플루언서들의 창의적인 활동을 평가하여 다양한 부문 수상자를 선정할 예정이다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2022 한류 인플루언서 대상 어워즈 주관사 및 대회장을 맡은 페이턴재단 이민호 이사장은 “길고 긴 코로나가 조만간 종식을 위해 달려가는 이 시점에서 오프라인으로 시상식이 열려 가슴이 벅차다”며 “2022년 상반기 동안 한류의 주역인 인플루언서에게 드리는 선물 같아서 기쁘다”라고 전했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 블록체인 기술을 활용한 NFT 자산 기반의 메타버스 플랫폼 기업 페이턴 재단은 OBS경인TV와 미디어형 메타버스를 제작하는 MOU를 체결한 바 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "향후 NFT 마켓 플레이스를 통해 드라마, 예능 등 다양한 콘텐츠를 만나볼 수 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘2022 한류 인플루언서 대상 어워즈’ 열린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

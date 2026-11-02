@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277013",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "키 157cm인데 엄청난 비율 보여주는 모델",
+		"newsSubTitle": "",
+		"newsContent": "키 157cm로 모델이 된 여성이 인기를 끌고 있다.\n화제의 주인공은 영국 출신 데미 로즈(Demi Rose)로 미국 힙합 가수 타이가(Tyga)의 전 여자친구이기도 하다.\n키가 173cm인 국내 모델 장윤주도 한때 작은 키로 고민한 걸 보면 157cm는 모델의 키라고 믿기지 않는 작은 키다.\n그럼에도 그녀가 유명인의 반열에 오르게 된 데에는 그녀의 몸매가 큰 역할을 했다.\n그녀의 신체 사이즈는 37-24-37(가슴, 허리, 엉덩이 순)로 수많은 사람들의 눈길을 사로잡는다.\n실제로 작년 한 온라인 커뮤니티에 데미 로즈의 사진과 함께 \\\"몸매가 좋아서 너무 궁금하다. 이름이 뭔지 아냐\\\"는 글이 올라오기도 했다.\n현재 그녀의 인스타그램 팔로워 수는 400만을 넘어설 정도로 인기지만 여전히 인기가 치솟고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "키 157cm로 모델이 된 여성이 인기를 끌고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "화제의 주인공은 영국 출신 데미 로즈(Demi Rose)로 미국 힙합 가수 타이가(Tyga)의 전 여자친구이기도 하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "키가 173cm인 국내 모델 장윤주도 한때 작은 키로 고민한 걸 보면 157cm는 모델의 키라고 믿기지 않는 작은 키다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그럼에도 그녀가 유명인의 반열에 오르게 된 데에는 그녀의 몸매가 큰 역할을 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그녀의 신체 사이즈는 37-24-37(가슴, 허리, 엉덩이 순)로 수많은 사람들의 눈길을 사로잡는다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제로 작년 한 온라인 커뮤니티에 데미 로즈의 사진과 함께 \\\"몸매가 좋아서 너무 궁금하다. 이름이 뭔지 아냐\\\"는 글이 올라오기도 했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 그녀의 인스타그램 팔로워 수는 400만을 넘어설 정도로 인기지만 여전히 인기가 치솟고 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "키 157cm인데 엄청난 비율 보여주는 모델",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

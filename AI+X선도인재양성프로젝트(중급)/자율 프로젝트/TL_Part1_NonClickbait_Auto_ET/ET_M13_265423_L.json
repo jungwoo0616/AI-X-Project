@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265423",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "클라씨(CLASS:y), 잠행 속 세 번째 엇박자 이미지 노출",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 클라씨(CLASS:y)가 잠행 속 새로운 스토리보드 이미지를 공개했다.\n클라씨(원지민·김선유·명형서·홍혜주·김리원·박보은·윤채원)는 한 장의 스토리보드 이미지를 게재하며 눈길을 사로잡고 있다.\n잠행을 택한 후 클라씨는 팬들의 예측을 깨며 기존에 볼 수 없던 콘티와 트랙리스트 영상으로 신선한 충격을 선사했다.\n클라씨가 세 번째로 공개한 콘텐츠는 다양한 내용 전개가 예측되는 스토리보드다.\n해당 이미지에는 ‘클라씨’의 공식 로고와 함께 공공장소와 학교를 연상케 하는 이미지 등이 담겨 있어 해당 스토리보드가 의미하는 것은 무엇인가에 관심이 쏠리고 있다.\n클라씨는 앞서 공연장을 연상케 하는 콘티와 트랙리스트 영상을 통해 데뷔에 대한 궁금증을 증폭시키기도 했다.\n두 가지의 콘텐츠에 이어 새롭게 공개된 스토리보드 역시 독창적인 이야기가 담긴 만큼 앞으로는 어떤 새로운 콘텐츠를 공개, 케이팝 팬들의 이목을 사로잡을 것인지 귀추가 주목된다.\n클라씨는 데뷔를 위해 박차를 가하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 클라씨(CLASS:y)가 잠행 속 새로운 스토리보드 이미지를 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라씨(원지민·김선유·명형서·홍혜주·김리원·박보은·윤채원)는 한 장의 스토리보드 이미지를 게재하며 눈길을 사로잡고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "잠행을 택한 후 클라씨는 팬들의 예측을 깨며 기존에 볼 수 없던 콘티와 트랙리스트 영상으로 신선한 충격을 선사했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클라씨가 세 번째로 공개한 콘텐츠는 다양한 내용 전개가 예측되는 스토리보드다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 이미지에는 ‘클라씨’의 공식 로고와 함께 공공장소와 학교를 연상케 하는 이미지 등이 담겨 있어 해당 스토리보드가 의미하는 것은 무엇인가에 관심이 쏠리고 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라씨는 앞서 공연장을 연상케 하는 콘티와 트랙리스트 영상을 통해 데뷔에 대한 궁금증을 증폭시키기도 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 가지의 콘텐츠에 이어 새롭게 공개된 스토리보드 역시 독창적인 이야기가 담긴 만큼 앞으로는 어떤 새로운 콘텐츠를 공개, 케이팝 팬들의 이목을 사로잡을 것인지 귀추가 주목된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "클라씨는 데뷔를 위해 박차를 가하고 있다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "클라씨(CLASS:y), 잠행 속 세 번째 엇박자 이미지 노출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171692",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "봄 한가득 몰고 온 오연서",
+    "newsSubTitle": "",
+    "newsContent": "배우 오연서가 화사한 봄을 예고했다.\n패션지 ‘하퍼스 바자’는 오연서의 모습이 담긴 3월호 화보를 25일 공개했다.\n스포티즘을 테마로 한 이번 화보에서 오연서는 팔색조 매력을 드러냈다.\n이밖에도 오연서는 골프웨어부터 스포츠웨어 등 데일리로 소화할 수 있는 스타일링 아이디어도 제안했다.\n오연서는 현재 KBS 드라마 ‘미남당’을 차기작으로 준비하고 있다.\n그는 전직 프로파일러이자 현직 박수무당 역으로 좌추우돌 코믹 수사극에 도전한다.\n오연서의 매력이 담긴 이번 화보는 ‘하퍼스 바자’ 3월호에 실린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 오연서가 화사한 봄을 예고했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "패션지 ‘하퍼스 바자’는 오연서의 모습이 담긴 3월호 화보를 25일 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스포티즘을 테마로 한 이번 화보에서 오연서는 팔색조 매력을 드러냈다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이밖에도 오연서는 골프웨어부터 스포츠웨어 등 데일리로 소화할 수 있는 스타일링 아이디어도 제안했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오연서는 현재 KBS 드라마 ‘미남당’을 차기작으로 준비하고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 전직 프로파일러이자 현직 박수무당 역으로 좌추우돌 코믹 수사극에 도전한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오연서의 매력이 담긴 이번 화보는 ‘하퍼스 바자’ 3월호에 실린다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 오연서, 팔색조 모습 보여준 '이 사건'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

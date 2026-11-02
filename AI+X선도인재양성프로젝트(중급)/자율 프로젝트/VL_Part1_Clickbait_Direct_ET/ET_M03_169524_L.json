@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169524",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "톰 크루즈 “영화 ‘발키리’ 때 엉덩이는 내 엉덩이”",
+    "newsSubTitle": "",
+    "newsContent": "미국 영화배우 톰 크루즈가 엉덩이 보형물을 넣었을 것이라는 소문을 일축했다.\n26일(현지시간) 미국 영화 전문 매체 스크린 랜트는 최근 개봉한 영화 ‘아메리칸 메이드’에 출연한 톰 크루즈가 인터뷰에서 이같이 해명했다고 보도했다.\n2009년 1월 개봉한 ‘작전명 발키리’는 히틀러를 암살하려는 비밀 요원들의 이야기를 담았다.\n2016년 개봉한 ‘엑스맨:아포칼립스’를 제작한 브라이언 싱어가 메가폰을 잡았다.\n톰 크루즈는 ‘발키리’에서 폭탄이 터지는 장면에서 쓰러지면서 허리를 숙였고, 이때 지구본 같이 튀어나온 엉덩이에 팬들은 ‘뽕을 넣었다’는 의심을 했다.\n톰 크루즈는 크게 웃으며 “그런 소문이 있는 줄 몰랐다. 그건 나다. 컴퓨터 그래픽이 아니다”라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국 영화배우 톰 크루즈가 엉덩이 보형물을 넣었을 것이라는 소문을 일축했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일(현지시간) 미국 영화 전문 매체 스크린 랜트는 최근 개봉한 영화 ‘아메리칸 메이드’에 출연한 톰 크루즈가 인터뷰에서 이같이 해명했다고 보도했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2009년 1월 개봉한 ‘작전명 발키리’는 히틀러를 암살하려는 비밀 요원들의 이야기를 담았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2016년 개봉한 ‘엑스맨:아포칼립스’를 제작한 브라이언 싱어가 메가폰을 잡았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "톰 크루즈는 ‘발키리’에서 폭탄이 터지는 장면에서 쓰러지면서 허리를 숙였고, 이때 지구본 같이 튀어나온 엉덩이에 팬들은 ‘뽕을 넣었다’는 의심을 했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "톰 크루즈는 크게 웃으며 “그런 소문이 있는 줄 몰랐다. 그건 나다. 컴퓨터 그래픽이 아니다”라고 밝혔다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "톰 크루즈, 보형물 넣은 것 같은 남산만 한 엉덩이... 의혹 일축 나선 이유",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

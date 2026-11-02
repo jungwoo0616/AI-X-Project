@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259383",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "대선후보 ‘TV 4자 토론’ 이르면 31일 열릴 듯",
+		"newsSubTitle": "",
+		"newsContent": "대선 후보간 첫 TV토론이 더불어민주당 이재명, 국민의힘 윤석열, 국민의당 안철수, 정의당 심상정 대선 후보간 4자 토론 방식으로 설 연휴 기간인 오는 31일 또는 연휴 직후인 2월 3일 열릴 것으로 관측된다.\n협의 결과에 따라 설연휴 기간에 4당 후보가 참여하는 TV토론이 성사될 수도 있을 것으로 보인다.\n민주당에 따르면 방송 3사는 26일 여야 4당에 보내온 공문에서 대선 후보 합동 초청 토론회를 오는 31일 또는 2월 3일 열자고 제안했다.\n이를 논의하기 위한 룰미팅 일자로 28일을 제시하며, 오는 27일까지 토론 출연 여부와 대체 가능한 날짜를 알려 달라고 각 당에 요청했다.\n이에 따라 여야 4당은 4당간 실무협상 및 방송사와 협의에 들어갈 것으로 예상된다.\n민주당 방송토론콘텐츠단은 언론에 배포를 한 입장문에 “이재명 후보는 방송3사 4자 토론 초청을 수락한다”며 “두 일정 모두 참여가 가능하나, 가장 빠른 31일에 성사되길 바란다”고 밝혔다.\n민주당과 국민의힘은 이·윤 후보만 참여하는 양자토론을 오는 30일 혹은 31일로 추진했으나, 이날 법원이 국민의당 가처분 신청을 받아들여 금지하자 다자토론 협의에 나서겠다고 밝혔다.\n4당 실무협상 및 방송사와의 협의에 따라 이르면 설연휴 기간인 31일에 4자 토론이 열릴 수도 있을 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대선 후보간 첫 TV토론이 더불어민주당 이재명, 국민의힘 윤석열, 국민의당 안철수, 정의당 심상정 대선 후보간 4자 토론 방식으로 설 연휴 기간인 오는 31일 또는 연휴 직후인 2월 3일 열릴 것으로 관측된다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "협의 결과에 따라 설연휴 기간에 4당 후보가 참여하는 TV토론이 성사될 수도 있을 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "민주당에 따르면 방송 3사는 26일 여야 4당에 보내온 공문에서 대선 후보 합동 초청 토론회를 오는 31일 또는 2월 3일 열자고 제안했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 논의하기 위한 룰미팅 일자로 28일을 제시하며, 오는 27일까지 토론 출연 여부와 대체 가능한 날짜를 알려 달라고 각 당에 요청했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 여야 4당은 4당간 실무협상 및 방송사와 협의에 들어갈 것으로 예상된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "민주당 방송토론콘텐츠단은 언론에 배포를 한 입장문에 “이재명 후보는 방송3사 4자 토론 초청을 수락한다”며 “두 일정 모두 참여가 가능하나, 가장 빠른 31일에 성사되길 바란다”고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "민주당과 국민의힘은 이·윤 후보만 참여하는 양자토론을 오는 30일 혹은 31일로 추진했으나, 이날 법원이 국민의당 가처분 신청을 받아들여 금지하자 다자토론 협의에 나서겠다고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "4당 실무협상 및 방송사와의 협의에 따라 이르면 설연휴 기간인 31일에 4자 토론이 열릴 수도 있을 것으로 보인다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대선후보 ‘TV 4자 토론’ 이르면 31일 열릴 듯",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276253",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'여배우 폭행' 혐의 김기덕 감독 벌금 500만원 약식명령",
+		"newsSubTitle": "",
+		"newsContent": "촬영장에서 여배우를 폭행한 혐의로 고소된 김기덕(58) 감독이 벌금형을 받았다.\n17일 법원에 따르면 서울중앙지법 형사29단독 박진숙 판사는 폭행 혐의로 기소된 김 감독에게 지난달 21일 벌금 500만원의 약식명령을 내렸다.\n김 감독은 2013년 개봉한 영화에 주연으로 캐스팅된 여배우 A(42)씨에게 촬영장에서 '감정이입에 필요하다'며 뺨을 2회 때린 혐의를 받고 있다.\nA씨는 또 김 감독이 대본에 없던 베드신 촬영도 강요해 영화 출연을 포기했다고 주장했다.\n김 감독은 검찰 조사에서 뺨을 때린 사실은 인정했지만 연기를 지도하려고 한 것일 뿐 고의가 없었다는 취지로 진술한 것으로 알려졌다.\n검찰은 A씨가 촬영 현장에서 베드신을 강요해 강제추행치상과 명예훼손 혐의로 고소한 건에 대해서는 증거 불충분으로 혐의없음 처분을 내렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "촬영장에서 여배우를 폭행한 혐의로 고소된 김기덕(58) 감독이 벌금형을 받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 법원에 따르면 서울중앙지법 형사29단독 박진숙 판사는 폭행 혐의로 기소된 김 감독에게 지난달 21일 벌금 500만원의 약식명령을 내렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김 감독은 2013년 개봉한 영화에 주연으로 캐스팅된 여배우 A(42)씨에게 촬영장에서 '감정이입에 필요하다'며 뺨을 2회 때린 혐의를 받고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A씨는 또 김 감독이 대본에 없던 베드신 촬영도 강요해 영화 출연을 포기했다고 주장했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김 감독은 검찰 조사에서 뺨을 때린 사실은 인정했지만 연기를 지도하려고 한 것일 뿐 고의가 없었다는 취지로 진술한 것으로 알려졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "검찰은 A씨가 촬영 현장에서 베드신을 강요해 강제추행치상과 명예훼손 혐의로 고소한 건에 대해서는 증거 불충분으로 혐의없음 처분을 내렸다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'여배우 폭행' 혐의 김기덕 감독 벌금 500만원 약식명령",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

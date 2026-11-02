@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260986",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이시영, 스위스 하얀 설원 위 천진난만 매력",
+		"newsSubTitle": "",
+		"newsContent": "배우 이시영이 스위스 여행기를 전했다.\n이시영은 15일 자신의 인스타그램에 “정말 다이나믹했던 하산하는 길 거의 엉덩이로 내려온 듯, 날씨 때문에 안전가옥까지 가서 거기서는 트랙터로 하산, 등산이 더 좋아지게 된 스위스, 여름에 기다려!”라는 글과 함께 여러 장의 사진과 영상을 게재했다.\n공개된 사진과 영상에서 이시영은 지인들과 신나게 스키를 즐기는 모습이었다.\n큰 강아지와 함께 한 모습도 있었다.\n이어 “깜빡 잠들뻔했네”라는 글과 함께 하얀 눈이 뒤덮인 산에서 아이같이 즐겁게 뛰어노는 모습을 담은 영상도 공개했다.\n이시영과 스위스의 인연은 홍보대사로 맺어졌다.\n이시영은 스위스 정부관광청 ‘스위스 프렌즈(Swiss Friends)’ 홍보대사로 임명돼 현재 스위스를 알리는 활동에 열중하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이시영이 스위스 여행기를 전했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이시영은 15일 자신의 인스타그램에 “정말 다이나믹했던 하산하는 길 거의 엉덩이로 내려온 듯, 날씨 때문에 안전가옥까지 가서 거기서는 트랙터로 하산, 등산이 더 좋아지게 된 스위스, 여름에 기다려!”라는 글과 함께 여러 장의 사진과 영상을 게재했다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진과 영상에서 이시영은 지인들과 신나게 스키를 즐기는 모습이었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "큰 강아지와 함께 한 모습도 있었다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “깜빡 잠들뻔했네”라는 글과 함께 하얀 눈이 뒤덮인 산에서 아이같이 즐겁게 뛰어노는 모습을 담은 영상도 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이시영과 스위스의 인연은 홍보대사로 맺어졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이시영은 스위스 정부관광청 ‘스위스 프렌즈(Swiss Friends)’ 홍보대사로 임명돼 현재 스위스를 알리는 활동에 열중하고 있다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이시영, 스위스 하얀 설원 위 천진난만 매력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

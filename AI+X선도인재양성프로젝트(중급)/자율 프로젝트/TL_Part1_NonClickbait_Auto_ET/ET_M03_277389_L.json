@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277389",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "중국서 언니 '성소'보다 더 유명한 여동생",
+		"newsSubTitle": "",
+		"newsContent": "대세 아이돌 '우주소녀'의 멤버 성소의 여동생이 화제다.\n최근 온라인 커뮤니티에는 성소보다 중국에서 높은 인기를 자랑하는 성소의 여동생 사진이 올라왔다.\n성소의 하나 뿐인 여동생 청천은 올해 13살이 됐다.\n청천은 언니 성소 못지않은 뛰어난 미모와 노래 실력으로 중국 동요대회를 휩쓸어 중국인들에게 큰 사랑을 받고 있다.\n청천은 성소가 지난 해 2월 데뷔하기 전 2015년 5월 중국 베이징 위성 TV '음악대사과'에 출연했다.\n현재 청천은 언니처럼 가수의 꿈을 이루기 위해 소속사에서 연습생 생활을 하고 있다.\n네티즌들은 \\\"언니 못지 않은 외모다\\\" \\\"엄청난 가수가 될 것 같다\\\"며 응원의 목소리를 내고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대세 아이돌 '우주소녀'의 멤버 성소의 여동생이 화제다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에는 성소보다 중국에서 높은 인기를 자랑하는 성소의 여동생 사진이 올라왔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "성소의 하나 뿐인 여동생 청천은 올해 13살이 됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "청천은 언니 성소 못지않은 뛰어난 미모와 노래 실력으로 중국 동요대회를 휩쓸어 중국인들에게 큰 사랑을 받고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "청천은 성소가 지난 해 2월 데뷔하기 전 2015년 5월 중국 베이징 위성 TV '음악대사과'에 출연했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 청천은 언니처럼 가수의 꿈을 이루기 위해 소속사에서 연습생 생활을 하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네티즌들은 \\\"언니 못지 않은 외모다\\\" \\\"엄청난 가수가 될 것 같다\\\"며 응원의 목소리를 내고 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국서 언니 '성소'보다 더 유명한 여동생",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

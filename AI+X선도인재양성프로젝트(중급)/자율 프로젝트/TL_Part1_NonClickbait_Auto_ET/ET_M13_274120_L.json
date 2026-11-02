@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274120",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“나는 그냥 나왔을 뿐” 김호영, 옥주현과 화해 후 근황 공개",
+		"newsSubTitle": "",
+		"newsContent": "뮤지컬 배우 김호영의 밝은 근황이 공개됐다.\n개그우먼 김영희는 지난 26일 SNS를 통해 지인의 결혼식에 참석한 자신과 김호영의 모습을 공개했다.\n공개된 사진 속에는 김영희, 김호영, 지인이 미소 짓는 모습이 담겨있다.\n또한 김호영이 결혼식에서 춤추는 모습도 영상으로 공개됐다.\n그는 이날 “나는 그냥 나왔을 뿐이다. 무대는 내 것이니까”라며 관객들의 웃음을 자아냈다.\n앞서 김호영은 배우 옥주현의 캐스팅 간섭 논란으로 옥주현과 불화를 겪은 바 있다.\n옥주현은 김호영을 고소했지만 뮤지컬 1세대 배우들의 성명문 등 옥주현을 지탄하는 반응이 이어지자 “의혹을 해명하려는 과정에서 신중치 못했다”며 고소를 취하했다.\n이후 김호영은 옥주현과의 통화로 관계를 회복했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤지컬 배우 김호영의 밝은 근황이 공개됐다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개그우먼 김영희는 지난 26일 SNS를 통해 지인의 결혼식에 참석한 자신과 김호영의 모습을 공개했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 김영희, 김호영, 지인이 미소 짓는 모습이 담겨있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 김호영이 결혼식에서 춤추는 모습도 영상으로 공개됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 이날 “나는 그냥 나왔을 뿐이다. 무대는 내 것이니까”라며 관객들의 웃음을 자아냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 김호영은 배우 옥주현의 캐스팅 간섭 논란으로 옥주현과 불화를 겪은 바 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "옥주현은 김호영을 고소했지만 뮤지컬 1세대 배우들의 성명문 등 옥주현을 지탄하는 반응이 이어지자 “의혹을 해명하려는 과정에서 신중치 못했다”며 고소를 취하했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 김호영은 옥주현과의 통화로 관계를 회복했다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“나는 그냥 나왔을 뿐” 김호영, 옥주현과 화해 후 근황 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

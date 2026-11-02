@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278406",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "날 보러와요 강예원, 정신병원 감금 연기에 \\\"자아가 없어지는 느낌\\\" 무슨 말?",
+		"newsSubTitle": "",
+		"newsContent": "강예원이 영화 '날 보러와요' 촬영 중 겪었던 고충을 토로했다.\n16일 오전서울 중구 동대문 메가박스에서 영화 '날 보러와요'(감독 이철하) 제작보고회가 진행됐다.\n이날 행사에는 이철하 감독과 배우 강예원 이상윤이 참석해 작품에 대한 소개했다. '날 보러와요'는 이유도 모른 채 길거리에서 납치당해 정신병원에 강제이송, 감금된 강수아(강예원)와 그의 이야기를 추적하는 나남수 PD(이상윤)의 이야기를 그린 영화로 실화를 바탕으로 한 스릴러 장르이다.\n강예원은 극 중 정신병원에 감금되는 주인공 강수아 역을 연기하면서 \\\"자아가 없어지는 느낌을 겪었다\\\"는 말을 해 충격을 줬다.\n강예원은 \\\"촬영을 하면서 나도 못 믿고, 남도 못 믿겠고 불신을 하는 상태가 이어지더라. 내 자아가 없어지는 느낌이었고, 촬영이 끝날 때 쯤에는 다시 강예원으로 돌아오는 것도 겁이 나더라\\\"고 촬영 소감을 전했다.\n그는 이어 \\\"실제로 이런 일을 겪게 되면 정말 정상적인 삶으로 돌아오기가 어렵겠다는 생각을 했다. 분명히 짚고 넘어가야 할 문제다\\\"라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강예원이 영화 '날 보러와요' 촬영 중 겪었던 고충을 토로했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 오전서울 중구 동대문 메가박스에서 영화 '날 보러와요'(감독 이철하) 제작보고회가 진행됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 행사에는 이철하 감독과 배우 강예원 이상윤이 참석해 작품에 대한 소개했다. '날 보러와요'는 이유도 모른 채 길거리에서 납치당해 정신병원에 강제이송, 감금된 강수아(강예원)와 그의 이야기를 추적하는 나남수 PD(이상윤)의 이야기를 그린 영화로 실화를 바탕으로 한 스릴러 장르이다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강예원은 극 중 정신병원에 감금되는 주인공 강수아 역을 연기하면서 \\\"자아가 없어지는 느낌을 겪었다\\\"는 말을 해 충격을 줬다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강예원은 \\\"촬영을 하면서 나도 못 믿고, 남도 못 믿겠고 불신을 하는 상태가 이어지더라. 내 자아가 없어지는 느낌이었고, 촬영이 끝날 때 쯤에는 다시 강예원으로 돌아오는 것도 겁이 나더라\\\"고 촬영 소감을 전했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 이어 \\\"실제로 이런 일을 겪게 되면 정말 정상적인 삶으로 돌아오기가 어렵겠다는 생각을 했다. 분명히 짚고 넘어가야 할 문제다\\\"라고 덧붙였다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "날 보러와요 강예원, 정신병원 감금 연기에 \\\"자아가 없어지는 느낌\\\" 무슨 말?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261113",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유세윤, 곽윤기 따라잡기…“대한민국 파이팅”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유세윤이 2022 베이징 동계올림픽 쇼트트랙 대표팀 곽윤기(고양시청)를 모사했다.\n유세윤은 15일 “대한민국 파이팅”이라는 글과 함께 영상을 게재했다.\n공개한 영상에서 유세윤은 한국 쇼트트랙 대표팀 곽윤기 흉내로 웃음을 줬다.\n최근 화제가 된 ‘곽윤기 뒷 선수 시점’ 영상이다.\n곽윤기가 경기 중 보여주는 특유의 동작으로, 스케이팅을 하면서 다리 사이로 뒤에 있는 선수가 얼마나 따라붙는지 확인하는 스케이팅 방식이다.\n대회 중 화제가 되면서 한 팬이 이 동작을 그림으로 그렸다.\n이에 곽윤기가 직접 시연한 영상을 올리면서 인기를 끌었다.\n유세윤은 이 장면을 그대로 따라 해 역시‘뼈그맨’ 다운 유쾌함을 보여줬다.\n유세윤이 응원한 한국 쇼트트랙 대표팀은 16일 여자 1,500m, 남자 계주 5,000m에 출전하며 대회를 마친다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유세윤이 2022 베이징 동계올림픽 쇼트트랙 대표팀 곽윤기(고양시청)를 모사했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유세윤은 15일 “대한민국 파이팅”이라는 글과 함께 영상을 게재했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 영상에서 유세윤은 한국 쇼트트랙 대표팀 곽윤기 흉내로 웃음을 줬다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 화제가 된 ‘곽윤기 뒷 선수 시점’ 영상이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "곽윤기가 경기 중 보여주는 특유의 동작으로, 스케이팅을 하면서 다리 사이로 뒤에 있는 선수가 얼마나 따라붙는지 확인하는 스케이팅 방식이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대회 중 화제가 되면서 한 팬이 이 동작을 그림으로 그렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 곽윤기가 직접 시연한 영상을 올리면서 인기를 끌었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유세윤은 이 장면을 그대로 따라 해 역시‘뼈그맨’ 다운 유쾌함을 보여줬다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "유세윤이 응원한 한국 쇼트트랙 대표팀은 16일 여자 1,500m, 남자 계주 5,000m에 출전하며 대회를 마친다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유세윤, 곽윤기 따라잡기…“대한민국 파이팅”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

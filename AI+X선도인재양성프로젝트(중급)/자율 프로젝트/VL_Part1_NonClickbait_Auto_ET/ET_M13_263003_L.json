@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263003",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "자가격리 중 인성 드러난 김숙, 인간관계는 김숙처럼",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 김숙이 자가격리 중 음식을 보내준 김가연에게 감사의 마음을 전했다.\n김숙은 5일 자신의 인스타그램에 “6일차 이제 이틀 남았어요~ 집 앞에 음식 주고 가는 천사 잘 먹겠습니다”라며 고마움을 표했다.\n김가연은 도토리묵, 김치, 고구마 등 직접 만든 음식을 김숙의 집앞에 두고 갔다.\n김숙은 “잘 먹겠습니다. 1인분만 준다더니... 아구구 양이 엄청나다요~~ 맛도 엄청나다요 저 정도 양이면 산다라박이랑 소현 언니 두명 1년 치 식량이여”라고 적었다.\n한 네티즌은 “확진되면 내가 잘 살아왔나 바로 알 수 있다더니 언닌 아주 잘 살았나 봐요”라고 댓글을 남겼고, 김숙은 “그냥 인복이 많아서리...”라고 답변을 적었다.\n김숙은 지난 달 28일 코로나19 확진 판정을 받았다.\n백신 3차까지 접종 완료한 상태로 자택에서 자가격리 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 김숙이 자가격리 중 음식을 보내준 김가연에게 감사의 마음을 전했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김숙은 5일 자신의 인스타그램에 “6일차 이제 이틀 남았어요~ 집 앞에 음식 주고 가는 천사 잘 먹겠습니다”라며 고마움을 표했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김가연은 도토리묵, 김치, 고구마 등 직접 만든 음식을 김숙의 집앞에 두고 갔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김숙은 “잘 먹겠습니다. 1인분만 준다더니... 아구구 양이 엄청나다요~~ 맛도 엄청나다요 저 정도 양이면 산다라박이랑 소현 언니 두명 1년 치 식량이여”라고 적었다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한 네티즌은 “확진되면 내가 잘 살아왔나 바로 알 수 있다더니 언닌 아주 잘 살았나 봐요”라고 댓글을 남겼고, 김숙은 “그냥 인복이 많아서리...”라고 답변을 적었다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김숙은 지난 달 28일 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "백신 3차까지 접종 완료한 상태로 자택에서 자가격리 중이다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자가격리 중 인성 드러난 김숙, 인간관계는 김숙처럼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

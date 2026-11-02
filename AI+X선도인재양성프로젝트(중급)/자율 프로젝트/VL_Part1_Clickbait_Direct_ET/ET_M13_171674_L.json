@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171674",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "정일우, 코로나19 완치 일상 회복 누리다",
+    "newsSubTitle": "",
+    "newsContent": "배우 정일우가 코로나19 완치 후 일상을 올렸다.\n11일 오후 정일우는 자신의 사회 관계망 서비스(SNS)을 통해 “I’m good , 일상회복”이라는 글과 함께 한 장의 사진을 게재했다.\n이어 정일우는 #covid_19 해시태크를 붙였다.\n공개된 사진 속 정일우는 지하철 역사에서 거울 셀카를 남기고 있다.\n편안한 패딩 차림으로 자가격리 해제로부터 기쁨을 표시하고 있다.\n앞서 정일우는 지난 3일 SNL 코리아‘시즌2 촬영을 마친 뒤 스태프 중 확진자가 발생해 실시한 PCR(유전자증폭) 검사에서 코로나19 확진 판정을 받은 바 있다. 3차 접종까지 완료했지만 돌파 감염됐고 다행히 큰 증상은 없었던 것으로 알려졌다.\n이후 코로나19 완치를 했고 일상으로 돌아온 모습을 보여준 정일우에게 응원이 이어지고 있다.\n한편 정일우는 지난해 MBN 드라마‘보쌈-운명을 훔치다’에 출연해 인기를 모았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정일우가 코로나19 완치 후 일상을 올렸다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 오후 정일우는 자신의 사회 관계망 서비스(SNS)을 통해 “I’m good , 일상회복”이라는 글과 함께 한 장의 사진을 게재했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 정일우는 #covid_19 해시태크를 붙였다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진 속 정일우는 지하철 역사에서 거울 셀카를 남기고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "편안한 패딩 차림으로 자가격리 해제로부터 기쁨을 표시하고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 정일우는 지난 3일 SNL 코리아‘시즌2 촬영을 마친 뒤 스태프 중 확진자가 발생해 실시한 PCR(유전자증폭) 검사에서 코로나19 확진 판정을 받은 바 있다. 3차 접종까지 완료했지만 돌파 감염됐고 다행히 큰 증상은 없었던 것으로 알려졌다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 코로나19 완치를 했고 일상으로 돌아온 모습을 보여준 정일우에게 응원이 이어지고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 정일우는 지난해 MBN 드라마‘보쌈-운명을 훔치다’에 출연해 인기를 모았다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나19 완치한 그가 자가격리 해제 후 지하철 역사로 달려간 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

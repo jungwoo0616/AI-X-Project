@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261523",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "카니예 웨스트, 팬 폭행으로 기소 위기",
+		"newsSubTitle": "",
+		"newsContent": "미국 가수 카니예 웨스트(Kanye Wesr)가 팬 폭행 혐의로 기소될 위기에 처했다.\n미국 연예 매체 TMZ는 19일(현지 시각) “카니예 웨스트가 L.A 호텔 근처에서 팬을 폭행한 것으로 기소될 수도 있다”고 밝혔다.\nTMZ가 입수한 법조계 자료에 따르면 경찰은 카니예 웨스트의 폭행 사건에 대해 거의 조사를 마친 상태로 L.A 검찰청에 조사 내용을 보낼 준비를 마쳤다.\n경찰은 파파라치 영상과 목격담을 바탕으로 조사를 진행했으며, 카니예 웨스트 또한 최근 일어난 사건으로 경찰 조사를 받은 것으로 알려졌다.\n카니예 웨스트는 자신에게 사인을 요청한 한 사람을 폭행한 혐의를 받는다.\nTMZ가 공개한 내용에 따르면 카니예 웨스트에게 폭행당한 남성은 코뼈가 부러졌다.\n한편 카니예 웨스트 측은 폭행 논란과 관련해 별다른 입장을 내놓지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 가수 카니예 웨스트(Kanye Wesr)가 팬 폭행 혐의로 기소될 위기에 처했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 연예 매체 TMZ는 19일(현지 시각) “카니예 웨스트가 L.A 호텔 근처에서 팬을 폭행한 것으로 기소될 수도 있다”고 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "TMZ가 입수한 법조계 자료에 따르면 경찰은 카니예 웨스트의 폭행 사건에 대해 거의 조사를 마친 상태로 L.A 검찰청에 조사 내용을 보낼 준비를 마쳤다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경찰은 파파라치 영상과 목격담을 바탕으로 조사를 진행했으며, 카니예 웨스트 또한 최근 일어난 사건으로 경찰 조사를 받은 것으로 알려졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카니예 웨스트는 자신에게 사인을 요청한 한 사람을 폭행한 혐의를 받는다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "TMZ가 공개한 내용에 따르면 카니예 웨스트에게 폭행당한 남성은 코뼈가 부러졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 카니예 웨스트 측은 폭행 논란과 관련해 별다른 입장을 내놓지 않았다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카니예 웨스트, 팬 폭행으로 기소 위기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

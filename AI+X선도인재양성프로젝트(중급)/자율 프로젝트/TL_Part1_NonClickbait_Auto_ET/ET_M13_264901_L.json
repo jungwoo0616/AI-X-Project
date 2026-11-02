@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264901",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방통심의위, 인수위 업무보고서 최종 제외",
+		"newsSubTitle": "",
+		"newsContent": "방송통신심의위원회(방통심의위)가 대통령직인수위원회(인수위) 업무보고에서 최종 제외됐다.\n24일 인수위와 방통심의위 등에 따르면 이날 예정이 됐던 방통심의위의 인수위 과학기술교육 분과에 대한 업무보고 일정이 취소됐다.\n방통심의위는 이 일정에 맞춰서 하던 업무보고 준비를 중단했다.\n이는 방송·통신 등에 대한 심의를 담당하는 기관의 자율성과 독립성을 고려할 때 인수위에 업무보고를 하는 것이 적절하지 않다는 지적이 고려된 것으로 전해졌다.\n2008년 민간 독립 기구로 출범한 방통심의위는 지금까지 인수위에 업무보고를 한 적이 없다.\n방통심의위는 각각 2008년, 2013년 취임한 이명박·박근혜 대통령이 당선인일 때도 인수위 업무보고 대상이 아니었다.\n문재인 대통령은 2017년 5월 당선 즉시 취임해 인수위 업무보고가 없었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신심의위원회(방통심의위)가 대통령직인수위원회(인수위) 업무보고에서 최종 제외됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 인수위와 방통심의위 등에 따르면 이날 예정이 됐던 방통심의위의 인수위 과학기술교육 분과에 대한 업무보고 일정이 취소됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방통심의위는 이 일정에 맞춰서 하던 업무보고 준비를 중단했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 방송·통신 등에 대한 심의를 담당하는 기관의 자율성과 독립성을 고려할 때 인수위에 업무보고를 하는 것이 적절하지 않다는 지적이 고려된 것으로 전해졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2008년 민간 독립 기구로 출범한 방통심의위는 지금까지 인수위에 업무보고를 한 적이 없다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방통심의위는 각각 2008년, 2013년 취임한 이명박·박근혜 대통령이 당선인일 때도 인수위 업무보고 대상이 아니었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "문재인 대통령은 2017년 5월 당선 즉시 취임해 인수위 업무보고가 없었다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방통심의위, 인수위 업무보고서 최종 제외",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

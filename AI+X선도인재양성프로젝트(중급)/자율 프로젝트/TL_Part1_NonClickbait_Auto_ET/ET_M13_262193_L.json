@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262193",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "펜타곤 신원, 코로나19 확진[공식]",
+		"newsSubTitle": "",
+		"newsContent": "펜타곤 멤버 신원이 코로나19 확진 판정을 받았다.\n소속사 큐브 엔터테인먼트는 “펜타곤 멤버 신원이 자가 진단키트 검사에서 양성 반응 확인 후 선별진료소를 찾아 PCR 검사를 받고 26일 최종 확진 판정을 받았다”고 밝혔다.\n소속사는 “신원이 백신 2차까지 접종을 완료했으며, 현재 모든 일정을 중단 방역 당국의 지침에 따라 필요한 조치를 취하고 있다”며 “아티스트의 건강과 안전을 위해 최선을 다하겠다”라고 덧붙였다.\n■ 이하 큐브 엔터테인먼트 전문. 큐브 엔터테인먼트입니다.\n펜타곤 멤버 신원이 오늘(26일) 코로나19 확진 판정을 받았습니다.\n신원은 최초 검사(자가 진단키트)를 통해 양성반응을 확인했습니다.\n이후 선별 진료소를 찾아 코로나19 PCR(유전자 증폭) 검사를 진행, 금일(26일) 최종 확진 판정을 받았습니다.\n앞서 신원은 코로나 백신 2차까지 접종을 완료했으며, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치를 취하고 있습니다.\n당사는 앞으로도 보건 당국의 방역 지침을 준수하여 아티스트의 건강과 안전을 위해 최선을 다하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "펜타곤 멤버 신원이 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 큐브 엔터테인먼트는 “펜타곤 멤버 신원이 자가 진단키트 검사에서 양성 반응 확인 후 선별진료소를 찾아 PCR 검사를 받고 26일 최종 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “신원이 백신 2차까지 접종을 완료했으며, 현재 모든 일정을 중단 방역 당국의 지침에 따라 필요한 조치를 취하고 있다”며 “아티스트의 건강과 안전을 위해 최선을 다하겠다”라고 덧붙였다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "■ 이하 큐브 엔터테인먼트 전문. 큐브 엔터테인먼트입니다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "펜타곤 멤버 신원이 오늘(26일) 코로나19 확진 판정을 받았습니다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신원은 최초 검사(자가 진단키트)를 통해 양성반응을 확인했습니다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 선별 진료소를 찾아 코로나19 PCR(유전자 증폭) 검사를 진행, 금일(26일) 최종 확진 판정을 받았습니다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 신원은 코로나 백신 2차까지 접종을 완료했으며, 현재 모든 일정을 중단하고 방역 당국의 지침에 따라 필요한 조치를 취하고 있습니다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "당사는 앞으로도 보건 당국의 방역 지침을 준수하여 아티스트의 건강과 안전을 위해 최선을 다하겠습니다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "펜타곤 신원, 코로나19 확진[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168913",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'라스' 황치열, 촌놈 발언에 \\\"로데오 거리 가봤다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 황치열이 스스로 청담동 남자라고 칭해 화제다.\n지난 2일 방송된 MBC ‘황금어장-라디오스타’(기획 박현석/ 연출 최윤정)-‘남자다잉~ 못 먹어도 고!’ 특집에는 임창정-전진-자이언티-황치열이 출연해 유쾌한 예능감을 뽐냈다.\n이날 MC들은 옥탑방에서 생활하고 있다는 황치열의 강남 입성 계획에 “강남으로 바로 가면 적응이 안 될 텐데”라는 걱정을 했다.\n이에 황치열은 “나를 되게 촌놈으로 보시는데 내가 원래 청담동에서 살았다”라고 말해 눈길을 끌었다.\n이어 황치열은 “로데오 거리도 가봤다. 5거리인 줄 알았는데 아니더라”고 말해 웃음을 자아냈다.\n온라인 중앙일보 [사진=라디오스타 방송화면 캡처] 라디오스타, 황치열, 황치열 청담동",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 황치열이 스스로 청담동 남자라고 칭해 화제다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2일 방송된 MBC ‘황금어장-라디오스타’(기획 박현석/ 연출 최윤정)-‘남자다잉~ 못 먹어도 고!’ 특집에는 임창정-전진-자이언티-황치열이 출연해 유쾌한 예능감을 뽐냈다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 MC들은 옥탑방에서 생활하고 있다는 황치열의 강남 입성 계획에 “강남으로 바로 가면 적응이 안 될 텐데”라는 걱정을 했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 황치열은 “나를 되게 촌놈으로 보시는데 내가 원래 청담동에서 살았다”라고 말해 눈길을 끌었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 황치열은 “로데오 거리도 가봤다. 5거리인 줄 알았는데 아니더라”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진=라디오스타 방송화면 캡처] 라디오스타, 황치열, 황치열 청담동",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청담동 살았던 황치열, 지금은 옥탑방 생활... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

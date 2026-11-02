@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268910",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김세정, 에펠탑 앞에서 보인 ‘장꾸미’",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 김세정이 파리에서 즐기는 일상을 공유했다.\n김세정은 2일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 파리 여행을 즐기는 사진을 게재했다.\n김세정은 파리에 있는 에펠탑에서 밝게 빛나는 배경으로 사진을 찍었다.\n그는 반묶음 헤어스타일로 귀여움 매력을 발산해 보는 이들의 시선을 끌었다.\n또 다른 사진에서 김세정은 앙증맞은 표정을 거울 셀피로 담아내며 여유로운 파리 여행 근황을 공개했다.\n한편, 김세정은최근 종영한 SBS 드라마 ‘사내맞선’에서 신하리 역을 맡아 열연을 펼쳤고 지난달 23일 첫 팬미팅 ‘세정이의 세상일기’를 성황리에 마쳤다.\n또 SBS 새 드라마 ‘오늘의 웹툰’을 통해 안방 팬들을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 김세정이 파리에서 즐기는 일상을 공유했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김세정은 2일 오후 자신의 사회관계망서비스(SNS) 인스타그램에 파리 여행을 즐기는 사진을 게재했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김세정은 파리에 있는 에펠탑에서 밝게 빛나는 배경으로 사진을 찍었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 반묶음 헤어스타일로 귀여움 매력을 발산해 보는 이들의 시선을 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진에서 김세정은 앙증맞은 표정을 거울 셀피로 담아내며 여유로운 파리 여행 근황을 공개했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 김세정은최근 종영한 SBS 드라마 ‘사내맞선’에서 신하리 역을 맡아 열연을 펼쳤고 지난달 23일 첫 팬미팅 ‘세정이의 세상일기’를 성황리에 마쳤다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 SBS 새 드라마 ‘오늘의 웹툰’을 통해 안방 팬들을 만날 예정이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김세정, 에펠탑 앞에서 보인 ‘장꾸미’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

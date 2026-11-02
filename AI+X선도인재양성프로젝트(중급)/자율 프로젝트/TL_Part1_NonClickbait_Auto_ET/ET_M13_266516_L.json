@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266516",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "샤이니 온유, 두 번째 미니 타이틀 ‘다이스’ 6시 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 샤이니의 멤버 온유가 오늘(11일) 새 솔로앨범 ‘다이스(DICE)’를 공개한다.\n온유의 두 번째 미니앨범 ‘다이스’는 이날 오후 6시 각종 음원 사이트를 통해 공개되며, 타이틀곡 뮤직 비디오도 유튜브 SM타운 채널을 통해 만날 수 있다.\n이번 앨범에는 리드미컬하고 청량한 사랑노래인 타이틀곡 ‘다이스’를 비롯해 ‘선샤인(Sunshine)’ ‘온 더 웨이(On The Way)’ ‘러브 포비아(Love Phobia)’ ‘여우비’ ‘인 더 웨일(In The Whale)’ 등 6곡이 수록됐다.\n타이틀곡 ‘다이스’는 리드미컬한 플럭 기타와 청량한 신디사이저 사운드가 조화를 이루는 팝곡으로, 사랑에 빠진 마음을 게임에 비유해 명백하게 지는 게임인 걸 알면서도 사랑하는 상대에게 모든 걸 걸겠다는 내용을 감각적으로 풀어낸 가사가 인상적이다.\n더불어 뮤직 비디오는 곡의 분위기와 어울리는 색감과 배경으로 감각적인 영상미를 담고 있어 시선을 사로잡는다.\n온유는 음원공개 한 시간 전인 오후 5시부터 유튜브 샤이니의 공식채널을 통해 ‘온유 다이스 카운트다운 라이브’를 진행해 새 앨범과 관련한 다양한 이야기로 팬들과 소통할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 샤이니의 멤버 온유가 오늘(11일) 새 솔로앨범 ‘다이스(DICE)’를 공개한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "온유의 두 번째 미니앨범 ‘다이스’는 이날 오후 6시 각종 음원 사이트를 통해 공개되며, 타이틀곡 뮤직 비디오도 유튜브 SM타운 채널을 통해 만날 수 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 앨범에는 리드미컬하고 청량한 사랑노래인 타이틀곡 ‘다이스’를 비롯해 ‘선샤인(Sunshine)’ ‘온 더 웨이(On The Way)’ ‘러브 포비아(Love Phobia)’ ‘여우비’ ‘인 더 웨일(In The Whale)’ 등 6곡이 수록됐다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타이틀곡 ‘다이스’는 리드미컬한 플럭 기타와 청량한 신디사이저 사운드가 조화를 이루는 팝곡으로, 사랑에 빠진 마음을 게임에 비유해 명백하게 지는 게임인 걸 알면서도 사랑하는 상대에게 모든 걸 걸겠다는 내용을 감각적으로 풀어낸 가사가 인상적이다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더불어 뮤직 비디오는 곡의 분위기와 어울리는 색감과 배경으로 감각적인 영상미를 담고 있어 시선을 사로잡는다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온유는 음원공개 한 시간 전인 오후 5시부터 유튜브 샤이니의 공식채널을 통해 ‘온유 다이스 카운트다운 라이브’를 진행해 새 앨범과 관련한 다양한 이야기로 팬들과 소통할 예정이다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "샤이니 온유, 두 번째 미니 타이틀 ‘다이스’ 6시 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

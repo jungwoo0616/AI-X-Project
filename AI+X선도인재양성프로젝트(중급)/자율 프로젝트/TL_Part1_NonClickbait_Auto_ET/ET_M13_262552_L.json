@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262552",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조이 “동물농장 출근길이에요” 상큼 셀카 모음 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 레드벨벳의 멤버 조이가 상큼한 근황을 공개했다.\n조이는 2일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 사진 여러 장을 게시했다.\n그는 “동물농장 출근길”이라는 글과 함께 자신의 셀카 여러 장을 인스타그램에 올렸다.\n사진 속 그는 토끼 귀 효과를 넣은 인스타그램 필터를 통해 셀카를 찍는가 하면, 토끼·고양이·강아지 등의 사진이 합성된 필터로 브이 포즈를 하거나 엄지를 치켜들며 미모를 과시했다.\n사진 속 그의 상큼한 표정과 메이크업과 동물에 대한 그의 사랑이 돋보인다.\n조이는 데뷔 후 각종 예능 프로그램에 출연해 동물 사랑을 뽐냈다.\n특히 그는 지난해 10월 동물 보호센터를 방문해 유기견의 입양을 독려하며 화제가 된 바 있다.\n그의 동물 사랑은 SBS 예능프로그램 ‘동물농장’의 MC를 맡으며 지속되고 있다.\n그는 지난해 6월부터 해당 프로그램의 MC로 활약하며 “어릴 때부터 TV 동물농장을 즐겨봤다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 레드벨벳의 멤버 조이가 상큼한 근황을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조이는 2일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 사진 여러 장을 게시했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “동물농장 출근길”이라는 글과 함께 자신의 셀카 여러 장을 인스타그램에 올렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 그는 토끼 귀 효과를 넣은 인스타그램 필터를 통해 셀카를 찍는가 하면, 토끼·고양이·강아지 등의 사진이 합성된 필터로 브이 포즈를 하거나 엄지를 치켜들며 미모를 과시했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 그의 상큼한 표정과 메이크업과 동물에 대한 그의 사랑이 돋보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조이는 데뷔 후 각종 예능 프로그램에 출연해 동물 사랑을 뽐냈다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 그는 지난해 10월 동물 보호센터를 방문해 유기견의 입양을 독려하며 화제가 된 바 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그의 동물 사랑은 SBS 예능프로그램 ‘동물농장’의 MC를 맡으며 지속되고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그는 지난해 6월부터 해당 프로그램의 MC로 활약하며 “어릴 때부터 TV 동물농장을 즐겨봤다”고 밝혔다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조이 “동물농장 출근길이에요” 상큼 셀카 모음 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

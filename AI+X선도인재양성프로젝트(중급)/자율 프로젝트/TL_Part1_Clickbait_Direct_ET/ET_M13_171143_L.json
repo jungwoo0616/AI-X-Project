@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171143",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최유정, 이영지에 전한 다이어트 비법 “수건을 적셔서…”",
+    "newsSubTitle": "",
+    "newsContent": "위키미키 최유정이 이영지에게 다이어트 비법을을 전수해 웃음을 안겼다.\n12일 이영지는 자신의 SNS 인스타그램 스토리에 최유정과의 대화내용을 공개했다.\n이영지는 최유정에게 “언니 나 짜파게티가 먹고싶어. 언닌 이럴 때 어떻게 해?”라고 물었다.\n이에 최유정은 “안돼. 수건에 물 적셔서 그거 물어. 재갈 물듯이”라며 “그럼 입 속이 꽤 찝찝해. 그럼 약간 식욕 감퇴”라고 답해 웃음을 자아냈다.\n이영지는 최유정의 기발한 답변에 웃음을 참지 못했다.\n이영지는 최근 12kg감량에 성공하며 화제를 모았다.\n그는 한 화보 인터뷰에서 “20대가 되면서 이미지를 바꿔보고 싶었다. 대중에게 시각적 변화를 주고 싶었다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "위키미키 최유정이 이영지에게 다이어트 비법을을 전수해 웃음을 안겼다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 이영지는 자신의 SNS 인스타그램 스토리에 최유정과의 대화내용을 공개했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이영지는 최유정에게 “언니 나 짜파게티가 먹고싶어. 언닌 이럴 때 어떻게 해?”라고 물었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 최유정은 “안돼. 수건에 물 적셔서 그거 물어. 재갈 물듯이”라며 “그럼 입 속이 꽤 찝찝해. 그럼 약간 식욕 감퇴”라고 답해 웃음을 자아냈다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이영지는 최유정의 기발한 답변에 웃음을 참지 못했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이영지는 최근 12kg감량에 성공하며 화제를 모았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 한 화보 인터뷰에서 “20대가 되면서 이미지를 바꿔보고 싶었다. 대중에게 시각적 변화를 주고 싶었다”고 말했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "위키미키 최유정, 다이어트로 배고플 때 `이런 행동`까지 했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266265",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘써클하우스’ 리정, MZ=민지 주장하는 이승기에 “누가 그런 말을”",
+		"newsSubTitle": "",
+		"newsContent": "‘써클하우스’ 이승기가 MZ 세대에 멀어졌다.\n7일 오후 방송된 SBS 예능프로그램 ‘써클하우스’에서는 MZ를 민지라고 말한다는 이승기가 리정의 반박을 받았다.\n이날 노홍철은 자신이 MZ 세대에 가장 근접한 마인드를 가지고 있다고 주장했다.\n이에 이승기가 ‘민지’를 아냐고 물었고 그는 “엊그제 CL을 만났다. 공민지 얘기하는 거 아니야?”라고 말해 웃음 짓게 했다.\n한가인은 민지가 뭐냐 묻는 노홍철에 “MZ가 민지 아닝예요?”라고 말했고 이승기는 MZ 세대를 의인화한 표현이라며 “재테크에 관심 많은 MZ는 金민지라고 한다”라고 설명했다.\n그 말에 노홍철은 “이런 거 너무 싫지 않아요? MZ라고 하면 되지 무슨 민지야!”라며 리정에게 알고 있었냐고 물었다.\n리정은 “요즘 누가 그런 말을..? 요즘 MZ 그런 말 안 씁니다”라고 말했다.\n노홍철은 “제가 마흔네 살인데 저 4학년 4반입니다라고 말하는 거랑 똑같은 거다”라고 이승기를 공격했다.\n한편 SBS 예능프로그램 ‘써클하우스’는 매주 목요일 오후 9시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘써클하우스’ 이승기가 MZ 세대에 멀어졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 오후 방송된 SBS 예능프로그램 ‘써클하우스’에서는 MZ를 민지라고 말한다는 이승기가 리정의 반박을 받았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 노홍철은 자신이 MZ 세대에 가장 근접한 마인드를 가지고 있다고 주장했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이승기가 ‘민지’를 아냐고 물었고 그는 “엊그제 CL을 만났다. 공민지 얘기하는 거 아니야?”라고 말해 웃음 짓게 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한가인은 민지가 뭐냐 묻는 노홍철에 “MZ가 민지 아닝예요?”라고 말했고 이승기는 MZ 세대를 의인화한 표현이라며 “재테크에 관심 많은 MZ는 金민지라고 한다”라고 설명했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 말에 노홍철은 “이런 거 너무 싫지 않아요? MZ라고 하면 되지 무슨 민지야!”라며 리정에게 알고 있었냐고 물었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "리정은 “요즘 누가 그런 말을..? 요즘 MZ 그런 말 안 씁니다”라고 말했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "노홍철은 “제가 마흔네 살인데 저 4학년 4반입니다라고 말하는 거랑 똑같은 거다”라고 이승기를 공격했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 SBS 예능프로그램 ‘써클하우스’는 매주 목요일 오후 9시에 방송된다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘써클하우스’ 리정, MZ=민지 주장하는 이승기에 “누가 그런 말을”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

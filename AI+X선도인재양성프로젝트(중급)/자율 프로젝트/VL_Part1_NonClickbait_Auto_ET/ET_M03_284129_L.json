@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284129",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "검은사제들, 예매율 40% 돌파하며 흥행예감…관객 가뭄 해결?",
+		"newsSubTitle": "",
+		"newsContent": "검은사제들 영화 '검은 사제들'이 흥행 돌풍을 예고했다.\n영진위 영화관입장권 통합전산망 집계 결과 '검은 사제들'은 개봉일인 5일 오전 7시 30분 기준 예매율 42.3%를 기록하며 실시간 예매율 1위에 랭크됐다.\n아직까지 예매관객수는 6만명을 조금 넘긴 수치지만 영화를 향한 폭발적 관심이 형성된 데다 역대급 연기로 호평 받고 있는 배우 강동원의 스타성, 일주일 후 수학능력시험이 끝나는 만큼 시험이 끝난 후 유입될 학생 관객 등이 관객수 상승으로 이어질 전망이다.\n이에 극장가 관객 가뭄도 자연스럽게 해소될 수 있을 것으로 보인다.\n실제 지난 4일 기준 박스오피스 1위에 오른 작품의 일일 관객수가 5만명을 겨우 넘는 등 관객수가 크게 줄어든 모습을 보였다.\n개봉일 40%가 넘는 예매율을 보인 '검은 사제들'은 위험에 직면한 소녀를 구하기 위해 미스터리한 사건에 맞서는 두 사제의 이야기를 그린 영화로 김윤석, 강동원, 박소담 등이 출연했다.\n엑소시즘을 본격적으로 다룬 첫 한국영화로 김윤석과 강동원의 두 번째 찰진 호흡, 박소담의 강렬한 연기, 첫 장편 영화제 도전한 장재현 감독의 빼어난 연출력 등으로 호평 받은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "검은사제들 영화 '검은 사제들'이 흥행 돌풍을 예고했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영진위 영화관입장권 통합전산망 집계 결과 '검은 사제들'은 개봉일인 5일 오전 7시 30분 기준 예매율 42.3%를 기록하며 실시간 예매율 1위에 랭크됐다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아직까지 예매관객수는 6만명을 조금 넘긴 수치지만 영화를 향한 폭발적 관심이 형성된 데다 역대급 연기로 호평 받고 있는 배우 강동원의 스타성, 일주일 후 수학능력시험이 끝나는 만큼 시험이 끝난 후 유입될 학생 관객 등이 관객수 상승으로 이어질 전망이다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 극장가 관객 가뭄도 자연스럽게 해소될 수 있을 것으로 보인다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 지난 4일 기준 박스오피스 1위에 오른 작품의 일일 관객수가 5만명을 겨우 넘는 등 관객수가 크게 줄어든 모습을 보였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개봉일 40%가 넘는 예매율을 보인 '검은 사제들'은 위험에 직면한 소녀를 구하기 위해 미스터리한 사건에 맞서는 두 사제의 이야기를 그린 영화로 김윤석, 강동원, 박소담 등이 출연했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엑소시즘을 본격적으로 다룬 첫 한국영화로 김윤석과 강동원의 두 번째 찰진 호흡, 박소담의 강렬한 연기, 첫 장편 영화제 도전한 장재현 감독의 빼어난 연출력 등으로 호평 받은 바 있다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "검은사제들, 예매율 40% 돌파하며 흥행예감…관객 가뭄 해결?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

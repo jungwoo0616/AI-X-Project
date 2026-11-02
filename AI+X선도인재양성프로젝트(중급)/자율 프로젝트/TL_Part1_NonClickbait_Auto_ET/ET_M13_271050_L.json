@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271050",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘이번주도 잘부탁해’ 이엘, 30일 전통주 투어 떠난다",
+		"newsSubTitle": "",
+		"newsContent": "배우 이엘이 네 번째 게스트로 출격한다.\nENA채널과 tvN STORY의 전국민 안주 지침서 ‘이번주도 잘부탁해’ 제작진은 “강렬한 개성과 매력의 배우 이엘이 5월 30일 방송될 ‘이번주도 잘부탁해’에서 성동일X고창석과 함께한다”고 밝혔다.\n현재 드라마 ‘나의 해방일지’에 출연하며 사랑받고 있는 이엘은 뛰어난 연기력과 입담, 화려한 외모와 반전을 이루는 소탈함까지 가지고 있는 배우로 꼽힌다.\n성동일X고창석과 함께하는 술자리 및 전통주 투어를 통해 또 한 번 새로운 모습을 보여줄 것으로 예상된다. ‘이번주도 잘부탁해’는 지금까지 배우 권상우, 비(정지훈), 유이와 함께 각 지역을 대표하는 전통주를 찾아가는 여행을 선보였다.\n네 번째 게스트 이엘이 어느 지역에서 어떤 전통주의 매력에 빠질지 기대를 모은다.\nENA채널과 tvN STORY의 전국민 안주 지침서 ‘이번주도 잘부탁해’는 23일(월) 밤 11시 게스트 유이와 함께하는 4회를 방송한다.\n배우 이엘이 출연하는 ‘이번주도 잘부탁해’ 5회는 30일 방송 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이엘이 네 번째 게스트로 출격한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ENA채널과 tvN STORY의 전국민 안주 지침서 ‘이번주도 잘부탁해’ 제작진은 “강렬한 개성과 매력의 배우 이엘이 5월 30일 방송될 ‘이번주도 잘부탁해’에서 성동일X고창석과 함께한다”고 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 드라마 ‘나의 해방일지’에 출연하며 사랑받고 있는 이엘은 뛰어난 연기력과 입담, 화려한 외모와 반전을 이루는 소탈함까지 가지고 있는 배우로 꼽힌다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "성동일X고창석과 함께하는 술자리 및 전통주 투어를 통해 또 한 번 새로운 모습을 보여줄 것으로 예상된다. ‘이번주도 잘부탁해’는 지금까지 배우 권상우, 비(정지훈), 유이와 함께 각 지역을 대표하는 전통주를 찾아가는 여행을 선보였다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네 번째 게스트 이엘이 어느 지역에서 어떤 전통주의 매력에 빠질지 기대를 모은다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ENA채널과 tvN STORY의 전국민 안주 지침서 ‘이번주도 잘부탁해’는 23일(월) 밤 11시 게스트 유이와 함께하는 4회를 방송한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "배우 이엘이 출연하는 ‘이번주도 잘부탁해’ 5회는 30일 방송 예정이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘이번주도 잘부탁해’ 이엘, 30일 전통주 투어 떠난다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

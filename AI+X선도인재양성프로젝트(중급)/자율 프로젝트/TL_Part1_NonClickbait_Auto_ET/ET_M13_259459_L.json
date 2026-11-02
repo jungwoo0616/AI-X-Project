@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259459",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "이철민, ‘효자’ 연기로 설 연휴 효도 성공할까",
+		"newsSubTitle": "",
+		"newsContent": "‘악역 전문 배우’라는 수식어가 붙을 만큼 강렬한 연기를 선보였던 배우 이철민이 2022년 새 작품을 통해 색다른 변신을 예고하며 돌아왔다.\n27일 소속사 생각엔터테인먼트는 이철민이 27일(이날) 개봉한 영화 ‘효자’에 ‘길중’ 역으로 출연해 2022년 설 연휴 관객들에게 웃음을 선사할 계획이라고 밝혔다.\n영화 ‘효자’는 장례를 치른 지 얼마 지나지 않아 좀비로 돌아온 어머니에게 다섯 형제가 생전 못한 효도를 하기로 결심하면서 벌어지는 상상 초월 동방 예의 좀비극이다.\n이철민은 극 중 ‘길중’ 역에 분해 다섯 형제 집안에서 둘째 역할로 좀비로 돌아온 어머니에게 성심성의껏 효도하는 엉뚱한 인물로 등장할 예정이다.\n김뢰하, 연운경, 정경호, 박효준 등 충무로 대표 배우들과 호흡을 맞추며 생생한 연기와 시너지를 선보일 전망이다.\n배우 이철민은 개성파 배우로 장르 불문하며 대중들에게 눈도장 찍은 바 있다.\n영화 ‘더 매뉴얼’, ‘로드킬’, ‘터널’ 등의 활동을 선보였다.\n이번 이철민이 출연하는 영화 ‘효자’는 2022년 연휴 온 가족이 함께 즐길 수 있는 코믹 호러 영화로 불효자들의 효도기를 그려낸 만큼, 이철민의 새로운 모습을 엿볼 수 있을 것으로 기대된다.\n한편, 이철민이 출연하는 좌충우돌 스토리를 담은 코믹 호러 영화 ‘효자’는 현재 극장에서 절찬 상영 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘악역 전문 배우’라는 수식어가 붙을 만큼 강렬한 연기를 선보였던 배우 이철민이 2022년 새 작품을 통해 색다른 변신을 예고하며 돌아왔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 소속사 생각엔터테인먼트는 이철민이 27일(이날) 개봉한 영화 ‘효자’에 ‘길중’ 역으로 출연해 2022년 설 연휴 관객들에게 웃음을 선사할 계획이라고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영화 ‘효자’는 장례를 치른 지 얼마 지나지 않아 좀비로 돌아온 어머니에게 다섯 형제가 생전 못한 효도를 하기로 결심하면서 벌어지는 상상 초월 동방 예의 좀비극이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이철민은 극 중 ‘길중’ 역에 분해 다섯 형제 집안에서 둘째 역할로 좀비로 돌아온 어머니에게 성심성의껏 효도하는 엉뚱한 인물로 등장할 예정이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김뢰하, 연운경, 정경호, 박효준 등 충무로 대표 배우들과 호흡을 맞추며 생생한 연기와 시너지를 선보일 전망이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배우 이철민은 개성파 배우로 장르 불문하며 대중들에게 눈도장 찍은 바 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영화 ‘더 매뉴얼’, ‘로드킬’, ‘터널’ 등의 활동을 선보였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 이철민이 출연하는 영화 ‘효자’는 2022년 연휴 온 가족이 함께 즐길 수 있는 코믹 호러 영화로 불효자들의 효도기를 그려낸 만큼, 이철민의 새로운 모습을 엿볼 수 있을 것으로 기대된다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 이철민이 출연하는 좌충우돌 스토리를 담은 코믹 호러 영화 ‘효자’는 현재 극장에서 절찬 상영 중이다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이철민, ‘효자’ 연기로 설 연휴 효도 성공할까",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

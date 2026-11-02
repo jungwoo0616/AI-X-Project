@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265196",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "한동근, 새 싱글 ‘서로’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "명품 보컬리스트 한동근이 더 완숙해진 감성을 담은 더블 싱글 ‘서로’를 발매한다.\n지난 24일과 25일, 브랜뉴뮤직은 공식 SNS 채널들을 통해 한동근의 새 싱글 수록곡인 ‘캠핑’과 ‘서로’의 리릭 티저 영상을 공개하며 눈길을 끌었다.\n한동근의 이번 더블 싱글의 첫 번째 트랙 ‘캠핑’은 한동근이 바닷가 앞에서 캠핑을 하던 중 영감을 받아 작업한 노래다.\n그동안 선보여 온 한동근의 음악과는 조금 다른 여유로운 보컬과 감미로운 기타 연주가 기분 좋은 그루브를 느낄 수 있게 해준다.\n두 번째 트랙이자 타이틀곡인 ‘서로’는 올해 결혼을 앞둔 한동근이 예비 신부를 향해 바치는 곡으로, 그동안 많은 일을 함께 겪어오며 쌓인 서로를 향한 깊은 신뢰와 사랑, 그리고 감사함을 노래 안에 담아 듣는 이들의 마음에 따뜻한 감동을 선사할 것이라는 후문이다.\n지난 3월 발매한 리메이크 싱글 ‘사랑인걸’로 음원 차트 상위권을 유지하며 좋은 분위기를 이어가고 있는 한동근의 새 싱글 ‘서로’는 28일 오후 6시, 각종 온라인 음원 사이트들을 통해 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "명품 보컬리스트 한동근이 더 완숙해진 감성을 담은 더블 싱글 ‘서로’를 발매한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 24일과 25일, 브랜뉴뮤직은 공식 SNS 채널들을 통해 한동근의 새 싱글 수록곡인 ‘캠핑’과 ‘서로’의 리릭 티저 영상을 공개하며 눈길을 끌었다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한동근의 이번 더블 싱글의 첫 번째 트랙 ‘캠핑’은 한동근이 바닷가 앞에서 캠핑을 하던 중 영감을 받아 작업한 노래다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 선보여 온 한동근의 음악과는 조금 다른 여유로운 보컬과 감미로운 기타 연주가 기분 좋은 그루브를 느낄 수 있게 해준다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 번째 트랙이자 타이틀곡인 ‘서로’는 올해 결혼을 앞둔 한동근이 예비 신부를 향해 바치는 곡으로, 그동안 많은 일을 함께 겪어오며 쌓인 서로를 향한 깊은 신뢰와 사랑, 그리고 감사함을 노래 안에 담아 듣는 이들의 마음에 따뜻한 감동을 선사할 것이라는 후문이다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 3월 발매한 리메이크 싱글 ‘사랑인걸’로 음원 차트 상위권을 유지하며 좋은 분위기를 이어가고 있는 한동근의 새 싱글 ‘서로’는 28일 오후 6시, 각종 온라인 음원 사이트들을 통해 감상할 수 있다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한동근, 새 싱글 ‘서로’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

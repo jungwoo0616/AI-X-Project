@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168219",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신성우, 12월 결혼 소식 \\\"실시간 검색어 제물 되는 듯해서…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 신성우가 12일 결혼 소식과 관련해 구체적인 입장 발표를 미뤘다.\n27일 한 매체는 신성우가 12월 중순 4년간 교제해 온 일반인 박모씨와 결혼식을 올린다고 보도했다.\n예비신부는 신성우 보다 15살 연하인 것으로 알려졌다.\n이에 신성우는 자신의 트위터에 \\\"좋은 소식을 여러분들께 구체적으로 알려드렸어야 했는데 기사가 새어 버렸다. 이 시국에 실시간 검색어 제물이 되는듯해 마음이 개운하지 않다\\\"고 적었다.\n이어 \\\"일정이 잡히는 대로 확실하게 얘기하겠다. 축하해줘서 감사하다\\\"고 말했다.\n신성우는 1992년 연예계에 데뷔해 '서시' '노을에 기댄 이유' '사랑한 후에' 등을 히트시키며 스타 반열에 올랐다.\n지금은 뮤지컬 배우로 활동 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 신성우가 12일 결혼 소식과 관련해 구체적인 입장 발표를 미뤘다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 한 매체는 신성우가 12월 중순 4년간 교제해 온 일반인 박모씨와 결혼식을 올린다고 보도했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예비신부는 신성우 보다 15살 연하인 것으로 알려졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 신성우는 자신의 트위터에 \\\"좋은 소식을 여러분들께 구체적으로 알려드렸어야 했는데 기사가 새어 버렸다. 이 시국에 실시간 검색어 제물이 되는듯해 마음이 개운하지 않다\\\"고 적었다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"일정이 잡히는 대로 확실하게 얘기하겠다. 축하해줘서 감사하다\\\"고 말했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신성우는 1992년 연예계에 데뷔해 '서시' '노을에 기댄 이유' '사랑한 후에' 등을 히트시키며 스타 반열에 올랐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지금은 뮤지컬 배우로 활동 중이다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 신성우, 12월 결혼 관련 입장 발표 미룬 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

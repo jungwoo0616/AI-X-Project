@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266226",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘수입 급감’ TBS “상업광고 허용해달라” 신청",
+		"newsSubTitle": "",
+		"newsContent": "TBS(교통방송)가 상업광고를 하게 해달라고 방송통신위원회(방통위)에 허가를 신청했다.\n방통위 관계자는 7일 “TBS가 2월말 상업광고 허용에 대해 변경허가를 신청했다”며 “현재 실무선에서 검토중으로, 방송국 설립 목적과 광고 시장 상황 및 정책 등을 종합적으로 고려할 것”이라고 말했다.\n방통위는 2019년 TBS가 서울시 산하기관에서 출연기관으로 변경되는 것을 승인할 때 상업광고는 허용하지 않되, 향후 광고 시장 상황과 TBS 재정여건 등을 고려해 추후 재검토하기로 한 바 있다.\n따라서 TBS는 2020년 2월 별도 재단을 만들어 서울시에서 독립한 뒤로도 수입의 70% 상당을 서울시 출연금에 의지하고 있다.\n서울시 출연금은 지난해 375억원에서 올해 320억원으로 삭감됐다.\n기업과 공공기관 등으로부터의 공익광고나 협찬도 2020년 72억여원에서 지난해 53억여원으로 줄었다.\n하지만 방송 광고 시장 전반이 위축된 상황에서 TBS의 상업광고가 허용될지는 미지수다. 2019년 TBS 상업광고가 불허된 배경에도 다른 라디오 방송사 반대가 있었다는 분석이 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "TBS(교통방송)가 상업광고를 하게 해달라고 방송통신위원회(방통위)에 허가를 신청했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방통위 관계자는 7일 “TBS가 2월말 상업광고 허용에 대해 변경허가를 신청했다”며 “현재 실무선에서 검토중으로, 방송국 설립 목적과 광고 시장 상황 및 정책 등을 종합적으로 고려할 것”이라고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방통위는 2019년 TBS가 서울시 산하기관에서 출연기관으로 변경되는 것을 승인할 때 상업광고는 허용하지 않되, 향후 광고 시장 상황과 TBS 재정여건 등을 고려해 추후 재검토하기로 한 바 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "따라서 TBS는 2020년 2월 별도 재단을 만들어 서울시에서 독립한 뒤로도 수입의 70% 상당을 서울시 출연금에 의지하고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서울시 출연금은 지난해 375억원에서 올해 320억원으로 삭감됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업과 공공기관 등으로부터의 공익광고나 협찬도 2020년 72억여원에서 지난해 53억여원으로 줄었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 방송 광고 시장 전반이 위축된 상황에서 TBS의 상업광고가 허용될지는 미지수다. 2019년 TBS 상업광고가 불허된 배경에도 다른 라디오 방송사 반대가 있었다는 분석이 있다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘수입 급감’ TBS “상업광고 허용해달라” 신청",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

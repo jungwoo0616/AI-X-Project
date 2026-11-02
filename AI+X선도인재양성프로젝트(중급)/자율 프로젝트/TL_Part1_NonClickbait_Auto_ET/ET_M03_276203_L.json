@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276203",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "서동주 '썸남' 알고 보니 하버드 출신 'IT 전문가'",
+		"newsSubTitle": "",
+		"newsContent": "방송인 서세원·서정희 딸 서동주와 방송에서 데이트를 즐긴 남성은 '미국 IT 업계 유명인사'인 것으로 알려졌다.\n서동주는 현재 TV조선 '라라랜드'에 출연하며 일상을 공개하고 있다.\n서동주는 지난 6일 이 방송에서 \\\"조심스럽게 만나고 있는 사이\\\"라며 한 남성을 소개했다.\n그는 \\\"한 번 결혼했기 때문에 조심스러운 부분이 있다\\\"며 \\\"의리 있는 끝 사랑을 찾고 싶다\\\"고 말했다.\n이 남성은 방송에서는 '하버드대 출신 IT 전문가' 정도로 간략하게 설명됐지만, 미국의 지식 공유 웹사이트인 '쿠오라(Quora)'의 공동 설립자인 찰리 치버로 8일 확인됐다.\n찰리 치버는 페이스북 엔지니어 겸 관리자로 재직한 후 2009년 동료와 함께 쿠오라를 설립한 것으로 전해진다.\nTV조선 측도 이날 \\\"서동주와 데이트를 한 남성이 찰리 치버가 맞다\\\"고 전했다.\n서동주는 지난 5월 자신의 법학전문대학원(로스쿨) 졸업식에 참석한 찰리 치버와 함께 찍은 사진을 인스타그램에 공개하기도 했다.\n2008년 재미교포 남성과 결혼한 그는 4년 전 파경을 맞은 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 서세원·서정희 딸 서동주와 방송에서 데이트를 즐긴 남성은 '미국 IT 업계 유명인사'인 것으로 알려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서동주는 현재 TV조선 '라라랜드'에 출연하며 일상을 공개하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서동주는 지난 6일 이 방송에서 \\\"조심스럽게 만나고 있는 사이\\\"라며 한 남성을 소개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"한 번 결혼했기 때문에 조심스러운 부분이 있다\\\"며 \\\"의리 있는 끝 사랑을 찾고 싶다\\\"고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 남성은 방송에서는 '하버드대 출신 IT 전문가' 정도로 간략하게 설명됐지만, 미국의 지식 공유 웹사이트인 '쿠오라(Quora)'의 공동 설립자인 찰리 치버로 8일 확인됐다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "찰리 치버는 페이스북 엔지니어 겸 관리자로 재직한 후 2009년 동료와 함께 쿠오라를 설립한 것으로 전해진다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "TV조선 측도 이날 \\\"서동주와 데이트를 한 남성이 찰리 치버가 맞다\\\"고 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서동주는 지난 5월 자신의 법학전문대학원(로스쿨) 졸업식에 참석한 찰리 치버와 함께 찍은 사진을 인스타그램에 공개하기도 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2008년 재미교포 남성과 결혼한 그는 4년 전 파경을 맞은 것으로 전해졌다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서동주 '썸남' 알고 보니 하버드 출신 'IT 전문가'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275439",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "충무로가 견인한 6월 박스 오피스···점유율 60.4%",
+		"newsSubTitle": "",
+		"newsContent": "‘범죄도시 2’를 필두로 한 충무로 한국 작품들이 극장 부활을 견인한 것으로 나타났다.\n13일 영화진흥위원회가 발표한 ‘6월 한국 영화산업 결산’ 자료를 보면 지난달 한국영화 매출액은 952억원으로 전체 매출액(1천582억원)의 57.5％를 차지했다.\n한국영화 관객점유율은 60.4％다.\n이는 5월의 53.1％보다 약 7％포인트 증가한 수치로, 외화와 격차를 더 벌렸다.\n팬데믹 후 첫 천만영화 ‘범죄도시 2’는 5월에 이어 두 달 연속 흥행 1위를 기록했다.\n6월 한 달 매출액은 537억원으로 전체 매출액의 33.9％를 차지했다. ‘마녀 2’는 250억원(15.8％)으로 3위, ‘브로커’는 123억원(7.7％)으로 5위에 이름을 올리면서 한국영화 세 편이 6월 흥행작 상위 5위 안에 들었다.\n외화 ‘쥬라기 월드: 도미니언’과 ‘탑건: 매버릭’은 각각 매출액 291억원(18.3％), 232억원(14.6％)으로 2위와 4위를 차지했다.\n독립·예술영화 중에서는 다큐멘터리 ‘그대가 조국’이 관객 13만7천명을 동원해 매출액 12억4천600만원을 모으며 1위에 올랐다.\n코고나다 감독의 ‘애프터 양’, 안성기·서현진 주연의 ‘카시오페아’ 등이 뒤를 이었다.\n상반기(1∼6월) 누적 매출액은 4천529억원으로 전년 동기 대비 143.1％(2천666억원) 늘었다.\n관객수도 4천493만명으로 지난해 같은 기간보다 124.4％(2천490만명) 증가했다.\n하지만 2019년 상반기와 비교하면 절반에 가까운 수준이다.\n6월 한 달 매출액도 2019년보다 19％(371억원) 감소해 아직은 팬데믹 이전 수준만큼 회복되지 않은 수치다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘범죄도시 2’를 필두로 한 충무로 한국 작품들이 극장 부활을 견인한 것으로 나타났다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 영화진흥위원회가 발표한 ‘6월 한국 영화산업 결산’ 자료를 보면 지난달 한국영화 매출액은 952억원으로 전체 매출액(1천582억원)의 57.5％를 차지했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국영화 관객점유율은 60.4％다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 5월의 53.1％보다 약 7％포인트 증가한 수치로, 외화와 격차를 더 벌렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬데믹 후 첫 천만영화 ‘범죄도시 2’는 5월에 이어 두 달 연속 흥행 1위를 기록했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "6월 한 달 매출액은 537억원으로 전체 매출액의 33.9％를 차지했다. ‘마녀 2’는 250억원(15.8％)으로 3위, ‘브로커’는 123억원(7.7％)으로 5위에 이름을 올리면서 한국영화 세 편이 6월 흥행작 상위 5위 안에 들었다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외화 ‘쥬라기 월드: 도미니언’과 ‘탑건: 매버릭’은 각각 매출액 291억원(18.3％), 232억원(14.6％)으로 2위와 4위를 차지했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "독립·예술영화 중에서는 다큐멘터리 ‘그대가 조국’이 관객 13만7천명을 동원해 매출액 12억4천600만원을 모으며 1위에 올랐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코고나다 감독의 ‘애프터 양’, 안성기·서현진 주연의 ‘카시오페아’ 등이 뒤를 이었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "상반기(1∼6월) 누적 매출액은 4천529억원으로 전년 동기 대비 143.1％(2천666억원) 늘었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "관객수도 4천493만명으로 지난해 같은 기간보다 124.4％(2천490만명) 증가했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "하지만 2019년 상반기와 비교하면 절반에 가까운 수준이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "6월 한 달 매출액도 2019년보다 19％(371억원) 감소해 아직은 팬데믹 이전 수준만큼 회복되지 않은 수치다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충무로가 견인한 6월 박스 오피스···점유율 60.4%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

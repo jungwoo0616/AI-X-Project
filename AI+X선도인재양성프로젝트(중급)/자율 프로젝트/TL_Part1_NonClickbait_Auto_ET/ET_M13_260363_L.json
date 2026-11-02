@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260363",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이상화, 역시 ‘빙속 여제’…최고 시청률 6.4%",
+		"newsSubTitle": "",
+		"newsContent": "이상화 가 지난 7일 스피드스케이팅 여자 1500m 경기에 KBS 베이징올림픽 해설위원으로 데뷔했다.\n해설자로 등장하자 시청자들의 뜨거운 관심이 이어졌고, 결과는 시청률로 입증했다.\n다른 나라 선수들 경기임에도 KBS 2TV가 분당 최고 시청률 6.4%(닐슨코리아, 전국 기준)를 기록하며 가볍게 1위를 차지했고, 3% 대에 머무른 SBS와 MBC를 제쳤다.\n이상화 위원은 “제 집에 온 것 같은 편안함을 느끼고 있다”며 첫 해설에서 여유로운 모습을 보였다.\n이상화 위원은 직접 준비한 이름표를 이강석 위원, 이광용 캐스터와 함께 착용한 모습이 중계 화면에 비춰지자 “마스크를 끼고 있으니 저희를 알아보는 사람이 없을 것 같아서 준비하게 되었다”라고 말했다.\n그만큼 올림픽 중계방송에 대한 애정이 느껴졌다.\n해설을 마친 후 “막상 시작을 하니 괜찮았다. 어쨌든 여긴 저의 집이니까”라고 소감을 밝혔다. ‘완벽한 적응’을 마친 이상화는 8일 김민석이 출전하는 스피드 스케이팅 남자 1500m에 해설위원으로 선수들의 레이스에 힘을 보탤 예정이다.\n이상화 해설은 오후 7시 30분 KBS2에서 중계한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이상화 가 지난 7일 스피드스케이팅 여자 1500m 경기에 KBS 베이징올림픽 해설위원으로 데뷔했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해설자로 등장하자 시청자들의 뜨거운 관심이 이어졌고, 결과는 시청률로 입증했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다른 나라 선수들 경기임에도 KBS 2TV가 분당 최고 시청률 6.4%(닐슨코리아, 전국 기준)를 기록하며 가볍게 1위를 차지했고, 3% 대에 머무른 SBS와 MBC를 제쳤다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이상화 위원은 “제 집에 온 것 같은 편안함을 느끼고 있다”며 첫 해설에서 여유로운 모습을 보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이상화 위원은 직접 준비한 이름표를 이강석 위원, 이광용 캐스터와 함께 착용한 모습이 중계 화면에 비춰지자 “마스크를 끼고 있으니 저희를 알아보는 사람이 없을 것 같아서 준비하게 되었다”라고 말했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그만큼 올림픽 중계방송에 대한 애정이 느껴졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해설을 마친 후 “막상 시작을 하니 괜찮았다. 어쨌든 여긴 저의 집이니까”라고 소감을 밝혔다. ‘완벽한 적응’을 마친 이상화는 8일 김민석이 출전하는 스피드 스케이팅 남자 1500m에 해설위원으로 선수들의 레이스에 힘을 보탤 예정이다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이상화 해설은 오후 7시 30분 KBS2에서 중계한다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이상화, 역시 ‘빙속 여제’…최고 시청률 6.4%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

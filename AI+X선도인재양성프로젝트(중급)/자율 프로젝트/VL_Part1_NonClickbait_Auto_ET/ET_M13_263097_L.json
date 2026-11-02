@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263097",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "디카프리오, 우크라이나에 122억 ‘스케일’ 다른 기부",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 레오나르도 디카프리오가 스케일이 다른 기부를 진행했다.\n체코·헝가리·폴란드·슬로바키아 상호협력 모임 비세그라드 그룹(V4)는 7일(한국시각) 트위터에 “디카프리오가 우크라이나에 1000만달러(약 122억6100만원)을 기부했다”며 “그의 외할머니는 우크라니아 오데사 출신”이라고 밝혔다.\n비세그라드 설명대로 디카프리오의 외할머니는 우크라이나 출신으로 1915년 오데사에서 태어나 1917년 러시아 혁명이 일어난 뒤 독일로 이주한 것으로 알려져 있다.\n디카프리오는 이러한 가족의 배경으로 러시아의 이번 우크라이나 침공에 대해 거액의 기부금을 전달한 것으로 보여진다.\n러시아는 지난달 24일 우크라이나에 대한 전면적인 침공을 개시해 국제사회의 지탄을 받고 있다.\n양국은 침공 10일째인 지난 6일 피난민의 대피를 위해 ‘임시휴전’을 이어가고 있으나 현재 곳곳에서 교전이 이뤄지고 있는 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 레오나르도 디카프리오가 스케일이 다른 기부를 진행했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "체코·헝가리·폴란드·슬로바키아 상호협력 모임 비세그라드 그룹(V4)는 7일(한국시각) 트위터에 “디카프리오가 우크라이나에 1000만달러(약 122억6100만원)을 기부했다”며 “그의 외할머니는 우크라니아 오데사 출신”이라고 밝혔다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비세그라드 설명대로 디카프리오의 외할머니는 우크라이나 출신으로 1915년 오데사에서 태어나 1917년 러시아 혁명이 일어난 뒤 독일로 이주한 것으로 알려져 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "디카프리오는 이러한 가족의 배경으로 러시아의 이번 우크라이나 침공에 대해 거액의 기부금을 전달한 것으로 보여진다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "러시아는 지난달 24일 우크라이나에 대한 전면적인 침공을 개시해 국제사회의 지탄을 받고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양국은 침공 10일째인 지난 6일 피난민의 대피를 위해 ‘임시휴전’을 이어가고 있으나 현재 곳곳에서 교전이 이뤄지고 있는 것으로 전해졌다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "디카프리오, 우크라이나에 122억 ‘스케일’ 다른 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

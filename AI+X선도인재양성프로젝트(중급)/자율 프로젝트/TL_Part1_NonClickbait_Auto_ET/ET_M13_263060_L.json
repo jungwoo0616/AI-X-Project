@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263060",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "여에스더, 산불 피해 복구 1억원 기부",
+		"newsSubTitle": "",
+		"newsContent": "의사·방송인·기업가로 활동하고 있는 여에스더가 경북 울진·강원 삼척 등 산불피해 극복 기부행렬에 동참했다.\n희망브리지 전국재해구호협회는 7일 스포츠경향에 여에스더가 대표로 있는 에스더포뮬러가 전날 1억 원을 기부했다고 밝혔다.\n여에스더는 “산불로 피해를 보신 분들께 조금이나마 도움이 됐으면 하는 마음에 기부하게 됐다”며 “앞으로도 공동체를 위한 나눔을 실천하며 모두 함께 상생할 수 있는 길을 고민하겠다”고 희망브리지에 전했다.\n희망브리지는 이재민 구호와 피해 복구에 기부금을 사용할 계획이다.\n한편, 에스더포뮬러는 지금까지 사회공헌에 25억 9천 381만여 원을 쾌척한 것으로 알려졌다.\n재난 구호모금 전문기관인 희망브리지 전국재해구호협회는 1961년 전국의 신문사와 방송사, 사회단체가 힘을 모아 설립한 순수 민간단체이자 국내 자연재해 피해 구호금을 지원할 수 있는 유일한 법정 구호단체다.\n60년 동안 1조 5천억 원의 성금과 6천만 점 넘는 구호물품을 지원했다.\n지난해는 코로나19 극복 성금 1천 8억 원을 모금해 3천 7백만 점 가까운 물품을 방역 취약계층과 의료진, 치료시설 입소자 등에게 전달했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "의사·방송인·기업가로 활동하고 있는 여에스더가 경북 울진·강원 삼척 등 산불피해 극복 기부행렬에 동참했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "희망브리지 전국재해구호협회는 7일 스포츠경향에 여에스더가 대표로 있는 에스더포뮬러가 전날 1억 원을 기부했다고 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여에스더는 “산불로 피해를 보신 분들께 조금이나마 도움이 됐으면 하는 마음에 기부하게 됐다”며 “앞으로도 공동체를 위한 나눔을 실천하며 모두 함께 상생할 수 있는 길을 고민하겠다”고 희망브리지에 전했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "희망브리지는 이재민 구호와 피해 복구에 기부금을 사용할 계획이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 에스더포뮬러는 지금까지 사회공헌에 25억 9천 381만여 원을 쾌척한 것으로 알려졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "재난 구호모금 전문기관인 희망브리지 전국재해구호협회는 1961년 전국의 신문사와 방송사, 사회단체가 힘을 모아 설립한 순수 민간단체이자 국내 자연재해 피해 구호금을 지원할 수 있는 유일한 법정 구호단체다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "60년 동안 1조 5천억 원의 성금과 6천만 점 넘는 구호물품을 지원했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해는 코로나19 극복 성금 1천 8억 원을 모금해 3천 7백만 점 가까운 물품을 방역 취약계층과 의료진, 치료시설 입소자 등에게 전달했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "여에스더, 산불 피해 복구 1억원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

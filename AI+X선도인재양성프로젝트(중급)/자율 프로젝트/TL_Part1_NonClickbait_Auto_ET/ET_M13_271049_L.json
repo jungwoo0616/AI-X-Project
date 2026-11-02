@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271049",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아스트로, 가온차트 앨범 1위",
+		"newsSubTitle": "",
+		"newsContent": "아스트로의 신곡이 1위를 차지했다.\n23일 가온차트에 따르면 아스트로(ASTRO)의 ‘Drive to the Starry Road’가 가온차트 21주차 주간 리테일 앨범차트에서 1위를 차지했다.\n지난 5월 16일 발매된 ‘Drive to the Starry Road’는 21주차 주간차트 집계 기간 중 5월 18일 수요일 오후 6시에 가장 많이 판매됐다.\n아스트로(ASTRO)의 정규 3집 ‘Drive to the Starry Road’는 공식 팬덤인 ‘아로하’와 언제나 함께 한다는 마음을 담은 앨범이다.\n타이틀곡 ‘Candy Sugar Pop’은 밝고 활기찬 느낌과 장난스럽고 유머러스한 무드로 설렘을 전하는 곡이다.\n주간 리테일 앨범차트 2위는 원어스(ONEUS) ‘TRICKSTER’ 3위는 투모로우바이투게더 ‘minisode 2: Thursday‘s Child’가 차지했다.\n한편, 21주차(2022.05.15~2022.05.21) 일간 리테일 앨범차트에서는 ▲투모로우바이투게더 ‘minisode 2: Thursday’s Child‘ (15일) ▲아스트로(ASTRO) ‘Drive to the Starry Road’ (16일) ▲원어스(ONEUS) ‘TRICKSTER’ (17일) ▲아스트로(ASTRO) ‘Drive to the Starry Road’(18일) ▲투모로우바이투게더‘minisode 2: Thursday‘s Child’(19일) ▲AB6IX (에이비식스)‘A to B’(20-21일)가 1위에 랭크됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아스트로의 신곡이 1위를 차지했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 가온차트에 따르면 아스트로(ASTRO)의 ‘Drive to the Starry Road’가 가온차트 21주차 주간 리테일 앨범차트에서 1위를 차지했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 5월 16일 발매된 ‘Drive to the Starry Road’는 21주차 주간차트 집계 기간 중 5월 18일 수요일 오후 6시에 가장 많이 판매됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아스트로(ASTRO)의 정규 3집 ‘Drive to the Starry Road’는 공식 팬덤인 ‘아로하’와 언제나 함께 한다는 마음을 담은 앨범이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘Candy Sugar Pop’은 밝고 활기찬 느낌과 장난스럽고 유머러스한 무드로 설렘을 전하는 곡이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주간 리테일 앨범차트 2위는 원어스(ONEUS) ‘TRICKSTER’ 3위는 투모로우바이투게더 ‘minisode 2: Thursday‘s Child’가 차지했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 21주차(2022.05.15~2022.05.21) 일간 리테일 앨범차트에서는 ▲투모로우바이투게더 ‘minisode 2: Thursday’s Child‘ (15일) ▲아스트로(ASTRO) ‘Drive to the Starry Road’ (16일) ▲원어스(ONEUS) ‘TRICKSTER’ (17일) ▲아스트로(ASTRO) ‘Drive to the Starry Road’(18일) ▲투모로우바이투게더‘minisode 2: Thursday‘s Child’(19일) ▲AB6IX (에이비식스)‘A to B’(20-21일)가 1위에 랭크됐다.",
+				"sentenceSize": 303
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아스트로, 가온차트 앨범 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

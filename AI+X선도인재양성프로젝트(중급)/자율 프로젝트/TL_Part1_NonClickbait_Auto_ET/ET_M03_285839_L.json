@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285839",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "부탁해요 엄마 오민석, 선혜주에게 따뜻한 포옹…로맨스 본격화",
+		"newsSubTitle": "",
+		"newsContent": "'부탁해요 엄마' 오민석이 손여은을 구해냈다.\n지난 17일 방송된 KBS2 주말드라마 '부탁해요 엄마' 19회에서는 이형규(오민석 분)가 선혜주(손여은)를 구해내는 모습이 전파를 탔다.\n이날 방송에서 이형규는 선혜주와 통화를 하던 중 이상한 낌새를 감지했다.\n선혜주는 이형규에게 스토커가 쫓아온다고 밝혔다.\n이에 이형규는 \\\"집에 들어가요. 내가 갈게요\\\"라며 선혜주를 안심시켰고, 선혜주는 이형규의 도움을 받아 무사히 집으로 돌아갔다.\n이후 이형규는 선혜주에게 찾아가 따뜻한 포옹으로 위로했다.\n이형규의 따뜻한 위로에 선혜주는 끝내 눈물을 흘리며 두 사람의 러브라인이 급물살을 탔다.\n온라인 중앙일보 [사진 KBS2 ‘부탁해요 엄마’ 방송화면 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'부탁해요 엄마' 오민석이 손여은을 구해냈다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 17일 방송된 KBS2 주말드라마 '부탁해요 엄마' 19회에서는 이형규(오민석 분)가 선혜주(손여은)를 구해내는 모습이 전파를 탔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 이형규는 선혜주와 통화를 하던 중 이상한 낌새를 감지했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "선혜주는 이형규에게 스토커가 쫓아온다고 밝혔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 이형규는 \\\"집에 들어가요. 내가 갈게요\\\"라며 선혜주를 안심시켰고, 선혜주는 이형규의 도움을 받아 무사히 집으로 돌아갔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 이형규는 선혜주에게 찾아가 따뜻한 포옹으로 위로했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이형규의 따뜻한 위로에 선혜주는 끝내 눈물을 흘리며 두 사람의 러브라인이 급물살을 탔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 [사진 KBS2 ‘부탁해요 엄마’ 방송화면 캡처]",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부탁해요 엄마 오민석, 선혜주에게 따뜻한 포옹…로맨스 본격화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

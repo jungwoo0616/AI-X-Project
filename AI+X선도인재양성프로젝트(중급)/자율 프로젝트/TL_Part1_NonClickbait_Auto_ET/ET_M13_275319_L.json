@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275319",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "강세정, 큐브엔터와 전속계약[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 강세정이 큐브엔터테인먼트와 전속 계약을 체결했다.\n큐브엔터테인먼트는 12일 “배우 강세정 씨가 큐브 엔터테인먼트의 새로운 가족으로 전속계약을 맺게 되었다”며 “강세정 씨의 향후 행보에 많은 관심과 사랑 부탁드린다”고 밝혔다.\n광고 모델로 데뷔한 강세정은 2000년 그룹 파파야로 활동한 뒤 2004년부터 본격적으로 연기를 시작했다.\n그간 드라마 ‘아현동 마님’, ‘보석비빔밥’, ‘정도전’, ‘기막힌 유산’ 등에 출연했으며 탄탄한 연기력과 폭넓은 캐릭터 소화력을 선보였다.\nMBC 주말드라마 ‘보석비빔밥’으로는 2009년 MBC 연기대상에서 여자 우수상을 받은 바 있다.\n한편 강세정이 소속된 큐브 엔터테인먼트는 그룹 비투비, 펜타곤, (여자)아이들, 라잇썸을 비롯해 배우 박선영, 나인우, 코미디언 박미선, 이상준, 이은지 등이 소속된 종합 엔터테인먼트 기업이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강세정이 큐브엔터테인먼트와 전속 계약을 체결했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "큐브엔터테인먼트는 12일 “배우 강세정 씨가 큐브 엔터테인먼트의 새로운 가족으로 전속계약을 맺게 되었다”며 “강세정 씨의 향후 행보에 많은 관심과 사랑 부탁드린다”고 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "광고 모델로 데뷔한 강세정은 2000년 그룹 파파야로 활동한 뒤 2004년부터 본격적으로 연기를 시작했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그간 드라마 ‘아현동 마님’, ‘보석비빔밥’, ‘정도전’, ‘기막힌 유산’ 등에 출연했으며 탄탄한 연기력과 폭넓은 캐릭터 소화력을 선보였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MBC 주말드라마 ‘보석비빔밥’으로는 2009년 MBC 연기대상에서 여자 우수상을 받은 바 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 강세정이 소속된 큐브 엔터테인먼트는 그룹 비투비, 펜타곤, (여자)아이들, 라잇썸을 비롯해 배우 박선영, 나인우, 코미디언 박미선, 이상준, 이은지 등이 소속된 종합 엔터테인먼트 기업이다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강세정, 큐브엔터와 전속계약[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

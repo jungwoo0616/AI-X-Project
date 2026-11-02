@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276671",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "상한 음식 준 식당 주인에 장도연이 한 '의외의' 복수",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 장도연이 자신에게 상한 음식을 준 식당 주인에게 복수를 한 일화를 공개했다.\n장도연은 지난 20일 방송된 MBC '비디오스타'에서 자신의 소심한 성격과 관련한 일화를 전했다.\n장도연은 \\\"예전에 음식점에 갔는데 고구마가 새콤했다. 고구마가 새콤할 리가 없지 않으냐. 그런데 상하지 않았다고 생각하고 먹으니 괜찮았다\\\"고 말했다.\n이에 절친 박나래는 \\\"(장도연이) 전에는 진짜 한마디 해야겠다고 하고, 식당에서 웃으며 나오더라. 뭐라고 했냐고 물으니 영수증을 안 받았다더라\\\"고 전했다.\n장도연은 \\\"나는 너의 호의를 거절한다는 의미였다\\\"라고 영수증을 받지 않은 이유를 설명했다.\n그러면서 과거 이러한 복수에 대해 만족하는 듯한 표정을 지어 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 장도연이 자신에게 상한 음식을 준 식당 주인에게 복수를 한 일화를 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장도연은 지난 20일 방송된 MBC '비디오스타'에서 자신의 소심한 성격과 관련한 일화를 전했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장도연은 \\\"예전에 음식점에 갔는데 고구마가 새콤했다. 고구마가 새콤할 리가 없지 않으냐. 그런데 상하지 않았다고 생각하고 먹으니 괜찮았다\\\"고 말했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 절친 박나래는 \\\"(장도연이) 전에는 진짜 한마디 해야겠다고 하고, 식당에서 웃으며 나오더라. 뭐라고 했냐고 물으니 영수증을 안 받았다더라\\\"고 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장도연은 \\\"나는 너의 호의를 거절한다는 의미였다\\\"라고 영수증을 받지 않은 이유를 설명했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 과거 이러한 복수에 대해 만족하는 듯한 표정을 지어 웃음을 자아냈다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "상한 음식 준 식당 주인에 장도연이 한 '의외의' 복수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

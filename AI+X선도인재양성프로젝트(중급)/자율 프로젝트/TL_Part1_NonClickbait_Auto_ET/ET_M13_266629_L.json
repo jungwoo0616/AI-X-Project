@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266629",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김호중 공식 팬카페 12만명 넘었다",
+		"newsSubTitle": "",
+		"newsContent": "가수 김호중이 여전한 인기를 보여주고 있다.\n12일 소속사 생각엔터테인먼트에 따르면 김호중의 공식 팬카페 ‘트바로티(Tvarotti)’ 회원 수가 최근 12만 명을 돌파했다.\n지난 2020년 TV조선 ‘내일은 미스터트롯’ 이후 수직 상승한 김호중의 인기에 따라 6월 10일 개설된 공식 팬카페 회원 수는 휴식기도 없이 끝없이 증가, 김호중을 향한 대중의 인기를 숫자로 증명했다.\n특히 앞서 오픈한지 3개월도 되지 않아 7만 명을 돌파했던 김호중의 공식 팬카페 회원 수는 김호중의 군 복무기간에도 약 5만 명 증가해 무색한 ‘군백기’를 보여주고 있다.\n이처럼 군백기에도 김호중을 향한 대중의 관심이 뜨거운 가운데, 김호중은 변함없는 팬들의 사랑에 보답하고자 오는 6월 9일 소집해제 후 신곡 ‘나의 목소리로’를 공개할 예정이다.\n신곡 발매 소식으로 팬들의 마음을 설레게 한 김호중은 7월 중 이탈리아에 방문, 팝페라 가수 안드레아 보첼리와 만나 컬래버 곡을 준비하는 것은 물론, 올해 단독 콘서트까지 예고해 그의 하반기 활약에 귀추가 주목된다.\n한편, 뜨거운 인기 질주를 이어가고 있는 김호중은 6월 9일 소집해제를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김호중이 여전한 인기를 보여주고 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 소속사 생각엔터테인먼트에 따르면 김호중의 공식 팬카페 ‘트바로티(Tvarotti)’ 회원 수가 최근 12만 명을 돌파했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 2020년 TV조선 ‘내일은 미스터트롯’ 이후 수직 상승한 김호중의 인기에 따라 6월 10일 개설된 공식 팬카페 회원 수는 휴식기도 없이 끝없이 증가, 김호중을 향한 대중의 인기를 숫자로 증명했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 앞서 오픈한지 3개월도 되지 않아 7만 명을 돌파했던 김호중의 공식 팬카페 회원 수는 김호중의 군 복무기간에도 약 5만 명 증가해 무색한 ‘군백기’를 보여주고 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이처럼 군백기에도 김호중을 향한 대중의 관심이 뜨거운 가운데, 김호중은 변함없는 팬들의 사랑에 보답하고자 오는 6월 9일 소집해제 후 신곡 ‘나의 목소리로’를 공개할 예정이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신곡 발매 소식으로 팬들의 마음을 설레게 한 김호중은 7월 중 이탈리아에 방문, 팝페라 가수 안드레아 보첼리와 만나 컬래버 곡을 준비하는 것은 물론, 올해 단독 콘서트까지 예고해 그의 하반기 활약에 귀추가 주목된다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 뜨거운 인기 질주를 이어가고 있는 김호중은 6월 9일 소집해제를 앞두고 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중 공식 팬카페 12만명 넘었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171171",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "송진우 ‘애로부부’ 이용진 빈자리 채운다[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 송진우가 새로운 MC로 합류한다. ‘애로부부’ 제작진은 “프로그램 첫 시작부터 함께해 온 MC 이용진이 ‘애로부부’에 안녕을 고하고, 새로운 유부남 MC로 송진우가 발탁됐다”고 밝혔다.\n최근 첫 녹화를 마친 송진우의 출연분은 9월 27일 ‘애로부부’ 61회에서 방송된다.\n다양한 드라마와 예능으로 연기력과 입담을 뽐내 온 송진우는 일본인 아내 미나미 씨와의 사이에 사랑스러운 딸을 키우고 있다.\n싱글 MC 최화정 양재진, 유부녀 MC 홍진경 안선영 사이에서 유일한 유부남이자 아빠 MC로 남자들의 입장을 대변하던 이용진의 역할을 이어받아 특유의 ‘사랑꾼’ 면모와 함께 유쾌한 매력을 과시할 예정이다.\n또 송진우는 ‘한일부부’로 한국에서 살아가고 있다는 특이점이 있는 만큼, ‘애로부부’에서도 종종 다뤄진 바 있는 국제 커플 이야기에도 남다른 공감과 함께 몰랐던 이야기를 생생하게 들려줄 것으로 보인다.\n새로운 MC 송진우는 9월 27일 월요일 밤 10시 SKY채널과 채널A에서 방송되는 본격 19금 부부 토크쇼 ‘애로부부’에 처음으로 출격한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송진우가 새로운 MC로 합류한다. ‘애로부부’ 제작진은 “프로그램 첫 시작부터 함께해 온 MC 이용진이 ‘애로부부’에 안녕을 고하고, 새로운 유부남 MC로 송진우가 발탁됐다”고 밝혔다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 첫 녹화를 마친 송진우의 출연분은 9월 27일 ‘애로부부’ 61회에서 방송된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "다양한 드라마와 예능으로 연기력과 입담을 뽐내 온 송진우는 일본인 아내 미나미 씨와의 사이에 사랑스러운 딸을 키우고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "싱글 MC 최화정 양재진, 유부녀 MC 홍진경 안선영 사이에서 유일한 유부남이자 아빠 MC로 남자들의 입장을 대변하던 이용진의 역할을 이어받아 특유의 ‘사랑꾼’ 면모와 함께 유쾌한 매력을 과시할 예정이다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 송진우는 ‘한일부부’로 한국에서 살아가고 있다는 특이점이 있는 만큼, ‘애로부부’에서도 종종 다뤄진 바 있는 국제 커플 이야기에도 남다른 공감과 함께 몰랐던 이야기를 생생하게 들려줄 것으로 보인다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "새로운 MC 송진우는 9월 27일 월요일 밤 10시 SKY채널과 채널A에서 방송되는 본격 19금 부부 토크쇼 ‘애로부부’에 처음으로 출격한다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "`애로부부` 첫 시작부터 함께 해왔던 MC 이용진 하차... 새 MC는 '이 사람",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281409",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'언프리티 랩스타2' 예지, 손가락 욕+ '미친개' 가사…걸그룹 출신?",
+		"newsSubTitle": "",
+		"newsContent": "'언프리티 랩스타2' 예지, 거침없는 손가락 욕…왜? '언프리티 랩스타 시즌2' 예지가 무대 위에서 손가락 욕을 했다.\n지난 25일 방송된 Mnet '언프리티 랩스타2' 3회에서는 최종 탈락 후보로 결정된 애쉬비, 안수민, 예지의 탈락자 결정을 위한 솔로 무대가 펼쳐졌다.\n이날 마지막으로 무대에 나선 예지는 \\\"하고 싶었던 무대를 보여드릴 기회가 진짜 없었다\\\"며 \\\"나 자신에게 부끄럽지 않은 무대를 하고 싶다\\\"고 고백했다.\n비트가 시작되자마자 강렬한 눈빛으로 돌변한 예지는 \\\"I'm a cazy dog\\\", \\\"미친개 맞아\\\" 등 센 가사를 반복해 시선을 집중시켰다.\n이어 예지는 \\\"내앞에서 지껄여봐 못하겠으면 닥치고 그냥 x 먹어\\\"라는 가사와 함께 손가락 욕을 했다.\n모든 무대를 마친 후 예지는 \\\"진짜 후련했다. 내가 하고 싶은 말을 뱉고 잘 전달된 것 같다\\\"고 소감을 말했다.\n누리꾼들은 \\\"언프리티 랩스타 시즌2 예지, 멋지다\\\", \\\"언프리티 랩스타 시즌2 예지, 대박이네\\\", \\\"언프리티 랩스타 시즌2 예지, 멋지다\\\" 등 다양한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'언프리티 랩스타2' 예지, 거침없는 손가락 욕…왜? '언프리티 랩스타 시즌2' 예지가 무대 위에서 손가락 욕을 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 25일 방송된 Mnet '언프리티 랩스타2' 3회에서는 최종 탈락 후보로 결정된 애쉬비, 안수민, 예지의 탈락자 결정을 위한 솔로 무대가 펼쳐졌다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 마지막으로 무대에 나선 예지는 \\\"하고 싶었던 무대를 보여드릴 기회가 진짜 없었다\\\"며 \\\"나 자신에게 부끄럽지 않은 무대를 하고 싶다\\\"고 고백했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비트가 시작되자마자 강렬한 눈빛으로 돌변한 예지는 \\\"I'm a cazy dog\\\", \\\"미친개 맞아\\\" 등 센 가사를 반복해 시선을 집중시켰다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 예지는 \\\"내앞에서 지껄여봐 못하겠으면 닥치고 그냥 x 먹어\\\"라는 가사와 함께 손가락 욕을 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모든 무대를 마친 후 예지는 \\\"진짜 후련했다. 내가 하고 싶은 말을 뱉고 잘 전달된 것 같다\\\"고 소감을 말했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "누리꾼들은 \\\"언프리티 랩스타 시즌2 예지, 멋지다\\\", \\\"언프리티 랩스타 시즌2 예지, 대박이네\\\", \\\"언프리티 랩스타 시즌2 예지, 멋지다\\\" 등 다양한 반응을 보였다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'언프리티 랩스타2' 예지, 손가락 욕+ '미친개' 가사…걸그룹 출신?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

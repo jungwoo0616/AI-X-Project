@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260041",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방심위, 제8회 전국동시지방선거 선거방송심의위원회 출범",
+		"newsSubTitle": "",
+		"newsContent": "방송통신심의위원회가 4일 서울 목동 방송회관에서 제8회 전국동시지방선거 선거방송심의위원회 위원들을 위촉했다고 밝혔다.\n선거방송심의위원회는 공직선거법에 따라 국회 교섭단체 정당, 중앙선거관리위원회, 방송사, 방송학계, 대한변호사협회 등이 추천한 9인으로 구성된다.\n권혁남 전북대 신문방송학과 명예교수가 위원장으로, 박동순 한국YWCA연합회 국장이 부위원장으로 선출됐다.\n김언경 미디어인권연구소 뭉클 소장, 김영훈 대한변호사협회 부회장, 박수택 생태환경 평론가, 심미선 순천향대 미디어커뮤니케이션학과 교수, 유기철 방송문화진흥회 이사, 이동규 경기도선거관리위원회 상임위원, 이동재 김앤장 법률사무소 변호사 등이 위원으로 위촉됐다.\n이날 회의에선 선거방송심의위원회는 ▲ 선거 여론조사 보도기준 준수 ▲ 후보자의 방송 출연제한 ▲ 선거보도의 공정성 및 객관성 유지 등 공정한 선거방송을 위해 준수해야 할 내용을 담은 안내문을 의결했다.\n선거방송심의위원회의 이번 임기는 전국동시지방선거 30일 뒤인 7월 1일까지다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신심의위원회가 4일 서울 목동 방송회관에서 제8회 전국동시지방선거 선거방송심의위원회 위원들을 위촉했다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "선거방송심의위원회는 공직선거법에 따라 국회 교섭단체 정당, 중앙선거관리위원회, 방송사, 방송학계, 대한변호사협회 등이 추천한 9인으로 구성된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권혁남 전북대 신문방송학과 명예교수가 위원장으로, 박동순 한국YWCA연합회 국장이 부위원장으로 선출됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김언경 미디어인권연구소 뭉클 소장, 김영훈 대한변호사협회 부회장, 박수택 생태환경 평론가, 심미선 순천향대 미디어커뮤니케이션학과 교수, 유기철 방송문화진흥회 이사, 이동규 경기도선거관리위원회 상임위원, 이동재 김앤장 법률사무소 변호사 등이 위원으로 위촉됐다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 회의에선 선거방송심의위원회는 ▲ 선거 여론조사 보도기준 준수 ▲ 후보자의 방송 출연제한 ▲ 선거보도의 공정성 및 객관성 유지 등 공정한 선거방송을 위해 준수해야 할 내용을 담은 안내문을 의결했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "선거방송심의위원회의 이번 임기는 전국동시지방선거 30일 뒤인 7월 1일까지다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방심위, 제8회 전국동시지방선거 선거방송심의위원회 출범",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

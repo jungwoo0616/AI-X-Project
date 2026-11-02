@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273563",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘마녀2’ 개봉 5일만에 145만 돌파",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘마녀 파트2: 디 아더 원’(감독 박훈정/ 이하 ‘마녀2’)이 개봉 5일만에 누적관객수 145만명을 돌파했다.\n20일 영화진흥위원회 영화관입장권 통합전산망 집계 결과 ‘마녀2’는 19일 35만9997명이 선택해 박스오피스 1위를 지켰다.\n누적관객수 145만8122명이다. ‘마녀2’는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 ‘소녀’(신시아) 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션 영화다.\n지난 15일 개봉 이후 줄곧 1위를 지키며 팬데믹 이후 처음으로 천만 영화에 등극한 ‘범죄도시2’와 함께 쌍끌이 흥행 행보를 이어가고 있다.\n2위는 ‘범죄도시2’다. 19만7730명이 관람해 누적관객수 1146만331명을 완성했다. ‘버즈 라이트이어’와 ‘브로커’는 나란히 3, 4위에 올랐다.\n각각 6만4724명, 5만5924명이 선택했다. ‘쥬라기 월드: 도미니언’은 3만2957명이 보면서 5위에 이름을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘마녀 파트2: 디 아더 원’(감독 박훈정/ 이하 ‘마녀2’)이 개봉 5일만에 누적관객수 145만명을 돌파했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 영화진흥위원회 영화관입장권 통합전산망 집계 결과 ‘마녀2’는 19일 35만9997명이 선택해 박스오피스 1위를 지켰다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누적관객수 145만8122명이다. ‘마녀2’는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 ‘소녀’(신시아) 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션 영화다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 15일 개봉 이후 줄곧 1위를 지키며 팬데믹 이후 처음으로 천만 영화에 등극한 ‘범죄도시2’와 함께 쌍끌이 흥행 행보를 이어가고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2위는 ‘범죄도시2’다. 19만7730명이 관람해 누적관객수 1146만331명을 완성했다. ‘버즈 라이트이어’와 ‘브로커’는 나란히 3, 4위에 올랐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각각 6만4724명, 5만5924명이 선택했다. ‘쥬라기 월드: 도미니언’은 3만2957명이 보면서 5위에 이름을 올렸다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘마녀2’ 개봉 5일만에 145만 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

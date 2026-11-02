@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258886",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "타블로, 10년의 흔적 찾나 “애플에 있는 친구가 도와주는 중”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에픽하이 타블로 10년 동안 쓴 가사가 지워졌다고 전한 가운데, 복구 근황을 전했다.\n타블로는 지난 20일 자신의 트워터에 “애플에 있는 친구가 도와주고 있다”며 삭제된 메모를 복구할 방법을 찾고 있다고 밝혔다.\n이어 “그리고 95% 下”라며 정규 10집 두 번째 앨범 ‘Epik High Is Here 下’ 작업이 순조롭게 진행되고 있음을 알렸다.\n앞서 타블로는 지난 17일 “iOS가 자동 업데이트됐고 노트 어플에서 모든 메모와 함께 지난 10년 동안 쓴 가사들이 지워졌다”고 밝혀 팬들의 걱정을 샀다.\niOS는 애플 사가 생산하는 기기에 탑재되는 독자 운영체제로 일부 사용자들 사이에서 초기화 오류가 지적돼왔다.\n청천벽력 같은 소식에 일부 팬들은 복구할 방법에 대해 조언하며 타블로를 도우려 했다.\n이에 타블로는 18일 “제가 지금 어디 촬영 와있어서 확인 못하는데 집에 가면 방법을 찾아보겠다. 걱정 마시라”며 “기억에 남을만한 가사는 기억날 것”이라고 의연하게 대처했다.\n한편, 타블로가 속한 에픽하이는 한국 가수 최초로 미국 최대 음악 축제 ‘코첼라’에 세 번째로 초청됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에픽하이 타블로 10년 동안 쓴 가사가 지워졌다고 전한 가운데, 복구 근황을 전했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "타블로는 지난 20일 자신의 트워터에 “애플에 있는 친구가 도와주고 있다”며 삭제된 메모를 복구할 방법을 찾고 있다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “그리고 95% 下”라며 정규 10집 두 번째 앨범 ‘Epik High Is Here 下’ 작업이 순조롭게 진행되고 있음을 알렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 타블로는 지난 17일 “iOS가 자동 업데이트됐고 노트 어플에서 모든 메모와 함께 지난 10년 동안 쓴 가사들이 지워졌다”고 밝혀 팬들의 걱정을 샀다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "iOS는 애플 사가 생산하는 기기에 탑재되는 독자 운영체제로 일부 사용자들 사이에서 초기화 오류가 지적돼왔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "청천벽력 같은 소식에 일부 팬들은 복구할 방법에 대해 조언하며 타블로를 도우려 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 타블로는 18일 “제가 지금 어디 촬영 와있어서 확인 못하는데 집에 가면 방법을 찾아보겠다. 걱정 마시라”며 “기억에 남을만한 가사는 기억날 것”이라고 의연하게 대처했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 타블로가 속한 에픽하이는 한국 가수 최초로 미국 최대 음악 축제 ‘코첼라’에 세 번째로 초청됐다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "타블로, 10년의 흔적 찾나 “애플에 있는 친구가 도와주는 중”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

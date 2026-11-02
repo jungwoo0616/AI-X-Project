@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266202",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘미스트롯2’ 홍지윤, 19일 컴백[공식]",
+		"newsSubTitle": "",
+		"newsContent": "‘미스트롯2’ 홍지윤이 드디어 컴백 소식을 전하며 폭발적인 반응을 얻고 있다.\n소속사 린브랜딩은 7일 공식 SNS 채널 등을 통해 홍지윤의 신곡 발매를 예고하는 커밍순 이미지를 공개했다.\n공개된 이미지에는 강렬하고 아름다운 레드 컬러의 오프 숄더 드레스를 입고 있는 마네킹의 모습이 담겨 있으며, 눈부시게 화려한 목걸이와 여왕봉 등 블링블링한 액세서리로 장식돼 있어 더욱 눈길을 끌었다.\n홍지윤이 ‘미스트롯2’에서 인형 같은 비주얼로 ‘트롯 바비’라는 애칭을 얻은 만큼, 이번 커밍순 이미지 속의 화려하고 강렬한 콘셉트와 만났을 때 어떤 비주얼을 완성할지 궁금증이 증폭되고 있다.\n홍지윤은 최근 TV조선 ‘화요일은 밤이 좋아’를 통해 ‘4월 컴백’ 스포일러를 직접 밝히며 화제를 모았다.\n이는‘미스트롯2’ 선으로 최종 선발된 이후 약 1년만의 새로운 음악이라는 점에서 더욱 이목이 집중된다.\n한편 홍지윤의 신곡은 오는 19일 오후 6시 전 온라인 음원사이트 등을 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘미스트롯2’ 홍지윤이 드디어 컴백 소식을 전하며 폭발적인 반응을 얻고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 린브랜딩은 7일 공식 SNS 채널 등을 통해 홍지윤의 신곡 발매를 예고하는 커밍순 이미지를 공개했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 이미지에는 강렬하고 아름다운 레드 컬러의 오프 숄더 드레스를 입고 있는 마네킹의 모습이 담겨 있으며, 눈부시게 화려한 목걸이와 여왕봉 등 블링블링한 액세서리로 장식돼 있어 더욱 눈길을 끌었다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍지윤이 ‘미스트롯2’에서 인형 같은 비주얼로 ‘트롯 바비’라는 애칭을 얻은 만큼, 이번 커밍순 이미지 속의 화려하고 강렬한 콘셉트와 만났을 때 어떤 비주얼을 완성할지 궁금증이 증폭되고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍지윤은 최근 TV조선 ‘화요일은 밤이 좋아’를 통해 ‘4월 컴백’ 스포일러를 직접 밝히며 화제를 모았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는‘미스트롯2’ 선으로 최종 선발된 이후 약 1년만의 새로운 음악이라는 점에서 더욱 이목이 집중된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 홍지윤의 신곡은 오는 19일 오후 6시 전 온라인 음원사이트 등을 통해 발매된다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘미스트롯2’ 홍지윤, 19일 컴백[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

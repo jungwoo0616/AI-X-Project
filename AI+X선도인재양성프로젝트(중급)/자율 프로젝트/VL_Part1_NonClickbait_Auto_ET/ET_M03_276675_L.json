@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276675",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "올빼미를 노란 손수건으로 꽁꽁 싸맨 이유",
+		"newsSubTitle": "",
+		"newsContent": "노란 손수건에 쌓인 올빼미는 얌전히 체중계 위에 올랐다.\n최근 온라인 커뮤니티에 올빼미의 사진이 올라와 네티즌들의 주목을 받았다.\n사진 속 꼬마 올빼미는 고개만 빼꼼히 내민 채 노란 손수건에 폭 쌓여 있었다.\n특히 한 손에 쏙 들어올 정도로 조그마한 꼬마 올빼미의 체중은 100g이 채 못되어 귀여움을 더했다.\n올빼미의 날갯짓 때문에 체중을 올바르게 재지 못할 우려가 있자 수의사가 몸을 마치 갓난아기를 포대에 싸듯 꽁꽁 싸맨 것이다.\n마치 만화 속 캐릭터 같은 올빼미의 모습에 네티즌은 환호했다.\n네티즌은 \\\"아 이게 뭐야 귀여워ㅋㅋㅋ\\\" \\\"어머♡\\\" \\\"새의 모습도 이렇게 귀여울 수 있군요\\\" 등 댓글을 달며 뜨거운 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "노란 손수건에 쌓인 올빼미는 얌전히 체중계 위에 올랐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 올빼미의 사진이 올라와 네티즌들의 주목을 받았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 꼬마 올빼미는 고개만 빼꼼히 내민 채 노란 손수건에 폭 쌓여 있었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 한 손에 쏙 들어올 정도로 조그마한 꼬마 올빼미의 체중은 100g이 채 못되어 귀여움을 더했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올빼미의 날갯짓 때문에 체중을 올바르게 재지 못할 우려가 있자 수의사가 몸을 마치 갓난아기를 포대에 싸듯 꽁꽁 싸맨 것이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마치 만화 속 캐릭터 같은 올빼미의 모습에 네티즌은 환호했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네티즌은 \\\"아 이게 뭐야 귀여워ㅋㅋㅋ\\\" \\\"어머♡\\\" \\\"새의 모습도 이렇게 귀여울 수 있군요\\\" 등 댓글을 달며 뜨거운 반응을 보였다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올빼미를 노란 손수건으로 꽁꽁 싸맨 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

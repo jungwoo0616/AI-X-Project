@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285524",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'라디오 스타' 신아영 \\\"하버드 나와서 아나운서 한 이유는…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘라디오스타’ 신아영이 하버드대학교 도서관의 모습을 소개했다.\n21일 MBC ‘라디오스타’에는 ‘뇌섹남녀! 그 뇌는 예뻤다’ 특집으로 로이킴과 신아영, 조승연 작가, 김소정이 출연했다.\n이날 방송에서 MC들은 신아영에게 “왜 좋은 학교를 나와서 전공과 관련 없는 일을 하냐”고 물었다.\n이에 신아영은 “스포츠를 정말 좋아한다. 리버풀 팬이라 스포츠 아나운서가 됐다”고 말했다.\n또 신아영은 하버드대로부터 먼저 러브콜을 받았다고 밝혔다.\n그는 “SAT 시험 데이터가 축적돼 있는 것을 보고 여러 학교에서 메시지가 온다. 나도 처음엔 거짓말인 줄 알았는데 정말 하버드대였다. 그래서 꼭 가고 싶었다”고 말했다.\n역사학과를 전공한 이유에 대해서는 “졸업할 때까지 전공을 바꿀 수가 있다. 그런데 수업에 너무 멋진 교수님이 있었다”고 밝혔다.\n이어 신아영은 “하버드의 새벽 4시는 불이 꺼지지 않는다고 하는데 다 가기서 잔다”며 “벼락치기 스타일이 일단 도서관을 가는 것이다. 편한 트레이닝복에 편하게 모자를 눌러 쓰고 커피와 담요를 들고 짐을 싸서 간다”고 설명했다.\n신아영은 “벼락치기 하는 친구들과 만나서 밥을 먹고 공부하다가 웃긴 동영상 하나 보고 4시쯤 되면 편한 소파에서 잔다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘라디오스타’ 신아영이 하버드대학교 도서관의 모습을 소개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 MBC ‘라디오스타’에는 ‘뇌섹남녀! 그 뇌는 예뻤다’ 특집으로 로이킴과 신아영, 조승연 작가, 김소정이 출연했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 MC들은 신아영에게 “왜 좋은 학교를 나와서 전공과 관련 없는 일을 하냐”고 물었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 신아영은 “스포츠를 정말 좋아한다. 리버풀 팬이라 스포츠 아나운서가 됐다”고 말했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 신아영은 하버드대로부터 먼저 러브콜을 받았다고 밝혔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “SAT 시험 데이터가 축적돼 있는 것을 보고 여러 학교에서 메시지가 온다. 나도 처음엔 거짓말인 줄 알았는데 정말 하버드대였다. 그래서 꼭 가고 싶었다”고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "역사학과를 전공한 이유에 대해서는 “졸업할 때까지 전공을 바꿀 수가 있다. 그런데 수업에 너무 멋진 교수님이 있었다”고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 신아영은 “하버드의 새벽 4시는 불이 꺼지지 않는다고 하는데 다 가기서 잔다”며 “벼락치기 스타일이 일단 도서관을 가는 것이다. 편한 트레이닝복에 편하게 모자를 눌러 쓰고 커피와 담요를 들고 짐을 싸서 간다”고 설명했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신아영은 “벼락치기 하는 친구들과 만나서 밥을 먹고 공부하다가 웃긴 동영상 하나 보고 4시쯤 되면 편한 소파에서 잔다”고 덧붙였다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'라디오 스타' 신아영 \\\"하버드 나와서 아나운서 한 이유는…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277393",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "핸드폰 떨어트린 팬을 본 조인성과 정우성의 반응",
+		"newsSubTitle": "",
+		"newsContent": "배우 조인성과 정우성의 특급 팬 서비스가 감동을 주고 있다.\n30일 한 네티즌은 자신의 트위터에 \\\"아직도 손이 덜덜 떨린다\\\"며 영상을 게재했다.\n그는 \\\"한 손으로 카메라 들고 한 손으로 친구 핸드폰 들고 사진 찍다가 핸드폰 떨어트렸는데 조인성이 주워주고 정우성이 셀카를 찍어줬다\\\"며 \\\"올해 운 몰빵한 것 같다\\\"고 했다.\n공개한 영상에서 조인성은 팬이 핸드폰을 떨어트리자 자신의 주머니에 넣는 장난을 쳤다.\n이후 다시 주인에게 이를 돌려주려고 하자 정우성은 손을 내밀고 핸드폰을 받아 셀카를 조인성과 함께 찍었다.\n이를 본 팬들은 \\\"보는 나도 심장이 떨린다\\\" \\\"부럽다\\\" 등의 반응을 보였다.\n한편 조인성과 정우성이 출연하는 영화 '더 킹'은 31일 영화진흥위원회 영화관입장권 통합전산망에 따르면 누적 관객 수 426만5천681명을 기록하며 흥행을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 조인성과 정우성의 특급 팬 서비스가 감동을 주고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 한 네티즌은 자신의 트위터에 \\\"아직도 손이 덜덜 떨린다\\\"며 영상을 게재했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"한 손으로 카메라 들고 한 손으로 친구 핸드폰 들고 사진 찍다가 핸드폰 떨어트렸는데 조인성이 주워주고 정우성이 셀카를 찍어줬다\\\"며 \\\"올해 운 몰빵한 것 같다\\\"고 했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개한 영상에서 조인성은 팬이 핸드폰을 떨어트리자 자신의 주머니에 넣는 장난을 쳤다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 다시 주인에게 이를 돌려주려고 하자 정우성은 손을 내밀고 핸드폰을 받아 셀카를 조인성과 함께 찍었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 팬들은 \\\"보는 나도 심장이 떨린다\\\" \\\"부럽다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 조인성과 정우성이 출연하는 영화 '더 킹'은 31일 영화진흥위원회 영화관입장권 통합전산망에 따르면 누적 관객 수 426만5천681명을 기록하며 흥행을 이어가고 있다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "핸드폰 떨어트린 팬을 본 조인성과 정우성의 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

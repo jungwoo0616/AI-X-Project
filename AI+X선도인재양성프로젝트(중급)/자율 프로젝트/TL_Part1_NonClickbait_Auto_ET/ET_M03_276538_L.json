@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276538",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "정용화 \\\"주식 사건, 어머니께 죄송했다\\\" 심경 고백",
+		"newsSubTitle": "",
+		"newsContent": "씨엔블루 정용화가 지난해 불거졌던 주식 사건 심경을 뒤늦게 밝혔다.\n20일 방송된 케이블채널 tvN '인생술집'에 출연한 정용화는 사건에 연루됐을 당시 \\\"별의 별 생각이 다 들었다\\\"며 \\\"이런 일을 겪어본 적 없었다\\\"고 털어놨다.\n정용화는 지난해 유명 연예인 영입 관련 미공개정보를 이용해 FNC엔터테인먼트 주식을 취득한 혐의로 검찰 조사를 받았으나 혐의없음 처분을 받은 바 있다.\n정용화는 당시 \\\"주변 분들에게 죄송하고 어머님한테도 죄송했다\\\"고 고백했다.\n정용화는 \\\"사건, 사고를 피하려고 집에만 있었다\\\"며 \\\"연루되는 것조차 싫었고, 제 일만 몰두하려고 했다. 그래서 친구도 많이 없다\\\"고 말했다.\n그러면서 \\\"뜻하지 않은 일들이 생기면서 주변 사람들이나 팬들, 나를 믿어주는 사람들에게 미안하고 감사하라는 뜻이겠구나 싶었다\\\"며 \\\"이 일을 통해서 지금까지 활동하며 잊었던 것들, 괜히 짜증내고, 스케줄에 감사할 줄 몰랐던 적도 있었기 때문에 진짜로 감사하게 됐다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "씨엔블루 정용화가 지난해 불거졌던 주식 사건 심경을 뒤늦게 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 방송된 케이블채널 tvN '인생술집'에 출연한 정용화는 사건에 연루됐을 당시 \\\"별의 별 생각이 다 들었다\\\"며 \\\"이런 일을 겪어본 적 없었다\\\"고 털어놨다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정용화는 지난해 유명 연예인 영입 관련 미공개정보를 이용해 FNC엔터테인먼트 주식을 취득한 혐의로 검찰 조사를 받았으나 혐의없음 처분을 받은 바 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정용화는 당시 \\\"주변 분들에게 죄송하고 어머님한테도 죄송했다\\\"고 고백했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정용화는 \\\"사건, 사고를 피하려고 집에만 있었다\\\"며 \\\"연루되는 것조차 싫었고, 제 일만 몰두하려고 했다. 그래서 친구도 많이 없다\\\"고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 \\\"뜻하지 않은 일들이 생기면서 주변 사람들이나 팬들, 나를 믿어주는 사람들에게 미안하고 감사하라는 뜻이겠구나 싶었다\\\"며 \\\"이 일을 통해서 지금까지 활동하며 잊었던 것들, 괜히 짜증내고, 스케줄에 감사할 줄 몰랐던 적도 있었기 때문에 진짜로 감사하게 됐다\\\"고 전했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정용화 \\\"주식 사건, 어머니께 죄송했다\\\" 심경 고백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

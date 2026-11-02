@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278386",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'임요환 웨딩화보' 김가연, \\\"일주일 용돈으로 1000만원을…운전 기사도 있었다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "김가연과 임요환의 웨딩화보가 화제인 가운데, 과거 김가연이 방송에 출연했을 당시 '김가연 재벌설'에 대해 해명했던 것도 눈길을 끈다.\n김가연은 과거 tvN '현장토크쇼 택시'에 남편 임요환과 함께 출연했다.\n당시 김가연이 300억 재벌이라는 루머가 돌자 김가연은 루머에 대해 \\\"재벌은 아니고 전라도 광주의 지역 유지 정도였다\\\"며 \\\"나도 궁금해서 아버지께 재산이 얼마나 되는거냐고 물어본 적 있다\\\" 고 회상했다.\n이어서 김가연은 \\\"그 질문에 아버지도 '자고 일어나면 이자가 달라져 잘 모르겠다'고 하셨다. 아버지는 건설업을 하셨는데, 학교를 데려다 주는 기사 아저씨도 있었다\\\"고 말했다.\n이후 김가연은 \\\"촬영 때문에 일주일간 LA를 간다고 말씀드렸더니 아버지가 용돈으로 1000만 원을 주시더라. 아버지도 해외를 가보신 적이 없으니 감이 없으셔서 그렇게 많이 주셨던 것 같다\\\"고 언급했다.\n온라인 중앙일보 [사진 tvN '현장토크쇼 택시' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김가연과 임요환의 웨딩화보가 화제인 가운데, 과거 김가연이 방송에 출연했을 당시 '김가연 재벌설'에 대해 해명했던 것도 눈길을 끈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김가연은 과거 tvN '현장토크쇼 택시'에 남편 임요환과 함께 출연했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 김가연이 300억 재벌이라는 루머가 돌자 김가연은 루머에 대해 \\\"재벌은 아니고 전라도 광주의 지역 유지 정도였다\\\"며 \\\"나도 궁금해서 아버지께 재산이 얼마나 되는거냐고 물어본 적 있다\\\" 고 회상했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어서 김가연은 \\\"그 질문에 아버지도 '자고 일어나면 이자가 달라져 잘 모르겠다'고 하셨다. 아버지는 건설업을 하셨는데, 학교를 데려다 주는 기사 아저씨도 있었다\\\"고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 김가연은 \\\"촬영 때문에 일주일간 LA를 간다고 말씀드렸더니 아버지가 용돈으로 1000만 원을 주시더라. 아버지도 해외를 가보신 적이 없으니 감이 없으셔서 그렇게 많이 주셨던 것 같다\\\"고 언급했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 tvN '현장토크쇼 택시' 캡처]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'임요환 웨딩화보' 김가연, \\\"일주일 용돈으로 1000만원을…운전 기사도 있었다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

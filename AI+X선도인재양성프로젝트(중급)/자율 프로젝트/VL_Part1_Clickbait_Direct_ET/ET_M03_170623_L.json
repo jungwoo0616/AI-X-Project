@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170623",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'힐링캠프' 주원, \\\"연애 경험 2번이다\\\"…누구랑?",
+    "newsSubTitle": "",
+    "newsContent": "'힐링캠프' 주원, 김태희가 \\\"연애 몇 번 해봤니?\\\" 질문 SBS 힐링캠프에 출연한 주원이 자신의 연애사를 고백해 화제다.\n주원은 지난 12일 방송된 SBS (힐링캠프)에 출연해 500인 청중과 대화를 나눴다.\n이날 방송에서 김태희는 주원에게 “연애를 몇 번 해봤냐”고 질문했다.\n이에 주원은 “연애 지금까지 두 번 해봤다. 장기간으로 연애하는 스타일”이라고 밝혔다.\n주원은 “데뷔하고 나서도 누군가 좋아져서 뭔가 해볼까 하는 순간에 작품에 들어간 적이 많았다”며 “나도 연애하고 싶다. 그러나 단시간에 많은 작품을 하다 보니까 마음을 많이 접었다”고 아쉬움을 드러냈다.\n이에 네티즌들은 \\\"나이가 몇인데 2번?\\\", \\\"장기간 연애 스타일 좋네\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'힐링캠프' 주원, 김태희가 \\\"연애 몇 번 해봤니?\\\" 질문 SBS 힐링캠프에 출연한 주원이 자신의 연애사를 고백해 화제다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주원은 지난 12일 방송된 SBS (힐링캠프)에 출연해 500인 청중과 대화를 나눴다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 김태희는 주원에게 “연애를 몇 번 해봤냐”고 질문했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 주원은 “연애 지금까지 두 번 해봤다. 장기간으로 연애하는 스타일”이라고 밝혔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주원은 “데뷔하고 나서도 누군가 좋아져서 뭔가 해볼까 하는 순간에 작품에 들어간 적이 많았다”며 “나도 연애하고 싶다. 그러나 단시간에 많은 작품을 하다 보니까 마음을 많이 접었다”고 아쉬움을 드러냈다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 네티즌들은 \\\"나이가 몇인데 2번?\\\", \\\"장기간 연애 스타일 좋네\\\" 등의 반응을 보였다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'힐링캠프' 주원, 화끈했던 연애 경험 공개했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

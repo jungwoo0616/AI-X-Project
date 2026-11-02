@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261972",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "허니제이, ‘사장님 귀는 당나귀 귀’ 출연 확정[공식]",
+		"newsSubTitle": "",
+		"newsContent": "걸스힙합 레전드 댄서 허니제이는 어떤 보스일까.\nKBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에 안무가 허니제이가 새로운 보스로 합류한다.\n허니제이는 Mnet 댄스 서바이벌 프로그램 ‘스트릿 우먼 파이터’(이하 스우파)에서 자신의 팀인 홀리뱅 크루를 최종 우승까지 이끈 리더이자 한국 ‘걸스힙합’의 레전드라 불린다.\n특히 그는 스우파에서 치열한 경쟁 속에서도 팀원과 경쟁 상대를 존중하는 진정한 리더의 모습을 보여줘 대중들의 사랑을 한 몸에 받았다.\n이처럼 무대 위에서 엄청난 카리스마를 발산한 허니제이가 실제 일터에서는 어떤 모습을 보여줄 것인지 팬들의 궁금증이 모인다.\n새로운 보스 허니제이의 등장이 예고된 KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’는 즐거운 일터를 만들기 위한 대한민국 보스들의 자아성찰 프로그램이다.\n매주 일요일 오후 5시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸스힙합 레전드 댄서 허니제이는 어떤 보스일까.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에 안무가 허니제이가 새로운 보스로 합류한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "허니제이는 Mnet 댄스 서바이벌 프로그램 ‘스트릿 우먼 파이터’(이하 스우파)에서 자신의 팀인 홀리뱅 크루를 최종 우승까지 이끈 리더이자 한국 ‘걸스힙합’의 레전드라 불린다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 그는 스우파에서 치열한 경쟁 속에서도 팀원과 경쟁 상대를 존중하는 진정한 리더의 모습을 보여줘 대중들의 사랑을 한 몸에 받았다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이처럼 무대 위에서 엄청난 카리스마를 발산한 허니제이가 실제 일터에서는 어떤 모습을 보여줄 것인지 팬들의 궁금증이 모인다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "새로운 보스 허니제이의 등장이 예고된 KBS2 예능프로그램 ‘사장님 귀는 당나귀 귀’는 즐거운 일터를 만들기 위한 대한민국 보스들의 자아성찰 프로그램이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "매주 일요일 오후 5시에 방송된다.",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허니제이, ‘사장님 귀는 당나귀 귀’ 출연 확정[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

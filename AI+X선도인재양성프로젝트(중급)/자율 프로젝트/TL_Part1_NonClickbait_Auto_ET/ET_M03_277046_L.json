@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277046",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M] 이스라엘 '스머프' 포스터에는 여자 스머프가 없다?",
+		"newsSubTitle": "",
+		"newsContent": "애니메이션 영화 '스머프: 비밀의 숲'(이하 '스머프', 4월 28일 개봉, 켈리 애스버리 감독)이 개봉을 앞두고 있다.\n그런데 이스라엘 한 도시에 걸린 '스머프' 포스터에는 여성 캐릭터인 스머페트가 없다.\n지난 일요일, 이스라엘의 종교적인 도시 '브네이 브락'에는 여성 스머프 스머페트가 실종된 대형 포스터가 걸렸다.\n스머페트는 '스머프'의 핵심 인물로, 오리지널 포스터에서는 다른 스머프들과 함께 등장한다.\n이스라엘 포스터가 이렇게 달라진 이유는 유대교의 엄격한 전통 때문인 것으로 보인다.\n극단적인 유대교에서는 남자가 여성의 이미지를 보는 것이 금기시된다.\n신문, 광고, 카탈로그에서도 여성에 대한 이미지는 잘려나간다.\n미국 대통령 선거 기간에, 이스라엘의 종교적인 뉴스 사이트는 힐러리 클린턴 사진이 없이 선거에 대한 보도를 하기도 했다. '헝거게임: 더 파이널'(2015, 프란시스 로렌스) 포스터에서는 주인공인 여자 배우 제니퍼 로렌스가 사라지고 왕관이 대신 그 자리를 매웠다.\n모든 이스라엘 언론사가 이와 같은 방침을 취하지는 않지만, 일부 정통 유대교 도시에서는 엄격한 검열이 적용된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애니메이션 영화 '스머프: 비밀의 숲'(이하 '스머프', 4월 28일 개봉, 켈리 애스버리 감독)이 개봉을 앞두고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그런데 이스라엘 한 도시에 걸린 '스머프' 포스터에는 여성 캐릭터인 스머페트가 없다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 일요일, 이스라엘의 종교적인 도시 '브네이 브락'에는 여성 스머프 스머페트가 실종된 대형 포스터가 걸렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스머페트는 '스머프'의 핵심 인물로, 오리지널 포스터에서는 다른 스머프들과 함께 등장한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이스라엘 포스터가 이렇게 달라진 이유는 유대교의 엄격한 전통 때문인 것으로 보인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "극단적인 유대교에서는 남자가 여성의 이미지를 보는 것이 금기시된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신문, 광고, 카탈로그에서도 여성에 대한 이미지는 잘려나간다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "미국 대통령 선거 기간에, 이스라엘의 종교적인 뉴스 사이트는 힐러리 클린턴 사진이 없이 선거에 대한 보도를 하기도 했다. '헝거게임: 더 파이널'(2015, 프란시스 로렌스) 포스터에서는 주인공인 여자 배우 제니퍼 로렌스가 사라지고 왕관이 대신 그 자리를 매웠다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "모든 이스라엘 언론사가 이와 같은 방침을 취하지는 않지만, 일부 정통 유대교 도시에서는 엄격한 검열이 적용된다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] 이스라엘 '스머프' 포스터에는 여자 스머프가 없다?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

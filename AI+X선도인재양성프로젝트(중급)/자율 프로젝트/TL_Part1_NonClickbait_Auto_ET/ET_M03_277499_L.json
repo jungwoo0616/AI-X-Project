@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277499",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "방탄소년단 멤버 따라하는 일본 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 정국의 패션스타일, 머리 스타일 심지어 취미까지 따라한다는 의혹을 받는 일본 아이돌이 있다.\n최근 온라인 커뮤니티에서는 \\\"이 사진 정국이 맞나요\\\" \\\"정국 따라하는 일본 아이돌\\\"과 같은 글이 확산되고 있다.\n사연의 주인공은 일본 아이돌 IVVY의 멤버 히로토(HIROTO). 네티즌들은 히로토가 정국의 패션 스타일과 헤어스타일을 따라한다고 주장하고 있다.\n네티즌들은 히로토와 정국의 사진을 비교하며 주장을 뒷받침했다.\n사진 속 히로토는 정국과 비슷한 스타일의 옷을 입고 있다.\n네티즌들이 히로토가 정국을 따라한다고 주장하는 이유는 단지 히로토의 스타일 때문만은 아니다.\n앞서 한 방송에 출연한 정국은 취미로 핸드폰 게임을 하는 모습이 포착됐다.\n얼마 뒤 히로토는 자신의 트위터에 동일한 게임 사진을 올렸다.\n하지만 일부 네티즌들은 \\\"정국이 누군데\\\" \\\"별로 안 똑같은데\\\" \\\"얼굴이 그저 비슷할 뿐\\\"과 같은 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 정국의 패션스타일, 머리 스타일 심지어 취미까지 따라한다는 의혹을 받는 일본 아이돌이 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에서는 \\\"이 사진 정국이 맞나요\\\" \\\"정국 따라하는 일본 아이돌\\\"과 같은 글이 확산되고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사연의 주인공은 일본 아이돌 IVVY의 멤버 히로토(HIROTO). 네티즌들은 히로토가 정국의 패션 스타일과 헤어스타일을 따라한다고 주장하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네티즌들은 히로토와 정국의 사진을 비교하며 주장을 뒷받침했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 히로토는 정국과 비슷한 스타일의 옷을 입고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들이 히로토가 정국을 따라한다고 주장하는 이유는 단지 히로토의 스타일 때문만은 아니다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 한 방송에 출연한 정국은 취미로 핸드폰 게임을 하는 모습이 포착됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "얼마 뒤 히로토는 자신의 트위터에 동일한 게임 사진을 올렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 일부 네티즌들은 \\\"정국이 누군데\\\" \\\"별로 안 똑같은데\\\" \\\"얼굴이 그저 비슷할 뿐\\\"과 같은 반응을 보였다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 멤버 따라하는 일본 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

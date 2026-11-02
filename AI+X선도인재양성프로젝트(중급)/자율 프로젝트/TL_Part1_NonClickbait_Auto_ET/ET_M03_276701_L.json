@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276701",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'로드뷰' 기사 졸졸 따라다니는 강아지의 정체",
+		"newsSubTitle": "",
+		"newsContent": "최근 온라인상에서 로드뷰 촬영기사를 따라다니는 강아지가 네티즌들의 눈길을 끌고 있다.\n해당 사진은 포털사이트 다음에서 제공하는 로드 뷰의 장면이다.\n지난 2010년 7월에 찍힌 로드뷰 속에서 이 강아지는 계속해서 촬영기사를 쫓아다닌다.\n섬의 바깥쪽을 크게 한 바퀴 도는 중에 마루는 촬영기사를 앞서가기도 하고 뒤따르기도 하며 마치 섬 구석구석을 안내하는 듯한 모습을 보인다.\n한편이 골든래트리버의 이름은 '마루'로 알려졌다.\n죽도를 배경으로 했던 KBS '인간극장'에도 등장한 바 있는 마루는 섬에 온 사람들을 졸졸 따라다니는 모습을 보여 사람들의 귀여움을 한몸에 받기도 했다.\n이를 본 네티즌들은 \\\"강아지랑 산책하고 있는 느낌이다\\\" \\\"진짜 충격적으로 귀엽다\\\" \\\"사진만 봐도 힐링 되는 기분이다\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 온라인상에서 로드뷰 촬영기사를 따라다니는 강아지가 네티즌들의 눈길을 끌고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해당 사진은 포털사이트 다음에서 제공하는 로드 뷰의 장면이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 2010년 7월에 찍힌 로드뷰 속에서 이 강아지는 계속해서 촬영기사를 쫓아다닌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "섬의 바깥쪽을 크게 한 바퀴 도는 중에 마루는 촬영기사를 앞서가기도 하고 뒤따르기도 하며 마치 섬 구석구석을 안내하는 듯한 모습을 보인다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편이 골든래트리버의 이름은 '마루'로 알려졌다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "죽도를 배경으로 했던 KBS '인간극장'에도 등장한 바 있는 마루는 섬에 온 사람들을 졸졸 따라다니는 모습을 보여 사람들의 귀여움을 한몸에 받기도 했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌들은 \\\"강아지랑 산책하고 있는 느낌이다\\\" \\\"진짜 충격적으로 귀엽다\\\" \\\"사진만 봐도 힐링 되는 기분이다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'로드뷰' 기사 졸졸 따라다니는 강아지의 정체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

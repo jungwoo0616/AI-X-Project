@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171453",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "거미, 오늘(20일) 신곡 ‘그래도 사랑이었잖아’ 발표",
+    "newsSubTitle": "",
+    "newsContent": "가수 거미가 싱글 ‘그래도 사랑이었잖아’를 발매한다.\n소속사 씨제스엔터테인먼트는 20일 거미가 이날 오후 6시 싱글 ‘그래도 사랑이었잖아’를 각종 음원사이트를 통해 공개한다고 밝혔다.\n신곡은 제작사 니즈뮤직 엔터테인먼트에서 진행하는 뮤지션 맞춤형 음악 제작 프로젝트 ‘감정 공유’의 첫 번째 싱글이다. ‘감정공유’는 음악팬들이 기대하는 뮤지션 고유의 감정을 담은 맞춤형 음악 제작 프로젝트다.\n제작사 측은 “뮤지션 고유의 감정을 대중들에게 전달하고 교감하는 게 목표”라고 설명했다.\n발라드 곡 ‘그래도 사랑이었잖아’는 누구나 경험했을 이별 후 미련과 추억에 대한 곡이다.\n김준수의 ‘너를 쓴다’, 이소정 ‘너와 나는 이제 남이니까’ 등을 제작한 프로듀싱팀 빅가이로빈이 참여했다.\n한편 거미는 오는 11월부터 ‘2021 거미 전국투어 콘서트’의 ‘다시, 윈터 발라드’(다시, Winter Ballad)로 팬들을 만날 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 거미가 싱글 ‘그래도 사랑이었잖아’를 발매한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 씨제스엔터테인먼트는 20일 거미가 이날 오후 6시 싱글 ‘그래도 사랑이었잖아’를 각종 음원사이트를 통해 공개한다고 밝혔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신곡은 제작사 니즈뮤직 엔터테인먼트에서 진행하는 뮤지션 맞춤형 음악 제작 프로젝트 ‘감정 공유’의 첫 번째 싱글이다. ‘감정공유’는 음악팬들이 기대하는 뮤지션 고유의 감정을 담은 맞춤형 음악 제작 프로젝트다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제작사 측은 “뮤지션 고유의 감정을 대중들에게 전달하고 교감하는 게 목표”라고 설명했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "발라드 곡 ‘그래도 사랑이었잖아’는 누구나 경험했을 이별 후 미련과 추억에 대한 곡이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김준수의 ‘너를 쓴다’, 이소정 ‘너와 나는 이제 남이니까’ 등을 제작한 프로듀싱팀 빅가이로빈이 참여했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 거미는 오는 11월부터 ‘2021 거미 전국투어 콘서트’의 ‘다시, 윈터 발라드’(다시, Winter Ballad)로 팬들을 만날 예정이다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 거미, '이것' 통해 팬 앞으로 한 발짝 성큼 다가간다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

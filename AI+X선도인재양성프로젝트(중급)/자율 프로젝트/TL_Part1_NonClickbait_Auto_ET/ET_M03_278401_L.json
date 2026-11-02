@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278401",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이승기 특전사령부 배치, 1위로 우등 표창",
+		"newsSubTitle": "",
+		"newsContent": "이승기 특전사령부 배치가 화제다.\n16일 한 매체는 이승기 특전사령부 배치를 보도했다.\n매체에 따르면 이승기는 육군훈련소에서 신병 훈련 수료식을 마치고 특전사령부에 자대 배치를 받았다.\n이승기는 훈련 중대에서 1위의 성적을 받아 우등 표창도 받은 것으로 확인됐다.\n해당 표창은 4개의 중대가 각각 한 명씩 총 4명에게 수여하는 표창인 것으로 알려졌다.\n이승기 특전사령부 배치에 앞서 지난달 1일 충남 논산훈련소를 통해 현역 입대했다.\n입대 전인 1월21일 신곡 ‘나 군대간다’를 발표해 화제를 모았다.\n특히 KBS 2TV 수목드라마 '태양의 후예'가 특전사를 다뤄 인기를 모으고 있는 상황에서 특전사령부에서 복무하게 된 이승기는 관심을 모을 전망이다.\n온라인 중앙일보 [사진 육군훈련소 홈페이지]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이승기 특전사령부 배치가 화제다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 한 매체는 이승기 특전사령부 배치를 보도했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매체에 따르면 이승기는 육군훈련소에서 신병 훈련 수료식을 마치고 특전사령부에 자대 배치를 받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이승기는 훈련 중대에서 1위의 성적을 받아 우등 표창도 받은 것으로 확인됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 표창은 4개의 중대가 각각 한 명씩 총 4명에게 수여하는 표창인 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이승기 특전사령부 배치에 앞서 지난달 1일 충남 논산훈련소를 통해 현역 입대했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "입대 전인 1월21일 신곡 ‘나 군대간다’를 발표해 화제를 모았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 KBS 2TV 수목드라마 '태양의 후예'가 특전사를 다뤄 인기를 모으고 있는 상황에서 특전사령부에서 복무하게 된 이승기는 관심을 모을 전망이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [사진 육군훈련소 홈페이지]",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승기 특전사령부 배치, 1위로 우등 표창",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

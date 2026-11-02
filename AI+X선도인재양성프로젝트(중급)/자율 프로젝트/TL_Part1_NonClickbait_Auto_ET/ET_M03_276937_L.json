@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276937",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "백일섭 '연예인 사귄 적 있나' 질문에 \\\"다 죽었다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 백일섭이 '여자친구가 다 죽었다'는 답변으로 스튜디오를 웃음 바다로 만들었다.\n20일 방송된 KBS2 '해피투게더3'에는 '스.개.소(스타의 개를 소개합니다)' 특집으로 백일섭과 설현, 박준형, 토니안, 곽시양이 출연했다.\n이날 MC들은 백일섭에게 연예인과 사귄적있느냐고 질문했고 그는 \\\"다 죽었다\\\"고 답했다.\n백일섭은 \\\"사귄 사이는 아니지만 연기 호흡이 잘 맞았던 사람으로는 故김자옥이 있다. 내가 참 많이 좋아했고, 마지막 작품도 함께 했다\\\"고 말했다.\n故김자옥은 2008년 대장암 수술을 받았으나 폐로 전이돼 지난 2014년 63세로 별세했다.\n또 이날 백일섭은 톱스타 강수연을 데뷔시킨 장본인이라고 말하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 백일섭이 '여자친구가 다 죽었다'는 답변으로 스튜디오를 웃음 바다로 만들었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 방송된 KBS2 '해피투게더3'에는 '스.개.소(스타의 개를 소개합니다)' 특집으로 백일섭과 설현, 박준형, 토니안, 곽시양이 출연했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 MC들은 백일섭에게 연예인과 사귄적있느냐고 질문했고 그는 \\\"다 죽었다\\\"고 답했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "백일섭은 \\\"사귄 사이는 아니지만 연기 호흡이 잘 맞았던 사람으로는 故김자옥이 있다. 내가 참 많이 좋아했고, 마지막 작품도 함께 했다\\\"고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "故김자옥은 2008년 대장암 수술을 받았으나 폐로 전이돼 지난 2014년 63세로 별세했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 이날 백일섭은 톱스타 강수연을 데뷔시킨 장본인이라고 말하기도 했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백일섭 '연예인 사귄 적 있나' 질문에 \\\"다 죽었다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

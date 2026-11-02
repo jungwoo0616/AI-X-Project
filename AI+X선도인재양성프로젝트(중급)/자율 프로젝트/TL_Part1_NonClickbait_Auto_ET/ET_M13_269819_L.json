@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269819",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“래퍼A, 불법촬영영상 유포해 피해자 극단적 시도”",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 던밀스 아내가 래퍼 A씨가 불법촬영 영상을 찍은 뒤 이를 유포했다고 주장해 파문이 일고 있다.\nB씨는 10일 인스타그램에 “DM(인스타그램 다이렉트 메시지)으로 여성 만나고 다닌다는 것까지만 이야기 하느냐. 그 뒤에 ‘몰카’ 찍어서 사람들에게 공유했던 것은 얘기 안 하냐”라며 “양심적으로 반성했으면 그런 말도 방송에서 못 했을 텐데”라고 지적했다.\n이어 “피해자는 찍힌 사진, 보낸 카톡 내용도 다 가지고 있으면서도 다른 사람이 피해를 볼까봐 참고 있다”며 “모두가 보는 방송에서 그런 말을 했다는 건 전혀 그에 대한 죄책감이 없다는 것”이라고 했다.\n이와 함께 B씨는 “정준영이랑 다른 것이 대체 뭐냐. 피해자는 너무 힘들어 극단적 선택 시도도 했다”고 주장했다.\nB씨의 폭로가 나오자 A씨로부터 피해를 당했다는 추가 의혹이 불거지고 있다.\nA씨와 성관계 이후 불법촬영 영상을 공유해 극단적 선택을 시도했다는 목격담이 나오면서다.\nB씨는 이번 폭로에서 A씨에 대한 실명을 따로 언급하지 않았지만, 누리꾼들은 최근 한 웹 예능 프로그램에서 DM으로 여성을 만난다고 말한 한 래퍼를 주목하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 던밀스 아내가 래퍼 A씨가 불법촬영 영상을 찍은 뒤 이를 유포했다고 주장해 파문이 일고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "B씨는 10일 인스타그램에 “DM(인스타그램 다이렉트 메시지)으로 여성 만나고 다닌다는 것까지만 이야기 하느냐. 그 뒤에 ‘몰카’ 찍어서 사람들에게 공유했던 것은 얘기 안 하냐”라며 “양심적으로 반성했으면 그런 말도 방송에서 못 했을 텐데”라고 지적했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “피해자는 찍힌 사진, 보낸 카톡 내용도 다 가지고 있으면서도 다른 사람이 피해를 볼까봐 참고 있다”며 “모두가 보는 방송에서 그런 말을 했다는 건 전혀 그에 대한 죄책감이 없다는 것”이라고 했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 B씨는 “정준영이랑 다른 것이 대체 뭐냐. 피해자는 너무 힘들어 극단적 선택 시도도 했다”고 주장했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "B씨의 폭로가 나오자 A씨로부터 피해를 당했다는 추가 의혹이 불거지고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "A씨와 성관계 이후 불법촬영 영상을 공유해 극단적 선택을 시도했다는 목격담이 나오면서다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "B씨는 이번 폭로에서 A씨에 대한 실명을 따로 언급하지 않았지만, 누리꾼들은 최근 한 웹 예능 프로그램에서 DM으로 여성을 만난다고 말한 한 래퍼를 주목하고 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“래퍼A, 불법촬영영상 유포해 피해자 극단적 시도”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

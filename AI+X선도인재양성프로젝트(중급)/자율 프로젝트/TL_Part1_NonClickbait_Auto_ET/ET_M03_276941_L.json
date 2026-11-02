@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276941",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "자존심 상해 직접 해명했다는 딘딘의 열애설 상대",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 딘딘이 황당한 열애설을 직접 해명하고 나서 네티즌들의 눈길을 끌었다.\n지난 16일 딘딘은 자신의 인스타그램을 통해 열애설에 대한 입장을 밝혔다.\n딘딘은 자신이 메시지로 직접 받은 사진을 공개하며 \\\"오늘 면세점에 작은 누나랑 갔는데, 여성분이랑 있는 것 다 봤다고 디엠(다이렉트 메시지) 온다. 몰래 사진도 찍힘\\\"이라는 글을 덧붙였다.\n이어 \\\"왜 하필 작은 누나랑 있을 때…. 자존심 상해. 다음을 기약한다\\\"고 말해 웃음을 자아냈다.\n공개된 사진 속에는 딘딘과 작은 누나의 뒷모습이 담겼다.\n딘딘은 이 사진에 직접 화살표로 '나'와 '작은 누나'를 표시해 해명하며 네티즌들에게 웃음을 안겼다.\n한편 딘딘은 17일 싱글 앨범 '외로워서 죽음'을 발표했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 딘딘이 황당한 열애설을 직접 해명하고 나서 네티즌들의 눈길을 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 16일 딘딘은 자신의 인스타그램을 통해 열애설에 대한 입장을 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "딘딘은 자신이 메시지로 직접 받은 사진을 공개하며 \\\"오늘 면세점에 작은 누나랑 갔는데, 여성분이랑 있는 것 다 봤다고 디엠(다이렉트 메시지) 온다. 몰래 사진도 찍힘\\\"이라는 글을 덧붙였다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"왜 하필 작은 누나랑 있을 때…. 자존심 상해. 다음을 기약한다\\\"고 말해 웃음을 자아냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 사진 속에는 딘딘과 작은 누나의 뒷모습이 담겼다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "딘딘은 이 사진에 직접 화살표로 '나'와 '작은 누나'를 표시해 해명하며 네티즌들에게 웃음을 안겼다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 딘딘은 17일 싱글 앨범 '외로워서 죽음'을 발표했다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자존심 상해 직접 해명했다는 딘딘의 열애설 상대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

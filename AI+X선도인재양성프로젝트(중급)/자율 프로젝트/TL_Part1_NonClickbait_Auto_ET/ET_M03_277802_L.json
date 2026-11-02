@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277802",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘최순실 파문’에 메인뉴스 ‘시청률 희비’ 엇갈려…JTBC 8.8%, MBC 5.3%",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 메인뉴스 ‘뉴스룸’이 다시 한 번 자체 최고시청률을 기록했다.\n1일 시청률 조사업체 닐슨코리아 집계 결과, 전날 저녁 방송된 ‘뉴스룸’은 시청률 8.784%를 기록했다.\n같은 시간 방송된 SBS ‘8시 뉴스’는 5.9%, MBC TV ‘뉴스데스크’는 5.3%을 기록한 것으로 집계됐다.\nJTBC 뉴스룸은 박근혜 정부 ‘비선 실세’ 의혹을 받고 있는 최순실(60)씨 PC를 단독 보도한 25일 방송부터 시청률이 올라 꾸준히 8%대 시청률을 기록해왔다.\n지난 31일에는 최순실씨가 검찰에 출두하면서 시청률 상승을 이끈 것으로 분석된다.\n이날 ‘뉴스룸’은 ‘최순실 회사 전 대표, 안종범ㆍ김종과 통화도’ ‘김한수, 최씨를 이모로 불러…청와대 발탁에 입김?’ 등을 보도했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 메인뉴스 ‘뉴스룸’이 다시 한 번 자체 최고시청률을 기록했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 시청률 조사업체 닐슨코리아 집계 결과, 전날 저녁 방송된 ‘뉴스룸’은 시청률 8.784%를 기록했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "같은 시간 방송된 SBS ‘8시 뉴스’는 5.9%, MBC TV ‘뉴스데스크’는 5.3%을 기록한 것으로 집계됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "JTBC 뉴스룸은 박근혜 정부 ‘비선 실세’ 의혹을 받고 있는 최순실(60)씨 PC를 단독 보도한 25일 방송부터 시청률이 올라 꾸준히 8%대 시청률을 기록해왔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 31일에는 최순실씨가 검찰에 출두하면서 시청률 상승을 이끈 것으로 분석된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 ‘뉴스룸’은 ‘최순실 회사 전 대표, 안종범ㆍ김종과 통화도’ ‘김한수, 최씨를 이모로 불러…청와대 발탁에 입김?’ 등을 보도했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘최순실 파문’에 메인뉴스 ‘시청률 희비’ 엇갈려…JTBC 8.8%, MBC 5.3%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

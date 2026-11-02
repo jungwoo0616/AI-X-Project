@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270720",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "수지, 이런 모습은 처음이야…청순 벗고 시크한 매력 발산",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 수지가 새로운 매력으로 찾아왔다.\n수지는 19일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 별다른 말 없이 사진 5장을 게재했다.\n수지는 모델로 활동하고 있는 뷰티브랜드의 화보 촬영 중인 모습으로 보인다.\n수지는 가르마를 탄 채로 헤어를 깔끔하게 묶어 도도한 매력을 뿜어내고 있다.\n특히 수지는 엑스자 모양의 홀터넥으로 청순한 이미지를 벗어던지며 과감한 모습을 선보이며 반전 매력 또한 챙겼다.\n그는 리즈 미모를 갱신하는 사진을 찍어 보는 이들의 눈길을 끌었다.\n한편, 수지는 쿠팡플레이의 새로운 시리즈 ‘안나’를 차기작으로 선택했다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 수지가 새로운 매력으로 찾아왔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수지는 19일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 별다른 말 없이 사진 5장을 게재했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수지는 모델로 활동하고 있는 뷰티브랜드의 화보 촬영 중인 모습으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수지는 가르마를 탄 채로 헤어를 깔끔하게 묶어 도도한 매력을 뿜어내고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 수지는 엑스자 모양의 홀터넥으로 청순한 이미지를 벗어던지며 과감한 모습을 선보이며 반전 매력 또한 챙겼다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 리즈 미모를 갱신하는 사진을 찍어 보는 이들의 눈길을 끌었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 수지는 쿠팡플레이의 새로운 시리즈 ‘안나’를 차기작으로 선택했다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수지, 이런 모습은 처음이야…청순 벗고 시크한 매력 발산",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

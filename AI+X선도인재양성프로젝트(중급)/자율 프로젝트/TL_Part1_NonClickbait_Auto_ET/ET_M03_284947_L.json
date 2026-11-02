@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284947",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "영화 '그놈이다' 홍보요정 주원, \\\"예매율1위 감사합니다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'그놈이다 주원' '그놈이다' 배우 주원이 영화 '그놈이다' 예매율 1위에 감사인사를 전했다.\n28일 주원은 자신의 인스타그램에 \\\"감사합니다\\\"라며 \\\"롱런합시다. 오늘 개봉 '그놈이다' 예매율 1위\\\"라는 문구와 함께 한 장의 사진을 게재했다.\n주원이 올린 사진은 영화진흥위원회 실시간 영화 예매율 현황을 캡처한 것이다.\n사진에 따르면 28일 새벽 0시29분 주원이 출연한 '그놈이다'가 예매율 1위를 달리고 있다.\n이에 네티즌들은 \\\"주원오빠~ 연기하느라 수고하셨어요\\\" \\\"주원! 이미 예매 완료!\\\" \\\"믿고 보는 배우 주원\\\" \\\"그놈이다 흥행 기원!\\\" \\\"그놈이다 천만가자\\\" 등 애정 어린 관심을 보이고 있다.\n현재 '그놈이다'는 28일 저녁 기준 예매율 1위를 지키고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'그놈이다 주원' '그놈이다' 배우 주원이 영화 '그놈이다' 예매율 1위에 감사인사를 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 주원은 자신의 인스타그램에 \\\"감사합니다\\\"라며 \\\"롱런합시다. 오늘 개봉 '그놈이다' 예매율 1위\\\"라는 문구와 함께 한 장의 사진을 게재했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주원이 올린 사진은 영화진흥위원회 실시간 영화 예매율 현황을 캡처한 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진에 따르면 28일 새벽 0시29분 주원이 출연한 '그놈이다'가 예매율 1위를 달리고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 네티즌들은 \\\"주원오빠~ 연기하느라 수고하셨어요\\\" \\\"주원! 이미 예매 완료!\\\" \\\"믿고 보는 배우 주원\\\" \\\"그놈이다 흥행 기원!\\\" \\\"그놈이다 천만가자\\\" 등 애정 어린 관심을 보이고 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 '그놈이다'는 28일 저녁 기준 예매율 1위를 지키고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영화 '그놈이다' 홍보요정 주원, \\\"예매율1위 감사합니다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

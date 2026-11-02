@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276746",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "가수 청하의 '실검 1위'에 또 다른 '청하'의 반응",
+		"newsSubTitle": "",
+		"newsContent": "프로젝트 걸그룹 아이오아이 출신 청하(21)의 솔로 데뷔가 화제가 된 가운데, 페이스북에 게재된 '뜬금' 글이 화제가 됐다.\n7일 롯데 주류 청하 페이스북에는 \\\"청하 실검 1위 경축\\\"이라는 글이 게재됐다.\n청하 페북지기는 \\\"여러분이 차려놓은 밥상에 저는 젓가락질만 했을 뿐\\\"이라며 \\\"청하길만 걷자\\\"고 글을 남겼다.\n이와 함께 한 포털사이트에서 '청하'가 실시간 검색어 1위를 차지한 내용이 담긴 캡처를 덧붙였다.\n이날 '실검 1위'는 가수 청하의 솔로 데뷔 때문이었다.\n주류 청하의 뻔뻔(?)한 게시물을 본 네티즌들은 \\\"그 청하가 이 청하가 아니다\\\"며 유쾌한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로젝트 걸그룹 아이오아이 출신 청하(21)의 솔로 데뷔가 화제가 된 가운데, 페이스북에 게재된 '뜬금' 글이 화제가 됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 롯데 주류 청하 페이스북에는 \\\"청하 실검 1위 경축\\\"이라는 글이 게재됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "청하 페북지기는 \\\"여러분이 차려놓은 밥상에 저는 젓가락질만 했을 뿐\\\"이라며 \\\"청하길만 걷자\\\"고 글을 남겼다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 한 포털사이트에서 '청하'가 실시간 검색어 1위를 차지한 내용이 담긴 캡처를 덧붙였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 '실검 1위'는 가수 청하의 솔로 데뷔 때문이었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주류 청하의 뻔뻔(?)한 게시물을 본 네티즌들은 \\\"그 청하가 이 청하가 아니다\\\"며 유쾌한 반응을 보였다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 청하의 '실검 1위'에 또 다른 '청하'의 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

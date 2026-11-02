@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276786",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김혜수가 천우희에 손 뽀뽀를 한 이유",
+		"newsSubTitle": "",
+		"newsContent": "배우 김해수가 백상예술대상 시상식에서 후배 배우인 천우희에 손등 키스를 한 이유가 밝혀졌다.\n천우희는 최근 인스타그램 라이브 방송에서 김혜수의 '손등 키스' 비화를 언급했다.\n이와 관련해서 한 팬에게 질문을 받은 천우희는 \\\"김혜수 선배님하고는 가끔 만난다. 그날도 한 2주 만에 본 건데, 당시 특별무대가 너무 슬퍼서 선배님도 울고, 저도 울었다\\\"고 했다.\n이어 \\\"(특별무대가) 끝나고 눈물을 흘리면서 선배님한테 인사를 드리러 갔는데, 둘이 얼굴을 보자마자 같이 울었다. 눈물이 흘러 얼굴을 가린 채 '인사를 못 드리겠다'고 하니 선배님도 같이 울면서 뽀뽀를 해줬다\\\"고 설명했다.\n그러면서 \\\"워낙 스윗하신 분이에요\\\"라고 덧붙였다.\n앞서 인터넷상에는 김혜수의 팬 페이지 '햇바라기'를 통해 공개된 손등 키스 사진이 큰 화제가 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김해수가 백상예술대상 시상식에서 후배 배우인 천우희에 손등 키스를 한 이유가 밝혀졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "천우희는 최근 인스타그램 라이브 방송에서 김혜수의 '손등 키스' 비화를 언급했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 관련해서 한 팬에게 질문을 받은 천우희는 \\\"김혜수 선배님하고는 가끔 만난다. 그날도 한 2주 만에 본 건데, 당시 특별무대가 너무 슬퍼서 선배님도 울고, 저도 울었다\\\"고 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"(특별무대가) 끝나고 눈물을 흘리면서 선배님한테 인사를 드리러 갔는데, 둘이 얼굴을 보자마자 같이 울었다. 눈물이 흘러 얼굴을 가린 채 '인사를 못 드리겠다'고 하니 선배님도 같이 울면서 뽀뽀를 해줬다\\\"고 설명했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 \\\"워낙 스윗하신 분이에요\\\"라고 덧붙였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 인터넷상에는 김혜수의 팬 페이지 '햇바라기'를 통해 공개된 손등 키스 사진이 큰 화제가 됐다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김혜수가 천우희에 손 뽀뽀를 한 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

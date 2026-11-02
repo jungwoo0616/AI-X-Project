@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170945",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조병규, 6개월만의 첫 SNS…자격증 사진으로 근황 전해",
+    "newsSubTitle": "",
+    "newsContent": "학폭 의혹에 휩싸인 배우 조병규가 근황을 전했다.\n조병규는 20일 자신의 SNS 인스타그램에 태극기 이모티콘과 함께 사진을 게재했다.\n이는 학교 폭력 논란 이후 해명글을 올렸던 올해 2월 이후 약 6개월 만의 게시글이다.\n사진에는 조병규의 이름과 함께 한국사능력검정시험인증서가 담겨있다.\n누구보다 활발한 활동을 펼치던 그가 원치 않는 휴식기를 갖는 동안 일명 ‘한능검’ 시험 1급에 합격한 근황이 눈길을 끈다.\n조병규는 지난 2월 학푹 의혹에 대해 “사실 무근”이라는 입장을 밝힌 뒤 법적 대응을 이어가고 있다.\n한편, 조병규는 최근 독립영화 ‘밀레니얼 킬러’ 촬영을 마쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "학폭 의혹에 휩싸인 배우 조병규가 근황을 전했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조병규는 20일 자신의 SNS 인스타그램에 태극기 이모티콘과 함께 사진을 게재했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 학교 폭력 논란 이후 해명글을 올렸던 올해 2월 이후 약 6개월 만의 게시글이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진에는 조병규의 이름과 함께 한국사능력검정시험인증서가 담겨있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누구보다 활발한 활동을 펼치던 그가 원치 않는 휴식기를 갖는 동안 일명 ‘한능검’ 시험 1급에 합격한 근황이 눈길을 끈다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조병규는 지난 2월 학푹 의혹에 대해 “사실 무근”이라는 입장을 밝힌 뒤 법적 대응을 이어가고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 조병규는 최근 독립영화 ‘밀레니얼 킬러’ 촬영을 마쳤다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "학폭 논란 조병규, 그동안 이 시험 준비했나... 합격 소식",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

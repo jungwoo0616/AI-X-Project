@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277216",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "탑 훈련소 사진 공개 \\\"이번엔 실수 없이\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 '빅뱅' 탑(본명 최승현)의 훈련소 사진이 또 한 번 공개됐다.\n육군훈련소 측은 지난달 28일 공식 홈페이지를 통해 탑의 훈련소 모습이 담긴 사진을 게재했다.\n사진에는 훈련소 동기들과 함께 포즈를 취하는 탑의 모습이 담겨 있다.\n탑은 한결 여유로운 표정이었다.\n이름표도 군복의 오른쪽 가슴에 제대로 달았다.\n앞서 15일 공개된 사진에서 탑은 다른 훈련병들과 달리 군복 왼쪽 가슴 위에 이름표를 단 실수를 해 눈길을 끈 바 있다.\n탑은 입소일부터 4주간 논산 육군훈련소 25연대에서 기초군사훈련 받은 뒤 의무경찰로 병역 의무를 다할 예정이다.\n오는 2018년 11월 전역한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 '빅뱅' 탑(본명 최승현)의 훈련소 사진이 또 한 번 공개됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "육군훈련소 측은 지난달 28일 공식 홈페이지를 통해 탑의 훈련소 모습이 담긴 사진을 게재했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 훈련소 동기들과 함께 포즈를 취하는 탑의 모습이 담겨 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "탑은 한결 여유로운 표정이었다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이름표도 군복의 오른쪽 가슴에 제대로 달았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 15일 공개된 사진에서 탑은 다른 훈련병들과 달리 군복 왼쪽 가슴 위에 이름표를 단 실수를 해 눈길을 끈 바 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "탑은 입소일부터 4주간 논산 육군훈련소 25연대에서 기초군사훈련 받은 뒤 의무경찰로 병역 의무를 다할 예정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 2018년 11월 전역한다.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "탑 훈련소 사진 공개 \\\"이번엔 실수 없이\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

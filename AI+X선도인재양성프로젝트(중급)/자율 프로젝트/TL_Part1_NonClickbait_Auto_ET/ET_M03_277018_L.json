@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277018",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"캡틴 아메리카가 등장했다\\\" 크리스 에반스, 아동 병원 깜짝 방문",
+		"newsSubTitle": "아역배우 매케나 그레이스도 함께 해",
+		"newsContent": "할리우드 배우 크리스 에반스(36)의 선행이 눈길을 끌고 있다.\n2일(미국 시간) 미국 매체 할리우드 라이프 등은 에반스가 최근 미국 로스엔젤레스(LA)의 아동 병원을 깜짝 방문했다고 보도했다.\n자리엔 아역배우 매케나 그레이스(11)도 함께 했다.\n이들은 환아들의 병실을 방문해 인사를 나눴다고 한다.\n특히 그레이스는 또래 환아들에게 수제 팔찌를 나눠주기도 했다.\n영화 '설국열차'(2013년) '캡틴아메리카:윈터 솔져'(2014년) 등에 출연해 한국 관객에게 익숙한 에반스는 내년 '어벤져스:인피니티 워' 개봉을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 크리스 에반스(36)의 선행이 눈길을 끌고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일(미국 시간) 미국 매체 할리우드 라이프 등은 에반스가 최근 미국 로스엔젤레스(LA)의 아동 병원을 깜짝 방문했다고 보도했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자리엔 아역배우 매케나 그레이스(11)도 함께 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 환아들의 병실을 방문해 인사를 나눴다고 한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 그레이스는 또래 환아들에게 수제 팔찌를 나눠주기도 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 '설국열차'(2013년) '캡틴아메리카:윈터 솔져'(2014년) 등에 출연해 한국 관객에게 익숙한 에반스는 내년 '어벤져스:인피니티 워' 개봉을 앞두고 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"캡틴 아메리카가 등장했다\\\" 크리스 에반스, 아동 병원 깜짝 방문",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

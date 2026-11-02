@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270686",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한지민, 안 어울리는 스타일 찾는 게 제일 어렵네",
+		"newsSubTitle": "",
+		"newsContent": "배우 한지민이 다채로운 매력을 담은 화보 컷을 공개했다.\n한지민은 19일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 별다른 문구 없이 사진들을 게재했다.\n한지민은 곱슬기 있는 헤어스타일로 한 잡지 화보 촬영에 나선 것으로 보인다.\n특히 한지민은 코랄빛 볼 터치로 사랑스러운 매력을 부가시켰고, 핑크 셔츠에 옷깃 부분이 검은 리본으로 되어있는 부분은 러블리한 매력을 강조했다.\n또 다른 사진에서 한지민은 얼굴만 한 리본을 머리띠로 착용하여 신비로운 매력까지 소화하는 등 화보 장인다운 모습을 보였다.\n한편 한지민은 tvN 토일드라마 ‘우리들의 블루스’에 출연하여 영옥 역을 열연하며 호평받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한지민이 다채로운 매력을 담은 화보 컷을 공개했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한지민은 19일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 별다른 문구 없이 사진들을 게재했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한지민은 곱슬기 있는 헤어스타일로 한 잡지 화보 촬영에 나선 것으로 보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 한지민은 코랄빛 볼 터치로 사랑스러운 매력을 부가시켰고, 핑크 셔츠에 옷깃 부분이 검은 리본으로 되어있는 부분은 러블리한 매력을 강조했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진에서 한지민은 얼굴만 한 리본을 머리띠로 착용하여 신비로운 매력까지 소화하는 등 화보 장인다운 모습을 보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 한지민은 tvN 토일드라마 ‘우리들의 블루스’에 출연하여 영옥 역을 열연하며 호평받고 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한지민, 안 어울리는 스타일 찾는 게 제일 어렵네",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278582",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "장성우 벌금 700만원 선고, 허위사실 유포…'사생활이 문란하다'",
+		"newsSubTitle": "",
+		"newsContent": "치어리더 박기량의 명예훼손 혐의로 기소된 프로야구 선수 장성우에게 벌금형이 선고됐다.\n수원지법 형사10단독 이의석 판사는 24일 치어리더 박기량씨의 명예를 훼손한 혐의(정보보호법 위반)로 불구속 기소된 장성우(26) 선수에게 벌금 700만 원을 선고했다.\n또 장 씨의 전 여자친구 박모(26·여)씨에게는 징역 4월에 집행유예 1년, 160시간의 사회봉사 명령을 내렸다.\n이 판사는 “장성우는 전 여자친구 박 씨에게 ‘박기량의 사생활이 문란하다’는 허위사실을 메신저 앱으로 전송해 인터넷에 유포하는 원인을 제공했다. 또 피고인 박씨는 피해자가 심각한 피해를 입게 할 직접적 계기를 제공했다”고 밝혔다.\n장씨는 지난해 4월 스마트폰 메신저 앱을 이용해 박씨에게 “박기량 사생활이 좋지 않다”는 취지의 문자를 보냈고 박씨는 문자메시지 화면을 캡처해 소셜네트워크서비스(SNS)인 인스타그램에 게재한 혐의로 각각 기소됐다.\n온라인 중앙일보 장성우 벌금 700만원 선고",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "치어리더 박기량의 명예훼손 혐의로 기소된 프로야구 선수 장성우에게 벌금형이 선고됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수원지법 형사10단독 이의석 판사는 24일 치어리더 박기량씨의 명예를 훼손한 혐의(정보보호법 위반)로 불구속 기소된 장성우(26) 선수에게 벌금 700만 원을 선고했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 장 씨의 전 여자친구 박모(26·여)씨에게는 징역 4월에 집행유예 1년, 160시간의 사회봉사 명령을 내렸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 판사는 “장성우는 전 여자친구 박 씨에게 ‘박기량의 사생활이 문란하다’는 허위사실을 메신저 앱으로 전송해 인터넷에 유포하는 원인을 제공했다. 또 피고인 박씨는 피해자가 심각한 피해를 입게 할 직접적 계기를 제공했다”고 밝혔다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장씨는 지난해 4월 스마트폰 메신저 앱을 이용해 박씨에게 “박기량 사생활이 좋지 않다”는 취지의 문자를 보냈고 박씨는 문자메시지 화면을 캡처해 소셜네트워크서비스(SNS)인 인스타그램에 게재한 혐의로 각각 기소됐다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 장성우 벌금 700만원 선고",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장성우 벌금 700만원 선고, 허위사실 유포…'사생활이 문란하다'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269710",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "라잇썸, 미니 1집 스케줄러 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 라잇썸(상아, 초원, 나영, 히나, 주현, 유정, 휘연, 지안)이 신보 스케줄러를 공개했다.\n큐브 엔터테인먼트는 10일 0시 라잇썸 공식 SNS 채널을 통해 첫 번째 미니 앨범 ‘Into The Light’(인투 더 라잇)의 스케줄러를 게재했다.\n공개된 스케줄러에 따르면 라잇썸은 콘셉트 이미지를 시작으로 트랙리스트, 컴백 트레일러 티저, 오디오 스니펫, 뮤직비디오 티저 영상 등 신보와 관련된 다채로운 티징 콘텐츠를 차례로 오픈한다.\n라잇썸은 지난해 6월 데뷔 싱글 ‘Vanilla’(바닐라)로 국내외 케이팝 팬들의 뜨거운 관심과 사랑을 한 몸에 받으며 성공적인 데뷔를 알렸다.\n이어 발매한 두 번째 싱글 ‘Light a Wish’(라잇 어 위시)의 타이틀곡 ‘VIVACE’(비바체)로 국내 음원 사이트인 벅스(Bugs)에 실시간 차트 8위를 기록, 아이튠즈 케이팝 톱 앨범(K-Pop Top Album) 부문 7개 지역(미국, 캐나다, 영국, 홍콩, 싱가포르, 오스트레일리아, 사우디아라비아)에서 상위권에 이름을 올리며 글로벌 루키로 존재감을 입증한 바 있다.\n한편, 라잇썸의 첫 번째 미니 앨범 ‘Into The Light’(인투 더 라잇)은 오는 24일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 라잇썸(상아, 초원, 나영, 히나, 주현, 유정, 휘연, 지안)이 신보 스케줄러를 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "큐브 엔터테인먼트는 10일 0시 라잇썸 공식 SNS 채널을 통해 첫 번째 미니 앨범 ‘Into The Light’(인투 더 라잇)의 스케줄러를 게재했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 스케줄러에 따르면 라잇썸은 콘셉트 이미지를 시작으로 트랙리스트, 컴백 트레일러 티저, 오디오 스니펫, 뮤직비디오 티저 영상 등 신보와 관련된 다채로운 티징 콘텐츠를 차례로 오픈한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라잇썸은 지난해 6월 데뷔 싱글 ‘Vanilla’(바닐라)로 국내외 케이팝 팬들의 뜨거운 관심과 사랑을 한 몸에 받으며 성공적인 데뷔를 알렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 발매한 두 번째 싱글 ‘Light a Wish’(라잇 어 위시)의 타이틀곡 ‘VIVACE’(비바체)로 국내 음원 사이트인 벅스(Bugs)에 실시간 차트 8위를 기록, 아이튠즈 케이팝 톱 앨범(K-Pop Top Album) 부문 7개 지역(미국, 캐나다, 영국, 홍콩, 싱가포르, 오스트레일리아, 사우디아라비아)에서 상위권에 이름을 올리며 글로벌 루키로 존재감을 입증한 바 있다.",
+				"sentenceSize": 214
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 라잇썸의 첫 번째 미니 앨범 ‘Into The Light’(인투 더 라잇)은 오는 24일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라잇썸, 미니 1집 스케줄러 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

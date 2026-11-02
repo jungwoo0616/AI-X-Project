@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264169",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "정승환·장필순…같은 노래 다른 목소리",
+		"newsSubTitle": "",
+		"newsContent": "같은 곡을 남녀 가수 두 명의 목소리로 들려주는 프로젝트가 시작된다.\n음악 레이블 최소우주는 17일 “하나의 노래를 두 명의 남녀 가수 버전으로 선보이는 새로운 음악 프로젝트 ‘투트랙 프로젝트’ 첫 음원이 23일과 25일 각각 발매된다”고 밝혔다.\n이번 프로젝트는 싱어송라이터이자 작사가 조동희, 작곡가 조동익 남매가 프로듀싱을 맡았다.\n첫 주자로는 가수 정승환과 장필순이 ‘연대기’(年代記)를 부른다.\n지나간 사랑에 대한 기억을 사라지지 않는 하나의 연대기로 비유한 곡이다.\n두 사람이 각각의 개성을 담아 부른 ‘연대기’가 어떻게 다른 울림을 줄지 기대가 모아진다.\n2016년 ‘이 바보야’로 데뷔한 정승환은 ‘너였다면’, ‘눈사람’ 등의 곡으로 사랑받아왔다. ‘나의 외로움이 널 부를 때’로 잘 알려진 장필순은 한국 포크를 대표하는 뮤지션으로 꼽힌다.\n조동익·조동희는 이번 프로젝트에 대해 “오랫동안 사랑받는 노래를 만들고 우리 음악을 사랑해주시는 팬 분들과도 함께 하고 싶다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "같은 곡을 남녀 가수 두 명의 목소리로 들려주는 프로젝트가 시작된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "음악 레이블 최소우주는 17일 “하나의 노래를 두 명의 남녀 가수 버전으로 선보이는 새로운 음악 프로젝트 ‘투트랙 프로젝트’ 첫 음원이 23일과 25일 각각 발매된다”고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 프로젝트는 싱어송라이터이자 작사가 조동희, 작곡가 조동익 남매가 프로듀싱을 맡았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "첫 주자로는 가수 정승환과 장필순이 ‘연대기’(年代記)를 부른다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지나간 사랑에 대한 기억을 사라지지 않는 하나의 연대기로 비유한 곡이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람이 각각의 개성을 담아 부른 ‘연대기’가 어떻게 다른 울림을 줄지 기대가 모아진다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2016년 ‘이 바보야’로 데뷔한 정승환은 ‘너였다면’, ‘눈사람’ 등의 곡으로 사랑받아왔다. ‘나의 외로움이 널 부를 때’로 잘 알려진 장필순은 한국 포크를 대표하는 뮤지션으로 꼽힌다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조동익·조동희는 이번 프로젝트에 대해 “오랫동안 사랑받는 노래를 만들고 우리 음악을 사랑해주시는 팬 분들과도 함께 하고 싶다”고 말했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정승환·장필순…같은 노래 다른 목소리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

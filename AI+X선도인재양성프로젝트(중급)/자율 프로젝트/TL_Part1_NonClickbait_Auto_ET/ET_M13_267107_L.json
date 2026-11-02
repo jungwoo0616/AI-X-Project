@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267107",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이달의 소녀 ‘SHAKE IT’ 무대에 카디비 “I like it”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 이달의 소녀(LOONA) ‘퀸덤2’ 무대 영상이 글로벌 팬들의 열광적인 반응을 얻고 있다.\n이달의 소녀는 지난 14일 방송된 Mnet ‘퀸덤2’ 2차 경연에서 그룹 씨스타의 ‘SHAKE IT’을 재해석한 무대를 펼쳤다.\n이달의 소녀는 밝고 경쾌한 퍼포먼스로 반전 매력을 선사하며 ‘콘셉트 장인’ 면모를 드러냈다.\n이들은 싱그러운 비주얼부터 다채로운 표정 연기와 더불어 한 편의 뮤지컬 같은 무대를 선사했다.\n특히 팬이 공유한 무대 영상에 래퍼 카디비(Cardi B)가 “I like it”이라는 답글을 남겨 화제를 모았다.\n무대 영상은 공개 하루 만에 유튜브 조회수 244만회를 돌파, 각종 사회관계망서비스(SNS)에서 호평받는 중이다.\n한편 Mnet ‘퀸덤2’는 K-POP 대표 걸 그룹들의 글로벌 동시 컴백 대전을 그린 프로그램으로, 매주 목요일 오후 9시 20분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 이달의 소녀(LOONA) ‘퀸덤2’ 무대 영상이 글로벌 팬들의 열광적인 반응을 얻고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이달의 소녀는 지난 14일 방송된 Mnet ‘퀸덤2’ 2차 경연에서 그룹 씨스타의 ‘SHAKE IT’을 재해석한 무대를 펼쳤다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이달의 소녀는 밝고 경쾌한 퍼포먼스로 반전 매력을 선사하며 ‘콘셉트 장인’ 면모를 드러냈다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 싱그러운 비주얼부터 다채로운 표정 연기와 더불어 한 편의 뮤지컬 같은 무대를 선사했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 팬이 공유한 무대 영상에 래퍼 카디비(Cardi B)가 “I like it”이라는 답글을 남겨 화제를 모았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "무대 영상은 공개 하루 만에 유튜브 조회수 244만회를 돌파, 각종 사회관계망서비스(SNS)에서 호평받는 중이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 Mnet ‘퀸덤2’는 K-POP 대표 걸 그룹들의 글로벌 동시 컴백 대전을 그린 프로그램으로, 매주 목요일 오후 9시 20분 방송된다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이달의 소녀 ‘SHAKE IT’ 무대에 카디비 “I like it”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

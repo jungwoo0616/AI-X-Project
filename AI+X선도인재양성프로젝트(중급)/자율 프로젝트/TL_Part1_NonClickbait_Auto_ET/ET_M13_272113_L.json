@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272113",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "미 법원 “가정폭력 주장한 앰버 허드, 조니 뎁 명예 훼손”",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 스타 조니 뎁이 1일(현지시간) 전처 앰버 허드와의 명예훼손 민사 재판에서 승소 평결을 받았다.\n현지 매치들에 따르면 미 버지니아주 페어팩스 법원의 배심원단은 이날 허드가 뎁의 명예를 훼손했다면서 1500만 달러(187억원)을 배상하라는 평결을 내렸다.\n반면 허드가 제기한 맞소송에서는 200만달러를 배상하라고 평결했다.\n한때 할리우드 스타 부부였던 뎁과 허드는 결혼 15개월만인 2016년 5월 이혼했다.\n허드는 2018년 워싱턴포스트 기고문에서 가정폭력을 당했다고 주장했고, 뎁은 가해자를 명시하진 않았지만 자신을 지칭하는 게 분명하다며 명예훼손에 대해 5000만달러(624억원)의 손해배상 소송을 냈다.\n허드는 뎁 변호인이 자신을 거짓말쟁이라고 주장하자 1억달러(1248억원)를 청구하는 맞소송을 냈다.\n지난 4월 12일부터 본격 진행된 재판에서 양측은 6주간 100시간이 넘는 심리 과정에 서로 폭력과 학대를 당했다는 폭로전을 이어가며 연일 충격적인 법정 증언을 내놨다.\n배심원은 지난 3일간 10시간 넘는 평의를 거쳤다.\n뎁은 앞서 영국 대중 일간지 더선이 2018년 4월 기사에서 자신을 ‘아내 폭행범’으로 묘사했다는 이유로 명예훼손 소송을 냈지만 법원은 “기사가 대체로 사실임을 보여줬다”며 패소 판결을 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 스타 조니 뎁이 1일(현지시간) 전처 앰버 허드와의 명예훼손 민사 재판에서 승소 평결을 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현지 매치들에 따르면 미 버지니아주 페어팩스 법원의 배심원단은 이날 허드가 뎁의 명예를 훼손했다면서 1500만 달러(187억원)을 배상하라는 평결을 내렸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반면 허드가 제기한 맞소송에서는 200만달러를 배상하라고 평결했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한때 할리우드 스타 부부였던 뎁과 허드는 결혼 15개월만인 2016년 5월 이혼했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허드는 2018년 워싱턴포스트 기고문에서 가정폭력을 당했다고 주장했고, 뎁은 가해자를 명시하진 않았지만 자신을 지칭하는 게 분명하다며 명예훼손에 대해 5000만달러(624억원)의 손해배상 소송을 냈다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "허드는 뎁 변호인이 자신을 거짓말쟁이라고 주장하자 1억달러(1248억원)를 청구하는 맞소송을 냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 4월 12일부터 본격 진행된 재판에서 양측은 6주간 100시간이 넘는 심리 과정에 서로 폭력과 학대를 당했다는 폭로전을 이어가며 연일 충격적인 법정 증언을 내놨다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "배심원은 지난 3일간 10시간 넘는 평의를 거쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "뎁은 앞서 영국 대중 일간지 더선이 2018년 4월 기사에서 자신을 ‘아내 폭행범’으로 묘사했다는 이유로 명예훼손 소송을 냈지만 법원은 “기사가 대체로 사실임을 보여줬다”며 패소 판결을 했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미 법원 “가정폭력 주장한 앰버 허드, 조니 뎁 명예 훼손”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

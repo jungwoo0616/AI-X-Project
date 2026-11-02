@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265863",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "오열까지했는데…심진화, 전세사기 발언사과",
+		"newsSubTitle": "",
+		"newsContent": "방송인 심진화가 앞서 주장한 2억원대 ‘전세 사기’가 자신의 오해였음을 밝혔다.\n심진화는 4일 인스타그램에 “개인적 이야기를 방송으로 했던 것은 경솔했고, 이로 인해 집주인께 피해를 드린 점 사과드린다”며 “걱정해주시는 분들께도 (일이) 원만하게 잘 해결됐음을 알려드린다”고 적었다.\n이어 “임차인이 원상복구를 해줘야 하는 상태에서 집주인은 해외거주 중이었고, 계약을 중개해 줬던 부동산은 폐업해 원만한 대화가 불가능한 상태라 그 시기가 좀 힘들었던 것 같다”며 “개인적 이야기를 방송으로 했던 것은 경솔했다”고 했다.\n심진화는 지난달 29일 방송된 SBS 예능 프로그램 ‘신발 벗고 돌싱포맨’(돌싱포맨)에 출연해 자신이 전세 사기를 당했다고 주장했다.\n심진화는 당시 방송에서 “눈물 날 것 같다”며 “전에 살던 집주인이 (전세금)2억원을 안 줘서 소송 중”이라고 말했다.\n이에 출연자들에 심진화의 사연을 안타까워 했고 심진화는 “소송하는 데만 500만원이 들고, 내가 안 써야 하는 돈을 써야 한다”며 “억울한 일이 계속 커지고 있다”고 말했다.\n심진화는 발언 뒤 눈물을 흘리며 오열까지 해 출연자들의 위로를 샀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 심진화가 앞서 주장한 2억원대 ‘전세 사기’가 자신의 오해였음을 밝혔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "심진화는 4일 인스타그램에 “개인적 이야기를 방송으로 했던 것은 경솔했고, 이로 인해 집주인께 피해를 드린 점 사과드린다”며 “걱정해주시는 분들께도 (일이) 원만하게 잘 해결됐음을 알려드린다”고 적었다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “임차인이 원상복구를 해줘야 하는 상태에서 집주인은 해외거주 중이었고, 계약을 중개해 줬던 부동산은 폐업해 원만한 대화가 불가능한 상태라 그 시기가 좀 힘들었던 것 같다”며 “개인적 이야기를 방송으로 했던 것은 경솔했다”고 했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "심진화는 지난달 29일 방송된 SBS 예능 프로그램 ‘신발 벗고 돌싱포맨’(돌싱포맨)에 출연해 자신이 전세 사기를 당했다고 주장했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "심진화는 당시 방송에서 “눈물 날 것 같다”며 “전에 살던 집주인이 (전세금)2억원을 안 줘서 소송 중”이라고 말했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 출연자들에 심진화의 사연을 안타까워 했고 심진화는 “소송하는 데만 500만원이 들고, 내가 안 써야 하는 돈을 써야 한다”며 “억울한 일이 계속 커지고 있다”고 말했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "심진화는 발언 뒤 눈물을 흘리며 오열까지 해 출연자들의 위로를 샀다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오열까지했는데…심진화, 전세사기 발언사과",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

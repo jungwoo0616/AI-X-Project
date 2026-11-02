@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266312",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘토밥좋아’ 현주엽 “매끼 최선 다해” 자책",
+		"newsSubTitle": "",
+		"newsContent": "박명수가 먹방 도중 사모곡을 부르짖는다.\n오는 9일(토) 방송되는 티캐스트 E채널 ‘토요일은 밥이 좋아(토밥좋아)’에서는 경기 수원의 로컬맛집을 탐방하는 멤버들의 먹방 여행이 공개된다.\n박명수는 깊은 맛이 우러나는 생태탕을 먹으며 “옛날 엄마가 생각난다”고 효심 가득 담긴 맛 표현을 한다.\n노사연은 “엄마 생각나지?”라며 박명수의 말에 격한 공감을 보낸다.\n하지만 박명수는 “지금 엄마보다 옛날 엄마 생각난다. 지금 엄마는 아무것도 안 하시기 때문이다”며 반전 맛 평가로 멤버들을 웃음 짓게 한다.\n노사연은 “같은 엄마인데…이제 엄마도 나이 드셔서 힘들어서 그렇다”며 박명수의 농담을 받아치며 호흡을 맞춘다. ‘토밥좋아’ 촬영 때마다 체중이 늘어 고민인 현주엽은 생태탕 맛에 흠뻑 취해 “또 자제를 못 한다. 매끼 이렇게 최선을 다해도 되는 것이냐”며 자책한다.\n그러자 노사연은 “인생에 자제란 없다. 우리는 내일 일을 알 수 없으니 최선을 다해야 한다. 너무 맛있는 건 못 견딘다”며 대식가의 먹방 철학을 전파한다.\n또 한도가 초과할 정도로 배를 채운 뒤에는 눈치를 보며 제작진에게 “마이크 벨트 빼도 되나”고 말해 웃음을 자아낸다.\n박명수가 어머니까지 소환한 맛집, ‘토밥좋아’ 수원 편은 9일(토) 오후 5시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박명수가 먹방 도중 사모곡을 부르짖는다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 9일(토) 방송되는 티캐스트 E채널 ‘토요일은 밥이 좋아(토밥좋아)’에서는 경기 수원의 로컬맛집을 탐방하는 멤버들의 먹방 여행이 공개된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박명수는 깊은 맛이 우러나는 생태탕을 먹으며 “옛날 엄마가 생각난다”고 효심 가득 담긴 맛 표현을 한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노사연은 “엄마 생각나지?”라며 박명수의 말에 격한 공감을 보낸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 박명수는 “지금 엄마보다 옛날 엄마 생각난다. 지금 엄마는 아무것도 안 하시기 때문이다”며 반전 맛 평가로 멤버들을 웃음 짓게 한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노사연은 “같은 엄마인데…이제 엄마도 나이 드셔서 힘들어서 그렇다”며 박명수의 농담을 받아치며 호흡을 맞춘다. ‘토밥좋아’ 촬영 때마다 체중이 늘어 고민인 현주엽은 생태탕 맛에 흠뻑 취해 “또 자제를 못 한다. 매끼 이렇게 최선을 다해도 되는 것이냐”며 자책한다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러자 노사연은 “인생에 자제란 없다. 우리는 내일 일을 알 수 없으니 최선을 다해야 한다. 너무 맛있는 건 못 견딘다”며 대식가의 먹방 철학을 전파한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 한도가 초과할 정도로 배를 채운 뒤에는 눈치를 보며 제작진에게 “마이크 벨트 빼도 되나”고 말해 웃음을 자아낸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "박명수가 어머니까지 소환한 맛집, ‘토밥좋아’ 수원 편은 9일(토) 오후 5시 방송된다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘토밥좋아’ 현주엽 “매끼 최선 다해” 자책",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

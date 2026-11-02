@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167217",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "공유·배두나 '고요의 바다', 공개 직후 글로벌 7위",
+    "newsSubTitle": "",
+    "newsContent": "넷플릭스 새 한국 오리지널 시리즈 ‘고요의 바다’가 공개 직후 글로벌 순위권에 진입했다.\n26일 온라인 콘텐츠 서비스 순위 집계 사이트 ‘플릭스 패트롤’에 따르면 ‘고요의 바다’는 전날 기준으로 넷플릭스 TV 프로그램 부문 전 세계 톱(TOP) 7위에 올랐다.\n이날 순위는 ‘고요의 바다’가 공개된 24일 데이터를 집계한 것이다.\n국가별 순위를 보면 한국에서는 1위, 싱가포르와 태국에서는 3위였다.\n세계적인 신드롬을 일으킨 ‘오징어게임’과 ‘오겜’의 후광을 입고 큰 관심을 받은 ‘지옥’ 등과 비교해 폭발적인 관심은 덜하지만 캐나다와 북미권에서도 5위를 기록해 눈길을 끈다. ‘고요의 바다’는 필수 자원의 고갈로 황폐해진 가까운 미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난 정예 대원들의 이야기를 다룬 한국 첫 우주 SF 시리즈다.\n배두나, 공유, 이준, 김선영 등이 출연하며 정우성이 제작자로 나서 연말 기대작으로 꼽혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "넷플릭스 새 한국 오리지널 시리즈 ‘고요의 바다’가 공개 직후 글로벌 순위권에 진입했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 온라인 콘텐츠 서비스 순위 집계 사이트 ‘플릭스 패트롤’에 따르면 ‘고요의 바다’는 전날 기준으로 넷플릭스 TV 프로그램 부문 전 세계 톱(TOP) 7위에 올랐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 순위는 ‘고요의 바다’가 공개된 24일 데이터를 집계한 것이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "국가별 순위를 보면 한국에서는 1위, 싱가포르와 태국에서는 3위였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세계적인 신드롬을 일으킨 ‘오징어게임’과 ‘오겜’의 후광을 입고 큰 관심을 받은 ‘지옥’ 등과 비교해 폭발적인 관심은 덜하지만 캐나다와 북미권에서도 5위를 기록해 눈길을 끈다. ‘고요의 바다’는 필수 자원의 고갈로 황폐해진 가까운 미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난 정예 대원들의 이야기를 다룬 한국 첫 우주 SF 시리즈다.",
+        "sentenceSize": 195
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배두나, 공유, 이준, 김선영 등이 출연하며 정우성이 제작자로 나서 연말 기대작으로 꼽혔다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'고요의 바다' 공개 직후 글로벌 7위, 제 2의 '오징어 게임' 될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

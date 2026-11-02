@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171157",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "다이어트 후 제2 전성기 맞은 이영현…“유지어터 대열 합류했죠”",
+    "newsSubTitle": "",
+    "newsContent": "가수 이영현이 제 2의 전성기를 보내고 있어 눈길을 끈다.\n이영현은 체중감량의 아이콘으로 불린다.\n임신성 당뇨로 인해 고통을 받았고 이를 극복하기 위해 체중조절을 택했다 알려진 그는 33㎏을 감량해 모두를 놀라게 한 바 있다.\n이후 5년 만에 솔로 신곡 ‘내게 올래’, 9년간의 공백을 깨고 원년 멤버 4명이 완전체로 컴백한 빅마마 앨범 발매 등 건강과 일 두마리 토끼를 모두 잡았다.\n이런 이영현이 건강한 근황을 전했다.\n이영현은 자신이 유지어터라 말한다.\n이영현은 “늘 감량과 요요를 반복해서 평생 다이어터의 길만 걸을 줄 알았는데 벌써 1년이나 체중을 유지하고 있는게 너무 놀랍다”며 “1년 동안 체중을 유지하고 있으니 이제 나도 유지어터라고 할 수 있지 않나?”라며 요요없이 체중을 유지하고 있는 소감을 전했다.\n이어 “1년이 아니라 앞으로도 쭉 감량한 체중을 유지하며 건강한 모습을 보여드리겠다”며 체중 유지에 대한 각오를 전했다.\n한편, 이영현은 최근 SKY채널 ‘캔디싱어즈’를 통해 활발한 활동을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이영현이 제 2의 전성기를 보내고 있어 눈길을 끈다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이영현은 체중감량의 아이콘으로 불린다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "임신성 당뇨로 인해 고통을 받았고 이를 극복하기 위해 체중조절을 택했다 알려진 그는 33㎏을 감량해 모두를 놀라게 한 바 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 5년 만에 솔로 신곡 ‘내게 올래’, 9년간의 공백을 깨고 원년 멤버 4명이 완전체로 컴백한 빅마마 앨범 발매 등 건강과 일 두마리 토끼를 모두 잡았다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이런 이영현이 건강한 근황을 전했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이영현은 자신이 유지어터라 말한다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이영현은 “늘 감량과 요요를 반복해서 평생 다이어터의 길만 걸을 줄 알았는데 벌써 1년이나 체중을 유지하고 있는게 너무 놀랍다”며 “1년 동안 체중을 유지하고 있으니 이제 나도 유지어터라고 할 수 있지 않나?”라며 요요없이 체중을 유지하고 있는 소감을 전했다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 “1년이 아니라 앞으로도 쭉 감량한 체중을 유지하며 건강한 모습을 보여드리겠다”며 체중 유지에 대한 각오를 전했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 이영현은 최근 SKY채널 ‘캔디싱어즈’를 통해 활발한 활동을 이어가고 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 이영현, `이 결정`으로 제2의 전성기 보낼 수 있었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

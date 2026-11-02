@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275963",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장원영, 이젠 글로벌한 ‘눈빛’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아이브(IVE)의 장원영이 컬러렌즈 브랜드 글로벌 모델로 발탁됐다.\n장원영이 모델로 발탁된 브랜드는 21일 공식 SNS 채널을 통해 장원영의 다채로운 매력이 담긴 이미지를 공개했다.\n공개된 이미지 속 장원영은 인형 같은 비현실적 비주얼과 반짝반짝 빛나는 영롱한 눈빛으로 오묘한 분위기를 자아내며 보는이들의 감탄을 불러일으켰다.\n브랜드 관계자는 “MZ세대 워너비 아이콘으로 다양한 매력을 지닌 장원영이 독특하고 감각적인 디자인의 컬러렌즈를 보유한 브랜드와 부합했다”고 밝혔다.\n장원영은 이번 모델 발탁으로 한국을 포함해 중국, 일본, 싱가포르, 미국 등에서 활약하며 뜨거운 글로벌 영향력을 발휘한다.\n그는 모델 이미지 공개를 시작으로 국내는 물론, 중국, 일본, 싱가포르, 미국 등에서도 모델로서 다양한 캠페인 활동을 이어갈 예정이다.\n한편 장원영은 KBS2 음악 프로그램 ‘뮤직뱅크’ MC로 활약하며 매끄러운 진행 실력과 특유의 밝은 에너지로 프로그램에 활력을 불어넣으며 시청자들에게 사랑받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이브(IVE)의 장원영이 컬러렌즈 브랜드 글로벌 모델로 발탁됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장원영이 모델로 발탁된 브랜드는 21일 공식 SNS 채널을 통해 장원영의 다채로운 매력이 담긴 이미지를 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 이미지 속 장원영은 인형 같은 비현실적 비주얼과 반짝반짝 빛나는 영롱한 눈빛으로 오묘한 분위기를 자아내며 보는이들의 감탄을 불러일으켰다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "브랜드 관계자는 “MZ세대 워너비 아이콘으로 다양한 매력을 지닌 장원영이 독특하고 감각적인 디자인의 컬러렌즈를 보유한 브랜드와 부합했다”고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장원영은 이번 모델 발탁으로 한국을 포함해 중국, 일본, 싱가포르, 미국 등에서 활약하며 뜨거운 글로벌 영향력을 발휘한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 모델 이미지 공개를 시작으로 국내는 물론, 중국, 일본, 싱가포르, 미국 등에서도 모델로서 다양한 캠페인 활동을 이어갈 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 장원영은 KBS2 음악 프로그램 ‘뮤직뱅크’ MC로 활약하며 매끄러운 진행 실력과 특유의 밝은 에너지로 프로그램에 활력을 불어넣으며 시청자들에게 사랑받고 있다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장원영, 이젠 글로벌한 ‘눈빛’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

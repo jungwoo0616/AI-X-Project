@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264500",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "서울시, TBS 경영평가 때 방통위 법정제재 반영",
+		"newsSubTitle": "",
+		"newsContent": "서울시가 올해부터 TBS(교통방송) 경영평가를 할 때 방송통신위원회로부터 받은 과징금과 법정제재 결과를 반영하기로 했다.\n서울시는 이런 내용을 담은 ‘2022년 서울시 출연기관 경영평가 운영체제’를 확정해 최근 TBS에 통보했다고 21일 전했다.\n추가된 지표는 지난해 성과를 평가하는 올해 경영평가부터 적용된다.\n100점 만점인 경영평가는 모든 평가 대상 기관에 적용되는 공통지표(50점)와 기관별 사업 성과를 평가하는 사업지표(50점)로 구성된다.\nTBS에 적용되는 방통위 법정제재 건수 지표는 100점 중 2점을 차지한다고 시는 설명했다.\n제재 건수가 없으면 2점 만점이 주어지며, 제재 횟수와 수위 등에 따라 감점이 적용된다.\n경영등급이 하락하면 직원 성과급도 줄어든다. TBS의 간판 프로그램인 ‘김어준의 뉴스공장’은 작년 10월 방통위로부터 법정제재인 주의를 받은 적이 있다. 2020년 12월 법원이 윤석열 당시 검찰총장에 대한 징계 집행정지 가처분 결정을 한 데 대해 진행자 김어준 씨가 “법조 쿠데타” 등 표현을 사용해 논평한 데 따른 조치였다.\n올해는 이재명 더불어민주당 대선 후보를 공개 지지하는 발언으로 이달 18일 선거방송심의위원회로부터 ‘경고’를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울시가 올해부터 TBS(교통방송) 경영평가를 할 때 방송통신위원회로부터 받은 과징금과 법정제재 결과를 반영하기로 했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울시는 이런 내용을 담은 ‘2022년 서울시 출연기관 경영평가 운영체제’를 확정해 최근 TBS에 통보했다고 21일 전했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "추가된 지표는 지난해 성과를 평가하는 올해 경영평가부터 적용된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "100점 만점인 경영평가는 모든 평가 대상 기관에 적용되는 공통지표(50점)와 기관별 사업 성과를 평가하는 사업지표(50점)로 구성된다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "TBS에 적용되는 방통위 법정제재 건수 지표는 100점 중 2점을 차지한다고 시는 설명했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제재 건수가 없으면 2점 만점이 주어지며, 제재 횟수와 수위 등에 따라 감점이 적용된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경영등급이 하락하면 직원 성과급도 줄어든다. TBS의 간판 프로그램인 ‘김어준의 뉴스공장’은 작년 10월 방통위로부터 법정제재인 주의를 받은 적이 있다. 2020년 12월 법원이 윤석열 당시 검찰총장에 대한 징계 집행정지 가처분 결정을 한 데 대해 진행자 김어준 씨가 “법조 쿠데타” 등 표현을 사용해 논평한 데 따른 조치였다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "올해는 이재명 더불어민주당 대선 후보를 공개 지지하는 발언으로 이달 18일 선거방송심의위원회로부터 ‘경고’를 받았다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울시, TBS 경영평가 때 방통위 법정제재 반영",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

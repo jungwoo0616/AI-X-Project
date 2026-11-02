@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171519",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "박명수 “요소수 대란 미리 대비했어야…정부 잘못” 일침 (‘라디오쇼’)",
+    "newsSubTitle": "",
+    "newsContent": "코미디언 박명수가 요소수 대란에 대해 일침을 날렸다.\n9일 방송된 KBS 쿨 FM ‘박명수의 라디오쇼’에서 박명수가 방송인 김태진과 함께 모발모발(Mobile) 퀴즈쇼를 진행하는 가운데 ‘요소수’를 맞히는 퀴즈가 출제됐다.\n이에 박명수는 “화물차로 먹고사는 분들이 많이 계신데 큰 문제다. 미리 예측을 해서 대비하고 있었어야 한다. 심각하다”고 비판의 목소리를 냈다.\n이어 “정책 당국이 잘못했다. 빨리 해결하길 바란다”고 덧붙였다.\n김태진 역시 “빨리 사태가 해결되길 바란다”고 거들었다.\n최근 국내 요소수 값은 중국발 요소수 품귀 사태로 인해 폭등했다.\n이날(9일) 국무회의에서 문재인 대통령은 요소수 품귀 사태에 대해 “정부는 외교역량을 총동원해 해외물량 확보에 총력을 기울이고 있다”며 “국민들께서는 지나친 불안감을 갖지 마시기를 당부드린다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코미디언 박명수가 요소수 대란에 대해 일침을 날렸다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 방송된 KBS 쿨 FM ‘박명수의 라디오쇼’에서 박명수가 방송인 김태진과 함께 모발모발(Mobile) 퀴즈쇼를 진행하는 가운데 ‘요소수’를 맞히는 퀴즈가 출제됐다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 박명수는 “화물차로 먹고사는 분들이 많이 계신데 큰 문제다. 미리 예측을 해서 대비하고 있었어야 한다. 심각하다”고 비판의 목소리를 냈다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “정책 당국이 잘못했다. 빨리 해결하길 바란다”고 덧붙였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김태진 역시 “빨리 사태가 해결되길 바란다”고 거들었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 국내 요소수 값은 중국발 요소수 품귀 사태로 인해 폭등했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날(9일) 국무회의에서 문재인 대통령은 요소수 품귀 사태에 대해 “정부는 외교역량을 총동원해 해외물량 확보에 총력을 기울이고 있다”며 “국민들께서는 지나친 불안감을 갖지 마시기를 당부드린다”고 말했다.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박명수, 이런 발언 괜찮나? \"정책 당국이 잘못했다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

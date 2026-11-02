@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171357",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송혜교X서경덕, 한글날 맞아 '한국임시정부요인거주지' 간판 기증",
+    "newsSubTitle": "",
+    "newsContent": "575돌 한글날을 맞아 배우 송혜교와 성신여대 서경덕 교수가 또 한 번 힘을 모았다.\n서경덕 교수팀은 9일 “배우 송혜교와 서경덕 교수가 중국 가흥에 위치한 ‘한국임시정부요인거주지’에 대형 한글 간판을 기증했다”고 밝혔다.\n이번 대형 목재 안내판은 한국어 및 중국어로 제작해 정문 입구에 설치됐다.\n서경덕 교수는 “해외에 있는 독립운동 유적지에 한글 간판이 아직 없는 곳들이 있어 꾸준히 기증 작업을 펼치는 중이다”라고 전했다.\n이어 “코로나19의 장기화로 인해 해외에 남아 있는 대한민국 역사 유적지들의 상황도 썩 좋은 편은 아니다. 이럴수록 우리가 더 많은 관심을 가져야 할 때”라고 강조했다.\n앞서 두 사람은 네덜란드 헤이그에 위치한 이준열사기념관과 일본 우토로 마을에도 대형 한글 안내판을 설치한 바 있다.\n한편 송혜교와 서경덕은 지난 10년간 역사적인 기념일 때마다 해외에 있는 대한민국 독립운동 유적지에 한국어 안내서, 한글 간판, 부조 작품 등을 지금까지 29곳에 기증했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "575돌 한글날을 맞아 배우 송혜교와 성신여대 서경덕 교수가 또 한 번 힘을 모았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서경덕 교수팀은 9일 “배우 송혜교와 서경덕 교수가 중국 가흥에 위치한 ‘한국임시정부요인거주지’에 대형 한글 간판을 기증했다”고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 대형 목재 안내판은 한국어 및 중국어로 제작해 정문 입구에 설치됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서경덕 교수는 “해외에 있는 독립운동 유적지에 한글 간판이 아직 없는 곳들이 있어 꾸준히 기증 작업을 펼치는 중이다”라고 전했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “코로나19의 장기화로 인해 해외에 남아 있는 대한민국 역사 유적지들의 상황도 썩 좋은 편은 아니다. 이럴수록 우리가 더 많은 관심을 가져야 할 때”라고 강조했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 두 사람은 네덜란드 헤이그에 위치한 이준열사기념관과 일본 우토로 마을에도 대형 한글 안내판을 설치한 바 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 송혜교와 서경덕은 지난 10년간 역사적인 기념일 때마다 해외에 있는 대한민국 독립운동 유적지에 한국어 안내서, 한글 간판, 부조 작품 등을 지금까지 29곳에 기증했다.",
+        "sentenceSize": 96
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화려한 돌싱 송혜교가 10년간 특별한 날마나 만남 남자는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

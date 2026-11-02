@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276944",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "정다은 아나, ‘발리에서 생긴 일’공개",
+		"newsSubTitle": "",
+		"newsContent": "정다은 아나운서가 신혼여행 인증샷을 공개했다.\n정다은 아나운서는 17일 자신의 SNS를 통해 “발리에서 생긴 일. 배영”이라고 적고 청명한 하늘과 바닷속에 둘러싸인 풀빌라에서 수영 중인 사진을 공개했다.\n사진 속 정다은 아나운서는 비키니 수영복을 입고 수영장에서 여유롭게 배영 중인 모습이다.\n또한 선글라스를 끼고 뜨거운 태양을 바라보며 물속에서 힐링 평화로운 모습도 공개했다.\n한편 조우종과 정다은은 지난 3월 16일 결혼식을 올렸다.\n두 사람은 KBS 아나운서 선후배로 처음 만나 진지하게 교제해왔고, 서로 격려하고 지지해주며 사랑을 이어왔다 이들 부부는 조우종의 스케줄을 배려해 결혼 2주가 지나 뒤늦은 신혼여행 길에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정다은 아나운서가 신혼여행 인증샷을 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정다은 아나운서는 17일 자신의 SNS를 통해 “발리에서 생긴 일. 배영”이라고 적고 청명한 하늘과 바닷속에 둘러싸인 풀빌라에서 수영 중인 사진을 공개했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 정다은 아나운서는 비키니 수영복을 입고 수영장에서 여유롭게 배영 중인 모습이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 선글라스를 끼고 뜨거운 태양을 바라보며 물속에서 힐링 평화로운 모습도 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 조우종과 정다은은 지난 3월 16일 결혼식을 올렸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 KBS 아나운서 선후배로 처음 만나 진지하게 교제해왔고, 서로 격려하고 지지해주며 사랑을 이어왔다 이들 부부는 조우종의 스케줄을 배려해 결혼 2주가 지나 뒤늦은 신혼여행 길에 올랐다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정다은 아나, ‘발리에서 생긴 일’공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

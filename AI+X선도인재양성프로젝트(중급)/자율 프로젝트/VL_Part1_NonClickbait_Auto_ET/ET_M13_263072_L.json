@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263072",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "카밀라 카베요X에드 시런, ‘Bam Bam’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "개성 넘치는 음악성으로 슈퍼스타 반열에 오른 카밀라 카베요(Camila Cabello)가 에드 시런(Ed Sheeran)과 만났다.\n카밀라 카베요가 발매하는 신곡 ‘뱀 뱀(Bam Bam)’에는 ‘쉐이프 오프 유(Shape of You)’의 주인공 에드 시런이 함께한다.\n감성적인 싱어송라이터 에드 시런은 이번 피처링에서 자신의 목소리를 카밀라 카베요의 정열적 에너지에 녹여냈다.\n에드 시런은 데뷔 후 지금까지 4개의 멀티 플래티넘과 4회의 그래미 수상 등 인기를 누리고 있다.\n뮤직비디오는 ‘하바나(Havana)’와 ‘세뇨리따(Senorita)’, ‘마이 오 마이(My Oh My)’와 ‘라이어(Liar)’에 함께한 데이브 메이어스(Dave Meyers)가 연출했다.\n카밀라 카베요는 이번 신곡과 함께 정규 3집 ‘파밀리아(Familia)’를 예고했다.\n앨범은 4월에 발매될 예정이다.\n카밀라 카베요와 에드 시런, 서로 다른 두 사람의 매력적인 ‘Bam Bam’은 현재 모든 스트리밍 서비스에서 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개성 넘치는 음악성으로 슈퍼스타 반열에 오른 카밀라 카베요(Camila Cabello)가 에드 시런(Ed Sheeran)과 만났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카밀라 카베요가 발매하는 신곡 ‘뱀 뱀(Bam Bam)’에는 ‘쉐이프 오프 유(Shape of You)’의 주인공 에드 시런이 함께한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "감성적인 싱어송라이터 에드 시런은 이번 피처링에서 자신의 목소리를 카밀라 카베요의 정열적 에너지에 녹여냈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에드 시런은 데뷔 후 지금까지 4개의 멀티 플래티넘과 4회의 그래미 수상 등 인기를 누리고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뮤직비디오는 ‘하바나(Havana)’와 ‘세뇨리따(Senorita)’, ‘마이 오 마이(My Oh My)’와 ‘라이어(Liar)’에 함께한 데이브 메이어스(Dave Meyers)가 연출했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카밀라 카베요는 이번 신곡과 함께 정규 3집 ‘파밀리아(Familia)’를 예고했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앨범은 4월에 발매될 예정이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카밀라 카베요와 에드 시런, 서로 다른 두 사람의 매력적인 ‘Bam Bam’은 현재 모든 스트리밍 서비스에서 감상할 수 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카밀라 카베요X에드 시런, ‘Bam Bam’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

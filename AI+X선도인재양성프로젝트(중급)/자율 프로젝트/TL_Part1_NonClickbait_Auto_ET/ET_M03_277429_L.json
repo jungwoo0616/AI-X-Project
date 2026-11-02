@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277429",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "시상식에서 블랙핑크 ‘지수’가 보인 특이한 행동",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크의 지수가 시상식에서 범상치 않은 행동으로 눈길을 끌었다.\n지난 19일 진행된 제26회 서울가요대상에서 블랙핑크의 지수가 어깨에 물병을 올리는 행동을 하다 카메라에 잡혀 많은 이들에게 즐거움을 선사했다.\n지수는 자신의 어깨를 바라보며 물통을 올리는 데 열중했고 잘 되지 않는지 사뭇 진지한 표정으로 집중하는 모습을 보였다.\n카메라를 통해 전광판에 지수의 특이한 행동이 보이자 옆에 앉아 레드벨벳 멤버들은 큰 웃음을 터뜨렸고 이내 지수도 상황을 파악하고 멋쩍은 웃음을 지었다.\n레드벨벳이 웃음바다가 된 것과 달리 블랙핑크 멤버 로제는 지수의 행동이 일상인 듯 차분한 미소를 보였다.\n이 모습을 본 팬들은 꾸밈없는 지수의 행동에 “너무 귀여운 거 아니냐ㅠㅠ” “왜 이렇게 진지하냐고” 등 흐뭇한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크의 지수가 시상식에서 범상치 않은 행동으로 눈길을 끌었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 19일 진행된 제26회 서울가요대상에서 블랙핑크의 지수가 어깨에 물병을 올리는 행동을 하다 카메라에 잡혀 많은 이들에게 즐거움을 선사했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지수는 자신의 어깨를 바라보며 물통을 올리는 데 열중했고 잘 되지 않는지 사뭇 진지한 표정으로 집중하는 모습을 보였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카메라를 통해 전광판에 지수의 특이한 행동이 보이자 옆에 앉아 레드벨벳 멤버들은 큰 웃음을 터뜨렸고 이내 지수도 상황을 파악하고 멋쩍은 웃음을 지었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레드벨벳이 웃음바다가 된 것과 달리 블랙핑크 멤버 로제는 지수의 행동이 일상인 듯 차분한 미소를 보였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 모습을 본 팬들은 꾸밈없는 지수의 행동에 “너무 귀여운 거 아니냐ㅠㅠ” “왜 이렇게 진지하냐고” 등 흐뭇한 반응을 보였다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시상식에서 블랙핑크 ‘지수’가 보인 특이한 행동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

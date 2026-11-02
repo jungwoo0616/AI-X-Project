@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260733",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이유 1위…에스파·방탄소년단 제쳤다",
+		"newsSubTitle": "",
+		"newsContent": "가수 아이유가 1월 5주차 아이돌차트 아차랭킹 1위에 올랐다.\n아이유는 5일 발표된 아이돌차트 1월 5주차(22.1.31~22.2.6) 아차랭킹에서 음원점수 1706점, 유튜브 점수 2762점, 소셜점수 3090점 등 총점 7568점으로 1위를 기록했다.\n지난7일 뮤직플랫폼 멜론에서 발표한 2021년 가장 많이 들은 노래로 아이유의 ‘셀러브리티’(Celebrity)가 선정되며 음원퀸의 면모를 과시했다.\n셀러브리티는 발매 3시간 만에 24Hits 차트 1위, 주간차트 6주 연속 1위, 월간 차트 1위 등을 기록하며 폭발적인 사랑을 받았다. ‘셀러브리티’ 외에도 ‘라일락’, ‘블루밍’(Blueming), ‘에잇’ 등 아이유의 곡은 11곡이나 연간 차트에 진입했다.\n2위는 총점 5712점의 에스파가 차지했다.\n뒤를 이어 방탄소년단(총점 4987점), 비오(총점 3831점), 임영웅(총점 3401점), 아이브(총점 3075점), 갓더비트(총점 3038점), 장원영(총점 2611점), 태연(총점 2488점), 트와이스(총점 2441점)순으로 집계됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 아이유가 1월 5주차 아이돌차트 아차랭킹 1위에 올랐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이유는 5일 발표된 아이돌차트 1월 5주차(22.1.31~22.2.6) 아차랭킹에서 음원점수 1706점, 유튜브 점수 2762점, 소셜점수 3090점 등 총점 7568점으로 1위를 기록했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난7일 뮤직플랫폼 멜론에서 발표한 2021년 가장 많이 들은 노래로 아이유의 ‘셀러브리티’(Celebrity)가 선정되며 음원퀸의 면모를 과시했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "셀러브리티는 발매 3시간 만에 24Hits 차트 1위, 주간차트 6주 연속 1위, 월간 차트 1위 등을 기록하며 폭발적인 사랑을 받았다. ‘셀러브리티’ 외에도 ‘라일락’, ‘블루밍’(Blueming), ‘에잇’ 등 아이유의 곡은 11곡이나 연간 차트에 진입했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2위는 총점 5712점의 에스파가 차지했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뒤를 이어 방탄소년단(총점 4987점), 비오(총점 3831점), 임영웅(총점 3401점), 아이브(총점 3075점), 갓더비트(총점 3038점), 장원영(총점 2611점), 태연(총점 2488점), 트와이스(총점 2441점)순으로 집계됐다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유 1위…에스파·방탄소년단 제쳤다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

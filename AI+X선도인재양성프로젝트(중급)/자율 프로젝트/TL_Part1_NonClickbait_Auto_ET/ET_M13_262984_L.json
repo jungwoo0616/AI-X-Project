@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262984",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "딸 재시 파리 패션위크 런웨이 본 이동국 “살아있네”",
+		"newsSubTitle": "",
+		"newsContent": "이동국 딸 재시가 프랑스 파리 패션쇼를 통해 모델로 데뷔한 소감을 밝혔다.\n전 축구선수이자 방송인 이동국의 딸 재시는 6일 자신의 SNS 인스타그램에 “꿈같은 파리 패션 위크에 서게 됐다. 첫 무대라 많이 긴장됐지만, 후회 없는 무대였던 것 같다. 이 자리에 설 수 있게 되어서 너무 영광스러웠다”는 소감과 함께 리허설 사진 여러장을 올렸다.\n공개된 사진 속 재시는 갈색 망토를 입고 카리스마 넘치는 표정으로 런웨이를 걷고 있다.\n해당 게시물에 아빠 이동국은 “눈빛보소 살아있네” 라는 댓글을 남겼다.\n누리꾼들 역시 “너무 예뻐서 재시밖에 안보였다”“축하한다”는 댓글을 이어갔다.\n재시는 지난 2월 19일 개최된 제1회 패션 뮤즈 선발대회 피날레 무대를 장식했다.\n재시는 해당 대회에서 뮤즈로 선정되며 22FW 공식 파리패션위크 런웨이에 올랐다.\n한편, 이동국의 딸 재시는 모델 지망생이었으나, 최근 연기 수업을 받고 있다며 배우의 꿈을 키우고 있다고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이동국 딸 재시가 프랑스 파리 패션쇼를 통해 모델로 데뷔한 소감을 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전 축구선수이자 방송인 이동국의 딸 재시는 6일 자신의 SNS 인스타그램에 “꿈같은 파리 패션 위크에 서게 됐다. 첫 무대라 많이 긴장됐지만, 후회 없는 무대였던 것 같다. 이 자리에 설 수 있게 되어서 너무 영광스러웠다”는 소감과 함께 리허설 사진 여러장을 올렸다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 재시는 갈색 망토를 입고 카리스마 넘치는 표정으로 런웨이를 걷고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물에 아빠 이동국은 “눈빛보소 살아있네” 라는 댓글을 남겼다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들 역시 “너무 예뻐서 재시밖에 안보였다”“축하한다”는 댓글을 이어갔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "재시는 지난 2월 19일 개최된 제1회 패션 뮤즈 선발대회 피날레 무대를 장식했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "재시는 해당 대회에서 뮤즈로 선정되며 22FW 공식 파리패션위크 런웨이에 올랐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 이동국의 딸 재시는 모델 지망생이었으나, 최근 연기 수업을 받고 있다며 배우의 꿈을 키우고 있다고 밝힌 바 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "딸 재시 파리 패션위크 런웨이 본 이동국 “살아있네”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

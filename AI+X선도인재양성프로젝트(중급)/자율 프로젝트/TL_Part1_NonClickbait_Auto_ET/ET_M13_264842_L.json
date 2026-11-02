@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264842",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정보석도 당했다, 끊임없는 SNS사칭 피해",
+		"newsSubTitle": "",
+		"newsContent": "배우 정보석이 사회관계망서비스(SNS) 사칭 피해를 호소했다.\n정보석은 24일 인스타그램에 프로필로 자신의 사진과 이름을 사용한 한 인스타그램 계정 프로필을 캡처해 올리며 해당 게정이 자신을 사칭한 계정임을 공지했다.\n그는 “이 계정으로 저를 사칭해 DM(인스타그램 다이렉트 메시지)를 보내는 분이 있다”며 “이 계정은 제가 아니니 주의 부탁드린다. 불편을 드려 죄송하다”라고 했다.\n정보성을 사칭한 계정은 정보석은 물론 그의 가족 사진까지 다수 올리며 정보석을 사칭하고 있다.\n정보석이 운영하는 제과점의 이름과 운영시간까지 프로필에 적었다.\n연예인 사칭 SNS 계정 피해는 SNS의 대중화가 이뤄진 이래 지속적으로 이어지고 있다.\n연예인을 사칭해 팬들에게 의도적으로 접근한 뒤 악의적인 소문을 퍼뜨리거나, 금융정보 및 금전을 요구하는 등 다양한 형태의 범죄가 발생하고 있는 형국이다.\n피해 관계가 밝혀지지 않고 단순 연예인 사칭만으론 처벌이 어려울 수 있어 이와 관련한 입법 공백을 두고 다양한 논의가 진행되고 있는 상황이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정보석이 사회관계망서비스(SNS) 사칭 피해를 호소했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정보석은 24일 인스타그램에 프로필로 자신의 사진과 이름을 사용한 한 인스타그램 계정 프로필을 캡처해 올리며 해당 게정이 자신을 사칭한 계정임을 공지했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “이 계정으로 저를 사칭해 DM(인스타그램 다이렉트 메시지)를 보내는 분이 있다”며 “이 계정은 제가 아니니 주의 부탁드린다. 불편을 드려 죄송하다”라고 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정보성을 사칭한 계정은 정보석은 물론 그의 가족 사진까지 다수 올리며 정보석을 사칭하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정보석이 운영하는 제과점의 이름과 운영시간까지 프로필에 적었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연예인 사칭 SNS 계정 피해는 SNS의 대중화가 이뤄진 이래 지속적으로 이어지고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연예인을 사칭해 팬들에게 의도적으로 접근한 뒤 악의적인 소문을 퍼뜨리거나, 금융정보 및 금전을 요구하는 등 다양한 형태의 범죄가 발생하고 있는 형국이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "피해 관계가 밝혀지지 않고 단순 연예인 사칭만으론 처벌이 어려울 수 있어 이와 관련한 입법 공백을 두고 다양한 논의가 진행되고 있는 상황이다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정보석도 당했다, 끊임없는 SNS사칭 피해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

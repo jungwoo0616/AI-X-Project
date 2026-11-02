@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277406",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "가래떡 뽑는 모습 처음 본 27개월 승재의 놀라운 표현력",
+		"newsSubTitle": "",
+		"newsContent": "젝스키스 출신 고지용의 27개월난 아들 승재가 평창 전통시장을 정복했다.\n승재는 어린 나이 답지 않은 놀라운 표현력으로 주변 사람들을 놀라게 했다.\n1월 29일 방송된 KBS 2TV ‘해피선데이-슈퍼맨이 돌아왔다’에서 고지용은 아들 승재를 데리고 시장을 찾았다.\n방송에서 고지용은 “승재 엄마가 평일에 일하고 주말에 육아해 쉴 시간이 많지 않았다. 그런데 이번에 의료봉사를 간다고 하더라. 우리가 할 수 있는게 많지 않아서 군것질거리를 준비해봤다”고 말했다.\n고지용과 승재는 떡집으로 가 엄마에게 가져다줄 송편을 주문했다.\n마침 떡집에선 가래떡을 한창 뽑는 중이었고 승재는 이 장면을 신기하다는 듯 쳐다보다 “꼬리 흔들흔들하네”라고 말했다.\n출렁대며 길게 뽑혀나오는 가래떡이 어린 승재 눈엔 동물의 꼬리처럼 보인 것이다.\n승재는 이어 “꼬리를 살랑살랑하네. 줄줄이 나오네”라고 덧붙여 웃음을 자아냈다.\n지난 1일 ‘슈퍼맨이 돌아왔다’에 합류한 고지용 부자는 큰 인기를 얻고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "젝스키스 출신 고지용의 27개월난 아들 승재가 평창 전통시장을 정복했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "승재는 어린 나이 답지 않은 놀라운 표현력으로 주변 사람들을 놀라게 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1월 29일 방송된 KBS 2TV ‘해피선데이-슈퍼맨이 돌아왔다’에서 고지용은 아들 승재를 데리고 시장을 찾았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송에서 고지용은 “승재 엄마가 평일에 일하고 주말에 육아해 쉴 시간이 많지 않았다. 그런데 이번에 의료봉사를 간다고 하더라. 우리가 할 수 있는게 많지 않아서 군것질거리를 준비해봤다”고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고지용과 승재는 떡집으로 가 엄마에게 가져다줄 송편을 주문했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마침 떡집에선 가래떡을 한창 뽑는 중이었고 승재는 이 장면을 신기하다는 듯 쳐다보다 “꼬리 흔들흔들하네”라고 말했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "출렁대며 길게 뽑혀나오는 가래떡이 어린 승재 눈엔 동물의 꼬리처럼 보인 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "승재는 이어 “꼬리를 살랑살랑하네. 줄줄이 나오네”라고 덧붙여 웃음을 자아냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난 1일 ‘슈퍼맨이 돌아왔다’에 합류한 고지용 부자는 큰 인기를 얻고 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가래떡 뽑는 모습 처음 본 27개월 승재의 놀라운 표현력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

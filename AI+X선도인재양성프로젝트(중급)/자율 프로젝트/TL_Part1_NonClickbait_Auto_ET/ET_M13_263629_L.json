@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263629",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "전소미, 윤석열 지지 논란에 “빨간색 배경은 이렇게 찍었어요” 해명",
+		"newsSubTitle": "",
+		"newsContent": "가수 전소미가 윤석열 대통령 당선인 지지논란에 대한 해명 영상을 올렸다.\n전소미는 11일 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 여러 장의 영상을 게시했다.\n영상 중 일부에서 전소미는 손으로 카메라를 가리는 과정을 찍어 빨간색 배경을 만드는 모습을 보였다.\n이는 그가 지난 9일 인스타그램 스토리에 투표한 근황을 알리며 해당 스토리 배경을 빨간색으로 해 생긴 논란을 의식한 것으로 보인다.\n일부 누리꾼들은 해당 게시글의 배경 화면이 윤석열 대통령 당선인을 지지한 것을 우회적으로 표현했다며 비난했다.\n누리꾼들은 전소미의 게시물에 “오해할 순 있지만 악플다는 행위는 하지 말았어야 한다” “누가 봐도 티나는 사람이 아니면 억지 추측은 그만” “소미 놀랐겠다”는 반응을 보였다.\n한편 전소미는 지난 9일 생일을 맞아 “모두 축하해주셔서 감사하다”는 게시물을 올리며 팬들의 축하를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 전소미가 윤석열 대통령 당선인 지지논란에 대한 해명 영상을 올렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전소미는 11일 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 여러 장의 영상을 게시했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 중 일부에서 전소미는 손으로 카메라를 가리는 과정을 찍어 빨간색 배경을 만드는 모습을 보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 그가 지난 9일 인스타그램 스토리에 투표한 근황을 알리며 해당 스토리 배경을 빨간색으로 해 생긴 논란을 의식한 것으로 보인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일부 누리꾼들은 해당 게시글의 배경 화면이 윤석열 대통령 당선인을 지지한 것을 우회적으로 표현했다며 비난했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리꾼들은 전소미의 게시물에 “오해할 순 있지만 악플다는 행위는 하지 말았어야 한다” “누가 봐도 티나는 사람이 아니면 억지 추측은 그만” “소미 놀랐겠다”는 반응을 보였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 전소미는 지난 9일 생일을 맞아 “모두 축하해주셔서 감사하다”는 게시물을 올리며 팬들의 축하를 받았다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전소미, 윤석열 지지 논란에 “빨간색 배경은 이렇게 찍었어요” 해명",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

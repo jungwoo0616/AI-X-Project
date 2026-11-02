@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170206",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "민효린, 임산부 시절 모습 공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 민효린이 지난해 임신 당시 사진을 공개해 화제다.\n민효린은 16일 자신의 SNS 인스타그램에 “작년 여름”이라는 글과 함께 사진 한 장을 게재했다.\n사진 속 민효린은 체리가 그려진 핑크색 니트를 입고 있다.\n매끄러운 피부와 명품 콧대가 시선을 끈다.\n민효린은 지난해 12월 출산 소식을 전했다.\n이로 미뤄 볼 때 작년 여름은 민효린이 임신 중이었던 것으로 추측된다.\n민효린은 정확한 임신 날짜와 출산 날짜 등을 공개하지는 않았다.\n소속사 측은 “민효린이 조용히 출산하기를 원했다”고 밝혔다.\n한편 민효린은 빅뱅 멤버 태양과 2018년 결혼했으며 3년 만에 득남했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 민효린이 지난해 임신 당시 사진을 공개해 화제다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "민효린은 16일 자신의 SNS 인스타그램에 “작년 여름”이라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 민효린은 체리가 그려진 핑크색 니트를 입고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "매끄러운 피부와 명품 콧대가 시선을 끈다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "민효린은 지난해 12월 출산 소식을 전했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이로 미뤄 볼 때 작년 여름은 민효린이 임신 중이었던 것으로 추측된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "민효린은 정확한 임신 날짜와 출산 날짜 등을 공개하지는 않았다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사 측은 “민효린이 조용히 출산하기를 원했다”고 밝혔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 민효린은 빅뱅 멤버 태양과 2018년 결혼했으며 3년 만에 득남했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매력적인 D라인 소유한 민효린, 출산 소식 전했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

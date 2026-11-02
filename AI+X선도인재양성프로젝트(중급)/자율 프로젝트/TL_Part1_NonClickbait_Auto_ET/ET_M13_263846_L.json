@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263846",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘강원래♥’ 김송 “팬트하우스 입성”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김송이 근황을 알렸다.\n김송은 14일 SNS에 “드디어 미라클모닝 14일차 팬트하우스 입성^^ 3월 새벽기상 514 미라클모닝챌린지. 첫도전 해서 드디어 팬트하우스에 입성했다. 역시 윗공기는 뭔가 다르대요? 프레쉬해~”라는 글과 함께 사진도 올렸다.\n사진 속 김송은 포스트잇에 “송이야~ 잘했어 칭찬해^^”라고 글씨를 쓴 후 이를 들고 셀카를 남겼다.\n공개한 사진에는 아들 선이가 아기 때 찍은 김송·강원래 가족의 사진도 담겨 있다.\n김송은 과거 그룹 콜라로 데뷔를 했었다.\n그는 듀오 클론 출신의 강원래와 결혼해 슬하에 아들 1명을 뒀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김송이 근황을 알렸다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김송은 14일 SNS에 “드디어 미라클모닝 14일차 팬트하우스 입성^^ 3월 새벽기상 514 미라클모닝챌린지. 첫도전 해서 드디어 팬트하우스에 입성했다. 역시 윗공기는 뭔가 다르대요? 프레쉬해~”라는 글과 함께 사진도 올렸다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김송은 포스트잇에 “송이야~ 잘했어 칭찬해^^”라고 글씨를 쓴 후 이를 들고 셀카를 남겼다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개한 사진에는 아들 선이가 아기 때 찍은 김송·강원래 가족의 사진도 담겨 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김송은 과거 그룹 콜라로 데뷔를 했었다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 듀오 클론 출신의 강원래와 결혼해 슬하에 아들 1명을 뒀다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘강원래♥’ 김송 “팬트하우스 입성”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

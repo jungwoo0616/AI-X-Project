@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285516",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'수요미식회' 빅마마 출신 이영현, \\\"공복인 상태로 절대 노래 못해\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'수요미식회' 이영현 ‘수요미식회’에 출연한 이영현이 공복으로는 절대 노래를 부를 수 없다고 고백했다.\n지난 21일 방송된 tvN ‘수요미식회’에서는 한국인에게 사랑받는 돼지갈비의 역사와 문 닫기 전에 꼭 가봐야 할 맛집이 소개됐으며 이현우, 이영현, 김동완이 게스트로 출연했다.\nMC 신동엽은 이날 이현우와 함께 게스트로 출연한 가수 이영현과 김동완에 대해 “예전에 들어 보니까 패티킴 선배님은 노래 부를 때 절대 음식을 안 드신다고 하시더라. 어떤 스타일이냐”고 질문했다.\n이에 이현우는 “나는 속을 비우는 스타일이다. 음식이 들어가면 몸이 좀 무뎌진다. 약간 배고픔과 짜증을 느끼면서 무대에 올라가는 것이 최상의 조건이다”고 말했다.\n김동완은 “우리는 노래보다 춤을 많이 추는 스타일이었어서 무조건 먹었다. 먹고 소화를 시킨 상태로 올라가야 했다”고 이야기했다.\n밥을 먹거나 먹지 않고 무대에 올랐다는 두 사람의 말에 이영현은 “난 공복 상태에서는 노래를 못 한다. 공복은 연기를 해도 숨길 수가 없다”고 덧붙여 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'수요미식회' 이영현 ‘수요미식회’에 출연한 이영현이 공복으로는 절대 노래를 부를 수 없다고 고백했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 21일 방송된 tvN ‘수요미식회’에서는 한국인에게 사랑받는 돼지갈비의 역사와 문 닫기 전에 꼭 가봐야 할 맛집이 소개됐으며 이현우, 이영현, 김동완이 게스트로 출연했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "MC 신동엽은 이날 이현우와 함께 게스트로 출연한 가수 이영현과 김동완에 대해 “예전에 들어 보니까 패티킴 선배님은 노래 부를 때 절대 음식을 안 드신다고 하시더라. 어떤 스타일이냐”고 질문했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이현우는 “나는 속을 비우는 스타일이다. 음식이 들어가면 몸이 좀 무뎌진다. 약간 배고픔과 짜증을 느끼면서 무대에 올라가는 것이 최상의 조건이다”고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김동완은 “우리는 노래보다 춤을 많이 추는 스타일이었어서 무조건 먹었다. 먹고 소화를 시킨 상태로 올라가야 했다”고 이야기했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "밥을 먹거나 먹지 않고 무대에 올랐다는 두 사람의 말에 이영현은 “난 공복 상태에서는 노래를 못 한다. 공복은 연기를 해도 숨길 수가 없다”고 덧붙여 웃음을 자아냈다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'수요미식회' 빅마마 출신 이영현, \\\"공복인 상태로 절대 노래 못해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

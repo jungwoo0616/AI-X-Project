@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271334",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유재석, 자식한테 자산 물려줄 생각 없다 “직접 벌어야지”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유재석이 자녀들에게 재산이 아닌 다른 것들을 물려주고 싶다고 밝혔다.\n유재석은 지난 24일 생중계로 진행된 카카오TV 예능 프로그램 ‘플레이유’에서 자식들에게 물려 주고 싶은 것에 관한 얘기를 나눴다.\n이날 제작진은 ‘유재석이 자식들에게 물려주고 싶은 것은?’이라는 퀴즈를 시청자에게 냈다.\n보기에는 ‘훌륭한 인품’과 ‘넉넉한 재산’이 있었고, 시청자들은 유재석은 “80%가 인품을 선택했을 것”이라고 했다.\n이에 유재석은 “무조건 인품이다. 나 스스로 훌륭하다고 할 수는 없지만, 인품을 물려주고 싶다”고 밝혔다.\n그러면서 “유재석은 나는 지호(아들)나 나은(딸)이에게 늘 이야기한다. 주변에 배려하는 사람이 되라고 한다, 본인 스스로 옳다고 생각하는 것에 관해 공부하라고 한다”라고 말했다.\n이어 “그리고 돈은 자기가 벌어야지 무슨 소리냐”라고 강조했다.\n한편 ‘플레이유’는 유재석의 상황이 생중계되는 가운데 시청자들과 소통하며 미션을 해결하는 게임 같은 포맷(형식)의 예능 프로그램으로 매주 화요일 카카오TV와 유튜브 ‘플레이유’채널에서 오후 3시 라이브 방송을 진행한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유재석이 자녀들에게 재산이 아닌 다른 것들을 물려주고 싶다고 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유재석은 지난 24일 생중계로 진행된 카카오TV 예능 프로그램 ‘플레이유’에서 자식들에게 물려 주고 싶은 것에 관한 얘기를 나눴다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 제작진은 ‘유재석이 자식들에게 물려주고 싶은 것은?’이라는 퀴즈를 시청자에게 냈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보기에는 ‘훌륭한 인품’과 ‘넉넉한 재산’이 있었고, 시청자들은 유재석은 “80%가 인품을 선택했을 것”이라고 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 유재석은 “무조건 인품이다. 나 스스로 훌륭하다고 할 수는 없지만, 인품을 물려주고 싶다”고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 “유재석은 나는 지호(아들)나 나은(딸)이에게 늘 이야기한다. 주변에 배려하는 사람이 되라고 한다, 본인 스스로 옳다고 생각하는 것에 관해 공부하라고 한다”라고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “그리고 돈은 자기가 벌어야지 무슨 소리냐”라고 강조했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 ‘플레이유’는 유재석의 상황이 생중계되는 가운데 시청자들과 소통하며 미션을 해결하는 게임 같은 포맷(형식)의 예능 프로그램으로 매주 화요일 카카오TV와 유튜브 ‘플레이유’채널에서 오후 3시 라이브 방송을 진행한다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유재석, 자식한테 자산 물려줄 생각 없다 “직접 벌어야지”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

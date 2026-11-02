@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276251",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "방탄소년단 진이 반려동물 공개를 망설였던 이유",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 진(본명 김석진)이 팬들에게 자신의 반려동물을 공개하며 남긴 말이 눈길을 끈다.\n진은 지난해 9월 21일 방송된 Mnet ‘BTS DNA 컴백쇼’에서 자신이 키우는 슈가글라이더 ‘어묵이’와 ‘오뎅이’ 두 마리를 뒤늦게 공개한 이유를 설명했다.\n진은 “사실 어묵이랑 오뎅이 보여주는데 걱정을 많이 했었다. 어린 친구들이 (너무 쉽게) 키우고 싶어하지 않을까”라고 했다.\n이어 “어쨌든 생명이니까 신중하게 생각을 해야 하고, 정말 책임질 수 있을 때 키웠으며 좋겠다”고 덧붙였다.\n진은 자신의 행동 하나하나가 어린 친구들에게 미치는 영향력을 잘 알고 있었다.\n생명의 소중함과 반려동물을 진정으로 생각하는 진의 모습은 팬들에게 깊은 인상을 주고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 진(본명 김석진)이 팬들에게 자신의 반려동물을 공개하며 남긴 말이 눈길을 끈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "진은 지난해 9월 21일 방송된 Mnet ‘BTS DNA 컴백쇼’에서 자신이 키우는 슈가글라이더 ‘어묵이’와 ‘오뎅이’ 두 마리를 뒤늦게 공개한 이유를 설명했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "진은 “사실 어묵이랑 오뎅이 보여주는데 걱정을 많이 했었다. 어린 친구들이 (너무 쉽게) 키우고 싶어하지 않을까”라고 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “어쨌든 생명이니까 신중하게 생각을 해야 하고, 정말 책임질 수 있을 때 키웠으며 좋겠다”고 덧붙였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "진은 자신의 행동 하나하나가 어린 친구들에게 미치는 영향력을 잘 알고 있었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "생명의 소중함과 반려동물을 진정으로 생각하는 진의 모습은 팬들에게 깊은 인상을 주고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 진이 반려동물 공개를 망설였던 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

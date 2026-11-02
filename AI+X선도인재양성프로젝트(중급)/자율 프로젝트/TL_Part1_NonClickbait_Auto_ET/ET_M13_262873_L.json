@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262873",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "유튜버 핫플레이스로 떠오른 원주 소금산 그랜드밸리",
+		"newsSubTitle": "",
+		"newsContent": "강원 원주시 소금산 그랜드밸리와 전통시장 등이 여행 유튜버들 ‘핫 플레이스’로 떠오르고 있다.\n4일 원주시에 따르면 지난해 방송인 도경완 유튜브 채널 ‘도장TV’와 코미디언 김숙의 ‘김숙티비’ 등 유명 방송인 겸 유튜버들이 원주를 다녀간 영상이 뜨거운 반응을 보인다.\n이들 영상은 합산 200만 뷰 이상의 조회 수를 기록했다.\n여기에 올해 개통한 소금산 울렁다리를 찾은 상위 5명 유튜버의 합산 조회 수는 160만 회에 달한다.\n스릴 넘치는 소금산의 절경과 숨은 명소를 구독자들과 공유하기 위해 원주를 찾는 유튜버는 어림잡아 20여 명이다.\n유튜버들 뜨거운 영상 제작에 힘입어 지난해 초 3000명 대에 머물던 원주시 공식 유튜브 채널 구독자 수는 최근 7000명대를 넘어섰다.\n시는 구독자 폭발적인 관심 속에 공식 유튜브 및 SNS 채널을 통한 원주시 홍보 활동에 힘을 쏟고 있다.\n중독성 있는 CM송 ‘여기어때’를 패러디한 ‘원주어때’ 영상과 원주시 SNS 서포터즈의 그랜드밸리 합동 취재를 담은 영상이 1주일 만에 각각 1000회와 2000회 이상 조회 수를 기록하는 등 화제다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강원 원주시 소금산 그랜드밸리와 전통시장 등이 여행 유튜버들 ‘핫 플레이스’로 떠오르고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 원주시에 따르면 지난해 방송인 도경완 유튜브 채널 ‘도장TV’와 코미디언 김숙의 ‘김숙티비’ 등 유명 방송인 겸 유튜버들이 원주를 다녀간 영상이 뜨거운 반응을 보인다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들 영상은 합산 200만 뷰 이상의 조회 수를 기록했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 올해 개통한 소금산 울렁다리를 찾은 상위 5명 유튜버의 합산 조회 수는 160만 회에 달한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스릴 넘치는 소금산의 절경과 숨은 명소를 구독자들과 공유하기 위해 원주를 찾는 유튜버는 어림잡아 20여 명이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유튜버들 뜨거운 영상 제작에 힘입어 지난해 초 3000명 대에 머물던 원주시 공식 유튜브 채널 구독자 수는 최근 7000명대를 넘어섰다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시는 구독자 폭발적인 관심 속에 공식 유튜브 및 SNS 채널을 통한 원주시 홍보 활동에 힘을 쏟고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중독성 있는 CM송 ‘여기어때’를 패러디한 ‘원주어때’ 영상과 원주시 SNS 서포터즈의 그랜드밸리 합동 취재를 담은 영상이 1주일 만에 각각 1000회와 2000회 이상 조회 수를 기록하는 등 화제다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜버 핫플레이스로 떠오른 원주 소금산 그랜드밸리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

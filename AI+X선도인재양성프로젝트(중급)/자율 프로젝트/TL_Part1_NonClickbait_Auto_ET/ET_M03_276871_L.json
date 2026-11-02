@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276871",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "日 방송서 무료로 성형 받은 여성, 예뻐진 후 선택한 직업은…",
+		"newsSubTitle": "",
+		"newsContent": "일본의 한 뷰티 프로그램에서 성형 수술을 무료로 받은 여성이 AV(Adult Video) 배우로 전향했다는 주장이 7일 온라인에서 퍼지고 있다.\n이날 다수 온라인 커뮤니티 등지에는 이 같은 내용을 담은 글이 올라왔다.\n글에 따르면 한 여성은 일본 후지TV의 예능 프로그램 '뷰티 콜로세움'에 출연해 성형을 무료로 받았다.\n이후 그가 AV 배우로 데뷔했다는 주장이 제기됐다.\n한 네티즌은 오른쪽 입가에 있는 점을 근거로 방송에서 무료로 성형을 받은 여성과 이 AV 배우가 동일인물이라고 추측했다.\n이를 본 네티즌은 \\\"헉\\\" \\\"신기하다\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본의 한 뷰티 프로그램에서 성형 수술을 무료로 받은 여성이 AV(Adult Video) 배우로 전향했다는 주장이 7일 온라인에서 퍼지고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 다수 온라인 커뮤니티 등지에는 이 같은 내용을 담은 글이 올라왔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글에 따르면 한 여성은 일본 후지TV의 예능 프로그램 '뷰티 콜로세움'에 출연해 성형을 무료로 받았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 그가 AV 배우로 데뷔했다는 주장이 제기됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한 네티즌은 오른쪽 입가에 있는 점을 근거로 방송에서 무료로 성형을 받은 여성과 이 AV 배우가 동일인물이라고 추측했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌은 \\\"헉\\\" \\\"신기하다\\\" 등의 반응을 보였다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日 방송서 무료로 성형 받은 여성, 예뻐진 후 선택한 직업은…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

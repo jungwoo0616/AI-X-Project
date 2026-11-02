@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278635",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'냉장고' 김주혁, 김풍 도넛에 \\\"건빵 열 개 먹는 퍽퍽한 맛\\\"",
+		"newsSubTitle": "",
+		"newsContent": "JTBC '냉장고를 부탁해'에 김주혁이 출연했다.\n김주혁은 22일 '냉장고를 부탁해'에 출연해 \\\"여기 나오는 게스트들마다 너무 맛있다며 오버액션, 칭찬일색이다. 실제로 정말 맛있다고 하는건지 믿음이 가지 않는다\\\"고 말했다.\n이어 김주혁은 \\\"연예인들이 맛을 보고나서 춤을 추는 등의 동작이 오버\\\"라고 지적했다.\n최지우는 \\\"맞다. 오빠가 미식가다. 맛집 찾아다닌다\\\"라고 덧붙였다.\n이날 김풍의 찹쌀도넛을 맛 본 김주혁은 \\\"미숫가루 먹을 때, 다 젓고 먹는데 어떤 물방울 하나가 퐁 터지면서 가루가 팍 터지는 그런 맛이다\\\"라고 말했다.\n김주혁은 \\\"건빵 열 개를 한 번에 먹는 퍽퍽한 맛이다\\\"라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC '냉장고를 부탁해'에 김주혁이 출연했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김주혁은 22일 '냉장고를 부탁해'에 출연해 \\\"여기 나오는 게스트들마다 너무 맛있다며 오버액션, 칭찬일색이다. 실제로 정말 맛있다고 하는건지 믿음이 가지 않는다\\\"고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 김주혁은 \\\"연예인들이 맛을 보고나서 춤을 추는 등의 동작이 오버\\\"라고 지적했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최지우는 \\\"맞다. 오빠가 미식가다. 맛집 찾아다닌다\\\"라고 덧붙였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 김풍의 찹쌀도넛을 맛 본 김주혁은 \\\"미숫가루 먹을 때, 다 젓고 먹는데 어떤 물방울 하나가 퐁 터지면서 가루가 팍 터지는 그런 맛이다\\\"라고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김주혁은 \\\"건빵 열 개를 한 번에 먹는 퍽퍽한 맛이다\\\"라고 덧붙였다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'냉장고' 김주혁, 김풍 도넛에 \\\"건빵 열 개 먹는 퍽퍽한 맛\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276902",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'아침마당' 혜은이 \\\"가수 그만둘 생각까지 해\\\"",
+		"newsSubTitle": "과거 회상, 고 길윤옥과 스캔들 언급하기도",
+		"newsContent": "가수 혜은이가 2일 아침마당에 출연해 어린 시절과 힘들었던 과거를 회상했다.\n이날 KBS1 '아침마당'에 '화요 초대석'에 게스트로 출연한 혜은이는 \\\"여섯 살 때부터 발레를 배웠다. 몸이 무거워서 그만뒀다\\\"고 말해 웃음을 유발하기도 했다.\n그 시절 발레를 배울 정도면 집이 꽤 살았던 거 아니냐는 물음에 \\\"아버지가 악극단을 하셨고 꽤 유명했다\\\"고 답했다.\n이어 그는 \\\"그등학교 졸업 무렵 아버지가 친구 보증을 잘못 서줘 집안이 망했다. 그래서 야간 업소에서 노래를 하며 가장 역할을 해야 했다\\\"고 밝혔다.\n또한 혜은이는 고 길옥윤과의 스캔들에 대해 언급하며 \\\"대상을 받고 길옥윤 선생님이 기뻐했다. 그게 사진으로 찍혔는데 저걸 보고 사귄다고 퍼졌다\\\"고 이어 \\\"이런 루머에 가수는 못할 직업이다고 생각해 가수를 그만 둬야겠다고 생각했었다\\\"라고 눈물을 글썽였다.\n방송을 본 네티즌들은 \\\"혜은이씨 오랜만입니다\\\", \\\"그런 과거가 있었군요\\\" 등의 반가움을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 혜은이가 2일 아침마당에 출연해 어린 시절과 힘들었던 과거를 회상했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 KBS1 '아침마당'에 '화요 초대석'에 게스트로 출연한 혜은이는 \\\"여섯 살 때부터 발레를 배웠다. 몸이 무거워서 그만뒀다\\\"고 말해 웃음을 유발하기도 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 시절 발레를 배울 정도면 집이 꽤 살았던 거 아니냐는 물음에 \\\"아버지가 악극단을 하셨고 꽤 유명했다\\\"고 답했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 그는 \\\"그등학교 졸업 무렵 아버지가 친구 보증을 잘못 서줘 집안이 망했다. 그래서 야간 업소에서 노래를 하며 가장 역할을 해야 했다\\\"고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 혜은이는 고 길옥윤과의 스캔들에 대해 언급하며 \\\"대상을 받고 길옥윤 선생님이 기뻐했다. 그게 사진으로 찍혔는데 저걸 보고 사귄다고 퍼졌다\\\"고 이어 \\\"이런 루머에 가수는 못할 직업이다고 생각해 가수를 그만 둬야겠다고 생각했었다\\\"라고 눈물을 글썽였다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송을 본 네티즌들은 \\\"혜은이씨 오랜만입니다\\\", \\\"그런 과거가 있었군요\\\" 등의 반가움을 전했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'아침마당' 혜은이 \\\"가수 그만둘 생각까지 해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

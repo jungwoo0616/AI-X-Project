@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167862",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유아인이 올린 무슬림 여성 사진에 \\\"삭제해달라\\\" 댓글 달리는 이유",
+    "newsSubTitle": "",
+    "newsContent": "배우 유아인의 소셜네트워크서비스(SNS)에 게재된 무슬림 여성 사진을 놓고 네티즌 간 설전이 펼쳐졌다.\n유아인은 20일 인스타그램에 한 사진을 게재하며 2011년 공개된 미국의 다큐멘터리 영화 '삼사라(Samsara)'를 언급했다.\n그가 게재한 사진에는 아바야(이슬람권 여성이 입는 검은색 통옷 형태의 복식)를 입은 중동 여성의 모습이 담겨있다.\n이들의 뒤편에는 속옷만 입은 남성 모델들이 등장해 시선을 사로잡았다.\n최근 미니스커트를 입은 사우디아라비아 여성의 경찰 체포 논란과 관련해 여성의 복장을 규제하는 무슬림 문화가 다시 한번 주목받은 터라 그의 게시물은 많은 관심을 받았다.\n그러나 이를 본 몇몇 해외 네티즌들은 \\\"우리의 문화를 존중해달라\\\"며 유아인에게 해당 사진을 삭제해달라고 요청했다.\n더러는 \\\"인종차별\\\"이라고 주장하며 불쾌함을 드러내기도 했다.\n이에 대한 반박도 만만치 않게 제기되면서 설전 펼쳐진 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 유아인의 소셜네트워크서비스(SNS)에 게재된 무슬림 여성 사진을 놓고 네티즌 간 설전이 펼쳐졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유아인은 20일 인스타그램에 한 사진을 게재하며 2011년 공개된 미국의 다큐멘터리 영화 '삼사라(Samsara)'를 언급했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그가 게재한 사진에는 아바야(이슬람권 여성이 입는 검은색 통옷 형태의 복식)를 입은 중동 여성의 모습이 담겨있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들의 뒤편에는 속옷만 입은 남성 모델들이 등장해 시선을 사로잡았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 미니스커트를 입은 사우디아라비아 여성의 경찰 체포 논란과 관련해 여성의 복장을 규제하는 무슬림 문화가 다시 한번 주목받은 터라 그의 게시물은 많은 관심을 받았다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 이를 본 몇몇 해외 네티즌들은 \\\"우리의 문화를 존중해달라\\\"며 유아인에게 해당 사진을 삭제해달라고 요청했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "더러는 \\\"인종차별\\\"이라고 주장하며 불쾌함을 드러내기도 했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 대한 반박도 만만치 않게 제기되면서 설전 펼쳐진 상태다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 유아인, SNS의 한 사진 두고 네티즌과 설전... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

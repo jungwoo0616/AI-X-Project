@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261600",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김성주, 코로나19 격리 해제 (전문)[공식]",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김성주가 코로나19 격리 해제돼 일상 생활로 돌아왔다.\n소속사 장군엔터테인먼트는 21일 “김성주가 금일(21일) 코로나 격리 해제되었다”고 발표했다.\n소속사는 “김성주는 지난 15일 코로나 확진 후 격리 치료에 집중하였으며, 가벼운 인후통 증상 외 특별한 증세를 보이지 않았다”며 “이에 보건 당국의 감염 전파 우려가 없다는 판단 하에 격리 해제 조치에 따라 21일부터 일상 활동이 가능하게 되었다”고 밝혔다.\n소속사는 “당사는 앞으로도 보건 당국의 방역 지침을 준수하여 아티스트의 건강과 안전을 위해 노력하도록 하겠다”고 전했다.\n한편 김성주는 ‘강철부대2’ 제작발표회 사전 녹화에 참석하는 것으로 알려졌다.\n안녕하세요.\n장군엔터테인먼트입니다.\n방송인 김성주가 금일(21일) 코로나 격리 해제되었음을 안내드립니다.\n김성주는 지난 15일 코로나 확진 후 격리 치료에 집중하였으며, 가벼운 인후통 증상 외 특별한증세를 보이지않았습니다.\n이에 보건 당국의 감염 전파 우려가 없다는 판단하에 격리 해제 조치에 따라 21일부터 일상활동이 가능하게 되었습니다.\n당사는 앞으로도 보건 당국의 방역 지침을 준수하여 아티스트의 건강과 안전을 위해 노력하도록 하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김성주가 코로나19 격리 해제돼 일상 생활로 돌아왔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 장군엔터테인먼트는 21일 “김성주가 금일(21일) 코로나 격리 해제되었다”고 발표했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “김성주는 지난 15일 코로나 확진 후 격리 치료에 집중하였으며, 가벼운 인후통 증상 외 특별한 증세를 보이지 않았다”며 “이에 보건 당국의 감염 전파 우려가 없다는 판단 하에 격리 해제 조치에 따라 21일부터 일상 활동이 가능하게 되었다”고 밝혔다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사는 “당사는 앞으로도 보건 당국의 방역 지침을 준수하여 아티스트의 건강과 안전을 위해 노력하도록 하겠다”고 전했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김성주는 ‘강철부대2’ 제작발표회 사전 녹화에 참석하는 것으로 알려졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안녕하세요.",
+				"sentenceSize": 6
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장군엔터테인먼트입니다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방송인 김성주가 금일(21일) 코로나 격리 해제되었음을 안내드립니다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김성주는 지난 15일 코로나 확진 후 격리 치료에 집중하였으며, 가벼운 인후통 증상 외 특별한증세를 보이지않았습니다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이에 보건 당국의 감염 전파 우려가 없다는 판단하에 격리 해제 조치에 따라 21일부터 일상활동이 가능하게 되었습니다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "당사는 앞으로도 보건 당국의 방역 지침을 준수하여 아티스트의 건강과 안전을 위해 노력하도록 하겠습니다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김성주, 코로나19 격리 해제 (전문)[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

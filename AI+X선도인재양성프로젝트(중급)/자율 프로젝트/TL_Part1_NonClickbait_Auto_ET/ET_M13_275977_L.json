@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275977",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정해인-안보현, 훈훈 투샷",
+		"newsSubTitle": "",
+		"newsContent": "배우 정해인이 안보현과의 투샷을 공개했다.\n20일 정해인은 자신의 사회관계망서비스(SNS) 인스타그램을 통해 안보현과의 사진을 공개했다.\n사진 속 두 사람은 지난 19일 개최된 제1회 청룡시리즈어워즈에 참석한 모습이다.\n두 사람은 다정한 모습으로 카메라를 향해 엄지를 치켜들고 있다.\n정해인이 안보현과의 사진을 공개하자 안보현 역시 자신의 SNS를 통해 정해인과의 사진을 공개했다.\n사진 속 안보현과 정해인은 카메라를 향해 미소를 띄고 포즈를 취하고 있다.\n정해인은 해당 게시물을 공유하며 그와의 끈끈한 우정을 보였다.\n한편 정해인은 19일 열린 청룡시리즈어줘즈에서 인기스타상을 수상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 정해인이 안보현과의 투샷을 공개했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 정해인은 자신의 사회관계망서비스(SNS) 인스타그램을 통해 안보현과의 사진을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 두 사람은 지난 19일 개최된 제1회 청룡시리즈어워즈에 참석한 모습이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 다정한 모습으로 카메라를 향해 엄지를 치켜들고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정해인이 안보현과의 사진을 공개하자 안보현 역시 자신의 SNS를 통해 정해인과의 사진을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진 속 안보현과 정해인은 카메라를 향해 미소를 띄고 포즈를 취하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정해인은 해당 게시물을 공유하며 그와의 끈끈한 우정을 보였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 정해인은 19일 열린 청룡시리즈어줘즈에서 인기스타상을 수상했다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정해인-안보현, 훈훈 투샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

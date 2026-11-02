@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262946",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이유, 산불 피해 1억원 기부",
+		"newsSubTitle": "",
+		"newsContent": "가수 아이유가 4일 경북 울진에서 시작돼 강원 삼척까지 번진 대형 산불과 관련해 피해자들을 돕기 위해 1억원의 성금을 희망브리지에 기부했다.\n희망브리지에 따르면 가수 아이유가 산불 피해자들의 임시조립주택 지원을 위해 써달라며 1억원을 전달했다고 5일 밝혔다.\n아이유 측은 극심한 산불 피해 소식을 접한 뒤 피해 이웃들에게 가장 필요한 도움이 무엇인지를 신속하고 꼼꼼하게 파악하여 기부금을 전달한 것으로 알려졌다.\n이번 기부금은 산불로 주택이 전소되어 갈 곳을 잃은 피해 가구들에게 필요한 임시조립주택 지원에 사용될 예정이다.\n산불 발생 직후 울진으로 달려가 피해 현장을 찾은 희망브리지 김정희 사무총장은 “갑작스런 산불 발생으로 삶의 터전을 잃은 많은 피해자들이 어려운 고통과 걱정에 빠져있는 상황에서 아이유 씨의 따뜻한 도움으로 이재민 분들이 일상으로 돌아갈 때까지 필요한 모든 것들을 지원할 수 있도록 최선을 다하겠다”고 말했다.\n아이유는 이번 기부 외에도 2008년 데뷔 이후 연말이 되면 어려운 이웃이나, 코로나 19·홍수 등으로 인한 사회적인 재난 상황, 저소득층 등을 위해 꾸준히 기부를 실천했으며, 누적 기부액이 40여 억원을 넘는 등 연예계의 대표적인 기부천사로 알려져있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 아이유가 4일 경북 울진에서 시작돼 강원 삼척까지 번진 대형 산불과 관련해 피해자들을 돕기 위해 1억원의 성금을 희망브리지에 기부했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "희망브리지에 따르면 가수 아이유가 산불 피해자들의 임시조립주택 지원을 위해 써달라며 1억원을 전달했다고 5일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이유 측은 극심한 산불 피해 소식을 접한 뒤 피해 이웃들에게 가장 필요한 도움이 무엇인지를 신속하고 꼼꼼하게 파악하여 기부금을 전달한 것으로 알려졌다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 기부금은 산불로 주택이 전소되어 갈 곳을 잃은 피해 가구들에게 필요한 임시조립주택 지원에 사용될 예정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산불 발생 직후 울진으로 달려가 피해 현장을 찾은 희망브리지 김정희 사무총장은 “갑작스런 산불 발생으로 삶의 터전을 잃은 많은 피해자들이 어려운 고통과 걱정에 빠져있는 상황에서 아이유 씨의 따뜻한 도움으로 이재민 분들이 일상으로 돌아갈 때까지 필요한 모든 것들을 지원할 수 있도록 최선을 다하겠다”고 말했다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이유는 이번 기부 외에도 2008년 데뷔 이후 연말이 되면 어려운 이웃이나, 코로나 19·홍수 등으로 인한 사회적인 재난 상황, 저소득층 등을 위해 꾸준히 기부를 실천했으며, 누적 기부액이 40여 억원을 넘는 등 연예계의 대표적인 기부천사로 알려져있다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이유, 산불 피해 1억원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

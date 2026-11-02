@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277628",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "美 대기업 입사 문제 듣자마자 풀어버린 김지민",
+		"newsSubTitle": "",
+		"newsContent": "김지민이 미국 대기업 입사문제를 단번에 풀어 보는 이들을 놀라게 했다.\n25일 tvN '문제적 남자'에는 김지민이 게스트로 출연했다.\n김지민은 미국 대기업 입사 문제를 듣자마자 바로 풀어버리는 놀라운 모습을 보였다.\n이날 방송에는 \\\"당신은 거센 폭풍우가 몰아치는 밤길에 운전을 하고 있다. 그런데 버스정류장을 지나치면서 죽어 가는 할머니와 당신의 생명을 구해준 적이 있는 의사, 당신의 이상형이 버스를 기다리고 있는 것을 보았다. 거센 폭풍우가 세 사람을 언제 휩쓸고 갈지 모르는 상황에서, 이들 중 단 한 명만 차에 태울 수 있다고 할 때, 가장 현명한 방법은 무엇일까?\\\"라는 문제가 나왔다.\n문제가 끝나자마자 김지민은 정답을 외쳤다.\n김지민은 \\\"내가 운전석에서 내리고, 의사를 운전석에 태운 다음 할머니를 조수석에 태워 보내면 된다\\\"고 정답을 말했다.\n정답 벨이 울리자 전현무는 놀라워하며 \\\"문제를 본 적 있냐\\\"고 물었고 김지민은 \\\"처음 봤다\\\"고 대답했다.\n박나래는 \\\"(이상형과) 태풍을 이길 만큼 뜨겁게…\\\"라고 덧붙여 출연진을 폭소케 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김지민이 미국 대기업 입사문제를 단번에 풀어 보는 이들을 놀라게 했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 tvN '문제적 남자'에는 김지민이 게스트로 출연했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김지민은 미국 대기업 입사 문제를 듣자마자 바로 풀어버리는 놀라운 모습을 보였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 방송에는 \\\"당신은 거센 폭풍우가 몰아치는 밤길에 운전을 하고 있다. 그런데 버스정류장을 지나치면서 죽어 가는 할머니와 당신의 생명을 구해준 적이 있는 의사, 당신의 이상형이 버스를 기다리고 있는 것을 보았다. 거센 폭풍우가 세 사람을 언제 휩쓸고 갈지 모르는 상황에서, 이들 중 단 한 명만 차에 태울 수 있다고 할 때, 가장 현명한 방법은 무엇일까?\\\"라는 문제가 나왔다.",
+				"sentenceSize": 213
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문제가 끝나자마자 김지민은 정답을 외쳤다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김지민은 \\\"내가 운전석에서 내리고, 의사를 운전석에 태운 다음 할머니를 조수석에 태워 보내면 된다\\\"고 정답을 말했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정답 벨이 울리자 전현무는 놀라워하며 \\\"문제를 본 적 있냐\\\"고 물었고 김지민은 \\\"처음 봤다\\\"고 대답했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박나래는 \\\"(이상형과) 태풍을 이길 만큼 뜨겁게…\\\"라고 덧붙여 출연진을 폭소케 했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 대기업 입사 문제 듣자마자 풀어버린 김지민",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261642",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김하늘, 시크한 매력[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 김하늘이 패션 매거진 ‘보그 코리아’ 3월호를 통해 대체불가 시크한 매력을 담은 화보를 공개했다고 소속사가 21일 전했다.\n공개된 화보에서 김하늘은 화려한 색감의 블루 수트를 소화해내며 감각적이면서 패셔너블한 모습으로 시선을 사로잡았다.\n또 다른 착장에서는 벨벳 소재의 재킷, 팬츠 셋업과 블랙 탑을 매치, 의상에 맞는 강렬한 메이크업으로 걸크러시한 이미지를 선보였다.\n김하늘은 의상에 맞는 표정과 포즈로 프로페셔널한 면모를 보여주며 기존의 청순한 모습과는 대비되는 시크하고 강한 느낌의 화보로 남다른 아우라를 드러냈다.\n김하늘은 tvN 드라마 ‘킬힐’에서는 탑을 꿈꾸는 패션 쇼호스트 우현 역으로 3월 초 방송을 앞두고 있다.\n김하늘의 색다른 매력이 담긴 화보와 인터뷰 전문은 ‘보그 코리아’ 3월호에서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김하늘이 패션 매거진 ‘보그 코리아’ 3월호를 통해 대체불가 시크한 매력을 담은 화보를 공개했다고 소속사가 21일 전했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개된 화보에서 김하늘은 화려한 색감의 블루 수트를 소화해내며 감각적이면서 패셔너블한 모습으로 시선을 사로잡았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 다른 착장에서는 벨벳 소재의 재킷, 팬츠 셋업과 블랙 탑을 매치, 의상에 맞는 강렬한 메이크업으로 걸크러시한 이미지를 선보였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김하늘은 의상에 맞는 표정과 포즈로 프로페셔널한 면모를 보여주며 기존의 청순한 모습과는 대비되는 시크하고 강한 느낌의 화보로 남다른 아우라를 드러냈다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김하늘은 tvN 드라마 ‘킬힐’에서는 탑을 꿈꾸는 패션 쇼호스트 우현 역으로 3월 초 방송을 앞두고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김하늘의 색다른 매력이 담긴 화보와 인터뷰 전문은 ‘보그 코리아’ 3월호에서 만나볼 수 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김하늘, 시크한 매력[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

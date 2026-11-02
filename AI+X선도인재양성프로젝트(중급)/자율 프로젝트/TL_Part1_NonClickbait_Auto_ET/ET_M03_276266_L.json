@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276266",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "샤이니 키, 종현 빈소 도착…상주로 마지막 길 배웅",
+		"newsSubTitle": "",
+		"newsContent": "샤이니 멤버 키가 종현의 빈소에 도착했다.\n19일 오후 8시 30분 샤이니 키는 종현의 빈소가 마련된 서울 송파구 풍납동 서울아산병원 장례식장에 도착했다.\n앞서 화보촬영을 위해 포르투갈 리스본으로 출국했던 키는 비보를 접하고 급히 귀국했다.\n종현의 빈소에는 샤이니 멤버 온유(이진기), 최민호(민호), 이태민(태민), 키(김기범)이 상주로 이름을 올렸다.\n한편 종현은 지난 18일 오후 6시 10분께 서울 청담동의 한 레지던스에서 쓰러진 채 발견됐다.\n종현은 현장에 출동한 구급대에 의해 인근 병원으로 이송됐으나 끝내 숨을 거뒀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "샤이니 멤버 키가 종현의 빈소에 도착했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 오후 8시 30분 샤이니 키는 종현의 빈소가 마련된 서울 송파구 풍납동 서울아산병원 장례식장에 도착했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 화보촬영을 위해 포르투갈 리스본으로 출국했던 키는 비보를 접하고 급히 귀국했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "종현의 빈소에는 샤이니 멤버 온유(이진기), 최민호(민호), 이태민(태민), 키(김기범)이 상주로 이름을 올렸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 종현은 지난 18일 오후 6시 10분께 서울 청담동의 한 레지던스에서 쓰러진 채 발견됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "종현은 현장에 출동한 구급대에 의해 인근 병원으로 이송됐으나 끝내 숨을 거뒀다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "샤이니 키, 종현 빈소 도착…상주로 마지막 길 배웅",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

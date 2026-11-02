@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259492",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "송가인, 트롯스타 24주 연속 1위",
+		"newsSubTitle": "",
+		"newsContent": "가수 송가인이 트롯스타 투표에서 24주 연속 1위에 이름을 올렸다.\n송가인은 지난 1월 20일부터 1월 27일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 72,580표를 획득해 1위를 차지했다.\n이로써 송가인은 6개월 연속 1위라는 쾌거를 이뤘다.\n24주째 1위를 유지 중인 송가인은 다양한 음악프로부터 예능 프로그램까지, 그녀만의 호소력 짙은 보컬부터 유쾌한 입담까지 선보이며 높은 인기를 누리고 있다.\n송가인은 20일 오후 9시 30분에 방송된 KBS2 ‘주접이 풍년’에서도 흥 넘치는 무대를 꾸미거나 팬들과 함께 게임을 즐기며 AGAIN(송가인 팬클럽)과 즐거운 시간을 보내기도 했다.\n더불어, 송가인은 지난 4주간 연속으로 해당 차트에서 1위를 차지하며 팬들이 제작하는 옥외 광고판 특전을 획득하기도 했다.\n송가인은 오는 2월 1일 KBS2 ‘조선팝 어게인 송가인’을 통해 명품 무대를 꾸미며 다채로운 모습으로 팬들과 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 송가인이 트롯스타 투표에서 24주 연속 1위에 이름을 올렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송가인은 지난 1월 20일부터 1월 27일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 72,580표를 획득해 1위를 차지했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로써 송가인은 6개월 연속 1위라는 쾌거를 이뤘다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "24주째 1위를 유지 중인 송가인은 다양한 음악프로부터 예능 프로그램까지, 그녀만의 호소력 짙은 보컬부터 유쾌한 입담까지 선보이며 높은 인기를 누리고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송가인은 20일 오후 9시 30분에 방송된 KBS2 ‘주접이 풍년’에서도 흥 넘치는 무대를 꾸미거나 팬들과 함께 게임을 즐기며 AGAIN(송가인 팬클럽)과 즐거운 시간을 보내기도 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "더불어, 송가인은 지난 4주간 연속으로 해당 차트에서 1위를 차지하며 팬들이 제작하는 옥외 광고판 특전을 획득하기도 했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송가인은 오는 2월 1일 KBS2 ‘조선팝 어게인 송가인’을 통해 명품 무대를 꾸미며 다채로운 모습으로 팬들과 만날 예정이다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송가인, 트롯스타 24주 연속 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

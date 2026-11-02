@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274640",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "엔하이픈 선우 “방시혁, ‘독기 품었다’ 칭찬” ",
+		"newsSubTitle": "",
+		"newsContent": "그룹 엔하이픈이 방시혁 총괄 프로듀서의 응원을 전했다.\n선우는 4일 서울 서대문구 연세대학교 백주년기념관에서 진행된 미니 3집 ‘매니페스토 : 데이1’ 발매 쇼케이스에서 “타이틀곡의 안무 연습 영상을 보고 방 PD님이 단체 대화방에 처음으로 ‘독기 품고 열심히 하는구나’ ‘열정이 보인다’는 말씀을 해주셨다”고 말했다.\n그러면서 “응원을 통해 더 에너지 받아 더 열심히 연습했다. 큰 힘과 동기부여가 됐다”고 고마움을 표했다.\n제이크 역시 “방 PD님이 평소에도 디테일한 조언과 피드백을 많이 준다. 덕분에 많이 성장하고 있다”고 전했다.\n엔하이픈의 미니 3집 ‘매니페스토 : 데이1’은 엔하이픈이 자신들의 정체성에 대해 고민을 거듭한 끝에 내놓은 결과물로, 미래에 연결될 동세대를 위해 한 발 먼저 길을 찾아나선 일곱 소년의이야기를 그렸다. ‘보더’ ‘디멘션’ 시리즈에 이은 새로운 시리즈로, 이전과는 달라진 엔하이픈의 강렬한 에너지와 각오를 보여준다.\n4일 오후 6시 각종 음원사이트를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 엔하이픈이 방시혁 총괄 프로듀서의 응원을 전했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "선우는 4일 서울 서대문구 연세대학교 백주년기념관에서 진행된 미니 3집 ‘매니페스토 : 데이1’ 발매 쇼케이스에서 “타이틀곡의 안무 연습 영상을 보고 방 PD님이 단체 대화방에 처음으로 ‘독기 품고 열심히 하는구나’ ‘열정이 보인다’는 말씀을 해주셨다”고 말했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “응원을 통해 더 에너지 받아 더 열심히 연습했다. 큰 힘과 동기부여가 됐다”고 고마움을 표했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제이크 역시 “방 PD님이 평소에도 디테일한 조언과 피드백을 많이 준다. 덕분에 많이 성장하고 있다”고 전했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엔하이픈의 미니 3집 ‘매니페스토 : 데이1’은 엔하이픈이 자신들의 정체성에 대해 고민을 거듭한 끝에 내놓은 결과물로, 미래에 연결될 동세대를 위해 한 발 먼저 길을 찾아나선 일곱 소년의이야기를 그렸다. ‘보더’ ‘디멘션’ 시리즈에 이은 새로운 시리즈로, 이전과는 달라진 엔하이픈의 강렬한 에너지와 각오를 보여준다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "4일 오후 6시 각종 음원사이트를 통해 공개된다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엔하이픈 선우 “방시혁, ‘독기 품었다’ 칭찬” ",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

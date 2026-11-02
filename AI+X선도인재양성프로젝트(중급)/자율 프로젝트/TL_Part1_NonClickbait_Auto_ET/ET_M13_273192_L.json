@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273192",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유병재, 타오르는 불길에 ‘주식’",
+		"newsSubTitle": "",
+		"newsContent": "방송작가 유병재가 코믹한 일상을 공개했다.\n유병재는 14일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 한 장의 사진을 공개했다.\n사진 속 유병재는 활활 타오르는 불길을 무심한 표정으로 바라보고 있다.\n유병재는 불길에 ‘주식’이라는 글을 덧붙이며 웃음을 자아내게 했다.\n한편 유병재는 지난 13일 자신의 인스타그램을 통해 폭락한 종합주가지수를 공개하며 ‘우울한 월요일’이라는 글로 누리꾼들을 폭소하게 만들었다.\n이번 게시물 역시 해당 게시글과 같은 맥락으로 보인다.\n유병재는 현재 tvN 예능 프로그램 ‘홍진경의 영화로운 덕후생활’과 SBS 예능 프로그램 ‘오! 마이 웨딩’에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송작가 유병재가 코믹한 일상을 공개했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유병재는 14일 자신의 사회관계망서비스(SNS) 인스타그램을 통해 한 장의 사진을 공개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 유병재는 활활 타오르는 불길을 무심한 표정으로 바라보고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유병재는 불길에 ‘주식’이라는 글을 덧붙이며 웃음을 자아내게 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 유병재는 지난 13일 자신의 인스타그램을 통해 폭락한 종합주가지수를 공개하며 ‘우울한 월요일’이라는 글로 누리꾼들을 폭소하게 만들었다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 게시물 역시 해당 게시글과 같은 맥락으로 보인다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유병재는 현재 tvN 예능 프로그램 ‘홍진경의 영화로운 덕후생활’과 SBS 예능 프로그램 ‘오! 마이 웨딩’에 출연 중이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유병재, 타오르는 불길에 ‘주식’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

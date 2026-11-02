@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259750",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "[전문] 비비지 은하, 코로나19 확진",
+		"newsSubTitle": "",
+		"newsContent": "비비지 은하가 신종코로나바이러스감염증(코로나19) 확진 사실을 알렸다.\n30일 소속사 측은 공식 입장을 통해 은하가 “코로나 19 확진을 받은 스태프와 접촉하여 진행한 PCR검사에서 음성판정을 받았지만 이후 컨디션이 좋지않아 재실시한 PCR검사를 통해 최종 양성 통보를 받았다”고 알렸다.\n그러면서 “은하는 경미한 증상으로 격리되어 치료를 이어가고 있으며 방역 당국 지침에 따라 필요한 조치를 취하고 있다”고 설명했다.\n은하 측은 “심려를 끼쳐드려 죄송하다는 말씀 드리며, 아티스트의 건강이 빠르게 회복될 수 있도록 최선을 다해 지원하고, 보건당국의 방역 지침을 성실하게 준수하겠다”고 덧붙였다.\n다음은 소속사 입장 전문 안녕하세요.\n빅플래닛메이드엔터입니다.\n29일 추가로 진행된 코로나19 PCR 검사에서 비비지 멤버 은하가 확진 판정을 받아 안내드립니다.\n앞서 코로나 19 확진을 받은 스태프와 접촉하여 진행한 PCR검사에서 음성판정을 받았지만 이후 컨디션이 좋지않아 재실시한 PCR검사를 통해 최종 양성 통보를 받았습니다.\n은하는 경미한 증상으로 격리되어 치료를 이어가고 있으며 방역 당국 지침에 따라 필요한 조치를 취하고 있습니다.\n심려를 끼쳐드려 죄송하다는 말씀 드리며, 아티스트의 건강이 빠르게 회복될 수 있도록 최선을 다해 지원하고, 보건당국의 방역 지침을 성실하게 준수하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비비지 은하가 신종코로나바이러스감염증(코로나19) 확진 사실을 알렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 소속사 측은 공식 입장을 통해 은하가 “코로나 19 확진을 받은 스태프와 접촉하여 진행한 PCR검사에서 음성판정을 받았지만 이후 컨디션이 좋지않아 재실시한 PCR검사를 통해 최종 양성 통보를 받았다”고 알렸다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 “은하는 경미한 증상으로 격리되어 치료를 이어가고 있으며 방역 당국 지침에 따라 필요한 조치를 취하고 있다”고 설명했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "은하 측은 “심려를 끼쳐드려 죄송하다는 말씀 드리며, 아티스트의 건강이 빠르게 회복될 수 있도록 최선을 다해 지원하고, 보건당국의 방역 지침을 성실하게 준수하겠다”고 덧붙였다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음은 소속사 입장 전문 안녕하세요.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빅플래닛메이드엔터입니다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "29일 추가로 진행된 코로나19 PCR 검사에서 비비지 멤버 은하가 확진 판정을 받아 안내드립니다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 코로나 19 확진을 받은 스태프와 접촉하여 진행한 PCR검사에서 음성판정을 받았지만 이후 컨디션이 좋지않아 재실시한 PCR검사를 통해 최종 양성 통보를 받았습니다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "은하는 경미한 증상으로 격리되어 치료를 이어가고 있으며 방역 당국 지침에 따라 필요한 조치를 취하고 있습니다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "심려를 끼쳐드려 죄송하다는 말씀 드리며, 아티스트의 건강이 빠르게 회복될 수 있도록 최선을 다해 지원하고, 보건당국의 방역 지침을 성실하게 준수하겠습니다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 비비지 은하, 코로나19 확진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

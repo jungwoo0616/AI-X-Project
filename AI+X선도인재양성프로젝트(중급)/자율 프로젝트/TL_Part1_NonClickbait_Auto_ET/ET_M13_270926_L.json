@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270926",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이민정 ‘아들바보’ 인증 “아들 팬이에요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이민정이 ‘아들바보’임을 인증했다.\n이민정은 22일 자신의 사회관계망서비스(SNS) 인스타그램에 “참가에 의미를 두자”라며 아들의 뒷모습 사진을 공개했다.\n사진 속 이민정의 아들 준후 군은 야구 유니폼과 야구 모자를 쓴 채 앉아있다.\n해당 게시물을 본 누리꾼이 “어디 팬이시죠?”라는 댓글을 달자 이민정은 “아들 팬이요”라고 답하며 아들에 대한 무한한 사랑을 표현했다.\n다른 누리꾼들 역시 “준후 몇 년 뒤엔 메이저리그에서 보나요” “준후 뒷모습도 잘생겼다” “정말 많이 컸다”며 긍정적인 반응을 보였다.\n한편 이민정은 배우 이병헌과 결혼해 슬하에 아들 준후군을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이민정이 ‘아들바보’임을 인증했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이민정은 22일 자신의 사회관계망서비스(SNS) 인스타그램에 “참가에 의미를 두자”라며 아들의 뒷모습 사진을 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 이민정의 아들 준후 군은 야구 유니폼과 야구 모자를 쓴 채 앉아있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시물을 본 누리꾼이 “어디 팬이시죠?”라는 댓글을 달자 이민정은 “아들 팬이요”라고 답하며 아들에 대한 무한한 사랑을 표현했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다른 누리꾼들 역시 “준후 몇 년 뒤엔 메이저리그에서 보나요” “준후 뒷모습도 잘생겼다” “정말 많이 컸다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이민정은 배우 이병헌과 결혼해 슬하에 아들 준후군을 두고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이민정 ‘아들바보’ 인증 “아들 팬이에요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

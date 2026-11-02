@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278380",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "매드클라운 김나영, ‘태양의 후예’ 다섯번째 OST 음원 강타",
+		"newsSubTitle": "",
+		"newsContent": "매드클라운 김나영이 부른 ‘태양의 후예’ 다섯번째 OST ‘다시 너를’이 음원 차트를 강타했다.\n17일 공개된 매드클라운 김나영의 ‘다시 너를’은 이날 오전 8시 기준 국내 주요 음악 사이트 7곳의 실시간 음원 차트 1위에 올랐다.\n멜론에서는 6위에 랭크 됐다. ‘다시 너를’은 공개 직후 주요 음원 차트 정상을 거머쥐는 힘을 보였다.\n기존에 발표 된 '태양의 후예' OST인 거미의 'Everything'과 다비치의 '이 사랑'을 누르고 1위를 차지했다.\n송혜교 송중기 주연의 드라마 '태양의 후예'는 시청률 30%(닐슨코리아 전국 기준)를 돌파를 눈앞에 두는 등 큰 인기를 얻고 있다.\n드라마의 인기에 힘입어 '태양의 후예' OST까지 음원 차트를 사로잡으며 주목받고 있다.\n김나영은 지난해 ‘어땠을까’를 발표해 한 음원 사이트에서 일주일 간 1위에 올랐다.\n김나영은 26일 생애 첫 단독 콘서트 ‘어땠을까-Truly(진심)’를 통해 팬들과 만난다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "매드클라운 김나영이 부른 ‘태양의 후예’ 다섯번째 OST ‘다시 너를’이 음원 차트를 강타했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 공개된 매드클라운 김나영의 ‘다시 너를’은 이날 오전 8시 기준 국내 주요 음악 사이트 7곳의 실시간 음원 차트 1위에 올랐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "멜론에서는 6위에 랭크 됐다. ‘다시 너를’은 공개 직후 주요 음원 차트 정상을 거머쥐는 힘을 보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존에 발표 된 '태양의 후예' OST인 거미의 'Everything'과 다비치의 '이 사랑'을 누르고 1위를 차지했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송혜교 송중기 주연의 드라마 '태양의 후예'는 시청률 30%(닐슨코리아 전국 기준)를 돌파를 눈앞에 두는 등 큰 인기를 얻고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "드라마의 인기에 힘입어 '태양의 후예' OST까지 음원 차트를 사로잡으며 주목받고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김나영은 지난해 ‘어땠을까’를 발표해 한 음원 사이트에서 일주일 간 1위에 올랐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김나영은 26일 생애 첫 단독 콘서트 ‘어땠을까-Truly(진심)’를 통해 팬들과 만난다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "매드클라운 김나영, ‘태양의 후예’ 다섯번째 OST 음원 강타",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

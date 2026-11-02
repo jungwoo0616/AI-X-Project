@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171689",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김성령, 우아한 카리스마[화보]",
+    "newsSubTitle": "",
+    "newsContent": "배우 김성령이 화보를 통해 특유의 부드럽고 우아한 카리스마를 선보였다.\n매거진 마리끌레르는 23일 배우 김성령과 여성복 ‘쁘렝땅(PRENDANG)’이 함께한 패션 화보를 공개했다.\n공개된 화보 속 그는 여유로운 실루엣이 돋보이는 수트와 셔츠는 물론 블루, 오렌지 등 청량한 색감의 아이템으로 다양한 스타일링을 소화했다.\n또 현대적인 건축물과 자연의 빛은 그의 도시적인 이미지와 적절히 어우러져 감각적인 화보를 완성시켰다.\n한편, 김성령이 주연을 맡은 tvN 드라마 ‘킬힐’은 다가오는 3월 9일 첫 방송 될 예정이다.\n김성령의 화보는 마리끌레르 3월호와 쁘렝땅 공식 온라인 스토어 및 SNS에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김성령이 화보를 통해 특유의 부드럽고 우아한 카리스마를 선보였다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "매거진 마리끌레르는 23일 배우 김성령과 여성복 ‘쁘렝땅(PRENDANG)’이 함께한 패션 화보를 공개했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 화보 속 그는 여유로운 실루엣이 돋보이는 수트와 셔츠는 물론 블루, 오렌지 등 청량한 색감의 아이템으로 다양한 스타일링을 소화했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 현대적인 건축물과 자연의 빛은 그의 도시적인 이미지와 적절히 어우러져 감각적인 화보를 완성시켰다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 김성령이 주연을 맡은 tvN 드라마 ‘킬힐’은 다가오는 3월 9일 첫 방송 될 예정이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김성령의 화보는 마리끌레르 3월호와 쁘렝땅 공식 온라인 스토어 및 SNS에서 만나볼 수 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 김성령, 특유의 부드럽고 우아한 카리스마 선보이며 '이것' 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

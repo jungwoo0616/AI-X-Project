@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274725",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "돈스파이크, 항공사 무책임에 분노 “티켓 팔지마”",
+		"newsSubTitle": "",
+		"newsContent": "작곡가 돈스파이크가 항공사 서비스에 실망, 분노를 표현했다.\n돈스파이크는 5일 자신의 사회관계망서비스(SNS)에 “이렇게 전화 한통 안 받고 뺑뺑이 돌리고 나 몰라라 할 거면 티켓을 팔지 말아요”라는 글과 함께 사진을 게재했다.\n공개된 사진은 돈스파이크가 통화를 시도했지만 계속해서 취소된 사진이다.\n앞서 돈스파이크는 발리로 신혼여행을 떠났다.\n당시 수화물이 도착하지 않아 큰 곤욕을 치렀다.\n돈스파이크는 “항공사 분들아, 제 러기지가 안 왔어요. 양말 한 짝도 없는 신혼여행”이라며 분통을 터뜨렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "작곡가 돈스파이크가 항공사 서비스에 실망, 분노를 표현했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "돈스파이크는 5일 자신의 사회관계망서비스(SNS)에 “이렇게 전화 한통 안 받고 뺑뺑이 돌리고 나 몰라라 할 거면 티켓을 팔지 말아요”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 돈스파이크가 통화를 시도했지만 계속해서 취소된 사진이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 돈스파이크는 발리로 신혼여행을 떠났다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 수화물이 도착하지 않아 큰 곤욕을 치렀다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "돈스파이크는 “항공사 분들아, 제 러기지가 안 왔어요. 양말 한 짝도 없는 신혼여행”이라며 분통을 터뜨렸다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "돈스파이크, 항공사 무책임에 분노 “티켓 팔지마”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

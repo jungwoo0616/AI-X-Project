@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280936",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "터보 김정남,\\\"'다시' 컴백 3인조되니 분량 줄었다\\\" 본심 고백?",
+		"newsSubTitle": "",
+		"newsContent": "'터보 김정남''런닝맨' 김종국이 터보 멤버 김정남과 출연해 화제다.\n김정남은 20일 오후 방송된 SBS 예능프로그램 '일요일이 좋다-런닝맨'의 '런닝맨 X 2015'에 출연했다.\n이날 유재석은 과거 'X맨'에 대해 언급하면서 김종국 팀에서 'X맨'에 출연했던 멤버들을, 지석진 팀에는 새로운 멤버들이 있다고 말했다.\n이에 김정남은 \\\"나는 출연하지 않았는데 왜 이쪽이냐?\\\"라고 물었다.\n그러자 유재석은 \\\"김종국 씨가 꽂은 거다\\\"라고 말해 웃음을 자아냈다.\n또 김정남은 터보 3인조 컴백에 대해 \\\"예전에는 2인조였는데 지금은 3인조라서 분량이 줄었다\\\"라고 말했다.\n한편 터보는 21일 자정 음원 발매를 시작으로 활발히 컴백 활동에 나설 계획이다. '터보 김정남' 온라인 중앙일보 [사진=SBS 방송화면 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'터보 김정남''런닝맨' 김종국이 터보 멤버 김정남과 출연해 화제다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김정남은 20일 오후 방송된 SBS 예능프로그램 '일요일이 좋다-런닝맨'의 '런닝맨 X 2015'에 출연했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 유재석은 과거 'X맨'에 대해 언급하면서 김종국 팀에서 'X맨'에 출연했던 멤버들을, 지석진 팀에는 새로운 멤버들이 있다고 말했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 김정남은 \\\"나는 출연하지 않았는데 왜 이쪽이냐?\\\"라고 물었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러자 유재석은 \\\"김종국 씨가 꽂은 거다\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 김정남은 터보 3인조 컴백에 대해 \\\"예전에는 2인조였는데 지금은 3인조라서 분량이 줄었다\\\"라고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 터보는 21일 자정 음원 발매를 시작으로 활발히 컴백 활동에 나설 계획이다. '터보 김정남' 온라인 중앙일보 [사진=SBS 방송화면 캡처]",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "터보 김정남,\\\"'다시' 컴백 3인조되니 분량 줄었다\\\" 본심 고백?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261878",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이즈원 출신 혼다 히토미, AKB48 단독 센터 선발",
+		"newsSubTitle": "",
+		"newsContent": "아이즈원 출신 혼다 히토미가 AKB48의 싱글 앨범에서 생애 처음으로 단독 센터에 선발됐다.\n일본 매체 ‘스포츠호치’는 23일 “혼다 히토미가 오는 5월 18일 발매하는 AKB48의 59번째 싱글에서 센터를 맡는다”라고 보도했다.\n이번 싱글 앨범은 총 20명의 멤버가 선발됐고, 그중 혼다 히토미가 단독 센터를 맡는다.\nAKB48은 활동 특성상 센터의 의미가 매우 큰 것으로 알려져 있다.\n혼다 히토미는 센터 선발 발표 후 자신의 인스타그램을 통해 “데뷔한 지 8년 동안 언제, 어느 때라도 곁에서 지지해 주신 여러분 덕분에 오랜 꿈을 실현할 수 있었다. 정말 감사한 마음이 크다. 두려움도 있지만 단 1명밖에 서지 못하는 중요한 포지션에서 가슴을 펴고 설 수 있도록, 또한 이 곡을 통해 저 자신도 크게 성장할 수 있도록 노력하겠다”라는 감사 인사와 다짐을 전했다.\n한편 혼다 히토미는 지난 2018년 방송된 Mnet ‘프로듀스 48’에 출연, 최종 12명의 데뷔 멤버로 선정돼 2년 6개월 동안 아이즈원으로 활동했다.\n이후 지난해 4월 아이즈원 프로젝트 종료 후 일본으로 돌아가 활발하게 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이즈원 출신 혼다 히토미가 AKB48의 싱글 앨범에서 생애 처음으로 단독 센터에 선발됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일본 매체 ‘스포츠호치’는 23일 “혼다 히토미가 오는 5월 18일 발매하는 AKB48의 59번째 싱글에서 센터를 맡는다”라고 보도했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 싱글 앨범은 총 20명의 멤버가 선발됐고, 그중 혼다 히토미가 단독 센터를 맡는다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AKB48은 활동 특성상 센터의 의미가 매우 큰 것으로 알려져 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "혼다 히토미는 센터 선발 발표 후 자신의 인스타그램을 통해 “데뷔한 지 8년 동안 언제, 어느 때라도 곁에서 지지해 주신 여러분 덕분에 오랜 꿈을 실현할 수 있었다. 정말 감사한 마음이 크다. 두려움도 있지만 단 1명밖에 서지 못하는 중요한 포지션에서 가슴을 펴고 설 수 있도록, 또한 이 곡을 통해 저 자신도 크게 성장할 수 있도록 노력하겠다”라는 감사 인사와 다짐을 전했다.",
+				"sentenceSize": 211
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 혼다 히토미는 지난 2018년 방송된 Mnet ‘프로듀스 48’에 출연, 최종 12명의 데뷔 멤버로 선정돼 2년 6개월 동안 아이즈원으로 활동했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 지난해 4월 아이즈원 프로젝트 종료 후 일본으로 돌아가 활발하게 활동 중이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이즈원 출신 혼다 히토미, AKB48 단독 센터 선발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

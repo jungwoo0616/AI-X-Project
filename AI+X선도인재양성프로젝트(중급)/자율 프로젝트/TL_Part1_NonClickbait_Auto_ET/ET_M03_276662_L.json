@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276662",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "37세 유명 가수가 공개한 새로운 플랭크 운동법(영상)",
+		"newsSubTitle": "",
+		"newsContent": "미국 가수 브리트니 스피어스가 새로운 플랭크 운동법을 공개했다.\n스피어스는 26일 자신의 인스타그램에 “내일 있을 홍콩 공연을 기다리지 못하겠다. 길 바닥에서도 운동을 한다”며 해당 영상을 공개했다.\n스피어스는 바닥에 팔꿈치를 대고 엎드려 뻗쳐와 유사하게 몸을 유지하는 플랭크 운동을 변형한 모습을 선보였다.\n한쪽 팔로만 몸을 지탱하고 다른 쪽 팔은 하늘을 향했다.\n붉은색 짐볼로 복근 운동하는 모습도 보였다.\n일본·한국·대만·필리핀·태국에서 공연을 마친 브리트니는 홍콩(27일)과 싱가포르(30일)까지 아시아 투어를 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 가수 브리트니 스피어스가 새로운 플랭크 운동법을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스피어스는 26일 자신의 인스타그램에 “내일 있을 홍콩 공연을 기다리지 못하겠다. 길 바닥에서도 운동을 한다”며 해당 영상을 공개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스피어스는 바닥에 팔꿈치를 대고 엎드려 뻗쳐와 유사하게 몸을 유지하는 플랭크 운동을 변형한 모습을 선보였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한쪽 팔로만 몸을 지탱하고 다른 쪽 팔은 하늘을 향했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "붉은색 짐볼로 복근 운동하는 모습도 보였다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일본·한국·대만·필리핀·태국에서 공연을 마친 브리트니는 홍콩(27일)과 싱가포르(30일)까지 아시아 투어를 이어간다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "37세 유명 가수가 공개한 새로운 플랭크 운동법(영상)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

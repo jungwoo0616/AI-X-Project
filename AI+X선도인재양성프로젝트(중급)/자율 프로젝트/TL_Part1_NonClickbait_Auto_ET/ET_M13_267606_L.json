@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267606",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박보영, 러블리 대명사가 뜬다 (유퀴즈)",
+		"newsSubTitle": "",
+		"newsContent": "러블리의 대명사로 불리는 배우 박보영이 tvN 예능 ‘유퀴즈 온 더 블록’(이하 유퀴즈)에 나온다.\n지난 20일 방송된 ‘유퀴즈’ 다음 주 예고편에 박보영이 등장해 시청자들의 시선을 끌었다.\n그는 “일기 열심히 써 ‘유퀴즈’에 나오게 됐다”며 밝은 미소로 운을 뗐다.\n박보영은 일기장 특집인 만큼 자신의 일기장을 들고나왔다.\n박보영은 “죽기 전에 일기를 불태우고 재가 되는 걸 봐야 한다”는 말에 “제일 친한 친구한테 나에게 사고가 생기면 일기장부터”라고 대답해 웃음꽃을 피웠다.\n또 조세호가 일기를 읽으려 하자 급히 빼앗아 자체 검열을 했는데 백화점에서 선물을 산 내용이라며 안도의 한숨을 내쉬었다.\n이후 박보영은 이상형이 있냐는 질문에 “이상형은 없다”라는 발언과 극장 개봉 후 관객들의 반응과 피드백을 들으러 화장실에 숨어 있는다는 에피소드까지 공개해 시청자들의 시선을 모았다.\n한편 이날 방송된‘유퀴즈 온 더 블럭’ 150화에는 윤석열 당선인이 출연해 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "러블리의 대명사로 불리는 배우 박보영이 tvN 예능 ‘유퀴즈 온 더 블록’(이하 유퀴즈)에 나온다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일 방송된 ‘유퀴즈’ 다음 주 예고편에 박보영이 등장해 시청자들의 시선을 끌었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “일기 열심히 써 ‘유퀴즈’에 나오게 됐다”며 밝은 미소로 운을 뗐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박보영은 일기장 특집인 만큼 자신의 일기장을 들고나왔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박보영은 “죽기 전에 일기를 불태우고 재가 되는 걸 봐야 한다”는 말에 “제일 친한 친구한테 나에게 사고가 생기면 일기장부터”라고 대답해 웃음꽃을 피웠다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 조세호가 일기를 읽으려 하자 급히 빼앗아 자체 검열을 했는데 백화점에서 선물을 산 내용이라며 안도의 한숨을 내쉬었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 박보영은 이상형이 있냐는 질문에 “이상형은 없다”라는 발언과 극장 개봉 후 관객들의 반응과 피드백을 들으러 화장실에 숨어 있는다는 에피소드까지 공개해 시청자들의 시선을 모았다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이날 방송된‘유퀴즈 온 더 블럭’ 150화에는 윤석열 당선인이 출연해 화제를 모았다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박보영, 러블리 대명사가 뜬다 (유퀴즈)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

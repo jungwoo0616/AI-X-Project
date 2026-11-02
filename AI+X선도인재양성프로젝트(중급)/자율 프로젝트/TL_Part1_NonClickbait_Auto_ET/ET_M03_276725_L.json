@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276725",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'데이트 강간' 음료 속 마취약 검사하는 빨대 개발한 여고생들",
+		"newsSubTitle": "",
+		"newsContent": "여고생 3명이 데이트 강간을 막는 빨대를 개발했다.\n지난 7일(현지시간) 미국 매체 USA TODAY는 마이애미 플로리다 고등학교 여고생 3명이 데이트 강간에 사용되는 약물을 검사할 수 있는 스마트 빨대를 개발했다고 보도했다.\n이 빨대는 음료 속의 마취유도제를 검사할 수 있다.\n만약 음료에 마취 유도제인 케타민과 같은 마약류가 포함되어 있다면 빨대는 파란색으로 변한다.\n약물이 없는 경우 빨대의 색은 변하지 않는다.\n이 빨대는 마이애미 헤럴드가 주최한 '비즈니스 플랜 챌린지' 대회 우승 작품이다.\n심사위원 측은 스마트 빨대를 다른 사람들이 상품화하기 전데 특허 신청을 하도록 권유한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "여고생 3명이 데이트 강간을 막는 빨대를 개발했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 7일(현지시간) 미국 매체 USA TODAY는 마이애미 플로리다 고등학교 여고생 3명이 데이트 강간에 사용되는 약물을 검사할 수 있는 스마트 빨대를 개발했다고 보도했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 빨대는 음료 속의 마취유도제를 검사할 수 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "만약 음료에 마취 유도제인 케타민과 같은 마약류가 포함되어 있다면 빨대는 파란색으로 변한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "약물이 없는 경우 빨대의 색은 변하지 않는다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 빨대는 마이애미 헤럴드가 주최한 '비즈니스 플랜 챌린지' 대회 우승 작품이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "심사위원 측은 스마트 빨대를 다른 사람들이 상품화하기 전데 특허 신청을 하도록 권유한 것으로 알려졌다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'데이트 강간' 음료 속 마취약 검사하는 빨대 개발한 여고생들",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

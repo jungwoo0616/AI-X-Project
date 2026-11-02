@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168026",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'여친 폭행' 논란인 아이언, SNS에서 저격한 고등래퍼 윤병호",
+    "newsSubTitle": "",
+    "newsContent": "Mnet'고등래퍼‘에 출연 중인 윤병호가 SNS를 통해 래퍼 아이언을 저격하는 글을 올려 화제다.\n윤병호는 최근 자신의 SNS에 “마약을 하든 길거리에서 쌈박질을 하든 별로 신경 안 쓰는데 여자친구를 때리는 건 대가리 텅 빈 머저리지. 멋있는 척 다 하더니 찌질이었네”라는 글의 내용을 올렸다.\n이어 “만약 내가 그런 짓을 했으면 우리 엄마가 나를 죽였을거야. 난 그렇게 그지같이 가르침 받지 않았거든. 이번에 진심으로 반성해라 XXX야”라며 격렬하게 비판했다.\n윤병호가 저격한 사람은 최근 전 여자친구를 폭행한 혐의로 고소된 아이언으로 추정되고 있다.\n아이언은 “그녀가 늘 나에게 폭력을 요구했다. 본인은 그래야만 만족을 한다고 했다”고 해명을 해 논란이 되기도 했다.\n일부 네티즌들은 “아직 확정된 사안이 아닌데 성급한 거 아니냐”라는 반응을 보이기도 했다.\n해당 게시물은 현재 윤병호의 SNS에서 삭제된 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet'고등래퍼‘에 출연 중인 윤병호가 SNS를 통해 래퍼 아이언을 저격하는 글을 올려 화제다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤병호는 최근 자신의 SNS에 “마약을 하든 길거리에서 쌈박질을 하든 별로 신경 안 쓰는데 여자친구를 때리는 건 대가리 텅 빈 머저리지. 멋있는 척 다 하더니 찌질이었네”라는 글의 내용을 올렸다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “만약 내가 그런 짓을 했으면 우리 엄마가 나를 죽였을거야. 난 그렇게 그지같이 가르침 받지 않았거든. 이번에 진심으로 반성해라 XXX야”라며 격렬하게 비판했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤병호가 저격한 사람은 최근 전 여자친구를 폭행한 혐의로 고소된 아이언으로 추정되고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아이언은 “그녀가 늘 나에게 폭력을 요구했다. 본인은 그래야만 만족을 한다고 했다”고 해명을 해 논란이 되기도 했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일부 네티즌들은 “아직 확정된 사안이 아닌데 성급한 거 아니냐”라는 반응을 보이기도 했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당 게시물은 현재 윤병호의 SNS에서 삭제된 상태다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'고등래퍼' 윤병호, SNS로 아이언 저격 논란?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

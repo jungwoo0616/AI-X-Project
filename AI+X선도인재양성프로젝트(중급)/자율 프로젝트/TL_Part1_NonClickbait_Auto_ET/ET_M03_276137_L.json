@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276137",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "전미선 측 “전주 이동 중…상황 파악 후 입장”",
+		"newsSubTitle": "",
+		"newsContent": "배우 전미선(49)이 전북 전주의 한 호텔에서 숨진 채 발견된 것과 관련해 소속사 측이 “조속히 상황 파악 후 입장을 밝히겠다”고 말했다.\n전미선의 소속사 관계자는 29일 뉴스1을 통해 “현재 소식을 듣고 전주에 내려가는 중”이라며 “상황 파악 후 알리겠다”고 밝혔다.\n전북소방본부에 따르면 전미선은 이날 오전 11시 43분쯤 전북 전주시 한 호텔에서 숨진 채 발견됐다.\n그는 이날 오후 2시와 6시 전북대학교 삼성문화회관에서 열리는 연극 ‘친정엄마와 2박 3일’ 무대에 오를 예정이었다.\n소방본부 관계자는 일간스포츠에 “전미선은 신고를 받고 출동했을 당시 무호흡, 무맥박, 무의식 상태였다. 심전도상으로도 무수축이 나왔다”며 “병원으로 이송하지 않고 경찰에 인계한 상황”이라고 전했다.\n경찰은 매니저 등을 상대로 정확한 사건 경위를 조사하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 전미선(49)이 전북 전주의 한 호텔에서 숨진 채 발견된 것과 관련해 소속사 측이 “조속히 상황 파악 후 입장을 밝히겠다”고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전미선의 소속사 관계자는 29일 뉴스1을 통해 “현재 소식을 듣고 전주에 내려가는 중”이라며 “상황 파악 후 알리겠다”고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전북소방본부에 따르면 전미선은 이날 오전 11시 43분쯤 전북 전주시 한 호텔에서 숨진 채 발견됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 이날 오후 2시와 6시 전북대학교 삼성문화회관에서 열리는 연극 ‘친정엄마와 2박 3일’ 무대에 오를 예정이었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소방본부 관계자는 일간스포츠에 “전미선은 신고를 받고 출동했을 당시 무호흡, 무맥박, 무의식 상태였다. 심전도상으로도 무수축이 나왔다”며 “병원으로 이송하지 않고 경찰에 인계한 상황”이라고 전했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰은 매니저 등을 상대로 정확한 사건 경위를 조사하고 있다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전미선 측 “전주 이동 중…상황 파악 후 입장”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271262",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "김의영 ‘드림콘서트 트롯’ 출격",
+		"newsSubTitle": "",
+		"newsContent": "가수 김의영이 제1회 ‘드림콘서트 트롯’에 출연을 확정했다.\n김의영은 오는 6월 19일 잠실 주경기장에서 개최되는 최대 규모의 공연 ‘드림콘서트 트롯’ 출연진 라인업에 이름을 올렸다.\n김의영이 출연하는 ‘드림콘서트 트롯’은 잠실올림픽주경기장에서 최초로 펼쳐지는 트로트 연합 공연이다.\n이젠 K-POP 만큼이나 가요계 주류의 장르로 조명 받고 있는 K-트로트의 축제로 남진, 설운도, 진성, 김용임, 한혜진 등의 굵직한 트롯 가수들이 무대를 화려하게 꾸밀 전망이다.\n김의영은 이번 공연에 참여하며 코로나19 팬데믹으로 위축됐던 공연 업계에 활력을 불어넣는 데에 일조하고, 대면 공연을 기대해왔던 트로트 팬들에게 특별한 감동과 경험을 선사할 예정이다.\n김의영은 TV조선 ‘미스트롯 2’ 톱 5를 기록하며 널리 얼굴을 알렸으며, 트롯 팬들 사이에서는 ‘캡사이신 보이스’로 불릴 만큼 시원한 음색이 매력을 인정받아 많은 이들에게 사랑받고 있다.\n한편, 김의영이 출연하는 6월 19일 저녁 6시에 서울 잠실 주경기장에서 개최되는 ‘드림콘서트 트롯’은 추후 SBS MTV와 SBS FiL 채널을 통해 방송될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김의영이 제1회 ‘드림콘서트 트롯’에 출연을 확정했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김의영은 오는 6월 19일 잠실 주경기장에서 개최되는 최대 규모의 공연 ‘드림콘서트 트롯’ 출연진 라인업에 이름을 올렸다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김의영이 출연하는 ‘드림콘서트 트롯’은 잠실올림픽주경기장에서 최초로 펼쳐지는 트로트 연합 공연이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이젠 K-POP 만큼이나 가요계 주류의 장르로 조명 받고 있는 K-트로트의 축제로 남진, 설운도, 진성, 김용임, 한혜진 등의 굵직한 트롯 가수들이 무대를 화려하게 꾸밀 전망이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김의영은 이번 공연에 참여하며 코로나19 팬데믹으로 위축됐던 공연 업계에 활력을 불어넣는 데에 일조하고, 대면 공연을 기대해왔던 트로트 팬들에게 특별한 감동과 경험을 선사할 예정이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김의영은 TV조선 ‘미스트롯 2’ 톱 5를 기록하며 널리 얼굴을 알렸으며, 트롯 팬들 사이에서는 ‘캡사이신 보이스’로 불릴 만큼 시원한 음색이 매력을 인정받아 많은 이들에게 사랑받고 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 김의영이 출연하는 6월 19일 저녁 6시에 서울 잠실 주경기장에서 개최되는 ‘드림콘서트 트롯’은 추후 SBS MTV와 SBS FiL 채널을 통해 방송될 예정이다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김의영 ‘드림콘서트 트롯’ 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166300",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘런닝맨’ 9일 녹화 재개[공식]",
+    "newsSubTitle": "",
+    "newsContent": "SBS 예능 프로그램 ‘런닝맨’이 녹화를 재개한다.\nSBS 측은 3일 스포츠경향에 “‘런닝맨’이 오는 9일 녹화를 재개할 예정”이라고 밝혔다.\n앞서 방송인 유재석은 지난 23일 tvN 예능 프로그램 ‘유 키즈 온 더 블럭’ 스태프 중 한 명이 코로나19에 확진됨에 따라 자가격리에 들어간 바 있다.\n이에 그가 출연 중인 ‘런닝맨’ 또한 녹화를 일시 중단했다.\n이후 유재석의 자가격리가 마무리되면서 ‘런닝맨’ 또한 예정된 일정을 다시 소화할 전망이다.\n한편 지난 1일 결방한 ‘런닝맨’은 오는 8일에는 정상적으로 방송된다.\n다만 ‘2020’ 도쿄올림픽‘의 여파로 30분 지연 방송될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS 예능 프로그램 ‘런닝맨’이 녹화를 재개한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS 측은 3일 스포츠경향에 “‘런닝맨’이 오는 9일 녹화를 재개할 예정”이라고 밝혔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 방송인 유재석은 지난 23일 tvN 예능 프로그램 ‘유 키즈 온 더 블럭’ 스태프 중 한 명이 코로나19에 확진됨에 따라 자가격리에 들어간 바 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 그가 출연 중인 ‘런닝맨’ 또한 녹화를 일시 중단했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 유재석의 자가격리가 마무리되면서 ‘런닝맨’ 또한 예정된 일정을 다시 소화할 전망이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 지난 1일 결방한 ‘런닝맨’은 오는 8일에는 정상적으로 방송된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다만 ‘2020’ 도쿄올림픽‘의 여파로 30분 지연 방송될 예정이다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'유 퀴즈 온더 블럭' 스태프 한 명 코로나 걸리자, 줄줄이 녹화 중단?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

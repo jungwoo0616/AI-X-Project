@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263255",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "창모, 산불 피해 지원 1,000만원 기부",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 음악프로듀서 창모가 산불 피해 지원을 위해 기부행렬에 동참했다.\n창모는 8일 자신의 사회관계망서비스(SNS)에 희망브리지 전국재해구호협회에 1,000만 원을 기부한 기부증서를 게재했다.\n기부금은 경북 울진·강원 삼척 등 산불 피해로 인해 어려움을 겪고 있는 이웃들을 위해 쓰이게 된다.\n한편 희망브리지 전국재해구호협회는 재난 구호 모금 전문기관으로 1961년 전국의 신문사와 방송사, 사회단체가 힘을 모아 설립한 순수 민간단체이자 국내 자연재해 피해 구호금을 지원할 수 있는 유일한 법정 구호단체다.\n희망브리지는 60년 동안 누적 1조 5천억 원 규모의 성금과 5,000만 점 이상의 구호 물품을 재난 피해 이웃에게 지원했다.\n또한 코로나19 극복을 위해 모은 985억 원의 성금으로 방역 취약계층과 의료진, 치료시설 입소자 등을 위해 2,500만 점 이상의 구호 물품을 지원했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 음악프로듀서 창모가 산불 피해 지원을 위해 기부행렬에 동참했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "창모는 8일 자신의 사회관계망서비스(SNS)에 희망브리지 전국재해구호협회에 1,000만 원을 기부한 기부증서를 게재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기부금은 경북 울진·강원 삼척 등 산불 피해로 인해 어려움을 겪고 있는 이웃들을 위해 쓰이게 된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 희망브리지 전국재해구호협회는 재난 구호 모금 전문기관으로 1961년 전국의 신문사와 방송사, 사회단체가 힘을 모아 설립한 순수 민간단체이자 국내 자연재해 피해 구호금을 지원할 수 있는 유일한 법정 구호단체다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "희망브리지는 60년 동안 누적 1조 5천억 원 규모의 성금과 5,000만 점 이상의 구호 물품을 재난 피해 이웃에게 지원했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 코로나19 극복을 위해 모은 985억 원의 성금으로 방역 취약계층과 의료진, 치료시설 입소자 등을 위해 2,500만 점 이상의 구호 물품을 지원했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "창모, 산불 피해 지원 1,000만원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276724",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "한 여배우의 승무원 준비생 시절 사진",
+		"newsSubTitle": "",
+		"newsContent": "탤런트 조보아(26)의 과거 사진이 화제다.\n지난 6일 한 온라인 커뮤니티에 '조보아 아시아나 승무원 준비 시절'이라는 제목의 글과 함께 사진이 올라왔다.\n당시 아시아나 항공에서의 승무원 체험 시절 당시의 사진을 보면 지금과 별반 다르지 않은 미모를 자랑해 눈길을 끈다.\n조보아는 최근 KBS2TV ‘우리집에 사는 남자’에서 승무원 역할을 완벽하게 소화했다.\n대학시절 조보아의 사진과 함께 그의 학창시절 사진도 눈길을 끌고 있다.\n과거 한 온라인 커뮤니티에서는 ‘조보아 과거 사진’이라는 글과 함께 조보아의 졸업사진과 초등학생 때 찍은 사진이 올라왔다.\n조보아는 ‘한서대 설리’, ‘대전 얼짱’ 등의 수식어로 유명하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "탤런트 조보아(26)의 과거 사진이 화제다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 6일 한 온라인 커뮤니티에 '조보아 아시아나 승무원 준비 시절'이라는 제목의 글과 함께 사진이 올라왔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 아시아나 항공에서의 승무원 체험 시절 당시의 사진을 보면 지금과 별반 다르지 않은 미모를 자랑해 눈길을 끈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조보아는 최근 KBS2TV ‘우리집에 사는 남자’에서 승무원 역할을 완벽하게 소화했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대학시절 조보아의 사진과 함께 그의 학창시절 사진도 눈길을 끌고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과거 한 온라인 커뮤니티에서는 ‘조보아 과거 사진’이라는 글과 함께 조보아의 졸업사진과 초등학생 때 찍은 사진이 올라왔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조보아는 ‘한서대 설리’, ‘대전 얼짱’ 등의 수식어로 유명하다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한 여배우의 승무원 준비생 시절 사진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

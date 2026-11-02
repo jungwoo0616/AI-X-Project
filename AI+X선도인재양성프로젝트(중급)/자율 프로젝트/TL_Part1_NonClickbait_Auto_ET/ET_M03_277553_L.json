@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277553",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "미쓰에이 민, \\\"'꽃보다 남자' 구혜선역 제안받아\\\"",
+		"newsSubTitle": "",
+		"newsContent": "미쓰에이 민이 뮤지컬 '꽃보다 남자' 출연 물망에 올랐다.\n11일 미쓰에이 소속사 JYP 엔터테인먼트 관계자는 한 매체를 통해 \\\"민이 뮤지컬 '꽃보다 남자' 출연과 관련해 최종 조율중\\\"이라고 밝혔다. '꽃보다 남자'는 동명의 인기 만화를 원작으로 한 작품으로 한국에서는 드라마로 제작돼 이민호·구혜선·김범 등의 스타를 배출했다.\n뮤지컬 '꽃보다 남자'는 한·중·일 을 섭렵한 콘텐츠로 일본 크리에이티브 팀들에 의해 뮤지컬로 재탄생됐다.\n민은 드라마에서 배우 구혜선이 맡았던 여자 주인공 역할을 제안 받았다.\n만약 출연한다면 데뷔 첫 뮤지컬 도전이다.\n이에 앞서 빅스 켄, 비투비 이창섭, 슈퍼주니어 성민 등이 출연 조율 중이다.\n한편, 뮤지컬 '꽃보다 남자'는 오는 2월 24일부터 5월 7일까지 서울 대학로 홍익대 아트센터 대극장에서 공연된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미쓰에이 민이 뮤지컬 '꽃보다 남자' 출연 물망에 올랐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 미쓰에이 소속사 JYP 엔터테인먼트 관계자는 한 매체를 통해 \\\"민이 뮤지컬 '꽃보다 남자' 출연과 관련해 최종 조율중\\\"이라고 밝혔다. '꽃보다 남자'는 동명의 인기 만화를 원작으로 한 작품으로 한국에서는 드라마로 제작돼 이민호·구혜선·김범 등의 스타를 배출했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뮤지컬 '꽃보다 남자'는 한·중·일 을 섭렵한 콘텐츠로 일본 크리에이티브 팀들에 의해 뮤지컬로 재탄생됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민은 드라마에서 배우 구혜선이 맡았던 여자 주인공 역할을 제안 받았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "만약 출연한다면 데뷔 첫 뮤지컬 도전이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 앞서 빅스 켄, 비투비 이창섭, 슈퍼주니어 성민 등이 출연 조율 중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 뮤지컬 '꽃보다 남자'는 오는 2월 24일부터 5월 7일까지 서울 대학로 홍익대 아트센터 대극장에서 공연된다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미쓰에이 민, \\\"'꽃보다 남자' 구혜선역 제안받아\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

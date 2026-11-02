@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258993",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김소혜, 연극 ‘저기요…’ 주연 발탁, 아이돌 넘어 배우 변신 가속",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아이오아이 출신 배우 김소혜가 ‘저기요…’로 무대를 찾는다. 21일 소속사 에스앤피엔터테인먼트는 김소혜가 연극 ‘저기요…’ 주연으로 발탁돼 연습에 돌입했다고 밝혔다.\n연극 ‘저기요…’는 여섯 청춘의 유쾌하고 풋풋한 사랑 이야기를 담는다.\n신생극단 ‘배우地’와 최지은 작가의 창작 초연작으로 극단 301 정범철 대표가 연출을 맡았다.\n김소혜는 ‘저기요…’에서 끊임없이 사랑을 꿈꾸는 발랄한 청춘 채인 역을 맡았다.\n앞서 영화와 드라마에서 배우로 가능성을 보여준 김소혜가 연극 무대에선 어떤 모습을 보여줄지 귀추가 주목된다.\n연극 ‘저기요…’는 27일부터 2월 13일까지 대학로 알과핵 소극장에서 공연된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이오아이 출신 배우 김소혜가 ‘저기요…’로 무대를 찾는다. 21일 소속사 에스앤피엔터테인먼트는 김소혜가 연극 ‘저기요…’ 주연으로 발탁돼 연습에 돌입했다고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연극 ‘저기요…’는 여섯 청춘의 유쾌하고 풋풋한 사랑 이야기를 담는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신생극단 ‘배우地’와 최지은 작가의 창작 초연작으로 극단 301 정범철 대표가 연출을 맡았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김소혜는 ‘저기요…’에서 끊임없이 사랑을 꿈꾸는 발랄한 청춘 채인 역을 맡았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 영화와 드라마에서 배우로 가능성을 보여준 김소혜가 연극 무대에선 어떤 모습을 보여줄지 귀추가 주목된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연극 ‘저기요…’는 27일부터 2월 13일까지 대학로 알과핵 소극장에서 공연된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김소혜, 연극 ‘저기요…’ 주연 발탁, 아이돌 넘어 배우 변신 가속",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

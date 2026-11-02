@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278619",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "차지연 남편 윤은채 \\\"'차지해야겠다'는 생각에 이틀 만에 프러포즈\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 차지연의 남편 윤은채가 출연했다.\n23일 오후 방송된 tvN 예능프로그램 ‘현장토크쇼 택시’에는 차지연 이엘이 게스트로 출연한 가운데 차지연의 남편이 깜짝 등장했다.\n이날 차지연은 뮤지컬 ‘드림걸즈’에서 만나 결혼에 골인한 남편 윤은채와의 러브스토리를 공개했다.\n차지연은 “남편이 만난 지 이틀 만에 프러포즈를 했다. '네 살 차이는 궁합도 안 본다'고 고백하더라”고 밝혔다.\n윤은채는 “원래부터 차지연을 좋아했다. 함께 작품하게 돼서 설렜다. 나를 동료 이상으로 생각한다는 것을 알았을 때 ‘차지해야겠다’는 생각이 들었다”고 말했다.\n이어 “만난 지 얼마 안 됐을 때 차지연이 ‘나와의 관계를 어디까지 생각하느냐’고 묻더라. 그때 결혼해야겠다고 생각했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 차지연의 남편 윤은채가 출연했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 오후 방송된 tvN 예능프로그램 ‘현장토크쇼 택시’에는 차지연 이엘이 게스트로 출연한 가운데 차지연의 남편이 깜짝 등장했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 차지연은 뮤지컬 ‘드림걸즈’에서 만나 결혼에 골인한 남편 윤은채와의 러브스토리를 공개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차지연은 “남편이 만난 지 이틀 만에 프러포즈를 했다. '네 살 차이는 궁합도 안 본다'고 고백하더라”고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤은채는 “원래부터 차지연을 좋아했다. 함께 작품하게 돼서 설렜다. 나를 동료 이상으로 생각한다는 것을 알았을 때 ‘차지해야겠다’는 생각이 들었다”고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “만난 지 얼마 안 됐을 때 차지연이 ‘나와의 관계를 어디까지 생각하느냐’고 묻더라. 그때 결혼해야겠다고 생각했다”고 밝혔다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "차지연 남편 윤은채 \\\"'차지해야겠다'는 생각에 이틀 만에 프러포즈\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

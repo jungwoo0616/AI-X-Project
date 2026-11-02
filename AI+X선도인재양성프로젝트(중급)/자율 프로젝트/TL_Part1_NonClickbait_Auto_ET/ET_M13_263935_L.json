@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263935",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박해수X이정재, ‘오징어게임’ 빛낸 두 얼굴",
+		"newsSubTitle": "",
+		"newsContent": "배우 박해수가 이정재와 함께한 크리틱스초이스 시상식 후기를 공개했다.\n박해수는 15일 자신의 사회관계망서비스(SNS)에 “크리틱스초이스 외국드라마 부문 선정에 감사드린다. 또 남우주연상을 수상한 이정재 배우에게 축하를 보낸다”라는 글을 영어로 게재했다.\n박해수는 글과 함께 이정재와 시상식장에서 찍은 사진도 공개했다.\n두 사람은 나란히 얼굴을 맞대고 미소와 함께 포즈를 취했다.\n지난 13일 미국 로스앤젤레스에서 열린 제27회 크리틱스초이스 어워즈에서 박해수가 출연한 넷플릭스 ‘오징어게임’은 최고 외국 드라마상을 수상했다.\n또한 이정재는 남우주연상을 수상하는 쾌거를 이뤘다.\n앞서 ‘오징어게임’은 미국 미국배우조합상(SAG)에서 이정재가 남우주연상, 정호연이 여우주연상을 수상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박해수가 이정재와 함께한 크리틱스초이스 시상식 후기를 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박해수는 15일 자신의 사회관계망서비스(SNS)에 “크리틱스초이스 외국드라마 부문 선정에 감사드린다. 또 남우주연상을 수상한 이정재 배우에게 축하를 보낸다”라는 글을 영어로 게재했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박해수는 글과 함께 이정재와 시상식장에서 찍은 사진도 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 나란히 얼굴을 맞대고 미소와 함께 포즈를 취했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 13일 미국 로스앤젤레스에서 열린 제27회 크리틱스초이스 어워즈에서 박해수가 출연한 넷플릭스 ‘오징어게임’은 최고 외국 드라마상을 수상했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 이정재는 남우주연상을 수상하는 쾌거를 이뤘다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 ‘오징어게임’은 미국 미국배우조합상(SAG)에서 이정재가 남우주연상, 정호연이 여우주연상을 수상했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박해수X이정재, ‘오징어게임’ 빛낸 두 얼굴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

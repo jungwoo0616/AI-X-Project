@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170260",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "소유·VIVIZ·이무진·렌 출연 ‘2022 B.N.F Festival’…특별한 컬래버 예고한 기습 스포일러",
+    "newsSubTitle": "",
+    "newsContent": "빅플래닛메이드(Big Planet Made, BPM)가 개최하는 ‘2022 B.N.F Festival’의 특별한 컬래버레이션이 예고됐다.\n31일 오후 빅플래닛메이드 공식 SNS를 통해 ‘2022 B.N.F Festival’의 컬래버레이션 트랙리스트 이미지가 공개됐다.\n이미지에는 엄지, 소유, 렌, BE‘O, 은하, 하성운의 이름이 차례로 나열돼 있다.\n이들과 컬래버레이션을 펼칠 아티스트는 베일에 가려진 가운데 다양한 이모티콘들로 무대를 스포일러하고 있어 팬들의 궁금증을 증폭시킨다. ‘2022 B.N.F Festival’은 ‘2022 Big planet made & Friends Festival’의 약자로, 빅플래닛메이드 소속 아티스트들이 총출동하는 야외 콘서트다.\n소유, VIVIZ(비비지, 은하·신비·엄지), 허각, 하성운, 이무진, 비오(BE’O), 마이티마우스(Mighty Mouth), 렌(최민기)이 출연해 특별한 여름밤을 선사할 예정이다.\n이름만으로 막강한 아티스트 라인업이 기대감을 높이는 가운데 오직 ‘B.N.F Festival’에서만 볼 수 있는 컬래버레이션 무대에도 관심이 모아진다. ‘2022 B.N.F Festival’은 6월 4일과 5일 오후 6시 30분 서울 올림픽공원 88호수 수변무대에서 펼쳐진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "빅플래닛메이드(Big Planet Made, BPM)가 개최하는 ‘2022 B.N.F Festival’의 특별한 컬래버레이션이 예고됐다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "31일 오후 빅플래닛메이드 공식 SNS를 통해 ‘2022 B.N.F Festival’의 컬래버레이션 트랙리스트 이미지가 공개됐다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이미지에는 엄지, 소유, 렌, BE‘O, 은하, 하성운의 이름이 차례로 나열돼 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들과 컬래버레이션을 펼칠 아티스트는 베일에 가려진 가운데 다양한 이모티콘들로 무대를 스포일러하고 있어 팬들의 궁금증을 증폭시킨다. ‘2022 B.N.F Festival’은 ‘2022 Big planet made & Friends Festival’의 약자로, 빅플래닛메이드 소속 아티스트들이 총출동하는 야외 콘서트다.",
+        "sentenceSize": 177
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소유, VIVIZ(비비지, 은하·신비·엄지), 허각, 하성운, 이무진, 비오(BE’O), 마이티마우스(Mighty Mouth), 렌(최민기)이 출연해 특별한 여름밤을 선사할 예정이다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이름만으로 막강한 아티스트 라인업이 기대감을 높이는 가운데 오직 ‘B.N.F Festival’에서만 볼 수 있는 컬래버레이션 무대에도 관심이 모아진다. ‘2022 B.N.F Festival’은 6월 4일과 5일 오후 6시 30분 서울 올림픽공원 88호수 수변무대에서 펼쳐진다.",
+        "sentenceSize": 154
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘2022 B.N.F Festival’ 컬래버 폭격! 쟁쟁한 출연진들과 함께 찾아온다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

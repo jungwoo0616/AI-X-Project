@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275964",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이콘, 3년 6개월 만에 콘서트 “감정 살아나”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아이콘(iKON)의 서울 콘서트 비하인드 영상이 공개됐다.\n20일 공개된 영상 속 아이콘 멤버들은 당시 3년 6개월 만에 열린 완전체 콘서트에 설레는 마음을 숨기지 못했다.\n특히 송윤형은 YG 대표 캐릭터인 ‘크렁크’ 탈인형을 쓰고 공연장에 등장해 팬들에게 한 걸음 더 가까이 다가서는 깜짝 이벤트로 모두를 즐겁게 했다.\n세트리스트를 살피고 동선을 챙긴 멤버들은 공연 시작 전 “즐겁게 놀아보자”며 분위기를 끌어올렸다.\n아이콘은 “팬분들이 앞에 계시는데 반가움, 감사함, 미안함 같은 복합적인 기분이 들어서 울컥했다”며 “(지난날들이) 파노라마처럼 펼쳐졌다”고 가슴 벅찬 순간을 되짚었다.\n이어 “공연장에서만 느낄 수 있는 감정이 되살아났다. 여러분을 뵐 수 있어서 정말 기쁘고 행복했다. 앞으로 이런 시간이 자주 마련될 수 있도록 노력하겠다”고 입을 모았다.\n한편 아이콘은 서울 콘서트에 이어 효고현 고베와 도쿄에서 진행된 일본 투어를 성황리에 마치고 오는 10월 22일·23일, 오사카 추가 공연을 확정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이콘(iKON)의 서울 콘서트 비하인드 영상이 공개됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 공개된 영상 속 아이콘 멤버들은 당시 3년 6개월 만에 열린 완전체 콘서트에 설레는 마음을 숨기지 못했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 송윤형은 YG 대표 캐릭터인 ‘크렁크’ 탈인형을 쓰고 공연장에 등장해 팬들에게 한 걸음 더 가까이 다가서는 깜짝 이벤트로 모두를 즐겁게 했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세트리스트를 살피고 동선을 챙긴 멤버들은 공연 시작 전 “즐겁게 놀아보자”며 분위기를 끌어올렸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이콘은 “팬분들이 앞에 계시는데 반가움, 감사함, 미안함 같은 복합적인 기분이 들어서 울컥했다”며 “(지난날들이) 파노라마처럼 펼쳐졌다”고 가슴 벅찬 순간을 되짚었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “공연장에서만 느낄 수 있는 감정이 되살아났다. 여러분을 뵐 수 있어서 정말 기쁘고 행복했다. 앞으로 이런 시간이 자주 마련될 수 있도록 노력하겠다”고 입을 모았다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 아이콘은 서울 콘서트에 이어 효고현 고베와 도쿄에서 진행된 일본 투어를 성황리에 마치고 오는 10월 22일·23일, 오사카 추가 공연을 확정했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이콘, 3년 6개월 만에 콘서트 “감정 살아나”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

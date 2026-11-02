@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277231",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "노홍철 “운명의 짝 만났다” 무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "방송인 노홍철이 고민 끝에 당나귀를 입양하기로 결정했다.\n노홍철은 21일 MBC FM4U '굿모닝FM 노홍철입니다'에서 당나귀 입양 사실을 공식적으로 밝혔다.\n그는 전날 공식적으로 당나귀 계약을 마친 것으로 알려졌다.\n그는 \\\"드디어 어제 제 운명의 짝을 만났다. 3월에 만나자\\\"며 7개월 간의 고민 끝에 결정을 하게 됐다.\n당나귀 이 친구는 제게 너무 많은 기쁨을 준다”고 말했다.\n앞서 온라인상엔 노홍철이 당나귀를 입양했다는 소식이 전해져 화제가 됐다.\n하지만 그때는 당나귀가 서울에서도 잘 적응할지 여부를 테스트 해보기 위한 자리였다.\n노홍철은 청취자들에게 \\\"미국에서 온 귀엽고 아담한 당나귀다.\n인상도 참 좋다\\\"며 \\\"당나귀의 이름을 지어달라\\\"고 부탁하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 노홍철이 고민 끝에 당나귀를 입양하기로 결정했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노홍철은 21일 MBC FM4U '굿모닝FM 노홍철입니다'에서 당나귀 입양 사실을 공식적으로 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 전날 공식적으로 당나귀 계약을 마친 것으로 알려졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"드디어 어제 제 운명의 짝을 만났다. 3월에 만나자\\\"며 7개월 간의 고민 끝에 결정을 하게 됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당나귀 이 친구는 제게 너무 많은 기쁨을 준다”고 말했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 온라인상엔 노홍철이 당나귀를 입양했다는 소식이 전해져 화제가 됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 그때는 당나귀가 서울에서도 잘 적응할지 여부를 테스트 해보기 위한 자리였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "노홍철은 청취자들에게 \\\"미국에서 온 귀엽고 아담한 당나귀다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인상도 참 좋다\\\"며 \\\"당나귀의 이름을 지어달라\\\"고 부탁하기도 했다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노홍철 “운명의 짝 만났다” 무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

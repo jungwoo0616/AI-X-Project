@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279494",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'치즈인터트랩' 서강준 \\\"박해진 조심해라\\\" 충고 왜?",
+		"newsSubTitle": "",
+		"newsContent": "'치즈인터트랩' 서강준 \\\"박해진 조심해라\\\" 충고 왜? '치즈인더트랩' 서강준이 김고은에게 박해진을 조심하라고 경고했다.\n11일 밤 11시 방송된 tvN '치즈인더트랩' 3회에서 백인호(서강준 분)는 휴대전화를 찾아 준 보답으로 홍설(김고은 분)에게 밥을 얻어먹었습니다.\n백인호는 \\\"너 유정과 무슨 사이냐?\\\"라고 단호하게 물었습니다.\n이에 홍설은 \\\"유정 선배 아느냐?\\\"라고 되물었다.\n식사를 마친 뒤 백인호는 \\\"잘 먹었다. 너 옷이라도 좀 화려하게 입어라. 너는 얼굴이 흐리멍텅해서 옷이라도 튀게 입어야 한다\\\"고 조언했다.\n이어 \\\"팁 하나 더 준다. 내가 경험자로서 말해주는건데 너 박해진 조심해라\\\"고 경고했다.\n온라인 중앙일보 ‘박해진 조심해라’",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'치즈인터트랩' 서강준 \\\"박해진 조심해라\\\" 충고 왜? '치즈인더트랩' 서강준이 김고은에게 박해진을 조심하라고 경고했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 밤 11시 방송된 tvN '치즈인더트랩' 3회에서 백인호(서강준 분)는 휴대전화를 찾아 준 보답으로 홍설(김고은 분)에게 밥을 얻어먹었습니다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "백인호는 \\\"너 유정과 무슨 사이냐?\\\"라고 단호하게 물었습니다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 홍설은 \\\"유정 선배 아느냐?\\\"라고 되물었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "식사를 마친 뒤 백인호는 \\\"잘 먹었다. 너 옷이라도 좀 화려하게 입어라. 너는 얼굴이 흐리멍텅해서 옷이라도 튀게 입어야 한다\\\"고 조언했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"팁 하나 더 준다. 내가 경험자로서 말해주는건데 너 박해진 조심해라\\\"고 경고했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 ‘박해진 조심해라’",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'치즈인터트랩' 서강준 \\\"박해진 조심해라\\\" 충고 왜?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171547",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배우 고은아, 결혼정보회사 통한 만남 유튜브서 공개",
+    "newsSubTitle": "",
+    "newsContent": "결혼정보회사 듀오에 가입한 배우 고은아가 한 남성과 만남을 가졌다.\n25일 오후 8시 15분, 유튜브 채널 ‘방가네’에 배우 고은아의 듀오 활동기 두 번째 편이 공개됐다.\n지난 유튜브 영상에서 고은아는 결혼정보회사 듀오 가입기를 공개하고 남성 회원들의 프로필을 전달받으며 이후 만남을 예고한 바 있다.\n이번 영상에서는 듀오를 통해 매칭된 한 남성과 만나는 고은아의 모습이 담겼다.\n고은아와 해당 남성은 오랜 시간 대화를 나누며 서로에 대해 알아갔다.\n고은아는 이번 만남에 대해 “진지한 마음으로 임했다”며 “서로에 대해 어느 정도 알고 있는 상태에서 만나게 돼 공통점을 찾기 쉬웠다”고 소감을 밝혔다.\n고은아가 듀오를 통해 인연을 찾는 과정은 유튜브 채널 ‘방가네’를 통해 순차적으로 공개될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "결혼정보회사 듀오에 가입한 배우 고은아가 한 남성과 만남을 가졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 오후 8시 15분, 유튜브 채널 ‘방가네’에 배우 고은아의 듀오 활동기 두 번째 편이 공개됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 유튜브 영상에서 고은아는 결혼정보회사 듀오 가입기를 공개하고 남성 회원들의 프로필을 전달받으며 이후 만남을 예고한 바 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 영상에서는 듀오를 통해 매칭된 한 남성과 만나는 고은아의 모습이 담겼다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고은아와 해당 남성은 오랜 시간 대화를 나누며 서로에 대해 알아갔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고은아는 이번 만남에 대해 “진지한 마음으로 임했다”며 “서로에 대해 어느 정도 알고 있는 상태에서 만나게 돼 공통점을 찾기 쉬웠다”고 소감을 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "고은아가 듀오를 통해 인연을 찾는 과정은 유튜브 채널 ‘방가네’를 통해 순차적으로 공개될 예정이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "결혼정보회사 통해 한 남성과 만난 '이 배우', 맞선 과정 유튜브로 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

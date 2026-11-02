@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275181",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘유니콘’ 신하균, 누가봐도 CEO",
+		"newsSubTitle": "",
+		"newsContent": "배우 신하균이 스타트업 회사 CEO로 변신했다.\nOTT플랫폼 쿠팡플레이 측은 11일 시트콤 ‘유니콘’ 속 신하균의 포스터를 공개했다. ‘유니콘’은 은은하게 돌아있는 ‘맥콤’의 CEO ‘스티브’(신하균)와 크루들의 대혼돈 K-스타트업 분투기다.\n마치 실존하는 회사의 당당한 CEO로 변신한 듯한 배우 신하균의 카리스마 있는 모습이 재치 있는 방식으로 포스터에 담겨 있다.\n유명 경제 잡지를 떠올리게 하는 디자인부터 흥미를 자극한다.\n신하균은 정면을 응시하며 자신감 넘치는 눈빛으로 마치 실존하는 K-스타트업 CEO처럼 자신만만한 표정을 짓는다.\n신하균은 ‘유니콘’에서 능청스러우면서도 천진난만하고 때로는 카리스마가 느껴지는 다채로운 ‘스티브’의 얼굴을 보여줄 예정이다.\n여기에 유병재 작가의 대본과 ‘멜로가 체질’의 김혜영 감독이 뭉쳐 새로운 웃음을 선사한다. ‘유니콘’은 다음 달 쿠팡플레이에서 공개될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 신하균이 스타트업 회사 CEO로 변신했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "OTT플랫폼 쿠팡플레이 측은 11일 시트콤 ‘유니콘’ 속 신하균의 포스터를 공개했다. ‘유니콘’은 은은하게 돌아있는 ‘맥콤’의 CEO ‘스티브’(신하균)와 크루들의 대혼돈 K-스타트업 분투기다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마치 실존하는 회사의 당당한 CEO로 변신한 듯한 배우 신하균의 카리스마 있는 모습이 재치 있는 방식으로 포스터에 담겨 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유명 경제 잡지를 떠올리게 하는 디자인부터 흥미를 자극한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신하균은 정면을 응시하며 자신감 넘치는 눈빛으로 마치 실존하는 K-스타트업 CEO처럼 자신만만한 표정을 짓는다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신하균은 ‘유니콘’에서 능청스러우면서도 천진난만하고 때로는 카리스마가 느껴지는 다채로운 ‘스티브’의 얼굴을 보여줄 예정이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 유병재 작가의 대본과 ‘멜로가 체질’의 김혜영 감독이 뭉쳐 새로운 웃음을 선사한다. ‘유니콘’은 다음 달 쿠팡플레이에서 공개될 예정이다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘유니콘’ 신하균, 누가봐도 CEO",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

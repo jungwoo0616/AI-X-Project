@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261611",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이브, 공식 팬클럽 ‘다이브’ 1기 모십니다",
+		"newsSubTitle": "",
+		"newsContent": "6인조 아이브(IVE)가 데뷔 첫 공식 팬클럽을 모집한다.\n최근 아이브(유진·가을·레이·원영·리즈·이서)는 공식 팬카페를 통해 팬클럽 다이브(DIVE) 1기 모집 소식을 알렸다.\n해당 팬클럽 모집 기간은 오는 27일 오후 11시 59분까지 진행된다.\n팬클럽 명 다이브는 아이브가 공식 인사 전 항상 외치는 구호 “DIVE IN TO IVE(다이브 인 투 아이브)”에서 비롯됐다.\n지난해 12월 데뷔 이후 첫 팬클럽 창단인 만큼 아이브와 다이브 모두에게 남다른 의미도 더하고 있다.\n아이브 역시 공식 SNS 채널을 통해 “다이브 공식 1기를 모집하게 되었다. 다이브 1기를 만날 생각에 벌써부터 기대가 되고 떨리는 것 같다”며 “아이브와 다이브의 첫 만남이 기대된다. 우리 아이브와 행복한 추억들로 채워나가자”고 공식 팬클럽을 향한 설렘 가득 소감까지 전했다.\n아이브의 공식 팬클럽 다이브 1기 모집은 티켓 예매사이트 멜론티켓을 통해 단독으로 진행되며, 27일까지 가입 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "6인조 아이브(IVE)가 데뷔 첫 공식 팬클럽을 모집한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 아이브(유진·가을·레이·원영·리즈·이서)는 공식 팬카페를 통해 팬클럽 다이브(DIVE) 1기 모집 소식을 알렸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 팬클럽 모집 기간은 오는 27일 오후 11시 59분까지 진행된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬클럽 명 다이브는 아이브가 공식 인사 전 항상 외치는 구호 “DIVE IN TO IVE(다이브 인 투 아이브)”에서 비롯됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 12월 데뷔 이후 첫 팬클럽 창단인 만큼 아이브와 다이브 모두에게 남다른 의미도 더하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이브 역시 공식 SNS 채널을 통해 “다이브 공식 1기를 모집하게 되었다. 다이브 1기를 만날 생각에 벌써부터 기대가 되고 떨리는 것 같다”며 “아이브와 다이브의 첫 만남이 기대된다. 우리 아이브와 행복한 추억들로 채워나가자”고 공식 팬클럽을 향한 설렘 가득 소감까지 전했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이브의 공식 팬클럽 다이브 1기 모집은 티켓 예매사이트 멜론티켓을 통해 단독으로 진행되며, 27일까지 가입 가능하다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이브, 공식 팬클럽 ‘다이브’ 1기 모십니다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

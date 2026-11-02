@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258616",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘호적메이트’ 수영, 가방 정리하다“친언니에 너무 미안…”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 소녀시대 겸 배우 수영이 친언니인 뮤지컬 배우 최수진에 대한 미안함을 드러냈다.\n수영, 최수진 자매는 18일 오후 방송된 MBC ‘호적메이트’에 출연했다.\n이날 최수진의 집을 찾은 수영은 “맥시멀리스트 언니가 한숨밖에 안 나온다”며 “나도 처음에 독립했을 때는 난장판이었다. 그러다가 많이 버리고 정리하니 물건 찾기도 편할 뿐만 아니라 멘탈이 좋아지더라”라고 털어놨다.\n이어 “그래서 언니가 집에서 쉴 때만이라도 정리되어 있는 공간에서 쉬었으면 좋겠다는 마음에 정리하러 온 거다”라며 최수진과 드레스룸을 정리하기 시작했다.\n그리고 수영은 몇 시간에 걸쳐 드레스룸을 정리한 뒤 “보니까 언니가 선택해서 산 가방이 없더라고. 다 내가 샀다가 ‘언니 들래?’이렇게 해서 준 거를 가지고 있더라고. 정말 자기가 선택해서, 자기 마음에 들어서 산 가방은 없어서 너무…미안했다”고 속내를 내비쳤다.\n한편 ‘호적메이트’는 매주 화요일 밤 9시 MBC에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 소녀시대 겸 배우 수영이 친언니인 뮤지컬 배우 최수진에 대한 미안함을 드러냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수영, 최수진 자매는 18일 오후 방송된 MBC ‘호적메이트’에 출연했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 최수진의 집을 찾은 수영은 “맥시멀리스트 언니가 한숨밖에 안 나온다”며 “나도 처음에 독립했을 때는 난장판이었다. 그러다가 많이 버리고 정리하니 물건 찾기도 편할 뿐만 아니라 멘탈이 좋아지더라”라고 털어놨다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “그래서 언니가 집에서 쉴 때만이라도 정리되어 있는 공간에서 쉬었으면 좋겠다는 마음에 정리하러 온 거다”라며 최수진과 드레스룸을 정리하기 시작했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그리고 수영은 몇 시간에 걸쳐 드레스룸을 정리한 뒤 “보니까 언니가 선택해서 산 가방이 없더라고. 다 내가 샀다가 ‘언니 들래?’이렇게 해서 준 거를 가지고 있더라고. 정말 자기가 선택해서, 자기 마음에 들어서 산 가방은 없어서 너무…미안했다”고 속내를 내비쳤다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 ‘호적메이트’는 매주 화요일 밤 9시 MBC에서 방송된다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘호적메이트’ 수영, 가방 정리하다“친언니에 너무 미안…”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

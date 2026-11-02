@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270812",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "배윤정, 결연한 다이어트 의지…“먹자고 꼬시지 마”",
+		"newsSubTitle": "",
+		"newsContent": "안무가 배윤정이 독한 다이어트를 결심했다.\n배윤정은 20일 자신의 사회관계망서비스(SNS)에 “다시 원래 몸으로 돌아갈 수 있길”이라는 글과 함께 사진을 게재했다.\n공개된 사진은 배윤정의 과거 모습이 담긴 사진이다.\n배윤정은 모두가 부러워 할 만한 날씬한 몸매를 자랑했다.\n배윤정은 태그로 ‘다이어트’, ‘뭐 먹자고 꼬시지 말아줘’라는 문구를 달아 결연한 다이어트 의지를 보여줬다.\n한편 배윤정은 지난 2019년 11세 연하의 축구 코치 서경환과 결혼했다.\n최근에는 남편과 함께 MBC ‘오은영 리포트-결혼지옥’에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안무가 배윤정이 독한 다이어트를 결심했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배윤정은 20일 자신의 사회관계망서비스(SNS)에 “다시 원래 몸으로 돌아갈 수 있길”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 배윤정의 과거 모습이 담긴 사진이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배윤정은 모두가 부러워 할 만한 날씬한 몸매를 자랑했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배윤정은 태그로 ‘다이어트’, ‘뭐 먹자고 꼬시지 말아줘’라는 문구를 달아 결연한 다이어트 의지를 보여줬다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 배윤정은 지난 2019년 11세 연하의 축구 코치 서경환과 결혼했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에는 남편과 함께 MBC ‘오은영 리포트-결혼지옥’에 출연했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배윤정, 결연한 다이어트 의지…“먹자고 꼬시지 마”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

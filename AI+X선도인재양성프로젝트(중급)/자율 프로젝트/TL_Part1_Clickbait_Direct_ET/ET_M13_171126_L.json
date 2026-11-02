@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171126",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김정환 “작은 선물이야”…아내에게 2억대 車 선물",
+    "newsSubTitle": "",
+    "newsContent": "‘2020 도쿄 올림픽’ 펜싱 금메달리스트 김정환이 아내에게 2억대 외제차를 선물했다.\n김정환은 자신의 SNS에 “우리 뚜뚜. 그동안 그동안 쩡쿠를 위해 고생한 것에 대한 작은 선물이야. 늘 안전운전 하세요”라는 글을 9일 올렸다.\n공개된 사진 속에는 독일 유명 자동차 브랜드 B사 차량을 계약 중인 김정환과 아내의 모습이 담겼다.\n해당 차량은 2억원을 넘는 고가의 차량이다.\n하얀색 차량 옆에 서서 미소를 짓고 있는 김정환과 아내의 모습을 담은 사진도 공개했다.\n김정환은 오상욱, 구본길, 김준호와 함께 도쿄올림픽 남자 펜싱 사브르 단체전에서 금메달을 수상했다.\n또 개인전에서도 동메달을 획득했다.\n김정환은 최근 한 라디오 프로그램에서 아내 애칭이 ‘뚜뚜’며 승무원 출신이라고 밝힌 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘2020 도쿄 올림픽’ 펜싱 금메달리스트 김정환이 아내에게 2억대 외제차를 선물했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김정환은 자신의 SNS에 “우리 뚜뚜. 그동안 그동안 쩡쿠를 위해 고생한 것에 대한 작은 선물이야. 늘 안전운전 하세요”라는 글을 9일 올렸다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 독일 유명 자동차 브랜드 B사 차량을 계약 중인 김정환과 아내의 모습이 담겼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 차량은 2억원을 넘는 고가의 차량이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하얀색 차량 옆에 서서 미소를 짓고 있는 김정환과 아내의 모습을 담은 사진도 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김정환은 오상욱, 구본길, 김준호와 함께 도쿄올림픽 남자 펜싱 사브르 단체전에서 금메달을 수상했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 개인전에서도 동메달을 획득했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김정환은 최근 한 라디오 프로그램에서 아내 애칭이 ‘뚜뚜’며 승무원 출신이라고 밝힌 바 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "펜싱 금메달리스트 김정환, 아내에게 애정 표현으로 이것까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

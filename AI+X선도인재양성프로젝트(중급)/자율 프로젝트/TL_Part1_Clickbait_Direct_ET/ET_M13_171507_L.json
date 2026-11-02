@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171507",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘김동성♥’ 인민정, 교통사고 소식 “진심 고달픔”",
+    "newsSubTitle": "",
+    "newsContent": "전 쇼트트랙 국가대표 김동성의 아내 인민정이 교통사고가 난 소식을 전했다.\n인민정은 29일 자신의 SNS에 “올해 저 왜이래요 ㅠㅠ 2021년 진심 고달픔”이라는 글과 사진을 올렸다.\n함께 올린사진 속에는 도로 위에서 추돌사고를 당한 인민정의 B사 외제차 차량이 담겨있다.\n인민정 차량 뒤에는 트럭으로 보이는 차량이 있다.\n다.\n이어 인민정은 “액땜을 몇번 하는건지 몰겠네 ㅠ 2022년엔 행운이 오려는거라 믿어봅니다”라고 덧붙였다.\n앞서 인민정은 지난 6월에도 한차례 교통사고 소식을 전했었다.\n인민정은 지난 5월 김동성과 혼인신고 후 법적으로 부부가 됐다.\n인민정은 올해 초 김동성과 교제 당시 함께 TV조선 ‘우리 이혼했어요’에 출연한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전 쇼트트랙 국가대표 김동성의 아내 인민정이 교통사고가 난 소식을 전했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "인민정은 29일 자신의 SNS에 “올해 저 왜이래요 ㅠㅠ 2021년 진심 고달픔”이라는 글과 사진을 올렸다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "함께 올린사진 속에는 도로 위에서 추돌사고를 당한 인민정의 B사 외제차 차량이 담겨있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "인민정 차량 뒤에는 트럭으로 보이는 차량이 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다.",
+        "sentenceSize": 2
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 인민정은 “액땜을 몇번 하는건지 몰겠네 ㅠ 2022년엔 행운이 오려는거라 믿어봅니다”라고 덧붙였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 인민정은 지난 6월에도 한차례 교통사고 소식을 전했었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "인민정은 지난 5월 김동성과 혼인신고 후 법적으로 부부가 됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "인민정은 올해 초 김동성과 교제 당시 함께 TV조선 ‘우리 이혼했어요’에 출연한 바 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김동성 아내 인민정, SNS에 \"진심 고달픔” 이 소식 전해...무슨 일",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

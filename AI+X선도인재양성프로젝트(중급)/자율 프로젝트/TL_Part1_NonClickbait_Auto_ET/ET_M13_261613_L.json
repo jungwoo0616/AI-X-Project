@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261613",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "태연, 1시간째 안 올라간 ‘소중’한 대기실 인증샷",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 소녀시대 태연이 대기실 인증샷을 공개했다.\n21일 태연은 자신의 인스타그램에 별다른 멘트 없이 여러 장의 사진을 게재했다.\n사진에는 이번에 함께 공개된 사진에는 정규 3집 ‘INVU’ 활동 중 인증사진을 남기고 있는 태연의 모습이 담겨 있다.\n대기 중인 태연의 모습이 담겨 있다.\n메이크업을 완성한 태연은 엘프 비주얼을 뽐내 감탄을 자아낸다.\n앞서 이날 태연은 인스타그램에 “1시간째 사진이 안 올라간다. 인스타 힘내”라고 적었다.\n이후 1시간의 기다림 끝에 사진 업로드에 성공해 팬들을 기쁘게 했다.\n태연은 지난 14일 정규 3집 앨범 ‘INVU’를 발매해 초동(음반 발매 후 1주일간의 판매량을 의미) 약 14만 장을 파는 기염을 토했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 소녀시대 태연이 대기실 인증샷을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 태연은 자신의 인스타그램에 별다른 멘트 없이 여러 장의 사진을 게재했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 이번에 함께 공개된 사진에는 정규 3집 ‘INVU’ 활동 중 인증사진을 남기고 있는 태연의 모습이 담겨 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대기 중인 태연의 모습이 담겨 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "메이크업을 완성한 태연은 엘프 비주얼을 뽐내 감탄을 자아낸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 이날 태연은 인스타그램에 “1시간째 사진이 안 올라간다. 인스타 힘내”라고 적었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 1시간의 기다림 끝에 사진 업로드에 성공해 팬들을 기쁘게 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "태연은 지난 14일 정규 3집 앨범 ‘INVU’를 발매해 초동(음반 발매 후 1주일간의 판매량을 의미) 약 14만 장을 파는 기염을 토했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태연, 1시간째 안 올라간 ‘소중’한 대기실 인증샷",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

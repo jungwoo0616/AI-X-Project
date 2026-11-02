@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171874",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "가수 이재영 “생일의 기쁨보다 생축의 환호에 감동”",
+    "newsSubTitle": "",
+    "newsContent": "23일 생일을 맞은 가수 이재영이 기쁨보다 팬들의 환호에 감동했다.\nSNS를 통해 자신의 근황을 전한 이재영은 팬클럽 ‘재영포에버’가 기획한 자신의 생일 파티에 대해 “환한 미소로도 다 담아낼수없는 고마움을 느꼈다”고 말했다. ‘재영포에버’는 91년 이재영의 데뷔때부터 오랜기간 이재영과 인연을 이어왔다.\n21년간의 방송 공백기에도 이재영을 응원하며 기다려준 의리있는 팬클럽이다.\n이재영은 SNS에 공개한 감사의 인사를 통해 “너무도 고맙고 가족같이 오랜 팬들이 있어 너무 행복하고, 더욱 힘내서 계속 희망과 행복의 노래를 부르겠다”는 말을 전했다.\n이어 “이제는 나와 함께 나이를 먹어가고 있는 팬들 뿐만 아니라 일상에서 지치고 힘든 모든 이들을 위해 노래하는 가수, 연기자가 되겠다”는 포부를 밝혔다.\n이재영은 작년 현진영과 함께 작업한 신곡 ‘끗발’을 발매하며 활발한 활동을 하고 있으며, 올해말 추가로 곡작업과 더불어 연기 활동까지 벌이는 등 광폭행보를 펼칠 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "23일 생일을 맞은 가수 이재영이 기쁨보다 팬들의 환호에 감동했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SNS를 통해 자신의 근황을 전한 이재영은 팬클럽 ‘재영포에버’가 기획한 자신의 생일 파티에 대해 “환한 미소로도 다 담아낼수없는 고마움을 느꼈다”고 말했다. ‘재영포에버’는 91년 이재영의 데뷔때부터 오랜기간 이재영과 인연을 이어왔다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "21년간의 방송 공백기에도 이재영을 응원하며 기다려준 의리있는 팬클럽이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이재영은 SNS에 공개한 감사의 인사를 통해 “너무도 고맙고 가족같이 오랜 팬들이 있어 너무 행복하고, 더욱 힘내서 계속 희망과 행복의 노래를 부르겠다”는 말을 전했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “이제는 나와 함께 나이를 먹어가고 있는 팬들 뿐만 아니라 일상에서 지치고 힘든 모든 이들을 위해 노래하는 가수, 연기자가 되겠다”는 포부를 밝혔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이재영은 작년 현진영과 함께 작업한 신곡 ‘끗발’을 발매하며 활발한 활동을 하고 있으며, 올해말 추가로 곡작업과 더불어 연기 활동까지 벌이는 등 광폭행보를 펼칠 것으로 알려졌다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "23일 생일 맞은 가수 이재영이 '이것'에 감동한 사연은 무엇인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

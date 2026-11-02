@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277673",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "트와이스X아이오아이 표절 의혹?",
+		"newsSubTitle": "",
+		"newsContent": "지난 2일 가수 보아의 친오빠이자 뮤직비디오 연출가로 알려진 권순옥 감독이 트위터에 올린 글이 다시 화제되고 있다.\n권 감독은 트위터에 \\\"내가 만든 커피요정과 음악요정의 엑솔루션과 엑소디움 영상을 그대로 베꼈네, 그러지 맙시다\\\"라는 글을 게시했다.\n권 감독의 주장은 2016 MAMA(엠넷 아시아 뮤직 어워드)서 공개된 트와이스X아이오아이의 영상이 자신의 영상을 표절했다는 것. 해당 트윗은 빠른 속도로 온라인에 퍼져 나가며 네티즌들의 논란을 일으켰다.\n각종 온라인 커뮤니티에는 권 감독이 엑소를 위해 만든 '커피요정' 영상과 MAMA의 트와이스X아이오아이의 영상을 비교한 게시물이 올라왔다.\n네티즌들은 \\\"멤버들이 작게 변하는 모습·기계를 돌려 무언가를 만드는 모습 등이 매우 흡사하다\\\"며 권 감독의 편을 드는 모습을 보였다.\n한편 권 감독은 인스타그램에도 같은 글을 올리며 억울함을 호소했다.\n현재까지 MAMA의 Mnet 측은 입장을 밝히지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 2일 가수 보아의 친오빠이자 뮤직비디오 연출가로 알려진 권순옥 감독이 트위터에 올린 글이 다시 화제되고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "권 감독은 트위터에 \\\"내가 만든 커피요정과 음악요정의 엑솔루션과 엑소디움 영상을 그대로 베꼈네, 그러지 맙시다\\\"라는 글을 게시했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권 감독의 주장은 2016 MAMA(엠넷 아시아 뮤직 어워드)서 공개된 트와이스X아이오아이의 영상이 자신의 영상을 표절했다는 것. 해당 트윗은 빠른 속도로 온라인에 퍼져 나가며 네티즌들의 논란을 일으켰다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각종 온라인 커뮤니티에는 권 감독이 엑소를 위해 만든 '커피요정' 영상과 MAMA의 트와이스X아이오아이의 영상을 비교한 게시물이 올라왔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네티즌들은 \\\"멤버들이 작게 변하는 모습·기계를 돌려 무언가를 만드는 모습 등이 매우 흡사하다\\\"며 권 감독의 편을 드는 모습을 보였다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 권 감독은 인스타그램에도 같은 글을 올리며 억울함을 호소했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재까지 MAMA의 Mnet 측은 입장을 밝히지 않았다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스X아이오아이 표절 의혹?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

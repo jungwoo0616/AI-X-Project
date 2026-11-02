@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267253",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "추성훈, BTS 정국에 스파링 제안…왜?",
+		"newsSubTitle": "",
+		"newsContent": "이종격투기 선수 추성훈이 그룹 방탄소년단(BTS) 정국에게 스파링을 제안했다.\n16일 정국은 자신의 SNS 인스타그램에 복싱 연습 중인 영상을 게시했다.\n영상에서 정국은 트레이너와 함께 스파링에 몰두하고 있다.\n해당 영상을 본 격투기 선수 추성훈은 정국에게 “다음은 스파링 하자고 말해주세요”라는 댓글을 달았다.\n누리꾼들은 “대박” “성사됐으면 좋겠다” “보고 싶네요” 등 기대에 찬 반응을 내비쳤다.\n한편, 추성훈은 지난 26일 싱가포르에서 열린 ‘원챔피언십 ONE X’에 출연해 일본의 아오키 신야를 상대로 2라운드 TKO승을 거뒀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이종격투기 선수 추성훈이 그룹 방탄소년단(BTS) 정국에게 스파링을 제안했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 정국은 자신의 SNS 인스타그램에 복싱 연습 중인 영상을 게시했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에서 정국은 트레이너와 함께 스파링에 몰두하고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 영상을 본 격투기 선수 추성훈은 정국에게 “다음은 스파링 하자고 말해주세요”라는 댓글을 달았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 “대박” “성사됐으면 좋겠다” “보고 싶네요” 등 기대에 찬 반응을 내비쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 추성훈은 지난 26일 싱가포르에서 열린 ‘원챔피언십 ONE X’에 출연해 일본의 아오키 신야를 상대로 2라운드 TKO승을 거뒀다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "추성훈, BTS 정국에 스파링 제안…왜?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

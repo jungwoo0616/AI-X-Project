@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284470",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'상상고양이' 한예리, 망사스타킹 신고 각선미 드러내 '아찔'",
+		"newsSubTitle": "",
+		"newsContent": "‘상상고양이’에 합류하게 된 한예리의 화보가 화제다.\n최근 한 온라인 커뮤니티에는 ‘한예리의 반전매력, 상상고양이 발탁 이유 있네’라는 게시물이 공개됐다.\n해당 게시물과 함께 올라온 사진엔 과거 ‘GQ’ 화보 촬영을 진행한 한예리의 모습이 담겨있다.\n한예리는 망사스타킹을 신고 각선미를 드러내 눈길을 끌었다.\n한예리는 2007년 데뷔해 영화 '코리아' '동창생' '해무' 등을 통해 탄탄한 연기력을 인정받았으며, 윤계상과 호흡을 맞춘 영화 '극적인 하룻밤' 개봉을 앞두고 있다.\n한편 한예리는 ‘상상고양이’에 전격 합류해 유승호, 조혜정, 솔라 등과 호흡을 맞추게 됐다. '상상고양이'는 오는 24일 오후 8시 50분 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘상상고양이’에 합류하게 된 한예리의 화보가 화제다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한 온라인 커뮤니티에는 ‘한예리의 반전매력, 상상고양이 발탁 이유 있네’라는 게시물이 공개됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 게시물과 함께 올라온 사진엔 과거 ‘GQ’ 화보 촬영을 진행한 한예리의 모습이 담겨있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한예리는 망사스타킹을 신고 각선미를 드러내 눈길을 끌었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한예리는 2007년 데뷔해 영화 '코리아' '동창생' '해무' 등을 통해 탄탄한 연기력을 인정받았으며, 윤계상과 호흡을 맞춘 영화 '극적인 하룻밤' 개봉을 앞두고 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 한예리는 ‘상상고양이’에 전격 합류해 유승호, 조혜정, 솔라 등과 호흡을 맞추게 됐다. '상상고양이'는 오는 24일 오후 8시 50분 첫 방송된다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'상상고양이' 한예리, 망사스타킹 신고 각선미 드러내 '아찔'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

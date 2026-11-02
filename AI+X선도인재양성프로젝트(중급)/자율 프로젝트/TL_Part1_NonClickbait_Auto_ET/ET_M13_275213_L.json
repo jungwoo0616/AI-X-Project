@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275213",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "“예쁘게 말해주셔야죠” 이수지, 출산 복귀 악플 반박",
+		"newsSubTitle": "",
+		"newsContent": "최근 출산한 방송인 이수지가 이른 복귀를 비판하는 악성 댓글에 반박했다.\n이수지는 지난 8일 인스타그램에 “오랜만이다 MBC”라는 글과 함께 방송에 복귀한 소식을 전했다.\n이날 같이 공개된 사진 속에는 이수지가 녹음실 부스에서 헤드셋을 쓰고 웃으며 대본을 보는 모습이 담겨있다.\n이 소식이 전해지자 방송인 동료 김영희는 “너무 부럽다”며 축하했다.\n하지만 이날 달린 악성 댓글들이 눈을 찌푸리게 했다.\n일부 누리꾼은 해당 게시글에 “아기나 키워라”라고 댓글을 남겼다.\n이에 이수지는 “그럼 예쁘게 말해주셔야죠”라고 답했다.\n또한 “방송도 좋지만 아기를 좀 키워놓고 하면 아기에게도 좋은데 너무 성급했다”며 이른 복귀를 비판하는 댓글도 달렸다.\n이에 대해 일부 누리꾼들은 “어련히 알아서 잘할 것”, “남 얘기 쉽게 하는 무례한 사람들” 등 이수지를 대신해 반박하기도 했다.\n앞서 이수지는 2018년 결혼한 후 지난달 7일 아들을 출산했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 출산한 방송인 이수지가 이른 복귀를 비판하는 악성 댓글에 반박했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수지는 지난 8일 인스타그램에 “오랜만이다 MBC”라는 글과 함께 방송에 복귀한 소식을 전했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 같이 공개된 사진 속에는 이수지가 녹음실 부스에서 헤드셋을 쓰고 웃으며 대본을 보는 모습이 담겨있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 소식이 전해지자 방송인 동료 김영희는 “너무 부럽다”며 축하했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 이날 달린 악성 댓글들이 눈을 찌푸리게 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일부 누리꾼은 해당 게시글에 “아기나 키워라”라고 댓글을 남겼다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 이수지는 “그럼 예쁘게 말해주셔야죠”라고 답했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 “방송도 좋지만 아기를 좀 키워놓고 하면 아기에게도 좋은데 너무 성급했다”며 이른 복귀를 비판하는 댓글도 달렸다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 대해 일부 누리꾼들은 “어련히 알아서 잘할 것”, “남 얘기 쉽게 하는 무례한 사람들” 등 이수지를 대신해 반박하기도 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "앞서 이수지는 2018년 결혼한 후 지난달 7일 아들을 출산했다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“예쁘게 말해주셔야죠” 이수지, 출산 복귀 악플 반박",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278119",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신세경, 래시가드 화보 공개…노출 없이도 빛나는 S라인",
+		"newsSubTitle": "",
+		"newsContent": "신세경이 여름 화보를 공개했다.\n신세경은 24일 공개된 블랙야크 여름 캠페인 화보에서 다양한 오션 스타일을 선보였다.\n래시가드는 물론 워터레깅스와 티셔츠 등을 입고 여름 스타일을 제안했다.\n시원하면서도 청량감이 느껴진다.\n블랙야크 관계자는 “기존의 고정관념을 탈피해 실제 여행 모습 같은 라이프스타일을 통해 기능성 제품들의 스타일링이 화보 속에 자연스럽게 녹여질 수 있도록 기획했다”며 “화보 속 공개 되지 않은 A컷 같은 B컷을 함께 공개한다”고 말했다.\n이번 화보는 블랙야크 인스타그램과 나일론 6월호에서 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신세경이 여름 화보를 공개했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신세경은 24일 공개된 블랙야크 여름 캠페인 화보에서 다양한 오션 스타일을 선보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "래시가드는 물론 워터레깅스와 티셔츠 등을 입고 여름 스타일을 제안했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시원하면서도 청량감이 느껴진다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "블랙야크 관계자는 “기존의 고정관념을 탈피해 실제 여행 모습 같은 라이프스타일을 통해 기능성 제품들의 스타일링이 화보 속에 자연스럽게 녹여질 수 있도록 기획했다”며 “화보 속 공개 되지 않은 A컷 같은 B컷을 함께 공개한다”고 말했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 화보는 블랙야크 인스타그램과 나일론 6월호에서 확인 가능하다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신세경, 래시가드 화보 공개…노출 없이도 빛나는 S라인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

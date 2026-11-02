@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278398",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "레드벨벳 아이린 요리실력 극찬 “집에 가져가고 싶다”",
+		"newsSubTitle": "",
+		"newsContent": "레드벨벳의 아이린이 요리실력을 공개 했다.\n메뉴는 미역국 이다.\n레드벨벳은 16일 케이블채널 MBC에브리원 ‘주간아이돌’에 출연했다.\nMC들은 요리를 잘하기로 유명한 레드벨벳 아이린에게 “제일 자신있는 요리는 무엇인가?”를 질문했다.\n레드벨벳 아이린은 과거에 출연해 다림질을 특기로 선보였다.\n레드벨벳 아이린은 불안해하며 \\\"뭔가 시킬 것 같다\\\"고 했다.\n레드벨벳 멤버들이 아이린이 “생일에 미역국도 끓여준다”고 말하자 제작진은 미역국 요리를 위한 모든 재료와 도구를 스튜디오로 가지고 들어왔다.\n레드벨벳 아이린이 깜짝 놀라자 MC 데프콘은 아이린을 향해 “저희는 시키지 않는다. 부탁할게요”라고 해 웃음을 자아냈다.\n이어 레드벨벳 아이린이 만든 미역국을 생일이었던 웬디가 맛봤다.\n웬디는 “맛있어요!” 하고 극찬했다.\n데프콘도 “집에 가지고 가도 되냐?”며 만족스러워했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레드벨벳의 아이린이 요리실력을 공개 했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "메뉴는 미역국 이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "레드벨벳은 16일 케이블채널 MBC에브리원 ‘주간아이돌’에 출연했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC들은 요리를 잘하기로 유명한 레드벨벳 아이린에게 “제일 자신있는 요리는 무엇인가?”를 질문했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레드벨벳 아이린은 과거에 출연해 다림질을 특기로 선보였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "레드벨벳 아이린은 불안해하며 \\\"뭔가 시킬 것 같다\\\"고 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "레드벨벳 멤버들이 아이린이 “생일에 미역국도 끓여준다”고 말하자 제작진은 미역국 요리를 위한 모든 재료와 도구를 스튜디오로 가지고 들어왔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "레드벨벳 아이린이 깜짝 놀라자 MC 데프콘은 아이린을 향해 “저희는 시키지 않는다. 부탁할게요”라고 해 웃음을 자아냈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이어 레드벨벳 아이린이 만든 미역국을 생일이었던 웬디가 맛봤다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "웬디는 “맛있어요!” 하고 극찬했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데프콘도 “집에 가지고 가도 되냐?”며 만족스러워했다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레드벨벳 아이린 요리실력 극찬 “집에 가져가고 싶다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

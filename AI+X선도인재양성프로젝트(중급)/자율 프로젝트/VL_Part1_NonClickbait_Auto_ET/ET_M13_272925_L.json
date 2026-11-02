@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272925",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘토밥좋아’ 김종민 “현주엽, 이제 본색 드러내”",
+		"newsSubTitle": "",
+		"newsContent": "‘먹신’ 현주엽이 드디어 본색을 드러냈다.\n현주엽은 11일 방송된 티캐스트 E채널 ‘토요일은 밥이 좋아(토밥좋아)’에서 본격적인 먹방 위력을 보여줬다.\n부산 기장의 밀면 맛집에서 다른 멤버들을 압도하는 곱빼기 양으로 남다른 면사랑을 나타냈다.\n현주엽은 밀면이 나오자 한 젓가락씩 맛보며 “양을 두 배 넘게 주신 것 같다. 약간 개운한 맛이 난다”며 흡족한 미소를 지었다.\n박명수는 현주엽의 밀면 그릇을 보며 “사장님이 세 그릇을 넣었나 보다”라고 엄청난 양을 보고 놀랐다.\n현주엽은 먹어도 끝이 보이지 않는 곱빼기 양에 “함부로 곱빼기를 주문하면 안 되겠다. 어마어마한 양”이라고 말했지만, 밀면을 모두 먹은 뒤에도 만두를 6개까지 해치웠다.\n결국 현주엽의 먹방을 관전하던 김종민은 “주엽이 형이 이제 본색을 드러내는 것 같다”며 웃었고, 박명수는 “전문용어로 말하자면 너무 쌔리는데…”라며 현주엽의 먹방에 혀를 내둘렀다. ‘토밥좋아’는 전국 곳곳의 숨은 로컬 맛집을 발굴하며 토요일 저녁 시간대를 사로잡고 있다.\n박명수, 노사연, 현주엽, 김종민, 히밥의 클래스 다른 먹방은 매주 토요일 오후 5시 티캐스트 E채널에서 볼 수 있으며, 공식 SNS에서 지역별 맛지도가 공유된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘먹신’ 현주엽이 드디어 본색을 드러냈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현주엽은 11일 방송된 티캐스트 E채널 ‘토요일은 밥이 좋아(토밥좋아)’에서 본격적인 먹방 위력을 보여줬다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부산 기장의 밀면 맛집에서 다른 멤버들을 압도하는 곱빼기 양으로 남다른 면사랑을 나타냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현주엽은 밀면이 나오자 한 젓가락씩 맛보며 “양을 두 배 넘게 주신 것 같다. 약간 개운한 맛이 난다”며 흡족한 미소를 지었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박명수는 현주엽의 밀면 그릇을 보며 “사장님이 세 그릇을 넣었나 보다”라고 엄청난 양을 보고 놀랐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현주엽은 먹어도 끝이 보이지 않는 곱빼기 양에 “함부로 곱빼기를 주문하면 안 되겠다. 어마어마한 양”이라고 말했지만, 밀면을 모두 먹은 뒤에도 만두를 6개까지 해치웠다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결국 현주엽의 먹방을 관전하던 김종민은 “주엽이 형이 이제 본색을 드러내는 것 같다”며 웃었고, 박명수는 “전문용어로 말하자면 너무 쌔리는데…”라며 현주엽의 먹방에 혀를 내둘렀다. ‘토밥좋아’는 전국 곳곳의 숨은 로컬 맛집을 발굴하며 토요일 저녁 시간대를 사로잡고 있다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박명수, 노사연, 현주엽, 김종민, 히밥의 클래스 다른 먹방은 매주 토요일 오후 5시 티캐스트 E채널에서 볼 수 있으며, 공식 SNS에서 지역별 맛지도가 공유된다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘토밥좋아’ 김종민 “현주엽, 이제 본색 드러내”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

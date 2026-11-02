@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266900",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘미스트롯2’ 홍지윤, 여왕 품격 뽐내는 콘셉트 포토 공개",
+		"newsSubTitle": "",
+		"newsContent": "‘미스트롯2’ 홍지윤이 ‘여왕의 품격’이 돋보이는 콘셉트 포토를 통해 뜨거운 반응을 얻고 있다.\n홍지윤은 13일 린브랜딩 공식 SNS 채널 등을 통해 디지털 싱글 ‘사랑의 여왕’ 세번째 콘셉트 포토를 공개했다.\n공개된 사진 속 홍지윤은 완벽한 여왕 포스를 발산하고 있다.\n화려하고 블링블링한 헤드 피스와 목걸이, 매혹적인 레드 드레스, 강렬한 흑발 웨이브 등 시선을 사로잡는 비주얼로 아름다운 자태를 뽐냈다.\n또 그는 레드 컬러가 강렬하게 어우러진 무대 위에서 특별한 존재감을 드러내며 앞으로 펼쳐질 활동에 대한 기대를 높이고 있다.\n홍지윤은 앞서 사랑스러운 요정미를 발산한 첫번째 콘셉트 포토에 이어 도도하고 치명적인 두번째 콘셉트까지 다채로운 변화를 시도해왔다.\n그는 마지막 세번째 콘셉트 포토를 통해 명실상부 ‘트롯 여왕’다운 아우라를 선사하며 감탄을 자아내고 있다.\n한편 홍지윤의 신곡 ‘사랑의 여왕’은 오는 19일 오후 6시 전 음원사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘미스트롯2’ 홍지윤이 ‘여왕의 품격’이 돋보이는 콘셉트 포토를 통해 뜨거운 반응을 얻고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍지윤은 13일 린브랜딩 공식 SNS 채널 등을 통해 디지털 싱글 ‘사랑의 여왕’ 세번째 콘셉트 포토를 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 홍지윤은 완벽한 여왕 포스를 발산하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화려하고 블링블링한 헤드 피스와 목걸이, 매혹적인 레드 드레스, 강렬한 흑발 웨이브 등 시선을 사로잡는 비주얼로 아름다운 자태를 뽐냈다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 그는 레드 컬러가 강렬하게 어우러진 무대 위에서 특별한 존재감을 드러내며 앞으로 펼쳐질 활동에 대한 기대를 높이고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍지윤은 앞서 사랑스러운 요정미를 발산한 첫번째 콘셉트 포토에 이어 도도하고 치명적인 두번째 콘셉트까지 다채로운 변화를 시도해왔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 마지막 세번째 콘셉트 포토를 통해 명실상부 ‘트롯 여왕’다운 아우라를 선사하며 감탄을 자아내고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 홍지윤의 신곡 ‘사랑의 여왕’은 오는 19일 오후 6시 전 음원사이트를 통해 발매된다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘미스트롯2’ 홍지윤, 여왕 품격 뽐내는 콘셉트 포토 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

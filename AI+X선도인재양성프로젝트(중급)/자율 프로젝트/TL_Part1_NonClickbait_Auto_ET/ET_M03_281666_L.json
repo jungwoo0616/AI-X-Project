@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281666",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "루한 활동중단, \\\"병원 진단 결과 당분간 휴식을 취해야 한다\\\"…무슨 일?",
+		"newsSubTitle": "",
+		"newsContent": "루한은 당분간 활동을 중단하고 휴식을 취할 예정인 것으로 알려졌다.\n7일 중국현지 매체에 따르면 루한은 최근 활동이 크게 늘면서 건강상 이상이 생겼다.\n중국 내에서 예능프로그램 영화등을 통해 활발한 활동을 펼치던 루한은 건강에 빨간 불이 켜지자 활동 중단을 결정했다.\n보도에 따르면 루한 측 관계자는 \\\"병원 진단 결과 당분간 휴식을 취해야 한다고 나왔다\\\"라며 \\\"루한의 몸이 회복 될 때까지 기다려 달라\\\"고 전했다.\n한편 루한은 지난해 10월 소속사 SM엔터테인먼트를 상대로 전속계약효력부존재확인 소송을 제기, 엑소를 이탈한 후 루한은 중국으로 건너가 활동을 이어가고 있다.\n온라인 중앙일보 루한 활동중단 [사진 루한 SNS 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "루한은 당분간 활동을 중단하고 휴식을 취할 예정인 것으로 알려졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 중국현지 매체에 따르면 루한은 최근 활동이 크게 늘면서 건강상 이상이 생겼다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중국 내에서 예능프로그램 영화등을 통해 활발한 활동을 펼치던 루한은 건강에 빨간 불이 켜지자 활동 중단을 결정했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보도에 따르면 루한 측 관계자는 \\\"병원 진단 결과 당분간 휴식을 취해야 한다고 나왔다\\\"라며 \\\"루한의 몸이 회복 될 때까지 기다려 달라\\\"고 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 루한은 지난해 10월 소속사 SM엔터테인먼트를 상대로 전속계약효력부존재확인 소송을 제기, 엑소를 이탈한 후 루한은 중국으로 건너가 활동을 이어가고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 루한 활동중단 [사진 루한 SNS 캡처]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "루한 활동중단, \\\"병원 진단 결과 당분간 휴식을 취해야 한다\\\"…무슨 일?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

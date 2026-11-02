@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269266",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[속보] 강수연, 심정지 상태로 발견…심폐소생술 받고 호송",
+		"newsSubTitle": "",
+		"newsContent": "배우 강수연이 심정지 상태로 긴급호송된 것으로 전해졌다.\n연합뉴스에 따르면 강수연은 이날 서울 강남 지역에서 심정지 상태로 발견돼 CPR(심폐소생술)을 받으며 인근 병원으로 옮겨졌다.\n강수연은 최근 넷플릭스 영화 ‘정이’ 주인공 서현 역으로 촬영을 마치고 공개를 앞둔 상태였다.\n1966년생인 강수연은 ‘대종상’ ‘청룡영화상’ ‘백상예술대상’ ‘베니스국제영화제’ 등에서 여우주연상 10관왕을 기록하며 한국을 대표하는 배우로 자리매김했다.\n2015년 부산국제영화제 공동집행위원장으로 활동을 시작해 열정적인 노력을 펼쳤으나 직원들의 반발로 인해 2017년 자진사퇴했다.\n오랜 기간 동안 연기 휴식기를 가졌던 그는 ‘정이’로 복귀를 앞두고 있었으나 이번 사건을 겪게 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강수연이 심정지 상태로 긴급호송된 것으로 전해졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스에 따르면 강수연은 이날 서울 강남 지역에서 심정지 상태로 발견돼 CPR(심폐소생술)을 받으며 인근 병원으로 옮겨졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강수연은 최근 넷플릭스 영화 ‘정이’ 주인공 서현 역으로 촬영을 마치고 공개를 앞둔 상태였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1966년생인 강수연은 ‘대종상’ ‘청룡영화상’ ‘백상예술대상’ ‘베니스국제영화제’ 등에서 여우주연상 10관왕을 기록하며 한국을 대표하는 배우로 자리매김했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2015년 부산국제영화제 공동집행위원장으로 활동을 시작해 열정적인 노력을 펼쳤으나 직원들의 반발로 인해 2017년 자진사퇴했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오랜 기간 동안 연기 휴식기를 가졌던 그는 ‘정이’로 복귀를 앞두고 있었으나 이번 사건을 겪게 됐다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[속보] 강수연, 심정지 상태로 발견…심폐소생술 받고 호송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

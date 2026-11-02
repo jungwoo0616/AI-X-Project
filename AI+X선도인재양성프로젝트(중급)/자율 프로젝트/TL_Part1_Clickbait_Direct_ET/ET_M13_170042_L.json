@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170042",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "임영웅 ‘랭킹왕’ 26주 연속 1위",
+    "newsSubTitle": "",
+    "newsContent": "가수 임영웅이 9월 3주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다.\n아이돌차트에 따르면 지난 9월 17일부터 9월 23일까지 집계된 평점랭킹에서 임영웅은 61만 5367표를 얻어 최다득표를 기록했다.\n이로써 임영웅은 아이돌차트 평점랭킹에서 26주 연속 1위에 오르게 됐다 2위는 이찬원(23만 8074표)이 차지했다.\n이어 김호중(23만 4604표), 영탁(6만 3340표), 지민(방탄소년단, 3만 3918표), 송가인(3만 1903표), 뷔(방탄소년단, 2만 8863표), 정국(방탄소년단, 1만 3483표), 진(방탄소년단, 9692표), 제이홉(방탄소년단, 8856표)순으로 집계됐다.\n스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 5만 9402개를 받았다.\n이어 김호중(2만 7034개), 이찬원(2만 7003개), 영탁(8158개), 송가인(3834개), 지민(3317개), 뷔(2999개), 정국(1416개), 진(958개), 제이홉(880개) 순으로 ‘좋아요’ 수를 기록했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 임영웅이 9월 3주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이돌차트에 따르면 지난 9월 17일부터 9월 23일까지 집계된 평점랭킹에서 임영웅은 61만 5367표를 얻어 최다득표를 기록했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이로써 임영웅은 아이돌차트 평점랭킹에서 26주 연속 1위에 오르게 됐다 2위는 이찬원(23만 8074표)이 차지했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 김호중(23만 4604표), 영탁(6만 3340표), 지민(방탄소년단, 3만 3918표), 송가인(3만 1903표), 뷔(방탄소년단, 2만 8863표), 정국(방탄소년단, 1만 3483표), 진(방탄소년단, 9692표), 제이홉(방탄소년단, 8856표)순으로 집계됐다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 5만 9402개를 받았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 김호중(2만 7034개), 이찬원(2만 7003개), 영탁(8158개), 송가인(3834개), 지민(3317개), 뷔(2999개), 정국(1416개), 진(958개), 제이홉(880개) 순으로 ‘좋아요’ 수를 기록했다.",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "9월 3주차 최다득표 임영웅, 26주 연속 가요계 강타!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

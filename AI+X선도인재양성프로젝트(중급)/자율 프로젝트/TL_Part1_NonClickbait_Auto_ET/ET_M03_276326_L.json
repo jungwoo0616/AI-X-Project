@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276326",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "풍성한 머리숱으로 '브러시 아니냐'는 말까지 나온 엑소 멤버",
+		"newsSubTitle": "",
+		"newsContent": "풍성한 머리숱은 선망의 대상입니다.\n미의 기준이기도 하죠.\n그런데 그룹 엑소 멤버 중 유독 머리숱이 많아 네티즌의 부러움을 사고 있는 멤버가 있다고 합니다.\n누구일까요?\n바로 막내 세훈입니다.\n팬들 카메라에 포착된 그의 모습은 작은 틈조차 허락하지 않는 머리숱을 자랑하는 듯합니다.\n빽빽하게 머리카락이 들어선 그의 모습에 '세훈 파우더 브러시 설'이라는 말까지 나옵니다.\n머리숱이 많아 마치 '브러시'같다는 우스갯소리입니다.\n그의 머리숱이 얼마나 풍성하길래 이 같은 소리가 나올까요.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "풍성한 머리숱은 선망의 대상입니다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미의 기준이기도 하죠.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그런데 그룹 엑소 멤버 중 유독 머리숱이 많아 네티즌의 부러움을 사고 있는 멤버가 있다고 합니다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누구일까요?",
+				"sentenceSize": 6
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바로 막내 세훈입니다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들 카메라에 포착된 그의 모습은 작은 틈조차 허락하지 않는 머리숱을 자랑하는 듯합니다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "빽빽하게 머리카락이 들어선 그의 모습에 '세훈 파우더 브러시 설'이라는 말까지 나옵니다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "머리숱이 많아 마치 '브러시'같다는 우스갯소리입니다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그의 머리숱이 얼마나 풍성하길래 이 같은 소리가 나올까요.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "풍성한 머리숱으로 '브러시 아니냐'는 말까지 나온 엑소 멤버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

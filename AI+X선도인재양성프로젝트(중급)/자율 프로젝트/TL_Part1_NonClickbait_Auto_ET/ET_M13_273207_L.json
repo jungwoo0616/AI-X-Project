@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273207",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "NRG 노유민, 故 김환성 22주기 추모",
+		"newsSubTitle": "",
+		"newsContent": "그룹 NRG 출신 노유민이 올해도 변함 없이 고 김환성 추모글을 올렸다.\n노유민은 14일 자신의 사회관계망서비스(SNS)에 NRG 멤버 고 김환성 추모글을 올렸다.\n노유민은 “2022년 6월 15일 22주기 영원한 NRG 멤버이자 막내 천사 안토니오 김환성 군의 기일입니다. 코로나 방역해제 이후 많은 천재일우 팬분들이 SNS를 통해서 환성이가 있는 곳에 방문하여 추모를 해주셔서 감사의 뜻을 이렇게라도 전합니다. 감사하고 미안하고 사랑합니다”라는 글을 남겼다.\n노유민은 매년 고 김환성의 기일 하루 앞서 추모글을 올린다.\n기일 당일보다 하루 전 올려 많은 사람들에게 김환성 추모 의미를 알리기 위한 것으로 알려졌다.\n한편 1997년 데뷔한 NRG 멤버로 활동한 김환성은 지난 2000년 6월 15일 고열과 호흡곤란 증세로 입원한 뒤 세상을 떠났다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 NRG 출신 노유민이 올해도 변함 없이 고 김환성 추모글을 올렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노유민은 14일 자신의 사회관계망서비스(SNS)에 NRG 멤버 고 김환성 추모글을 올렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노유민은 “2022년 6월 15일 22주기 영원한 NRG 멤버이자 막내 천사 안토니오 김환성 군의 기일입니다. 코로나 방역해제 이후 많은 천재일우 팬분들이 SNS를 통해서 환성이가 있는 곳에 방문하여 추모를 해주셔서 감사의 뜻을 이렇게라도 전합니다. 감사하고 미안하고 사랑합니다”라는 글을 남겼다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노유민은 매년 고 김환성의 기일 하루 앞서 추모글을 올린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기일 당일보다 하루 전 올려 많은 사람들에게 김환성 추모 의미를 알리기 위한 것으로 알려졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 1997년 데뷔한 NRG 멤버로 활동한 김환성은 지난 2000년 6월 15일 고열과 호흡곤란 증세로 입원한 뒤 세상을 떠났다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "NRG 노유민, 故 김환성 22주기 추모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

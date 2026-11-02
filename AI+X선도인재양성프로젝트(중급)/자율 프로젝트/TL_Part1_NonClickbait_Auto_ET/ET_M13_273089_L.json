@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273089",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "돌아온 프리지아, 선명한 복근+로우라이즈 패션까지",
+		"newsSubTitle": "",
+		"newsContent": "유튜버 프리지아가 근황을 공개했다.\n프리지아는 13일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.\n사진 속 프리지아는 주황색 톱에 로우라이즈 패션을 한 채 카메라를 응시하고 있는가 하면, 거울 앞에서 포즈를 취하고 있다.\n사진 속 프리지아의 건강한 복근이 시선을 끈다.\n해당 사진을 본 누리꾼들은 “여왕이 돌아왔다” “너무 그리웠다” “여전히 너무 예쁘다”며 그의 근황에 반가운 목소리를 냈다.\n한편 프리지아는 지난해 12월 공개된 넷플릭스 예능 프로그램 ‘솔로지옥’과 자신의 유튜브 및 인스타그램 등에 가품을 착용했다는 논란에 휩싸이며 지난 2월 활동 중단을 선언했다.\n그는 이후 지난 3월 경북 울진·강원 삼척 산불 피해자를 돕기 위해 2000만원을 기부, 지난 5월에는 배우 강예원과 함께 봉사 활동을 하는 등 자숙 끝에 최근 자신의 인스타그램을 통해 근황을 공개하며 화제가 되었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜버 프리지아가 근황을 공개했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프리지아는 13일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 프리지아는 주황색 톱에 로우라이즈 패션을 한 채 카메라를 응시하고 있는가 하면, 거울 앞에서 포즈를 취하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진 속 프리지아의 건강한 복근이 시선을 끈다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 사진을 본 누리꾼들은 “여왕이 돌아왔다” “너무 그리웠다” “여전히 너무 예쁘다”며 그의 근황에 반가운 목소리를 냈다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 프리지아는 지난해 12월 공개된 넷플릭스 예능 프로그램 ‘솔로지옥’과 자신의 유튜브 및 인스타그램 등에 가품을 착용했다는 논란에 휩싸이며 지난 2월 활동 중단을 선언했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 이후 지난 3월 경북 울진·강원 삼척 산불 피해자를 돕기 위해 2000만원을 기부, 지난 5월에는 배우 강예원과 함께 봉사 활동을 하는 등 자숙 끝에 최근 자신의 인스타그램을 통해 근황을 공개하며 화제가 되었다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "돌아온 프리지아, 선명한 복근+로우라이즈 패션까지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

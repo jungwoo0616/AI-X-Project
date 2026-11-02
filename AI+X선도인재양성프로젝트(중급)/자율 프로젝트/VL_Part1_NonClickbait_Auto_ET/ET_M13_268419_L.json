@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268419",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "선미 “도망이라뇨, 흑흑”",
+		"newsSubTitle": "",
+		"newsContent": "가수 선미가 공항 입국 당시 거짓말을 해 취재진을 따돌렸다는 기사와 관련해 오해를 풀고자 나섰다.\n선미는 27일 본인 소셜미디어에 전날 인천국제공항으로 입국할 당시 현장 상황이 담긴 한 매체의 기사 일부와 함께 해명 글을 게재했다.\n해당 기사에는 “(선미가) 협찬을 받았을 때와 아닐 때가 너무나 다른 모습이었다”고 지적했다.\n이에 선미는 “사실 개인일정이라 기자분들이 계실지 몰랐어요. 매니저친구 없이 제 동생들이랑 동행하다 보니 게이트 안팎에서 매니저친구랑 동생끼리 소통이 잘 안 됐나봐요! 죄송해요”라고 했다.\n그는 “흑흑... 공항에선 늘 밝은 모습이었는데 제가 너무 당황해버렸어요”라고 말했다.\n그러면서 “아.. 그리고...! 오른쪽 사진도 협찬이 아니에요...”라고 덧붙였다.\n그가 언급한 기사에서는 선미가 이날 기자들을 따돌리기 위해 거짓말을 했다고 설명됐다.\n기자들이 그의 입국을 촬영하기 위해 기다리고 있었는데, 그가 약속된 장소로 나오지 않았다는 것. 기자는 선미가 다른 게이트로 나와 도망치듯 사라졌다고 주장했다.\n하지만 선미는 그가 친절하게 포즈를 취한 날에도, 갑작스럽게 취재진을 맞아야 했던 이날도 협찬받은 제품은 없었다.\n선미는 편안한 복장으로 일행과 조용히 다녀온 개인 일정에 예상치 못하게 취재진을 맞았다며 억울함을 토로했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 선미가 공항 입국 당시 거짓말을 해 취재진을 따돌렸다는 기사와 관련해 오해를 풀고자 나섰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "선미는 27일 본인 소셜미디어에 전날 인천국제공항으로 입국할 당시 현장 상황이 담긴 한 매체의 기사 일부와 함께 해명 글을 게재했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 기사에는 “(선미가) 협찬을 받았을 때와 아닐 때가 너무나 다른 모습이었다”고 지적했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 선미는 “사실 개인일정이라 기자분들이 계실지 몰랐어요. 매니저친구 없이 제 동생들이랑 동행하다 보니 게이트 안팎에서 매니저친구랑 동생끼리 소통이 잘 안 됐나봐요! 죄송해요”라고 했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “흑흑... 공항에선 늘 밝은 모습이었는데 제가 너무 당황해버렸어요”라고 말했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 “아.. 그리고...! 오른쪽 사진도 협찬이 아니에요...”라고 덧붙였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그가 언급한 기사에서는 선미가 이날 기자들을 따돌리기 위해 거짓말을 했다고 설명됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기자들이 그의 입국을 촬영하기 위해 기다리고 있었는데, 그가 약속된 장소로 나오지 않았다는 것. 기자는 선미가 다른 게이트로 나와 도망치듯 사라졌다고 주장했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 선미는 그가 친절하게 포즈를 취한 날에도, 갑작스럽게 취재진을 맞아야 했던 이날도 협찬받은 제품은 없었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "선미는 편안한 복장으로 일행과 조용히 다녀온 개인 일정에 예상치 못하게 취재진을 맞았다며 억울함을 토로했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "선미 “도망이라뇨, 흑흑”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260994",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "임영웅, 라이브 무대 더 돋보이는 스타 1위",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅이 라이브 무대에서 더 돋보이는 스타 1위로 선정됐다.\n지난 2월 7일부터 2월 13일까지 아이돌차트에서 진행된 ‘라이브 무대에서 더 돋보이는 스타는?’ 설문에서 임영웅은 총 투표수 48만 5360표 중 42만 1538표(투표율 약 87%)를 획득하며 1위에 올랐다.\n2위는 4만 8711표(투표율 약 10%)를 획득한 김호중이 차지했다.\n뒤를 이어 강다니엘(2671표), 박창근(2201표), 김의영(1414표), 로켓펀치(1201표), 프로미스나인(1171표), 황치열(1116표), 정동하(1114표), 박성연(879표), 성시경(729표), 태민(655표), 이무진(427표), 악뮤(425표), 케이윌(308표), 김연지(251표), 최예나(196표), 휘인(144표), 오마이걸(126표), 케플러(83표)순으로 집계됐다.\n설문조사의 결과는 아이돌차트 ‘POLL’ 메뉴에서 확인 가능하다.\n현재 ‘노래할 때 카리스마가 더 빛나는 스타는?’이란 주제로 설문이 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅이 라이브 무대에서 더 돋보이는 스타 1위로 선정됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2월 7일부터 2월 13일까지 아이돌차트에서 진행된 ‘라이브 무대에서 더 돋보이는 스타는?’ 설문에서 임영웅은 총 투표수 48만 5360표 중 42만 1538표(투표율 약 87%)를 획득하며 1위에 올랐다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2위는 4만 8711표(투표율 약 10%)를 획득한 김호중이 차지했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뒤를 이어 강다니엘(2671표), 박창근(2201표), 김의영(1414표), 로켓펀치(1201표), 프로미스나인(1171표), 황치열(1116표), 정동하(1114표), 박성연(879표), 성시경(729표), 태민(655표), 이무진(427표), 악뮤(425표), 케이윌(308표), 김연지(251표), 최예나(196표), 휘인(144표), 오마이걸(126표), 케플러(83표)순으로 집계됐다.",
+				"sentenceSize": 220
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설문조사의 결과는 아이돌차트 ‘POLL’ 메뉴에서 확인 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 ‘노래할 때 카리스마가 더 빛나는 스타는?’이란 주제로 설문이 진행 중이다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅, 라이브 무대 더 돋보이는 스타 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

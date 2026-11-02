@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273628",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아카데미상 수상한 폴 해기스 감독, 이탈리아서 성폭행 혐의 체포",
+		"newsSubTitle": "",
+		"newsContent": "아카데미상을 수상한 영화감독 폴 해기스가 성폭행 혐의로 이탈리아에서 체포됐다고 미국과 유럽 언론이 19일(현지시간) 전했다.\n영화감독이자 제작자, 극작가로 활동하는 해기스 감독은 2006년 아카데미 시상식에서 ‘크래쉬’(Crash)로 최우수 각본상을 수상한 바 있다.\n외신들에 따르면 폴 해기스 감독은 21일 이탈리아 오스투니에서 개막하는 영화제에 참석하려고 이탈리아에 머물던 중 젊은 외국인 여성과 이틀 동안 합의 없이 성관계를 한 혐의다.\n이탈리아 검찰은 해기스 감독이 육체적, 정신적으로 위태로운 상태에 빠진 여성을 19일 새벽에 브린디시 공항에 내버려 두고 떠났다고 밝혔다.\n검찰은 공항 직원이 혼란스러워하는 여성을 발견해 일단 치료한 후 브린디시 경찰서로 인도했고 경찰은 검진을 위해 여성을 현지 병원에 데려갔다고 덧붙였다.\n여성의 국적과 연령 등 구체적 신원은 공개되지 않았다.\n검찰은 이 여성이 공식적으로 고소했다며 해기스 감독이 성폭행했다는 주장의 사실관계를 확인하고 있다고 밝혔다.\n해기스 감독 변호인은 “모든 주장이 기각될 것”이라며 “완전히 결백하며 진실이 빨리 나오도록 당국에 전면 협조할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아카데미상을 수상한 영화감독 폴 해기스가 성폭행 혐의로 이탈리아에서 체포됐다고 미국과 유럽 언론이 19일(현지시간) 전했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영화감독이자 제작자, 극작가로 활동하는 해기스 감독은 2006년 아카데미 시상식에서 ‘크래쉬’(Crash)로 최우수 각본상을 수상한 바 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "외신들에 따르면 폴 해기스 감독은 21일 이탈리아 오스투니에서 개막하는 영화제에 참석하려고 이탈리아에 머물던 중 젊은 외국인 여성과 이틀 동안 합의 없이 성관계를 한 혐의다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이탈리아 검찰은 해기스 감독이 육체적, 정신적으로 위태로운 상태에 빠진 여성을 19일 새벽에 브린디시 공항에 내버려 두고 떠났다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "검찰은 공항 직원이 혼란스러워하는 여성을 발견해 일단 치료한 후 브린디시 경찰서로 인도했고 경찰은 검진을 위해 여성을 현지 병원에 데려갔다고 덧붙였다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여성의 국적과 연령 등 구체적 신원은 공개되지 않았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "검찰은 이 여성이 공식적으로 고소했다며 해기스 감독이 성폭행했다는 주장의 사실관계를 확인하고 있다고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해기스 감독 변호인은 “모든 주장이 기각될 것”이라며 “완전히 결백하며 진실이 빨리 나오도록 당국에 전면 협조할 것”이라고 밝혔다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아카데미상 수상한 폴 해기스 감독, 이탈리아서 성폭행 혐의 체포",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

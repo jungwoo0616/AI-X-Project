@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263063",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘더 배트맨’ 개봉 첫 주 50만 돌파",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘더 배트맨’이 개봉 첫 주 50만 고지를 넘었다.\n7일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘더 배트맨’은 6일까지 누적관객수 50만636명을 동원하며 올해 개봉작 중 개봉 첫 주 최고 오프닝 성적을 거뒀다.\n지난주 북미를 포함해 영국, 멕시코, 오스트레일리아 등 74개국에서 일제히 개봉한 ‘더 배트맨’은 73개국에서 박스오피스 1위를 기록하며 월드와이드 2억4850만달러, 한화로 3천억원 넘는 수익을 거두는 등 전세계 흥행을 이끌고 있다.\n북미에서는 1억2850만달러 흥행 수익을 거뒀다.\n이는 팬데믹 기간 개봉영화 중 ‘스파이더맨: 노 웨이 홈’에 이어 2위, DC영화 중 ‘배트맨 대 슈퍼맨’ ‘다크나이트 라이즈’ ‘다크 나이트’에 이어 역대 네번째에 달하는 오프닝 성적이다. ‘더 배트맨’은 자비 없는 배트맨과 그를 뒤흔드는 수수께끼 빌런 리들러와의 대결을 통해 히어로 무비 사상 가장 사실적이면서 인정사정 없는 폭투 액션과 강력하고 무자비한 배트맨의 등장을 알린다.\n배트맨으로서 활동한지 2년차인 브루스 웨인이 탐정으로 활약해 추리극으로서의 매력을 더한다.\n극장가서 절찬 상영중.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘더 배트맨’이 개봉 첫 주 50만 고지를 넘었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘더 배트맨’은 6일까지 누적관객수 50만636명을 동원하며 올해 개봉작 중 개봉 첫 주 최고 오프닝 성적을 거뒀다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난주 북미를 포함해 영국, 멕시코, 오스트레일리아 등 74개국에서 일제히 개봉한 ‘더 배트맨’은 73개국에서 박스오피스 1위를 기록하며 월드와이드 2억4850만달러, 한화로 3천억원 넘는 수익을 거두는 등 전세계 흥행을 이끌고 있다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "북미에서는 1억2850만달러 흥행 수익을 거뒀다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 팬데믹 기간 개봉영화 중 ‘스파이더맨: 노 웨이 홈’에 이어 2위, DC영화 중 ‘배트맨 대 슈퍼맨’ ‘다크나이트 라이즈’ ‘다크 나이트’에 이어 역대 네번째에 달하는 오프닝 성적이다. ‘더 배트맨’은 자비 없는 배트맨과 그를 뒤흔드는 수수께끼 빌런 리들러와의 대결을 통해 히어로 무비 사상 가장 사실적이면서 인정사정 없는 폭투 액션과 강력하고 무자비한 배트맨의 등장을 알린다.",
+				"sentenceSize": 214
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배트맨으로서 활동한지 2년차인 브루스 웨인이 탐정으로 활약해 추리극으로서의 매력을 더한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "극장가서 절찬 상영중.",
+				"sentenceSize": 12
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더 배트맨’ 개봉 첫 주 50만 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278362",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태양의 후예 이이경 깜짝 출연에 과거 속옷 굴욕샷 화제",
+		"newsSubTitle": "",
+		"newsContent": "태양의 후예 이이경의 깜짝 출연이 화제다.\n이런 가운데 이이경이 과거 속옷만 입고 드라마 촬영을 진행한 굴욕샷이 눈길을 끈다 태양의 후예 이이경은 지난해 드라마 ‘처음이라서’에 출연 당시 속옷만 입은 장면이 공개돼 폭소케 했다.\n태양의 후예 이이경은 공개된 사진에서 노란색 속옷만 입은 채 부모님 집에서 내쫓긴 코믹한 상황을 연기했다.\n태양의 후예 이이경은 부끄러운 듯 전봇대 뒤에 숨고 박스로 몸을 가린 채 뛰어가는 등 능청스럽게 연기했다, 반면 탄탄한 구릿빛 몸매는 시청자들의 눈길을 사로잡았다.\n한편 이이경은 지난 17일 방송된 ‘태양의 후예’ 이이경은 발전소 직원 강민재로 등장했다.\n이이경은 이날 방송 대부분을 붕괴된 건물에 갇혀 보냈지만 그 안에서도 시청자들에게 웃음과 감동을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "태양의 후예 이이경의 깜짝 출연이 화제다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이런 가운데 이이경이 과거 속옷만 입고 드라마 촬영을 진행한 굴욕샷이 눈길을 끈다 태양의 후예 이이경은 지난해 드라마 ‘처음이라서’에 출연 당시 속옷만 입은 장면이 공개돼 폭소케 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "태양의 후예 이이경은 공개된 사진에서 노란색 속옷만 입은 채 부모님 집에서 내쫓긴 코믹한 상황을 연기했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "태양의 후예 이이경은 부끄러운 듯 전봇대 뒤에 숨고 박스로 몸을 가린 채 뛰어가는 등 능청스럽게 연기했다, 반면 탄탄한 구릿빛 몸매는 시청자들의 눈길을 사로잡았다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 이이경은 지난 17일 방송된 ‘태양의 후예’ 이이경은 발전소 직원 강민재로 등장했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이이경은 이날 방송 대부분을 붕괴된 건물에 갇혀 보냈지만 그 안에서도 시청자들에게 웃음과 감동을 전했다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태양의 후예 이이경 깜짝 출연에 과거 속옷 굴욕샷 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

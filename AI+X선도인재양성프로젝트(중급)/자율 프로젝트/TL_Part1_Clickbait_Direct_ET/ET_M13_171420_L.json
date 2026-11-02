@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171420",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘같은 속옷을 입는 두 여자’ 부산국제영화제 넷팩상 수상",
+    "newsSubTitle": "",
+    "newsContent": "김세인 감독이 연출한 ‘같은 속옷을 입는 두 여자’가 제26회 부산국제영화제에서 아시아영화진흥기구상(넷팩상)을 받았다고 영화제가 15일 전했다.\n신인 감독 첫 번째나 두 번째 장편을 대상으로 하는 경쟁 부문인 뉴 커런츠 부문에 오른 이 영화는 함께 사는 모녀 갈등을 통해 가족에 관해 묻는 내용으로, 왓챠상까지 받아 2관왕에 올랐다.\n국제영화비평가연맹(FIPRESCI)상은 박강 감독의 ‘세이레’가, 부산시네필상은 자오량 감독의 ‘아임 쏘 쏘리’가 받았다.\n윤서진 감독 ‘초록밤’은 CGK촬영상(추경엽)과 CGV아트하우스상, 시민평론가상으로 3관왕에 올랐다.\n오성호 감독의 ‘그 겨울, 나는’은 한국영화감독조합 메가박스상과 왓챠상으로, 박송열 감독의 ‘낮에는 덥고 밤에는 춥고’는 KBS독립영화상과 크리틱b상으로 2관왕이 됐다.\n김미영 감독의 ‘절해고도’가 한국영화감독조합 메가박스 상을 함께 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김세인 감독이 연출한 ‘같은 속옷을 입는 두 여자’가 제26회 부산국제영화제에서 아시아영화진흥기구상(넷팩상)을 받았다고 영화제가 15일 전했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신인 감독 첫 번째나 두 번째 장편을 대상으로 하는 경쟁 부문인 뉴 커런츠 부문에 오른 이 영화는 함께 사는 모녀 갈등을 통해 가족에 관해 묻는 내용으로, 왓챠상까지 받아 2관왕에 올랐다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국제영화비평가연맹(FIPRESCI)상은 박강 감독의 ‘세이레’가, 부산시네필상은 자오량 감독의 ‘아임 쏘 쏘리’가 받았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤서진 감독 ‘초록밤’은 CGK촬영상(추경엽)과 CGV아트하우스상, 시민평론가상으로 3관왕에 올랐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오성호 감독의 ‘그 겨울, 나는’은 한국영화감독조합 메가박스상과 왓챠상으로, 박송열 감독의 ‘낮에는 덥고 밤에는 춥고’는 KBS독립영화상과 크리틱b상으로 2관왕이 됐다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김미영 감독의 ‘절해고도’가 한국영화감독조합 메가박스 상을 함께 받았다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'같은 속옷을 입는 두 여자' 부산국제영화제에서 '이것' 수상해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

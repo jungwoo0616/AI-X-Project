@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285186",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "하지영, 반전몸매 뽐내는 사진 공개…과거 속옷 모델 활동도?",
+		"newsSubTitle": "",
+		"newsContent": "'하지영 비키니' 방송인 하지영의 반전 몸매를 뽐내는 사진을 공개해 화제다.\n과거 한 온라인 커뮤니티 게시판에는 'SBS 한밤의 에너자이저 하지영 반전몸매 깜짝!'이라는 제목으로 한 장의 사진이 게재됐다.\n공개된 사진 속에는 바닷가를 배경으로 한 채 비키니를 입고 섹시한 자태를 뽐내고 있는 하지영의 모습이 담겼다.\n특히 물에 젖어 있는 하지영은 귀여운 외모와는 달리 매력적인 S라인 몸매와 풍만한 볼륨감으로 시선을 사로잡고 있다.\n앞서 하지영은 속옷 모델로도 활동한 바 있는 것으로 알려졌다.\n모델 활동 당시 하지영은 글래머러스한 가슴 라인과 각선미를 자랑했다.\n한편, 하지영은 현재 SBS '한밤의 TV연예'에 출연 중이다.\n온라인 중앙일보 '하지영 비키니' [사진 하지영 SNS]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'하지영 비키니' 방송인 하지영의 반전 몸매를 뽐내는 사진을 공개해 화제다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 한 온라인 커뮤니티 게시판에는 'SBS 한밤의 에너자이저 하지영 반전몸매 깜짝!'이라는 제목으로 한 장의 사진이 게재됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 바닷가를 배경으로 한 채 비키니를 입고 섹시한 자태를 뽐내고 있는 하지영의 모습이 담겼다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 물에 젖어 있는 하지영은 귀여운 외모와는 달리 매력적인 S라인 몸매와 풍만한 볼륨감으로 시선을 사로잡고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 하지영은 속옷 모델로도 활동한 바 있는 것으로 알려졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모델 활동 당시 하지영은 글래머러스한 가슴 라인과 각선미를 자랑했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 하지영은 현재 SBS '한밤의 TV연예'에 출연 중이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 '하지영 비키니' [사진 하지영 SNS]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하지영, 반전몸매 뽐내는 사진 공개…과거 속옷 모델 활동도?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

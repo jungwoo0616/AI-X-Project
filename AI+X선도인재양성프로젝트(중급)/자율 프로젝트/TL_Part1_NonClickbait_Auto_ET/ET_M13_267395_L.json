@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267395",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘강철부대2’ 육준서 눈물 “어떤 마음으로 미션에 임했을지 공감이 된다”",
+		"newsSubTitle": "",
+		"newsContent": "‘강철부대2’ 지옥의 데스매치에서 동반 탈락하게 될 세 번째 연합팀이 공개된다.\n19일 오후 9시 20분 방송되는 SKY채널과 채널A의 예능 프로그램 ‘강철부대2’ 9회에서는 세 번째 탈락팀을 결정지을 죽음의 레이스가 펼쳐진다.\n방송에서는 ‘해상 대테러 연합미션’ 최하위 연합팀의 명예가 걸린 처절한 사투가 벌어질 예정이다.\n강철부대원들은 극한의 상황에서도 절규에 가까운 파이팅을 외치며 뜨거운 전우애를 드러낸다.\n대원들은 급격한 체력 손실에도 마지막까지 포기하지 않는 투지를 발휘하며 감동을 자아낸다.\n이를 지켜보던 스페셜 MC 육준서와 오종혁은 “어떤 마음으로 미션에 임했을지 공감이 된다”며 안타까움의 눈물을 흘렸다는 후문이다.\n지옥의 ‘데스매치’에서 가까스로 생존하게 될 연합팀은 누구일지, 또 어떤 대원들이 ‘강철부대2’를 떠나게 될지 벌써 시청자들의 아쉬움이 커지고 있다.\nSKY채널(4월 29일부터 ENA채널로 변경)과 채널A의 예능 프로그램 ‘강철부대2’ 9회는 19일 밤 9시 20분에 안방극장에 배송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘강철부대2’ 지옥의 데스매치에서 동반 탈락하게 될 세 번째 연합팀이 공개된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 오후 9시 20분 방송되는 SKY채널과 채널A의 예능 프로그램 ‘강철부대2’ 9회에서는 세 번째 탈락팀을 결정지을 죽음의 레이스가 펼쳐진다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송에서는 ‘해상 대테러 연합미션’ 최하위 연합팀의 명예가 걸린 처절한 사투가 벌어질 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강철부대원들은 극한의 상황에서도 절규에 가까운 파이팅을 외치며 뜨거운 전우애를 드러낸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대원들은 급격한 체력 손실에도 마지막까지 포기하지 않는 투지를 발휘하며 감동을 자아낸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 지켜보던 스페셜 MC 육준서와 오종혁은 “어떤 마음으로 미션에 임했을지 공감이 된다”며 안타까움의 눈물을 흘렸다는 후문이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지옥의 ‘데스매치’에서 가까스로 생존하게 될 연합팀은 누구일지, 또 어떤 대원들이 ‘강철부대2’를 떠나게 될지 벌써 시청자들의 아쉬움이 커지고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SKY채널(4월 29일부터 ENA채널로 변경)과 채널A의 예능 프로그램 ‘강철부대2’ 9회는 19일 밤 9시 20분에 안방극장에 배송된다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘강철부대2’ 육준서 눈물 “어떤 마음으로 미션에 임했을지 공감이 된다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

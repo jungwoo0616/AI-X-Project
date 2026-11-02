@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274449",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "정동원, 선한 영향력 발휘…6월 가왕전 상금 기부",
+		"newsSubTitle": "",
+		"newsContent": "가수 정동원이 뜻깊은 기부로 선한 영향력을 발휘했다.\n한국소아암재단은 1일 정동원이 6월 선산스타 가왕전 상금 200만 원을 소아암, 백혈병, 희귀난치질환으로 고통받고 있는 환우들의 희귀의약품 구입비 지원을 위해 기부했다고 밝혔다.\n지난 3월 한 차례 선한스타 가왕 자리에 올랐었던 가수 정동원은 팬들의 열렬한 응원에 힘입어 다시 한번 가왕자리 탈환과 함께 전체 누적 기부금액 2,000만 원을 돌파하며 소아암, 백혈병, 희귀난치질환 환우들에게 든든한 버팀목이 되어주고 있다.\n가수 정동원은 TV조선 ‘동원아 여행 가자’. ‘화요일은 밤이 좋아’ 등 예능에서 활약 중이며, ENA를 통해 방영중인 ‘구필수는 없다’를 통해 연기자로서의 새로운 도전을 펼치고 있다.\n희귀의약품 구입비 지원 사업은 한국소아암재단에서 지난 2020년 부터 만 19세 이하에 소아암 백혈병 및 희귀난치병 진단을 받은 만 25세 이하의 환아를 대상으로 약제비, 희귀의약품비 구입비 등 고액의 비급여 약제비 마련에 어려움을 겪는 환아에게 후원금을 지원하는 사업이다.\n한국소아암재단의 홍승윤 이사는 “홍보대사 정동원 군의 행보에 감사를 표하며, 앞으로도 더 많은 사람들에게 희망을 주는 사람이 되었으면 한다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정동원이 뜻깊은 기부로 선한 영향력을 발휘했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국소아암재단은 1일 정동원이 6월 선산스타 가왕전 상금 200만 원을 소아암, 백혈병, 희귀난치질환으로 고통받고 있는 환우들의 희귀의약품 구입비 지원을 위해 기부했다고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 3월 한 차례 선한스타 가왕 자리에 올랐었던 가수 정동원은 팬들의 열렬한 응원에 힘입어 다시 한번 가왕자리 탈환과 함께 전체 누적 기부금액 2,000만 원을 돌파하며 소아암, 백혈병, 희귀난치질환 환우들에게 든든한 버팀목이 되어주고 있다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가수 정동원은 TV조선 ‘동원아 여행 가자’. ‘화요일은 밤이 좋아’ 등 예능에서 활약 중이며, ENA를 통해 방영중인 ‘구필수는 없다’를 통해 연기자로서의 새로운 도전을 펼치고 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "희귀의약품 구입비 지원 사업은 한국소아암재단에서 지난 2020년 부터 만 19세 이하에 소아암 백혈병 및 희귀난치병 진단을 받은 만 25세 이하의 환아를 대상으로 약제비, 희귀의약품비 구입비 등 고액의 비급여 약제비 마련에 어려움을 겪는 환아에게 후원금을 지원하는 사업이다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국소아암재단의 홍승윤 이사는 “홍보대사 정동원 군의 행보에 감사를 표하며, 앞으로도 더 많은 사람들에게 희망을 주는 사람이 되었으면 한다”고 밝혔다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정동원, 선한 영향력 발휘…6월 가왕전 상금 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

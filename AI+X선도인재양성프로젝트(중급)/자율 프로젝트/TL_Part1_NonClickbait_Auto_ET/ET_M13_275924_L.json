@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275924",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "곽윤기, 노래도 한다…치즈와 컬래버 음원 발매",
+		"newsSubTitle": "",
+		"newsContent": "가수 치즈(CHEEZE)와 곽윤기 선수가 특별한 컬래버레이션 음원 ‘Traveler(트래블러)’ 발매를 예고했다.\n20일 치즈의 공식 인스타그램 계정에 치즈와 곽윤기가 함께 찍은 티저 사진이 공개됐다.\n둘은 배낭과 캐리어를 들고 여행을 떠나기 전의 설렘을 담은 재기발랄한 모습을 셀프 이미지로 남겼다.\n티저 이미지 공개 후 의외의 케미를 발산하며 팬들로부터 신선한 기대감을 불러일으키고 있다.\n이번 프로젝트는 2022 베이징 동계 올림픽에서 곽윤기 선수의 모습에 감동한 치즈가 직접 작사, 작곡한 음원을 곽윤기 선수에게 먼저 제안하며 성사된 만남으로 의미가 있다. ‘Traveler’는 인생이라는 여정의 여행자로 살아가고 있는 이 시대의 모두에게 들려주는 두 사람의 희망찬 선물이 될 전망이다.\n반복되던 일상에 작은 행복으로 찾아올 ‘Traveler’는 23일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 치즈(CHEEZE)와 곽윤기 선수가 특별한 컬래버레이션 음원 ‘Traveler(트래블러)’ 발매를 예고했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 치즈의 공식 인스타그램 계정에 치즈와 곽윤기가 함께 찍은 티저 사진이 공개됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "둘은 배낭과 캐리어를 들고 여행을 떠나기 전의 설렘을 담은 재기발랄한 모습을 셀프 이미지로 남겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "티저 이미지 공개 후 의외의 케미를 발산하며 팬들로부터 신선한 기대감을 불러일으키고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 프로젝트는 2022 베이징 동계 올림픽에서 곽윤기 선수의 모습에 감동한 치즈가 직접 작사, 작곡한 음원을 곽윤기 선수에게 먼저 제안하며 성사된 만남으로 의미가 있다. ‘Traveler’는 인생이라는 여정의 여행자로 살아가고 있는 이 시대의 모두에게 들려주는 두 사람의 희망찬 선물이 될 전망이다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반복되던 일상에 작은 행복으로 찾아올 ‘Traveler’는 23일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "곽윤기, 노래도 한다…치즈와 컬래버 음원 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

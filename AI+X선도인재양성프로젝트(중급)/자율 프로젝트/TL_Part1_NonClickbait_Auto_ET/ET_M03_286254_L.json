@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_286254",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "홍수아, 셀카 통해 온 몸에 시퍼렇게 든 '멍' 공개",
+		"newsSubTitle": "",
+		"newsContent": "홍수아가 온 몸에 시퍼렇게 든 멍 인증샷을 공개했다.\n배우 홍수아는 12일 자신의 인스타그램에 \\\"액션의 길이란…난 이소룡이 되어가고 있다\\\"는 글과 함께 인증 사진을 게재했다.\n공개된 사진에서 홍수아는 팔뚝에 허벅지에 당한 부상을 공개했다.\n곳곳에 시퍼렇게 든 멍이 안타까운 마음을 자아내고 있다.\n홍수아는 영화 '포졸'에서의 액션신을 촬영하다 부상을 입은 것으로 보인다.\n영화 '포졸'(2015)은 조선최고의 검객과 역모를 꿈꾸는 자의 대결을 그린 액션사극이다.\n홍수아와 정해인, 조재윤, 금단비 등이 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "홍수아가 온 몸에 시퍼렇게 든 멍 인증샷을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 홍수아는 12일 자신의 인스타그램에 \\\"액션의 길이란…난 이소룡이 되어가고 있다\\\"는 글과 함께 인증 사진을 게재했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 홍수아는 팔뚝에 허벅지에 당한 부상을 공개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "곳곳에 시퍼렇게 든 멍이 안타까운 마음을 자아내고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍수아는 영화 '포졸'에서의 액션신을 촬영하다 부상을 입은 것으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 '포졸'(2015)은 조선최고의 검객과 역모를 꿈꾸는 자의 대결을 그린 액션사극이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "홍수아와 정해인, 조재윤, 금단비 등이 출연한다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍수아, 셀카 통해 온 몸에 시퍼렇게 든 '멍' 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

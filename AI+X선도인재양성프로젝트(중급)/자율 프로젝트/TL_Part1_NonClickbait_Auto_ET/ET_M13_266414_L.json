@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266414",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "윌스미스, 10년간 아카데미 참석 금지",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 윌스미스가 저지른 폭행사건이 자신의 발목을 완전히 붙잡았다.\nAP통신에 따르면 미국 영화예술아카데미(AMPAS)는 8일(현지시각) 윌스미스의 아카데미 시상식 10년간 참석 및 출연 금지를 결정하며 공식 징계를 마무리했다.\n윌스미스의 이전 수상자격은 유지된다.\nAMPAS는 “윌스미스에 대한 이번 조치는 ‘게스트 안전을 보호하고 아카데미에 대한 신뢰를 회복한다’는 목표”라면서 “제94회 아카데미는 지난해 놀라운 행보를 보여 준 모든 영화인을 기념하기 위한 자리였지만 윌스미스의 해로운 행동에 의래 가려졌다”고 지적했다.\n이와 같은 결정에 윌스미스는 “아카데미의 결정을 받아들이고 존중한다”는 입장을 내놓을 것으로 전해졌다.\n윌스미스는 지난달 27일 아카데미 시상식 도중 다큐멘터리상 시상자인 크리스록이 탈모증세로 삭발한 자신의 아내를 희화화하는 농담을 하자, 갑자기 무대에 올라 그의 뺨을 내린 뒤 자리에 돌아가서도 욕설을 퍼부었다.\n윌스미스의 이와 같은 행동은 전 세계에 생중계됐다.\n윌스미스의 폭력에 대해 각계의 비판이 잇따르자 그는 사과 성명을 내고 아카데미 회원직에서 사퇴했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 윌스미스가 저지른 폭행사건이 자신의 발목을 완전히 붙잡았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AP통신에 따르면 미국 영화예술아카데미(AMPAS)는 8일(현지시각) 윌스미스의 아카데미 시상식 10년간 참석 및 출연 금지를 결정하며 공식 징계를 마무리했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윌스미스의 이전 수상자격은 유지된다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AMPAS는 “윌스미스에 대한 이번 조치는 ‘게스트 안전을 보호하고 아카데미에 대한 신뢰를 회복한다’는 목표”라면서 “제94회 아카데미는 지난해 놀라운 행보를 보여 준 모든 영화인을 기념하기 위한 자리였지만 윌스미스의 해로운 행동에 의래 가려졌다”고 지적했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 같은 결정에 윌스미스는 “아카데미의 결정을 받아들이고 존중한다”는 입장을 내놓을 것으로 전해졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윌스미스는 지난달 27일 아카데미 시상식 도중 다큐멘터리상 시상자인 크리스록이 탈모증세로 삭발한 자신의 아내를 희화화하는 농담을 하자, 갑자기 무대에 올라 그의 뺨을 내린 뒤 자리에 돌아가서도 욕설을 퍼부었다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윌스미스의 이와 같은 행동은 전 세계에 생중계됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "윌스미스의 폭력에 대해 각계의 비판이 잇따르자 그는 사과 성명을 내고 아카데미 회원직에서 사퇴했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윌스미스, 10년간 아카데미 참석 금지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

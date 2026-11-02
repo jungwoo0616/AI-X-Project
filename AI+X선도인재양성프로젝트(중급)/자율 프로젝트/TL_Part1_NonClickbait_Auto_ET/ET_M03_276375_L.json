@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276375",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "영화 '택시운전사' 관객 1200만명 돌파… 역대 9위",
+		"newsSubTitle": "",
+		"newsContent": "영화 '택시운전사'가 관객 1200만명을 돌파하며 뒷심을 발휘하고 있다.\n16일 영화진흥위원회의 통합전산망에 따르면 택시운전사는 누적 관객 수 1212만 5448명을 기록했다.\n이는 지난달 2일 개봉 이후 40여일 만의 기록으로 올해 개봉한 영화 중 가장 많은 관객을 동원했다.\n개봉한 지 한 달이 훌쩍 넘었지만 택시운전사는 9월 2주차 통계에서도 관객동원순위에서 4위를 기록하며 꾸준히 뒷심을 발휘 중이다.\n역대 누적 관객 순위에서도 9위에 올라 있다.\n8위인 '광해, 왕이 된 남자'(1232만3595명)와는 20만명 차이다.\n광해를 누르고 8위를 차지할 수 있을지 귀추가 주목된다.\n한편 역대 최고 관객을 기록 중인 영화는 '명량'으로 누적 관객 수가 1761만5152명에 달한다.\n배우 송강호가 주연인 택시운전사는 광주민주화운동 당시 독일인 기자를 태우고 광주로 향한 택시기사의 이야기를 다뤘다.\n한국 사회의 아픈 실화를 소재로 한 만큼 주인공 힌츠펜터와 김사복 씨에 대한 관심으로 이어지며 사회적 관심을 이끌어냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 '택시운전사'가 관객 1200만명을 돌파하며 뒷심을 발휘하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 영화진흥위원회의 통합전산망에 따르면 택시운전사는 누적 관객 수 1212만 5448명을 기록했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난달 2일 개봉 이후 40여일 만의 기록으로 올해 개봉한 영화 중 가장 많은 관객을 동원했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개봉한 지 한 달이 훌쩍 넘었지만 택시운전사는 9월 2주차 통계에서도 관객동원순위에서 4위를 기록하며 꾸준히 뒷심을 발휘 중이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "역대 누적 관객 순위에서도 9위에 올라 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "8위인 '광해, 왕이 된 남자'(1232만3595명)와는 20만명 차이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "광해를 누르고 8위를 차지할 수 있을지 귀추가 주목된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 역대 최고 관객을 기록 중인 영화는 '명량'으로 누적 관객 수가 1761만5152명에 달한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "배우 송강호가 주연인 택시운전사는 광주민주화운동 당시 독일인 기자를 태우고 광주로 향한 택시기사의 이야기를 다뤘다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한국 사회의 아픈 실화를 소재로 한 만큼 주인공 힌츠펜터와 김사복 씨에 대한 관심으로 이어지며 사회적 관심을 이끌어냈다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영화 '택시운전사' 관객 1200만명 돌파… 역대 9위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

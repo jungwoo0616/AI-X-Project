@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271615",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "손연재, 오는 8월 일반인 남자친구와 결혼",
+		"newsSubTitle": "",
+		"newsContent": "리듬체조 선수 출신 손연재의 결혼설이 불거졌다.\n28일 ‘뉴스1’에 따르면 손연재는 비연예인 남자친구와 오는 8월 결혼식을 올린다.\n결혼식은 비공개로 진행될 예정이다.\n손연재는 지난 4월 열애 사실을 인정했다.\n두 사람은 서로에 대한 신뢰와 사랑을 바탕으로 결혼을 결심하게 된 것으로 전해졌다.\n손연재의 예비 남편은 비연예인이며 9세 연상으로 알려졌다.\n한편 리듬체조 국가대표 출신인 손연재는 2014 인천 아시안게임 종합 금메달, 단체 은메달을 획득했고, 2016 리우데자네이루 올림픽에서 종합 4위에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "리듬체조 선수 출신 손연재의 결혼설이 불거졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 ‘뉴스1’에 따르면 손연재는 비연예인 남자친구와 오는 8월 결혼식을 올린다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼식은 비공개로 진행될 예정이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손연재는 지난 4월 열애 사실을 인정했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람은 서로에 대한 신뢰와 사랑을 바탕으로 결혼을 결심하게 된 것으로 전해졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손연재의 예비 남편은 비연예인이며 9세 연상으로 알려졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 리듬체조 국가대표 출신인 손연재는 2014 인천 아시안게임 종합 금메달, 단체 은메달을 획득했고, 2016 리우데자네이루 올림픽에서 종합 4위에 올랐다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손연재, 오는 8월 일반인 남자친구와 결혼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

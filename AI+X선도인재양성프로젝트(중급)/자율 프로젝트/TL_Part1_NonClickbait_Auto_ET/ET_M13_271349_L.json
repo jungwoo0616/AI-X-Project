@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271349",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "노들섬 ‘문화가 흐르는 예술마당’ 변신…28일 다비치·하니엘 등 개막 공연",
+		"newsSubTitle": "",
+		"newsContent": "서울시 대표 문화공연인 ‘문화가 흐르는 서울광장’이 이름을 바꿔 돌아온다.\n서울시는 이달 28일부터 11월까지 노들섬에서 ‘문화가 흐르는 예술마당’ 공연을 선보인다고 25일 전했다.\n문화가 흐르는 예술마당은 2015년부터 2019년까지 진행된 ‘문화가 흐르는 서울광장’의 새 이름이다. ‘문화가 흐르는 서울광장’은 2020∼2021년에는 코로나19로 중단됐었다.\n시는 거리두기 해제에 따라 행사를 재개하며 이름을 바꾸고 기존에 서울광장에 설치하던 특설무대도 노들섬으로 옮겼다.\n노들섬 공연장에는 대형 LED 화면을 설치하고 무대 앞 잔디마당에는 빈백과 돗자리를 배치해 가족 및 연인 등이 자유롭고 편안한 분위기에서 공연을 즐길 수 있도록 했다. ‘문화가 흐르는 예술마당’에서는 28일 개막공연을 시작으로 ‘문화의 섬, 노들’(봄), ‘바캉스의 섬, 노들’(여름) 등 계절별 테마 공연을 비롯해 매월 특별한 주제로 11월까지 다양한 장르의 공연이 열린다.\n개막일에는 가수 다비치, 팝페라 3인조 그룹 하니엘, 거리공연단으로 활동하는 미지니 등이 무대에 오른다.\n자세한 공연 일정과 출연자는 문화가 흐르는 예술마당 홈페이지와 SNS에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울시 대표 문화공연인 ‘문화가 흐르는 서울광장’이 이름을 바꿔 돌아온다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울시는 이달 28일부터 11월까지 노들섬에서 ‘문화가 흐르는 예술마당’ 공연을 선보인다고 25일 전했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "문화가 흐르는 예술마당은 2015년부터 2019년까지 진행된 ‘문화가 흐르는 서울광장’의 새 이름이다. ‘문화가 흐르는 서울광장’은 2020∼2021년에는 코로나19로 중단됐었다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시는 거리두기 해제에 따라 행사를 재개하며 이름을 바꾸고 기존에 서울광장에 설치하던 특설무대도 노들섬으로 옮겼다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노들섬 공연장에는 대형 LED 화면을 설치하고 무대 앞 잔디마당에는 빈백과 돗자리를 배치해 가족 및 연인 등이 자유롭고 편안한 분위기에서 공연을 즐길 수 있도록 했다. ‘문화가 흐르는 예술마당’에서는 28일 개막공연을 시작으로 ‘문화의 섬, 노들’(봄), ‘바캉스의 섬, 노들’(여름) 등 계절별 테마 공연을 비롯해 매월 특별한 주제로 11월까지 다양한 장르의 공연이 열린다.",
+				"sentenceSize": 210
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개막일에는 가수 다비치, 팝페라 3인조 그룹 하니엘, 거리공연단으로 활동하는 미지니 등이 무대에 오른다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자세한 공연 일정과 출연자는 문화가 흐르는 예술마당 홈페이지와 SNS에서 확인할 수 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노들섬 ‘문화가 흐르는 예술마당’ 변신…28일 다비치·하니엘 등 개막 공연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

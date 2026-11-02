@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276950",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"누구 다리?\\\" 이성경, SNS서 삭제한 사진 눈길",
+		"newsSubTitle": "",
+		"newsContent": "배우 이성경이 자신의 SNS에 올렸다 삭제한 사진이 네티즌의 눈길을 끌었다.\n최근 이성경은 인스타그램을 통해 지난 15일~16일 진행된 영국밴드 콜드플레이의 내한공연을 방문한 인증샷을 공개했다.\n공개된 사진에는 잔디에 앉아 콘서트를 즐기는 관람객들의 모습이 담겨 있다.\n이후 사진에서 다리만 등장한 의문의 남성에 대해 네티즌의 관심이 집중되자 이성경을 이를 삭제했다.\n몇몇 네티즌은 사진 속 남성의 정체가 MBC 드라마 '역도요정 김복주'에서 연인 호흡을 맞춘 배우 남주혁이라고 추측했다.\n같은 날 두 사람이 매니저와 함께 콜드플레이 공연을 관람했다는 목격담이 나왔기 때문이다.\n두 사람은 모델 활동 때부터 같이해서 친분을 쌓아온 선후배 사이로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이성경이 자신의 SNS에 올렸다 삭제한 사진이 네티즌의 눈길을 끌었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 이성경은 인스타그램을 통해 지난 15일~16일 진행된 영국밴드 콜드플레이의 내한공연을 방문한 인증샷을 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 잔디에 앉아 콘서트를 즐기는 관람객들의 모습이 담겨 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 사진에서 다리만 등장한 의문의 남성에 대해 네티즌의 관심이 집중되자 이성경을 이를 삭제했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "몇몇 네티즌은 사진 속 남성의 정체가 MBC 드라마 '역도요정 김복주'에서 연인 호흡을 맞춘 배우 남주혁이라고 추측했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "같은 날 두 사람이 매니저와 함께 콜드플레이 공연을 관람했다는 목격담이 나왔기 때문이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 사람은 모델 활동 때부터 같이해서 친분을 쌓아온 선후배 사이로 알려졌다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"누구 다리?\\\" 이성경, SNS서 삭제한 사진 눈길",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

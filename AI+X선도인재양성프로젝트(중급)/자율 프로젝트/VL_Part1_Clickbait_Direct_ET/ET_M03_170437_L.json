@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170437",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "팬심 울리는 '서울가요대상' 무보수 채용 논란",
+    "newsSubTitle": "",
+    "newsContent": "오는 1월 19일 열리는 '제26회 하이원 서울가요대상'에서 게재한 무보수 스태프 구인 공고가 네티즌의 비난을 샀다.\n서울가요대상 주최 측은 27일 트위터 등을 통해 \\\"축제의 현장에서 특별한 추억을 만들어보세요\\\"라며 행사 현장에서 근무할 스태프를 모집했다.\n이에 따르면 주최 측은 스태프 활동을 위한다는 명목으로 지원자의 개인정보를 요구하면서 교통비, 일 급여 등은 지원하지 않는다고 밝혔다.\n자원봉사활동 증명서 발급 역시 지원하지 않는다고 덧붙였다.\n또한 업무에 따라 공연관람이 불가능할 수 있다고 알렸다.\n이를 본 많은 네티즌은 \\\"팬심을 이렇게 이용해도 되는거냐\\\" \\\"스태프가 자원봉사자인가요?\\\" \\\"스태프가 아니라 노예모집\\\" 등의 비판을 쏟아냈다.\n논란이 일자 서울가요대상 측은 이날 트위터에 \\\"오늘 안내드린 스태프 모집안내에 차질을 빚은점 죄송하다. 다시 정확한 모집공고를 알려드리도록 하겠다. 죄송하다\\\"며 사과문을 게재했다.\n현재 사과문은 삭제한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 1월 19일 열리는 '제26회 하이원 서울가요대상'에서 게재한 무보수 스태프 구인 공고가 네티즌의 비난을 샀다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울가요대상 주최 측은 27일 트위터 등을 통해 \\\"축제의 현장에서 특별한 추억을 만들어보세요\\\"라며 행사 현장에서 근무할 스태프를 모집했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따르면 주최 측은 스태프 활동을 위한다는 명목으로 지원자의 개인정보를 요구하면서 교통비, 일 급여 등은 지원하지 않는다고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "자원봉사활동 증명서 발급 역시 지원하지 않는다고 덧붙였다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 업무에 따라 공연관람이 불가능할 수 있다고 알렸다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 많은 네티즌은 \\\"팬심을 이렇게 이용해도 되는거냐\\\" \\\"스태프가 자원봉사자인가요?\\\" \\\"스태프가 아니라 노예모집\\\" 등의 비판을 쏟아냈다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "논란이 일자 서울가요대상 측은 이날 트위터에 \\\"오늘 안내드린 스태프 모집안내에 차질을 빚은점 죄송하다. 다시 정확한 모집공고를 알려드리도록 하겠다. 죄송하다\\\"며 사과문을 게재했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 사과문은 삭제한 상태다.",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제26회 하이원 서울가요대상, 현대판 노예 계약으로 논란 일어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

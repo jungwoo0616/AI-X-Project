@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272341",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "세븐틴, 전 세계에 보여준 ‘HOT’",
+		"newsSubTitle": "",
+		"newsContent": "그룹 세븐틴이 정규 4집 활동을 마무리했다.\n6일 소속사 플레디스 엔터테인먼트에 따르면 세븐틴은 지난 5일 방송된 SBS 음악 방송 프로그램 ‘인기가요’를 끝으로 정규 4집 ‘Face the Sun’(페이스 더 선) 공식 활동을 마쳤다.\n세븐틴은 정규 4집 ‘Face The Sun’을 통해 음반 파워를 입증했다. ‘Face the Sun’은 한터 주간 음반 차트(2022.05.23~2022.05.29 집계 기준)에 이어 5월 월간 음반 차트 1위를 기록했으며 초동 판매량 206만 7,769장을 기록했다.\n세븐틴은 글로벌 차트에서도 존재감을 드러냈다. ‘Face the Sun’은 아이튠즈 앨범 차트에서 필리핀, 브라질 등 총 22개 국가/지역 1위를 포함해 총 40개 국가/지역 TOP 10에 올랐고, 타이틀곡 ‘HOT’은 아이튠즈 송 차트에서 멕시코, 싱가포르 등 총 26개 국가/지역 1위를 포함해 총 34개 국가/지역 TOP 10을 차지했다.\n일본 최대 음원 사이트인 라인뮤직에서는 발매 직후 데일리 앨범 차트와 음원 차트 1위를 달성했고, 주간 앨범 차트까지 정상에 올랐다.\n한편 세븐틴은 세 번째 월드투어 ‘SEVENTEEN WORLD TOUR [BE THE SUN]’을 개최한다.\n오는 25~26일 서울 공연을 시작으로, 북미와 아시아 아레나 투어를 진행하며 11~12월에는 일본에서 6회 돔 투어를 연다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 세븐틴이 정규 4집 활동을 마무리했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 소속사 플레디스 엔터테인먼트에 따르면 세븐틴은 지난 5일 방송된 SBS 음악 방송 프로그램 ‘인기가요’를 끝으로 정규 4집 ‘Face the Sun’(페이스 더 선) 공식 활동을 마쳤다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세븐틴은 정규 4집 ‘Face The Sun’을 통해 음반 파워를 입증했다. ‘Face the Sun’은 한터 주간 음반 차트(2022.05.23~2022.05.29 집계 기준)에 이어 5월 월간 음반 차트 1위를 기록했으며 초동 판매량 206만 7,769장을 기록했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세븐틴은 글로벌 차트에서도 존재감을 드러냈다. ‘Face the Sun’은 아이튠즈 앨범 차트에서 필리핀, 브라질 등 총 22개 국가/지역 1위를 포함해 총 40개 국가/지역 TOP 10에 올랐고, 타이틀곡 ‘HOT’은 아이튠즈 송 차트에서 멕시코, 싱가포르 등 총 26개 국가/지역 1위를 포함해 총 34개 국가/지역 TOP 10을 차지했다.",
+				"sentenceSize": 192
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일본 최대 음원 사이트인 라인뮤직에서는 발매 직후 데일리 앨범 차트와 음원 차트 1위를 달성했고, 주간 앨범 차트까지 정상에 올랐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 세븐틴은 세 번째 월드투어 ‘SEVENTEEN WORLD TOUR [BE THE SUN]’을 개최한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오는 25~26일 서울 공연을 시작으로, 북미와 아시아 아레나 투어를 진행하며 11~12월에는 일본에서 6회 돔 투어를 연다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐틴, 전 세계에 보여준 ‘HOT’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

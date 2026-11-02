@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263467",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "BTS 콘서트 시작 앞두고…제이홉 “같이 춤출래?”",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 제이홉이 콘서트를 앞두고 그의 근황을 알렸다.\n제이홉은 10일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 두 장의 사진과 영상을 게시했다.\n사진에는 콘서트를 관람하는 팬들의 모습과 콘서트를 즐기는 제이홉의 모습을 볼 수 있었다.\n영상 속에는 “SHALL WE DANCE?(우리 춤 출래?)”라는 글이 써있는 슬로건과 아미봉(방탄소년단 공식 응원도구)이 배치되어 있다.\n이를 통해 콘서트를 앞둔 제이홉의 기대감을 엿볼 수 있다.\n한편 방탄소년단은 오늘(10일)부터 13일까지 잠실 종합운동장 주경기장에서 2년 5개월만에 콘서트를 연다. 방탄소년단의 콘서트는 코로나 시국 이후 진행된 공연들 중 최대 규모로 열린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 제이홉이 콘서트를 앞두고 그의 근황을 알렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제이홉은 10일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 두 장의 사진과 영상을 게시했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 콘서트를 관람하는 팬들의 모습과 콘서트를 즐기는 제이홉의 모습을 볼 수 있었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영상 속에는 “SHALL WE DANCE?(우리 춤 출래?)”라는 글이 써있는 슬로건과 아미봉(방탄소년단 공식 응원도구)이 배치되어 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 통해 콘서트를 앞둔 제이홉의 기대감을 엿볼 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 방탄소년단은 오늘(10일)부터 13일까지 잠실 종합운동장 주경기장에서 2년 5개월만에 콘서트를 연다. 방탄소년단의 콘서트는 코로나 시국 이후 진행된 공연들 중 최대 규모로 열린다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BTS 콘서트 시작 앞두고…제이홉 “같이 춤출래?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

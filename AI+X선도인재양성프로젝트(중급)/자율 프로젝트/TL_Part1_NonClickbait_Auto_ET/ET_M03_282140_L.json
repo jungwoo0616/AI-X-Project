@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282140",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'택시' 기은세, 호텔이야 집이야? 화려한 인테리어 '럭셔리해'",
+		"newsSubTitle": "",
+		"newsContent": "배우 기은세가 ‘택시’에 출연해 화제를 모으면서 기은세의 일상 사진도 주목을 끌었다. ‘택시’ 기은세는 최근 자신의 블로그를 통해 손님을 맞이하기 위해 준비중인 사진을 공개했다. ‘택시’ 기은세는 “손님들 오시기 전 초스피드로 옷 갈아입고 마지막 점검중. 정말 신기한 게 이젠 음식하는 중간중간 머리도 하고 화장도 한다”라는 글을 적었다.\n사진 속 기은세는 집들이를 위한 손님맞이 음식을 준비하고 있다.\n한편 기은세는 지난 1일 방송된 케이블채널 tvN ‘현장토크쇼-택시’에서 12살 연상의 남편과 연애부터 결혼까지 러브스토리를 공개했다.\n기은세는 “남편을 놓치면 후회할 것 같아 먼저 프러포즈를 했다”고 고백했다.\n기은세는 2012년 미국에서 띠동갑 연상의 남자친구와 결혼식을 올린 사실이 뒤늦게 전해지며 화제가 된 바 있다.\n기은세는 1985년생으로 2007년 영화 '좋은놈 나쁜놈 이상한놈'을 통해 데뷔했고, 많은 팔로워 수를 자랑하는 'SNS 스타' 이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 기은세가 ‘택시’에 출연해 화제를 모으면서 기은세의 일상 사진도 주목을 끌었다. ‘택시’ 기은세는 최근 자신의 블로그를 통해 손님을 맞이하기 위해 준비중인 사진을 공개했다. ‘택시’ 기은세는 “손님들 오시기 전 초스피드로 옷 갈아입고 마지막 점검중. 정말 신기한 게 이젠 음식하는 중간중간 머리도 하고 화장도 한다”라는 글을 적었다.",
+				"sentenceSize": 189
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사진 속 기은세는 집들이를 위한 손님맞이 음식을 준비하고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한편 기은세는 지난 1일 방송된 케이블채널 tvN ‘현장토크쇼-택시’에서 12살 연상의 남편과 연애부터 결혼까지 러브스토리를 공개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기은세는 “남편을 놓치면 후회할 것 같아 먼저 프러포즈를 했다”고 고백했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기은세는 2012년 미국에서 띠동갑 연상의 남자친구와 결혼식을 올린 사실이 뒤늦게 전해지며 화제가 된 바 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기은세는 1985년생으로 2007년 영화 '좋은놈 나쁜놈 이상한놈'을 통해 데뷔했고, 많은 팔로워 수를 자랑하는 'SNS 스타' 이다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'택시' 기은세, 호텔이야 집이야? 화려한 인테리어 '럭셔리해'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

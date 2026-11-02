@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277103",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "“23살의 전지현 이른 아침 노메이컵으로 촬영함”",
+		"newsSubTitle": "",
+		"newsContent": "김태환 사진작가가 인스타그램에 올린 전지현 사진이 화제다.\n21일 김태환 작가는 인스타그램에 “23살의 전지현 이른아침 노메이컵으로 촬영함”이라는 메시지와 함께 전지현 사진을 올렸다.\n23세 전지현은 2003년 무렵 지오다노 광고를 찍는 등 전성기를 누릴 때다.\n17세 때인 1997년 패션잡지 ‘에꼴’ 표지 모델로 데뷔한 전지현은 2001년 영화 ‘엽기적인 그녀’로 주목을 받았다.\n김태환 작가는 전지현의 또 다른 사진도 올렸다.\n이번엔 전지현이 왼쪽 귀를 오른쪽 손으로 살짝 만지는 모습이다.\n김 작가는 ‘“오빠 사진 찍어줘” 아직도 선명한 기억. ㅎㅎ’라는 글을 남겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김태환 사진작가가 인스타그램에 올린 전지현 사진이 화제다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 김태환 작가는 인스타그램에 “23살의 전지현 이른아침 노메이컵으로 촬영함”이라는 메시지와 함께 전지현 사진을 올렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23세 전지현은 2003년 무렵 지오다노 광고를 찍는 등 전성기를 누릴 때다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "17세 때인 1997년 패션잡지 ‘에꼴’ 표지 모델로 데뷔한 전지현은 2001년 영화 ‘엽기적인 그녀’로 주목을 받았다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김태환 작가는 전지현의 또 다른 사진도 올렸다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번엔 전지현이 왼쪽 귀를 오른쪽 손으로 살짝 만지는 모습이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김 작가는 ‘“오빠 사진 찍어줘” 아직도 선명한 기억. ㅎㅎ’라는 글을 남겼다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“23살의 전지현 이른 아침 노메이컵으로 촬영함”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

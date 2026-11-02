@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260717",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘런닝맨’ 김종국·양세찬 이어 지석진도 코로나19 확진…하하 자가검사 양성[종합]",
+		"newsSubTitle": "",
+		"newsContent": "SBS 예능 ‘런닝맨’에서 코로나19 확진자가 속출하고 있다. ‘런닝맨’에 출연 중인 개그맨 지석진이 11일 PCR(유전자증폭) 검사 결과 확진 판정을 받았다고 소속사 스카이이엔엠이 밝혔다.\n소속사는 “방역 당국 지침에 따라 일주일간 자가격리에 들어갈 예정”이라며 “지석진은 지난해 11월께 백신 접종을 2차까지 마쳤으며 현재 건강에는 큰 이상이 없다”고 전했다.\n지석진은 ‘런닝맨’ 외에도 LG헬로비전 ‘아이돌 픽크닉’(Pick크닉)에 출연 중이며 MBC에브리원 새 예능 ‘떡볶이집 그 오빠’의 첫 방송을 앞두고 있다.\n지석진과 함께 ‘런닝맨’에 출연하는 하하는 이날 자가검사키트 결과 양성 반응이 나와 PCR 검사를 받고 결과를 기다리고 있다.\n하하 측은 “미열 등 경미한 증상을 느껴 전날에 이어 자가검사키트 검사를 다시 한 결과 양성 반응이 나왔다”고 밝혔다.\n하하도 2차 접종을 마친 것으로 알려졌다.\n하하는 MBC ‘놀면 뭐하니?’, TV조선 ‘국가수’ 등에 출연 중이다. ‘런닝맨’은 김종국, 양세찬에 이어 지석진도 확진 판정을 받고 이어 하하까지 자가검사 양성이 나오는 등 출연자들 코로나19 감염이 이어진고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS 예능 ‘런닝맨’에서 코로나19 확진자가 속출하고 있다. ‘런닝맨’에 출연 중인 개그맨 지석진이 11일 PCR(유전자증폭) 검사 결과 확진 판정을 받았다고 소속사 스카이이엔엠이 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사는 “방역 당국 지침에 따라 일주일간 자가격리에 들어갈 예정”이라며 “지석진은 지난해 11월께 백신 접종을 2차까지 마쳤으며 현재 건강에는 큰 이상이 없다”고 전했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지석진은 ‘런닝맨’ 외에도 LG헬로비전 ‘아이돌 픽크닉’(Pick크닉)에 출연 중이며 MBC에브리원 새 예능 ‘떡볶이집 그 오빠’의 첫 방송을 앞두고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지석진과 함께 ‘런닝맨’에 출연하는 하하는 이날 자가검사키트 결과 양성 반응이 나와 PCR 검사를 받고 결과를 기다리고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하하 측은 “미열 등 경미한 증상을 느껴 전날에 이어 자가검사키트 검사를 다시 한 결과 양성 반응이 나왔다”고 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하하도 2차 접종을 마친 것으로 알려졌다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하하는 MBC ‘놀면 뭐하니?’, TV조선 ‘국가수’ 등에 출연 중이다. ‘런닝맨’은 김종국, 양세찬에 이어 지석진도 확진 판정을 받고 이어 하하까지 자가검사 양성이 나오는 등 출연자들 코로나19 감염이 이어진고 있다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘런닝맨’ 김종국·양세찬 이어 지석진도 코로나19 확진…하하 자가검사 양성[종합]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

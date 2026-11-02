@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269111",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "고액기부자 가입한 박보영 “아이들에게 기쁨되길”",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보영이 어린이날을 앞두고 뜻 있는 기부를 이어갔다.\n서울 사회복지공동모금회(서울 사랑의열매)는 4일 “박보영이 이날 어린이 병원에 기부금을 전달하며 ‘서울 사랑의열매’ 고액 기부자 모임인 아너소사이어티에 가입했다”고 밝혔다.\n박보영은 꾸준히 기부를 이어오는 대표 배우이기도 하다.\n그는 2016년부터 서울특별시어린이병원과 국립암센터 환후 지원, 코로나19 피해 지원을 위해 나눔을 실천하며 서울 사랑의열매에 꾸준히 기부를 이어오고 있다.\n박보영이 가입한 아너 소사이어티는 사회문제에 대한 관심과 이해를 바탕으로 노블레스 오블리주를 실천한 이들이 나열된 개인 고액기부자들 모임이다.\n박보영 외에도 현영, 문근영, 정보석, 소녀시대 멤버 윤아, 김부빈, 다니엘 헤니, 이서진, 이순지, 김나운, 한효주 등이 회원 명단에 이름을 올렸다.\n어린이를 위한 기부금을 전달한 박보영은 “질병으로 고통받는 아이들에게 작은 희망과 기쁨이 됐으면 한다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보영이 어린이날을 앞두고 뜻 있는 기부를 이어갔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울 사회복지공동모금회(서울 사랑의열매)는 4일 “박보영이 이날 어린이 병원에 기부금을 전달하며 ‘서울 사랑의열매’ 고액 기부자 모임인 아너소사이어티에 가입했다”고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박보영은 꾸준히 기부를 이어오는 대표 배우이기도 하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 2016년부터 서울특별시어린이병원과 국립암센터 환후 지원, 코로나19 피해 지원을 위해 나눔을 실천하며 서울 사랑의열매에 꾸준히 기부를 이어오고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박보영이 가입한 아너 소사이어티는 사회문제에 대한 관심과 이해를 바탕으로 노블레스 오블리주를 실천한 이들이 나열된 개인 고액기부자들 모임이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박보영 외에도 현영, 문근영, 정보석, 소녀시대 멤버 윤아, 김부빈, 다니엘 헤니, 이서진, 이순지, 김나운, 한효주 등이 회원 명단에 이름을 올렸다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "어린이를 위한 기부금을 전달한 박보영은 “질병으로 고통받는 아이들에게 작은 희망과 기쁨이 됐으면 한다”고 전했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고액기부자 가입한 박보영 “아이들에게 기쁨되길”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277855",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'분노 유발' 식성으로 부인 38kg만든 남성",
+		"newsSubTitle": "",
+		"newsContent": "26일 방송된 KBS2 '대국민 토크쇼 안녕하세요'에는 심각한 수준의 육식주의 남편이 등장했다.\n남편은 아내에게 화려한 식사 상차림을 강요하며 \\\"사랑하면 그 정도는 해 줄수 있다고 생각한다\\\"고 말해 시청자들의 공분을 샀다.\n스튜디오에 등장한 아내는 비쩍 마른 체형이었다.\n결혼 전보다 10kg가 빠진 아내의 현재 몸무게는 38kg. 토속적인 음식을 좋아하는 아내와 달리 남편은 고기와 햄이 없으면 숟가락을 들지도 않는 철저한 육식주의다.\n아내는 \\\"채소가 밥상에 올라오면 안 먹는 거 알면서 왜 올리느냐고 한다. 김치는 냄새나니까 바닥에 두라고 한다. 햄과 고기만 먹는다. 매 끼니 밥도 새로 해야 하고, 국도 달라야 한다. 푸짐하지 않으면 성의 없다고 생각한다\\\"고 말했다. '안녕하세요' MC들은 남편에게 \\\"왜 고기만 먹느냐\\\"고 물었다.\n남편은 \\\"사람마다 식성이 다르다. (나는) 그것만 먹고도 건강하다\\\"고 뻔뻔하게 답했다.\n\\\"부인을 사랑하면 햄을 바닥에서 먹으면 되지 않냐\\\"는 제안은 단칼에 거부해 시청자들을 허탈하게 만들었다.\n아내는 \\\"한 달에 신랑이 (배달음식을) 시켜먹는 비용만 백만 원이다.아기 신발을 사야 하는데 마이너스다 보니까 살 수가 없다\\\"고 밝혀 안타까움을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "26일 방송된 KBS2 '대국민 토크쇼 안녕하세요'에는 심각한 수준의 육식주의 남편이 등장했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남편은 아내에게 화려한 식사 상차림을 강요하며 \\\"사랑하면 그 정도는 해 줄수 있다고 생각한다\\\"고 말해 시청자들의 공분을 샀다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스튜디오에 등장한 아내는 비쩍 마른 체형이었다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "결혼 전보다 10kg가 빠진 아내의 현재 몸무게는 38kg. 토속적인 음식을 좋아하는 아내와 달리 남편은 고기와 햄이 없으면 숟가락을 들지도 않는 철저한 육식주의다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아내는 \\\"채소가 밥상에 올라오면 안 먹는 거 알면서 왜 올리느냐고 한다. 김치는 냄새나니까 바닥에 두라고 한다. 햄과 고기만 먹는다. 매 끼니 밥도 새로 해야 하고, 국도 달라야 한다. 푸짐하지 않으면 성의 없다고 생각한다\\\"고 말했다. '안녕하세요' MC들은 남편에게 \\\"왜 고기만 먹느냐\\\"고 물었다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "남편은 \\\"사람마다 식성이 다르다. (나는) 그것만 먹고도 건강하다\\\"고 뻔뻔하게 답했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "\\\"부인을 사랑하면 햄을 바닥에서 먹으면 되지 않냐\\\"는 제안은 단칼에 거부해 시청자들을 허탈하게 만들었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아내는 \\\"한 달에 신랑이 (배달음식을) 시켜먹는 비용만 백만 원이다.아기 신발을 사야 하는데 마이너스다 보니까 살 수가 없다\\\"고 밝혀 안타까움을 자아냈다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'분노 유발' 식성으로 부인 38kg만든 남성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

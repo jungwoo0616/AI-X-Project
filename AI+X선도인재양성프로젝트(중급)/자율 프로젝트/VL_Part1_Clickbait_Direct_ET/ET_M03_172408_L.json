@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172408",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'조카 바보' 한지민의 인스타그램 상황",
+    "newsSubTitle": "",
+    "newsContent": "한지민이 조카에 대한 각별한 애정을 드러냈다.\n한지민은 11일 자신의 인스타그램을 통해 조카와 함께 있는 사진을 공개하며 \\\"후우우~ 도깨비 아저씨가 나타날지도 몰라\\\"라는 글을 올렸다.\n공개된 사진 속 한지민은 조카를 애정어린 눈빛으로 바라보고 있다.\n이외에도 한지민은 여러 차례 자신의 인스타그램을 통해 조카 사진을 공개하며 애정을 과시했다.\n심지어 한지민은 자신의 인스타그램 프로필 설명을 \\\"한지민, 로마와 로하의 이모(고모)\\\"라고 영어로 적어놨다.\n로하와 로마는 한지민의 조카 이름이다.\n네티즌들은 \\\"언니 너무 예뻐요, 로마 로하도 예뻐요\\\" \\\"진정한 조카 바보가 탄생했다\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한지민이 조카에 대한 각별한 애정을 드러냈다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한지민은 11일 자신의 인스타그램을 통해 조카와 함께 있는 사진을 공개하며 \\\"후우우~ 도깨비 아저씨가 나타날지도 몰라\\\"라는 글을 올렸다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 한지민은 조카를 애정어린 눈빛으로 바라보고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이외에도 한지민은 여러 차례 자신의 인스타그램을 통해 조카 사진을 공개하며 애정을 과시했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심지어 한지민은 자신의 인스타그램 프로필 설명을 \\\"한지민, 로마와 로하의 이모(고모)\\\"라고 영어로 적어놨다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "로하와 로마는 한지민의 조카 이름이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "네티즌들은 \\\"언니 너무 예뻐요, 로마 로하도 예뻐요\\\" \\\"진정한 조카 바보가 탄생했다\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 한지민, 인스타그램에 사랑 가득, '이 사람' 향한 애정 한가득",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

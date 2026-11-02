@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271427",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘구필수는 없다’ 정동원, 김지영vs김민서와 삼각 러브라인 돌입",
+		"newsSubTitle": "",
+		"newsContent": "정동원을 사이에 둔 중학생들의 삼각관계가 시작된다.\n26일 방송되는 ENA 채널 ‘구필수는 없다’ 8회에서는 구준표(정동원 분), 조안나(김지영 분), 김지현(김민서 분)이 서로 엇갈린 큐피드의 화살을 쏜다.\n힙합이라는 공통 관심사로 만나게 된 구준표(정동원 분)와 조안나(김지영 분)는 버스킹 함께 보기, 노래방 가기, 힙합 크루 작업실 가기 등 함께 시간을 공유하며 매우 가까운 사이가 됐다.\n특히 열다섯 구준표 인생에 조안나라는 첫사랑이 찾아온 뒤, 그의 일상은 온통 조안나로 채워져 있다.\n이렇게 알콩달콩 관계를 이어가고 있는 두 사람 사이에 구준표의 친구이자 모범생 김지현(김민서 분)이 등장하며 흥미진진한 삼각구도가 펼쳐진다.\n지난 7회 방송에서 김지현은 킥보드 탄 사람과 부딪힐 뻔한 자신을 구해준 구준표에게 반해 조안나와 피치 못할 라이벌 관계를 형성하는 것. 이에 김지현은 구준표에게 잘 보이기 위해 노력한다.\n여기에 구필수(곽도원 분)는 단번에 세 사람의 기류를 눈치채고 아들의 연애를 적극적으로 지지하며 응원을 보낸다.\n과연 구준표와 조안나의 관계는 진척이 있을지, 김지현은 조안나에게 쏠려 있는 구준표의 마음을 어떻게 돌릴 것인지 궁금해진다.\n한편, ENA 채널방영 ‘구필수는 없다’ 8회는 오늘(26일) 밤 9시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정동원을 사이에 둔 중학생들의 삼각관계가 시작된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 방송되는 ENA 채널 ‘구필수는 없다’ 8회에서는 구준표(정동원 분), 조안나(김지영 분), 김지현(김민서 분)이 서로 엇갈린 큐피드의 화살을 쏜다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "힙합이라는 공통 관심사로 만나게 된 구준표(정동원 분)와 조안나(김지영 분)는 버스킹 함께 보기, 노래방 가기, 힙합 크루 작업실 가기 등 함께 시간을 공유하며 매우 가까운 사이가 됐다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 열다섯 구준표 인생에 조안나라는 첫사랑이 찾아온 뒤, 그의 일상은 온통 조안나로 채워져 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이렇게 알콩달콩 관계를 이어가고 있는 두 사람 사이에 구준표의 친구이자 모범생 김지현(김민서 분)이 등장하며 흥미진진한 삼각구도가 펼쳐진다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 7회 방송에서 김지현은 킥보드 탄 사람과 부딪힐 뻔한 자신을 구해준 구준표에게 반해 조안나와 피치 못할 라이벌 관계를 형성하는 것. 이에 김지현은 구준표에게 잘 보이기 위해 노력한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 구필수(곽도원 분)는 단번에 세 사람의 기류를 눈치채고 아들의 연애를 적극적으로 지지하며 응원을 보낸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "과연 구준표와 조안나의 관계는 진척이 있을지, 김지현은 조안나에게 쏠려 있는 구준표의 마음을 어떻게 돌릴 것인지 궁금해진다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, ENA 채널방영 ‘구필수는 없다’ 8회는 오늘(26일) 밤 9시에 방송된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘구필수는 없다’ 정동원, 김지영vs김민서와 삼각 러브라인 돌입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

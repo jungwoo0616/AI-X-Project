@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258807",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박나래, 2년만에 ‘코미디리그’ 복귀[공식]",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 박나래가 친정으로 복귀한다.\n박나래 소속사 JDB 엔터테인먼트는 지난 20일 박나래가 tvN 코미디 프로그램 ‘코미디 빅리그’ 녹화에 참여했다고 21일 밝혔다.\n박나래가 출연한 ‘코미디 빅리그’는 오는 23일 방송된다.\n그는 특유의 분쟁 개그를 살린 새 코너를 준비한 것으로 알려졌다.\n그카 이 프로그램에 출연하는 것은 무려 2년 만이다.\n박나래는 “오랜만에 공개 코미디 무대에 복귀해 돼 설레고, 떨리고, 마치 신인으로 돌아간 것처럼 감회가 남달랐다”며 “코로나 팬데믹 시기에 좀처럼 만나기 힘들었던 관객들을 만나 함께 웃으니 저 또한 행복했고, 개그우먼으로서 살아있음을 느끼는 시간이었던 것 같다”고 전했다.\n이어 “관객분들에게 받은 이 좋은 에너지를 건강한 웃음으로 보답할 것이고, 앞으로 더 열심히 웃기고자 노력하겠다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 박나래가 친정으로 복귀한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박나래 소속사 JDB 엔터테인먼트는 지난 20일 박나래가 tvN 코미디 프로그램 ‘코미디 빅리그’ 녹화에 참여했다고 21일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박나래가 출연한 ‘코미디 빅리그’는 오는 23일 방송된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 특유의 분쟁 개그를 살린 새 코너를 준비한 것으로 알려졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그카 이 프로그램에 출연하는 것은 무려 2년 만이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박나래는 “오랜만에 공개 코미디 무대에 복귀해 돼 설레고, 떨리고, 마치 신인으로 돌아간 것처럼 감회가 남달랐다”며 “코로나 팬데믹 시기에 좀처럼 만나기 힘들었던 관객들을 만나 함께 웃으니 저 또한 행복했고, 개그우먼으로서 살아있음을 느끼는 시간이었던 것 같다”고 전했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “관객분들에게 받은 이 좋은 에너지를 건강한 웃음으로 보답할 것이고, 앞으로 더 열심히 웃기고자 노력하겠다”고 했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박나래, 2년만에 ‘코미디리그’ 복귀[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

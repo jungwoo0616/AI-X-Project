@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271772",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "세븐틴 ‘Face the Sun’ 가온차트 22주차 리테일 앨범 1위",
+		"newsSubTitle": "",
+		"newsContent": "세븐틴의 4th Album ‘Face the Sun’이 가온차트 22주차 주간 리테일 앨범차트에서 1위를 차지했다.\n4th Album ‘Face the Sun’은 22주차 주간차트 집계 기간 중 발매 당일인 5월 27일 금요일 오후 11시에 가장 많이 판매됐다.\n세븐틴은 정규 4집 ‘Face the Sun’에 세상에 유일하고도 막대한 영향력을 끼치는 ‘태양’과 같은 존재가 되겠다는 야심을 담았다.\n타이틀곡 ‘HOT’은 힙합 장르에 웨스턴 기타 사운드의 조화가 돋보이는 곡이다.\n주간 리테일 앨범차트 2위는 GOT7 ‘GOT7’, 3위는 강다니엘 ‘The Story (META)’가 차지했다.\n한편, 22주차(2022.05.22~2022.05.28) 일간 리테일 앨범차트에서는 ▲AB6IX (에이비식스) ‘A to B’ (22일) ▲GOT7 ‘GOT7’ (23일) ▲강다니엘 ‘The Story (META)’ (24일) ▲BLANK2Y (블랭키) ‘K2Y I : CONFIDENCE [Thumbs Up]’ (25일) ▲투모로우바이투게더‘minisode 2: Thursday’s Child‘(26일) ▲세븐틴 4th Album’Face the Sun‘(27-28일)이 1위에 랭크됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세븐틴의 4th Album ‘Face the Sun’이 가온차트 22주차 주간 리테일 앨범차트에서 1위를 차지했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4th Album ‘Face the Sun’은 22주차 주간차트 집계 기간 중 발매 당일인 5월 27일 금요일 오후 11시에 가장 많이 판매됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세븐틴은 정규 4집 ‘Face the Sun’에 세상에 유일하고도 막대한 영향력을 끼치는 ‘태양’과 같은 존재가 되겠다는 야심을 담았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타이틀곡 ‘HOT’은 힙합 장르에 웨스턴 기타 사운드의 조화가 돋보이는 곡이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주간 리테일 앨범차트 2위는 GOT7 ‘GOT7’, 3위는 강다니엘 ‘The Story (META)’가 차지했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 22주차(2022.05.22~2022.05.28) 일간 리테일 앨범차트에서는 ▲AB6IX (에이비식스) ‘A to B’ (22일) ▲GOT7 ‘GOT7’ (23일) ▲강다니엘 ‘The Story (META)’ (24일) ▲BLANK2Y (블랭키) ‘K2Y I : CONFIDENCE [Thumbs Up]’ (25일) ▲투모로우바이투게더‘minisode 2: Thursday’s Child‘(26일) ▲세븐틴 4th Album’Face the Sun‘(27-28일)이 1위에 랭크됐다.",
+				"sentenceSize": 274
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐틴 ‘Face the Sun’ 가온차트 22주차 리테일 앨범 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

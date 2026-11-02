@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266351",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "노제 속옷 화보에 팬 “뭐하는거야 얼른 옷 입어요”",
+		"newsSubTitle": "",
+		"newsContent": "노제가 속옷 화보를 공개했다.\n노제는 8일 자신의 사회관계망서비스(SNS) 인스타그램에 화보 사진을 여러 장 공개했다.\n사진 속 노제는 속옷을 착용한 채 카메라를 응시하고 있다.\n그의 가녀리면서도 탄탄한 몸매와 당당한 눈빛이 돋보인다.\n해당 게시물을 본 팬들은 “뭐하는거야 옷입어요 얼른”이라며 그를 단속하는가 하면 “아침부터 코피가 났다. 노제여보 사랑한다”며 긍정적인 반응을 보였다.\n한편 노제는 28일 방송되는 채널A 예능프로그램 ‘청춘스타’에 출연할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "노제가 속옷 화보를 공개했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노제는 8일 자신의 사회관계망서비스(SNS) 인스타그램에 화보 사진을 여러 장 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 노제는 속옷을 착용한 채 카메라를 응시하고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 가녀리면서도 탄탄한 몸매와 당당한 눈빛이 돋보인다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물을 본 팬들은 “뭐하는거야 옷입어요 얼른”이라며 그를 단속하는가 하면 “아침부터 코피가 났다. 노제여보 사랑한다”며 긍정적인 반응을 보였다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 노제는 28일 방송되는 채널A 예능프로그램 ‘청춘스타’에 출연할 예정이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노제 속옷 화보에 팬 “뭐하는거야 얼른 옷 입어요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

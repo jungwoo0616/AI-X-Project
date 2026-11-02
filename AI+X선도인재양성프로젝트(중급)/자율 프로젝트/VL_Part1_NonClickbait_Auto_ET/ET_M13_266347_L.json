@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266347",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘오뚜기 3세’ 함연지 “간만에 행복했어요” 일상 공개",
+		"newsSubTitle": "",
+		"newsContent": "뮤지컬 배우 함연지가 행복한 일상을 공유했다.\n함연지는 7일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 사진 여러 장을 게시했다.\n사진 속 함연지는 친구와 함께 브런치를 즐기고 벚꽃을 구경한 후 사진전을 방문하고 있었다.\n또 그는 스트레칭을 하는 사진과 활짝 웃는 사진도 함께 게시하며 그의 행복한 일상을 공개했다.\n함연지는 사진 마다 “좋은 날. 친구들과 벚꽃구경 후 사진전도 갔다. 간만에 광합성도 하고 맛있는 것도 잔뜩 먹고 행복한 하루였다”며 “저녁에는 오랜만에 스트레칭을 했다. 오늘은 일찍 잘 것이다”는 등의 글을 남겼다.\n한편 함연지는 오뚜기 함영준 회장의 장녀로, 2017년 동갑내기 비연예인과 결혼했다.\n평소 그는 유튜브와 SNS를 통해 일상을 공개했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤지컬 배우 함연지가 행복한 일상을 공유했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "함연지는 7일 자신의 사회관계망서비스(SNS) 인스타그램 스토리를 통해 사진 여러 장을 게시했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 함연지는 친구와 함께 브런치를 즐기고 벚꽃을 구경한 후 사진전을 방문하고 있었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그는 스트레칭을 하는 사진과 활짝 웃는 사진도 함께 게시하며 그의 행복한 일상을 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "함연지는 사진 마다 “좋은 날. 친구들과 벚꽃구경 후 사진전도 갔다. 간만에 광합성도 하고 맛있는 것도 잔뜩 먹고 행복한 하루였다”며 “저녁에는 오랜만에 스트레칭을 했다. 오늘은 일찍 잘 것이다”는 등의 글을 남겼다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 함연지는 오뚜기 함영준 회장의 장녀로, 2017년 동갑내기 비연예인과 결혼했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "평소 그는 유튜브와 SNS를 통해 일상을 공개했다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘오뚜기 3세’ 함연지 “간만에 행복했어요” 일상 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

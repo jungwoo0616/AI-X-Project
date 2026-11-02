@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276661",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'사진이 잘못했네' 소리 나오는 2013 미스코리아 울산 善",
+		"newsSubTitle": "",
+		"newsContent": "2013 미스코리아 울산 진·선·미는 사진 한장으로 인해 억울하다고 할 것이다.\n인터넷 등을 통해 대회 사진이 떠돌며 '울산 도원결의' 등 조롱이 섞인 말들로 불려왔기 때문이다.\n특히 당시 울산 선 유지혜는 순하게 생긴 얼굴과 어울리지 않는 과도한 메이크업을 하고 나타나 눈길을 끌었다.\n최근 온라인 커뮤니티에는 '유지혜 일상 셀카 사진'이라는 제목의 게시글이 올라왔다.\n이에 따르면 유지혜는 인터넷 등을 통해 퍼진 사진과 달리 수수하고 청초한 미모를 자랑한다.\n이를 본 네티즌은 \\\"메이크업과 헤어 담당자가 밉겠다\\\" \\\"예쁘다\\\" 등 반응을 보였다.\n유지혜는 동의과학대학 항공운항과를 졸업한 것으로 알려져 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2013 미스코리아 울산 진·선·미는 사진 한장으로 인해 억울하다고 할 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인터넷 등을 통해 대회 사진이 떠돌며 '울산 도원결의' 등 조롱이 섞인 말들로 불려왔기 때문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 당시 울산 선 유지혜는 순하게 생긴 얼굴과 어울리지 않는 과도한 메이크업을 하고 나타나 눈길을 끌었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 온라인 커뮤니티에는 '유지혜 일상 셀카 사진'이라는 제목의 게시글이 올라왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따르면 유지혜는 인터넷 등을 통해 퍼진 사진과 달리 수수하고 청초한 미모를 자랑한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌은 \\\"메이크업과 헤어 담당자가 밉겠다\\\" \\\"예쁘다\\\" 등 반응을 보였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유지혜는 동의과학대학 항공운항과를 졸업한 것으로 알려져 있다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사진이 잘못했네' 소리 나오는 2013 미스코리아 울산 善",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

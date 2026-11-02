@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264001",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "KT엠모바일, 국내 최초 ‘왓챠’ 무제한 요금제 출시",
+		"newsSubTitle": "",
+		"newsContent": "KT엠모바일이 온라인 동영상 플랫폼(OTT) ‘왓챠’의 월 무료 이용 혜택과 데이터 무제한이 제공되는 왓챠 제휴 요금제 2종을 출시했다.\n출시하는 왓챠 요금제는 ▲모두다 맘껏 11GB+(왓챠베이직, 월 3만5900원) ▲모두다 맘껏 일 5GB+(왓챠베이직, 월 4만1900원) 2종이다.\n해당 요금제는 데이터(기본데이터 소진 후 최대 3~5Mbps속도)와 음성, 문자를 무제한 지원하며, 왓챠베이직(월 7900원)이 매월 무료로 제공된다.\n왓챠베이직 상품은 왓챠 콘텐츠를 최대 FHD 화질로 모바일, TV, PC 등 다양한 기기에서 무제한으로 즐길 수 있다.\n국내 최초 왓챠 서비스의 통신제휴로, 왓챠 무제한 이용권과 KT엠모바일의 무제한 요금제를 결합하여 제공한다.\n왓챠 요금제는 OTT 서비스를 매월 무제한으로 이용 가능하고 통신비는 기존 이통사 OTT 요금제의 절반 수준인 것이 특징이다.\n특히 ‘모두다 맘껏 일 5GB+(왓챠베이직)’는 매일 5GB씩 데이터(기본데이터 소진 후 최대 5Mbps 속도)가 제공되어, 최대 FHD 급 화질의 왓챠 콘텐츠를 부담 없이 이용 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT엠모바일이 온라인 동영상 플랫폼(OTT) ‘왓챠’의 월 무료 이용 혜택과 데이터 무제한이 제공되는 왓챠 제휴 요금제 2종을 출시했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "출시하는 왓챠 요금제는 ▲모두다 맘껏 11GB+(왓챠베이직, 월 3만5900원) ▲모두다 맘껏 일 5GB+(왓챠베이직, 월 4만1900원) 2종이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 요금제는 데이터(기본데이터 소진 후 최대 3~5Mbps속도)와 음성, 문자를 무제한 지원하며, 왓챠베이직(월 7900원)이 매월 무료로 제공된다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "왓챠베이직 상품은 왓챠 콘텐츠를 최대 FHD 화질로 모바일, TV, PC 등 다양한 기기에서 무제한으로 즐길 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내 최초 왓챠 서비스의 통신제휴로, 왓챠 무제한 이용권과 KT엠모바일의 무제한 요금제를 결합하여 제공한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "왓챠 요금제는 OTT 서비스를 매월 무제한으로 이용 가능하고 통신비는 기존 이통사 OTT 요금제의 절반 수준인 것이 특징이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 ‘모두다 맘껏 일 5GB+(왓챠베이직)’는 매일 5GB씩 데이터(기본데이터 소진 후 최대 5Mbps 속도)가 제공되어, 최대 FHD 급 화질의 왓챠 콘텐츠를 부담 없이 이용 가능하다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT엠모바일, 국내 최초 ‘왓챠’ 무제한 요금제 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

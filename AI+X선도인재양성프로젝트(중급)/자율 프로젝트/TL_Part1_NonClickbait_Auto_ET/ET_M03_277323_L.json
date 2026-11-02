@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277323",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"김구라 나쁘지 않다고…\\\" 이휘재 또 난감 발언?",
+		"newsSubTitle": "",
+		"newsContent": "방송인 이휘재가 불편한 진행으로 또다시 구설에 올랐다.\n이휘재는 9일 방송된 KBS 2TV '비타민'에서 김정민에 \\\"김구라씨 같은 사람 나쁘진 않다고 하지 않았냐\\\"며 김구라와의 열애설을 캐물었다.\n김정민은 앞서 불거진 열애설로 한바탕 곤욕을 치른 상황이었다.\n김정민은 \\\"내가 나온 방송을 안 본거냐\\\"라고 발끈하면서도 \\\"나이 많은 이성도 괜찮다고 한 적은 있다. 젊은 여자 방송인들이 김구라를 어렵게 생각하는데 나는 귀엽다고 생각한다\\\"고 답했다.\n이휘재가 \\\"(김구라에게) 이성적인 감정이 없는 거냐\\\"라고 재차 묻자 김정민은 \\\"이휘재나 김구라나 나한테 똑같다\\\"고 일축했다.\n이휘재는 지난해 한 방송사의 시상식에서 거침없는 진행으로 태도 논란에 휩싸인 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 이휘재가 불편한 진행으로 또다시 구설에 올랐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이휘재는 9일 방송된 KBS 2TV '비타민'에서 김정민에 \\\"김구라씨 같은 사람 나쁘진 않다고 하지 않았냐\\\"며 김구라와의 열애설을 캐물었다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김정민은 앞서 불거진 열애설로 한바탕 곤욕을 치른 상황이었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김정민은 \\\"내가 나온 방송을 안 본거냐\\\"라고 발끈하면서도 \\\"나이 많은 이성도 괜찮다고 한 적은 있다. 젊은 여자 방송인들이 김구라를 어렵게 생각하는데 나는 귀엽다고 생각한다\\\"고 답했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이휘재가 \\\"(김구라에게) 이성적인 감정이 없는 거냐\\\"라고 재차 묻자 김정민은 \\\"이휘재나 김구라나 나한테 똑같다\\\"고 일축했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이휘재는 지난해 한 방송사의 시상식에서 거침없는 진행으로 태도 논란에 휩싸인 바 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"김구라 나쁘지 않다고…\\\" 이휘재 또 난감 발언?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

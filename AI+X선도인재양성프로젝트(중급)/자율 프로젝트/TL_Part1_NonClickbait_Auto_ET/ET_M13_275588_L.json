@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275588",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조세호 “너한테 취했어”···발전하는 꼴값",
+		"newsSubTitle": "",
+		"newsContent": "조세호의 ‘꼴값’이 날로 발전하고 있다.\n조세호는 14일 자신의 사회관계망서비스(SNS)에 “나 술 안 취했어. 걱정하지마. 너한테 취한 거뿐이야”라는 글과 함께 사진을 게재했다.\n공개한 사진에서 조세호는 술잔을 들고 카메라를 지그시 응시했다.\n마치 사랑하는 사람을 바라보듯 달콤한 눈빛을 보냈다.\n조세호는 최근 꾸준히 ‘럽스타그램’을 연상하게 하는 글과 사진은 SNS에 올리고 있다.\n이에 열애설이 불거졌으나 소속사에서는 ‘조세호의 꼴값’이라는 제목으로 올린 글의 연장선으로 봐달라고 해명했다.\n이에 조세호의 연애를 진심으로 원한 팬들이 아쉬움을 표현하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "조세호의 ‘꼴값’이 날로 발전하고 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조세호는 14일 자신의 사회관계망서비스(SNS)에 “나 술 안 취했어. 걱정하지마. 너한테 취한 거뿐이야”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 조세호는 술잔을 들고 카메라를 지그시 응시했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마치 사랑하는 사람을 바라보듯 달콤한 눈빛을 보냈다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조세호는 최근 꾸준히 ‘럽스타그램’을 연상하게 하는 글과 사진은 SNS에 올리고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 열애설이 불거졌으나 소속사에서는 ‘조세호의 꼴값’이라는 제목으로 올린 글의 연장선으로 봐달라고 해명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 조세호의 연애를 진심으로 원한 팬들이 아쉬움을 표현하기도 했다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조세호 “너한테 취했어”···발전하는 꼴값",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

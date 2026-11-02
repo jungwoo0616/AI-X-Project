@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263631",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "윤석열 당선인, 요리한다 ‘집사부일체’ 특별편성",
+		"newsSubTitle": "",
+		"newsContent": "SBS가 국민의힘 윤석열 당선인이 출연한 ‘집사부 일체’를 특별편성한다.\nSBS는 예능 프로그램 ‘집사부일체’ 윤석열 편을 오는 11일 오후 11시 10분 특별편성을 확정했다고 이날 밝혔다.\n윤석열 당선인이 제20대 대통령으로 당선된 이후 그가 출연했던 ‘집사부일체’ 방송을 향한 관심이 다시 뜨거워진 것이 특별편성의 이유라고 SBS는 설명했다.\n앞서 ‘집사부일체’는 지난해 9월 제20대 대선 주자들을 연이어 출연시켜왔다.\n당시 방송에서 첫 주자로 나선 윤석열 당선인은 자신의 집 내부를 최초로 공개했고, 출연진들에게 직접 요리를 해주는 등 정치권 모습과 다른 반전 면모를 보였다.\n또한 멤버들에게 “석열이형이라고 불러라”고 말하며 친근한 모습도 보였다.\n이밖에도 대선 출마 결심 계기와 자신을 둘러싼 여러 이슈와 관련해 입장을 내놔 눈길을 끌었다.\n앞서 윤석열이 출연한 ‘집사부일체’ 지난해 9월 19일 방송분은 시청률(닐슨코리아, 전국가구기준)이 전주(3.6%)보다 두 배 넘게 상승한 7.4%를 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS가 국민의힘 윤석열 당선인이 출연한 ‘집사부 일체’를 특별편성한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SBS는 예능 프로그램 ‘집사부일체’ 윤석열 편을 오는 11일 오후 11시 10분 특별편성을 확정했다고 이날 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤석열 당선인이 제20대 대통령으로 당선된 이후 그가 출연했던 ‘집사부일체’ 방송을 향한 관심이 다시 뜨거워진 것이 특별편성의 이유라고 SBS는 설명했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 ‘집사부일체’는 지난해 9월 제20대 대선 주자들을 연이어 출연시켜왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 방송에서 첫 주자로 나선 윤석열 당선인은 자신의 집 내부를 최초로 공개했고, 출연진들에게 직접 요리를 해주는 등 정치권 모습과 다른 반전 면모를 보였다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 멤버들에게 “석열이형이라고 불러라”고 말하며 친근한 모습도 보였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에도 대선 출마 결심 계기와 자신을 둘러싼 여러 이슈와 관련해 입장을 내놔 눈길을 끌었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 윤석열이 출연한 ‘집사부일체’ 지난해 9월 19일 방송분은 시청률(닐슨코리아, 전국가구기준)이 전주(3.6%)보다 두 배 넘게 상승한 7.4%를 기록했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤석열 당선인, 요리한다 ‘집사부일체’ 특별편성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

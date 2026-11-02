@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262669",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "하성운, 26일 ‘Cotton Candy’로 생일파티 연다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 하성운이 팬들과의 특별한 시간을 예고했다.\n소속사 빅플래닛메이드는 3일 공식 보도자료를 통해 하성운이 오는 26일 오후 2시와 7시 서강대 메리홀에서 생일 파티 ‘Cotton Candy’(코튼 캔디)를 개최한다고 밝혔다.\n함께 공개된 포스터 속 하성운은 푸른빛 풍선으로 가득한 공간에서 카메라를 향해 미소를 짓고 있다.\n하성운은 ‘Cotton Candy’를 통해 다채로운 무대 및 이벤트 등을 선사하며, 하늘(HA:NEUL, 팬클럽)과 멋진 추억을 만들 예정이다.\n소속사 측은 “하성운이 오랜만에 팬들과 마주하는 시간인 만큼, 다양한 코너와 알찬 구성으로 꽉 채워 팬들에게 잊을 수 없는 특별한 추억을 안길 것”이라고 밝혔다.\n한편 하성운은 지난해 12월 신생 엔터테인먼트 기업 빅플래닛메이드(Big Planet Made, BPM)와 전속계약을 체결하며 새로운 시작을 알렸다.\n하성운은 ‘Cotton Candy’를 시작으로 2022년 더욱 활발히 활동할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 하성운이 팬들과의 특별한 시간을 예고했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 빅플래닛메이드는 3일 공식 보도자료를 통해 하성운이 오는 26일 오후 2시와 7시 서강대 메리홀에서 생일 파티 ‘Cotton Candy’(코튼 캔디)를 개최한다고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "함께 공개된 포스터 속 하성운은 푸른빛 풍선으로 가득한 공간에서 카메라를 향해 미소를 짓고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하성운은 ‘Cotton Candy’를 통해 다채로운 무대 및 이벤트 등을 선사하며, 하늘(HA:NEUL, 팬클럽)과 멋진 추억을 만들 예정이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사 측은 “하성운이 오랜만에 팬들과 마주하는 시간인 만큼, 다양한 코너와 알찬 구성으로 꽉 채워 팬들에게 잊을 수 없는 특별한 추억을 안길 것”이라고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 하성운은 지난해 12월 신생 엔터테인먼트 기업 빅플래닛메이드(Big Planet Made, BPM)와 전속계약을 체결하며 새로운 시작을 알렸다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하성운은 ‘Cotton Candy’를 시작으로 2022년 더욱 활발히 활동할 계획이다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하성운, 26일 ‘Cotton Candy’로 생일파티 연다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

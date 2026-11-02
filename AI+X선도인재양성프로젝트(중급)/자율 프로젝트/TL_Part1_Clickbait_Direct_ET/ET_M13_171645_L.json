@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171645",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "방탄소년단 뷔 ‘크리스마스트리’ 식지않는 인기",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 멤버 뷔가 빌보드 차트인 기록을 이어가고 있다.\n방탄소년단 팬덤 아미에 따르면 뷔의 개인곡 ‘크리스마스 트리’(Chrismas Tree)는 발매 첫 주 각각 빌보드 ‘글로벌 200’ 차트와 ‘글로벌’(미국 제외) 차트에 각각 52위와 43위로 데뷔한 이래 현재까지 174위, 92위를 기록하며 차트인 성과를 내고 있다.\n이는 일체 음반 프로모션 없이 뷔의 명성과 음악성만으로 기록한 순위여서 남다른 의미를 갖는다.\n이밖에도 해당 곡은 한국 OST 역대 최초로 미국 빌보드 메인 싱글차트 ‘HOT100’에서도 79위를 기록해 한국 남성 솔로(협업 곡 제외)최고 순위를 기록 중이다.\n또한 빌보드 미국 디지털 송 세일즈 차트 한국 솔로곡 최초 1위 데뷔 기록, 빌보드 ‘핫 트렌딩 송’ 차트 방탄소년단 멤버 최초 1위, 한국 솔로 가수 최초 2회 1위 기록을 달성해 막강한 팬덤을 자랑 중이다.\n뷔의 인기는 일본에서도 이어지고 있다.\n일본 빌보드 차트 ‘HOT100’ 차트 29위를 기록해 가수 싸이에 이어 한국 남성 솔로 가수 최고 순위를 달성했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 멤버 뷔가 빌보드 차트인 기록을 이어가고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방탄소년단 팬덤 아미에 따르면 뷔의 개인곡 ‘크리스마스 트리’(Chrismas Tree)는 발매 첫 주 각각 빌보드 ‘글로벌 200’ 차트와 ‘글로벌’(미국 제외) 차트에 각각 52위와 43위로 데뷔한 이래 현재까지 174위, 92위를 기록하며 차트인 성과를 내고 있다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 일체 음반 프로모션 없이 뷔의 명성과 음악성만으로 기록한 순위여서 남다른 의미를 갖는다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이밖에도 해당 곡은 한국 OST 역대 최초로 미국 빌보드 메인 싱글차트 ‘HOT100’에서도 79위를 기록해 한국 남성 솔로(협업 곡 제외)최고 순위를 기록 중이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 빌보드 미국 디지털 송 세일즈 차트 한국 솔로곡 최초 1위 데뷔 기록, 빌보드 ‘핫 트렌딩 송’ 차트 방탄소년단 멤버 최초 1위, 한국 솔로 가수 최초 2회 1위 기록을 달성해 막강한 팬덤을 자랑 중이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뷔의 인기는 일본에서도 이어지고 있다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일본 빌보드 차트 ‘HOT100’ 차트 29위를 기록해 가수 싸이에 이어 한국 남성 솔로 가수 최고 순위를 달성했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방탄소년단 뷔, 빌보드 차트인에 성공... 이것 없이 음악성으로 승부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

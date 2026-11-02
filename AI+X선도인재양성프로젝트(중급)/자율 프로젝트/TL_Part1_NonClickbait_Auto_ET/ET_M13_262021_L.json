@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262021",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "SM엔터, 창사 이래 최대실적 달성, 첫 배당도 실시",
+		"newsSubTitle": "",
+		"newsContent": "SM엔터테인먼트가 지난해 창사 이래 최대 실적을 달성했다.\nSM 엔터테인먼트는 2021년 최대 실적 매출액 7015억원(연결 재무제표 기준)을 달성했다고 24일 밝혔다.\nSM 엔터테인먼트에 따르면 코로나19 팬데믹이 지속된 어려운 경영 환경 속에서도 소속 아티스트들의 음반 판매 호조에 힙입어 전년 대비 20% 이상 매출 신장을 기록했다.\n2020년 당기순손실을 기록했으나 지난해 흑자전환해 성공해 역대 최대 1234억원 당기순이익을 달성했다.\nSM 엔터테인먼트는 이번 최대 실적 달성과 함께 이번에 처음으로 주당 200원의 배당을 이사회에서 결의했다고도 공시했다.\nSM 엔터테인먼트는 “엔터테인먼트 산업을 리딩하는 기업으로 보다 주주친화적인 기업으로 거듭나고자 금번 배당을 결정했다”며 “앞으로 K-POP 팬들과 주주 가치 제고를 위한 활동을 지속적으로 펼쳐나가겠다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SM엔터테인먼트가 지난해 창사 이래 최대 실적을 달성했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SM 엔터테인먼트는 2021년 최대 실적 매출액 7015억원(연결 재무제표 기준)을 달성했다고 24일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SM 엔터테인먼트에 따르면 코로나19 팬데믹이 지속된 어려운 경영 환경 속에서도 소속 아티스트들의 음반 판매 호조에 힙입어 전년 대비 20% 이상 매출 신장을 기록했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2020년 당기순손실을 기록했으나 지난해 흑자전환해 성공해 역대 최대 1234억원 당기순이익을 달성했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SM 엔터테인먼트는 이번 최대 실적 달성과 함께 이번에 처음으로 주당 200원의 배당을 이사회에서 결의했다고도 공시했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SM 엔터테인먼트는 “엔터테인먼트 산업을 리딩하는 기업으로 보다 주주친화적인 기업으로 거듭나고자 금번 배당을 결정했다”며 “앞으로 K-POP 팬들과 주주 가치 제고를 위한 활동을 지속적으로 펼쳐나가겠다”고 했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SM엔터, 창사 이래 최대실적 달성, 첫 배당도 실시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

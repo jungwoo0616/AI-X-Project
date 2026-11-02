@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277309",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'슈돌' 장현성 아들 준우의 '깜짝' 근황",
+		"newsSubTitle": "",
+		"newsContent": "배우 장현성 아들 장준우 군의 근황이 화제를 모으고 있다.\n그는 최근 TV조선 '인생다큐 마이웨이'에 깜짝 출연하며 근황을 전했다.\n준우군은 올해 중학교 2학년이 됐다고 한다.\n준우군은 배우 양택조의 손자기도 하다.\n이날 방송에서는 양택조가 아내와 딸이 살고 있는 제주도를 방문하는 모습이 그려졌다.\n이같은 내용은 14일 한 온라인 커뮤니티에 '슈퍼맨이 돌아왔다 장현성 아들 최근 모습'이라는 제목으로 글이 올라오며 화제가 됐다.\n준우 군은 아버지 장현성과 함께 지난 2013년 KBS '슈퍼맨이 돌아왔다'에 약 10개월 동안 출연한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 장현성 아들 장준우 군의 근황이 화제를 모으고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 최근 TV조선 '인생다큐 마이웨이'에 깜짝 출연하며 근황을 전했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "준우군은 올해 중학교 2학년이 됐다고 한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "준우군은 배우 양택조의 손자기도 하다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송에서는 양택조가 아내와 딸이 살고 있는 제주도를 방문하는 모습이 그려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이같은 내용은 14일 한 온라인 커뮤니티에 '슈퍼맨이 돌아왔다 장현성 아들 최근 모습'이라는 제목으로 글이 올라오며 화제가 됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "준우 군은 아버지 장현성과 함께 지난 2013년 KBS '슈퍼맨이 돌아왔다'에 약 10개월 동안 출연한 바 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'슈돌' 장현성 아들 준우의 '깜짝' 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

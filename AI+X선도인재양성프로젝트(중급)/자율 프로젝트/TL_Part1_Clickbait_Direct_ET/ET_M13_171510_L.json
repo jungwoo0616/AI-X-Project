@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171510",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘이필모♥’ 서수연, 아들 담호군 ‘앙증맞은 꼬마신사’",
+    "newsSubTitle": "",
+    "newsContent": "배우 이필모의 아내 서수연이 1일 SNS에 가족 일상을 공유했다.\n서수연은 “결혼식 끝나고 베이비가 된 이담호.. 무대를 기어다녔.. 이유를 알 수가 없네..”라는 글과 함께 사진들을 올렸다.\n사진 속에는 아들과 함께 지인 결혼식을 찾은 이필모 서수연 부부 모습이 담겨있다.\n담호군은 나비 넥타이에 턱시도까지 입은 앙증맞은 꼬마신사 모습이다.\n서수연은 TV조선 리얼리티 프로그램 ‘연애의 맛’을 통해 만난 이필모와 2019년에 결혼, 슬하에 아들 담호군을 두고 있다.\n서수현은 현재 서울 청담동에 위치한 레스토랑을 운영 중인 것으로 알려졌다",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이필모의 아내 서수연이 1일 SNS에 가족 일상을 공유했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서수연은 “결혼식 끝나고 베이비가 된 이담호.. 무대를 기어다녔.. 이유를 알 수가 없네..”라는 글과 함께 사진들을 올렸다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 아들과 함께 지인 결혼식을 찾은 이필모 서수연 부부 모습이 담겨있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "담호군은 나비 넥타이에 턱시도까지 입은 앙증맞은 꼬마신사 모습이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서수연은 TV조선 리얼리티 프로그램 ‘연애의 맛’을 통해 만난 이필모와 2019년에 결혼, 슬하에 아들 담호군을 두고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서수현은 현재 서울 청담동에 위치한 레스토랑을 운영 중인 것으로 알려졌다",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서수연, 이곳 다녀온 후 SNS에 \"이유를 알 수가 없네”",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

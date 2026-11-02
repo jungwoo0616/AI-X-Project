@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262457",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "브레이브걸스, 14일 컴백[공식]",
+		"newsSubTitle": "",
+		"newsContent": "음원 퀸 브레이브걸스가 오는 14일, 반년 만에 가요계로 컴백한다.\n소속사 브레이브 엔터테인먼트는 공식 SNS 및 브레이브걸스의 공식 SNS를 통해 컴백 날짜가 기재되어 있는 컴백 이미지를 기습 공개하며 컴백 신호탄을 쏘아 올렸다.\n마치 꿈을 꾸는 것 같은 신비한 보랏빛 무드의 이미지가 눈길을 끈다.\n이에 이번 신보를 통해 선보일 브레이브걸스만의 서사와 판타지에 대한 궁금증을 자극하며 컴백에 대한 기대를 한껏 끌어올렸다.\n작년 초, ‘롤린’ 역주행으로 희망의 아이콘으로 급부상한 브레이브걸스는 국내 음원 사이트 차트를 휩쓸며 역주행을 넘어 브레이브걸스 신드롬을 일으켰다.\n이후 지난해 여름 ‘치맛바람’을 발매하고 서머 퀸으로 도약에 성공해 대중들의 많은 사랑을 받았다.\n이어 발매한 미니 5집 리패키지 ‘술버릇’을 통해 더욱 넓어진 음악적 스펙트럼을 자랑하며 K팝 리스너들의 눈길을 끌었던 만큼 이번 신보를 통해 브레이브걸스가 선보일 모습에 귀추가 주목된다.\n한편, 브레이브걸스는 오는 3월 14일 컴백을 확정 짓고 본격적인 컴백 준비에 돌입할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "음원 퀸 브레이브걸스가 오는 14일, 반년 만에 가요계로 컴백한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 브레이브 엔터테인먼트는 공식 SNS 및 브레이브걸스의 공식 SNS를 통해 컴백 날짜가 기재되어 있는 컴백 이미지를 기습 공개하며 컴백 신호탄을 쏘아 올렸다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마치 꿈을 꾸는 것 같은 신비한 보랏빛 무드의 이미지가 눈길을 끈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이번 신보를 통해 선보일 브레이브걸스만의 서사와 판타지에 대한 궁금증을 자극하며 컴백에 대한 기대를 한껏 끌어올렸다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "작년 초, ‘롤린’ 역주행으로 희망의 아이콘으로 급부상한 브레이브걸스는 국내 음원 사이트 차트를 휩쓸며 역주행을 넘어 브레이브걸스 신드롬을 일으켰다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 지난해 여름 ‘치맛바람’을 발매하고 서머 퀸으로 도약에 성공해 대중들의 많은 사랑을 받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 발매한 미니 5집 리패키지 ‘술버릇’을 통해 더욱 넓어진 음악적 스펙트럼을 자랑하며 K팝 리스너들의 눈길을 끌었던 만큼 이번 신보를 통해 브레이브걸스가 선보일 모습에 귀추가 주목된다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 브레이브걸스는 오는 3월 14일 컴백을 확정 짓고 본격적인 컴백 준비에 돌입할 예정이다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브레이브걸스, 14일 컴백[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

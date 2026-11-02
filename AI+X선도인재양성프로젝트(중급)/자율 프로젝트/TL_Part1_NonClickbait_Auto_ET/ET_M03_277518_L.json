@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277518",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'도깨비' 예측글 중 성지가 된 글",
+		"newsSubTitle": "",
+		"newsContent": "온라인 커뮤니티서 \\\"이시각 도깨비 예측 중에 처음으로 맞은\\\"이란 글이 '도깨비' 팬들 사이서 화제다.\n지난 13일 tvN '도깨비'서 이동욱의 과거가 확실히 밝혀졌다.\n공유(김신역)를 죽인 왕여가 바로 이동욱이였던 것, 더군다나 스스로 목숨을 끊은 것으로 밝혀져 시청자들에게 충격을 안겼다.\n그 와중 13일 본방이 방송되기 전 한 네티즌이 쓴 '도깨비' 이동욱의 전생을 추측한 글이 네티즌들 사이서 화제가 되고 있다.\n아래는 추측글 전문. 박중헌은 안 되는데 왕여가 저승사자가 된 이유전생에 큰 죄를 지으면 저승사자가 된다...\n그런데 더 큰 죄를 지은 박중헌도 사람을 두 번이나 차로 치여 죽인 자도 저승사자가 되지 않았는데 왜 왕여는 저승사자가 되었을까.\n아마도 전생에 스스로 자기 생을 거두어 들인 자가 저승사자가 되는 듯. 그렇게 산 자도 죽은 자도 아닌 존재로 수많은 죽음을 지켜보고 인도하며 생에 대해 깨닫게 하려는 신의 벌이자 기회가 아닌지...\n그래서 살아있는 자가 아님에도 집도 필요하고 밥도 먹어야 하고 힘들면 피로해지기도 하는 것은(아닐지) 스스로의 생을 포기한 자들에게 살아 나아가는 것을 배우라는 신의 뜻인 것 같다.\n해당 전문을 읽은 네티즌들은 \\\"진짜 소름이다\\\" \\\"성지글 다녀갑니다\\\"라며 예측글을 칭찬했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "온라인 커뮤니티서 \\\"이시각 도깨비 예측 중에 처음으로 맞은\\\"이란 글이 '도깨비' 팬들 사이서 화제다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 13일 tvN '도깨비'서 이동욱의 과거가 확실히 밝혀졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공유(김신역)를 죽인 왕여가 바로 이동욱이였던 것, 더군다나 스스로 목숨을 끊은 것으로 밝혀져 시청자들에게 충격을 안겼다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그 와중 13일 본방이 방송되기 전 한 네티즌이 쓴 '도깨비' 이동욱의 전생을 추측한 글이 네티즌들 사이서 화제가 되고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아래는 추측글 전문. 박중헌은 안 되는데 왕여가 저승사자가 된 이유전생에 큰 죄를 지으면 저승사자가 된다...",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런데 더 큰 죄를 지은 박중헌도 사람을 두 번이나 차로 치여 죽인 자도 저승사자가 되지 않았는데 왜 왕여는 저승사자가 되었을까.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아마도 전생에 스스로 자기 생을 거두어 들인 자가 저승사자가 되는 듯. 그렇게 산 자도 죽은 자도 아닌 존재로 수많은 죽음을 지켜보고 인도하며 생에 대해 깨닫게 하려는 신의 벌이자 기회가 아닌지...",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그래서 살아있는 자가 아님에도 집도 필요하고 밥도 먹어야 하고 힘들면 피로해지기도 하는 것은(아닐지) 스스로의 생을 포기한 자들에게 살아 나아가는 것을 배우라는 신의 뜻인 것 같다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해당 전문을 읽은 네티즌들은 \\\"진짜 소름이다\\\" \\\"성지글 다녀갑니다\\\"라며 예측글을 칭찬했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'도깨비' 예측글 중 성지가 된 글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

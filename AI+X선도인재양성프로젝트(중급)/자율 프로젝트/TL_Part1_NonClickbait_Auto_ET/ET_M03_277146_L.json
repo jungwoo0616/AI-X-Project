@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277146",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'경호원'에게 손수 사탕 건네는 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "가수 전소미가 경호원 아저씨를 챙기는 훈훈한 장면이 포착됐다.\n지난 14일 유튜브 채널 'smile-wA-'에 '소미 더쇼 MC 퇴근길 직캠'이라는 제목의 동영상이 올라왔다.\n영상 속 전소미는 퇴근하기 전 로비에서 스태프를 기다리고 있었다.\n당시 전소미는 자신을 발견한 팬들을 향해 손을 흔들어 보이는 등 여유로운 모습이었다.\n이후 전소미는 방송국을 지키던 경호원에게 경례로 인사를 하더니 자신의 주머니에서 사탕이 담긴 봉지를 주섬주섬 꺼냈다.\n전소미는 경호원들과 몇마디 안부를 전한 뒤 손수 사탕을 나눠주었다.\n이를 본 네티즌은 \\\"소미 너무 귀엽다\\\" \\\"마음이 참 따듯하다\\\" \\\"스윗한 소미\\\" 등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 전소미가 경호원 아저씨를 챙기는 훈훈한 장면이 포착됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 14일 유튜브 채널 'smile-wA-'에 '소미 더쇼 MC 퇴근길 직캠'이라는 제목의 동영상이 올라왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 전소미는 퇴근하기 전 로비에서 스태프를 기다리고 있었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 전소미는 자신을 발견한 팬들을 향해 손을 흔들어 보이는 등 여유로운 모습이었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 전소미는 방송국을 지키던 경호원에게 경례로 인사를 하더니 자신의 주머니에서 사탕이 담긴 봉지를 주섬주섬 꺼냈다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전소미는 경호원들과 몇마디 안부를 전한 뒤 손수 사탕을 나눠주었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌은 \\\"소미 너무 귀엽다\\\" \\\"마음이 참 따듯하다\\\" \\\"스윗한 소미\\\" 등 반응을 보였다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'경호원'에게 손수 사탕 건네는 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282559",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "삼시세끼 차승원, 참바다가 잡아온 문어로 일품 요리솜씨 뽐내",
+		"newsSubTitle": "",
+		"newsContent": "삼시세끼 차승원 '삼시세끼' 차승원이 참바다씨 유해진이 잡은 문어로 어김없이 요리 솜씨를 발휘했다.\n차승원의 문어초회 요리를 먹은 윤계상은 너무 맛있어 헛웃음을 지을 정도였다.\n27일 오후 방송된 케이블 채널 tvN '삼시세끼-어촌 편2'(이하 '삼시세끼')에서는 만재도 패밀리 유해진, 차승원, 손호준과 게스트 윤계상이 삼시세끼를 해결하는 모습이 그려졌다.\n이날 유해진은 만재도 삼대장 중 하나인 문어를 획득했다.\n이에 차승원은 화려한 요리 실력을 발휘해 문어숙회와 문어초회 요리를 만들었다.\n유해진과 손호준, 윤계상은 문어초회를 먹으며 감탄을 금치 못 했고 윤계상은 이후 제작진과의 인터뷰에서 \\\"어떻게 그런 요리를 할 수 있느냐? 사실 문어초회라고 하면 사서 먹는 요리라고 생각했다\\\"며 차승원의 요리 실력을 인정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼시세끼 차승원 '삼시세끼' 차승원이 참바다씨 유해진이 잡은 문어로 어김없이 요리 솜씨를 발휘했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차승원의 문어초회 요리를 먹은 윤계상은 너무 맛있어 헛웃음을 지을 정도였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "27일 오후 방송된 케이블 채널 tvN '삼시세끼-어촌 편2'(이하 '삼시세끼')에서는 만재도 패밀리 유해진, 차승원, 손호준과 게스트 윤계상이 삼시세끼를 해결하는 모습이 그려졌다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 유해진은 만재도 삼대장 중 하나인 문어를 획득했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 차승원은 화려한 요리 실력을 발휘해 문어숙회와 문어초회 요리를 만들었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유해진과 손호준, 윤계상은 문어초회를 먹으며 감탄을 금치 못 했고 윤계상은 이후 제작진과의 인터뷰에서 \\\"어떻게 그런 요리를 할 수 있느냐? 사실 문어초회라고 하면 사서 먹는 요리라고 생각했다\\\"며 차승원의 요리 실력을 인정했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼시세끼 차승원, 참바다가 잡아온 문어로 일품 요리솜씨 뽐내",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

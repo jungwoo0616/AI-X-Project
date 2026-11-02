@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168296",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유진 동성동본 기태영, '유진 핸드폰도 못쓰게 했다'… 그 이유는?",
+    "newsSubTitle": "",
+    "newsContent": "배우 기태영과 유진의 동성동본 사실이 밝혀져 화제인 가운데 과거 SES의 멤버 슈가 방송에서 기태영 유진 부부를 언급했던 것도 눈길을 끈다.\n과거 슈는 MBC 예능 프로그램 ‘라디오스타’에 출연해 기태영의 유별난 유진 사랑에 대해 설명했다.\n당시 슈는 “유진이 임신했을 때 바다 언니랑 맛있는 거 사준다고 나오라고 했다”라며 말문을 열었다.\n이어서 슈는 “유진이가 못 나온다고 하더라”며 “이유를 묻자 남편이 운전도 못하게 하고 전자파 때문에 휴대전화도 못 쓰게 한다더라”고 폭로했다.\n이후 슈는 “유진이가 침대에서 책만 보느라 허리가 아프다고 하더라”고 덧붙였다.\n한편 기태영은 3일 오후 방송된 KBS2 예능 프로그램 ‘슈퍼맨이 돌아왔다’에 출연해 유진과의 동성동본 사실을 밝혀 관심을 모았다.\n온라인 중앙일보 [사진 MBC '라디오스타']",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 기태영과 유진의 동성동본 사실이 밝혀져 화제인 가운데 과거 SES의 멤버 슈가 방송에서 기태영 유진 부부를 언급했던 것도 눈길을 끈다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 슈는 MBC 예능 프로그램 ‘라디오스타’에 출연해 기태영의 유별난 유진 사랑에 대해 설명했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 슈는 “유진이 임신했을 때 바다 언니랑 맛있는 거 사준다고 나오라고 했다”라며 말문을 열었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어서 슈는 “유진이가 못 나온다고 하더라”며 “이유를 묻자 남편이 운전도 못하게 하고 전자파 때문에 휴대전화도 못 쓰게 한다더라”고 폭로했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 슈는 “유진이가 침대에서 책만 보느라 허리가 아프다고 하더라”고 덧붙였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 기태영은 3일 오후 방송된 KBS2 예능 프로그램 ‘슈퍼맨이 돌아왔다’에 출연해 유진과의 동성동본 사실을 밝혀 관심을 모았다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 MBC '라디오스타']",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SES 슈, 기태영-유진 부부 언급... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

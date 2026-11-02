@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277290",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "안젤라 베이비, 출산 후에도 여전한 미모 과시",
+		"newsSubTitle": "",
+		"newsContent": "안젤라 베이비가 출산 후 처음으로 자신의 SNS를 통해 근황을 공개했다.\n그녀는 자신의 웨이보 계정을 통해 팬들에게 인사하며 출산 후 건강한 모습을 전했다.\n사진 속 안젤라 베이비는 출산 직후라고 믿기 힘든 날씬한 모습으로 사람들의 관심을 끌었다.\n또 사슴 같은 눈망울과 오똑한 콧날로 한 아이의 엄마가 된 이후에도 건재한 미모를 과시했다.\n안젤라 베이비는 중국판 런닝맨 ‘달려라 형제’에서 공식 하차하고 당분간은 육아에 전념한다고 전해졌다.\n그녀는 트위터를 통해 “이번엔 먼저 뛰어, 조만간 돌아갈게”라며 ‘달려라 형제’에 대한 차후 복귀 의지를 내비치기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안젤라 베이비가 출산 후 처음으로 자신의 SNS를 통해 근황을 공개했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그녀는 자신의 웨이보 계정을 통해 팬들에게 인사하며 출산 후 건강한 모습을 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 안젤라 베이비는 출산 직후라고 믿기 힘든 날씬한 모습으로 사람들의 관심을 끌었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 사슴 같은 눈망울과 오똑한 콧날로 한 아이의 엄마가 된 이후에도 건재한 미모를 과시했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안젤라 베이비는 중국판 런닝맨 ‘달려라 형제’에서 공식 하차하고 당분간은 육아에 전념한다고 전해졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그녀는 트위터를 통해 “이번엔 먼저 뛰어, 조만간 돌아갈게”라며 ‘달려라 형제’에 대한 차후 복귀 의지를 내비치기도 했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안젤라 베이비, 출산 후에도 여전한 미모 과시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

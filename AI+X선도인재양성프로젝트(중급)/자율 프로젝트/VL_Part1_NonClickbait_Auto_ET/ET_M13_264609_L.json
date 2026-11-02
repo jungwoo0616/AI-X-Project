@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264609",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "2월 영화 관객, 전월보다 42% 감소",
+		"newsSubTitle": "",
+		"newsContent": "흥행작이 없던 2월 극장 관객 수가 전월 대비 40% 이상 감소한 것으로 집계됐다.\n22일 영화진흥위원회가 발표한 2022년 2월 한국 영화산업 결산 자료에 따르면 지난달 관객 수는 327만 명, 매출액은 309억원으로 집계됐다.\n1월 대비 관객 수는 42.9%(245만 명), 매출액은 44.4%(247억 원) 줄어든 수치다. 1월 말부터 이어진 설 연휴 닷새 중 마지막 이틀(2월 1일∼2일)이 포함됐으나 대목 효과가 크지 않았고, 중순부터는 ‘스파이더맨: 노 웨이 홈’ 기세를 이어나갈 만한 흥행작이 없었던 것으로 분석됐다.\n지난해 같은 달과 비교하면 관객 수는 4.9%(15만 명), 매출액은 7.6%(22억원) 증가했다.\n한국 영화 관객 점유율은 42.1%로 외국 영화(57.9%)보다 15.8%포인트 낮았다.\n지난해 9월부터 6개월 연속 외국 영화에 우위를 내주고 있다.\n하지만 작품별 전체 흥행 순위에서는 한국 영화 ‘해적: 도깨비깃발’이 관객 수 71만 명(매출액 65억원)으로 정상을 차지했다.\n선거 영화인 ‘킹메이커’도 관객 수 44만 명, 매출액 42억원으로 3위에 올랐다.\n톰 홀랜드 주연 액션 영화 ‘언차티드’가 61만 명(매출액 60억원)의 관객을 모아 2위에 이름을 올렸으며, 4위와 5위도 외화인 ‘극장판 주술회전 0’, ‘스파이더맨: 노 웨이 홈’이 각각 차지했다.\n독립·예술영화에서는 미스터리 스릴러 ‘안테벨룸’(6만3천 명)이 흥행 1위에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "흥행작이 없던 2월 극장 관객 수가 전월 대비 40% 이상 감소한 것으로 집계됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 영화진흥위원회가 발표한 2022년 2월 한국 영화산업 결산 자료에 따르면 지난달 관객 수는 327만 명, 매출액은 309억원으로 집계됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1월 대비 관객 수는 42.9%(245만 명), 매출액은 44.4%(247억 원) 줄어든 수치다. 1월 말부터 이어진 설 연휴 닷새 중 마지막 이틀(2월 1일∼2일)이 포함됐으나 대목 효과가 크지 않았고, 중순부터는 ‘스파이더맨: 노 웨이 홈’ 기세를 이어나갈 만한 흥행작이 없었던 것으로 분석됐다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 같은 달과 비교하면 관객 수는 4.9%(15만 명), 매출액은 7.6%(22억원) 증가했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국 영화 관객 점유율은 42.1%로 외국 영화(57.9%)보다 15.8%포인트 낮았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 9월부터 6개월 연속 외국 영화에 우위를 내주고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 작품별 전체 흥행 순위에서는 한국 영화 ‘해적: 도깨비깃발’이 관객 수 71만 명(매출액 65억원)으로 정상을 차지했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "선거 영화인 ‘킹메이커’도 관객 수 44만 명, 매출액 42억원으로 3위에 올랐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "톰 홀랜드 주연 액션 영화 ‘언차티드’가 61만 명(매출액 60억원)의 관객을 모아 2위에 이름을 올렸으며, 4위와 5위도 외화인 ‘극장판 주술회전 0’, ‘스파이더맨: 노 웨이 홈’이 각각 차지했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "독립·예술영화에서는 미스터리 스릴러 ‘안테벨룸’(6만3천 명)이 흥행 1위에 올랐다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "2월 영화 관객, 전월보다 42% 감소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

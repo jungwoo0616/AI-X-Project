@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260934",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "김연아 “도핑 위반한 선수 참가할 수 없어” 도핑 논란 일침",
+		"newsSubTitle": "",
+		"newsContent": "김연아가 도핑 논란을 언급했다.\n14일 오후 김연아는 사회 관계망 서비스(SNS) 통해 러시아 피겨 싱글 선수 카밀라 발리예바의 금지 약물 적발에 관한 생각을 전해 눈길을 끌었다.\n김연아는“Athlete who violate doping cannot compete in the game. This principle must be observed without exception. All players‘efforts and dreams are equally precious””이라고 글을 게재했다.\n내용은‘도핑을 위반한 선수는 경기에 참가할 수 없다.\n이 원칙은 예외 없이 준수되어야 한다.\n모든 선수의 노력과 꿈은 똑같이 소중하다’라는 의미다.\n이는 러시아 피겨 스타 카밀라 발리예바가 금지 약물 적발에도 불구하고 2022 베이징 동계올림픽 여자 피겨스케이팅 싱글 종목에 출전하게 된 것을 지적하는 것으로 보인다.\n14일(한국시각) 스포츠 중재재판소(CAS)는 “발리예바가 2022 베이징 동계올림픽 피겨 싱글 종목에 정상적으로 출전해 경쟁한다”라고 발표했고 발리예바가 만 16세 이하 보호선수에 해당하고 너무 늦게 도핑 양성 반응이 통보됐다는 이유로 IOC 등의 제소를 기각한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김연아가 도핑 논란을 언급했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 오후 김연아는 사회 관계망 서비스(SNS) 통해 러시아 피겨 싱글 선수 카밀라 발리예바의 금지 약물 적발에 관한 생각을 전해 눈길을 끌었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김연아는“Athlete who violate doping cannot compete in the game. This principle must be observed without exception. All players‘efforts and dreams are equally precious””이라고 글을 게재했다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "내용은‘도핑을 위반한 선수는 경기에 참가할 수 없다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 원칙은 예외 없이 준수되어야 한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모든 선수의 노력과 꿈은 똑같이 소중하다’라는 의미다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 러시아 피겨 스타 카밀라 발리예바가 금지 약물 적발에도 불구하고 2022 베이징 동계올림픽 여자 피겨스케이팅 싱글 종목에 출전하게 된 것을 지적하는 것으로 보인다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "14일(한국시각) 스포츠 중재재판소(CAS)는 “발리예바가 2022 베이징 동계올림픽 피겨 싱글 종목에 정상적으로 출전해 경쟁한다”라고 발표했고 발리예바가 만 16세 이하 보호선수에 해당하고 너무 늦게 도핑 양성 반응이 통보됐다는 이유로 IOC 등의 제소를 기각한 것으로 알려졌다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김연아 “도핑 위반한 선수 참가할 수 없어” 도핑 논란 일침",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

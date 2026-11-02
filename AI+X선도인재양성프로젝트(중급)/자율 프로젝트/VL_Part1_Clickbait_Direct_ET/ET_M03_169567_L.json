@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169567",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“아들 낳을 때마다 1억씩 받는다”는 한 미모의 탤런트",
+    "newsSubTitle": "",
+    "newsContent": "배우 김성령(50)의 변함없는 미모 인증 사진이 연일 화제를 모은 가운데 그의 과거 발언이 재조명 되고 있다.\n김성령은 과거 2011년 11월 MBC ‘세바퀴’에 출연해 2세와 관련한 남편과의 비하인드 스토리를 털어놨다.\n개그우먼 이경애가 “김성령이 아들을 낳을 때마다 남편에게 1억씩 받기로 했었다”고 폭로하자 김성령은 “실제로 둘째 낳을 때는 좀 받았다”고 밝혀 주위 출연자들의 부러움을 샀다.\n김성령은 남편 이기수씨와 결혼해 슬하에 두 아들을 두고 있다.\n지난 4일 방송된 tvN ‘명단공개 2016’에 따르면 이기수씨는 연세대학교 체육학과 출신으로, 부산의 한 대형백화점에 위치한 아이스링크를 운영 중이다.\n김성령 부부가 살고 있는 집은 부산 해운대에 위치한 88평형대 최고급 주상복합 아파트다.\n사업체 때문에 남편은 부산에서, 김성령은 아이들과 함께 서울에서 지내고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김성령(50)의 변함없는 미모 인증 사진이 연일 화제를 모은 가운데 그의 과거 발언이 재조명 되고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김성령은 과거 2011년 11월 MBC ‘세바퀴’에 출연해 2세와 관련한 남편과의 비하인드 스토리를 털어놨다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개그우먼 이경애가 “김성령이 아들을 낳을 때마다 남편에게 1억씩 받기로 했었다”고 폭로하자 김성령은 “실제로 둘째 낳을 때는 좀 받았다”고 밝혀 주위 출연자들의 부러움을 샀다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김성령은 남편 이기수씨와 결혼해 슬하에 두 아들을 두고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 4일 방송된 tvN ‘명단공개 2016’에 따르면 이기수씨는 연세대학교 체육학과 출신으로, 부산의 한 대형백화점에 위치한 아이스링크를 운영 중이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김성령 부부가 살고 있는 집은 부산 해운대에 위치한 88평형대 최고급 주상복합 아파트다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사업체 때문에 남편은 부산에서, 김성령은 아이들과 함께 서울에서 지내고 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김성령 멘트가 화제... “아들 낳을 때마다 1억씩 받는다”",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

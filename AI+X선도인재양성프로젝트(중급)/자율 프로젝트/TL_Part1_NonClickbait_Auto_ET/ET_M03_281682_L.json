@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281682",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'컬투쇼' 족욕 전도사 비, \\\"관절염·수족냉증에 비염까지\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'컬투쇼' 비, \\\"족욕, 수족 냉증과 관절염에 탁월\\\" 이쯤되면 족욕 전도사? 가수 비가 관절염에 요통, 비염, 수족냉증까지 갖은 질병에 시달리고 있다고 밝히며, 치료법으로 '족욕'을 추천했다.\n7일 방송된 SBS 파워FM '두 시 탈출 컬투쇼'에는 비가 출연해 근황을 전했다.\n비는 \\\"제가 관절염이 있어요. 춤 많이 추고 액션을 많이 했잖아요\\\"라고 운을 떼며 \\\"허리도 아프고 목도 아파요\\\"라고 말해 주위를 놀라게 했다.\nMC컬투는 우스개로 \\\"비염은 없죠?\\\"라고 묻자, 비는 \\\"저 가득차 있어요. 알레르기성 비염이에요\\\" 답해 웃음을 자아냈다.\n이어 비는 \\\"또 제가 수족냉증이 있어요. 수족냉증과 무릎(관절염)은 만병의 근원이래요\\\"라며 \\\"여러분 손발은 절대 차면 안돼요. 족욕기 분명히 하셔야 됩니다\\\"라고 재차 강조해 웃음을 터트렸다.\n한편, 비는 오는 11일부터 13일까지 콘서트를 열 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'컬투쇼' 비, \\\"족욕, 수족 냉증과 관절염에 탁월\\\" 이쯤되면 족욕 전도사? 가수 비가 관절염에 요통, 비염, 수족냉증까지 갖은 질병에 시달리고 있다고 밝히며, 치료법으로 '족욕'을 추천했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 방송된 SBS 파워FM '두 시 탈출 컬투쇼'에는 비가 출연해 근황을 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비는 \\\"제가 관절염이 있어요. 춤 많이 추고 액션을 많이 했잖아요\\\"라고 운을 떼며 \\\"허리도 아프고 목도 아파요\\\"라고 말해 주위를 놀라게 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC컬투는 우스개로 \\\"비염은 없죠?\\\"라고 묻자, 비는 \\\"저 가득차 있어요. 알레르기성 비염이에요\\\" 답해 웃음을 자아냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 비는 \\\"또 제가 수족냉증이 있어요. 수족냉증과 무릎(관절염)은 만병의 근원이래요\\\"라며 \\\"여러분 손발은 절대 차면 안돼요. 족욕기 분명히 하셔야 됩니다\\\"라고 재차 강조해 웃음을 터트렸다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 비는 오는 11일부터 13일까지 콘서트를 열 예정이다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'컬투쇼' 족욕 전도사 비, \\\"관절염·수족냉증에 비염까지\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

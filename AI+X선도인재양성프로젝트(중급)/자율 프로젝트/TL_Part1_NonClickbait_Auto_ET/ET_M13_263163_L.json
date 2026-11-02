@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263163",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "제국의아이들 문준영, 만취운전+역주행 적발",
+		"newsSubTitle": "",
+		"newsContent": "제국의아이들 멤버 문준영이 만취 음주운전으로 적발된 것으로 전해졌다.\n유튜버 카라큘라에 따르면 문준영은 지난 6일 서울 강남구 언주로 근처에서 음주운전을 한 혐의로 경찰에 적발됐다.\n당시 문준영의 혈중알코올농도는 0.113%로 만취에 해당했다.\n카라큘라는 “K5를 몰던 문준영이 일방통행 역주행을 하던 중 마주친 롤스로이스 차량에 비키라고 클랙슨을 울리더니 자신이 아는 지인이 아니냐며 소리를 질렀다”며 “롤스로이스 차주가 음주운전을 의심해 경찰에 신고했다”고 말했다.\n당시 문준영에게서는 술냄새도 났다고 한다.\n카라큘라가 공개한 영상에서 문준영은 술에 취한 듯 얼굴이 달아오른 상태였고, 담배를 피웠다.\n문준영은 지난 2010년 제국의아이들로 가요계에 데뷔했다.\n문준영은 지난 2018년 이미 한 차례 음주운전으로 적발돼 면허정치 처분을 받은 전례가 있다.\n카라큘라의 주장대로 문준영의 만취 음주운전 적발이 사실이라면, 두 번째 음주운전 사건이 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제국의아이들 멤버 문준영이 만취 음주운전으로 적발된 것으로 전해졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유튜버 카라큘라에 따르면 문준영은 지난 6일 서울 강남구 언주로 근처에서 음주운전을 한 혐의로 경찰에 적발됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 문준영의 혈중알코올농도는 0.113%로 만취에 해당했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카라큘라는 “K5를 몰던 문준영이 일방통행 역주행을 하던 중 마주친 롤스로이스 차량에 비키라고 클랙슨을 울리더니 자신이 아는 지인이 아니냐며 소리를 질렀다”며 “롤스로이스 차주가 음주운전을 의심해 경찰에 신고했다”고 말했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 문준영에게서는 술냄새도 났다고 한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카라큘라가 공개한 영상에서 문준영은 술에 취한 듯 얼굴이 달아오른 상태였고, 담배를 피웠다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "문준영은 지난 2010년 제국의아이들로 가요계에 데뷔했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "문준영은 지난 2018년 이미 한 차례 음주운전으로 적발돼 면허정치 처분을 받은 전례가 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "카라큘라의 주장대로 문준영의 만취 음주운전 적발이 사실이라면, 두 번째 음주운전 사건이 된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제국의아이들 문준영, 만취운전+역주행 적발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

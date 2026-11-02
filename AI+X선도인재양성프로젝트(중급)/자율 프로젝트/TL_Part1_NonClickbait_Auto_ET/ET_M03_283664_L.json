@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283664",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "오마이비너스 신민아, 연인 김우빈 언급 \\\"서로 열심히 응원해줘…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'오마이비너스 신민아' '오마이비너스 신민아 김우빈' 배우 신민아가 연인 김우빈을 언급했다.\n신민아는 11일 오후 서울 영등포구 타임스퀘어에서 열린 KBS 2TV 월화드라마 '오 마이 비너스'(극본 김은지, 연출 김형석, 제작 몽작소) 공동인터뷰에서 \\\"김우빈과 서로 열심히 응원하고 있다\\\"고 말했다.\n신민아는 \\\"각자 배우이기 때문에 서로 열심히 응원해주고 있다. 특별한 것은 없다\\\"고 말했다.\n이어 \\\"신민아 보다는 강주은으로 봐주셨으면 좋겠다\\\"고 덧붙었다.\n한편 '오 마이 비너스'는 21세기 비너스에서 고대 비너스 몸매가 되어 버린 여자 변호사 강주은(신민아 분)과 세계적으로 유명한 헬스트레이너인 남자 김영호(소지섭 분), 극과 극인 두 남녀가 만나 비밀 다이어트에 도전하면서 내면의 상처를 치유하는 과정을 그린 드라마다.\n오는 16일 오후 10시에 첫 방송된다. '오마이비너스 신민아' '오마이비너스 신민아 김우빈' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'오마이비너스 신민아' '오마이비너스 신민아 김우빈' 배우 신민아가 연인 김우빈을 언급했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신민아는 11일 오후 서울 영등포구 타임스퀘어에서 열린 KBS 2TV 월화드라마 '오 마이 비너스'(극본 김은지, 연출 김형석, 제작 몽작소) 공동인터뷰에서 \\\"김우빈과 서로 열심히 응원하고 있다\\\"고 말했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신민아는 \\\"각자 배우이기 때문에 서로 열심히 응원해주고 있다. 특별한 것은 없다\\\"고 말했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"신민아 보다는 강주은으로 봐주셨으면 좋겠다\\\"고 덧붙었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 '오 마이 비너스'는 21세기 비너스에서 고대 비너스 몸매가 되어 버린 여자 변호사 강주은(신민아 분)과 세계적으로 유명한 헬스트레이너인 남자 김영호(소지섭 분), 극과 극인 두 남녀가 만나 비밀 다이어트에 도전하면서 내면의 상처를 치유하는 과정을 그린 드라마다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오는 16일 오후 10시에 첫 방송된다. '오마이비너스 신민아' '오마이비너스 신민아 김우빈' 온라인 중앙일보",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오마이비너스 신민아, 연인 김우빈 언급 \\\"서로 열심히 응원해줘…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285850",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유재환, 몸무게 공개 \\\"69kg→92kg\\\"…'무슨 일이 있었던 거야?'",
+		"newsSubTitle": "",
+		"newsContent": "'라디오쇼' 유재환이 몸무게를 공개해 화제다.\n유재환은 10월 18일 방송된 KBS 라디오 쿨FM '박명수의 라디오쇼'에서 몸무게 질문에 \\\"지금 92kg이다. 1년전에 78kg이었고, 2년전에 69kg이다\\\"고 밝혔다.\n그는 \\\"작업 탓을 하면 안 되지만 당이 떨어지면 뭔가 먹어야 된다는 생각에 잘 먹는다. 또 스트레스도 먹는 것으로 푼다. 일이 있을 때마다 많이 먹는다\\\"고 덧붙였다.\n이에 박명수는 \\\"최근에 왼쪽 불고기 오른쪽 돈가스를 놓고 4인분을 먹고 있었다고 하던데 진짜냐\\\"는 질문에 유재환은 웃음을 터뜨리며 \\\"그렇다. 하나 시키면 배달을 안 해줘서 많이 시켰다. 그날 비가 많이 와서 나가지 못 했다\\\"고 대답했다.\n유재환은 \\\"나도 살을 빼야 한다고 느꼈다. 살이 찌니까 손발이 저리더라. 건강 때문이라도 빼야 한다는 생각을 하고 노력하고 있다\\\"고 털어 놓았다.\n한편 이날 '라디오쇼'에는 MBC '무한도전'에서 박명수 잡는 작곡가로 화제를 모은 유재환이 출연했다.\n온라인 중앙일보 유재환 [사진 유재환 인스타그램 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'라디오쇼' 유재환이 몸무게를 공개해 화제다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유재환은 10월 18일 방송된 KBS 라디오 쿨FM '박명수의 라디오쇼'에서 몸무게 질문에 \\\"지금 92kg이다. 1년전에 78kg이었고, 2년전에 69kg이다\\\"고 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"작업 탓을 하면 안 되지만 당이 떨어지면 뭔가 먹어야 된다는 생각에 잘 먹는다. 또 스트레스도 먹는 것으로 푼다. 일이 있을 때마다 많이 먹는다\\\"고 덧붙였다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 박명수는 \\\"최근에 왼쪽 불고기 오른쪽 돈가스를 놓고 4인분을 먹고 있었다고 하던데 진짜냐\\\"는 질문에 유재환은 웃음을 터뜨리며 \\\"그렇다. 하나 시키면 배달을 안 해줘서 많이 시켰다. 그날 비가 많이 와서 나가지 못 했다\\\"고 대답했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유재환은 \\\"나도 살을 빼야 한다고 느꼈다. 살이 찌니까 손발이 저리더라. 건강 때문이라도 빼야 한다는 생각을 하고 노력하고 있다\\\"고 털어 놓았다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 '라디오쇼'에는 MBC '무한도전'에서 박명수 잡는 작곡가로 화제를 모은 유재환이 출연했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 유재환 [사진 유재환 인스타그램 캡처]",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유재환, 몸무게 공개 \\\"69kg→92kg\\\"…'무슨 일이 있었던 거야?'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

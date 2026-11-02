@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281073",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "검찰, '대리기사 폭행' 김현 의원 징역 1년 구형",
+		"newsSubTitle": "",
+		"newsContent": "대리운전 기사를 폭행한 혐의로 재판에 넘겨진 김현(50) 새정치민주연합 김현 의원이 징역형을 구형받았다.\n서울남부지법 형사4단독(곽경평 판사) 심리로 열린 결심공판에서 “(김 의원은) 최초 언쟁 때 주도적으로 항의하고 진로방해를 했다. 일련의 사건을 일으킨 장본인”이라고 구형 이유를 밝혔다.\n검찰은 \\\"세월호 유가족으로서 지닌 아픔을 충분히 공감하지만 그 이유로 대리기사나 일반 시민에게 무차별 폭행을 가하는 것은 정당하지 않다\\\"며 \\\"범행 현장 주변 CCTV(폐쇄회로TV) 분석 결과 폭행 정황이 충분히 나타난다\\\"고 밝혔다.\n검찰은 김병권 세월호 가족대책위원회 전 위원장과 김형기 전 수석부위원장에게는 각각 징역 2년을, 한상철 전 대외협력분과 부위원장과 이용기 전 장례지원분과 간사 등에게는 각각 징역 1년을 구형했다.\n김 의원과 세월호 유가족들은 지난해 9월 서울 여의도 KBS별관 인근에서 술을 마신 뒤 새벽에 대리기사 이모 씨와 시비가 붙어 다투다가 이씨와 행인 2명을 폭행한 혐의(공동폭행 등)로 기소됐다.\n김 의원 등에 대한 선고 공판은 내년 1월 25일 오후 2시에 열린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대리운전 기사를 폭행한 혐의로 재판에 넘겨진 김현(50) 새정치민주연합 김현 의원이 징역형을 구형받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울남부지법 형사4단독(곽경평 판사) 심리로 열린 결심공판에서 “(김 의원은) 최초 언쟁 때 주도적으로 항의하고 진로방해를 했다. 일련의 사건을 일으킨 장본인”이라고 구형 이유를 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "검찰은 \\\"세월호 유가족으로서 지닌 아픔을 충분히 공감하지만 그 이유로 대리기사나 일반 시민에게 무차별 폭행을 가하는 것은 정당하지 않다\\\"며 \\\"범행 현장 주변 CCTV(폐쇄회로TV) 분석 결과 폭행 정황이 충분히 나타난다\\\"고 밝혔다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "검찰은 김병권 세월호 가족대책위원회 전 위원장과 김형기 전 수석부위원장에게는 각각 징역 2년을, 한상철 전 대외협력분과 부위원장과 이용기 전 장례지원분과 간사 등에게는 각각 징역 1년을 구형했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김 의원과 세월호 유가족들은 지난해 9월 서울 여의도 KBS별관 인근에서 술을 마신 뒤 새벽에 대리기사 이모 씨와 시비가 붙어 다투다가 이씨와 행인 2명을 폭행한 혐의(공동폭행 등)로 기소됐다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김 의원 등에 대한 선고 공판은 내년 1월 25일 오후 2시에 열린다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "검찰, '대리기사 폭행' 김현 의원 징역 1년 구형",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

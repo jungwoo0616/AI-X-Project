@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277071",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'뱀파이어에서 강아지로…' 이미지 변신한 이수혁 근황",
+		"newsSubTitle": "",
+		"newsContent": "모델 겸 배우 이수혁(29)이 한층 순해진 외모 변화로 눈길을 끌었다.\n이수혁은 27일 오후 서울 강남구 분더샵 청담점에서 열린 '생 로랑 by 안토니 바카렐로' 켈렉션 런칭기념 팝업스토어 오픈행사에 참석했다.\n이날 이수혁은 검은 도트 무늬 셔츠에 스트라이프 정장 재킷을 매치했다.\n그는 '뱀파이어'라는 별칭에서도 알 수 있듯 차가운 인상과 '퇴폐미'가 특징이었다.\n하지만 이날 행사에서 그는 하얀 피부와 앞머리를 내린 스타일링 덕분인지 강아지같이 순하고 부드러운 인상으로 모두를 주목시켰다.\n이를 본 네티즌은 전에 비해 따뜻한 인상으로 변한 이수혁의 외모 변화를 지적했다.\n한 네티즌은 \\\"멍뭉이가 돼버렸네\\\"라며 순해진 그의 인상을 언급했고, 또 다른 네티즌은 \\\"보호해주고 싶은 강아지 같다\\\"며 신기해했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 겸 배우 이수혁(29)이 한층 순해진 외모 변화로 눈길을 끌었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수혁은 27일 오후 서울 강남구 분더샵 청담점에서 열린 '생 로랑 by 안토니 바카렐로' 켈렉션 런칭기념 팝업스토어 오픈행사에 참석했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이수혁은 검은 도트 무늬 셔츠에 스트라이프 정장 재킷을 매치했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 '뱀파이어'라는 별칭에서도 알 수 있듯 차가운 인상과 '퇴폐미'가 특징이었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 이날 행사에서 그는 하얀 피부와 앞머리를 내린 스타일링 덕분인지 강아지같이 순하고 부드러운 인상으로 모두를 주목시켰다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌은 전에 비해 따뜻한 인상으로 변한 이수혁의 외모 변화를 지적했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 네티즌은 \\\"멍뭉이가 돼버렸네\\\"라며 순해진 그의 인상을 언급했고, 또 다른 네티즌은 \\\"보호해주고 싶은 강아지 같다\\\"며 신기해했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'뱀파이어에서 강아지로…' 이미지 변신한 이수혁 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

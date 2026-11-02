@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276010",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "“‘우영우’는 제2의 ‘오징어 게임’”",
+		"newsSubTitle": "",
+		"newsContent": "미국 CNN이 한국 드라마 ‘이상한 변호사 우영우’를 주목했다.\nCNN은 지난 20일(현지 시각) 보도에서 ENA 수목드라마 ‘이상한 변호사 우영우(이하 우영우)’가 넷플릭스에서 인기를 끌고 있다며 “우영우가 투자자들에게 제2의 ‘오징어게임’과 같은 성공을 거둘지 모른다는 희망을 안겼다”고 밝혔다.\n매체는 “최고 로펌 신입사원이자 자폐 스펙트럼의 여성이 등장하는 ‘우영우’가 지난 2주 동안 스트리밍 플랫폼에서 1위를 차지했다”면서 “히트작 ‘킹덤’ 으로 유명한 한국드라마 제작사 에이스토리에게 좋은 소식”이라고 보도했다.\n에이스토리 주가는 지난 6월 말 ‘우영우’ 방송 이후 74% 급등했다.\n매체는“‘우영우’의 상승세는 오리지널 국제 콘텐츠를 제작해 해외 성장 전망에 기대고 있는 넷플릭스에게도 좋은 징조”라면서 “지난해 ‘오징어게임’이 글로벌 최고의 쇼로 등극한 이후 넷플릭스에게 한국 인기 오리지널 콘텐츠는 특히 중요하다”고 밝혔다.\n한편, ‘우영우’는 넷플릭스가 집계해 발표하는 ‘글로벌 톱 10’ 차트에서 지난 4일~17일 2주간 비영어권 드라마 부문 1위, 누적 시청 6953만 시간을 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 CNN이 한국 드라마 ‘이상한 변호사 우영우’를 주목했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CNN은 지난 20일(현지 시각) 보도에서 ENA 수목드라마 ‘이상한 변호사 우영우(이하 우영우)’가 넷플릭스에서 인기를 끌고 있다며 “우영우가 투자자들에게 제2의 ‘오징어게임’과 같은 성공을 거둘지 모른다는 희망을 안겼다”고 밝혔다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매체는 “최고 로펌 신입사원이자 자폐 스펙트럼의 여성이 등장하는 ‘우영우’가 지난 2주 동안 스트리밍 플랫폼에서 1위를 차지했다”면서 “히트작 ‘킹덤’ 으로 유명한 한국드라마 제작사 에이스토리에게 좋은 소식”이라고 보도했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에이스토리 주가는 지난 6월 말 ‘우영우’ 방송 이후 74% 급등했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매체는“‘우영우’의 상승세는 오리지널 국제 콘텐츠를 제작해 해외 성장 전망에 기대고 있는 넷플릭스에게도 좋은 징조”라면서 “지난해 ‘오징어게임’이 글로벌 최고의 쇼로 등극한 이후 넷플릭스에게 한국 인기 오리지널 콘텐츠는 특히 중요하다”고 밝혔다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, ‘우영우’는 넷플릭스가 집계해 발표하는 ‘글로벌 톱 10’ 차트에서 지난 4일~17일 2주간 비영어권 드라마 부문 1위, 누적 시청 6953만 시간을 기록했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“‘우영우’는 제2의 ‘오징어 게임’”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

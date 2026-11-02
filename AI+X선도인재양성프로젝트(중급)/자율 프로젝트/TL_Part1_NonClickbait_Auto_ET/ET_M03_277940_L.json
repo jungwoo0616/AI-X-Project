@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277940",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'신하균과 열애' 김고은 SNS 보니…스킨스쿠버복 속 볼륨감 폭발",
+		"newsSubTitle": "",
+		"newsContent": "배우 신하균이 김고은이 열애설에 휩싸였다.\n24일 한 매체는 신하균과 김고은이 열애 중이라고 보도했다.\n신하균과 김고은은 17살 차이다.\n보도에 따르면 신하균과 김고은은 영화계 선후배 사이로 지내다 함께 스킨스쿠버 모임에 활동하며 연인으로 발전한 것으로 알려졌다.\n이에 과거 SNS 사진이 다시 주목받고 있다.\n사진 속 김고은은 스쿠버복 속 아래에서 볼륨감 넘치는 몸매를 자랑한다.\n신하균과 김고은은 현재 호두앤유엔터테인먼트 소속사 식구로, 최근에는 한 식당에서 데이트를 즐긴 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 신하균이 김고은이 열애설에 휩싸였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 한 매체는 신하균과 김고은이 열애 중이라고 보도했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신하균과 김고은은 17살 차이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보도에 따르면 신하균과 김고은은 영화계 선후배 사이로 지내다 함께 스킨스쿠버 모임에 활동하며 연인으로 발전한 것으로 알려졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 과거 SNS 사진이 다시 주목받고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진 속 김고은은 스쿠버복 속 아래에서 볼륨감 넘치는 몸매를 자랑한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신하균과 김고은은 현재 호두앤유엔터테인먼트 소속사 식구로, 최근에는 한 식당에서 데이트를 즐긴 것으로 알려졌다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'신하균과 열애' 김고은 SNS 보니…스킨스쿠버복 속 볼륨감 폭발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

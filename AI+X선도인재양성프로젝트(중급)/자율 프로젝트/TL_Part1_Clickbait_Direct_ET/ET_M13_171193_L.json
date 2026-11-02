@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171193",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "오마이걸 유아, 블랙 시스루X치명적인 섹시 꽃받침",
+    "newsSubTitle": "",
+    "newsContent": "오마이걸 유아, 블랙 시스루 X섹시 꽃받침 유아는 19일 자신의 SNS 인스타그램에 검은색 하트 모양 이모티콘과 함께 여러 장의 사진을 게재했다.\n공개된 사진에는 얇은 검정색 시스루 미니 원피스를 입고 다양한 포즈를 취하고 있는 유아가 담겼다.\n유아는 턱을 괴고 치명적인 눈빛을 발사하는가 하면, 긴 생머리를 늘어뜨리고 카메라를 응시하며 섹시한 매력을 드러냈다.\n특히 유아가 의자에서 일어나자 짧은 레이스업 미니원피스는 시선을 강탈했다.\n마지막 사진에서는 얼굴을 찡그리며 미소를 지어 러블리한 매력을 자랑했다.\n누리꾼들은 “섹시 유아” “섹시하고 귀엽고 혼자 다하네” “눈빛이 몽환적” “여신이다” 등의 반응을 보였다.\n오마이걸은 지난 2015년 데뷔해 ‘살짝 설렜어’ 돌핀(Dolphin)’ 등 히트곡을 내며 대세 걸그룹으로 거듭났다. 지난 5월에는 ‘던던댄스(Dun Dun Dance)’로 활동하며 음원 강자로서의 면모를 이어갔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오마이걸 유아, 블랙 시스루 X섹시 꽃받침 유아는 19일 자신의 SNS 인스타그램에 검은색 하트 모양 이모티콘과 함께 여러 장의 사진을 게재했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공개된 사진에는 얇은 검정색 시스루 미니 원피스를 입고 다양한 포즈를 취하고 있는 유아가 담겼다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유아는 턱을 괴고 치명적인 눈빛을 발사하는가 하면, 긴 생머리를 늘어뜨리고 카메라를 응시하며 섹시한 매력을 드러냈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 유아가 의자에서 일어나자 짧은 레이스업 미니원피스는 시선을 강탈했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마지막 사진에서는 얼굴을 찡그리며 미소를 지어 러블리한 매력을 자랑했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "누리꾼들은 “섹시 유아” “섹시하고 귀엽고 혼자 다하네” “눈빛이 몽환적” “여신이다” 등의 반응을 보였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오마이걸은 지난 2015년 데뷔해 ‘살짝 설렜어’ 돌핀(Dolphin)’ 등 히트곡을 내며 대세 걸그룹으로 거듭났다. 지난 5월에는 ‘던던댄스(Dun Dun Dance)’로 활동하며 음원 강자로서의 면모를 이어갔다.",
+        "sentenceSize": 120
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오마이걸 유아가 '이곳'에서 일어나자마자 벌어진 일은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

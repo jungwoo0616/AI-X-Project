@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264550",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "나인우 JTBC ‘클리닝업’ 출연확정[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 나인우가 새 드라마로 돌아온다.\n소속사 큐브엔터테인먼트는 22일 나인우가 JTBC 새 토일드라마 ‘클리닝업’에 출연한다고 밝혔다. ‘클리닝업’은 우연히 듣게 된 내부자거래 정보로 주식 전쟁에 뛰어든 증권사 미화원의 예측불허 인생 상한가 도전기로 나인우는 극 중 나인우는 ‘어용미’(염정아) 집에 세 든 박사과정 하숙생 ‘두영’을 연기한다.\n두영은 기계, 전기 관련 지식에 능하고 손재주 있는 인물로 무엇보다 심성이 따뜻해 일면식이 있는 주변인으로부터 열렬한 지지를 받는다.\n나인우의 순수함과 해맑음이 무해한 두영과 시너지를 일으키며 매력적인 캐릭터가 탄생할 전망이다.\n나인우는 지난해 종영한 KBS2 ‘달이 뜨는 강’에서 순수하고 청렴한 ‘온달’ 역을 맡아 시청자들에게 눈도장을 찍었다.\n현재는 KBS2 ‘1박 2일’ 예능 프로그램 고정 출연을 맡아 밝고 엉뚱한 에너지를 보여주며 ‘만능 엔터테이너’ 면모를 입증하고 있다.\n한편 나인우가 출연을 확정 지은 JTBC 새 토일드라마 ‘클리닝업’은 오는 상반기 방송을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 나인우가 새 드라마로 돌아온다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 큐브엔터테인먼트는 22일 나인우가 JTBC 새 토일드라마 ‘클리닝업’에 출연한다고 밝혔다. ‘클리닝업’은 우연히 듣게 된 내부자거래 정보로 주식 전쟁에 뛰어든 증권사 미화원의 예측불허 인생 상한가 도전기로 나인우는 극 중 나인우는 ‘어용미’(염정아) 집에 세 든 박사과정 하숙생 ‘두영’을 연기한다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두영은 기계, 전기 관련 지식에 능하고 손재주 있는 인물로 무엇보다 심성이 따뜻해 일면식이 있는 주변인으로부터 열렬한 지지를 받는다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나인우의 순수함과 해맑음이 무해한 두영과 시너지를 일으키며 매력적인 캐릭터가 탄생할 전망이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "나인우는 지난해 종영한 KBS2 ‘달이 뜨는 강’에서 순수하고 청렴한 ‘온달’ 역을 맡아 시청자들에게 눈도장을 찍었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재는 KBS2 ‘1박 2일’ 예능 프로그램 고정 출연을 맡아 밝고 엉뚱한 에너지를 보여주며 ‘만능 엔터테이너’ 면모를 입증하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 나인우가 출연을 확정 지은 JTBC 새 토일드라마 ‘클리닝업’은 오는 상반기 방송을 앞두고 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나인우 JTBC ‘클리닝업’ 출연확정[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

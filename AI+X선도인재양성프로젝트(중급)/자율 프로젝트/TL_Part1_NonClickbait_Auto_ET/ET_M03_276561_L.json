@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276561",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘코가 많이 닮았다’는 송강호 아들이 아버지를 바라보고 쓴 글",
+		"newsSubTitle": "",
+		"newsContent": "영화배우 송강호 아들인 축구선수 송준평(21·수원 삼성) 근황이 온라인에서 화제다.\n최근 송강호가 출연한 영화 ‘택시운전사’가 개봉하면서 송준평도 관심을 받고 있다.\n송강호는 최근 아들과 함께 공동 인터뷰를 진행하기도 했다.\n16세 이하(U-16) 국가대표 출신인 송준평은 K리그 클래식 수원 산하 매탄고와 연세대를 거쳐 올해 수원과 프로 선수 계약을 맺었다.\n송준평은 지난 5월 백상예술대상에서 아버지가 영화 부문 남자 최우수 연기상을 받자 자신의 인스타그램에 “존경하고 자랑스러운”이라는 글을 남기기도 했다.\n네티즌들은 “코가 똑같다” “샤이니 키가 보인다”라는 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화배우 송강호 아들인 축구선수 송준평(21·수원 삼성) 근황이 온라인에서 화제다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 송강호가 출연한 영화 ‘택시운전사’가 개봉하면서 송준평도 관심을 받고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송강호는 최근 아들과 함께 공동 인터뷰를 진행하기도 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "16세 이하(U-16) 국가대표 출신인 송준평은 K리그 클래식 수원 산하 매탄고와 연세대를 거쳐 올해 수원과 프로 선수 계약을 맺었다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송준평은 지난 5월 백상예술대상에서 아버지가 영화 부문 남자 최우수 연기상을 받자 자신의 인스타그램에 “존경하고 자랑스러운”이라는 글을 남기기도 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 “코가 똑같다” “샤이니 키가 보인다”라는 반응을 보이고 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘코가 많이 닮았다’는 송강호 아들이 아버지를 바라보고 쓴 글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

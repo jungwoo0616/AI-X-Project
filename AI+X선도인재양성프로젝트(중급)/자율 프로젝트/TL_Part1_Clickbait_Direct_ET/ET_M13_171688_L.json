@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171688",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송강, 클래식한 멋[화보]",
+    "newsSubTitle": "",
+    "newsContent": "로맨스, 휴먼, 액션 등 전방위 활약을 선보이고 있는 배우 송강의 화보가 공개됐다.\n세계 최고의 주얼리 & 워치 메종 까르띠에(Cartier)가 배우 송강과 함께한 GQ 3월 호 화보를 공개했다.\n빼어난 비주얼은 물론 뛰어난 연기력으로 대세 배우 반열에 합류한 송강은 까르띠에의 아이콘(ICON) 컬렉션을 완벽히 소화하며 다시 한번 팬들의 이목을 집중시켰다 그는 한층 성숙해진 눈빛으로 부드러운 매력을 자아내며 화보 장인 다운 면모를 드러냈다.\n심플하고 클래식한 스타일의 카리스마를 뽐낸 송강은 주얼리와 워치를 포인트 아이템으로 매치하는 스타일리시함도 뽐내 보였다.\n화보 속 송강은 현대적이면서도 클래식한 매력을 선사하며 변치 않는 아름다움을 자랑해 데일리 아이템으로 꾸준한 인기를 얻고 있다.\n한편, 현재 방영 중인JTBC 토, 일 드라마 ‘기상청 사람들 : 사내연애 잔혹사 편’에서 주인공 이시우 역을 맡은 송강은 기상청을 배경으로 한 신선한 오피스 라이프부터 사내 연애 속 직진 연하남의 모습까지 자유자재로 소화하며 시청자들에게 호평 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "로맨스, 휴먼, 액션 등 전방위 활약을 선보이고 있는 배우 송강의 화보가 공개됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세계 최고의 주얼리 & 워치 메종 까르띠에(Cartier)가 배우 송강과 함께한 GQ 3월 호 화보를 공개했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빼어난 비주얼은 물론 뛰어난 연기력으로 대세 배우 반열에 합류한 송강은 까르띠에의 아이콘(ICON) 컬렉션을 완벽히 소화하며 다시 한번 팬들의 이목을 집중시켰다 그는 한층 성숙해진 눈빛으로 부드러운 매력을 자아내며 화보 장인 다운 면모를 드러냈다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심플하고 클래식한 스타일의 카리스마를 뽐낸 송강은 주얼리와 워치를 포인트 아이템으로 매치하는 스타일리시함도 뽐내 보였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "화보 속 송강은 현대적이면서도 클래식한 매력을 선사하며 변치 않는 아름다움을 자랑해 데일리 아이템으로 꾸준한 인기를 얻고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 현재 방영 중인JTBC 토, 일 드라마 ‘기상청 사람들 : 사내연애 잔혹사 편’에서 주인공 이시우 역을 맡은 송강은 기상청을 배경으로 한 신선한 오피스 라이프부터 사내 연애 속 직진 연하남의 모습까지 자유자재로 소화하며 시청자들에게 호평 받고 있다.",
+        "sentenceSize": 143
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "까르띠에의 아이콘 컬렉션 완벽 소화해 대세 배우로서의 면모 과시한 '이 사람'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

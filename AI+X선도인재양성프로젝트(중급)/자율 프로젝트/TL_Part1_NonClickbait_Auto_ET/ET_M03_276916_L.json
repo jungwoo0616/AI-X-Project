@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276916",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘젖병에 우유 먹여주는 여자’ 스윙스 이상형 화제",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 스윙스(문지훈·31)가 모델 임보라(22)와 열애를 인정한 가운데 스윙스가 자서전을 통해 밝힌 이상형이 화제다.\n스윙스는 최근 모델 임보라와 열애설에 휘말리자 자신의 SNS를 통해 “그래도 너무 사랑스럽지 않아요?”라고 말하며 스스로 열애를 인정했다.\n스윙스의 열애 인정 후 각종 온라인 게시판에 ‘스윙스 이상형’이라는 제목의 게시물이 게재됐다.\n이 게시물은 3월 한 네티즌이 스윙스의 2014년 자서전 ‘파워’의 일부를 캡처한 것으로 스윙스는 이상형에 대해 언급했다.\n이에 따르면 스윙스는 자서전에서 “모성애 강하고, 책 좋아하고, 영화 좋아하고, 나한테만 여우고, 웃음소리 귀엽고, 내 똥배 사랑하고, 내 음악 좋아하고, 시키면 안 하지만 요리 그래도 잘하고, 개 좋아하고, 물질만능주의적이지 않고”라고 이상형을 열거했다.\n그는 이어 “가끔 아기 취급해줘야 하고, 배 또 만져줘야 하고, 젖병에 따뜻한 우유 넣어서 먹여주면 완벽할 듯”이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 스윙스(문지훈·31)가 모델 임보라(22)와 열애를 인정한 가운데 스윙스가 자서전을 통해 밝힌 이상형이 화제다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스윙스는 최근 모델 임보라와 열애설에 휘말리자 자신의 SNS를 통해 “그래도 너무 사랑스럽지 않아요?”라고 말하며 스스로 열애를 인정했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스윙스의 열애 인정 후 각종 온라인 게시판에 ‘스윙스 이상형’이라는 제목의 게시물이 게재됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 게시물은 3월 한 네티즌이 스윙스의 2014년 자서전 ‘파워’의 일부를 캡처한 것으로 스윙스는 이상형에 대해 언급했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따르면 스윙스는 자서전에서 “모성애 강하고, 책 좋아하고, 영화 좋아하고, 나한테만 여우고, 웃음소리 귀엽고, 내 똥배 사랑하고, 내 음악 좋아하고, 시키면 안 하지만 요리 그래도 잘하고, 개 좋아하고, 물질만능주의적이지 않고”라고 이상형을 열거했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 이어 “가끔 아기 취급해줘야 하고, 배 또 만져줘야 하고, 젖병에 따뜻한 우유 넣어서 먹여주면 완벽할 듯”이라고 덧붙였다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘젖병에 우유 먹여주는 여자’ 스윙스 이상형 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

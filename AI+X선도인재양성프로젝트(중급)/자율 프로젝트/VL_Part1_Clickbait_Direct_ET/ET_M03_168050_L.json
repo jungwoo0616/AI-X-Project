@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168050",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"이제는 말할 수 있다\\\" 티아라 전 스타일리스트의 폭로",
+    "newsSubTitle": "",
+    "newsContent": "스타일리스트 김우리가 걸그룹 '티아라' 출신 배우 화영(23·류화영)의 왕따 논란에 얽힌 비화를 전했다.\n지난 13일 방송된 채널A '풍문으로 들었쇼'에서는 최근까지 네티즌의 입에 오르내렸던 티아라와 화영간의 왕따 논란에 대한 내용이 다뤄졌다.\n과거 티아라 스타일리스트로 활동했던 김우리는 \\\"숙소에서 일어난 팩트까지는 모르지만, 어떻게 삐걱댔는지는 다 알고 있다\\\"고 말문을 열었다.\n그는 이날 화영이 티아라 활동 당시 스태프와 많은 갈등을 겪었고 버릇없는 행동으로 구설에 오르기도 했다고 폭로했다.\n김우리는\\\"화영은 자신의 머리를 감겨주는 친구들을 '샴푸'라고 불렀다. 나이가 많은 헤어 메이크업 언니에게도 '샴푸 가자'고 말했다\\\"고 했다.\n그는 \\\"(왕따 논란이 불거졌을 무렵) 자칫 일이 더 커질 수 있으니 함구하자는 결론을 내렸다. 그래서 멤버들이 오히려 말을 안 하고 묻어뒀다\\\"고 말했다.\n최근 온라인상에는 \\\"화영이 피해자 코스프레를 했다\\\"는 과거 스태프의 폭로가 올라와 큰 화제를 낳았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스타일리스트 김우리가 걸그룹 '티아라' 출신 배우 화영(23·류화영)의 왕따 논란에 얽힌 비화를 전했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 13일 방송된 채널A '풍문으로 들었쇼'에서는 최근까지 네티즌의 입에 오르내렸던 티아라와 화영간의 왕따 논란에 대한 내용이 다뤄졌다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "과거 티아라 스타일리스트로 활동했던 김우리는 \\\"숙소에서 일어난 팩트까지는 모르지만, 어떻게 삐걱댔는지는 다 알고 있다\\\"고 말문을 열었다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 이날 화영이 티아라 활동 당시 스태프와 많은 갈등을 겪었고 버릇없는 행동으로 구설에 오르기도 했다고 폭로했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김우리는\\\"화영은 자신의 머리를 감겨주는 친구들을 '샴푸'라고 불렀다. 나이가 많은 헤어 메이크업 언니에게도 '샴푸 가자'고 말했다\\\"고 했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"(왕따 논란이 불거졌을 무렵) 자칫 일이 더 커질 수 있으니 함구하자는 결론을 내렸다. 그래서 멤버들이 오히려 말을 안 하고 묻어뒀다\\\"고 말했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최근 온라인상에는 \\\"화영이 피해자 코스프레를 했다\\\"는 과거 스태프의 폭로가 올라와 큰 화제를 낳았다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연예계 발칵 뒤집었던 걸그룹 멤버의 왕따 논란... 전말은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

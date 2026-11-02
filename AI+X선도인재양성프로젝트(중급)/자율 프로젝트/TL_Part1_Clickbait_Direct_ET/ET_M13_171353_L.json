@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171353",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "NCT127 태용, 친누나에게 “인생 성공했네” 소리 들은 사연은?",
+    "newsSubTitle": "",
+    "newsContent": "그룹 NCT127(앤시티 127) 태용이 SNL 촬영 후기를 전했다.\n태용은 8일 자신의 인스타그램 스토리에 친누나와 나눈 메시지를 캡처해 게재했다.\n공개된 사진에서 친누나는 “태용아 자랑스럽다. 넌 후니 오빠를 만나잖아. 인생 성공했다. 부럽다”라고 메시지를 보냈고 태용은 이에 “누나 고마워”라고 답했다.\n친누나가 언급한 ‘후니 오빠’는 ‘SNL 코리아-AI 알바생’코너에서 배우 정상훈이 연기하는 AI 로봇 ‘기가후니’를 말한다.\n태용은 9일 공개되는 ‘SNL코리아-NCT127편’에서 멤버 마크와 함께 AI 아르바이트생으로 변신해 뛰어난 춤 실력을 선보일 예정이다. ‘기가후니’와 함께 맛깔나는 티키타카도 예고해 기대를 모은다.\n한편, 태용이 속한 NCT127은 이번 시즌 아이돌 최초로 ‘SNL 코리아’ 호스트로 참여한다. ‘SNL코리아-NCT127편’은 오는 9일 오후 10시 쿠팡플레이를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 NCT127(앤시티 127) 태용이 SNL 촬영 후기를 전했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "태용은 8일 자신의 인스타그램 스토리에 친누나와 나눈 메시지를 캡처해 게재했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에서 친누나는 “태용아 자랑스럽다. 넌 후니 오빠를 만나잖아. 인생 성공했다. 부럽다”라고 메시지를 보냈고 태용은 이에 “누나 고마워”라고 답했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "친누나가 언급한 ‘후니 오빠’는 ‘SNL 코리아-AI 알바생’코너에서 배우 정상훈이 연기하는 AI 로봇 ‘기가후니’를 말한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "태용은 9일 공개되는 ‘SNL코리아-NCT127편’에서 멤버 마크와 함께 AI 아르바이트생으로 변신해 뛰어난 춤 실력을 선보일 예정이다. ‘기가후니’와 함께 맛깔나는 티키타카도 예고해 기대를 모은다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 태용이 속한 NCT127은 이번 시즌 아이돌 최초로 ‘SNL 코리아’ 호스트로 참여한다. ‘SNL코리아-NCT127편’은 오는 9일 오후 10시 쿠팡플레이를 통해 공개된다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "NCT127 태용, '여기'에 나와서 성공했다는 소리 들었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

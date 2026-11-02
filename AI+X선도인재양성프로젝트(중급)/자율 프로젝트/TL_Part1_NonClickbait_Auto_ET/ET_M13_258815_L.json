@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258815",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘은혁과 접촉’ 유재석, 코로나 음성[공식]",
+		"newsSubTitle": "",
+		"newsContent": "방송인 유재석이 코로나19 검사 결과 음성 판정을 받았다.\n유재석 소속사 안테나에 따르면 유재석은 지난 20일 코로나19 검사를 받았고 이 같은 결과를 받았다.\n이는 SBS 예능 프로그램 ‘런닝맨’의 지난 17일 녹화에 함께 출연한 슈퍼주니어 멤버 은혁의 코로나19 양성 판정 여파다.\n은혁의 코로나19 양성 결과는 지난 20일 알려졌고, 이에 따라 유재석을 비롯한 ‘런닝맨’ 출연 멤버들은 일제히 관련 검사를 받은 것으로 전해졌다.\n유재석은 이미 한차례 코로나19 확진돼 방송 활동을 일시 중단한 적이 있어, 시청자의 걱정이 쏠린 상태였다.\n그는 지난해 11월 코로나19 양성 판정을 받아 완치 판정을 받은 뒤 지난해 12월 격리해제돼 복귀했다.\n은혁은 지난해 12월 코로나19 백신 3차 접종까지 완료한 상태에서 돌파 감염을 당했다.\n현재 경미한 증상만 있는 상태로 은혁은 모든 스케줄을 중단하고 안정을 취하고 있다.\n은혁은 타 슈퍼주니어 멤버들과는 접촉하지 않았다고 소속사는 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 유재석이 코로나19 검사 결과 음성 판정을 받았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유재석 소속사 안테나에 따르면 유재석은 지난 20일 코로나19 검사를 받았고 이 같은 결과를 받았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 SBS 예능 프로그램 ‘런닝맨’의 지난 17일 녹화에 함께 출연한 슈퍼주니어 멤버 은혁의 코로나19 양성 판정 여파다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "은혁의 코로나19 양성 결과는 지난 20일 알려졌고, 이에 따라 유재석을 비롯한 ‘런닝맨’ 출연 멤버들은 일제히 관련 검사를 받은 것으로 전해졌다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유재석은 이미 한차례 코로나19 확진돼 방송 활동을 일시 중단한 적이 있어, 시청자의 걱정이 쏠린 상태였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 지난해 11월 코로나19 양성 판정을 받아 완치 판정을 받은 뒤 지난해 12월 격리해제돼 복귀했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "은혁은 지난해 12월 코로나19 백신 3차 접종까지 완료한 상태에서 돌파 감염을 당했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재 경미한 증상만 있는 상태로 은혁은 모든 스케줄을 중단하고 안정을 취하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "은혁은 타 슈퍼주니어 멤버들과는 접촉하지 않았다고 소속사는 설명했다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘은혁과 접촉’ 유재석, 코로나 음성[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

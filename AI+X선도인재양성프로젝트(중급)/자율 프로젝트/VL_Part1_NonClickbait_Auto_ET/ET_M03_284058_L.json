@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284058",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이경실 남편 성추행 인정, \\\"아니다, 술은 많이 마셨다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 이경실 측이 남편 최모씨 성추행 혐의에 대해 정정했다.\n이경실의 소속사 코엔스타즈는 6일 공식 보도자료를 통해 “현재 기사화되고 있는 이경실씨 남편 관련 고소건에 대해 왜곡된 부분이 있어 정정하고자 한다”고 밝혔다.\n이경실의 소속사 코엔스타즈 측은 6일 오후 '지난 5일 있었던 공판은 해당 고소건에 대한 사건 내용을 확인하는 5분 내외의 짧은 재판이었습니다. 사건의 증인을 정하고 고소 내용을 확인하는 과정에서 “그 날 술을 많이 드셨나요?”라는 판사의 질문에 이경실씨 남편이 “네 그렇습니다”라고 답했고, 이어진 “술에 취해 행해진 걸 인정하십니까”라는 질문에 “네”라고 대답했습니다'고 밝혔다.\n앞서 한 매체는 이경실의 남편 최씨가 지난 5일 열린 첫 번째 공판에 참석해 지인의 아내를 성추행한 혐의를 인정했다고 보도한 바 있다.\n이경실의 남편인 최씨는 술에 취한 상태에서 지인의 아내를 성추행한 혐의를 받았다.\n두 사람의 2차 공판은 내달 17일 열릴 예정이다. [사진 일간스포츠] 온라인 중앙일보 이경실 남편 성추행 인정",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 이경실 측이 남편 최모씨 성추행 혐의에 대해 정정했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이경실의 소속사 코엔스타즈는 6일 공식 보도자료를 통해 “현재 기사화되고 있는 이경실씨 남편 관련 고소건에 대해 왜곡된 부분이 있어 정정하고자 한다”고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이경실의 소속사 코엔스타즈 측은 6일 오후 '지난 5일 있었던 공판은 해당 고소건에 대한 사건 내용을 확인하는 5분 내외의 짧은 재판이었습니다. 사건의 증인을 정하고 고소 내용을 확인하는 과정에서 “그 날 술을 많이 드셨나요?”라는 판사의 질문에 이경실씨 남편이 “네 그렇습니다”라고 답했고, 이어진 “술에 취해 행해진 걸 인정하십니까”라는 질문에 “네”라고 대답했습니다'고 밝혔다.",
+				"sentenceSize": 214
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 한 매체는 이경실의 남편 최씨가 지난 5일 열린 첫 번째 공판에 참석해 지인의 아내를 성추행한 혐의를 인정했다고 보도한 바 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이경실의 남편인 최씨는 술에 취한 상태에서 지인의 아내를 성추행한 혐의를 받았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람의 2차 공판은 내달 17일 열릴 예정이다. [사진 일간스포츠] 온라인 중앙일보 이경실 남편 성추행 인정",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이경실 남편 성추행 인정, \\\"아니다, 술은 많이 마셨다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

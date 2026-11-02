@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262110",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘만취음주운전’ 미스코리아 서예진, 벌금형 약식기소",
+		"newsSubTitle": "",
+		"newsContent": "최근 음주운전 물의를 빚었던 미스코리아 서예진이 벌금형을 받았다.\n법조계에 따르면 서울중앙지검은 24일 음주운전(도로교통법 위반) 혐의를 받는 서예진을 벌금 700만원에 약식기소했다.\n당사자인 서예진이 정식 재판 회부 의사를 밝히지 않을 경우 벌금형을 확정된다.\n서예진은 지난달 28일 서울 강남구 양재천로에서 벤츠 차량을 몰다 가로수와 충돌하는 사고를 냈다.\n사고 당시 현장에 출동한 경찰의 음주측정 결과 그의 혈중알코올농도는 0.108%로 면허 취소 수치였다.\n당시 현장이 담긴 SBS 영상에 따르면 서예진은 1차 음주측정을 거부하기도 했다.\n2차 음주측정을 한 뒤엔 눈물을 흘렸다.\n안위를 묻는 경찰관의 질문에 “XX 아프다”고 답하기도 했다.\n서예진은 제대로 몸을 가누지 못하는 모습을 보였다.\n사고현장에는 서울대 의과대학 초빙교수이자 강남 유명 피부과 원장인 부친을 비롯해 모친도 도착했다.\n서예진은 모친의 차량을 타고 사고 현장을 빠져 나갔다.\n1997년생인 서예진은 2018년 미스코리아 선에 선발돼 그해 미스 인터내셔널 한국 대표로 참가한 이력이 있다.\nKBS2 교양 프로그램 ‘생방송 아침이 좋다’ 리포터로 방송 활동을 하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 음주운전 물의를 빚었던 미스코리아 서예진이 벌금형을 받았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "법조계에 따르면 서울중앙지검은 24일 음주운전(도로교통법 위반) 혐의를 받는 서예진을 벌금 700만원에 약식기소했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당사자인 서예진이 정식 재판 회부 의사를 밝히지 않을 경우 벌금형을 확정된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서예진은 지난달 28일 서울 강남구 양재천로에서 벤츠 차량을 몰다 가로수와 충돌하는 사고를 냈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사고 당시 현장에 출동한 경찰의 음주측정 결과 그의 혈중알코올농도는 0.108%로 면허 취소 수치였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 현장이 담긴 SBS 영상에 따르면 서예진은 1차 음주측정을 거부하기도 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2차 음주측정을 한 뒤엔 눈물을 흘렸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "안위를 묻는 경찰관의 질문에 “XX 아프다”고 답하기도 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "서예진은 제대로 몸을 가누지 못하는 모습을 보였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사고현장에는 서울대 의과대학 초빙교수이자 강남 유명 피부과 원장인 부친을 비롯해 모친도 도착했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "서예진은 모친의 차량을 타고 사고 현장을 빠져 나갔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "1997년생인 서예진은 2018년 미스코리아 선에 선발돼 그해 미스 인터내셔널 한국 대표로 참가한 이력이 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "KBS2 교양 프로그램 ‘생방송 아침이 좋다’ 리포터로 방송 활동을 하기도 했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘만취음주운전’ 미스코리아 서예진, 벌금형 약식기소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

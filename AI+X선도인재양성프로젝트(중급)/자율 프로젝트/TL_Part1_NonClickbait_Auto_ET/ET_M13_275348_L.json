@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275348",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "슈 “멈추지 말고 힘들면 살살 걷자, 멈추지만 말자”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 S.E.S. 슈가 팬들에게 근황을 전했다.\n슈는 12일 SNS에 “비가와도 뛴다. 50바퀴”라는 글과 함께 사진을 공개했다.\n사진에는 옥상으로 보이는 곳에서 조깅 중인 슈의 뒷 모습이 담겨있다.\n슈는 “멈추지 말고 힘들면 살살 걷자. 멈추지만 말자. 힘들다. 힘내 유수영”이라고 덧붙였다.\n유슈영은 슈의 본명이다.\n슈는 2016년 8월부터 2018년 5월까지 마카오 등 해외에서 수 차례 상습 도박을 한 혐의로 검찰에 불구속 기소됐고, 이후 징역 6월, 집행유예 2년, 사회봉사 명령 80시간을 선고받았다.\n4년간 자숙한 슈는 지난 4월 TV조선 ‘스타다큐 마이웨이’로 방송에 복귀했고, 인터넷 방송 플랫폼 플렉스TV를 통해 라이브 방송을 진행하며 활동중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 S.E.S. 슈가 팬들에게 근황을 전했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슈는 12일 SNS에 “비가와도 뛴다. 50바퀴”라는 글과 함께 사진을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 옥상으로 보이는 곳에서 조깅 중인 슈의 뒷 모습이 담겨있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "슈는 “멈추지 말고 힘들면 살살 걷자. 멈추지만 말자. 힘들다. 힘내 유수영”이라고 덧붙였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유슈영은 슈의 본명이다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슈는 2016년 8월부터 2018년 5월까지 마카오 등 해외에서 수 차례 상습 도박을 한 혐의로 검찰에 불구속 기소됐고, 이후 징역 6월, 집행유예 2년, 사회봉사 명령 80시간을 선고받았다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "4년간 자숙한 슈는 지난 4월 TV조선 ‘스타다큐 마이웨이’로 방송에 복귀했고, 인터넷 방송 플랫폼 플렉스TV를 통해 라이브 방송을 진행하며 활동중이다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈 “멈추지 말고 힘들면 살살 걷자, 멈추지만 말자”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

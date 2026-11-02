@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275083",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "MBC ‘복면가왕’, 앞으로 1시간 더 일찍 볼 수 있다",
+		"newsSubTitle": "",
+		"newsContent": "MBC 예능 프로그램 ‘복면가왕’의 방송 시간이 변경된다.\n지난 3일 iMBC 홈페이지와 공식 유튜브 채널을 통해 오는 10일 ‘복면가왕’ 방송분 예고편 영상이 공개됐다.\n공개된 영상에는 7연승을 앞둔 가왕 ‘누렁이’를 저지하기 위해 다양한 도전자들이 가창력을 뽐내는 모습이 담겨있다.\nMC 김구라와 신봉선이 ‘원픽’을 두고 말다툼을 벌이는 모습도 그려져 호기심을 끌고 있다.\n영상에 따르면 ‘복면가왕’ 방송 시간은 기존보다 한 시간 앞선 오후 5시로 변경됐다.\n10일 이후 모든 방송분은 오후 5시에 방송된다.\n이날 특별 게스트로 강다니엘이 출연한다.\n그가 복면 가수의 정체를 밝힐 수 있을지 팬들의 이목이 쏠리고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC 예능 프로그램 ‘복면가왕’의 방송 시간이 변경된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 3일 iMBC 홈페이지와 공식 유튜브 채널을 통해 오는 10일 ‘복면가왕’ 방송분 예고편 영상이 공개됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 7연승을 앞둔 가왕 ‘누렁이’를 저지하기 위해 다양한 도전자들이 가창력을 뽐내는 모습이 담겨있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC 김구라와 신봉선이 ‘원픽’을 두고 말다툼을 벌이는 모습도 그려져 호기심을 끌고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상에 따르면 ‘복면가왕’ 방송 시간은 기존보다 한 시간 앞선 오후 5시로 변경됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "10일 이후 모든 방송분은 오후 5시에 방송된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 특별 게스트로 강다니엘이 출연한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그가 복면 가수의 정체를 밝힐 수 있을지 팬들의 이목이 쏠리고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MBC ‘복면가왕’, 앞으로 1시간 더 일찍 볼 수 있다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

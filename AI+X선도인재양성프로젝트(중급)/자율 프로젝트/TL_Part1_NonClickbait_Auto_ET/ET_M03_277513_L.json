@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277513",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "하니가 용기있게 고백한 자신의 콤플렉스",
+		"newsSubTitle": "",
+		"newsContent": "지난 14일 JTBC '아는 형님'서 EXID의 멤버 하니가 자신의 콤플렉스를 고백했다.\n하니는 자신의 콤플렉스가 '내성발톱'이라며 \\\"발톱이 자라면서 살을 파고든다\\\"고 밝혔다.\n이어 \\\"수술을 했지만 계속 재발한다\\\"고 말해 시청자들의 안타까움을 샀다.\n\\\"하이힐을 못 신냐\\\"는 질문에는 하니는 \\\"우리 집에 하이힐이 하나도 없다\\\"고 답했다.\n그리고 하니는 \\\"무대에서 어쩔 수 없이 하이힐을 신을 경우 스타킹 앞을 크게 자른 뒤 그 위에 양말을 신는다\\\"며 본인의 고충을 토로했다.\n방송을 시청한 시청자들은 \\\"용기있다\\\" \\\"역시 하니답다\\\"며 긍정적인 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 14일 JTBC '아는 형님'서 EXID의 멤버 하니가 자신의 콤플렉스를 고백했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하니는 자신의 콤플렉스가 '내성발톱'이라며 \\\"발톱이 자라면서 살을 파고든다\\\"고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"수술을 했지만 계속 재발한다\\\"고 말해 시청자들의 안타까움을 샀다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "\\\"하이힐을 못 신냐\\\"는 질문에는 하니는 \\\"우리 집에 하이힐이 하나도 없다\\\"고 답했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그리고 하니는 \\\"무대에서 어쩔 수 없이 하이힐을 신을 경우 스타킹 앞을 크게 자른 뒤 그 위에 양말을 신는다\\\"며 본인의 고충을 토로했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송을 시청한 시청자들은 \\\"용기있다\\\" \\\"역시 하니답다\\\"며 긍정적인 반응을 보였다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하니가 용기있게 고백한 자신의 콤플렉스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

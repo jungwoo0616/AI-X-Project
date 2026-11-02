@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277189",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M] 서울독립영화제, 신임 집행위원장 확정",
+		"newsSubTitle": "",
+		"newsContent": "서울독립영화제 신임 집행위원장으로 김동현 전 부집행위원장이 위촉됐다.\n이 영화제의 첫 여성 집행위원장이다.\n서울독립영화제는 지난 15년 2대 조영각 집행위원장이 이끌어왔다.\n김동현 집행위원장은 서울독립영화제 프로그램 팀장과 사무국장을 맡으며 영화제 운영을 총괄해왔다.\n또한 'Jam Docu 강정'(2011, 경순·최하동하·최진성 감독) 프로듀서, ‘사돈의 팔촌’(2016, 장현상 감독) 배급·마케팅 등 독립영화 제작 및 유통에도 참여해왔다.\n제43회 서울독립영화제는 오는 11월 30일부터 12월 8일까지 열린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울독립영화제 신임 집행위원장으로 김동현 전 부집행위원장이 위촉됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 영화제의 첫 여성 집행위원장이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서울독립영화제는 지난 15년 2대 조영각 집행위원장이 이끌어왔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김동현 집행위원장은 서울독립영화제 프로그램 팀장과 사무국장을 맡으며 영화제 운영을 총괄해왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 'Jam Docu 강정'(2011, 경순·최하동하·최진성 감독) 프로듀서, ‘사돈의 팔촌’(2016, 장현상 감독) 배급·마케팅 등 독립영화 제작 및 유통에도 참여해왔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제43회 서울독립영화제는 오는 11월 30일부터 12월 8일까지 열린다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] 서울독립영화제, 신임 집행위원장 확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

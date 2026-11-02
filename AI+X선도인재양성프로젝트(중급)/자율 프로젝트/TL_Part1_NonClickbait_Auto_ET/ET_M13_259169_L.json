@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259169",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘엄태웅♥’ 윤혜진, 논란 사전 차단 “알아서 잘할게요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 엄태웅의 아내인 윤혜진이 ‘프로 불편러’들을 사전 차단했다.\n윤혜진은 지난 23일 자신의 인스타그램 스토리에 “‘심야괴담회’ 볼 준비. 무서운 이야기는 언니들이랑 보는 게 국룰”이라며 사진 한 장을 게재했다.\n공개된 사진에는 엄태웅 윤혜진 부부의 딸 지온 양과 그의 친한 언니 두 명이 놀러온 모습이 담겼다.\n세 아이는 거실 소파에 앉아 휴식을 즐기고 있다.\n윤혜진은 “부모님은 아이들 드랍만 하고 가시고 언니 두 명만 들어왔다”며 “인원제한 안 걸린다. 알아서 잘 하겠다. DM(다이렉트 메시지) 하지말라”고 거리두기 인원제한 논란을 사전 방지해 눈길을 끌었다.\n또 “어머님들. 따님들 한우 구워주는 줄만 알아”라며 지온과 아이들을 위해 정성껏 밥상을 차린 모습도 함께 공개했다.\n한편 윤혜진과 배우 엄태웅은 2013년 결혼해 같은 해 지온 양을 품에 안았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 엄태웅의 아내인 윤혜진이 ‘프로 불편러’들을 사전 차단했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤혜진은 지난 23일 자신의 인스타그램 스토리에 “‘심야괴담회’ 볼 준비. 무서운 이야기는 언니들이랑 보는 게 국룰”이라며 사진 한 장을 게재했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 엄태웅 윤혜진 부부의 딸 지온 양과 그의 친한 언니 두 명이 놀러온 모습이 담겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세 아이는 거실 소파에 앉아 휴식을 즐기고 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤혜진은 “부모님은 아이들 드랍만 하고 가시고 언니 두 명만 들어왔다”며 “인원제한 안 걸린다. 알아서 잘 하겠다. DM(다이렉트 메시지) 하지말라”고 거리두기 인원제한 논란을 사전 방지해 눈길을 끌었다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 “어머님들. 따님들 한우 구워주는 줄만 알아”라며 지온과 아이들을 위해 정성껏 밥상을 차린 모습도 함께 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 윤혜진과 배우 엄태웅은 2013년 결혼해 같은 해 지온 양을 품에 안았다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엄태웅♥’ 윤혜진, 논란 사전 차단 “알아서 잘할게요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

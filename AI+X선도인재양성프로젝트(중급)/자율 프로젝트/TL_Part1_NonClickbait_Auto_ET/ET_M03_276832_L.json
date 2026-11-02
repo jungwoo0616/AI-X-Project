@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276832",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'민주화 논란' 전효성, 5·18 희생자 추모 \\\"#잊지않겠습니다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'일베'를 연상시키는 '민주화' 발언으로 논란을 빚었던 가수 전효성이 5·18 민주화 운동 희생자를 추모하는 이미지와 글을 인스타그램에 올렸다.\n18일 가수 전효성은 인스타그램을 통해 \\\"518광주민주화운동 민주주의를 위해 희생하신 모든분들께 감사합니다 #잊지않겠습니다\\\"는 글로 희생자를 추모했다.\n전효성에 게재한 이미지에는 \\\"5.18 민주화를 위한 희생을 영원히 잊지 않겠습니다\\\"는 글귀가 적혀 있다.\n앞서 전효성은 '민주화' 발언으로 물의를 빚었었다.\n해당 단어가 극우 성향의 온라인 커뮤니티인 '일베'에서 주로 쓰이는 언어인 탓이다.\n이후 전효성은 반성의 뜻을 전하고 역사 공부를 하며 최근에는 한국사능력검정 3급을 취득하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'일베'를 연상시키는 '민주화' 발언으로 논란을 빚었던 가수 전효성이 5·18 민주화 운동 희생자를 추모하는 이미지와 글을 인스타그램에 올렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 가수 전효성은 인스타그램을 통해 \\\"518광주민주화운동 민주주의를 위해 희생하신 모든분들께 감사합니다 #잊지않겠습니다\\\"는 글로 희생자를 추모했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전효성에 게재한 이미지에는 \\\"5.18 민주화를 위한 희생을 영원히 잊지 않겠습니다\\\"는 글귀가 적혀 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 전효성은 '민주화' 발언으로 물의를 빚었었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 단어가 극우 성향의 온라인 커뮤니티인 '일베'에서 주로 쓰이는 언어인 탓이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 전효성은 반성의 뜻을 전하고 역사 공부를 하며 최근에는 한국사능력검정 3급을 취득하기도 했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'민주화 논란' 전효성, 5·18 희생자 추모 \\\"#잊지않겠습니다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

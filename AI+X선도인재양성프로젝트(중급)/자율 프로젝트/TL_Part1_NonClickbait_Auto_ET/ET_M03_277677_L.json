@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277677",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이병헌, 이민정 앞에서 다른 여자와 뽀뽀·포옹해",
+		"newsSubTitle": "",
+		"newsContent": "배우 이병헌이 아내 이민정이 보는 앞에서 다른 여성과 스킨십을 했다는 논란이 일었다.\n최근 홍콩 매체 '애플 데일리'는 지난 2일 'MAMA'가 끝난 뒤 이병헌·이민정 부부가 한효주 등 지인들과 술자리를 가졌다고 보도했다.\n보도에 따르면 이병헌은 이 자리에서 아내 이민정이 보고 있음에도 불구하고 지인과 스킨십을 한 것으로 알려졌다.\n이병헌은 한 여성 옆자리에 앉아 볼에 입맞춤을 하거나 포옹을 하는 등 다정한 모습을 보였다.\n이병헌의 소속사는 \\\"(여성과 이병헌은) 가족처럼 가까운 사이\\\"라고 해명했으나 논란은 계속되고 있다.\n네티즌들은 \\\"부인 앞에서 저러는 건 아닌 것 같다\\\", \\\"뽀뽀를 왜 하는 거지\\\" 등의 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이병헌이 아내 이민정이 보는 앞에서 다른 여성과 스킨십을 했다는 논란이 일었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 홍콩 매체 '애플 데일리'는 지난 2일 'MAMA'가 끝난 뒤 이병헌·이민정 부부가 한효주 등 지인들과 술자리를 가졌다고 보도했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 이병헌은 이 자리에서 아내 이민정이 보고 있음에도 불구하고 지인과 스킨십을 한 것으로 알려졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이병헌은 한 여성 옆자리에 앉아 볼에 입맞춤을 하거나 포옹을 하는 등 다정한 모습을 보였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이병헌의 소속사는 \\\"(여성과 이병헌은) 가족처럼 가까운 사이\\\"라고 해명했으나 논란은 계속되고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네티즌들은 \\\"부인 앞에서 저러는 건 아닌 것 같다\\\", \\\"뽀뽀를 왜 하는 거지\\\" 등의 반응을 보이고 있다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이병헌, 이민정 앞에서 다른 여자와 뽀뽀·포옹해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

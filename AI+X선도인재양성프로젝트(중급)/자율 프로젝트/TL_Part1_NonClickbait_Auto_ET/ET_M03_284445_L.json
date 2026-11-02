@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284445",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘진짜사나이’ 김영철, 교통사고로 새끼손가락 골절… 해병대 편 불참?",
+		"newsSubTitle": "",
+		"newsContent": "‘진짜사나이’ 김영철, 교통사고로 새끼손가락 골절… 해병대 편에는 합류하지 않기로 개그맨 김영철이 교통사고를 당해 '일밤-진짜사나이' 촬영에 합류하지 않기로 했다.\n2일 MBC 관계자는 \\\"김영철이 교통사고로 새끼손가락 골절상을 당해 현재 인근 병원에 입원해 치료 중\\\"이라며 \\\"이번 해병대 편 촬영에는 합류하지 않기로 했다\\\"고 말했다. '진짜사나이' 촬영팀이 이날 오전 고속도로에서 다중추돌 사고에 휘말렸다.\n이날 오전 6시4분쯤 경북 경주시 강동면 대구-포항 고속도로 포항방향 도로에서 화물차끼리 추돌하는 다중 추돌사고가 발생했다.\n이로 인해 적재물이 떨어지면서 뒤따르던 차들이 잇따라 추돌했다.\n이 가운데 '진짜사나이' 촬영팀 차도 있었던 것으로 알려졌다.\n이 사고로 코미디언 김영철을 비롯해 20여명이 부상을 입어 병원으로 옮겨졌다.\n김영철은 비교적 가벼운 부상을 입은 것으로 전해졌다.\n관계자는 \\\"교통사고를 당했지만 큰 피해는 없는 상황\\\"이라며 \\\"일단 부상자를 제외하고 촬영은 예정대로 진행될 것\\\"이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘진짜사나이’ 김영철, 교통사고로 새끼손가락 골절… 해병대 편에는 합류하지 않기로 개그맨 김영철이 교통사고를 당해 '일밤-진짜사나이' 촬영에 합류하지 않기로 했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 MBC 관계자는 \\\"김영철이 교통사고로 새끼손가락 골절상을 당해 현재 인근 병원에 입원해 치료 중\\\"이라며 \\\"이번 해병대 편 촬영에는 합류하지 않기로 했다\\\"고 말했다. '진짜사나이' 촬영팀이 이날 오전 고속도로에서 다중추돌 사고에 휘말렸다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 오전 6시4분쯤 경북 경주시 강동면 대구-포항 고속도로 포항방향 도로에서 화물차끼리 추돌하는 다중 추돌사고가 발생했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로 인해 적재물이 떨어지면서 뒤따르던 차들이 잇따라 추돌했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 가운데 '진짜사나이' 촬영팀 차도 있었던 것으로 알려졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 사고로 코미디언 김영철을 비롯해 20여명이 부상을 입어 병원으로 옮겨졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김영철은 비교적 가벼운 부상을 입은 것으로 전해졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "관계자는 \\\"교통사고를 당했지만 큰 피해는 없는 상황\\\"이라며 \\\"일단 부상자를 제외하고 촬영은 예정대로 진행될 것\\\"이라고 덧붙였다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘진짜사나이’ 김영철, 교통사고로 새끼손가락 골절… 해병대 편 불참?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

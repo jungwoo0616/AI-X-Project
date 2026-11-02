@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275266",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘전국대학가요제 대상’ 밴드 업스타, 로칼하이레코즈와 계약 체결[공식]",
+		"newsSubTitle": "",
+		"newsContent": "탄탄한 연주와 시원한 보컬로 대중들 마음을 사로잡은 밴드 업스타가 로칼하이레코즈와 계약을 체결했다.\n11일 로칼하이레코즈 측은 “밴드 업스타와 계약을 체결했다. 앞으로 활동에 있어 전폭적인 지지를 이어갈 예정이다. 앞으로 밴드 업스타가 보여줄 매력적인 모습들과 시원한 밴드 사운드의 곡들에 귀 기울여 주시길 바란다”고 밝혔다.\n밴드 업스타는 전국대학가요제에서 대상을 입상하여 실력을 입증한 실력파 밴드로, ‘보컬’ 길대호, ‘기타’ Hi_p, ‘베이스’ 한태근, ‘드럼’ 윤세호로 구성되어 있으며, 시원한 록 사운드를 기반으로 한 음악을 선보이고 있다.\n전국대학가요제 본선 무대에서 선보인 ‘월세 전세 매매’는 업스타의 감성을 녹여낸 곡으로 대중들의 큰 공감을 이끌어 낸 바 있다.\n밴드 업스타는 이번 로칼하이레코즈와의 계약 체결을 시발점으로 본인들이 지니고 있는 신나는 록 밴드 감성과 이야기를 담은 음악을 차근차근 공개할 계획이다.\n밴드 업스타와 레이블 계약을 체결한 로칼하이레코즈는 국내 최다 아티스트 보유 레이블로 시티팝, 인디락, 힙합, 알앤비 등 음악적 스펙트럼이 넓은 아티스트를 국내 최다 규모로 보유하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "탄탄한 연주와 시원한 보컬로 대중들 마음을 사로잡은 밴드 업스타가 로칼하이레코즈와 계약을 체결했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 로칼하이레코즈 측은 “밴드 업스타와 계약을 체결했다. 앞으로 활동에 있어 전폭적인 지지를 이어갈 예정이다. 앞으로 밴드 업스타가 보여줄 매력적인 모습들과 시원한 밴드 사운드의 곡들에 귀 기울여 주시길 바란다”고 밝혔다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "밴드 업스타는 전국대학가요제에서 대상을 입상하여 실력을 입증한 실력파 밴드로, ‘보컬’ 길대호, ‘기타’ Hi_p, ‘베이스’ 한태근, ‘드럼’ 윤세호로 구성되어 있으며, 시원한 록 사운드를 기반으로 한 음악을 선보이고 있다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전국대학가요제 본선 무대에서 선보인 ‘월세 전세 매매’는 업스타의 감성을 녹여낸 곡으로 대중들의 큰 공감을 이끌어 낸 바 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "밴드 업스타는 이번 로칼하이레코즈와의 계약 체결을 시발점으로 본인들이 지니고 있는 신나는 록 밴드 감성과 이야기를 담은 음악을 차근차근 공개할 계획이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "밴드 업스타와 레이블 계약을 체결한 로칼하이레코즈는 국내 최다 아티스트 보유 레이블로 시티팝, 인디락, 힙합, 알앤비 등 음악적 스펙트럼이 넓은 아티스트를 국내 최다 규모로 보유하고 있다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘전국대학가요제 대상’ 밴드 업스타, 로칼하이레코즈와 계약 체결[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

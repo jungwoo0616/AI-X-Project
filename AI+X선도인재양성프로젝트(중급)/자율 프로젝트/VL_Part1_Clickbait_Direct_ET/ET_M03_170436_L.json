@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170436",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'독설가' 진중권의 평화로운 근황",
+    "newsSubTitle": "",
+    "newsContent": "진보논객 진중권 동양대 교수의 근황이 소개돼 이목을 끌고 있다.\n최근 온라인커뮤니티에는 '진중권 근황'이란 제목의 글이 게재돼 네티즌의 관심을 샀다.\n오는 1월 9일 출간을 앞둔 진 교수의 저서 '고로 나는 존재하는 고양이'(지혜로운 집사가 되기 위한 지침서) 때문이다.\n책표지는 진 교수가 자신의 반려묘인 '루비'를 양팔로 안고 있는 모습의 사진으로 꾸며졌다.\n반려묘에 대한 그의 애정이 물씬 느껴진다.\n책소개에는 '진 교수는 2013년 '냥줍' 이후 새사람 '진 집사'로 거듭났다'며 '이 책은 루비가 구술하고 진중권이 받아 적어 펴낸 책이다'라고 적혀 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "진보논객 진중권 동양대 교수의 근황이 소개돼 이목을 끌고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인커뮤니티에는 '진중권 근황'이란 제목의 글이 게재돼 네티즌의 관심을 샀다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오는 1월 9일 출간을 앞둔 진 교수의 저서 '고로 나는 존재하는 고양이'(지혜로운 집사가 되기 위한 지침서) 때문이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "책표지는 진 교수가 자신의 반려묘인 '루비'를 양팔로 안고 있는 모습의 사진으로 꾸며졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "반려묘에 대한 그의 애정이 물씬 느껴진다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "책소개에는 '진 교수는 2013년 '냥줍' 이후 새사람 '진 집사'로 거듭났다'며 '이 책은 루비가 구술하고 진중권이 받아 적어 펴낸 책이다'라고 적혀 있다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "진중권 교수, 양팔로 진하게 스킨십 하는 사진 공개... 관심 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

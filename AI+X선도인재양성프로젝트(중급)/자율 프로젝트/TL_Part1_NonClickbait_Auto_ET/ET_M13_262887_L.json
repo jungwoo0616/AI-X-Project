@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262887",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘편스토랑’ 김보민, 장원영 등장에 “나도 ‘뮤직뱅크’ 은행장 출신”",
+		"newsSubTitle": "",
+		"newsContent": "‘신상출시 편스토랑’ 장원영이 예쁨을 받았다.\n4일 오후 방송된 KBS2 ‘신상출시 편스토랑’에서는 아이브 장원영이 게스트로 출연했다.\n이날 장원영이 출연하자 김보민은 “진짜 인형 같구나”라고 감탄했다.\n박솔미 또한 “좋겠다 예뻐서. 너무 예쁘다 진짜 보고 싶었는데”라고 웃어 보였다.\n이에 붐이 경성에서 온 거 아니냐고 묻자 장원영은 센스 있게 “그렇사옵니까?”라고 말했고 박솔미는 “너무 예쁘다 진짜”라며 흐뭇하게 웃으며 비명 질렀다. ‘뮤직뱅크’ 은행장 장원영이 04년생으로 19세라고 말하자 김보민은 “말 안 하려고 했는데 저도 ‘뮤직뱅크’ 은행장이었다. 2005년에”라며 웃어보였다.\n딸 이예림 양의 결혼을 축하한 붐은 이경규에게 “드레스를 잡아야 해서 부케를 이경규 선배님이 드셨다. 그런데 부케로 수맥을 체크하듯이 앞에 가는 길을 계속 휘저었다. 많이 떨리셨나 봐요?”라고 물었다.\n이경규는 “많이 떨린다기보다 실감이 나지 않았다”라고 전했다.\n한편 KBS2 ‘신상출시 편스토랑’은 매주 금요일 오후 8시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘신상출시 편스토랑’ 장원영이 예쁨을 받았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 오후 방송된 KBS2 ‘신상출시 편스토랑’에서는 아이브 장원영이 게스트로 출연했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 장원영이 출연하자 김보민은 “진짜 인형 같구나”라고 감탄했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박솔미 또한 “좋겠다 예뻐서. 너무 예쁘다 진짜 보고 싶었는데”라고 웃어 보였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 붐이 경성에서 온 거 아니냐고 묻자 장원영은 센스 있게 “그렇사옵니까?”라고 말했고 박솔미는 “너무 예쁘다 진짜”라며 흐뭇하게 웃으며 비명 질렀다. ‘뮤직뱅크’ 은행장 장원영이 04년생으로 19세라고 말하자 김보민은 “말 안 하려고 했는데 저도 ‘뮤직뱅크’ 은행장이었다. 2005년에”라며 웃어보였다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "딸 이예림 양의 결혼을 축하한 붐은 이경규에게 “드레스를 잡아야 해서 부케를 이경규 선배님이 드셨다. 그런데 부케로 수맥을 체크하듯이 앞에 가는 길을 계속 휘저었다. 많이 떨리셨나 봐요?”라고 물었다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이경규는 “많이 떨린다기보다 실감이 나지 않았다”라고 전했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 KBS2 ‘신상출시 편스토랑’은 매주 금요일 오후 8시 30분에 방송된다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘편스토랑’ 김보민, 장원영 등장에 “나도 ‘뮤직뱅크’ 은행장 출신”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

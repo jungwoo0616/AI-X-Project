@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171001",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최희 “임산부 시절 경험으로 특허…발명왕 도전”",
+    "newsSubTitle": "",
+    "newsContent": "최희 “임산부 시절 경험으로 특허…발명왕 도전” 아나운서 출신 방송인 최희가 특허를 냈다.\n27일 최희는 자신의 인스타그램 스토리에 “제가 임산부 때 힘들었던 걸 경험하며 특허를 냈다(저도 별걸 다하죠?)”라면서 “한국여성발명협회에서 우편이 왔다. 저도 여성발명왕 도전!!”라는 글과 함께 사진을 게재했다.\n공개된 사진에는 한국여성발명협회에서 최희에게 보낸 서류가 담겨있다.\n최희가 임산부 혹은 육아와 관련된 어떤 발명품으로 특허를 냈을지 궁금증을 자아낸다.\n한편 최희는 지난해 4월 비연예인 사업가와 결혼해 슬하에 딸을 두고 있다.\n출산 후 4개월 만에 초특급으로 방송에 복귀해 화제를 모았다.\n개인 유튜브 채널을 통해 팬들과 소통하고 있으며 E채널 ‘맘 편한 카페2’에 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최희 “임산부 시절 경험으로 특허…발명왕 도전” 아나운서 출신 방송인 최희가 특허를 냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 최희는 자신의 인스타그램 스토리에 “제가 임산부 때 힘들었던 걸 경험하며 특허를 냈다(저도 별걸 다하죠?)”라면서 “한국여성발명협회에서 우편이 왔다. 저도 여성발명왕 도전!!”라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 한국여성발명협회에서 최희에게 보낸 서류가 담겨있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최희가 임산부 혹은 육아와 관련된 어떤 발명품으로 특허를 냈을지 궁금증을 자아낸다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 최희는 지난해 4월 비연예인 사업가와 결혼해 슬하에 딸을 두고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "출산 후 4개월 만에 초특급으로 방송에 복귀해 화제를 모았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "개인 유튜브 채널을 통해 팬들과 소통하고 있으며 E채널 ‘맘 편한 카페2’에 출연 중이다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최희, 임산부 때 힘들었던 경험... 이것 특허 냈다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

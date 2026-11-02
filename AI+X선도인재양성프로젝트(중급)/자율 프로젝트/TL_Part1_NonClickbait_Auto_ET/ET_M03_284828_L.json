@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284828",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "정경호 수영, 정경호 냉장고 속 수많은 술들은 연인 수영을 위한 것?",
+		"newsSubTitle": "",
+		"newsContent": "'정경호 수영' 정경호가 연인 수영을 위해 커피차를 보낸 가운데, 과거 정경호의 냉장고 공개가 새삼 재조명되고 있다.\n과거 정경호는 JTBC '냉장고를 부탁해'에 출연해 자신의 냉장고를 공개했다.\n당시 정경호의 냉장고를 보던 MC들은 혹시나 정경호의 연인 수영의 흔적을 찾을 수 있을까 의심하며 꼼꼼하게 냉장고를 점검했다.\n하지만 정경호의 냉장고에서는 수영의 흔적이 발견되지 않았다.\n이에 정경호는 \\\"허경환 씨가 나왔던 편을 봤다. 거기서 여성의 흔적이 발견돼 곤욕을 치르는 걸 봤다. 전부 다 빼고 나왔다\\\"고 말했다.\n정경호의 말에 MC들은 \\\"아주 철벽 방어를 했네요\\\"라며 아쉬워해 웃음을 자아냈다.\n또한, 평소 애주가로 알려진 정경호답게 냉장고 칸칸이 발견되던 술들에 대해 정경호는 \\\"일반 맥주보다 조금 도수가 높은 맥주들은 금방 잠들기 때문에 잠자기 전에 마신다\\\" 며 패널들로 하여금 오해를 살 수 있는 발언으로 웃음을 자아냈다.\n한편, 정경호는 28일 수영이 연기하고 있는 드라마 '퍼펙트 센스' 촬영 현장에 커피차를 보내 수영을 응원했다. '정경호 수영' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'정경호 수영' 정경호가 연인 수영을 위해 커피차를 보낸 가운데, 과거 정경호의 냉장고 공개가 새삼 재조명되고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 정경호는 JTBC '냉장고를 부탁해'에 출연해 자신의 냉장고를 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 정경호의 냉장고를 보던 MC들은 혹시나 정경호의 연인 수영의 흔적을 찾을 수 있을까 의심하며 꼼꼼하게 냉장고를 점검했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 정경호의 냉장고에서는 수영의 흔적이 발견되지 않았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 정경호는 \\\"허경환 씨가 나왔던 편을 봤다. 거기서 여성의 흔적이 발견돼 곤욕을 치르는 걸 봤다. 전부 다 빼고 나왔다\\\"고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정경호의 말에 MC들은 \\\"아주 철벽 방어를 했네요\\\"라며 아쉬워해 웃음을 자아냈다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한, 평소 애주가로 알려진 정경호답게 냉장고 칸칸이 발견되던 술들에 대해 정경호는 \\\"일반 맥주보다 조금 도수가 높은 맥주들은 금방 잠들기 때문에 잠자기 전에 마신다\\\" 며 패널들로 하여금 오해를 살 수 있는 발언으로 웃음을 자아냈다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 정경호는 28일 수영이 연기하고 있는 드라마 '퍼펙트 센스' 촬영 현장에 커피차를 보내 수영을 응원했다. '정경호 수영' 온라인 중앙일보",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정경호 수영, 정경호 냉장고 속 수많은 술들은 연인 수영을 위한 것?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

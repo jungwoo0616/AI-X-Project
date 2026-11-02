@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277789",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "YG, 빅뱅 탑 생일 축하 이미지 공개",
+		"newsSubTitle": "",
+		"newsContent": "YG엔터테인먼트가 빅뱅의 멤버 탑(최승현)의 생일을 축하했다.\n4일 0시 YG엔터테인먼트는 공식블로그와 SNS계정 등을 통해 ‘Dear T.O.P Happy Birthday’라는 문구와 함께 탑의 생일을 맞아 축하 이미지를 공개했다.\n공개된 흑백 이미지 속 탑의 매력적인 미소가 시선을 사로잡는다.\n전 세계 빅뱅 팬들이 탑에게 생일 축하 메시지를 전하기도 했다.\n팬들은 “탑 생일 축하해요” “여전히 꽃미남” “태어나줘서 고마워요” 등 축하의 목소리를 높였다.\n지난 2006년 데뷔한 빅뱅은 올해로 데뷔 10주년을 맞아 여러 프로젝트를 진행 중이다.\n빅뱅은 올해 연말 컴백을 목표로 앨범을 준비하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "YG엔터테인먼트가 빅뱅의 멤버 탑(최승현)의 생일을 축하했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 0시 YG엔터테인먼트는 공식블로그와 SNS계정 등을 통해 ‘Dear T.O.P Happy Birthday’라는 문구와 함께 탑의 생일을 맞아 축하 이미지를 공개했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 흑백 이미지 속 탑의 매력적인 미소가 시선을 사로잡는다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전 세계 빅뱅 팬들이 탑에게 생일 축하 메시지를 전하기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 “탑 생일 축하해요” “여전히 꽃미남” “태어나줘서 고마워요” 등 축하의 목소리를 높였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2006년 데뷔한 빅뱅은 올해로 데뷔 10주년을 맞아 여러 프로젝트를 진행 중이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "빅뱅은 올해 연말 컴백을 목표로 앨범을 준비하고 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "YG, 빅뱅 탑 생일 축하 이미지 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

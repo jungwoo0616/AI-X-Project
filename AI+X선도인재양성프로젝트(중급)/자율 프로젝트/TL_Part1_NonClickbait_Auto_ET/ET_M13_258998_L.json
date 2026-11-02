@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258998",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "제23회 전주국제영화제 국제경쟁 부문 75개국 491편 출품",
+		"newsSubTitle": "",
+		"newsContent": "지난해 11월 24일부터 지난 10일까지 진행된 제23회 전주국제영화제 국제경쟁 부문 공모에 75개국 491편의 작품이 접수됐다.\n이는 제22회 출품작 수 398편보다 93편 증가한 수치다.\n참여국가도 68개국에서 75개국으로 전년 대비 7개국이 늘었다.\n출품 형식도 극영화 266편, 다큐멘터리 168편, 애니메이션 10편, 실험영화 30편, 기타 17편 등으로 다양해졌다.\n영화제 전진수 프로그래머는 “전 세계에서 영화제에 관심을 가져 주셔서 감사드린다. 코로나19 장기화에도 독립·예술영화 제작에 대한 전 세계 영화인들의 열정이 식지 않았음을 확인했다”며 “공정한 심사를 통해 영화제를 찾은 관객 여러분께 좋은 작품을 소개해 드리겠다”고 전했다.\n전주국제영화제는 오는 4월28일부터 5월7일까지 전주시 영화의거리 일대에서 열린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 11월 24일부터 지난 10일까지 진행된 제23회 전주국제영화제 국제경쟁 부문 공모에 75개국 491편의 작품이 접수됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 제22회 출품작 수 398편보다 93편 증가한 수치다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "참여국가도 68개국에서 75개국으로 전년 대비 7개국이 늘었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "출품 형식도 극영화 266편, 다큐멘터리 168편, 애니메이션 10편, 실험영화 30편, 기타 17편 등으로 다양해졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영화제 전진수 프로그래머는 “전 세계에서 영화제에 관심을 가져 주셔서 감사드린다. 코로나19 장기화에도 독립·예술영화 제작에 대한 전 세계 영화인들의 열정이 식지 않았음을 확인했다”며 “공정한 심사를 통해 영화제를 찾은 관객 여러분께 좋은 작품을 소개해 드리겠다”고 전했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전주국제영화제는 오는 4월28일부터 5월7일까지 전주시 영화의거리 일대에서 열린다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제23회 전주국제영화제 국제경쟁 부문 75개국 491편 출품",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

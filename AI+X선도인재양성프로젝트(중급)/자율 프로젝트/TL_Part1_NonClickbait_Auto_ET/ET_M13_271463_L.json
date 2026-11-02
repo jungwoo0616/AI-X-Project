@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271463",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "가수 이우, 군 전역 후 벌써 새 노래 준비?",
+		"newsSubTitle": "",
+		"newsContent": "가수 이우가 최근 근황을 공개하면서 팬들의 이목을 집중시켰다.\n이우는 26일 오후 자신의 공식 SNS 채널을 통해 녹음에 한창인 모습이 담긴 사진을 공개했다.\n공개된 사진 속 이우는 청자켓과 함께 모자를 쓴 스타일링으로 남다른 패션 감각을 자랑하고 있다.\n특히 이우는 “노래 합시다”라고 언급, 신곡 준비를 암시하면서 팬들의 궁금증을 자아냈다.\n팬들은 ‘기대 중’, ‘우리 가수님 목소리 곧 들을 수 있는 건가요?’, ‘신곡을 기다린다’ 등 뜨거운 반응을 쏟아냈다.\n지난 2일 미복귀 전역으로 국방의 의무를 마친 이우는 앞서 ‘공일공(010)’, ‘내 안부’, ‘이별행동’ 등의 히트곡으로 개성 넘치는 보이스와 남다른 가창력을 선보였던 만큼, 앞으로 ‘이별 노래 장인’으로서 어떤 행보를 걸을지 관심이 모인다.\n이우는 앞으로도 다채로운 활동을 통해 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이우가 최근 근황을 공개하면서 팬들의 이목을 집중시켰다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이우는 26일 오후 자신의 공식 SNS 채널을 통해 녹음에 한창인 모습이 담긴 사진을 공개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 이우는 청자켓과 함께 모자를 쓴 스타일링으로 남다른 패션 감각을 자랑하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이우는 “노래 합시다”라고 언급, 신곡 준비를 암시하면서 팬들의 궁금증을 자아냈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들은 ‘기대 중’, ‘우리 가수님 목소리 곧 들을 수 있는 건가요?’, ‘신곡을 기다린다’ 등 뜨거운 반응을 쏟아냈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2일 미복귀 전역으로 국방의 의무를 마친 이우는 앞서 ‘공일공(010)’, ‘내 안부’, ‘이별행동’ 등의 히트곡으로 개성 넘치는 보이스와 남다른 가창력을 선보였던 만큼, 앞으로 ‘이별 노래 장인’으로서 어떤 행보를 걸을지 관심이 모인다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이우는 앞으로도 다채로운 활동을 통해 대중을 만날 예정이다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 이우, 군 전역 후 벌써 새 노래 준비?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

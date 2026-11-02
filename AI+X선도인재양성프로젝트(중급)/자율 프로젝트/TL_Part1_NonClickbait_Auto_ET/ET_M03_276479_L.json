@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276479",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "황교익, \\\"혼밥은 마음의 병이고 사회적 자폐\\\" 발언 논란",
+		"newsSubTitle": "",
+		"newsContent": "각종 인기 프로그램에 출연해 이름을 날리고 있는 음식평론가 황교익이 몇달 전 라디오에 출연해 한 발언이 뒤늦게 주목 받고 있다.\n지난 4월 21일 TBS라디오 '김어준의 뉴스공장'에 출연한 황교익은 현대인들 사이에서 생겨나는 혼밥 문화에 대해 이야기를 나눴다.\n이날 방송에서 황교익은 혼밥 문화를 비판적으로 바라봤다.\n노숙인을 예로 들며 \\\"무료급식소 풍경을 보면 노숙인들이 말을 하지 않고 혼자만의 공간에서 밥을 먹는다. 오랫동안 소통하는 법을 잊어버린 것\\\"이라며 \\\"이는 600만년 동안 이어져 온 유구한 전통에서 벗어나는 것\\\"이라고 말했다.\n김어준이 '인간관계에서 오는 스트레스, 감정노동을 피하려고 혼밥하는 사람들도 있지 않나'라고 주장하자 황교익은 \\\"극복해야 한다\\\"며 \\\"우리 인간은 혼자 살 수 없는 동물이고, 감정노동이 싫다고 해서 '나는 나 혼자 행동하겠다'고 하면 점점 숨어들지 않나. 그게 자폐다. 사회적 자폐\\\"라고 덧붙였다.\n다소 거친 표현으로 혼밥 문화를 지적한 황교익의 해당 발언은 현재 일부 네티즌 사이에서 논란을 빚고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "각종 인기 프로그램에 출연해 이름을 날리고 있는 음식평론가 황교익이 몇달 전 라디오에 출연해 한 발언이 뒤늦게 주목 받고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 4월 21일 TBS라디오 '김어준의 뉴스공장'에 출연한 황교익은 현대인들 사이에서 생겨나는 혼밥 문화에 대해 이야기를 나눴다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 황교익은 혼밥 문화를 비판적으로 바라봤다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노숙인을 예로 들며 \\\"무료급식소 풍경을 보면 노숙인들이 말을 하지 않고 혼자만의 공간에서 밥을 먹는다. 오랫동안 소통하는 법을 잊어버린 것\\\"이라며 \\\"이는 600만년 동안 이어져 온 유구한 전통에서 벗어나는 것\\\"이라고 말했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김어준이 '인간관계에서 오는 스트레스, 감정노동을 피하려고 혼밥하는 사람들도 있지 않나'라고 주장하자 황교익은 \\\"극복해야 한다\\\"며 \\\"우리 인간은 혼자 살 수 없는 동물이고, 감정노동이 싫다고 해서 '나는 나 혼자 행동하겠다'고 하면 점점 숨어들지 않나. 그게 자폐다. 사회적 자폐\\\"라고 덧붙였다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다소 거친 표현으로 혼밥 문화를 지적한 황교익의 해당 발언은 현재 일부 네티즌 사이에서 논란을 빚고 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황교익, \\\"혼밥은 마음의 병이고 사회적 자폐\\\" 발언 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

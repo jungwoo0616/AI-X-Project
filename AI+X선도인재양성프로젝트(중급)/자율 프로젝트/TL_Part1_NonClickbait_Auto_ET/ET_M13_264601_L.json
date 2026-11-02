@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264601",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "산다라박, 뺄 살이 어디있다고…혹독한 식단 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 투애니원 출신 산다라박이 하루 식단을 공개했다.\n산다라박은 22일 자신의 사회관계망서비스(SNS)에 사진을 올려 식단을 공유했다.\n식단은 바나나 2개, 계란 2개, 고구마 1개로 한눈에 보기에도 양이 작았다.\n얼마나 철저한 식단 관리를 하는지 알 수 있는 대목이다.\n산다라박은 “오늘 나의 식량 바리바리 싸서 챙겨 왔는데”라며 공개한 사진이 하루 식단이라고 밝혔다.\n이어 “나 혼자 북 치고 장구치고, 누가 시킨 건 아니지만 나와의 약속을 위하여! 고독한 자기관리중”이라며 철저한 식단을 지킨다고 밝혔다.\n또한 “내가 작년, 재작년에 예쁜 크롭티들을 엄청 사놓고 한 번도 못 입었거든. 올해는 좀 입어야 되지 않겠어?”라며 확실한 목표 의식을 밝혔다.\n한편 산다라박은 MBC ‘복면가왕’ 등 다양한 프로그램에 출연하며 활발하게 활동 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 투애니원 출신 산다라박이 하루 식단을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "산다라박은 22일 자신의 사회관계망서비스(SNS)에 사진을 올려 식단을 공유했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "식단은 바나나 2개, 계란 2개, 고구마 1개로 한눈에 보기에도 양이 작았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "얼마나 철저한 식단 관리를 하는지 알 수 있는 대목이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산다라박은 “오늘 나의 식량 바리바리 싸서 챙겨 왔는데”라며 공개한 사진이 하루 식단이라고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “나 혼자 북 치고 장구치고, 누가 시킨 건 아니지만 나와의 약속을 위하여! 고독한 자기관리중”이라며 철저한 식단을 지킨다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 “내가 작년, 재작년에 예쁜 크롭티들을 엄청 사놓고 한 번도 못 입었거든. 올해는 좀 입어야 되지 않겠어?”라며 확실한 목표 의식을 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 산다라박은 MBC ‘복면가왕’ 등 다양한 프로그램에 출연하며 활발하게 활동 중이다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "산다라박, 뺄 살이 어디있다고…혹독한 식단 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

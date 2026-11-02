@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277791",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이승환, \\\"박근혜 하야하라\\\" 현수막 다시 걸어…\\\"법률자문 얻었다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "항의 신고로 '박근혜는 하야하라'는 현수막을 철거한 가수 이승환이 4일 법률 자문을 얻어 현수막을 다시 걸었다.\n이승환은 3일 자신의 페이스북에 \\\"비영리 목적으로, 단체나 개인이 적법한 정치활동을 위한 행사 또는 집회 등에 사용하기 위한 옥외 광고물은 허가나 신고 없이 설치가 가능하다고 하여 변호사의 자문을 받아 적법하게 거치했다\\\"는 글과 함께 사진을 공개했다.\n이승환은 서울 강동구 성내동에 위치한 드림팩토리클럽 건물에 '박근혜는 하야하라'는 문구가 적인 현수막을 걸었다.\n현수막에는 \\\"가자 민주주의로\\\"라는 글과 함께 11월 12일이라는 촛불집회 일자도 적혀있다.\n앞서 이승환은 1일 자신의 건물에 \\\"박근혜는 하야하라\\\"는 현수막을 걸었다가 철거했다.\n이승환은 \\\"항의 신고가 들어와 경찰이 다녀가기도 했고 불법일 수도 있다고 해서 철거한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "항의 신고로 '박근혜는 하야하라'는 현수막을 철거한 가수 이승환이 4일 법률 자문을 얻어 현수막을 다시 걸었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이승환은 3일 자신의 페이스북에 \\\"비영리 목적으로, 단체나 개인이 적법한 정치활동을 위한 행사 또는 집회 등에 사용하기 위한 옥외 광고물은 허가나 신고 없이 설치가 가능하다고 하여 변호사의 자문을 받아 적법하게 거치했다\\\"는 글과 함께 사진을 공개했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이승환은 서울 강동구 성내동에 위치한 드림팩토리클럽 건물에 '박근혜는 하야하라'는 문구가 적인 현수막을 걸었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현수막에는 \\\"가자 민주주의로\\\"라는 글과 함께 11월 12일이라는 촛불집회 일자도 적혀있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 이승환은 1일 자신의 건물에 \\\"박근혜는 하야하라\\\"는 현수막을 걸었다가 철거했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이승환은 \\\"항의 신고가 들어와 경찰이 다녀가기도 했고 불법일 수도 있다고 해서 철거한다\\\"고 말했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승환, \\\"박근혜 하야하라\\\" 현수막 다시 걸어…\\\"법률자문 얻었다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

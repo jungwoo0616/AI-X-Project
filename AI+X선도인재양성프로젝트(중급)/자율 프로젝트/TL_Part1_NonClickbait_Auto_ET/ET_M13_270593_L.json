@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270593",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "프로골퍼 스포테이너 박희주, 모델 뺨치네",
+		"newsSubTitle": "",
+		"newsContent": "프로골퍼 출신 스포테이너 박희주가 일상 모습을 찍은 사진을 18일 공개했다.\n박희주는 S&A 엔터테인먼트와 전속 계약을 체결하고 프로골퍼 외에도 미디어 프로로 다양한 활동을 예고했다.\n박희주는 11살 때 골프에 입문하여, 제28회 한국 골프선수권 대회, SBS GOLF 박카스배, 서울특별시 협회장배 등에서 우승을 거뒀다.\n박희주는 엔터테이너로 S&A 엔터테인먼트와 뉴시스 언론사가 공동 제작한 골린이들을 위한 프로들의 필드레슨 유튜브 ‘미소골프TV 1’에 출연하며 스포테이너 시청자들에게 처음 얼굴을 알렸다.\n이후 SG 골프에서 주최하는 더매치챔피언십에 결승전에 오르며, 19일 오는 내일 8시 30분에 SBS golf 채널에 결승전이 방송된다.\n최근 박희주는 개인 SNS에 자신의 일상을 업로드하면서, 그린에서 보여준 미모와는 또 다른 눈부신 비주얼로 팬들을 감탄하게 만들었다.\n앞으로 다양한 방송 활동을 예고한 박희주의 소속사 S&A 엔터테인먼트는 문지은, 정수정, 고나혜, 홍주연, 김나유, 김진석, 김수현, 소민수, 강소연, 이호준, 최선희, 김민지 등 프로 골프 선수들이 전속으로 소속되어 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프로골퍼 출신 스포테이너 박희주가 일상 모습을 찍은 사진을 18일 공개했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박희주는 S&A 엔터테인먼트와 전속 계약을 체결하고 프로골퍼 외에도 미디어 프로로 다양한 활동을 예고했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박희주는 11살 때 골프에 입문하여, 제28회 한국 골프선수권 대회, SBS GOLF 박카스배, 서울특별시 협회장배 등에서 우승을 거뒀다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박희주는 엔터테이너로 S&A 엔터테인먼트와 뉴시스 언론사가 공동 제작한 골린이들을 위한 프로들의 필드레슨 유튜브 ‘미소골프TV 1’에 출연하며 스포테이너 시청자들에게 처음 얼굴을 알렸다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 SG 골프에서 주최하는 더매치챔피언십에 결승전에 오르며, 19일 오는 내일 8시 30분에 SBS golf 채널에 결승전이 방송된다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 박희주는 개인 SNS에 자신의 일상을 업로드하면서, 그린에서 보여준 미모와는 또 다른 눈부신 비주얼로 팬들을 감탄하게 만들었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞으로 다양한 방송 활동을 예고한 박희주의 소속사 S&A 엔터테인먼트는 문지은, 정수정, 고나혜, 홍주연, 김나유, 김진석, 김수현, 소민수, 강소연, 이호준, 최선희, 김민지 등 프로 골프 선수들이 전속으로 소속되어 있다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "프로골퍼 스포테이너 박희주, 모델 뺨치네",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

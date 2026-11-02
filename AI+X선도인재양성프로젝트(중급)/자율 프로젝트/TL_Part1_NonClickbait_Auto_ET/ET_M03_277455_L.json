@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277455",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'로리타 논란' 수지 화보집 촬영장 꽃집 주인의 글",
+		"newsSubTitle": "",
+		"newsContent": "최근 논란이 계속되고 있는 수지 화보집 'suzy? suzy.' 촬영장 꽃집 주인이 인스타그램에 사진을 게재했다.\n아이디 'greengraphy_j'를 사용하는 주인은 \\\"2년 전 수지가 작업실에 와 사진을 찍혔다\\\"며 글을 시작했다.\n이어 \\\"정말 실제인지 아닌지 얼떨떨 했는데 내가 짝짝이로 쓰는 고무장갑을 발견하고 끼고 싶다고 했고\\\"라며 고무장갑 사진을 찍게된 배경을 설명했다.\n또한 \\\"처음 작업실 오픈했을 때 지인께 받은 선물을 머리에 쓰기도 물통을 놓인 꽃을 머리에 꽂기도 자유롭게 슬리퍼를 신은 채 바닥에 철퍼덕 주저앉기도 했다\\\"라며 당시 촬영 상황을 묘사했다.\n끝으로 \\\"나는 반사판 없이 카메라 하나에 의존하며 즉흥적 표현에 자유로운 그녀에 감탄했다. 날것 그대로가 컨셉이었다\\\"며 수지 화보집의 전반적인 콘셉트를 소개하며 글을 마무리했다.\n한편 수지 화보집 논란이 지속되자 수지의 소속사는 \\\"수지 화보와 관련해 논란이 되고 있는 글은 수지와 작가의 의도와는 전혀 무관하다\\\"고 입장을 밝혔지만, 많은 사람들은 \\\"수지가 직접 해명해야 한다\\\"며 수지의 직접 해명을 요구하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 논란이 계속되고 있는 수지 화보집 'suzy? suzy.' 촬영장 꽃집 주인이 인스타그램에 사진을 게재했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이디 'greengraphy_j'를 사용하는 주인은 \\\"2년 전 수지가 작업실에 와 사진을 찍혔다\\\"며 글을 시작했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"정말 실제인지 아닌지 얼떨떨 했는데 내가 짝짝이로 쓰는 고무장갑을 발견하고 끼고 싶다고 했고\\\"라며 고무장갑 사진을 찍게된 배경을 설명했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 \\\"처음 작업실 오픈했을 때 지인께 받은 선물을 머리에 쓰기도 물통을 놓인 꽃을 머리에 꽂기도 자유롭게 슬리퍼를 신은 채 바닥에 철퍼덕 주저앉기도 했다\\\"라며 당시 촬영 상황을 묘사했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "끝으로 \\\"나는 반사판 없이 카메라 하나에 의존하며 즉흥적 표현에 자유로운 그녀에 감탄했다. 날것 그대로가 컨셉이었다\\\"며 수지 화보집의 전반적인 콘셉트를 소개하며 글을 마무리했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 수지 화보집 논란이 지속되자 수지의 소속사는 \\\"수지 화보와 관련해 논란이 되고 있는 글은 수지와 작가의 의도와는 전혀 무관하다\\\"고 입장을 밝혔지만, 많은 사람들은 \\\"수지가 직접 해명해야 한다\\\"며 수지의 직접 해명을 요구하고 있다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'로리타 논란' 수지 화보집 촬영장 꽃집 주인의 글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

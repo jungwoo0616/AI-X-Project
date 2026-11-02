@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263945",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "김새벽, 새 노래 ‘D-DAY(다시 너에게)’로 컴백",
+		"newsSubTitle": "",
+		"newsContent": "‘러브송 장인’ 싱어송라이터 김새벽이 헤어짐과 설렘의 이야기를 담은 신곡으로 돌아왔다.\n15일 정오 각종 음원사이트를 통해 김새벽의 새 싱글 ’D-DAY(다시 너에게)’가 공개됐다. 싱글 ’D-DAY(다시 너에게)’는 헤어진 후 다시 만날 때의 설렘을 노래한 곡으로, 김새벽만의 소프트한 보이스와 아름다운 선율이 만나 한편의 드라마를 떠올리게 하는 노래다.\n김새벽은 신곡에 대해 “헤어짐은 참 아프고 만남은 설렌다. 헤어진 연인이 상대방을 만나러 갈 때 어떤 마음으로 어떤 설렘을 가지고 갈까 많은 생각을 하며 헤어졌기에 조금은 슬프기도 하지만 다시 만나는 그 설렘을 곡으로 표현했다”며 숨은 메시지를 밝혔다.\n앞서 김새벽은 로칼하이레코즈를 통해 매 앨범마다 진솔한 가사로 리스너들의 마음을 다독였으며, 그만의 음악 색깔로 깊은 울림을 선사해 이목을 끌고 있다.\n신곡‘D-DAY(다시 너에게)’는 다시 한 번 김새벽만의 감성을 담은 곡으로 많은 기대를 모으고 있다.\n김새벽의 감성과 음색을 담은 싱글‘D-DAY(다시 너에게)’는 15일 각종 음원사이트를 통해 공개됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘러브송 장인’ 싱어송라이터 김새벽이 헤어짐과 설렘의 이야기를 담은 신곡으로 돌아왔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 정오 각종 음원사이트를 통해 김새벽의 새 싱글 ’D-DAY(다시 너에게)’가 공개됐다. 싱글 ’D-DAY(다시 너에게)’는 헤어진 후 다시 만날 때의 설렘을 노래한 곡으로, 김새벽만의 소프트한 보이스와 아름다운 선율이 만나 한편의 드라마를 떠올리게 하는 노래다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김새벽은 신곡에 대해 “헤어짐은 참 아프고 만남은 설렌다. 헤어진 연인이 상대방을 만나러 갈 때 어떤 마음으로 어떤 설렘을 가지고 갈까 많은 생각을 하며 헤어졌기에 조금은 슬프기도 하지만 다시 만나는 그 설렘을 곡으로 표현했다”며 숨은 메시지를 밝혔다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 김새벽은 로칼하이레코즈를 통해 매 앨범마다 진솔한 가사로 리스너들의 마음을 다독였으며, 그만의 음악 색깔로 깊은 울림을 선사해 이목을 끌고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신곡‘D-DAY(다시 너에게)’는 다시 한 번 김새벽만의 감성을 담은 곡으로 많은 기대를 모으고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김새벽의 감성과 음색을 담은 싱글‘D-DAY(다시 너에게)’는 15일 각종 음원사이트를 통해 공개됐다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김새벽, 새 노래 ‘D-DAY(다시 너에게)’로 컴백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

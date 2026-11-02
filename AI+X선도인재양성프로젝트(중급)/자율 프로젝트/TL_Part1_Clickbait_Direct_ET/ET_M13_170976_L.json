@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170976",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "왁스, 신곡 ‘그립고 그립다’로 컴백",
+    "newsSubTitle": "",
+    "newsContent": "가수 왁스가 올가을 리스너들의 감성을 채울 신곡을 발표한다. 24일 소속사 운트스엔터테인먼트는 “왁스가 오는 26일 새 싱글 ‘그립고 그립다’를 발매한다”라고 밝혔다. ‘그립고 그립다’는 가을과 겨울의 시린 감성을 담아낸 소울풀한 발라드 곡이다.\n분위기 있는 리듬 편곡과 왁스의 트레이드마크인 애절하고 짙은 목소리가 어우러져 올가을과 겨울을 수놓을 명곡 탄생을 기대케 한다.\n성시경의 ‘너의 모든 순간’, 어쿠스틱 콜라보의 ‘묘해, 너와’ 등 히트곡을 탄생시킨 히트곡 메이커 심현보가 ‘그때 우리 말이야’에 이어 왁스와 다시 한번 의기투합했다.\n심현보의 감성적이면서 애잔한 가사와 멜로디가 왁스의 독보적인 음색과 만나 한층 더 깊은 울림과 여운을 선사할 예정이다.\n왁스는 지난해 SBS 플러스 ‘내게 ON 트롯’에 출연해, 생애 첫 트로트 도전이 믿기지 않을만큼 안정적인 가창력으로 우승을 차지했다.\n뿐만 아니라 ‘오! 삼광빌라!’, ‘결혼작사 이혼작곡’ 등 인기 드라마 OST 참여는 물론 ‘반대로 인 거야’, ‘그때 우리 말이야’ 등 곡을 발표하며 활발한 음악 활동을 펼치고 있다.\n왁스의 신곡 ‘그립고 그립다’는 오는 26일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 왁스가 올가을 리스너들의 감성을 채울 신곡을 발표한다. 24일 소속사 운트스엔터테인먼트는 “왁스가 오는 26일 새 싱글 ‘그립고 그립다’를 발매한다”라고 밝혔다. ‘그립고 그립다’는 가을과 겨울의 시린 감성을 담아낸 소울풀한 발라드 곡이다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "분위기 있는 리듬 편곡과 왁스의 트레이드마크인 애절하고 짙은 목소리가 어우러져 올가을과 겨울을 수놓을 명곡 탄생을 기대케 한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "성시경의 ‘너의 모든 순간’, 어쿠스틱 콜라보의 ‘묘해, 너와’ 등 히트곡을 탄생시킨 히트곡 메이커 심현보가 ‘그때 우리 말이야’에 이어 왁스와 다시 한번 의기투합했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심현보의 감성적이면서 애잔한 가사와 멜로디가 왁스의 독보적인 음색과 만나 한층 더 깊은 울림과 여운을 선사할 예정이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "왁스는 지난해 SBS 플러스 ‘내게 ON 트롯’에 출연해, 생애 첫 트로트 도전이 믿기지 않을만큼 안정적인 가창력으로 우승을 차지했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뿐만 아니라 ‘오! 삼광빌라!’, ‘결혼작사 이혼작곡’ 등 인기 드라마 OST 참여는 물론 ‘반대로 인 거야’, ‘그때 우리 말이야’ 등 곡을 발표하며 활발한 음악 활동을 펼치고 있다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "왁스의 신곡 ‘그립고 그립다’는 오는 26일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "안정적인 가창력의 '이 가수', 신곡 ‘그립고 그립다' 발매",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269886",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김혜수, 故강수연 향한 마지막 인사",
+		"newsSubTitle": "",
+		"newsContent": "배우 김혜수가 故강수연을 추모했다.\n김혜수는 11일 오후 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 프레디 머큐리의 ‘Love Me Like There’s No Tomorrow’(러브 미 라이크 데어스 노 투모로우) 가사 일부를 공유했다.\n김혜수가 인용한 가사는 “we were born to be just losers. anthing can happen. this is our last goodbye and very soon it will be over”(우리는 패배자로 태어났다. 무슨일이든 일어날 수 있다. 이것이 마지막 작별이고 곧 끝날 것이다)이다.\n그는 강수연을 향한 그리움을 나타냈다.\n또 김혜수는 생전 고인이 출연했던 작품 ‘씨받이’, ‘청춘스케치’, ‘아제 아제 바라아제’, ‘경마장 가는 길’ 등을 올렸다.\n故강수연은 임권택 감독의 ‘씨받이’로 1986년 베니스국제영화제 여우주연상을 받으며 한국 영화 최초 월드스타가 됐고, 1989년 작 ‘아제 아제 바라아제’에서는 삭발 연기 혼으로 화제를 모으며 모스크바국제영화제에서 최우수 여자배우상을 수상한 바 있다.\n강수연은 총 10번의 여우주연상을 받으며 한국 영화계 발전에 큰 이바지를 했다.\n故강수연은 지난 5일 서울 강남구 압구정동 자택에서 심정지 상태로 발견됐다.\n뇌내출혈(ICH) 진단을 받아 중환자실 치료를 받았지만 끝내 의식을 되찾지 못하고 7일 오후 3시 세상을 떠났다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김혜수가 故강수연을 추모했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김혜수는 11일 오후 자신의 사회관계망서비스(SNS) 인스타그램 스토리에 프레디 머큐리의 ‘Love Me Like There’s No Tomorrow’(러브 미 라이크 데어스 노 투모로우) 가사 일부를 공유했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김혜수가 인용한 가사는 “we were born to be just losers. anthing can happen. this is our last goodbye and very soon it will be over”(우리는 패배자로 태어났다. 무슨일이든 일어날 수 있다. 이것이 마지막 작별이고 곧 끝날 것이다)이다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 강수연을 향한 그리움을 나타냈다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 김혜수는 생전 고인이 출연했던 작품 ‘씨받이’, ‘청춘스케치’, ‘아제 아제 바라아제’, ‘경마장 가는 길’ 등을 올렸다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "故강수연은 임권택 감독의 ‘씨받이’로 1986년 베니스국제영화제 여우주연상을 받으며 한국 영화 최초 월드스타가 됐고, 1989년 작 ‘아제 아제 바라아제’에서는 삭발 연기 혼으로 화제를 모으며 모스크바국제영화제에서 최우수 여자배우상을 수상한 바 있다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강수연은 총 10번의 여우주연상을 받으며 한국 영화계 발전에 큰 이바지를 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "故강수연은 지난 5일 서울 강남구 압구정동 자택에서 심정지 상태로 발견됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "뇌내출혈(ICH) 진단을 받아 중환자실 치료를 받았지만 끝내 의식을 되찾지 못하고 7일 오후 3시 세상을 떠났다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김혜수, 故강수연 향한 마지막 인사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

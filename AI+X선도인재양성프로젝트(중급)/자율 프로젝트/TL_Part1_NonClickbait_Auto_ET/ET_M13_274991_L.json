@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274991",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘돈쭐내러 왔습니다2’ 왕중왕전, 초밥 572개 먹방",
+		"newsSubTitle": "",
+		"newsContent": "‘돈쭐내러 왔습니다2’ 먹요원들이 총 572개의초밥을 해치워 감탄을 자아낸다.\n7일 오후 8시 30분방송되는 채널 IHQ 예능 프로그램 ‘돈쭐내러 왔습니다2’ 14회에는 서울특별시 관악구 신림동에 위치한 한 회전 초밥 맛집을 ‘돈쭐(돈으로혼쭐)’ 내주는 먹피아 조직의 모습이 공개된다.\n의뢰인은 절친한 친구의 가게를 ‘돈쭐’ 내달라고 요청하고, 이를받아들인 ‘먹보스’ 이영자는 “120분 안에 무조건 많이 먹어라”며 ‘먹요원들의왕중왕전’을 선언한다.\n아미, 만리, 소유비와 쏘영, 수향, 먹갱이차례로 투입돼 본격적인 먹방에 돌입한다.\n먹요원들의 상상초월 먹방 스피드에 놀란 사장님이 “설마 짐승이신가”라고 평할 정도다.\n먹요원들 중에서도 최약체로 꼽히는 쏘영이 점차 힘들어하는 모습을 보이고, 이영자와의 전화 통화해서 “삐뚤어질거다”라고 예고해 웃음을 안긴다.\n이영자 역시 중2병에 걸린 쏘영에게 “이미 삐뚤어졌다”라고응수해 다시 한번 폭소를 유발한다.\n방송 말미, 총 572개의 초밥을 먹어 사장님을 경악하게 만든 먹요원들 중에서도상위권 세 명은 각자 100개가 넘는 초밥을 해치워 이영자, 제이쓴의 인정을 받았다는 후문이다. ‘돈쭐내러 왔습니다2’ 왕중왕전의 왕관은 누가 차지할것인지, 7일 오후 8시 30분 IHQ에서 안방극장에 배송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘돈쭐내러 왔습니다2’ 먹요원들이 총 572개의초밥을 해치워 감탄을 자아낸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 오후 8시 30분방송되는 채널 IHQ 예능 프로그램 ‘돈쭐내러 왔습니다2’ 14회에는 서울특별시 관악구 신림동에 위치한 한 회전 초밥 맛집을 ‘돈쭐(돈으로혼쭐)’ 내주는 먹피아 조직의 모습이 공개된다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의뢰인은 절친한 친구의 가게를 ‘돈쭐’ 내달라고 요청하고, 이를받아들인 ‘먹보스’ 이영자는 “120분 안에 무조건 많이 먹어라”며 ‘먹요원들의왕중왕전’을 선언한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아미, 만리, 소유비와 쏘영, 수향, 먹갱이차례로 투입돼 본격적인 먹방에 돌입한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "먹요원들의 상상초월 먹방 스피드에 놀란 사장님이 “설마 짐승이신가”라고 평할 정도다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "먹요원들 중에서도 최약체로 꼽히는 쏘영이 점차 힘들어하는 모습을 보이고, 이영자와의 전화 통화해서 “삐뚤어질거다”라고 예고해 웃음을 안긴다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이영자 역시 중2병에 걸린 쏘영에게 “이미 삐뚤어졌다”라고응수해 다시 한번 폭소를 유발한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "방송 말미, 총 572개의 초밥을 먹어 사장님을 경악하게 만든 먹요원들 중에서도상위권 세 명은 각자 100개가 넘는 초밥을 해치워 이영자, 제이쓴의 인정을 받았다는 후문이다. ‘돈쭐내러 왔습니다2’ 왕중왕전의 왕관은 누가 차지할것인지, 7일 오후 8시 30분 IHQ에서 안방극장에 배송된다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘돈쭐내러 왔습니다2’ 왕중왕전, 초밥 572개 먹방",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

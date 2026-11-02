@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260481",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "홍영기 “저 진짜 결혼 하나 봐요”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 겸 온라인 쇼핑몰 사업가 홍영기가 9일 웨딩드레스를 입은 자태를 공개했다.\n홍영기는 SNS에 “저 진짜 결혼 하나 봐요…남편 앞에서 웨딩촬영 때 입을 드레스 피팅하는데 어찌나 설레던지…남편이 저를 딱 보자마자 진짜 ‘우와’라는 소리가 나왔대요”라는 글과 함께 사진 여러 장을 게재했다.\n사진에는 다양한 스타일의 드레스를 소화한 홍영기 모습이 담겨있다.\n앞서 홍영기는 “올해 결혼 10년 차라 드디어 결혼식을 올리려고 한다”며 결혼식을 준비 중이라고 밝혔다.\n홍영기는 2009년 코미디TV ‘얼짱시대’에 출연하며 얼굴을 알렸다.\n2012년 3세 연하 이세용과 결혼했고, 슬하에 두 아들을 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 겸 온라인 쇼핑몰 사업가 홍영기가 9일 웨딩드레스를 입은 자태를 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍영기는 SNS에 “저 진짜 결혼 하나 봐요…남편 앞에서 웨딩촬영 때 입을 드레스 피팅하는데 어찌나 설레던지…남편이 저를 딱 보자마자 진짜 ‘우와’라는 소리가 나왔대요”라는 글과 함께 사진 여러 장을 게재했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 다양한 스타일의 드레스를 소화한 홍영기 모습이 담겨있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 홍영기는 “올해 결혼 10년 차라 드디어 결혼식을 올리려고 한다”며 결혼식을 준비 중이라고 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍영기는 2009년 코미디TV ‘얼짱시대’에 출연하며 얼굴을 알렸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2012년 3세 연하 이세용과 결혼했고, 슬하에 두 아들을 두고 있다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍영기 “저 진짜 결혼 하나 봐요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260342",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "붉은 머리, 전지윤[화보]",
+		"newsSubTitle": "",
+		"newsContent": "포미닛 출신 가수 전지윤이 몽환적인 매력을 발산했다.\n전지윤은 패션지 bnt가 8일 공개한 화보에서 히피 파마로 유니크한 무드를 드러내는가 하면 아방가르드한 스타일까지 완벽 소화했다.\n전지윤은 3월 발매 예정인 ‘크레이지 드라이버(Crazy Driver)’에 대해 “프레젠트의 첫 미니앨범으로 총 6곡이 담긴다. 운전하면서 스트레스를 해소할 수 있는 일렉트로닉 베이스의 음악이다. ‘차 안 음감회’라는 콘셉트로 크라우드펀딩을 진행할 예정이니 많은 관심 부탁드린다”고 소개했다.\n전지윤은 2016년을 기점으로 솔로 가수 행보를 걷고 있다.\n직접 작사·작곡에 참여하는가 하면 프레젠트(PRSNT) 혼성 밴드를 결성해 스펙트럼을 넓히고 있다.\n최근 ‘숲’과 ‘밤사이’로 꾸준한 활동을 펼쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포미닛 출신 가수 전지윤이 몽환적인 매력을 발산했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전지윤은 패션지 bnt가 8일 공개한 화보에서 히피 파마로 유니크한 무드를 드러내는가 하면 아방가르드한 스타일까지 완벽 소화했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전지윤은 3월 발매 예정인 ‘크레이지 드라이버(Crazy Driver)’에 대해 “프레젠트의 첫 미니앨범으로 총 6곡이 담긴다. 운전하면서 스트레스를 해소할 수 있는 일렉트로닉 베이스의 음악이다. ‘차 안 음감회’라는 콘셉트로 크라우드펀딩을 진행할 예정이니 많은 관심 부탁드린다”고 소개했다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전지윤은 2016년을 기점으로 솔로 가수 행보를 걷고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "직접 작사·작곡에 참여하는가 하면 프레젠트(PRSNT) 혼성 밴드를 결성해 스펙트럼을 넓히고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 ‘숲’과 ‘밤사이’로 꾸준한 활동을 펼쳤다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "붉은 머리, 전지윤[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170912",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "나영석 PD, 상반기 보수 10억 8000만원",
+    "newsSubTitle": "",
+    "newsContent": "CJ ENM 소속 나영석 PD 상반기 보수가 10억을 넘어 CJ그룹 오너 일가보다 많은 것으로 전해졌다.\n17일 CJ ENM이 제출한 반기보고서에 따르면 나 PD는 올해 상반기 급여 1억5000만원, 상여금 9억3100만원 등 총 10억8100만원을 받았다.\nCJ ENM은 나영석 PD 보수에 대해 “사업 부문 매출, 영업이익 지표 및 제작 콘텐츠의 시청률, 화제성, 콘텐츠 판매액 등 계량 측정 지표에 기준해 콘텐츠 제작 성과를 반영했다”며 “업무 전문성, PD직군 코칭 및 사업 기여도 등을 종합 평가했다”고 설명했다.\n나 PD 연봉은 매년 화제가 되고 있다.\n지난해에도 그는 12억2900만원 연봉을 받아 CJ그룹 내에서도 5위를 기록한 바 있다.\n나영석 PD 올 상반기 보수도 이미경 CJ그룹 부회장과 이재현 CJ그룹 회장을 넘어섰다.\n이 부회장은 상반기 급여로 10억원을, 이 회장은 9억원을 받았다.\n나영석 PD는 2001년 KBS 27기 공채 프로듀서로 방송에 입문했으며 2018년 CJ ENM으로 이직해 ‘꽃보다 할배’, ‘삼시세끼’, ‘신서유기’, ‘윤식당’ 등을 연출했다.\n나 PD는 올해 온라인 동영상 서비스(OTT) 티빙에서도 프로그램을 연출하고 있다.\n한편, 드라마 ‘슬기로운 의사생활’ 시리즈를 연출한 신원호 PD는 급여 1억5000만원, 상여금 6억2700만원을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "CJ ENM 소속 나영석 PD 상반기 보수가 10억을 넘어 CJ그룹 오너 일가보다 많은 것으로 전해졌다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 CJ ENM이 제출한 반기보고서에 따르면 나 PD는 올해 상반기 급여 1억5000만원, 상여금 9억3100만원 등 총 10억8100만원을 받았다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "CJ ENM은 나영석 PD 보수에 대해 “사업 부문 매출, 영업이익 지표 및 제작 콘텐츠의 시청률, 화제성, 콘텐츠 판매액 등 계량 측정 지표에 기준해 콘텐츠 제작 성과를 반영했다”며 “업무 전문성, PD직군 코칭 및 사업 기여도 등을 종합 평가했다”고 설명했다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나 PD 연봉은 매년 화제가 되고 있다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난해에도 그는 12억2900만원 연봉을 받아 CJ그룹 내에서도 5위를 기록한 바 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "나영석 PD 올 상반기 보수도 이미경 CJ그룹 부회장과 이재현 CJ그룹 회장을 넘어섰다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 부회장은 상반기 급여로 10억원을, 이 회장은 9억원을 받았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나영석 PD는 2001년 KBS 27기 공채 프로듀서로 방송에 입문했으며 2018년 CJ ENM으로 이직해 ‘꽃보다 할배’, ‘삼시세끼’, ‘신서유기’, ‘윤식당’ 등을 연출했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "나 PD는 올해 온라인 동영상 서비스(OTT) 티빙에서도 프로그램을 연출하고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편, 드라마 ‘슬기로운 의사생활’ 시리즈를 연출한 신원호 PD는 급여 1억5000만원, 상여금 6억2700만원을 받았다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나영석 PD, 상반기 이것 억대 넘는 것으로 알려져, 도대체 얼마?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

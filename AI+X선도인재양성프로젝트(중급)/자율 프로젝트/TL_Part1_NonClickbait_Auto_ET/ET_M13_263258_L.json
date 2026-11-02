@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263258",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김우빈, 산불 피해에 1억 원 기부",
+		"newsSubTitle": "",
+		"newsContent": "배우 김우빈이 경북 울진·강원 삼척 등 산불 피해 이재민들을 위해 1억 원을 기부했다.\n희망브리지 전국재해구호협회(회장 송필호)는 8일 배우 김우빈이 산불 피해 이재민들을 위해 써달라며 1억 원을 전달했다고 밝혔다.\n희망브리지에 따르면 김우빈은 넷플릭스 시리즈 ‘택배기사’ 촬영중에도 산불 피해 소식을 접한 뒤 희망브리 측에 접촉해 기부를 진행했다.\n김우빈의 기부금은 긴급구호물품을 비롯해 피해 이재민들이 필요로 하는 여러 물품들을 지원하는 목적으로 사용될 예정이다.\n김우빈는 지난 2019년 강원 산불 때도 희망브리지를 통해 1억원을 기부했다.\n울진의 산불 피해 현장에서 지원 활동을 펼친 희망브리지 김정희 사무총장은 “김우빈 씨는 2019년 강원 산불에 이어 이번 동해안 산불에도 기부에 동참해 주어서 너무 감사하다”고 고마움을 드러내며 “이재민들이 김우빈 씨의 따뜻한 손길을 통해 하루 빨리 다시 일어설 수 있도록 최선을 다해 돕겠다”고 피해 현장의 구호에 의지를 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김우빈이 경북 울진·강원 삼척 등 산불 피해 이재민들을 위해 1억 원을 기부했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "희망브리지 전국재해구호협회(회장 송필호)는 8일 배우 김우빈이 산불 피해 이재민들을 위해 써달라며 1억 원을 전달했다고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "희망브리지에 따르면 김우빈은 넷플릭스 시리즈 ‘택배기사’ 촬영중에도 산불 피해 소식을 접한 뒤 희망브리 측에 접촉해 기부를 진행했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김우빈의 기부금은 긴급구호물품을 비롯해 피해 이재민들이 필요로 하는 여러 물품들을 지원하는 목적으로 사용될 예정이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김우빈는 지난 2019년 강원 산불 때도 희망브리지를 통해 1억원을 기부했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "울진의 산불 피해 현장에서 지원 활동을 펼친 희망브리지 김정희 사무총장은 “김우빈 씨는 2019년 강원 산불에 이어 이번 동해안 산불에도 기부에 동참해 주어서 너무 감사하다”고 고마움을 드러내며 “이재민들이 김우빈 씨의 따뜻한 손길을 통해 하루 빨리 다시 일어설 수 있도록 최선을 다해 돕겠다”고 피해 현장의 구호에 의지를 밝혔다.",
+				"sentenceSize": 185
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김우빈, 산불 피해에 1억 원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279004",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "님과함께2 윤정수, 시청률 상승에 누드시위…\\\"내 인생은 나의 것!\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘님과 함께2’의 시청률이 계속 상승하자 윤정수가 누드 시위를 계획했다.\n앞서 윤정수는 “시청률 7% 달성 시 진짜 결혼하겠다”고 공약한 바 있다. 2일 오후 방송된 ‘님과 함께 시즌2-최고의 사랑’(이하 님과 함께2)에서는 김숙-윤정수, 오나미-허경환 커플의 가상 결혼 생활 모습이 전파를 탔다.\n윤정수는 프로그램의 시청률이 높아지자 누드 시위를 벌일 것을 계획했다.\n윤정수는 시범을 보여 달라는 가상 부인 김숙의 요구에 “결혼은 미친 짓. 본방 사절. 재방만 봐달라. JTBC 시청 불가”를 외쳐 웃음을 자아냈다.\n이에 김숙은 “남자가 한번 말을 뱉었으면 끝까지 해야 되는 것 아니냐”고 응수했다.\n윤정수는 “어설프게 빙자해서 결혼하려나 본데 내 눈에 흙이 들어가기 전에는 절대 안 된다”고 말했고, 김숙은 “나도 내 인생이 소중하다”고 답했다.\n온라인 중앙일보 님과함께2 윤정수",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘님과 함께2’의 시청률이 계속 상승하자 윤정수가 누드 시위를 계획했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앞서 윤정수는 “시청률 7% 달성 시 진짜 결혼하겠다”고 공약한 바 있다. 2일 오후 방송된 ‘님과 함께 시즌2-최고의 사랑’(이하 님과 함께2)에서는 김숙-윤정수, 오나미-허경환 커플의 가상 결혼 생활 모습이 전파를 탔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윤정수는 프로그램의 시청률이 높아지자 누드 시위를 벌일 것을 계획했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤정수는 시범을 보여 달라는 가상 부인 김숙의 요구에 “결혼은 미친 짓. 본방 사절. 재방만 봐달라. JTBC 시청 불가”를 외쳐 웃음을 자아냈다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 김숙은 “남자가 한번 말을 뱉었으면 끝까지 해야 되는 것 아니냐”고 응수했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤정수는 “어설프게 빙자해서 결혼하려나 본데 내 눈에 흙이 들어가기 전에는 절대 안 된다”고 말했고, 김숙은 “나도 내 인생이 소중하다”고 답했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 님과함께2 윤정수",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "님과함께2 윤정수, 시청률 상승에 누드시위…\\\"내 인생은 나의 것!\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

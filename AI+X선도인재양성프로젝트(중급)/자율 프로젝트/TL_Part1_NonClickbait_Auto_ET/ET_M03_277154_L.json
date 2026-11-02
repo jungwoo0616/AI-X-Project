@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277154",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "개그맨 이수근 아내 박지연 투병 뒤 건강한 모습으로 방송 출연",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 이수근의 아내 박지연씨가 방송에 등장해 눈길을 끌었다.\n이수근 아내 박지연씨는 15일 채널A 프로그램 ‘아빠본색’에 출연했다.\n이날 박지연씨는 남편과 꼭 닮은 두 아아들 사진을 공개했다.\n박씨는 이수근보다 12살 연하로 결혼 전 쇼핑몰 대표(CEO)로 활동했다.\n쇼핑몰에서 직접 모델 활동했다.\n박씨는 둘째 아들 출산 후 임신 중독으로 신장 이식을 받아야 했을 정도로 건강이 악화됐다.\n한때 이수근은 인생에서 가장 힘든 순간을 묻는 질문에 “아내와 둘째 아들의 투병”이라고 말할 정도였다.\n당시 이수근은 “아내가 현재 임신중독증으로 투병 중”이라며 “신장에 무리가 와 신장 이식을 받고 투병 중이다. 임신 34주 만에 낳은 둘째 아들은 2kg의 미숙아로 태어나 뇌성마비로 치료를 받고 있다”고 말했다.\n과거 이수근은 ETN 프로그램 ‘조혜련 김병만 투캅스’에 출연해 아내 덕분에 빚을 청산하게 됐다고 털어놨다.\n그는 “결혼 전 내 재산은 마이너스 통장과 빚 6000만원이 전부였다. 자동차 할부금도 두 번밖에 안 내는 등 금전적인 부분에서 문제가 많았다. 아내는 당장 차부터 없앤 뒤 꼬박꼬박 가계부를 쓰게 했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 이수근의 아내 박지연씨가 방송에 등장해 눈길을 끌었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이수근 아내 박지연씨는 15일 채널A 프로그램 ‘아빠본색’에 출연했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 박지연씨는 남편과 꼭 닮은 두 아아들 사진을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박씨는 이수근보다 12살 연하로 결혼 전 쇼핑몰 대표(CEO)로 활동했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "쇼핑몰에서 직접 모델 활동했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박씨는 둘째 아들 출산 후 임신 중독으로 신장 이식을 받아야 했을 정도로 건강이 악화됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한때 이수근은 인생에서 가장 힘든 순간을 묻는 질문에 “아내와 둘째 아들의 투병”이라고 말할 정도였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 이수근은 “아내가 현재 임신중독증으로 투병 중”이라며 “신장에 무리가 와 신장 이식을 받고 투병 중이다. 임신 34주 만에 낳은 둘째 아들은 2kg의 미숙아로 태어나 뇌성마비로 치료를 받고 있다”고 말했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "과거 이수근은 ETN 프로그램 ‘조혜련 김병만 투캅스’에 출연해 아내 덕분에 빚을 청산하게 됐다고 털어놨다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그는 “결혼 전 내 재산은 마이너스 통장과 빚 6000만원이 전부였다. 자동차 할부금도 두 번밖에 안 내는 등 금전적인 부분에서 문제가 많았다. 아내는 당장 차부터 없앤 뒤 꼬박꼬박 가계부를 쓰게 했다”고 밝혔다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개그맨 이수근 아내 박지연 투병 뒤 건강한 모습으로 방송 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

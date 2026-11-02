@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273470",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "파트리샤, 유튜브 예능 ‘채널 빠샤’ 열었다",
+		"newsSubTitle": "",
+		"newsContent": "방송인 조나단의 동생 파트리샤가 첫 단독 유튜브 예능 프로그램 ‘채널 빠샤’를 론칭한다. ‘채널빠샤’는 방송인 조나단의 동생 파트리샤의 버킷 리스트 중 하나인 미국 여행을 위해 영어 공부에 도전하는콘텐트이다.\n영어 정복을 도와줄 멘토로는 가비, 주디, 크리스 존슨 등이 나선다.\n파트리샤는 사실 광주 사투리를 포함한 한국어를 제일 잘하는 영어 울렁증 소유자다.\n이에 울렁증을 극복하고 프리토킹으로 미국 여행을 하는 그 날을 목표로 다양한 멘토들에게 배우며 영어 도장 깨기에 도전한다.\n오늘(17일) 공개되는 첫 화에서는 외국인이 대화를 시도하자 동공이 흔들리며 한국어로 냅다 대답을 해 웃음을 자아낸다고 한다.\n또한 특별 선생님으로 나선 크리스 존슨과 ‘영어로 이미지 맞히기’, ‘영어로만 말해요’ 등 영어 레벨 테스트를 진행했다고 알려져 파트리샤의 영어 레벨은 어느 정도일지 궁금증을 자극한다.\n제작진은 “‘영잘알’로 거듭나기 위해 다방면으로 고군분투하는 모습 뿐 아니라 오빠 조나단이 없는삭막한 예능 세상에서 홀로서기를 하는 파트리샤의 성장기도 그려질 예정이다. 많은 관심 부탁드린다”고전했다.\n한편, SLL DLAB의 ‘채널 빠샤’는 17일(금)부터 매주 금요일 오후 5시에 스튜디오 룰루랄라 공식 유튜브 채널을 통해 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 조나단의 동생 파트리샤가 첫 단독 유튜브 예능 프로그램 ‘채널 빠샤’를 론칭한다. ‘채널빠샤’는 방송인 조나단의 동생 파트리샤의 버킷 리스트 중 하나인 미국 여행을 위해 영어 공부에 도전하는콘텐트이다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영어 정복을 도와줄 멘토로는 가비, 주디, 크리스 존슨 등이 나선다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "파트리샤는 사실 광주 사투리를 포함한 한국어를 제일 잘하는 영어 울렁증 소유자다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 울렁증을 극복하고 프리토킹으로 미국 여행을 하는 그 날을 목표로 다양한 멘토들에게 배우며 영어 도장 깨기에 도전한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오늘(17일) 공개되는 첫 화에서는 외국인이 대화를 시도하자 동공이 흔들리며 한국어로 냅다 대답을 해 웃음을 자아낸다고 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 특별 선생님으로 나선 크리스 존슨과 ‘영어로 이미지 맞히기’, ‘영어로만 말해요’ 등 영어 레벨 테스트를 진행했다고 알려져 파트리샤의 영어 레벨은 어느 정도일지 궁금증을 자극한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제작진은 “‘영잘알’로 거듭나기 위해 다방면으로 고군분투하는 모습 뿐 아니라 오빠 조나단이 없는삭막한 예능 세상에서 홀로서기를 하는 파트리샤의 성장기도 그려질 예정이다. 많은 관심 부탁드린다”고전했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, SLL DLAB의 ‘채널 빠샤’는 17일(금)부터 매주 금요일 오후 5시에 스튜디오 룰루랄라 공식 유튜브 채널을 통해 볼 수 있다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파트리샤, 유튜브 예능 ‘채널 빠샤’ 열었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275223",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘오픈런’ 전진 “♥이서와 함께” 꿀 뚝뚝",
+		"newsSubTitle": "",
+		"newsContent": "가수 전진이 아내에 대한 애정을 드러냈다.\n오는 12일 SBS플러스 예능 프로그램 ‘오픈런’에서는 프랑스의 숨은 도시들에 대해 살펴본다.\n첫번째는 프랑스인들이 은퇴 후 가장 살고 싶어 하는 도시 안시다.\n전진은 유럽에서 가장 깨끗한 수질을 자랑하는 에메랄드 빛 안시 호수와 옛 모습을 그대로 간직한 구시가지의 동화 같은 풍경을 보며 “안시에 가면 돈이 아깝다는 생각이 전혀 들지 않겠다”라며 감탄한다.\n두번째는 알프스의 만년설을 보며 스파를 즐길 수 있는 환상적인 도시 샤모니다.\n샤모니의 매력에 푹 빠진 정해진은 “위시리스트 1번이 바뀌었다. 올 겨울에는 꼭 샤모니로 오픈런할 거다”라고 다짐한다.\n이를 본 전진은 “영상을 보니 아내와 함께 꼭 가보고 싶다”고 말하며 사랑꾼의 면모를 보인다.\n마지막 도시는 프랑스 최대의 휴양 도시이자 전 세계에서 가장 아름다운 해변으로 손꼽히는 곳 니스다.\n그 중 SNS 인증샷 스폿으로 유명한 곳은 어디일까. 12일 오전 9시 방송되는 SBS플러스 ‘오픈런’에서확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 전진이 아내에 대한 애정을 드러냈다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 12일 SBS플러스 예능 프로그램 ‘오픈런’에서는 프랑스의 숨은 도시들에 대해 살펴본다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫번째는 프랑스인들이 은퇴 후 가장 살고 싶어 하는 도시 안시다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전진은 유럽에서 가장 깨끗한 수질을 자랑하는 에메랄드 빛 안시 호수와 옛 모습을 그대로 간직한 구시가지의 동화 같은 풍경을 보며 “안시에 가면 돈이 아깝다는 생각이 전혀 들지 않겠다”라며 감탄한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두번째는 알프스의 만년설을 보며 스파를 즐길 수 있는 환상적인 도시 샤모니다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "샤모니의 매력에 푹 빠진 정해진은 “위시리스트 1번이 바뀌었다. 올 겨울에는 꼭 샤모니로 오픈런할 거다”라고 다짐한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 전진은 “영상을 보니 아내와 함께 꼭 가보고 싶다”고 말하며 사랑꾼의 면모를 보인다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "마지막 도시는 프랑스 최대의 휴양 도시이자 전 세계에서 가장 아름다운 해변으로 손꼽히는 곳 니스다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그 중 SNS 인증샷 스폿으로 유명한 곳은 어디일까. 12일 오전 9시 방송되는 SBS플러스 ‘오픈런’에서확인할 수 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘오픈런’ 전진 “♥이서와 함께” 꿀 뚝뚝",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

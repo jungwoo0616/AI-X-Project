@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265901",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘MBC 백분토론’ 무산 이준석 “다른 방송 조율중”",
+		"newsSubTitle": "",
+		"newsContent": "장애인 권리 예산을 요구하는 지하철 시위를 둘러싸고 설전을 벌여온 국민의힘 이준석 대표와 전국장애인차별철폐연대(전장연) 측의 MBC 백분토론 방송이 무산됐다.\n이 대표는 4일 SNS 글에 “세가지 요구 사안이 있었는데 단 하나도 MBC에서 받아들여진 것이 없었다”고 썼다.\n이준석 대표 요구 사항은 ▲ 1:1 토론 ▲ 사회자 김어준 ▲ 일정은 4월 7일 이후 등이다.\n이 대표는 “토론을 제가 왜 회피하나. 나중에는 사회자 문제도 방송사 마음대로 하라고 했는데 ‘1:1 토론’ 조건을 못 맞춰준 게 MBC였다”고 덧붙였다.\nMBC 백분토론은 무산됐지만 다른 방송사에서의 토론 일정을 조율 중이라고 이 대표 측은 전했다.\n그간 이 대표는 SNS 등을 통해 전장연의 지하철 시위를 거듭 비판하면서 전장연 측과 갑론을박을 주고 받아왔다.\n전장연 측이 지난달 31일 이 대표에게 이 문제로 100분간 공개 토론을 제안하자, 이 대표는 ‘1대 1로 무제한 토론하자’며 응수했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장애인 권리 예산을 요구하는 지하철 시위를 둘러싸고 설전을 벌여온 국민의힘 이준석 대표와 전국장애인차별철폐연대(전장연) 측의 MBC 백분토론 방송이 무산됐다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 대표는 4일 SNS 글에 “세가지 요구 사안이 있었는데 단 하나도 MBC에서 받아들여진 것이 없었다”고 썼다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이준석 대표 요구 사항은 ▲ 1:1 토론 ▲ 사회자 김어준 ▲ 일정은 4월 7일 이후 등이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 대표는 “토론을 제가 왜 회피하나. 나중에는 사회자 문제도 방송사 마음대로 하라고 했는데 ‘1:1 토론’ 조건을 못 맞춰준 게 MBC였다”고 덧붙였다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MBC 백분토론은 무산됐지만 다른 방송사에서의 토론 일정을 조율 중이라고 이 대표 측은 전했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그간 이 대표는 SNS 등을 통해 전장연의 지하철 시위를 거듭 비판하면서 전장연 측과 갑론을박을 주고 받아왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전장연 측이 지난달 31일 이 대표에게 이 문제로 100분간 공개 토론을 제안하자, 이 대표는 ‘1대 1로 무제한 토론하자’며 응수했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘MBC 백분토론’ 무산 이준석 “다른 방송 조율중”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

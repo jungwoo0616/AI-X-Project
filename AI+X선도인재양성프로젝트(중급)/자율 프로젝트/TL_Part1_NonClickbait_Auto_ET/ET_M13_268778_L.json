@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268778",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "슬리피 “천사가 존재한다면 딘딘” 혼수선물 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 방송인 슬리피가 딘딘에게 받은 혼수를 공개했다.\n슬리피는 지난달 30일 인스타그램 스토리를 통해 사진 여러 장을 올리며 딘딘의 계정을 태그했다.\n슬리피는 “천사가 존재한다면 그분은 딘딘”이라는 글과 함께 딘딘에게 감사하다는 말을 건넸다.\n이에 딘딘은 “행복해라 슬리피”라고 화답하며 훈훈함을 더했다.\n한편 슬리피는 지난달 9일 비연예인 배우자와 결혼했다.\n결혼식 축가는 가수 송가인과 영탁이 맡았으며, 사회는 코미디언 이용진과 이진호가 맡았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 방송인 슬리피가 딘딘에게 받은 혼수를 공개했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슬리피는 지난달 30일 인스타그램 스토리를 통해 사진 여러 장을 올리며 딘딘의 계정을 태그했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "슬리피는 “천사가 존재한다면 그분은 딘딘”이라는 글과 함께 딘딘에게 감사하다는 말을 건넸다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 딘딘은 “행복해라 슬리피”라고 화답하며 훈훈함을 더했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 슬리피는 지난달 9일 비연예인 배우자와 결혼했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결혼식 축가는 가수 송가인과 영탁이 맡았으며, 사회는 코미디언 이용진과 이진호가 맡았다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슬리피 “천사가 존재한다면 딘딘” 혼수선물 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

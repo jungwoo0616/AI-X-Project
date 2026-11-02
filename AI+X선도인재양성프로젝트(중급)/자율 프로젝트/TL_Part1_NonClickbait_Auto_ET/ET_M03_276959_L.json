@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276959",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'힙통령' 장문복이 '폭풍 눈물' 흘린 이유",
+		"newsSubTitle": "",
+		"newsContent": "'힙통령' 장문복이 폭풍 눈물을 흘렸다.\n지난 13일 Mnet '프로듀스 101 시즌2' 제작진은 연습생들의 A등급을 향한 피나는 노력이 담긴 2회 예고편 영상을 공개했다.\n연습생들은 타이틀곡 '나야 나' 무대를 선보이기 위해 본격적인 연습에 돌입했고 첫 번째 평가로 등급이 나뉘었다.\n이들은 서로의 실력을 견제하며 연습에 전념했다.\n하지만 뜻대로 되지 않아 힘들어하는 모습도 보였다.\n특히 영상 말미에 잠시 등장한 장문복은 \\\"마음대로 되지 않아요\\\"라며 눈물 쏟아 시청자들의 궁금증을 자아냈다. '프로듀스 101 시즌2' 2회는 14일 오후 11시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'힙통령' 장문복이 폭풍 눈물을 흘렸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 13일 Mnet '프로듀스 101 시즌2' 제작진은 연습생들의 A등급을 향한 피나는 노력이 담긴 2회 예고편 영상을 공개했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연습생들은 타이틀곡 '나야 나' 무대를 선보이기 위해 본격적인 연습에 돌입했고 첫 번째 평가로 등급이 나뉘었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 서로의 실력을 견제하며 연습에 전념했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 뜻대로 되지 않아 힘들어하는 모습도 보였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 영상 말미에 잠시 등장한 장문복은 \\\"마음대로 되지 않아요\\\"라며 눈물 쏟아 시청자들의 궁금증을 자아냈다. '프로듀스 101 시즌2' 2회는 14일 오후 11시에 방송된다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'힙통령' 장문복이 '폭풍 눈물' 흘린 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

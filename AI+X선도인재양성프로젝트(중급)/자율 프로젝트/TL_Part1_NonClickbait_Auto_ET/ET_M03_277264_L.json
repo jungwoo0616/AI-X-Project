@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277264",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "무대에서 '맨발투혼' 보여준 '여자친구' 유주",
+		"newsSubTitle": "",
+		"newsContent": "'여자친구' 유주가 과거 무대에서 맨발투혼을 보여줬다.\n지난 2015년 8월 KBS2 '뮤직뱅크'에 출연한 걸그룹 '여자친구'는 '오늘부터 우리는' 무대를 선보였다.\n무대 초반부, 같은 멤버 다리 사이로 빠지는 격한 안무 끝에 유주의 신발이 날아가 버렸다.\n하지만 유주는 당황하지 않았다.\n신발이 벗겨진 즉시 자신의 동선을 찾은 유주는 안무와 노래를 이어갔다.\n비록 유주의 맨발이 허전해 보였지만 끝까지 호흡을 유지하며 '프로'다운 모습을 보였다.\n이를 본 네티즌은 \\\"저 날아가는 모습 보고서 유주 발만 봤네요\\\" \\\"심쿵!\\\" \\\"역시 프로돌. 저 신발 삽니다\\\" 등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'여자친구' 유주가 과거 무대에서 맨발투혼을 보여줬다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2015년 8월 KBS2 '뮤직뱅크'에 출연한 걸그룹 '여자친구'는 '오늘부터 우리는' 무대를 선보였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "무대 초반부, 같은 멤버 다리 사이로 빠지는 격한 안무 끝에 유주의 신발이 날아가 버렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 유주는 당황하지 않았다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신발이 벗겨진 즉시 자신의 동선을 찾은 유주는 안무와 노래를 이어갔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비록 유주의 맨발이 허전해 보였지만 끝까지 호흡을 유지하며 '프로'다운 모습을 보였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌은 \\\"저 날아가는 모습 보고서 유주 발만 봤네요\\\" \\\"심쿵!\\\" \\\"역시 프로돌. 저 신발 삽니다\\\" 등 반응을 보였다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "무대에서 '맨발투혼' 보여준 '여자친구' 유주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

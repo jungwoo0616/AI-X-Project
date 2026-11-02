@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273677",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘탑건: 매버릭’ 사전예매량, ‘범죄도시2’ 넘었다",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘탑건: 매버릭’(감독 조셉 코신스키) 사전예매량이 엔데믹 시대 최초 천만 영화 ‘범죄도시2’ 동시기 사전예매량(19만2748장) 기록을 넘었다.\n21일 영화진흥위원회 영화관입장권 통합전산망 실시간 예매율 기준(오전 9시30분) 사전예매량 20만4697장을 기록했다.\n전체예매율 58.8%에 해당한다.\n이는 톰 크루즈 주연 ‘미션 임파서블: 폴 아웃’(2018) 동시기 예매량 22만6730장에 근접한 수치다.\n열번째 한국을 내한한 톰 크루즈와 영화를 제작한 제리 브룩하이머 프로듀서를 비롯, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등이 한국 팬들을 만난 효과를 본 셈이다. ‘탑건: 매버릭’은 북미에서 ‘닥터 스트레인지: 대혼돈의 멀티버스’의 흥행 기록을 가뿐히 이기고 올해 최고 흥행작 및 팬데믹 이후 ‘스파이더맨: 노 웨이 홈’에 이은 최고 흥행작으로 등극했다.\n북미 개봉 이후 한달이 지났으나, 박스오피스 2위를 탈환하며 ‘역주행’ 신화를 이어가고 있다.\n이런 흥행 추이가 한국에서도 이어질지 관심이 쏠린다. ‘탑건: 매버릭’은 22일 개봉한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘탑건: 매버릭’(감독 조셉 코신스키) 사전예매량이 엔데믹 시대 최초 천만 영화 ‘범죄도시2’ 동시기 사전예매량(19만2748장) 기록을 넘었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 영화진흥위원회 영화관입장권 통합전산망 실시간 예매율 기준(오전 9시30분) 사전예매량 20만4697장을 기록했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전체예매율 58.8%에 해당한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 톰 크루즈 주연 ‘미션 임파서블: 폴 아웃’(2018) 동시기 예매량 22만6730장에 근접한 수치다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "열번째 한국을 내한한 톰 크루즈와 영화를 제작한 제리 브룩하이머 프로듀서를 비롯, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등이 한국 팬들을 만난 효과를 본 셈이다. ‘탑건: 매버릭’은 북미에서 ‘닥터 스트레인지: 대혼돈의 멀티버스’의 흥행 기록을 가뿐히 이기고 올해 최고 흥행작 및 팬데믹 이후 ‘스파이더맨: 노 웨이 홈’에 이은 최고 흥행작으로 등극했다.",
+				"sentenceSize": 211
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "북미 개봉 이후 한달이 지났으나, 박스오피스 2위를 탈환하며 ‘역주행’ 신화를 이어가고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이런 흥행 추이가 한국에서도 이어질지 관심이 쏠린다. ‘탑건: 매버릭’은 22일 개봉한다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘탑건: 매버릭’ 사전예매량, ‘범죄도시2’ 넘었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

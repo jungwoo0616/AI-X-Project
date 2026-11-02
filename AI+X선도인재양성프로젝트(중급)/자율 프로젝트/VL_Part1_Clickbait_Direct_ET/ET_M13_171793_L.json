@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171793",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "정주리 네 아들 엄마됐다",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 정주리가 네 아들의 엄마가 됐다.\n정주리는 5일 자신의 SNS 인스타그램에 “5월 4일 오후 4시 58분 3.74키로. 네번째 주리베이비 건강하게 태어났다”라는 글과 아기 사진을 게재했다.\n사진 속 정주리는 갓 태어난 아기를 감격스러운 표정을 짓고 있다.\n정주리는 “전 더이상 무서울 게 없는 4형제의 엄마다. 쏘 스페셜한 나란 여자”라며 넷째의 성별이 아들임을 밝혔다.\n정주리는 그간 넷째의 성별을 공개하지 않아 궁금증을 이어왔다.\n이에 팬과 동료들의 축하 댓글이 이어졌으며, 동료 개그맨 박준형은 “와....복되도다...아아...아름답다... 최고다!!..주리야....”라는 댓글을 남겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 정주리가 네 아들의 엄마가 됐다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정주리는 5일 자신의 SNS 인스타그램에 “5월 4일 오후 4시 58분 3.74키로. 네번째 주리베이비 건강하게 태어났다”라는 글과 아기 사진을 게재했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 정주리는 갓 태어난 아기를 감격스러운 표정을 짓고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정주리는 “전 더이상 무서울 게 없는 4형제의 엄마다. 쏘 스페셜한 나란 여자”라며 넷째의 성별이 아들임을 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정주리는 그간 넷째의 성별을 공개하지 않아 궁금증을 이어왔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 팬과 동료들의 축하 댓글이 이어졌으며, 동료 개그맨 박준형은 “와....복되도다...아아...아름답다... 최고다!!..주리야....”라는 댓글을 남겼다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "벌써 넷째다... 또 아들 임신 소식 전한 이 개그우먼은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

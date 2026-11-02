@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278395",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘황금어장 라디오스타’ 정원관, 딸 출산 당시 화장실서 눈물 ‘펑펑’",
+		"newsSubTitle": "",
+		"newsContent": "‘라디오스타’ 정원관이 딸 출산 당시 화장실에서 눈물을 쏟은 사연을 고백했다.\n16일 방송되는 ‘라디오스타- 아빠를 울려’ 특집편에는 유열, 정원관, 인교진, 이윤석이 출연한다.\n최근 진행된 녹화에서 정원관은 지난해 11월 출산한 자신의 딸 아인 양의 이야기를 꺼내며 딸 바보 면모를 드러냈다.\n라디오스타 정원관은 아내가 아기를 출산한 뒤 홀로 화장실에 들어가 폭풍 눈물을 쏟았다고 밝혔다.\n라디오스타 정원관은 “기쁜 거하고 감격한 거하고 걱정했던 게 한번에 나왔다”라며 당시를 회상했다.\n또 라디오스타 정원관은 자신이 습득한 ‘아기 달래는 법’도 공개했다.\n정원관은 “일반적으로 생활할 때 나는 잡음들을 백색소음이라고 해요”라며 아이가 미친 듯이 울면 ‘백색소음’을 이용한다며 비법을 공개했다.\n과연 정원관의 색다른 변신은 어떨지 16일 밤 11시10분 MBC '라디오스타'에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘라디오스타’ 정원관이 딸 출산 당시 화장실에서 눈물을 쏟은 사연을 고백했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 방송되는 ‘라디오스타- 아빠를 울려’ 특집편에는 유열, 정원관, 인교진, 이윤석이 출연한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 진행된 녹화에서 정원관은 지난해 11월 출산한 자신의 딸 아인 양의 이야기를 꺼내며 딸 바보 면모를 드러냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라디오스타 정원관은 아내가 아기를 출산한 뒤 홀로 화장실에 들어가 폭풍 눈물을 쏟았다고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "라디오스타 정원관은 “기쁜 거하고 감격한 거하고 걱정했던 게 한번에 나왔다”라며 당시를 회상했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 라디오스타 정원관은 자신이 습득한 ‘아기 달래는 법’도 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정원관은 “일반적으로 생활할 때 나는 잡음들을 백색소음이라고 해요”라며 아이가 미친 듯이 울면 ‘백색소음’을 이용한다며 비법을 공개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "과연 정원관의 색다른 변신은 어떨지 16일 밤 11시10분 MBC '라디오스타'에서 방송된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘황금어장 라디오스타’ 정원관, 딸 출산 당시 화장실서 눈물 ‘펑펑’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

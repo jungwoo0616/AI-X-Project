@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279006",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "슈가맨 리즈, 15년 만에 무대 올라 \\\"신비주의 하려다 아직도 얼굴 없는 가수\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘슈가맨’에 15년 만에 무대에 오른 가수 리즈가 출연했다.\n2일 JTBC ‘투유 프로젝트-슈가맨’에 출연한 리즈는 2000년대 여성들에게 많은 사랑을 받은 곡 ‘그댄 행복에 살텐데’를 부르며 모습을 드러냈다. ‘그댄 행복에 살텐데’는 2002년 발표된 곡으로 애절한 리즈의 목소리와 구구절절한 가사로 많은 인기를 누렸다.\n리즈는 “노래하다가 실신할 뻔 했다”고 소감을 전했다.\n또한 몇 년 만에 무대에 오르냐는 질문에 “가물가물한데 15년 만이다”고 말했다.\n리즈는 “활동 당시 신비주의가 한창 유행했다. 김범수와 함께 얼굴 없는 가수를 하다가 김범수씨는 얼굴이 생기고 저는 아직도 얼굴이 없는 상태다”고 설명했다.\n이에 유재석이 “그 당시에 왜 그랬는지 이해가 안된다”고 하자, 그는 “얼굴이 지금이 낫다”고 답해 웃음을 자아냈다.\n리즈는 “보정을 한건 아닌데 살이 좀 빠지고 그래서 얼굴이 나아진 것 같다”고 덧붙였다. ‘슈가맨’은 대한민국 가요계에 한 시대를 풍미했다가 사라진 가수, 일명 ‘슈가맨’을 찾아 나서는 프로그램이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘슈가맨’에 15년 만에 무대에 오른 가수 리즈가 출연했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 JTBC ‘투유 프로젝트-슈가맨’에 출연한 리즈는 2000년대 여성들에게 많은 사랑을 받은 곡 ‘그댄 행복에 살텐데’를 부르며 모습을 드러냈다. ‘그댄 행복에 살텐데’는 2002년 발표된 곡으로 애절한 리즈의 목소리와 구구절절한 가사로 많은 인기를 누렸다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "리즈는 “노래하다가 실신할 뻔 했다”고 소감을 전했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 몇 년 만에 무대에 오르냐는 질문에 “가물가물한데 15년 만이다”고 말했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리즈는 “활동 당시 신비주의가 한창 유행했다. 김범수와 함께 얼굴 없는 가수를 하다가 김범수씨는 얼굴이 생기고 저는 아직도 얼굴이 없는 상태다”고 설명했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 유재석이 “그 당시에 왜 그랬는지 이해가 안된다”고 하자, 그는 “얼굴이 지금이 낫다”고 답해 웃음을 자아냈다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "리즈는 “보정을 한건 아닌데 살이 좀 빠지고 그래서 얼굴이 나아진 것 같다”고 덧붙였다. ‘슈가맨’은 대한민국 가요계에 한 시대를 풍미했다가 사라진 가수, 일명 ‘슈가맨’을 찾아 나서는 프로그램이다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈가맨 리즈, 15년 만에 무대 올라 \\\"신비주의 하려다 아직도 얼굴 없는 가수\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284000",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'언프리티랩스타 시즌2' 헤이즈, \\\"난 여자도끼\\\" …도끼처럼 억대 연봉?",
+		"newsSubTitle": "",
+		"newsContent": "'언프리티랩스타 시즌2' 헤이즈, 여자 도끼?…\\\"연봉 5억 가까이?\\\" '언프리티랩스타 시즌2'에 출연 중인 래퍼 헤이즈의 랩이 네티즌들의 관심을 끌고 있다.\n헤이즈는 지난 10월 2일 방송된 Mnet '언프리티랩스타2'에서 자신을 '여자 도끼'라 표현해 눈길을 모았다.\n당시 헤이즈는 5번 트랙을 따기 위한 미션 가사에서 \\\"우리 엄마 사줘야지 호피. 난 여자 도끼, 시급 5000원에서 많이 발전했지\\\" 등과 같은 센스 있는 랩을 선보였다.\n도끼가 직접 밝힌 2013년 수입은 4억 9435만 원이었기에, 헤이즈의 수입에 대한 궁금증이 점점 높아지고 있는 상황이다.\n한편 6일 방송된 '언프리티 랩스타 시즌2'에서는 헤이즈와 효린의 맞대결이 그려졌다.\n이날 헤이즈는 가족을 위한 노래 '돈 벌지 마' 무대를 선보여 화제를 모았다.\n온라인 중앙일보 언프리티랩스타 시즌2 헤이즈[사진 Mnet 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'언프리티랩스타 시즌2' 헤이즈, 여자 도끼?…\\\"연봉 5억 가까이?\\\" '언프리티랩스타 시즌2'에 출연 중인 래퍼 헤이즈의 랩이 네티즌들의 관심을 끌고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헤이즈는 지난 10월 2일 방송된 Mnet '언프리티랩스타2'에서 자신을 '여자 도끼'라 표현해 눈길을 모았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 헤이즈는 5번 트랙을 따기 위한 미션 가사에서 \\\"우리 엄마 사줘야지 호피. 난 여자 도끼, 시급 5000원에서 많이 발전했지\\\" 등과 같은 센스 있는 랩을 선보였다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도끼가 직접 밝힌 2013년 수입은 4억 9435만 원이었기에, 헤이즈의 수입에 대한 궁금증이 점점 높아지고 있는 상황이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 6일 방송된 '언프리티 랩스타 시즌2'에서는 헤이즈와 효린의 맞대결이 그려졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 헤이즈는 가족을 위한 노래 '돈 벌지 마' 무대를 선보여 화제를 모았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 언프리티랩스타 시즌2 헤이즈[사진 Mnet 캡처]",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'언프리티랩스타 시즌2' 헤이즈, \\\"난 여자도끼\\\" …도끼처럼 억대 연봉?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

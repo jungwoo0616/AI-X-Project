@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277401",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강동원에게 인형을 던지면? 온라인서 화제",
+		"newsSubTitle": "",
+		"newsContent": "배우 강동원(36)이 박력 넘치는 모습으로 화제가 되고 있다.\n29일 한 온라인 커뮤니티에는 '팬이 던진 선물 받아가는 강동원'이라는 제목의 게시글이 올라왔다.\n이는 GIF파일로 만들어진 '움짤'(움직이는 짤방)로, 팬들이 던지는 인형을 받는 강동원의 모습이 담겨 있다.\n파일에서 무대 인사를 마친 강동원은 퇴장길에서 자신에게 인형을 던지려는 팬을 봤다.\n그는 자신을 향해 던지라는 손짓을 한 뒤 두 손으로 인형을 받았다.\n그 후 그는 감사하다는 표시로 인사를 한 후 쿨하게 지나갔다.\n이를 본 네티즌들은 \\\"오빠 인형도 받은 김에 제 프러포즈도 받아주세요\\\" \\\"던지라고 손짓하는 거 진짜 멋있다\\\" \\\"그 와중에 비율 열일한다\\\"는 등의 폭발적인 반응을 보였다.\n한편 최근 개봉한 강동원·이병헌·김우빈 주연 영화 '마스터'는 700만 관객을 돌파했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 강동원(36)이 박력 넘치는 모습으로 화제가 되고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 한 온라인 커뮤니티에는 '팬이 던진 선물 받아가는 강동원'이라는 제목의 게시글이 올라왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 GIF파일로 만들어진 '움짤'(움직이는 짤방)로, 팬들이 던지는 인형을 받는 강동원의 모습이 담겨 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파일에서 무대 인사를 마친 강동원은 퇴장길에서 자신에게 인형을 던지려는 팬을 봤다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 자신을 향해 던지라는 손짓을 한 뒤 두 손으로 인형을 받았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 후 그는 감사하다는 표시로 인사를 한 후 쿨하게 지나갔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 본 네티즌들은 \\\"오빠 인형도 받은 김에 제 프러포즈도 받아주세요\\\" \\\"던지라고 손짓하는 거 진짜 멋있다\\\" \\\"그 와중에 비율 열일한다\\\"는 등의 폭발적인 반응을 보였다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 최근 개봉한 강동원·이병헌·김우빈 주연 영화 '마스터'는 700만 관객을 돌파했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강동원에게 인형을 던지면? 온라인서 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

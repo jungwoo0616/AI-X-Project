@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260920",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 로제, 케이크 만드는 중…‘현타’ 왔다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크 멤버 로제가 파블로바 케이크 만드는 영상을 올렸다.\n로제는 14일 오후 자신의 사회 관계망 서비스(SNS)에 ‘파블로바’라는 글과 함께 사진 다수와 영상 하나를 게재했다.\n공개된 사진 속 로제는 브이 포즈를 취하면서 카메라를 응시하는 모습을 담았다.\n또다른 사진에서 로제는 다 만든 파블로바 케이크를 포장하려는 모습이 담겨 있다.\n이어진 영상에는 케이크 만드는데 열중인 모습이 담겼다.\n로제는 케이크를 만들면서도 리듬을 타는 모습을 보여 웃음을 자아냈다.\n영상 끝에 로제는 휘핑크림으로 케이크 데코레이션 하는데 열중이였다.\n이어 로제는 케이크 데코레이션을 하던 중 그만두고 ‘현타’라는 글과 함께 허탈한 웃음을 지었다.\n한편 로제의 인스타 팔로워 수는 14일 오후 6시 기준으로 5,500만을 넘은 것으로 확인됐다.\n또 로제는 동계 올림픽 피겨선수 차준환이 블랙핑크의 로제가 이상형이라고 밝혀 화제가 된 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크 멤버 로제가 파블로바 케이크 만드는 영상을 올렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로제는 14일 오후 자신의 사회 관계망 서비스(SNS)에 ‘파블로바’라는 글과 함께 사진 다수와 영상 하나를 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 로제는 브이 포즈를 취하면서 카메라를 응시하는 모습을 담았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또다른 사진에서 로제는 다 만든 파블로바 케이크를 포장하려는 모습이 담겨 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어진 영상에는 케이크 만드는데 열중인 모습이 담겼다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로제는 케이크를 만들면서도 리듬을 타는 모습을 보여 웃음을 자아냈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영상 끝에 로제는 휘핑크림으로 케이크 데코레이션 하는데 열중이였다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 로제는 케이크 데코레이션을 하던 중 그만두고 ‘현타’라는 글과 함께 허탈한 웃음을 지었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 로제의 인스타 팔로워 수는 14일 오후 6시 기준으로 5,500만을 넘은 것으로 확인됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 로제는 동계 올림픽 피겨선수 차준환이 블랙핑크의 로제가 이상형이라고 밝혀 화제가 된 바 있다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 로제, 케이크 만드는 중…‘현타’ 왔다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

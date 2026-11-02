@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269406",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "이용진, TV부문 남자 예능상 “저 보통 웃긴 놈 아냐” (2022 백상예술대상)",
+		"newsSubTitle": "",
+		"newsContent": "‘제58회 백상예술대상’ 이용진이 TV부문 남자 예능상을 받았다.\n6일 오후 방송된 ‘제58회 백상예술대상’에서는 이용진이 TV부문 남자 예능상을 받은 장면이 전파를 탔다.\n이날 TV부문 남자 예능상은 이용진이 받았다.\n얼떨떨하게 무대에 오른 이용진은 “아예 예상을 못해 수상 소감 준비를 못했다. 세호 형은 준비를 했다더라. 옆에서 어제부터 준비해서 수상 소감 있다고 했는데 저는 예상을 못 했다”라고 말했다.\n이어 그는 “오늘 쑥스러웠는데 현장에 아내가 구경 오고 싶다고. 받을 거 같다고 했는데 오지 말라했으나 와있다. 사랑합니다. 그리고 하나밖에 없는 아들 윤재. 윤재 태어나고부터 일이 잘 풀리는 느낌이 들어서 복덩이인 거 같다. 가족, 특히 장모님 너무 감사드린다”라고 전했다.\n이용진은 “제가 하는 콘텐츠를 보면 많은 분이 어렵다고 하고 B급 느낌, 날것 느낌이 나서 메이저스럽지 않다고 하는데 그 메이저라는 게 뭔지 모르겠다. 항상 제가 추구하는 게 언젠가 인정해주시고 보답해주시면 행복을 느끼는 사랑이다”라고 밝혔다.\n제작진, 스태프에게 고마움을 전한 이용진은 “창피한데 안 하면 후회할 거 같아 드린다. 저 이용재 보통 웃긴 놈 아닙니다”라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘제58회 백상예술대상’ 이용진이 TV부문 남자 예능상을 받았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 오후 방송된 ‘제58회 백상예술대상’에서는 이용진이 TV부문 남자 예능상을 받은 장면이 전파를 탔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 TV부문 남자 예능상은 이용진이 받았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "얼떨떨하게 무대에 오른 이용진은 “아예 예상을 못해 수상 소감 준비를 못했다. 세호 형은 준비를 했다더라. 옆에서 어제부터 준비해서 수상 소감 있다고 했는데 저는 예상을 못 했다”라고 말했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 그는 “오늘 쑥스러웠는데 현장에 아내가 구경 오고 싶다고. 받을 거 같다고 했는데 오지 말라했으나 와있다. 사랑합니다. 그리고 하나밖에 없는 아들 윤재. 윤재 태어나고부터 일이 잘 풀리는 느낌이 들어서 복덩이인 거 같다. 가족, 특히 장모님 너무 감사드린다”라고 전했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이용진은 “제가 하는 콘텐츠를 보면 많은 분이 어렵다고 하고 B급 느낌, 날것 느낌이 나서 메이저스럽지 않다고 하는데 그 메이저라는 게 뭔지 모르겠다. 항상 제가 추구하는 게 언젠가 인정해주시고 보답해주시면 행복을 느끼는 사랑이다”라고 밝혔다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제작진, 스태프에게 고마움을 전한 이용진은 “창피한데 안 하면 후회할 거 같아 드린다. 저 이용재 보통 웃긴 놈 아닙니다”라고 말했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이용진, TV부문 남자 예능상 “저 보통 웃긴 놈 아냐” (2022 백상예술대상)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

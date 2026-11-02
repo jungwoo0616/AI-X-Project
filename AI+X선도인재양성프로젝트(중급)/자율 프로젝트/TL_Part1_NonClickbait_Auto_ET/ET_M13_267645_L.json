@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267645",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "몬스타엑스 민혁, 슈펜 새 얼굴 됐다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 몬스타엑스(MONSTA X) 민혁이 슈즈 브랜드 슈펜 모델로 활약한다.\n슈펜은 지난 20일 사회관계망서비스(SNS)를 통해 민혁의 ‘22SU 네이비-보이’(22SU NAVY-BOY) 화보를 공개하며 모델 발탁 소식을 알렸다.\n화보 속 민혁은 다채로운 컬러를 완벽하게 소화하며 감각적인 화보를 완성했다.\n브랜드 관계자는 “민혁의 자신감 넘치고 긍정적인 애티튜드와 다채로운 매력이 슈펜 브랜드 이미지와 잘 맞아 새 모델로 발탁하게 됐다”며 “앞으로 슈펜과 민혁이 함께 만들어 나갈 스토리가 기대된다”고 밝혔다.\n모델로 발탁된 민혁 역시 “슈펜의 모델로 활동할 수 있어 정말 기쁘고, 새로운 모습들을 보여줄 예정이니 많은 기대와 관심 부탁드린다”고 전해 앞으로의 활약을 기대하게 했다.\n민혁은 이번 화보를 시작으로 슈펜의 전속 모델로서 다양한 활동을 이어갈 예정이다.\n한편 민혁이 속한 그룹 몬스타엑스는 오는 26일 미니 11집 ‘셰이프 오브 러브’(SHAPE of LOVE)를 발매한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 몬스타엑스(MONSTA X) 민혁이 슈즈 브랜드 슈펜 모델로 활약한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "슈펜은 지난 20일 사회관계망서비스(SNS)를 통해 민혁의 ‘22SU 네이비-보이’(22SU NAVY-BOY) 화보를 공개하며 모델 발탁 소식을 알렸다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화보 속 민혁은 다채로운 컬러를 완벽하게 소화하며 감각적인 화보를 완성했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "브랜드 관계자는 “민혁의 자신감 넘치고 긍정적인 애티튜드와 다채로운 매력이 슈펜 브랜드 이미지와 잘 맞아 새 모델로 발탁하게 됐다”며 “앞으로 슈펜과 민혁이 함께 만들어 나갈 스토리가 기대된다”고 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모델로 발탁된 민혁 역시 “슈펜의 모델로 활동할 수 있어 정말 기쁘고, 새로운 모습들을 보여줄 예정이니 많은 기대와 관심 부탁드린다”고 전해 앞으로의 활약을 기대하게 했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "민혁은 이번 화보를 시작으로 슈펜의 전속 모델로서 다양한 활동을 이어갈 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 민혁이 속한 그룹 몬스타엑스는 오는 26일 미니 11집 ‘셰이프 오브 러브’(SHAPE of LOVE)를 발매한다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "몬스타엑스 민혁, 슈펜 새 얼굴 됐다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

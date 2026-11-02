@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171158",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "블랙핑크 리사, 기부 동참…인성도 ‘월클’",
+    "newsSubTitle": "",
+    "newsContent": "블랙핑크 리사가 네이버 해피빈 정기저금 캠페인에 참여, 선한 영향력을 발휘했다.\n네이버 해피빈 정기저금은 누리꾼이 매달 일정 금액을 저금하고 이를 원하는 단체에 기부할 수 있도록 도와주는 캠페인이다.\n리사는 교육 소외 지역 아동·청소년을 위한 지원 모금함(저금통) 개설에 재능 나눔으로 참여했다.\n한국해비타트, 한국국제문화교류진흥원이 그와 힘을 합쳤다.\n리사는 “아이들이 보다 나은 교육 환경에서 마음껏 뛰어 놀고, 자유롭게 꿈꿀 수 있었으면 좋겠다”며 “많은 아이들의 미래를 응원하는데 도움이 되고 싶다”고 전했다.\n캠페인을 통해 모인 기부금은 리사의 고향인 태국 Buriram 지역에서 시작돼 다른 여러 개발도상국 교육 환경 개선에 사용될 예정이다.\n한국해비타트는 학교 개보수 사업을 돕고, 한국국제문화교류진흥원은 아동·청소년들이 다양한 문화예술을 체험할 수 있도록 지원한다.\n한편 리사는 최근 ‘LALISA’로 솔로 데뷔에 성공, 연일 신기록을 세워 나가며 화제가 되고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙핑크 리사가 네이버 해피빈 정기저금 캠페인에 참여, 선한 영향력을 발휘했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "네이버 해피빈 정기저금은 누리꾼이 매달 일정 금액을 저금하고 이를 원하는 단체에 기부할 수 있도록 도와주는 캠페인이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "리사는 교육 소외 지역 아동·청소년을 위한 지원 모금함(저금통) 개설에 재능 나눔으로 참여했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한국해비타트, 한국국제문화교류진흥원이 그와 힘을 합쳤다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "리사는 “아이들이 보다 나은 교육 환경에서 마음껏 뛰어 놀고, 자유롭게 꿈꿀 수 있었으면 좋겠다”며 “많은 아이들의 미래를 응원하는데 도움이 되고 싶다”고 전했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "캠페인을 통해 모인 기부금은 리사의 고향인 태국 Buriram 지역에서 시작돼 다른 여러 개발도상국 교육 환경 개선에 사용될 예정이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국해비타트는 학교 개보수 사업을 돕고, 한국국제문화교류진흥원은 아동·청소년들이 다양한 문화예술을 체험할 수 있도록 지원한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 리사는 최근 ‘LALISA’로 솔로 데뷔에 성공, 연일 신기록을 세워 나가며 화제가 되고 있다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네이버 해피빈 캠페인 참여, 월드 클래스 선한 영향력 인증한 '이 가수'는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

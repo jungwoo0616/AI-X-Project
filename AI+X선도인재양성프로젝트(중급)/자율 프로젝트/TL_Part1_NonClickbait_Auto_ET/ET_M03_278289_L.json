@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278289",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'해피투게더' 강예원, 기억에 남는 것은 \\\"알몸에 헬멧 쓰고 샤워하는 장면\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'해피투게더'에 출연한 강예원이 화제인 가운데 과거 강예원의 영화 촬영 중의 일화가 공개되어 눈길을 끈다.\n강예원은 지난 2011년 열린 영화 '퀵' 기자간담회에 참석해 \\\"촬영 중 고생한 장면이 몇 군데 있다\\\"고 말했다.\n이어서 강예원은 \\\"헬멧을 쓰고 샤워하는 전라노출 신이 있었다. 감정에 복받쳐 펑펑 울어야 하는데 감정 잡기가 너무 힘들었다\\\"고 털어놨다.\n강예원은 \\\"그런 상황, 당해 본 적도 없고 어떻게 연기해야 할지 너무 고민됐다. 가장 기억에 남는 장면이다\\\"라고 털어놨다.\n한편 지난 31일 방송된 KBS2 '해피투게더3'는 ‘뒤통수치러 왔어요’ 특집으로 반전 매력의 소유자 이상윤, 강예원, 한보름, 송재희, 오마이걸 효정이 게스트 출연했다.\n온라인 중앙일보 [사진 '퀵' 스틸컷]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'해피투게더'에 출연한 강예원이 화제인 가운데 과거 강예원의 영화 촬영 중의 일화가 공개되어 눈길을 끈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강예원은 지난 2011년 열린 영화 '퀵' 기자간담회에 참석해 \\\"촬영 중 고생한 장면이 몇 군데 있다\\\"고 말했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어서 강예원은 \\\"헬멧을 쓰고 샤워하는 전라노출 신이 있었다. 감정에 복받쳐 펑펑 울어야 하는데 감정 잡기가 너무 힘들었다\\\"고 털어놨다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강예원은 \\\"그런 상황, 당해 본 적도 없고 어떻게 연기해야 할지 너무 고민됐다. 가장 기억에 남는 장면이다\\\"라고 털어놨다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 지난 31일 방송된 KBS2 '해피투게더3'는 ‘뒤통수치러 왔어요’ 특집으로 반전 매력의 소유자 이상윤, 강예원, 한보름, 송재희, 오마이걸 효정이 게스트 출연했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 '퀵' 스틸컷]",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'해피투게더' 강예원, 기억에 남는 것은 \\\"알몸에 헬멧 쓰고 샤워하는 장면\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

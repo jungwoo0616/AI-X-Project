@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271435",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "SNS 상위 1%의 삶은 어떨까… ‘셀러브리티’ 박규영·강민혁·이청하 출연",
+		"newsSubTitle": "",
+		"newsContent": "소셜미디어(SNS) 상위 1％ 셀럽(유명인)들의 삶을 그린 넷플릭스 새 시리즈가 제작된다.\n넷플릭스는 ‘셀러브리티’ 주연에 배우 박규영, 강민혁, 이청아, 이동건, 전효성을 캐스팅했다고 26일 밝혔다. ‘셀러브리티’는 유명해지기만 하면 돈이 되는 세계에 뛰어든 여자가 마주하는 셀럽들의 민낯을 그린다.\n배우 박규영은 셀러브리티 세계에 발을 들인 뒤 인생이 바뀐 서아리 역을 맡았고, 강민혁은 서아리의 예측 불가한 모습에 매력을 느끼는 화장품 기업 대표이사 한준경을 연기한다.\n이청아는 SNS를 신경 쓸 필요조차 없을 정도로 선망의 대상인 5선 의원의 딸 윤시현으로, 이동건은 목적을 위해서라면 수단과 방법을 가리지 않는 윤시현의 남편 진태전으로 분한다.\n전효성은 서아리를 셀러브리티 세계로 이끄는 학창 시절 친구 오민혜를 연기한다.\n드라마 ‘악의 꽃’, ‘마더’의 김철규 감독이 연출을 맡았으며, 각본은 ‘해치’ ‘마의’ ‘동이’ ‘이산’을 쓴 김이영 작가가 집필했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소셜미디어(SNS) 상위 1％ 셀럽(유명인)들의 삶을 그린 넷플릭스 새 시리즈가 제작된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷플릭스는 ‘셀러브리티’ 주연에 배우 박규영, 강민혁, 이청아, 이동건, 전효성을 캐스팅했다고 26일 밝혔다. ‘셀러브리티’는 유명해지기만 하면 돈이 되는 세계에 뛰어든 여자가 마주하는 셀럽들의 민낯을 그린다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배우 박규영은 셀러브리티 세계에 발을 들인 뒤 인생이 바뀐 서아리 역을 맡았고, 강민혁은 서아리의 예측 불가한 모습에 매력을 느끼는 화장품 기업 대표이사 한준경을 연기한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이청아는 SNS를 신경 쓸 필요조차 없을 정도로 선망의 대상인 5선 의원의 딸 윤시현으로, 이동건은 목적을 위해서라면 수단과 방법을 가리지 않는 윤시현의 남편 진태전으로 분한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전효성은 서아리를 셀러브리티 세계로 이끄는 학창 시절 친구 오민혜를 연기한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "드라마 ‘악의 꽃’, ‘마더’의 김철규 감독이 연출을 맡았으며, 각본은 ‘해치’ ‘마의’ ‘동이’ ‘이산’을 쓴 김이영 작가가 집필했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SNS 상위 1%의 삶은 어떨까… ‘셀러브리티’ 박규영·강민혁·이청하 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

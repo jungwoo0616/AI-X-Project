@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170883",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "정우성·이정재 ‘헌트’ 촬영 현장 포착…휴식도 화보처럼",
+    "newsSubTitle": "",
+    "newsContent": "배우 정우성과 이정재의 조합은 거리에서도 빛났다.\n13일 온라인 커뮤니티에는 ‘최근 부산에서 영화 촬영 중인 정우성·이정재 직찍’이라는 제목의 글과 함께 이들의 모습이 담긴 사진이 다수 올라왔다.\n정우성과 이정재가 다른 배우들과 휴식을 취하는 모습이 담겨 있다.\n촬영 현장으로 추정되는 곳에서 막간의 시간을 이용해 타 배우들과 이야기를 나누고 있다.\n잠시 휴식을 취하는 정우성과 이정재의 모습이지만, 마치 화보를 방불케 한다.\n정우성이 진지한 모습으로 휴식을 취한 모습을 본 누리꾼들은 “평소에도 화보나 영화처럼 휴식을 취하는 모습이 실화냐”라는 반응을 보이고 있다.\n정우성과 이정재가 촬영 중인 영화 ‘헌트’의 현장으로 추정된다. ‘헌트’는 정우성과 이정재가 약 21년 만에 함께 출연하는 영화로 세간의 화제를 모았다. ‘헌트’는 스태프가 코로나19 확진 판정을 받아 촬영을 일시 중단한 적이 있다.\n선제적 차원에서 주기적으로 코로나19 검사를 실시해왔고 스태프 중 한명이 확진 판정을 받은 것이다.\n다행히 주요 배우인 정우성, 이정재를 비롯해 특별 출연 중인 주지훈, 김남길, 조우진, 박성웅, 정만식 모두 음성 판정을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정우성과 이정재의 조합은 거리에서도 빛났다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 온라인 커뮤니티에는 ‘최근 부산에서 영화 촬영 중인 정우성·이정재 직찍’이라는 제목의 글과 함께 이들의 모습이 담긴 사진이 다수 올라왔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정우성과 이정재가 다른 배우들과 휴식을 취하는 모습이 담겨 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "촬영 현장으로 추정되는 곳에서 막간의 시간을 이용해 타 배우들과 이야기를 나누고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "잠시 휴식을 취하는 정우성과 이정재의 모습이지만, 마치 화보를 방불케 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정우성이 진지한 모습으로 휴식을 취한 모습을 본 누리꾼들은 “평소에도 화보나 영화처럼 휴식을 취하는 모습이 실화냐”라는 반응을 보이고 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정우성과 이정재가 촬영 중인 영화 ‘헌트’의 현장으로 추정된다. ‘헌트’는 정우성과 이정재가 약 21년 만에 함께 출연하는 영화로 세간의 화제를 모았다. ‘헌트’는 스태프가 코로나19 확진 판정을 받아 촬영을 일시 중단한 적이 있다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "선제적 차원에서 주기적으로 코로나19 검사를 실시해왔고 스태프 중 한명이 확진 판정을 받은 것이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다행히 주요 배우인 정우성, 이정재를 비롯해 특별 출연 중인 주지훈, 김남길, 조우진, 박성웅, 정만식 모두 음성 판정을 받았다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'헌트' 촬영 현장... 휴식조차 화보 같은 이 배우의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

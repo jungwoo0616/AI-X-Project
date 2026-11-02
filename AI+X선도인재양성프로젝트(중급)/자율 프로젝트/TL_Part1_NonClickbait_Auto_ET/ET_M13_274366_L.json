@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274366",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘국민가수’ 앙코르 공연 확정, 30일 티켓오픈",
+		"newsSubTitle": "",
+		"newsContent": "3개월간 전국을 누빈 국민가수 마지막 이야기가 펼쳐진다. .\nCH엔터테인먼트에 따르면 국민가수는 오는 7월 16~17일 양일간 서울 SK올림픽핸드볼 경지장에서 앙코르 콘서트를 개최한다.\n이번 앙코르 공연은 매 공연마다 뜨거운 성원을 이어온 관객들을 위해 진행이 결정됐다. ‘엔데믹’ 시대를 맞이한 공연이기도 하다.\n초반 공연과 달리 마음껏 함성을 지르며 응원을 보낼 수 있어 더욱더 생동감 넘치는 공연이 될 전망이다.\n투어 중 각 멤버들은 자신들의 신곡을 무대에서 처음으로 선보일 계획으로 팬들 또한 이들과의 만남을 고대하고 있다.\n관계자는 “지난 전국투어 콘서트 내내 국민가수를 응원해 준 팬 여러분들께 감사를 전하며 더욱 커진 스케일과 특별한 구성을 선보이겠다”고 했다.\n앙코르 공연인 ‘2022 내일은 국민가수 전국투어 앙코르 콘서트-마지막 이야기’는 오는 7월 16~17일 양일간 2회씩 진행되며 티켓 예매는 30일 오후 18시 인터파크 티켓에서 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "3개월간 전국을 누빈 국민가수 마지막 이야기가 펼쳐진다. .",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CH엔터테인먼트에 따르면 국민가수는 오는 7월 16~17일 양일간 서울 SK올림픽핸드볼 경지장에서 앙코르 콘서트를 개최한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 앙코르 공연은 매 공연마다 뜨거운 성원을 이어온 관객들을 위해 진행이 결정됐다. ‘엔데믹’ 시대를 맞이한 공연이기도 하다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "초반 공연과 달리 마음껏 함성을 지르며 응원을 보낼 수 있어 더욱더 생동감 넘치는 공연이 될 전망이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "투어 중 각 멤버들은 자신들의 신곡을 무대에서 처음으로 선보일 계획으로 팬들 또한 이들과의 만남을 고대하고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "관계자는 “지난 전국투어 콘서트 내내 국민가수를 응원해 준 팬 여러분들께 감사를 전하며 더욱 커진 스케일과 특별한 구성을 선보이겠다”고 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앙코르 공연인 ‘2022 내일은 국민가수 전국투어 앙코르 콘서트-마지막 이야기’는 오는 7월 16~17일 양일간 2회씩 진행되며 티켓 예매는 30일 오후 18시 인터파크 티켓에서 진행된다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘국민가수’ 앙코르 공연 확정, 30일 티켓오픈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

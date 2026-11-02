@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264046",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "가수 플레이제이,NASA 우주선 탑승권 인증?",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 MC 플레이제이는 16일 아르테미스 1호 발사 탑승권을 발급 받은 인증샷을 자신의 SNS 에 올려 눈길을 끌었다.\n플레이제이 가 올린 NASA 가 발급한 탑승권 엔 파란색 배경에 NASA 와 아르테미스 미션 로고가 눈에 들어오고, 지구와 달을 오가는 심볼도 확인할 수 있다.\n비행기 탑승권처럼 미국 플로리다주 케네디우주센터에서 출발해 달궤도에 도착하고, 오리온 우주선을 타고 간다는 정보도 적혀있다.\n플레이제이 는 아쉽게도 직접 달나라 가는 우주선에 탑승할수 없지만 플레이제이 의 이름은 저장매체에 담겨 발사체와 함께 우주로 보내질 예정이다.\n아르테미스 1호는 NASA가 2022년 발사할 달 탐사선이다.\n아르테미스 1호는 2024년까지 우주인을 달에 보내려는 ‘아르테미스 계획’의 일부다.\n플레이제이 가 발급 받은 탑승권 은 아르테미스 1호에 대한 실제 항공권과 같은 정보를 담았다.\n탑승 장소, 목적지, 항공편 등이 적혀있다.\n가상의 탑승장소는 케네디 우주센터이며 목적지는 달 궤도이다.\n항공편은 ‘오리온(우주선)’이다.\n탑승 마일리지도 적혀있다.\n마일리지는 오리온이 비행 예정 거리인 200만 킬로미터(130만 마일)를 기준으로 했다.\n아르테미스 1호에 이름을 실어보내려면 NASA 홈페이지에 접속해‘send your name to space with artemis Ⅰ을 클릭하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 MC 플레이제이는 16일 아르테미스 1호 발사 탑승권을 발급 받은 인증샷을 자신의 SNS 에 올려 눈길을 끌었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "플레이제이 가 올린 NASA 가 발급한 탑승권 엔 파란색 배경에 NASA 와 아르테미스 미션 로고가 눈에 들어오고, 지구와 달을 오가는 심볼도 확인할 수 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비행기 탑승권처럼 미국 플로리다주 케네디우주센터에서 출발해 달궤도에 도착하고, 오리온 우주선을 타고 간다는 정보도 적혀있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "플레이제이 는 아쉽게도 직접 달나라 가는 우주선에 탑승할수 없지만 플레이제이 의 이름은 저장매체에 담겨 발사체와 함께 우주로 보내질 예정이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아르테미스 1호는 NASA가 2022년 발사할 달 탐사선이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아르테미스 1호는 2024년까지 우주인을 달에 보내려는 ‘아르테미스 계획’의 일부다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "플레이제이 가 발급 받은 탑승권 은 아르테미스 1호에 대한 실제 항공권과 같은 정보를 담았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "탑승 장소, 목적지, 항공편 등이 적혀있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가상의 탑승장소는 케네디 우주센터이며 목적지는 달 궤도이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "항공편은 ‘오리온(우주선)’이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "탑승 마일리지도 적혀있다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "마일리지는 오리온이 비행 예정 거리인 200만 킬로미터(130만 마일)를 기준으로 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아르테미스 1호에 이름을 실어보내려면 NASA 홈페이지에 접속해‘send your name to space with artemis Ⅰ을 클릭하면 된다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 플레이제이,NASA 우주선 탑승권 인증?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

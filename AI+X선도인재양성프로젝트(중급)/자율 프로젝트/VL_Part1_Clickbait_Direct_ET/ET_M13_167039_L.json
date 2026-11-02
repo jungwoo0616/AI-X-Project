@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167039",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "손담비 “오징어는 싫지만, 오징어게임은 ♥”",
+    "newsSubTitle": "",
+    "newsContent": "손담비는 지난 17일 자신의 SNS 인스타그램에 “오징어는 너무싫지만 오징어게임은 사랑”이라는 글과 함께 사진을 올렸다.\n사진 속 손담비는 세계적인 인기를 끌고 있는 넷플릭스 한국 오리지널 ‘오징어 게임’ 속 초록색 트레이닝복 차림으로 포즈를 취했다.\n양갈래로 땋은 헤어스타일로 활동적인 느낌을 더하고, 노란색 운동화로 스타일리시함을 더했다.\n여기에 ‘오징어 게임’을 연상시키는 동그라미, 세모, 네모 모양 머리핀을 꽂아주는 센스도 발휘했다.\n손담비는 해당 사진을 “언니가 쏜다 고고”라는 문구와 함께 사진을 올렸다.\n자신이 출연 중인 IHQ 예능 ‘언니가 쏜다!’ 촬영 도중 찍은 사진으로 보인다.\n손씨는 소이현, 안영미, 곽정은 등과 함께 IHQ 예능 프로그램 ‘언니가 쏜다!’에 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "손담비는 지난 17일 자신의 SNS 인스타그램에 “오징어는 너무싫지만 오징어게임은 사랑”이라는 글과 함께 사진을 올렸다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사진 속 손담비는 세계적인 인기를 끌고 있는 넷플릭스 한국 오리지널 ‘오징어 게임’ 속 초록색 트레이닝복 차림으로 포즈를 취했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "양갈래로 땋은 헤어스타일로 활동적인 느낌을 더하고, 노란색 운동화로 스타일리시함을 더했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여기에 ‘오징어 게임’을 연상시키는 동그라미, 세모, 네모 모양 머리핀을 꽂아주는 센스도 발휘했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "손담비는 해당 사진을 “언니가 쏜다 고고”라는 문구와 함께 사진을 올렸다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자신이 출연 중인 IHQ 예능 ‘언니가 쏜다!’ 촬영 도중 찍은 사진으로 보인다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손씨는 소이현, 안영미, 곽정은 등과 함께 IHQ 예능 프로그램 ‘언니가 쏜다!’에 출연 중이다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "손담비, 오징어 혐오하면서 '오징어 게임'에는 애정 보이더니...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

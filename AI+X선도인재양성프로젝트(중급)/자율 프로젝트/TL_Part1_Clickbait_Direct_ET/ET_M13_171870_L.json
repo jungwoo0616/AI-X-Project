@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171870",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조세호, 꼴값 ing…“그녀도 와 있을까”",
+    "newsSubTitle": "",
+    "newsContent": "조세호의 럽스타그램은 현재진행형이다.\n방송인 조세호는 18일 자신의 사회관계망서비스(SNS)에 “그녀도 와 있을까”라는 글과 함께 영상과 사진을 게재했다.\n공개된 영상, 사진에서 조세호는 양 손에 커피를 들고 누군가를 간절히 기다리는 모습이다.\n눈빛과 멘트에서 그 누구보다 달달한 사랑을 하고 있는 사랑꾼으로 보였다.\n조세호는 최근 꾸준히 럽스타그램 글을 올리고 있다.\n이에 누군가와 연애를 하고 있다는 의혹이 제기됐다.\n계속되는 럽스타그램 글에 배우 최지우는 댓글로 “괜찮은거지?”, 이동휘는 “해킹 당했어?”라고 묻기도 했다.\n조세호의 럽스타그램 글이 계속 올라와 열애설이 극에 달했을 때 소속사는 ‘꼴값’이라고 해명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조세호의 럽스타그램은 현재진행형이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방송인 조세호는 18일 자신의 사회관계망서비스(SNS)에 “그녀도 와 있을까”라는 글과 함께 영상과 사진을 게재했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상, 사진에서 조세호는 양 손에 커피를 들고 누군가를 간절히 기다리는 모습이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "눈빛과 멘트에서 그 누구보다 달달한 사랑을 하고 있는 사랑꾼으로 보였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조세호는 최근 꾸준히 럽스타그램 글을 올리고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 누군가와 연애를 하고 있다는 의혹이 제기됐다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "계속되는 럽스타그램 글에 배우 최지우는 댓글로 “괜찮은거지?”, 이동휘는 “해킹 당했어?”라고 묻기도 했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "조세호의 럽스타그램 글이 계속 올라와 열애설이 극에 달했을 때 소속사는 ‘꼴값’이라고 해명했다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조세호의 '이것'은 현재진행형... \"그녀도 와 있을까\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258889",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘뮤뱅’ 김요한, 벗어날 수 없는 유혹 ‘DESSERT’",
+		"newsSubTitle": "",
+		"newsContent": "아이돌그룹 위아이(WEi) 김요한이 몽환적인 카리스마를 전했다.\n김요한은 21일 방송된 KBS2 ‘뮤직뱅크’에 출연해 최근 발매한 솔로 미니앨범 ‘Illusion(일루전)’의 타이틀곡 ‘DESSERT(디저트)’ 무대를 꾸몄다.\n김요한은 세련된 스타일로 무대에 올라 훈훈한 비주얼을 선보였다.\n노래가 진행되면서는 치명적인 매력과 탄탄한 퍼포먼스 실력으로 눈길을 사로잡았다. ‘올라운더’ 김요한의 능력치도 돋보였다.\n김요한은 감미로운 목소리와 파워풀한 래핑으로 다채로운 매력을 마음껏 발산했다.\n김요한이 작사에 참여한 ‘DESSERT’는 그루비한 베이스라인이 돋보이는 펑키 디스코 장르의 곡으로, 캐치한 멜로디와 간결하면서도 신나는 비트가 어우러져 있다.\n자신을 속이고 멋대로 흔드는 줄 알면서도 상대의 달콤한 매력에 이끌려 벗어날 수 없는 위험한 사랑을 ‘디저트’에 빗대어 표현했다.\n김요한은 각종 음악 방송 및 콘텐츠를 통해 솔로 미니앨범 ‘Illusion’ 활동을 활발하게 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이돌그룹 위아이(WEi) 김요한이 몽환적인 카리스마를 전했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김요한은 21일 방송된 KBS2 ‘뮤직뱅크’에 출연해 최근 발매한 솔로 미니앨범 ‘Illusion(일루전)’의 타이틀곡 ‘DESSERT(디저트)’ 무대를 꾸몄다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김요한은 세련된 스타일로 무대에 올라 훈훈한 비주얼을 선보였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노래가 진행되면서는 치명적인 매력과 탄탄한 퍼포먼스 실력으로 눈길을 사로잡았다. ‘올라운더’ 김요한의 능력치도 돋보였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김요한은 감미로운 목소리와 파워풀한 래핑으로 다채로운 매력을 마음껏 발산했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김요한이 작사에 참여한 ‘DESSERT’는 그루비한 베이스라인이 돋보이는 펑키 디스코 장르의 곡으로, 캐치한 멜로디와 간결하면서도 신나는 비트가 어우러져 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자신을 속이고 멋대로 흔드는 줄 알면서도 상대의 달콤한 매력에 이끌려 벗어날 수 없는 위험한 사랑을 ‘디저트’에 빗대어 표현했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김요한은 각종 음악 방송 및 콘텐츠를 통해 솔로 미니앨범 ‘Illusion’ 활동을 활발하게 이어가고 있다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘뮤뱅’ 김요한, 벗어날 수 없는 유혹 ‘DESSERT’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

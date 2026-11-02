@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260539",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘지우학’ 로몬 “잘생긴 외모? 아니라면 거짓말”[인터뷰①]",
+		"newsSubTitle": "",
+		"newsContent": "배우 로몬이 잘생긴 외모에 대한 위트있는 답변을 남겼다.\n로몬은 10일 오후 진행된 스포츠경향과 인터뷰에서 “잘생긴 외모 때문에 넷플릭스 시리즈 ‘지금 우리 학교는’에 집중하기 어렵다는 반응이 있다”는 질문에 “많이 부끄럽다”면서도 “개인적으로 안 잘생겼다고 하면 거짓말이다”고 해 웃음을 자아냈다.\n그는 “사실 그런 반응도 조금 찾아봤다”며 “지인들도 잘생기게 나왔다고 하더라”고 운을 뗐다.\n이어 “나도 가끔 거울 볼 때 ‘오늘 좀 괜찮네’라고 생각할 때도 있다”면서도 “외모에 취해서 사는 편은 아니다”고 선을 그었다.\n로몬은 ‘지금 우리 학교는’에서 수혁 역을 맡아 강렬한 인상을 남겼다.\n넷플릭스서 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 로몬이 잘생긴 외모에 대한 위트있는 답변을 남겼다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로몬은 10일 오후 진행된 스포츠경향과 인터뷰에서 “잘생긴 외모 때문에 넷플릭스 시리즈 ‘지금 우리 학교는’에 집중하기 어렵다는 반응이 있다”는 질문에 “많이 부끄럽다”면서도 “개인적으로 안 잘생겼다고 하면 거짓말이다”고 해 웃음을 자아냈다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “사실 그런 반응도 조금 찾아봤다”며 “지인들도 잘생기게 나왔다고 하더라”고 운을 뗐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “나도 가끔 거울 볼 때 ‘오늘 좀 괜찮네’라고 생각할 때도 있다”면서도 “외모에 취해서 사는 편은 아니다”고 선을 그었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로몬은 ‘지금 우리 학교는’에서 수혁 역을 맡아 강렬한 인상을 남겼다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "넷플릭스서 만나볼 수 있다.",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘지우학’ 로몬 “잘생긴 외모? 아니라면 거짓말”[인터뷰①]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

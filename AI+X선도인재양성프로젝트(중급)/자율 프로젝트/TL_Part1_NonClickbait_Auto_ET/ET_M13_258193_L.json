@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258193",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방심위 “표현의 자유 보장, 최소 규제 원칙”",
+		"newsSubTitle": "",
+		"newsContent": "지난해 8월 구성된 방송통신심의위원회(방통심의위)가 제5기 위원회 심의 가치와 기준의 중심을 시청자·이용자에게 두고, 표현의 자유 보장과 최소 규제를 원칙으로 하겠다고 14일 밝혔다.\n방통심의위는 이런 내용을 담은 제5기 위원회 비전과 함께 ▲ 민간 독립 심의 기관으로서의 위상 강화 ▲ 심의 신뢰도 제고와 실효성 강화 ▲ 이용자 보호와 다양성 보장 등 정책 과제를 제시했다.\n정연주 위원장은 “방송과 통신을 통해 전달되는 모든 정보가 정확하고 공정하며 우리 공동체에 유익하고 건강한 것이 되도록 하겠다”고 밝혔다.\n방통심의위는 민간 독립 심의 기관으로서 위상 강화와 관련해 국가 검열을 금지하는 헌법 정신에 따라 독립성·중립성을 확보하는 노력을 기울이고, 위원 공백기를 막을 수 있도록 하는 법령 개선을 추진하기로 했다.\n심의 신뢰도 제고와 실효성 강화를 위해 긴급 전자 심의 대상을 불법 도박·마약 정보 등으로 확대하는 방안을 추진하고, ‘국제협력단’을 신설해 글로벌 플랫폼 사업자와의 협력을 확대한다.\n이용자 보호와 다양성 확보를 위해 사회적 약자와 소수자 차별·비하·혐오 등에 대한 심의를 강화하고 불법 촬영물 재유통을 방지하는 기술 지원을 고도화한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 8월 구성된 방송통신심의위원회(방통심의위)가 제5기 위원회 심의 가치와 기준의 중심을 시청자·이용자에게 두고, 표현의 자유 보장과 최소 규제를 원칙으로 하겠다고 14일 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방통심의위는 이런 내용을 담은 제5기 위원회 비전과 함께 ▲ 민간 독립 심의 기관으로서의 위상 강화 ▲ 심의 신뢰도 제고와 실효성 강화 ▲ 이용자 보호와 다양성 보장 등 정책 과제를 제시했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정연주 위원장은 “방송과 통신을 통해 전달되는 모든 정보가 정확하고 공정하며 우리 공동체에 유익하고 건강한 것이 되도록 하겠다”고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방통심의위는 민간 독립 심의 기관으로서 위상 강화와 관련해 국가 검열을 금지하는 헌법 정신에 따라 독립성·중립성을 확보하는 노력을 기울이고, 위원 공백기를 막을 수 있도록 하는 법령 개선을 추진하기로 했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "심의 신뢰도 제고와 실효성 강화를 위해 긴급 전자 심의 대상을 불법 도박·마약 정보 등으로 확대하는 방안을 추진하고, ‘국제협력단’을 신설해 글로벌 플랫폼 사업자와의 협력을 확대한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이용자 보호와 다양성 확보를 위해 사회적 약자와 소수자 차별·비하·혐오 등에 대한 심의를 강화하고 불법 촬영물 재유통을 방지하는 기술 지원을 고도화한다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방심위 “표현의 자유 보장, 최소 규제 원칙”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

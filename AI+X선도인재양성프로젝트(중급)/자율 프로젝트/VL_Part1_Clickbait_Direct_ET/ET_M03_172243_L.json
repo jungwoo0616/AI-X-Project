@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172243",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'프듀' 연습생 이대휘 닮은꼴 외국인",
+    "newsSubTitle": "",
+    "newsContent": "'프로듀스 101'에 출연하는 연습생 이대휘의 닮은꼴이 화제다.\n17일, 한 온라인 커뮤니티에 '난 이대휘 얘 닮은 것 같아'라는 제목의 글이 올라왔다.\n이대휘는 흑인 음악을 주로 다루는 브랜뉴뮤직의 2년 4개월 차 연습생으로 최근 방송된 Mnet '프로듀스 101 2'에서 3위를 차지했다.\n작성자가 이대휘의 닮은꼴로 제시한 사람은 Jtbc '비정상회담'의 중국대표 왕심린이었다.\n왕심린은 독학으로 1년 만에 한국어를 다 배운 그는 현재 서울대 기계과 박사 과정을 밟고 있다.\n게시글을 접한 네티즌들은 \\\"붙여놓으니까 진짜 닮았다\\\", \\\"이대휘 쪽이 눈썹이 내려가서 좀 더 순하고 어려 보이는 거 빼곤 친척이라 해도 믿을 듯\\\" 등 이대휘와 왕심린이 닮았다는 것에 공감하는 모습을 보였다.\n한편 오는 21일에 방송되는 '프로듀스 101 시즌 2' 3화에서는 첫 번째 센터를 뽑기 위한 '센터 선발전'과 '그룹 배틀'이 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'프로듀스 101'에 출연하는 연습생 이대휘의 닮은꼴이 화제다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일, 한 온라인 커뮤니티에 '난 이대휘 얘 닮은 것 같아'라는 제목의 글이 올라왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이대휘는 흑인 음악을 주로 다루는 브랜뉴뮤직의 2년 4개월 차 연습생으로 최근 방송된 Mnet '프로듀스 101 2'에서 3위를 차지했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "작성자가 이대휘의 닮은꼴로 제시한 사람은 Jtbc '비정상회담'의 중국대표 왕심린이었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "왕심린은 독학으로 1년 만에 한국어를 다 배운 그는 현재 서울대 기계과 박사 과정을 밟고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "게시글을 접한 네티즌들은 \\\"붙여놓으니까 진짜 닮았다\\\", \\\"이대휘 쪽이 눈썹이 내려가서 좀 더 순하고 어려 보이는 거 빼곤 친척이라 해도 믿을 듯\\\" 등 이대휘와 왕심린이 닮았다는 것에 공감하는 모습을 보였다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 오는 21일에 방송되는 '프로듀스 101 시즌 2' 3화에서는 첫 번째 센터를 뽑기 위한 '센터 선발전'과 '그룹 배틀'이 열린다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'프듀' 출신 이 연습생, 외국에서 화제... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

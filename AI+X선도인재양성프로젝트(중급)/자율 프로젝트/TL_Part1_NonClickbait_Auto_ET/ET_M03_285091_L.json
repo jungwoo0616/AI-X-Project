@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285091",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "신촌 정전, 왜 때문이에요? 원인은 …",
+		"newsSubTitle": "",
+		"newsContent": "신촌 정전 신촌 변전소 이상 서울 홍대와 신촌 일부지역이 정전으로 혼란을 빚고 있다.\n한국전력에 따르면 홍대·신촌 정전은 신촌 변전소 이상으로 인한 전기 고장이 원인이다.\n홍대·신촌 정전 복구 작업은 현재까지 정확한 시간을 내놓지 못하고 있는 상황이다.\n비교적 넓은 지역인 홍대·신촌 정전으로 현재 해당 지역에 있는 시민들은 불안에 떨고 있다.\n인터넷상에는 홍대·신촌 정전 원인을 모르는 상황에서 \\\"건물 정전이 아니라 홍대, 신촌 모두 정전이네\\\" \\\"신촌 정전…온통 그러네\\\" \\\"신촌 정전 왜 때문이지?\\\" 등 다양한 반응과 함께 걱정을 표하고 있다.\n신촌 정전 신촌 변전소 이상 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신촌 정전 신촌 변전소 이상 서울 홍대와 신촌 일부지역이 정전으로 혼란을 빚고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전력에 따르면 홍대·신촌 정전은 신촌 변전소 이상으로 인한 전기 고장이 원인이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍대·신촌 정전 복구 작업은 현재까지 정확한 시간을 내놓지 못하고 있는 상황이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비교적 넓은 지역인 홍대·신촌 정전으로 현재 해당 지역에 있는 시민들은 불안에 떨고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인터넷상에는 홍대·신촌 정전 원인을 모르는 상황에서 \\\"건물 정전이 아니라 홍대, 신촌 모두 정전이네\\\" \\\"신촌 정전…온통 그러네\\\" \\\"신촌 정전 왜 때문이지?\\\" 등 다양한 반응과 함께 걱정을 표하고 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신촌 정전 신촌 변전소 이상 온라인 중앙일보",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신촌 정전, 왜 때문이에요? 원인은 …",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

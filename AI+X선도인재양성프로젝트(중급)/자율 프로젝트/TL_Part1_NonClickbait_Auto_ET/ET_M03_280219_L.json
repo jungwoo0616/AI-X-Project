@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280219",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'냉장고' 문채원, 쉬는 시간 맥주 한 모금 … '소탈한 매력'으로 남심저격",
+		"newsSubTitle": "",
+		"newsContent": "'냉장고를 부탁해'에 출연한 문채원이 녹화 중 맥주를 마셨다.\n4일 방송된 JTBC '냉장고를 부탁해'에서는 유연석, 문채원이 출연해 냉장고를 공개했다.\n이날 문채원은 미카엘 셰프가 선보인 '뒤집었닭'을 시식한 후 손으로 '쌍따봉'을 만들어 보이며 극찬했다.\n문채원은 \\\"너무 부드러워서 씹을 게 없다. 두부를 먹는 것 같다\\\"며 \\\"녹는다. 이걸 들고 한강으로 가고 싶다\\\"고 말했다.\n문채원은 이연복과 미카엘의 요리를 시식하고 쉬는 시간이 되자 맥주를 찾았다.\n맥주를 마신 후 문채원은 \\\"캬아~ 맛있다\\\"고 감탄해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'냉장고를 부탁해'에 출연한 문채원이 녹화 중 맥주를 마셨다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 방송된 JTBC '냉장고를 부탁해'에서는 유연석, 문채원이 출연해 냉장고를 공개했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 문채원은 미카엘 셰프가 선보인 '뒤집었닭'을 시식한 후 손으로 '쌍따봉'을 만들어 보이며 극찬했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문채원은 \\\"너무 부드러워서 씹을 게 없다. 두부를 먹는 것 같다\\\"며 \\\"녹는다. 이걸 들고 한강으로 가고 싶다\\\"고 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문채원은 이연복과 미카엘의 요리를 시식하고 쉬는 시간이 되자 맥주를 찾았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "맥주를 마신 후 문채원은 \\\"캬아~ 맛있다\\\"고 감탄해 웃음을 자아냈다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'냉장고' 문채원, 쉬는 시간 맥주 한 모금 … '소탈한 매력'으로 남심저격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

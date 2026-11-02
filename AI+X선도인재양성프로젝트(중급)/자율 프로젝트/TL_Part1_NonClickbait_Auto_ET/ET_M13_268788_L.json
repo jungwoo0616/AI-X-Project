@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268788",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘이번주도 잘부탁해’ 2일 첫방송…첫 게스트는 권상우",
+		"newsSubTitle": "",
+		"newsContent": "배우 권상우가 tvN STORY, ENA채널 공동 제작의 ‘이번주도 잘부탁해’ 첫 게스트로 출연한다.\n오는 2일 방송되는 ‘이번주도 잘부탁해’ 1회에는 배우 성동일과 고창석과 권상우가 티키타카 케미스트리를 보여준다.\n이날 방송에서 안주를 기다리던 권상우는 “다음 게스트도 저랑 친한 애 거든요”라며 “지훈이랑 인성이한테 전화를 해봐야겠다”며 휴대폰을 집어 들었다.\n권상우가 전화 연결에 힘쓰는 동안 성동일과 고창석은 ‘OOO를 닮은 안주’를 완성했다. ‘메인 셰프’ 성동일은 요리 이름을 묻는 권상우에게 “이름? OOO”라며 의기양양한 표정을 지었다.\n그 와중 권상우의 휴대폰이 울리기 시작했고, 전화를 받아든 권상우는 “네 덕분에 형이 좀 덜 창피해...네가 낫다”며 안도했다. ‘이번주도 잘부탁해’는 우리나라 전통주를 소개하고 그 전통주와 어울리는 안주를 페어링하는 신규 예능 프로그램이다.\n권상우를 구원한 ‘콜백’의 주인공과 ‘OOO를 닮은 안주’의 정체는 오는 5월 2일 월요일 오후 9시 30분 방송되는 ‘이번주도 잘부탁해’에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 권상우가 tvN STORY, ENA채널 공동 제작의 ‘이번주도 잘부탁해’ 첫 게스트로 출연한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 2일 방송되는 ‘이번주도 잘부탁해’ 1회에는 배우 성동일과 고창석과 권상우가 티키타카 케미스트리를 보여준다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 안주를 기다리던 권상우는 “다음 게스트도 저랑 친한 애 거든요”라며 “지훈이랑 인성이한테 전화를 해봐야겠다”며 휴대폰을 집어 들었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권상우가 전화 연결에 힘쓰는 동안 성동일과 고창석은 ‘OOO를 닮은 안주’를 완성했다. ‘메인 셰프’ 성동일은 요리 이름을 묻는 권상우에게 “이름? OOO”라며 의기양양한 표정을 지었다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 와중 권상우의 휴대폰이 울리기 시작했고, 전화를 받아든 권상우는 “네 덕분에 형이 좀 덜 창피해...네가 낫다”며 안도했다. ‘이번주도 잘부탁해’는 우리나라 전통주를 소개하고 그 전통주와 어울리는 안주를 페어링하는 신규 예능 프로그램이다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "권상우를 구원한 ‘콜백’의 주인공과 ‘OOO를 닮은 안주’의 정체는 오는 5월 2일 월요일 오후 9시 30분 방송되는 ‘이번주도 잘부탁해’에서 공개된다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘이번주도 잘부탁해’ 2일 첫방송…첫 게스트는 권상우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

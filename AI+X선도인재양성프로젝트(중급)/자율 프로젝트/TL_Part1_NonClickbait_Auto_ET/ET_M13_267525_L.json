@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267525",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "아프리카TV, 메타버스 플랫폼 프리블록스 기능 강화",
+		"newsSubTitle": "",
+		"newsContent": "아프리카TV가 메타버스 플랫폼 ‘프리블록스’에 이용자가 자신의 메타버스 공간을 다양하게 만들 수 있는 ‘멀티 버스’ 서비스를 구현했다고 20일 전했다.\n프리블록스는 참여자들이 아바타를 통해 실시간으로 소통하며 라이브 스트리밍·채팅·메세징·게임 등 경제 활동을 함께 할 수 있는 메타버스 플랫폼이다. ‘멀티 버스’는 개인과 기업이 프리블록스에서 각자 목적에 맞도록 공간을 꾸밀 수 있는 ‘마이 버스’를 여러 개 만들 수 있는 서비스다.\n마이 버스에서 맵 에디팅을 통해 나만의 ‘유즈맵(Use Map)’ 게임을 만들어 가상현실 놀이터(플레이 버스)에 퍼블리싱(배급)하는 기능도 추가됐다.\n이용자들이 ‘장애물 경주’ 게임에서 넘어야 하는 구조물을 직접 구성해 다양한 난이도의 게임을 만들 수 있고, ‘건슈팅’ 게임에선 은폐·엄폐물 등 다양한 경기 전략이 나올 수 있는 맵을 구성할 수 있다.\n아프리카TV는 프리블록스에서 아프리카TV 라이브 스트리밍 서비스를 이용할 수 있는 기능도 선보였다.\n이용자가 화면 좌측 하단에 있는 ‘방송하기’ 버튼을 클릭해 프리블록스 내 활동을 라이브 스트리밍으로 다른 이용자들과 공유된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아프리카TV가 메타버스 플랫폼 ‘프리블록스’에 이용자가 자신의 메타버스 공간을 다양하게 만들 수 있는 ‘멀티 버스’ 서비스를 구현했다고 20일 전했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프리블록스는 참여자들이 아바타를 통해 실시간으로 소통하며 라이브 스트리밍·채팅·메세징·게임 등 경제 활동을 함께 할 수 있는 메타버스 플랫폼이다. ‘멀티 버스’는 개인과 기업이 프리블록스에서 각자 목적에 맞도록 공간을 꾸밀 수 있는 ‘마이 버스’를 여러 개 만들 수 있는 서비스다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마이 버스에서 맵 에디팅을 통해 나만의 ‘유즈맵(Use Map)’ 게임을 만들어 가상현실 놀이터(플레이 버스)에 퍼블리싱(배급)하는 기능도 추가됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자들이 ‘장애물 경주’ 게임에서 넘어야 하는 구조물을 직접 구성해 다양한 난이도의 게임을 만들 수 있고, ‘건슈팅’ 게임에선 은폐·엄폐물 등 다양한 경기 전략이 나올 수 있는 맵을 구성할 수 있다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아프리카TV는 프리블록스에서 아프리카TV 라이브 스트리밍 서비스를 이용할 수 있는 기능도 선보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이용자가 화면 좌측 하단에 있는 ‘방송하기’ 버튼을 클릭해 프리블록스 내 활동을 라이브 스트리밍으로 다른 이용자들과 공유된다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아프리카TV, 메타버스 플랫폼 프리블록스 기능 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

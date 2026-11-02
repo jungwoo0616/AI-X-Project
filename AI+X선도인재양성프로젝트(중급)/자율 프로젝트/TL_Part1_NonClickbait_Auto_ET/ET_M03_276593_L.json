@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276593",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "최민수, 생수통 들며 “라디오 스타가 제작비 달리나”",
+		"newsSubTitle": "",
+		"newsContent": "MBC 예능프로그램 ‘라디오 스타’에 출연한 배우 최민수가 제작비 걱정을 했다.\n12일 방송된 ‘라디오 스타’에서는 최민수는 첫 인사를 하는 와중에 테이블 위에 올려진 생수병을 문제 삼았다.\n최민수는 “이게 PPL(간접광고)인가요. 라디오 스타가 제작비가 딸리나(달리나의 오기)”라고 물었다.\n이에 진행자 김구라는 “주는 돈을 마다하기는 어렵잖아요”라고 응했다.\n최민수는 같이 출연한 배우 이소연이 “(이번 드라마가)결혼한 뒤 두 번째 작품”이라고 말하자 “결혼했어? 첫 번째 결혼 축하해”라고 말해 웃음을 샀다.\n이어 “방송 홍보 때문에 나왔다. 원래 드라마 몰입을 해야 해서 다른 걸 못합니다. 그 드라마 인물화가 되어 있는 상태에서 예능 프로그램 홍보하고 그런 거는 안 맞는 거예요. 그냥 내버려 둬요”라고 말했다.\n이에 김구라가 “오늘은 (말을) 줄여 주시는 게 어떻나”라고 말하자, “사람이 말이야 4년 만에 나왔는데. 네 구라나 줄여 뭘 말을 줄이기는 줄여”라고 대응했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC 예능프로그램 ‘라디오 스타’에 출연한 배우 최민수가 제작비 걱정을 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 방송된 ‘라디오 스타’에서는 최민수는 첫 인사를 하는 와중에 테이블 위에 올려진 생수병을 문제 삼았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최민수는 “이게 PPL(간접광고)인가요. 라디오 스타가 제작비가 딸리나(달리나의 오기)”라고 물었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 진행자 김구라는 “주는 돈을 마다하기는 어렵잖아요”라고 응했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최민수는 같이 출연한 배우 이소연이 “(이번 드라마가)결혼한 뒤 두 번째 작품”이라고 말하자 “결혼했어? 첫 번째 결혼 축하해”라고 말해 웃음을 샀다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “방송 홍보 때문에 나왔다. 원래 드라마 몰입을 해야 해서 다른 걸 못합니다. 그 드라마 인물화가 되어 있는 상태에서 예능 프로그램 홍보하고 그런 거는 안 맞는 거예요. 그냥 내버려 둬요”라고 말했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 김구라가 “오늘은 (말을) 줄여 주시는 게 어떻나”라고 말하자, “사람이 말이야 4년 만에 나왔는데. 네 구라나 줄여 뭘 말을 줄이기는 줄여”라고 대응했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최민수, 생수통 들며 “라디오 스타가 제작비 달리나”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

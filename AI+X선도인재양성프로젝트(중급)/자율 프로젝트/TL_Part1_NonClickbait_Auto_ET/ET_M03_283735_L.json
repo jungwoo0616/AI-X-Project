@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283735",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'올드스쿨' 크리스탈 \\\"이상형? 조니뎁…언젠가 만나고 싶다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'크리스탈' '크리스탈 이상형' 걸그룹 에프엑스 크리스탈이 조니뎁에 대한 애정을 드러냈다.\n크리스탈과 엠버는 3일 오후 방송된 SBS 파워FM '김창렬의 올드스쿨'(이하 '올드스쿨')에서 정규 4집에 대한 이야기와 관련 에피소드에 대해 얘기했다.\n이날 크리스탈은 앞으로 호흡을 맞춰보고 싶은 배우를 묻는 질문에 한 치의 망설임 없이 조니뎁이라고 답했다.\n이어 크리스탈은 \\\"남성미가 있다. 하는 역할들도 개성있고 그 분 자체의 뿜어져나오는 기운이 남다른 것 같다\\\"고 말했다.\n또한 음성 편지를 보내라는 강인의 말에 \\\"그 분 이미 결혼하셨다\\\"라며 \\\"언젠가 만나요. 좋아해요\\\"라고 수줍게 말해 웃음을 자아냈다.\n한편 이날 '올드스쿨'에는 그룹 슈퍼주니어의 멤버 강인이 스페셜 DJ로 나선 가운데 크리스탈과 루나가 게스트로 출연했다. '크리스탈' '크리스탈 이상형' 온라인 중앙일보 [크리스탈, 엠버사진] '올드스쿨' 방송화면 캡처.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'크리스탈' '크리스탈 이상형' 걸그룹 에프엑스 크리스탈이 조니뎁에 대한 애정을 드러냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크리스탈과 엠버는 3일 오후 방송된 SBS 파워FM '김창렬의 올드스쿨'(이하 '올드스쿨')에서 정규 4집에 대한 이야기와 관련 에피소드에 대해 얘기했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 크리스탈은 앞으로 호흡을 맞춰보고 싶은 배우를 묻는 질문에 한 치의 망설임 없이 조니뎁이라고 답했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 크리스탈은 \\\"남성미가 있다. 하는 역할들도 개성있고 그 분 자체의 뿜어져나오는 기운이 남다른 것 같다\\\"고 말했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 음성 편지를 보내라는 강인의 말에 \\\"그 분 이미 결혼하셨다\\\"라며 \\\"언젠가 만나요. 좋아해요\\\"라고 수줍게 말해 웃음을 자아냈다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 '올드스쿨'에는 그룹 슈퍼주니어의 멤버 강인이 스페셜 DJ로 나선 가운데 크리스탈과 루나가 게스트로 출연했다. '크리스탈' '크리스탈 이상형' 온라인 중앙일보 [크리스탈, 엠버사진] '올드스쿨' 방송화면 캡처.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'올드스쿨' 크리스탈 \\\"이상형? 조니뎁…언젠가 만나고 싶다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

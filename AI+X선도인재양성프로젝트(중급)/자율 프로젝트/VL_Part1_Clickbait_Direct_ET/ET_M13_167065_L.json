@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167065",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘거짓 암투병 논란’ 최성봉, SNS 비공개 전환",
+    "newsSubTitle": "",
+    "newsContent": "거짓 암 투병 논란에 휩싸인 가수 최성봉이 사회관계망서비스(SNS)를 비공개로 전환했다.\n최성봉이 SNS를 비공개로 전환한 사실이 20일 확인됐다.\n이와 함께 게재했던 후원금 계좌도 지운 상태로, 현재 포털사이트 메일 주소만 남긴 것으로 알려졌다.\n최성봉은 앞서 기존에 팔로잉하던 계정도 모두 언팔로우하고, 환자복을 입은 사진 등 게시물 7개도 삭제 조치해 관심을 모은 바 있다.\n최성봉은 올해 초 대장암 3기와 전립선암, 갑상선 저하증 및 갑상선암 진단을 받았다며 암 투병 중인 소식을 전했다.\n당시 그는 노래하고 싶다는 소망을 내비치며 10억 원 규모의 크라우드 펀딩을 진행하기도 했다.\n그러나 1차 크라우드 펀딩 종료 이후 세간에 그의 암 투병 사실이 거짓이라는 의혹이 확산됐다.\n이에 최성봉은 진단서를 공개했으나, 이마저도 거짓 진단서라는 주장이 제기됐다.\n한편 최성봉이 출연했던 KBS 2TV ‘불후의 명곡’과 KBS 1TV ‘아침마당’은 그가 나온 회차의 VOD와 클립을 삭제했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "거짓 암 투병 논란에 휩싸인 가수 최성봉이 사회관계망서비스(SNS)를 비공개로 전환했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최성봉이 SNS를 비공개로 전환한 사실이 20일 확인됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 게재했던 후원금 계좌도 지운 상태로, 현재 포털사이트 메일 주소만 남긴 것으로 알려졌다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최성봉은 앞서 기존에 팔로잉하던 계정도 모두 언팔로우하고, 환자복을 입은 사진 등 게시물 7개도 삭제 조치해 관심을 모은 바 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최성봉은 올해 초 대장암 3기와 전립선암, 갑상선 저하증 및 갑상선암 진단을 받았다며 암 투병 중인 소식을 전했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 그는 노래하고 싶다는 소망을 내비치며 10억 원 규모의 크라우드 펀딩을 진행하기도 했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 1차 크라우드 펀딩 종료 이후 세간에 그의 암 투병 사실이 거짓이라는 의혹이 확산됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 최성봉은 진단서를 공개했으나, 이마저도 거짓 진단서라는 주장이 제기됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 최성봉이 출연했던 KBS 2TV ‘불후의 명곡’과 KBS 1TV ‘아침마당’은 그가 나온 회차의 VOD와 클립을 삭제했다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'거짓 암투병 논란' 최성봉, 모든 자취 감추다... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

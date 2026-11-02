@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266070",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘배구여제’ 김연경, 반전美[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배구여제 김연경의 ‘반전매력’ 화보가 공개됐다.\n최근 헤어케어 브랜드 더나플러스는 김연경의 화보 두 장을 공개했다.\n공개된 첫 번째 화보 속 김연경은 턱을 괸 채 정면을 바라보며 특유의 카리스마 넘치는 무드를 드러냈다.\n모노톤으로 촬영된 김연경의 화보는 고급스러운 분위기를 연출, 세계적인 ‘배구여제’ 김연경의 강렬한 아우라를 그대로 담아냈다.\n이어 같이 공개된 두 번재 화보에서 김연경은 스카이블루 계열의 배경과 자켓을 매치, 샴푸를 든 채 자신감 가득한 미소를 지으며 앞선 화보와 대비되는 매력을 뽐냈다.\n밝은 분위기 속 김연경은 윤기 나는 건강한 머릿결과 생기 넘치는 피부를 과시하며 세련되고 여유로운 느낌을 자아냈다.\n한편 김연경은 최근 월드스타 마동석과 함께 기능성 헤어케어 브랜드 더나플러스의 모델로 발탁되어 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배구여제 김연경의 ‘반전매력’ 화보가 공개됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 헤어케어 브랜드 더나플러스는 김연경의 화보 두 장을 공개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 첫 번째 화보 속 김연경은 턱을 괸 채 정면을 바라보며 특유의 카리스마 넘치는 무드를 드러냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모노톤으로 촬영된 김연경의 화보는 고급스러운 분위기를 연출, 세계적인 ‘배구여제’ 김연경의 강렬한 아우라를 그대로 담아냈다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 같이 공개된 두 번재 화보에서 김연경은 스카이블루 계열의 배경과 자켓을 매치, 샴푸를 든 채 자신감 가득한 미소를 지으며 앞선 화보와 대비되는 매력을 뽐냈다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "밝은 분위기 속 김연경은 윤기 나는 건강한 머릿결과 생기 넘치는 피부를 과시하며 세련되고 여유로운 느낌을 자아냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김연경은 최근 월드스타 마동석과 함께 기능성 헤어케어 브랜드 더나플러스의 모델로 발탁되어 화제를 모았다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘배구여제’ 김연경, 반전美[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

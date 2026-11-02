@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277149",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "샤이니가 공연 중 카메라 말고 다른 곳 쳐다본 이유",
+		"newsSubTitle": "",
+		"newsContent": "그룹 샤이니 멤버들의 무대 위 특이한 시선 처리가 화제다.\n한 온라인 커뮤니티에 ‘자꾸 카메라 대신 딴 곳 쳐다보는 샤이니“라며 사진 여러 장이 올라왔다.\n게시물 속 샤이니 멤버들은 카메라 대신 다른 곳을 응시하며 노래를 부르고 있어 궁금증을 자아낸다.\n샤이니 멤버들은 시선이 향하는 곳을 손가락으로 가리키며 윙크를 하기도 한다.\n멤버들이 쳐다보고 있는 곳은 샤이니 팬들이 대거 앉아 있는 무대 객석으로 알려졌으며 샤이니 팬덤이 흔들고 있는 특유의 에메랄드빛 형광봉이 시선을 사로 잡는다.\n이를 본 네티즌들은“색깔 진짜 예쁘다”“따뜻한 글이다”등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 샤이니 멤버들의 무대 위 특이한 시선 처리가 화제다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 온라인 커뮤니티에 ‘자꾸 카메라 대신 딴 곳 쳐다보는 샤이니“라며 사진 여러 장이 올라왔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시물 속 샤이니 멤버들은 카메라 대신 다른 곳을 응시하며 노래를 부르고 있어 궁금증을 자아낸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "샤이니 멤버들은 시선이 향하는 곳을 손가락으로 가리키며 윙크를 하기도 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멤버들이 쳐다보고 있는 곳은 샤이니 팬들이 대거 앉아 있는 무대 객석으로 알려졌으며 샤이니 팬덤이 흔들고 있는 특유의 에메랄드빛 형광봉이 시선을 사로 잡는다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은“색깔 진짜 예쁘다”“따뜻한 글이다”등의 반응을 보였다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "샤이니가 공연 중 카메라 말고 다른 곳 쳐다본 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

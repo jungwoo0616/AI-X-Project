@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275048",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "법무 법인 박효신 사진 도용…재판부 “3천만 원 배상” 판결",
+		"newsSubTitle": "",
+		"newsContent": "성범죄 사건 변호 광고에서 가수 박효신의 사진을 무단으로 사용한 법무법인이 3,000만 원 배상 판결을 받았다.\n연합뉴스의 8일 보도에 따르면 서울중앙지법 재판부는 8일 박효신이 A 법무법인을 상대로 낸 손해배상 청구 소송에서 1심과 마찬가지로 원고의 손을 들어줬다.\nA 법무법인은 2019년부터 성범죄 사건을 전문으로 변호하는 인터넷 사이트를 광고하면서 홈페이지 배너광고에 박효신의 사진을 무단으로 사용했다.\n해당 사진은 광고 문구와 합성되어 홈페이지에 노출됐다.\n매체에 따르면 이 광고의 노출 수는 2019년 9월 29일∼10월 16일 사이 148만 1,787회에 이르는 것으로 집계됐다.\n앞서 1심 재판부는 A 법무법인이 박효신의 초상권과 명예권을 부당하게 침해했다며 재산적 손해액 2,000만 원, 위자료 1,000만 원 배상을 판결한 바 있다.\n당시 1심 재판부는 “통상 어느 연예인의 사진이 성범죄 관련 법률서비스에 관한 광고에 사용될 경우 일반 대중은 그 연예인이 성범죄에 연루된 전력이 있는 것으로 받아들일 가능성이 크다”며 “일반 대중이 해당 사진을 알아볼 가능성이 매우 크다”고 판결했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "성범죄 사건 변호 광고에서 가수 박효신의 사진을 무단으로 사용한 법무법인이 3,000만 원 배상 판결을 받았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스의 8일 보도에 따르면 서울중앙지법 재판부는 8일 박효신이 A 법무법인을 상대로 낸 손해배상 청구 소송에서 1심과 마찬가지로 원고의 손을 들어줬다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A 법무법인은 2019년부터 성범죄 사건을 전문으로 변호하는 인터넷 사이트를 광고하면서 홈페이지 배너광고에 박효신의 사진을 무단으로 사용했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 사진은 광고 문구와 합성되어 홈페이지에 노출됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매체에 따르면 이 광고의 노출 수는 2019년 9월 29일∼10월 16일 사이 148만 1,787회에 이르는 것으로 집계됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 1심 재판부는 A 법무법인이 박효신의 초상권과 명예권을 부당하게 침해했다며 재산적 손해액 2,000만 원, 위자료 1,000만 원 배상을 판결한 바 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당시 1심 재판부는 “통상 어느 연예인의 사진이 성범죄 관련 법률서비스에 관한 광고에 사용될 경우 일반 대중은 그 연예인이 성범죄에 연루된 전력이 있는 것으로 받아들일 가능성이 크다”며 “일반 대중이 해당 사진을 알아볼 가능성이 매우 크다”고 판결했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "법무 법인 박효신 사진 도용…재판부 “3천만 원 배상” 판결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

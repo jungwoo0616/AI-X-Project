@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278622",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "진보라 \\\"김제동에게 데이트 신청했는데 잘 안됐다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "재즈 피아니스트 진보라가 농구선수 김명훈과의 열애에 대해 언급했다.\n진보라는 최근 진행된 KBS 2TV 퀴즈 프로그램 '1대100' 녹화에 1인으로 출연했다.\n이날 MC 조우종 아나운서가 진보라에게 \\\"농구 선수 김명훈과 열애 중이라던데 어떻게 만나게 된 거냐?\\\"고 물었다.\n진보라는 \\\"주변에서 좋은 분 있다고 소개시켜 주신다고 했는데 거절하다가 연말에 뵙게 돼서 만나게 되었다. (만난 지) 얼마 안 됐는데 공개됐다\\\"고 답했다.\n이어 거절을 한 이유에 대해 묻자 \\\"김제동 씨에게 데이트 신청을 했는데 잘 안 됐다\\\"며 \\\"열애설 이후에 관련 기사가 많이 나서 김제동 씨에게 죄송하다 연락했다. 그러던 와중에 좋은 분을 만나게 되었다\\\"고 말했다.\n진보라가 출연하는 '1대100'은 23일 오후 8시 55분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "재즈 피아니스트 진보라가 농구선수 김명훈과의 열애에 대해 언급했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "진보라는 최근 진행된 KBS 2TV 퀴즈 프로그램 '1대100' 녹화에 1인으로 출연했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 MC 조우종 아나운서가 진보라에게 \\\"농구 선수 김명훈과 열애 중이라던데 어떻게 만나게 된 거냐?\\\"고 물었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "진보라는 \\\"주변에서 좋은 분 있다고 소개시켜 주신다고 했는데 거절하다가 연말에 뵙게 돼서 만나게 되었다. (만난 지) 얼마 안 됐는데 공개됐다\\\"고 답했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 거절을 한 이유에 대해 묻자 \\\"김제동 씨에게 데이트 신청을 했는데 잘 안 됐다\\\"며 \\\"열애설 이후에 관련 기사가 많이 나서 김제동 씨에게 죄송하다 연락했다. 그러던 와중에 좋은 분을 만나게 되었다\\\"고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "진보라가 출연하는 '1대100'은 23일 오후 8시 55분에 방송된다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "진보라 \\\"김제동에게 데이트 신청했는데 잘 안됐다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

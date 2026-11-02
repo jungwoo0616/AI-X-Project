@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271444",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "KBS, 지상파 UHD 모바일 다채널 차량 이동수신·방송통신 융합서비스 테스트",
+		"newsSubTitle": "",
+		"newsContent": "KBS가 26일 이동 중 차량을 대상으로 ‘UHD 모바일 다채널 및 위치기반 방송·통신 융합 영상서비스’ 수도권 지역 온에어 테스트를 실시했다고 밝혔다.\n테스트는 KBS 지상파 UHD 9-3번 신호 내에 편성표 기반 프로그램 시작·종료·시각 정보를 포함하여 송출하고, 여의도 국회 인근 지역 이동 차량 내에서 GPS 위치를 기반으로 해 UHD 방송 시청 중 5G 통신망을 통한 지역 맞춤형 공익 광고 영상을 수신하는 방식으로 이뤄졌다.\nKBS는 테스트를 통해 지상파 UHD 방송망을 통한 차량 내 직접수신 환경을 개선하고, 국지적 재난재해 상황에서 5G 통신망과 융합된 지역 맞춤형 재난방송 영상 송출 가능성을 검증했다.\nKBS는“향후 ‘지상파 방송망과 통신망이 융합된 혁신서비스 모델’을 지속 발굴함으로써 재난방송 등 공적 책무를 강화하고, 국내 통신사 및 방송 장비 제조사들과의 유기적 협력을 통한 글로벌 산업 기술 경쟁력 제고에 기여할 것‘이라고 밝혔다.\nKBS측 관계자는“지상파 UHD 모바일 다채널의 차량 이동수신 및 방송통신 융합서비스 온에어 기술은100% 완성단계로 당장 서비스가 가능한 수준”이라고 밝혔다.\n이번 테스트는 KBS, SK텔레콤, Cast.Era 및 국내 방송장비 제조사와 공동 협력을 통해 실시됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS가 26일 이동 중 차량을 대상으로 ‘UHD 모바일 다채널 및 위치기반 방송·통신 융합 영상서비스’ 수도권 지역 온에어 테스트를 실시했다고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "테스트는 KBS 지상파 UHD 9-3번 신호 내에 편성표 기반 프로그램 시작·종료·시각 정보를 포함하여 송출하고, 여의도 국회 인근 지역 이동 차량 내에서 GPS 위치를 기반으로 해 UHD 방송 시청 중 5G 통신망을 통한 지역 맞춤형 공익 광고 영상을 수신하는 방식으로 이뤄졌다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KBS는 테스트를 통해 지상파 UHD 방송망을 통한 차량 내 직접수신 환경을 개선하고, 국지적 재난재해 상황에서 5G 통신망과 융합된 지역 맞춤형 재난방송 영상 송출 가능성을 검증했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KBS는“향후 ‘지상파 방송망과 통신망이 융합된 혁신서비스 모델’을 지속 발굴함으로써 재난방송 등 공적 책무를 강화하고, 국내 통신사 및 방송 장비 제조사들과의 유기적 협력을 통한 글로벌 산업 기술 경쟁력 제고에 기여할 것‘이라고 밝혔다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KBS측 관계자는“지상파 UHD 모바일 다채널의 차량 이동수신 및 방송통신 융합서비스 온에어 기술은100% 완성단계로 당장 서비스가 가능한 수준”이라고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 테스트는 KBS, SK텔레콤, Cast.Era 및 국내 방송장비 제조사와 공동 협력을 통해 실시됐다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KBS, 지상파 UHD 모바일 다채널 차량 이동수신·방송통신 융합서비스 테스트",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

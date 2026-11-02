@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277649",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "허지웅 \\\"유느님 아무도 없을 때 쓰레기통 발로 차던데…\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 허지웅이 유재석의 인간미를 제대로 느낄 수 있었던 에피소드를 공개했다.\n22일 KBS2 '해피투게더 3'에 출연한 허지웅은 유재석을 보며 유재석은 위인같은 느낌이 있다고 말하며 '유재석에게 인간적인 면이 있는가'라고 되물었다.\n그러면서 그는\\\"사실 유재석씨도 인간적인 면이 있거든요\\\" \\\"방송국 복도에서 아무도 없을 때 유재석씨가 금속 쓰레기통을 발로 찬 걸 봤다\\\"고 밝혔다.\n허지웅은 \\\"늘 위인으로 생각하다 그 모습을 보니 너무 인간적이었다\\\"라고 말했다.\n이에 유재석은 \\\"저는 태어나서 쓰레기통을 발로 찬 적이 없다\\\"고 말했다.\n하지만 만약에 허지웅씨가 원한다면 내가 나가면서 한번 차겠다\\\"라고 말했다. 이에 출연진들은 \\\"역시 유재석\\\"이라며 유재석의 인간미에 감탄했다. 가수 이상민은 재석을 가리켜 \\\"손으로 태양을 가릴 순 있어도 빛을 가릴 순 없다\\\"고 말했다. 이에 박명수는 \\\"너는 빛 가릴 생각하지 말고 빚이나 갚아\\\"라고 말해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 허지웅이 유재석의 인간미를 제대로 느낄 수 있었던 에피소드를 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 KBS2 '해피투게더 3'에 출연한 허지웅은 유재석을 보며 유재석은 위인같은 느낌이 있다고 말하며 '유재석에게 인간적인 면이 있는가'라고 되물었다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 그는\\\"사실 유재석씨도 인간적인 면이 있거든요\\\" \\\"방송국 복도에서 아무도 없을 때 유재석씨가 금속 쓰레기통을 발로 찬 걸 봤다\\\"고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허지웅은 \\\"늘 위인으로 생각하다 그 모습을 보니 너무 인간적이었다\\\"라고 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 유재석은 \\\"저는 태어나서 쓰레기통을 발로 찬 적이 없다\\\"고 말했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 만약에 허지웅씨가 원한다면 내가 나가면서 한번 차겠다\\\"라고 말했다. 이에 출연진들은 \\\"역시 유재석\\\"이라며 유재석의 인간미에 감탄했다. 가수 이상민은 재석을 가리켜 \\\"손으로 태양을 가릴 순 있어도 빛을 가릴 순 없다\\\"고 말했다. 이에 박명수는 \\\"너는 빛 가릴 생각하지 말고 빚이나 갚아\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 185
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "허지웅 \\\"유느님 아무도 없을 때 쓰레기통 발로 차던데…\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

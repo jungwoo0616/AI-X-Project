@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267348",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "♥한영 박군, “밥 먹다가도 하트 만들어”",
+		"newsSubTitle": "",
+		"newsContent": "가수 박군이 가장 힘든 시기를 극복하게 해 준 사람이 한영이었다고 밝혔다.\n18일 방송된 JTBC ‘우리 사이’에서는 사이 MC 박군이 특전사 동기인 친구 박지윤과 속깊은 이야기를 나눴다.\n결혼해야겠다고 결심한 계기를 묻자 박군은 “다 그만두고 군대로 다시 가고 싶을 만큼 힘들었다. 조언도 많이 해주고, 옆에서 정말 많은 힘이 돼줬다. 이런 사람은 없다고 생각했다”고 말했다.\n이용진은 “결혼 앞두고 많이 싸우지 않나”라고 물었다.\n이에 박군은 “싸울 것 같으면 결혼 안 했죠. 싸울 것 같았으면 이 사람이다 생각도 안 했을 거다”며 애정을 내비쳤다.\n또 틈날 때마다 프러포즈를 하고 있다며 “너무 좋으니까. (한영이) 장미꽃을 좋아해서 오다 주웠다고 준다. 밥 먹다가도 하트 만들고”라며 사랑꾼 면모를 드러냈다.\n박군은 “쌍둥이 형제들이 한영의 프로그램에 출연했고, 한영은 고생한다며 용돈을 줬다. 그때 이 선배는 정말 프로라고 생각했다. 나도 ‘내가 MC고, 내 프로그램에 고생을 해주니까’ 이런 마인드를 배워야겠다고 생각했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 박군이 가장 힘든 시기를 극복하게 해 준 사람이 한영이었다고 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 방송된 JTBC ‘우리 사이’에서는 사이 MC 박군이 특전사 동기인 친구 박지윤과 속깊은 이야기를 나눴다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼해야겠다고 결심한 계기를 묻자 박군은 “다 그만두고 군대로 다시 가고 싶을 만큼 힘들었다. 조언도 많이 해주고, 옆에서 정말 많은 힘이 돼줬다. 이런 사람은 없다고 생각했다”고 말했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용진은 “결혼 앞두고 많이 싸우지 않나”라고 물었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 박군은 “싸울 것 같으면 결혼 안 했죠. 싸울 것 같았으면 이 사람이다 생각도 안 했을 거다”며 애정을 내비쳤다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 틈날 때마다 프러포즈를 하고 있다며 “너무 좋으니까. (한영이) 장미꽃을 좋아해서 오다 주웠다고 준다. 밥 먹다가도 하트 만들고”라며 사랑꾼 면모를 드러냈다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박군은 “쌍둥이 형제들이 한영의 프로그램에 출연했고, 한영은 고생한다며 용돈을 줬다. 그때 이 선배는 정말 프로라고 생각했다. 나도 ‘내가 MC고, 내 프로그램에 고생을 해주니까’ 이런 마인드를 배워야겠다고 생각했다”고 밝혔다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "♥한영 박군, “밥 먹다가도 하트 만들어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

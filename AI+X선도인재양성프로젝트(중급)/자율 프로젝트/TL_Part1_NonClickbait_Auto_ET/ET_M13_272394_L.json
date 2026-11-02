@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272394",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "정다경 “9월 신곡 발매” 깜짝 공개(더트롯 연예뉴스)",
+		"newsSubTitle": "",
+		"newsContent": "가수 정다경이 첫 MC 신고식을 성공적으로 마쳤다. .\n정다경은 지난 6일 방송된 SBS MTV ‘더트롯 연예뉴스’를 통해 MC로 데뷔했다.\n이날 정다경은 트로트계를 달군 이슈부터 트로트 스타들의 이야기 등 다양한 정보를 대방출했다.\n특히 ‘드림콘서트 트롯’ 소식을 전한 정다경은 “영광스럽게 저도 초대가 됐다. ‘드림콘서트 트롯’의 비하인드 스토리를 방출하겠다”라고 밝힌 것은 물론, “많은 사랑을 받으시는 분들이 한 곳에 모이기 쉽지 않다”라며 ‘드림콘서트 트롯’에 대한 기대감을 내비쳤다.\n이어 정다경은 “원래 6월에 신곡을 준비했었다. 좀 더 심혈을 기울이기 위해 조금 미룬 상황이다. 9월에 발매할 예정”이라며 깜짝 컴백 소식을 밝혔다.\n이외에도 정다경은 안정적인 진행 능력과 센스 넘치는 입담, 리액션까지 더하며 보는 재미를 더하는가 하면, 많은 시청자들이 궁금해할법한 다채로운 트롯계 뉴스를 전하면서 이목을 집중시켰다.\n한편, 최근 신곡 ‘가라 그래’로 컴백한 정다경은 음악 활동뿐만 아니라 앞으로 ‘더트롯 연예뉴스’ MC로 팬들과 소통할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정다경이 첫 MC 신고식을 성공적으로 마쳤다. .",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정다경은 지난 6일 방송된 SBS MTV ‘더트롯 연예뉴스’를 통해 MC로 데뷔했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 정다경은 트로트계를 달군 이슈부터 트로트 스타들의 이야기 등 다양한 정보를 대방출했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 ‘드림콘서트 트롯’ 소식을 전한 정다경은 “영광스럽게 저도 초대가 됐다. ‘드림콘서트 트롯’의 비하인드 스토리를 방출하겠다”라고 밝힌 것은 물론, “많은 사랑을 받으시는 분들이 한 곳에 모이기 쉽지 않다”라며 ‘드림콘서트 트롯’에 대한 기대감을 내비쳤다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 정다경은 “원래 6월에 신곡을 준비했었다. 좀 더 심혈을 기울이기 위해 조금 미룬 상황이다. 9월에 발매할 예정”이라며 깜짝 컴백 소식을 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외에도 정다경은 안정적인 진행 능력과 센스 넘치는 입담, 리액션까지 더하며 보는 재미를 더하는가 하면, 많은 시청자들이 궁금해할법한 다채로운 트롯계 뉴스를 전하면서 이목을 집중시켰다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 최근 신곡 ‘가라 그래’로 컴백한 정다경은 음악 활동뿐만 아니라 앞으로 ‘더트롯 연예뉴스’ MC로 팬들과 소통할 예정이다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정다경 “9월 신곡 발매” 깜짝 공개(더트롯 연예뉴스)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170974",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "유인태 전 의원 “언론법 강행, 자충수 될 수 있다”",
+    "newsSubTitle": "",
+    "newsContent": "여권 원로인 민주당 유인태 전 의원이 24일 국회 본회의 상정을 앞둔 언론중재법 개정안과 관련 “민주당 입장에서는 꽤 억울할 것이다. 언론재갈법이란 소리까지 듣고 있지만 사실 언론개혁에 대한 국민적 지지가 꽤 높았다”며 “지금 환경에서 처리하는 것은 자충수가 될 수 있다”고 우려를나타냈다.\n유 전 의원은 이날 KBS 라디오와 가진 인터뷰에서 이같이 말했다.\n그는 “차 떼고 포 떼서 지금은 그렇게 실효성 있는 법안도 아니라고들 하는데도 조급함에 쫓기듯이 밀어붙이려고 한다”며 “결정적으로 이 법안을 지지할 줄 알았던 자유언론실천재단까지 하지 말라고 나왔는데도 강행하는 것은 어리석은 행동 아니겠느냐. 그대로 밀어붙이기엔 부담일 것”이라고 했다.\n자유언론실천재단은 진보 성향의 원로 언론인 단체로, 전날 기자회견을 열고 언론중재법 개정안에 반대의 뜻을 밝혔다.\n유 전 의원은 “172석 국회 의석이 어디로 달아나는 것도 아니고 한 템포 쉬어가야 한다”고 조언했다.\n유인태 전 의원은 또 “상임위원장이 넘어간다고 해도 국민의 지지를 받고 어느 정도 숙성된 법안을 가지고 (야당이)무턱대고 저러지는 못할 것”이라며 “특위를 구성해서 관련해 여러 언론단체와 논의를 모아보자”고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여권 원로인 민주당 유인태 전 의원이 24일 국회 본회의 상정을 앞둔 언론중재법 개정안과 관련 “민주당 입장에서는 꽤 억울할 것이다. 언론재갈법이란 소리까지 듣고 있지만 사실 언론개혁에 대한 국민적 지지가 꽤 높았다”며 “지금 환경에서 처리하는 것은 자충수가 될 수 있다”고 우려를나타냈다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유 전 의원은 이날 KBS 라디오와 가진 인터뷰에서 이같이 말했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “차 떼고 포 떼서 지금은 그렇게 실효성 있는 법안도 아니라고들 하는데도 조급함에 쫓기듯이 밀어붙이려고 한다”며 “결정적으로 이 법안을 지지할 줄 알았던 자유언론실천재단까지 하지 말라고 나왔는데도 강행하는 것은 어리석은 행동 아니겠느냐. 그대로 밀어붙이기엔 부담일 것”이라고 했다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "자유언론실천재단은 진보 성향의 원로 언론인 단체로, 전날 기자회견을 열고 언론중재법 개정안에 반대의 뜻을 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유 전 의원은 “172석 국회 의석이 어디로 달아나는 것도 아니고 한 템포 쉬어가야 한다”고 조언했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유인태 전 의원은 또 “상임위원장이 넘어간다고 해도 국민의 지지를 받고 어느 정도 숙성된 법안을 가지고 (야당이)무턱대고 저러지는 못할 것”이라며 “특위를 구성해서 관련해 여러 언론단체와 논의를 모아보자”고 덧붙였다.",
+        "sentenceSize": 121
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유인태 전 의원, '언론재갈법' 소리 듣는 '이 법안' 강행에 우려",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

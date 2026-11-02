@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165828",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "엄마, 내가 엄마 죽인 거 아니잖아 '희생부활자'",
+    "newsSubTitle": "[매거진M] '희생부활자' 영화 리뷰",
+    "newsContent": "감독 곽경택 | 장르 미스터리, 스릴러 | 상영 시간 91분 | 등급 15세 관람가 ★★☆ [매거진M] 억울하게 살해된 후 복수를 위해 부활한 엄마(김해숙)가 자신의 아들(김래원)을 공격한다.\n곽경택 감독이 원작 소설(『종료되었습니다』(노블마인))에서 취한 부분은 딱 여기까지다.\n그 때문일까.\n전·후반부의 온도차가 크다.\n영화의 독특한 설정을 소개하는 전반부가 B급 장르영화 색채로 호기심을 끈다면, 후반부가 보여주는 것은 종전까지 쌓아올린 세계관을 모조리 무너뜨리면서까지 보편적인 감정에 호소하는, 다분히 대중영화다운 선택이다.\n특히 모성애를 강조하는 엔딩에선 신파조 정서가 급격히 극을 지배한다.\n아쉽게도 이러한 극적 전환을 납득시킬 만큼 인물들의 내면 묘사가 충분한 감정이입을 끌어내지 못한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감독 곽경택 | 장르 미스터리, 스릴러 | 상영 시간 91분 | 등급 15세 관람가 ★★☆ [매거진M] 억울하게 살해된 후 복수를 위해 부활한 엄마(김해숙)가 자신의 아들(김래원)을 공격한다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "곽경택 감독이 원작 소설(『종료되었습니다』(노블마인))에서 취한 부분은 딱 여기까지다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 때문일까.",
+        "sentenceSize": 7
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전·후반부의 온도차가 크다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영화의 독특한 설정을 소개하는 전반부가 B급 장르영화 색채로 호기심을 끈다면, 후반부가 보여주는 것은 종전까지 쌓아올린 세계관을 모조리 무너뜨리면서까지 보편적인 감정에 호소하는, 다분히 대중영화다운 선택이다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 모성애를 강조하는 엔딩에선 신파조 정서가 급격히 극을 지배한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아쉽게도 이러한 극적 전환을 납득시킬 만큼 인물들의 내면 묘사가 충분한 감정이입을 끌어내지 못한다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "『종료되었습니다』 원작보다 떡상 할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

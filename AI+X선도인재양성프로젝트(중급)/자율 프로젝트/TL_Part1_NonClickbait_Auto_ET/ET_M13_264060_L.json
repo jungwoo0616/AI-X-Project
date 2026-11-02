@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264060",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "혜리, 올블랙으로 악마가 되다",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 걸스데이 출신 배우 혜리가 올블랙 패션을 선보였다.\n혜리는 16일 오후 자신의 사회 관계망 서비스(SNS)를 통해 화보 사진들을 게재했다.\n공개된 사진 속 혜리는 한 명품 브랜드의 제품들을 입은 채 다양한 포즈를 취했다.\n특히 혜리는 올 블랙룩으로 시크한 매력을 발산해 도시적이고 세련된 무드를 자아냈다.\n이 소식을 접한 배우 배인혁은 “오케이 나도 악마가 되어 볼게”라며 답글을 달아 많은 이들의 웃음을 자아냈다.\n한편 혜리는 지난 2월 종영한 KBS 2TV 드라마 ‘꽃 피면 달 생각하고’에 출연했다.\n또 혜리는 지난 6일 대형 산불의 피해 지원을 위해 희망브리지 재해구호협회에 성금 5,000만 원을 전달하며, 따뜻한 도움의 손길을 펼쳐 선한 영향력을 행사했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 걸스데이 출신 배우 혜리가 올블랙 패션을 선보였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "혜리는 16일 오후 자신의 사회 관계망 서비스(SNS)를 통해 화보 사진들을 게재했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 혜리는 한 명품 브랜드의 제품들을 입은 채 다양한 포즈를 취했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 혜리는 올 블랙룩으로 시크한 매력을 발산해 도시적이고 세련된 무드를 자아냈다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 소식을 접한 배우 배인혁은 “오케이 나도 악마가 되어 볼게”라며 답글을 달아 많은 이들의 웃음을 자아냈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 혜리는 지난 2월 종영한 KBS 2TV 드라마 ‘꽃 피면 달 생각하고’에 출연했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 혜리는 지난 6일 대형 산불의 피해 지원을 위해 희망브리지 재해구호협회에 성금 5,000만 원을 전달하며, 따뜻한 도움의 손길을 펼쳐 선한 영향력을 행사했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "혜리, 올블랙으로 악마가 되다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

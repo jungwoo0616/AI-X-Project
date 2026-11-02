@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171208",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "진성·손헌수·미키광수 ‘일꾼의 탄생’ 24일 첫방송",
+    "newsSubTitle": "",
+    "newsContent": "가수 진성, 코미디언 손헌수, 미키광수가 ‘일꾼의 탄생’으로 뭉친다.\nKBS1 새 교양 프로그램 ‘전국민 민원해결 프로젝트 - 일꾼의 탄생’(이하 ‘일꾼의 탄생’) 측은 23일 출연진 진성, 손헌수, 미키광수가 담긴 공식 포스터를 공개했다. ‘일꾼의 탄생’은 국민 머슴을 자청한 진성, 손헌수, 미키광수가 전국 방방곡곡을 돌아다니며 일손을 돕는 포맷의 프로그램이다. ‘6시 내고향’ 제작진이 참여했으며, ‘전국민 민원 해결 프로젝트’를 표방한다.\n무명 시절 80여 가지 일을 경험한 ‘베테랑 일꾼’ 진성의 지휘 아래 ‘6시 내고향’의 ‘청년회장’ 손헌수, 힘쓰는 일을 도맡는 ‘근육질 돌쇠’ 미키광수가 일꾼으로 나선다.\n이들은 삼국지 속 유비, 관우, 장비를 연상케 하며 듬직한 케미스트리로 기대를 높인다.\n진성, 손헌수, 미키광수는 경남 함양군 백전면 서백마을을 찾는다.\n돌담 보수 공사를 시작으로 텃밭 정비, 도배 장판 공사, 심마니 체험을 돕는다.\n여기에 외로운 노년의 동반자를 찾아주는 이상형 매칭 서비스까지 다채로운 미션을 수행한다. ‘일꾼의 탄생’은 24일 오후 7시 40분에 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 진성, 코미디언 손헌수, 미키광수가 ‘일꾼의 탄생’으로 뭉친다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS1 새 교양 프로그램 ‘전국민 민원해결 프로젝트 - 일꾼의 탄생’(이하 ‘일꾼의 탄생’) 측은 23일 출연진 진성, 손헌수, 미키광수가 담긴 공식 포스터를 공개했다. ‘일꾼의 탄생’은 국민 머슴을 자청한 진성, 손헌수, 미키광수가 전국 방방곡곡을 돌아다니며 일손을 돕는 포맷의 프로그램이다. ‘6시 내고향’ 제작진이 참여했으며, ‘전국민 민원 해결 프로젝트’를 표방한다.",
+        "sentenceSize": 210
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "무명 시절 80여 가지 일을 경험한 ‘베테랑 일꾼’ 진성의 지휘 아래 ‘6시 내고향’의 ‘청년회장’ 손헌수, 힘쓰는 일을 도맡는 ‘근육질 돌쇠’ 미키광수가 일꾼으로 나선다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 삼국지 속 유비, 관우, 장비를 연상케 하며 듬직한 케미스트리로 기대를 높인다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진성, 손헌수, 미키광수는 경남 함양군 백전면 서백마을을 찾는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "돌담 보수 공사를 시작으로 텃밭 정비, 도배 장판 공사, 심마니 체험을 돕는다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 외로운 노년의 동반자를 찾아주는 이상형 매칭 서비스까지 다채로운 미션을 수행한다. ‘일꾼의 탄생’은 24일 오후 7시 40분에 첫 방송된다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 진성, 코미디언 손헌수, 미키광수가 뭉치는 이유 바로 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

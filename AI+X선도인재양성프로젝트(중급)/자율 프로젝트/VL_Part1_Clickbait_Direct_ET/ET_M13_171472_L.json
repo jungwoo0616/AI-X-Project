@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171472",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "홍현희·제이쓴, 결혼 3주년 맞아 1021만원 기부",
+    "newsSubTitle": "",
+    "newsContent": "방송인 홍현희, 제이쓴 부부가 결혼기념일을 맞아 선한 영향력을 전파했다.\n홍현희는 21일 자신의 사회관계망서비스(SNS)에 남편 제이쓴과 결혼기념일을 맞아 웨딩촬영을 한 사실을 알렸다.\n공개된 사진 속 홍현희, 제이쓴 부부는 집 앞 분리수거장에서 포즈를 취하며 결혼기념일 추억을 남겼다.\n부부의 힙한 포스와 매력이 보는 이들의 시선을 사로잡았다.\n이어 홍현희는 “매년 좋은 날에는 꼭 기부하자는 우리 부부 스스로의 약속을 지키고자 매달 조금씩 모은 돈으로 10월 21일 일에 맞춰 기부하고 나니 기분이 너무 좋다”고 덧붙였다.\n홍현희, 제이쓴 부부는 결혼 3주년을 맞아 1021만 원을 초록우산어린이재단에 후원한 것으로 알려졌다.\n홍현희와 제이쓴은 지난 2018년 부부의 연을 맺었으며 TV조선 ‘세상 어디에도 없는 아내의 맛’, MBC ‘전지적 참견 시점’ 등 다수 예능 프로그램에 함꼐 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 홍현희, 제이쓴 부부가 결혼기념일을 맞아 선한 영향력을 전파했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "홍현희는 21일 자신의 사회관계망서비스(SNS)에 남편 제이쓴과 결혼기념일을 맞아 웨딩촬영을 한 사실을 알렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 홍현희, 제이쓴 부부는 집 앞 분리수거장에서 포즈를 취하며 결혼기념일 추억을 남겼다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부부의 힙한 포스와 매력이 보는 이들의 시선을 사로잡았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 홍현희는 “매년 좋은 날에는 꼭 기부하자는 우리 부부 스스로의 약속을 지키고자 매달 조금씩 모은 돈으로 10월 21일 일에 맞춰 기부하고 나니 기분이 너무 좋다”고 덧붙였다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "홍현희, 제이쓴 부부는 결혼 3주년을 맞아 1021만 원을 초록우산어린이재단에 후원한 것으로 알려졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홍현희와 제이쓴은 지난 2018년 부부의 연을 맺었으며 TV조선 ‘세상 어디에도 없는 아내의 맛’, MBC ‘전지적 참견 시점’ 등 다수 예능 프로그램에 함꼐 출연했다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홍현희·제이쓴 부부... 결혼기념일에 기부한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

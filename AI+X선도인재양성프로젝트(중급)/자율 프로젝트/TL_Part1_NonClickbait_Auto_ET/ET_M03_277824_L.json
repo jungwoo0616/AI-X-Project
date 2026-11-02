@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277824",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "몰라보게 달라진 개그맨 김기수의 근황",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 김기수가 몰라보게 달라진 외모로 팬들에게 자신의 근황을 전했다.\n19일 김기수는 자신의 인스타그램을 통해 “날씨좋다. 다들 웃어요”라며 한 장의 사진을 공개했다.\n사진 속 김기수는 모자를 눌러쓰고 두꺼운 뿔테 안경을 쓴 채로 카메라를 바라보고 있다.\n새하얀 피부와 짙은 눈썹, 날렵한 턱선 등 과거 개그프로그램에 출연할 때와는 분위기가 사뭇 달라졌다.\n김기수가 인스타그램에 게재한 다른 사진들에서도 짙은 화장과 화려한 스타일을 선보였다.\n김기수는 KBS 공채 개그맨 16기로 데뷔했고 과거 개그콘서트에서 ‘댄서김’ 역할을 맡아 큰 인기를 누렸다.\n최근 김기수는 EDM DJ로 왕성하게 활동하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 김기수가 몰라보게 달라진 외모로 팬들에게 자신의 근황을 전했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 김기수는 자신의 인스타그램을 통해 “날씨좋다. 다들 웃어요”라며 한 장의 사진을 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김기수는 모자를 눌러쓰고 두꺼운 뿔테 안경을 쓴 채로 카메라를 바라보고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새하얀 피부와 짙은 눈썹, 날렵한 턱선 등 과거 개그프로그램에 출연할 때와는 분위기가 사뭇 달라졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김기수가 인스타그램에 게재한 다른 사진들에서도 짙은 화장과 화려한 스타일을 선보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김기수는 KBS 공채 개그맨 16기로 데뷔했고 과거 개그콘서트에서 ‘댄서김’ 역할을 맡아 큰 인기를 누렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 김기수는 EDM DJ로 왕성하게 활동하고 있다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "몰라보게 달라진 개그맨 김기수의 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274296",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "임영웅 팬덤 영웅시대 기부시대",
+		"newsSubTitle": "",
+		"newsContent": "임영웅 공식 팬덤 영웅시대가 선향 영향력을 이어갔다.\n서울사회복지공동모금회(서울사랑의열매)는 영웅시대가 지난 6월 15일 임영웅 생일을 기념하기 위해 이벤트를 카페 지오에이티에서 진행하며 발생한 수익금 500만원 전액을 기부했다고 29일 밝혔다.\n지오에이티 관계자는 “임영웅에게 받은 위로와 사랑의 마음을 도움이 필요한 저소득층 어르신들에게 전하고자 기부를 하게 됐다”며 “앞으로도 좋은 기부 활동을 이어갈 예정”이라고 전했다.\n서울 사랑의열매 신혜영 사무처장은 “스타와 팬클럽이 함께 나눔을 실천하는 아름다운 팬덤 문화가 확산되는데, 영웅시대가 일조하고 있는 것 같아 감사하다”라며 “나눠주신 마음은 소외된 어르신들께 전달될 수 있도록 촤선을 다하겠다”고 했다.\n영웅시대는 임영웅을 응원하며 기부와 봉사활동을 이어왔다.\n이들은 지난해 6월 나눔리더스클럽(지역사회 나눔문화 개인·단체) 서울 20호로 가입해 꾸준히 선한 영향력을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "임영웅 공식 팬덤 영웅시대가 선향 영향력을 이어갔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울사회복지공동모금회(서울사랑의열매)는 영웅시대가 지난 6월 15일 임영웅 생일을 기념하기 위해 이벤트를 카페 지오에이티에서 진행하며 발생한 수익금 500만원 전액을 기부했다고 29일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지오에이티 관계자는 “임영웅에게 받은 위로와 사랑의 마음을 도움이 필요한 저소득층 어르신들에게 전하고자 기부를 하게 됐다”며 “앞으로도 좋은 기부 활동을 이어갈 예정”이라고 전했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서울 사랑의열매 신혜영 사무처장은 “스타와 팬클럽이 함께 나눔을 실천하는 아름다운 팬덤 문화가 확산되는데, 영웅시대가 일조하고 있는 것 같아 감사하다”라며 “나눠주신 마음은 소외된 어르신들께 전달될 수 있도록 촤선을 다하겠다”고 했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영웅시대는 임영웅을 응원하며 기부와 봉사활동을 이어왔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들은 지난해 6월 나눔리더스클럽(지역사회 나눔문화 개인·단체) 서울 20호로 가입해 꾸준히 선한 영향력을 펼치고 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅 팬덤 영웅시대 기부시대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

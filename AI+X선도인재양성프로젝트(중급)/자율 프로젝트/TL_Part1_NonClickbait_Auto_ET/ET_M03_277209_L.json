@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277209",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "명지대 14학번 박보검의 개강패션",
+		"newsSubTitle": "",
+		"newsContent": "배우 박보검의 개강패션이 화제다.\n최근 온라인 커뮤니티에 ‘박보검의 개강패션’이라며 사진 한 장이 올라왔다.\n사진 속에는 박보검이 회색 후드티에 베이지색 코트를 걸치고 훈훈함을 물씬 풍기고 있다.\n또 그가 착용한 금테 안경은 박보검의 지적인 매력을 높여준다.\n박보검은 명지대 뮤지컬학과 14학번으로 해당 사진은 개강날인 2일에 찍힌 것으로 추정된다.\n이를 본 네티즌들은 “민낯인데 잘 생겼네...” “저 옷 진짜 많이 입더라” 등 박보검의 개강 패션에 대해 뜨거운 관심을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박보검의 개강패션이 화제다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 ‘박보검의 개강패션’이라며 사진 한 장이 올라왔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 박보검이 회색 후드티에 베이지색 코트를 걸치고 훈훈함을 물씬 풍기고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 그가 착용한 금테 안경은 박보검의 지적인 매력을 높여준다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박보검은 명지대 뮤지컬학과 14학번으로 해당 사진은 개강날인 2일에 찍힌 것으로 추정된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 “민낯인데 잘 생겼네...” “저 옷 진짜 많이 입더라” 등 박보검의 개강 패션에 대해 뜨거운 관심을 보였다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "명지대 14학번 박보검의 개강패션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

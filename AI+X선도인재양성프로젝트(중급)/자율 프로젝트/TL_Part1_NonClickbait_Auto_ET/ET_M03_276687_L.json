@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276687",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "턱뼈 앙상해진 지드래곤, \\\"갈비뼈 보일 정도로 살 빠져\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'샤넬의 남자' 지드래곤이 이번에도 샤넬 행사장에 어김없이 등장해 무대를 꾸몄다.\n그런데 몰라보게 살이 빠진 채 나타나 눈길을 끌었다.\n21일 오후 서울 용산구 디뮤지엄에서는 '샤넬 마드모아젤 프리베' 전시 기념 행사가 열렸다.\n이날 행사에서 지드래곤은 신곡으로 무대를 꾸몄다.\n이날 지드래곤의 턱선은 보기좋게 날렵하던 이전과 달리 비쩍 마른 모습이었다.\n최근 열린 마카오 콘서트에서 지드래곤은 갈비뼈가 적나라하게 드러난 모습이 포착되기도 했다.\n한편 지드래곤은 최근 USB 앨범 논란과 빅뱅 멤버 탑의 마약 사건 등으로 악재가 겹쳤다.\n현재는 해외 솔로 콘서트 일정을 소화하는 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'샤넬의 남자' 지드래곤이 이번에도 샤넬 행사장에 어김없이 등장해 무대를 꾸몄다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그런데 몰라보게 살이 빠진 채 나타나 눈길을 끌었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일 오후 서울 용산구 디뮤지엄에서는 '샤넬 마드모아젤 프리베' 전시 기념 행사가 열렸다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 행사에서 지드래곤은 신곡으로 무대를 꾸몄다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 지드래곤의 턱선은 보기좋게 날렵하던 이전과 달리 비쩍 마른 모습이었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 열린 마카오 콘서트에서 지드래곤은 갈비뼈가 적나라하게 드러난 모습이 포착되기도 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지드래곤은 최근 USB 앨범 논란과 빅뱅 멤버 탑의 마약 사건 등으로 악재가 겹쳤다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재는 해외 솔로 콘서트 일정을 소화하는 중이다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "턱뼈 앙상해진 지드래곤, \\\"갈비뼈 보일 정도로 살 빠져\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

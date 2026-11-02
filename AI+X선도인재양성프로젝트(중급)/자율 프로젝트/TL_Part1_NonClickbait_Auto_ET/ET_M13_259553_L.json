@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259553",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘한 번쯤’ 이금희 “나이 들어도 인생 봄날 올 수 있어”",
+		"newsSubTitle": "",
+		"newsContent": "‘한 번쯤 멈출 수밖에’ 봄날에 관해 이야기하는 윤도현, 이선희, 이금희의 모습이 눈길을 사로잡았다.\n27일 오후 방송된 KBS2 ‘한 번쯤 멈출 수밖에’에서 가수 윤도현이 출연해 제주도를 찾았다.\n이날 이금희는 “항상 뭐든지 먼저 하는 사람이 먼저 힘들지 않냐. 제주는 겨울에 혼자 봄을 시작하느라고 얼마나 힘들까. 그런데 그 봄을 시작해 우리를 들뜨게 하니 얼마나 고마운가 하는 생각이 들었다”라고 말했다.\n이에 윤도현은 “저도 ‘감사’라는 거를 알게 된 이후로는 계속 봄날인 거 같다. 예전에는 내 안에 다른 거로 꽉 차서 행복이 뭔지도 모르고 계속 달리다가 모든 게 감사하다는 생각이 들었다. 그때부터 아침에 눈 떠도 행복했다”라고 밝혔다.\n이선희는 “지금도 힘이 들기는 하지만 누리고 있다는 것을 시작한 지 얼마 안 돼서 봄날이 이제 시작될 거 같은 느낌이다”라고 전했다.\n이금희는 “나는 요즘이 봄날인 거 같다. 요새 연락이 많이 온다. 감사하게도 일하자는 연락, 봄이 온다고 안부를 묻는 친구들. 인생 후배들이 나이 먹는 것을 너무 두려워한다. 특히 여성 후배들이 나이 먹고 해놓은 건 없고 나이만 먹는 거 같다고 많이 얘기한다. 지금이라면 ‘더 나이 들어서 네 인생의 봄날이 올 수 있다’라고 말해주고 싶다”라고 말했다.\n한편 ‘한 번쯤 멈출 수밖에’는 매주 목요일 오후 10시 40분 KBS2에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘한 번쯤 멈출 수밖에’ 봄날에 관해 이야기하는 윤도현, 이선희, 이금희의 모습이 눈길을 사로잡았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 오후 방송된 KBS2 ‘한 번쯤 멈출 수밖에’에서 가수 윤도현이 출연해 제주도를 찾았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이금희는 “항상 뭐든지 먼저 하는 사람이 먼저 힘들지 않냐. 제주는 겨울에 혼자 봄을 시작하느라고 얼마나 힘들까. 그런데 그 봄을 시작해 우리를 들뜨게 하니 얼마나 고마운가 하는 생각이 들었다”라고 말했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 윤도현은 “저도 ‘감사’라는 거를 알게 된 이후로는 계속 봄날인 거 같다. 예전에는 내 안에 다른 거로 꽉 차서 행복이 뭔지도 모르고 계속 달리다가 모든 게 감사하다는 생각이 들었다. 그때부터 아침에 눈 떠도 행복했다”라고 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이선희는 “지금도 힘이 들기는 하지만 누리고 있다는 것을 시작한 지 얼마 안 돼서 봄날이 이제 시작될 거 같은 느낌이다”라고 전했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이금희는 “나는 요즘이 봄날인 거 같다. 요새 연락이 많이 온다. 감사하게도 일하자는 연락, 봄이 온다고 안부를 묻는 친구들. 인생 후배들이 나이 먹는 것을 너무 두려워한다. 특히 여성 후배들이 나이 먹고 해놓은 건 없고 나이만 먹는 거 같다고 많이 얘기한다. 지금이라면 ‘더 나이 들어서 네 인생의 봄날이 올 수 있다’라고 말해주고 싶다”라고 말했다.",
+				"sentenceSize": 197
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘한 번쯤 멈출 수밖에’는 매주 목요일 오후 10시 40분 KBS2에서 방송된다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘한 번쯤’ 이금희 “나이 들어도 인생 봄날 올 수 있어”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

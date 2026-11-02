@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276636",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "연정훈이 2살 딸에게 사준 ‘한정판’ 운동화…가격이",
+		"newsSubTitle": "",
+		"newsContent": "배우 연정훈이 두 살배기 딸에게 ‘한정판 운동화’를 선물하며 ‘딸바보’의 면모를 드러냈다.\n연정훈은 최근 자신의 인스타그램에 앙증맞은 하얀 운동화를 들고 있는 사진과 함께 “아빠는 하나도 없는데 우리 딸은 두 개씩이나”라는 글을 올렸다.\n연정훈이 공개한 운동화는 세계적으로 품절 대란을 일으킨 ‘아디다스 이지부스트’ 모델인 것으로 알려졌다 이 운동화는 성인용의 경우 한 켤레에 100만원에 달한다.\n아기용 신발은 20만 원대에 팔리는 것으로 알려졌다.\n한정판으로 출시돼 순식간에 완판됐다.\n연정훈과 한가인은 지난 2005년 결혼식을 올렸다.\n이후 결혼 11년 만인 지난 2016년 4월 딸을 낳았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 연정훈이 두 살배기 딸에게 ‘한정판 운동화’를 선물하며 ‘딸바보’의 면모를 드러냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연정훈은 최근 자신의 인스타그램에 앙증맞은 하얀 운동화를 들고 있는 사진과 함께 “아빠는 하나도 없는데 우리 딸은 두 개씩이나”라는 글을 올렸다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연정훈이 공개한 운동화는 세계적으로 품절 대란을 일으킨 ‘아디다스 이지부스트’ 모델인 것으로 알려졌다 이 운동화는 성인용의 경우 한 켤레에 100만원에 달한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아기용 신발은 20만 원대에 팔리는 것으로 알려졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한정판으로 출시돼 순식간에 완판됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연정훈과 한가인은 지난 2005년 결혼식을 올렸다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 결혼 11년 만인 지난 2016년 4월 딸을 낳았다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연정훈이 2살 딸에게 사준 ‘한정판’ 운동화…가격이",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

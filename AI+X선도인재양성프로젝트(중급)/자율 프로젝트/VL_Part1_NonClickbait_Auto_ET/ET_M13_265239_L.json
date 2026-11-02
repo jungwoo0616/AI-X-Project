@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265239",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘개나리학당’ 허경환 “좋아하는 사람 생겼다”",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 허경환이 시청자들에게 큰 웃음을 선물했다.\n허경환은 지난 28일 오후 10시 방송된 TV조선 예능프로그램 ‘개나리학당’에 출연했다.\n이날 허경환은 등장부터 ‘개나리학당’ 어린이들에게 다양한 유행어로 재치 있는 인사를 건네 현장을 폭소로 물들였고, 이후 짝꿍 정하기에서 임지민 어린이와 짝꿍을 이루게 됐다.\n허경환은 팀 구호 정하기에서 또 한번 유행어를 어필해 시청자의 웃음보를 자극하는가 하면, 이후 임지민과 환상적인 케미로 퀴즈에 적극적으로 참여했다.\n특히 허경환은 ‘노총각의 기준’에 대해 “부모님과 같은 약을 먹기 시작하는 것”이라고 밝혀 시청자의 공감대를 불러일으켰고, 어린이들에게 “좋아하는 사람이 생겼다. 어떤 선물을 줘야 받아줄까요?”라는 질문을 건넸다.\n이에 어린이들은 고백하는 상황을 연출해 시청자를 웃음 짓게 만들었다.\n이어 허경환은 충고를 받은 적이 있냐는 질문에 “내 개그를 보고 어떤 분이 ‘나는 재밌었다’고 했다. 이게 칭찬인지 충고인지 모르겠다”며 웃음을 지었고, 다채로운 퀴즈에 대해 적극적이고 센스 넘치는 답안으로 이목을 집중시키기도 했다.\n한편, 허경환은 앞으로도 다양한 예능과 활발한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 허경환이 시청자들에게 큰 웃음을 선물했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "허경환은 지난 28일 오후 10시 방송된 TV조선 예능프로그램 ‘개나리학당’에 출연했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 허경환은 등장부터 ‘개나리학당’ 어린이들에게 다양한 유행어로 재치 있는 인사를 건네 현장을 폭소로 물들였고, 이후 짝꿍 정하기에서 임지민 어린이와 짝꿍을 이루게 됐다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허경환은 팀 구호 정하기에서 또 한번 유행어를 어필해 시청자의 웃음보를 자극하는가 하면, 이후 임지민과 환상적인 케미로 퀴즈에 적극적으로 참여했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 허경환은 ‘노총각의 기준’에 대해 “부모님과 같은 약을 먹기 시작하는 것”이라고 밝혀 시청자의 공감대를 불러일으켰고, 어린이들에게 “좋아하는 사람이 생겼다. 어떤 선물을 줘야 받아줄까요?”라는 질문을 건넸다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 어린이들은 고백하는 상황을 연출해 시청자를 웃음 짓게 만들었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 허경환은 충고를 받은 적이 있냐는 질문에 “내 개그를 보고 어떤 분이 ‘나는 재밌었다’고 했다. 이게 칭찬인지 충고인지 모르겠다”며 웃음을 지었고, 다채로운 퀴즈에 대해 적극적이고 센스 넘치는 답안으로 이목을 집중시키기도 했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 허경환은 앞으로도 다양한 예능과 활발한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘개나리학당’ 허경환 “좋아하는 사람 생겼다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

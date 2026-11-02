@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269520",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장성규, 신세대 아들이 준 신개념 카네이션 공개",
+		"newsSubTitle": "",
+		"newsContent": "아나운서 출신 방송인 장성규가 어버이날을 맞아 아들이 준 특별한 선물을 공개했다.\n장성규는 8일 자신의 사회관계망서비스(SNS)에 “신세대는 다르다. 카네이션 생화 대신 시들지 않는 카네이션 브로치를 달아주는 아들”이라는 글과 함께 사진을 게재했다.\n공개된 사진에서 장성규는 어버이날을 맞아 아들이 준 카네이션 브로치를 달았다.\n보통 생화를 주는 것과 달리 시들지 않는 브로치를 선물한 장성규 아들의 센스를 엿볼 수 있었다.\n장성규는 지난 2014년 결혼해 2014년 첫 아들을 낳았고, 2020년 둘째 아들을 낳았다.\n한편 장성규는 MBC FM4U ‘굿모닝FM 장성규입니다’, SBS ‘꼬리에 꼬리를 무는 그날 이야기’ 진행을 맡고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아나운서 출신 방송인 장성규가 어버이날을 맞아 아들이 준 특별한 선물을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장성규는 8일 자신의 사회관계망서비스(SNS)에 “신세대는 다르다. 카네이션 생화 대신 시들지 않는 카네이션 브로치를 달아주는 아들”이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 장성규는 어버이날을 맞아 아들이 준 카네이션 브로치를 달았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보통 생화를 주는 것과 달리 시들지 않는 브로치를 선물한 장성규 아들의 센스를 엿볼 수 있었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장성규는 지난 2014년 결혼해 2014년 첫 아들을 낳았고, 2020년 둘째 아들을 낳았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 장성규는 MBC FM4U ‘굿모닝FM 장성규입니다’, SBS ‘꼬리에 꼬리를 무는 그날 이야기’ 진행을 맡고 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장성규, 신세대 아들이 준 신개념 카네이션 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

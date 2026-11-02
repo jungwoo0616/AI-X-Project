@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269712",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘나의 해방일지’ 상승세 속 화제성 1위…손석구-김지원도 ‘우뚝’",
+		"newsSubTitle": "",
+		"newsContent": "JTBC 드라마 ‘나의 해방일지’가 4주 연속 상승세와 함께 1위에 올랐다.\n5월 1주 차 굿데이터 TV화제성 드라마 부문 순위 발표 결과에 따르면 JTBC ‘나의 해방일지’가 3주 연속 1위를 지켜온 tvN ‘우리들의 블루스’를 제치고 1위를 기록했다.\n전주 대비 화제성이 16.71% 증가했으며 손석구와 김지원이 출연자 화제성 부문 1위와 2위를 이어갔다.\n또한 이민기가 전주 대비 21계단 올라 12위를 기록하고 이엘은 15위에 올랐다. ‘나의 해방일지’는 방송 첫 주부터 4주 연속 상승세를 보여 차주 5주 연속 화제성 자체 기록 갱신 여부가 관심 포인트이다.\n3위에는 새롭게 선보인 KBS2 월화드라마 ‘붉은 단심’이 올랐으며 배우 이준과 강한나가 출연자 화제성 4위와 7위에 올랐다.\nJTBC ‘그린마더스클럽’은 한 계단 내려간 4위로 나타났으며 SBS ‘어게인 마이 라이프’가 전주에 이어 5위를 지켰다.\n한국방송콘텐츠 경쟁력 분석 전문 기관인 굿데이터코퍼레이션이 9일에 발표한 굿데이터 TV화제성 드라마 순위는 2022년 5월 2일부터 2022년 5월 8일까지 방송 중이거나 예정인 드라마 20편을 대상으로 뉴스 기사, 블로그/커뮤니티, 동영상, SNS에서 발생한 네티즌 반응을 분석한 결과이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC 드라마 ‘나의 해방일지’가 4주 연속 상승세와 함께 1위에 올랐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5월 1주 차 굿데이터 TV화제성 드라마 부문 순위 발표 결과에 따르면 JTBC ‘나의 해방일지’가 3주 연속 1위를 지켜온 tvN ‘우리들의 블루스’를 제치고 1위를 기록했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전주 대비 화제성이 16.71% 증가했으며 손석구와 김지원이 출연자 화제성 부문 1위와 2위를 이어갔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 이민기가 전주 대비 21계단 올라 12위를 기록하고 이엘은 15위에 올랐다. ‘나의 해방일지’는 방송 첫 주부터 4주 연속 상승세를 보여 차주 5주 연속 화제성 자체 기록 갱신 여부가 관심 포인트이다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3위에는 새롭게 선보인 KBS2 월화드라마 ‘붉은 단심’이 올랐으며 배우 이준과 강한나가 출연자 화제성 4위와 7위에 올랐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "JTBC ‘그린마더스클럽’은 한 계단 내려간 4위로 나타났으며 SBS ‘어게인 마이 라이프’가 전주에 이어 5위를 지켰다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국방송콘텐츠 경쟁력 분석 전문 기관인 굿데이터코퍼레이션이 9일에 발표한 굿데이터 TV화제성 드라마 순위는 2022년 5월 2일부터 2022년 5월 8일까지 방송 중이거나 예정인 드라마 20편을 대상으로 뉴스 기사, 블로그/커뮤니티, 동영상, SNS에서 발생한 네티즌 반응을 분석한 결과이다.",
+				"sentenceSize": 163
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘나의 해방일지’ 상승세 속 화제성 1위…손석구-김지원도 ‘우뚝’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

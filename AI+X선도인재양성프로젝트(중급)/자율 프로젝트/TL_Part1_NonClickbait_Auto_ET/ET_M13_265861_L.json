@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265861",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "박소현, 23년만에 ‘세상에 이런 일이’ 녹화 불참",
+		"newsSubTitle": "",
+		"newsContent": "박소현이 ‘세상에 이런 일이’ 진행 23년만에 처음으로 자리를 비운다.\nSBS 교양프로그램 ‘순간포착! 세상에 이런 일이’ 측은 4일 “1173회를 방송해온 MC 박소현이 코로나19에 확진, 4월 5일 방송은 한승연이 스페셜 MC로 함께한다”고 밝혔다.\nMC 박소현의 부재는 프로그램 23년 역사상 처음이다.\n박소현은 지난 2017년 갈비뼈 부상에도 “녹화에 불참하면 후회할 것 같다”며 녹화에 참석하는 부상투혼으로 모두를 놀라게한 바 있다.\n제작진은 “한 번도 녹화에 빠지지 않았던 박소현이기에 이번 부재가 정말 안타깝다”면서 “잠깐이라도 방송에 함께할 수 있는 방법을 고민 중”이라고 밝혔다.\n한편, 스페셜 MC로 나서는 한승연은 평소 박소현과 절친한 사이로 알려졌다.\n방송은 5일 오후 9시.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박소현이 ‘세상에 이런 일이’ 진행 23년만에 처음으로 자리를 비운다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SBS 교양프로그램 ‘순간포착! 세상에 이런 일이’ 측은 4일 “1173회를 방송해온 MC 박소현이 코로나19에 확진, 4월 5일 방송은 한승연이 스페셜 MC로 함께한다”고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "MC 박소현의 부재는 프로그램 23년 역사상 처음이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박소현은 지난 2017년 갈비뼈 부상에도 “녹화에 불참하면 후회할 것 같다”며 녹화에 참석하는 부상투혼으로 모두를 놀라게한 바 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제작진은 “한 번도 녹화에 빠지지 않았던 박소현이기에 이번 부재가 정말 안타깝다”면서 “잠깐이라도 방송에 함께할 수 있는 방법을 고민 중”이라고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 스페셜 MC로 나서는 한승연은 평소 박소현과 절친한 사이로 알려졌다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방송은 5일 오후 9시.",
+				"sentenceSize": 13
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박소현, 23년만에 ‘세상에 이런 일이’ 녹화 불참",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

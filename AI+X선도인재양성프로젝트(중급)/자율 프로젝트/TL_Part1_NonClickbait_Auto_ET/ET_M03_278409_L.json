@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278409",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'의상 논란' 쯔위, 팬심 강타하는 하트&윙크…\\\"심장이 버틸수가 없다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 '트와이스'의 쯔위가 외설적인 문구가 적힌 의상을 입고 방송에 출연한 것으로 논란이 된 가운데, 트와이스 트위터에 올라온 쯔위의 사진이 눈길을 끈다.\n지난 2월, 트와이스 트위터에는 '원스(트와이스 팬클럽) 여러분, 쯔위의 윙크와 하트를 받아주세요. 그리고 점심 맛있게 드세요' 라는 글과 함께 쯔위가 엄지와 검지로 하트를 만드는 동시에 카메라를 보며 윙크를 하고 있는 사진이 게시됐다.\n사진 속 극강의 매력을 뽐내는 쯔위의 모습에 누리꾼들은 폭발적인 반응을 보였다.\n한편 쯔위는 13일 SBS '인기가요'에 외설적인 문구가 적힌 의상을 입고 출연해 논란이 됐다.\n이에 쯔위의 소속사 JYP에서는 \\\"의상은 전적으로 회사의 책임'이라고 사과했다.\n온라인 중앙일보 [사진 트와이스 트위터]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 '트와이스'의 쯔위가 외설적인 문구가 적힌 의상을 입고 방송에 출연한 것으로 논란이 된 가운데, 트와이스 트위터에 올라온 쯔위의 사진이 눈길을 끈다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2월, 트와이스 트위터에는 '원스(트와이스 팬클럽) 여러분, 쯔위의 윙크와 하트를 받아주세요. 그리고 점심 맛있게 드세요' 라는 글과 함께 쯔위가 엄지와 검지로 하트를 만드는 동시에 카메라를 보며 윙크를 하고 있는 사진이 게시됐다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 극강의 매력을 뽐내는 쯔위의 모습에 누리꾼들은 폭발적인 반응을 보였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 쯔위는 13일 SBS '인기가요'에 외설적인 문구가 적힌 의상을 입고 출연해 논란이 됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 쯔위의 소속사 JYP에서는 \\\"의상은 전적으로 회사의 책임'이라고 사과했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 트와이스 트위터]",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'의상 논란' 쯔위, 팬심 강타하는 하트&윙크…\\\"심장이 버틸수가 없다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

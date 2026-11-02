@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276274",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "영화 '킹스맨' 시리즈 마지막 편 '킹스맨 3' 나온다",
+		"newsSubTitle": "",
+		"newsContent": "'킹스맨' 시리즈 마지막 이야기가 담길 영화 '킹스맨3' 제작이 가시화되고 있다.\n12월 13일 코믹북리소스닷컴은 '킹스맨' 시리즈 연출을 맡았던 매튜 본(Matthew Vaughn) 감독이 영화 '킹스맨3' 작업을 구상 중에 있다고 보도했다.\n영화 '킹스맨: 골든 서클'의 시각효과책임자 앵거스 빅커턴(Angus Bickerton)은 코믹북리소스닷컴과의 인터뷰에서 \\\"매튜 본 감독과 '킹스맨3'에 관해 짧은 대화를 나눴다\\\"고 밝혔다.\n그러면서 \\\"매튜 본 감독은 이미 ('킹스맨3' 제작) 계획을 가지고 있다\\\"고 말해 기대감을 높였다.\n킹스맨 3부작의 2번째 편에 해당하는 '킹스맨: 골든 서클'은 2017년 9월 개봉했다.\n콜린 퍼스, 태런 에저튼, 마크 스트롱, 줄리안 무어, 할리 베리, 엘튼 존, 채닝 테이텀 등 초호화 캐스팅과 특유의 유머코드, 세련된 액션과 영국 신사의 패션 등 여러 볼거리를 제공하며 한국에서 490만명 이상의 관객을 끌어모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'킹스맨' 시리즈 마지막 이야기가 담길 영화 '킹스맨3' 제작이 가시화되고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12월 13일 코믹북리소스닷컴은 '킹스맨' 시리즈 연출을 맡았던 매튜 본(Matthew Vaughn) 감독이 영화 '킹스맨3' 작업을 구상 중에 있다고 보도했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영화 '킹스맨: 골든 서클'의 시각효과책임자 앵거스 빅커턴(Angus Bickerton)은 코믹북리소스닷컴과의 인터뷰에서 \\\"매튜 본 감독과 '킹스맨3'에 관해 짧은 대화를 나눴다\\\"고 밝혔다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 \\\"매튜 본 감독은 이미 ('킹스맨3' 제작) 계획을 가지고 있다\\\"고 말해 기대감을 높였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "킹스맨 3부작의 2번째 편에 해당하는 '킹스맨: 골든 서클'은 2017년 9월 개봉했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "콜린 퍼스, 태런 에저튼, 마크 스트롱, 줄리안 무어, 할리 베리, 엘튼 존, 채닝 테이텀 등 초호화 캐스팅과 특유의 유머코드, 세련된 액션과 영국 신사의 패션 등 여러 볼거리를 제공하며 한국에서 490만명 이상의 관객을 끌어모았다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영화 '킹스맨' 시리즈 마지막 편 '킹스맨 3' 나온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

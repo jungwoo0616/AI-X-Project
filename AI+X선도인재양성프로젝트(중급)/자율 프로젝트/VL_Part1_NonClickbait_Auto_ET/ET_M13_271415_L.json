@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271415",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "타루 ‘쇼챔’출격, 오롯이 전한 윤동주 감성",
+		"newsSubTitle": "",
+		"newsContent": "싱어송라이터 타루의 감성이 시청자에게 전달되는 순간이었다.\n타루는 25일 방송된 MBC M 음악방송 프로그램 ‘쇼! 챔피언’에 출연해 감성적인 보이스를 펼치며 생방송 무대를 펼쳤다.\n타루가 이날 방송에서 택한 곡은 ‘새로운 길’이다.\n해당 곡은 타루가 지난달 7일 공개한 타이틀 곡으로 동명의 윤동주 시에 타루가 자신만의 멜로디를 덧붙여 의의를 더했다.\n무대에 오른 타루는 자신만의 감성을 시청자에게 전달해 호응을 얻었다. ‘새로운 길’은 청년 윤동주가 일제 압제 속을 걸어가면서도 ‘새로운’이라는 형용사를 잃지 않았던 것처럼, 포기하지 않고 다시금 희망을 노래할 수 있길 바라는 의미를 담았다.\n타루는 15년 차 싱어송라이터로 ‘커피프린스 1호점’ 등 수 많은 드라마 OST는 물론 ‘배스킨라빈스’ 등 광고 음악에 참여하며 청량한 보이스의 대명사로 꾸준히 사랑받고 있다.\n최근에는 MBC 예능 프로그램 ‘복면가왕’ 판정단으로 출연해 관심을 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "싱어송라이터 타루의 감성이 시청자에게 전달되는 순간이었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "타루는 25일 방송된 MBC M 음악방송 프로그램 ‘쇼! 챔피언’에 출연해 감성적인 보이스를 펼치며 생방송 무대를 펼쳤다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "타루가 이날 방송에서 택한 곡은 ‘새로운 길’이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 곡은 타루가 지난달 7일 공개한 타이틀 곡으로 동명의 윤동주 시에 타루가 자신만의 멜로디를 덧붙여 의의를 더했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무대에 오른 타루는 자신만의 감성을 시청자에게 전달해 호응을 얻었다. ‘새로운 길’은 청년 윤동주가 일제 압제 속을 걸어가면서도 ‘새로운’이라는 형용사를 잃지 않았던 것처럼, 포기하지 않고 다시금 희망을 노래할 수 있길 바라는 의미를 담았다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타루는 15년 차 싱어송라이터로 ‘커피프린스 1호점’ 등 수 많은 드라마 OST는 물론 ‘배스킨라빈스’ 등 광고 음악에 참여하며 청량한 보이스의 대명사로 꾸준히 사랑받고 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에는 MBC 예능 프로그램 ‘복면가왕’ 판정단으로 출연해 관심을 모았다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "타루 ‘쇼챔’출격, 오롯이 전한 윤동주 감성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

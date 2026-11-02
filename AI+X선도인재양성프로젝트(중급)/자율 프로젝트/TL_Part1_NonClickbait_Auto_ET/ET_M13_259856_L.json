@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259856",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "홍상수·김민희, 2년만에 공식석상 선다",
+		"newsSubTitle": "",
+		"newsContent": "홍상수 감독과 배우 김민희가 2년 만에 공식석상에 나선다.\n영화계에 따르면 홍상수 감독과 김민희는 오는 10일 개막하는 제72회 베를린국제영화제에 참석한다.\n홍상수 감독이 연출한 ‘소설가의 영화’에는 김민희가 주연으로 출연한다.\n홍상수 감독과 김민희는 약 2년 만에 공식석상에 참석하는 것이다.\n홍상수 감독은 3년 연속 베를린국제영화제에 초청됐다.\n홍상수 감독은 지난해에도 초정됐으나 코로나19 여파로 참석하진 않았다. ‘소설가의 영화’는 홍상수 감독의 27번째 작품이다.\n홍상수 감독의 ‘밤의 해변에서 혼자’로 베를린국제영화제 여우주연상을 받은 김민희는 출연과 함께 제작실장으로 참여했다.\n영화는 흑백영화로 소설가 준희(이혜영)가 잠적한 후배 책방으로 먼 길을 찾아 영화감독 부부를 만나 길수(김민희)를 만나는 이야기를 그렸다.\n홍상수 감독과 김민희는 2015년 개봉한 영화 ‘지금은 맞고 그때는 틀리다’로 인연을 맺은 뒤 실제 연인으로 발전했다.\n이들은 2017년 3월 영화 ‘밤의 해변에서 혼자’ 언론시사회에 함께 참석하며 연인임을 인정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "홍상수 감독과 배우 김민희가 2년 만에 공식석상에 나선다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영화계에 따르면 홍상수 감독과 김민희는 오는 10일 개막하는 제72회 베를린국제영화제에 참석한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍상수 감독이 연출한 ‘소설가의 영화’에는 김민희가 주연으로 출연한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍상수 감독과 김민희는 약 2년 만에 공식석상에 참석하는 것이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍상수 감독은 3년 연속 베를린국제영화제에 초청됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍상수 감독은 지난해에도 초정됐으나 코로나19 여파로 참석하진 않았다. ‘소설가의 영화’는 홍상수 감독의 27번째 작품이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "홍상수 감독의 ‘밤의 해변에서 혼자’로 베를린국제영화제 여우주연상을 받은 김민희는 출연과 함께 제작실장으로 참여했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "영화는 흑백영화로 소설가 준희(이혜영)가 잠적한 후배 책방으로 먼 길을 찾아 영화감독 부부를 만나 길수(김민희)를 만나는 이야기를 그렸다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "홍상수 감독과 김민희는 2015년 개봉한 영화 ‘지금은 맞고 그때는 틀리다’로 인연을 맺은 뒤 실제 연인으로 발전했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이들은 2017년 3월 영화 ‘밤의 해변에서 혼자’ 언론시사회에 함께 참석하며 연인임을 인정했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍상수·김민희, 2년만에 공식석상 선다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

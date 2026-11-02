@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274706",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "수지VS정은채, 패션 속 비밀(안나)",
+		"newsSubTitle": "수지는 ‘고급’, 정은채는 ‘화려’인물 서사와 특징 담은 스타일링",
+		"newsContent": "‘안나’의 수지와 정은채의 스타일링이 눈길을 끈다. 5일 쿠팡플레이는 ‘안나’의 수지와 정은채의 패션 스틸을 공개했다.\n수지의 ‘안나’는 고급스러운 의상으로 우아한 매력을 선보인다.\n의상은 과거 ‘유미’ 시절을 지우고 대학교 인기 교수이자 벤처 기업의 대표 ‘지훈’(김준한)의 아내로 살아가는 그의 삶을 담았다. ‘안나’를 통해 150벌에 달하는 의상을 입었다는 수지는 각기 다른 의상으로 인물이 처한 상황과 삶의 변화를 보여준다.\n반면 정은채는 태생부터 우월한 삶을 살아왔던 ‘현주’역을 맡으며 과감하고 화려한 의상을 소화해낸다.\n그는 의상을 통해 외향적이고 거침없는 성격을 고스란히 담아냈다.\n그는 극 중 미묘한 긴장관계를 형성하는 ‘안나’와는 상반된 스타일링으로 색다를 볼거리를 제공한다.\n이렇듯 두 사람의 스타일링은 캐릭터의 간의 특성을 완벽히 담아냈다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기를 그린 시리즈로 매주 금요일 파격적인 스토리 전개와 아름다운 영상미로 시청자들을 사로잡고 있다. ‘안나’의 마지막 5, 6화는 오는 8일 금요일 오후 8시 쿠팡플레이를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘안나’의 수지와 정은채의 스타일링이 눈길을 끈다. 5일 쿠팡플레이는 ‘안나’의 수지와 정은채의 패션 스틸을 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수지의 ‘안나’는 고급스러운 의상으로 우아한 매력을 선보인다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의상은 과거 ‘유미’ 시절을 지우고 대학교 인기 교수이자 벤처 기업의 대표 ‘지훈’(김준한)의 아내로 살아가는 그의 삶을 담았다. ‘안나’를 통해 150벌에 달하는 의상을 입었다는 수지는 각기 다른 의상으로 인물이 처한 상황과 삶의 변화를 보여준다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면 정은채는 태생부터 우월한 삶을 살아왔던 ‘현주’역을 맡으며 과감하고 화려한 의상을 소화해낸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 의상을 통해 외향적이고 거침없는 성격을 고스란히 담아냈다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 극 중 미묘한 긴장관계를 형성하는 ‘안나’와는 상반된 스타일링으로 색다를 볼거리를 제공한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이렇듯 두 사람의 스타일링은 캐릭터의 간의 특성을 완벽히 담아냈다. ‘안나’는 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기를 그린 시리즈로 매주 금요일 파격적인 스토리 전개와 아름다운 영상미로 시청자들을 사로잡고 있다. ‘안나’의 마지막 5, 6화는 오는 8일 금요일 오후 8시 쿠팡플레이를 통해 확인할 수 있다.",
+				"sentenceSize": 192
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수지VS정은채, 패션 속 비밀(안나)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

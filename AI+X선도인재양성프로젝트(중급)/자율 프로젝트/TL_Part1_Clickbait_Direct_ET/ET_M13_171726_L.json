@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171726",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "은종, 2022년 봄 소란스럽게 만들어줄 새 노래 ‘소란스러운 밤’ 발매",
+    "newsSubTitle": "",
+    "newsContent": "가수 은종(SILVERBELL)이 올해의 두 번째 싱글 앨범 ‘소란스러운 밤’을 발매했다고 소속사가 22일 전했다.\n따뜻한 목소리와 위로의 가사로 꾸준히 사랑받고 있는 은종은 작사, 작곡은 물론 솔직하고 털털한 입담으로 다양한 장르와 분야에서 활발하게 활동 중인 가수다.\n지난 1월 싱글 앨범 ‘손난로’에 이어 새로운 분위기로 찾아온 신곡 ‘소란스러운 밤’은 R&B 장르의 곡으로 이제 막 찾아온 봄날 연인과 산책하면서, 친구와 카페에서 또 나른한 주말 홀로 방 안에서 언제 어디서든 편안하게 들을 수 있는 노래다.\n신곡 ‘소란스러운 밤’은 피어오르는 것들에 눈길이 가고 눈길이 닿는 곳에 마음이 닿는 봄, 그 사람으로 인해 다시금 떨려오는 낯선 감정에 잔뜩 겁을 먹고 찬란한 봄날의 첫 밤을 지새우던 그날의 소란스럽고 황홀했던 마음을 담은 곡이다.\n소속사 코코넛뮤직은 “앞으로 은종의 앨범과 공연 활동에 있어서 더욱 다채로운 모습과 음악으로 찾아뵐 예정이니 많은 응원과 관심 부탁드린다”고 전했다.\n은종은 신곡 ‘소란스러운 밤’을 발매하고 오는 4월 1일 롤링홀에서 단독 공연 ‘소란스러운 봄’을 진행할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 은종(SILVERBELL)이 올해의 두 번째 싱글 앨범 ‘소란스러운 밤’을 발매했다고 소속사가 22일 전했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "따뜻한 목소리와 위로의 가사로 꾸준히 사랑받고 있는 은종은 작사, 작곡은 물론 솔직하고 털털한 입담으로 다양한 장르와 분야에서 활발하게 활동 중인 가수다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 1월 싱글 앨범 ‘손난로’에 이어 새로운 분위기로 찾아온 신곡 ‘소란스러운 밤’은 R&B 장르의 곡으로 이제 막 찾아온 봄날 연인과 산책하면서, 친구와 카페에서 또 나른한 주말 홀로 방 안에서 언제 어디서든 편안하게 들을 수 있는 노래다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신곡 ‘소란스러운 밤’은 피어오르는 것들에 눈길이 가고 눈길이 닿는 곳에 마음이 닿는 봄, 그 사람으로 인해 다시금 떨려오는 낯선 감정에 잔뜩 겁을 먹고 찬란한 봄날의 첫 밤을 지새우던 그날의 소란스럽고 황홀했던 마음을 담은 곡이다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사 코코넛뮤직은 “앞으로 은종의 앨범과 공연 활동에 있어서 더욱 다채로운 모습과 음악으로 찾아뵐 예정이니 많은 응원과 관심 부탁드린다”고 전했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "은종은 신곡 ‘소란스러운 밤’을 발매하고 오는 4월 1일 롤링홀에서 단독 공연 ‘소란스러운 봄’을 진행할 예정이다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "은종, 올봄 점령할 새 노래 '소란스러운 밤' 발매... 어떤 내용 담고 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

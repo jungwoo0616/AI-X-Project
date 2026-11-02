@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274914",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "곽진언, 23·24일 소극장 콘서트 ‘Op.3’ 개최[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 곽진언이 소극장 콘서트를 개최한다.\n곽진언은 오는 23일과 24일 양일간에 걸쳐 벨로주 홍대에서 ‘곽진언 소극장 콘서트 Op.3’라는 타이틀로 총 3회 공연을 갖는다.\n이번 공연은 지난 5월 개최된 ‘Op.1’, 지난달 개최된 ‘Op.2’와 시리즈를 이루는 공연으로, 객석과 거리를 좁히고 숨소리까지 교감해 팬들의 호응을 얻은 바 있다.\n곽진언은 이번 공연을 통해 특유의 음색과 다양한 레파토리로 팬들과 음악적 소통을 할 예정이다.\n지난 4월 미니앨범 ‘정릉’을 발표한 곽진언은 본인만의 서정성으로 리스너들의 귀를 사로잡았다.\n한편 곽진언 소극장 콘서트 ‘Op.3’는 오는 23일~24일 벨로주 홍대에서 ‘곽진언 소극장 콘서트 Op.3’라는 타이틀로 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 곽진언이 소극장 콘서트를 개최한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "곽진언은 오는 23일과 24일 양일간에 걸쳐 벨로주 홍대에서 ‘곽진언 소극장 콘서트 Op.3’라는 타이틀로 총 3회 공연을 갖는다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공연은 지난 5월 개최된 ‘Op.1’, 지난달 개최된 ‘Op.2’와 시리즈를 이루는 공연으로, 객석과 거리를 좁히고 숨소리까지 교감해 팬들의 호응을 얻은 바 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "곽진언은 이번 공연을 통해 특유의 음색과 다양한 레파토리로 팬들과 음악적 소통을 할 예정이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 4월 미니앨범 ‘정릉’을 발표한 곽진언은 본인만의 서정성으로 리스너들의 귀를 사로잡았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 곽진언 소극장 콘서트 ‘Op.3’는 오는 23일~24일 벨로주 홍대에서 ‘곽진언 소극장 콘서트 Op.3’라는 타이틀로 진행된다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "곽진언, 23·24일 소극장 콘서트 ‘Op.3’ 개최[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

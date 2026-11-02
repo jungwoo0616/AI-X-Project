@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275016",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘콩고 왕자’ 조나단, 한국외대 명예홍보대사 위촉",
+		"newsSubTitle": "",
+		"newsContent": "한국외국어대는 ‘콩고 왕자’로 불리는 조나단 욤비(22·정치외교학과)를 명예홍보대사로 위촉했다고 7일 전했다.\n한국외대는 이날 교내 스마트도서관에서 2022학년도 학생홍보대사·명예홍보대사 임명식을 가졌다.\n행사에 참석한 조나단은 “홍보대사 분들이 모두 키도 크고 외모도 출중한데 저도 같은 기준에 따라 선발된 것으로 이해해도 되겠죠”라며 웃음을 보였다.\n또 “기쁘고 영광스럽게 생각한다”며 “앞으로 학교 홍보대사로서 부족하지 않은 조나단이 되겠다”고 말했다.\n박정운 총장은 “밝고 즐거운 모습으로 대중에게 기쁨을 주는 모습은 훌륭한 홍보대사의 모습”이라며 “대학의 긍정적인 이미지가 함께 시너지 효과를 낼 수 있을 것”이라고 말했다.\n조나단은 콩고민주공화국 출신 난민으로, 방송 출연과 유튜브 활동으로 큰 인기를 얻고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국외국어대는 ‘콩고 왕자’로 불리는 조나단 욤비(22·정치외교학과)를 명예홍보대사로 위촉했다고 7일 전했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국외대는 이날 교내 스마트도서관에서 2022학년도 학생홍보대사·명예홍보대사 임명식을 가졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "행사에 참석한 조나단은 “홍보대사 분들이 모두 키도 크고 외모도 출중한데 저도 같은 기준에 따라 선발된 것으로 이해해도 되겠죠”라며 웃음을 보였다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 “기쁘고 영광스럽게 생각한다”며 “앞으로 학교 홍보대사로서 부족하지 않은 조나단이 되겠다”고 말했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박정운 총장은 “밝고 즐거운 모습으로 대중에게 기쁨을 주는 모습은 훌륭한 홍보대사의 모습”이라며 “대학의 긍정적인 이미지가 함께 시너지 효과를 낼 수 있을 것”이라고 말했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조나단은 콩고민주공화국 출신 난민으로, 방송 출연과 유튜브 활동으로 큰 인기를 얻고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘콩고 왕자’ 조나단, 한국외대 명예홍보대사 위촉",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

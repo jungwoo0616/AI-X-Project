@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276723",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "점점 예뻐진다는 '미녀 리포터' 원자현 근황",
+		"newsSubTitle": "",
+		"newsContent": "방송인 원자현 근황이 눈길을 끌고 있다.\n원자현은 최근 산업방송 채널i '심층이슈 더팩트' MC로 활동하고 있다.\n그는 해당 프로그램에서 홍일점으로 활약하고 있다.\n원자현은 문재인 대통령에 대해 \\\"취임 직후 행보를 보면 어릴 때 꿈꾸던 대통령의 모습을 보는 것 같다\\\"고 의견을 내는 등 방송을 원활하게 진행하고 있다.\n그는 KBS·MBC 등 방송국에서 리포터로 활약하며 얼굴을 알리기 시작했다.\n특히 원자현은 '2015년 머슬마니아 세계대회 선발전' 모델·비키니 부문에 출전해 2등을 차지하는 등 새로운 분야에도 도전해왔다.\n다음은 그가 인스타그램에 올린 사진들.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 원자현 근황이 눈길을 끌고 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원자현은 최근 산업방송 채널i '심층이슈 더팩트' MC로 활동하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 해당 프로그램에서 홍일점으로 활약하고 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "원자현은 문재인 대통령에 대해 \\\"취임 직후 행보를 보면 어릴 때 꿈꾸던 대통령의 모습을 보는 것 같다\\\"고 의견을 내는 등 방송을 원활하게 진행하고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 KBS·MBC 등 방송국에서 리포터로 활약하며 얼굴을 알리기 시작했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 원자현은 '2015년 머슬마니아 세계대회 선발전' 모델·비키니 부문에 출전해 2등을 차지하는 등 새로운 분야에도 도전해왔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다음은 그가 인스타그램에 올린 사진들.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "점점 예뻐진다는 '미녀 리포터' 원자현 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

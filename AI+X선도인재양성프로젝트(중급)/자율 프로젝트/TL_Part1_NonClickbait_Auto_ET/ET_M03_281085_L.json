@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281085",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이윤석, 결혼 7년 만에 득남…\\\"식구 한 번 늘려보겠다고 담배도 끊었다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "이윤석, 결혼 7년 만에 득남…\\\"산모와 아이 모두 건강\\\" 결혼 7년 만에 득남 개그맨 이윤석이 결혼 7년 만에 득남을 했다.\n16일 다수의 연예계 관계자에 따르면 이윤석과 이윤석 아내인 한의사 김수경 씨가 결혼 7년 만에 득남을 했다고 소식이 전해졌다.\n이윤석은 지난 2008년 한의사 김수경 씨와 결혼했다.\n이후 부부는 아이를 얻기 위해 7년 동 안 상당한 공을 들였다고 전해지고 있다.\n출산 직전까지도 신중을 기할 정도로 아이가 건강하게 태어나기만을 기다렸다고 전해졌다.\n방송 관계자에 따르면 이윤석은 자신이 고정으로 출연이 아닌 날에는 외부 출입을 삼갔다고 전해졌다.\n수시로 병원을 찾아 아내를 돌봤다는 목격담도 있었다.\n한편 이윤석은 과거 박명수의 라디오쇼에 출연해 \\\"식구 한 번 늘려보겠다고 담배도 끊었다. 니코틴 끊었더니 아내가 더 예뻐 보인다\\\"라며 관심을 모으기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이윤석, 결혼 7년 만에 득남…\\\"산모와 아이 모두 건강\\\" 결혼 7년 만에 득남 개그맨 이윤석이 결혼 7년 만에 득남을 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 다수의 연예계 관계자에 따르면 이윤석과 이윤석 아내인 한의사 김수경 씨가 결혼 7년 만에 득남을 했다고 소식이 전해졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이윤석은 지난 2008년 한의사 김수경 씨와 결혼했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 부부는 아이를 얻기 위해 7년 동 안 상당한 공을 들였다고 전해지고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "출산 직전까지도 신중을 기할 정도로 아이가 건강하게 태어나기만을 기다렸다고 전해졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송 관계자에 따르면 이윤석은 자신이 고정으로 출연이 아닌 날에는 외부 출입을 삼갔다고 전해졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수시로 병원을 찾아 아내를 돌봤다는 목격담도 있었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이윤석은 과거 박명수의 라디오쇼에 출연해 \\\"식구 한 번 늘려보겠다고 담배도 끊었다. 니코틴 끊었더니 아내가 더 예뻐 보인다\\\"라며 관심을 모으기도 했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이윤석, 결혼 7년 만에 득남…\\\"식구 한 번 늘려보겠다고 담배도 끊었다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

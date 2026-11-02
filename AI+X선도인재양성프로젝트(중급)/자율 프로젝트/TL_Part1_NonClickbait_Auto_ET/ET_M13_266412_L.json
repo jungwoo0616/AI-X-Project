@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266412",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박하선, 쿠팡플레이 ‘SNL 코리아 시즌 2’ 호스트 출격",
+		"newsSubTitle": "",
+		"newsContent": "배우 박하선 ‘SNL 코리아 시즌2’에 출연한다. 9일 공개되는 OTT 플랫폼 쿠팡플레이의 ‘SNL 코리아 시즌2’에는 ‘며느라기’ ‘산후조리원’ 등의 작품에서 생동감 넘치는 캐릭터를 탄생시킨 박하선이 13회 호스트로 나선다.\n그는 다채로운 콘셉트 속에서 다양한 콩트 연기는 물론 춤과 노래까지 아낌없는 활약을 예고했다.\n디지털숏 코너 ‘며느라기TV’에서는 유튜브에 도전한다.\n시어머니 정이랑이 잠든 사이 총각김치 ASMR, 시누이 주현영과 함께 한 협업무대 등 K-시월드 콘텐츠를 시작으로 점차 자극적인 화제 영상을 패러디하는 좌충우돌 유튜버의 모습을 보인다.\n이어서 ‘하이킥! 짧은 다리의 역습’을 패러디한 ‘돌아온 블랙하선’ 코너에서는 시트콤에서의 모습을 선보인다. ‘퇴사합니다’ 코너에서는 MZ세대 신입사원들과 기성세대 부장 정상훈 사이에서 고군분투하는 대리의 생존법을 그려낸다.\n이번주 ‘주기자가 간다’에서는 더불어민주당의 고민정 의원을 만나 폭소를 자아낼 예정이다.\n박하선이 출연하는 쿠팡플레이 ‘SNL 코리아 시즌 2’는 매주 토요일 오후 10시에 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박하선 ‘SNL 코리아 시즌2’에 출연한다. 9일 공개되는 OTT 플랫폼 쿠팡플레이의 ‘SNL 코리아 시즌2’에는 ‘며느라기’ ‘산후조리원’ 등의 작품에서 생동감 넘치는 캐릭터를 탄생시킨 박하선이 13회 호스트로 나선다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 다채로운 콘셉트 속에서 다양한 콩트 연기는 물론 춤과 노래까지 아낌없는 활약을 예고했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디지털숏 코너 ‘며느라기TV’에서는 유튜브에 도전한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시어머니 정이랑이 잠든 사이 총각김치 ASMR, 시누이 주현영과 함께 한 협업무대 등 K-시월드 콘텐츠를 시작으로 점차 자극적인 화제 영상을 패러디하는 좌충우돌 유튜버의 모습을 보인다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어서 ‘하이킥! 짧은 다리의 역습’을 패러디한 ‘돌아온 블랙하선’ 코너에서는 시트콤에서의 모습을 선보인다. ‘퇴사합니다’ 코너에서는 MZ세대 신입사원들과 기성세대 부장 정상훈 사이에서 고군분투하는 대리의 생존법을 그려낸다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번주 ‘주기자가 간다’에서는 더불어민주당의 고민정 의원을 만나 폭소를 자아낼 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박하선이 출연하는 쿠팡플레이 ‘SNL 코리아 시즌 2’는 매주 토요일 오후 10시에 공개된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박하선, 쿠팡플레이 ‘SNL 코리아 시즌 2’ 호스트 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

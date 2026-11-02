@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278317",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "송민서 결별 기욤 패트리, 30대 중반의 깜찍한 매력…\\\"기욤폭발\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 기욤 패트리와 배우 송민서가 결별한 것이 화제인 가운데, 과거 기욤의 SNS에 올라온 사진도 눈길을 끈다.\n지난 2014년, 기욤 패트리는 자신의 인스타그램에 \\\"#기욤폭발\\\" 이라는 글과 함께 한 장의 사진을 게시했다.\n사진 속 기욤은 자신의 귀여움에 취한 듯 재미있는 표정을 짓고 '기욤폭발'이라고 적힌 콜라병을 들고 있어 웃음을 자아냈다.\n많은 누리꾼들은 \\\"갖고싶어요\\\" \\\"너무 귀여워 ㅠㅠ\\\" 등의 반응을 보였다.\n한편 30일 일간스포츠의 보도에 따르면, 기욤 패트리와 송민서는 작년 여름부터 교제해왔으나 최근 바쁜 스케줄 등의 이유로 관계가 소원해져 결별한 것으로 알려졌다.\n온라인 중앙일보 [사진 기욤 패트리 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 기욤 패트리와 배우 송민서가 결별한 것이 화제인 가운데, 과거 기욤의 SNS에 올라온 사진도 눈길을 끈다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2014년, 기욤 패트리는 자신의 인스타그램에 \\\"#기욤폭발\\\" 이라는 글과 함께 한 장의 사진을 게시했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 기욤은 자신의 귀여움에 취한 듯 재미있는 표정을 짓고 '기욤폭발'이라고 적힌 콜라병을 들고 있어 웃음을 자아냈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "많은 누리꾼들은 \\\"갖고싶어요\\\" \\\"너무 귀여워 ㅠㅠ\\\" 등의 반응을 보였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 30일 일간스포츠의 보도에 따르면, 기욤 패트리와 송민서는 작년 여름부터 교제해왔으나 최근 바쁜 스케줄 등의 이유로 관계가 소원해져 결별한 것으로 알려졌다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 기욤 패트리 인스타그램]",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "송민서 결별 기욤 패트리, 30대 중반의 깜찍한 매력…\\\"기욤폭발\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

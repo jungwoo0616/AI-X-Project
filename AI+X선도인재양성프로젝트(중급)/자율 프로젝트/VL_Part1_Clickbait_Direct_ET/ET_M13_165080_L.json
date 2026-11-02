@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165080",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이시영, 가죽 슈트 의상에 누리꾼 열광 “한국판 블랙 위도우”",
+    "newsSubTitle": "",
+    "newsContent": "배우 이시영이 남다른 의상 소화력을 뽐냈다.\n이시영은 7일 자신의 인스타그램에 “열정. 우린 이날 다 타버렸어”라는 글과 함께 사진 여러 장을 게재했다.\n공개된 사진에는 모래로 덮인 산 앞에서 가죽 슈트를 입고 강렬한 눈빛을 발산하는 이시영의 모습이 담겨있다.\n딱 붙는 가죽 의상도 완벽한 보디라인으로 소화하는 이시영의 모습은 보는 이의 감탄을 자아낸다.\n이를 본 누리꾼들은 “스위트홈 2인가?” “어벤져스 시영님” “시영님 여전사 포스 너무 좋아요” “한국판 스칼렛 요한슨이다” 등의 반응을 보였다.\n한편, 이시영은 개인 유튜브 채널 ‘이시영의 땀띠’를 통해 운동 노하우와 등산 일상 등을 공유하며 대중과 활발하게 소통하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이시영이 남다른 의상 소화력을 뽐냈다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이시영은 7일 자신의 인스타그램에 “열정. 우린 이날 다 타버렸어”라는 글과 함께 사진 여러 장을 게재했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 모래로 덮인 산 앞에서 가죽 슈트를 입고 강렬한 눈빛을 발산하는 이시영의 모습이 담겨있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "딱 붙는 가죽 의상도 완벽한 보디라인으로 소화하는 이시영의 모습은 보는 이의 감탄을 자아낸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 본 누리꾼들은 “스위트홈 2인가?” “어벤져스 시영님” “시영님 여전사 포스 너무 좋아요” “한국판 스칼렛 요한슨이다” 등의 반응을 보였다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 이시영은 개인 유튜브 채널 ‘이시영의 땀띠’를 통해 운동 노하우와 등산 일상 등을 공유하며 대중과 활발하게 소통하고 있다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가죽 슈트 의상에 강렬한 눈빛 장착... \"한국판 블랙 위도우\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278142",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'함부로 애틋하게' 김우빈, 수지 도발 \\\"나랑 연애할래요? 진하게\\\"",
+		"newsSubTitle": "",
+		"newsContent": "김우빈과 수지의 아찔한 신경전이 벌어졌다.\n18일 KBS는 네이버 TV캐스트를 통해 '함부로 애틋하게' 티저를 공개했다.\n공개된 티저 영상에는 톱스타 김우빈(준혁 역)과 다큐멘터리 PD 수지(노을 역)의 팽팽한 신경전이 담겨 있다.\n김우빈은 카메라 앞에서 인터뷰에 응하며 \\\"막 살거다. 마음에 안 드는 놈들 죽이고. 클럽가서 여자들도 꼬시고 매일 여자들도 바꿔가며서 잠도 자고\\\"라며 거침없이 말한다.\n이후 \\\"방송이 장난 같아 보이냐\\\"며 화를 내는 수지에게 김우빈은 미소 지으며 \\\"나랑 연애할래요? 노을PD님? 딱 3개월만. 겁나 진하게\\\"라고 제안한다.\n한편 '함부로 애틋하게'는 100% 사전제작드라마로, 어린 시절 가슴 아픈 악연으로 헤어졌던 두 남녀가 안하무인 '슈퍼갑 톱스타'와 비굴하고 속물적인 '슈퍼을 다큐 PD'로 다시 만나 그려가는 까칠하고 애틋한 사랑을 그린다. '마스터-국수의 신' 후속으로 6월 29일 첫방송될 예정이다.\n온라인 중앙일보 [사진 '함부로 애틋하게' 티저 영상 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김우빈과 수지의 아찔한 신경전이 벌어졌다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 KBS는 네이버 TV캐스트를 통해 '함부로 애틋하게' 티저를 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 티저 영상에는 톱스타 김우빈(준혁 역)과 다큐멘터리 PD 수지(노을 역)의 팽팽한 신경전이 담겨 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김우빈은 카메라 앞에서 인터뷰에 응하며 \\\"막 살거다. 마음에 안 드는 놈들 죽이고. 클럽가서 여자들도 꼬시고 매일 여자들도 바꿔가며서 잠도 자고\\\"라며 거침없이 말한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 \\\"방송이 장난 같아 보이냐\\\"며 화를 내는 수지에게 김우빈은 미소 지으며 \\\"나랑 연애할래요? 노을PD님? 딱 3개월만. 겁나 진하게\\\"라고 제안한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 '함부로 애틋하게'는 100% 사전제작드라마로, 어린 시절 가슴 아픈 악연으로 헤어졌던 두 남녀가 안하무인 '슈퍼갑 톱스타'와 비굴하고 속물적인 '슈퍼을 다큐 PD'로 다시 만나 그려가는 까칠하고 애틋한 사랑을 그린다. '마스터-국수의 신' 후속으로 6월 29일 첫방송될 예정이다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 '함부로 애틋하게' 티저 영상 캡처]",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'함부로 애틋하게' 김우빈, 수지 도발 \\\"나랑 연애할래요? 진하게\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

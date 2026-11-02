@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277047",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "몇 해 전 온라인서 '난리' 난 얼짱 아기 '폭풍성장' 근황",
+		"newsSubTitle": "",
+		"newsContent": "몇 년 전 온라인상에서 신생아임에도 빼어난 미모로 주목받았던 한소율(5)양의 근황이 공개돼 화제다.\n한 양의 부모가 운영하는 것으로 추정되는 한소율 페이스북 페이지는 팔로어 11만명에 이른다.\n올해 6살(만 나이 5살)인 한 양은 아기 때와 마찬가지로 아리따운 미모를 자랑하고 있다.\n한소율 페이스북 페이지 측은 \\\"소율이가 요새 스티커에 푹 빠졌다\\\"고 근황을 소개하거나 \\\"요즘 웃긴 표정을 많이 짓는다\\\"고 전하고 있다.\n페이지에 올라온 한양의 다양한 모습들을 소개한다.\n마지막으로 온라인에서 화제를 모은 한양의 어릴 때 사진.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "몇 년 전 온라인상에서 신생아임에도 빼어난 미모로 주목받았던 한소율(5)양의 근황이 공개돼 화제다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 양의 부모가 운영하는 것으로 추정되는 한소율 페이스북 페이지는 팔로어 11만명에 이른다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해 6살(만 나이 5살)인 한 양은 아기 때와 마찬가지로 아리따운 미모를 자랑하고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한소율 페이스북 페이지 측은 \\\"소율이가 요새 스티커에 푹 빠졌다\\\"고 근황을 소개하거나 \\\"요즘 웃긴 표정을 많이 짓는다\\\"고 전하고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "페이지에 올라온 한양의 다양한 모습들을 소개한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마지막으로 온라인에서 화제를 모은 한양의 어릴 때 사진.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "몇 해 전 온라인서 '난리' 난 얼짱 아기 '폭풍성장' 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

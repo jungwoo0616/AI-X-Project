@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278703",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "진백림 송지효 '우리 사랑하기로 했어요' 커플샷 공개 '알콩달콩'",
+		"newsSubTitle": "",
+		"newsContent": "대만배우 진백림과 송지효의 커플사진이 공개됐다.\n21일 강소위성TV '우리 사랑하기로 했어요' 측은 공식 웨이보를 통해 '정월대보름(원소절)이 다가왔습니다! 여러분을 위해 귀여운 세 가지 새알심을 준비했어요~ 여러분이 가장 먹어보고 싶은 새알심은 무엇인가요?'라며 신혼부부 세 쌍의 사진을 공개했다.\n이 가운데는 송지효-진백림 커플의 사진도 포함되어 있었다.\n두 사람은 새알심을 두고 장난스러운 표정을 지었다.\n송지효와 진백림이 호흡을 맞추게 될 '우리 사랑하기로 했어요'는 현재 MBC에서 방송 중인 '우리 결혼했어요'의 리메이크 프로그램으로, 오는 4월 첫 방송될 예정이다.\n지난 시즌1에는 슈퍼주니어 최시원과 모델 리우웬이 출연해 방영 당시 동시간대 시청률 1위를 기록한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대만배우 진백림과 송지효의 커플사진이 공개됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 강소위성TV '우리 사랑하기로 했어요' 측은 공식 웨이보를 통해 '정월대보름(원소절)이 다가왔습니다! 여러분을 위해 귀여운 세 가지 새알심을 준비했어요~ 여러분이 가장 먹어보고 싶은 새알심은 무엇인가요?'라며 신혼부부 세 쌍의 사진을 공개했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 가운데는 송지효-진백림 커플의 사진도 포함되어 있었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 새알심을 두고 장난스러운 표정을 지었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "송지효와 진백림이 호흡을 맞추게 될 '우리 사랑하기로 했어요'는 현재 MBC에서 방송 중인 '우리 결혼했어요'의 리메이크 프로그램으로, 오는 4월 첫 방송될 예정이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 시즌1에는 슈퍼주니어 최시원과 모델 리우웬이 출연해 방영 당시 동시간대 시청률 1위를 기록한 바 있다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "진백림 송지효 '우리 사랑하기로 했어요' 커플샷 공개 '알콩달콩'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

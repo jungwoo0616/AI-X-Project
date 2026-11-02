@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274870",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "장윤정, 트로트+발라드 현장믹스 감탄(도장깨기)",
+		"newsSubTitle": "",
+		"newsContent": "가수 장윤정이 남편 도경완과 함께 ‘도장깨기’에 나선다.\nLG헬로비전은 트로트와 발라드가 결합된 음악 프로그램 ‘장윤정의 도장깨기-전 국민 가수 만들기’(도장깨기) 오는 7일 방송되는 7회에서 스페셜 수제자 박군과 함께 부산을 찾아 숨은 노래 고수들을 만날 예정이라고 6일 밝혔다.\n장윤정이 코칭 도중 즉석으로 지원자 맞춤형 장르를 제안했다고 한다.\n최근 진행된 녹화에서 장윤정은 더 늦기 전 발라드 가수로 전향하고 싶다는 20년차 트로트 가수 지원자와 만났다.\n지원자의 발라드를 들은 장윤정은 “트로트는 놓지 말고 본인 장르를 만드는 게 좋지 않을까 싶다”라는 제안을 한다.\n이어 장윤정은 트로트와 발라드의 특성을 섞어 칭찬을 이끌어 냈다고 한다.\n장윤정은 ‘도장깨기’를 두고 남다른 소명감도 내비쳤다.\n도경완과 박군은 주변에서 장윤정에게 트로트 코칭을 받고 싶어하는 지인들의 문의가 쇄도하고 있다고 전했다.\n이에 장윤정은 완벽한 코칭에 대한 의지를 드러내며 지원자들의 노래 실력을 업그레이드시키겠다고 공언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 장윤정이 남편 도경완과 함께 ‘도장깨기’에 나선다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG헬로비전은 트로트와 발라드가 결합된 음악 프로그램 ‘장윤정의 도장깨기-전 국민 가수 만들기’(도장깨기) 오는 7일 방송되는 7회에서 스페셜 수제자 박군과 함께 부산을 찾아 숨은 노래 고수들을 만날 예정이라고 6일 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장윤정이 코칭 도중 즉석으로 지원자 맞춤형 장르를 제안했다고 한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 진행된 녹화에서 장윤정은 더 늦기 전 발라드 가수로 전향하고 싶다는 20년차 트로트 가수 지원자와 만났다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지원자의 발라드를 들은 장윤정은 “트로트는 놓지 말고 본인 장르를 만드는 게 좋지 않을까 싶다”라는 제안을 한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 장윤정은 트로트와 발라드의 특성을 섞어 칭찬을 이끌어 냈다고 한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장윤정은 ‘도장깨기’를 두고 남다른 소명감도 내비쳤다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "도경완과 박군은 주변에서 장윤정에게 트로트 코칭을 받고 싶어하는 지인들의 문의가 쇄도하고 있다고 전했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 장윤정은 완벽한 코칭에 대한 의지를 드러내며 지원자들의 노래 실력을 업그레이드시키겠다고 공언했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장윤정, 트로트+발라드 현장믹스 감탄(도장깨기)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

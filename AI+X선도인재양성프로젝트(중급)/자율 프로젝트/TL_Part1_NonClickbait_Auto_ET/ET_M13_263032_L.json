@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263032",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이근, 의용군 조직해 우크라이나로 떠났다",
+		"newsSubTitle": "",
+		"newsContent": "UDT 대위출신 유튜버 이근이 의용군을 조직해 우크라이나를 향해 떠났다.\n이근은 7일 인스타그램에 “우크라이나 대통령이 전 세계 도움을 요청했을 때 ROKSEAL은 즉시 의용군 임무를 준비했다”며 “(개전 이후)48시간 이내 계획 수립, 코디네이션, 장비를 준비해 공식적인 절차를 밟아 출국을 하려 했으나 한국 정부의 강한 반대로 마찰이 생겼다”고 밝혔다.\n이어 “우리는 여행 금지국가를 들어가면 범죄자 취급받고 1년 징역 도는 1000만원 벌금으로 처벌받을 수 있다고 협박을 받았다”며 “하지만 처벌받는다고 우리가 보유한 기술, 지식, 전문성으로 우크라이나를 도와주지 않고 이상황에서 그냥 가만히 있을 수는 없었다”고 했다.\n그러면서 “이런 상황에서는 비공식 절차로 저의 팀이 문제없이 출국하고 우크라이나에 잘 도착해야 해서 관계자 몇 명을 제외하고 누구에게도 저희의 계획을 공유하지 않았다”며 “얼마 전에 출국했으니 이제 이렇게 발표한다”고 했다.\n이근은 “저의 팀원들을 제가 직접 선발했고, 제가 살아서 돌아간다면 그때는 제가 다 책임지고 주는 처벌 받겠다”며 “최초의 대한민국 의용군인만큼 우리나라를 대표해 위상을 높이겠다”고 했다.\n마지막으로 이근은 “그럼 임무 끝나고 한국에서 뵙겠다”고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "UDT 대위출신 유튜버 이근이 의용군을 조직해 우크라이나를 향해 떠났다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이근은 7일 인스타그램에 “우크라이나 대통령이 전 세계 도움을 요청했을 때 ROKSEAL은 즉시 의용군 임무를 준비했다”며 “(개전 이후)48시간 이내 계획 수립, 코디네이션, 장비를 준비해 공식적인 절차를 밟아 출국을 하려 했으나 한국 정부의 강한 반대로 마찰이 생겼다”고 밝혔다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “우리는 여행 금지국가를 들어가면 범죄자 취급받고 1년 징역 도는 1000만원 벌금으로 처벌받을 수 있다고 협박을 받았다”며 “하지만 처벌받는다고 우리가 보유한 기술, 지식, 전문성으로 우크라이나를 도와주지 않고 이상황에서 그냥 가만히 있을 수는 없었다”고 했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “이런 상황에서는 비공식 절차로 저의 팀이 문제없이 출국하고 우크라이나에 잘 도착해야 해서 관계자 몇 명을 제외하고 누구에게도 저희의 계획을 공유하지 않았다”며 “얼마 전에 출국했으니 이제 이렇게 발표한다”고 했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이근은 “저의 팀원들을 제가 직접 선발했고, 제가 살아서 돌아간다면 그때는 제가 다 책임지고 주는 처벌 받겠다”며 “최초의 대한민국 의용군인만큼 우리나라를 대표해 위상을 높이겠다”고 했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마지막으로 이근은 “그럼 임무 끝나고 한국에서 뵙겠다”고 했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이근, 의용군 조직해 우크라이나로 떠났다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

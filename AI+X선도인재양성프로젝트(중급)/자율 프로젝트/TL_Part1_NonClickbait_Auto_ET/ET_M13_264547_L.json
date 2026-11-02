@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264547",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조엘, 코로나19 확진…3차 접종 후 돌파감염[공식]",
+		"newsSubTitle": "",
+		"newsContent": "모델 겸 방송인 조엘이 코로라19 확진 판정을 받았다.\n소속사 이미지나인컴즈는 22일 “조엘은 어제(21일) 오전 코로나19 확진자와 동선이 겹침에 따라 선제적으로 자가진단 키트로 검사 후 양성판정에 따라 PCR 검사를 진행했으며 21일 오후 최종 확진 판정을 받았다”고 밝혔다.\n소속사는 “조엘의 건강을 최우선으로 고려, 소속 아티스트가 조속히 회복하고 빠른 시일 내에 건강한 모습으로 돌아올 수 있도록 최선을 다해 지원할 계획이며 격리 및 방역 당국의 요청 및 지침에 성실히 협조하겠다”고 덧붙였다.\n소속사에 따르면 조엘은 코로나19 백신 3차 접종까지 완료했으며, 현재 증상은 경미한 상태다.\n또한 조엘과 접촉한 당사 스태프 및 관계자들도 혹시 모를 상황에 대비해 검사를 진행하고 체크하고 있다고 알렸다.\n이에 따라 조엘은 확진 판정과 자가격리로 금주 녹화가 진행 예정이었던 ‘코리안 카우보이스(KOREAN COWBOYS)’에 부득이하게 불참한다. ‘코리안 카우보이스’는 조엘과 뉴이스트 출신 곽아론이 함께 진행하는 케이팝&컬쳐 전문 영어 유튜브-팟캐스트로 조엘의 확진 판정에 따라 차회 방송 일정은 녹화 재개에 맞춰 추후 공지할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 겸 방송인 조엘이 코로라19 확진 판정을 받았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 이미지나인컴즈는 22일 “조엘은 어제(21일) 오전 코로나19 확진자와 동선이 겹침에 따라 선제적으로 자가진단 키트로 검사 후 양성판정에 따라 PCR 검사를 진행했으며 21일 오후 최종 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “조엘의 건강을 최우선으로 고려, 소속 아티스트가 조속히 회복하고 빠른 시일 내에 건강한 모습으로 돌아올 수 있도록 최선을 다해 지원할 계획이며 격리 및 방역 당국의 요청 및 지침에 성실히 협조하겠다”고 덧붙였다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사에 따르면 조엘은 코로나19 백신 3차 접종까지 완료했으며, 현재 증상은 경미한 상태다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 조엘과 접촉한 당사 스태프 및 관계자들도 혹시 모를 상황에 대비해 검사를 진행하고 체크하고 있다고 알렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 조엘은 확진 판정과 자가격리로 금주 녹화가 진행 예정이었던 ‘코리안 카우보이스(KOREAN COWBOYS)’에 부득이하게 불참한다. ‘코리안 카우보이스’는 조엘과 뉴이스트 출신 곽아론이 함께 진행하는 케이팝&컬쳐 전문 영어 유튜브-팟캐스트로 조엘의 확진 판정에 따라 차회 방송 일정은 녹화 재개에 맞춰 추후 공지할 예정이다.",
+				"sentenceSize": 187
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조엘, 코로나19 확진…3차 접종 후 돌파감염[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

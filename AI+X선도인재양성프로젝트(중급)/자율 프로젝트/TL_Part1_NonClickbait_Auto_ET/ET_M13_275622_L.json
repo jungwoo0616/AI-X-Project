@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275622",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "언론노조 TBS지부, 권성동에 “방송 탄압 중단”",
+		"newsSubTitle": "",
+		"newsContent": "전국언론노동조합 TBS지부는 ‘TBS가 편파적으로 운영했다’는 권성동 국민의힘 대표 직무대행 겸 원내대표 발언에 반발했다.\n언론노조 TBS지부는 15일 성명서를 통해 “TBS는 방송 진행자 한 명으로 운영되는 조직이 아니다”라며 “TBS 구성원들은 지역 공영방송의 의무와 책임을 지고 있다. 이를 폄훼하려 하지 말라”고 밝혔다.\n이어 “공영방송 탄압에 대한 역사를 반성하고 공영방송 탄압을 즉각 중단하라”고 촉구했다.\n권 대행은 이날 불교방송(BBS) 라디오 ‘전영신의 아침저널’과 한 인터뷰에서 “서울 교통방송(TBS)은 국민 혈세로 운영되는데 민주당에 완전히 경도된 인사가, 김어준씨 같은 분들은 얼마나 편파적으로 운영을 했나”라고 주장했다.\n권성동 대행은 전날에는 KBS 라디오 ‘최경영의 최강시사’에서 “KBS를 비롯해서 MBC 다 민주노총 산하 언론노조에 의해서, 언론노조가 다 좌지우지하는 방송 아닌가”라는 주장도 했다.\n언론노조는 이런 그의 발언을 허위사실 유포 행위로 규정하고 오는 18일 권 대행을 명예훼손 혐의로 경찰에 고소할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국언론노동조합 TBS지부는 ‘TBS가 편파적으로 운영했다’는 권성동 국민의힘 대표 직무대행 겸 원내대표 발언에 반발했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "언론노조 TBS지부는 15일 성명서를 통해 “TBS는 방송 진행자 한 명으로 운영되는 조직이 아니다”라며 “TBS 구성원들은 지역 공영방송의 의무와 책임을 지고 있다. 이를 폄훼하려 하지 말라”고 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “공영방송 탄압에 대한 역사를 반성하고 공영방송 탄압을 즉각 중단하라”고 촉구했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권 대행은 이날 불교방송(BBS) 라디오 ‘전영신의 아침저널’과 한 인터뷰에서 “서울 교통방송(TBS)은 국민 혈세로 운영되는데 민주당에 완전히 경도된 인사가, 김어준씨 같은 분들은 얼마나 편파적으로 운영을 했나”라고 주장했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "권성동 대행은 전날에는 KBS 라디오 ‘최경영의 최강시사’에서 “KBS를 비롯해서 MBC 다 민주노총 산하 언론노조에 의해서, 언론노조가 다 좌지우지하는 방송 아닌가”라는 주장도 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "언론노조는 이런 그의 발언을 허위사실 유포 행위로 규정하고 오는 18일 권 대행을 명예훼손 혐의로 경찰에 고소할 예정이다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "언론노조 TBS지부, 권성동에 “방송 탄압 중단”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

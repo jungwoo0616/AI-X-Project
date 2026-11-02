@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263359",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "기안84, 흑백 투표 인증샷으로 ‘센스왕’ 등극",
+		"newsSubTitle": "",
+		"newsContent": "작가 겸 방송인 기안84(김희민)이 색깔 빠진 대선 투표 인증샷으로 ‘센스왕’이란 별명을 얻었다.\n기안84는 9일 자신의 SNS 인스타그램에 “집앞이라 줄도 안서고 좋네”란 글과 함께 투표 인증샷을 공개했다.\n기안84는 불필요한 색깔 논쟁을 없애기 위해 흑백 사진을 업로드했다.\n누리꾼들은 “센스왕” “일부러 흑백” 등의 반응을 보였다.\n앞서 베리굿 출신 배우 조현은 9일 자신의 SNS에 푸른 계열의 모자를 쓰고 푸른 지갑을 든 채 투표 인증샷을 찍어 올렸다가 특정 정당을 지지한다는 논란에 휩싸였다.\n조현은 이후 “모자는 네이비 컬러, 지갑은 파랑이니 1번, 머리끈은 빨강이니 2번”이라면서 “억측은 나쁘다. 모든 사람을 존중해 달라”며 악플러를 향한 일침을 가했다.\n앞서 사전투표에서는 슈퍼주니어 김희철이 붉은 계열의 슬리퍼를 신고 투표장에 왔다가 입길에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "작가 겸 방송인 기안84(김희민)이 색깔 빠진 대선 투표 인증샷으로 ‘센스왕’이란 별명을 얻었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기안84는 9일 자신의 SNS 인스타그램에 “집앞이라 줄도 안서고 좋네”란 글과 함께 투표 인증샷을 공개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기안84는 불필요한 색깔 논쟁을 없애기 위해 흑백 사진을 업로드했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 “센스왕” “일부러 흑백” 등의 반응을 보였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 베리굿 출신 배우 조현은 9일 자신의 SNS에 푸른 계열의 모자를 쓰고 푸른 지갑을 든 채 투표 인증샷을 찍어 올렸다가 특정 정당을 지지한다는 논란에 휩싸였다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조현은 이후 “모자는 네이비 컬러, 지갑은 파랑이니 1번, 머리끈은 빨강이니 2번”이라면서 “억측은 나쁘다. 모든 사람을 존중해 달라”며 악플러를 향한 일침을 가했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 사전투표에서는 슈퍼주니어 김희철이 붉은 계열의 슬리퍼를 신고 투표장에 왔다가 입길에 올랐다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기안84, 흑백 투표 인증샷으로 ‘센스왕’ 등극",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

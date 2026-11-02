@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265871",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이브 ‘러브 다이브’ ‘솔직+당당’ 큐피드로 컴백",
+		"newsSubTitle": "",
+		"newsContent": "그룹 아이브(IVE)가 내일(5일) 새 싱글로 돌아온다.\n아이브는 지난 3일 사회관계망서비스(SNS)를 통해 두 번째 싱글 ‘LOVE DIVE’(러브 다이브)의 동명의 타이틀곡 ‘LOVE DIVE’ 뮤직비디오 티저를 공개했다.\n공개된 영상 속 아이브는 광활한 하늘과 저택을 배경으로 다채로운 큐피드의 모습을 그려냈다.\n또한 교복 스타일링으로 ‘하이틴’ 분위기를 자아내는가 하면, 화려한 액세서리로 포인트로 눈길을 끌었다.\n특히 웅장한 사운드에 ‘숨 참고 LOVE DIVE’라는 가사 일부가 공개되며 완곡에 대한 궁금증을 높였다. ‘LOVE DIVE’는 사랑할 용기가 있다면 언제든지 뛰어들어 보라는 당당하고 거침없는 메시지를 담은 곡으로 아이브의 다채로운 이미지가 표현돼 있다.\n지난 2021년 12월 첫 싱글 ‘ELEVEN’(일레븐)으로 데뷔를 마친 아이브가 ‘LOVE DIVE’로는 어떤 음악을 들려줄지 궁금증이 더해진다.\n한편 아이브의 두 번째 싱글 ‘LOVE DIVE’는 오는 5일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 아이브(IVE)가 내일(5일) 새 싱글로 돌아온다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이브는 지난 3일 사회관계망서비스(SNS)를 통해 두 번째 싱글 ‘LOVE DIVE’(러브 다이브)의 동명의 타이틀곡 ‘LOVE DIVE’ 뮤직비디오 티저를 공개했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속 아이브는 광활한 하늘과 저택을 배경으로 다채로운 큐피드의 모습을 그려냈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 교복 스타일링으로 ‘하이틴’ 분위기를 자아내는가 하면, 화려한 액세서리로 포인트로 눈길을 끌었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 웅장한 사운드에 ‘숨 참고 LOVE DIVE’라는 가사 일부가 공개되며 완곡에 대한 궁금증을 높였다. ‘LOVE DIVE’는 사랑할 용기가 있다면 언제든지 뛰어들어 보라는 당당하고 거침없는 메시지를 담은 곡으로 아이브의 다채로운 이미지가 표현돼 있다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2021년 12월 첫 싱글 ‘ELEVEN’(일레븐)으로 데뷔를 마친 아이브가 ‘LOVE DIVE’로는 어떤 음악을 들려줄지 궁금증이 더해진다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 아이브의 두 번째 싱글 ‘LOVE DIVE’는 오는 5일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이브 ‘러브 다이브’ ‘솔직+당당’ 큐피드로 컴백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170049",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘동상이몽2’ 이지훈♥아야네 맷돌까지 동원한 18인분 명절음식 만들기[채널예약]",
+    "newsSubTitle": "",
+    "newsContent": "SBS 예능 ‘동상이몽2-너는 내 운명’에서는 이지훈-아야네 부부가 18명 대가족을 위한 명절 음식 만들기에 도전한다.\n결혼 후 첫 명절을 맞은 이지훈-아야네 부부는 전통적인 맷돌 방식까지 고집하며 심상치 않은 스케일을 예고했다.\n일본인 새색시 아야네는 한국 명절 음식에 일본 음식을 결합한 요리도 선보여 눈길을 끌었다.\n이들 부부는 또 일본에 있는 아야네 가족과 랜선 상견례를 가졌다.\n18명 대대가족을 처음 본 아야네 가족은 충격과 놀라움을 감추지 못했다.\n곧이어 대가족에 대한 솔직한 마음을 고백해 모두를 놀라게 한다.\n이지훈 부모님은 “사위 마음에 들어요?”라며 돌직구 질문도 서슴지 않는 등 양가 사이에선 허심탄회한 대화가 오간다.\n방송은 27일 오후 11시 10분.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS 예능 ‘동상이몽2-너는 내 운명’에서는 이지훈-아야네 부부가 18명 대가족을 위한 명절 음식 만들기에 도전한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "결혼 후 첫 명절을 맞은 이지훈-아야네 부부는 전통적인 맷돌 방식까지 고집하며 심상치 않은 스케일을 예고했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일본인 새색시 아야네는 한국 명절 음식에 일본 음식을 결합한 요리도 선보여 눈길을 끌었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들 부부는 또 일본에 있는 아야네 가족과 랜선 상견례를 가졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "18명 대대가족을 처음 본 아야네 가족은 충격과 놀라움을 감추지 못했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "곧이어 대가족에 대한 솔직한 마음을 고백해 모두를 놀라게 한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이지훈 부모님은 “사위 마음에 들어요?”라며 돌직구 질문도 서슴지 않는 등 양가 사이에선 허심탄회한 대화가 오간다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "방송은 27일 오후 11시 10분.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘동상이몽2’ 일본인 섹시女 아야, 결혼 후 첫 명절! 충격과 놀라움!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

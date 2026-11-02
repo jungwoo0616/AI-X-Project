@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272455",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "손연재, 예비신부의 예쁨 한도초과",
+		"newsSubTitle": "",
+		"newsContent": "결혼을 앞둔 전 리듬체조 국가대표 손연재가 일상을 공개했다.\n손연재는 7일 자신의 사회관계망서비스(SNS)에 “요즘 날씨에 라운딩은 정말 행복해! 골프 꿈나무 탈출하는 그날까지!”라는 글과 함께 사진을 게재했다.\n공개된 사진에서 손연재는 골프장에서 검은색과 흰색을 매치한 골프룩으로 눈길을 끌었다.\n손연재 특유의 청순하고 귀여운 매력을 과시했다.\n손연재는 2014 인천 아시안게임 종합 금메달, 단체 은메달을 획득했고, 2016 리우데자네이루 올림픽에서 종합 4위에 올랐다.\n한편 손연재는 지난달 28일 9세 연상의 일반인과 결혼을 발표했다.\n지난 4월 열애를 인정한 데 이어 결혼을 발표하면서 많은 사람들의 축하를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "결혼을 앞둔 전 리듬체조 국가대표 손연재가 일상을 공개했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손연재는 7일 자신의 사회관계망서비스(SNS)에 “요즘 날씨에 라운딩은 정말 행복해! 골프 꿈나무 탈출하는 그날까지!”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에서 손연재는 골프장에서 검은색과 흰색을 매치한 골프룩으로 눈길을 끌었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손연재 특유의 청순하고 귀여운 매력을 과시했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손연재는 2014 인천 아시안게임 종합 금메달, 단체 은메달을 획득했고, 2016 리우데자네이루 올림픽에서 종합 4위에 올랐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 손연재는 지난달 28일 9세 연상의 일반인과 결혼을 발표했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 4월 열애를 인정한 데 이어 결혼을 발표하면서 많은 사람들의 축하를 받았다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손연재, 예비신부의 예쁨 한도초과",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

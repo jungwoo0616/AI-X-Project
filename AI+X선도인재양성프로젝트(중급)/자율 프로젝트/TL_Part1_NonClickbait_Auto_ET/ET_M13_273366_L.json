@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273366",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "롯데시네마, 영화 관람료 또 인상",
+		"newsSubTitle": "",
+		"newsContent": "멀티플렉스 영화관 롯데시네마가 관람료를 또 인상한다.\n지난해 7월 인상 이후 1년 만이자 코로나19 사태 후 세 번째다.\n롯데시네마는 다음 달 1일부터 영화 관람료를 1000원씩 인상한다고 15일 전했다.\n이에 따라 성인 2D 일반 영화 기준 주중 1만 4000원, 주말 1만 5000원으로 조정된다.\n특별관 상영도 일반관과 마찬가지로 1000원씩 오른다.\n군인·경찰·소방공무원 및 장애인·국가 유공자 우대 요금은 인상에서 제외가 됐다.\n롯데시네마를 비롯한 멀티플렉스 극장들은 코로나19 발생 후 극심한 불황을 겪으면서 2020년 10∼11월쯤 관람료를 인상했고, 6개월 후인 지난해 4∼6월께 한 차례 더 가격을 올렸다.\nCGV는 지난 4월 한 번 더 요금 인상을 단행했다.\nCGV에 이어 롯데시네마까지 코로나19 발생 후 세 차례 관람료 인상을 단행한 가운데 메가박스는 지난해 7월 이후 추가 인상을 아직 시행하지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "멀티플렉스 영화관 롯데시네마가 관람료를 또 인상한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 7월 인상 이후 1년 만이자 코로나19 사태 후 세 번째다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "롯데시네마는 다음 달 1일부터 영화 관람료를 1000원씩 인상한다고 15일 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 성인 2D 일반 영화 기준 주중 1만 4000원, 주말 1만 5000원으로 조정된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특별관 상영도 일반관과 마찬가지로 1000원씩 오른다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "군인·경찰·소방공무원 및 장애인·국가 유공자 우대 요금은 인상에서 제외가 됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "롯데시네마를 비롯한 멀티플렉스 극장들은 코로나19 발생 후 극심한 불황을 겪으면서 2020년 10∼11월쯤 관람료를 인상했고, 6개월 후인 지난해 4∼6월께 한 차례 더 가격을 올렸다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "CGV는 지난 4월 한 번 더 요금 인상을 단행했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "CGV에 이어 롯데시네마까지 코로나19 발생 후 세 차례 관람료 인상을 단행한 가운데 메가박스는 지난해 7월 이후 추가 인상을 아직 시행하지 않고 있다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "롯데시네마, 영화 관람료 또 인상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

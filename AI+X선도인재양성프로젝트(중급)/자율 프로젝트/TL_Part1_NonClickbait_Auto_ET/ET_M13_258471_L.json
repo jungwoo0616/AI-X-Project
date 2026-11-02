@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258471",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "조영남 “여자친구 몇 있어, 윤여정과 이혼은 후회”",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 화가 조영남이 이혼을 재차 언급했다.\nTBS에 따르면 조영남은 17일 방송된 TBS FM ‘최일구의 허리케인 라디오’에 출연해 특유의 입담을 건넸다.\n그는 “여자친구가 몇 있다”며 등장부터 너스레를 보였다.\n조영남은 신곡 ‘삼팔광땡’을 소개하며 “50주년이란 단어 때문에 작곡가와 무지하게 싸웠다. 마이클잭슨이나 앨비스 프레슬리 같은 가수들은 기념앨범 안 낸다. 우리나라만 꼭 이런 걸 낸다”고 말했다.\n또한 자신의 대표곡 ‘물레방아 인생’을 “화투 그리다 쫄딱 망한 인생”이라고 즉석 개사해 열창했다.\n그는 “대작 사건 때 환불 요청이 물밀듯이 몰려왔다. 주변 사람들이 아군과 적군으로 갈렸고 딸이 무척 의지가 된다는 걸 알았다”고 했다.\n그러면서 “늙으니까 남 눈치를 본다. 지금도 보고 있다. 딸이 방송에서 자기 얘기하는 걸 싫어한다”며 “그래서 눈치가 보인다. 하지만 이 것도 늙어가는 재미라고 생각한다”고 했다.\n조영남은 인생에서 가장 후회되는 것들 두고 “이혼한 것. 이혼하면서 애들 상처를 다독여주지 못한 점”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 화가 조영남이 이혼을 재차 언급했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "TBS에 따르면 조영남은 17일 방송된 TBS FM ‘최일구의 허리케인 라디오’에 출연해 특유의 입담을 건넸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 “여자친구가 몇 있다”며 등장부터 너스레를 보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조영남은 신곡 ‘삼팔광땡’을 소개하며 “50주년이란 단어 때문에 작곡가와 무지하게 싸웠다. 마이클잭슨이나 앨비스 프레슬리 같은 가수들은 기념앨범 안 낸다. 우리나라만 꼭 이런 걸 낸다”고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 자신의 대표곡 ‘물레방아 인생’을 “화투 그리다 쫄딱 망한 인생”이라고 즉석 개사해 열창했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “대작 사건 때 환불 요청이 물밀듯이 몰려왔다. 주변 사람들이 아군과 적군으로 갈렸고 딸이 무척 의지가 된다는 걸 알았다”고 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러면서 “늙으니까 남 눈치를 본다. 지금도 보고 있다. 딸이 방송에서 자기 얘기하는 걸 싫어한다”며 “그래서 눈치가 보인다. 하지만 이 것도 늙어가는 재미라고 생각한다”고 했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조영남은 인생에서 가장 후회되는 것들 두고 “이혼한 것. 이혼하면서 애들 상처를 다독여주지 못한 점”이라고 했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조영남 “여자친구 몇 있어, 윤여정과 이혼은 후회”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170660",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "암살, 전지현 임신 중 빛나는 셀카 공개 \\\"천만! 너무 행복해요. 사랑합니다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "임신으로 잠시 활동을 중단한 배우 전지현이 근황과 함께 감사 인사를 전해 화제다.\n영화 '암살'(최동훈 감독, 케이퍼필름 제작)의 배급을 맡은 쇼박스는 15일 오전 보도자료를 통해 \\\"'암살'이 오늘(15일) 오전 8시 누적 관객수 1009만4957명을 기록했다\\\"고 설명했다.\n홍보 활동을 끝낸 지난 7월 곧바로 임신 10주임을 밝히고 활동을 중단한 전지현은 현재 집에서 태교 중인 상태이다.\n그는 '암살'이 1000만 관객을 돌파하자 감사의 인사와 함께 근황이 담긴 사진을 게재했다.\n사진 속에는 전지현이 화장기 없는 청초한 민낯으로 미소를 지으며 직접 쓴 소감이 적힌 메시지를 들고 있다.\n그는 \\\"'암살' 천만! 너무 행복해요. 감사합니다. 너무 너무 사랑합니다. (이제 시작이야! 파이팅)\\\"이라는 자필 소감을 적어 마음을 표했다.\n온라인 중앙일보 암살 전지현 [사진 쇼박스미디어플렉스 제공]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "임신으로 잠시 활동을 중단한 배우 전지현이 근황과 함께 감사 인사를 전해 화제다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화 '암살'(최동훈 감독, 케이퍼필름 제작)의 배급을 맡은 쇼박스는 15일 오전 보도자료를 통해 \\\"'암살'이 오늘(15일) 오전 8시 누적 관객수 1009만4957명을 기록했다\\\"고 설명했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "홍보 활동을 끝낸 지난 7월 곧바로 임신 10주임을 밝히고 활동을 중단한 전지현은 현재 집에서 태교 중인 상태이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 '암살'이 1000만 관객을 돌파하자 감사의 인사와 함께 근황이 담긴 사진을 게재했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사진 속에는 전지현이 화장기 없는 청초한 민낯으로 미소를 지으며 직접 쓴 소감이 적힌 메시지를 들고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"'암살' 천만! 너무 행복해요. 감사합니다. 너무 너무 사랑합니다. (이제 시작이야! 파이팅)\\\"이라는 자필 소감을 적어 마음을 표했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 암살 전지현 [사진 쇼박스미디어플렉스 제공]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "암살 1000만 돌파 기념, 전지현 볼륨감있는 몸매 드러낸 사진 공개해... '충격'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

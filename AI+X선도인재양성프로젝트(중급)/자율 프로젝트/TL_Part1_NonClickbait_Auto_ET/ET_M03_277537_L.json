@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277537",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "딘딘에게 \\\"빅뱅 '스밍' 목록 알아요?\\\"라고 물었더니",
+		"newsSubTitle": "",
+		"newsContent": "예능에서 종횡무진 활약 중인 래퍼 딘딘(25)이 다시 한 번 빅뱅의 골수팬임을 증명했다.\n12일 국내 온라인 커뮤니티에 ‘빅뱅 팬이 보낸 메시지에 딘딘의 답장’이라는 게시글이 올라왔다.\n글쓴이는 빅뱅 팬으로 딘딘에게 “오빠, 빅뱅 '스밍' 목록 알아요?”라고 질문했다.\n이에 딘딘은 사진 한 장으로 답하며 글쓴이를 놀라게 했다.\n디시인사이드 ‘빅뱅 갤러리’에서 제작하고 배포한 ‘스밍 목록리스트’ 포스터를 보낸 것이다.\n포스터 제목은 ‘음원 총공(격)팀 권장 (1시간 스밍리스트) Ver.2'였다.\n딘딘이 은연 중에‘스밍 목록’을 확보하고 동참하고 있었던 걸 표현한 것이다.\n스밍이란‘스트리밍(Streaming)’의 줄임말로 아이돌 팬들이 자신이 좋아하는 아이돌의 음원점수를 올리기 위해서 계속해서 노래를 재생하는 것을 의미한다.\n딘딘은 각종 예능 프로그램에서 빅뱅의 열렬한 팬임을 자처한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "예능에서 종횡무진 활약 중인 래퍼 딘딘(25)이 다시 한 번 빅뱅의 골수팬임을 증명했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 국내 온라인 커뮤니티에 ‘빅뱅 팬이 보낸 메시지에 딘딘의 답장’이라는 게시글이 올라왔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 빅뱅 팬으로 딘딘에게 “오빠, 빅뱅 '스밍' 목록 알아요?”라고 질문했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 딘딘은 사진 한 장으로 답하며 글쓴이를 놀라게 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디시인사이드 ‘빅뱅 갤러리’에서 제작하고 배포한 ‘스밍 목록리스트’ 포스터를 보낸 것이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "포스터 제목은 ‘음원 총공(격)팀 권장 (1시간 스밍리스트) Ver.2'였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "딘딘이 은연 중에‘스밍 목록’을 확보하고 동참하고 있었던 걸 표현한 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스밍이란‘스트리밍(Streaming)’의 줄임말로 아이돌 팬들이 자신이 좋아하는 아이돌의 음원점수를 올리기 위해서 계속해서 노래를 재생하는 것을 의미한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "딘딘은 각종 예능 프로그램에서 빅뱅의 열렬한 팬임을 자처한 바 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "딘딘에게 \\\"빅뱅 '스밍' 목록 알아요?\\\"라고 물었더니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277096",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "할리우드 배우 마이클 섀넌, ‘데드풀2’ 케이블 캐스팅 유력",
+		"newsSubTitle": "제작사, 정식 계약 체결한 건 아냐..영화는 올해 여름부터 촬영 돌입",
+		"newsContent": "할리우드 배우 마이클 섀넌(43)이 새 영화 ‘데드풀2’의 '케이블' 역 후보로 물망에 올랐다.\n할리우드 리포터 등 복수 외신은 23일(현지 시간) ‘데드풀2’의 데이빗 레이치 감독이 섀넌을 케이블 역의 유력 후보로 고려 중이라고 보도했다.\n케이블은 텔레파시 능력과 초인적인 괴력을 지닌 캐릭터다.\n섀넌은 영화 ‘맨오브스틸’(2013년)의 악당 조드 장군을 연기했다.\n다만 영화 제작사인 20세기 폭스가 정식 계약 여부를 발표한 건 아니다.\n그동안 케이블 역으로는 ‘아바타’의 스티븐 랭, 007 시리즈의 피어스 브로스넌 등이 거론됐다. ‘데드풀2’는 올해 여름 캐나다 밴쿠버 일대에서 촬영에 들어간다.\n내년 개봉할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 마이클 섀넌(43)이 새 영화 ‘데드풀2’의 '케이블' 역 후보로 물망에 올랐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "할리우드 리포터 등 복수 외신은 23일(현지 시간) ‘데드풀2’의 데이빗 레이치 감독이 섀넌을 케이블 역의 유력 후보로 고려 중이라고 보도했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "케이블은 텔레파시 능력과 초인적인 괴력을 지닌 캐릭터다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "섀넌은 영화 ‘맨오브스틸’(2013년)의 악당 조드 장군을 연기했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 영화 제작사인 20세기 폭스가 정식 계약 여부를 발표한 건 아니다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그동안 케이블 역으로는 ‘아바타’의 스티븐 랭, 007 시리즈의 피어스 브로스넌 등이 거론됐다. ‘데드풀2’는 올해 여름 캐나다 밴쿠버 일대에서 촬영에 들어간다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "내년 개봉할 예정이다.",
+				"sentenceSize": 12
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "할리우드 배우 마이클 섀넌, ‘데드풀2’ 케이블 캐스팅 유력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

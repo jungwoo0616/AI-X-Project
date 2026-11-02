@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171187",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘놀면 뭐하니?’ 미주, 이탈리아 수도 퀴즈에 “아로마!”",
+    "newsSubTitle": "",
+    "newsContent": "‘놀면 뭐하니?’ 미주가 이탈리아 수도를 아로마라고 말했다.\n18일 오후 방송된 MBC ‘놀면 뭐하니?’ 미주가 수도 맞히기에 나섰다.\n이날 미주는 지난 방송 퀴즈 대결을 떠올리며 “저 진짜 괴외 선생님 구합니다. 공부 좀 하려고요. 교육자 집안 머리라 머리가 좀 돌아간다. 전 수도는 좀 안다”라고 자신 있게 말했다.\n이에 정준하는 네팔 수도를 물었고 신봉선은 ‘카트만두’의 만두 손짓을 해 보였다.\n그 모습에 미주는 “만두? 네팔만두?”라고 말해 예능왕 면모를 뽐냈다.\n캐나다 수도가 오타와라고 말한 미주에게 정준하는 이탈리아 수도를 물었고 유재석은 “R.O.M.A”라고 말했다.\n그 말을 들은 미주는 “아로마!”라고 말해 폭소케 했다.\n한편 ‘놀면 뭐하니?’는 매주 토요일 오후 6시 25분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘놀면 뭐하니?’ 미주가 이탈리아 수도를 아로마라고 말했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 오후 방송된 MBC ‘놀면 뭐하니?’ 미주가 수도 맞히기에 나섰다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 미주는 지난 방송 퀴즈 대결을 떠올리며 “저 진짜 괴외 선생님 구합니다. 공부 좀 하려고요. 교육자 집안 머리라 머리가 좀 돌아간다. 전 수도는 좀 안다”라고 자신 있게 말했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 정준하는 네팔 수도를 물었고 신봉선은 ‘카트만두’의 만두 손짓을 해 보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 모습에 미주는 “만두? 네팔만두?”라고 말해 예능왕 면모를 뽐냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "캐나다 수도가 오타와라고 말한 미주에게 정준하는 이탈리아 수도를 물었고 유재석은 “R.O.M.A”라고 말했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 말을 들은 미주는 “아로마!”라고 말해 폭소케 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 ‘놀면 뭐하니?’는 매주 토요일 오후 6시 25분에 방송된다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "놀면 뭐하니?, '이 질문'에 믿을 수 없는 대답한 미주",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

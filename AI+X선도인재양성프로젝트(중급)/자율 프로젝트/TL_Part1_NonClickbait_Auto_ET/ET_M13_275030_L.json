@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275030",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "나인우, 서현에 분노 폭발 (징크스의 연인)",
+		"newsSubTitle": "",
+		"newsContent": "나인우와 서현의 관계가 위기를 맞았다.\n지난 7일 KBS2 드라마 ‘징크스의 연인’에서 수광(나인우)은 슬비(서현)에게 분노를 토해냈다.\n이날 수광은 시장에서 사람들에게 점을 봐주는 슬비에게 “그날도 봤어야지! 어머니가 사고당하시기 전에! 미리 알려줬어야지! 그럼 막을 수 있었잖아! 그땐 왜 가만있었는데! 왜!”라며 그간 참아왔던 울분을 토해냈다.\n이후 슬비는 금화 그룹 호텔로 떠나고, 수광은 슬비와의 추억이 담긴 사진을 보며 가슴 아파한다.\n이날 나인우는 사랑과 원망의 감정이 뒤섞인 복잡한 감정을 표현해내는 섬세한 연기로 시청자들에게 먹먹함을 안겼다.\n앞으로 수광과 슬비와의 관계가 어떻게 나아갈지 궁금증이 커지는 가운데, KBS2 ‘징크스의 연인’은 매주 수요일과 목요일 오후 9시 50분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나인우와 서현의 관계가 위기를 맞았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 7일 KBS2 드라마 ‘징크스의 연인’에서 수광(나인우)은 슬비(서현)에게 분노를 토해냈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 수광은 시장에서 사람들에게 점을 봐주는 슬비에게 “그날도 봤어야지! 어머니가 사고당하시기 전에! 미리 알려줬어야지! 그럼 막을 수 있었잖아! 그땐 왜 가만있었는데! 왜!”라며 그간 참아왔던 울분을 토해냈다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 슬비는 금화 그룹 호텔로 떠나고, 수광은 슬비와의 추억이 담긴 사진을 보며 가슴 아파한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 나인우는 사랑과 원망의 감정이 뒤섞인 복잡한 감정을 표현해내는 섬세한 연기로 시청자들에게 먹먹함을 안겼다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞으로 수광과 슬비와의 관계가 어떻게 나아갈지 궁금증이 커지는 가운데, KBS2 ‘징크스의 연인’은 매주 수요일과 목요일 오후 9시 50분 방송된다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나인우, 서현에 분노 폭발 (징크스의 연인)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267293",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "유튜브 등 ‘의료법 위반’ 광고 286건 적발",
+		"newsSubTitle": "",
+		"newsContent": "정부가 유튜브, 인스타그램, 블로그, 카페 등 온라인에 게재된 인플루언서의 치료 경험담 등 다수의 불법 의료광고를 적발했다.\n보건복지부는 지난 2∼3월 비의료인의 불법 온라인 의료광고 단속 결과, 대상 광고 415건 중 위법성이 있거나 위법 정황이 높은 것으로 확인된 286건에 대해 관할 보건소에 행정조치를 요청했다고 18일 밝혔다.\n의료법에 따르면 의료광고 주체는 의료인·의료기관장·의료기관 개설자로 한정된다.\n이는 비의료인이 전문 지식을 기초로 한 의료 행위에 대해 광고할 때 발생할 수 있는 보건·위생상 위험을 방지하기 위한 것이다.\n적발된 286건의 사례 중 비의료인이 의료행위에 대해 광고하거나 비의료인을 통해 치료경험담 광고가 이뤄진 경우가 245건(85.7%)으로 대다수를 차지했다.\n나머지 41건(14.3%)은 의료인이 게재한 의료 광고 중 거짓·과장된 내용이 포함됐거나 다른 의료기관과 비교·가격할인 등을 표시한 경우였다.\n매체별로는 블로그 239건(83.6%), 유튜브 16건(5.7%), 인스타그램 13건(4.5%), 카페 9건(3.1%), 의료광고 플랫폼 9건(3.1%) 순으로 위반 건수가 많았다.\n구체적으로 ‘협찬’이나 ‘비용지원’ 등 문구를 포함한 치료경험담이나 치료경험담 내에 의료기관의 위치·연락처·진료비 등을 상세히 안내해 내원을 유도하는 경우, 치료 후기를 통해 비밀 댓글이나 메일 등으로 정보를 공유해 불법 소개·알선한 정황이 있는 경우가 있었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 유튜브, 인스타그램, 블로그, 카페 등 온라인에 게재된 인플루언서의 치료 경험담 등 다수의 불법 의료광고를 적발했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보건복지부는 지난 2∼3월 비의료인의 불법 온라인 의료광고 단속 결과, 대상 광고 415건 중 위법성이 있거나 위법 정황이 높은 것으로 확인된 286건에 대해 관할 보건소에 행정조치를 요청했다고 18일 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의료법에 따르면 의료광고 주체는 의료인·의료기관장·의료기관 개설자로 한정된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 비의료인이 전문 지식을 기초로 한 의료 행위에 대해 광고할 때 발생할 수 있는 보건·위생상 위험을 방지하기 위한 것이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "적발된 286건의 사례 중 비의료인이 의료행위에 대해 광고하거나 비의료인을 통해 치료경험담 광고가 이뤄진 경우가 245건(85.7%)으로 대다수를 차지했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "나머지 41건(14.3%)은 의료인이 게재한 의료 광고 중 거짓·과장된 내용이 포함됐거나 다른 의료기관과 비교·가격할인 등을 표시한 경우였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "매체별로는 블로그 239건(83.6%), 유튜브 16건(5.7%), 인스타그램 13건(4.5%), 카페 9건(3.1%), 의료광고 플랫폼 9건(3.1%) 순으로 위반 건수가 많았다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "구체적으로 ‘협찬’이나 ‘비용지원’ 등 문구를 포함한 치료경험담이나 치료경험담 내에 의료기관의 위치·연락처·진료비 등을 상세히 안내해 내원을 유도하는 경우, 치료 후기를 통해 비밀 댓글이나 메일 등으로 정보를 공유해 불법 소개·알선한 정황이 있는 경우가 있었다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜브 등 ‘의료법 위반’ 광고 286건 적발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

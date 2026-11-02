@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277720",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'영국남자' 채널서 삼겹살을 처음 먹은 영국인 반응",
+		"newsSubTitle": "",
+		"newsContent": "삼겹살을 처음 먹어본 영국인들의 반응을 담은 영상이 화제다.\n지난달 30일 유튜버‘영국남자‘는’삼겹살을 처음 먹어본 영국인들의 반응‘이라는 제목으로 한 편의 영상을 공개했다.\n이 영상에는 영국남자가 삼겹살을 친구, 가족들과 함께 구워서 먹는 장면이 담겨있다.\n삼겹살을 처음 본 영국인들은 “생선같이 생겼다” “두꺼운 베이컨 같다”는 반응을 보였다.\n삼겹살을 굽기 시작하자 그들은 입을 모아 “냄새가 좋다”고 말했고 몇몇은 삼겹살을 굽는 소리가 좋다고 언급했다.\n이후 삼겹살을 쌈장과 함께 먹어본 영국인들은 맛있다며 놀라움을 감추지 못했다.\n그들은 \\\"한국사람들은 천재같다\\\"고 언급했다.\n특히 쌈장에 대해서 “너무 밋밋하지도 않고 너무 맵지도 않다. 완벽하다”고 말했다.\n그들은 김치를 꺼내 삼겹살과 함께 구워 먹는 모습을 보이기도 했다.\n영국남자는 “영국에서는 일반적으로 돼지고기의 지방을 떼고 먹거나 약간 밋밋하게 다른 야채와 함께 먹곤 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼겹살을 처음 먹어본 영국인들의 반응을 담은 영상이 화제다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 30일 유튜버‘영국남자‘는’삼겹살을 처음 먹어본 영국인들의 반응‘이라는 제목으로 한 편의 영상을 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 영상에는 영국남자가 삼겹살을 친구, 가족들과 함께 구워서 먹는 장면이 담겨있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼겹살을 처음 본 영국인들은 “생선같이 생겼다” “두꺼운 베이컨 같다”는 반응을 보였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼겹살을 굽기 시작하자 그들은 입을 모아 “냄새가 좋다”고 말했고 몇몇은 삼겹살을 굽는 소리가 좋다고 언급했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 삼겹살을 쌈장과 함께 먹어본 영국인들은 맛있다며 놀라움을 감추지 못했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그들은 \\\"한국사람들은 천재같다\\\"고 언급했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 쌈장에 대해서 “너무 밋밋하지도 않고 너무 맵지도 않다. 완벽하다”고 말했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그들은 김치를 꺼내 삼겹살과 함께 구워 먹는 모습을 보이기도 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "영국남자는 “영국에서는 일반적으로 돼지고기의 지방을 떼고 먹거나 약간 밋밋하게 다른 야채와 함께 먹곤 한다”고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'영국남자' 채널서 삼겹살을 처음 먹은 영국인 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

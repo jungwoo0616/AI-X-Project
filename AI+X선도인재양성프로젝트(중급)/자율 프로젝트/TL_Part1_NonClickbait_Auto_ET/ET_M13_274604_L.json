@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274604",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "하니, 방송 도중 눈물 흘린 사연은?(메리 퀴어)",
+		"newsSubTitle": "",
+		"newsContent": "‘메리퀴어’가 방송 현장을 공개했다.\n4일 웨이브측은 ‘메리퀴어’의 3MC인 신동엽-홍석천-하니의 녹화 현장을 공개했다.\n공개된 사진 속 3MC는 스튜디오에서 첫 인사를 나누는 모습은 물론, 다양성(性)커플들의 일상을 관찰하며 몰입하고 있다.\n이번 스틸에서 3MC는 VCR에 몰입하며 진지한 표정을 짓는다.\n이들의 표정을 통해 ‘다양성(性) 커플’ 들의 일상과 로맨스에 궁금증이 커진다.\n그런가 하면, 하니는 녹화현장에서 휴지로 눈물을 닦아내는 모습도 보인다.\n하니를 눈물짓게 만든 ‘다양성 커플’들의 이야기는 오는 8일 ‘메리 퀴어’ 첫 회에서 확인할 수 있다.\n웨이브 측은 “3MC가 첫 촬영부터 커플들의 이야기에 완벽 몰입했다”며 “세 쌍의 커플들의 이야기를 편견없는 시선으로 지켜봐주시면 감사하겠다”고 밝혔다. ‘메리 퀴어’는 오늘 8일 (금) 오전 11시 1~2회를 공개한다.\n이후 매주 금요일마다 2편씩 총 5주에 걸쳐 이용자들을 찾아갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘메리퀴어’가 방송 현장을 공개했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 웨이브측은 ‘메리퀴어’의 3MC인 신동엽-홍석천-하니의 녹화 현장을 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 3MC는 스튜디오에서 첫 인사를 나누는 모습은 물론, 다양성(性)커플들의 일상을 관찰하며 몰입하고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 스틸에서 3MC는 VCR에 몰입하며 진지한 표정을 짓는다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들의 표정을 통해 ‘다양성(性) 커플’ 들의 일상과 로맨스에 궁금증이 커진다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런가 하면, 하니는 녹화현장에서 휴지로 눈물을 닦아내는 모습도 보인다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하니를 눈물짓게 만든 ‘다양성 커플’들의 이야기는 오는 8일 ‘메리 퀴어’ 첫 회에서 확인할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "웨이브 측은 “3MC가 첫 촬영부터 커플들의 이야기에 완벽 몰입했다”며 “세 쌍의 커플들의 이야기를 편견없는 시선으로 지켜봐주시면 감사하겠다”고 밝혔다. ‘메리 퀴어’는 오늘 8일 (금) 오전 11시 1~2회를 공개한다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 매주 금요일마다 2편씩 총 5주에 걸쳐 이용자들을 찾아갈 예정이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하니, 방송 도중 눈물 흘린 사연은?(메리 퀴어)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

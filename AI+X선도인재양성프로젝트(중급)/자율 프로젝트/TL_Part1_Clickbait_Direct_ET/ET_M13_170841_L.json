@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170841",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "LGU+, 지상파3사 도쿄 패럴림픽 중계방송 지원",
+    "newsSubTitle": "",
+    "newsContent": "LG유플러스는 올림픽 방송 전용회선을 활용해 국내 지상파 방송사의 도쿄 패럴림픽 중계방송을 지원한다고 9일 밝혔다.\nLG유플러스는 도쿄 올림픽도 올림픽 방송 전용회선을 토대로 송출했다.\nLG유플러스는 해저케이블과 국내 전송망을 통해 일본 현지 경기장에서 국제방송센터로 전송된 방송신호를 국내 지상파 방송사로 보냈다.\n한국과 일본 간 해저케이블 4개 루트를 확보해 안정적인 통신망도 갖췄다고 회사 측은 전했다.\nUHD 방송신호를 전송하기 위해 UHD 방송장비와 모니터링 시스템을 갖췄고, ‘OneView시스템’을 활용해 일본-안양방송센터-지상파방송3사 전 구간의 국제·국내 회선을 감시했다.\nLG유플러스는 오는 24일부터 9월 5일까지 열리는 패럴림픽 경기 중계방송도 안정적으로 지원할 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "LG유플러스는 올림픽 방송 전용회선을 활용해 국내 지상파 방송사의 도쿄 패럴림픽 중계방송을 지원한다고 9일 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "LG유플러스는 도쿄 올림픽도 올림픽 방송 전용회선을 토대로 송출했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "LG유플러스는 해저케이블과 국내 전송망을 통해 일본 현지 경기장에서 국제방송센터로 전송된 방송신호를 국내 지상파 방송사로 보냈다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한국과 일본 간 해저케이블 4개 루트를 확보해 안정적인 통신망도 갖췄다고 회사 측은 전했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "UHD 방송신호를 전송하기 위해 UHD 방송장비와 모니터링 시스템을 갖췄고, ‘OneView시스템’을 활용해 일본-안양방송센터-지상파방송3사 전 구간의 국제·국내 회선을 감시했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "LG유플러스는 오는 24일부터 9월 5일까지 열리는 패럴림픽 경기 중계방송도 안정적으로 지원할 계획이다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "도쿄 패럴림픽 중계방송 지원할 이 통신사는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284170",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "문재인·강동원, 각각 JTBC뉴스룸 출연…손석희와 대담",
+		"newsSubTitle": "",
+		"newsContent": "4일 JTBC 뉴스룸에 문재인 새정치연합 대표와 배우 강동원이 출연해 연달아 손석희 앵커와 대담을 나눈다.\n이날 정부의 국정교과서 확정고시와 동시에 대국민담화를 통해 ‘국민불복종 운동’을 호소한 문재인 대표는 야당은 과연 언제까지 장외투쟁을 이어갈 것인지 등에 대해 손석희 앵커와 대담한다.\n야당한 국정교과서 확정고시에 반발해 국회 일정을 전면 보이콧하고 사흘째 농성중이다.\n한편 배우 강동원은 영화 '검은 사제들'(감독 장재현/제작 영화사집) 개봉을 앞두고 '뉴스룸'을 통해 영화와 관련한 다채로운 이야기를 전한다.\n강동원은 영화 촬영 중 함께 한 김윤석과의 호흡, 캐릭터 소개, 촬영 비화 등을 공개한다.\n강동원의 TV 출연은 11년만으로 알려졌다.\n뉴스 프로그램 생방송은 첫 출연이라고 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "4일 JTBC 뉴스룸에 문재인 새정치연합 대표와 배우 강동원이 출연해 연달아 손석희 앵커와 대담을 나눈다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 정부의 국정교과서 확정고시와 동시에 대국민담화를 통해 ‘국민불복종 운동’을 호소한 문재인 대표는 야당은 과연 언제까지 장외투쟁을 이어갈 것인지 등에 대해 손석희 앵커와 대담한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "야당한 국정교과서 확정고시에 반발해 국회 일정을 전면 보이콧하고 사흘째 농성중이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 배우 강동원은 영화 '검은 사제들'(감독 장재현/제작 영화사집) 개봉을 앞두고 '뉴스룸'을 통해 영화와 관련한 다채로운 이야기를 전한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강동원은 영화 촬영 중 함께 한 김윤석과의 호흡, 캐릭터 소개, 촬영 비화 등을 공개한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강동원의 TV 출연은 11년만으로 알려졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "뉴스 프로그램 생방송은 첫 출연이라고 한다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "문재인·강동원, 각각 JTBC뉴스룸 출연…손석희와 대담",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

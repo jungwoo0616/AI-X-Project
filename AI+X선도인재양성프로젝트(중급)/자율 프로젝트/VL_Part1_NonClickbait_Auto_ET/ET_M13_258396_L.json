@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258396",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "빅플래닛메이드 “김사무엘과 전속 계약 논의 중, 확정 내용 없다”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 김사무엘이 빅플래닛메이드와 전속 계약을 논의 중인 것으로 알려졌다.\n빅플래닛메이드 측은 17일 스포츠경향에 “김사무엘과의 계약을 긍정적으로 검토 중이지만, 아직 결정된 바는 없다”고 밝혔다.\n김사무엘은 지난 2015년 2인조 그룹 원펀치로 데뷔했으며, 멤버 원의 탈퇴 이후 솔로 아티스트로 활동했다.\n지난 2017년에는 Mnet ‘프로듀스101’ 시즌2에 출연했으며, XtvN ‘복수노트2’ 등 각종 방송과 라디오에서 활약을 이어왔다.\n그러나 김사무엘은 브레이브엔터테인먼트와 정산, 공연 체결 등의 과정에서 갈등을 빚었고, 지난 2019년 5월 민사 소송을 제기한 뒤 1심에서 승소했다.\n이후 브레이브 엔터테인먼트는 지난 13일 공식 입장문을 통해 “김사무엘 측과의 긴 대화 끝에 상호 간의 오해를 종식시키고 원만하게 합의하기로 결정했다”며 갈등을 해결했다고 전했다.\n솔로 아티스트이자 만능 엔터테이너로 활약 중인 김사무엘이 앞으로 어떤 행보를 이어갈지 이목이 쏠린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김사무엘이 빅플래닛메이드와 전속 계약을 논의 중인 것으로 알려졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅플래닛메이드 측은 17일 스포츠경향에 “김사무엘과의 계약을 긍정적으로 검토 중이지만, 아직 결정된 바는 없다”고 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김사무엘은 지난 2015년 2인조 그룹 원펀치로 데뷔했으며, 멤버 원의 탈퇴 이후 솔로 아티스트로 활동했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2017년에는 Mnet ‘프로듀스101’ 시즌2에 출연했으며, XtvN ‘복수노트2’ 등 각종 방송과 라디오에서 활약을 이어왔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 김사무엘은 브레이브엔터테인먼트와 정산, 공연 체결 등의 과정에서 갈등을 빚었고, 지난 2019년 5월 민사 소송을 제기한 뒤 1심에서 승소했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 브레이브 엔터테인먼트는 지난 13일 공식 입장문을 통해 “김사무엘 측과의 긴 대화 끝에 상호 간의 오해를 종식시키고 원만하게 합의하기로 결정했다”며 갈등을 해결했다고 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "솔로 아티스트이자 만능 엔터테이너로 활약 중인 김사무엘이 앞으로 어떤 행보를 이어갈지 이목이 쏠린다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅플래닛메이드 “김사무엘과 전속 계약 논의 중, 확정 내용 없다”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276986",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "양세형, \\\"군대서 김지석 뺨 많이 때렸다\\\" 발언 뒤늦게 구설수",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 양세형의 과거 발언이 뜬금없이 구설에 올랐다.\n지난 2015년 tvN 프로그램 '문제적남자'에서 배우 김지석과 함께 출연했을 당시의 발언이다.\n이날 방송에서 양세형은 \\\"김지석이 이등병일 때 자신이 최고 고참이었다\\\"며 \\\"그때 뺨 많이 때렸는데 지금은 많이 컸다\\\"고 말했다.\n또, '물 가져오라', '연기해 보라' 등의 말을 하며 고참 노릇을 했던 일화를 공개했다.\n당시는 별 문제 없이 넘어갔던 방송분이지만 현재 온라인 상에서는 해당 발언을 놓고 설왕설래가 이어지고 있다.\n\\\"군대에서 벌어지는 인격 무시 행위 때문에 고통받는 사람들도 많은 만큼 개그 소재로 쓰여서는 안될 발언\\\"이라는 것이다.\n대부분의 네티즌들은 이 발언을 과거 발언으로 인식하지 않고 \\\"잘될 때 신중해야 한다\\\"며 조언을 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 양세형의 과거 발언이 뜬금없이 구설에 올랐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2015년 tvN 프로그램 '문제적남자'에서 배우 김지석과 함께 출연했을 당시의 발언이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 양세형은 \\\"김지석이 이등병일 때 자신이 최고 고참이었다\\\"며 \\\"그때 뺨 많이 때렸는데 지금은 많이 컸다\\\"고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또, '물 가져오라', '연기해 보라' 등의 말을 하며 고참 노릇을 했던 일화를 공개했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시는 별 문제 없이 넘어갔던 방송분이지만 현재 온라인 상에서는 해당 발언을 놓고 설왕설래가 이어지고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "\\\"군대에서 벌어지는 인격 무시 행위 때문에 고통받는 사람들도 많은 만큼 개그 소재로 쓰여서는 안될 발언\\\"이라는 것이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대부분의 네티즌들은 이 발언을 과거 발언으로 인식하지 않고 \\\"잘될 때 신중해야 한다\\\"며 조언을 이어가고 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양세형, \\\"군대서 김지석 뺨 많이 때렸다\\\" 발언 뒤늦게 구설수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

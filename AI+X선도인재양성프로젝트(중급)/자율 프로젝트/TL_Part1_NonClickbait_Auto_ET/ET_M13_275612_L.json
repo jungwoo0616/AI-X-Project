@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275612",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "가수 이우, 신곡 ‘아무말도 하지마’로 컴백",
+		"newsSubTitle": "",
+		"newsContent": "가수 이우가 컴백 신호탄을 울렸다.\n15일 소속사 케이에이치 컴퍼니는 공식 SNS 채널을 통해 두 장의 사진을 공개하면서 감성 발라더 이우가 오는 30일 오후 6시 신곡을 발매하면서 컴백한다는 소식을 전했다.\n사진 속에서 이우는 브라운 톤의 헤어와 셔츠 스타일링으로 세련된 감각을 자랑하는가 하면, 담담한 눈빛으로 카메라를 응시해 차분한 무드를 풍겨 선보일 활동에 대한 궁금증을 유발했다.\n이어 “2022.07.30 18:00 KST, ‘아무말도 하지마’로 11개월만의 컴백!, 팬 여러분의 많은 관심 부탁드립니다 :D”라는 멘트를 통해 신곡 명과 컴백 일을 공개해 이우가 선보일 새로운 음악에 대한 기대감을 한껏 치솟게 만들었다.\n이우는 앞서 자신의 SNS 채널을 통해 컴백을 암시하는 듯한 여러 장의 사진을 공개해 관심을 모은 가운데 최근 ‘버블’ 합류 소식까지 더하며 팬들과 보다 적극적인 소통을 이어나갈 것을 알렸다. ‘이별 노래 장인’으로 주목 받아온 이우는 명곡 ‘공일공 (010)’, ‘내 안부’, ‘이별행동’등으로 독보적인 감성과 애절 보이스로 리스너들의 눈길을 끌어온 만큼, 다시 한 번 감성을 자극할 발라드를 선보일 것으로 이목을 집중시키고 있다.\n이우의 신곡 ‘아무 말도 하지마’ 음원은 음악 저작권 투자 플랫폼 뮤직카우와 함께한다.\n이우는 오는 30일 오후 6시 각종 음원사이트를 통해 신곡 ‘아무 말도 하지마’로 대중들의 곁으로 돌아온다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 이우가 컴백 신호탄을 울렸다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 소속사 케이에이치 컴퍼니는 공식 SNS 채널을 통해 두 장의 사진을 공개하면서 감성 발라더 이우가 오는 30일 오후 6시 신곡을 발매하면서 컴백한다는 소식을 전했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에서 이우는 브라운 톤의 헤어와 셔츠 스타일링으로 세련된 감각을 자랑하는가 하면, 담담한 눈빛으로 카메라를 응시해 차분한 무드를 풍겨 선보일 활동에 대한 궁금증을 유발했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “2022.07.30 18:00 KST, ‘아무말도 하지마’로 11개월만의 컴백!, 팬 여러분의 많은 관심 부탁드립니다 :D”라는 멘트를 통해 신곡 명과 컴백 일을 공개해 이우가 선보일 새로운 음악에 대한 기대감을 한껏 치솟게 만들었다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이우는 앞서 자신의 SNS 채널을 통해 컴백을 암시하는 듯한 여러 장의 사진을 공개해 관심을 모은 가운데 최근 ‘버블’ 합류 소식까지 더하며 팬들과 보다 적극적인 소통을 이어나갈 것을 알렸다. ‘이별 노래 장인’으로 주목 받아온 이우는 명곡 ‘공일공 (010)’, ‘내 안부’, ‘이별행동’등으로 독보적인 감성과 애절 보이스로 리스너들의 눈길을 끌어온 만큼, 다시 한 번 감성을 자극할 발라드를 선보일 것으로 이목을 집중시키고 있다.",
+				"sentenceSize": 242
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이우의 신곡 ‘아무 말도 하지마’ 음원은 음악 저작권 투자 플랫폼 뮤직카우와 함께한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이우는 오는 30일 오후 6시 각종 음원사이트를 통해 신곡 ‘아무 말도 하지마’로 대중들의 곁으로 돌아온다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가수 이우, 신곡 ‘아무말도 하지마’로 컴백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

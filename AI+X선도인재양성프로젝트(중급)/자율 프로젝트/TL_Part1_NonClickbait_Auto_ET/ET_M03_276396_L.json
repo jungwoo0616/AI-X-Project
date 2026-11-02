@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276396",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "정신과 의사가 본 최준희 양의 심각한 상태",
+		"newsSubTitle": "",
+		"newsContent": "\\\"외할머니에게 가정 폭력을 당했다\\\"고 SNS에 폭로한 고(故) 최진실 씨의 딸 준희 양이 자해를 하는 등 심각한 상태인 것으로 전해졌다.\n8일 SBS '본격연예 한밤'에 출연한 정신건강의학과 전문의는 준희 양의 상태에 대해 \\\"단지 사춘기 증상이라고 말하기에는 굉장히 위험하다\\\"며 \\\"우리가 도와줘야 하는 부분이 있다\\\"고 설명했다.\n그러면서 준희 양의 자살 및 자해 시도를 가볍게 봐선 안된다고 강조했다.\n앞서 준희 양은 SNS에 외할머니의 폭언과 폭행에 대해 고백하면서 우울한 심경을 토로, 죽음을 암시하는 글을 올려 세간의 주목을 받았다.\n준희 양은 \\\"전 진실만을 말한다. 제 몸의 흉터들과 상처들이 증거\\\"라며 \\\"훈육과 폭력은 다르다. 할머니를 공격하려는 것이 아니다. 지금까지의 제 인생을 폭로하는 것이다. 진실은 침몰하지 않는다\\\" 등의 말을 했다.\n현재 해당 글들은 삭제된 상태다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"외할머니에게 가정 폭력을 당했다\\\"고 SNS에 폭로한 고(故) 최진실 씨의 딸 준희 양이 자해를 하는 등 심각한 상태인 것으로 전해졌다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 SBS '본격연예 한밤'에 출연한 정신건강의학과 전문의는 준희 양의 상태에 대해 \\\"단지 사춘기 증상이라고 말하기에는 굉장히 위험하다\\\"며 \\\"우리가 도와줘야 하는 부분이 있다\\\"고 설명했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 준희 양의 자살 및 자해 시도를 가볍게 봐선 안된다고 강조했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 준희 양은 SNS에 외할머니의 폭언과 폭행에 대해 고백하면서 우울한 심경을 토로, 죽음을 암시하는 글을 올려 세간의 주목을 받았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "준희 양은 \\\"전 진실만을 말한다. 제 몸의 흉터들과 상처들이 증거\\\"라며 \\\"훈육과 폭력은 다르다. 할머니를 공격하려는 것이 아니다. 지금까지의 제 인생을 폭로하는 것이다. 진실은 침몰하지 않는다\\\" 등의 말을 했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 해당 글들은 삭제된 상태다.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정신과 의사가 본 최준희 양의 심각한 상태",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

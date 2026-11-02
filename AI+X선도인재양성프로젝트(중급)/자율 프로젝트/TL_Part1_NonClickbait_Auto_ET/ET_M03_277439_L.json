@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277439",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M] 메릴 스트립, 역대 20번째 아카데미 후보 지명...최고 신기록",
+		"newsSubTitle": "",
+		"newsContent": "메릴 스트립이 역대 20번째로 아카데미 후보에 지명됐다.\n24일(현지시간) 아카데미 위원회가 발표한 제89회 아카데미 시상식 후보작에 따르면, 메릴 스트립은 '플로렌스'(2016, 스티븐 프리머즈 감독)로 여우주연상 후보에 올랐다.\n엠마스톤(라라랜드), 이자벨 위페르(엘르), 루스 네가(러빙), 나탈리 포트만(재키) 등 쟁쟁한 배우들이 여우주연상 후보에 함께 올랐다.\n메릴 스트립은 후보지명 소식이 알려진 직후 SNS에 춤추는 '움짤'을 공개하기도 했다.\n메릴 스트립의 20번째 후보 지명은 역대 최고 기록이며, 그는 '소피의 선택'(1982, 앨런 J. 파큘라 감독)과 '철의 여인'(2012, 필리다 로이드 감독)으로 여우주연상을 받은 바 있다.\n골든 글로브 시상식에서는 29번 노미네이트되고 8번 수상했다.\n메릴 스트립은 1월 8일에 열렸던 제74회 골든 글로브 시상식에서 트럼프 대통령에 대한 비판이 담긴 연설을 하며 화제가 되기도 했다.\n골든 글로브에서 공로상을 수상한 메릴 스트립은 연설에서 \\\"부서진 마음을 추스르고, 그것을 예술로 만드세요\\\"라는 위로까지 남기며 기립 박수를 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "메릴 스트립이 역대 20번째로 아카데미 후보에 지명됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일(현지시간) 아카데미 위원회가 발표한 제89회 아카데미 시상식 후보작에 따르면, 메릴 스트립은 '플로렌스'(2016, 스티븐 프리머즈 감독)로 여우주연상 후보에 올랐다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엠마스톤(라라랜드), 이자벨 위페르(엘르), 루스 네가(러빙), 나탈리 포트만(재키) 등 쟁쟁한 배우들이 여우주연상 후보에 함께 올랐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "메릴 스트립은 후보지명 소식이 알려진 직후 SNS에 춤추는 '움짤'을 공개하기도 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "메릴 스트립의 20번째 후보 지명은 역대 최고 기록이며, 그는 '소피의 선택'(1982, 앨런 J. 파큘라 감독)과 '철의 여인'(2012, 필리다 로이드 감독)으로 여우주연상을 받은 바 있다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "골든 글로브 시상식에서는 29번 노미네이트되고 8번 수상했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "메릴 스트립은 1월 8일에 열렸던 제74회 골든 글로브 시상식에서 트럼프 대통령에 대한 비판이 담긴 연설을 하며 화제가 되기도 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "골든 글로브에서 공로상을 수상한 메릴 스트립은 연설에서 \\\"부서진 마음을 추스르고, 그것을 예술로 만드세요\\\"라는 위로까지 남기며 기립 박수를 받았다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] 메릴 스트립, 역대 20번째 아카데미 후보 지명...최고 신기록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

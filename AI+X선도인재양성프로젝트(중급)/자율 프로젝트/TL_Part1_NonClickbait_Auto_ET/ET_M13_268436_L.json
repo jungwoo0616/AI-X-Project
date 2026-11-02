@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268436",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘5월 컴백’ 잔나비, 감성 장인의 귀환",
+		"newsSubTitle": "",
+		"newsContent": "그룹사운드 잔나비가 신보 티징 콘텐츠를 통해 편안한 분위기를 예고했다.\n잔나비 최정훈은 지난 27일 사회관계망서비스(SNS)를 통해 새 스포일러가 담긴 티징 콘텐츠를 게재했다.\n이날 차례로 공개된 세 장의 이미지에는 ‘집’을 연상케 하는 요소들이 담겨 있다.\n일러스트와 펜 드로잉이 ‘집에서 오후에 주로 창밖을 보면서 만든 앨범’이라는 손글씨와 어우러져 따스한 분위기를 자아냈다.\n여기에 필름 카메라 감성으로 담아낸 잠옷 차림의 최정훈의 모습이 그려지며 편안한 무드를 이끌었다.\n잔나비의 신보는 정규 3집 ‘환상의 나라’ 이후 약 10개월 만에 발매하는 것으로 가장 나다워질 수 있는 집이란 공간에서 창밖을 보며 얻은 영감에서 탄생했다.\n앞서 ‘주저하는 연인들을 위해’ ‘가을밤에 든 생각’ ‘외딴섬 로맨틱’ 등 명곡을 선보인 잔나비가 어떤 음악으로 돌아올지 기대감이 커진다.\n한편 잔나비의 새 앨범은 오는 5월 10일 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹사운드 잔나비가 신보 티징 콘텐츠를 통해 편안한 분위기를 예고했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잔나비 최정훈은 지난 27일 사회관계망서비스(SNS)를 통해 새 스포일러가 담긴 티징 콘텐츠를 게재했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 차례로 공개된 세 장의 이미지에는 ‘집’을 연상케 하는 요소들이 담겨 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일러스트와 펜 드로잉이 ‘집에서 오후에 주로 창밖을 보면서 만든 앨범’이라는 손글씨와 어우러져 따스한 분위기를 자아냈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 필름 카메라 감성으로 담아낸 잠옷 차림의 최정훈의 모습이 그려지며 편안한 무드를 이끌었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "잔나비의 신보는 정규 3집 ‘환상의 나라’ 이후 약 10개월 만에 발매하는 것으로 가장 나다워질 수 있는 집이란 공간에서 창밖을 보며 얻은 영감에서 탄생했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 ‘주저하는 연인들을 위해’ ‘가을밤에 든 생각’ ‘외딴섬 로맨틱’ 등 명곡을 선보인 잔나비가 어떤 음악으로 돌아올지 기대감이 커진다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 잔나비의 새 앨범은 오는 5월 10일 발매된다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘5월 컴백’ 잔나비, 감성 장인의 귀환",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

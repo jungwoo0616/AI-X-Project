@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265095",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "200만원 빌려달라는 요구에 김시덕 “불쾌하다” 분노",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 김시덕이 황당한 요구에 불쾌감을 드러냈다.\n김시덕은 26일 인스타그램에 한 누리꾼으로부터 받은 메시지를 공개했다.\n이 누리꾼은 자신을 초등학교 아이를 키우는 엄마라고 밝힌 뒤 “당혹스럽고 불쾌하실 것 알지만 200만원만 빌려달라”며 “저는 사기꾼이 아니고 조금씩 갚아아겠다”고 했다.\n그는 연이어 “제발 도와달라”며 금전 대여를 지속해서 강조해 요구했다.\n이와 같은 요구에 김시덕은 “불쾌한 걸 안다면 (이런 메시지) 보내지를 말아달라”며 누리꾼의 요구에 불쾌한 반응을 표현했다.\n연예인을 향한 불특정 누리꾼들의 금전 요구는 지속되고 있다.\n가수 겸 뮤지컬 배우 아이비는 4000만원을 빌려달라는 누리꾼의 요구에 “4000만원이 누구 애 이름이냐”라며 감정을 감추지 않았다.\n가수 에일리 또한 “왜 제게 돈 빌려 달라 하시는 분들은 항상 금액 왜 3000만원이냐”라며 황당하다는 입장을 남기기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 김시덕이 황당한 요구에 불쾌감을 드러냈다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김시덕은 26일 인스타그램에 한 누리꾼으로부터 받은 메시지를 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 누리꾼은 자신을 초등학교 아이를 키우는 엄마라고 밝힌 뒤 “당혹스럽고 불쾌하실 것 알지만 200만원만 빌려달라”며 “저는 사기꾼이 아니고 조금씩 갚아아겠다”고 했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 연이어 “제발 도와달라”며 금전 대여를 지속해서 강조해 요구했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 같은 요구에 김시덕은 “불쾌한 걸 안다면 (이런 메시지) 보내지를 말아달라”며 누리꾼의 요구에 불쾌한 반응을 표현했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연예인을 향한 불특정 누리꾼들의 금전 요구는 지속되고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가수 겸 뮤지컬 배우 아이비는 4000만원을 빌려달라는 누리꾼의 요구에 “4000만원이 누구 애 이름이냐”라며 감정을 감추지 않았다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가수 에일리 또한 “왜 제게 돈 빌려 달라 하시는 분들은 항상 금액 왜 3000만원이냐”라며 황당하다는 입장을 남기기도 했다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "200만원 빌려달라는 요구에 김시덕 “불쾌하다” 분노",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

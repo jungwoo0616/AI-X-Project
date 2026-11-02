@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260811",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크, 브랜드평판 1위 굳건",
+		"newsSubTitle": "",
+		"newsContent": "그룹 블랙핑크가 이번 달 걸그룹 브랜드 평판 1위를 차지했다.\n한국기업평판연구소는 걸그룹 브랜드평판 빅데이터 분석 결과 지난 1월 블랙핑크가 1위를 기록했다고 13일 밝혔다.\n걸그룹 브랜드 빅데이터 46,057,960개와 비교하면 8.13% 증가했다.\n블랙핑크 뒤를 이어 에스파, 레드벨벳, 트와이스, 에이핑크, 소녀시대, 오마이걸, 케플러, 러블리즈, 아이브, 에이프릴, 프로미스나인, 우주소녀, 마마무, 브레이브걸스, 스테이씨, 모모랜드, 이달의소녀, 걸스데이, 위클리, EXID, 시그니처, 다이아, ITZY, 라붐, 드림캐처, 레이디스코드, 에프엑스, CLC, 우아 순으로 나타났다.\n1위를 기록한 블래핑크 브랜드 참여지수 189,176 미디어지수 853,842 소통지수 1,510,909 커뮤니티지수 2,360,016이 되면서 브랜드평판지수 4,913,943으로 분석됐다.\n지난 1월 브랜드평판지수 5,619,627과 비교해보면 12.56% 하락했다.\n에스파의 브랜드평판 지수는 15.04% 하락했으나 2위를 기록했고, 레드벨벳은 3.81% 상승했다.\n트와이스는 15.89% 지수가 하락했으나 4위를 지켰고, 에이핑크는 44.05% 급상승한 수치를 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 블랙핑크가 이번 달 걸그룹 브랜드 평판 1위를 차지했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국기업평판연구소는 걸그룹 브랜드평판 빅데이터 분석 결과 지난 1월 블랙핑크가 1위를 기록했다고 13일 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "걸그룹 브랜드 빅데이터 46,057,960개와 비교하면 8.13% 증가했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "블랙핑크 뒤를 이어 에스파, 레드벨벳, 트와이스, 에이핑크, 소녀시대, 오마이걸, 케플러, 러블리즈, 아이브, 에이프릴, 프로미스나인, 우주소녀, 마마무, 브레이브걸스, 스테이씨, 모모랜드, 이달의소녀, 걸스데이, 위클리, EXID, 시그니처, 다이아, ITZY, 라붐, 드림캐처, 레이디스코드, 에프엑스, CLC, 우아 순으로 나타났다.",
+				"sentenceSize": 189
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1위를 기록한 블래핑크 브랜드 참여지수 189,176 미디어지수 853,842 소통지수 1,510,909 커뮤니티지수 2,360,016이 되면서 브랜드평판지수 4,913,943으로 분석됐다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 1월 브랜드평판지수 5,619,627과 비교해보면 12.56% 하락했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "에스파의 브랜드평판 지수는 15.04% 하락했으나 2위를 기록했고, 레드벨벳은 3.81% 상승했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "트와이스는 15.89% 지수가 하락했으나 4위를 지켰고, 에이핑크는 44.05% 급상승한 수치를 보였다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크, 브랜드평판 1위 굳건",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

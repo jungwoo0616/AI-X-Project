@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276512",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "무한도전 시청자게시판 \\\"자막 피드백해달라\\\" 글 달리는 이유",
+		"newsSubTitle": "",
+		"newsContent": "MBC 예능 프로그램 '무한도전'이 자막으로 구설에 올랐다.\n23일 무한도전 시청자 의견 게시판에는 \\\"무한도전 자막 피드백을 부탁드린다\\\"는 시청자의 글이 이어지고 있다.\n이들은 전날 방송된 무한도전에 등장한 자막과 관련해 무한도전 제작진의 입장을 요구하고 있다.\n이날 방송에는 무한도전 멤버들이 퀴즈를 푸는 모습이 그려졌는데, 문제 중 '팬아저(팬 아닌데 저장)' 관련 예시로 엑소 카이가 등장했다.\n공개된 사진에는 한 음악 무대에서 특수 효과로 물에 흠뻑 젖은 카이의 모습과 함께 '씻김굿'이라는 자막이 적혀있다.\n방송 직후 이 같은 자막을 사용한 것은 부적절하다는 지적이 제기됐다. '카이 씻김굿'은 방송에 앞서 이미 인터넷상에서 눈길을 끌었던 자료다.\n그러나 이에 대해 제작진이 확인 없이 방송에 그대로 내보낸 것은 적절하지 못하다는 주장이다.\n씻김굿은 죽은 이의 영혼을 저승으로 인도하기 위해 행해지는 의례 행사를 뜻한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC 예능 프로그램 '무한도전'이 자막으로 구설에 올랐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 무한도전 시청자 의견 게시판에는 \\\"무한도전 자막 피드백을 부탁드린다\\\"는 시청자의 글이 이어지고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 전날 방송된 무한도전에 등장한 자막과 관련해 무한도전 제작진의 입장을 요구하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 방송에는 무한도전 멤버들이 퀴즈를 푸는 모습이 그려졌는데, 문제 중 '팬아저(팬 아닌데 저장)' 관련 예시로 엑소 카이가 등장했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 사진에는 한 음악 무대에서 특수 효과로 물에 흠뻑 젖은 카이의 모습과 함께 '씻김굿'이라는 자막이 적혀있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송 직후 이 같은 자막을 사용한 것은 부적절하다는 지적이 제기됐다. '카이 씻김굿'은 방송에 앞서 이미 인터넷상에서 눈길을 끌었던 자료다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 이에 대해 제작진이 확인 없이 방송에 그대로 내보낸 것은 적절하지 못하다는 주장이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "씻김굿은 죽은 이의 영혼을 저승으로 인도하기 위해 행해지는 의례 행사를 뜻한다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "무한도전 시청자게시판 \\\"자막 피드백해달라\\\" 글 달리는 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

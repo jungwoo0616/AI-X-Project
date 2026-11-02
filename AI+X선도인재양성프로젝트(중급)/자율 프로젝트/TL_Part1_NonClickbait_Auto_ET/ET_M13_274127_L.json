@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274127",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "있지, 다섯 공주의 화려한 ‘체크메이트’",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 있지(ITZY)가 왕관을 포인트로 꾸며 우아함 속 눈부신 비주얼을 선보였다.\n27일 오전 소속사 JYP엔터테인먼트는 공식 사회관계망서비스(SNS)를 통해 있지의 새 앨범 ‘체크메이트(CHECKMATE)’의 두 번째 콘셉트 포토를 공개했다.\n있지는 금빛 왕관을 쓴 채 각자의 시그니처 포즈를 지으며 여왕미를 뽐내며 콘셉트 포토를 채웠갔다.\n또한 개별 포토에서도 각자의 개성을 한껏 드러내며 컴백에 대한 기대감을 높였다.\n있지는 컴백과 함께 8월부터는 첫 월드투어에 돌입한다. 8월 6~7일 양일 간 서울 올림픽공원 SK올림픽핸드볼경기장에서 투어의 포문을 열고, 10월 26일 로스앤젤레스, 29일 피닉스, 11월 1일 댈러스, 3일 휴스턴, 5일 애틀랜타, 7일 시카고, 10일 보스턴, 13일 뉴욕까지 미국 8개 도시에서 투어를 펼치며 다양한 글로벌 팬들을 맞이할 예정이다.\n한편 있지의 신곡은 오는 7월 15일 오후 1시에 미국 시장에 맞춰 정식 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 있지(ITZY)가 왕관을 포인트로 꾸며 우아함 속 눈부신 비주얼을 선보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 오전 소속사 JYP엔터테인먼트는 공식 사회관계망서비스(SNS)를 통해 있지의 새 앨범 ‘체크메이트(CHECKMATE)’의 두 번째 콘셉트 포토를 공개했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "있지는 금빛 왕관을 쓴 채 각자의 시그니처 포즈를 지으며 여왕미를 뽐내며 콘셉트 포토를 채웠갔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 개별 포토에서도 각자의 개성을 한껏 드러내며 컴백에 대한 기대감을 높였다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "있지는 컴백과 함께 8월부터는 첫 월드투어에 돌입한다. 8월 6~7일 양일 간 서울 올림픽공원 SK올림픽핸드볼경기장에서 투어의 포문을 열고, 10월 26일 로스앤젤레스, 29일 피닉스, 11월 1일 댈러스, 3일 휴스턴, 5일 애틀랜타, 7일 시카고, 10일 보스턴, 13일 뉴욕까지 미국 8개 도시에서 투어를 펼치며 다양한 글로벌 팬들을 맞이할 예정이다.",
+				"sentenceSize": 199
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 있지의 신곡은 오는 7월 15일 오후 1시에 미국 시장에 맞춰 정식 발매된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "있지, 다섯 공주의 화려한 ‘체크메이트’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

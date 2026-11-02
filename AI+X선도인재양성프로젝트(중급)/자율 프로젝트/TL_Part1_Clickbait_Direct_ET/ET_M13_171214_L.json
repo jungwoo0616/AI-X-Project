@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171214",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "비경쟁 독립영화 축제 ‘인디포럼 2021’ 30일 개막",
+    "newsSubTitle": "",
+    "newsContent": "비경쟁 독립영화제 ‘인디포럼 2021’이 오는 30일 메가박스 성수에서 개최된다.\n독립영화 작가들 모임인 인디포럼작가회의가 주최하는 영화제로 올해 25회째를 맞았다. ‘너머의 장소성’을 조망하자는 취지로 ‘다른 곶’이라는 슬로건을 내세운 올해 영화제는 배우 공민정과 류경수의 사회로 열리는 개막식을 시작으로 4일까지 닷새 동안 진행된다.\n개막작은 커밍아웃한 동성애자 가족 인터뷰를 담아낸 ‘들랑날랑 혼삿길’(홍민키)과 스마트폰 세로 영상의 일상적 경험을 풀어낸 ‘Future of the Futures 1’(박유정)이다.\n엄선한 ‘신작전’을 비롯해 코로나 시대의 영화적 대응을 포착한 ‘인디나우’, 과거와 현재의 대화를 시도하는 ‘인디레트로’, 해외의 논쟁적 독립영화를 조망하는 ‘인디포리너’, 동시대 영화적 형식의 확장을 모색하는 ‘인디익스팬디드’와 함께 올해는 다양한 유형의 독립 애니메이션을 소개하는 ‘애니특별전’이 마련됐다.\n게릴라 강연과 팟캐스트, 기획 포럼 등 다양한 부대행사도 열린다.\n프로그램과 일정은 인디포럼 영화제 홈페이지와 트위터, 페이스북, 인스타그램 등 공식 SNS에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비경쟁 독립영화제 ‘인디포럼 2021’이 오는 30일 메가박스 성수에서 개최된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "독립영화 작가들 모임인 인디포럼작가회의가 주최하는 영화제로 올해 25회째를 맞았다. ‘너머의 장소성’을 조망하자는 취지로 ‘다른 곶’이라는 슬로건을 내세운 올해 영화제는 배우 공민정과 류경수의 사회로 열리는 개막식을 시작으로 4일까지 닷새 동안 진행된다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개막작은 커밍아웃한 동성애자 가족 인터뷰를 담아낸 ‘들랑날랑 혼삿길’(홍민키)과 스마트폰 세로 영상의 일상적 경험을 풀어낸 ‘Future of the Futures 1’(박유정)이다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "엄선한 ‘신작전’을 비롯해 코로나 시대의 영화적 대응을 포착한 ‘인디나우’, 과거와 현재의 대화를 시도하는 ‘인디레트로’, 해외의 논쟁적 독립영화를 조망하는 ‘인디포리너’, 동시대 영화적 형식의 확장을 모색하는 ‘인디익스팬디드’와 함께 올해는 다양한 유형의 독립 애니메이션을 소개하는 ‘애니특별전’이 마련됐다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "게릴라 강연과 팟캐스트, 기획 포럼 등 다양한 부대행사도 열린다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "프로그램과 일정은 인디포럼 영화제 홈페이지와 트위터, 페이스북, 인스타그램 등 공식 SNS에서 확인할 수 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "`인디포럼 2021`에서 즐길 수 있는 '이것'은 어떤 게 있을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

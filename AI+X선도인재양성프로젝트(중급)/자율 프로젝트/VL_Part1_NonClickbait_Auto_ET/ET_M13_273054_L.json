@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273054",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "다크비(DKB), 美 뉴욕도 취했다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 다크비(DKB)가 뉴욕 공연에서 첫 단독 투어의 포문을 열었다.\n다크비는 지난 10일(현지 시간) 뉴욕 브루클린 모나크(BROOKLYN MONARCH)에서 ‘DKB 2022 MEET&LIVE U.S. TOUR’의 첫 공연의 막을 올리고 현지 팬들과의 만남을 성료 했다.\n데뷔곡 ‘미안해 엄마(Sorry Mama)’로 오프닝을 연 다크비는 ‘줄꺼야(ALL IN)’, ‘오늘도 여전히(Still)’, ‘난 일해(Work Hard)’, ‘안취해(Sober)’등의 타이틀곡 무대를 통해 파워풀하고 화려한 퍼포먼스로 환호성을 자아냈다.\n뿐만 아니라 우리나라 전통적 감성으로 재탄생한 ‘왜 만나(Rollercoaster)[국악 Remix]’ 버전을 선보이며 현장을 더욱 뜨겁게 달궜다.\n또한 스페셜 퍼포먼스, 유닛 무대로 다채로운 볼거리를 선사함은 물론 팬 사인회, 하이 터치 등 팬들과 가까이서 소통할 수 있는 이벤트를 통해 추억을 선사하고 현지 팬들과 한층 가까워졌다.\n첫 해외 투어의 포문을 뜨겁게 연 다크비(DKB)는 시카고, 애틀랜타, 댈러스, 덴버, LA 공연을 이어가며 미국 팬들을 다크비의 매력으로 흠뻑 취하게 할 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 다크비(DKB)가 뉴욕 공연에서 첫 단독 투어의 포문을 열었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다크비는 지난 10일(현지 시간) 뉴욕 브루클린 모나크(BROOKLYN MONARCH)에서 ‘DKB 2022 MEET&LIVE U.S. TOUR’의 첫 공연의 막을 올리고 현지 팬들과의 만남을 성료 했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "데뷔곡 ‘미안해 엄마(Sorry Mama)’로 오프닝을 연 다크비는 ‘줄꺼야(ALL IN)’, ‘오늘도 여전히(Still)’, ‘난 일해(Work Hard)’, ‘안취해(Sober)’등의 타이틀곡 무대를 통해 파워풀하고 화려한 퍼포먼스로 환호성을 자아냈다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뿐만 아니라 우리나라 전통적 감성으로 재탄생한 ‘왜 만나(Rollercoaster)[국악 Remix]’ 버전을 선보이며 현장을 더욱 뜨겁게 달궜다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 스페셜 퍼포먼스, 유닛 무대로 다채로운 볼거리를 선사함은 물론 팬 사인회, 하이 터치 등 팬들과 가까이서 소통할 수 있는 이벤트를 통해 추억을 선사하고 현지 팬들과 한층 가까워졌다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "첫 해외 투어의 포문을 뜨겁게 연 다크비(DKB)는 시카고, 애틀랜타, 댈러스, 덴버, LA 공연을 이어가며 미국 팬들을 다크비의 매력으로 흠뻑 취하게 할 전망이다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다크비(DKB), 美 뉴욕도 취했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

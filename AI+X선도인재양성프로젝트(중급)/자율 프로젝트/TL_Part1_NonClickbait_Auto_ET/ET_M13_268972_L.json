@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268972",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "임영웅 ‘IM HERO’ 선주문 100만장 넘었다",
+		"newsSubTitle": "",
+		"newsContent": "임영웅의 첫 번째 정규 앨범 ‘IM HERO’(아임 히어로)의 선주문량이 100만 장을 돌파하며 2000년대 이후 솔로 음반 역사상 최다를 기록했다.\n임영웅의 앨범 유통사인 드림어스컴퍼니는 지난달 1일부터 판매하기 시작한 임영웅의 정규 1집 앨범 ‘IM HERO’의 국내외 선주문량을 집계한 결과, 5월 2일 기준으로 총 100만 장을 돌파했다고 발표했다.\n특히, 예약 판매를 시작한 첫날에는 앨범을 구매하고자 하는 팬들이 다수 몰려 판매 페이지의 서버가 폭주하는 등 임영웅의 인기가 증명되기도 했다.\n임영웅의 첫 정규앨범 ‘IM HERO’는 가수 이적이 작사 작곡한 타이틀 곡 ‘다시 만날 수 있을까’를 포함, 유명 뮤지션들이 대거 참여해 다양한 장르의 12곡으로 구성됐다.\n특히 이번 앨범은 포토북(Photo Book), 기프트(Gift), 디지팩(Digipack), 주얼 케이스(Jewel Case)까지 총 네 가지 버전으로 구성돼 팬들의 뜨거운 호응을 얻고 있다.\n한편, 임영웅은 6일부터 전국투어 콘서트 ‘IM HERO’를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "임영웅의 첫 번째 정규 앨범 ‘IM HERO’(아임 히어로)의 선주문량이 100만 장을 돌파하며 2000년대 이후 솔로 음반 역사상 최다를 기록했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임영웅의 앨범 유통사인 드림어스컴퍼니는 지난달 1일부터 판매하기 시작한 임영웅의 정규 1집 앨범 ‘IM HERO’의 국내외 선주문량을 집계한 결과, 5월 2일 기준으로 총 100만 장을 돌파했다고 발표했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히, 예약 판매를 시작한 첫날에는 앨범을 구매하고자 하는 팬들이 다수 몰려 판매 페이지의 서버가 폭주하는 등 임영웅의 인기가 증명되기도 했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임영웅의 첫 정규앨범 ‘IM HERO’는 가수 이적이 작사 작곡한 타이틀 곡 ‘다시 만날 수 있을까’를 포함, 유명 뮤지션들이 대거 참여해 다양한 장르의 12곡으로 구성됐다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이번 앨범은 포토북(Photo Book), 기프트(Gift), 디지팩(Digipack), 주얼 케이스(Jewel Case)까지 총 네 가지 버전으로 구성돼 팬들의 뜨거운 호응을 얻고 있다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 임영웅은 6일부터 전국투어 콘서트 ‘IM HERO’를 개최한다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영웅 ‘IM HERO’ 선주문 100만장 넘었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

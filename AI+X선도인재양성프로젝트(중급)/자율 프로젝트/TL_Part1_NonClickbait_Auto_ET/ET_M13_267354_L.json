@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267354",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "곽진언, 5월 21~22일 소극장 콘서트 포문[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 곽진언이 소극장 콘서트로 팬들을 만난다.\n곽진언은 오는 5월 21일~22일 양일간에 걸쳐 벨로주 홍대에서 ‘곽진언 소극장 콘서트 Op.1’이라는 타이틀로 총 2회 공연을 갖는다.\n곽진언은 지난 6일 발매한 새 미니앨범 ‘정릉’의 신곡 무대를 처음 선보일 예정이어서 팬들의 기대감이 높아지고 있다.\n곽진언은 이번 공연을 시작으로 향후 소극장 콘서트 시리즈를 선보일 예정이다.\n팬들과 거리를 좁히고 숨소리까지 교감해 무대와 객석의 거리를 좁힌다는 각오다.\n곽진언 특유의 음색과 다양한 레파토리로 팬들과 음악적 소통을 할 예정이다.\n곽진언의 새 미니앨범 ‘정릉’은 곽진언만의 감성을 오롯이 담아낸 앨범으로, 타이틀 곡인 ‘그대의 것’은 기타 연주와 스트링 사운드가 곽진언이 지닌 독보적인 서정성을 섬세하게 풀어내 리스너들에게 호평을 받고 있다.\n한편, 곽진언 소극장 콘서트 Op.1은 오는 21일 오후 4시에 멜론티켓을 통해서 티켓을 오픈 할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 곽진언이 소극장 콘서트로 팬들을 만난다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "곽진언은 오는 5월 21일~22일 양일간에 걸쳐 벨로주 홍대에서 ‘곽진언 소극장 콘서트 Op.1’이라는 타이틀로 총 2회 공연을 갖는다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "곽진언은 지난 6일 발매한 새 미니앨범 ‘정릉’의 신곡 무대를 처음 선보일 예정이어서 팬들의 기대감이 높아지고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "곽진언은 이번 공연을 시작으로 향후 소극장 콘서트 시리즈를 선보일 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬들과 거리를 좁히고 숨소리까지 교감해 무대와 객석의 거리를 좁힌다는 각오다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "곽진언 특유의 음색과 다양한 레파토리로 팬들과 음악적 소통을 할 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "곽진언의 새 미니앨범 ‘정릉’은 곽진언만의 감성을 오롯이 담아낸 앨범으로, 타이틀 곡인 ‘그대의 것’은 기타 연주와 스트링 사운드가 곽진언이 지닌 독보적인 서정성을 섬세하게 풀어내 리스너들에게 호평을 받고 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 곽진언 소극장 콘서트 Op.1은 오는 21일 오후 4시에 멜론티켓을 통해서 티켓을 오픈 할 예정이다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "곽진언, 5월 21~22일 소극장 콘서트 포문[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

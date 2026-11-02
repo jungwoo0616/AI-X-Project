@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282381",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'우리 우정은 변치 않길' 친구가 된 호랑이와 염소",
+		"newsSubTitle": "",
+		"newsContent": "'호랑이와 염소가 친구다?' 거짓말 같은 이야기가 실제로 발생했다.\n지난 23일 러시아의 프리모어스키 사파리공원에서 '특별한' 염소와 호랑이의 첫 만남은 시작됐다.\n염소 '티무르'는 시베리아 호랑이 '아무르'에게 제공된 특식이었다.\n이전에도 호랑이 '아무르'는 여러 마리의 염소 특식을 즐겨왔다.\n하지만 티무르는 용감한 특식이었다.\n호랑이가 공격할 때마다 뿔을 들이밀며 보복을 했고, 호랑이는 더 이상 염소를 공격하지 않았다.\n이후, 염소와 호랑이는 같은 우리에서 지내게 되었고 현재 친구처럼 함께하고 있다.\n한편 NBC뉴스는 '티무르'라는 이름이 소련 시대에 인기를 끌었던 용기 있는 소년 캐릭터의 이름과 같다고 전했다.\n온라인 중앙일보 [영상=유튜브 safaripark25.TV계정]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'호랑이와 염소가 친구다?' 거짓말 같은 이야기가 실제로 발생했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 23일 러시아의 프리모어스키 사파리공원에서 '특별한' 염소와 호랑이의 첫 만남은 시작됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "염소 '티무르'는 시베리아 호랑이 '아무르'에게 제공된 특식이었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이전에도 호랑이 '아무르'는 여러 마리의 염소 특식을 즐겨왔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 티무르는 용감한 특식이었다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "호랑이가 공격할 때마다 뿔을 들이밀며 보복을 했고, 호랑이는 더 이상 염소를 공격하지 않았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후, 염소와 호랑이는 같은 우리에서 지내게 되었고 현재 친구처럼 함께하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 NBC뉴스는 '티무르'라는 이름이 소련 시대에 인기를 끌었던 용기 있는 소년 캐릭터의 이름과 같다고 전했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "온라인 중앙일보 [영상=유튜브 safaripark25.TV계정]",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'우리 우정은 변치 않길' 친구가 된 호랑이와 염소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263287",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "모델 헤네시안, 서정적 무드 담은 ‘City View’으로 정식 가수 데뷔",
+		"newsSubTitle": "",
+		"newsContent": "모델 겸 가수 헤네시안이 데뷔 앨범을 발매했다.\n8일 정오 각종 온라인 음원사이트를 통해 발매한 헤네시안의 데뷔곡 ‘City View’는 묵직한 베이스와 슬로 템포의 힙합 비트가 귀를 사로잡는 R&B 장르의 곡이다.\n떠난 연인을 그리워하는 남자의 외로움을 도시의 공허함에 빗댄 가사가 헤네시안의 서정적 음색으로 표현됐다.\n이 곡은 음악과 예술을 넘나드는 팝 아티스트 미미가 작사를 맡고 가수 아우라(AOORA)와 DJ 겸 프로듀서 프라이데이(FRIDAY)가 작곡에 참여해 헤네시안의 서정적인 매력을 풍부하게 이끌어냈고 신예 디렉터 카일(Kyle)이 티저 이미지와 뮤직비디오 작업을 맡아 세련된 연출력을 선보였다.\n헤네시안은 태국, 미얀마, 싱가포르 등 아시아 국가들과 서울 패션위크를 오가며 전 세계적으로 주목을 받고 있는 모델로 SPA 브랜드 에잇세컨즈의 모델로 활동하며 주목을 받은 바 있다.\n아우라의 ‘블랙 슈가’,’82 Call me’등의 뮤직비디오에도 참여해 예술적 감각을 인정받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 겸 가수 헤네시안이 데뷔 앨범을 발매했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 정오 각종 온라인 음원사이트를 통해 발매한 헤네시안의 데뷔곡 ‘City View’는 묵직한 베이스와 슬로 템포의 힙합 비트가 귀를 사로잡는 R&B 장르의 곡이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "떠난 연인을 그리워하는 남자의 외로움을 도시의 공허함에 빗댄 가사가 헤네시안의 서정적 음색으로 표현됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 곡은 음악과 예술을 넘나드는 팝 아티스트 미미가 작사를 맡고 가수 아우라(AOORA)와 DJ 겸 프로듀서 프라이데이(FRIDAY)가 작곡에 참여해 헤네시안의 서정적인 매력을 풍부하게 이끌어냈고 신예 디렉터 카일(Kyle)이 티저 이미지와 뮤직비디오 작업을 맡아 세련된 연출력을 선보였다.",
+				"sentenceSize": 162
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "헤네시안은 태국, 미얀마, 싱가포르 등 아시아 국가들과 서울 패션위크를 오가며 전 세계적으로 주목을 받고 있는 모델로 SPA 브랜드 에잇세컨즈의 모델로 활동하며 주목을 받은 바 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아우라의 ‘블랙 슈가’,’82 Call me’등의 뮤직비디오에도 참여해 예술적 감각을 인정받았다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모델 헤네시안, 서정적 무드 담은 ‘City View’으로 정식 가수 데뷔",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169951",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "박진영, 스트레이키즈 극찬 “이 친구들은 ‘찐’”",
+    "newsSubTitle": "",
+    "newsContent": "JYP 엔터테인먼트 수장 박진영이 소속 가수 스트레이키즈를 극찬했다.\n박진영은 23일 인스타그램에 스트레이키즈 정규 2집 앨범 ‘노이지’(NOEASY) 앨범 커버 사진을 올리며 “회사에서 스태프들이 이 친구들이 작사·작곡해 온 곡을 들으면 ‘그냥 이걸로 가자’로 한다”고 적었다.\n스트레이즈 멤버들이 지닌 음악적 재능을 칭찬한 글이다.\n이어 “이 아이들의 창작 능력은 ‘찐’”이라며 “곡의 주제, 제목, 작사, 작곡, 편곡 모두 이 친구들의 창의력에서 나오는 게 대부분”이라고 했다.\n그러면서 박진영은 “이들의 미래는 불안하지 않다. Do your thing guys!”이라고 응원했다.\n스트레이키즈는 지난 23일 ‘노이지’를 발매하며 11개월 만에 복귀했다.\n타이틀 곡 ‘소리꾼’은 웅장한 멜로디에 국악의 다양한 소리를 더한 곡으로 ‘누가 뭐라고 하든지 기죽지 않고 줏대를 지키겠다’는 팀의 신념을 곡에 담았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JYP 엔터테인먼트 수장 박진영이 소속 가수 스트레이키즈를 극찬했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박진영은 23일 인스타그램에 스트레이키즈 정규 2집 앨범 ‘노이지’(NOEASY) 앨범 커버 사진을 올리며 “회사에서 스태프들이 이 친구들이 작사·작곡해 온 곡을 들으면 ‘그냥 이걸로 가자’로 한다”고 적었다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스트레이즈 멤버들이 지닌 음악적 재능을 칭찬한 글이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “이 아이들의 창작 능력은 ‘찐’”이라며 “곡의 주제, 제목, 작사, 작곡, 편곡 모두 이 친구들의 창의력에서 나오는 게 대부분”이라고 했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 박진영은 “이들의 미래는 불안하지 않다. Do your thing guys!”이라고 응원했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스트레이키즈는 지난 23일 ‘노이지’를 발매하며 11개월 만에 복귀했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "타이틀 곡 ‘소리꾼’은 웅장한 멜로디에 국악의 다양한 소리를 더한 곡으로 ‘누가 뭐라고 하든지 기죽지 않고 줏대를 지키겠다’는 팀의 신념을 곡에 담았다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박진영,  스트레이키즈 파격적 앨범 사진에... \"이 친구들은 '찐'\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

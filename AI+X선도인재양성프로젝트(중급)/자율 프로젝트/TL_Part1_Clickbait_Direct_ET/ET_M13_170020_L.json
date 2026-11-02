@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170020",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘똑똑해짐’ 김지민, 러블리즈 사로잡은 입담",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 김지민이 IHQ의 예능 프로그램 ‘똑똑해짐’에 출연해 다양한 입담을 풀어놨다.\n지난 14일 첫 방송된 ‘똑똑해짐’에서 김지민은 아름다운 몸매의 기준을 주제로 이야기를 나누며 러블리즈의 멤버 지애, 예인의 마음을 샀다.\n김지민은 프로그램 시작부터 오페라 ‘마술피리’의 ‘밤의 여왕 아리아’를 부르며 성대 투혼을 발휘해 남다르게 등장했다.\n이어 아름다운 여자 주인공 역할을 위해 혹독한 다이어트를 감행한 성악가 마리아 칼라스의 이야기를 들려줬다.\n또한 너무 쉬운 퀴즈를 내는 럭키에게 “이건 내 조카도 알겠다”며 견제를 이어가는 한 편, ‘콤플렉스’라는 단어에 자신이 벌칙을 당하게 되자 지애와 예인을 향해 거침없이 속마음을 털어놓는 리액션을 보였다.\n최근 다양한 예능 프로그램에 출연 중인 김지민은 프로그램의 주제에 맞는 이야기를 쉽게 들려주며 게스트와 시청자들을 매료시켰다.\n김지민의 활약은 매주 화요일 오후 11시30분 방송되는 IHQ의 예능 프로그램 ‘똑똑해짐’에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 김지민이 IHQ의 예능 프로그램 ‘똑똑해짐’에 출연해 다양한 입담을 풀어놨다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 14일 첫 방송된 ‘똑똑해짐’에서 김지민은 아름다운 몸매의 기준을 주제로 이야기를 나누며 러블리즈의 멤버 지애, 예인의 마음을 샀다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김지민은 프로그램 시작부터 오페라 ‘마술피리’의 ‘밤의 여왕 아리아’를 부르며 성대 투혼을 발휘해 남다르게 등장했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 아름다운 여자 주인공 역할을 위해 혹독한 다이어트를 감행한 성악가 마리아 칼라스의 이야기를 들려줬다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 너무 쉬운 퀴즈를 내는 럭키에게 “이건 내 조카도 알겠다”며 견제를 이어가는 한 편, ‘콤플렉스’라는 단어에 자신이 벌칙을 당하게 되자 지애와 예인을 향해 거침없이 속마음을 털어놓는 리액션을 보였다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 다양한 예능 프로그램에 출연 중인 김지민은 프로그램의 주제에 맞는 이야기를 쉽게 들려주며 게스트와 시청자들을 매료시켰다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김지민의 활약은 매주 화요일 오후 11시30분 방송되는 IHQ의 예능 프로그램 ‘똑똑해짐’에서 확인할 수 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘똑똑해짐’ 김지민, 콤플렉스 단어에 러블리즈 향해 거침없는 폭격",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258184",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘TMI SHOW’ 내달 9일 첫방",
+		"newsSubTitle": "",
+		"newsContent": "Mnet의 유일무이한 차트 토크 쇼 ‘TMI SHOW’가 오는 2월 9일(수) 저녁 8시 첫 방송된다. ‘TMI SHOW’는 초대 스타들이 직접 본인과 관련된 TMI가 담긴 차트 주제를 선정, 그 동안 베일에 싸여있던 자신만의 TMI를 공개하는 토크 쇼 프로그램. 초대 스타가 말하는 프라이빗한 TMI는 무엇일지 추측하며, 스타에 대해 더욱 알아가는 재미를 선사한다.\n아이돌 정보 차트쇼로 기존에 많은 사랑을 받았던 ‘TMI NEWS’가 MC부터 구성까지 대대적인 변화를 예고하며, 내가 좋아하는 스타들의 TMI를 만날 수 있는 ‘TMI SHOW’로 진화한다. ‘TMI SHOW’는 공식 SNS를 개설, 초대 스타들에 대한 질문을 시청자에게 직접 받고 그 질문에 대한 답변을 방송을 통해 공개하는 등 시청자와 더욱 활발한 소통을 진행할 예정이다.\n프로그램을 이끌어 갈 MC로는 재치 만렙 진행력으로 대세 MC로 자리잡은 붐과 넘치는 텐션으로 대체 불가한 예능감을 보여주고 있는 이미주가 호흡을 맞춘다.\n특히 첫 메인 MC 도전이지만 준비된 MC 기대주 이미주가 보여줄 활약과, 두 MC가 보여줄 케미에 관심이 모아진다.\n한편, 첫 회 초대 스타로는 ‘스트릿 우먼 파이터’의 주역 가비와 노제가 출연한다.\n두 사람은 어디에서도 밝히지 않았던 자신만의 TMI를 방출할 예정이라고 해 첫 방송에 대한 기대감이 증폭되고 있다.\nMnet ‘TMI SHOW’는 2월 9일(목) 오후 8시 Mnet에서 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Mnet의 유일무이한 차트 토크 쇼 ‘TMI SHOW’가 오는 2월 9일(수) 저녁 8시 첫 방송된다. ‘TMI SHOW’는 초대 스타들이 직접 본인과 관련된 TMI가 담긴 차트 주제를 선정, 그 동안 베일에 싸여있던 자신만의 TMI를 공개하는 토크 쇼 프로그램. 초대 스타가 말하는 프라이빗한 TMI는 무엇일지 추측하며, 스타에 대해 더욱 알아가는 재미를 선사한다.",
+				"sentenceSize": 205
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이돌 정보 차트쇼로 기존에 많은 사랑을 받았던 ‘TMI NEWS’가 MC부터 구성까지 대대적인 변화를 예고하며, 내가 좋아하는 스타들의 TMI를 만날 수 있는 ‘TMI SHOW’로 진화한다. ‘TMI SHOW’는 공식 SNS를 개설, 초대 스타들에 대한 질문을 시청자에게 직접 받고 그 질문에 대한 답변을 방송을 통해 공개하는 등 시청자와 더욱 활발한 소통을 진행할 예정이다.",
+				"sentenceSize": 211
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프로그램을 이끌어 갈 MC로는 재치 만렙 진행력으로 대세 MC로 자리잡은 붐과 넘치는 텐션으로 대체 불가한 예능감을 보여주고 있는 이미주가 호흡을 맞춘다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 첫 메인 MC 도전이지만 준비된 MC 기대주 이미주가 보여줄 활약과, 두 MC가 보여줄 케미에 관심이 모아진다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 첫 회 초대 스타로는 ‘스트릿 우먼 파이터’의 주역 가비와 노제가 출연한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 어디에서도 밝히지 않았던 자신만의 TMI를 방출할 예정이라고 해 첫 방송에 대한 기대감이 증폭되고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "Mnet ‘TMI SHOW’는 2월 9일(목) 오후 8시 Mnet에서 첫 방송된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘TMI SHOW’ 내달 9일 첫방",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

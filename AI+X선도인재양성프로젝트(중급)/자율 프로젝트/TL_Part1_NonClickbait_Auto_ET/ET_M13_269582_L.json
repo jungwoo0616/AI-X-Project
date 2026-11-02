@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269582",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "장윤정, “김숙♥이대형 결혼에 1000만원 쏜다”(당나귀 귀)",
+		"newsSubTitle": "",
+		"newsContent": "장윤정의 찐 팬사랑과 함께 ‘장회장’ 다운 엄청난 플렉스가 눈길을 끌었다.\n지난 8일 방송된 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’에서는 장윤정의 통 큰 스케일이 공개됐다.\n이날 김숙은 장윤정을 향해 “장회장님에 대하 제가 들은 얘기가 있다”면서 “팬클럽 회원 결혼식 때 축의금을 1000만 원을 했다고 한다. 맞는 얘기냐”고 물었다.\n이에 장윤정은 “팬미팅 중에 농담 삼아서 ‘이렇게 남자 여자 같이 다니면 정들어요. 만약 여기서 결혼하는 커플 나오면 제가 첫 커플한데 축의금 1000만원 줄게요’라고 한거다”라며 “진짜 결혼해서 축가도 부르고 축의금도 드렸다”고 밝혔다.\n이에 전현무가 최근 핑크빛 소문이 무성한 김숙과 이대형이 결혼해도 천만 원 줄거냐고 묻자 장윤정은 “천만 원을 쏘겠다”며 통 큰 약속을 했다.\n이에 전현무, 김병현, 허재도 줄줄이 “나도 천만 원”을 외쳤고, 장윤정은 “주겠다”고 말해 놀라움을 안겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장윤정의 찐 팬사랑과 함께 ‘장회장’ 다운 엄청난 플렉스가 눈길을 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 8일 방송된 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’에서는 장윤정의 통 큰 스케일이 공개됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 김숙은 장윤정을 향해 “장회장님에 대하 제가 들은 얘기가 있다”면서 “팬클럽 회원 결혼식 때 축의금을 1000만 원을 했다고 한다. 맞는 얘기냐”고 물었다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 장윤정은 “팬미팅 중에 농담 삼아서 ‘이렇게 남자 여자 같이 다니면 정들어요. 만약 여기서 결혼하는 커플 나오면 제가 첫 커플한데 축의금 1000만원 줄게요’라고 한거다”라며 “진짜 결혼해서 축가도 부르고 축의금도 드렸다”고 밝혔다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 전현무가 최근 핑크빛 소문이 무성한 김숙과 이대형이 결혼해도 천만 원 줄거냐고 묻자 장윤정은 “천만 원을 쏘겠다”며 통 큰 약속을 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 전현무, 김병현, 허재도 줄줄이 “나도 천만 원”을 외쳤고, 장윤정은 “주겠다”고 말해 놀라움을 안겼다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장윤정, “김숙♥이대형 결혼에 1000만원 쏜다”(당나귀 귀)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

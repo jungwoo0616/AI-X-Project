@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261980",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "트레저, 오늘(24일) ‘엠카운트다운’ 출격",
+		"newsSubTitle": "",
+		"newsContent": "트레저가 음악방송 첫 무대를 Mnet ‘엠카운트다운’으로 결정, ‘직진’ 인기에 박차를 가한다.\nYG엔테테인먼트에 따르면 트레저는 오늘 (24일) 오후 방송되는 Mnet ‘엠카운트다운’에서 타이틀곡 ‘직진 (JIKJIN)’과 수록곡 ‘U’ 무대를 꾸민다. ‘직진 (JIKJIN)’은 쉴 새 없이 전환되는 트랙과 보컬 파트로 짜릿한 속도감을 선사하는 댄스 힙합곡이다.\n중독성 강한 후렴구는 물론 YG의 음악적 아이텐티티가 짙게 묻어난 노래라 각종 글로벌 차트서 괄목할 만한 성과를 내며 뜨거운 반응을 얻고 있다.\n특히 트레저는 지난 23일 방송된 MBC M ‘쇼! 챔피언’에서 ‘직진 (JIKJIN)’으로 출연 없이 음악방송 첫 번째 트로피를 품에 안았다.\n트레저는 미니앨범 ‘THE SECOND STEP : CHAPTER ONE’을 지난 15일 발표하고 한터차트와 가온차트 주간 음반 부문 정상에 올랐다.\n이 앨범은 현재 70만 장 이상의 판매량을 기록 중이며 아이튠즈 30개 지역과 월드와이드 차트 1위에 올랐다.\n아울러 ‘직진 (JIKJIN)’ 음원은 일본 라인뮤직 주간 차트를 비롯해 라쿠텐뮤직, 애플뮤직, 아이튠즈, AWA, mu-mo 등 현지 주요 음원 사이트 랭킹 1위를 휩쓸었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트레저가 음악방송 첫 무대를 Mnet ‘엠카운트다운’으로 결정, ‘직진’ 인기에 박차를 가한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YG엔테테인먼트에 따르면 트레저는 오늘 (24일) 오후 방송되는 Mnet ‘엠카운트다운’에서 타이틀곡 ‘직진 (JIKJIN)’과 수록곡 ‘U’ 무대를 꾸민다. ‘직진 (JIKJIN)’은 쉴 새 없이 전환되는 트랙과 보컬 파트로 짜릿한 속도감을 선사하는 댄스 힙합곡이다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중독성 강한 후렴구는 물론 YG의 음악적 아이텐티티가 짙게 묻어난 노래라 각종 글로벌 차트서 괄목할 만한 성과를 내며 뜨거운 반응을 얻고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 트레저는 지난 23일 방송된 MBC M ‘쇼! 챔피언’에서 ‘직진 (JIKJIN)’으로 출연 없이 음악방송 첫 번째 트로피를 품에 안았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트레저는 미니앨범 ‘THE SECOND STEP : CHAPTER ONE’을 지난 15일 발표하고 한터차트와 가온차트 주간 음반 부문 정상에 올랐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 앨범은 현재 70만 장 이상의 판매량을 기록 중이며 아이튠즈 30개 지역과 월드와이드 차트 1위에 올랐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아울러 ‘직진 (JIKJIN)’ 음원은 일본 라인뮤직 주간 차트를 비롯해 라쿠텐뮤직, 애플뮤직, 아이튠즈, AWA, mu-mo 등 현지 주요 음원 사이트 랭킹 1위를 휩쓸었다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트레저, 오늘(24일) ‘엠카운트다운’ 출격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

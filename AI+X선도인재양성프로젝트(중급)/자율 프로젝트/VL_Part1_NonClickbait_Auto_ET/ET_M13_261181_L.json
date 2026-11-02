@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261181",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "가희 “소식 전했으니 다시 보관해두었다”",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 애프터스쿨 출신 가희가 유이에 대한 애정을 드러냈다.\n가희는 16일 SNS에 전날 공개를 했던 유이와 함께 찍은 사진을 삭제했다고 밝혔다.\n가희는 “생각해보니 피드에는 다른 사람 사진 잘 안 올리는데 너무 반가워서 팬분들도 반가워하실 것 같아서 올렸던 유이와의 사진. 소식 전했으니 다시 보관해두었다”고 설명했다.\n이어 “또 만날 수 있으려나 모르겠지만 또 만나면 또 반갑게 허락받고 인증하겠다. 응원하며 살겠다”고 덧붙였다.\n가희는 지난 15일 유이와 찍은 사진을 SNS에 올렸다.\n이에 유이도 자신의 SNS에 “역시 언니는 멋진 사람, 영원한 리더”라며 화답했다.\n가희는 2009년 1월 애프터스쿨로 데뷔했으며, 유이는 같은 해 4월 애프터스쿨에 합류했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 애프터스쿨 출신 가희가 유이에 대한 애정을 드러냈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가희는 16일 SNS에 전날 공개를 했던 유이와 함께 찍은 사진을 삭제했다고 밝혔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가희는 “생각해보니 피드에는 다른 사람 사진 잘 안 올리는데 너무 반가워서 팬분들도 반가워하실 것 같아서 올렸던 유이와의 사진. 소식 전했으니 다시 보관해두었다”고 설명했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “또 만날 수 있으려나 모르겠지만 또 만나면 또 반갑게 허락받고 인증하겠다. 응원하며 살겠다”고 덧붙였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가희는 지난 15일 유이와 찍은 사진을 SNS에 올렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 유이도 자신의 SNS에 “역시 언니는 멋진 사람, 영원한 리더”라며 화답했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가희는 2009년 1월 애프터스쿨로 데뷔했으며, 유이는 같은 해 4월 애프터스쿨에 합류했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가희 “소식 전했으니 다시 보관해두었다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

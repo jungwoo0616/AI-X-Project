@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276246",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "배우 황찬호, 심장마비로 32세에 사망",
+		"newsSubTitle": "",
+		"newsContent": "KBS 드라마 '장영실' 등에 출연한 연극 배우 황찬호가 32세의 나이로 세상을 떠났다.\n소속사 마라톤엔터테인먼트에 따르면 고인은 지난 26일 새벽 심장마비로 세상을 떠났다.\n빈소는 서울성모병원 장례식장에 마련됐다.\n발인은 28일 진행됐다.\n소속사 관계자는 “소속사 배우들을 비롯해 황찬호 배우와 함께 한 많은 이들이 사흘간 빈소를 지켰다”고 전했다.\n황찬호는 서울예술대학 연극과 출신이다.\n2006년 연극 ‘유리가면 Episode 5 - 또 하나의 영혼’을 시작으로 드라마와 연극, 뮤지컬 등의 무대에서 활발하게 활동해 왔다.\n고인은 KBS 1TV 드라마 ‘장영실’, 연극 ‘챠이카’ 등의 작품에 출연했다.\n올해는 MBN 드라마 ‘연남동 539’, OCN 드라마 ‘그 남자 오수’ 등에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS 드라마 '장영실' 등에 출연한 연극 배우 황찬호가 32세의 나이로 세상을 떠났다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 마라톤엔터테인먼트에 따르면 고인은 지난 26일 새벽 심장마비로 세상을 떠났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빈소는 서울성모병원 장례식장에 마련됐다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "발인은 28일 진행됐다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사 관계자는 “소속사 배우들을 비롯해 황찬호 배우와 함께 한 많은 이들이 사흘간 빈소를 지켰다”고 전했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "황찬호는 서울예술대학 연극과 출신이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2006년 연극 ‘유리가면 Episode 5 - 또 하나의 영혼’을 시작으로 드라마와 연극, 뮤지컬 등의 무대에서 활발하게 활동해 왔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "고인은 KBS 1TV 드라마 ‘장영실’, 연극 ‘챠이카’ 등의 작품에 출연했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올해는 MBN 드라마 ‘연남동 539’, OCN 드라마 ‘그 남자 오수’ 등에 출연했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 황찬호, 심장마비로 32세에 사망",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

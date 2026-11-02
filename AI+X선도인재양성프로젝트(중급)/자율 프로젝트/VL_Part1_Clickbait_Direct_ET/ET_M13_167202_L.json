@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167202",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "정채연 한복맵시 ‘연모’합니다",
+    "newsSubTitle": "",
+    "newsContent": "정채연의 다채로운 한복 패션이 눈길을 끌고 있다.\nKBS2 월화드라마 ‘연모’를 통해 데뷔 후 첫 사극에 도전한 정채연은 극 중 노학수(정재성 분)의 늦둥이 막내딸로 귀하게 자라 티 없이 맑은 영혼의 소유자 노하경 역을 맡아 고운 한복 자태로 시청자들의 시선을 사로잡고 있다.\n첫 등장에서 정채연은 수수하면서도 차분한 컬러감이 돋보이는 한복을 입고 헤어 액세서리를 매치, 깨끗한 느낌으로 등장하며 눈길을 끌었다.\n그뿐만 아니라 세자빈이 되고 나서부터는 아이보리, 보라 등 화려하면서도 밝은 컬러의 한복을 착용하며 우아한 분위기를 연출해 팔색조 매력을 발산했다.\n캐릭터와 높은 싱크로율을 자랑하는 정채연은 단아한 비주얼과 한복 맵시로 보는 재미를 더하며 드라마의 몰입도를 높이고 있다.\n자신만의 필모그래피를 쌓아가고 있는 정채연이 마지막까지 선보일 활약에 관심이 모아진다.\n한편, 마지막 회까지 단 2회를 앞둔 ‘연모’는 월, 화 밤 9시 30분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정채연의 다채로운 한복 패션이 눈길을 끌고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS2 월화드라마 ‘연모’를 통해 데뷔 후 첫 사극에 도전한 정채연은 극 중 노학수(정재성 분)의 늦둥이 막내딸로 귀하게 자라 티 없이 맑은 영혼의 소유자 노하경 역을 맡아 고운 한복 자태로 시청자들의 시선을 사로잡고 있다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첫 등장에서 정채연은 수수하면서도 차분한 컬러감이 돋보이는 한복을 입고 헤어 액세서리를 매치, 깨끗한 느낌으로 등장하며 눈길을 끌었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그뿐만 아니라 세자빈이 되고 나서부터는 아이보리, 보라 등 화려하면서도 밝은 컬러의 한복을 착용하며 우아한 분위기를 연출해 팔색조 매력을 발산했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "캐릭터와 높은 싱크로율을 자랑하는 정채연은 단아한 비주얼과 한복 맵시로 보는 재미를 더하며 드라마의 몰입도를 높이고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자신만의 필모그래피를 쌓아가고 있는 정채연이 마지막까지 선보일 활약에 관심이 모아진다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 마지막 회까지 단 2회를 앞둔 ‘연모’는 월, 화 밤 9시 30분에 방송된다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'연모' 정채연이 시청자들의 시선을 사로잡은 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

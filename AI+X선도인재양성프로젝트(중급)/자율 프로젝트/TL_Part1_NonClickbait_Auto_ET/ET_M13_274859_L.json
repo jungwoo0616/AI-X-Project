@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274859",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "위너, 10일 한강 게릴라 공연 뜬다",
+		"newsSubTitle": "",
+		"newsContent": "그룹 위너가 게릴라 데이트로 팬들을 찾는다. 6일 YG엔터테인먼트는 위너가 오는 7월 10일 오후 8시 서울 여의도 한강공원 물빛무대에서 게릴라 이벤트 ‘HOLIDAY IN THE CITY’에서 새 앨범 타이틀곡 ‘I LOVE U’를 비롯해 다양한 퍼포먼스 무대를 꾸밀 계획이라고 밝혔다.\n언제나 함께해 준 팬들 사랑에 보답하고, 동시에 더 많은 대중과 가까이 호흡하고자 하는 위너의 의지가 반영됐다고 설명했다.\n공연은 앨범 구매자 중 사전 추첨을 통해 초대된 이너서클(팬덤명) 200명뿐 아니라 누구나 무료로 관람할 수 있다.\n아울러 현장 방문이 어려운 이들은 네이버 NOW. 채널에서 생중계 화면으로도 볼 수 있다.\n특히 모두가 즐길 수 있는 야외 공연이며 네 번째 미니앨범 [HOLIDAY]가 지난 5일 발표된 만큼 뜨거운 반응이 예상된다.\n타이틀곡 ‘I LOVE U’는 국내외 주요 차트 최상위권에 올랐으며 수록곡 ‘10분’, ‘HOLIDAY’, ‘집으로’, ‘FAMILY’, ‘새끼손가락’ 또한 고르게 사랑받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 위너가 게릴라 데이트로 팬들을 찾는다. 6일 YG엔터테인먼트는 위너가 오는 7월 10일 오후 8시 서울 여의도 한강공원 물빛무대에서 게릴라 이벤트 ‘HOLIDAY IN THE CITY’에서 새 앨범 타이틀곡 ‘I LOVE U’를 비롯해 다양한 퍼포먼스 무대를 꾸밀 계획이라고 밝혔다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "언제나 함께해 준 팬들 사랑에 보답하고, 동시에 더 많은 대중과 가까이 호흡하고자 하는 위너의 의지가 반영됐다고 설명했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공연은 앨범 구매자 중 사전 추첨을 통해 초대된 이너서클(팬덤명) 200명뿐 아니라 누구나 무료로 관람할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아울러 현장 방문이 어려운 이들은 네이버 NOW. 채널에서 생중계 화면으로도 볼 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 모두가 즐길 수 있는 야외 공연이며 네 번째 미니앨범 [HOLIDAY]가 지난 5일 발표된 만큼 뜨거운 반응이 예상된다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이틀곡 ‘I LOVE U’는 국내외 주요 차트 최상위권에 올랐으며 수록곡 ‘10분’, ‘HOLIDAY’, ‘집으로’, ‘FAMILY’, ‘새끼손가락’ 또한 고르게 사랑받고 있다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위너, 10일 한강 게릴라 공연 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

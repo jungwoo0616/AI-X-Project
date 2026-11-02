@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273367",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘이필모♥’ 서수연 “곧 와요”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이필모 부인 서수연이 임신 중 근황을 알렸다.\n16일 서수연은 자신의 SNS에 “곧 와요”라는 글과 함께 한 장의 사진을 올렸다.\n사진 속에는 블랙 컬러 수영복에 가운을 걸친 서수연이 배만 볼록하고 늘씬한 팔다리로 눈길을 끈다.\n서수연은 앞서 남편 이필모, 아들 담호군 함께 태교 여행을 떠난 일상을 전한 바 있다.\n서수연은 TV조선 연애 리얼리티 ‘연애의 맛’을 통해 이필모와 만나 2019년 2월 결혼했다.\n슬하에 아들 담호 군을 두고 있으며 현재 둘째를 임신중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이필모 부인 서수연이 임신 중 근황을 알렸다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 서수연은 자신의 SNS에 “곧 와요”라는 글과 함께 한 장의 사진을 올렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속에는 블랙 컬러 수영복에 가운을 걸친 서수연이 배만 볼록하고 늘씬한 팔다리로 눈길을 끈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서수연은 앞서 남편 이필모, 아들 담호군 함께 태교 여행을 떠난 일상을 전한 바 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서수연은 TV조선 연애 리얼리티 ‘연애의 맛’을 통해 이필모와 만나 2019년 2월 결혼했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슬하에 아들 담호 군을 두고 있으며 현재 둘째를 임신중이다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘이필모♥’ 서수연 “곧 와요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

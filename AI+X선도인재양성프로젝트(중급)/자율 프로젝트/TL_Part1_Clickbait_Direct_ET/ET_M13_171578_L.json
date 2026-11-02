@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171578",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "전진, 쇼핑호스트로 GS샵과 1년 1개월 ‘장기계약’",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우로 활동 중인 전진이 또 다른 분야인 쇼핑호스트로도 장기계약을 이끌어내며 활동영역을 넓혔다.\n전진의 소속사 라이브웍스컴퍼니 측은 “최근 전진이 쇼핑호스트로서의 능력을 인정받아 GS샵 측과 1년 1개월 장기계약을 맺고 쇼핑호스트로 활약하게 됐다”고 밝혔다.\n최근 MZ세대와의 소통을 넓히고 있는 GS샵은 쇼핑과 예능을 결합한 ‘쇼퍼테인먼트’ 프로그램 ‘고 스포츠(GO Sports)’에서 전진이 대중과 빼어난 소통력을 가진 점을 주목해 전진과의 장기계약을 추진했다.\n앞서 전진은 지난 5일과 12일 GS샵 채널을 통해 진행된 생방송에서 특유의 입담을 살린 매력적인 진행능력을 토대로 쇼핑호스트로서 성공적으로 운동화 제품을 판매한 전력이 있다.\n또한 데뷔 23년 만에 처음으로 쇼핑호스트는 물론 MBN의 ‘알토란’ 고정 출연, 우체국 보험 모델 발탁 등 업계의 관심을 연이어 받고 있다.\n쇼핑호스트로서의 새로운 출발을 선언한 전진의 활약은 이번 주에도 일요일 오후 12시25분 GS샵 생방송을 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우로 활동 중인 전진이 또 다른 분야인 쇼핑호스트로도 장기계약을 이끌어내며 활동영역을 넓혔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전진의 소속사 라이브웍스컴퍼니 측은 “최근 전진이 쇼핑호스트로서의 능력을 인정받아 GS샵 측과 1년 1개월 장기계약을 맺고 쇼핑호스트로 활약하게 됐다”고 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 MZ세대와의 소통을 넓히고 있는 GS샵은 쇼핑과 예능을 결합한 ‘쇼퍼테인먼트’ 프로그램 ‘고 스포츠(GO Sports)’에서 전진이 대중과 빼어난 소통력을 가진 점을 주목해 전진과의 장기계약을 추진했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 전진은 지난 5일과 12일 GS샵 채널을 통해 진행된 생방송에서 특유의 입담을 살린 매력적인 진행능력을 토대로 쇼핑호스트로서 성공적으로 운동화 제품을 판매한 전력이 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 데뷔 23년 만에 처음으로 쇼핑호스트는 물론 MBN의 ‘알토란’ 고정 출연, 우체국 보험 모델 발탁 등 업계의 관심을 연이어 받고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "쇼핑호스트로서의 새로운 출발을 선언한 전진의 활약은 이번 주에도 일요일 오후 12시25분 GS샵 생방송을 통해 확인할 수 있다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전진, 23년 만에 재능 인정받아... 이것 도전한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

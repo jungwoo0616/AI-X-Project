@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172083",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'갑상선암' 수술에도 팬들과 약속 지킨 허각…\\\"회복 전념\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 허각(32)이 지난 1일 갑상선암 수술을 받고 현재 회복 중이다.\n소속사 플랜에이엔터테인먼트는 허각이 최근 건강검진 도중 갑상선암이 의심돼 조직검사를 한 결과 수술이 필요하다는 소견이 나와 이같이 결정했다고 4일 밝혔다.\n소속사 관계자는 \\\"수술 결과가 좋고 회복 속도도 빠르다고 한다\\\"며 \\\"이달 말까지는 따로 스케줄을 잡지 않고 건강 관리에 집중할 것\\\"이라고 말했다.\n2010년 Mnet 오디션 프로그램 '슈퍼스타 K2' 우승자 출신인 허각은 그해 발라드곡 '헬로(Hello)'로 데뷔해 '죽고 싶단 말 밖에' '나를 사랑했던 사람아' 등 다수의 히트곡을 냈다.\n걸그룹 에이핑크 멤버 정은지와도 듀엣 활동을 해왔다.\n허각은 투병 중임에도 지난달 18~19일 단독콘서트를 진행하며 팬들과 약속을 지켰다.\n공연을 마친 뒤 수술 준비에 들어갔다고 한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 허각(32)이 지난 1일 갑상선암 수술을 받고 현재 회복 중이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 플랜에이엔터테인먼트는 허각이 최근 건강검진 도중 갑상선암이 의심돼 조직검사를 한 결과 수술이 필요하다는 소견이 나와 이같이 결정했다고 4일 밝혔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사 관계자는 \\\"수술 결과가 좋고 회복 속도도 빠르다고 한다\\\"며 \\\"이달 말까지는 따로 스케줄을 잡지 않고 건강 관리에 집중할 것\\\"이라고 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2010년 Mnet 오디션 프로그램 '슈퍼스타 K2' 우승자 출신인 허각은 그해 발라드곡 '헬로(Hello)'로 데뷔해 '죽고 싶단 말 밖에' '나를 사랑했던 사람아' 등 다수의 히트곡을 냈다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "걸그룹 에이핑크 멤버 정은지와도 듀엣 활동을 해왔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "허각은 투병 중임에도 지난달 18~19일 단독콘서트를 진행하며 팬들과 약속을 지켰다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공연을 마친 뒤 수술 준비에 들어갔다고 한다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 허각, '이 수술'한 후에도 단독콘서트 진행",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259703",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] ‘라스트 세션’ 이상윤, 코로나19 감염…오영수 괜찮나?",
+		"newsSubTitle": "",
+		"newsContent": "배우 이상윤이 신종 코로나바이러스 감염증(코로나19)에 확진됐다.\n29일 소속사 제이와이드컴퍼니측은 “이상윤이 양성 판정을 받고 집에서 자가격리 중이며 심각한 증상은 없는 상태”라고 밝혔다.\n소속사측은 이상윤에 대해 백신 2차 접종을 완료한 상태였다고 밝혔다.\n이상윤의 코로나19 확진으로 현재 출연 중인 연극 ‘라스트세션’은 29~31일 공연은 취소됐다. ‘라스트세션’ 측은 이날 공식 SNS에 “안전한 공연 운영을 위해 공연을 잠시 중단하고 출연 배우 및 스태프들의 건강 상태를 다시 한번 점검한 뒤 이후 공연 재개 시점 및 출연자에 대해 추후 공지드리겠다”고 밝혔다. ‘라스트 세션’은 스태프 한 명이 신속항원검사에서 양성 반응이 나와 전날 공연도 취소됐다.\n이상윤은 ‘라스트 세션’에서 C.S. 루이스 역을 맡았다. ‘오징어게임’의 주역 배우 오영수와, 신구 등이 함께 출연 중이다.\n이에 오영수, 신구의 건강 상태에도 관심이 쏠리고 있다.\n앞서 오영수가 미국 골든글로브 남우주연상 수상 당시 이상윤은 오영수의 축하 파티 사진을 SNS에 인증하기도 했다. ‘라스트 세션’ 측은 “다른 출연 배우와 스태프는 현재까지 모두 음성인 상태”라고 밝혔다.\n한편, 이날 0시 기준 코로나19 신규 확진자가 1만7000명 대로 역대 최다를 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이상윤이 신종 코로나바이러스 감염증(코로나19)에 확진됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 소속사 제이와이드컴퍼니측은 “이상윤이 양성 판정을 받고 집에서 자가격리 중이며 심각한 증상은 없는 상태”라고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사측은 이상윤에 대해 백신 2차 접종을 완료한 상태였다고 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이상윤의 코로나19 확진으로 현재 출연 중인 연극 ‘라스트세션’은 29~31일 공연은 취소됐다. ‘라스트세션’ 측은 이날 공식 SNS에 “안전한 공연 운영을 위해 공연을 잠시 중단하고 출연 배우 및 스태프들의 건강 상태를 다시 한번 점검한 뒤 이후 공연 재개 시점 및 출연자에 대해 추후 공지드리겠다”고 밝혔다. ‘라스트 세션’은 스태프 한 명이 신속항원검사에서 양성 반응이 나와 전날 공연도 취소됐다.",
+				"sentenceSize": 225
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이상윤은 ‘라스트 세션’에서 C.S. 루이스 역을 맡았다. ‘오징어게임’의 주역 배우 오영수와, 신구 등이 함께 출연 중이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 오영수, 신구의 건강 상태에도 관심이 쏠리고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 오영수가 미국 골든글로브 남우주연상 수상 당시 이상윤은 오영수의 축하 파티 사진을 SNS에 인증하기도 했다. ‘라스트 세션’ 측은 “다른 출연 배우와 스태프는 현재까지 모두 음성인 상태”라고 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 이날 0시 기준 코로나19 신규 확진자가 1만7000명 대로 역대 최다를 기록했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] ‘라스트 세션’ 이상윤, 코로나19 감염…오영수 괜찮나?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

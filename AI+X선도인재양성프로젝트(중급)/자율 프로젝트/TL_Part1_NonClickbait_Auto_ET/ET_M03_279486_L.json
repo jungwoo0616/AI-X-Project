@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279486",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "시사매거진 2580 스베누, 의문의 땡처리·자해 사태 원인은",
+		"newsSubTitle": "",
+		"newsContent": "10일 방송된 mbc '시사매거진 2580'에서 스타크래프트로 전성기를 보내며 국내 e스포츠를 후원한 황효진(27) 대표의 스베누의 사기 피소 사태를 집중 조명했다.\n인터넷 방송 아프리카TV BJ(Broadcasting Jockey)로 이름을 알린 황 대표는 ‘BJ소닉’이라는 아이디로 ‘스타크래프트:브루드 워’를 중계방송하며 시청자들에게 인기를 얻었다.\n이후 황 대표는 2012년 ‘신발팜’이란 상호명으로 신발 사업을 시작, 2년 후 스베누로 이름을 바꾸고 본격적으로 사업을 확장해나갔다.\n사업 초기에 신발을 만들기 시작해 최근에는 의류도 판매하는 등 사업을 확장해 연매출 500억원을 달성했다.\n전국 100여개 가맹점을 운영했고 AOA, 아이유 등 아이돌을 모델로 내세울 만큼 사세를 확장하기도 했다.\n그러나 스베누는 최근 자본잠식상태에서 대금을 지급하지 못해 가맹점주들에게 고소를 당한 것으로 드러났다.\n가맹주들은 자금난을 겪고 있는 스베누가 판매대금 회수에 시간이 걸리는 가맹점 대신 현금으로 목돈을 받을 수 있는 땡처리 업체들에게 물건을 팔고 있다고 주장했다.\n앞서 12월 15일에는 중년 남성이 회사에 뛰어들어 옷을 다 벗은 뒤 “내 돈 내놔”라며 사무실을 돌아다니고 자해행위를 하다가 병원에 실려가기도 했다.\n이 남성은 신발 공장주로 28억원이 넘는 돈을 받지 못한 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "10일 방송된 mbc '시사매거진 2580'에서 스타크래프트로 전성기를 보내며 국내 e스포츠를 후원한 황효진(27) 대표의 스베누의 사기 피소 사태를 집중 조명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인터넷 방송 아프리카TV BJ(Broadcasting Jockey)로 이름을 알린 황 대표는 ‘BJ소닉’이라는 아이디로 ‘스타크래프트:브루드 워’를 중계방송하며 시청자들에게 인기를 얻었다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 황 대표는 2012년 ‘신발팜’이란 상호명으로 신발 사업을 시작, 2년 후 스베누로 이름을 바꾸고 본격적으로 사업을 확장해나갔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사업 초기에 신발을 만들기 시작해 최근에는 의류도 판매하는 등 사업을 확장해 연매출 500억원을 달성했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전국 100여개 가맹점을 운영했고 AOA, 아이유 등 아이돌을 모델로 내세울 만큼 사세를 확장하기도 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 스베누는 최근 자본잠식상태에서 대금을 지급하지 못해 가맹점주들에게 고소를 당한 것으로 드러났다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가맹주들은 자금난을 겪고 있는 스베누가 판매대금 회수에 시간이 걸리는 가맹점 대신 현금으로 목돈을 받을 수 있는 땡처리 업체들에게 물건을 팔고 있다고 주장했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 12월 15일에는 중년 남성이 회사에 뛰어들어 옷을 다 벗은 뒤 “내 돈 내놔”라며 사무실을 돌아다니고 자해행위를 하다가 병원에 실려가기도 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 남성은 신발 공장주로 28억원이 넘는 돈을 받지 못한 것으로 전해졌다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시사매거진 2580 스베누, 의문의 땡처리·자해 사태 원인은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

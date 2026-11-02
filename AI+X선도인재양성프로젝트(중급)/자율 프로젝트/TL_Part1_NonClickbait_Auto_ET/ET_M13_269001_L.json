@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269001",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장윤주, 톱모델의 아우라[화보]",
+		"newsSubTitle": "",
+		"newsContent": "톱모델이자 배우 장윤주가 ‘보그 코리아’ 5월 호 화보, 인터뷰를 장식했다.\n이번 화보에서 장윤주는 오는 6월 공개되는 넷플릭스(Netflix) 오리지널 시리즈 ‘종이의 집: 공동경제구역’에서 함께 호흡을 맞춘 전종서와 동반 출연, ‘네이처 오브 러브(Nature of Love)’를 주제로 자연스러운 멋과 강인한 부드러움을 갖춘 럭셔리 브랜드 끌로에(Chloe)의 여성상을 표현했다.\n장윤주는 톱모델답게 독보적인 아우라를 발산하며 이목을 끌었다.\n단독 컷은 물론 전종서와 함께한 투 샷에서도 강렬한 존재감을 펼친 장윤주는 6월에 공개될 ‘종이의 집: 공동경제구역’에서의 나이로비와 도쿄를 연상시키며 드라마에 대한 기대감을 고조시켰다.\n이처럼 장윤주는 톱모델로서 왕성한 패션 활동을 비롯 다채로운 작품 활동을 통해 연기 스펙트럼을 넓혀가며 대중의 사랑을 받고 있다.\n뿐만 아니라 그는 최근 KBS2 예능프로그램 ‘국민동요 프로젝트 - 아기싱어’에서 음악 선생님으로 출연, 그만의 음악성과 진정성을 담은 면모를 펼치는 중이다.\n한편, 장윤주의 화보와 영상은 보그 코리아 공식 인스타그램에서 만나볼 수 있으며 인터뷰는 ‘보그 코리아’ 5월 호를 통해 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "톱모델이자 배우 장윤주가 ‘보그 코리아’ 5월 호 화보, 인터뷰를 장식했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 화보에서 장윤주는 오는 6월 공개되는 넷플릭스(Netflix) 오리지널 시리즈 ‘종이의 집: 공동경제구역’에서 함께 호흡을 맞춘 전종서와 동반 출연, ‘네이처 오브 러브(Nature of Love)’를 주제로 자연스러운 멋과 강인한 부드러움을 갖춘 럭셔리 브랜드 끌로에(Chloe)의 여성상을 표현했다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장윤주는 톱모델답게 독보적인 아우라를 발산하며 이목을 끌었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "단독 컷은 물론 전종서와 함께한 투 샷에서도 강렬한 존재감을 펼친 장윤주는 6월에 공개될 ‘종이의 집: 공동경제구역’에서의 나이로비와 도쿄를 연상시키며 드라마에 대한 기대감을 고조시켰다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이처럼 장윤주는 톱모델로서 왕성한 패션 활동을 비롯 다채로운 작품 활동을 통해 연기 스펙트럼을 넓혀가며 대중의 사랑을 받고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뿐만 아니라 그는 최근 KBS2 예능프로그램 ‘국민동요 프로젝트 - 아기싱어’에서 음악 선생님으로 출연, 그만의 음악성과 진정성을 담은 면모를 펼치는 중이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 장윤주의 화보와 영상은 보그 코리아 공식 인스타그램에서 만나볼 수 있으며 인터뷰는 ‘보그 코리아’ 5월 호를 통해 공개된다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "장윤주, 톱모델의 아우라[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276466",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "치명적인 매력을 풍긴다는 '삼백안'을 지닌 연예인들",
+		"newsSubTitle": "",
+		"newsContent": "날카롭고 강렬한 인상으로 독특한 매력을 지닌 '삼백안' 연예인들이 눈길을 끌고 있다. '삼백안'이란 눈에서 눈동자의 양옆뿐 아니라 아랫부분 또는 윗부분까지 눈 흰자위의 삼면이 드러나는 것을 말한다.\n관상 전문가들은 \\\"삼백안은 눈을 치켜뜬 것처럼 보이기 때문에 인상이 사납고 날카로워 보인다\\\"며 부정적인 해석을 하기도 한다.\n그러나 연예인의 경우 '삼백안'이 강렬한 인상을 심어주는 장점으로 작용하는 것으로 알려졌다.\n실제로 '삼백안' 특유의 매력을 자랑하는 연예인들이 있다.\n대표적으로 슈퍼스타K를 통해 데뷔에 성공해 배우로도 활약하고 있는 서인국이다.\n그의 사진을 보면 왼쪽 눈이 두드러지는 '삼백안'인 것을 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "날카롭고 강렬한 인상으로 독특한 매력을 지닌 '삼백안' 연예인들이 눈길을 끌고 있다. '삼백안'이란 눈에서 눈동자의 양옆뿐 아니라 아랫부분 또는 윗부분까지 눈 흰자위의 삼면이 드러나는 것을 말한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "관상 전문가들은 \\\"삼백안은 눈을 치켜뜬 것처럼 보이기 때문에 인상이 사납고 날카로워 보인다\\\"며 부정적인 해석을 하기도 한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 연예인의 경우 '삼백안'이 강렬한 인상을 심어주는 장점으로 작용하는 것으로 알려졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제로 '삼백안' 특유의 매력을 자랑하는 연예인들이 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대표적으로 슈퍼스타K를 통해 데뷔에 성공해 배우로도 활약하고 있는 서인국이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그의 사진을 보면 왼쪽 눈이 두드러지는 '삼백안'인 것을 확인할 수 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치명적인 매력을 풍긴다는 '삼백안'을 지닌 연예인들",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

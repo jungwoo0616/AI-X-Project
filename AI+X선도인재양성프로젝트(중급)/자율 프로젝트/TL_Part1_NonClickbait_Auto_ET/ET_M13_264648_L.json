@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264648",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "고 신해철의 메시지, 딸 신하연이 전달하다",
+		"newsSubTitle": "",
+		"newsContent": "고 신해철 딸 신하연이 고인이 된 아버지의 메시지를 전달했다.\n컴포터블 브리딩 웨어 전문 브랜드 에티카가 지난 16일 공개한 캠페인 영상 속에서 신하연은 부친의 의상을 입고 등장해 눈길을 끌었다.\n마스크를 쓰고 등장한 신하연은 마스크를 벗고 코로나19 팬데믹 시대의 종결을 기원했다.\n신해철의 히트곡 ‘그대에게’ 엔딩 부분 “내 삶이 끝날 때까지 언제나 그대를 사랑해”가 배경 음악으로 나오며 신하연은 “이제 그 어느 백신보다 사랑을 전파할 때”라며 “삶을 사랑하라”라고 말했다.\n짧은 영상 속에서 시대를 관통하는 음악으로 삶과 죽음을 넘어 고 신해철의 정신적 유산을 딸 신하연이 이어받아 전달하며 강렬한 인상을 남기고 있다.\n신하연은 “TV 프로그램에서 보여지는 모습 외 다른 모습들도 보여드리고 싶었는데, 아버지를 오마주한 이번 촬영이 그 중 하나”라며 “‘삶을 사랑하라’는 메시지가 힘든 시기를 헤쳐 나가는 많은 분들께 조금이라도 도움이 됐으면 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고 신해철 딸 신하연이 고인이 된 아버지의 메시지를 전달했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "컴포터블 브리딩 웨어 전문 브랜드 에티카가 지난 16일 공개한 캠페인 영상 속에서 신하연은 부친의 의상을 입고 등장해 눈길을 끌었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마스크를 쓰고 등장한 신하연은 마스크를 벗고 코로나19 팬데믹 시대의 종결을 기원했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신해철의 히트곡 ‘그대에게’ 엔딩 부분 “내 삶이 끝날 때까지 언제나 그대를 사랑해”가 배경 음악으로 나오며 신하연은 “이제 그 어느 백신보다 사랑을 전파할 때”라며 “삶을 사랑하라”라고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "짧은 영상 속에서 시대를 관통하는 음악으로 삶과 죽음을 넘어 고 신해철의 정신적 유산을 딸 신하연이 이어받아 전달하며 강렬한 인상을 남기고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신하연은 “TV 프로그램에서 보여지는 모습 외 다른 모습들도 보여드리고 싶었는데, 아버지를 오마주한 이번 촬영이 그 중 하나”라며 “‘삶을 사랑하라’는 메시지가 힘든 시기를 헤쳐 나가는 많은 분들께 조금이라도 도움이 됐으면 한다”고 말했다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고 신해철의 메시지, 딸 신하연이 전달하다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

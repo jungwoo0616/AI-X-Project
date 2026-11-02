@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278201",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'별난가족' PD \\\"이시아, 세련된 얼굴 아닌 참한 이미지\\\"",
+		"newsSubTitle": "",
+		"newsContent": "이덕건 PD가 배우 이시아를 캐스팅한 이유를 밝혔다.\n28일 서울 영등포구 타임스퀘어 아모리스홀에서 열린 KBS 1TV 새 저녁일일극 '별난 가족' 제작발표회에는 이덕건 PD를 비롯해 출연자 이시아, 신지훈, 김진우, 길은혜 등이 참석했다.\n이덕건 PD는 이날 \\\"도시적인 인물이 아닌 동양적인 인물을 찾고 있었다. 이시아가 청순하고 단백한 느낌이었다. 전형적인 세련된 얼굴이 아닌 참한 이미지였다\\\"고 말했다.\n이어 \\\"김진우는 야심이 있고 갈등이 생기는 역할에 어울렸다. 길은혜는 시골이 싫어서 꿈과 야망이 있는 강삼월의 느낌이 있다\\\"고 덧붙였다.\n이에 이시아는 \\\"KBS 일일극에 캐스팅돼 영광이다. 열심히 촬영하고 있다\\\"고 밝혔다. '별난 가족'은 전혀 다른 꿈을 가진 강단이(이시아 분)와 강삼월(길은혜)의 서울 입성기를 담았다.\n다음달 2일 오후 8시 25분 첫 방송. 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이덕건 PD가 배우 이시아를 캐스팅한 이유를 밝혔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 서울 영등포구 타임스퀘어 아모리스홀에서 열린 KBS 1TV 새 저녁일일극 '별난 가족' 제작발표회에는 이덕건 PD를 비롯해 출연자 이시아, 신지훈, 김진우, 길은혜 등이 참석했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이덕건 PD는 이날 \\\"도시적인 인물이 아닌 동양적인 인물을 찾고 있었다. 이시아가 청순하고 단백한 느낌이었다. 전형적인 세련된 얼굴이 아닌 참한 이미지였다\\\"고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"김진우는 야심이 있고 갈등이 생기는 역할에 어울렸다. 길은혜는 시골이 싫어서 꿈과 야망이 있는 강삼월의 느낌이 있다\\\"고 덧붙였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 이시아는 \\\"KBS 일일극에 캐스팅돼 영광이다. 열심히 촬영하고 있다\\\"고 밝혔다. '별난 가족'은 전혀 다른 꿈을 가진 강단이(이시아 분)와 강삼월(길은혜)의 서울 입성기를 담았다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다음달 2일 오후 8시 25분 첫 방송. 온라인 중앙일보",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'별난가족' PD \\\"이시아, 세련된 얼굴 아닌 참한 이미지\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274392",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘9월 4일 결혼’ 오나미, 웨딩화보 공개",
+		"newsSubTitle": "",
+		"newsContent": "전 축구선수 박민과 결혼하는 개그우먼 오나미가 웨딩화보를 공개했다.\n해피메리드컴퍼니는 29일 “오나미와 박민이 오는 9월 4일 서울 모처에서 결혼식을 올린다”면서 웨딩 화보를 공개했다.\n웨딩 화보 속 오나미는 다양한 드레스를 입고 우아한 자태를 뽐냈다.\n특히 개그계 동료들과 함께한 ‘혼주 콘셉트’ ‘붉은 악마 콘셉트’ 등이 눈길을 끌었다.\n오나미는 지난해 SBS 예능 ‘골 때리는 그녀들’에서 2살 연하 축구선수 출신 박민과 교제 중인 사실을 공개했다.\n지난 29일 SBS ‘골 때리는 외박’예고편에서는 결혼 날짜를 공개하기도 했다.\n한편 오지난 2008년 KBS 23기 공채 개그맨으로 데뷔한 오나미는 다양한 예능 프로그램에서 활약 중이다.\n박민은 2009년 경남 FC에 입단했으며, 현재 중학교에서 학생들에게 축구를 가르치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전 축구선수 박민과 결혼하는 개그우먼 오나미가 웨딩화보를 공개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해피메리드컴퍼니는 29일 “오나미와 박민이 오는 9월 4일 서울 모처에서 결혼식을 올린다”면서 웨딩 화보를 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "웨딩 화보 속 오나미는 다양한 드레스를 입고 우아한 자태를 뽐냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 개그계 동료들과 함께한 ‘혼주 콘셉트’ ‘붉은 악마 콘셉트’ 등이 눈길을 끌었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오나미는 지난해 SBS 예능 ‘골 때리는 그녀들’에서 2살 연하 축구선수 출신 박민과 교제 중인 사실을 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 29일 SBS ‘골 때리는 외박’예고편에서는 결혼 날짜를 공개하기도 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 오지난 2008년 KBS 23기 공채 개그맨으로 데뷔한 오나미는 다양한 예능 프로그램에서 활약 중이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박민은 2009년 경남 FC에 입단했으며, 현재 중학교에서 학생들에게 축구를 가르치고 있다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘9월 4일 결혼’ 오나미, 웨딩화보 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

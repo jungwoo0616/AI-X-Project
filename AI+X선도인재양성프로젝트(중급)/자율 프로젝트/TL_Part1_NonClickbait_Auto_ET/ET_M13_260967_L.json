@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260967",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "BTS 정국, 이틀 만에 전세계 신기록",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단(BTS) 멤버 정국의 ‘스테이 얼라이브(Stay Alive)’가 이틀 만에 전세계 솔로곡 신기록을 수립했다.\n유럽의 빌보드로 불리는 월드뮤직어워드(WMA)는 지난 13일 정국의 솔로곡 ‘스테이 얼라이브’가 글로벌 음원 사이트인 아이튠즈에서 100개 국가 1위에 올랐다고 전했다.\n아이튠즈에서 12일 만에 100개국 1위를 달성한 기록을 10일 앞당기며 2일 만에 신기록을 수립한 것이다. ‘스테이 얼라이브’는 발매 6시간 이내 8대 음원 시장인 미국, 영국, 일본, 프랑스, 캐나다, 호주, 네덜란드, 독일 아이튠즈 톱송 차트 1위를 역사상 최단 시간에 기록했고 한국 솔로이스트 최초로 80개국 1위를 기록했다. ‘스테이 얼라이브’는 발매 24시간 이내에 역대 솔로곡 최단이자 최다인 98개 국가 아이튠즈 톱송 차트 1위를 달성했다.\n또 아이튠즈의 월드와이드와 유럽피안 아이튠즈 송 차트 역시 3일 연속 동시 1위로 진입했다.\n2022년 한국 솔로 가수 최초 아이튠즈의 월드와이드 송 차트 1위에 오른 정국은 막강한 기록 행진을 이어가며 글로벌 음원 파워와 인기를 입증 중이다.\n한편 정국이 소속된 그룹 방탄소년단은 지난해 발매한 곡 ‘Butter’가 빌보드 HOT 100 1위를 10주 연속 기록하며 여전한 글로벌 인기를 증명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단(BTS) 멤버 정국의 ‘스테이 얼라이브(Stay Alive)’가 이틀 만에 전세계 솔로곡 신기록을 수립했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유럽의 빌보드로 불리는 월드뮤직어워드(WMA)는 지난 13일 정국의 솔로곡 ‘스테이 얼라이브’가 글로벌 음원 사이트인 아이튠즈에서 100개 국가 1위에 올랐다고 전했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이튠즈에서 12일 만에 100개국 1위를 달성한 기록을 10일 앞당기며 2일 만에 신기록을 수립한 것이다. ‘스테이 얼라이브’는 발매 6시간 이내 8대 음원 시장인 미국, 영국, 일본, 프랑스, 캐나다, 호주, 네덜란드, 독일 아이튠즈 톱송 차트 1위를 역사상 최단 시간에 기록했고 한국 솔로이스트 최초로 80개국 1위를 기록했다. ‘스테이 얼라이브’는 발매 24시간 이내에 역대 솔로곡 최단이자 최다인 98개 국가 아이튠즈 톱송 차트 1위를 달성했다.",
+				"sentenceSize": 254
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 아이튠즈의 월드와이드와 유럽피안 아이튠즈 송 차트 역시 3일 연속 동시 1위로 진입했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2022년 한국 솔로 가수 최초 아이튠즈의 월드와이드 송 차트 1위에 오른 정국은 막강한 기록 행진을 이어가며 글로벌 음원 파워와 인기를 입증 중이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 정국이 소속된 그룹 방탄소년단은 지난해 발매한 곡 ‘Butter’가 빌보드 HOT 100 1위를 10주 연속 기록하며 여전한 글로벌 인기를 증명했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BTS 정국, 이틀 만에 전세계 신기록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

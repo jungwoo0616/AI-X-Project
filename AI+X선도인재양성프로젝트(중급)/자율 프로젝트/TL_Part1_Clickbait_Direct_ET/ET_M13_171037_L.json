@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171037",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "홍석천, ‘K방역의 그늘’ 자영업자 공감",
+    "newsSubTitle": "",
+    "newsContent": "방송인 홍석천이 자영업자의 고통에 공감했다.\n홍석천은 지난 8월 31일 자신의 인스타그램에 “비처럼 눈물난다”라는 글과 함께 영상을 게재했다.\n공개된 영상은 MBC ‘PD수첩, K방역의 그늘 자영업자’ 편이 방송되고 있다.\n지난 31일 방송된 PD수첩 1301회 ‘PD수첩, K방역의 그늘 자영업자’ 편은 코로나19 확산 방지로 인한 정부의 고강도 방역 조치에 피해를 입은 자영업자들에 관한 이야기다.\n이에 과거 자영업을 했던 홍석천이 공감한 것으로 해석된다.\n홍석천은 지난 8월 26일 방송된 IHQ 예능프로그램 ‘돈쭐내러 왔습니다’에 게스트로 출연해 비슷한 사례를 밝힌 바 있다.\n이날 방송에서 그는 “이태원에서 7개를 운영했다”며 “리모델링까지 새로 했는데 코로나19 확진자 급증으로 문을 닫게 됐다. 마지막 가게 문 닫는 날 20년 만에 가장 많이 울었다”라고 말해 화제를 모았다.\n한편 홍석천은 지난해 8월 자신의 마지막 식당을 폐업했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 홍석천이 자영업자의 고통에 공감했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "홍석천은 지난 8월 31일 자신의 인스타그램에 “비처럼 눈물난다”라는 글과 함께 영상을 게재했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상은 MBC ‘PD수첩, K방역의 그늘 자영업자’ 편이 방송되고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 31일 방송된 PD수첩 1301회 ‘PD수첩, K방역의 그늘 자영업자’ 편은 코로나19 확산 방지로 인한 정부의 고강도 방역 조치에 피해를 입은 자영업자들에 관한 이야기다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 과거 자영업을 했던 홍석천이 공감한 것으로 해석된다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "홍석천은 지난 8월 26일 방송된 IHQ 예능프로그램 ‘돈쭐내러 왔습니다’에 게스트로 출연해 비슷한 사례를 밝힌 바 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 방송에서 그는 “이태원에서 7개를 운영했다”며 “리모델링까지 새로 했는데 코로나19 확진자 급증으로 문을 닫게 됐다. 마지막 가게 문 닫는 날 20년 만에 가장 많이 울었다”라고 말해 화제를 모았다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 홍석천은 지난해 8월 자신의 마지막 식당을 폐업했다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홍석천, 이것 확산으로 운영하던 가게 문 닫아...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

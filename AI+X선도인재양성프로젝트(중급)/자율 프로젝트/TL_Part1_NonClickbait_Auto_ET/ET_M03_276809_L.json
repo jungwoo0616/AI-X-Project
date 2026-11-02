@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276809",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"100% 환불 가능\\\" 네티즌이 꼽은 연예계 환불원정대 7",
+		"newsSubTitle": "",
+		"newsContent": "최근 한반도 주변 4강으로 파견된 대통령 특사들이 남다른 외모와 풍채로 '환불원정대'라는 별명을 얻었다.\n환불원정대란 물건을 좀처럼 환불해주기 꺼려하는 상인들도 단번에 기가 죽을 정도로 강한 '포스'를 풍기는 외모를 말한다.\n문희상 일본 특사, 이해찬 중국 특사 못지 않게 남다른 기를 뿜어내는 연예인들이 있다.\n주로 우리네 주위서 흔히 볼 수 있는 어머니, 또는 이웃집의 인간미 있으면서도 카리스마 이모같은 여성들이다.\n네티즌들이 공감하는 연예계 대표 환불원정대에는 누가 있을까.\n━ 1. 박해미 ━ 2. 이유리 ━ 3. 이경실 ━ 4. 윤여정 ━ 5. 노사연 ━ 6. 김수미 ━ 7. 김부선",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 한반도 주변 4강으로 파견된 대통령 특사들이 남다른 외모와 풍채로 '환불원정대'라는 별명을 얻었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "환불원정대란 물건을 좀처럼 환불해주기 꺼려하는 상인들도 단번에 기가 죽을 정도로 강한 '포스'를 풍기는 외모를 말한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "문희상 일본 특사, 이해찬 중국 특사 못지 않게 남다른 기를 뿜어내는 연예인들이 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주로 우리네 주위서 흔히 볼 수 있는 어머니, 또는 이웃집의 인간미 있으면서도 카리스마 이모같은 여성들이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네티즌들이 공감하는 연예계 대표 환불원정대에는 누가 있을까.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "━ 1. 박해미 ━ 2. 이유리 ━ 3. 이경실 ━ 4. 윤여정 ━ 5. 노사연 ━ 6. 김수미 ━ 7. 김부선",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"100% 환불 가능\\\" 네티즌이 꼽은 연예계 환불원정대 7",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165921",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "군대 갓 전역한 김재중 \\\"살다살다 이런게 다 나왔네\\\"",
+    "newsSubTitle": "",
+    "newsContent": "군대에서 갓 전역한 김재중이 카메라 어플에 빠졌다.\n9일 김재중은 자신의 소속사 씨제스엔터테이먼트 인스타그램에 영상과 함께 \\\"재중은 오늘도 열일 중\\\"이란 글을 올렸다.\n그는 \\\"안녕하세요 저는 재중입니다\\\" \\\"살다살다 이런게 다나왔네\\\"라며 감탄했다.\n김재중은 카메라 어플인 '스노우 어플'을 사용해 영상을 찍었다.\n스노우 어플은 자동으로 피사체의 얼굴을 보정하는 효과가 있다.\n영상 속 김재중의 머리에는 리본이 붙었고 볼은 핑크빛으로 물들었다.\n전세계 팬들은 각 나라의 말로 \\\"다시봐도 귀엽다\\\" \\\"웃는거 진짜 귀여워\\\" \\\"오빠 미모는 오늘도 열일 중\\\"과 같은 반응을 보였다.\n김재중은 지난달 30일 1년 9개월 여의 군복무기간을 마치고 전역했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "군대에서 갓 전역한 김재중이 카메라 어플에 빠졌다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 김재중은 자신의 소속사 씨제스엔터테이먼트 인스타그램에 영상과 함께 \\\"재중은 오늘도 열일 중\\\"이란 글을 올렸다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"안녕하세요 저는 재중입니다\\\" \\\"살다살다 이런게 다나왔네\\\"라며 감탄했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김재중은 카메라 어플인 '스노우 어플'을 사용해 영상을 찍었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스노우 어플은 자동으로 피사체의 얼굴을 보정하는 효과가 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영상 속 김재중의 머리에는 리본이 붙었고 볼은 핑크빛으로 물들었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전세계 팬들은 각 나라의 말로 \\\"다시봐도 귀엽다\\\" \\\"웃는거 진짜 귀여워\\\" \\\"오빠 미모는 오늘도 열일 중\\\"과 같은 반응을 보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김재중은 지난달 30일 1년 9개월 여의 군복무기간을 마치고 전역했다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "군대 전역한 김재중, '라떼는 말이야' 이런 어플 없었어!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

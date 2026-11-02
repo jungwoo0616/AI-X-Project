@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268528",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘주접이 풍년’ 양요섭, 오랜만의 라이트에 “왜 이렇게 귀엽냐” 애정 뿜뿜",
+		"newsSubTitle": "",
+		"newsContent": "‘주접이 풍년’ 하이라이트가 팬들에게 애정을 보였다.\n28일 오후 방송된 KBS2 ‘주접이 풍년’에서는 하이라이트와 팬클럽 라이트가 출연했다.\n이날 응원봉을 흔들며 환호하는 팬들에 감탄한 장민호는 MC 이진혁을 보고 의문을 품었다.\nMC 미선 대신 앉은 이진혁은 “박미선 누나가 확진으로 참여할 수 없으셔서 오늘 제가 앉았다”라고 설명했다.\n하이라이트 주접단은 등장과 함께 주접 향기를 가득 풍기는 자세와 모습으로 눈길을 끌었다. ‘오래 보자’는 하이라이트와 라이트의 영원한 단합을 상징하는 구호다.\n이 상황을 지켜보던 손동운은 “너무 오랜만이라 낯설긴 하다”라고 말했고 주접단의 모습에 양요섭은 “왜 이렇게 귀엽냐? 저거 동운 씨 포즈네요”라고 미소 지었다.\n두바라기까지 발견한 손동운과 윤두준은 아는 팬까지 발견해 반가움을 표했다.\n한편 KBS2 ‘주접이 풍년’은 매주 목요일 오후 8시 30분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘주접이 풍년’ 하이라이트가 팬들에게 애정을 보였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 오후 방송된 KBS2 ‘주접이 풍년’에서는 하이라이트와 팬클럽 라이트가 출연했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 응원봉을 흔들며 환호하는 팬들에 감탄한 장민호는 MC 이진혁을 보고 의문을 품었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC 미선 대신 앉은 이진혁은 “박미선 누나가 확진으로 참여할 수 없으셔서 오늘 제가 앉았다”라고 설명했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하이라이트 주접단은 등장과 함께 주접 향기를 가득 풍기는 자세와 모습으로 눈길을 끌었다. ‘오래 보자’는 하이라이트와 라이트의 영원한 단합을 상징하는 구호다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 상황을 지켜보던 손동운은 “너무 오랜만이라 낯설긴 하다”라고 말했고 주접단의 모습에 양요섭은 “왜 이렇게 귀엽냐? 저거 동운 씨 포즈네요”라고 미소 지었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두바라기까지 발견한 손동운과 윤두준은 아는 팬까지 발견해 반가움을 표했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 KBS2 ‘주접이 풍년’은 매주 목요일 오후 8시 30분에 방송된다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘주접이 풍년’ 양요섭, 오랜만의 라이트에 “왜 이렇게 귀엽냐” 애정 뿜뿜",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

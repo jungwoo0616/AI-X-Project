@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_285080",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "극적인 하룻밤 윤계상, \\\"이하늬와 안 헤어져봐서…\\\" 이유가",
+		"newsSubTitle": "",
+		"newsContent": "배우 윤계상이 연인 이하늬를 언급해 화제다.\n27일 서울 강남구 신사동 CGV압구정에서 영화 ‘극적인 하룻밤’ (감독 하기호) 제작보고회에 감독 하기호와 배우 윤계상 한예리가 참석해 자리를 빛냈다.\n이날 용기 부족한 연애 하수 정훈을 연기한 윤계상은 \\\"연인의 SNS에 들어가 게시물들을 탐색한 적 있는가\\\"라는 질문에 엑스(X)표를 들었다.\n윤계상은 \\\"헤어지고 나서도 본 적 있느냐\\\"라는 사회자의 질문에 \\\"아직 안 헤어져서\\\"라고 공개 열애 중인 이하늬를 언급해 눈길을 끌었다.\n또한 한예리는 같은 질문에 \\\"잘 살고 있는지 궁금해서 들어가 본 적 있다. 다른 사람 만나서 잘 살고 있더라\\\"라고 답해 웃음을 자아냈다.\n한편, 동명 연극을 영화화한 '극적인 하룻밤'은 각자의 연인에게 차인 두 남녀가 원 나잇으로 만나 진정한 사랑에 눈뜨게 된다는 발칙한 로맨틱 코미디. 오는 12월에 개봉예정이다.\n온라인 중앙일보 [사진 일간스포츠]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 윤계상이 연인 이하늬를 언급해 화제다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 서울 강남구 신사동 CGV압구정에서 영화 ‘극적인 하룻밤’ (감독 하기호) 제작보고회에 감독 하기호와 배우 윤계상 한예리가 참석해 자리를 빛냈다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 용기 부족한 연애 하수 정훈을 연기한 윤계상은 \\\"연인의 SNS에 들어가 게시물들을 탐색한 적 있는가\\\"라는 질문에 엑스(X)표를 들었다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윤계상은 \\\"헤어지고 나서도 본 적 있느냐\\\"라는 사회자의 질문에 \\\"아직 안 헤어져서\\\"라고 공개 열애 중인 이하늬를 언급해 눈길을 끌었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 한예리는 같은 질문에 \\\"잘 살고 있는지 궁금해서 들어가 본 적 있다. 다른 사람 만나서 잘 살고 있더라\\\"라고 답해 웃음을 자아냈다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 동명 연극을 영화화한 '극적인 하룻밤'은 각자의 연인에게 차인 두 남녀가 원 나잇으로 만나 진정한 사랑에 눈뜨게 된다는 발칙한 로맨틱 코미디. 오는 12월에 개봉예정이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 일간스포츠]",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "극적인 하룻밤 윤계상, \\\"이하늬와 안 헤어져봐서…\\\" 이유가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

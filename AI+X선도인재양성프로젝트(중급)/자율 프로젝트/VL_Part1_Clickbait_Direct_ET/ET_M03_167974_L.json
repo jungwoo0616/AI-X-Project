@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167974",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "청와대 경호원 출신이라는 미모의 여배우",
+    "newsSubTitle": "",
+    "newsContent": "청와대 경호원 출신 배우 이수련이 눈길을 끌었다.\n이수련은 지난 16일 방송된 tvM '문제적 남자'에 게스트로 출연했다.\n이날 제작진은 이수련의 등장에 앞서 \\\"특전사, 공수부대, 해병대 훈련 마스터에 이화여대 영문과, 연세대 국제안보학 석사와 창의공학 최고위 과정을 거쳤다\\\"고 소개해 관심을 끌었다.\n이수련은 2004년 노무현 정부 시절 경호업무를 수행한 것으로 알려졌다.\n그는 \\\"웬만한 남자 한둘 정도는 제압이 가능하다\\\"고 밝혀 놀라움을 자아냈다.\n그는 \\\"대학교 때 리포터 일을 했고 언론사 시험공부를 하다가 우연히 신문에 난 경호원 모집 공고를 봤다\\\"며 \\\"대통령 경호원이 언론사 시험 공부 과목과 비슷해서 지원을 해봤다. 요즘 토익 점수가 높은 학생들이 많은데 영어 면접은 어려웠다\\\"고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "청와대 경호원 출신 배우 이수련이 눈길을 끌었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이수련은 지난 16일 방송된 tvM '문제적 남자'에 게스트로 출연했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 제작진은 이수련의 등장에 앞서 \\\"특전사, 공수부대, 해병대 훈련 마스터에 이화여대 영문과, 연세대 국제안보학 석사와 창의공학 최고위 과정을 거쳤다\\\"고 소개해 관심을 끌었다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이수련은 2004년 노무현 정부 시절 경호업무를 수행한 것으로 알려졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 \\\"웬만한 남자 한둘 정도는 제압이 가능하다\\\"고 밝혀 놀라움을 자아냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"대학교 때 리포터 일을 했고 언론사 시험공부를 하다가 우연히 신문에 난 경호원 모집 공고를 봤다\\\"며 \\\"대통령 경호원이 언론사 시험 공부 과목과 비슷해서 지원을 해봤다. 요즘 토익 점수가 높은 학생들이 많은데 영어 면접은 어려웠다\\\"고 했다.",
+        "sentenceSize": 141
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이수련, 예상 못한 과거 행보는 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264368",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "아이들, ‘톰보이’로 음원차트 ‘올킬’(여자)",
+		"newsSubTitle": "",
+		"newsContent": "그룹 (여자)아이들이 신곡 ‘톰보이’로 음원차트를 ‘올킬’했다. (여자)아이들은 지난 14일 오후 6시 첫 번째 정규 앨범 ‘아이 네버 다이(I NEVER DIE)’를 발매한 가운데, 타이틀곡 ‘톰보이’가 국내 음원 사이트에서 1위를 하며 ‘퍼펙트 올킬’을 달성했다. (여자)아이들의 신곡 ‘톰보이’는 국내 음원 사이트 멜론, 지니, 벅스, 플로 등 4개의 음원 사이트 실시간 차트와 톱100에서 1위를 거머쥐고, 네이버 바이브에서는 2위에 이름을 올려 독보적 행보를 보이며 저력을 입증하고 있다.\n더불어 이번 앨범 공개 직후 아이튠즈 톱 앨범(Top Album) 부문에서 전 세계 24개 지역 1위에 오르고 케이팝 앨범(K Pop Top Album) 차트 부문에서도 11개 지역에서 정상에 올라 뜨거운 화제성과 여전히 강력한 파워를 입증했다.\n뮤직비디오는 공개 직후 유튜브 인기 급상승 1위에 랭크되며 5일 만에 4천만 뷰를 조회수를 돌파해 인기를 실감케 했다.\n또한 중국 대형 음악 사이트인 ‘왕이뮤직’ 디지털 앨범 판매 차트 1위 그리고 주간 차트와 일간 차트 1위에 올라 글로벌 영향력을 과시했다.\n타이틀곡 ‘톰보이’는 왕이뮤직 내 K-pop 차트 1위에 달성하며 현지 팬들을 열광시켰다.\n한편, (여자)아이들은 ‘톰보이’로 활발한 활동을 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 (여자)아이들이 신곡 ‘톰보이’로 음원차트를 ‘올킬’했다. (여자)아이들은 지난 14일 오후 6시 첫 번째 정규 앨범 ‘아이 네버 다이(I NEVER DIE)’를 발매한 가운데, 타이틀곡 ‘톰보이’가 국내 음원 사이트에서 1위를 하며 ‘퍼펙트 올킬’을 달성했다. (여자)아이들의 신곡 ‘톰보이’는 국내 음원 사이트 멜론, 지니, 벅스, 플로 등 4개의 음원 사이트 실시간 차트와 톱100에서 1위를 거머쥐고, 네이버 바이브에서는 2위에 이름을 올려 독보적 행보를 보이며 저력을 입증하고 있다.",
+				"sentenceSize": 278
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "더불어 이번 앨범 공개 직후 아이튠즈 톱 앨범(Top Album) 부문에서 전 세계 24개 지역 1위에 오르고 케이팝 앨범(K Pop Top Album) 차트 부문에서도 11개 지역에서 정상에 올라 뜨거운 화제성과 여전히 강력한 파워를 입증했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뮤직비디오는 공개 직후 유튜브 인기 급상승 1위에 랭크되며 5일 만에 4천만 뷰를 조회수를 돌파해 인기를 실감케 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 중국 대형 음악 사이트인 ‘왕이뮤직’ 디지털 앨범 판매 차트 1위 그리고 주간 차트와 일간 차트 1위에 올라 글로벌 영향력을 과시했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이틀곡 ‘톰보이’는 왕이뮤직 내 K-pop 차트 1위에 달성하며 현지 팬들을 열광시켰다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, (여자)아이들은 ‘톰보이’로 활발한 활동을 펼칠 예정이다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이들, ‘톰보이’로 음원차트 ‘올킬’(여자)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

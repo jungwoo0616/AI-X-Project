@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278165",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아놀드홍 ‘리틀빅 히어로’건강전도사 변신",
+		"newsSubTitle": "",
+		"newsContent": "아놀드홍이‘리틀빅 히어로’에 건강전도사로 출연한다.\n아놀드홍은 9일 방송되는 tvN ‘리틀빅 히어로’에는 보디빌더 출신 스타트레이너 62번째 히어로로 출연할 예정이다.\n이날 방송에서 아놀드홍은 ‘건강하지 않으면 행복도 없다’, ‘몸이 건강해야 정신도 건강하다’를 모토로 하는 ‘100일’의 마법 트레이닝 비법을 공개한다.\n또 아놀드홍은 “마인드까지 바꿀 수 있어야 진짜 트레이너”라며 트레이너로서 부모님의 건강을 챙기지 못했던 힘든 과거를 딛고 재능기부를 통해 많은 사람들에게 삶의 희망을 심어준다.\n아놀드홍은 “촬영을 진행하면서 저 자신에 대해 다시 알게 됐다”며 “‘100일간의 약속’ 등 여러 재능기부를 오랜 시간 하다 보니까 당연하다고 생각했는데 제가 하는 일이 세상 사람들한테 도움이 되는 것 같다는 생각이 들었다. 많은 사람들이 건강을 지키는 그 날까지 더 열심히 오래오래 하고 싶다”고 밝혔다.\n한편 아놀드홍이 출연하는 ‘리틀빅 히어로’는 오늘 오후 7시40분에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아놀드홍이‘리틀빅 히어로’에 건강전도사로 출연한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아놀드홍은 9일 방송되는 tvN ‘리틀빅 히어로’에는 보디빌더 출신 스타트레이너 62번째 히어로로 출연할 예정이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 아놀드홍은 ‘건강하지 않으면 행복도 없다’, ‘몸이 건강해야 정신도 건강하다’를 모토로 하는 ‘100일’의 마법 트레이닝 비법을 공개한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 아놀드홍은 “마인드까지 바꿀 수 있어야 진짜 트레이너”라며 트레이너로서 부모님의 건강을 챙기지 못했던 힘든 과거를 딛고 재능기부를 통해 많은 사람들에게 삶의 희망을 심어준다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아놀드홍은 “촬영을 진행하면서 저 자신에 대해 다시 알게 됐다”며 “‘100일간의 약속’ 등 여러 재능기부를 오랜 시간 하다 보니까 당연하다고 생각했는데 제가 하는 일이 세상 사람들한테 도움이 되는 것 같다는 생각이 들었다. 많은 사람들이 건강을 지키는 그 날까지 더 열심히 오래오래 하고 싶다”고 밝혔다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 아놀드홍이 출연하는 ‘리틀빅 히어로’는 오늘 오후 7시40분에 방송된다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아놀드홍 ‘리틀빅 히어로’건강전도사 변신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266809",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영기와 친구들, 고향 안동 아름다운 나눔",
+		"newsSubTitle": "",
+		"newsContent": "가수 영기가 고향 친구들과 선한 영향력을 전파했다.\n13일 소속사 생각엔터테인먼트 측은 “영기가 고향 친구들과 함께 안동 경안신육원에 치킨 50마리, 컵과일 50개, 콜라 50개를 기부했다”고 밝혔다.\n기부 물품을 직접 전달하며 따뜻한 마음을 전한 영기는 “많은 사람들에게 사랑을 받고 감사한데, 이 받은 사랑을 많은 사람들과 나눌 수 있는 방법이 없을까? 하고 친구들과 논의했다”며 “코로나로 많이 힘든 요즘 많은 사람들에게 도움을 주고 싶어 기부를 하자는 얘기가 나와 기부를 하게 됐다”며 계기를 말했다.\n고향 친구들과 함께 파랑새봉사단을 설립한 영기는 친구들과 정기적인 봉사를 실행하는 것은 물론, 이번 기부 이후에도 안동에 있는 보육원, 양로원, 장애인 시설 등에 지속적으로 기부할 예정이다.\n팬카페 영기흥신소와 생리대 2만 개를 기부하는 등 따뜻한 마음을 내비쳤던 영기는 최근 MBC ‘우리는 식구당’에 출연해 안성훈, 정다경, TAN(탄) 등 소속 아티스트들과 훈훈한 케미를 뽐낸 바 있다.\n정기적으로 훈훈한 소식을 전하고 있는 영기는 앞으로도 활발한 활동을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영기가 고향 친구들과 선한 영향력을 전파했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 소속사 생각엔터테인먼트 측은 “영기가 고향 친구들과 함께 안동 경안신육원에 치킨 50마리, 컵과일 50개, 콜라 50개를 기부했다”고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기부 물품을 직접 전달하며 따뜻한 마음을 전한 영기는 “많은 사람들에게 사랑을 받고 감사한데, 이 받은 사랑을 많은 사람들과 나눌 수 있는 방법이 없을까? 하고 친구들과 논의했다”며 “코로나로 많이 힘든 요즘 많은 사람들에게 도움을 주고 싶어 기부를 하자는 얘기가 나와 기부를 하게 됐다”며 계기를 말했다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고향 친구들과 함께 파랑새봉사단을 설립한 영기는 친구들과 정기적인 봉사를 실행하는 것은 물론, 이번 기부 이후에도 안동에 있는 보육원, 양로원, 장애인 시설 등에 지속적으로 기부할 예정이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팬카페 영기흥신소와 생리대 2만 개를 기부하는 등 따뜻한 마음을 내비쳤던 영기는 최근 MBC ‘우리는 식구당’에 출연해 안성훈, 정다경, TAN(탄) 등 소속 아티스트들과 훈훈한 케미를 뽐낸 바 있다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정기적으로 훈훈한 소식을 전하고 있는 영기는 앞으로도 활발한 활동을 이어간다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영기와 친구들, 고향 안동 아름다운 나눔",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

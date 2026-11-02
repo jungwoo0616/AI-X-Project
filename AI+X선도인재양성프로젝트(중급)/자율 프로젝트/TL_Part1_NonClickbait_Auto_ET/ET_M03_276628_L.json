@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276628",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "바다 시어머니가 \\\"넌 절대 설거지 하지 마라\\\"고 하는 이유",
+		"newsSubTitle": "",
+		"newsContent": "그룹 S.E.S 출신 바다가 행복한 신혼 생활을 전했다.\n지난달 28일 방송된 tvN '수요미식회'에서다.\n이날 신동엽은 바다에게 \\\"시어머니가 그렇게 잘 해주시냐\\\"고 물었다.\n그러자 바다는 \\\"어머님이 일을 안 시키신다\\\"며 \\\"제가 설거지하려고 하면 어머님이 '팬들한테 악수해주는 손이니까 하지 마라'고 하신다\\\"고 말했다.\n그래서 바다는 설거지를 거의 해본 일이 없다고. 또, \\\"어머님이 청주에 사시는데 2주에 한 번 씩 올라오셔서 냉장고에 음식을 채우고 가신다\\\"며 며느리를 사랑하는 시어머니의 정성에 감사를 표했다.\n깨소금 냄새 나는 바다의 신혼 이야기에 전현무는 \\\"몇 주 보니까 안 시키는게 낫겠다고 생각하신 것 같다\\\"며 농담을 던졌다.\n바다는 올해 3월 9세 연하 남편과 결혼식을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 S.E.S 출신 바다가 행복한 신혼 생활을 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 28일 방송된 tvN '수요미식회'에서다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 신동엽은 바다에게 \\\"시어머니가 그렇게 잘 해주시냐\\\"고 물었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러자 바다는 \\\"어머님이 일을 안 시키신다\\\"며 \\\"제가 설거지하려고 하면 어머님이 '팬들한테 악수해주는 손이니까 하지 마라'고 하신다\\\"고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그래서 바다는 설거지를 거의 해본 일이 없다고. 또, \\\"어머님이 청주에 사시는데 2주에 한 번 씩 올라오셔서 냉장고에 음식을 채우고 가신다\\\"며 며느리를 사랑하는 시어머니의 정성에 감사를 표했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "깨소금 냄새 나는 바다의 신혼 이야기에 전현무는 \\\"몇 주 보니까 안 시키는게 낫겠다고 생각하신 것 같다\\\"며 농담을 던졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "바다는 올해 3월 9세 연하 남편과 결혼식을 올렸다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "바다 시어머니가 \\\"넌 절대 설거지 하지 마라\\\"고 하는 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

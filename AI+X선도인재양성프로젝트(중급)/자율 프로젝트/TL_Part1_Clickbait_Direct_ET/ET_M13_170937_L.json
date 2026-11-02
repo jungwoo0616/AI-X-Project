@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170937",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "[단독]이세영, CJ온스타일서 쇼호스트 첫 출격",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 이세영이 쇼호스트에 도전한다. 20일 ‘스포츠경향’ 취재에 따르면 이세영은 오는 23일 CJ온스타일을 통해 쇼호스트로 변신한다.\n최근 유튜버로 맹활약 중인 그가 홈쇼핑 피크타임인 오후 10시 방송 쇼호스트로 첫 출사표를 던진다.\n이날 방송은 CJ온스타일과 네이버 쇼핑 라이브를 통해 동시 송출될 예정이다.\n이와 관련 이세영은 “새로운 도전을 하게 돼 설렌다”며 “요즘 여성들 사이에서 핫하다는 노브라웨어를 소개할 예정이다. 많은 분에게 도움이 되길 기대한다”고 소감을 밝혔다.\n한편, 이세영은 지난 1월 성형 수술 후 외모 콤플렉스를 극복한 과정을 공개해 많은 이의 지지를 받았다.\n계속해서 유튜브 채널 ‘영평티비’를 통해 다양한 콘텐츠를 선보이며 팬들과 활발한 소통을 이어가고 있다.\n최근에는 피트니스 대회에서 2관왕을 차지하며 건강미의 대명사로 올라서며 주목받기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 이세영이 쇼호스트에 도전한다. 20일 ‘스포츠경향’ 취재에 따르면 이세영은 오는 23일 CJ온스타일을 통해 쇼호스트로 변신한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 유튜버로 맹활약 중인 그가 홈쇼핑 피크타임인 오후 10시 방송 쇼호스트로 첫 출사표를 던진다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송은 CJ온스타일과 네이버 쇼핑 라이브를 통해 동시 송출될 예정이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 관련 이세영은 “새로운 도전을 하게 돼 설렌다”며 “요즘 여성들 사이에서 핫하다는 노브라웨어를 소개할 예정이다. 많은 분에게 도움이 되길 기대한다”고 소감을 밝혔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 이세영은 지난 1월 성형 수술 후 외모 콤플렉스를 극복한 과정을 공개해 많은 이의 지지를 받았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "계속해서 유튜브 채널 ‘영평티비’를 통해 다양한 콘텐츠를 선보이며 팬들과 활발한 소통을 이어가고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최근에는 피트니스 대회에서 2관왕을 차지하며 건강미의 대명사로 올라서며 주목받기도 했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그우먼 이세영, 성형 수술 후 새로운 도전... 여성들을 위한 이것 소개한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

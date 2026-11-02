@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267176",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이도진의 위로, 쪽방촌 월간음악회 봉사활동",
+		"newsSubTitle": "",
+		"newsContent": "이도진이 동료와 봉사활동 인증샷을 공개했다.\n이도진은 최근 자신의 SNS에 ‘동갑내기 친구 남보라가 매달 봉사하는 곳에서 트롯 공연 필요하다는 말에 바로 달려온 트롯멤버 박민주, 김태욱, 이도진 뜻깊고 너무 따듯한 봉사에 오히려 제가 더 위로받고왔습니다’라며 말문을 열었다.\n이어 그는 ‘여러분 영등포 쪽방촌 월간음악회&물품나눔이 매달 셋째주 토요일에 봉사가 이뤄지고 있습니다. 월간음악회에서 이번 연말 특별한 공연을 기획 중에 있으니 함께 동참해주실 분은 제게 연락주세요 ^^’라는 글과 여러 장의 인증샷을 공개했다.\n공개된 사진 속 이도진은 함께 봉사활동을 펼친 동료들과 인증샷은 물론 노래를 부르는 모습이 담겨있다.\n이에 팬들은 ‘도진님이 가진 달란트로 귀한 봉사를 하고 오셨네요. 선행하는 모습도 아름다워요’, ‘선한영향력의 도진님 미모만큼 마음도 멋져요’, ‘어려운 곳 봉사에 늘 앞장서는 도진님 함께 동참하고 싶네요’라는 응원의 댓글이 이어지고 있다.\n한편 이도진은 최근 신곡 ‘그대 내게 다시 올까요’로 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이도진이 동료와 봉사활동 인증샷을 공개했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이도진은 최근 자신의 SNS에 ‘동갑내기 친구 남보라가 매달 봉사하는 곳에서 트롯 공연 필요하다는 말에 바로 달려온 트롯멤버 박민주, 김태욱, 이도진 뜻깊고 너무 따듯한 봉사에 오히려 제가 더 위로받고왔습니다’라며 말문을 열었다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 그는 ‘여러분 영등포 쪽방촌 월간음악회&물품나눔이 매달 셋째주 토요일에 봉사가 이뤄지고 있습니다. 월간음악회에서 이번 연말 특별한 공연을 기획 중에 있으니 함께 동참해주실 분은 제게 연락주세요 ^^’라는 글과 여러 장의 인증샷을 공개했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진 속 이도진은 함께 봉사활동을 펼친 동료들과 인증샷은 물론 노래를 부르는 모습이 담겨있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 팬들은 ‘도진님이 가진 달란트로 귀한 봉사를 하고 오셨네요. 선행하는 모습도 아름다워요’, ‘선한영향력의 도진님 미모만큼 마음도 멋져요’, ‘어려운 곳 봉사에 늘 앞장서는 도진님 함께 동참하고 싶네요’라는 응원의 댓글이 이어지고 있다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이도진은 최근 신곡 ‘그대 내게 다시 올까요’로 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이도진의 위로, 쪽방촌 월간음악회 봉사활동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

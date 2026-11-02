@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277213",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김연아를 오래 보면서 느낀 점",
+		"newsSubTitle": "",
+		"newsContent": "최근 한 온라인 커뮤니티에서는 오랫동안 김연아를 지켜봐 온 팬의 글이 눈길을 끌고 있다.\n이 팬은 '김연아를 오랫동안 보면서 느낀 게 변명이나 핑계가 없습니다'라는 제목으로 글을 썼다.\n글쓴이는 \\\"밴쿠버 올림픽이 끝나고 나서야 부상이 있다고 털어놨다\\\"며 그렇게 생각하는 이유를 적었다.\n또 \\\"경기 중에 활주를 하다가 넘어진 적이 있었다\\\"며 \\\"넘어진 곳에 물이 고여있었다. 하지만 김연아는 경기장 핑계를 대지 않고 자신의 실수인 양 말하더라\\\"며 김연아의 마음가짐을 칭찬했다.\n글의 말미에는 \\\"항상 핑계나 변명이 없다. 팬으로서 답답한 부분도 있지만, 멋지다\\\"고 덧붙였다.\n이 글을 본 네티즌들은 \\\"진짜 변명하는 모습을 본 적이 없다\\\" \\\"괜히 연느님이 아니다\\\" \\\"나보다 어린 나이임에도 존경한다\\\" \\\"저런 선수가 또 나올 수 있을까\\\"와 같은 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 한 온라인 커뮤니티에서는 오랫동안 김연아를 지켜봐 온 팬의 글이 눈길을 끌고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 팬은 '김연아를 오랫동안 보면서 느낀 게 변명이나 핑계가 없습니다'라는 제목으로 글을 썼다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 \\\"밴쿠버 올림픽이 끝나고 나서야 부상이 있다고 털어놨다\\\"며 그렇게 생각하는 이유를 적었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 \\\"경기 중에 활주를 하다가 넘어진 적이 있었다\\\"며 \\\"넘어진 곳에 물이 고여있었다. 하지만 김연아는 경기장 핑계를 대지 않고 자신의 실수인 양 말하더라\\\"며 김연아의 마음가짐을 칭찬했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "글의 말미에는 \\\"항상 핑계나 변명이 없다. 팬으로서 답답한 부분도 있지만, 멋지다\\\"고 덧붙였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 글을 본 네티즌들은 \\\"진짜 변명하는 모습을 본 적이 없다\\\" \\\"괜히 연느님이 아니다\\\" \\\"나보다 어린 나이임에도 존경한다\\\" \\\"저런 선수가 또 나올 수 있을까\\\"와 같은 반응을 보였다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김연아를 오래 보면서 느낀 점",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

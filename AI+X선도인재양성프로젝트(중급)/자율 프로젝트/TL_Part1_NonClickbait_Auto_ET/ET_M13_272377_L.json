@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272377",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이스크림 CF라면 방탄소년단 지민",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 멤버 지민이 시원한 아이스크림 광고에 가장 어울리는 스타로 인정받았다.\n방탄소년단 팬덤 아미에 따르면 아이돌차트 5월 30일부터 5일까지 1주일간 진행된 ‘시원한 아이스크림 CF에 가장 어울리는 스타는?’ 투표에서 지민이 4만6084표(42.0%)를 기록해 1위에 이름을 올렸다.\n지민의 뒤를 이어 송가인, 이솔로몬, 하성운, 트와이스, 프로미스나인, 황우림, 2PM 준호 등이 순위를 뒤따랐다.\n지난 4월 익사이팅 디시 투표에서도 지민은 ‘아이스크림 광고에 찰떡인 스윗한 매력의 스타는?’ 투표에서도 과반수가 넘는 득표율을 기록하며 1위에 오르기도 했다.\n실제 지민은 2020년 아이스크림 업체 베르킨라빈스 광고 모델로 큰 인기를 얻은 적이 있다.\n아미 측은 “1위에 선정된 지민은 한여름 무더위도 잊게하는 밝은 미소와 청량한 상큼 매력으로 전 세계 팬들을 사로잡고 있다”며 “특히 보이그룹 개인 브랜드 평판 41개월 1위라는 유일무이한 기록을 세우고 있다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 멤버 지민이 시원한 아이스크림 광고에 가장 어울리는 스타로 인정받았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단 팬덤 아미에 따르면 아이돌차트 5월 30일부터 5일까지 1주일간 진행된 ‘시원한 아이스크림 CF에 가장 어울리는 스타는?’ 투표에서 지민이 4만6084표(42.0%)를 기록해 1위에 이름을 올렸다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지민의 뒤를 이어 송가인, 이솔로몬, 하성운, 트와이스, 프로미스나인, 황우림, 2PM 준호 등이 순위를 뒤따랐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 4월 익사이팅 디시 투표에서도 지민은 ‘아이스크림 광고에 찰떡인 스윗한 매력의 스타는?’ 투표에서도 과반수가 넘는 득표율을 기록하며 1위에 오르기도 했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 지민은 2020년 아이스크림 업체 베르킨라빈스 광고 모델로 큰 인기를 얻은 적이 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아미 측은 “1위에 선정된 지민은 한여름 무더위도 잊게하는 밝은 미소와 청량한 상큼 매력으로 전 세계 팬들을 사로잡고 있다”며 “특히 보이그룹 개인 브랜드 평판 41개월 1위라는 유일무이한 기록을 세우고 있다”고 설명했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이스크림 CF라면 방탄소년단 지민",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267162",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "현빈♥손예진 이을 세기의 커플 김우빈♥신민아",
+		"newsSubTitle": "",
+		"newsContent": "지난달 31일 현빈, 손예진 커플은 세간의 주목을 받으며 결혼식을 올렸다.\n현빈, 손예진을 이을 세기의 커플은 어느 커플일까?\n가장 주목받는 커플은 김우빈, 신민아 커플이다.\n현빈, 손예진 커플 못지않은 스타성을 겸비한 김우빈, 신민아 커플은 최근 드라마 ‘우리들의 블루스’에 함께 출연하며 관심을 불러일으키고 있다.\n두 사람은 2015년 열애 인정한 이후 7년째 사랑을 지키고 있다.\n의류광고에서 처음 사랑을 키운 두 사람은 김우빈의 투병기간동안 신민아가 김우빈 곁을 지켰다는 사실이 알려지며 결별루머를 말끔히 씻어냈다.\n한 때 결별설에 휩싸이고 했지만 커피차, sns 댓글 등으로 서로를 응원하며 애정을 드러낸 사연들을 공개해 모든 이들의 부러움을 사기도 했다. ‘우리들의 블루스’에서 신민아는 극 중 상처를 품고 제주로 돌아온 민선아 역을, 김우빈은 천성이 맑고 따뜻한 선장 박정준 역을 맡았다.\n신민아는 이병헌과, 김우빈은 한지민과 커플연기를 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 31일 현빈, 손예진 커플은 세간의 주목을 받으며 결혼식을 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현빈, 손예진을 이을 세기의 커플은 어느 커플일까?",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가장 주목받는 커플은 김우빈, 신민아 커플이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현빈, 손예진 커플 못지않은 스타성을 겸비한 김우빈, 신민아 커플은 최근 드라마 ‘우리들의 블루스’에 함께 출연하며 관심을 불러일으키고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "두 사람은 2015년 열애 인정한 이후 7년째 사랑을 지키고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "의류광고에서 처음 사랑을 키운 두 사람은 김우빈의 투병기간동안 신민아가 김우빈 곁을 지켰다는 사실이 알려지며 결별루머를 말끔히 씻어냈다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 때 결별설에 휩싸이고 했지만 커피차, sns 댓글 등으로 서로를 응원하며 애정을 드러낸 사연들을 공개해 모든 이들의 부러움을 사기도 했다. ‘우리들의 블루스’에서 신민아는 극 중 상처를 품고 제주로 돌아온 민선아 역을, 김우빈은 천성이 맑고 따뜻한 선장 박정준 역을 맡았다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신민아는 이병헌과, 김우빈은 한지민과 커플연기를 한다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현빈♥손예진 이을 세기의 커플 김우빈♥신민아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

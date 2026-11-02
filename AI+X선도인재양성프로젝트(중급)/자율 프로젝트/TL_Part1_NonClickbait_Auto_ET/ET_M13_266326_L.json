@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266326",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "에이프릴 양예나, 연기자로…스타베이스 ‘품’[공식]",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 에이프릴(April) 출신의 양예나가 스타베이스매니지먼트그룹(이하 스타베이스)과 전속계약을 체결했다.\n스타베이스 측은 8일 “양예나 씨가 최근 소속 계약을 맺고 앞으로 연기자로 도전을 이어갈 예정이다”라며 “회사 측은 예나 씨의 연기 도전 뿐만 아니라 다양한 연예 활동을 위한 전폭적인 지원을 아끼지 않을 계획”이라고 밝혔다.\n양예나는 “저를 믿고 기다려 주신 팬분들에게 고맙다는 말을 전하고 싶다”며 “앞으로 스타베이스에서 좋은 연기자로 다시 인사드리겠다. 많은 응원 부탁드린다”고 소감을 전했다.\n2000년생인 양예나는 지난 2015년 만 15세의 나이에 DSP 소속 걸그룹 에이프릴 멤버로 데뷔했다.\n양예나의 새로운 소속사 스타베이스에는 무대와 스크린은 물론이고 드라마 ‘흑기사’ ‘복수가 돌아왔다’ ‘싸이코패스 다이어리’ 등에서 감초 역할로 활약한 배우 김결과 최근 드라마 ‘사내맞선’에서 조유정 역을 맡아 톡톡 튀는 연기로 눈길을 사로잡은 서혜원, 드라마 ‘설강화’ ‘배드 앤 크레이지’에서 임팩트 강한 연기를 보여준 김정훈 등이 소속되어 있다.\n한편 양예나는 올 하반기 개봉 예정인 뮤지컬 영화 ‘K스쿨’에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 에이프릴(April) 출신의 양예나가 스타베이스매니지먼트그룹(이하 스타베이스)과 전속계약을 체결했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스타베이스 측은 8일 “양예나 씨가 최근 소속 계약을 맺고 앞으로 연기자로 도전을 이어갈 예정이다”라며 “회사 측은 예나 씨의 연기 도전 뿐만 아니라 다양한 연예 활동을 위한 전폭적인 지원을 아끼지 않을 계획”이라고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양예나는 “저를 믿고 기다려 주신 팬분들에게 고맙다는 말을 전하고 싶다”며 “앞으로 스타베이스에서 좋은 연기자로 다시 인사드리겠다. 많은 응원 부탁드린다”고 소감을 전했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2000년생인 양예나는 지난 2015년 만 15세의 나이에 DSP 소속 걸그룹 에이프릴 멤버로 데뷔했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양예나의 새로운 소속사 스타베이스에는 무대와 스크린은 물론이고 드라마 ‘흑기사’ ‘복수가 돌아왔다’ ‘싸이코패스 다이어리’ 등에서 감초 역할로 활약한 배우 김결과 최근 드라마 ‘사내맞선’에서 조유정 역을 맡아 톡톡 튀는 연기로 눈길을 사로잡은 서혜원, 드라마 ‘설강화’ ‘배드 앤 크레이지’에서 임팩트 강한 연기를 보여준 김정훈 등이 소속되어 있다.",
+				"sentenceSize": 195
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 양예나는 올 하반기 개봉 예정인 뮤지컬 영화 ‘K스쿨’에 출연했다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이프릴 양예나, 연기자로…스타베이스 ‘품’[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

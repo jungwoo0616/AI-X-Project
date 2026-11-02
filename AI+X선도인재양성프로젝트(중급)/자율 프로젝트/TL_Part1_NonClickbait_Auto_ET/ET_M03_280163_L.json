@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280163",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "4·16 가족협의회 \\\"단원고 졸업식 참석 안해…명예졸업식도 불참\\\"",
+		"newsSubTitle": "",
+		"newsContent": "세월호 참사 피해자 모임인 4·16 가족협의회가 12일에 열릴 예정인 안산 단원고 졸업식에 불참하기로 했다.\n4·16 가족협의회는 5일 ‘단원고 졸업식을 앞두고 드리는 말씀’이라는 보도자료를 통해 “희생자 가족들은 단원고 졸업식에 참석하지 않기로 의견을 모았다”고 발표했다.\n4·16 가족협의회는 “축하받으며 졸업해야 할 생존학생들이 졸업식을 둘러싼 논란에 휘말려 마음을 다치면 안 되기에 의사표현을 공개적으로 하지는 않았다”고 언급했다.\n졸업식 불참 이유에 대해서는 “아직 돌아오지 못한 아이들과 선생님이 있는데 우리 아이들(희생자)만 먼저 졸업을 시킬 수는 없다”며 “이들이 모두 돌아온 후 졸업식을 어떻게 할 것인지 결정하는 것이 마땅하다”고 전했다.\n그러면서 “어른들의 잘못이 빚어낸 끔찍한 참사에서 어렵게 스스로 살아나온 75명 생존학생들의 졸업을 정말 축하한다”고 덧붙였다.\n아울러 4·16 가족협의회는 희생된 2학년 학생(명예 3학년)들의 명예졸업식에도 참석할 수 없음을 분명히 했다.\n4·16 가족협의회는 “세월호 참사의 흔적을 지워버리기 위해 강행하는 명예졸업식에는 참석할 수 없다. 졸업식을 1월 초에 하는 이유는 졸업식 후 교실을 정리하고 리모델링할 시간을 확보하기 위한 것이다. 가족들은 교실과 관련한 어떠한 타협도 할 수 없다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세월호 참사 피해자 모임인 4·16 가족협의회가 12일에 열릴 예정인 안산 단원고 졸업식에 불참하기로 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4·16 가족협의회는 5일 ‘단원고 졸업식을 앞두고 드리는 말씀’이라는 보도자료를 통해 “희생자 가족들은 단원고 졸업식에 참석하지 않기로 의견을 모았다”고 발표했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "4·16 가족협의회는 “축하받으며 졸업해야 할 생존학생들이 졸업식을 둘러싼 논란에 휘말려 마음을 다치면 안 되기에 의사표현을 공개적으로 하지는 않았다”고 언급했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "졸업식 불참 이유에 대해서는 “아직 돌아오지 못한 아이들과 선생님이 있는데 우리 아이들(희생자)만 먼저 졸업을 시킬 수는 없다”며 “이들이 모두 돌아온 후 졸업식을 어떻게 할 것인지 결정하는 것이 마땅하다”고 전했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 “어른들의 잘못이 빚어낸 끔찍한 참사에서 어렵게 스스로 살아나온 75명 생존학생들의 졸업을 정말 축하한다”고 덧붙였다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아울러 4·16 가족협의회는 희생된 2학년 학생(명예 3학년)들의 명예졸업식에도 참석할 수 없음을 분명히 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "4·16 가족협의회는 “세월호 참사의 흔적을 지워버리기 위해 강행하는 명예졸업식에는 참석할 수 없다. 졸업식을 1월 초에 하는 이유는 졸업식 후 교실을 정리하고 리모델링할 시간을 확보하기 위한 것이다. 가족들은 교실과 관련한 어떠한 타협도 할 수 없다”고 밝혔다.",
+				"sentenceSize": 147
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "4·16 가족협의회 \\\"단원고 졸업식 참석 안해…명예졸업식도 불참\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

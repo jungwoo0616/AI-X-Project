@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265774",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "부르노마스 만난 방탄소년단",
+		"newsSubTitle": "",
+		"newsContent": "톱 아이돌그룹 방탄소년단 멤버 RM, 슈가, 지민이 세계적인 팝 스타 브루노 마스와 만났다.\n지민은 지난 2일 자신의 SNS 인스타그램을 통해 브루노 마스, 앤더슨 팩과 함께 찍은 사진을 공개했다.\n이들은 친밀한 포즈를 취하며 환하게 웃고 있다.\nRM과 슈가도 각자 SNS에 같은 사진을 일제히 올리며 만남을 기념했다.\n브루노 마스 역시 자신의 SNS에 BTS를 언급하며 “어제 라스베이거스 공연에 와줘서 고맙다. 앞으로도 즐기길 바란다”라고 적었다.\n한편 방탄소년단은 3일(현지 시각) 미국 라스베이거스 MGM 그랜드 가든 아레나에서 열리는 제64회 그래미어워드에 참석한 뒤, 8일부터는 라스베이거스 얼리전트 스타디움에서 ‘BTS 퍼미션 투 댄스 온 스테이지-라스베이거스’ 공연을 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "톱 아이돌그룹 방탄소년단 멤버 RM, 슈가, 지민이 세계적인 팝 스타 브루노 마스와 만났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지민은 지난 2일 자신의 SNS 인스타그램을 통해 브루노 마스, 앤더슨 팩과 함께 찍은 사진을 공개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 친밀한 포즈를 취하며 환하게 웃고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "RM과 슈가도 각자 SNS에 같은 사진을 일제히 올리며 만남을 기념했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "브루노 마스 역시 자신의 SNS에 BTS를 언급하며 “어제 라스베이거스 공연에 와줘서 고맙다. 앞으로도 즐기길 바란다”라고 적었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 방탄소년단은 3일(현지 시각) 미국 라스베이거스 MGM 그랜드 가든 아레나에서 열리는 제64회 그래미어워드에 참석한 뒤, 8일부터는 라스베이거스 얼리전트 스타디움에서 ‘BTS 퍼미션 투 댄스 온 스테이지-라스베이거스’ 공연을 개최한다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부르노마스 만난 방탄소년단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_276071",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "성유리, 6년째 선행···이번엔 3천만 원",
+		"newsSubTitle": "",
+		"newsContent": "배우 성유리가 6년째 따뜻한 행보를 이어가고 있다.\n22일 한 화장품 브랜드에 따르면 성유리는 3천만 원 상당의 해당 브랜드 제품을 자비로 직접 구매, ‘하늘빛 프로젝트’에 제품을 전했다. ‘하늘빛 프로젝트’는 국내외 소외계층 아동과 청소년들을 돕기 위해 문화 및 엔터테인먼트 영역의 전문가들과 봉사자들이 뜻을 모아 진행하는 나눔 행사다.\n성유리는 6년째 ‘하늘빛 프로젝트'에 기부를 이어가고 있다. ‘하늘빛 프로젝트’는 오는 23일 토요일 오후 1시부터 서울숲 심(SEAM)오피스 메인 스테이지에서‘썸머 바자’를 연다. 이날 행사 수익금은 어려운 환경에 놓인 청소년과 여성 및 아동 이주민에게 100% 전달되며, 성유리가 기부한 마스크 팩과 핸드워시, 핸드로션은 물품으로 전해질 예정이다.\n성유리는 최근 소규모 보육원과 포천의 한 이주민센터에 도움을 주며 화제가 되었다.\n그는 꾸준히 미혼모자, 독거노인, 발달장애 청년, 저소득 아동의 보건의료 지원 등 국내외 다양한 계층에 선행을 이어가며 나눔 문화 확산에 앞장서고 있다.\n한편 성유리는 매주 월요일 오후 8시 30분 방송되는 KBS 예능 프로그램‘이별도 리콜이 될까요?’의 MC로 활약중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 성유리가 6년째 따뜻한 행보를 이어가고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 한 화장품 브랜드에 따르면 성유리는 3천만 원 상당의 해당 브랜드 제품을 자비로 직접 구매, ‘하늘빛 프로젝트’에 제품을 전했다. ‘하늘빛 프로젝트’는 국내외 소외계층 아동과 청소년들을 돕기 위해 문화 및 엔터테인먼트 영역의 전문가들과 봉사자들이 뜻을 모아 진행하는 나눔 행사다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "성유리는 6년째 ‘하늘빛 프로젝트'에 기부를 이어가고 있다. ‘하늘빛 프로젝트’는 오는 23일 토요일 오후 1시부터 서울숲 심(SEAM)오피스 메인 스테이지에서‘썸머 바자’를 연다. 이날 행사 수익금은 어려운 환경에 놓인 청소년과 여성 및 아동 이주민에게 100% 전달되며, 성유리가 기부한 마스크 팩과 핸드워시, 핸드로션은 물품으로 전해질 예정이다.",
+				"sentenceSize": 196
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "성유리는 최근 소규모 보육원과 포천의 한 이주민센터에 도움을 주며 화제가 되었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 꾸준히 미혼모자, 독거노인, 발달장애 청년, 저소득 아동의 보건의료 지원 등 국내외 다양한 계층에 선행을 이어가며 나눔 문화 확산에 앞장서고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 성유리는 매주 월요일 오후 8시 30분 방송되는 KBS 예능 프로그램‘이별도 리콜이 될까요?’의 MC로 활약중이다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "성유리, 6년째 선행···이번엔 3천만 원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

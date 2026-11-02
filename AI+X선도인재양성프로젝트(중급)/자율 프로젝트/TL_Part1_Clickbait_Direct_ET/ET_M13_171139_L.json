@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171139",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "NCT 도영, 계란 굽는 공명에 “너무 작위적” 티격태격 (전참시)",
+    "newsSubTitle": "",
+    "newsContent": "‘전지적 참견 시점’ 공명의 집에 NCT 도영이 등장했다.\n11일 오후 방송된 MBC ‘전지적 참견 시점’에서는 공명의 집을 방문한 NCT 도영의 모습이 전파를 탔다.\n이날 도영은 공명이 계란을 굽는 모습을 보고 “뭐야, 너무 작위적이잖아 지금”이라고 타박했다.\n먹고 싶은 게 있어 식자재를 사 왔다는 도영의 모습에 공명은 “스케줄이 없을 때 본가에 오면 자기가 해 먹고 싶은 요리를 한다. 요리를 잘한다”라고 전했다.\n공명은 도영에게 “요리해줄 거야?”라고 물었고 “오케이”라고 웃었다.\n그 모습에 웃은 도영은 “어색하잖아 지금”이라고 말했다.\n그 말에 공명은 “난 너무 편한데? 너무 편하다니까”라며 국어책 읽는 듯이 말했고 도영은 그를 찰싹 때리며 “됐어 빨리 집어치워. 비키라고. 안 하던 짓 하지 말고”라며 티격태격했다.\n한편 ‘전지적 참견 시점’은 매주 토요일 오후 11시 10분 MBC에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘전지적 참견 시점’ 공명의 집에 NCT 도영이 등장했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 오후 방송된 MBC ‘전지적 참견 시점’에서는 공명의 집을 방문한 NCT 도영의 모습이 전파를 탔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 도영은 공명이 계란을 굽는 모습을 보고 “뭐야, 너무 작위적이잖아 지금”이라고 타박했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먹고 싶은 게 있어 식자재를 사 왔다는 도영의 모습에 공명은 “스케줄이 없을 때 본가에 오면 자기가 해 먹고 싶은 요리를 한다. 요리를 잘한다”라고 전했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공명은 도영에게 “요리해줄 거야?”라고 물었고 “오케이”라고 웃었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 모습에 웃은 도영은 “어색하잖아 지금”이라고 말했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 말에 공명은 “난 너무 편한데? 너무 편하다니까”라며 국어책 읽는 듯이 말했고 도영은 그를 찰싹 때리며 “됐어 빨리 집어치워. 비키라고. 안 하던 짓 하지 말고”라며 티격태격했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 ‘전지적 참견 시점’은 매주 토요일 오후 11시 10분 MBC에서 만나볼 수 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "NCT 도영 `이것` 촬영하는 공명 보더니 참지 못하고 내뱉은 말은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

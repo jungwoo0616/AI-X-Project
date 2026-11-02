@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264680",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한지혜, 편안한 복장으로 동안 비주얼 완성",
+		"newsSubTitle": "",
+		"newsContent": "배우 한지혜(37)가 동안 미모를 자랑했다.\n한지혜는 22일 자신의 사회 관계망 서비스(SNS) 인스타그램을 통해 이모티콘과 함께 사진들을 게재했다..\n공개한 사진 속 한지혜는 청바지에 재킷을 입은 캐주얼한 복장으로 산뜻한 분위기와 밝은 스타일링을 완성했다.\n특히 한지혜는 귀여운 연한 하늘색 비니 모자를 착용하고 시크릿 투톤 옴브레 헤어스타일로 동안 비주얼을 자랑해 팬들을 감탄하게 했다.\n또 다른 사진 속 한지혜는 실내에서 딸과 셀피를 찍은 모습을 담았다.\n한지혜의 딸은 살짝 불만이 있는지 뾰로통한 표정을 지은 게 눈길을 끌었다.\n한편 한지혜는 지난 2010년 6살 연상의 검사와 결혼, 10년 만에 임신 소식을 전해 화제를 모았다.\n그리고 지난해 6월에 딸을 품었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한지혜(37)가 동안 미모를 자랑했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한지혜는 22일 자신의 사회 관계망 서비스(SNS) 인스타그램을 통해 이모티콘과 함께 사진들을 게재했다..",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진 속 한지혜는 청바지에 재킷을 입은 캐주얼한 복장으로 산뜻한 분위기와 밝은 스타일링을 완성했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 한지혜는 귀여운 연한 하늘색 비니 모자를 착용하고 시크릿 투톤 옴브레 헤어스타일로 동안 비주얼을 자랑해 팬들을 감탄하게 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 사진 속 한지혜는 실내에서 딸과 셀피를 찍은 모습을 담았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한지혜의 딸은 살짝 불만이 있는지 뾰로통한 표정을 지은 게 눈길을 끌었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 한지혜는 지난 2010년 6살 연상의 검사와 결혼, 10년 만에 임신 소식을 전해 화제를 모았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그리고 지난해 6월에 딸을 품었다.",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한지혜, 편안한 복장으로 동안 비주얼 완성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

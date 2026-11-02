@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279160",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'프로듀스101' 전소미, 커뮤니티·SNS 등 화제…\\\"뭘먹고 이렇게 예뻐?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "‘프로듀스 101’ 전소미가 화제다.\n전소미는 JYP의 연습생으로 과거 Mnet ‘식스틴’에 출연해 시청자들에게 얼굴을 알렸다. ‘식스틴’은 JYP엔터테인먼트의 걸그룹 데뷔 프로젝트로, 우승자들은 현재 걸그룹 트와이스로 활동 중이다.\n당시 전소미는 귀엽고 발랄한 매력을 선보이며 매력으로 시선을 사로잡았다.\n나이답지 않은 성숙한 얼굴과 날렵한 몸매도 한 몫 했다.\n한편 전소미는 지난 22일 오후 방송된 Mnet 오디션 프로그램 ‘프로듀스 101’에 출연, A등급을 받았다.\n온라인중앙일보 ‘프로듀스 101’ 전소미",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘프로듀스 101’ 전소미가 화제다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전소미는 JYP의 연습생으로 과거 Mnet ‘식스틴’에 출연해 시청자들에게 얼굴을 알렸다. ‘식스틴’은 JYP엔터테인먼트의 걸그룹 데뷔 프로젝트로, 우승자들은 현재 걸그룹 트와이스로 활동 중이다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 전소미는 귀엽고 발랄한 매력을 선보이며 매력으로 시선을 사로잡았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나이답지 않은 성숙한 얼굴과 날렵한 몸매도 한 몫 했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 전소미는 지난 22일 오후 방송된 Mnet 오디션 프로그램 ‘프로듀스 101’에 출연, A등급을 받았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인중앙일보 ‘프로듀스 101’ 전소미",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'프로듀스101' 전소미, 커뮤니티·SNS 등 화제…\\\"뭘먹고 이렇게 예뻐?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

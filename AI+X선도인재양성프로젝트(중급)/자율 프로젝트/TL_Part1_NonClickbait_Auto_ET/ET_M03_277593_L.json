@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277593",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"구구단이란 팀명 들었을 때…\\\" 김세정 거침없이 고백",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 구구단의 김세정이 팀명을 처음 들었을 때의 심경을 고백했다.\n3일 KBS2 '1대100'에 그룹 구구단의 김세정이 출연했다.\n김세정은 이날 \\\"1대 100은 충분히 경험해봤다. '프로듀스 101'서 101명 중 한 명이었다\\\"며 여유있는 태도로 방송에 참여했다.\n이날 김세정은 팀명 '구구단'이 탄생하게 된 배경도 소개했다.\n김세정은 \\\"어느날 대표님이 데뷔한다고 식사를 사주셨다. 신나서 썰고 있었다\\\"고 말했다.\n그러면서 김세정은 \\\"대표님이 '팀명을 지인한테 슬쩍 흘려봤는데 일주일이 지났는데도 기억했다. 이 팀명으로 가야겠다'고 하시더라\\\"고 말했다.\n그러면서 그는 \\\"구구단의 뜻이 되게 좋다. 아홉 매력을 가진 아홉 소녀가 모인 극단이란 뜻이다\\\"며 웃음을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 구구단의 김세정이 팀명을 처음 들었을 때의 심경을 고백했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 KBS2 '1대100'에 그룹 구구단의 김세정이 출연했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김세정은 이날 \\\"1대 100은 충분히 경험해봤다. '프로듀스 101'서 101명 중 한 명이었다\\\"며 여유있는 태도로 방송에 참여했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 김세정은 팀명 '구구단'이 탄생하게 된 배경도 소개했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김세정은 \\\"어느날 대표님이 데뷔한다고 식사를 사주셨다. 신나서 썰고 있었다\\\"고 말했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 김세정은 \\\"대표님이 '팀명을 지인한테 슬쩍 흘려봤는데 일주일이 지났는데도 기억했다. 이 팀명으로 가야겠다'고 하시더라\\\"고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러면서 그는 \\\"구구단의 뜻이 되게 좋다. 아홉 매력을 가진 아홉 소녀가 모인 극단이란 뜻이다\\\"며 웃음을 보였다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"구구단이란 팀명 들었을 때…\\\" 김세정 거침없이 고백",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

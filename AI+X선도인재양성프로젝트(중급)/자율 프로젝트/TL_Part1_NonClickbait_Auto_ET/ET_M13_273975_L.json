@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273975",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지드래곤 “역시 패션왕” 근황 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 빅뱅의 지드래곤이 근황을 공개했다.\n지드래곤은 24일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.\n사진 속 지드래곤은 강렬한 눈빛으로 카메라를 응시하는가 하면, 차에 앉아 포즈를 취하고 있다.\n지드래곤은 화려한 스타일링도 완벽히 소화하며 누리꾼들의 시선을 끌었다.\n해당 게시물을 본 누리꾼들은 “너무 멋지다” “정말 사랑한다” “역시 패션왕 지드래곤” 등의 댓글로 극찬했다.\n한편 지드래곤은 최근 곡 ‘봄여름가을겨울’을 통해 빅뱅 완전체로 컴백했다.\n그는 컴백 직후 인스타그램을 통해 자주 근황을 공유하며 팬들과 소통 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 빅뱅의 지드래곤이 근황을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지드래곤은 24일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 지드래곤은 강렬한 눈빛으로 카메라를 응시하는가 하면, 차에 앉아 포즈를 취하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지드래곤은 화려한 스타일링도 완벽히 소화하며 누리꾼들의 시선을 끌었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물을 본 누리꾼들은 “너무 멋지다” “정말 사랑한다” “역시 패션왕 지드래곤” 등의 댓글로 극찬했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 지드래곤은 최근 곡 ‘봄여름가을겨울’을 통해 빅뱅 완전체로 컴백했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 컴백 직후 인스타그램을 통해 자주 근황을 공유하며 팬들과 소통 중이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지드래곤 “역시 패션왕” 근황 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

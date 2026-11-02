@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277470",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "2NE1 탈퇴 공민지 \\\"안녕 음원 발표 소식, 기사 통해 알았다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "2NE1의 마지막 노래인 '안녕(GOODBYE)'의 음원이 21일 공개된 가운데 2NE1에서 탈퇴한 전 멤버 공민지가 \\\"음원 발표 소식을 기사 통해 알았다\\\"고 말했다.\n20일 공민지는 자신의 소셜네트워크서비스(SNS)에 \\\"2NE1의 마지막 음원 발표 소식을 기사를 통해 알게 되어 저로선 매우 유감스럽고 안타깝다\\\"고 말했다.\n공민지는 이어 \\\"일전에 2NE1 멤버로서 대중 분들과 팬 여러분들께서 주신 사랑에 대한 감사와 마지막으로 인사드리는 작별 인사의 마음은 멤버들과 동일하다\\\" 전했다.\n그는 \\\"사랑해주셔서 진심으로 감사드리고 우리 멤버들 CL 언니, BOM 언니, 다라 언니 그리고 저, 모두 앞으로 펼쳐 나갈 활동에도 많은 관심과 따뜻한 응원 부탁드린다\\\"고 글을 마쳤다.\n한편 '안녕'은 홍콩, 싱가포르, 대만, 태국, 베트남, 말레이시아, 캄보디아, 필리핀 등 8개국 아이튠즈에서 1위를 기록했다.\n씨엘이 직접 가사를 썼고, 산다라박과 박봄이 노래를 불렀으며 공민지는 이 노래에 참여하지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2NE1의 마지막 노래인 '안녕(GOODBYE)'의 음원이 21일 공개된 가운데 2NE1에서 탈퇴한 전 멤버 공민지가 \\\"음원 발표 소식을 기사 통해 알았다\\\"고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 공민지는 자신의 소셜네트워크서비스(SNS)에 \\\"2NE1의 마지막 음원 발표 소식을 기사를 통해 알게 되어 저로선 매우 유감스럽고 안타깝다\\\"고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공민지는 이어 \\\"일전에 2NE1 멤버로서 대중 분들과 팬 여러분들께서 주신 사랑에 대한 감사와 마지막으로 인사드리는 작별 인사의 마음은 멤버들과 동일하다\\\" 전했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"사랑해주셔서 진심으로 감사드리고 우리 멤버들 CL 언니, BOM 언니, 다라 언니 그리고 저, 모두 앞으로 펼쳐 나갈 활동에도 많은 관심과 따뜻한 응원 부탁드린다\\\"고 글을 마쳤다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 '안녕'은 홍콩, 싱가포르, 대만, 태국, 베트남, 말레이시아, 캄보디아, 필리핀 등 8개국 아이튠즈에서 1위를 기록했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "씨엘이 직접 가사를 썼고, 산다라박과 박봄이 노래를 불렀으며 공민지는 이 노래에 참여하지 않았다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "2NE1 탈퇴 공민지 \\\"안녕 음원 발표 소식, 기사 통해 알았다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

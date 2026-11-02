@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261513",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "클라라, ♥남편과 마스크 키스 사진 공개",
+		"newsSubTitle": "",
+		"newsContent": "클라라가 남편과의 달달한 애정행각을 공개했다.\n배우 클라라는 20일 자신의 SNS 인스타그램에 “with my husband(남편과 함께)”라는 글과 함께 사진을 게재했다.\n사진에서 클라라는 한 전시장에서 마스크를 쓴 채 남편과 끌어안고 마스크 키스를 나누고 있다.\n두 사람은 사진 속 작품과 같은 포즈를 취한 것으로 보인다.\n클라라는 지난 2019년 2살 연상의 재미교포 사업가 사무엘황과 결혼했다.\n클라라의 남편은 미국 MIT졸업 후 중국에서 교육 사업으로 성공한 것으로 알려졌다.\n클라라의 결혼 당시 한 예능 프로그램을 통해 그의 신혼집 인 롯데월드타워 시그니엘 매매가가 81억에 달하는 것으로 알려지며 화제를 모았다.\n클라라는 결혼 후에도 꾸준히 자신의 SNS를 통해 일상을 공유해왔으나 남편이 모습을 드러낸 것은 이번이 처음이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클라라가 남편과의 달달한 애정행각을 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배우 클라라는 20일 자신의 SNS 인스타그램에 “with my husband(남편과 함께)”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에서 클라라는 한 전시장에서 마스크를 쓴 채 남편과 끌어안고 마스크 키스를 나누고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 사진 속 작품과 같은 포즈를 취한 것으로 보인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "클라라는 지난 2019년 2살 연상의 재미교포 사업가 사무엘황과 결혼했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라라의 남편은 미국 MIT졸업 후 중국에서 교육 사업으로 성공한 것으로 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "클라라의 결혼 당시 한 예능 프로그램을 통해 그의 신혼집 인 롯데월드타워 시그니엘 매매가가 81억에 달하는 것으로 알려지며 화제를 모았다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "클라라는 결혼 후에도 꾸준히 자신의 SNS를 통해 일상을 공유해왔으나 남편이 모습을 드러낸 것은 이번이 처음이다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "클라라, ♥남편과 마스크 키스 사진 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

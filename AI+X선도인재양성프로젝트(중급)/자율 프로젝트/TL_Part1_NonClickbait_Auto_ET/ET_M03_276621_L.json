@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276621",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"혼자 결혼하면 다야?\\\" 분노하는 송중기 팬에게 남겨진 댓글",
+		"newsSubTitle": "",
+		"newsContent": "배우 송중기와 송혜교가 5일 결혼을 발표하자 이에 분노한 팬이 남긴 글이 화제다.\n이날 송중기 팬클럽 온라인 커뮤니티 '송중기 갤러리'에는 \\\"너 때문에 갖다 바친 내 20대\\\"라는 제목의 글이 올라왔다.\n글쓴이는 \\\"너 같은 거짓말쟁이 때문에 남자 한 명 안 사귀고 갖다 바친 내 20대는 어찌할 거냐\\\"라며 \\\"너 혼자 결혼하면 다야? 혼자 잘 살겠다는 거야? 남겨진 우리는?\\\"이라고 분노를 표현했다.\n송중기가 그동안 송혜교와의 열애설을 꾸준히 부인했기에 '거짓말쟁이'라고 표현한 것으로 보인다.\n해당 글에 한 네티즌은 \\\"송중기 아니었어도 넌 남겨졌을 거야\\\"라는 댓글을 남겼으며 현재 이 글은 삭제된 상태다.\n한편 송중기는 이날 자신의 공식 팬카페에 \\\"소중한 친구가 생겼고 서로의 진심을 확인하며 사랑하는 연인이 되었다\\\"라며 송혜교와의 결혼 소식을 전했다.\n이어 \\\"앞으로도 멋진 배우로서, 한 가정의 든든한 가장으로서 살아가겠다. 저희 두 사람의 좋은 인연 많이 응원해달라\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 송중기와 송혜교가 5일 결혼을 발표하자 이에 분노한 팬이 남긴 글이 화제다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 송중기 팬클럽 온라인 커뮤니티 '송중기 갤러리'에는 \\\"너 때문에 갖다 바친 내 20대\\\"라는 제목의 글이 올라왔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글쓴이는 \\\"너 같은 거짓말쟁이 때문에 남자 한 명 안 사귀고 갖다 바친 내 20대는 어찌할 거냐\\\"라며 \\\"너 혼자 결혼하면 다야? 혼자 잘 살겠다는 거야? 남겨진 우리는?\\\"이라고 분노를 표현했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송중기가 그동안 송혜교와의 열애설을 꾸준히 부인했기에 '거짓말쟁이'라고 표현한 것으로 보인다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 글에 한 네티즌은 \\\"송중기 아니었어도 넌 남겨졌을 거야\\\"라는 댓글을 남겼으며 현재 이 글은 삭제된 상태다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 송중기는 이날 자신의 공식 팬카페에 \\\"소중한 친구가 생겼고 서로의 진심을 확인하며 사랑하는 연인이 되었다\\\"라며 송혜교와의 결혼 소식을 전했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 \\\"앞으로도 멋진 배우로서, 한 가정의 든든한 가장으로서 살아가겠다. 저희 두 사람의 좋은 인연 많이 응원해달라\\\"고 당부했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"혼자 결혼하면 다야?\\\" 분노하는 송중기 팬에게 남겨진 댓글",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

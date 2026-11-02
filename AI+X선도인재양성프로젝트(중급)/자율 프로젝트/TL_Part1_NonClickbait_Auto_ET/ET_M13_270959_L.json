@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270959",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지성, 도전하고 변화하는 배우[화보]",
+		"newsSubTitle": "",
+		"newsContent": "배우 지성의 화보가 공개됐다.\n매거진 ‘에스콰이어’는 배우 지성의 화보를 공개했다.\n공개된 화보 속 지성은 배우로서의 삶의 여정을 컨셉으로 다양한 모습을 선보이며 카메라 앞에 섰다.\n늘 끊임없이 도전하고 변화하는 배우 지성은 강렬한 카리스마가 느껴지는 모습을 선보여 눈길을 끈다.\n배우로서 실제 촬영장에서 연기를 하듯, 특유의 프로페셔널함으로 그만의 아우라를 뽐내며 화보와 영상을 완성시켰다.\n배우 지성과 2022년 새롭게 출시한 내비타이머 워치는 현재에 안주하지 않고, 다음 목표를 향해 앞으로 나아간다는 공통점을 지녔다.\n한편, 지성은 컨셉의 무드를 완벽 소화하며 생동감 넘치는 연기로 스태프들의 감탄을 자아냈다는 후문이다.\n다양한 지성의 모습을 담은 화보와 영상은 에스콰이어 6월호와 SNS 및 유튜브를 통해 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 지성의 화보가 공개됐다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매거진 ‘에스콰이어’는 배우 지성의 화보를 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 화보 속 지성은 배우로서의 삶의 여정을 컨셉으로 다양한 모습을 선보이며 카메라 앞에 섰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "늘 끊임없이 도전하고 변화하는 배우 지성은 강렬한 카리스마가 느껴지는 모습을 선보여 눈길을 끈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배우로서 실제 촬영장에서 연기를 하듯, 특유의 프로페셔널함으로 그만의 아우라를 뽐내며 화보와 영상을 완성시켰다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배우 지성과 2022년 새롭게 출시한 내비타이머 워치는 현재에 안주하지 않고, 다음 목표를 향해 앞으로 나아간다는 공통점을 지녔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 지성은 컨셉의 무드를 완벽 소화하며 생동감 넘치는 연기로 스태프들의 감탄을 자아냈다는 후문이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다양한 지성의 모습을 담은 화보와 영상은 에스콰이어 6월호와 SNS 및 유튜브를 통해 만나볼 수 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지성, 도전하고 변화하는 배우[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

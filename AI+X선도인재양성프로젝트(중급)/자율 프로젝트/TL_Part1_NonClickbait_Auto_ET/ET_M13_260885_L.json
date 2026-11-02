@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260885",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정형돈, 오늘 모친상…발인은 16일",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 정형돈(44)이 모친상을 당했다.\n14일 스타투데이에 따르면 정형돈의 어머니는 뇌졸중 투병 중 이날 사망했다.\n항년 76세. 빈소는 중앙대병원 장례식장 1호실에 마련됐다.\n발인은 16일 오전이다.\n정형돈은 2009년 방송작가 출신 한유라와 결혼해 슬하에 쌍둥이 딸을 두고 있다.\nKBS2 ‘옥탑방의 문제아들’, 채널 A‘오은영의 금쪽 상담소’ ‘요즘 육아 금쪽같은 내새끼’ 등에 출연 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 정형돈(44)이 모친상을 당했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 스타투데이에 따르면 정형돈의 어머니는 뇌졸중 투병 중 이날 사망했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "항년 76세. 빈소는 중앙대병원 장례식장 1호실에 마련됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "발인은 16일 오전이다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정형돈은 2009년 방송작가 출신 한유라와 결혼해 슬하에 쌍둥이 딸을 두고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KBS2 ‘옥탑방의 문제아들’, 채널 A‘오은영의 금쪽 상담소’ ‘요즘 육아 금쪽같은 내새끼’ 등에 출연 중이다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정형돈, 오늘 모친상…발인은 16일",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

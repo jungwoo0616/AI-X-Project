@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275330",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "스탠딩 에그, 14일 재회의 설렘 그린다",
+		"newsSubTitle": "",
+		"newsContent": "스탠딩 에그가 여름을 싱그럽게 물들인다.\n스탠딩 에그 측은 오는 14일 신곡 ‘우리가 있어’를 발표한다고 밝혔다. ‘우리가 있어’는 먼길을 돌아 다시 사랑을 만나러 가는 이들의 마음을 담아낸 곡으로, 부드러운 멜로디와 포근한 어쿠스틱 사운드가 감각적인 곡이다.\n곡은 재회의 과정에 들어선 사람의 그리움과 설렘을 담담히 표현하기 위해 기타와 보컬만으로 심플하게 구성됐다.\n스탠딩 에그는 매번 감각적인 영상미의 뮤직비디오로 화제가 된 바 있다.\n이번 ‘우리가 있어’의 뮤직비디오 역시 그리움과 설렘을 한 편의 단편영화처럼 풀어냈다.\n이번 뮤직비디오는 배우 우다비, 홍태준이 출연했던 이전 싱글 ‘나는 어떡해’와 이어지는 스토리로, 풋풋한 첫사랑을 나눴다 이별을 겪은 두 사람이 다시 만나게 되는 과정을 담았다. ‘우리가 있어’의 음원은 오는 14일 오후 6시에 각종 음원 사이트를 통해 공개된다.\n뮤직비디오는 공식 유튜브 채널에서 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스탠딩 에그가 여름을 싱그럽게 물들인다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스탠딩 에그 측은 오는 14일 신곡 ‘우리가 있어’를 발표한다고 밝혔다. ‘우리가 있어’는 먼길을 돌아 다시 사랑을 만나러 가는 이들의 마음을 담아낸 곡으로, 부드러운 멜로디와 포근한 어쿠스틱 사운드가 감각적인 곡이다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "곡은 재회의 과정에 들어선 사람의 그리움과 설렘을 담담히 표현하기 위해 기타와 보컬만으로 심플하게 구성됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스탠딩 에그는 매번 감각적인 영상미의 뮤직비디오로 화제가 된 바 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 ‘우리가 있어’의 뮤직비디오 역시 그리움과 설렘을 한 편의 단편영화처럼 풀어냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 뮤직비디오는 배우 우다비, 홍태준이 출연했던 이전 싱글 ‘나는 어떡해’와 이어지는 스토리로, 풋풋한 첫사랑을 나눴다 이별을 겪은 두 사람이 다시 만나게 되는 과정을 담았다. ‘우리가 있어’의 음원은 오는 14일 오후 6시에 각종 음원 사이트를 통해 공개된다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "뮤직비디오는 공식 유튜브 채널에서 감상할 수 있다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스탠딩 에그, 14일 재회의 설렘 그린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

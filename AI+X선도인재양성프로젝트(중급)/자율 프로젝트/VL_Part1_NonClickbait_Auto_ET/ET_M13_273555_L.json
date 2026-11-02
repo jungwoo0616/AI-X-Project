@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273555",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방탄소년단, 음방 4관왕",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 컴백 후 음악방송 4관왕을 달성했다.\n방탄소년단은지난 19일 오후 방송된 SBS ‘인기가요’에서 신곡 ‘Yet To Come’과 ‘For Youth’ 무대를공개했다.\n관객들의 열띤 환호 속 LED 스크린에 “2013년 6월 13일 우리의 꿈은 시작되었다”라는 문구에이어 역대 방탄소년단의 활동 영상이 돌아가는 가운데 팬들의 육성이 담긴 ‘Young Forever’가 배경사운드로 깔렸다.\n세미 마린룩 스타일링으로 등장한 방탄소년단은 ‘For Youth’를 열창했고, 회전 무대를활용해 두 가지 매력을 발산했다. ‘YetTo Come’ 무대는 뮤직비디오에 등장했던 스쿨 버스를 시작으로 학교의 로비, 복도, 동아리 방 등을 연상케하는 공간으로 꾸며졌고, 방탄소년단은 힙합 무드의 올 블랙 차림으로 완벽한 라이브를 선보였다.\n이들은 객석을채운 팬들 한 명 한 명에게 손을 흔들며 ‘찐’ 팬사랑을 드러냈다.\n방탄소년단은 이날 ‘인기가요’ 방송에서도 1위를 차지해 지난 15일 MBC M ‘쇼! 챔피언’, 16일 Mnet ‘엠카운트다운’, 17일 KBS2 ‘뮤직뱅크’에 이어 ‘Yet To Come’으로 음악방송 4관왕을 거머쥐었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 컴백 후 음악방송 4관왕을 달성했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단은지난 19일 오후 방송된 SBS ‘인기가요’에서 신곡 ‘Yet To Come’과 ‘For Youth’ 무대를공개했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관객들의 열띤 환호 속 LED 스크린에 “2013년 6월 13일 우리의 꿈은 시작되었다”라는 문구에이어 역대 방탄소년단의 활동 영상이 돌아가는 가운데 팬들의 육성이 담긴 ‘Young Forever’가 배경사운드로 깔렸다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세미 마린룩 스타일링으로 등장한 방탄소년단은 ‘For Youth’를 열창했고, 회전 무대를활용해 두 가지 매력을 발산했다. ‘YetTo Come’ 무대는 뮤직비디오에 등장했던 스쿨 버스를 시작으로 학교의 로비, 복도, 동아리 방 등을 연상케하는 공간으로 꾸며졌고, 방탄소년단은 힙합 무드의 올 블랙 차림으로 완벽한 라이브를 선보였다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들은 객석을채운 팬들 한 명 한 명에게 손을 흔들며 ‘찐’ 팬사랑을 드러냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방탄소년단은 이날 ‘인기가요’ 방송에서도 1위를 차지해 지난 15일 MBC M ‘쇼! 챔피언’, 16일 Mnet ‘엠카운트다운’, 17일 KBS2 ‘뮤직뱅크’에 이어 ‘Yet To Come’으로 음악방송 4관왕을 거머쥐었다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 음방 4관왕",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

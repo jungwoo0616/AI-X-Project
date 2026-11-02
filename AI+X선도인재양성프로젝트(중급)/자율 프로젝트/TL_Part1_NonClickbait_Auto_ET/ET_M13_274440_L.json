@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274440",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘종이의 집’ 덴버X리우, 이 조합 찬성입니다",
+		"newsSubTitle": "",
+		"newsContent": "배우 김지훈이 이현우와의 훈훈한 투샷을 공개했다.\n김지훈은 30일 자신의 사회관계망서비스(SNS) 인스타그램에 “우리 리우+덴버”라는 글과 함께 이현우와의 사진 여러 장을 공개했다.\n사진 속 김지훈과 이현우는 넷플릭스 시리즈 ‘종이의 집’의 옷을 입고 카메라를 향해 밝게 웃고 있다.\n사진을 본 누리꾼들은 “다음 에피소드가 너무 기대된다” “덴버 사랑한다” “둘 다 정말 잘생겼다”라며 긍정적인 반응을 보였다.\n넷플릭스 ‘종이의 집’은 김지훈이 ‘덴버’ 역으로, 이현우가 ‘리우’ 역으로 출연했다.\n통일을 앞둔 한국을 배경으로 강도단들이 뭉쳐 조폐국을 점령한 후 이어지는 이야기를 담았다.\n시리즈 속 김지훈은 배우 이주빈과의 러브라인으로 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김지훈이 이현우와의 훈훈한 투샷을 공개했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김지훈은 30일 자신의 사회관계망서비스(SNS) 인스타그램에 “우리 리우+덴버”라는 글과 함께 이현우와의 사진 여러 장을 공개했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김지훈과 이현우는 넷플릭스 시리즈 ‘종이의 집’의 옷을 입고 카메라를 향해 밝게 웃고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사진을 본 누리꾼들은 “다음 에피소드가 너무 기대된다” “덴버 사랑한다” “둘 다 정말 잘생겼다”라며 긍정적인 반응을 보였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "넷플릭스 ‘종이의 집’은 김지훈이 ‘덴버’ 역으로, 이현우가 ‘리우’ 역으로 출연했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "통일을 앞둔 한국을 배경으로 강도단들이 뭉쳐 조폐국을 점령한 후 이어지는 이야기를 담았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시리즈 속 김지훈은 배우 이주빈과의 러브라인으로 화제를 모았다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘종이의 집’ 덴버X리우, 이 조합 찬성입니다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

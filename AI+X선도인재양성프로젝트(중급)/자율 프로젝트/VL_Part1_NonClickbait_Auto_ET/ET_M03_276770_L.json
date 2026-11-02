@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276770",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'사춘기여도 엄마랑 꽁냥꽁냥' 안정환 딸 안리원 근황",
+		"newsSubTitle": "",
+		"newsContent": "축구선수 출신 방송인 안정환과 미스코리아 출신 방송인 이혜원 부부의 딸 리원, 아들 리환 군이 눈길을 끌고 있다.\n최근 이혜원은 자신의 인스타그램에 \\\"진짜 사랑해 내 새끼\\\"라는 말과 함께 리원·리환 모습이 담긴 동영상을 올렸다.\n영상에서 이 둘은 음식을 맛있게 먹고 있다.\n특히 리원 양은 \\\"어메이징(Amazing)\\\"이라고 그 맛에 감탄을 나타내기도 했다.\n이혜원은 \\\"너무 귀여워\\\"라면서 \\\"이거 올려서 '엄마!!!!'하고 뛰어올라나. 자는 척 할꼬야\\\"라는 말도 덧붙였다.\n사춘기에 접어든 리원 양과 친구처럼 격 없이 잘 지내는 모습이다.\n리원 양은 어린 시절부터 방송에 출연하며 얼굴을 알렸다.\n최근 한 방송에서 유창한 영어 실력을 뽐내기도 했던 그는 개인 소셜네트워크서비스(SNS) 계정을 운영하며 소녀다운 감성과 면모를 보이고 있기도 하다.\n팔로어는 6700명에 이른다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "축구선수 출신 방송인 안정환과 미스코리아 출신 방송인 이혜원 부부의 딸 리원, 아들 리환 군이 눈길을 끌고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 이혜원은 자신의 인스타그램에 \\\"진짜 사랑해 내 새끼\\\"라는 말과 함께 리원·리환 모습이 담긴 동영상을 올렸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상에서 이 둘은 음식을 맛있게 먹고 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 리원 양은 \\\"어메이징(Amazing)\\\"이라고 그 맛에 감탄을 나타내기도 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이혜원은 \\\"너무 귀여워\\\"라면서 \\\"이거 올려서 '엄마!!!!'하고 뛰어올라나. 자는 척 할꼬야\\\"라는 말도 덧붙였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사춘기에 접어든 리원 양과 친구처럼 격 없이 잘 지내는 모습이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "리원 양은 어린 시절부터 방송에 출연하며 얼굴을 알렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 한 방송에서 유창한 영어 실력을 뽐내기도 했던 그는 개인 소셜네트워크서비스(SNS) 계정을 운영하며 소녀다운 감성과 면모를 보이고 있기도 하다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "팔로어는 6700명에 이른다.",
+				"sentenceSize": 16
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사춘기여도 엄마랑 꽁냥꽁냥' 안정환 딸 안리원 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

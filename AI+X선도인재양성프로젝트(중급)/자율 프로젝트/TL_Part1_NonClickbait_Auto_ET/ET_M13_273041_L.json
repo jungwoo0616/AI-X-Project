@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273041",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김호중 X ‘세계 3대 테너’ 플라시도 도밍고, 내한공연 티켓 오픈 2분 만에 ‘전석 매진’",
+		"newsSubTitle": "",
+		"newsContent": "‘트바로티’ 김호중이 플라시도 도밍고와의 내한 공연 티켓팅에서 막강한 파워를 입증했다.\n13일 오후 8시 예매처 티켓링크를 통해 진행된 ‘Placido domingo Live in Busan 2022’은 티켓 오픈 후 2분 만에 6500석 전석 매진을 기록하며, 김호중과 플라시도 도밍고의 영향력을 실감하게 했다.\n김호중은 플라시도 도밍고에게 직접 자필 사인과 함께 초대를 받으며 뜨거운 화제를 모았던 바, 전석 매진된 ‘Placido domingo Live in Busan 2022’에서 세계적 거장과의 듀엣 무대로 벅찬 감동을 안길 예정이다.\n김호중은 ‘평화 콘서트’를 시작으로 바쁜 행보를 예고, 19일 ‘드림콘서트 트롯’ 출연에 이어 서울에서 단독 콘서트를 진행할 것을 알려 오랜 시간 기다려온 팬들에게 단비 같은 소식을 전한 바 있다.\n김호중과 최고의 무대를 약속한 플라시도 도밍고는 ‘오페라의 황제’로 불리며 스페인과 멕시코의 지휘자이자 세계적인 테너로, 현재 워싱턴 오페라의 예술 감독이자 로스앤젤레스 오페라의 창립자로 활동 중이다.\n김호중과 플라시도 도밍고의 공연은 오는 26일 부산 영화의전당 야외극장에서 개최될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘트바로티’ 김호중이 플라시도 도밍고와의 내한 공연 티켓팅에서 막강한 파워를 입증했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 오후 8시 예매처 티켓링크를 통해 진행된 ‘Placido domingo Live in Busan 2022’은 티켓 오픈 후 2분 만에 6500석 전석 매진을 기록하며, 김호중과 플라시도 도밍고의 영향력을 실감하게 했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김호중은 플라시도 도밍고에게 직접 자필 사인과 함께 초대를 받으며 뜨거운 화제를 모았던 바, 전석 매진된 ‘Placido domingo Live in Busan 2022’에서 세계적 거장과의 듀엣 무대로 벅찬 감동을 안길 예정이다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김호중은 ‘평화 콘서트’를 시작으로 바쁜 행보를 예고, 19일 ‘드림콘서트 트롯’ 출연에 이어 서울에서 단독 콘서트를 진행할 것을 알려 오랜 시간 기다려온 팬들에게 단비 같은 소식을 전한 바 있다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김호중과 최고의 무대를 약속한 플라시도 도밍고는 ‘오페라의 황제’로 불리며 스페인과 멕시코의 지휘자이자 세계적인 테너로, 현재 워싱턴 오페라의 예술 감독이자 로스앤젤레스 오페라의 창립자로 활동 중이다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김호중과 플라시도 도밍고의 공연은 오는 26일 부산 영화의전당 야외극장에서 개최될 예정이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중 X ‘세계 3대 테너’ 플라시도 도밍고, 내한공연 티켓 오픈 2분 만에 ‘전석 매진’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

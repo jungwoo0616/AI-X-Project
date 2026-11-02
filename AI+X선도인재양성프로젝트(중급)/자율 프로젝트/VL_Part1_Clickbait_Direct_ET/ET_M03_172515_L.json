@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172515",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'라디오스타' 샤넌 \\\"연예인이지만 연애할 것…사람은 사랑하며 살아야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 샤넌이 '라디오스타'에 출연해 연애에 관한 소신을 밝혔다.\n15일 밤 방송된 MBC '황금어장 라디오스타'는'나이 그것이 뭣이 중헌디?!' 특집으로 꾸며져 MC그리, 신동우, 이수민, 샤넌, 우주소녀 다영이 출연했다.\n이날 방송에서 샤넌은 아이돌의 공개연애에 대해 \\\"영국에서 온 후 한국과 영국 청소년들의 문화 차이를 느꼈다\\\"며 말문을 열었다.\n이어서 그는 \\\"연예인으로서 연애를 못하는 거, 한국 문화는 다르더라\\\"며 \\\"나는 상관없다. 데이트하면 같이 있는 건 상관 없지만 사진만 찍히지 말자는 생각이다\\\"고 밝혔다.\n그러자 MC들은 \\\"연예인이라는 가정을 끝까지 가져간다\\\"라며 연예인과 교제를 했던 거냐고 물었다.\n이에 샤넌은 \\\"괜찮다. 나는 상관 없다. 사람은 사랑하며 살아야 한다. 내 나이 때는 연애를 안 할 수 없는 나이다\\\"라고 당당히 말했다.\n한편 이날 방송에서 샤넌은 비욘세의 '리슨(Listen)'을 열창했다.\n그는 \\\"한국 오고 난 다음에 많이 답답함을 느꼈다. 가요만 불러야 했기에 스트레스를 많이 받았었다\\\"며 \\\"그래서 보컬 방에 불 다 꺼놓고 이 노래를 부른 적이 되게 많다. 이 노래가 내게 힘이 돼준 노래라 선택했다\\\"고 털어놨다.\n온라인 중앙일보 [사진 MBC '황금어장 라디오스타' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 샤넌이 '라디오스타'에 출연해 연애에 관한 소신을 밝혔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 밤 방송된 MBC '황금어장 라디오스타'는'나이 그것이 뭣이 중헌디?!' 특집으로 꾸며져 MC그리, 신동우, 이수민, 샤넌, 우주소녀 다영이 출연했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 샤넌은 아이돌의 공개연애에 대해 \\\"영국에서 온 후 한국과 영국 청소년들의 문화 차이를 느꼈다\\\"며 말문을 열었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어서 그는 \\\"연예인으로서 연애를 못하는 거, 한국 문화는 다르더라\\\"며 \\\"나는 상관없다. 데이트하면 같이 있는 건 상관 없지만 사진만 찍히지 말자는 생각이다\\\"고 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 MC들은 \\\"연예인이라는 가정을 끝까지 가져간다\\\"라며 연예인과 교제를 했던 거냐고 물었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 샤넌은 \\\"괜찮다. 나는 상관 없다. 사람은 사랑하며 살아야 한다. 내 나이 때는 연애를 안 할 수 없는 나이다\\\"라고 당당히 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이날 방송에서 샤넌은 비욘세의 '리슨(Listen)'을 열창했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 \\\"한국 오고 난 다음에 많이 답답함을 느꼈다. 가요만 불러야 했기에 스트레스를 많이 받았었다\\\"며 \\\"그래서 보컬 방에 불 다 꺼놓고 이 노래를 부른 적이 되게 많다. 이 노래가 내게 힘이 돼준 노래라 선택했다\\\"고 털어놨다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 [사진 MBC '황금어장 라디오스타' 캡처]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 샤넌, 연예인이라서 '이것' 할 수 없다는 사실에 문화 충격 느꼈다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

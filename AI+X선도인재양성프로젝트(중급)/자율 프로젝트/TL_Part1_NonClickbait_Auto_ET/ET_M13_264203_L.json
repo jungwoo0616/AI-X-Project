@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264203",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "피네이션, 올해 첫 아티스트 컴백 예고…29일 ‘COMING UP NEXT’ 공개",
+		"newsSubTitle": "",
+		"newsContent": "피네이션(P NATION)이 2022년 첫 번째 아티스트의 출격을 예고했다.\n피네이션 수장 싸이는 17일 공식 SNS를 통해 ‘COMING UP NEXT’ 이미지를 공개했다.\n공개된 이미지에는 ‘2022.03.29 6PM’이라는 새로운 발매 일시가 담겨 있다.\n싸이가 든 세 개의 액자 속은 비어 있어 아티스트의 정체에 대한 궁금증을 유발한다.\n이에 음악 팬들 사이에서 다양한 추측이 이어지고 있다.\n피네이션은 지난해 제시의 ‘어떤X (What Type of X)’와 ‘Cold Blooded (with 스트릿 우먼 파이터(SWF))’, 현아의 ‘암낫쿨 (I’m Not Cool)‘, 현아&던의 ’PING PONG‘, 헤이즈의’헤픈 우연‘등이 호성적을 이어가며 올 한 해 활약에도 기대감을 높인다.\n피네이션의 올해 첫 컴백 주자는 누구일지,’COMING UP NEXT‘의 주인공은 추후 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "피네이션(P NATION)이 2022년 첫 번째 아티스트의 출격을 예고했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "피네이션 수장 싸이는 17일 공식 SNS를 통해 ‘COMING UP NEXT’ 이미지를 공개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 이미지에는 ‘2022.03.29 6PM’이라는 새로운 발매 일시가 담겨 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "싸이가 든 세 개의 액자 속은 비어 있어 아티스트의 정체에 대한 궁금증을 유발한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 음악 팬들 사이에서 다양한 추측이 이어지고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피네이션은 지난해 제시의 ‘어떤X (What Type of X)’와 ‘Cold Blooded (with 스트릿 우먼 파이터(SWF))’, 현아의 ‘암낫쿨 (I’m Not Cool)‘, 현아&던의 ’PING PONG‘, 헤이즈의’헤픈 우연‘등이 호성적을 이어가며 올 한 해 활약에도 기대감을 높인다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "피네이션의 올해 첫 컴백 주자는 누구일지,’COMING UP NEXT‘의 주인공은 추후 공개된다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피네이션, 올해 첫 아티스트 컴백 예고…29일 ‘COMING UP NEXT’ 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

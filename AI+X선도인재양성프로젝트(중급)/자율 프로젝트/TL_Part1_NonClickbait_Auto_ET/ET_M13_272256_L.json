@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272256",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "지수, 인스타 팔로워 6100만 넘버1",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 블랙핑크 멤버 겸 배우 지수가 인스타그램 팔로워 6100만을 돌파했다.\n지수는 4일 기준 인스타그램 팔로워 6100만 명을 돌파하며 인플루언서로서의 위상과 글로벌 인기를 입증했다.\n지수는 2018년에 인스타그램 계정을 개설, 약 4년 만에 이를 달성했다.\n모델, 연기 등 다양한 분야에서 활동하는 지수는 인스타그램에 명품 화보 촬영부터 패션, 뷰티, 일상 생활 근황까지 다양한 게시물로 많은 사랑을 받고 있다.\n현재 지수는 한국 여배우 중 가장 인스타그램 팔로워가 많은 1위이다.\n한편, 지수는 지난해 방영한 JTBC 드라마 ‘설강화’를 통해 배우로 첫걸음을 내디뎠다.\n지수는 현재 블랙핑크 완전체 컴백을 위해 준비 중인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 블랙핑크 멤버 겸 배우 지수가 인스타그램 팔로워 6100만을 돌파했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지수는 4일 기준 인스타그램 팔로워 6100만 명을 돌파하며 인플루언서로서의 위상과 글로벌 인기를 입증했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지수는 2018년에 인스타그램 계정을 개설, 약 4년 만에 이를 달성했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모델, 연기 등 다양한 분야에서 활동하는 지수는 인스타그램에 명품 화보 촬영부터 패션, 뷰티, 일상 생활 근황까지 다양한 게시물로 많은 사랑을 받고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 지수는 한국 여배우 중 가장 인스타그램 팔로워가 많은 1위이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 지수는 지난해 방영한 JTBC 드라마 ‘설강화’를 통해 배우로 첫걸음을 내디뎠다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지수는 현재 블랙핑크 완전체 컴백을 위해 준비 중인 것으로 알려졌다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지수, 인스타 팔로워 6100만 넘버1",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

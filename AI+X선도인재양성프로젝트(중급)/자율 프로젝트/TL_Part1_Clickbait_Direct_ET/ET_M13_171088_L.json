@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171088",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘익산역 시계탑’ 홍시, 익산역 새 얼굴",
+    "newsSubTitle": "",
+    "newsContent": "트로트 가수 홍시가 익산역의 새 얼굴이 되었다.\n익산역 관계자는 6일 “데뷔 10년 차 가수 홍시가 9월 2일 익산역 홍보대사로 위촉 됐다”고 밝혔다.\n이어 “위촉장은 코로나 관계로 간단히 박영수 익산역장에게 위촉장을 전달 받았다”고 전했다 올해 데뷔 10년 차 홍시는 긴 무명 끝에 2019년 11월에 발표한 ‘익산역 시계탑’으로 대중들에게 이름을 알렸다. ‘익산역 시계탑’은 구정수 작사가와 이재룡 작곡가가 만든 곡으로 ‘추억, 사랑, 이별, 눈물, 배웅, 마중, 약속’의 의미가 담긴 시계탑을 소재로 한 곡이다.\n홍시는 이곡을 시작으로 활발한 연예계 활동에 이어가고 있다.\n예능에서는 유도를 하면서 트로트를 불러 ‘유도 트롯’으로 화제를 모은 바 있다.\n최근에는 가수 나훈아에게 홍시를 리메이크로 허락받아 홍시 EDM 버전(미스타킴, 제이믹 편곡)으로도 주목받았다.\n홍시는 “익산에 현재는 없어진 시계탑이 복원돼 추억의 장소로 다시 자리매김 됐으면 좋겠다”며 “백제의 명성에 걸맞게 관광지로 많은 사람들의 사랑을 받았으면 좋겠다”고 소감을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트로트 가수 홍시가 익산역의 새 얼굴이 되었다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "익산역 관계자는 6일 “데뷔 10년 차 가수 홍시가 9월 2일 익산역 홍보대사로 위촉 됐다”고 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “위촉장은 코로나 관계로 간단히 박영수 익산역장에게 위촉장을 전달 받았다”고 전했다 올해 데뷔 10년 차 홍시는 긴 무명 끝에 2019년 11월에 발표한 ‘익산역 시계탑’으로 대중들에게 이름을 알렸다. ‘익산역 시계탑’은 구정수 작사가와 이재룡 작곡가가 만든 곡으로 ‘추억, 사랑, 이별, 눈물, 배웅, 마중, 약속’의 의미가 담긴 시계탑을 소재로 한 곡이다.",
+        "sentenceSize": 204
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홍시는 이곡을 시작으로 활발한 연예계 활동에 이어가고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예능에서는 유도를 하면서 트로트를 불러 ‘유도 트롯’으로 화제를 모은 바 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근에는 가수 나훈아에게 홍시를 리메이크로 허락받아 홍시 EDM 버전(미스타킴, 제이믹 편곡)으로도 주목받았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홍시는 “익산에 현재는 없어진 시계탑이 복원돼 추억의 장소로 다시 자리매김 됐으면 좋겠다”며 “백제의 명성에 걸맞게 관광지로 많은 사람들의 사랑을 받았으면 좋겠다”고 소감을 밝혔다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 홍시, '익산역 시계탑' 부르며 '이것' 됐다 밝혀...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

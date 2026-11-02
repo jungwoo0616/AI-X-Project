@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276572",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "못 본 사이에 살이 더 빠졌다는 '다이어트 끝판왕'",
+		"newsSubTitle": "",
+		"newsContent": "새 미니앨범 '오렌지 문'으로 컴백한 가수 박보람의 근황이 화제다.\n박보람은 지난 13일 앨범 발매 기념 쇼케이스에서 \\\"젖살을 빠지면 성숙해 보이지 않을까 싶었다\\\"며 체중을 감량한 소식을 전했다.\n박보람은 \\\"이번에 몸무게를 3~4kg 정도 감량했다\\\"며 \\\"활동을 끝내면 다시 살을 찌우겠다\\\"고 말했다.\n박보람의 인스타그램을 통해 공개된 사진에서 그는 최근 다이어트로 더욱 날렵해진 턱선을 자랑했다.\n앞서 2014년 '슈퍼스타K 시즌2' 출연한 박보람은 데뷔에 앞서 몸무게 32kg을 감량해 큰 주목을 받았다.\n그는 자신의 인스타그램에 고구마, 바나나, 계란 등 단백질 위주의 하루 5끼 식단을 공개해 눈길을 끌기도 했다.\n그는 \\\"꾸준한 운동과 식단 조절이 최고의 다이어트 방법\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "새 미니앨범 '오렌지 문'으로 컴백한 가수 박보람의 근황이 화제다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박보람은 지난 13일 앨범 발매 기념 쇼케이스에서 \\\"젖살을 빠지면 성숙해 보이지 않을까 싶었다\\\"며 체중을 감량한 소식을 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박보람은 \\\"이번에 몸무게를 3~4kg 정도 감량했다\\\"며 \\\"활동을 끝내면 다시 살을 찌우겠다\\\"고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박보람의 인스타그램을 통해 공개된 사진에서 그는 최근 다이어트로 더욱 날렵해진 턱선을 자랑했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 2014년 '슈퍼스타K 시즌2' 출연한 박보람은 데뷔에 앞서 몸무게 32kg을 감량해 큰 주목을 받았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 자신의 인스타그램에 고구마, 바나나, 계란 등 단백질 위주의 하루 5끼 식단을 공개해 눈길을 끌기도 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 \\\"꾸준한 운동과 식단 조절이 최고의 다이어트 방법\\\"이라고 말했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "못 본 사이에 살이 더 빠졌다는 '다이어트 끝판왕'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

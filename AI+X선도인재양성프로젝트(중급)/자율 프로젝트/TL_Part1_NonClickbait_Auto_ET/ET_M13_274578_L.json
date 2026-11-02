@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274578",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "양미라 “오빠 둘째 괜찮다며”",
+		"newsSubTitle": "",
+		"newsContent": "배우 양미라가 SNS “오빠 둘째 괜찮다며. 서호만 키우겠다던 사람 어디갔어?”라는 익살스런 글과 함께 한 장의 사진을 올렸다.\n사진 속에는 양미라의 남편 정신욱씨가 딸을 품에 안고 환하게 웃고 있는 모습이 담겼다.\n둘째가 생기기 전 호언과는 달리 ‘딸 바보’ 아빠가 된 모습이 웃음을 자아낸다.\n놀라울 만큼 머리숱이 빽빽한 딸 귀여운 모습도 인상적이다.\n양미라는 2018년 사업가인 정씨와 결혼해 슬하에 1남, 1녀를 두고 있다.\n양미라 부부는 TV조선 예능 프로그램 ‘아내의 맛’에 출연해 대중과 친숙하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 양미라가 SNS “오빠 둘째 괜찮다며. 서호만 키우겠다던 사람 어디갔어?”라는 익살스런 글과 함께 한 장의 사진을 올렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사진 속에는 양미라의 남편 정신욱씨가 딸을 품에 안고 환하게 웃고 있는 모습이 담겼다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "둘째가 생기기 전 호언과는 달리 ‘딸 바보’ 아빠가 된 모습이 웃음을 자아낸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "놀라울 만큼 머리숱이 빽빽한 딸 귀여운 모습도 인상적이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양미라는 2018년 사업가인 정씨와 결혼해 슬하에 1남, 1녀를 두고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양미라 부부는 TV조선 예능 프로그램 ‘아내의 맛’에 출연해 대중과 친숙하다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양미라 “오빠 둘째 괜찮다며”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

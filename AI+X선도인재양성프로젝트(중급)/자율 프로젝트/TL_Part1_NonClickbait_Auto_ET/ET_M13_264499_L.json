@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264499",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "스트레이 키즈 승민, 코로나19 확진 “스케줄 취소”[종합]",
+		"newsSubTitle": "",
+		"newsContent": "최근 컴백한 아이돌그룹 스트레이 키즈(Stray Kids) 멤버들이 코로나19에 잇달아 확진됐다.\n소속사 JYP엔터테인먼트는 21일 팬 커뮤니티를 통해 “멤버 승민(본명 김승민)이 지난 20일 코로나19 양성 판정을 받았다”고 밝혔다.\n앞서 멤버 창빈(본명 서창빈)과 한(한지성)이 확진된 데 이어 3명째 감염이다.\n소속사는 “승민은 코로나19 백신 2차 접종까지 완료한 상태”라며 “현재 특별한 증상은 없어 방역당국 지침에 따라 자가격리 중”이라고 설명했다.\n멤버들은 처음 확진자가 나온 18일 오후부터 각자 분리된 공간에서 생활하고 있다.\n잇단 확진으로 음반 활동 일정에도 일부 차질이 빚어졌다.\n소속사는 “21∼22일 라디오 스케줄은 전면 취소한다”며 “26일 열 예정인 음반 발매 기념 팬 이벤트는 협의 후 날짜와 방식 등을 안내할 계획”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 컴백한 아이돌그룹 스트레이 키즈(Stray Kids) 멤버들이 코로나19에 잇달아 확진됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 JYP엔터테인먼트는 21일 팬 커뮤니티를 통해 “멤버 승민(본명 김승민)이 지난 20일 코로나19 양성 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 멤버 창빈(본명 서창빈)과 한(한지성)이 확진된 데 이어 3명째 감염이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사는 “승민은 코로나19 백신 2차 접종까지 완료한 상태”라며 “현재 특별한 증상은 없어 방역당국 지침에 따라 자가격리 중”이라고 설명했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멤버들은 처음 확진자가 나온 18일 오후부터 각자 분리된 공간에서 생활하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "잇단 확진으로 음반 활동 일정에도 일부 차질이 빚어졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소속사는 “21∼22일 라디오 스케줄은 전면 취소한다”며 “26일 열 예정인 음반 발매 기념 팬 이벤트는 협의 후 날짜와 방식 등을 안내할 계획”이라고 전했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스트레이 키즈 승민, 코로나19 확진 “스케줄 취소”[종합]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

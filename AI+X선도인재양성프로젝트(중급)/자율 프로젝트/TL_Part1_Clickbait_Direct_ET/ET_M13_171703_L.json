@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171703",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "아이브 장원영, 다리는 길고 얼굴은 작네…완벽 마네킹 비율",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 아이브(IVE) 장원영이 비현실적인 비율을 선보였다.\n장원영은 7일 자신의 사회 관계망 서비스(SNS)에 화보 사진들을 게재했다.\n사진 속 장원영은 명품 가방을 코디하며 비현실적인 키의 비율과 미모를 뽐냈다.\n그는 걸그룹 ‘비주얼 센터’답게 다양한 포즈를 취하고 있다, 장원영은 남다른 외모와 비율을 자랑하며 팬들의 시선을 끌었다.\n이 게시물을 접한 누리꾼들은 “너무 예쁘고 찰떡이야”, “웨이브 머리 보다가 그냥 생머리 보니까 새롭다”, “다리는 길고 얼굴은 작네 완벽한 비율” 등 장원영을 향한 찬사를 아끼지 않았다.\n한편, 장원영이 속한 그룹 아이브는 데뷔곡 ‘일레븐(ELEVEN)’으로 음악 방송 13관왕이라는 대기록을 달성하며 돌풍을 일으켰다.\n또 장원영은 KBS2 ‘뮤직뱅크’ MC로 활약 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 아이브(IVE) 장원영이 비현실적인 비율을 선보였다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장원영은 7일 자신의 사회 관계망 서비스(SNS)에 화보 사진들을 게재했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 장원영은 명품 가방을 코디하며 비현실적인 키의 비율과 미모를 뽐냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 걸그룹 ‘비주얼 센터’답게 다양한 포즈를 취하고 있다, 장원영은 남다른 외모와 비율을 자랑하며 팬들의 시선을 끌었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 게시물을 접한 누리꾼들은 “너무 예쁘고 찰떡이야”, “웨이브 머리 보다가 그냥 생머리 보니까 새롭다”, “다리는 길고 얼굴은 작네 완벽한 비율” 등 장원영을 향한 찬사를 아끼지 않았다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 장원영이 속한 그룹 아이브는 데뷔곡 ‘일레븐(ELEVEN)’으로 음악 방송 13관왕이라는 대기록을 달성하며 돌풍을 일으켰다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 장원영은 KBS2 ‘뮤직뱅크’ MC로 활약 중이다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아이브' 데뷔곡 일레븐으로 음악 방송 '이것' 기록 달성",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

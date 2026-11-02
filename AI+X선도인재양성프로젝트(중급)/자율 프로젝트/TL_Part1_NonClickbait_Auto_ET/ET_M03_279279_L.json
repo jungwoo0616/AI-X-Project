@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279279",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "레오나르도 디카프리오-리한나, \\\"연인 아닌 친구 사이일 뿐\\\"",
+		"newsSubTitle": "",
+		"newsContent": "할리우드 배우 레오나르도 디카프리오와 가수 리한나가 열애 루머를 벗었다.\n지난 18일(현지시간 기준) 미국 연예매체 US위클리는 레오나르도 디카프리오와 리한나의 로맨스 루머가 사실이 아니라고 전했다.\n레오나르도 디카프리오와 리한나는 지난 17일 프랑스 파리 '라르크'라는 클럽에서 만남을 가졌다.\n리한나는 레오나르도 디카프리오를 축하하며 그의 뺨에 키스를 했고, 두 사람은 몇 분 동안 이야기를 나눴다.\n하지만 관계자에 따르면 레오나르도 디카프리오와 리한나는 따로 클럽을 나섰고, 연인이 아닌 절친한 친구사이일 뿐이라고 전해져 더욱 눈길을 끌고 있다.\n한편, 레오나르도 디카프리오는 오스카 시상식 남우주연상 후보에 노미네이트 돼 많은 관심을 모으고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "할리우드 배우 레오나르도 디카프리오와 가수 리한나가 열애 루머를 벗었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 18일(현지시간 기준) 미국 연예매체 US위클리는 레오나르도 디카프리오와 리한나의 로맨스 루머가 사실이 아니라고 전했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "레오나르도 디카프리오와 리한나는 지난 17일 프랑스 파리 '라르크'라는 클럽에서 만남을 가졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리한나는 레오나르도 디카프리오를 축하하며 그의 뺨에 키스를 했고, 두 사람은 몇 분 동안 이야기를 나눴다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 관계자에 따르면 레오나르도 디카프리오와 리한나는 따로 클럽을 나섰고, 연인이 아닌 절친한 친구사이일 뿐이라고 전해져 더욱 눈길을 끌고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 레오나르도 디카프리오는 오스카 시상식 남우주연상 후보에 노미네이트 돼 많은 관심을 모으고 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레오나르도 디카프리오-리한나, \\\"연인 아닌 친구 사이일 뿐\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

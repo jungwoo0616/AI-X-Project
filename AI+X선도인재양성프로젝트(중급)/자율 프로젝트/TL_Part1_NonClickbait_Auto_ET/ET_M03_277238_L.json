@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277238",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "트와이스 '뮤비'에서도 드러나는 '쯔위'의 위엄",
+		"newsSubTitle": "",
+		"newsContent": "트와이스 신곡‘Knock Knock'뮤직비디오 속 쯔위의 모습이 눈길을 끌었다.\n한 온라인 커뮤니티에 뮤직비디오 속 실세 쯔위의 모습이라며 동영상이 올라왔다.\n영상 속에는 쯔위가 토끼 인형을 들고 서 있고 뒤에 다른 멤버들이 베개를 들고 멈춰 서 있다.\n뮤직비디오 속 다른 멤버들이 화면 중앙에 섰을 때는 다른 멤버들이 격하게 베개로 두드려 팼지만 쯔위에게는 아무도 다가가지 못하는 모습이다.\n특히 다현은 멤버들의 집중 베게 포화를 맞아 삐치기도 했다.\n하지만 쯔위가 가운데 섰을 때는 아무도 덤비지 못했다.\n겁 없는 나연이 베개를 들고 쯔위에게 다가가려 하지만 정연이 단호하게 제지하는 모습이 인상적이다.\n이를 본 네티즌들은 “공식 뮤직비디오에서도 쯔위 실세임을 인증했다” “나연이 겁도 없네” 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트와이스 신곡‘Knock Knock'뮤직비디오 속 쯔위의 모습이 눈길을 끌었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 온라인 커뮤니티에 뮤직비디오 속 실세 쯔위의 모습이라며 동영상이 올라왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속에는 쯔위가 토끼 인형을 들고 서 있고 뒤에 다른 멤버들이 베개를 들고 멈춰 서 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뮤직비디오 속 다른 멤버들이 화면 중앙에 섰을 때는 다른 멤버들이 격하게 베개로 두드려 팼지만 쯔위에게는 아무도 다가가지 못하는 모습이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 다현은 멤버들의 집중 베게 포화를 맞아 삐치기도 했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 쯔위가 가운데 섰을 때는 아무도 덤비지 못했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "겁 없는 나연이 베개를 들고 쯔위에게 다가가려 하지만 정연이 단호하게 제지하는 모습이 인상적이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 본 네티즌들은 “공식 뮤직비디오에서도 쯔위 실세임을 인증했다” “나연이 겁도 없네” 등의 반응을 보였다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트와이스 '뮤비'에서도 드러나는 '쯔위'의 위엄",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

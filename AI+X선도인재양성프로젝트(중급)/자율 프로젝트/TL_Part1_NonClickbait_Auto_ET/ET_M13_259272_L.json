@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259272",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유아인, ‘삼쩜삼’ 모델 발탁",
+		"newsSubTitle": "",
+		"newsContent": "배우 유아인이 ‘삼쩜삼’의 새로운 얼굴이 됐다.\n비스앤빌런즈 측은 삼쩜삼 인지도 강화를 위해 배우 유아인을 브랜드 공식 모델로 발탁하고 브랜드 캠페인을 전개한다고 26일 밝혔다.\n브랜드 측은“다양한 작품에서 선 굵은 배역을 소화해온 배우 유아인은 전 연령층에서 폭넓은 인기를 끌고 있어 주목했다‘며 모델 선정 이유를 밝혔다.\n자비스앤빌런즈는 유아인과 함께‘받을 건 받아야 하니까’라는 메인 슬로건을 지닌 첫 번째 브랜드 캠페인을 본격 시작한다.\n세무 관련 지식이 부족해도, 누구나 쉽고 간편하게 세금 환급을 받을 수 있다는 의미를 담아낸 CF는 지상파 및 케이블TV, 유튜브 등을 통해 만날 수 있다.\n삼쩜삼은 아르바이트, 프리랜서, 크리에이터, 플랫폼 종사자 등 긱워커 및 N잡러를 위한 간편 종합소득세 신고 및 환급 도움 서비스다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유아인이 ‘삼쩜삼’의 새로운 얼굴이 됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비스앤빌런즈 측은 삼쩜삼 인지도 강화를 위해 배우 유아인을 브랜드 공식 모델로 발탁하고 브랜드 캠페인을 전개한다고 26일 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "브랜드 측은“다양한 작품에서 선 굵은 배역을 소화해온 배우 유아인은 전 연령층에서 폭넓은 인기를 끌고 있어 주목했다‘며 모델 선정 이유를 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자비스앤빌런즈는 유아인과 함께‘받을 건 받아야 하니까’라는 메인 슬로건을 지닌 첫 번째 브랜드 캠페인을 본격 시작한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세무 관련 지식이 부족해도, 누구나 쉽고 간편하게 세금 환급을 받을 수 있다는 의미를 담아낸 CF는 지상파 및 케이블TV, 유튜브 등을 통해 만날 수 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼쩜삼은 아르바이트, 프리랜서, 크리에이터, 플랫폼 종사자 등 긱워커 및 N잡러를 위한 간편 종합소득세 신고 및 환급 도움 서비스다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유아인, ‘삼쩜삼’ 모델 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

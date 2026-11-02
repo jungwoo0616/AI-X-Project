@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168208",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "개리♥송지효, 깜짝 청혼 \\\"오빠한테 시집올래?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'런닝맨'에 게스트로 출연한 개리가 송지효에게 깜짝 고백을 해 화제가 됐다.\n13일 방송된 SBS '일요일이 좋다-런닝맨'에서는 지난주 눈물로 작별인사를 한 개리가 게스트로 출연했다.\n이날 특집은 '6시간 내 압구장 투어'였다.\n압구정에 작업실을 둔 개리를 위한 특집이었다.\n멤버들은 미션을 위해 한 명씩 개리를 찾아 듀엣곡을 불렀다. '월요커플' 송지효가 특히 눈에 띄었다.\n개리의 작업실에 들어가면서 쑥스러운 기색을 감추지 못한 송지효는 개리를 만나자마자 와락 포옹하며 반가운 기색을 표현했다.\n개리는 \\\"따로 만났을 땐 더 울었었는데…\\\"라며 장난스럽게 송지효를 놀렸고 송지효는 개리에게 용돈을 강탈하며 웃음을 선사했다.\n개리는 조심스럽게 \\\"나한테 시집올래? 월요커플 다시 할까?\\\"라고 말했고 송지효는 단칼에 거절했다.\n둘은 이어 '헤어지지 못하는 여자, 떠나가지 못하는 남자'를 부르며 미션에 성공했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'런닝맨'에 게스트로 출연한 개리가 송지효에게 깜짝 고백을 해 화제가 됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 SBS '일요일이 좋다-런닝맨'에서는 지난주 눈물로 작별인사를 한 개리가 게스트로 출연했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 특집은 '6시간 내 압구장 투어'였다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "압구정에 작업실을 둔 개리를 위한 특집이었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멤버들은 미션을 위해 한 명씩 개리를 찾아 듀엣곡을 불렀다. '월요커플' 송지효가 특히 눈에 띄었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개리의 작업실에 들어가면서 쑥스러운 기색을 감추지 못한 송지효는 개리를 만나자마자 와락 포옹하며 반가운 기색을 표현했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "개리는 \\\"따로 만났을 땐 더 울었었는데…\\\"라며 장난스럽게 송지효를 놀렸고 송지효는 개리에게 용돈을 강탈하며 웃음을 선사했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "개리는 조심스럽게 \\\"나한테 시집올래? 월요커플 다시 할까?\\\"라고 말했고 송지효는 단칼에 거절했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "둘은 이어 '헤어지지 못하는 여자, 떠나가지 못하는 남자'를 부르며 미션에 성공했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다시 만난 개리♥송지효, 오랜만의 만남에 프러포즈?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

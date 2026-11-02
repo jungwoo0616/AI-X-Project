@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258115",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "YTN “국민의힘 의원들, 항의 방문으로 또 언론 겁박”",
+		"newsSubTitle": "",
+		"newsContent": "YTN 노조와 프로그램 제작진은 국민의힘 의원들이 보도 내용에 불만을 나타내며 항의 방문한 것과 관련, ‘언론 길들이기’라며 반발했다.\nYTN 노조는 13일 성명을 내고 “국민의힘 의원들이 오늘 다시 YTN을 항의 방문이라는 형식으로 겁박했다”며 “지난해 11월 이후 두번째 (방문)”라고 밝혔다.\n국민의힘 박성중, 홍석준 의원 등은 이날 오전 YTN을 방문해 우장균 사장을 면담했다.\n이에 노조원 20여명은 로비에서 ‘언론 길들이기 항의 방문, 보도 탄압 중단하라’며 집회를 열었다.\n국민의힘 의원들은 ‘뉴스가 있는 저녁’, ‘돌발영상’ 등 YTN 보도가 국민의힘 비판에 집중돼 있다고 주장한 것으로 전해졌다.\n노조는 “보도 내용에 문제가 있다고 판단했다면 방송통신심의위원회를 통해 절차를 밟으면 될 일”이라며 “제1야당 의원들이 집단으로 언론사를 항의 방문하는 것은 ‘언론 길들이기’ 차원의 겁박일 뿐”이라고 비판했다. ‘뉴스가 있는 저녁’·‘돌발영상’ 제작진도 성명을 내고 “항의 방문은 명백한 폭력이자 언론 자유와 방송 제작의 자율성, 편집권 독립에 대한 중대한 침해”라고 주장했다.\n또 “대선 후보에 대한 검증과 풍자를 편파방송으로 낙인찍어버리는 비이성적 태도와 방송에까지 극단적인 정치권의 흑백논리를 들이대는 인식 구조를 이번 기회에 자성해 보기를 촉구한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "YTN 노조와 프로그램 제작진은 국민의힘 의원들이 보도 내용에 불만을 나타내며 항의 방문한 것과 관련, ‘언론 길들이기’라며 반발했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YTN 노조는 13일 성명을 내고 “국민의힘 의원들이 오늘 다시 YTN을 항의 방문이라는 형식으로 겁박했다”며 “지난해 11월 이후 두번째 (방문)”라고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국민의힘 박성중, 홍석준 의원 등은 이날 오전 YTN을 방문해 우장균 사장을 면담했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 노조원 20여명은 로비에서 ‘언론 길들이기 항의 방문, 보도 탄압 중단하라’며 집회를 열었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국민의힘 의원들은 ‘뉴스가 있는 저녁’, ‘돌발영상’ 등 YTN 보도가 국민의힘 비판에 집중돼 있다고 주장한 것으로 전해졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노조는 “보도 내용에 문제가 있다고 판단했다면 방송통신심의위원회를 통해 절차를 밟으면 될 일”이라며 “제1야당 의원들이 집단으로 언론사를 항의 방문하는 것은 ‘언론 길들이기’ 차원의 겁박일 뿐”이라고 비판했다. ‘뉴스가 있는 저녁’·‘돌발영상’ 제작진도 성명을 내고 “항의 방문은 명백한 폭력이자 언론 자유와 방송 제작의 자율성, 편집권 독립에 대한 중대한 침해”라고 주장했다.",
+				"sentenceSize": 211
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 “대선 후보에 대한 검증과 풍자를 편파방송으로 낙인찍어버리는 비이성적 태도와 방송에까지 극단적인 정치권의 흑백논리를 들이대는 인식 구조를 이번 기회에 자성해 보기를 촉구한다”고 말했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "YTN “국민의힘 의원들, 항의 방문으로 또 언론 겁박”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

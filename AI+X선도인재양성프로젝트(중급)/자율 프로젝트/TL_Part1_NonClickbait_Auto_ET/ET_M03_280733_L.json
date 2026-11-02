@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280733",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'박보검·아이린', 캐롤에 맞춰 커플댄스 선보여 … \\\"연습생 출신답네\\\"",
+		"newsSubTitle": "",
+		"newsContent": "박보검 아이린 뮤직뱅크의 MC인 박보검과 아이린의 크리스마스 댄스가 네티즌들 사이에서 화제다.\n25일 방송된 KBS 2TV '뮤직뱅크'는 성탄특집으로 꾸며진 가운데 박보검의 반전매력을 선보였다.\n이날 박보검과 아이린은 캐롤 '징글벨 락(Jingle Bell Rock)'을 부르며 오프닝 무대를 꾸몄다.\n박보검과 아이린은 레드 컬러의 크리스마스 의상을 맞춰 입고 발랄한 매력을 선보였다.\n박보검은 루돌프 머리띠를 착용하고 무대에 올라 앙증 맞은 율동을 선보였다.\n아이린과 박보검은 귀여운 안무와 수준급 노래 실력으로 시청자들의 눈과 귀를 사로잡았다.\n무대가 끝나자 이아린은 \\\"박보검, 노래도 연기도 잘 한다. 엄지 척\\\"이라고 칭찬했다.\n박보검은 \\\"아이린 씨와 '뮤직뱅크'의 MC를 맡아서 기쁘고 많은 분에게 사랑받아 감사했다\\\"고 소감을 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박보검 아이린 뮤직뱅크의 MC인 박보검과 아이린의 크리스마스 댄스가 네티즌들 사이에서 화제다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 방송된 KBS 2TV '뮤직뱅크'는 성탄특집으로 꾸며진 가운데 박보검의 반전매력을 선보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 박보검과 아이린은 캐롤 '징글벨 락(Jingle Bell Rock)'을 부르며 오프닝 무대를 꾸몄다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박보검과 아이린은 레드 컬러의 크리스마스 의상을 맞춰 입고 발랄한 매력을 선보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박보검은 루돌프 머리띠를 착용하고 무대에 올라 앙증 맞은 율동을 선보였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이린과 박보검은 귀여운 안무와 수준급 노래 실력으로 시청자들의 눈과 귀를 사로잡았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "무대가 끝나자 이아린은 \\\"박보검, 노래도 연기도 잘 한다. 엄지 척\\\"이라고 칭찬했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박보검은 \\\"아이린 씨와 '뮤직뱅크'의 MC를 맡아서 기쁘고 많은 분에게 사랑받아 감사했다\\\"고 소감을 말했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'박보검·아이린', 캐롤에 맞춰 커플댄스 선보여 … \\\"연습생 출신답네\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

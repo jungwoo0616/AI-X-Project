@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171560",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘국민 안내양’ 김정연, 영호남 오가는 ‘농민 마음의 벗’",
+    "newsSubTitle": "",
+    "newsContent": "‘국민 안내양’ 가수 김정연이 연이은 농민 관련 행사로 전국을 누볐다.\n김정연은 지난달 19일 경북 청도군이 군민들을 위해 마련한 ‘코로나19 극복을 위한 힐링음악회’를 시작으로 26일 경북 상주에서 열린 ‘4-H 정신 실천교육 및 한마음대회’ 그리고 29일 전남 강진군에서 열린 강진송년의 밤 ‘여민동락’에 참여하며 경상도와 전라도를 넘나드는 광폭행보를 보였다.\n3개의 행사 모두 ‘위드 코로나’ 시대를 맞아 엄중한 방역수칙 아래 치러진 대면 공연이었다.\n김정연은 코로나19 장기화로 지친 농민들의 마음을 위로하고 2022년을 희망차게 맞이하기 위해 개최한 행사에 함께 했다.\n김정연은 공연장을 메운 60~7-대 관객들과 일일이 눈을 맞추면서 노찾사 출신 1호 트로트 가수다운 가창력과 KBS1 ‘6시 내고향’에서 국민 안내양으로 활약하며 갈고닦은 입담으로 웃음과 감동을 선사했다.\n김정연은 현재 KBS1 ‘아침마당’의 ‘화요초대석’ 패널로 출연 중이며, KBS 청주의 ‘무대를 빌려드립니다’에서는 2년째 메인 MC로 활약 중이다.\n또한 유튜브 채널 ‘국민 안내양 TV’를 통해 전국 농축산물을 판매하며 연일 완판기록도 세우는 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘국민 안내양’ 가수 김정연이 연이은 농민 관련 행사로 전국을 누볐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김정연은 지난달 19일 경북 청도군이 군민들을 위해 마련한 ‘코로나19 극복을 위한 힐링음악회’를 시작으로 26일 경북 상주에서 열린 ‘4-H 정신 실천교육 및 한마음대회’ 그리고 29일 전남 강진군에서 열린 강진송년의 밤 ‘여민동락’에 참여하며 경상도와 전라도를 넘나드는 광폭행보를 보였다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "3개의 행사 모두 ‘위드 코로나’ 시대를 맞아 엄중한 방역수칙 아래 치러진 대면 공연이었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김정연은 코로나19 장기화로 지친 농민들의 마음을 위로하고 2022년을 희망차게 맞이하기 위해 개최한 행사에 함께 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김정연은 공연장을 메운 60~7-대 관객들과 일일이 눈을 맞추면서 노찾사 출신 1호 트로트 가수다운 가창력과 KBS1 ‘6시 내고향’에서 국민 안내양으로 활약하며 갈고닦은 입담으로 웃음과 감동을 선사했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김정연은 현재 KBS1 ‘아침마당’의 ‘화요초대석’ 패널로 출연 중이며, KBS 청주의 ‘무대를 빌려드립니다’에서는 2년째 메인 MC로 활약 중이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 유튜브 채널 ‘국민 안내양 TV’를 통해 전국 농축산물을 판매하며 연일 완판기록도 세우는 중이다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘국민 안내양’ 이 가수, 농민 행사 관객들과 눈 맞추며 감동 선사",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

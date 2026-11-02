@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277837",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "중국집에서 만난 방청객 알아보고 깐풍기 산 광희",
+		"newsSubTitle": "",
+		"newsContent": "광희가 방청객을 알아보고 깐풍기를 산 것으로 알려졌다.\n네티즌들의 그의 눈썰미에 놀라워하는 동시에 따뜻한 인정에 훈훈하다는 반응을 보이고 있다.\n10일 한 온라인 커뮤니티에는 '방청객 알아보고 깐풍기 쏜 광희'라는 제목으로 게시물이 올라왔다.\n게시물에 따르면 광희는 공개 방송 이후 중국집에서 만난 방청객을 알아보고 깐풍기를 시켜준 것으로 알려졌다.\n게시자는 \\\"방청객도 다 기억해주고 거기에 깐풍기까지…너무 고마웠다\\\"고 밝혔다.\n광희는 지난 2014년에도 200개의 롤케이크를 주문해 이웃들과 아파트 경비실에 돌려 화제가 된 바 있다.\n광희의 아름다운 마음이 보는 이들의 마음도 따뜻하게 해 주고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "광희가 방청객을 알아보고 깐풍기를 산 것으로 알려졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네티즌들의 그의 눈썰미에 놀라워하는 동시에 따뜻한 인정에 훈훈하다는 반응을 보이고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "10일 한 온라인 커뮤니티에는 '방청객 알아보고 깐풍기 쏜 광희'라는 제목으로 게시물이 올라왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "게시물에 따르면 광희는 공개 방송 이후 중국집에서 만난 방청객을 알아보고 깐풍기를 시켜준 것으로 알려졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "게시자는 \\\"방청객도 다 기억해주고 거기에 깐풍기까지…너무 고마웠다\\\"고 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "광희는 지난 2014년에도 200개의 롤케이크를 주문해 이웃들과 아파트 경비실에 돌려 화제가 된 바 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "광희의 아름다운 마음이 보는 이들의 마음도 따뜻하게 해 주고 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국집에서 만난 방청객 알아보고 깐풍기 산 광희",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

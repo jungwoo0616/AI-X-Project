@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276524",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "캐서린 헤이글이 한국 아이 입양한 계기",
+		"newsSubTitle": "",
+		"newsContent": "배우 캐서린 헤이글이 한국에서 입양한 딸에 대한 애정을 인스타그램에서 뽐내 화제다.\n8일 캐서린 헤이글은 자신의 인스타그램에 자신이 직접 만든 과일 스무디를 먹고 있는 자신의 딸 '네이리'와 '아델레이드'의 모습을 공개했다.\n캐서린 헤이글은 2009년 한국에서 딸 '네이리'를 입양했고 2012년 둘째 '아델레이드'를 입양했다.\n셋째는 2016년에는 헤이글 자신이 낳은 '조쉬'다.\n그녀는 과거 부모님이 한국 출신 언니를 입양한 것을 계기로 자신도 한국인 아이를 입양한 것으로 알려졌다.\n캐서린 헤이글은 세계적인 인기를 끈 의학 드라마 '그레이 아나토미'로 할리우드 스타덤에 올랐으며 이외에도 '킬러스', '빅 웨딩', '제니스 웨딩' 등의 영화에 출연했다.\n한편 소식을 접한 네티즌들은 \\\"보기만 해도 너무 행복한 가정인 것이 느껴진다\\\" \\\"본격 친한파 배우 캐서린 헤이글\\\" \\\"아이들 얼굴이 너무 보기 좋다\\\" 등의 다양한 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 캐서린 헤이글이 한국에서 입양한 딸에 대한 애정을 인스타그램에서 뽐내 화제다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 캐서린 헤이글은 자신의 인스타그램에 자신이 직접 만든 과일 스무디를 먹고 있는 자신의 딸 '네이리'와 '아델레이드'의 모습을 공개했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "캐서린 헤이글은 2009년 한국에서 딸 '네이리'를 입양했고 2012년 둘째 '아델레이드'를 입양했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "셋째는 2016년에는 헤이글 자신이 낳은 '조쉬'다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그녀는 과거 부모님이 한국 출신 언니를 입양한 것을 계기로 자신도 한국인 아이를 입양한 것으로 알려졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "캐서린 헤이글은 세계적인 인기를 끈 의학 드라마 '그레이 아나토미'로 할리우드 스타덤에 올랐으며 이외에도 '킬러스', '빅 웨딩', '제니스 웨딩' 등의 영화에 출연했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 소식을 접한 네티즌들은 \\\"보기만 해도 너무 행복한 가정인 것이 느껴진다\\\" \\\"본격 친한파 배우 캐서린 헤이글\\\" \\\"아이들 얼굴이 너무 보기 좋다\\\" 등의 다양한 반응을 보였다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "캐서린 헤이글이 한국 아이 입양한 계기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279602",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "비정상회담 나경원, 민망랩 선보이자…패널들 '화들짝'",
+		"newsSubTitle": "",
+		"newsContent": "비정상회담 나경원, 민망랩 선보이자…패널들 자리 박차고 일어나 11일 방송된 JTBC '비정상회담' 나경원 의원 '정치에 무관심한 나'를 주제로 이야기를 나눴다.\n이날 나경원이 \\\"처음에 떨렸고 시사토론보다 어려웠다. 진지하게 준비를 많이 해오신 것 같아 감명 받았다. 다들 한국말도 잘 하신다\\\"고 소감을 전했다.\n또 비정상회담 나경원이 \\\"저를 자꾸 놀리셔서...\\\"라고 하자, 유세윤이 \\\"화나셨어요? 저 잡혀가나요\\\"라고 너스레를 떨었고, 나경원이 \\\"아니요. 요즘 국회의원들이 손들고 벌서야 하는 분위기\\\"라고 말했다.\n이에 전현무가 \\\"그래서 랩을 뚫으시겠냐?\\\"라며 재차 개인기를 권했고, 나경원이 \\\"이 랩으로 하면 안 되느냐. 비정상회담에 출연한 느낌\\\"이라고 말해 기대감을 높였다.\n이어 비정상회담 나경원이 리듬을 타다 \\\"난 재미있었어 비정상회담에 참여해서\\\"라며 정직한 랩을 선보여 출연진이 폭소했고, 유세윤이 민망함에 자리를 박차고 일어나 웃음을 더했다.\n온라인 중앙일보 '비정상회담 나경원'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비정상회담 나경원, 민망랩 선보이자…패널들 자리 박차고 일어나 11일 방송된 JTBC '비정상회담' 나경원 의원 '정치에 무관심한 나'를 주제로 이야기를 나눴다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 나경원이 \\\"처음에 떨렸고 시사토론보다 어려웠다. 진지하게 준비를 많이 해오신 것 같아 감명 받았다. 다들 한국말도 잘 하신다\\\"고 소감을 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 비정상회담 나경원이 \\\"저를 자꾸 놀리셔서...\\\"라고 하자, 유세윤이 \\\"화나셨어요? 저 잡혀가나요\\\"라고 너스레를 떨었고, 나경원이 \\\"아니요. 요즘 국회의원들이 손들고 벌서야 하는 분위기\\\"라고 말했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 전현무가 \\\"그래서 랩을 뚫으시겠냐?\\\"라며 재차 개인기를 권했고, 나경원이 \\\"이 랩으로 하면 안 되느냐. 비정상회담에 출연한 느낌\\\"이라고 말해 기대감을 높였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 비정상회담 나경원이 리듬을 타다 \\\"난 재미있었어 비정상회담에 참여해서\\\"라며 정직한 랩을 선보여 출연진이 폭소했고, 유세윤이 민망함에 자리를 박차고 일어나 웃음을 더했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 '비정상회담 나경원'",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비정상회담 나경원, 민망랩 선보이자…패널들 '화들짝'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

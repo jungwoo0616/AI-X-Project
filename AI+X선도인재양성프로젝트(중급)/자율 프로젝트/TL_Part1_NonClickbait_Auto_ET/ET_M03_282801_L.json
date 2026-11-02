@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282801",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'라디오스타' 나르샤 술버릇? \\\"술 취하면 화장실에서 자\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'라디오스타 나르샤' 술 취하면 화장실에서 자 브라운 아이드 걸스(제아 미료 가인 나르샤) 가인이 나르샤의 술버릇을 폭로했다.\n가인은 11월 13일 방송된 JTBC '마녀사냥'에 브아걸 제아와 함께 게스트로 출연해 멤버들과 숙소생활에 대해 불만을 표출했다.\n이날 가인은 \\\"(제아를 제외한) 다른 멤버중에 누군지 말은 안 하지만 한 멤버가 꼭 화장실에서 잔다\\\"고 해 주목 받았다.\n이를 듣던 서인영은 나르샤의 이름을 외쳤고 제아는 엉겁결에 \\\"맞다\\\"고 대답하면서 이 술버릇의 주인공이 나르샤임이 밝혀지게 됐다.\n이어 가인은 \\\"저는 화장실도 저 혼자 쓴다. 사람이 자고 있는데 화장실을 갈 수가 없지 않냐\\\"고 설명했다.\n앞서 가인은 결벽증이 있다며 멤버들과 냉장고 칸을 따로 쓴 적이 있다고 말하기도 했다. [사진=JTBC '마녀사냥' 방송 캡처] '라디오스타' '라디오스타 나르샤' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'라디오스타 나르샤' 술 취하면 화장실에서 자 브라운 아이드 걸스(제아 미료 가인 나르샤) 가인이 나르샤의 술버릇을 폭로했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가인은 11월 13일 방송된 JTBC '마녀사냥'에 브아걸 제아와 함께 게스트로 출연해 멤버들과 숙소생활에 대해 불만을 표출했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 가인은 \\\"(제아를 제외한) 다른 멤버중에 누군지 말은 안 하지만 한 멤버가 꼭 화장실에서 잔다\\\"고 해 주목 받았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 듣던 서인영은 나르샤의 이름을 외쳤고 제아는 엉겁결에 \\\"맞다\\\"고 대답하면서 이 술버릇의 주인공이 나르샤임이 밝혀지게 됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 가인은 \\\"저는 화장실도 저 혼자 쓴다. 사람이 자고 있는데 화장실을 갈 수가 없지 않냐\\\"고 설명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 가인은 결벽증이 있다며 멤버들과 냉장고 칸을 따로 쓴 적이 있다고 말하기도 했다. [사진=JTBC '마녀사냥' 방송 캡처] '라디오스타' '라디오스타 나르샤' 온라인 중앙일보",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'라디오스타' 나르샤 술버릇? \\\"술 취하면 화장실에서 자\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

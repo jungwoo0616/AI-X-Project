@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282741",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'무한도전 엑스포' 광희 \\\"마늘? 나무에서 나는 열매\\\" 경악",
+		"newsSubTitle": "",
+		"newsContent": "'무한도전 엑스포' 방송인 광희가 마늘 열매론을 주장해 눈길을 끌었다.\n광희는 18일 오후 방송된 tvN '아바타셰프'에서 \\\"마늘은 나무에서 난다\\\"라고 밝혀 모두를 놀라게 했다.\n이날 방송에서 장동민은 \\\"어린 친구들은 옆에서 나는 것이 깻잎인지도 모르더라\\\"고 말했다.\n이를 들은 광희 역시 \\\"깻잎이 바닥에서 나는지도 모르더라. 나무에서 나는 줄 안다\\\"라고 맞장구쳤다.\n이어 광희는 마늘에 대한 질문에 \\\"마늘은 나무에서 나는 열매다. 마늘쫑은 마늘 장아찌 아니냐\\\"라고 말해 시선을 모았다.\n한편 '아바타셰프'는 셰프가 요리하지 않는 신개념 쿠킹쇼로 매주 수요일 오후 8시 20분에 방송된다. '무한도전 엑스포' [사진] '아바타셰프' 방송 캡처. '무한도전 엑스포' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'무한도전 엑스포' 방송인 광희가 마늘 열매론을 주장해 눈길을 끌었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "광희는 18일 오후 방송된 tvN '아바타셰프'에서 \\\"마늘은 나무에서 난다\\\"라고 밝혀 모두를 놀라게 했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 장동민은 \\\"어린 친구들은 옆에서 나는 것이 깻잎인지도 모르더라\\\"고 말했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 들은 광희 역시 \\\"깻잎이 바닥에서 나는지도 모르더라. 나무에서 나는 줄 안다\\\"라고 맞장구쳤다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 광희는 마늘에 대한 질문에 \\\"마늘은 나무에서 나는 열매다. 마늘쫑은 마늘 장아찌 아니냐\\\"라고 말해 시선을 모았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 '아바타셰프'는 셰프가 요리하지 않는 신개념 쿠킹쇼로 매주 수요일 오후 8시 20분에 방송된다. '무한도전 엑스포' [사진] '아바타셰프' 방송 캡처. '무한도전 엑스포' 온라인 중앙일보",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'무한도전 엑스포' 광희 \\\"마늘? 나무에서 나는 열매\\\" 경악",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

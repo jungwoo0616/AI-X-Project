@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258264",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "공소원, ‘모래알사랑’ 음방 최초 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 공소원이 ‘모래알사랑’ 무대를 최초로 공개했다.\n공소원은 15일 오후 방송된 MBC ‘쇼! 음악중심’에 출연해 ‘어느날 문득’과 신곡 ‘모래알사랑’ 무대를 음악 방송 최초로 공개했다.\n이날 공소원은 ‘어느날 문득’과 ‘모래알사랑’ 무대를 연달아 선보이며 가요 팬들의 시선을 사로잡았다.\n먼저 블랙 슈트를 입고 ‘어느날 문득’ 무대를 꾸민 공소원은 차분하면서도 깊은 감성으로 무대를 물들였다.\n이어 버건디 슈트 스타일링으로 ‘모래알사랑’ 무대를 선보이며 촉촉한 감성을 전했다.\n공소원의 ‘모래알사랑’의 작사와 작곡에는 각각 이용구와 한형석이 참여했으며, 남녀의 사랑을 모래알에 비유한 감성적인 가사가 돋보인다.\n여기에 공소원만의 한층 더 풍부해진 보이스가 더해져 리스너들에게 진한 여운을 안기고 있다.\n한편, ‘모래알사랑’을 공개한 공소원은 현재 유튜브 채널에 색소폰 연주 커버 영상들을 공개하는 등 팬들과 소통을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 공소원이 ‘모래알사랑’ 무대를 최초로 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공소원은 15일 오후 방송된 MBC ‘쇼! 음악중심’에 출연해 ‘어느날 문득’과 신곡 ‘모래알사랑’ 무대를 음악 방송 최초로 공개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 공소원은 ‘어느날 문득’과 ‘모래알사랑’ 무대를 연달아 선보이며 가요 팬들의 시선을 사로잡았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 블랙 슈트를 입고 ‘어느날 문득’ 무대를 꾸민 공소원은 차분하면서도 깊은 감성으로 무대를 물들였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 버건디 슈트 스타일링으로 ‘모래알사랑’ 무대를 선보이며 촉촉한 감성을 전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공소원의 ‘모래알사랑’의 작사와 작곡에는 각각 이용구와 한형석이 참여했으며, 남녀의 사랑을 모래알에 비유한 감성적인 가사가 돋보인다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 공소원만의 한층 더 풍부해진 보이스가 더해져 리스너들에게 진한 여운을 안기고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, ‘모래알사랑’을 공개한 공소원은 현재 유튜브 채널에 색소폰 연주 커버 영상들을 공개하는 등 팬들과 소통을 이어간다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공소원, ‘모래알사랑’ 음방 최초 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

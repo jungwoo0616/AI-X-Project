@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280781",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘너의 목소리가 보여 시즌2’ 사과 아가씨 이윤아, ‘쑥대머리’ 화제… 발라드+국악의 조화",
+		"newsSubTitle": "",
+		"newsContent": "'사과 아가씨' 이윤아가 부른 '쑥대머리'가 화제다.\n24일 밤 방송된 케이블TV M.net, tvN ‘너의 목소리가 보여2’(이하 ‘너목보2’)는 크리스마스 특집으로 가수 거미를 게스트로 초대했다.\n이날 거미는 최종 2인으로 '꽃순경'과 '사과 아가씨'가 남았을 때, '사과 아가씨'를 떨어뜨렸다.\n하지만 '사과 아가씨'는 국악을 하는 실력자 이윤아 였다.\n화려한 한복과 쪽진 머리스타일로 단아한 미모를 뽐낸 이윤아는 가수 거미의 히트곡 '아니'를 국악으로 재해석해 놀라운 라이브 실력을 보여주었다.\n또 사과 아가씨는 현대곡으로 편곡된 판소리 춘향가 중 ‘쑥대머리’를 국악과 발라드 창법이 혼합된 음성으로 불러 전율을 자아냈다.\n거미는 부끄러움에 고개를 숙였고 이상민은 “이 노래 음원으로 내면 안되냐”고 극찬했다. ‘너목보 쑥대머리’ ‘너목보 쑥대머리’ 온라인 중앙일보 [사진 '너의 목소리가 보여2' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'사과 아가씨' 이윤아가 부른 '쑥대머리'가 화제다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 밤 방송된 케이블TV M.net, tvN ‘너의 목소리가 보여2’(이하 ‘너목보2’)는 크리스마스 특집으로 가수 거미를 게스트로 초대했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 거미는 최종 2인으로 '꽃순경'과 '사과 아가씨'가 남았을 때, '사과 아가씨'를 떨어뜨렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 '사과 아가씨'는 국악을 하는 실력자 이윤아 였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "화려한 한복과 쪽진 머리스타일로 단아한 미모를 뽐낸 이윤아는 가수 거미의 히트곡 '아니'를 국악으로 재해석해 놀라운 라이브 실력을 보여주었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 사과 아가씨는 현대곡으로 편곡된 판소리 춘향가 중 ‘쑥대머리’를 국악과 발라드 창법이 혼합된 음성으로 불러 전율을 자아냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "거미는 부끄러움에 고개를 숙였고 이상민은 “이 노래 음원으로 내면 안되냐”고 극찬했다. ‘너목보 쑥대머리’ ‘너목보 쑥대머리’ 온라인 중앙일보 [사진 '너의 목소리가 보여2' 캡처]",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘너의 목소리가 보여 시즌2’ 사과 아가씨 이윤아, ‘쑥대머리’ 화제… 발라드+국악의 조화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

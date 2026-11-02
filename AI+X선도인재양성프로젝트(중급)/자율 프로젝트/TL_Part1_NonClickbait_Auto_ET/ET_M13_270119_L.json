@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270119",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김선호, 연극 ‘터칭더보이드’로 선복귀 확정",
+		"newsSubTitle": "",
+		"newsContent": "배우 김선호가 복격적인 복귀활동에 돌입한다.\n연극 ‘연극열전’ 측에 따르면 김선호는 ‘터칭 더 보이드’(Touching the Void) 출연을 확정하며 연극 무대에 오른다.\n첫 공연은 오는 7월 8일 대학로 아트원씨어터 2관에서 개시된다.\n이 연극은 영국인 산악가 조 심슨과 사이먼 예이츠의 생존 실화를 바탕으로 한 작품으로 연출은 김동연이 맡았다.\n인간을 향한 따뜻한 시선과 대자연에 맞서는 인간의 투지를 담아낼 예정이다.\n김선호는 조난사고로 설산에 고립된 조 역을 맡는다.\n사생활 논란으로 연예계 활동을 일체 중단했던 김선호는 영화 ‘슬픈열대’로 복귀를 예정해두고 있었으나 자신이 본래 활동했던 연극 무대에 오르며 본격적인 활동에 나선다.\n김선호가 대중 앞에 모습을 드러내는 것은 약 9개월 만이다.\n이보다 앞서 김선호는 7일 인스타그램에 “저의 부족함으로 인해 힘든 시간을 보내게 해 미안하다”라며 “전해주시는 마음들 소중히 기억하고, 응원에 보답할 수 있는 배우가 되겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김선호가 복격적인 복귀활동에 돌입한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연극 ‘연극열전’ 측에 따르면 김선호는 ‘터칭 더 보이드’(Touching the Void) 출연을 확정하며 연극 무대에 오른다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫 공연은 오는 7월 8일 대학로 아트원씨어터 2관에서 개시된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 연극은 영국인 산악가 조 심슨과 사이먼 예이츠의 생존 실화를 바탕으로 한 작품으로 연출은 김동연이 맡았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인간을 향한 따뜻한 시선과 대자연에 맞서는 인간의 투지를 담아낼 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김선호는 조난사고로 설산에 고립된 조 역을 맡는다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사생활 논란으로 연예계 활동을 일체 중단했던 김선호는 영화 ‘슬픈열대’로 복귀를 예정해두고 있었으나 자신이 본래 활동했던 연극 무대에 오르며 본격적인 활동에 나선다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김선호가 대중 앞에 모습을 드러내는 것은 약 9개월 만이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이보다 앞서 김선호는 7일 인스타그램에 “저의 부족함으로 인해 힘든 시간을 보내게 해 미안하다”라며 “전해주시는 마음들 소중히 기억하고, 응원에 보답할 수 있는 배우가 되겠다”고 밝혔다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김선호, 연극 ‘터칭더보이드’로 선복귀 확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

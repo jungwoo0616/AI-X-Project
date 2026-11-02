@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268273",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘한한령’ 관련 중국 전 문화차관, 수뢰혐의로 징역 15년 선고 받아",
+		"newsSubTitle": "",
+		"newsContent": "사드(THAAD·고고도 미사일 방어체계) 관련 중국 대 한국 문화·관광 분야 제재 시행 초기 중국 관광 부문 책임자였던 리진자오 전 중국 문화여유부 부부장(차관급)이 수뢰죄로 1심서 징역 15년형을 선고받았다.\n랴오닝성 선양시 중급인민법원은 26일 열린 선고 공판에서 리 전 부부장에 대해 수뢰죄로 징역 15년형을 선고하고 벌금 600만 위안(11억원)과 수뢰액 및 그외 불법 이득에 대한 추징 명령을 했다고 홈페이지를 통해 밝혔다.\nCCTV에 따르면 리 전 부부장은 1996년부터 2020년까지 상무부 부부장, 국가여유국 국장, 문화여유부 부부장 등을 역임하는 동안 권한을 남용해 관련 회사나 개인에게 편의나 이익을 제공하는 대가로 모두 약 6550만위안(125억원) 상당을 불법 수수한 혐의로 기소됐다.\n리 전 부부장은 2020년 7월, 기율 위반 건으로 공산당 중앙기율검사위원회의 조사를 받고 있는 것으로 발표됐었다.\n리 전 부부장은 한국과도 접점이 있었던 인물이다.\n그는 중국이 주한미군 사드 배치를 이유로 2017년을 전후해 중국인의 한국 단체관광 금지 등 보복 조치를 가동하기 시작했을 당시 관광 담당 부서인 국가여유국 국장이었다.\n또 한중 관광장관 회담, 한중일 관광장관 회의 등에 중국 대표로 참석하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사드(THAAD·고고도 미사일 방어체계) 관련 중국 대 한국 문화·관광 분야 제재 시행 초기 중국 관광 부문 책임자였던 리진자오 전 중국 문화여유부 부부장(차관급)이 수뢰죄로 1심서 징역 15년형을 선고받았다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "랴오닝성 선양시 중급인민법원은 26일 열린 선고 공판에서 리 전 부부장에 대해 수뢰죄로 징역 15년형을 선고하고 벌금 600만 위안(11억원)과 수뢰액 및 그외 불법 이득에 대한 추징 명령을 했다고 홈페이지를 통해 밝혔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CCTV에 따르면 리 전 부부장은 1996년부터 2020년까지 상무부 부부장, 국가여유국 국장, 문화여유부 부부장 등을 역임하는 동안 권한을 남용해 관련 회사나 개인에게 편의나 이익을 제공하는 대가로 모두 약 6550만위안(125억원) 상당을 불법 수수한 혐의로 기소됐다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리 전 부부장은 2020년 7월, 기율 위반 건으로 공산당 중앙기율검사위원회의 조사를 받고 있는 것으로 발표됐었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리 전 부부장은 한국과도 접점이 있었던 인물이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 중국이 주한미군 사드 배치를 이유로 2017년을 전후해 중국인의 한국 단체관광 금지 등 보복 조치를 가동하기 시작했을 당시 관광 담당 부서인 국가여유국 국장이었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 한중 관광장관 회담, 한중일 관광장관 회의 등에 중국 대표로 참석하기도 했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘한한령’ 관련 중국 전 문화차관, 수뢰혐의로 징역 15년 선고 받아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

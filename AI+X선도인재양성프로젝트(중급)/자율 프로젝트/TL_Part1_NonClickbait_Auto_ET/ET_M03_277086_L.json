@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277086",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "생방송 중 실수로 그룹 멤버 '스포'한 최유정",
+		"newsSubTitle": "",
+		"newsContent": "'아이오아이' 출신 최유정이 찰나의 실수로 새 걸그룹의 멤버를 '스포'해 화제다.\n지난 26일 최유정은 네이버 V LIVE를 통해 생방송된 '방과 후 아지트'에서 팬들과 소통하며 다양한 매력을 뽐냈다.\n웹방송인 '아이틴걸즈'를 통해 걸그룹 데뷔 프로젝트를 가동한 판타지오는 최유정과 김도연이 속한 아이돌 그룹을 올해 상반기 안에 선보일 계획이라고 밝혔다.\n그러나 최유정, 김도연 외 데뷔 인원은 아직 확정되지 않은 채 베일에 감춰져 있던 상황. 최유정은 방송을 마무리하던 중 자기도 모르게 \\\"내일도 우리 해림…\\\"이라고 말했고 이내 자신의 실수를 눈치채고 당황했다.\n어이없는 실수에 웃음만 지어보이던 최유정은 자포자기의 심정으로 \\\"해림언니랑 같이 재밌는 시간 보냈으면 좋겠다\\\"고 말하며 팬들의 웃음을 자아냈다.\n이를 본 팬들은 \\\"실수도 귀엽게 한다\\\" \\\"아이틴걸즈 흥해라\\\"등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'아이오아이' 출신 최유정이 찰나의 실수로 새 걸그룹의 멤버를 '스포'해 화제다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 26일 최유정은 네이버 V LIVE를 통해 생방송된 '방과 후 아지트'에서 팬들과 소통하며 다양한 매력을 뽐냈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "웹방송인 '아이틴걸즈'를 통해 걸그룹 데뷔 프로젝트를 가동한 판타지오는 최유정과 김도연이 속한 아이돌 그룹을 올해 상반기 안에 선보일 계획이라고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 최유정, 김도연 외 데뷔 인원은 아직 확정되지 않은 채 베일에 감춰져 있던 상황. 최유정은 방송을 마무리하던 중 자기도 모르게 \\\"내일도 우리 해림…\\\"이라고 말했고 이내 자신의 실수를 눈치채고 당황했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어이없는 실수에 웃음만 지어보이던 최유정은 자포자기의 심정으로 \\\"해림언니랑 같이 재밌는 시간 보냈으면 좋겠다\\\"고 말하며 팬들의 웃음을 자아냈다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 팬들은 \\\"실수도 귀엽게 한다\\\" \\\"아이틴걸즈 흥해라\\\"등의 반응을 보였다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "생방송 중 실수로 그룹 멤버 '스포'한 최유정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281947",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 추운 겨울을 포근하게 녹일 사랑 이야기",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘김제동의 톡투유-걱정말아요 그대’에서는 걸그룹 카라의 한승연(27·사진)이 출연해 ‘사랑’을 주제로 300여 명의 청중과 대화를 나눈다.\n한승연은 MC 김제동으로부터 “언제 사랑을 느끼냐”는 질문을 받고 “하루 일과를 마치고 집에 들어갔는데 반려견이 나를 마중나와 반길 때”라고 답한다.\n연예인으로서 어쩔 수 없이 겪어야 하는 고충에 대해서는 “어린 나이에 데뷔해 일을 하다 보니 사람 사이에서 얻는 상처가 많았다”고 털어놓는다.\n한편 이날 방송에서 한 여성 청중은 고교시절 선생님이었던 남편과 14세 나이 차이를 극복하고 결혼에 성공했다고 고백해 눈길을 끈다.\n이 여성은 “내가 먼저 결혼하자고 했는데 남편이 주위로부터 ‘도둑놈’ 소리를 듣는 게 미안하다”며 “항상 날 떠받들어 주는 남편은 나의 자부심이자 꿈이다”라고 말해 뜨거운 박수를 받는다.\n다른 청중들도 저마다 추억이 깃든 사랑 이야기를 고백한다.\n추운 겨울을 따뜻하게 녹여줄 다양한 사랑 이야기는 6일 오후 11시 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘김제동의 톡투유-걱정말아요 그대’에서는 걸그룹 카라의 한승연(27·사진)이 출연해 ‘사랑’을 주제로 300여 명의 청중과 대화를 나눈다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한승연은 MC 김제동으로부터 “언제 사랑을 느끼냐”는 질문을 받고 “하루 일과를 마치고 집에 들어갔는데 반려견이 나를 마중나와 반길 때”라고 답한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연예인으로서 어쩔 수 없이 겪어야 하는 고충에 대해서는 “어린 나이에 데뷔해 일을 하다 보니 사람 사이에서 얻는 상처가 많았다”고 털어놓는다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 이날 방송에서 한 여성 청중은 고교시절 선생님이었던 남편과 14세 나이 차이를 극복하고 결혼에 성공했다고 고백해 눈길을 끈다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 여성은 “내가 먼저 결혼하자고 했는데 남편이 주위로부터 ‘도둑놈’ 소리를 듣는 게 미안하다”며 “항상 날 떠받들어 주는 남편은 나의 자부심이자 꿈이다”라고 말해 뜨거운 박수를 받는다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다른 청중들도 저마다 추억이 깃든 사랑 이야기를 고백한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "추운 겨울을 따뜻하게 녹여줄 다양한 사랑 이야기는 6일 오후 11시 확인할 수 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 추운 겨울을 포근하게 녹일 사랑 이야기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

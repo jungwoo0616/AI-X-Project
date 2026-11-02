@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267386",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "가세연 주요 출연자들 ‘명예훼손 혐의’로 검찰 송치",
+		"newsSubTitle": "",
+		"newsContent": "유튜브 채널 가로세로연구소(가세연) 관계자들이 검찰에 넘겨졌다.\n19일 경찰에 따르면 서울 강남경찰서는 가세연 강용석 소장과 김세의 대표, 김용호 전 기자에게 정보통신망법상 명예훼손 혐의를 적용해 이달 15일 사건을 서울중앙지검에 송치했다.\n유튜버 이모씨도 같은 혐의로 송치가 됐다.\n강 소장 등은 2020년 유튜브 방송을 통해 조 전 장관과 이 장관 자녀에 대해 허위 의혹을 제기하는 한편 국민의힘 김병욱 의원의 비서 성폭행 의혹을 주장한 혐의를 받는다.\n배우 한예슬에 대해서는 남자친구 사생활 의혹을 제기한 혐의도 있다.\n이들은 지난해 9월 경찰 출석 요구에 여러 차례 불응해 체포됐다가 구속영장이 검찰에서 기각돼 풀려난 후 불구속 상태로 수사를 받아 왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜브 채널 가로세로연구소(가세연) 관계자들이 검찰에 넘겨졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 경찰에 따르면 서울 강남경찰서는 가세연 강용석 소장과 김세의 대표, 김용호 전 기자에게 정보통신망법상 명예훼손 혐의를 적용해 이달 15일 사건을 서울중앙지검에 송치했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유튜버 이모씨도 같은 혐의로 송치가 됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강 소장 등은 2020년 유튜브 방송을 통해 조 전 장관과 이 장관 자녀에 대해 허위 의혹을 제기하는 한편 국민의힘 김병욱 의원의 비서 성폭행 의혹을 주장한 혐의를 받는다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배우 한예슬에 대해서는 남자친구 사생활 의혹을 제기한 혐의도 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들은 지난해 9월 경찰 출석 요구에 여러 차례 불응해 체포됐다가 구속영장이 검찰에서 기각돼 풀려난 후 불구속 상태로 수사를 받아 왔다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가세연 주요 출연자들 ‘명예훼손 혐의’로 검찰 송치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

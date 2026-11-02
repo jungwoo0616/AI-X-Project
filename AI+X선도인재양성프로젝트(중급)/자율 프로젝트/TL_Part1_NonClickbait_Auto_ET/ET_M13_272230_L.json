@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272230",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "위안부 문제 고발 영화 ‘침묵’ 상영장 진입 日 극우 저지하려다 벌금형",
+		"newsSubTitle": "",
+		"newsContent": "일본군 위안부 피해자를 소재로 다룬 영화 ‘침묵’ 상영장에 진입하려던 극우 인사를 저지하려던 일본인 2명에게 유죄 판결이 내려졌다.\n일본 요코하마지방법원은 2018년 10월 16일 영화 침묵이 상영되던 가나가와현 소재 시민문화회관에서 극우단체 간부의 상영장 진입을 막으려다 폭행 및 상해 혐의로 기소된 일본인 2명에게 각각 10만엔(약 100만원)과 20만엔(약 200만원)의 벌금형을 3일 선고했다.\n두 사람은 ‘침묵’을 연출한 박수남 감독 등으로 구성된 ‘침묵 상영 실행위원회’(이하 실행위)가 극우단체 방해를 우려해 경비를 부탁한 활동가였다.\n당시 두 사람과 대치 중이던 극우단체 간부는 갑자기 계단 밑으로 떨어지더니 경찰에 폭행 신고를 했다.\n극우단체 간부는 밀려서 넘어졌다고 주장했지만, 두 일본인은 스스로 발을 헛디뎌 놓고 연기를 했다고 반박했다.\n출동한 경찰은 몸싸움에 따른 해프닝으로 마무리했지만, 2년 후 검찰이 경찰에 보강 수사를 지시하더니 정식으로 기소했다.\n폭행 및 상해와 관련한 명확한 증거가 나오지 않은 상황에서 법원도 이날 밀려서 넘어졌다고 주장한 극우단체 간부 손을 들어준 것이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본군 위안부 피해자를 소재로 다룬 영화 ‘침묵’ 상영장에 진입하려던 극우 인사를 저지하려던 일본인 2명에게 유죄 판결이 내려졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일본 요코하마지방법원은 2018년 10월 16일 영화 침묵이 상영되던 가나가와현 소재 시민문화회관에서 극우단체 간부의 상영장 진입을 막으려다 폭행 및 상해 혐의로 기소된 일본인 2명에게 각각 10만엔(약 100만원)과 20만엔(약 200만원)의 벌금형을 3일 선고했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 ‘침묵’을 연출한 박수남 감독 등으로 구성된 ‘침묵 상영 실행위원회’(이하 실행위)가 극우단체 방해를 우려해 경비를 부탁한 활동가였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 두 사람과 대치 중이던 극우단체 간부는 갑자기 계단 밑으로 떨어지더니 경찰에 폭행 신고를 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "극우단체 간부는 밀려서 넘어졌다고 주장했지만, 두 일본인은 스스로 발을 헛디뎌 놓고 연기를 했다고 반박했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "출동한 경찰은 몸싸움에 따른 해프닝으로 마무리했지만, 2년 후 검찰이 경찰에 보강 수사를 지시하더니 정식으로 기소했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "폭행 및 상해와 관련한 명확한 증거가 나오지 않은 상황에서 법원도 이날 밀려서 넘어졌다고 주장한 극우단체 간부 손을 들어준 것이다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위안부 문제 고발 영화 ‘침묵’ 상영장 진입 日 극우 저지하려다 벌금형",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

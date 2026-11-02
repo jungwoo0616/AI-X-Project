@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263093",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박민영 선한영향력 계속, 산불 이재민 위해 1억원 기부",
+		"newsSubTitle": "",
+		"newsContent": "배우 박민영이 선한 영향력을 이어갔다.\n희망브리지 전국재해구호협회는 박민영이 7일 경북 울진부터 강원 삼척까지 번진 대형 산불로 인해 피해를 입은 이재민을 돕기 지원하는데 사용해달라며 성금 1억원을 기부했다고 이날 밝혔다.\n박민영은 대형 산불로 인한 피해 구모와 하루아침에 삶의 터전을 잃고 상심이 클 이재민 소식에 안타까워하며 도움 방법을 모색하던 중 작은 마음을 보태고자 기부를 결정했다.\n박민영은 전소된 집만 150채가 달한 상황에서 이재민의 임시 거주미 마련을 위해 기부금을 써달라고 부탁했다.\n이밖에도 박민영은 경북-강원 대형 산불 피해 복구 기부 외에도 시즌 그리팅 판매 수익금 전액을 동물권단체 카라에 기부했고, 유니세프 생일 기부 캠페인에도 참여하는 등 선한 영향력을 이어오고 있다.\n박민영 소속사 후크 엔터테인먼트는 “박민영이 산불 피해 소식을 들은 후 너무 마음 아파했다”며 “산불 피해를 입은 분들이 하루빨리 다시 일어서실 수 있도록 도움을 보태고 싶다는 마음에 기부를 결정했다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박민영이 선한 영향력을 이어갔다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "희망브리지 전국재해구호협회는 박민영이 7일 경북 울진부터 강원 삼척까지 번진 대형 산불로 인해 피해를 입은 이재민을 돕기 지원하는데 사용해달라며 성금 1억원을 기부했다고 이날 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박민영은 대형 산불로 인한 피해 구모와 하루아침에 삶의 터전을 잃고 상심이 클 이재민 소식에 안타까워하며 도움 방법을 모색하던 중 작은 마음을 보태고자 기부를 결정했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박민영은 전소된 집만 150채가 달한 상황에서 이재민의 임시 거주미 마련을 위해 기부금을 써달라고 부탁했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이밖에도 박민영은 경북-강원 대형 산불 피해 복구 기부 외에도 시즌 그리팅 판매 수익금 전액을 동물권단체 카라에 기부했고, 유니세프 생일 기부 캠페인에도 참여하는 등 선한 영향력을 이어오고 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박민영 소속사 후크 엔터테인먼트는 “박민영이 산불 피해 소식을 들은 후 너무 마음 아파했다”며 “산불 피해를 입은 분들이 하루빨리 다시 일어서실 수 있도록 도움을 보태고 싶다는 마음에 기부를 결정했다”고 설명했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박민영 선한영향력 계속, 산불 이재민 위해 1억원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278070",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "바다 ‘FLOWER’ 셀프 홍보 “하루를 시작할 때 들으면 Good”",
+		"newsSubTitle": "",
+		"newsContent": "바다 ‘FLOWER’가 화제다.\n바다가 핑크색 꽃을 들고 직접 새 앨범 홍보 하는 영상을 공개했다.\n바다는 13일 자신의 SNS에 “오늘 12시에 제 앨범 피어납니다 ‘FLOWER’ 향기 맡아보세요!”라면서 “하루를 시작할 때 들으면 Good!”이라는 글을 올렸다.\n공개된 영상 속 바다는 새 앨범 ‘FLOWER’에 걸맞게 짙은 핑크색 꽃을 들고 카메라를 향해 포즈를 취하고 있으며 꽃향기를 맡으며 팬들에게도 향을 맡아보라고 권하는 듯한 모습이다.\n바다는 얼굴의 반을 가리는 선글라스를 써도 가려지지 않은 남다른 비주얼은 물론 특유의 상큼 발랄한 매력을 드러내 남성 팬들을 설레게 만들었다.\n한편 바다 ‘FLOWER’은 13일 낮 12시에 음원 발매를 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "바다 ‘FLOWER’가 화제다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "바다가 핑크색 꽃을 들고 직접 새 앨범 홍보 하는 영상을 공개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "바다는 13일 자신의 SNS에 “오늘 12시에 제 앨범 피어납니다 ‘FLOWER’ 향기 맡아보세요!”라면서 “하루를 시작할 때 들으면 Good!”이라는 글을 올렸다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 영상 속 바다는 새 앨범 ‘FLOWER’에 걸맞게 짙은 핑크색 꽃을 들고 카메라를 향해 포즈를 취하고 있으며 꽃향기를 맡으며 팬들에게도 향을 맡아보라고 권하는 듯한 모습이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바다는 얼굴의 반을 가리는 선글라스를 써도 가려지지 않은 남다른 비주얼은 물론 특유의 상큼 발랄한 매력을 드러내 남성 팬들을 설레게 만들었다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 바다 ‘FLOWER’은 13일 낮 12시에 음원 발매를 했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "바다 ‘FLOWER’ 셀프 홍보 “하루를 시작할 때 들으면 Good”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

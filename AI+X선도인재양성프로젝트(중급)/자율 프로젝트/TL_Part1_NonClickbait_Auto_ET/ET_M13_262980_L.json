@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262980",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘새가수 우승’ 류정운, 열린음악회 출연",
+		"newsSubTitle": "",
+		"newsContent": "‘새가수’ 우승자 류정운이 ‘열린음악회’로 본격적인 활동에 돌입한다. 6일 방송되는 KBS1 ‘열린음악회’에는 류정운이 출연해 무대를 꾸민다.\n이날 방송에서 류정운은 ‘비와 당신’과 ‘비구름’으로 두 곡을 선사하며 자신만의 독특한 목소리로 시청자들을 매료시킬 예정이다. ‘비와 당신’은 2006년 개봉한 영화 ‘라디오스타’의 OST로 발매 당시에도 큰 인기를 끌었다.\n이후 노브레인, 럼블피쉬 등 다양한 가수들이 리메이크 했으며 최근에는 tvN 드라마 ‘슬기로운 의사생활 시즌2’의 OST로 이무진이 가창해 많은 사랑을 받았다.\n또 함께 선보이는 ‘비구름’은 류정운의 신곡으로 류정운만의 노래를 듣고 싶었던 팬들에게 좋은 선물이 될 전망이다.\n류정운은 지난해 종영한 ‘우리가 사랑한 그 노래 새가수’(이하 ‘새가수’)에 출연해 우승을 차지하며 대중들에게 이름을 알린 바 있다.\n류정운이 출연하는 ‘열린음악회’는 오늘(6일) 오후 6시 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘새가수’ 우승자 류정운이 ‘열린음악회’로 본격적인 활동에 돌입한다. 6일 방송되는 KBS1 ‘열린음악회’에는 류정운이 출연해 무대를 꾸민다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 방송에서 류정운은 ‘비와 당신’과 ‘비구름’으로 두 곡을 선사하며 자신만의 독특한 목소리로 시청자들을 매료시킬 예정이다. ‘비와 당신’은 2006년 개봉한 영화 ‘라디오스타’의 OST로 발매 당시에도 큰 인기를 끌었다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 노브레인, 럼블피쉬 등 다양한 가수들이 리메이크 했으며 최근에는 tvN 드라마 ‘슬기로운 의사생활 시즌2’의 OST로 이무진이 가창해 많은 사랑을 받았다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 함께 선보이는 ‘비구름’은 류정운의 신곡으로 류정운만의 노래를 듣고 싶었던 팬들에게 좋은 선물이 될 전망이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "류정운은 지난해 종영한 ‘우리가 사랑한 그 노래 새가수’(이하 ‘새가수’)에 출연해 우승을 차지하며 대중들에게 이름을 알린 바 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "류정운이 출연하는 ‘열린음악회’는 오늘(6일) 오후 6시 방송된다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘새가수 우승’ 류정운, 열린음악회 출연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

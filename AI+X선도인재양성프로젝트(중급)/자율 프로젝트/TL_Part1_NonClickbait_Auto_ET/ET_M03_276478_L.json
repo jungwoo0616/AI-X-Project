@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276478",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "정찬우, 문재인 대통령·김연아와 함께 셀카 \\\"청와대 분들에겐 죄송\\\"",
+		"newsSubTitle": "",
+		"newsContent": "방송인 정찬우가 문재인 대통령·전 피겨스케이팅 선수 김연아와 함께 찍은 사진을 공개했다.\n정찬우는 24일 자신의 SNS에 \\\"영광의 순간 평창올림픽 D-300 문재인 대통령과 김연아 선수, 행사 중 대본 없이 셀카 요청에 응해주신 대통령님 감사합니다\\\"라고 적었다.\n이어 \\\"당황한 청와대 분들껜 죄송, 여러분 우리 하나가 됩시다. 대한민국 만세\\\"라고 덧붙였다.\n정찬우는 문재인 대통령, 김연아와 함께 미소짓고 있는 사진을 공개했다.\n한편 문재인 대통령은 24일 강원도 평창군 알펜시아 리조트에서 열린 'G-200 계기 평창올림픽 성공 다짐대회'에 참석했다.\n이 자리에는 김연아도 함께 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 정찬우가 문재인 대통령·전 피겨스케이팅 선수 김연아와 함께 찍은 사진을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정찬우는 24일 자신의 SNS에 \\\"영광의 순간 평창올림픽 D-300 문재인 대통령과 김연아 선수, 행사 중 대본 없이 셀카 요청에 응해주신 대통령님 감사합니다\\\"라고 적었다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"당황한 청와대 분들껜 죄송, 여러분 우리 하나가 됩시다. 대한민국 만세\\\"라고 덧붙였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정찬우는 문재인 대통령, 김연아와 함께 미소짓고 있는 사진을 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 문재인 대통령은 24일 강원도 평창군 알펜시아 리조트에서 열린 'G-200 계기 평창올림픽 성공 다짐대회'에 참석했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 자리에는 김연아도 함께 했다.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정찬우, 문재인 대통령·김연아와 함께 셀카 \\\"청와대 분들에겐 죄송\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

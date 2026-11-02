@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260564",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "[전문] 가수 김종국, 코로나19 ‘돌파 감염’",
+		"newsSubTitle": "",
+		"newsContent": "가수 김종국이 코로나19 양성 판정을 받았다고 소속사 터보제이케이 컴퍼니가 10일 밝혔다.\n터보제이케이컴퍼니는 이날 “김종국이 10일 코로나19 양성 판정을 받았다”며 “지난 9일 경미한 감기 증상을 느껴 선제적으로 자가 진단키트 검사를 진행한 후 양성 반응이 나왔고 이후 PCR 검사를 받아 10일 최종 양성 판정을 받았다”고 전했다.\n소속사는 “김종국은 2차 백신 접종을 완료했으며 현재 건강에는 큰 이상이 없는 상태로, 모든 일정을 중단하고 방영당국의 지침에 따라 필요한 조치를 취하고 있다”고 덧붙였다.\n다음은 김종국 소속사 공식입장 전문 안녕하세요.\n터보제이케이컴퍼니입니다.\n소속 아티스트 김종국이 오늘(10일) 코로나19 양성 판정을 받아 소식을 전합니다.\n김종국은 지난 9일 경미한 감기 증상을 느껴 선제적으로 자가 진단키트 검사를 진행한 후 양성 반응이 나왔고 이후 PCR 검사를 받아 오늘(10일) 최종 양성 판정을 받았습니다.\n김종국은 2차 백신 접종을 완료했으며 현재 건강에는 큰 이상이 없는 상태로, 모든 일정을 중단하고 방영당국의 지침에 따라 필요한 조치를 취하고 있습니다.\n당사는 김종국의 치료와 빠른 회복을 위해 힘쓸 것이며, 앞으로도 방역당국의 지침을 준수하여 소속 아티스트 및 모두의 건강과 안전을 최우선으로 생각하겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김종국이 코로나19 양성 판정을 받았다고 소속사 터보제이케이 컴퍼니가 10일 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "터보제이케이컴퍼니는 이날 “김종국이 10일 코로나19 양성 판정을 받았다”며 “지난 9일 경미한 감기 증상을 느껴 선제적으로 자가 진단키트 검사를 진행한 후 양성 반응이 나왔고 이후 PCR 검사를 받아 10일 최종 양성 판정을 받았다”고 전했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사는 “김종국은 2차 백신 접종을 완료했으며 현재 건강에는 큰 이상이 없는 상태로, 모든 일정을 중단하고 방영당국의 지침에 따라 필요한 조치를 취하고 있다”고 덧붙였다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다음은 김종국 소속사 공식입장 전문 안녕하세요.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "터보제이케이컴퍼니입니다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소속 아티스트 김종국이 오늘(10일) 코로나19 양성 판정을 받아 소식을 전합니다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김종국은 지난 9일 경미한 감기 증상을 느껴 선제적으로 자가 진단키트 검사를 진행한 후 양성 반응이 나왔고 이후 PCR 검사를 받아 오늘(10일) 최종 양성 판정을 받았습니다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김종국은 2차 백신 접종을 완료했으며 현재 건강에는 큰 이상이 없는 상태로, 모든 일정을 중단하고 방영당국의 지침에 따라 필요한 조치를 취하고 있습니다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "당사는 김종국의 치료와 빠른 회복을 위해 힘쓸 것이며, 앞으로도 방역당국의 지침을 준수하여 소속 아티스트 및 모두의 건강과 안전을 최우선으로 생각하겠습니다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[전문] 가수 김종국, 코로나19 ‘돌파 감염’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

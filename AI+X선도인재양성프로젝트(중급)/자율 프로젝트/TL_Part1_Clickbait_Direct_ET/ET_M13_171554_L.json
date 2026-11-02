@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171554",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "박정민 “부성애 연기? 가족애로 접근했다”[인터뷰③]",
+    "newsSubTitle": "",
+    "newsContent": "배우 박정민이 부성애 연기 비결을 공개했다.\n박정민은 30일 오전 진행된 ‘스포츠경향’과 인터뷰에서 부성애 연기 비결을 묻자 “크기가 훨씬 작겠지만 내가 지금 부모와 동생을 사랑하는 마음과 비슷하지 않을까란 생각으로 접근했다”고 밝혔다.\n그는 “난 결혼하지도 않았고 아이가 있는 것도 아니다. 그렇다고 친조카가 있지도 않다”며 “어떻게 표현해야 하나 고민을 많이 했다”고 설명했다.\n이어 가족에로 접근했다며 “만약 이런 상황에서 우리 부모에게 이런 일(고지)이 닥친다면 난 어떻게 할까 생각하면서 연기했다”고 말했다.\n또한 원진아와 부부 호흡에 대해선 “너무 좋았다. 평소에도 눈여겨보던 좋은 배우였는데, 촬영 현장에서도 원진아가 하는 연기를 보면서 많이 부러웠다”며 “연상호 감독과 원진아 몰래 그의 연기에 대한 칭찬을 많이 나눴던 기억이 난다”고 답했다.\n박정민은 ‘지옥’에서 배영재 PD로 분해 열연을 펼쳤다. ‘지옥’은 넷플릭스서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박정민이 부성애 연기 비결을 공개했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박정민은 30일 오전 진행된 ‘스포츠경향’과 인터뷰에서 부성애 연기 비결을 묻자 “크기가 훨씬 작겠지만 내가 지금 부모와 동생을 사랑하는 마음과 비슷하지 않을까란 생각으로 접근했다”고 밝혔다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “난 결혼하지도 않았고 아이가 있는 것도 아니다. 그렇다고 친조카가 있지도 않다”며 “어떻게 표현해야 하나 고민을 많이 했다”고 설명했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 가족에로 접근했다며 “만약 이런 상황에서 우리 부모에게 이런 일(고지)이 닥친다면 난 어떻게 할까 생각하면서 연기했다”고 말했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 원진아와 부부 호흡에 대해선 “너무 좋았다. 평소에도 눈여겨보던 좋은 배우였는데, 촬영 현장에서도 원진아가 하는 연기를 보면서 많이 부러웠다”며 “연상호 감독과 원진아 몰래 그의 연기에 대한 칭찬을 많이 나눴던 기억이 난다”고 답했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박정민은 ‘지옥’에서 배영재 PD로 분해 열연을 펼쳤다. ‘지옥’은 넷플릭스서 만나볼 수 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박정민, 원진아 몰래 감독과 나눈 이 얘기...?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

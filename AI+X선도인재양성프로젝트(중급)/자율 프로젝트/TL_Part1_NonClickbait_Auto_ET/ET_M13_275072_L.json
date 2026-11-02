@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275072",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "하재숙 “바로 옆에서 화재 발생…선박 다 타버렸다”",
+		"newsSubTitle": "",
+		"newsContent": "배우 하재숙이 화재 사고를 겪은 이웃 주민들을 위로했다.\n하재숙은 8일 인스타그램 스토리에 “새벽에 저희 샵 바로 옆에서 화재 사고가 났다”는 글과 함께 영상을 올렸다.\n공개된 영상에는 부둣가 근처에서 몇몇 선박이 불붙은 모습이 담겨있다.\n하재숙은 “늘 웃으면서 인사하고 맛난 생선도 많이 사주시던 선장님들이셨다”며 안타까운 마음을 전했다.\n이어 “인명 피해는 없지만, 선박과 창고가 다 타버렸다”며 “이스방(남편)은 지금 화재 선박 인양 작업 중이다. 빠른 피해복구가 이루어지길”이라고 덧붙였다.\n하재숙은 2016년 비연예인과 결혼했다.\n현재 KBS 2TV 예능 프로그램 ‘빼고파’에 출연하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 하재숙이 화재 사고를 겪은 이웃 주민들을 위로했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하재숙은 8일 인스타그램 스토리에 “새벽에 저희 샵 바로 옆에서 화재 사고가 났다”는 글과 함께 영상을 올렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 부둣가 근처에서 몇몇 선박이 불붙은 모습이 담겨있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하재숙은 “늘 웃으면서 인사하고 맛난 생선도 많이 사주시던 선장님들이셨다”며 안타까운 마음을 전했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “인명 피해는 없지만, 선박과 창고가 다 타버렸다”며 “이스방(남편)은 지금 화재 선박 인양 작업 중이다. 빠른 피해복구가 이루어지길”이라고 덧붙였다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하재숙은 2016년 비연예인과 결혼했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 KBS 2TV 예능 프로그램 ‘빼고파’에 출연하고 있다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하재숙 “바로 옆에서 화재 발생…선박 다 타버렸다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

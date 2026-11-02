@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263160",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "영탁 영상 100만뷰, 인기ing[공식]",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁의 신곡 ‘전복 먹으러 갈래’ 음원 영상이 100만 뷰를 돌파했다.\n지난 2월 10일 음원 발매와 동시에 공식 유튜브 채널 영탁의 불쑥TV를 통해 공개된 신곡 ‘전복 먹으러 갈래’의 음원 영상이 지난 6일 100만 뷰를 넘어서 뜨거운 인기를 입증했다. ‘전복 먹으러 갈래’의 뮤직비디오는 유튜브 인기 급상승 음악 1위에 오르는 등 독보적인 인기를 과시한 바 있다.\n특히 원더케이(1theK) 공식 유튜브 채널에 공개된 ‘전복 먹으러 갈래’ 뮤직비디오는 지난 19일 백만 뷰를 돌파하며 화제를 모았다.\n또한, 유튜브 뮤직의 인기곡 3위, 인기 뮤직비디오 2위를 기록했으며 지금까지도 꾸준한 사랑을 받고 있다. ‘전복 먹으러 갈래’는 독특한 제목만큼 재미있는 가사가 인상적인 팝 트로트 장르의 곡으로, 영탁과 지광민 작곡가가 호흡을 맞췄다.\n이 곡은 ‘전복 먹으러 갈래’, ‘너에게 좋은 것만 주고픈 마음 알까’, ‘안주가 끝내주잖아’ 등 직설적이고 유쾌한 가사를 통해 저돌적인 남자의 마음을 담아냈다.\n영탁은 이 같은 인기에 힘입어 완도 전복 홍보대사로 발탁, 지역민과 어업인들을 위해 활발한 활동을 펼치고 있다.\n한편, 영탁은 매주 수요일 오후 9시 30분 방송되는 채널A ‘요즘 남자 라이프-신랑수업’에 출연한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁의 신곡 ‘전복 먹으러 갈래’ 음원 영상이 100만 뷰를 돌파했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2월 10일 음원 발매와 동시에 공식 유튜브 채널 영탁의 불쑥TV를 통해 공개된 신곡 ‘전복 먹으러 갈래’의 음원 영상이 지난 6일 100만 뷰를 넘어서 뜨거운 인기를 입증했다. ‘전복 먹으러 갈래’의 뮤직비디오는 유튜브 인기 급상승 음악 1위에 오르는 등 독보적인 인기를 과시한 바 있다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 원더케이(1theK) 공식 유튜브 채널에 공개된 ‘전복 먹으러 갈래’ 뮤직비디오는 지난 19일 백만 뷰를 돌파하며 화제를 모았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한, 유튜브 뮤직의 인기곡 3위, 인기 뮤직비디오 2위를 기록했으며 지금까지도 꾸준한 사랑을 받고 있다. ‘전복 먹으러 갈래’는 독특한 제목만큼 재미있는 가사가 인상적인 팝 트로트 장르의 곡으로, 영탁과 지광민 작곡가가 호흡을 맞췄다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 곡은 ‘전복 먹으러 갈래’, ‘너에게 좋은 것만 주고픈 마음 알까’, ‘안주가 끝내주잖아’ 등 직설적이고 유쾌한 가사를 통해 저돌적인 남자의 마음을 담아냈다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영탁은 이 같은 인기에 힘입어 완도 전복 홍보대사로 발탁, 지역민과 어업인들을 위해 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 영탁은 매주 수요일 오후 9시 30분 방송되는 채널A ‘요즘 남자 라이프-신랑수업’에 출연한다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁 영상 100만뷰, 인기ing[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

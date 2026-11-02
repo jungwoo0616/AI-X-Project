@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263507",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "방탄소년단 RM “박수 받는 공연, 역사에 남을 것”",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 2년 반 만에 서울에서 콘서트를 개최한 소감을 전했다.\n방탄소년단은 10일 서울 잠실종합운동장 주경기장에서 ‘퍼미션 투 댄스 온 스테이지 - 서울’ 공연을 개최했다.\n이날 공연은 지난 2019년 10월 서울 올림픽주경기장에서 개최된 ‘2019 BTS 월드 투어 러브 유어셀프: 스피크 유어셀프’ 공연 이후 무려 2년 5개월 만에 국내에서 치러진 공연이다.\n2020년 2월 예정됐던 ‘맵 오브 더 솔 투어’가 코로나19 팬데믹으로 인해 전면 취소 되면서 방탄소년단과 팬들은 오랜 기다림을 이어왔다.\n방탄소년단 멤버들은 오랜만에 마주한 국내 팬들에게 인사를 전하며 기쁨을 표했다.\nRM은 “‘퍼미션 투 댄스’ 콘서트가 5개월 전에 시작 됐다. 객석에 여러분이 계시다는 것만으로 많은 것이 바뀐 것 같다”고 말문을 열었다.\n이어 방역수칙을 준수하기 위해 공연 중 함성이 제한된 것과 관련 “박수를 받는 공연을 언제 해보겠나. 역사에 남을 것 같다”고 전했다.\n뷔는 코로나19 기간 동안 진행했던 온라인 공연을 회상하며 “객석 앞에 카메라만 두고 촬영했는데, 아미분들이 앞에 있으니까 너무 감동이다”라고 전해 박수를 이끌었다.\n방탄소년단은 지난해 11월 미국 로스앤젤레스에서 열린 ‘퍼미션 투 댄스 온 스테이지 - LA’ 공연을 시작으로, 10일과 12일, 13일에 진행하는 서울에서 공연을, 다음달 미국 라스베가스에서 공연을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 2년 반 만에 서울에서 콘서트를 개최한 소감을 전했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단은 10일 서울 잠실종합운동장 주경기장에서 ‘퍼미션 투 댄스 온 스테이지 - 서울’ 공연을 개최했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 공연은 지난 2019년 10월 서울 올림픽주경기장에서 개최된 ‘2019 BTS 월드 투어 러브 유어셀프: 스피크 유어셀프’ 공연 이후 무려 2년 5개월 만에 국내에서 치러진 공연이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2020년 2월 예정됐던 ‘맵 오브 더 솔 투어’가 코로나19 팬데믹으로 인해 전면 취소 되면서 방탄소년단과 팬들은 오랜 기다림을 이어왔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방탄소년단 멤버들은 오랜만에 마주한 국내 팬들에게 인사를 전하며 기쁨을 표했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "RM은 “‘퍼미션 투 댄스’ 콘서트가 5개월 전에 시작 됐다. 객석에 여러분이 계시다는 것만으로 많은 것이 바뀐 것 같다”고 말문을 열었다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 방역수칙을 준수하기 위해 공연 중 함성이 제한된 것과 관련 “박수를 받는 공연을 언제 해보겠나. 역사에 남을 것 같다”고 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "뷔는 코로나19 기간 동안 진행했던 온라인 공연을 회상하며 “객석 앞에 카메라만 두고 촬영했는데, 아미분들이 앞에 있으니까 너무 감동이다”라고 전해 박수를 이끌었다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "방탄소년단은 지난해 11월 미국 로스앤젤레스에서 열린 ‘퍼미션 투 댄스 온 스테이지 - LA’ 공연을 시작으로, 10일과 12일, 13일에 진행하는 서울에서 공연을, 다음달 미국 라스베가스에서 공연을 이어간다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 RM “박수 받는 공연, 역사에 남을 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

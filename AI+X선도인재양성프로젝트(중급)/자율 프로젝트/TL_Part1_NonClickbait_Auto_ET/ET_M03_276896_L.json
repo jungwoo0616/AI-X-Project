@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276896",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "트랜스젠더 BJ가 유튜브에 영상을 업로드하지 못한 이유",
+		"newsSubTitle": "",
+		"newsContent": "아프리카TV 트랜스젠더 BJ(Broadcasting Jockey) 국민다솜이 \\\"수술을 받아 유튜브 영상을 올리지 못하고 있다\\\"고 밝혔다.\n최근 국민다솜은 자신의 유튜브 채널에 \\\"구독자 여러분께. 제가 지금 영상을 못 올리는 이유는 사실 지금 밑에 수술을 6일 전에 받고 쉬고 있다\\\"며 \\\"너무나 큰 고통을 참고 있으니 양해 부탁드린다\\\"고 댓글로 적었다.\n이를 본 네티즌은 \\\"누에고치를 찢고 나비가 날아오를 땐 우리가 모르는 고통이 있다. 고통이 심하겠지만, 다시 태어난 거 축하드린다\\\" \\\"언니. 얼른 회복하고 돌아와 주세요. 기다릴게요\\\" 등 그를 응원하는 댓글이 이어지고 있다.\n국민다솜은 유튜브 상에서 그가 올린 최신 영상은 1개월 전이나 아프리카TV에서는 지난달 27일 수술 후 방송에 임하기도 했다.\n그는 '트랜스젠더 다솜 밑에 치료'라는 이름으로 영상을 올려놓은 상태다.\n그는 이날 방송에서 \\\"젠더새끼\\\" 등 일부 시청자가 악플을 달자 \\\"내가 너 같은 애들 때문에 산다\\\"며 \\\"너같은 애들도 사는데 나라도 살아야지\\\"라고 말하면서 의연한 모습을 보였다.\n국민다솜은 또 \\\"수술은 내 돈 주고 한다\\\"고 전했다.\n국민다솜은 지난 1월 목소리 수술을 한 사실을 방송을 통해 공개하기도 했다.\n또, 3월에는 음성 훈련에 들어간다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아프리카TV 트랜스젠더 BJ(Broadcasting Jockey) 국민다솜이 \\\"수술을 받아 유튜브 영상을 올리지 못하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 국민다솜은 자신의 유튜브 채널에 \\\"구독자 여러분께. 제가 지금 영상을 못 올리는 이유는 사실 지금 밑에 수술을 6일 전에 받고 쉬고 있다\\\"며 \\\"너무나 큰 고통을 참고 있으니 양해 부탁드린다\\\"고 댓글로 적었다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 본 네티즌은 \\\"누에고치를 찢고 나비가 날아오를 땐 우리가 모르는 고통이 있다. 고통이 심하겠지만, 다시 태어난 거 축하드린다\\\" \\\"언니. 얼른 회복하고 돌아와 주세요. 기다릴게요\\\" 등 그를 응원하는 댓글이 이어지고 있다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국민다솜은 유튜브 상에서 그가 올린 최신 영상은 1개월 전이나 아프리카TV에서는 지난달 27일 수술 후 방송에 임하기도 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 '트랜스젠더 다솜 밑에 치료'라는 이름으로 영상을 올려놓은 상태다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 이날 방송에서 \\\"젠더새끼\\\" 등 일부 시청자가 악플을 달자 \\\"내가 너 같은 애들 때문에 산다\\\"며 \\\"너같은 애들도 사는데 나라도 살아야지\\\"라고 말하면서 의연한 모습을 보였다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국민다솜은 또 \\\"수술은 내 돈 주고 한다\\\"고 전했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국민다솜은 지난 1월 목소리 수술을 한 사실을 방송을 통해 공개하기도 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또, 3월에는 음성 훈련에 들어간다고 밝혔다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트랜스젠더 BJ가 유튜브에 영상을 업로드하지 못한 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

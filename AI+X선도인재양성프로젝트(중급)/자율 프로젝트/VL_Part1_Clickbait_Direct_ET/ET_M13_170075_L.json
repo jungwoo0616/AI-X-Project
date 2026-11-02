@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170075",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘살림남2’ 김미려, 갑상샘에 종양 발견...건강 점수 92점",
+    "newsSubTitle": "",
+    "newsContent": "‘살림하는 남자들2’ 김미려의 건강검진 결과가 공개됐다.\n2일 오후 방송된 KBS2 ‘살림하는 남자들2’에서는 건강검진 결과를 들은 김미려의 모습이 전파를 탔다.\n이날 차트를 바라보던 의사는 김미려에게 담낭에 용종이 하나 있다고 말했다.\n그러나 크기와 모양이 작아 걱정하지 않아도 된다고 덧붙였다.\n그러나 갑상샘에 종양이 보인다는 말에 김미려는 놀랐다.\n집에 돌아온 김미려는 자신의 엄마에게 “크기가 크다. 그런데 양성이라고 하더라”라고 말해 안심시켰다.\n종양 모양은 악성은 아니지만 크기가 큰 편으로 6개월 뒤 추적 검사가 필요하다는 이야기를 들었다.\n이어 의사는 “위가 아파서 오셨다고 하셨는데 위는 굉장히 좋다. 지방간도 없으시기 때문에 체중관리는 잘 되고 있다”라고 말했다.\n100점 만점에 몇 점 정도 되냐는 김미려의 물음에 의사는 92점을 줬다.\n한편 ‘살림하는 남자들2’는 매주 토요일 오후 9시 15분 KBS2에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘살림하는 남자들2’ 김미려의 건강검진 결과가 공개됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 오후 방송된 KBS2 ‘살림하는 남자들2’에서는 건강검진 결과를 들은 김미려의 모습이 전파를 탔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 차트를 바라보던 의사는 김미려에게 담낭에 용종이 하나 있다고 말했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 크기와 모양이 작아 걱정하지 않아도 된다고 덧붙였다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 갑상샘에 종양이 보인다는 말에 김미려는 놀랐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "집에 돌아온 김미려는 자신의 엄마에게 “크기가 크다. 그런데 양성이라고 하더라”라고 말해 안심시켰다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "종양 모양은 악성은 아니지만 크기가 큰 편으로 6개월 뒤 추적 검사가 필요하다는 이야기를 들었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 의사는 “위가 아파서 오셨다고 하셨는데 위는 굉장히 좋다. 지방간도 없으시기 때문에 체중관리는 잘 되고 있다”라고 말했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "100점 만점에 몇 점 정도 되냐는 김미려의 물음에 의사는 92점을 줬다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 ‘살림하는 남자들2’는 매주 토요일 오후 9시 15분 KBS2에서 방송된다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'살림남 2' 김미려, 충격적인 건강검진 결과?! 어떤 상황이길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

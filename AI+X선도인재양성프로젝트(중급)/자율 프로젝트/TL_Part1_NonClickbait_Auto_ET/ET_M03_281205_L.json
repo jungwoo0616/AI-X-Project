@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281205",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "영상으로 보는 세계 속의 크리스마스 트리!",
+		"newsSubTitle": "",
+		"newsContent": "12월이 되면 거리 곳곳에서 전나무 등의 칩엽수에 여러기지 장식을 한 크리스마스트리를 볼 수 있다.\n트리는 독일 문화권에서 시작된 것으로 알려졌다.\n현재 알려진 가장 오래된 크리스마스 트리의 사례는 16세기 초 L. 크라나하의 동판화에 그려진 것이라고 한다.\n또 1605년의 알자스 지방의 여행기에는 슈트라스부르크(현, 스트라스부르)에서는 크리스마스에 색종이로 만든 장미꽃이나 사과, 설탕 등을 장식한 나무를 세웠다고 기록돼 있다.\n전세계 곳곳에서 반작이는 트리를 중앙일보 영상을 통해 확인해보세요.\n온라인 중앙일보 영상편집=조수진, [AP·신화=뉴시스 ]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "12월이 되면 거리 곳곳에서 전나무 등의 칩엽수에 여러기지 장식을 한 크리스마스트리를 볼 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트리는 독일 문화권에서 시작된 것으로 알려졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 알려진 가장 오래된 크리스마스 트리의 사례는 16세기 초 L. 크라나하의 동판화에 그려진 것이라고 한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 1605년의 알자스 지방의 여행기에는 슈트라스부르크(현, 스트라스부르)에서는 크리스마스에 색종이로 만든 장미꽃이나 사과, 설탕 등을 장식한 나무를 세웠다고 기록돼 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전세계 곳곳에서 반작이는 트리를 중앙일보 영상을 통해 확인해보세요.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 영상편집=조수진, [AP·신화=뉴시스 ]",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영상으로 보는 세계 속의 크리스마스 트리!",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

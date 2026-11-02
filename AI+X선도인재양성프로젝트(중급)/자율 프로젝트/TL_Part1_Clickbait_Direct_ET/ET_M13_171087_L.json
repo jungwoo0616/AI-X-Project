@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171087",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이찬원, 소외아동 위해 선한트롯 상금 전액 기부",
+    "newsSubTitle": "",
+    "newsContent": "가수 이찬원이 기부 플랫폼 ‘선한트롯’ 8월 가왕전서 획득한 상금 전액을 초록우산어린이재단에 기부했다.\n6일 초로우산어린이재단에 따르면 이찬원은 지금까지 선한트롯 가왕전을 통해 받은 누적 상금 970만 원을 전액 기부한 것으로 알려졌다.\n아동옹호대표기관 초록우산어린이재단 경기북부지역본부(본부장 이영균)은 아픈 엄마와 세 명의 어린 동생들까지 돌보느라 학업도 포기해야 했던 민영이(가명)의 가정에 전달되어 민영이 고등학교 검정고시 준비 비용과 동생들을 돌보기 위한 생활비로 지원될 계획이라고 밝혔다.\n초록우산어린이재단 이영균 경기북부지역본부장은 “가수 이찬원 팬들의 열성적인 응원의 힘으로 ‘선한트롯’을 통해 민영이에게 정말 필요한 기부금을 전달받게 됐다”며 “앞으로도 스타를 좋아하는 팬들의 마음이 지역사회의 소외된 아동에게 선한 영향력으로 다가오길 기대한다”고 전했다.\n선한트롯 측에 따르면 가왕전 일일순위 TOP3 이내에 10일 이상 진입한 가수에게 주어지는 지하철 전광판 미션도 달성하여 합정역에 9월 한달간 이찬원의 홍보 영상이 송출될 예정이라고 함께 전했다.\n한편 이찬원은 지난해 5월 발표한 MBC 드라마 ‘꼰대인턴’ OST ‘시절인연 (時節因緣)’ 이후 약 1년 3개월 만에 신곡 ‘편의점’을 발매했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이찬원이 기부 플랫폼 ‘선한트롯’ 8월 가왕전서 획득한 상금 전액을 초록우산어린이재단에 기부했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "6일 초로우산어린이재단에 따르면 이찬원은 지금까지 선한트롯 가왕전을 통해 받은 누적 상금 970만 원을 전액 기부한 것으로 알려졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아동옹호대표기관 초록우산어린이재단 경기북부지역본부(본부장 이영균)은 아픈 엄마와 세 명의 어린 동생들까지 돌보느라 학업도 포기해야 했던 민영이(가명)의 가정에 전달되어 민영이 고등학교 검정고시 준비 비용과 동생들을 돌보기 위한 생활비로 지원될 계획이라고 밝혔다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "초록우산어린이재단 이영균 경기북부지역본부장은 “가수 이찬원 팬들의 열성적인 응원의 힘으로 ‘선한트롯’을 통해 민영이에게 정말 필요한 기부금을 전달받게 됐다”며 “앞으로도 스타를 좋아하는 팬들의 마음이 지역사회의 소외된 아동에게 선한 영향력으로 다가오길 기대한다”고 전했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "선한트롯 측에 따르면 가왕전 일일순위 TOP3 이내에 10일 이상 진입한 가수에게 주어지는 지하철 전광판 미션도 달성하여 합정역에 9월 한달간 이찬원의 홍보 영상이 송출될 예정이라고 함께 전했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이찬원은 지난해 5월 발표한 MBC 드라마 ‘꼰대인턴’ OST ‘시절인연 (時節因緣)’ 이후 약 1년 3개월 만에 신곡 ‘편의점’을 발매했다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 이찬원, '선한트롯' 가왕전서 획득한 상금 전액 '이곳'에 기부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

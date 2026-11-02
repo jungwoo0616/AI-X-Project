@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_281379",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[오늘의 JTBC] 아내를 위한 션의 특별한 선물",
+		"newsSubTitle": "",
+		"newsContent": "JTBC ‘김제동의 톡투유-걱정말아요 그대’에 가수 션이 출연해 ‘선물’을 주제로 500여 명의 청중과 이야기를 나눈다.\n이날 방송에서는 배우 정혜영과 잉꼬 부부로 유명한 션이 아내를 위해 준비하는 특별한 선물이 공개된다.\n션은 매해 결혼기념일마다 장미 한 송이를 집안 곳곳에 숨겨둔다고 밝힌다.\n션은 “장미 한 송이마다 우리 부부가 함께했던 1년의 추억을 담아 장미꽃을 선물한다”고 말해 여성 청중의 열렬한 환호를 받는다.\n이에 스타강사 최진기는 “션을 보면서 많은 여성들의 기준이 높아질 것 같다”며 “소속 집단과 비교하면서 좌절감이 생길 때는 옆에 있는 서천석 마음연구소장에게 가라”고 말해 현장을 웃음바다로 만든다.\n정신과 전문의인 서천석 소장은 “받고 싶은 선물은 상대에게 미리미리 알려야 한다. 정신과 의사도 말하지 않으면 절대 상대방의 생각을 알 수 없다”며 현실적인 조언을 한다.\n이밖에 선물에 대한 다양한 이야기와 션의 선물 노하우는 13일 오후 11시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "JTBC ‘김제동의 톡투유-걱정말아요 그대’에 가수 션이 출연해 ‘선물’을 주제로 500여 명의 청중과 이야기를 나눈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 방송에서는 배우 정혜영과 잉꼬 부부로 유명한 션이 아내를 위해 준비하는 특별한 선물이 공개된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "션은 매해 결혼기념일마다 장미 한 송이를 집안 곳곳에 숨겨둔다고 밝힌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "션은 “장미 한 송이마다 우리 부부가 함께했던 1년의 추억을 담아 장미꽃을 선물한다”고 말해 여성 청중의 열렬한 환호를 받는다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 스타강사 최진기는 “션을 보면서 많은 여성들의 기준이 높아질 것 같다”며 “소속 집단과 비교하면서 좌절감이 생길 때는 옆에 있는 서천석 마음연구소장에게 가라”고 말해 현장을 웃음바다로 만든다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정신과 전문의인 서천석 소장은 “받고 싶은 선물은 상대에게 미리미리 알려야 한다. 정신과 의사도 말하지 않으면 절대 상대방의 생각을 알 수 없다”며 현실적인 조언을 한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에 선물에 대한 다양한 이야기와 션의 선물 노하우는 13일 오후 11시에 방송된다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[오늘의 JTBC] 아내를 위한 션의 특별한 선물",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280791",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'뉴스룸' 고아라, \\\"'응팔' 인기가 신경쓰이진 않아… 재미있게 보고 있다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'고아라' 배우 고아라가 \\\"'응사'는 너무 감사한 작품\\\"이라고 말했다.\n고아라는 24일 오후 방송된 JTBC '뉴스룸'에 출연해 손석희 앵커와 인터뷰를 진행했다.\n이날 손석희는 \\\"요즘 '응답하라 1988'에는 혜리가 주인공으로 나오는데, '응답하라 1994'의 선배로서 신경 쓰이는 것은 없냐?\\\"라고 물었다.\n배우 고아라는“‘응답하라1988’ 인기가 신경쓰이진 않는다”고 말했다.\n이어 고아라는 “신원호 PD에게 빨리 ‘응답하라’ 시리즈를 만들어 달라고 졸랐다”며 “또 ‘응답하라1988’은 ‘응답하라1994’와 시대도 다르고 인물들이 재밌어서 재미있게 보고 있다”고 전했다.\n한편 고아라와 유승호가 출연하는 영화 ‘조선마술사’는 평안도 최대 유곽 물랑루의 자랑이자 의주의 보배인 조선 최고 마술사 환희와 청나라 11번째 왕자빈으로 혼례를 치르러 떠나는 청명의 사랑을 그린 영화, 오는 30일 개봉 예정이다.\n온라인 중앙일보 '고아라' [사진 JTBC ‘뉴스룸’ 방송 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'고아라' 배우 고아라가 \\\"'응사'는 너무 감사한 작품\\\"이라고 말했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고아라는 24일 오후 방송된 JTBC '뉴스룸'에 출연해 손석희 앵커와 인터뷰를 진행했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 손석희는 \\\"요즘 '응답하라 1988'에는 혜리가 주인공으로 나오는데, '응답하라 1994'의 선배로서 신경 쓰이는 것은 없냐?\\\"라고 물었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배우 고아라는“‘응답하라1988’ 인기가 신경쓰이진 않는다”고 말했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 고아라는 “신원호 PD에게 빨리 ‘응답하라’ 시리즈를 만들어 달라고 졸랐다”며 “또 ‘응답하라1988’은 ‘응답하라1994’와 시대도 다르고 인물들이 재밌어서 재미있게 보고 있다”고 전했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 고아라와 유승호가 출연하는 영화 ‘조선마술사’는 평안도 최대 유곽 물랑루의 자랑이자 의주의 보배인 조선 최고 마술사 환희와 청나라 11번째 왕자빈으로 혼례를 치르러 떠나는 청명의 사랑을 그린 영화, 오는 30일 개봉 예정이다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 '고아라' [사진 JTBC ‘뉴스룸’ 방송 캡처]",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'뉴스룸' 고아라, \\\"'응팔' 인기가 신경쓰이진 않아… 재미있게 보고 있다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

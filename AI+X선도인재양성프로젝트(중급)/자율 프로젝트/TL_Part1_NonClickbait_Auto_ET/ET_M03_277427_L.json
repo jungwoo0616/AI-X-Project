@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277427",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "비·김태희, 신혼여행 커플룩 입고 품에 폭 안겨…오늘 귀국",
+		"newsSubTitle": "",
+		"newsContent": "27일 5박 6일간의 신혼여행을 끝내고 귀국하는 비와 김태희의 신혼여행 사진이 온라인 커뮤니티에 공개됐다.\n26일에는 인도네시아 현지 팬들이 찍은 비와 김태희의 신혼여행 사진이 온라인에 여러 장 공개됐다.\n두 사람은 커플룩을 연상케 하는 흰색 셔츠를 입고 있었다.\n다른 사진에는 비와 김태희가 손을 꼭 잡거나 어깨동무를 하고 걸어가는 모습이 담겼다.\n한편 두 사람은 19일 5년 열애 끝에 서울 가회동 성당에서 결혼식을 올렸다.\n이후 22일 인도네시아 발리로 신혼여행을 떠났다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "27일 5박 6일간의 신혼여행을 끝내고 귀국하는 비와 김태희의 신혼여행 사진이 온라인 커뮤니티에 공개됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일에는 인도네시아 현지 팬들이 찍은 비와 김태희의 신혼여행 사진이 온라인에 여러 장 공개됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 사람은 커플룩을 연상케 하는 흰색 셔츠를 입고 있었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다른 사진에는 비와 김태희가 손을 꼭 잡거나 어깨동무를 하고 걸어가는 모습이 담겼다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 두 사람은 19일 5년 열애 끝에 서울 가회동 성당에서 결혼식을 올렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 22일 인도네시아 발리로 신혼여행을 떠났다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비·김태희, 신혼여행 커플룩 입고 품에 폭 안겨…오늘 귀국",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

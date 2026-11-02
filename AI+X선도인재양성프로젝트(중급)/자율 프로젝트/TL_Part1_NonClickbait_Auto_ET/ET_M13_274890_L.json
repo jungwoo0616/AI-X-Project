@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274890",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "방통위·시청자미디어재단, 미디어대상 방송영상 공모전",
+		"newsSubTitle": "",
+		"newsContent": "방송통신위원회와 시청자미디어재단은 2022 시청자 미디어대상 방송영상 공모전 출품작을 모집한다고 6일 전했다.\n올해는 주제영상·신규영상·방영영상·오디오 등 작품상 네 분야와 특별상 부문으로 나뉜다.\n작품상은 작품 완성도, 창의성, 기획·연출력, 전달력을 중심으로 심사가 이뤄지며 국민 참여 심사를 거쳐 최종 22점이 선정된다.\n주제영상 분야 주제로 환경이 제시됐고 특별상은 시청자 방송참여 활성화에 대한 기여도 등을 평가해 총 3점이 선정된다.\n접수기간은 7일부터 오는 9월 15일까지다.\n국민 누구나 시청자미디어재단 접수처 누리집을 통해 출품할 수 있다.\n한상혁 방통위원장은 “우수한 작품이 많이 소개돼 K-콘텐츠의 저력이 우리 시청자에게 있음을 알리는 축제가 되길 기대한다”고 말했다.\n수상작은 오는 11월에 개최될 시청자미디어대상 시상식에서 발표된다.\n시상식에선 대상 포함 총 25점에 대한 시상이 진행이 될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신위원회와 시청자미디어재단은 2022 시청자 미디어대상 방송영상 공모전 출품작을 모집한다고 6일 전했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해는 주제영상·신규영상·방영영상·오디오 등 작품상 네 분야와 특별상 부문으로 나뉜다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "작품상은 작품 완성도, 창의성, 기획·연출력, 전달력을 중심으로 심사가 이뤄지며 국민 참여 심사를 거쳐 최종 22점이 선정된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주제영상 분야 주제로 환경이 제시됐고 특별상은 시청자 방송참여 활성화에 대한 기여도 등을 평가해 총 3점이 선정된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "접수기간은 7일부터 오는 9월 15일까지다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국민 누구나 시청자미디어재단 접수처 누리집을 통해 출품할 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한상혁 방통위원장은 “우수한 작품이 많이 소개돼 K-콘텐츠의 저력이 우리 시청자에게 있음을 알리는 축제가 되길 기대한다”고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수상작은 오는 11월에 개최될 시청자미디어대상 시상식에서 발표된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시상식에선 대상 포함 총 25점에 대한 시상이 진행이 될 예정이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방통위·시청자미디어재단, 미디어대상 방송영상 공모전",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

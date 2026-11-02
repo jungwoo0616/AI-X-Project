@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265359",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단 정국 “걱정하지 말라, 곧 만나자” 건강한 근황",
+		"newsSubTitle": "",
+		"newsContent": "코로나19에 확진된 방탄소녀단 멤버 정국이 팬들을 안심시켰다.\n방탄소년단 멤버 정국은 30일 인스타그램에 자가격리 중인 근황을 전했다.\n정국은 “저는 잘 있다”며 “너무 처지지 않으려 몸을 이리저리 움직이고 있다”고 말했다.\n이어 “먹고 눕고, 먹고 눕고 해서 살찔까봐, 관리 잘 하고 있으니 걱정하지 말라”며 “곧 만나자”라고 했다.\n이와 함께 정국은 음악에 맞춰 춤을 추며 건강한 근황을 알렸다.\n그의 얼굴빛 역시 평소의 모습 그대로였다.\n미국 일정을 위해 라스베이거스에 머물고 있는 정국은 현지에서 코로나19 확진 판정을 받았다.\n정국은 27일 출국 과정에서 진행한 PCR(유전자증폭)검사에서는 음성 판정을 받았으나 현지에 도착한 뒤 목에 불편함을 느껴 검사를 받았고 양성판정을 받은 것으로 전해졌다.\n정국은 미국 내 방역지침에 따라 자가격리 중이다.\n소속사 빅히트뮤직은 29일 “정국은 현재 경미한 인후통 외 특별한 증상은 없으나 격리 기간에 건강 상태를 면밀히 살필 예정”이라며 “향후 미국 일정에 참석한지는 현지 규정에 따라 결정될 예정”이라고 설명했다.\n방탄소년단은 내달 3일 라스베이거스 MGM 그랜드가든아레나에서 열리는 그래미시상식 참석에 이어 8~9일과 15~16일 네 차례에 걸친 단독 콘서트를 예정하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19에 확진된 방탄소녀단 멤버 정국이 팬들을 안심시켰다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단 멤버 정국은 30일 인스타그램에 자가격리 중인 근황을 전했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정국은 “저는 잘 있다”며 “너무 처지지 않으려 몸을 이리저리 움직이고 있다”고 말했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “먹고 눕고, 먹고 눕고 해서 살찔까봐, 관리 잘 하고 있으니 걱정하지 말라”며 “곧 만나자”라고 했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 함께 정국은 음악에 맞춰 춤을 추며 건강한 근황을 알렸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그의 얼굴빛 역시 평소의 모습 그대로였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국 일정을 위해 라스베이거스에 머물고 있는 정국은 현지에서 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정국은 27일 출국 과정에서 진행한 PCR(유전자증폭)검사에서는 음성 판정을 받았으나 현지에 도착한 뒤 목에 불편함을 느껴 검사를 받았고 양성판정을 받은 것으로 전해졌다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정국은 미국 내 방역지침에 따라 자가격리 중이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "소속사 빅히트뮤직은 29일 “정국은 현재 경미한 인후통 외 특별한 증상은 없으나 격리 기간에 건강 상태를 면밀히 살필 예정”이라며 “향후 미국 일정에 참석한지는 현지 규정에 따라 결정될 예정”이라고 설명했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "방탄소년단은 내달 3일 라스베이거스 MGM 그랜드가든아레나에서 열리는 그래미시상식 참석에 이어 8~9일과 15~16일 네 차례에 걸친 단독 콘서트를 예정하고 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단 정국 “걱정하지 말라, 곧 만나자” 건강한 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

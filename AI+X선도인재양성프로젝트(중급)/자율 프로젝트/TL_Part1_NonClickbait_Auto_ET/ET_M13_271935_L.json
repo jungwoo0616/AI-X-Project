@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271935",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘쇼미더머니 8’ 샤크라마, 진정성으로 대중성 저격한 ‘본디 힙합’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "소셜 엔터테인먼트 플랫폼 바운드(Baund)의 오리지널 음원 제작 프로젝트 ‘Baund Original Plays’ 세 번째 주인공이 공개됐다.\n주인공은 ‘쇼미더머니 8’에서 단단한 라이밍과 함께 타격감 넘치는 랩을 선보여 두각을 드러낸 신예 래퍼 샤크라마(SHARKRAMA)로 다양한 창작을 통해 자신의 성장 서사를 그려 나가고 있는 실력을 겸비한 아티스트다.\n바운드와 샤크라마가 함께한 ‘본디 힙합’은 바운드 독점 비트 중 하나인 프로듀서 요시(Yosi)의‘Bumpin‘’을 활용한 곡으로 퍼커션을 비롯한 다양한 악기가 아우러져 이색적인 박자감을 지닌 비트 위에서 샤크라마가 탁월한 워드 플레이를 통해 유연하고 인상적인 랩 플로우를 들려준다.\n샤크라마는 대중성을 지나치게 고려해 감도를 잃고 있는 예술과 패션 업계 세태를 꼬집고, 래퍼라면 랩 본연에 충실할 것임을 날이 선 가사로 진정성을 담아 표현했다.\n바운드는 국내외 유명 비트 메이커들이 만든 독점 비트와 함께 음악과 영상을 쉽고 편하게 제작할 수 있도록 다양한 스튜디오 기능을 제공하고, 음악을 사랑하는 다양한 사람들과 소통할 수 있는 소셜 엔터테인먼트 플랫폼이다.‘Baund Original Plays‘는 바운드에서 상시 진행 중인 프로젝트로, 자신의 오리지널 음원 발매를 꿈꾸는 많은 신예 아티스트들을 지원할 예정이다.\n샤크라마의 오리지널 플레이와 요시의 바운드 독점 비트는 바운드 앱과 웹사이트를 통해 즐길 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소셜 엔터테인먼트 플랫폼 바운드(Baund)의 오리지널 음원 제작 프로젝트 ‘Baund Original Plays’ 세 번째 주인공이 공개됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주인공은 ‘쇼미더머니 8’에서 단단한 라이밍과 함께 타격감 넘치는 랩을 선보여 두각을 드러낸 신예 래퍼 샤크라마(SHARKRAMA)로 다양한 창작을 통해 자신의 성장 서사를 그려 나가고 있는 실력을 겸비한 아티스트다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "바운드와 샤크라마가 함께한 ‘본디 힙합’은 바운드 독점 비트 중 하나인 프로듀서 요시(Yosi)의‘Bumpin‘’을 활용한 곡으로 퍼커션을 비롯한 다양한 악기가 아우러져 이색적인 박자감을 지닌 비트 위에서 샤크라마가 탁월한 워드 플레이를 통해 유연하고 인상적인 랩 플로우를 들려준다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "샤크라마는 대중성을 지나치게 고려해 감도를 잃고 있는 예술과 패션 업계 세태를 꼬집고, 래퍼라면 랩 본연에 충실할 것임을 날이 선 가사로 진정성을 담아 표현했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바운드는 국내외 유명 비트 메이커들이 만든 독점 비트와 함께 음악과 영상을 쉽고 편하게 제작할 수 있도록 다양한 스튜디오 기능을 제공하고, 음악을 사랑하는 다양한 사람들과 소통할 수 있는 소셜 엔터테인먼트 플랫폼이다.‘Baund Original Plays‘는 바운드에서 상시 진행 중인 프로젝트로, 자신의 오리지널 음원 발매를 꿈꾸는 많은 신예 아티스트들을 지원할 예정이다.",
+				"sentenceSize": 209
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "샤크라마의 오리지널 플레이와 요시의 바운드 독점 비트는 바운드 앱과 웹사이트를 통해 즐길 수 있다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘쇼미더머니 8’ 샤크라마, 진정성으로 대중성 저격한 ‘본디 힙합’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

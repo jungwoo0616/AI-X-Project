@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171831",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "고소영·이부진, 오은영 콘서트서 인증샷",
+    "newsSubTitle": "",
+    "newsContent": "배우 고소영이 이부진 호텔신라 대표와 오은영 콘서트서 만나 인증샷을 찍었다.\n고소영은 22일 자신의 SNS 인스타그램에 “평소 알고 있는 선생님답게 관객 한 분 한 분 안아주고 싶다는 선생님, 너무 따뜻하고 좋으신 선생님. 많은 관객들이 한마디도 놓치지 않으려고 귀담아 듣는 모습 너무 인상적이었다”면서 “지인들도 많이 만나고 주변에 오은영 선생님 팬이 정말 많다. 너무 위로되고 힘을 얻는 시간이었다”라며 오은영 박사의 토크 콘서트 참석 인증샷을 올렸다.\n특히 이부진 호텔신라 대표와 함께 찍은 사진을 올려 누리꾼의 관심을 받았다.\n고소영과의 투 샷에도 굴욕 없는 이 대표의 미모가 눈길을 끈다.\n이부진 대표는 이건희 삼성그룹 회장의 장녀다.\n2007년생 아들을 두고 있다.\n한편, 고소영은 지난 2010년 배우 장동건과 결혼, 슬하에 1남 1녀를 두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 고소영이 이부진 호텔신라 대표와 오은영 콘서트서 만나 인증샷을 찍었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고소영은 22일 자신의 SNS 인스타그램에 “평소 알고 있는 선생님답게 관객 한 분 한 분 안아주고 싶다는 선생님, 너무 따뜻하고 좋으신 선생님. 많은 관객들이 한마디도 놓치지 않으려고 귀담아 듣는 모습 너무 인상적이었다”면서 “지인들도 많이 만나고 주변에 오은영 선생님 팬이 정말 많다. 너무 위로되고 힘을 얻는 시간이었다”라며 오은영 박사의 토크 콘서트 참석 인증샷을 올렸다.",
+        "sentenceSize": 212
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 이부진 호텔신라 대표와 함께 찍은 사진을 올려 누리꾼의 관심을 받았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고소영과의 투 샷에도 굴욕 없는 이 대표의 미모가 눈길을 끈다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이부진 대표는 이건희 삼성그룹 회장의 장녀다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2007년생 아들을 두고 있다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 고소영은 지난 2010년 배우 장동건과 결혼, 슬하에 1남 1녀를 두고 있다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고소영·이부진, 물오른 미모 뽐내며 참석한 곳은 이 사람의 콘서트",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

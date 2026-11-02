@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273655",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김선호 “역시 월요병 치료제” 근황 공개",
+		"newsSubTitle": "",
+		"newsContent": "배우 김선호가 근황을 알렸다.\n20일 김선호의 소속사 솔트 엔터테인먼트는 공식 사회관계망서비스(SNS) 인스타그램을 통해 “연극 ‘터칭 더 보이드’에서 산악가 ‘조 심슨’ 역을 맡은 김선호 배우의 클라이밍 교육+체험 현장 ‘1탄’”이라며 사진 여러 장을 올렸다.\n사진 속 김선호는 편안한 옷차림으로 클라이밍 교육에 열중하는 모습이다.\n누리꾼들은 해당 게시물에 “파이팅. 보고싶다” “항상 응원하겠다” “역시 월요병 치료제”라며 긍정적인 반응을 보였다.\n한편 김선호는 지난해 사생활 논란에 휩싸인 후 활동을 중단하고 자숙했으나 최근 영화 ‘슬픈 연대’와 연극 ‘터칭 더 보이드’로 복귀를 확정지었다.\n그는 솔트 엔터테인먼트 공식 SNS를 통해 팬들에게 근황을 공유하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김선호가 근황을 알렸다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 김선호의 소속사 솔트 엔터테인먼트는 공식 사회관계망서비스(SNS) 인스타그램을 통해 “연극 ‘터칭 더 보이드’에서 산악가 ‘조 심슨’ 역을 맡은 김선호 배우의 클라이밍 교육+체험 현장 ‘1탄’”이라며 사진 여러 장을 올렸다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김선호는 편안한 옷차림으로 클라이밍 교육에 열중하는 모습이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리꾼들은 해당 게시물에 “파이팅. 보고싶다” “항상 응원하겠다” “역시 월요병 치료제”라며 긍정적인 반응을 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 김선호는 지난해 사생활 논란에 휩싸인 후 활동을 중단하고 자숙했으나 최근 영화 ‘슬픈 연대’와 연극 ‘터칭 더 보이드’로 복귀를 확정지었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 솔트 엔터테인먼트 공식 SNS를 통해 팬들에게 근황을 공유하고 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김선호 “역시 월요병 치료제” 근황 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

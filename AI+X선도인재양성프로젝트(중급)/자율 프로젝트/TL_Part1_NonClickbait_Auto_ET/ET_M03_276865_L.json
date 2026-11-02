@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276865",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"분신술인 줄\\\" 두 눈 의심하게 하는 등굣길 광경",
+		"newsSubTitle": "",
+		"newsContent": "한 네티즌이 등굣길에 포착한 광경이 네티즌들에게 웃음을 안겨주고 있다 지난 8일 한 온라인 커뮤니티에는 '어느 대학교의 분신술'이라는 제목의 글이 올라왔다.\n게시물에는 남자 셋이 나란히 걸어가는 사진 한장이 담겼다.\n이 남성들은 모두 검은색 줄무늬 상의에 검정 바지를 입고 흰 운동화를 신은 채 검정 가방을 메고 있다.\n줄무늬의 간격은 물론이고 검은색과 흰색이 반복되는 비슷한 스타일링은 마치 이 세 남성이 한 사람의 잔상인 것 같은 착각을 준다.\n특히 이 사진은 남자 셋이 걸어가며 한 발을 앞으로 내민 순간을 포착해 혼란을 더하고 있다.\n이를 본 네티즌들은 \\\"흑백판 '윌리를 찾아라'네\\\" \\\"합성인 줄 알았다\\\" \\\"나도 오늘 저렇게 입은 남자 봤다\\\" 등의 반응을 보이며 폭소했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한 네티즌이 등굣길에 포착한 광경이 네티즌들에게 웃음을 안겨주고 있다 지난 8일 한 온라인 커뮤니티에는 '어느 대학교의 분신술'이라는 제목의 글이 올라왔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게시물에는 남자 셋이 나란히 걸어가는 사진 한장이 담겼다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 남성들은 모두 검은색 줄무늬 상의에 검정 바지를 입고 흰 운동화를 신은 채 검정 가방을 메고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "줄무늬의 간격은 물론이고 검은색과 흰색이 반복되는 비슷한 스타일링은 마치 이 세 남성이 한 사람의 잔상인 것 같은 착각을 준다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이 사진은 남자 셋이 걸어가며 한 발을 앞으로 내민 순간을 포착해 혼란을 더하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 네티즌들은 \\\"흑백판 '윌리를 찾아라'네\\\" \\\"합성인 줄 알았다\\\" \\\"나도 오늘 저렇게 입은 남자 봤다\\\" 등의 반응을 보이며 폭소했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"분신술인 줄\\\" 두 눈 의심하게 하는 등굣길 광경",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

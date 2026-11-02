@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271392",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘애로부부’ 가정폭력 공채 개그맨 실제사연 공개",
+		"newsSubTitle": "",
+		"newsContent": "ENA채널·채널A 예능 프로그램 ‘다시 뜨거워지고 싶은 애로부부’(애로부부)가 성공 후 돌변해 가정폭력까지 행사한 개그맨 남편의 실제 사연이 다뤄진다.\nENA채널·채널A에 따르면 사연자 아내는 “남편은 한 방송사의 공채 개그맨”이라고 털어놨다.\n이에 스튜디오에 있던 MC들은 연예인 남편을 다루는 이번 사연을 두고 놀라움을 감추지 못했다.\n아내는 힘든 세월 모든 걸 바쳐 개그맨 남편을 뒷바라지했지만, 남편은 성공하자 태도가 돌변했다.\n남편은 “명색이 연예인 와이프인데, 뭐라도 찍어발라”라며 아내에게 폭언 등을 일삼았다.\n남편이 낯선 여성과 함께 있는 것을 두고 아내가 불륜을 의심하자 남편은 아내에게 폭력까지 행사했다.\n아내는 이어진 전화 연결에서 “솔직히 몸 사애가 정상적이지 않다. 제발 도와달라”라며 눈물로 호소해 안타까움을 자아냈다.\n성공한 뒤 돌변한 개그맨의 실제 사연을 다룬 ‘애로부부’는 오는 28일 오후 11시 ENA채널과 채널A에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ENA채널·채널A 예능 프로그램 ‘다시 뜨거워지고 싶은 애로부부’(애로부부)가 성공 후 돌변해 가정폭력까지 행사한 개그맨 남편의 실제 사연이 다뤄진다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ENA채널·채널A에 따르면 사연자 아내는 “남편은 한 방송사의 공채 개그맨”이라고 털어놨다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 스튜디오에 있던 MC들은 연예인 남편을 다루는 이번 사연을 두고 놀라움을 감추지 못했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아내는 힘든 세월 모든 걸 바쳐 개그맨 남편을 뒷바라지했지만, 남편은 성공하자 태도가 돌변했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남편은 “명색이 연예인 와이프인데, 뭐라도 찍어발라”라며 아내에게 폭언 등을 일삼았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "남편이 낯선 여성과 함께 있는 것을 두고 아내가 불륜을 의심하자 남편은 아내에게 폭력까지 행사했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아내는 이어진 전화 연결에서 “솔직히 몸 사애가 정상적이지 않다. 제발 도와달라”라며 눈물로 호소해 안타까움을 자아냈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "성공한 뒤 돌변한 개그맨의 실제 사연을 다룬 ‘애로부부’는 오는 28일 오후 11시 ENA채널과 채널A에서 방송된다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘애로부부’ 가정폭력 공채 개그맨 실제사연 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276658",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘리얼’ 설리 노출신 불법 유출 “법적 대응 할 것” [공식입장]",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘리얼’이 개봉 첫날부터 일부 장면이 불법 유출돼 몸살을 앓고 있다.\n28일 ‘리얼’ 제작사인 코브픽쳐스는 “금일 개봉한 영화 ‘리얼’의 장면 일부가 불법 촬영으로 인해 유출됐다”고 전했다.\n이날 유출된 사진은 극 중 최진리(설리)의 노출신을 담고 있는 것으로 알려졌다.\n이어 제작사는 “본 작품의 일부 또는 전체를 저작권자의 허락 없이 복제하거나 촬영해 동영상 또는 스틸컷으로 온·오프라인에 배포하는 행위는 저작권법 위반으로 법적 처벌을 받을 수 있다. 또한 이러한 행위는 저작권법 위반과 별도로 복제, 배포된 장면에 등장한 배우의 초상권을 침해하는 것으로서 역시 민·형사상의 제재를 받을 수 있다”고 경고했다.\n제작사는 현재 지속적인 모니터링을 통해 이미 유출된 사진을 삭제하고 있다.\n제작사는 “이후에도 사진 유출이 계속될 경우 강경한 법적 조치를 취하겠다”고 전했다.\n한편 '리얼'은 아시아 최대 규모의 카지노를 둘러싼 두 남자의 거대한 비밀과 음모를 그린 액션 누아르 영화로, 김수현의 4년 만의 복귀작으로 화제를 모았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘리얼’이 개봉 첫날부터 일부 장면이 불법 유출돼 몸살을 앓고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 ‘리얼’ 제작사인 코브픽쳐스는 “금일 개봉한 영화 ‘리얼’의 장면 일부가 불법 촬영으로 인해 유출됐다”고 전했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 유출된 사진은 극 중 최진리(설리)의 노출신을 담고 있는 것으로 알려졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 제작사는 “본 작품의 일부 또는 전체를 저작권자의 허락 없이 복제하거나 촬영해 동영상 또는 스틸컷으로 온·오프라인에 배포하는 행위는 저작권법 위반으로 법적 처벌을 받을 수 있다. 또한 이러한 행위는 저작권법 위반과 별도로 복제, 배포된 장면에 등장한 배우의 초상권을 침해하는 것으로서 역시 민·형사상의 제재를 받을 수 있다”고 경고했다.",
+				"sentenceSize": 191
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제작사는 현재 지속적인 모니터링을 통해 이미 유출된 사진을 삭제하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제작사는 “이후에도 사진 유출이 계속될 경우 강경한 법적 조치를 취하겠다”고 전했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 '리얼'은 아시아 최대 규모의 카지노를 둘러싼 두 남자의 거대한 비밀과 음모를 그린 액션 누아르 영화로, 김수현의 4년 만의 복귀작으로 화제를 모았다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘리얼’ 설리 노출신 불법 유출 “법적 대응 할 것” [공식입장]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

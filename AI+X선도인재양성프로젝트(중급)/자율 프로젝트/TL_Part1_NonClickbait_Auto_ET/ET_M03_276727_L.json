@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276727",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유리창에 비친 미나의 비현실적 '현실' 몸매",
+		"newsSubTitle": "",
+		"newsContent": "트와이스 미나가 무결점 몸매를 자랑했다.\n최근 온라인 커뮤니티에 트와이스 미나의 사진이 올라와 네티즌들의 시선을 사로잡았다.\n사진은 차에서 막 내린 미나의 모습을 담았다.\n유리문 너머로 걸어오던 미나는 군더더기 없는 완벽한 몸매를 자랑했다.\n미나는 머리를 위로 쓸어올렸고 카메라를 발견하자 여유롭게 손을 흔들어 보이며 아름다움을 뽐냈다.\n유리문을 사이에 두고 촬영한 탓에 미나는 마치 다른 세상 속 사람처럼 느껴지기도 했다.\n사진을 확인한 네티즌은 \\\"미나 너무 예쁘다ㅜㅜ\\\" \\\"인형 같다\\\" \\\"부족한 게 없는 미나\\\" 등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트와이스 미나가 무결점 몸매를 자랑했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에 트와이스 미나의 사진이 올라와 네티즌들의 시선을 사로잡았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진은 차에서 막 내린 미나의 모습을 담았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유리문 너머로 걸어오던 미나는 군더더기 없는 완벽한 몸매를 자랑했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미나는 머리를 위로 쓸어올렸고 카메라를 발견하자 여유롭게 손을 흔들어 보이며 아름다움을 뽐냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유리문을 사이에 두고 촬영한 탓에 미나는 마치 다른 세상 속 사람처럼 느껴지기도 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사진을 확인한 네티즌은 \\\"미나 너무 예쁘다ㅜㅜ\\\" \\\"인형 같다\\\" \\\"부족한 게 없는 미나\\\" 등 반응을 보였다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유리창에 비친 미나의 비현실적 '현실' 몸매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

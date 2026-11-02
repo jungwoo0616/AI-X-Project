@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268682",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘식스센스3’ 미주, 과거 권혁수와 결혼에 “이혼 잘했다”",
+		"newsSubTitle": "",
+		"newsContent": "‘식스센스3’ 미주의 과거가 공개됐다.\n29일 오후 방송된 tvN 예능프로그램 ‘식스센스3’에서는 김종민, 이은지가 게스트로 출연했다.\n이날 오나라가 제일 보고 싶었다는 이은지는 “제가 나라 언니 TV 유치원 파니파니 시절부터”라고 언급했다.\n벌컥 열어젖힌 과거사에 오나라는 “조용히 해. 자료 화면 나간단 말이야!”라며 패닉에 빠졌다.\n유독 말이 없는 미주에 유재석은 “종민이한테도 말 좀 걸어요”라고 말해 폭소케 했다.\n전 직장 동료 김종민에 미주는 “오빠 왜 왔어요? 연애 프로하고 있지 않아요?”라고 물었다.\n4년 전 종영된 연애 프로그램에 미주는 민망함에 줄행랑쳤다.\n그 모습에 유재석은 “너도 결혼했었잖아”라고 말했고 미주는 4년 전 프로그램에서 권혁수와 결혼했던 사실을 떠올리고 경악했다. “어머! 어머!”라고 소리친 미주는 “이혼 잘했어요”라고 말해 폭소케 했다.\n한편 tvN 예능프로그램 ‘식스센스3’은 매주 금요일 오후 8시 40분에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘식스센스3’ 미주의 과거가 공개됐다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 오후 방송된 tvN 예능프로그램 ‘식스센스3’에서는 김종민, 이은지가 게스트로 출연했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 오나라가 제일 보고 싶었다는 이은지는 “제가 나라 언니 TV 유치원 파니파니 시절부터”라고 언급했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "벌컥 열어젖힌 과거사에 오나라는 “조용히 해. 자료 화면 나간단 말이야!”라며 패닉에 빠졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유독 말이 없는 미주에 유재석은 “종민이한테도 말 좀 걸어요”라고 말해 폭소케 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전 직장 동료 김종민에 미주는 “오빠 왜 왔어요? 연애 프로하고 있지 않아요?”라고 물었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "4년 전 종영된 연애 프로그램에 미주는 민망함에 줄행랑쳤다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그 모습에 유재석은 “너도 결혼했었잖아”라고 말했고 미주는 4년 전 프로그램에서 권혁수와 결혼했던 사실을 떠올리고 경악했다. “어머! 어머!”라고 소리친 미주는 “이혼 잘했어요”라고 말해 폭소케 했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 tvN 예능프로그램 ‘식스센스3’은 매주 금요일 오후 8시 40분에 만나볼 수 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘식스센스3’ 미주, 과거 권혁수와 결혼에 “이혼 잘했다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

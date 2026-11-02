@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280850",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "주간아이돌 트와이스, 희철과 인증샷…\\\"누가 제일 예뻐?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "슈퍼주니어 김희철이 트와이스 팬임을 입증했다.\n김희철은 23일 자신의 인스타그램에 \\\"가나다현, 너연이 아닌 나연, 설부만큼 착하고 예쁜 쯔위, JYP빠 김희철\\\"이라는 글과 함께 사진을 게재했다.\n공개된 사진 속 김희철은 트와이스 다현, 나연, 쯔위와 함께 다정한 분위기를 자아내고 있다.\n특히 김희철은 트와이스 팬임을 스스로 밝혀 눈길을 끌고 있다.\n또한 김희철과 트와이스는 크리스마스 분위기를 물씬 풍겨 더욱 시선을 사로잡고 있다.\n한편, 김희철은 잠정휴식을 처하고 있는 정형돈을 대신해 MBCEVERY1 '주간 아이돌' 진행을 맡고 있다.\n온라인 중앙일보 [사진=김희철 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "슈퍼주니어 김희철이 트와이스 팬임을 입증했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김희철은 23일 자신의 인스타그램에 \\\"가나다현, 너연이 아닌 나연, 설부만큼 착하고 예쁜 쯔위, JYP빠 김희철\\\"이라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 김희철은 트와이스 다현, 나연, 쯔위와 함께 다정한 분위기를 자아내고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 김희철은 트와이스 팬임을 스스로 밝혀 눈길을 끌고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 김희철과 트와이스는 크리스마스 분위기를 물씬 풍겨 더욱 시선을 사로잡고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 김희철은 잠정휴식을 처하고 있는 정형돈을 대신해 MBCEVERY1 '주간 아이돌' 진행을 맡고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진=김희철 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "주간아이돌 트와이스, 희철과 인증샷…\\\"누가 제일 예뻐?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

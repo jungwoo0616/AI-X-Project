@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275508",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "넷플릭스도 반한 ‘다정 남주’ 강태오",
+		"newsSubTitle": "",
+		"newsContent": "‘다정 남주’로 인기를 끌고 있는 강태오가 꽃을 선물 받았다.\n강태오는 14일 인스타그램에 넷플릭스 한국 공식계정을 태그하면서 한 장의 사진을 올렸다.\n공개된 사진 속에는 강태오가 넷플릭스로부터 받은 꽃을 들고 있는 모습이 담겨 있다.\n팬들은 “축하한다”, “고생했어 태오야”, “6화가 너무 기대된다” 등의 반응을 보였다.\n강태오는 ENA 수목드라마 ‘이상한 변호사 우영우’에서 남자 주인공 ‘이준호’ 역을 맡았다.\n자폐 스펙트럼을 앓고 있는 여주인공 ‘우영우’(박은빈 분)과 같은 직장에서 일하며, 고정관념 없이 다정한 모습을 보이는 캐릭터로 인기를 끌고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘다정 남주’로 인기를 끌고 있는 강태오가 꽃을 선물 받았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강태오는 14일 인스타그램에 넷플릭스 한국 공식계정을 태그하면서 한 장의 사진을 올렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속에는 강태오가 넷플릭스로부터 받은 꽃을 들고 있는 모습이 담겨 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들은 “축하한다”, “고생했어 태오야”, “6화가 너무 기대된다” 등의 반응을 보였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강태오는 ENA 수목드라마 ‘이상한 변호사 우영우’에서 남자 주인공 ‘이준호’ 역을 맡았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자폐 스펙트럼을 앓고 있는 여주인공 ‘우영우’(박은빈 분)과 같은 직장에서 일하며, 고정관념 없이 다정한 모습을 보이는 캐릭터로 인기를 끌고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷플릭스도 반한 ‘다정 남주’ 강태오",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

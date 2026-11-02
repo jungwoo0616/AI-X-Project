@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171343",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘기록제조기’ 송가인, 트롯스타 8주 연속 1위 등극",
+    "newsSubTitle": "",
+    "newsContent": "송가인이 트롯스타에서 8주 연속 1위를 차지하며 사상 최장 기록을 갱신했다.\n송가인은 지난 9월 30일부터 이달 7일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 87,709표를 획득하며 1위를 차지했다.\n송가인은 ‘트롯스타 여자 1위’ 투표가 시작된 이래로 단 한 번도 1위를 놓친 적 없는 대세임을 다시 입증했다.\n8주 연속 1위를 차지한 송가인은 그동안 국악부터 트로트까지 장르를 가리지 않는 실력과 이에 못지않은 뛰어난 입담을 자랑하며, 높은 인기로 대중과 만나고 있다.\n송가인은 적수 없는 최강자로 4주 연속 1위를 차지해 서울시 마포구에 AGAIN(팬클럽 명)이 제작한 옥외 광고판 특전을 획득해 팬들의 뜨거운 반응을 불러일으킨 바 있다.\n송가인이 출연하는 ‘풍류대장-힙한 소리꾼들의 전쟁’은 대한민국 최초 국악과 대중음악의 크로스오버 경연 프로그램으로 매주 화요일 오후 9시에 JTBC에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "송가인이 트롯스타에서 8주 연속 1위를 차지하며 사상 최장 기록을 갱신했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송가인은 지난 9월 30일부터 이달 7일까지 스타랭킹 플랫폼에서 진행된 ‘트롯스타 여자 1위는?’이라는 투표에서 87,709표를 획득하며 1위를 차지했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "송가인은 ‘트롯스타 여자 1위’ 투표가 시작된 이래로 단 한 번도 1위를 놓친 적 없는 대세임을 다시 입증했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "8주 연속 1위를 차지한 송가인은 그동안 국악부터 트로트까지 장르를 가리지 않는 실력과 이에 못지않은 뛰어난 입담을 자랑하며, 높은 인기로 대중과 만나고 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송가인은 적수 없는 최강자로 4주 연속 1위를 차지해 서울시 마포구에 AGAIN(팬클럽 명)이 제작한 옥외 광고판 특전을 획득해 팬들의 뜨거운 반응을 불러일으킨 바 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "송가인이 출연하는 ‘풍류대장-힙한 소리꾼들의 전쟁’은 대한민국 최초 국악과 대중음악의 크로스오버 경연 프로그램으로 매주 화요일 오후 9시에 JTBC에서 만나볼 수 있다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이번에도 또, 또, AGAIN(계속해서) 1등하는 주인공은 누구인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

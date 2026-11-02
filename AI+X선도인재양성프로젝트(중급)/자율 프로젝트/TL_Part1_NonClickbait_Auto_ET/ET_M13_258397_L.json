@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258397",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박은지, SNS 해킹 위기 넘겨 “비밀번호 2단계 설정하길”",
+		"newsSubTitle": "",
+		"newsContent": "방송인 박은지가 SNS 해킹 위기를 넘겼다.\n박은지는 17일 자신의 인스타그램 스토리에 “자꾸 누가 내 인스타그램을 해킹하려고 하시나”라며 사진 한 장을 게재했다.\n공개된 사진에는 박은지가 받은 문자 메시지들이 담겼다.\n비공개 인스타그램에 로그인을 하기 위해 인증 코드를 입력하라는 메시지가 적혀있다.\n국외에서 누군가가 박은지의 인스타그램 계정 해킹을 시도하는 것으로 보인다.\n박은지는 “여러분 비밀번호 2단계 인증으로 꼭 설정해두세요”라고 당부했다.\n한편, 박은지는 지난 2018년에 두 살 연상의 재미교포 비연예인 남성과 결혼해 슬하에 딸 하나를 두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 박은지가 SNS 해킹 위기를 넘겼다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박은지는 17일 자신의 인스타그램 스토리에 “자꾸 누가 내 인스타그램을 해킹하려고 하시나”라며 사진 한 장을 게재했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 박은지가 받은 문자 메시지들이 담겼다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비공개 인스타그램에 로그인을 하기 위해 인증 코드를 입력하라는 메시지가 적혀있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국외에서 누군가가 박은지의 인스타그램 계정 해킹을 시도하는 것으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박은지는 “여러분 비밀번호 2단계 인증으로 꼭 설정해두세요”라고 당부했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 박은지는 지난 2018년에 두 살 연상의 재미교포 비연예인 남성과 결혼해 슬하에 딸 하나를 두고 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박은지, SNS 해킹 위기 넘겨 “비밀번호 2단계 설정하길”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

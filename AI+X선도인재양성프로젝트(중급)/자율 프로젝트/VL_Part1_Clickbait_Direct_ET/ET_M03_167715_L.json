@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167715",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정우성 \\\"폭력사태로 집 떠난 로힝야 난민에게 관심 가져달라\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 정우성이 난민에 대한 관심을 호소했다.\n정우성은 16일 자신의 인스타그램에 방글라데시를 재방문했을 당시 사진을 게재하며 \\\"2017년 발생한 폭력사태로 수십만 명의 로힝야 족이 강제로 미얀마를 떠나야 했다\\\"고 말문을 열었다.\n정우성은 \\\"저는 2019년 유엔난민기구의 친선대사 자격으로 방글라데시를 재방문했고 고통이 2년째 계속되고 있는 중에도 아이들은 제게 밝은 웃음과 자신들의 총명하고 창의적인 생각들을 나누어주었다\\\"라고 적었다.\n이어 \\\"아이들의 이러한 낙천적인 의지에 저는 늘 큰 감동을 받는다. 집으로 돌아가지 못하고 있는 로힝야 난민들에게 여러분의 관심은 큰 도움이 된다\\\"라고 관심을 호소했다.\n정우성은 2014년 5월부터 유엔 난민기구(UNHCR) 한국대표부 친선대사로 활동해 왔으며 난민 문제에 목소리를 높여왔다.\n지난 2월 국회에서 열린 토크 콘서트에서는 \\\"정부와 여당이 난민과 관련한 더 많은 역할을 할 수 있고, 해야 한다고 생각한다\\\"고 입장을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정우성이 난민에 대한 관심을 호소했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정우성은 16일 자신의 인스타그램에 방글라데시를 재방문했을 당시 사진을 게재하며 \\\"2017년 발생한 폭력사태로 수십만 명의 로힝야 족이 강제로 미얀마를 떠나야 했다\\\"고 말문을 열었다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정우성은 \\\"저는 2019년 유엔난민기구의 친선대사 자격으로 방글라데시를 재방문했고 고통이 2년째 계속되고 있는 중에도 아이들은 제게 밝은 웃음과 자신들의 총명하고 창의적인 생각들을 나누어주었다\\\"라고 적었다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"아이들의 이러한 낙천적인 의지에 저는 늘 큰 감동을 받는다. 집으로 돌아가지 못하고 있는 로힝야 난민들에게 여러분의 관심은 큰 도움이 된다\\\"라고 관심을 호소했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정우성은 2014년 5월부터 유엔 난민기구(UNHCR) 한국대표부 친선대사로 활동해 왔으며 난민 문제에 목소리를 높여왔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 2월 국회에서 열린 토크 콘서트에서는 \\\"정부와 여당이 난민과 관련한 더 많은 역할을 할 수 있고, 해야 한다고 생각한다\\\"고 입장을 밝혔다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 정우성이 정부와 여당, 대중에게 관심을 호소한 이는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269154",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "신아영, 결혼 4년 만에 ‘임신’[단독①]",
+		"newsSubTitle": "",
+		"newsContent": "방송인 신아영이 엄마가 된다.\n4일 ‘스포츠경향’ 취재 결과 신아영은 임신 초기에 접어들었다.\n신아영은 2018년 미국 뉴욕에서 금융업에 종사하는 2살 연하 하버드대 동문 남성과 결혼했다.\n결혼 4년 만에 기쁜 소식을 안은 셈이다.\n신아영은 1987년생으로 하버드대학교 역사학과를 졸업한 재원이다.\n지난 2013년 SBS ESPN 아나운서로 방송가에 입문, SBS 스포츠 아나운서로 활동했다.\n2015년 프리선언한 뒤 ‘수요미식회’ ‘숙희네 미장원’ ‘어서와 한국은 처음이지’ ‘골때리는 그녀들’ ‘골때리는 외박’ ‘로컬식탁’ 등 다양한 프로그램을 이끌며 사랑스러운 매력을 보여줬다.\n신아영은 지난 2월 스타휴엔터테인먼트와 전속계약을 체결한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 신아영이 엄마가 된다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 ‘스포츠경향’ 취재 결과 신아영은 임신 초기에 접어들었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신아영은 2018년 미국 뉴욕에서 금융업에 종사하는 2살 연하 하버드대 동문 남성과 결혼했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "결혼 4년 만에 기쁜 소식을 안은 셈이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신아영은 1987년생으로 하버드대학교 역사학과를 졸업한 재원이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2013년 SBS ESPN 아나운서로 방송가에 입문, SBS 스포츠 아나운서로 활동했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2015년 프리선언한 뒤 ‘수요미식회’ ‘숙희네 미장원’ ‘어서와 한국은 처음이지’ ‘골때리는 그녀들’ ‘골때리는 외박’ ‘로컬식탁’ 등 다양한 프로그램을 이끌며 사랑스러운 매력을 보여줬다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신아영은 지난 2월 스타휴엔터테인먼트와 전속계약을 체결한 바 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신아영, 결혼 4년 만에 ‘임신’[단독①]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

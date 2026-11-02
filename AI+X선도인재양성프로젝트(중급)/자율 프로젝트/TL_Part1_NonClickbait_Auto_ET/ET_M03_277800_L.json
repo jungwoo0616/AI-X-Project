@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277800",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "유지태의 달달한 한마디 “다시 태어나도 아내 김효진과 결혼”",
+		"newsSubTitle": "",
+		"newsContent": "배우 유지태가 아내 김효진을 향한 애정을 과시했다.\n지난 달 31일 방송된 SBS 러브FM ‘송은이 김숙의 언니네 라디오’에 영화 ‘스플릿’의 유지태, 정성화가 출연했다.\n이날 유지태와 정성화는 ‘다시 태어나도 지금의 아내와 결혼할 것이냐’는 질문을 받았다.\n두 배우는 동시에 ‘네’라며 주저 없이 대답했다.\nDJ 송은이와 김숙은 ‘새로운 삶인 만큼 새로운 여자를 만나는게 좋지 않겠냐’고 물었지만 유지태는 “불화를 만들진 말아달라”며 웃음을 보였다.\n그는 “이런 이야기는 농담으로도 아내와 하지 않는다. 어지간하면 하지 않는 이야기”라고 덧붙였다.\n유지태는 “우리는 오래된 사이다. 김효진이 20살이던 시절부터 알던 사이”라며 “우리는 오래된 친구 같은 관계. 완전 ‘베프(베스트 프렌드)’”라고 언급했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유지태가 아내 김효진을 향한 애정을 과시했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 달 31일 방송된 SBS 러브FM ‘송은이 김숙의 언니네 라디오’에 영화 ‘스플릿’의 유지태, 정성화가 출연했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 유지태와 정성화는 ‘다시 태어나도 지금의 아내와 결혼할 것이냐’는 질문을 받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 배우는 동시에 ‘네’라며 주저 없이 대답했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "DJ 송은이와 김숙은 ‘새로운 삶인 만큼 새로운 여자를 만나는게 좋지 않겠냐’고 물었지만 유지태는 “불화를 만들진 말아달라”며 웃음을 보였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 “이런 이야기는 농담으로도 아내와 하지 않는다. 어지간하면 하지 않는 이야기”라고 덧붙였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유지태는 “우리는 오래된 사이다. 김효진이 20살이던 시절부터 알던 사이”라며 “우리는 오래된 친구 같은 관계. 완전 ‘베프(베스트 프렌드)’”라고 언급했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유지태의 달달한 한마디 “다시 태어나도 아내 김효진과 결혼”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

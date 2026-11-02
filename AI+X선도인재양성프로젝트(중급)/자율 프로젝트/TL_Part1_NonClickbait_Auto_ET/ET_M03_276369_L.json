@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276369",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김여진 \\\"블랙리스트 검찰 조사…실제 문건 보니 마음 무너져\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 김여진이 19일 문화·연예계 블랙리스트 관련 참고인 조사를 받은 후 심경을 전했다.\n김여진은 이날 자신의 SNS에 \\\"오늘 조용히 검찰에 다녀왔다. 참고인 조사를 받았고 합당한 처벌을 원한다는 의견을 밝혔다\\\"고 적었다.\n이어 \\\"실제 국정원 문건을 보니 다시 한번 마음 한켠이 무너졌다. 그래도 설마 직접 그랬겠나 하는 마음이 있었나 보다. 그들이 직접 그랬더군요\\\"라고 말했다.\n한편 김여진은 이날 오전 10시 30분부터 오후 2시 30분까지 비공개 조사를 받고 귀가했다.\n국정원 개혁위 산하 적폐청산 태스크포스(TF)에 따르면 국정원은 원세훈 전 원장 재직 시기인 2009~2011년 문화·연예계 인사 82명을 선정해 이들의 전방위적 퇴출압박 활동을 펼친 것으로 드러났다.\n국정원은 2011년 김씨의 이미지 실추를 위해 한 보수성향 인터넷 카페에 김씨와 배우 문성근을 합성한 사진을 게재하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 김여진이 19일 문화·연예계 블랙리스트 관련 참고인 조사를 받은 후 심경을 전했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김여진은 이날 자신의 SNS에 \\\"오늘 조용히 검찰에 다녀왔다. 참고인 조사를 받았고 합당한 처벌을 원한다는 의견을 밝혔다\\\"고 적었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"실제 국정원 문건을 보니 다시 한번 마음 한켠이 무너졌다. 그래도 설마 직접 그랬겠나 하는 마음이 있었나 보다. 그들이 직접 그랬더군요\\\"라고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 김여진은 이날 오전 10시 30분부터 오후 2시 30분까지 비공개 조사를 받고 귀가했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국정원 개혁위 산하 적폐청산 태스크포스(TF)에 따르면 국정원은 원세훈 전 원장 재직 시기인 2009~2011년 문화·연예계 인사 82명을 선정해 이들의 전방위적 퇴출압박 활동을 펼친 것으로 드러났다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국정원은 2011년 김씨의 이미지 실추를 위해 한 보수성향 인터넷 카페에 김씨와 배우 문성근을 합성한 사진을 게재하기도 했다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김여진 \\\"블랙리스트 검찰 조사…실제 문건 보니 마음 무너져\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

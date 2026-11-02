@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279020",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이승기 군입대 \\\"조용히 튀지않게 군생활 하겠다\\\" 제대날짜는?",
+		"newsSubTitle": "",
+		"newsContent": "이승기 군입대가수 이승기가 1일 오후 육군 현역병으로 논산훈련소에 입소했다.\n애초 이승기의 입소는 비공개로 진행될 예정이었으나, 배웅하는 팬들을 생각한 소속사는 계획을 변경하고 조촐한 행사를 가지기로 했다.\n이날 이승기는 팬들과 취재진에게 “늦게 간다고 주위에서 놀린 사람들이 없다. 다들 시간 금방 간다고 위로해줬다”며 “조용히 튀지 않게 군 생활을 마치고 전역하겠다”고 포부를 밝혔다.\n이승기는 이날부터 5주간의 기초 군사훈련을 시작으로 21개월간 군복무하게 된다.\n전역일은 2017년 10월 31이다.\n한편 이승기는 최근 자신의 인스타그램에 “나 군대 간다. 아이컨택. 감사합니다”라며 자신의 공식 팬클럽을 향해 감사 인사를 전했다.\n온라인중앙일보 이승기 군입대",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이승기 군입대가수 이승기가 1일 오후 육군 현역병으로 논산훈련소에 입소했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애초 이승기의 입소는 비공개로 진행될 예정이었으나, 배웅하는 팬들을 생각한 소속사는 계획을 변경하고 조촐한 행사를 가지기로 했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이승기는 팬들과 취재진에게 “늦게 간다고 주위에서 놀린 사람들이 없다. 다들 시간 금방 간다고 위로해줬다”며 “조용히 튀지 않게 군 생활을 마치고 전역하겠다”고 포부를 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이승기는 이날부터 5주간의 기초 군사훈련을 시작으로 21개월간 군복무하게 된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전역일은 2017년 10월 31이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이승기는 최근 자신의 인스타그램에 “나 군대 간다. 아이컨택. 감사합니다”라며 자신의 공식 팬클럽을 향해 감사 인사를 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인중앙일보 이승기 군입대",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이승기 군입대 \\\"조용히 튀지않게 군생활 하겠다\\\" 제대날짜는?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

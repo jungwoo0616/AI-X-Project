@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264456",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "구준엽·서희원, 공식일정 없이 조용한 칩거",
+		"newsSubTitle": "",
+		"newsContent": "자가격리 기간을 마친 구준엽·서희원(쉬시위안)이 당분간 조용히 둘 만의 시간을 가질 것으로 보인다.\n중화권 매체 애플데일리에 따르면 서희원 관계자는 구준엽과의 결혼과 관련해 별도의 기자회견이나 공식 일정을 열지 않을 계획이다.\n이 관계자는 구준엽과 서희원이 결혼과 관련해 공식 기자회견을 가질 것이라는 앞선 보도 내용을 부인했다.\n또한 서희원 관계자는 “(구준엽과 서희원은)언론 보도에 치우치지 않고, 서로에게 집중하는 시간을 가질 것”이라고 강조했다.\n대만 현지에 도착해 자가격리 기간을 거친 구준엽은 서희원의 자택을 찾아 20년 만에 재회했다.\n구준엽이 대만으로 향한 이유는 서희원의 재회뿐 아이라 대만 현지에서의 혼인 신고를 마치려는 계획도 포함돼 있다.\n7일간의 자율 격리를 마친 뒤 구준엽은 서희원과 20년 만의 연인에서 부부로서 본격적인 행보를 이어갈 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자가격리 기간을 마친 구준엽·서희원(쉬시위안)이 당분간 조용히 둘 만의 시간을 가질 것으로 보인다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중화권 매체 애플데일리에 따르면 서희원 관계자는 구준엽과의 결혼과 관련해 별도의 기자회견이나 공식 일정을 열지 않을 계획이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 관계자는 구준엽과 서희원이 결혼과 관련해 공식 기자회견을 가질 것이라는 앞선 보도 내용을 부인했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 서희원 관계자는 “(구준엽과 서희원은)언론 보도에 치우치지 않고, 서로에게 집중하는 시간을 가질 것”이라고 강조했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대만 현지에 도착해 자가격리 기간을 거친 구준엽은 서희원의 자택을 찾아 20년 만에 재회했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구준엽이 대만으로 향한 이유는 서희원의 재회뿐 아이라 대만 현지에서의 혼인 신고를 마치려는 계획도 포함돼 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "7일간의 자율 격리를 마친 뒤 구준엽은 서희원과 20년 만의 연인에서 부부로서 본격적인 행보를 이어갈 것으로 보인다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구준엽·서희원, 공식일정 없이 조용한 칩거",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276672",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "마마무 무대에 뜬금없이 등장한 '근황의 아이콘'",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 마마무의 컴백 무대에 배우 최민용이 깜짝 등장했다.\n24일 방송된 MBC '쇼 음악중심'에서는 마마무가 '나로 말할 것 같으면'으로 화려한 컴백 무대를 가졌다.\n이날 마마무는 타이틀곡 '나로 말할 것 같으면'과 수록곡 '아재개그' 무대를 동시에 선보였다.\n특히 '아재개그' 무대에서는 최민용이 깜짝 출연했다.\n최민용은 무대에 올라 \\\"세상에서 제일 긴 음(音)은 참기름\\\" 등 능청스럽게 아재개그를 선보여 웃음과 재미를 더했다.\n최민용은 시트콤 '거침없이 하이킥' 이후 10년간 연예 활동을 하지 않은 탓에 '근황의 아이콘'으로 불렸다.\n그는 지난 1월 MBC '라디오스타' 출연을 시작으로 방송에 복귀했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 마마무의 컴백 무대에 배우 최민용이 깜짝 등장했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 방송된 MBC '쇼 음악중심'에서는 마마무가 '나로 말할 것 같으면'으로 화려한 컴백 무대를 가졌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 마마무는 타이틀곡 '나로 말할 것 같으면'과 수록곡 '아재개그' 무대를 동시에 선보였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 '아재개그' 무대에서는 최민용이 깜짝 출연했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최민용은 무대에 올라 \\\"세상에서 제일 긴 음(音)은 참기름\\\" 등 능청스럽게 아재개그를 선보여 웃음과 재미를 더했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최민용은 시트콤 '거침없이 하이킥' 이후 10년간 연예 활동을 하지 않은 탓에 '근황의 아이콘'으로 불렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 지난 1월 MBC '라디오스타' 출연을 시작으로 방송에 복귀했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마마무 무대에 뜬금없이 등장한 '근황의 아이콘'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

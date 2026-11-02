@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277210",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김연아와 평창올림픽 캠페인 모델로 발탁된 배우",
+		"newsSubTitle": "",
+		"newsContent": "'피겨 여왕' 김연아와 배우 박보검이 평창올림픽 광고 모델로 함께 발탁됐다.\n2018 평창동계올림픽 공식 파트너사인 코카콜라는 1년 앞으로 다가온 평창동계올림픽에 대한 관심과 열기를 이어가기위한 캠페인의 모델로 김연아와 박보검을 발탁했다고 밝혔다.\n코카콜라의 모델이 된 두 사람은 먼저 성화봉송 주자 참여를 독려할 예정이다.\n앞서 김연아는 코카콜라가 청소년들을 위해 개최하는 스포츠 페스티벌 '모두의 올림픽'에 참가하는 등 코카콜라와 깊은 인연을 이어오고 있다.\n박보검 역시 올해 초 코카콜라의 '당기면 가까워져요!' 캠페인 모델로 발탁된 후 이번이 코카콜라와 두 번째 만남이다.\n박보검은 이번 캠페인을 통해 지난 코카-콜라 캠페인의 인기를 이어나갈 예정이다.\n한편 김연아와 박보검의 동반 캐스팅은 이번이 처음이 아니다.\n제이에스티나 광고 모델 이후에 또다시 이뤄진 '대세 커플'의 만남으로 팬들을 흐뭇하게 만들고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'피겨 여왕' 김연아와 배우 박보검이 평창올림픽 광고 모델로 함께 발탁됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2018 평창동계올림픽 공식 파트너사인 코카콜라는 1년 앞으로 다가온 평창동계올림픽에 대한 관심과 열기를 이어가기위한 캠페인의 모델로 김연아와 박보검을 발탁했다고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코카콜라의 모델이 된 두 사람은 먼저 성화봉송 주자 참여를 독려할 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 김연아는 코카콜라가 청소년들을 위해 개최하는 스포츠 페스티벌 '모두의 올림픽'에 참가하는 등 코카콜라와 깊은 인연을 이어오고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박보검 역시 올해 초 코카콜라의 '당기면 가까워져요!' 캠페인 모델로 발탁된 후 이번이 코카콜라와 두 번째 만남이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박보검은 이번 캠페인을 통해 지난 코카-콜라 캠페인의 인기를 이어나갈 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김연아와 박보검의 동반 캐스팅은 이번이 처음이 아니다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "제이에스티나 광고 모델 이후에 또다시 이뤄진 '대세 커플'의 만남으로 팬들을 흐뭇하게 만들고 있다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김연아와 평창올림픽 캠페인 모델로 발탁된 배우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

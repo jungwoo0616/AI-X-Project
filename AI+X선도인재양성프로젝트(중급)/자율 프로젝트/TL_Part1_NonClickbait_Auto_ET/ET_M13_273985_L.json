@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273985",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "남주혁, 학폭의혹 제기한 매체·제보자 고소",
+		"newsSubTitle": "",
+		"newsContent": "배우 남주혁이 학폭(학교폭력)의혹을 제기한 이들을 상대로 고소장을 제출했다.\n남주혁 소속사 매니지먼트 숲은 24일 입장을 내고 “남주혁은 금일 허위기사를 작성한 매체 기자와 해당 매체 대표이사 및 허위제보를 한 익명의 제보자를 상대로 정보통신망 이용촉진 및 정보보호 등에 관한 법률위반(명예훼손)으로 형사 고소장을 제출했다”고 밝혔다.\n이어 “당사는 신속한 수사로 실체 진실이 명백히 밝혀지고 남주혁의 실추된 명예가 회복되기를 간절히 바란다”고 했다.\n앞서 온라인매체 더데이즈는 남주혁이 졸업한 수일고등학교 동창이라고 밝힌 A씨가 약 2년간의 기간 동안 남주혁으로부터 학폭을 당했다고 20일 보도했다.\nA씨는 “자신 외 학폭을 심하게 당했던 친구들은 TV 보기를 멀리하고 있고, 정신과 치료를 받고 있다”며 “비슷한 처지에 있는 학생들이 성인이 돼 피해를 보는 것이 줄어들었으면 좋겠다”고 했다.\n이에 소속사는 이날 “배우에게 관련 사실을 확인한 결과 해당 내용 모두 전혀 사실이 아님을 확인했다”며 “이번 허위 보도로 배우 명예를 심각하게 훼손한 책임을 물어 해당 매체를 상대로 신속하게 언론중재위원회에 정정보도 신청 등을 할 예정”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 남주혁이 학폭(학교폭력)의혹을 제기한 이들을 상대로 고소장을 제출했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남주혁 소속사 매니지먼트 숲은 24일 입장을 내고 “남주혁은 금일 허위기사를 작성한 매체 기자와 해당 매체 대표이사 및 허위제보를 한 익명의 제보자를 상대로 정보통신망 이용촉진 및 정보보호 등에 관한 법률위반(명예훼손)으로 형사 고소장을 제출했다”고 밝혔다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “당사는 신속한 수사로 실체 진실이 명백히 밝혀지고 남주혁의 실추된 명예가 회복되기를 간절히 바란다”고 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 온라인매체 더데이즈는 남주혁이 졸업한 수일고등학교 동창이라고 밝힌 A씨가 약 2년간의 기간 동안 남주혁으로부터 학폭을 당했다고 20일 보도했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A씨는 “자신 외 학폭을 심하게 당했던 친구들은 TV 보기를 멀리하고 있고, 정신과 치료를 받고 있다”며 “비슷한 처지에 있는 학생들이 성인이 돼 피해를 보는 것이 줄어들었으면 좋겠다”고 했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 소속사는 이날 “배우에게 관련 사실을 확인한 결과 해당 내용 모두 전혀 사실이 아님을 확인했다”며 “이번 허위 보도로 배우 명예를 심각하게 훼손한 책임을 물어 해당 매체를 상대로 신속하게 언론중재위원회에 정정보도 신청 등을 할 예정”이라고 했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "남주혁, 학폭의혹 제기한 매체·제보자 고소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

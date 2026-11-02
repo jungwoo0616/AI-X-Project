@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277559",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김태호 PD \\\"무한도전 7주 결방, 휴식 아닌 정상화\\\"",
+		"newsSubTitle": "",
+		"newsContent": "MBC 예능프로그램 '무한도전'의 수장 김태호 PD가 염원하던 휴식에 관해 '정상화'라고 말했다.\n11일 MBC 측은 \\\"무한도전이 7주 정도 재정비 기간을 가질 예정\\\"이라고 밝혔다.\n앞서 김 PD는 지난달 자신의 SNS 계정에 \\\"이번 크리스마스에 산타클로스가 한 달의 점검 기간과 두 달의 준비기간을 줬으면 좋겠다\\\"며 \\\"에라 모르겠다. 방송국 놈들아. 우리도 살자. 이러다 뭔 일 나겠다\\\"는 글을 게재하며 휴식에 대한 필요성을 강조했다.\n꾸준히 무한도전의 시즌제 도입을 주장했던 김 PD는 이번 7주간의 결방에 대해 \\\"휴식기, 방학은 모두 틀린 표현\\\"이라며 \\\"그 기간 동안 회의·준비·촬영 전반에 대한 정상화 작업을 한다\\\"고 인터뷰를 통해 전했다.\n이어 \\\"기획을 준비해서 만드는데 보통 2주가 걸리는데 방송은 매주\\\"라며 \\\"가끔은 토요일이 두려울 때도 있다. 더 충분한 준비를 통해 알차고 재밌는 시간을 만들겠다\\\"는 포부를 밝혔다.\n7주 동안 파일럿 예능 프로그램 '사십춘기'가 3주 방송되고, 이후에는 '무한도전' 레전드편 재편집 방송이 한 달 동안 이어질 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "MBC 예능프로그램 '무한도전'의 수장 김태호 PD가 염원하던 휴식에 관해 '정상화'라고 말했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 MBC 측은 \\\"무한도전이 7주 정도 재정비 기간을 가질 예정\\\"이라고 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 김 PD는 지난달 자신의 SNS 계정에 \\\"이번 크리스마스에 산타클로스가 한 달의 점검 기간과 두 달의 준비기간을 줬으면 좋겠다\\\"며 \\\"에라 모르겠다. 방송국 놈들아. 우리도 살자. 이러다 뭔 일 나겠다\\\"는 글을 게재하며 휴식에 대한 필요성을 강조했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "꾸준히 무한도전의 시즌제 도입을 주장했던 김 PD는 이번 7주간의 결방에 대해 \\\"휴식기, 방학은 모두 틀린 표현\\\"이라며 \\\"그 기간 동안 회의·준비·촬영 전반에 대한 정상화 작업을 한다\\\"고 인터뷰를 통해 전했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 \\\"기획을 준비해서 만드는데 보통 2주가 걸리는데 방송은 매주\\\"라며 \\\"가끔은 토요일이 두려울 때도 있다. 더 충분한 준비를 통해 알차고 재밌는 시간을 만들겠다\\\"는 포부를 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "7주 동안 파일럿 예능 프로그램 '사십춘기'가 3주 방송되고, 이후에는 '무한도전' 레전드편 재편집 방송이 한 달 동안 이어질 예정이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김태호 PD \\\"무한도전 7주 결방, 휴식 아닌 정상화\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277842",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "소녀시대 멤버들이 9년 동안 써니 귀 막아준 이유",
+		"newsSubTitle": "",
+		"newsContent": "소녀시대 멤버들이 써니의 귀를 막아주는 캡처 사진들이 사람들의 궁금증을 자아내고 있다.\n인터넷에 공개돼 있는 여러 사진들에선 멤버들이 큰 소리가 날 때마다 써니의 귀를 막아주고 있다.\n써니는 무대에서 노래하던 도중 갑자기 터진 폭죽에 깜짝 놀라 한동안 안무를 따라하지 못하는 모습을 보인 적도 있다.\n써니는 이에 대해 과거 방송된 KBS 프로그램’샴페인’에서 소녀시대 멤버들이 자신의 귀를 가려주는 이유에 대해 말한 적이 있다.\n써니는 어릴 때 쿠웨이트에 살았다.\n1990년 8월 이라크가 쿠웨이트를 침공하면서 걸프전쟁이 발생했고 당시 태어난 지 얼마 되지 않았던 써니는 피난을 갈 수밖에 없었다.\n걸프전 후유증으로 폭죽소리나 큰 소리가 나오는 무대효과 등에 놀라는 것이다.\n이러한 사실을 아는 소녀시대 멤버들은 폭죽이 터질 때마다 써니의 귀를 가리며 보호해준 것이다.\n실제로 무대에서 소녀시대 멤버들이 써니의 귀를 막아주는 모습이 자주 목격되곤 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소녀시대 멤버들이 써니의 귀를 막아주는 캡처 사진들이 사람들의 궁금증을 자아내고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인터넷에 공개돼 있는 여러 사진들에선 멤버들이 큰 소리가 날 때마다 써니의 귀를 막아주고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "써니는 무대에서 노래하던 도중 갑자기 터진 폭죽에 깜짝 놀라 한동안 안무를 따라하지 못하는 모습을 보인 적도 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "써니는 이에 대해 과거 방송된 KBS 프로그램’샴페인’에서 소녀시대 멤버들이 자신의 귀를 가려주는 이유에 대해 말한 적이 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "써니는 어릴 때 쿠웨이트에 살았다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "1990년 8월 이라크가 쿠웨이트를 침공하면서 걸프전쟁이 발생했고 당시 태어난 지 얼마 되지 않았던 써니는 피난을 갈 수밖에 없었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "걸프전 후유증으로 폭죽소리나 큰 소리가 나오는 무대효과 등에 놀라는 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이러한 사실을 아는 소녀시대 멤버들은 폭죽이 터질 때마다 써니의 귀를 가리며 보호해준 것이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "실제로 무대에서 소녀시대 멤버들이 써니의 귀를 막아주는 모습이 자주 목격되곤 했다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소녀시대 멤버들이 9년 동안 써니 귀 막아준 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

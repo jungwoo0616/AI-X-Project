@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284583",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'런닝맨' 이광수, 조인성에 굴욕 \\\"누구세요? 친하게 생각했다면 미안\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'런닝맨'에서 이광수가 조인성에게 굴욕을 당했다.\n1일 오후 방송된 SBS '일요일이 좋다-런닝맨'에는 '100 대 100' 특집으로 김기태, 이원희, 정두홍, 태미, 노지심이 출연을 했다.\n씨름, 레슬링, 무술, 태권도 선수단 100명과 대결에 앞서 멤버들은 나머지 93명의 멤버를 섭외하느라 정신이 없었다.\n이에 이광수는 조인성에게 전화를 걸었다.\n이광수가 \\\"녹화중이다\\\"라고 말을 걸었지만 조인성은 \\\"누구세요?\\\" \\\"잘못 거셨어요\\\"라고 답했다.\n이광수는 \\\"이 형이 왜 이러지. 정말 친형제 같은 형인데 왜 이런지 모르겠다\\\"고 말했다.\n이후 조인성은 이광수에게 \\\"나는 너의 지인이 아니다. 친하게 생각했다면 미안\\\"이라고 문자를 보냈다.\n이에 유재석은 \\\"인성이 그만 괴롭혀라\\\"고 말해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'런닝맨'에서 이광수가 조인성에게 굴욕을 당했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 오후 방송된 SBS '일요일이 좋다-런닝맨'에는 '100 대 100' 특집으로 김기태, 이원희, 정두홍, 태미, 노지심이 출연을 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "씨름, 레슬링, 무술, 태권도 선수단 100명과 대결에 앞서 멤버들은 나머지 93명의 멤버를 섭외하느라 정신이 없었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이광수는 조인성에게 전화를 걸었다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이광수가 \\\"녹화중이다\\\"라고 말을 걸었지만 조인성은 \\\"누구세요?\\\" \\\"잘못 거셨어요\\\"라고 답했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이광수는 \\\"이 형이 왜 이러지. 정말 친형제 같은 형인데 왜 이런지 모르겠다\\\"고 말했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 조인성은 이광수에게 \\\"나는 너의 지인이 아니다. 친하게 생각했다면 미안\\\"이라고 문자를 보냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 유재석은 \\\"인성이 그만 괴롭혀라\\\"고 말해 웃음을 자아냈다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'런닝맨' 이광수, 조인성에 굴욕 \\\"누구세요? 친하게 생각했다면 미안\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

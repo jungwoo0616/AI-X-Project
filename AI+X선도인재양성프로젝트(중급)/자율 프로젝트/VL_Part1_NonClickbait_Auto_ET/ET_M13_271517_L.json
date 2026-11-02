@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271517",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘맛있는 녀석들’, 김종국은 4시간 운동, 우린 4시간 먹방",
+		"newsSubTitle": "",
+		"newsContent": "‘맛있는 녀석들’ 뚱5가 김종국의 물회 다이어트에 부러움을 내비친다.\n오늘(27일) 저녁 8시 방송되는 채널 IHQ 예능프로그램 ‘맛있는 녀석들’ 379회에서는 ‘날로 먹는 특집’을 진행하는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 전파를 탄다.\n뚱5는 최근 진행된 녹화에서 육회에 이어 물회를 먹으러 나섰다.\n물회에 소면인지 밥인지 팽팽한 논쟁을 벌이던 이들은 남다른 면치기와 밥말이 실력으로 감탄을 자아냈다.\n특히 물회가 다이어트 음식임을 강조하던 뚱5는 홍윤화가 “김종국 오빠가 물회에 회를 추가해서 먹지 않나”라고 운을 떼자 “운동을 4시간씩 하면 뭘 먹어도 살이 안 찔 것 같다”, “우리는 4시간씩 먹고 있는데”라며 부러워해 웃음을 안겼다.\n이후에도 육전과 새우전이 담긴 모둠전으로 끊임없는 먹방을 펼친 뚱5. 결국 물회 대(大) 2개, 소면 10개, 밥 3공기, 모둠전 2개를 먹은 이들은 마지막 입가심으로 녹두전복죽까지 해치워 스태프들을 놀라게 만들었다는 후문이다.\n한편 ‘맛있는 녀석들’ 379회는 오늘(27일) 저녁 8시 채널 IHQ에서 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘맛있는 녀석들’ 뚱5가 김종국의 물회 다이어트에 부러움을 내비친다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(27일) 저녁 8시 방송되는 채널 IHQ 예능프로그램 ‘맛있는 녀석들’ 379회에서는 ‘날로 먹는 특집’을 진행하는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 전파를 탄다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뚱5는 최근 진행된 녹화에서 육회에 이어 물회를 먹으러 나섰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "물회에 소면인지 밥인지 팽팽한 논쟁을 벌이던 이들은 남다른 면치기와 밥말이 실력으로 감탄을 자아냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 물회가 다이어트 음식임을 강조하던 뚱5는 홍윤화가 “김종국 오빠가 물회에 회를 추가해서 먹지 않나”라고 운을 떼자 “운동을 4시간씩 하면 뭘 먹어도 살이 안 찔 것 같다”, “우리는 4시간씩 먹고 있는데”라며 부러워해 웃음을 안겼다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후에도 육전과 새우전이 담긴 모둠전으로 끊임없는 먹방을 펼친 뚱5. 결국 물회 대(大) 2개, 소면 10개, 밥 3공기, 모둠전 2개를 먹은 이들은 마지막 입가심으로 녹두전복죽까지 해치워 스태프들을 놀라게 만들었다는 후문이다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 ‘맛있는 녀석들’ 379회는 오늘(27일) 저녁 8시 채널 IHQ에서 방송된다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘맛있는 녀석들’, 김종국은 4시간 운동, 우린 4시간 먹방",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_271590",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘6시 내고향’ 안성훈, 부산에 떴다",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 부산을 찾아 유쾌한 분위기를 책임졌다.\n안성훈은 27일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.\n안성훈은 부산 영도구에 위치한 남항 시장을 찾았다.\n등장부터 넘치는 텐션으로 이목을 끈 안성훈은 시장 상인들을 만나며 시청자들의 시선을 사로잡았다.\n안성훈은 개업한지 7개월 된 상인을 만나 끝없는 응원으로 힘을 불어넣었고, 친구 덕분에 아내를 만나게 된 상인의 사연에 귀 기울이며 시청자의 몰입력을 더했다.\n상인과의 토크 후 안성훈은 수구레국과 돼지갈비찜을 먹음직스럽게 시식해 시청자들의 군침을 유발하는가 하면, 찰떡같은 리액션으로 ‘먹방의 1인자’다운 활약을 이어갔다.\n곰장어 구이 먹방에 나선 안성훈은 “곰장어 살아있네”라며 사투리 연기에 몰입, 시청자들의 웃음을 저격했다.\n이후 친구들의 응원으로 힘든 시기를 이겨낼 수 있었다는 사연을 털어놓은 상인이 눈물을 보이자, 안성훈은 조용필의 ‘Bounce’를 선곡, 현장의 분위기를 반전시키며 폭소를 유발했다. ‘6시 내고향’을 통해 부산에서도 맹활약을 펼친 안성훈은 앞으로도 종횡무진 활약으로 대중을 찾아갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 부산을 찾아 유쾌한 분위기를 책임졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 27일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안성훈은 부산 영도구에 위치한 남항 시장을 찾았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "등장부터 넘치는 텐션으로 이목을 끈 안성훈은 시장 상인들을 만나며 시청자들의 시선을 사로잡았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안성훈은 개업한지 7개월 된 상인을 만나 끝없는 응원으로 힘을 불어넣었고, 친구 덕분에 아내를 만나게 된 상인의 사연에 귀 기울이며 시청자의 몰입력을 더했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상인과의 토크 후 안성훈은 수구레국과 돼지갈비찜을 먹음직스럽게 시식해 시청자들의 군침을 유발하는가 하면, 찰떡같은 리액션으로 ‘먹방의 1인자’다운 활약을 이어갔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "곰장어 구이 먹방에 나선 안성훈은 “곰장어 살아있네”라며 사투리 연기에 몰입, 시청자들의 웃음을 저격했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 친구들의 응원으로 힘든 시기를 이겨낼 수 있었다는 사연을 털어놓은 상인이 눈물을 보이자, 안성훈은 조용필의 ‘Bounce’를 선곡, 현장의 분위기를 반전시키며 폭소를 유발했다. ‘6시 내고향’을 통해 부산에서도 맹활약을 펼친 안성훈은 앞으로도 종횡무진 활약으로 대중을 찾아갈 예정이다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘6시 내고향’ 안성훈, 부산에 떴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

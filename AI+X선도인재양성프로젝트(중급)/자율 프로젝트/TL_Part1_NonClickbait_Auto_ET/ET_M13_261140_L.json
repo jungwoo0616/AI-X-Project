@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261140",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "박성광 분노 “고양이 학대, 비겁한 짓”→청원 호소",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 박성광이 길고양이 학대 사태에 관한 국민청원 참여를 독려했다.\n15일 박성광은 자신의 사회관계망서비스(SNS)에 “꼭 한 번씩 읽어봐 주시고 청원에 힘이 되어주십시오!”라는 글과 함께 사진을 게재했다.\n사진에는 ‘길고양이를 학대하는 갤러리를 폐쇄하고 엄중한 수사를 해주십시오’라는 청와대 국민청원 안건이 담겨있다.\n박성광은 “정말이지 이해가 안 되고 화가 납니다. 힘이 약하고 말 못하는 동물이라고 학대하고 본인의 화풀이, 재미 상대로 여기는 건 비겁한 행동입니다”라며 분노했다.\n그는 “링크(국민청원)는 제 프로필에 올려두었습니다”라며 청원 동의를 촉구했다.\n지난 3일 시작한 해당 청원에 현재 165,543명이 참여했다. (16일 오후 5시 기준) 박성광은 SNS에 자신의 반려견 광복이와 함께 하는 일상을 공유하는 등 평소 반려동물에 대한 애정을 드러내 왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 박성광이 길고양이 학대 사태에 관한 국민청원 참여를 독려했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 박성광은 자신의 사회관계망서비스(SNS)에 “꼭 한 번씩 읽어봐 주시고 청원에 힘이 되어주십시오!”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 ‘길고양이를 학대하는 갤러리를 폐쇄하고 엄중한 수사를 해주십시오’라는 청와대 국민청원 안건이 담겨있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박성광은 “정말이지 이해가 안 되고 화가 납니다. 힘이 약하고 말 못하는 동물이라고 학대하고 본인의 화풀이, 재미 상대로 여기는 건 비겁한 행동입니다”라며 분노했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “링크(국민청원)는 제 프로필에 올려두었습니다”라며 청원 동의를 촉구했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 3일 시작한 해당 청원에 현재 165,543명이 참여했다. (16일 오후 5시 기준) 박성광은 SNS에 자신의 반려견 광복이와 함께 하는 일상을 공유하는 등 평소 반려동물에 대한 애정을 드러내 왔다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박성광 분노 “고양이 학대, 비겁한 짓”→청원 호소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

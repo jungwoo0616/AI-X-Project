@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273558",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "AB6IX, 일본 팬미팅…감동으로 마무리",
+		"newsSubTitle": "",
+		"newsContent": "AB6IX(에이비식스)가 일본 도쿄 팬미팅을 마쳤다.\nAB6IX는 지난 16, 17일 양일간 일본 요코하마 국제 평화회의장(Pacifico Yokohama)에서 글로벌 팬미팅 투어 ‘AB_NEW AREA(에비뉴 에어리어)’ IN TOKYO를 개최했다.\n지난해 일본에서 발매된 스페셜 앨범 수록곡인 ‘HOLLYWOOD’ 영어 버전을 시작으로 ‘CHERRY’, ‘우리가 헤어졌던 이유’ 일본어 버전 무대를 준비해 팬들을 열광케 했다.\n팬들은 ‘답을 줘 (THE ANSWER)’, ‘1, 2, 3’ 노래에 따라 응원봉을 흔들며 간단한 동작으로 무대 위 멤버들과 호흡을 맞췄다.\n공연 종료 후에는 일본 공식 팬클럽 회원을 대상으로 에어 하이 터치회를 열어 감동적인 현장을 마무리했다.\nAB6IX는 “오랜만에 일본 에비뉴를 만나 정말 행복하고 잊지 못할 시간이었다. 와주셔서 고맙다. 8월에 오사카에서 또 만나자”라며 벅찬 소감을 전했다.\n도쿄 팬들과의 만남을 성공적으로 마친 AB6IX(전웅, 김동현, 박우진, 이대휘)는 20일 뉴욕, 22일 애틀랜타, 24일 시카고, 26일 댈러스, 29일 시애틀, 7월 1일 로스앤젤레스, 8월 22일 오사카, 27일 방콕까지 팬미팅 투어를 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AB6IX(에이비식스)가 일본 도쿄 팬미팅을 마쳤다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AB6IX는 지난 16, 17일 양일간 일본 요코하마 국제 평화회의장(Pacifico Yokohama)에서 글로벌 팬미팅 투어 ‘AB_NEW AREA(에비뉴 에어리어)’ IN TOKYO를 개최했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 일본에서 발매된 스페셜 앨범 수록곡인 ‘HOLLYWOOD’ 영어 버전을 시작으로 ‘CHERRY’, ‘우리가 헤어졌던 이유’ 일본어 버전 무대를 준비해 팬들을 열광케 했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬들은 ‘답을 줘 (THE ANSWER)’, ‘1, 2, 3’ 노래에 따라 응원봉을 흔들며 간단한 동작으로 무대 위 멤버들과 호흡을 맞췄다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공연 종료 후에는 일본 공식 팬클럽 회원을 대상으로 에어 하이 터치회를 열어 감동적인 현장을 마무리했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AB6IX는 “오랜만에 일본 에비뉴를 만나 정말 행복하고 잊지 못할 시간이었다. 와주셔서 고맙다. 8월에 오사카에서 또 만나자”라며 벅찬 소감을 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "도쿄 팬들과의 만남을 성공적으로 마친 AB6IX(전웅, 김동현, 박우진, 이대휘)는 20일 뉴욕, 22일 애틀랜타, 24일 시카고, 26일 댈러스, 29일 시애틀, 7월 1일 로스앤젤레스, 8월 22일 오사카, 27일 방콕까지 팬미팅 투어를 이어간다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AB6IX, 일본 팬미팅…감동으로 마무리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

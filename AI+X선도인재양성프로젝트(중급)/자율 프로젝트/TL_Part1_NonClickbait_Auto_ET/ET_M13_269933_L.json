@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269933",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "비아이, 흑백 포스터로 ‘BTBT’ 분위기 예고",
+		"newsSubTitle": "",
+		"newsContent": "가수 비아이(B.I)가 선공개 싱글 ‘BTBT’로 넓어진 음악적 스펙트럼을 보인다.\n비아이는 12일 0시 사회관계망서비스(SNS)를 통해 D-1 포스터 이미지를 공개했다.\n포스터 이미지 속 비아이는 곡명인 ‘BTBT’의 의미인 ‘비틀비틀’을 표현한 듯한 포즈로 오는 13일 공개되는 음원 발매 시간을 알리고 있다. ‘BTBT’은 비아이와 미국 래퍼 Soulja Boy(솔자보이)가 협업하고, 국내 아티스트 DeVita(드비타)가 피처링에 참여한 곡이다.\n미국 그래미에서 세 번 노미네이트된 프로듀서팀 스테레오타입스도 크레딧에 이름을 올려 곡의 완성도를 높였다. ‘BTBT’는 비아이의 2022 글로벌 앨범 프로젝트 ‘Love or Loved (L.O.L)’ 파트1의 선공개 싱글로 한층 성장한 음악적 스펙트럼을 보여주겠다는 각오가 담겼다.\n솔로 아티스트로 도약한 비아이가 어떤 음악을 선보일지 궁금증이 더해진다.\n한편 비아이는 오는 13일 0시 ‘BTBT’ 뮤직비디오를 공개하며, 같은 날 오후 1시 Soulja Boy의 피처링 구간을 포함한 ‘BTBT’ 정식 음원을 발매한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 비아이(B.I)가 선공개 싱글 ‘BTBT’로 넓어진 음악적 스펙트럼을 보인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비아이는 12일 0시 사회관계망서비스(SNS)를 통해 D-1 포스터 이미지를 공개했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포스터 이미지 속 비아이는 곡명인 ‘BTBT’의 의미인 ‘비틀비틀’을 표현한 듯한 포즈로 오는 13일 공개되는 음원 발매 시간을 알리고 있다. ‘BTBT’은 비아이와 미국 래퍼 Soulja Boy(솔자보이)가 협업하고, 국내 아티스트 DeVita(드비타)가 피처링에 참여한 곡이다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국 그래미에서 세 번 노미네이트된 프로듀서팀 스테레오타입스도 크레딧에 이름을 올려 곡의 완성도를 높였다. ‘BTBT’는 비아이의 2022 글로벌 앨범 프로젝트 ‘Love or Loved (L.O.L)’ 파트1의 선공개 싱글로 한층 성장한 음악적 스펙트럼을 보여주겠다는 각오가 담겼다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "솔로 아티스트로 도약한 비아이가 어떤 음악을 선보일지 궁금증이 더해진다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 비아이는 오는 13일 0시 ‘BTBT’ 뮤직비디오를 공개하며, 같은 날 오후 1시 Soulja Boy의 피처링 구간을 포함한 ‘BTBT’ 정식 음원을 발매한다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비아이, 흑백 포스터로 ‘BTBT’ 분위기 예고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

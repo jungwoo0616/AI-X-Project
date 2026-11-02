@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284080",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "안세하 \\\"공황장애 심해…완치 됐지만 1년에 두 번 정도\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 안세하가 과거 공황장애를 겪은 적이 있다고 밝혔다.\n과거 MBC '신동엽 김구라의 세바퀴'에 출연한 안세하는 \\\"공황장애가 심하다\\\"고 말문을 열었다.\n이에 김구라는 \\\"공황?\\\"이라며 놀라워했다.\nMC 신동엽은 김구라와 안세하를 가리켜 \\\"누가 (공황장애)선배인지 족보를 따져야 한다\\\"고 말했다.\n안세하는 \\\"병원에 세 번 정도 실려 갔다. 지금은 완치됐지만, 1년에 두 번 정도 온다. 서울에 온 것도 공황장애를 이기기 위해 온 것이다\\\"고 말했다.\n한편 안세하가 김풍호 역으로 출연하고 있는 '그녀는 예뻤다'는 꽃미녀에서 폭탄으로 변한 혜진과 뚱뚱남에서 꽃미남으로 변한 성준의 연애 이야기를 다룬 로맨틱 코미디 드라마다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 안세하가 과거 공황장애를 겪은 적이 있다고 밝혔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 MBC '신동엽 김구라의 세바퀴'에 출연한 안세하는 \\\"공황장애가 심하다\\\"고 말문을 열었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 김구라는 \\\"공황?\\\"이라며 놀라워했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MC 신동엽은 김구라와 안세하를 가리켜 \\\"누가 (공황장애)선배인지 족보를 따져야 한다\\\"고 말했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안세하는 \\\"병원에 세 번 정도 실려 갔다. 지금은 완치됐지만, 1년에 두 번 정도 온다. 서울에 온 것도 공황장애를 이기기 위해 온 것이다\\\"고 말했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 안세하가 김풍호 역으로 출연하고 있는 '그녀는 예뻤다'는 꽃미녀에서 폭탄으로 변한 혜진과 뚱뚱남에서 꽃미남으로 변한 성준의 연애 이야기를 다룬 로맨틱 코미디 드라마다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안세하 \\\"공황장애 심해…완치 됐지만 1년에 두 번 정도\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

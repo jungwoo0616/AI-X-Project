@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170070",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘엠카운트다운’ 스카이리, ‘DADADA’로 콘셉트 장인 인증",
+    "newsSubTitle": "",
+    "newsContent": "스카이리가 러블리 펑키로 ‘신흥 콘셉트 장인’ 그룹을 인증했다.\n스카이리(에린, 채현, 지니, 우정)는 30일 Mnet 음악프로그램‘ DA DA DA’에서 후속곡 ‘DA DA DA’(다다다)를 선보였다.\n가창력과 퍼포먼스, 두 마리 토끼를 모두 잡았다.\n가창력과 러블리하면서도 파워풀한 퍼포먼스로 K팝 팬들을 즐겁게 만들었다.\n비주얼 변신도 돋보였다.\n매 무대마다 다른 분위기를 연출하는 ‘신흥 콘셉트 장인’ 다웠다.\n키치하고 펑키한 캐주얼룩과 비주얼로 안방극장 눈길을 끌었다.\n스카이리의 ‘DA DA DA’는 라틴 리듬과 트랩이 어우러진 하이브리드 댄스곡이다.\n사랑하는 사람을 향해 솔직한 애정을 표현하는 가사가 인상적이다.\n스카이리는 오는 10월 1일 KBS2 음악프로그램 ‘뮤직뱅크’(MUSIC BANK)에서 ‘DA DA DA’ 무대를 펼친다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스카이리가 러블리 펑키로 ‘신흥 콘셉트 장인’ 그룹을 인증했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스카이리(에린, 채현, 지니, 우정)는 30일 Mnet 음악프로그램‘ DA DA DA’에서 후속곡 ‘DA DA DA’(다다다)를 선보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가창력과 퍼포먼스, 두 마리 토끼를 모두 잡았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가창력과 러블리하면서도 파워풀한 퍼포먼스로 K팝 팬들을 즐겁게 만들었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비주얼 변신도 돋보였다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "매 무대마다 다른 분위기를 연출하는 ‘신흥 콘셉트 장인’ 다웠다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "키치하고 펑키한 캐주얼룩과 비주얼로 안방극장 눈길을 끌었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "스카이리의 ‘DA DA DA’는 라틴 리듬과 트랩이 어우러진 하이브리드 댄스곡이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사랑하는 사람을 향해 솔직한 애정을 표현하는 가사가 인상적이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "스카이리는 오는 10월 1일 KBS2 음악프로그램 ‘뮤직뱅크’(MUSIC BANK)에서 ‘DA DA DA’ 무대를 펼친다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'엠카' 스카이리, 'DADADA' 무대... 화끈한 新 콘셉트 장인 인증!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

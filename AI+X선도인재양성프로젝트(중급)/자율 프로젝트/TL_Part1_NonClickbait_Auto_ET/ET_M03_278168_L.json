@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278168",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "배우 이수나, 중환자실 입원…“아직 의식 못 찾아”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이수나(69)가 갑자기 쓰러진 뒤 의식을 찾지 못하고 있다는 소식이 알려졌다.\n지난 7일 KBS2 연예 프로그램 ‘연예가중계’는 이수나가 지난 4일 오후 갑자기 쓰러져 서울의 한 병원으로 후송됐다고 보도했다.\n이수나의 딸은 제작진과의 전화 인터뷰에서 “(어머니가) 갑자기 쓰러져서 너무 놀랐다”면서 “중환자실에 있고 아직 의식을 찾지 못한 상태”라고 밝혔다.\n프로그램은 병원에서 혈액 순환 문제를 지적받았으며 여러 종류의 약을 복용 중이라고 밝힌 이수나의 과거 인터뷰 영상을 내보냈다.\n연예가중계 측은 “이수나가 이번에도 고혈압 때문에 쓰러졌다”고 설명했다.\n고려대 법대에 다니기도 한 이수나는 1980년 MBC 탤런트 특채로 데뷔했다.\nMBC ‘전원일기’ 양촌리 부녀회장, 시트콤 ‘안녕, 프란체스카’ 이수나, ‘거침없이 하이킥’ 개성댁 등을 연기하며 강한 인상을 남겼다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이수나(69)가 갑자기 쓰러진 뒤 의식을 찾지 못하고 있다는 소식이 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 7일 KBS2 연예 프로그램 ‘연예가중계’는 이수나가 지난 4일 오후 갑자기 쓰러져 서울의 한 병원으로 후송됐다고 보도했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이수나의 딸은 제작진과의 전화 인터뷰에서 “(어머니가) 갑자기 쓰러져서 너무 놀랐다”면서 “중환자실에 있고 아직 의식을 찾지 못한 상태”라고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프로그램은 병원에서 혈액 순환 문제를 지적받았으며 여러 종류의 약을 복용 중이라고 밝힌 이수나의 과거 인터뷰 영상을 내보냈다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연예가중계 측은 “이수나가 이번에도 고혈압 때문에 쓰러졌다”고 설명했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고려대 법대에 다니기도 한 이수나는 1980년 MBC 탤런트 특채로 데뷔했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "MBC ‘전원일기’ 양촌리 부녀회장, 시트콤 ‘안녕, 프란체스카’ 이수나, ‘거침없이 하이킥’ 개성댁 등을 연기하며 강한 인상을 남겼다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 이수나, 중환자실 입원…“아직 의식 못 찾아”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

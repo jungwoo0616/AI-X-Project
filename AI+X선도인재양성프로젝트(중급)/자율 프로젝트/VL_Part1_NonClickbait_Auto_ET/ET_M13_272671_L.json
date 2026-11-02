@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272671",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "현아, 던 신곡 깜짝 스포…두 볼에 ‘키스 마크’",
+		"newsSubTitle": "",
+		"newsContent": "가수 현아가 연인 던의 신곡 뮤직비디오를 ‘스포일러’ 했다.\n현아는 9일 자신의 사회관계망서비스(SNS) 인스타그램에 “스포! 짠”이라는 글과 함께 던의 신곡 뮤직비디오의 일부를 공개했다.\n영상 속 던은 핑크빛 의상을 입고 기타를 치는 시늉을 하고 있다.\n그의 푸른빛 눈동자와 두 볼에 찍힌 입술 마크가 시선을 사로잡는다.\n해당 영상을 접한 누리꾼들은 “도입부 미쳤다 정말 기대된다” “노래가 너무 좋아서 계속 듣고 있다” “도입 미쳤고 헤메코 미쳤고 분위기 미쳤다” 등 뜨거운 반응을 보였다.\n던은 신곡 ‘Stupid Cool(스투피드 쿨)’로 1년 8개월 만에 솔로로 컴백한다.\n이날 현아의 ‘스포 영상’ 외에 소속사 피네이션을 통해 공개된 던의 새 싱글 ‘Stupid Cool’의 티저 영상 속에서 던은 특유의 나른한 표정은 물론 눈이 즐거운 스타일링으로 시선을 끌었다.\n또 영상 말미에 던의 사진을 직접 촬영하고 있는 현아가 등장해 화제가 되었다.\n한편 던의 새 싱글 ‘Stupid Cool’은 오는 16일 오후 6시에 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 현아가 연인 던의 신곡 뮤직비디오를 ‘스포일러’ 했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현아는 9일 자신의 사회관계망서비스(SNS) 인스타그램에 “스포! 짠”이라는 글과 함께 던의 신곡 뮤직비디오의 일부를 공개했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영상 속 던은 핑크빛 의상을 입고 기타를 치는 시늉을 하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그의 푸른빛 눈동자와 두 볼에 찍힌 입술 마크가 시선을 사로잡는다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 영상을 접한 누리꾼들은 “도입부 미쳤다 정말 기대된다” “노래가 너무 좋아서 계속 듣고 있다” “도입 미쳤고 헤메코 미쳤고 분위기 미쳤다” 등 뜨거운 반응을 보였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "던은 신곡 ‘Stupid Cool(스투피드 쿨)’로 1년 8개월 만에 솔로로 컴백한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 현아의 ‘스포 영상’ 외에 소속사 피네이션을 통해 공개된 던의 새 싱글 ‘Stupid Cool’의 티저 영상 속에서 던은 특유의 나른한 표정은 물론 눈이 즐거운 스타일링으로 시선을 끌었다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 영상 말미에 던의 사진을 직접 촬영하고 있는 현아가 등장해 화제가 되었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 던의 새 싱글 ‘Stupid Cool’은 오는 16일 오후 6시에 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현아, 던 신곡 깜짝 스포…두 볼에 ‘키스 마크’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

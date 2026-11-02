@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274829",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "경맑음 “엄마 사전에 써있나…전 제가 좋아요” 소신 발언",
+		"newsSubTitle": "",
+		"newsContent": "개그맨 정성호 아내 경맑음이 악성 댓글에 대한 심경을 드러냈다.\n경맑음은 지난 5일 인스타그램에 “제가 진짜 궁금해서 그러는데요”라며 글을 올렸다.\n경맑음은 “수영장에서 수영복 입는 대로, 힐 신으면 힐 신은 대로 벗지 마라, 그런 사진 올리지 말아라, 애 엄마는 애 엄마답게 입어라”라며 자신을 비난하는 일부 댓글을 언급했다.\n이어 그는 “엄마 사전 같은 거에 쓰여있나요? 전 제가 좋아요”라며 “수학정석도 아니고”라며 글을 마쳤다.\n경맑음은 지난 2009년 개그맨 정성호와 결혼해 슬하에 2남 2녀를 두고 있다.\n최근 다섯째 임신 소식을 전해 큰 축하를 받기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그맨 정성호 아내 경맑음이 악성 댓글에 대한 심경을 드러냈다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경맑음은 지난 5일 인스타그램에 “제가 진짜 궁금해서 그러는데요”라며 글을 올렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경맑음은 “수영장에서 수영복 입는 대로, 힐 신으면 힐 신은 대로 벗지 마라, 그런 사진 올리지 말아라, 애 엄마는 애 엄마답게 입어라”라며 자신을 비난하는 일부 댓글을 언급했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 그는 “엄마 사전 같은 거에 쓰여있나요? 전 제가 좋아요”라며 “수학정석도 아니고”라며 글을 마쳤다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경맑음은 지난 2009년 개그맨 정성호와 결혼해 슬하에 2남 2녀를 두고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 다섯째 임신 소식을 전해 큰 축하를 받기도 했다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "경맑음 “엄마 사전에 써있나…전 제가 좋아요” 소신 발언",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

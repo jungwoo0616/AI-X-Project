@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170993",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘사랑의 콜센타’ 정영주 “임영웅, 노래의 정서 끝까지 가지고 가” 극찬",
+    "newsSubTitle": "",
+    "newsContent": "‘사랑의 콜센타’ 임영웅과 정영주가 감성을 폭발시켰다.\n26일 오후 방송된 TV CHOSUN ‘사랑의 콜센타’에서는 정영주, 소냐, 김호영, 나비, 손준호가 TOP6와 대결에 나섰다.\n이날 4라운드는 임영웅과 정영주의 대결로 펼쳐졌다.\n부담된다는 정영주는 “정서를 처음부터 끝까지 가지고 간다. 과하지 않고 절제된 것 안에서 할 수 있는 것을 다 보여준다. 놓치는 것을 못 본 것 같다”라며 임영웅의 장점을 술술 말해냈다.\n이때 김성주가 “지금 말씀하신 내용이 정영주 씨 장점이기도 하지 않습니까?”라고 묻자 그는 “저요? 제가 또 감정이입을 잘하죠”라고 답해 웃음 짓게 했다.\n임영웅은 수근 ‘아파요’를 선곡해 전주부터 흥을 돋웠다.\n96점을 받은 임영웅에 이어 정영주는 임주리 ‘립스틱 짙게 바르고’를 선곡해 감정의 끝을 예고했다.\n끝까지 감정선을 놓치지 않은 정영주는 96점을 받아 임영웅과 동점을 냈다.\n한편 ‘사랑의 콜센타’는 매주 목요일 오후 10시 TV CHOSUN에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘사랑의 콜센타’ 임영웅과 정영주가 감성을 폭발시켰다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 오후 방송된 TV CHOSUN ‘사랑의 콜센타’에서는 정영주, 소냐, 김호영, 나비, 손준호가 TOP6와 대결에 나섰다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 4라운드는 임영웅과 정영주의 대결로 펼쳐졌다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부담된다는 정영주는 “정서를 처음부터 끝까지 가지고 간다. 과하지 않고 절제된 것 안에서 할 수 있는 것을 다 보여준다. 놓치는 것을 못 본 것 같다”라며 임영웅의 장점을 술술 말해냈다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때 김성주가 “지금 말씀하신 내용이 정영주 씨 장점이기도 하지 않습니까?”라고 묻자 그는 “저요? 제가 또 감정이입을 잘하죠”라고 답해 웃음 짓게 했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "임영웅은 수근 ‘아파요’를 선곡해 전주부터 흥을 돋웠다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "96점을 받은 임영웅에 이어 정영주는 임주리 ‘립스틱 짙게 바르고’를 선곡해 감정의 끝을 예고했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "끝까지 감정선을 놓치지 않은 정영주는 96점을 받아 임영웅과 동점을 냈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 ‘사랑의 콜센타’는 매주 목요일 오후 10시 TV CHOSUN에서 만나볼 수 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘사랑의 콜센타’ 임영웅에 맞선 '이 사람'의 ‘립스틱 짙게 바르고’... 감성 폭발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

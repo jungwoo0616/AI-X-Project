@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264159",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "에픽하이, 5월 앙코르 콘서트 개최…24일 티켓오픈[공식]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 에픽하이(Epik High)가 앙코르 콘서트로 팬들과 만난다.\n소속사 아워주는 오는 5월 13일부터 15일까지 총 3일간 서울 용산구 블루스퀘어 마스터카드홀에서 2022 앙코르 콘서트 ‘Epik High Is Here Encore’가 개최된다고 17일 밝혔다.\n이번 공연은 지난해 겨울을 뜨겁게 달군 2021 연말 콘서트 ‘Epik High Is Here’의 앙코르 콘서트로 에픽하이는 관객들과의 약속을 지키기 위해 이번 공연을 기획하게 됐다.\n에픽하이는 ‘Epik High Is Here Encore’를 통해 연말 콘서트에 함께하지 못했던 팬들과 에너지 넘치는 공연을 선보일 계획이다.\n2022 앙코르 콘서트 ‘Epik High Is Here Encore’ 티켓은 오는 24일 오후 8시 온라인 예매사이트 인터파크티켓을 통해 오픈된다.\n한편 에픽하이는 지난 1일부터 오는 4월 12일까지 북아메리카 29개 도시를 잇는 북미투어 콘서트를 진행하고 있다.\n북미투어를 마친 후에는 미국 캘리포니아주 인디오에서 열리는 미국 최대 음악 축제 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌 2022’ 무대에도 오르며 쉴 틈 없는 글로벌 행보를 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 에픽하이(Epik High)가 앙코르 콘서트로 팬들과 만난다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 아워주는 오는 5월 13일부터 15일까지 총 3일간 서울 용산구 블루스퀘어 마스터카드홀에서 2022 앙코르 콘서트 ‘Epik High Is Here Encore’가 개최된다고 17일 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공연은 지난해 겨울을 뜨겁게 달군 2021 연말 콘서트 ‘Epik High Is Here’의 앙코르 콘서트로 에픽하이는 관객들과의 약속을 지키기 위해 이번 공연을 기획하게 됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에픽하이는 ‘Epik High Is Here Encore’를 통해 연말 콘서트에 함께하지 못했던 팬들과 에너지 넘치는 공연을 선보일 계획이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2022 앙코르 콘서트 ‘Epik High Is Here Encore’ 티켓은 오는 24일 오후 8시 온라인 예매사이트 인터파크티켓을 통해 오픈된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 에픽하이는 지난 1일부터 오는 4월 12일까지 북아메리카 29개 도시를 잇는 북미투어 콘서트를 진행하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "북미투어를 마친 후에는 미국 캘리포니아주 인디오에서 열리는 미국 최대 음악 축제 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌 2022’ 무대에도 오르며 쉴 틈 없는 글로벌 행보를 이어간다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에픽하이, 5월 앙코르 콘서트 개최…24일 티켓오픈[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

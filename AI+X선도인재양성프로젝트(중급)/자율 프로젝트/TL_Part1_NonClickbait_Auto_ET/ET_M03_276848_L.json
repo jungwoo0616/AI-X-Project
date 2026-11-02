@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276848",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "행사장에 등장한 트와이스 '도촬' 논란",
+		"newsSubTitle": "",
+		"newsContent": "한 남성이 걸그룹 '트와이스' 행사장에서 멤버들의 다리 등을 '도촬'(도둑촬영)했다는 주장이 제기돼 논란이 일고 있다.\n14일 경기 과천 서울대공원에서 열린 포카리스웨트 30주년 기념 '블루런' 행사에 참석한 트와이스를 몰래 촬영하는 듯한 남성의 모습이 포착됐다.\n트와이스 팬들은 \\\"공개된 사진 속 흰 티셔츠를 입은 남성이 트와이스 멤버들의 치마 밑과 허벅지 부분을 촬영한 것으로 의심된다\\\"고 주장했다.\n특히 사진에서 이 남성이 스마트폰을 세로로 쥔 채 부자연스러운 손 모양을 하고 있어 도촬 의심이 더욱 증폭됐다.\n또 이 남성이 행사장 바리케이드 안쪽에 있는 것으로 보아 행사 관계자일 수 있다는 추측도 나왔다.\n해당 남성이 실제 트와이스 멤버들을 도촬한 것인지는 확인되지 않고 있으나, 이 같은 사진이 인터넷상 확산하면서 논란을 낳고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한 남성이 걸그룹 '트와이스' 행사장에서 멤버들의 다리 등을 '도촬'(도둑촬영)했다는 주장이 제기돼 논란이 일고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 경기 과천 서울대공원에서 열린 포카리스웨트 30주년 기념 '블루런' 행사에 참석한 트와이스를 몰래 촬영하는 듯한 남성의 모습이 포착됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "트와이스 팬들은 \\\"공개된 사진 속 흰 티셔츠를 입은 남성이 트와이스 멤버들의 치마 밑과 허벅지 부분을 촬영한 것으로 의심된다\\\"고 주장했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 사진에서 이 남성이 스마트폰을 세로로 쥔 채 부자연스러운 손 모양을 하고 있어 도촬 의심이 더욱 증폭됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 이 남성이 행사장 바리케이드 안쪽에 있는 것으로 보아 행사 관계자일 수 있다는 추측도 나왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 남성이 실제 트와이스 멤버들을 도촬한 것인지는 확인되지 않고 있으나, 이 같은 사진이 인터넷상 확산하면서 논란을 낳고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "행사장에 등장한 트와이스 '도촬' 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

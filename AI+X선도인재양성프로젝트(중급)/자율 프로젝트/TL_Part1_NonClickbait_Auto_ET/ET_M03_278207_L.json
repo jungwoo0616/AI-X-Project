@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278207",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "차지연, 임신 9주차 \\\"동료들 배려 속에 '위키드' 연습 매진 중\\\"",
+		"newsSubTitle": "",
+		"newsContent": "뮤지컬 배우 차지연이 현재 임신 9주차인 것으로 알려졌다.\n차지연 측은 \\\"임신 9주차가 맞다\\\"며 \\\"현재 제작팀과 동료 배우들의 배려 속에 뮤지컬 '위키드' 연습에 매진 중\\\"이라고 전했다.\n차지연은 지난해 11월 4살 연하의 뮤지컬 배우 윤은채와 결혼했다.\n차지연은 2006년 뮤지컬 '라이온 킹'으로 데뷔해 '서편제' '아이다' '레베카'등으로 사랑을 받았다.\n최근에는 MBC '복면가왕'에 출연, '캣츠걸'로 5연승을 해 인기를 누렸다.\n차지연이 출연 중인 ‘위키드’는 오는 5월 대구에서 첫선을 보인 후 7월 12일부터 서울 예술의전당 오페라극장에서 공연된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤지컬 배우 차지연이 현재 임신 9주차인 것으로 알려졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차지연 측은 \\\"임신 9주차가 맞다\\\"며 \\\"현재 제작팀과 동료 배우들의 배려 속에 뮤지컬 '위키드' 연습에 매진 중\\\"이라고 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "차지연은 지난해 11월 4살 연하의 뮤지컬 배우 윤은채와 결혼했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차지연은 2006년 뮤지컬 '라이온 킹'으로 데뷔해 '서편제' '아이다' '레베카'등으로 사랑을 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근에는 MBC '복면가왕'에 출연, '캣츠걸'로 5연승을 해 인기를 누렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "차지연이 출연 중인 ‘위키드’는 오는 5월 대구에서 첫선을 보인 후 7월 12일부터 서울 예술의전당 오페라극장에서 공연된다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "차지연, 임신 9주차 \\\"동료들 배려 속에 '위키드' 연습 매진 중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

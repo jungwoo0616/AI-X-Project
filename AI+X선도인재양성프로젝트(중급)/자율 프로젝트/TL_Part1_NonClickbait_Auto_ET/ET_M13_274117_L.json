@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274117",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "피싱걸스 펑크록, 춘천을 물들이다",
+		"newsSubTitle": "",
+		"newsContent": "여성 3인조 밴드 피싱걸스가 ‘호반의 도시’ 춘천을 펑크록으로 물들였다.\n지난 25일 피싱걸스는 KT&G 춘천 상상마당 춘천에서 열린 ‘Studio C 피싱걸스 단독 콘서트’를 열었다.\n춘천에서 펼쳐진 이번 단독 공연에서 피싱걸스의 멤버 비엔나핑거(보컬, 기타), 유유(드럼), 쁘띠(베이스)는 신곡을 포함해 총 17곡의 다채로운 셋리스트로 관객들을 열광의 도가니로 몰아넣었다.\n리더 비엔나핑거는 그들의 히트곡 ‘응 니얼굴’, ‘낚시왕’, ‘DDANCE’ 등과 앙코르곡으로 ‘오천주’까지 총 17곡을 열창하며 특유의 에너지 넘치는 퍼포먼스로 공연장의 열기를 끌어올렸으며, 드러머 유유와 베이시스트 쁘띠는 열정적인 연주와 함께 공연 중간에 토크 이벤트를 진행하며 색다른 모습을 보여주기도 했다.\n또한 피싱걸스는 공연 후 팬들과 함께 폴라로이드 사진 이벤트 등 다양한 팬서비스를 선사하며 마지막까지 못할 추억들을 안겼다.\n팬데믹 이후 다양한 방송과 공연 활동을 보여주고 있는 피싱걸스는 이번 춘천에서 펼쳐진 단독 콘서트를 기점으로 더욱 활발한 활동을 보여주겠다는 약속을 하며 다음 행보를 기약했다.\n한편 피싱걸스는 각종 무대 및 공연을 통해 대중들을 찾을 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "여성 3인조 밴드 피싱걸스가 ‘호반의 도시’ 춘천을 펑크록으로 물들였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 25일 피싱걸스는 KT&G 춘천 상상마당 춘천에서 열린 ‘Studio C 피싱걸스 단독 콘서트’를 열었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "춘천에서 펼쳐진 이번 단독 공연에서 피싱걸스의 멤버 비엔나핑거(보컬, 기타), 유유(드럼), 쁘띠(베이스)는 신곡을 포함해 총 17곡의 다채로운 셋리스트로 관객들을 열광의 도가니로 몰아넣었다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리더 비엔나핑거는 그들의 히트곡 ‘응 니얼굴’, ‘낚시왕’, ‘DDANCE’ 등과 앙코르곡으로 ‘오천주’까지 총 17곡을 열창하며 특유의 에너지 넘치는 퍼포먼스로 공연장의 열기를 끌어올렸으며, 드러머 유유와 베이시스트 쁘띠는 열정적인 연주와 함께 공연 중간에 토크 이벤트를 진행하며 색다른 모습을 보여주기도 했다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 피싱걸스는 공연 후 팬들과 함께 폴라로이드 사진 이벤트 등 다양한 팬서비스를 선사하며 마지막까지 못할 추억들을 안겼다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬데믹 이후 다양한 방송과 공연 활동을 보여주고 있는 피싱걸스는 이번 춘천에서 펼쳐진 단독 콘서트를 기점으로 더욱 활발한 활동을 보여주겠다는 약속을 하며 다음 행보를 기약했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 피싱걸스는 각종 무대 및 공연을 통해 대중들을 찾을 예정이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피싱걸스 펑크록, 춘천을 물들이다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

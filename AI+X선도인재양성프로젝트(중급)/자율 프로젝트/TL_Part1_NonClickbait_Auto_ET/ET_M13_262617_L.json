@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262617",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘금의환향’ 이정재 “결국 선한 이가 승리한다”",
+		"newsSubTitle": "",
+		"newsContent": "넷플릭스 시리즈 ‘오징어 게임’으로 미국 배우 조합상(SAG) 남우주연상을 수상한 이정재가 돌아왔다.\n이정재는 2일 오후 인천국제공항을 통해 입국했다.\n배우 조합상 시상식 참석으로 미국행 비행기에 올랐던 이정재는 남우주연상 트로피와 함께 금의환향했다.\n이날 귀국한 이정재는 미소를 띈 채 카메라를 향해 손을 흔든 후 별다른 언급 없이 이동했다.\n그는 이후 소속사를 통해 “많은 축하를 해주신 국내 관객 여러분들께 감사드린다. 또 ‘오징어 게임’을 사랑해주신 전세계 시청자 분들께도 감사하다. 성기훈을 통해 결국 선한 이가 승리할 수 있다는 모습이 많은 분들께 희망이 됐으면 한다. 함께한 우리 ‘오징어 게임’ 팀의 모든 동료 분들께도 감사하다. 이 상은 모두의 성과라 생각한다. 모두 건강 조심하시고 앞으로도 좋은 활동을 통해 인사드리겠다”고 귀국 소감을 전했다.\n이정재가 주연으로 활약한 넷플릭스 드라마 ‘오징어 게임’은 지난달 27일(현지시간) 열린 SAG 시상식에서 남우주연상, 여우주연상(정호연), TV 드라마 스턴트 부문 앙상블상을 받으며 3관왕에 올랐다.\n이정재는 한국 남자 배우 최초로 미국 배우 조합상(SAG) 남우주연상을 수상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷플릭스 시리즈 ‘오징어 게임’으로 미국 배우 조합상(SAG) 남우주연상을 수상한 이정재가 돌아왔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이정재는 2일 오후 인천국제공항을 통해 입국했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배우 조합상 시상식 참석으로 미국행 비행기에 올랐던 이정재는 남우주연상 트로피와 함께 금의환향했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 귀국한 이정재는 미소를 띈 채 카메라를 향해 손을 흔든 후 별다른 언급 없이 이동했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 이후 소속사를 통해 “많은 축하를 해주신 국내 관객 여러분들께 감사드린다. 또 ‘오징어 게임’을 사랑해주신 전세계 시청자 분들께도 감사하다. 성기훈을 통해 결국 선한 이가 승리할 수 있다는 모습이 많은 분들께 희망이 됐으면 한다. 함께한 우리 ‘오징어 게임’ 팀의 모든 동료 분들께도 감사하다. 이 상은 모두의 성과라 생각한다. 모두 건강 조심하시고 앞으로도 좋은 활동을 통해 인사드리겠다”고 귀국 소감을 전했다.",
+				"sentenceSize": 234
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이정재가 주연으로 활약한 넷플릭스 드라마 ‘오징어 게임’은 지난달 27일(현지시간) 열린 SAG 시상식에서 남우주연상, 여우주연상(정호연), TV 드라마 스턴트 부문 앙상블상을 받으며 3관왕에 올랐다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이정재는 한국 남자 배우 최초로 미국 배우 조합상(SAG) 남우주연상을 수상했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘금의환향’ 이정재 “결국 선한 이가 승리한다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280084",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "라디오스타 이태성 \\\"5살 아들 있다\\\" 고백… 싱글 대디라 힘든 점은? \\\"다 힘들다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배우 이태성이 5살 아들을 둔 '싱글 대디'라고 밝혔다.\n6일 방송된 MBC 예능프로그램 '황금어장-라디오스타'에는 배우 김승우, 김정태, 오만석, 이태성이 게스트로 출연했다.\n이날 이태성은 \\\"싱글 대디라 힘든 점은 없냐?\\\"는 윤종신의 물음에 \\\"다 힘들다.당시 군 복무 중에 겪은 일이라 더 힘들었다\\\"고 말했다.\n이에 김구라는 \\\"아이는 몇 살이냐? 일할 때 아이는 누가 봐주냐?\\\"고 물었고, 이태성은 \\\"다섯 살이고 부모님이 봐주신다\\\"고 답했다.\n김구라는 \\\"좋은 여자 만나야지. 여배우하고 사랑에 빠져라\\\"라고 말해 웃음을 자아냈다.\n이태성은 지난 2012년 SNS를 통해 7세 연상 일반인과의 혼인신고를 했으면 돌 지난 아들이 있다는 사실을 밝혔다.\n그러나 이태성은 군 복무 중이었던 지난해 초 성격차이 등의 이유로 이혼했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이태성이 5살 아들을 둔 '싱글 대디'라고 밝혔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 방송된 MBC 예능프로그램 '황금어장-라디오스타'에는 배우 김승우, 김정태, 오만석, 이태성이 게스트로 출연했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 이태성은 \\\"싱글 대디라 힘든 점은 없냐?\\\"는 윤종신의 물음에 \\\"다 힘들다.당시 군 복무 중에 겪은 일이라 더 힘들었다\\\"고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 김구라는 \\\"아이는 몇 살이냐? 일할 때 아이는 누가 봐주냐?\\\"고 물었고, 이태성은 \\\"다섯 살이고 부모님이 봐주신다\\\"고 답했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김구라는 \\\"좋은 여자 만나야지. 여배우하고 사랑에 빠져라\\\"라고 말해 웃음을 자아냈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이태성은 지난 2012년 SNS를 통해 7세 연상 일반인과의 혼인신고를 했으면 돌 지난 아들이 있다는 사실을 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 이태성은 군 복무 중이었던 지난해 초 성격차이 등의 이유로 이혼했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라디오스타 이태성 \\\"5살 아들 있다\\\" 고백… 싱글 대디라 힘든 점은? \\\"다 힘들다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

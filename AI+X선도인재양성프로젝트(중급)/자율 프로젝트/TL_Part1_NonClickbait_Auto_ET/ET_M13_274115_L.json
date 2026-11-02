@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274115",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김호중 X 플라시도 도밍고, 협연 성료",
+		"newsSubTitle": "",
+		"newsContent": "‘트바로티’ 김호중과 ‘세계 3대 테너’ 플라시도 도밍고의 협연이 성황리에 막을 내렸다.\n김호중은 지난 26일 부산 영화의전당 야외극장에서 개최된 성악가 플라시도 도밍고의 내한 공연 ‘Placido domingo Live in Busan 2022’에 참석, 성공적인 듀엣 무대를 선보였다.\n이번 ‘Placido domingo Live in Busan 2022’는 플라시도 도밍고가 직접 김호중에게 자필 편지를 보내며 이뤄진 협연으로 둘의 만남 성사는 화제를 모았다.\n플라시도 도밍고와 김호중은 첫 듀엣 공연에서 관객들에게 깊은 감동과 여운을 남겼다. ‘트바로티’라는 호칭을 통해 성악가 캐릭터를 선보여온 김호중은 이번 공연을 통해 가창력을 뽐내며 가수로서의 입지를 드러냈다.\n김호중은 소집해제 이후 열일 행보를 이어가고 있다.\n최근 KBS1 ‘2022 평화콘서트’에서는 실향민들을 위한 가창으로 위로를 건넨 바 있다.\n한편 김호중은 오는 9월 30일부터 10월 2일까지 서울 올림픽체조경기장에서 전국투어 콘서트를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘트바로티’ 김호중과 ‘세계 3대 테너’ 플라시도 도밍고의 협연이 성황리에 막을 내렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김호중은 지난 26일 부산 영화의전당 야외극장에서 개최된 성악가 플라시도 도밍고의 내한 공연 ‘Placido domingo Live in Busan 2022’에 참석, 성공적인 듀엣 무대를 선보였다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 ‘Placido domingo Live in Busan 2022’는 플라시도 도밍고가 직접 김호중에게 자필 편지를 보내며 이뤄진 협연으로 둘의 만남 성사는 화제를 모았다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "플라시도 도밍고와 김호중은 첫 듀엣 공연에서 관객들에게 깊은 감동과 여운을 남겼다. ‘트바로티’라는 호칭을 통해 성악가 캐릭터를 선보여온 김호중은 이번 공연을 통해 가창력을 뽐내며 가수로서의 입지를 드러냈다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김호중은 소집해제 이후 열일 행보를 이어가고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 KBS1 ‘2022 평화콘서트’에서는 실향민들을 위한 가창으로 위로를 건넨 바 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 김호중은 오는 9월 30일부터 10월 2일까지 서울 올림픽체조경기장에서 전국투어 콘서트를 개최한다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김호중 X 플라시도 도밍고, 협연 성료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274575",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘놀면 뭐하니?’ 박진주, 팔색조 마력",
+		"newsSubTitle": "",
+		"newsContent": "배우 박진주가 주말 시청자들에게 기분 좋은 에너지를 선사했다.\n박진주는 2일 방송된 MBC 예능 프로그램 ‘놀면 뭐하니?’에 출연해 시소팀 멤버들과 함께 데뷔를 준비하는 모습이 그려졌다.\n이날 방송에서 박진주는 폭풍 먹방을 펼치는가 하면, 힙한 패션으로 방구석 런웨이를 선보이며 시선을 사로잡았다.\n또한 시소팀 멤버들과 함께 윤은혜의 집에 방문 “걸그룹 느낌 나온다”라는 김숙의 말에 곧바로 표정을 지으며 걸그룹에 과몰입한 모습으로 웃음을 자아냈다.\n이어 박진주는 데뷔곡 ‘Clink Clink(클링크 클링크)’ 녹음 현장에서 청량한 음색으로 곡을 완벽하게 소화하며, 공개될 정식 음원에 대한 궁금증을 한껏 높였다.\n이처럼 박진주는 남다른 예능감과 뛰어난 노래 실력으로 안방극장에 유쾌한 에너지를 선사했다.\n한편 박진주는 다양한 작품과 예능에도 출연하며 만능 엔터테이너로서 행보를 보이고 있다.\n최근에는 웨이브 오리지널 ‘위기의 X’ 출연을 확정지으며 열일 행보를 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 박진주가 주말 시청자들에게 기분 좋은 에너지를 선사했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박진주는 2일 방송된 MBC 예능 프로그램 ‘놀면 뭐하니?’에 출연해 시소팀 멤버들과 함께 데뷔를 준비하는 모습이 그려졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 박진주는 폭풍 먹방을 펼치는가 하면, 힙한 패션으로 방구석 런웨이를 선보이며 시선을 사로잡았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 시소팀 멤버들과 함께 윤은혜의 집에 방문 “걸그룹 느낌 나온다”라는 김숙의 말에 곧바로 표정을 지으며 걸그룹에 과몰입한 모습으로 웃음을 자아냈다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 박진주는 데뷔곡 ‘Clink Clink(클링크 클링크)’ 녹음 현장에서 청량한 음색으로 곡을 완벽하게 소화하며, 공개될 정식 음원에 대한 궁금증을 한껏 높였다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이처럼 박진주는 남다른 예능감과 뛰어난 노래 실력으로 안방극장에 유쾌한 에너지를 선사했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 박진주는 다양한 작품과 예능에도 출연하며 만능 엔터테이너로서 행보를 보이고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근에는 웨이브 오리지널 ‘위기의 X’ 출연을 확정지으며 열일 행보를 이어가고 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘놀면 뭐하니?’ 박진주, 팔색조 마력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

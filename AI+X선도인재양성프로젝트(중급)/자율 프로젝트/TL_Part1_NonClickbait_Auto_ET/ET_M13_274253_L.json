@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274253",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "세븐틴 ‘빌보드 200’ 3주연속 차트인",
+		"newsSubTitle": "",
+		"newsContent": "세븐틴이 미국 ‘빌보드 200’ 차트를 3주 연속 강타했다.\n그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)은 정규 4집으로 또 한 번 ‘커리어 하이’를 달성했다.\n28일(현지 시간) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(7월 2일 자)에 따르면, 세븐틴이 지난달 27일 발매한 정규 4집 ‘Face the Sun’이 메인 앨범 차트인 ‘빌보드 200’에서 92위에 올랐다.\n세븐틴은 ‘Face the Sun’으로 6월 18일 자 ‘빌보드 200’ 차트에 7위로 첫 진입 했고, 25일 자 차트에서 23위, 7월 2일 자 차트에서는 92위에 오르며 3주 연속 차트인에 성공했다.\n이로써 세븐틴은 지금까지 발표한 앨범 중 가장 긴 기간 ‘빌보드 200’ 차트에 랭킹됐다.\n또한 ‘Face the Sun’은 ‘월드 앨범’ 차트 2위, ‘톱 커런트 앨범 세일즈’ 차트 8위, ‘톱 앨범 세일즈’ 차트 10위를 기록했다.\n한편, 세븐틴은 내달 18일 오후 6시 정규 4집 리패키지 앨범 ‘SECTOR 17’(섹터 17)을 발매한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세븐틴이 미국 ‘빌보드 200’ 차트를 3주 연속 강타했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)은 정규 4집으로 또 한 번 ‘커리어 하이’를 달성했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "28일(현지 시간) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(7월 2일 자)에 따르면, 세븐틴이 지난달 27일 발매한 정규 4집 ‘Face the Sun’이 메인 앨범 차트인 ‘빌보드 200’에서 92위에 올랐다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세븐틴은 ‘Face the Sun’으로 6월 18일 자 ‘빌보드 200’ 차트에 7위로 첫 진입 했고, 25일 자 차트에서 23위, 7월 2일 자 차트에서는 92위에 오르며 3주 연속 차트인에 성공했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이로써 세븐틴은 지금까지 발표한 앨범 중 가장 긴 기간 ‘빌보드 200’ 차트에 랭킹됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 ‘Face the Sun’은 ‘월드 앨범’ 차트 2위, ‘톱 커런트 앨범 세일즈’ 차트 8위, ‘톱 앨범 세일즈’ 차트 10위를 기록했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 세븐틴은 내달 18일 오후 6시 정규 4집 리패키지 앨범 ‘SECTOR 17’(섹터 17)을 발매한다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐틴 ‘빌보드 200’ 3주연속 차트인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

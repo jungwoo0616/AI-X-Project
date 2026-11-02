@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267579",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "봄내음 안은 소유, 1년만에 돌아오다",
+		"newsSubTitle": "",
+		"newsContent": "‘솔로 히트곡 장인’ 가수 소유가 돌아온다.\n소유 소속사 빅플래닛메이드는 “소유가 오는 27일 오후 6시 새 미니앨범 ‘데이엔나이트’(Day&Night)를 발매한다”고 21일 밝혔다. ‘데이엔나이트’는 소유가 지난해 3월 발표한 싱글 ‘굿 나이트 마이 러브’(Good Night MY LOVE) 이후 약 1년 1개월 만에 발매하는 신보이자 새 소속사 이적 후 발표하는 첫 앨범이다.\n이번에 공개된 이미지에서 소유는 푸른 들판과 청량한 하늘을 배경으로 화사한 분위기를 자아내고 있다.\n소유가 어떠한 음악으로 봄을 표현하고, 리스너의 귀를 사로잡을 지 관심이 집중된다.\n소유는 그간 ‘기우는 밤’ ‘까만 밤’ ‘가라고’(GOTTA GO) 등을 발표하며 솔로 가수로서의 입지를 다졌다.\n각종 인기드라마 OST 및 다수의 듀엣곡이 참여하며 넓은 음악적 스펙트럼을 알려왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘솔로 히트곡 장인’ 가수 소유가 돌아온다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소유 소속사 빅플래닛메이드는 “소유가 오는 27일 오후 6시 새 미니앨범 ‘데이엔나이트’(Day&Night)를 발매한다”고 21일 밝혔다. ‘데이엔나이트’는 소유가 지난해 3월 발표한 싱글 ‘굿 나이트 마이 러브’(Good Night MY LOVE) 이후 약 1년 1개월 만에 발매하는 신보이자 새 소속사 이적 후 발표하는 첫 앨범이다.",
+				"sentenceSize": 188
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 공개된 이미지에서 소유는 푸른 들판과 청량한 하늘을 배경으로 화사한 분위기를 자아내고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소유가 어떠한 음악으로 봄을 표현하고, 리스너의 귀를 사로잡을 지 관심이 집중된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소유는 그간 ‘기우는 밤’ ‘까만 밤’ ‘가라고’(GOTTA GO) 등을 발표하며 솔로 가수로서의 입지를 다졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각종 인기드라마 OST 및 다수의 듀엣곡이 참여하며 넓은 음악적 스펙트럼을 알려왔다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "봄내음 안은 소유, 1년만에 돌아오다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

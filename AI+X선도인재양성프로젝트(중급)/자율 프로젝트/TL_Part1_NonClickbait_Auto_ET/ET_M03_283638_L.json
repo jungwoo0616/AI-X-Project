@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283638",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "그녀는 예뻤다 정다빈, '문채원' 닮은꼴 '정변' 화제",
+		"newsSubTitle": "",
+		"newsContent": "'그녀는 예뻤다 마지막회' '정다빈' '그녀는 예뻤다 종방연' 배우 정다빈이 화제인 가운데 그의 일상 모습이 눈길을 끈다.\n정다빈은 지난달 29일 자신의 인스타그램에 사진 한 장을 게재했다.\n공개된 사진 속 정다빈은 화사한 미소로 카메라를 응시한 채 상큼한 매력을 뽐냈다.\n정다빈의 사랑스러운 미모와 함께 깜찍한 표정이 눈길을 끌었다.\n정다빈은 과거 '아이스크림 소녀'라는 애칭으로 큰 사랑을 받았다.\n이에 네티즌들은 \\\"정다빈 그녀는 예뻤다!\\\" \\\"정다빈 정변의 좋은 예~!\\\" \\\"정다빈 이대로만 자라다오!\\\" \\\"정다빈 벌써 숙녀 다 됐네!\\\" 등 다양한 반응을 보였다.\n한편, 정다빈은 김혜린 역으로 MBC 수목드라마 '그녀는 예뻤다'에 출연했다.\n정다빈은 11일 서울 여의도의 한 음식점에서 열린 '그녀는 예뻤다' 종방연에도 참석했다. '그녀는 예뻤다 마지막회' '정다빈' '그녀는 예뻤다 종방연' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'그녀는 예뻤다 마지막회' '정다빈' '그녀는 예뻤다 종방연' 배우 정다빈이 화제인 가운데 그의 일상 모습이 눈길을 끈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정다빈은 지난달 29일 자신의 인스타그램에 사진 한 장을 게재했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진 속 정다빈은 화사한 미소로 카메라를 응시한 채 상큼한 매력을 뽐냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정다빈의 사랑스러운 미모와 함께 깜찍한 표정이 눈길을 끌었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정다빈은 과거 '아이스크림 소녀'라는 애칭으로 큰 사랑을 받았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 네티즌들은 \\\"정다빈 그녀는 예뻤다!\\\" \\\"정다빈 정변의 좋은 예~!\\\" \\\"정다빈 이대로만 자라다오!\\\" \\\"정다빈 벌써 숙녀 다 됐네!\\\" 등 다양한 반응을 보였다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 정다빈은 김혜린 역으로 MBC 수목드라마 '그녀는 예뻤다'에 출연했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정다빈은 11일 서울 여의도의 한 음식점에서 열린 '그녀는 예뻤다' 종방연에도 참석했다. '그녀는 예뻤다 마지막회' '정다빈' '그녀는 예뻤다 종방연' 온라인 중앙일보",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그녀는 예뻤다 정다빈, '문채원' 닮은꼴 '정변' 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

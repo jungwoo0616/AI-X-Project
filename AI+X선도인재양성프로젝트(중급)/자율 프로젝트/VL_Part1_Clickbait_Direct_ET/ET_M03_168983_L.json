@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168983",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "산속, 바닷가에서 하는 시원한 다이빙",
+    "newsSubTitle": "",
+    "newsContent": "'쉬비 스타일리 밤 스쿼드(The Shibby Stylee Bomb Squad)'는 절벽 다이빙의 열렬한 지지자들로 구성되어 있는 그룹입니다.\n이들은 절벽이나 폭포, 높고 조그마한 바위섬 등을 찾아서 다이빙을 합니다.\n하와이에서 절벽 다이빙은 꽤 흔합니다.\n하지만 굉장히 위험한 행동이기에 하와이에선 때때로 안전을 이유로 그룹 단위의 활동을 금지하기도 합니다.\n뛰어내릴 준비를 마친 이들은 빙글빙글 돌며 바닷속, 강 속으로 풍덩 빠지는데요.\n쉽게 도전하지 못하는 아찔한 절벽 다이빙을 느껴보시기 바랍니다.\n온라인 중앙일보 [영상 유튜브 shibbystylee]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'쉬비 스타일리 밤 스쿼드(The Shibby Stylee Bomb Squad)'는 절벽 다이빙의 열렬한 지지자들로 구성되어 있는 그룹입니다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이들은 절벽이나 폭포, 높고 조그마한 바위섬 등을 찾아서 다이빙을 합니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하와이에서 절벽 다이빙은 꽤 흔합니다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 굉장히 위험한 행동이기에 하와이에선 때때로 안전을 이유로 그룹 단위의 활동을 금지하기도 합니다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뛰어내릴 준비를 마친 이들은 빙글빙글 돌며 바닷속, 강 속으로 풍덩 빠지는데요.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "쉽게 도전하지 못하는 아찔한 절벽 다이빙을 느껴보시기 바랍니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [영상 유튜브 shibbystylee]",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하와이에선 흔한 절벽 다이빙... 유의점은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

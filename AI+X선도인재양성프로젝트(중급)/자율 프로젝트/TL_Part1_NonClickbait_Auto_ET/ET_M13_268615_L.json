@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268615",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "서이숙 측, 사망설 유포자에 “선처 없다”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "배우 서이숙 측이 사망설을 유포했던 누리꾼에 대한 입장을 밝혔다.\n29일 소속사 퀀텀이엔엠 측은 서이숙의 사망설을 유포한 누리꾼 A씨에 대해 소속사 퀀텀이엔엠 측이 선처는 없다는 공식 입장을 밝혔다.\nA씨는 지난 해 7월과 9월 두 차례에 걸쳐 한 온라인 커뮤니티에 서이숙이 심장마비로 사망했다는 글을 기사 형식으로 작성해 유포한 혐의다.\n해당 게시글은 실제 한 언론 매체의 이름과 가상의 기자 이름까지 명시되어 있어 이를 접한 수많은 네티즌은 물론 연예계가 큰 혼란에 휩싸이기도 했다.\n소속사 측은 많은 대중에게 혼란을 야기하고 배우 본인의 참담한 심경은 이루 말할 수 없으며 무엇보다 무분별한 가짜 뉴스로 인한 추가 피해를 막기 위해 좌시할 수 없다고 판단, 지난 9월 마포경찰서에 사건을 접수했다.\n경찰은 글 작성에 사용된 IP 주소를 확보, 추적하여 A씨가 당시 군인 신분임을 확인해 군 검찰에 사건을 이첩했고, 조사 기간 중 A씨는 만기 전역하여 현재는 민간인 신분으로 법의 심판을 받을 예정이다.\n소속사 측은 “당사는 앞으로도 소속 배우들의 인격과 권익 보호를 위해 더욱 노력할 것이며, 이를 훼손하는 모든 악의적 행위들에 대해 선처와 합의 없는 강력한 법적 대응을 진행할 것임을 분명히 밝힌다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 서이숙 측이 사망설을 유포했던 누리꾼에 대한 입장을 밝혔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 소속사 퀀텀이엔엠 측은 서이숙의 사망설을 유포한 누리꾼 A씨에 대해 소속사 퀀텀이엔엠 측이 선처는 없다는 공식 입장을 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 지난 해 7월과 9월 두 차례에 걸쳐 한 온라인 커뮤니티에 서이숙이 심장마비로 사망했다는 글을 기사 형식으로 작성해 유포한 혐의다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 게시글은 실제 한 언론 매체의 이름과 가상의 기자 이름까지 명시되어 있어 이를 접한 수많은 네티즌은 물론 연예계가 큰 혼란에 휩싸이기도 했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사 측은 많은 대중에게 혼란을 야기하고 배우 본인의 참담한 심경은 이루 말할 수 없으며 무엇보다 무분별한 가짜 뉴스로 인한 추가 피해를 막기 위해 좌시할 수 없다고 판단, 지난 9월 마포경찰서에 사건을 접수했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰은 글 작성에 사용된 IP 주소를 확보, 추적하여 A씨가 당시 군인 신분임을 확인해 군 검찰에 사건을 이첩했고, 조사 기간 중 A씨는 만기 전역하여 현재는 민간인 신분으로 법의 심판을 받을 예정이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소속사 측은 “당사는 앞으로도 소속 배우들의 인격과 권익 보호를 위해 더욱 노력할 것이며, 이를 훼손하는 모든 악의적 행위들에 대해 선처와 합의 없는 강력한 법적 대응을 진행할 것임을 분명히 밝힌다”고 덧붙였다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서이숙 측, 사망설 유포자에 “선처 없다”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

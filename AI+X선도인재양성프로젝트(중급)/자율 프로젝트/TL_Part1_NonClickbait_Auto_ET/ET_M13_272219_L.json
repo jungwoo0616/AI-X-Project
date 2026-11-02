@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272219",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘트바로티’ 김호중, 성악가 플라시도 도밍고와 입 맞춘다[공식]",
+		"newsSubTitle": "",
+		"newsContent": "트바로티 김호중이 성악가 플리시도 도밍고와 환상적인 듀엣 무대를 선보인다.\n소속사 생각엔터테인먼트 측에 따르면 김호중은 오는 26일 부산 영화의 전당 야외극장에서 개최되는 ‘세계 3대 테너’ 플라시도 도밍고의 내한 공연 무대에 오른다.\n김호중은 플라시도 도밍고로부터 직접 자필 싸인과 함께 초대를 받았다.\n이날 무대에서 두 사람은 함께 듀엣 무대를 꾸밀 예정이다.\n앞서 김호중은 군 전역 이후 열일 행보를 예고한 2022 평화콘서트와 ‘드림콘서트 트롯’ 출연 소식에 이어 서울에서 단독 콘서트를 진행할 것을 알리며 오랜 시간 기다려온 팬들에게 설렘을 선사한 바 있다.\n김호중의 전역과 발맞춰 수많은 곳에서 러브콜을 보내고 있음이 알려져 그의 행보에 관심이 모이고 있는 가운데 여기에 세계적인 성악가이자 테너인 플라시도 도밍고의 친필 싸인 초대를 통한 듀엣 무대가 성사돼 이목이 집중됐다.\n이날 김호중은 더욱 웅장해진 가창과 성숙해진 모습으로 돌아와 존재감을 드러낼 것으로 기대된다. ‘오페라의 황제’로 알려진 스페인과 멕시코의 성악가이자 지휘자인 플라시도 도밍고는 세계적인 테너로 전 세계가 증명한 실력자로 현재 워싱턴 오페라의 예술 감독이자 로스앤젤레스 오페라의 창립자로 활동 중이다.\n한편, 김호중과 플라시도 도밍고의 공연은 6월 26일 부산 영화의 전당 야외극장에서 주최될 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트바로티 김호중이 성악가 플리시도 도밍고와 환상적인 듀엣 무대를 선보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 생각엔터테인먼트 측에 따르면 김호중은 오는 26일 부산 영화의 전당 야외극장에서 개최되는 ‘세계 3대 테너’ 플라시도 도밍고의 내한 공연 무대에 오른다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김호중은 플라시도 도밍고로부터 직접 자필 싸인과 함께 초대를 받았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 무대에서 두 사람은 함께 듀엣 무대를 꾸밀 예정이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 김호중은 군 전역 이후 열일 행보를 예고한 2022 평화콘서트와 ‘드림콘서트 트롯’ 출연 소식에 이어 서울에서 단독 콘서트를 진행할 것을 알리며 오랜 시간 기다려온 팬들에게 설렘을 선사한 바 있다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김호중의 전역과 발맞춰 수많은 곳에서 러브콜을 보내고 있음이 알려져 그의 행보에 관심이 모이고 있는 가운데 여기에 세계적인 성악가이자 테너인 플라시도 도밍고의 친필 싸인 초대를 통한 듀엣 무대가 성사돼 이목이 집중됐다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 김호중은 더욱 웅장해진 가창과 성숙해진 모습으로 돌아와 존재감을 드러낼 것으로 기대된다. ‘오페라의 황제’로 알려진 스페인과 멕시코의 성악가이자 지휘자인 플라시도 도밍고는 세계적인 테너로 전 세계가 증명한 실력자로 현재 워싱턴 오페라의 예술 감독이자 로스앤젤레스 오페라의 창립자로 활동 중이다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 김호중과 플라시도 도밍고의 공연은 6월 26일 부산 영화의 전당 야외극장에서 주최될 전망이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘트바로티’ 김호중, 성악가 플라시도 도밍고와 입 맞춘다[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

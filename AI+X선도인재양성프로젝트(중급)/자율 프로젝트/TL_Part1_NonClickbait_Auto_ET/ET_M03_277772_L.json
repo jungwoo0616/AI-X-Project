@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277772",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이홍기·한보름 열애 중 “친구에서 연인으로”",
+		"newsSubTitle": "",
+		"newsContent": "FT 아일랜드 이홍기(27)와 배우 한보름(30)이 열애 중이라는 소식이 전해졌다.\n9일 한 매체는 연예관계자의 말을 인용해 이홍기와 한보름이 연애 중이라고 보도했다.\n관계자는 “절친 사이던 두 사람이 최근 연인으로 발전했고 좋은 관계를 유지 중인 것으로 안다”고 말했다.\n이홍기와 한보름은 볼링 애호가라는 공통 분모가 있다.\n앞서 볼링장에서 함께 촬영한 사진을 공개해 열애설에 휩싸이기도 했다.\n당시 둘은 “볼링 치러 자주 가는데 한보름은 같이 어울려 다니는 친구들 중 한명”이라고 부인한 바 있다.\n이홍기는 2007년 FT아일랜드로 데뷔해 활동 중이며 한보름은 ‘드림하이’ ‘주군의 태양’ 등에 출연했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "FT 아일랜드 이홍기(27)와 배우 한보름(30)이 열애 중이라는 소식이 전해졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 한 매체는 연예관계자의 말을 인용해 이홍기와 한보름이 연애 중이라고 보도했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관계자는 “절친 사이던 두 사람이 최근 연인으로 발전했고 좋은 관계를 유지 중인 것으로 안다”고 말했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이홍기와 한보름은 볼링 애호가라는 공통 분모가 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 볼링장에서 함께 촬영한 사진을 공개해 열애설에 휩싸이기도 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 둘은 “볼링 치러 자주 가는데 한보름은 같이 어울려 다니는 친구들 중 한명”이라고 부인한 바 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이홍기는 2007년 FT아일랜드로 데뷔해 활동 중이며 한보름은 ‘드림하이’ ‘주군의 태양’ 등에 출연했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이홍기·한보름 열애 중 “친구에서 연인으로”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

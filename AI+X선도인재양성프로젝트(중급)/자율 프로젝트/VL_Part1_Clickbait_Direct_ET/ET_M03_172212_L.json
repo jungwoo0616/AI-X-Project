@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172212",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“조별과제 절대 같이 하고 싶지 않은 연예인? 서인영ㆍ이국주ㆍ설리”",
+    "newsSubTitle": "",
+    "newsContent": "네티즌들이 조별과제를 절대 같이 하고 싶은 연예인으로 가수 서인영, 개그우먼 이국주, 가수 겸 배우 설리를 꼽았다.\n커뮤니티 포털사이트 디시인사이드와 취향 검색 기업 마이셀렙스가 공동으로 조사한 ‘조별과제 절대 같이 하고 싶지 않은 연예인은?’ 투표에서 서인영이 1위에 올랐다고 2일 밝혔다.\n서인영은 총 7664표 중 16.7%에 해당하는 1283표를 획득하며 1위를 차지했다.\n2위로는 826표(10.8%)로 개그우먼 이국주가 선정됐다.\n3위는 f(x)의 설리가 꼽혔다.\n이 외에 배우 류화영, 가수 장현승 등이 순위에 올랐다.\n해당 사이트는 1위에 선정된 서인영에 대해 최근 예능 촬영 중 스태프들에게 욕설을 하는 영상이 공개된 것을 원인으로 꼽았고, 2위 이국주에 대해서는 남성 연예인들을 향해 과도한 스킨십을 시도하면서 시청자들의 비난을 받은 점을 언급했다.\n3위 설리에 대해서는 무대 위 태도 불성실 논란과 각종 인스타그램 구설수 등이 원인이 됐을 거라고 추측했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "네티즌들이 조별과제를 절대 같이 하고 싶은 연예인으로 가수 서인영, 개그우먼 이국주, 가수 겸 배우 설리를 꼽았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "커뮤니티 포털사이트 디시인사이드와 취향 검색 기업 마이셀렙스가 공동으로 조사한 ‘조별과제 절대 같이 하고 싶지 않은 연예인은?’ 투표에서 서인영이 1위에 올랐다고 2일 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서인영은 총 7664표 중 16.7%에 해당하는 1283표를 획득하며 1위를 차지했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2위로는 826표(10.8%)로 개그우먼 이국주가 선정됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "3위는 f(x)의 설리가 꼽혔다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 외에 배우 류화영, 가수 장현승 등이 순위에 올랐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당 사이트는 1위에 선정된 서인영에 대해 최근 예능 촬영 중 스태프들에게 욕설을 하는 영상이 공개된 것을 원인으로 꼽았고, 2위 이국주에 대해서는 남성 연예인들을 향해 과도한 스킨십을 시도하면서 시청자들의 비난을 받은 점을 언급했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "3위 설리에 대해서는 무대 위 태도 불성실 논란과 각종 인스타그램 구설수 등이 원인이 됐을 거라고 추측했다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조별과제 같이하기 싫은 연예인들... '이것' 때문이다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260253",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "SNL코리아, 코로나 5명 확진…연예가 감염 주의보[종합]",
+		"newsSubTitle": "",
+		"newsContent": "한 OTT 방송프로그램에서 5명이 코로나19에 걸린 사례가 나오면서 연예가에 빨간불이 켜졌다.\nSNL코리아 측은 “지난주 발생한 코로나19 확진자로 인해 출연진과 제작진 전원이 코로나19 신속항원검사 및 PCR 검사를 한 결과 지난주 확진된 3명 외에 2명이 추가 확진됐다”고 7일 전했다.\n또 “방역 지침에 따라 즉시 자가격리했고, 이들을 제외한 인원은 모두 음성 판정을 받았다”며 “음성이 확인된 출연진 및 제작진에 한해 오늘부터 촬영을 재개했다”고 설명했다.\nSNL코리아는 지난달 말 촬영을 했던 게스트인 정일우와 크루 정이랑을 비롯해 제작진이 확진되면서 지난 3일 녹화를 중단하고, 5일 결방을 했다.\nOTT 쿠팡플레이에 매주 토요일 공개되는 SNL코리아는 오는 12일부터 방송을 재개하며, 이날은 가수 화사가 게스트로 출연한 7회가 방영된다.\n대부분 방송사들은 촬영 전 자가진단검사 키트인 신속항원검사를 통해 출연진과 제작진의 음성 여부를 확인하고 있다.\n그러나 한 프로그램서 복수 감염자가 나오는 사례가 늘고 있다.\n올 상반기 방송 예정인 KBS 새 드라마 ‘붉은 단심’에서 2명이 확진됐고, 왓챠 음악 예능 ‘더블 트러블’에서도 그룹 위아이의 김동한, 효린이 함께 확진됐다.\n배우 박소담도 최근 코로나19에 걸렸다가 격리 해제된 것으로 이날 확인됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한 OTT 방송프로그램에서 5명이 코로나19에 걸린 사례가 나오면서 연예가에 빨간불이 켜졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SNL코리아 측은 “지난주 발생한 코로나19 확진자로 인해 출연진과 제작진 전원이 코로나19 신속항원검사 및 PCR 검사를 한 결과 지난주 확진된 3명 외에 2명이 추가 확진됐다”고 7일 전했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 “방역 지침에 따라 즉시 자가격리했고, 이들을 제외한 인원은 모두 음성 판정을 받았다”며 “음성이 확인된 출연진 및 제작진에 한해 오늘부터 촬영을 재개했다”고 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SNL코리아는 지난달 말 촬영을 했던 게스트인 정일우와 크루 정이랑을 비롯해 제작진이 확진되면서 지난 3일 녹화를 중단하고, 5일 결방을 했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "OTT 쿠팡플레이에 매주 토요일 공개되는 SNL코리아는 오는 12일부터 방송을 재개하며, 이날은 가수 화사가 게스트로 출연한 7회가 방영된다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대부분 방송사들은 촬영 전 자가진단검사 키트인 신속항원검사를 통해 출연진과 제작진의 음성 여부를 확인하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 한 프로그램서 복수 감염자가 나오는 사례가 늘고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "올 상반기 방송 예정인 KBS 새 드라마 ‘붉은 단심’에서 2명이 확진됐고, 왓챠 음악 예능 ‘더블 트러블’에서도 그룹 위아이의 김동한, 효린이 함께 확진됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "배우 박소담도 최근 코로나19에 걸렸다가 격리 해제된 것으로 이날 확인됐다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SNL코리아, 코로나 5명 확진…연예가 감염 주의보[종합]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

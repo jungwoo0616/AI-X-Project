@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276437",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'과감한 변신' 하자 \\\"전이 낫네\\\" 말 나오는 여배우",
+		"newsSubTitle": "",
+		"newsContent": "배우 고준희가 '트레이드 마크'인 단발머리에 변신을 줘 화제를 모으고 있다.\n고준희는 28일 오후 서울 중구 롯데백화점 본점에서 열린 뷰티 브랜드 행사에 참석했다.\n이날 고준희는 앞머리를 자르고 히메컷을 하고 포토월에 섰다.\n히메컷은 일종의 레이어드 스타일로 옆머리를 턱까지 짧게 자르고 뒷머리는 길게 남겨둬 '여성 투 블록' 컷으로도 불린다.\n고준희의 이색적인 머리를 두고 온라인에서는 다양한 반응이 나온다.\n\\\"앞머리가 없는 이 전 헤어스타일이 나은 것 같다\\\"는 쪽과 \\\"새로운 시도가 보기 좋다\\\"는 쪽이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 고준희가 '트레이드 마크'인 단발머리에 변신을 줘 화제를 모으고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고준희는 28일 오후 서울 중구 롯데백화점 본점에서 열린 뷰티 브랜드 행사에 참석했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 고준희는 앞머리를 자르고 히메컷을 하고 포토월에 섰다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "히메컷은 일종의 레이어드 스타일로 옆머리를 턱까지 짧게 자르고 뒷머리는 길게 남겨둬 '여성 투 블록' 컷으로도 불린다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고준희의 이색적인 머리를 두고 온라인에서는 다양한 반응이 나온다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "\\\"앞머리가 없는 이 전 헤어스타일이 나은 것 같다\\\"는 쪽과 \\\"새로운 시도가 보기 좋다\\\"는 쪽이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'과감한 변신' 하자 \\\"전이 낫네\\\" 말 나오는 여배우",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

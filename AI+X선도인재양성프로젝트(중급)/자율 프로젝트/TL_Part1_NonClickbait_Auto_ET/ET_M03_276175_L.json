@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276175",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "영화 ‘마지막 황제’ 베르톨루치 감독 별세",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘파리에서의 마지막 탱고’, ‘마지막 황제’ 등으로 명성을 떨친 이탈리아의 영화감독 베르나르도 베르톨루치 감독이 26일(현지시간) 별세했다.\n향년 77세. 이탈리아 일간 라 레푸블리카는 베르톨루치 감독이 로마에서 지병으로 숨을 거뒀다고 전했다.\n베르톨루치 감독은 허리 디스크 등으로 여러 차례 수술을 받은 후 휠체어 생활을 해오고 있었다.\n베르톨루치 감독은 15살에 첫 단편을 찍었고, 22살에 장편 데뷔작 ‘냉혹한 학살자’로 가능성을 인정받았다.\n그에게 명성을 가져다 준 작품은 1972년 개봉한 ‘파리에서의 마지막 탱고’다.\n그는 이 작품으로 흥행과 비평에서 모두 성공을 거뒀다.\n개봉 당시 이 작품은 과감한 성적 표현 때문에 논란을 일으켰고, 이탈리아에서는 20년 가까이 상영이 금지되기도 했다.\n특히 지난 2016년 이 작품 속 성폭행 장면이 여배우인 마리아 슈나이더의 동의를 받지 않고 촬영됐다는 의혹이 나와 논란이 불거졌다.\n베르톨루치는 1987년 ‘마지막 황제’로 아카데미 9개 부문을 휩쓸었다.\n지난 2007년에는 그동안의 공적을 인정받아 베니스영화제 특별인상인 명예 황금사자상을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘파리에서의 마지막 탱고’, ‘마지막 황제’ 등으로 명성을 떨친 이탈리아의 영화감독 베르나르도 베르톨루치 감독이 26일(현지시간) 별세했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "향년 77세. 이탈리아 일간 라 레푸블리카는 베르톨루치 감독이 로마에서 지병으로 숨을 거뒀다고 전했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "베르톨루치 감독은 허리 디스크 등으로 여러 차례 수술을 받은 후 휠체어 생활을 해오고 있었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "베르톨루치 감독은 15살에 첫 단편을 찍었고, 22살에 장편 데뷔작 ‘냉혹한 학살자’로 가능성을 인정받았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그에게 명성을 가져다 준 작품은 1972년 개봉한 ‘파리에서의 마지막 탱고’다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 이 작품으로 흥행과 비평에서 모두 성공을 거뒀다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "개봉 당시 이 작품은 과감한 성적 표현 때문에 논란을 일으켰고, 이탈리아에서는 20년 가까이 상영이 금지되기도 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 지난 2016년 이 작품 속 성폭행 장면이 여배우인 마리아 슈나이더의 동의를 받지 않고 촬영됐다는 의혹이 나와 논란이 불거졌다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "베르톨루치는 1987년 ‘마지막 황제’로 아카데미 9개 부문을 휩쓸었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난 2007년에는 그동안의 공적을 인정받아 베니스영화제 특별인상인 명예 황금사자상을 받았다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영화 ‘마지막 황제’ 베르톨루치 감독 별세",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

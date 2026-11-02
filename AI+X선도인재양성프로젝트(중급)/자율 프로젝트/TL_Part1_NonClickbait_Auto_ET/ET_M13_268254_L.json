@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268254",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "비비, 美 엔터테인먼트 투나잇서 “미쳤다” 호평",
+		"newsSubTitle": "",
+		"newsContent": "가수 비비가 미국에서의 근황을 전했다.\n비비는 26일 자신의 사회관계망서비스(SNS) 인스타그램에 “ET girl”(이티 걸)이라는 문구와 함께 사진 3장과 영상을 게재했다.\n비비는 엔터테인먼트 투나잇(ET) 로고 앞에서 자세를 취한 채 인증샷을 남겼다.\n또 비비는 ET 진행자이자 프로듀서인 데니 디렉토와 나란히 투샷을 찍은 모습도 공개했다.\n앞서 지난 22일(미국시간) 미국 유명 방송 매체 CBS계열의 연예 프로그램 ET에서 비비의 세계적인 뮤직 페스티벌 ‘코첼라’ 무대 비하인드에 대해 얘기를 나눴다.\n데니 디렉토는 비비에 대해 “비욘세와 공연했던 곳에서 공연한 비비가 ‘미쳤다’고 인정한다. 비비는 코첼라에서 처음으로 공연한 새 싱글 ‘Best Lover’(베스트 러버)의 영감에 대해 공개한다”며 자세히 표현했다.\n한편, 비비는 88라이징과 발표한 싱글 ‘더 위캔드(The Weekend)’로 미국 라디오 시장을 강타하며, ‘미디어베이스 톱 40’ 팝 라디오 차트 20위권에 진입하는 등 한국 솔로 여가수로 최고 기록을 세운 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 비비가 미국에서의 근황을 전했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비비는 26일 자신의 사회관계망서비스(SNS) 인스타그램에 “ET girl”(이티 걸)이라는 문구와 함께 사진 3장과 영상을 게재했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비비는 엔터테인먼트 투나잇(ET) 로고 앞에서 자세를 취한 채 인증샷을 남겼다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 비비는 ET 진행자이자 프로듀서인 데니 디렉토와 나란히 투샷을 찍은 모습도 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 지난 22일(미국시간) 미국 유명 방송 매체 CBS계열의 연예 프로그램 ET에서 비비의 세계적인 뮤직 페스티벌 ‘코첼라’ 무대 비하인드에 대해 얘기를 나눴다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데니 디렉토는 비비에 대해 “비욘세와 공연했던 곳에서 공연한 비비가 ‘미쳤다’고 인정한다. 비비는 코첼라에서 처음으로 공연한 새 싱글 ‘Best Lover’(베스트 러버)의 영감에 대해 공개한다”며 자세히 표현했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 비비는 88라이징과 발표한 싱글 ‘더 위캔드(The Weekend)’로 미국 라디오 시장을 강타하며, ‘미디어베이스 톱 40’ 팝 라디오 차트 20위권에 진입하는 등 한국 솔로 여가수로 최고 기록을 세운 바 있다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비비, 美 엔터테인먼트 투나잇서 “미쳤다” 호평",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

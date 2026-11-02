@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273094",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "영탁 ‘옥탑방문제아들’ 출격…예능감 이어간다",
+		"newsSubTitle": "",
+		"newsContent": "가수 영탁이 예능감을 이어나간다.\nKBS에 따르면 영탁은 오는 7월 6일 방송되는 KBS2 예능 프로그램 ‘옥탑방 문제아들’에 출연해 입담을 펼칠 예정이다.\n영탁은 음악과 예능 두 마리 토끼를 잡은 스타로 7월 4일 첫 정규 앨범 발매 후 출연하는 예능 프로그램이 될 전망이다.\n영탁은 최근까지도 여러 예능 프로그램에 출연하며 유쾌한 매력과 재치 넘치는 입담으로 최고 시청률을 자랑하는 ‘영탁 파워’를 선보여 왔다.\n영탁은 ‘옥탑방 문제아들’에서 신곡을 선보이는 것은 물론 다양한 매력으로 청자들을 사로잡을 계획이다.\n영탁이 출연하는 ‘옥탑방 문제아들’은 오는 7월 6일 오후 8시 30분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 영탁이 예능감을 이어나간다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS에 따르면 영탁은 오는 7월 6일 방송되는 KBS2 예능 프로그램 ‘옥탑방 문제아들’에 출연해 입담을 펼칠 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영탁은 음악과 예능 두 마리 토끼를 잡은 스타로 7월 4일 첫 정규 앨범 발매 후 출연하는 예능 프로그램이 될 전망이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영탁은 최근까지도 여러 예능 프로그램에 출연하며 유쾌한 매력과 재치 넘치는 입담으로 최고 시청률을 자랑하는 ‘영탁 파워’를 선보여 왔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영탁은 ‘옥탑방 문제아들’에서 신곡을 선보이는 것은 물론 다양한 매력으로 청자들을 사로잡을 계획이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영탁이 출연하는 ‘옥탑방 문제아들’은 오는 7월 6일 오후 8시 30분 방송된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영탁 ‘옥탑방문제아들’ 출격…예능감 이어간다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

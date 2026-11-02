@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165301",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "SNL 레이양, 글래머 몸매 드러나는 요가패션…신동엽 \\\"제가 덜렁댄다구요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "SNL 레이양 SNL에 출연한 레이양이 아찔한 몸매를 자랑했다.\n19일 방송된 tvN 'SNL 코리아6'(이하 'SNL')에서는 박나래, 장도연 편이 전파를 탔다.\n이날 '나래는 여섯살' 콩트에서는 레이양이 특별 출연했다.\n레이양은 여섯살 박나래의 요가 선생님로 등장했다.\n박나래와 함께 놀고 있던 신동엽은 요가복을 입고 글래머러스 한 몸매를 드러낸 레이양을 보고 의미심장한 표정을 지었다.\n신동엽은 \\\"짤랑짤랑짤랑짤랑 으쓱으쓱\\\"이라고 노래하더니 이내 \\\"덜렁덜렁\\\"이라고 19금 말실수를 하며 시청자들의 웃음을 자아냈다.\n레이양이 발끈하자 신동엽은 \\\"아니에요, 제가 덜렁댄다고요\\\"라고 둘러대며 19금 콩트를 선보였다.\n이어 레이양 역시 박나래가 물을 쏟자 바닥에 흘린 물을 닦으며 몸매를 부각시켰다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SNL 레이양 SNL에 출연한 레이양이 아찔한 몸매를 자랑했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 방송된 tvN 'SNL 코리아6'(이하 'SNL')에서는 박나래, 장도연 편이 전파를 탔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 '나래는 여섯살' 콩트에서는 레이양이 특별 출연했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "레이양은 여섯살 박나래의 요가 선생님로 등장했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박나래와 함께 놀고 있던 신동엽은 요가복을 입고 글래머러스 한 몸매를 드러낸 레이양을 보고 의미심장한 표정을 지었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신동엽은 \\\"짤랑짤랑짤랑짤랑 으쓱으쓱\\\"이라고 노래하더니 이내 \\\"덜렁덜렁\\\"이라고 19금 말실수를 하며 시청자들의 웃음을 자아냈다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "레이양이 발끈하자 신동엽은 \\\"아니에요, 제가 덜렁댄다고요\\\"라고 둘러대며 19금 콩트를 선보였다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 레이양 역시 박나래가 물을 쏟자 바닥에 흘린 물을 닦으며 몸매를 부각시켰다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "글래머러스한 요가패션 보고 19금 말실수… '현장 초토화'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

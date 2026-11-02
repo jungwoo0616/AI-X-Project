@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259152",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "빅마마, 12년만에 정규앨범 낸다…2월 10일 발매[공식]",
+		"newsSubTitle": "",
+		"newsContent": "레전드 보컬 그룹 빅마마가 12년 만의 정규 앨범으로 돌아온다.\n카카오엔터테인먼트는 25일 “빅마마가 오는 2월 10일 정규앨범 ‘Born(本)’을 발매한다”고 밝혔다. ‘Born(本)’은 빅마마가 지난 2010년 발표한 정규 5집 ‘5’ 이후 약 12년 만에 선보이는 신보다.\n지난해 6월 싱글 ‘하루만 더’를 공개하고 성공적인 행보를 보여준 빅마마는 약 8개월 만에 새 앨범으로 팬들을 찾게 됐다.\n특히 ‘Born(本)’은 빅마마의 오리진에 관한 앨범으로 ‘태어나다’의 ‘Born’과 ‘근본 본(本)’을 담은 앨범명에 맞게 자신들만의 색깔과 호흡을 보여줄 예정이다.\n지난해 6월 ‘하루만 더’로 ‘레전드 보컬’ 위엄을 증명한 빅마마가 12년 만의 정규 앨범으로는 어떤 음악을 들려줄지 기대가 높아진다.\n한편 빅마마의 정규 앨범 ‘Born(本)’은 오는 2월 10일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레전드 보컬 그룹 빅마마가 12년 만의 정규 앨범으로 돌아온다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오엔터테인먼트는 25일 “빅마마가 오는 2월 10일 정규앨범 ‘Born(本)’을 발매한다”고 밝혔다. ‘Born(本)’은 빅마마가 지난 2010년 발표한 정규 5집 ‘5’ 이후 약 12년 만에 선보이는 신보다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 6월 싱글 ‘하루만 더’를 공개하고 성공적인 행보를 보여준 빅마마는 약 8개월 만에 새 앨범으로 팬들을 찾게 됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 ‘Born(本)’은 빅마마의 오리진에 관한 앨범으로 ‘태어나다’의 ‘Born’과 ‘근본 본(本)’을 담은 앨범명에 맞게 자신들만의 색깔과 호흡을 보여줄 예정이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 6월 ‘하루만 더’로 ‘레전드 보컬’ 위엄을 증명한 빅마마가 12년 만의 정규 앨범으로는 어떤 음악을 들려줄지 기대가 높아진다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 빅마마의 정규 앨범 ‘Born(本)’은 오는 2월 10일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅마마, 12년만에 정규앨범 낸다…2월 10일 발매[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284421",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "박영진 결혼…방송에 직접 나와 \\\"1월 23일 날 잡았다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "박영진 결혼…방송에 직접 나와 \\\"1월 23일 날 잡았다\\\" '박영진 결혼' 개그맨 박영진이 결혼 소식을 알렸다.\n박영진은 1일 오후 방송된 KBS2 '개그콘서트'의 자신이 맡은 코너 '민상토론'에서 결혼 소식을 전했다.\n이날 박영진은 유민상을 추궁했고 이에 유민상은 \\\"당신도 결혼 안 하지 않았나\\\"라 지적했다.\n이에 박영진은 \\\"전 합니다\\\"라고 말해 청중을 집중시켰고 \\\"1월 23일 날 잡았다\\\"고 직접 날짜를 발표하자 관객들로부터 박수를 받았다.\n박영진은 이어 \\\"그럼 다음 시간에는 제 결혼식에 축의금 100만 원을 내기로 한 유민상 씨를 모시고 토론하겠다\\\"고 말해 폭소케 했다.\n한편 박영진은 지난 31일 한 매체를 통해 \\\"실감이 안 난다. 연애하는 느낌으로 살 것 같다\\\"며 축하와 관심에 대한 감사의 뜻을 전하기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박영진 결혼…방송에 직접 나와 \\\"1월 23일 날 잡았다\\\" '박영진 결혼' 개그맨 박영진이 결혼 소식을 알렸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박영진은 1일 오후 방송된 KBS2 '개그콘서트'의 자신이 맡은 코너 '민상토론'에서 결혼 소식을 전했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 박영진은 유민상을 추궁했고 이에 유민상은 \\\"당신도 결혼 안 하지 않았나\\\"라 지적했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 박영진은 \\\"전 합니다\\\"라고 말해 청중을 집중시켰고 \\\"1월 23일 날 잡았다\\\"고 직접 날짜를 발표하자 관객들로부터 박수를 받았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박영진은 이어 \\\"그럼 다음 시간에는 제 결혼식에 축의금 100만 원을 내기로 한 유민상 씨를 모시고 토론하겠다\\\"고 말해 폭소케 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 박영진은 지난 31일 한 매체를 통해 \\\"실감이 안 난다. 연애하는 느낌으로 살 것 같다\\\"며 축하와 관심에 대한 감사의 뜻을 전하기도 했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박영진 결혼…방송에 직접 나와 \\\"1월 23일 날 잡았다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

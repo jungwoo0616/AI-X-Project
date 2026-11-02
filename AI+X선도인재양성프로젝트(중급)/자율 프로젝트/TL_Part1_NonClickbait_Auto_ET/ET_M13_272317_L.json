@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272317",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "일반인 방청객 컴백 ‘복면가왕’, 우레와 같은 반응",
+		"newsSubTitle": "",
+		"newsContent": "일반인 판정단이 돌아온 MBC 경연 프로그램 ‘복면가왕’이 열띤 분위기를 뿜어냈다.\n5일 밤 방송되는 ‘복면가왕’에서는 4연승 달성을 위해 질주하는 가왕 ‘누렁이’와 황금가면을 차지하려는 복면가수 4인의 불꽃튀는 대결이 시작된다.\n5일 방송에는 가왕 ‘누렁이’를 위협할만한 다크호스가 등장한다.\n한 복면가수의 무대 후 ‘복면가왕’ 전문가 라인의 유영석은 “노래를 들으면서 무한대로 기쁨을 느꼈다”며 아낌없는 찬사를 보내고 “성숙미를 가지고 있다”고 덧붙였다.\n코로나19 이후 2년 여 만에 돌아온 일반인 판정단 앞에 가왕 ‘누렁이’가 방어전 무대를 보였다.\n가왕의 무대를 실제로 만나는 첫 판정단인 만큼 그 기대감이 스튜디오를 메운다. ‘누렁이’는 무대를 앞두고 긴장하는 듯 했지만 막상 노래를 시작하자 폭풍 가창력과 폭발적인 무대매너를 보였다.\n과연 ‘누렁이’의 무대와 함께 관객석의 반응 역시 어떠했는지 관심이 모인다.\n가왕 ‘누렁이’가 선보이는 무대와 그를 위협하는 실력파 복면가수 4인의 무대는 5일 오후 6시10분 ‘복면가왕’에서 볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일반인 판정단이 돌아온 MBC 경연 프로그램 ‘복면가왕’이 열띤 분위기를 뿜어냈다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 밤 방송되는 ‘복면가왕’에서는 4연승 달성을 위해 질주하는 가왕 ‘누렁이’와 황금가면을 차지하려는 복면가수 4인의 불꽃튀는 대결이 시작된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "5일 방송에는 가왕 ‘누렁이’를 위협할만한 다크호스가 등장한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 복면가수의 무대 후 ‘복면가왕’ 전문가 라인의 유영석은 “노래를 들으면서 무한대로 기쁨을 느꼈다”며 아낌없는 찬사를 보내고 “성숙미를 가지고 있다”고 덧붙였다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코로나19 이후 2년 여 만에 돌아온 일반인 판정단 앞에 가왕 ‘누렁이’가 방어전 무대를 보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가왕의 무대를 실제로 만나는 첫 판정단인 만큼 그 기대감이 스튜디오를 메운다. ‘누렁이’는 무대를 앞두고 긴장하는 듯 했지만 막상 노래를 시작하자 폭풍 가창력과 폭발적인 무대매너를 보였다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "과연 ‘누렁이’의 무대와 함께 관객석의 반응 역시 어떠했는지 관심이 모인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가왕 ‘누렁이’가 선보이는 무대와 그를 위협하는 실력파 복면가수 4인의 무대는 5일 오후 6시10분 ‘복면가왕’에서 볼 수 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일반인 방청객 컴백 ‘복면가왕’, 우레와 같은 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

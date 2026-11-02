@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277228",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "누구나 다 아는 광고 속 이 여성의 정체",
+		"newsSubTitle": "",
+		"newsContent": "지하철 광고판에서 흔히 볼 수 있는 한 결혼정보회사의 여자모델의 정체에 관심이 집중되고 있다. '집에서는 애교 많은 딸이며 밖에서는 닮고 싶은 선배인 당신' '혼자이긴 아까운 당신' 유명 결혼정보회사의 광고 속에 있는 문구다.\n광고 속에는 선해보이는 여성이 옅은 미소를 짓고 있다.\n이 여성은 지난해 배우 김주혁과 열애를 인정했던 이유영이다.\n이유영은 지난 2014년 영화 '봄'으로 데뷔해 밀라노 국제영화제, 청룡영화제 등 다수의 영화제에서 수상을 하며 이름을 알렸다.\n지금은 많은 사람들이 알아보는 배우로서의 커리어를 쌓아가고 있지만, 그에게서 결혼정보회사 광고 속 모델을 떠올리기란 쉽지 않다.\n광고 속 여성이 이유영이란 사실이 알려지자 네티즌들은 \\\"요즘 영화에 자주 나옵니다\\\" \\\"연기도 잘하고 매력있는 배우\\\" \\\"김주혁 애인\\\"과 같은 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지하철 광고판에서 흔히 볼 수 있는 한 결혼정보회사의 여자모델의 정체에 관심이 집중되고 있다. '집에서는 애교 많은 딸이며 밖에서는 닮고 싶은 선배인 당신' '혼자이긴 아까운 당신' 유명 결혼정보회사의 광고 속에 있는 문구다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "광고 속에는 선해보이는 여성이 옅은 미소를 짓고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 여성은 지난해 배우 김주혁과 열애를 인정했던 이유영이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이유영은 지난 2014년 영화 '봄'으로 데뷔해 밀라노 국제영화제, 청룡영화제 등 다수의 영화제에서 수상을 하며 이름을 알렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지금은 많은 사람들이 알아보는 배우로서의 커리어를 쌓아가고 있지만, 그에게서 결혼정보회사 광고 속 모델을 떠올리기란 쉽지 않다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "광고 속 여성이 이유영이란 사실이 알려지자 네티즌들은 \\\"요즘 영화에 자주 나옵니다\\\" \\\"연기도 잘하고 매력있는 배우\\\" \\\"김주혁 애인\\\"과 같은 반응을 보였다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "누구나 다 아는 광고 속 이 여성의 정체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

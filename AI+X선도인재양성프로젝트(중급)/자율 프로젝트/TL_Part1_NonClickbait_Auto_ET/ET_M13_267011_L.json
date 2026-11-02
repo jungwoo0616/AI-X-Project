@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_267011",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘하우스 대역전’ 김성주, 김지민 팩폭에 동공지진",
+		"newsSubTitle": "",
+		"newsContent": "김성주가 김지민의 지적에 진땀을 흘렸다.\n최근 진행된 ‘내 집의 변신-하우스 대역전’(이하 하우스 대역전) 4회 촬영에서 MC 김성주를 비롯한 전진, 김지민, 박군은 4번째 의뢰지인 1981년에 준공된 빌라의 리모델링 결과를 확인하기 위해 모였다.\n의뢰인은 주방을 살펴보던 중 수압을 확인했고, 김성주는 “수전 헤드도 아래로 빠져서 움직이지 않냐”라는 박군의 말에 수전 헤드를 아래로 잡아 당겨 확인시켜 주었다.\n수전 헤드를 확인한 후 전진은 김성주에게 “(수전 헤드)를 제자리로 넣어달라”고 요청을 했다.\n하지만 김성주는 당황한 듯 어쩔 줄 몰라 하며 수전 헤드를 제 자리에 엉성하게 넣었다.\n이 모습을 지켜보던 김지민은 “주방 일 안하죠?”라고 물었고, 전진 역시 “딱 보니까 아예 안 한다”고 거들었다.\n김성주는 두 사람의 이야기에 머쓱해 하며 “우리 집 것 보다 더 좋다”고 상황을 모면하려고 해 웃음을 자아냈다. ‘하우스 대역전’은 집의 가치를 높이는 하우스 컨설팅 프로그램. 낡고 오래된 나의 집을 최고의 전문가 군단이 다양하게 리모델링 해 그 용도에 맞게 수익성 창출 및 개선을 도와주는 생활 밀착형 프로젝트다. ‘하우스 대역전’ 3회는 15일(금) SBS에서 오후 5시 50분, SBS FiL에서 저녁 8시, 라이프타임에서 밤 9시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김성주가 김지민의 지적에 진땀을 흘렸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 진행된 ‘내 집의 변신-하우스 대역전’(이하 하우스 대역전) 4회 촬영에서 MC 김성주를 비롯한 전진, 김지민, 박군은 4번째 의뢰지인 1981년에 준공된 빌라의 리모델링 결과를 확인하기 위해 모였다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의뢰인은 주방을 살펴보던 중 수압을 확인했고, 김성주는 “수전 헤드도 아래로 빠져서 움직이지 않냐”라는 박군의 말에 수전 헤드를 아래로 잡아 당겨 확인시켜 주었다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수전 헤드를 확인한 후 전진은 김성주에게 “(수전 헤드)를 제자리로 넣어달라”고 요청을 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 김성주는 당황한 듯 어쩔 줄 몰라 하며 수전 헤드를 제 자리에 엉성하게 넣었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 모습을 지켜보던 김지민은 “주방 일 안하죠?”라고 물었고, 전진 역시 “딱 보니까 아예 안 한다”고 거들었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김성주는 두 사람의 이야기에 머쓱해 하며 “우리 집 것 보다 더 좋다”고 상황을 모면하려고 해 웃음을 자아냈다. ‘하우스 대역전’은 집의 가치를 높이는 하우스 컨설팅 프로그램. 낡고 오래된 나의 집을 최고의 전문가 군단이 다양하게 리모델링 해 그 용도에 맞게 수익성 창출 및 개선을 도와주는 생활 밀착형 프로젝트다. ‘하우스 대역전’ 3회는 15일(금) SBS에서 오후 5시 50분, SBS FiL에서 저녁 8시, 라이프타임에서 밤 9시에 방송된다.",
+				"sentenceSize": 251
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘하우스 대역전’ 김성주, 김지민 팩폭에 동공지진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

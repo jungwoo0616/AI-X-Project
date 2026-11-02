@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259470",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "최예나, ‘studio문나잇’ 뜬다…문별과 케미 예고",
+		"newsSubTitle": "",
+		"newsContent": "가요와 예능을 넘나들며 종횡무진 활약하고 있는 가수 최예나가 오는 28일(금) 밤 9시 네이버 NOW. <studio문나잇>에 출연한다. <studio문나잇>은 마마무 문별이 단독 호스트로 나서 장르를 불문한 게스트 인터뷰, 즉석 라이브 무대 등 다채로운 콘텐츠로 무장해 팬들의 사랑을 받고 있는 라이브 쇼다.\n오는 28일 온에어 예정인 라이브 쇼에는 아이즈원 활동 종료 후 성공적 솔로 데뷔로 가요계에 신선한 지각 변동을 일으키고 있는 가수 최예나가 출연한다.\n남다른 입담으로 ‘예능 섭외 1순위’로 떠오른 최예나는 솔로 앨범 발매와 동시에 전곡 차트인에 성공하며 차세대 만능 엔터테이너로서 입지를 굳혔다.\n최예나는 이번 라이브 쇼에서 특유의 에너제틱한 모습으로 데뷔 앨범 타이틀곡 ‘SMILEY(스마일리)’를 라이브 무대로 선보인다.\n이어 예능과 배우로 솔로 데뷔까지의 비하인드 스토리를 전격 공개하고 팬들의 질문에 적극 소통하며 해피 바이러스를 전파할 것으로 알려졌다.\n마마무 문별이 진행하는 <studio문나잇>은 매주 월, 수, 금 밤 9시 네이버 NOW.를 통해 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가요와 예능을 넘나들며 종횡무진 활약하고 있는 가수 최예나가 오는 28일(금) 밤 9시 네이버 NOW. <studio문나잇>에 출연한다. <studio문나잇>은 마마무 문별이 단독 호스트로 나서 장르를 불문한 게스트 인터뷰, 즉석 라이브 무대 등 다채로운 콘텐츠로 무장해 팬들의 사랑을 받고 있는 라이브 쇼다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 28일 온에어 예정인 라이브 쇼에는 아이즈원 활동 종료 후 성공적 솔로 데뷔로 가요계에 신선한 지각 변동을 일으키고 있는 가수 최예나가 출연한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "남다른 입담으로 ‘예능 섭외 1순위’로 떠오른 최예나는 솔로 앨범 발매와 동시에 전곡 차트인에 성공하며 차세대 만능 엔터테이너로서 입지를 굳혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최예나는 이번 라이브 쇼에서 특유의 에너제틱한 모습으로 데뷔 앨범 타이틀곡 ‘SMILEY(스마일리)’를 라이브 무대로 선보인다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 예능과 배우로 솔로 데뷔까지의 비하인드 스토리를 전격 공개하고 팬들의 질문에 적극 소통하며 해피 바이러스를 전파할 것으로 알려졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마마무 문별이 진행하는 <studio문나잇>은 매주 월, 수, 금 밤 9시 네이버 NOW.를 통해 만나볼 수 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최예나, ‘studio문나잇’ 뜬다…문별과 케미 예고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

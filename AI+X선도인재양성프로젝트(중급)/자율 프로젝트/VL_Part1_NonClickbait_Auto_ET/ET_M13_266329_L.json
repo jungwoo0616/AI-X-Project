@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266329",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "트레저, 첫 단독 콘서트 리허설 현장 공개",
+		"newsSubTitle": "",
+		"newsContent": "그룹 트레저의 첫 단독 콘서트 ‘트레이스(TRACE)’ 열기를 미리 느껴볼 수 있는 특별한 이벤트가 준비됐다.\n8일 YG엔터테인먼트에 따르면 트레저는 이날 오후 9시부터 위버스 콘서트(Weverse Concerts)에서 ‘트레이스’의 리허설 현장을 실시간 공개한다.\n트레저는 본 공연에서 선보일 셋리스트 중 일부 곡을 리허설 무대를 통해 선보일 예정이다.\n또 관객이 보고 싶어 할 퍼포먼스를 팬들과 함께 논의하며 음악적 교감을 극대화하기 위해 노력한다.\n그 밖에도 완벽한 무대를 완성하기 위한 사운드 체크 등 다방면으로 공연 준비에 만전을 기하고 있는 트레저의 모습을 직접 확인할 수 있을 전망. 이는 트레저와 팬들 모두에게 의미 있는 추억이 될 것으로 기대된다.\n한편 서울 방이동 올림픽공원 올림픽홀에서 열리는 트레저의 첫 단독 콘서트 ‘트레이스’는 첫날(4월 9일)은 오프라인만, 둘째 날(4월 10일)은 온·오프라인으로 동시 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 트레저의 첫 단독 콘서트 ‘트레이스(TRACE)’ 열기를 미리 느껴볼 수 있는 특별한 이벤트가 준비됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 YG엔터테인먼트에 따르면 트레저는 이날 오후 9시부터 위버스 콘서트(Weverse Concerts)에서 ‘트레이스’의 리허설 현장을 실시간 공개한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "트레저는 본 공연에서 선보일 셋리스트 중 일부 곡을 리허설 무대를 통해 선보일 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 관객이 보고 싶어 할 퍼포먼스를 팬들과 함께 논의하며 음악적 교감을 극대화하기 위해 노력한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 밖에도 완벽한 무대를 완성하기 위한 사운드 체크 등 다방면으로 공연 준비에 만전을 기하고 있는 트레저의 모습을 직접 확인할 수 있을 전망. 이는 트레저와 팬들 모두에게 의미 있는 추억이 될 것으로 기대된다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 서울 방이동 올림픽공원 올림픽홀에서 열리는 트레저의 첫 단독 콘서트 ‘트레이스’는 첫날(4월 9일)은 오프라인만, 둘째 날(4월 10일)은 온·오프라인으로 동시 진행된다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트레저, 첫 단독 콘서트 리허설 현장 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

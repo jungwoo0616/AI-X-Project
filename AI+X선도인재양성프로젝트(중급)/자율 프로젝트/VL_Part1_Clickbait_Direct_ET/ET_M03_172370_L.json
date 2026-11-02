@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172370",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'도깨비' 처녀귀신 박경혜, 촬영의상 한 번도 빨지 않은 이유",
+    "newsSubTitle": "",
+    "newsContent": "배우 박경혜가 촬영 의상에 관한 비하인드 스토리를 공개했다.\n25일 박경혜는 티브이데일리와 진행한 tvN 드라마 ‘도깨비’ 종영 기념 인터뷰에서 처녀귀신 역할과 관련된 재미있는 일화를 소개했다.\n박경혜는 드라마에서 단 한 벌의 의상만 입고 촬영을 마친 것으로 전해졌다.\n그녀는 역할에 몰입하기 위해 촬영 때 입은 단벌 의상을 한 번도 빨지 않았다.\n박경혜는 “니트 의상이라 잘못 빨았다가는 줄어들 것 같았다”며 “똑같은 의상을 여러 벌 준비했지만 역할에 몰입하기 위해 무조건 한 벌만 입었다”고 촬영 의상을 한 번도 빨지 않은 이유를 말했다.\n현재 박경혜가 촬영 중 입었던 옷은 그녀의 옷장에 있는 것으로 전해졌다.\n또 그녀는 “앞으로는 집에서만 입을 수 있을 것 같다. 귀신 옷이니까 밖에서 함부로 입지는 못할 것”이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박경혜가 촬영 의상에 관한 비하인드 스토리를 공개했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 박경혜는 티브이데일리와 진행한 tvN 드라마 ‘도깨비’ 종영 기념 인터뷰에서 처녀귀신 역할과 관련된 재미있는 일화를 소개했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박경혜는 드라마에서 단 한 벌의 의상만 입고 촬영을 마친 것으로 전해졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그녀는 역할에 몰입하기 위해 촬영 때 입은 단벌 의상을 한 번도 빨지 않았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박경혜는 “니트 의상이라 잘못 빨았다가는 줄어들 것 같았다”며 “똑같은 의상을 여러 벌 준비했지만 역할에 몰입하기 위해 무조건 한 벌만 입었다”고 촬영 의상을 한 번도 빨지 않은 이유를 말했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 박경혜가 촬영 중 입었던 옷은 그녀의 옷장에 있는 것으로 전해졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 그녀는 “앞으로는 집에서만 입을 수 있을 것 같다. 귀신 옷이니까 밖에서 함부로 입지는 못할 것”이라고 설명했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'촬영 의상 한 번도 빨지 않은 이유'... 배우 박경혜의 '이것' 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269725",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "미국 영화관 체인 AMC, 관객 복귀로 1분기 매출 5배 증가",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 대유행 사태로 파산 위기에까지 몰렸던 미국 영화관 체인 AMC가 관객이 돌아오는 데 힘입어 1분기 매출이 크게 늘었다.\n월스트리트저널(WSJ)은 9일(현지시간) AMC의 1∼3월 매출이 7억8570만 달러(1조39억원)를 기록해 작년 동기(1억4830만 달러)보다 5배 이상으로 늘었고 월가 예상치(7억4340만 달러)도 웃돌았다고 보도했다.\n적자 규모는 5억6690만달러(7246억원)에서 3억3740만달러(4313억원)로 줄었다.\n로이터통신은 “AMC가 코로나 대유행 시기 가장 큰 피해 기업 중 하나였으나 ‘배트맨’ 등 신작 개봉으로 영화관에 관객이 몰리면서 부활하고 있다”고 전했다.\n애덤 애런 AMC 최고경영자(CEO)는 올해 1분기 실적은 2년 만에 가장 강한 성과라고 자평했다.\n그는 최근 개봉한 마블 스튜디오 영화 ‘닥터 스트레인지:대혼돈의 멀티버스’를 수 차례 언급하며 “영화관의 매력을 의심했던 모든 사람에게 다시 한번 말한다. 관객이 영화관에서 전에 본 적이 없던 수준으로 소비하고 있다”고 말했다.\n팬데믹 시기 대표적인 ‘밈 주식’(온라인에서 입소문을 타 개인투자자들이 몰린 주식) 중 하나였던 AMC는 급락한 미국 주식 시장 속에서도 1분기 실적 발표 직후 시간외거래에서 5% 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 대유행 사태로 파산 위기에까지 몰렸던 미국 영화관 체인 AMC가 관객이 돌아오는 데 힘입어 1분기 매출이 크게 늘었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "월스트리트저널(WSJ)은 9일(현지시간) AMC의 1∼3월 매출이 7억8570만 달러(1조39억원)를 기록해 작년 동기(1억4830만 달러)보다 5배 이상으로 늘었고 월가 예상치(7억4340만 달러)도 웃돌았다고 보도했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "적자 규모는 5억6690만달러(7246억원)에서 3억3740만달러(4313억원)로 줄었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "로이터통신은 “AMC가 코로나 대유행 시기 가장 큰 피해 기업 중 하나였으나 ‘배트맨’ 등 신작 개봉으로 영화관에 관객이 몰리면서 부활하고 있다”고 전했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애덤 애런 AMC 최고경영자(CEO)는 올해 1분기 실적은 2년 만에 가장 강한 성과라고 자평했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 최근 개봉한 마블 스튜디오 영화 ‘닥터 스트레인지:대혼돈의 멀티버스’를 수 차례 언급하며 “영화관의 매력을 의심했던 모든 사람에게 다시 한번 말한다. 관객이 영화관에서 전에 본 적이 없던 수준으로 소비하고 있다”고 말했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "팬데믹 시기 대표적인 ‘밈 주식’(온라인에서 입소문을 타 개인투자자들이 몰린 주식) 중 하나였던 AMC는 급락한 미국 주식 시장 속에서도 1분기 실적 발표 직후 시간외거래에서 5% 올랐다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미국 영화관 체인 AMC, 관객 복귀로 1분기 매출 5배 증가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

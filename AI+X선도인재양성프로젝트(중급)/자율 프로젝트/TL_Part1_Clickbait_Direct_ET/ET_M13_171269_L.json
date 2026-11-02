@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171269",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "소유, 신생 기획사 BPM과 손 잡았다[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 소유가 신생 엔터테인먼트 기업 빅플래닛메이드(BPM)에서 새 출발을 알린다.\n빅플래닛메이드는 29일 “소유와 최근 전속계약을 체결했다. 빅플래닛메이드 1호 아티스트로 보컬리스트 소유를 영입하면서 첫 단추를 성공적으로 뀄다”고 밝혔다.\n소유도 이날 자신의 사회관계망서비스(SNS)를 통해 “오랜 시간 함께했던 스타쉽을 떠나 BPM 엔터라는 새로운 회사와 함께하게 됐다. 항상 많은 응원과 사랑 보내주시는 팬분들께 좋은 에너지 드릴 수 있도록 다양한 활동들로 인사드리겠다. 앞으로도 많은 응원 부탁드리고 기대해달라”고 소감을 전했다.\n가요계 FA 최대어로 꼽히던 소유는 그동안 걸그룹 씨스타 활동 뿐만 아니라 솔로 보컬리스트로서도 많은 사랑을 받아왔다.\n각종 OST 및 많은 히트곡을 보유한 소유는 전 소속사와 계약 만료 후 주요 가요기획사들의 러브콜을 받아왔다.\n이 가운데 소유는 빅플래닛메이드를 택하며 향후 활약에 대한 기대감을 고조시켰다.\n빅플래닛메이드 역시 소유를 위한 든든한 지원을 펼칠 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 소유가 신생 엔터테인먼트 기업 빅플래닛메이드(BPM)에서 새 출발을 알린다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "빅플래닛메이드는 29일 “소유와 최근 전속계약을 체결했다. 빅플래닛메이드 1호 아티스트로 보컬리스트 소유를 영입하면서 첫 단추를 성공적으로 뀄다”고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소유도 이날 자신의 사회관계망서비스(SNS)를 통해 “오랜 시간 함께했던 스타쉽을 떠나 BPM 엔터라는 새로운 회사와 함께하게 됐다. 항상 많은 응원과 사랑 보내주시는 팬분들께 좋은 에너지 드릴 수 있도록 다양한 활동들로 인사드리겠다. 앞으로도 많은 응원 부탁드리고 기대해달라”고 소감을 전했다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가요계 FA 최대어로 꼽히던 소유는 그동안 걸그룹 씨스타 활동 뿐만 아니라 솔로 보컬리스트로서도 많은 사랑을 받아왔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "각종 OST 및 많은 히트곡을 보유한 소유는 전 소속사와 계약 만료 후 주요 가요기획사들의 러브콜을 받아왔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 가운데 소유는 빅플래닛메이드를 택하며 향후 활약에 대한 기대감을 고조시켰다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "빅플래닛메이드 역시 소유를 위한 든든한 지원을 펼칠 예정이다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설레이는 새 출발한 그녀, 수많은 러브콜 속에 어디를 택했나...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

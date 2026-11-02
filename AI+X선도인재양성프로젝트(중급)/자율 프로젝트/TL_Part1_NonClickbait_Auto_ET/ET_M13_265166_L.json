@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265166",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "방탄소년단, 아카데미시상식 VCR로 깜짝 등장",
+		"newsSubTitle": "",
+		"newsContent": "그룹 방탄소년단이 미국 아카데미 시상식에 VCR로 깜짝 등장했다.\n방탄소년단은 27일(현지시간) 미국 캘리포니아주 로스앤젤레스 할리우드 돌비 극장에서 열린 제94회 아카데미 시상식(오스카상)에서 영상으로 모습을 드러냈다.\n이들은 윌 스미스의 ‘킹 리차드’를 추천하기 위해 VCR로 인사를 건넸다.\n이날 영상에서는 영화 ‘코코’가 언급됐고, 리더 RM은 “이거 명작이다. ‘코코’를 세 번 봤는데 많이 울었다”고 말했으며 뷔는 “픽사는 정말 말이 안 된다”라고 했다.\n제이홉은 “전반적으로 디즈니 영화를 좋아한다. ‘알라딘’을 좋아한다”고 덧붙였으며 진은 “디즈니 영화가 감성을 잘 자극한다”고 전했다.\n끝으로 RM은 영화 ‘알라딘’에 출연했던 윌 스미스를 언급하며 응원의 메시지를 보냈다.\n한편 윌 스미스는 제94회 아카데미 시상식에서 영화 ‘킹 리차드’로 남우주연상 후보에 올랐다.\n그가 남우주연상 후보에 오른 것은 영화 ‘알리’와 ‘행복을 찾아서’에 이어 세 번째다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 방탄소년단이 미국 아카데미 시상식에 VCR로 깜짝 등장했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방탄소년단은 27일(현지시간) 미국 캘리포니아주 로스앤젤레스 할리우드 돌비 극장에서 열린 제94회 아카데미 시상식(오스카상)에서 영상으로 모습을 드러냈다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 윌 스미스의 ‘킹 리차드’를 추천하기 위해 VCR로 인사를 건넸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 영상에서는 영화 ‘코코’가 언급됐고, 리더 RM은 “이거 명작이다. ‘코코’를 세 번 봤는데 많이 울었다”고 말했으며 뷔는 “픽사는 정말 말이 안 된다”라고 했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제이홉은 “전반적으로 디즈니 영화를 좋아한다. ‘알라딘’을 좋아한다”고 덧붙였으며 진은 “디즈니 영화가 감성을 잘 자극한다”고 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "끝으로 RM은 영화 ‘알라딘’에 출연했던 윌 스미스를 언급하며 응원의 메시지를 보냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 윌 스미스는 제94회 아카데미 시상식에서 영화 ‘킹 리차드’로 남우주연상 후보에 올랐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그가 남우주연상 후보에 오른 것은 영화 ‘알리’와 ‘행복을 찾아서’에 이어 세 번째다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방탄소년단, 아카데미시상식 VCR로 깜짝 등장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

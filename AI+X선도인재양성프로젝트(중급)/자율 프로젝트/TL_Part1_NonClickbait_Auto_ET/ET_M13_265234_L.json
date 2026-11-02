@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265234",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "블랙핑크 로제, 리사 팬들에 때아닌 악플세례",
+		"newsSubTitle": "",
+		"newsContent": "블랙핑크 멤버 로제가 같은 멤버 로제의 일부 팬들로부터 비난 세례를 받았다.\n로제의 인스타그램에는 27일을 기점으로 구토, 화난표정, 개구리나 뱀 등 비난을 뜻하는 이모티콘 댓글이 이어졌다.\n이와 함께 주로 영문으로 로제에 대한 비난 행렬이 잇따랐다.\n이들이 로제를 향해 비난을 퍼붓는 이유는 바로 같은 블랙핑크 멤버 리사의 생일을 뒤늦게 축하했다는 이유에서다.\n로제는 현재 미국에 체류 중으로 그가 미국 시간을 기점으로 리사에 대한 생일 축하 메시지를 보내자 일부 팬들이 이를 두고 ‘뒤늦은 생일축하’로 규정한 것이다.\n일부 리사 팬들은 ‘가짜친구’ ‘왜 네 친구의 생일을 제대로 축하하지 않았냐’ ‘생일을 잊어버린 것이냐’ 등 때아닌 비난 댓글을 달았다.\n몇몇 팬들은 로제와 리사의 불화설을 제기하기도 했다.\n과거부터 일부 리사 태국 팬들은 리사가 블랙핑크 멤버들은 물론 소속사 YG 엔터테인먼트로부터 홀대를 받고 있다는 주장을 꾸준히 제기해오고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블랙핑크 멤버 로제가 같은 멤버 로제의 일부 팬들로부터 비난 세례를 받았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로제의 인스타그램에는 27일을 기점으로 구토, 화난표정, 개구리나 뱀 등 비난을 뜻하는 이모티콘 댓글이 이어졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 주로 영문으로 로제에 대한 비난 행렬이 잇따랐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들이 로제를 향해 비난을 퍼붓는 이유는 바로 같은 블랙핑크 멤버 리사의 생일을 뒤늦게 축하했다는 이유에서다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로제는 현재 미국에 체류 중으로 그가 미국 시간을 기점으로 리사에 대한 생일 축하 메시지를 보내자 일부 팬들이 이를 두고 ‘뒤늦은 생일축하’로 규정한 것이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일부 리사 팬들은 ‘가짜친구’ ‘왜 네 친구의 생일을 제대로 축하하지 않았냐’ ‘생일을 잊어버린 것이냐’ 등 때아닌 비난 댓글을 달았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "몇몇 팬들은 로제와 리사의 불화설을 제기하기도 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "과거부터 일부 리사 태국 팬들은 리사가 블랙핑크 멤버들은 물론 소속사 YG 엔터테인먼트로부터 홀대를 받고 있다는 주장을 꾸준히 제기해오고 있다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블랙핑크 로제, 리사 팬들에 때아닌 악플세례",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

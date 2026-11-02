@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_268870",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "이민혁, 오늘(2일) ‘다시 봄처럼, 안녕’ 발매",
+		"newsSubTitle": "",
+		"newsContent": "싱어송라이터 이민혁이 새 EP ‘다시 봄처럼, 안녕’으로 돌아왔다.\n이번 EP는 지난 2020년 7월 ‘소행성’ 발매 이후 약 1년 10개월 만에 발매되는 것으로 이민혁의 자작곡을 비롯한 총 다섯 곡의 발라드로 구성됐다. ‘다시 봄처럼, 안녕’은 운명처럼 연결된 사랑에 관한 이야기로 이민혁은 작곡가 김희원, HEN(헨), 강버터(Kang Butter) 등과 함께 곡을 완성했다.\n타이틀곡 ‘목소리’는 꿈속에서 시간이 멈출지라도 상대와 함께 있고 싶은 마음, 깊은 사랑의 감정이 담겨 있다.\n서정적인 스트링과 피아노 선율, 몽환적인 백 코러스 라인, 이민혁의 목소리가 한 곳에 모여 동화 같은 사랑을 그려냈다.\n이민혁은 발매를 기념해 오는 5월 8일, 첫 번째 팬 미팅 ‘우리 손잡고’를 개최한다.\n티켓은 오늘(2일) 오후 6시 위메프에서 예매할 수 있다.\n또한 5월 5일 전주국제영화제와 콜라보로 전주돔에서 개최하는 페스티벌 ‘Have A Nice Day’에 출연하며 6월에는 단독 콘서트를 계획하고 있다.\n오랜만의 대면 이벤트인 만큼 그를 기다린 팬들에게는 반가운 인사가 될 예정이다.\n한편 이민혁의 EP ‘다시 봄처럼, 안녕’은 오늘(2일) 정오, 모든 음원사이트를 통해 감상할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "싱어송라이터 이민혁이 새 EP ‘다시 봄처럼, 안녕’으로 돌아왔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 EP는 지난 2020년 7월 ‘소행성’ 발매 이후 약 1년 10개월 만에 발매되는 것으로 이민혁의 자작곡을 비롯한 총 다섯 곡의 발라드로 구성됐다. ‘다시 봄처럼, 안녕’은 운명처럼 연결된 사랑에 관한 이야기로 이민혁은 작곡가 김희원, HEN(헨), 강버터(Kang Butter) 등과 함께 곡을 완성했다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "타이틀곡 ‘목소리’는 꿈속에서 시간이 멈출지라도 상대와 함께 있고 싶은 마음, 깊은 사랑의 감정이 담겨 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서정적인 스트링과 피아노 선율, 몽환적인 백 코러스 라인, 이민혁의 목소리가 한 곳에 모여 동화 같은 사랑을 그려냈다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이민혁은 발매를 기념해 오는 5월 8일, 첫 번째 팬 미팅 ‘우리 손잡고’를 개최한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "티켓은 오늘(2일) 오후 6시 위메프에서 예매할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 5월 5일 전주국제영화제와 콜라보로 전주돔에서 개최하는 페스티벌 ‘Have A Nice Day’에 출연하며 6월에는 단독 콘서트를 계획하고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오랜만의 대면 이벤트인 만큼 그를 기다린 팬들에게는 반가운 인사가 될 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 이민혁의 EP ‘다시 봄처럼, 안녕’은 오늘(2일) 정오, 모든 음원사이트를 통해 감상할 수 있다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이민혁, 오늘(2일) ‘다시 봄처럼, 안녕’ 발매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

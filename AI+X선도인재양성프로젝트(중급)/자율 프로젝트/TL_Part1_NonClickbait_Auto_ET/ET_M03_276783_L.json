@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276783",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'경찰청 홍보대사' 거짓말 한 예정화 \\\"실제 홍보대사는 아이유\\\"",
+		"newsSubTitle": "",
+		"newsContent": "예정화를 둘러싼 '거짓말 논란'이 재조명됐다.\n지난 29일 채널A '풍문으로 들었쇼'에서는 예정화가 SNS상에서 논란이 됐던 사건들을 언급했다.\n이날 패널들은 앞서 매화 가지를 꺾어 논란이 됐던 것을 언급하며 \\\"거짓말 논란이 이번이 처음이 아니다\\\"라고 말했다.\n한 기자는 2015년 예정화가 자신의 SNS에 '경찰청 홍보대사'라는 글을 올린 것이 화제가 됐었다고 말했다.\n당시 예정화는 자신의 인스타그램에 경찰 제복을 입고 찍은 사진을 올린 뒤 \\\"순경 예정화. 명예 경찰. 경찰청 홍보대사\\\"라고 적었다.\n하지만 이를 본 네티즌들은 \\\"경찰청 홍보대사는 아이유다\\\"라고 문제를 제기했고, 논란이 불거지자 그는 '경찰청 홍보대사'를 '부산 기장경찰서 홍보대사'로 변경했다.\n한편 예정화는 지난달 전북 전주 경기전의 명물인 '와룡매' 아래서 꺾인 꽃나무 가지를 든 채 사진을 찍어 논란이 된 바 있다.\n당시 그는 \\\"매화가 아닌 벚꽃\\\"이라고 해명했다가 매화임이 들통나 비판을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "예정화를 둘러싼 '거짓말 논란'이 재조명됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 29일 채널A '풍문으로 들었쇼'에서는 예정화가 SNS상에서 논란이 됐던 사건들을 언급했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 패널들은 앞서 매화 가지를 꺾어 논란이 됐던 것을 언급하며 \\\"거짓말 논란이 이번이 처음이 아니다\\\"라고 말했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 기자는 2015년 예정화가 자신의 SNS에 '경찰청 홍보대사'라는 글을 올린 것이 화제가 됐었다고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 예정화는 자신의 인스타그램에 경찰 제복을 입고 찍은 사진을 올린 뒤 \\\"순경 예정화. 명예 경찰. 경찰청 홍보대사\\\"라고 적었다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 이를 본 네티즌들은 \\\"경찰청 홍보대사는 아이유다\\\"라고 문제를 제기했고, 논란이 불거지자 그는 '경찰청 홍보대사'를 '부산 기장경찰서 홍보대사'로 변경했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 예정화는 지난달 전북 전주 경기전의 명물인 '와룡매' 아래서 꺾인 꽃나무 가지를 든 채 사진을 찍어 논란이 된 바 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 그는 \\\"매화가 아닌 벚꽃\\\"이라고 해명했다가 매화임이 들통나 비판을 받았다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'경찰청 홍보대사' 거짓말 한 예정화 \\\"실제 홍보대사는 아이유\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

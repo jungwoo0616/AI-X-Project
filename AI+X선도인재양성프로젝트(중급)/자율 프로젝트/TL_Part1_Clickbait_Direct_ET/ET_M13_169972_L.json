@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169972",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "고 최진실 아들 지플랫, ‘딜리버리’로 첫 연기 도전",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 지플랫(최환희)이 첫 연기에 도전한다.\n경기도주식회사(대표 이석훈)에 따르면 지플랫은 웹드라마 ‘딜리버리’제작 의 출연을 확정했다. ‘딜리버리’는 경기도 지역에서 서비스되는 배달 어플리케이션 ‘배달특급’을 운영하는 경기도주식회사에서 제작하는 웹드라마다.\n경기도 지역 중소기업들의 제품을 드라마 중에 노출해 지역 경제를 활성화하기 위한 공익적인 목적으로 제작된다.\n지플랫은 ‘딜리버리’의 독특한 시나리오와 캐릭터가 마음에 들어 코로나19로 어려운 시기에 지자체 중소기업과 전통시장 소상공인들을 응원하는 의미에서 이번 출연을 흔쾌히 결정했다고 한다.\n지플랫은 이번 작품에서 함께 출연을 확정한 (여자)아이들 멤버 미연과 함께 액션신으로 호흡을 맞춘다.\n지플랫은 이를 위해 액션 스쿨에서 강의까지 끊었다. ‘딜리버리’는 오는 9월 중 촬영되며 다음 달 10월 중 유튜브와 IPTV에 방영된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 지플랫(최환희)이 첫 연기에 도전한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "경기도주식회사(대표 이석훈)에 따르면 지플랫은 웹드라마 ‘딜리버리’제작 의 출연을 확정했다. ‘딜리버리’는 경기도 지역에서 서비스되는 배달 어플리케이션 ‘배달특급’을 운영하는 경기도주식회사에서 제작하는 웹드라마다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경기도 지역 중소기업들의 제품을 드라마 중에 노출해 지역 경제를 활성화하기 위한 공익적인 목적으로 제작된다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지플랫은 ‘딜리버리’의 독특한 시나리오와 캐릭터가 마음에 들어 코로나19로 어려운 시기에 지자체 중소기업과 전통시장 소상공인들을 응원하는 의미에서 이번 출연을 흔쾌히 결정했다고 한다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지플랫은 이번 작품에서 함께 출연을 확정한 (여자)아이들 멤버 미연과 함께 액션신으로 호흡을 맞춘다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지플랫은 이를 위해 액션 스쿨에서 강의까지 끊었다. ‘딜리버리’는 오는 9월 중 촬영되며 다음 달 10월 중 유튜브와 IPTV에 방영된다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "래퍼 지플랫과 (여자) 아이들 멤버 미연, 드라마에서 아찔한 액션신... 흘러넘치는 케미",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

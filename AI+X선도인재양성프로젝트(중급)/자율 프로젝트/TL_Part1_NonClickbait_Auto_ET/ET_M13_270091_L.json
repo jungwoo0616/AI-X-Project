@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270091",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "매진매진매진, 계속되는 ‘임영웅 신화’",
+		"newsSubTitle": "",
+		"newsContent": "가수 임영웅의 매진 신화는 계속된다.\n임영웅 소속사 물고기뮤직은 지난 12일 오후 8시 인터넷 예매 사이트 예스24에서 진행된 ‘2022 임영웅 전국 투어 콘서트-아임 히어로(IM HERO)’ 대전 공연 티켓 예매가 시작과 동시에 매진됐다고 13일 밝혔다.\n이미 세 차례 콘서트 예매에서 ‘피켓팅’(피 튀기는 티켓팅 경쟁)사태를 보인 임영웅 콘서트 예매는 이번에도 치열한 경쟁과 함께 매진이 예견됐다.\n고양의 비롯해 창원과 광주, 이번 대전 공연까지 모두 전석 매진을 기록한 임영웅은 다채로운 매력은 물론 풍성한 볼거리와 들을 거리로 관객을 사로잡고 있다.\n임영웅은 고양 콘서트에서 약 2만3000명의 ‘영웅시대’(임영웅 팬덤)과 함께 소통하는 무대로 전 세대를 아우르는 축제 무대를 꾸렸다.\n앞으로 남은 공연들에 대한 기대감도 커진 상황이다.\n임영웅의 전국 투어 일정은 오는 20일 오후 7시 30분, 21일 오후 6시, 22일 오후 5시 창원에서 이어진다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임영웅의 매진 신화는 계속된다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임영웅 소속사 물고기뮤직은 지난 12일 오후 8시 인터넷 예매 사이트 예스24에서 진행된 ‘2022 임영웅 전국 투어 콘서트-아임 히어로(IM HERO)’ 대전 공연 티켓 예매가 시작과 동시에 매진됐다고 13일 밝혔다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이미 세 차례 콘서트 예매에서 ‘피켓팅’(피 튀기는 티켓팅 경쟁)사태를 보인 임영웅 콘서트 예매는 이번에도 치열한 경쟁과 함께 매진이 예견됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고양의 비롯해 창원과 광주, 이번 대전 공연까지 모두 전석 매진을 기록한 임영웅은 다채로운 매력은 물론 풍성한 볼거리와 들을 거리로 관객을 사로잡고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임영웅은 고양 콘서트에서 약 2만3000명의 ‘영웅시대’(임영웅 팬덤)과 함께 소통하는 무대로 전 세대를 아우르는 축제 무대를 꾸렸다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞으로 남은 공연들에 대한 기대감도 커진 상황이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "임영웅의 전국 투어 일정은 오는 20일 오후 7시 30분, 21일 오후 6시, 22일 오후 5시 창원에서 이어진다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "매진매진매진, 계속되는 ‘임영웅 신화’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

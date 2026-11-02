@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263243",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘주간아’ 트레저, 첫 단독 콘서트 살짝 맛보기",
+		"newsSubTitle": "",
+		"newsContent": "트레저가 콘서트 스포일러를 공개한다. 9일(수) 저녁 7시 30분 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 첫 미니앨범 ‘THE SECOND STEP : CHAPTER ONE‘의 타이틀곡 ’직진 (JIKJIN)’으로 컴백한 그룹 트레저(TREASURE)가 출연한다. 4월에 데뷔 이후 첫 단독 콘서트를 여는 트레저는 이날 ‘주간아이돌’에서 대형 스포일러를 공개할 예정이다.\n트레저는 오프닝에서부터 “(콘서트 때문에) 너무 행복하다”라며 첫 콘서트에 대한 설렘을 감추지 못했다.\n이어 ‘소원 수리 센터’에서 팬들의 요청에 본격적으로 깜짝 스포일러 방출에 나선다.\n트레저는 이번 콘서트에서 “커버 무대를 비롯한 새로운 무대들을 많이 보여준다”라고 밝힌다.\n또한 베테랑 아이돌 MC은혁은 연차를 거듭하면서 달라지는 콘서트의 찐 변화를 폭로해 스튜디오를 웃음바다로 물들일 예정이다.\n첫 단독 콘서트를 앞둔 트레저의의 대형 스포일러는 3월 9일(수요) 오후 7시 30분 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트레저가 콘서트 스포일러를 공개한다. 9일(수) 저녁 7시 30분 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 첫 미니앨범 ‘THE SECOND STEP : CHAPTER ONE‘의 타이틀곡 ’직진 (JIKJIN)’으로 컴백한 그룹 트레저(TREASURE)가 출연한다. 4월에 데뷔 이후 첫 단독 콘서트를 여는 트레저는 이날 ‘주간아이돌’에서 대형 스포일러를 공개할 예정이다.",
+				"sentenceSize": 223
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트레저는 오프닝에서부터 “(콘서트 때문에) 너무 행복하다”라며 첫 콘서트에 대한 설렘을 감추지 못했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 ‘소원 수리 센터’에서 팬들의 요청에 본격적으로 깜짝 스포일러 방출에 나선다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트레저는 이번 콘서트에서 “커버 무대를 비롯한 새로운 무대들을 많이 보여준다”라고 밝힌다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 베테랑 아이돌 MC은혁은 연차를 거듭하면서 달라지는 콘서트의 찐 변화를 폭로해 스튜디오를 웃음바다로 물들일 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "첫 단독 콘서트를 앞둔 트레저의의 대형 스포일러는 3월 9일(수요) 오후 7시 30분 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에서 확인할 수 있다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘주간아’ 트레저, 첫 단독 콘서트 살짝 맛보기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270731",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘비밀의 집’ 강별, 서하준에 “내 손 잡고 이승연-정헌 복수해”",
+		"newsSubTitle": "",
+		"newsContent": "‘비밀의 집’ 강별이 서하준에게 복수를 제안했다.\n19일 오후 방송된 MBC 일일드라마 ‘비밀의 집’에서는 서하준에게 증거를 줄 테니 이승연, 정헌에게 복수하라고 제안하는 강별의 모습이 전파를 탔다.\n이날 남태희(강별)는 우지환(서하준)을 찾았다.\n그는 “연락도 없이 불쑥 찾아와서 미안해”라고 말했고 우지환은 “내가 바빠서 용건만 간단히 말해줬으면 좋겠다”라고 차갑게 말했다.\n남태희는 안경선(윤복인)에게 무슨 일이 일어났는지 다 안다고 말했고 우지환은 “그냥 그렇게 모른 채로 있어. 넌 끝까지 몰랐으면 좋겠다”라고 말했다.\n이에 남태희는 “우리 어머니랑 오빠한테 복수하고 싶은 거잖아. 그래서 나 밀어내는 거잖아”라고 말했으나 상관없는 일이라는 말을 들었다.\n단호한 우지환에 남태희는 “만약에 나한테 증거가 있으면? 내가 그거 오빠한테 주겠다고 하면 나 받아 줄거야? 내가 줄게. 내가 그거 오빠한테 줄테니까 내 손 잡아. 내 손 잡고 복수해”라고 제안했다.\n한편 MBC 일일드라마 ‘비밀의 집’은 매주 월~금 오후 7시 5분에 만나볼 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘비밀의 집’ 강별이 서하준에게 복수를 제안했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 오후 방송된 MBC 일일드라마 ‘비밀의 집’에서는 서하준에게 증거를 줄 테니 이승연, 정헌에게 복수하라고 제안하는 강별의 모습이 전파를 탔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 남태희(강별)는 우지환(서하준)을 찾았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “연락도 없이 불쑥 찾아와서 미안해”라고 말했고 우지환은 “내가 바빠서 용건만 간단히 말해줬으면 좋겠다”라고 차갑게 말했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남태희는 안경선(윤복인)에게 무슨 일이 일어났는지 다 안다고 말했고 우지환은 “그냥 그렇게 모른 채로 있어. 넌 끝까지 몰랐으면 좋겠다”라고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 남태희는 “우리 어머니랑 오빠한테 복수하고 싶은 거잖아. 그래서 나 밀어내는 거잖아”라고 말했으나 상관없는 일이라는 말을 들었다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "단호한 우지환에 남태희는 “만약에 나한테 증거가 있으면? 내가 그거 오빠한테 주겠다고 하면 나 받아 줄거야? 내가 줄게. 내가 그거 오빠한테 줄테니까 내 손 잡아. 내 손 잡고 복수해”라고 제안했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 MBC 일일드라마 ‘비밀의 집’은 매주 월~금 오후 7시 5분에 만나볼 수 있다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘비밀의 집’ 강별, 서하준에 “내 손 잡고 이승연-정헌 복수해”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

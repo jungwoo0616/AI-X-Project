@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278220",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "무한도전 고지용, 연예계 은퇴에 대해 \\\"끼가 없다고 생각했다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "그룹 젝스키스의 멤버 고지용이 '무한도전'에 출연해 지난 16년 동안 있었던 이야기를 전했다.\n23일 방송된 MBC 예능프로그램 ‘무한도전’에서는 유재석이 연예계에서 은퇴해 사업을 하고 있는 고지용을 찾아간 장면이 방송됐다.\n유재석과 고지용은 젝스키스 해체 이후의 이야기를 나눴다.\n고지용은 “사업을 하고 있다. 방송 일은 안 했다. 끼가 없다고 생각했다. 무대가 그립다기 보단 그때 시절이 그리운 건 있다”며 그간 심경을 토로했다.\n이어 고지용은 “‘무한도전’에서 찾아준 게 영광이다. 현실적으로는 힘든 부분이 많이 있다. 내가 하는 일이 있으니까 연습하는 시간 자체가 힘든 것도 있다. 그리고 나랑 같이 일하는 사람들에게 실례가 되는 부분이 있을 수도 있다”고 말했다.\n이에 유재석은 고지용에게 예전 기억을 다시 한 번 짚어주었다.\n유재석은 “젝스키스 멤버들의 이름을 기억하냐”고 물었고, 이에 고지용은 막힘없이 멤버들의 이름을 말했다.\n또 회사생활을 하면서 회식자리에서 젝스키스의 노래를 부른 적이 있냐고 묻는 질문에는 “억지로 부른 적은 있다”고 말해 웃음을 자아냈다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 젝스키스의 멤버 고지용이 '무한도전'에 출연해 지난 16년 동안 있었던 이야기를 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 방송된 MBC 예능프로그램 ‘무한도전’에서는 유재석이 연예계에서 은퇴해 사업을 하고 있는 고지용을 찾아간 장면이 방송됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유재석과 고지용은 젝스키스 해체 이후의 이야기를 나눴다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고지용은 “사업을 하고 있다. 방송 일은 안 했다. 끼가 없다고 생각했다. 무대가 그립다기 보단 그때 시절이 그리운 건 있다”며 그간 심경을 토로했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 고지용은 “‘무한도전’에서 찾아준 게 영광이다. 현실적으로는 힘든 부분이 많이 있다. 내가 하는 일이 있으니까 연습하는 시간 자체가 힘든 것도 있다. 그리고 나랑 같이 일하는 사람들에게 실례가 되는 부분이 있을 수도 있다”고 말했다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 유재석은 고지용에게 예전 기억을 다시 한 번 짚어주었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유재석은 “젝스키스 멤버들의 이름을 기억하냐”고 물었고, 이에 고지용은 막힘없이 멤버들의 이름을 말했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 회사생활을 하면서 회식자리에서 젝스키스의 노래를 부른 적이 있냐고 묻는 질문에는 “억지로 부른 적은 있다”고 말해 웃음을 자아냈다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "무한도전 고지용, 연예계 은퇴에 대해 \\\"끼가 없다고 생각했다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

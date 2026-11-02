@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283993",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "하연수, 어린시절 졸업사진…\\\"지금이랑 비교해보니?\\\" 헉",
+		"newsSubTitle": "",
+		"newsContent": "하연수, 어린시절 졸업사진 보니?…\n\\\"그때도 꼬부기인가\\\" 하연수가 화제인 가운데 그의 학창시절 졸업 사진이 눈길을 끈다.\n최근 온라인 커뮤니티에는 배우 하연수의 어린 시절 사진이 올라왔다.\n공개된 사진에는 하연수의 본명으로 알려진 '김인혜'라는 이름이 적혀 있다.\n사진 속 하연수는 앙증맞은 볼살과 동그란 이마로 귀여운 매력을 발산하고 있다.\n이에 네티즌들은 \\\"하연수, 어릴 때랑 닮았네\\\",\\\" 하연수, 그때도 꼬부기?\\\" 등의 반응을 보였다.\n온라인 중앙일보 하연수[사진 온라인 커뮤니티]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하연수, 어린시절 졸업사진 보니?…",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "\\\"그때도 꼬부기인가\\\" 하연수가 화제인 가운데 그의 학창시절 졸업 사진이 눈길을 끈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 온라인 커뮤니티에는 배우 하연수의 어린 시절 사진이 올라왔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 사진에는 하연수의 본명으로 알려진 '김인혜'라는 이름이 적혀 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사진 속 하연수는 앙증맞은 볼살과 동그란 이마로 귀여운 매력을 발산하고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 네티즌들은 \\\"하연수, 어릴 때랑 닮았네\\\",\\\" 하연수, 그때도 꼬부기?\\\" 등의 반응을 보였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 하연수[사진 온라인 커뮤니티]",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하연수, 어린시절 졸업사진…\\\"지금이랑 비교해보니?\\\" 헉",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

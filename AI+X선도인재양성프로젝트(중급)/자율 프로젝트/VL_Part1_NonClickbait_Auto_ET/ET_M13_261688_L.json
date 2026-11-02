@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261688",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "카리나 중단발 공개, 팬들 “비상이다”",
+		"newsSubTitle": "",
+		"newsContent": "에스파의 카리나가 근황을 공개했다.\n카리나는 22일 버블을 통해 팬들에게 “유출을 허용한다”며 중단발을 한 사진을 공개했다.\n사진 속 그는 연한 화장과 함께 새초롬한 표정으로 카메라를 보고 있었다.\n연한 화장에도 뚜렷한 이목구비가 그의 미모를 돋보이게 한다.\n누리꾼들은 이에 “보자마자 소리질렀다. 정말예쁘다” “보면 볼수록 예쁘다” “중단발 미친 것 같이 예쁘다” “비상이다. 감탄 밖에 나오지 않는다” 며 폭발적인 관심을 보이고 있다.\n카리나는 지난 2020년 11월 그룹 에스파의 리더로 데뷔했다.\n최근 보아, 태연, 효연, 슬기, 웬디, 윈터와 함께 유닛 그룹 ‘갓 더 비트’로 활동하며 각종 음원차트에서 상위권을 기록하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에스파의 카리나가 근황을 공개했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카리나는 22일 버블을 통해 팬들에게 “유출을 허용한다”며 중단발을 한 사진을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 그는 연한 화장과 함께 새초롬한 표정으로 카메라를 보고 있었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연한 화장에도 뚜렷한 이목구비가 그의 미모를 돋보이게 한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리꾼들은 이에 “보자마자 소리질렀다. 정말예쁘다” “보면 볼수록 예쁘다” “중단발 미친 것 같이 예쁘다” “비상이다. 감탄 밖에 나오지 않는다” 며 폭발적인 관심을 보이고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카리나는 지난 2020년 11월 그룹 에스파의 리더로 데뷔했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 보아, 태연, 효연, 슬기, 웬디, 윈터와 함께 유닛 그룹 ‘갓 더 비트’로 활동하며 각종 음원차트에서 상위권을 기록하고 있다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카리나 중단발 공개, 팬들 “비상이다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

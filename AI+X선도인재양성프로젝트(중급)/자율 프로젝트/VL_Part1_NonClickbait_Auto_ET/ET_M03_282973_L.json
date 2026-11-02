@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282973",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "복면가왕 프레시맨, B.A.P 대현 \\\"이제 TV 다시 나옵니다\\\" 감동",
+		"newsSubTitle": "",
+		"newsContent": "복면가왕 프레시맨, B.A.P 대현 \\\"이제 TV 다시 나옵니다\\\" 감동 프레시맨의 정체는 그룹 B.A.P의 대현이었다.\n프레시맨은 22일 오후 방송된 MBC 예능 '복면가왕' 2라운드에 나서 남진의 '빈 잔'을 선곡했다.\n도입부에서 박자를 맞추지 못해 실수를 했으나 곧 안정감을 찾고 멋진 무대를 완성했다.\n판정단의 투표 결과 프레시맨이 16표를, 캣츠걸이 85표를 얻었고, 복면을 벗은 프레시맨의 정체는 B.A.P의 대현으로 밝혀져 놀라움을 자아냈다.\n대현은 소속사와의 갈등탓에 오랜 기간 방송을 쉬어야했던 사연을 소개했다.\n그는 \\\"장기간 쉬면서 아버지께서 격려를 많이 주셨다\\\"며 \\\"당시 노래방에 놀러갔었는데, 아버지께서 불러주시던 곡이 남진 선배님의 '빈잔'이었다\\\"고 말했다.\n이어 \\\"아버지 저 이제 TV 다시 나옵니다\\\"라고 인사했다.\n온라인 중앙일보 '복면가왕 프레시맨'",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "복면가왕 프레시맨, B.A.P 대현 \\\"이제 TV 다시 나옵니다\\\" 감동 프레시맨의 정체는 그룹 B.A.P의 대현이었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프레시맨은 22일 오후 방송된 MBC 예능 '복면가왕' 2라운드에 나서 남진의 '빈 잔'을 선곡했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "도입부에서 박자를 맞추지 못해 실수를 했으나 곧 안정감을 찾고 멋진 무대를 완성했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "판정단의 투표 결과 프레시맨이 16표를, 캣츠걸이 85표를 얻었고, 복면을 벗은 프레시맨의 정체는 B.A.P의 대현으로 밝혀져 놀라움을 자아냈다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대현은 소속사와의 갈등탓에 오랜 기간 방송을 쉬어야했던 사연을 소개했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 \\\"장기간 쉬면서 아버지께서 격려를 많이 주셨다\\\"며 \\\"당시 노래방에 놀러갔었는데, 아버지께서 불러주시던 곡이 남진 선배님의 '빈잔'이었다\\\"고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 \\\"아버지 저 이제 TV 다시 나옵니다\\\"라고 인사했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 중앙일보 '복면가왕 프레시맨'",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "복면가왕 프레시맨, B.A.P 대현 \\\"이제 TV 다시 나옵니다\\\" 감동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

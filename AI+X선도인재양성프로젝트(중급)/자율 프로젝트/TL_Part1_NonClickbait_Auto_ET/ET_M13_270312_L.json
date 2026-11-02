@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270312",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "배윤정, 자극적 제목 저격…“이건 너무 하네”",
+		"newsSubTitle": "",
+		"newsContent": "안무가 배윤정이 자극적인 제목의 보도 자제를 요청했다.\n배윤정은 16일 자신의 사회관계망서비스(SNS)에 “아무리 자극적이게 써야한다해도 이건 너무 하네요 ㅋㅋㅋ”라는 글과 함께 사진을 게재했다.\n공개된 사진은 기사 캡처 사진으로 ‘“남편 때문에 죽고 싶어” 배윤정, 子 돌도 안 지났는데 ’이혼 위기‘’라는 제목의 기사다.\n기사 내용은 방영을 앞둔 프로그램 예고다.\n결혼 생활 중인 배윤정이 게스트로 출연할 예정이다.\n배윤정은 “누가 보면 진짜인 줄... 누구나 부부관계에 서로 트러블은 있는 것인데 너무 가셨네요. 저희 가족 너무 잘 지내고 있어요. 너무 극단적인 기사 그만 부탁드릴게요. 여보 사랑해”라며 사실과 다른 자극적인 기사를 자제해줄 것을 부탁했다.\n배윤정이 지적한 기사는 현재 수정 없이 배윤정이 캡처한 상태 그대로 유지 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안무가 배윤정이 자극적인 제목의 보도 자제를 요청했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배윤정은 16일 자신의 사회관계망서비스(SNS)에 “아무리 자극적이게 써야한다해도 이건 너무 하네요 ㅋㅋㅋ”라는 글과 함께 사진을 게재했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진은 기사 캡처 사진으로 ‘“남편 때문에 죽고 싶어” 배윤정, 子 돌도 안 지났는데 ’이혼 위기‘’라는 제목의 기사다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기사 내용은 방영을 앞둔 프로그램 예고다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "결혼 생활 중인 배윤정이 게스트로 출연할 예정이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배윤정은 “누가 보면 진짜인 줄... 누구나 부부관계에 서로 트러블은 있는 것인데 너무 가셨네요. 저희 가족 너무 잘 지내고 있어요. 너무 극단적인 기사 그만 부탁드릴게요. 여보 사랑해”라며 사실과 다른 자극적인 기사를 자제해줄 것을 부탁했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "배윤정이 지적한 기사는 현재 수정 없이 배윤정이 캡처한 상태 그대로 유지 중이다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배윤정, 자극적 제목 저격…“이건 너무 하네”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

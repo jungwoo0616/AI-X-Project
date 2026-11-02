@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263886",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이국주, 격리 중 입맛 없어 ‘대충’ 차린 밥상 ‘역시 야무져’",
+		"newsSubTitle": "",
+		"newsContent": "코미디언 이국주가 입맛이 없다고 토로하면서도 대식가다운 면모를 보였다.\n이국주는 지난 13일 자신의 SNS(인스타그램)를 통해 “대충 차려봤어요 대충.. 나도 입맛이 없을 때도 있구나”라면서 한 편의 짧은 영상을 게재했다.\n공개된 영상에는 이국주가 약재를 넣고 끓인 한방 삼계탕이 보글보글 끓고 있다.\n닭 한 마리에 낙지, 전복, 새우, 각종 채소, 면 사리까지 알차게 준비된 재료들이 눈에 띈다.\n영상에서 이국주는 “아 대충 먹어야겠다. 힘이 하나도 없네. 잘 차려놓고 먹어야 되는데...”라면서 안타까워했다.\n입맛이 없다고 토로하며 대충 차렸다는 한 상과는 달리 몸보신을 야무지게 하려고 차린 진수성찬 같아 보이는 음식 사진은 이국주의 “와 이런 거밖에 없네...”라는 말과 모순돼 웃음을 자아낸다.\n한편, 이국주는 지난달 27일 코로나19 확진 판정을 받았다.\n최근 자가격리를 끝냈지만 “격리 일주일 지나고도 몸이 좀 힘들다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코미디언 이국주가 입맛이 없다고 토로하면서도 대식가다운 면모를 보였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이국주는 지난 13일 자신의 SNS(인스타그램)를 통해 “대충 차려봤어요 대충.. 나도 입맛이 없을 때도 있구나”라면서 한 편의 짧은 영상을 게재했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상에는 이국주가 약재를 넣고 끓인 한방 삼계탕이 보글보글 끓고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "닭 한 마리에 낙지, 전복, 새우, 각종 채소, 면 사리까지 알차게 준비된 재료들이 눈에 띈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상에서 이국주는 “아 대충 먹어야겠다. 힘이 하나도 없네. 잘 차려놓고 먹어야 되는데...”라면서 안타까워했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "입맛이 없다고 토로하며 대충 차렸다는 한 상과는 달리 몸보신을 야무지게 하려고 차린 진수성찬 같아 보이는 음식 사진은 이국주의 “와 이런 거밖에 없네...”라는 말과 모순돼 웃음을 자아낸다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 이국주는 지난달 27일 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 자가격리를 끝냈지만 “격리 일주일 지나고도 몸이 좀 힘들다”고 밝혔다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이국주, 격리 중 입맛 없어 ‘대충’ 차린 밥상 ‘역시 야무져’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

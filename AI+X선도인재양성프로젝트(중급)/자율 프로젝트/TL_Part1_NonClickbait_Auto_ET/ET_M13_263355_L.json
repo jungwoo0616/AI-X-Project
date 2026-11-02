@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263355",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이하늬, 마스크 브랜드 모델 발탁",
+		"newsSubTitle": "",
+		"newsContent": "배우 이하늬가 마스크 브랜드의 모델로 발탁됐다.\n마스크 브랜드 ‘닥터퓨리(Dr.Puri)’ 측은 9일 이하늬의 모델 발탁소식을 알렸다.\n브랜드 측은 “믿고 보는 이하늬의 이미지와 믿고 쓰는 마스크의 브랜드 이미지가 잘 어우러져 모델로 발탁하게 됐다”며 “이번 모델 선정을 통해 기존 베스트셀러인 3D 입체형 마스크와 신제품 2D 새부리형 마스크로 시장을 선도하겠다”고 밝혔다.\n이하늬는 지난해 드라마 ‘원더우먼’으로 2021년 SBS ‘연기대상’ 최우수 연기상 수상과 더불어, 밝고 건강한 아름다움의 대명사로 다양한 제품군의 브랜드 모델로 활동하며 대중에게 큰 사랑을 받았다.\n이하늬는 이번 발탁을 통해 자신의 이름 가치를 다시 한 번 증명할 것으로 보인다.\n브랜드는 2020년 2월 마스크 대란 당시 원래 가격을 그대로 고수하는 ‘착한 마스크’로 화제가 되기도 했다.\n이하늬를 모델로 발탁한 ‘닥터퓨리’ 마스크는 네이버 스마트스토어를 비롯해 각종 오픈마켓에서 구매할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이하늬가 마스크 브랜드의 모델로 발탁됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마스크 브랜드 ‘닥터퓨리(Dr.Puri)’ 측은 9일 이하늬의 모델 발탁소식을 알렸다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "브랜드 측은 “믿고 보는 이하늬의 이미지와 믿고 쓰는 마스크의 브랜드 이미지가 잘 어우러져 모델로 발탁하게 됐다”며 “이번 모델 선정을 통해 기존 베스트셀러인 3D 입체형 마스크와 신제품 2D 새부리형 마스크로 시장을 선도하겠다”고 밝혔다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이하늬는 지난해 드라마 ‘원더우먼’으로 2021년 SBS ‘연기대상’ 최우수 연기상 수상과 더불어, 밝고 건강한 아름다움의 대명사로 다양한 제품군의 브랜드 모델로 활동하며 대중에게 큰 사랑을 받았다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이하늬는 이번 발탁을 통해 자신의 이름 가치를 다시 한 번 증명할 것으로 보인다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "브랜드는 2020년 2월 마스크 대란 당시 원래 가격을 그대로 고수하는 ‘착한 마스크’로 화제가 되기도 했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이하늬를 모델로 발탁한 ‘닥터퓨리’ 마스크는 네이버 스마트스토어를 비롯해 각종 오픈마켓에서 구매할 수 있다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이하늬, 마스크 브랜드 모델 발탁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

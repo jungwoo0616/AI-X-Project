@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_266264",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "워너미디어 경영진, 디스커버리 합병 앞두고 사표 이어져",
+		"newsSubTitle": "",
+		"newsContent": "미국 엔터테인먼트·미디어 기업 워너미디어 경영진들이 케이블 채널 사업자 디스커버리와의 합병을 앞두고 잇달아 사표를 냈다.\n6일(현지시간) 미국 연예 매체 할리우드리포터와 데드라인 등에 따르면 워너미디어 고위 임원 9명이 잇따라 사의를 표명했다.\n명단에는 워너미디어 최고경영자(CEO) 제이슨 킬라, 워너브러더스 CEO 앤 서노프, 스트리밍 플랫폼인 HBO맥스 대표 앤디 폴셀 등이 포함됐다.\n외신들은 워너미디어 경영진이 이번 합병을 주도한 데이비드 재슬러브 디스커버리 CEO의 의중을 반영해 물러난 것으로 해석했다.\n할리우드리포터는 “디스커버리와 합병을 앞두고 워너미디어 고위 임원들이 퇴출당한 것”이라고 전했다.\n데드라인도 “디스커버리의 워너미디어 경영진 숙청”이라며 “재슬러브는 자신의 기업 구조에 많은 지방이 껴있는 것을 좋아하지 않는 사람”이라고 전했다.\n재슬러브는 워너미디어 전반적인 사업을 감독하는 자리에 측근을 임명할 것이라는 전망이 나온다.\n워너미디어 자회사로는 영화 제작사 워너브러더스, 케이블 채널 HBO와 CNN, 스트리밍 플랫폼 HBO맥스 등이 있다.\n워너미디어는 미국 최대 통신사 AT&T에서 분리된 뒤 디스커버리와 합쳐 새 미디어 그룹인 ‘워너브러더스 디스커버리’로 재편된다.\nCNN은 합병 작업이 이르면 8일 완료될 것이라는 전망을 내놨다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 엔터테인먼트·미디어 기업 워너미디어 경영진들이 케이블 채널 사업자 디스커버리와의 합병을 앞두고 잇달아 사표를 냈다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일(현지시간) 미국 연예 매체 할리우드리포터와 데드라인 등에 따르면 워너미디어 고위 임원 9명이 잇따라 사의를 표명했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "명단에는 워너미디어 최고경영자(CEO) 제이슨 킬라, 워너브러더스 CEO 앤 서노프, 스트리밍 플랫폼인 HBO맥스 대표 앤디 폴셀 등이 포함됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "외신들은 워너미디어 경영진이 이번 합병을 주도한 데이비드 재슬러브 디스커버리 CEO의 의중을 반영해 물러난 것으로 해석했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "할리우드리포터는 “디스커버리와 합병을 앞두고 워너미디어 고위 임원들이 퇴출당한 것”이라고 전했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데드라인도 “디스커버리의 워너미디어 경영진 숙청”이라며 “재슬러브는 자신의 기업 구조에 많은 지방이 껴있는 것을 좋아하지 않는 사람”이라고 전했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "재슬러브는 워너미디어 전반적인 사업을 감독하는 자리에 측근을 임명할 것이라는 전망이 나온다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "워너미디어 자회사로는 영화 제작사 워너브러더스, 케이블 채널 HBO와 CNN, 스트리밍 플랫폼 HBO맥스 등이 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "워너미디어는 미국 최대 통신사 AT&T에서 분리된 뒤 디스커버리와 합쳐 새 미디어 그룹인 ‘워너브러더스 디스커버리’로 재편된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "CNN은 합병 작업이 이르면 8일 완료될 것이라는 전망을 내놨다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "워너미디어 경영진, 디스커버리 합병 앞두고 사표 이어져",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

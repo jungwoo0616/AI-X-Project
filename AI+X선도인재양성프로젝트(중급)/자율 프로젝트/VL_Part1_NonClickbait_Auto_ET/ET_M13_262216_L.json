@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262216",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘음중’ 임창정, 흥신흥왕 엔딩요정",
+		"newsSubTitle": "",
+		"newsContent": "가수 임창정이 유쾌한 엔딩요정에 등극했다.\n임창정은 26일 방송된 MBC ‘쇼! 음악중심’에 출연, 후속곡 ‘나는 트로트가 싫어요’로 무대를 꾸몄다.\n이날 임창정은 남다른 꺾기와 신명나는 흥을 대방출한 것은 물론, 주체할 수 없는 끼와 시원한 가창력으로 팬들을 사로잡았다.\n특히 임창정은 재치 있는 포인트 안무와 퍼포먼스로 유쾌한 에너지를 선사하는가 하면, 익살스러운 표정과 함께 다리 찢기 퍼포먼스로 웃음을 자아내며 엔딩요정에 등극했다. ‘나는 트로트가 싫어요’는 정규 17집 ‘별거 없던 그 하루로’의 후속 타이틀곡으로, 임창정이 직접 작사와 작곡에 참여해 완성도한 곡이다.\n이와 함께 ‘나는 트로트가 싫어요’의 뮤직비디오에는 이수근을 비롯해 신동, 넉살, 봉태규, 이지훈 등 여러 아티스트들이 출연하여 화제를 모은 바 있다.\n한편, 임창정은 앞으로도 다양한 음악과 활발한 활동으로 대중을 만날 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 임창정이 유쾌한 엔딩요정에 등극했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임창정은 26일 방송된 MBC ‘쇼! 음악중심’에 출연, 후속곡 ‘나는 트로트가 싫어요’로 무대를 꾸몄다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 임창정은 남다른 꺾기와 신명나는 흥을 대방출한 것은 물론, 주체할 수 없는 끼와 시원한 가창력으로 팬들을 사로잡았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 임창정은 재치 있는 포인트 안무와 퍼포먼스로 유쾌한 에너지를 선사하는가 하면, 익살스러운 표정과 함께 다리 찢기 퍼포먼스로 웃음을 자아내며 엔딩요정에 등극했다. ‘나는 트로트가 싫어요’는 정규 17집 ‘별거 없던 그 하루로’의 후속 타이틀곡으로, 임창정이 직접 작사와 작곡에 참여해 완성도한 곡이다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 함께 ‘나는 트로트가 싫어요’의 뮤직비디오에는 이수근을 비롯해 신동, 넉살, 봉태규, 이지훈 등 여러 아티스트들이 출연하여 화제를 모은 바 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 임창정은 앞으로도 다양한 음악과 활발한 활동으로 대중을 만날 예정이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘음중’ 임창정, 흥신흥왕 엔딩요정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

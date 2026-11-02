@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167318",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "목포시, ‘문화예술 신상품’ 음악축제 명칭 공모",
+    "newsSubTitle": "",
+    "newsContent": "전남 목포시가 목포음악축제(가칭) 명칭을 25일까지 공모한다.\n명칭은 국문, 영문, 기호 등 제한이 없으며 목포 시민이면 누구나 제안할 수 있다.\n참여 방법은 시 홈페이지(고시/공고)에서 공모 신청서를 내려받아 작성한 후 방문·우편·이메일로 제출하면 된다.\n시는 목포가 ‘한국대중음악의 산실’이자 ‘한류음악의 출발점’이라는 역사성과 상징성, 창의성, 적합성 등을 평가해 1등(100만원), 2등(30만원), 3등(20만원)에게 총 150만원의 시상금을 지급할 계획이다.\n선정된 명칭은 3월부터 공식 사용된다.\n올해 처음으로 선보일 목포음악축제는 오는 9월 30일부터 10월 3일까지 나흘 동안 갓바위 문화타운에서 개최된다.\n목포는 이난영 여사, 김씨스터즈, 작곡가 손석우, 남진 등 우리나라 가요사에 큰 발자취를 남긴 대중음악인들과 인연이 깊은 도시다.\n시는 이러한 음악적 자산을 바탕으로 음악 축제를 개최해 ‘음악의 도시’로 나아가겠다는 포부다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전남 목포시가 목포음악축제(가칭) 명칭을 25일까지 공모한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "명칭은 국문, 영문, 기호 등 제한이 없으며 목포 시민이면 누구나 제안할 수 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "참여 방법은 시 홈페이지(고시/공고)에서 공모 신청서를 내려받아 작성한 후 방문·우편·이메일로 제출하면 된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시는 목포가 ‘한국대중음악의 산실’이자 ‘한류음악의 출발점’이라는 역사성과 상징성, 창의성, 적합성 등을 평가해 1등(100만원), 2등(30만원), 3등(20만원)에게 총 150만원의 시상금을 지급할 계획이다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "선정된 명칭은 3월부터 공식 사용된다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해 처음으로 선보일 목포음악축제는 오는 9월 30일부터 10월 3일까지 나흘 동안 갓바위 문화타운에서 개최된다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "목포는 이난영 여사, 김씨스터즈, 작곡가 손석우, 남진 등 우리나라 가요사에 큰 발자취를 남긴 대중음악인들과 인연이 깊은 도시다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시는 이러한 음악적 자산을 바탕으로 음악 축제를 개최해 ‘음악의 도시’로 나아가겠다는 포부다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " 목포음악축제 명칭 공모... 목포 시민 누구나 제안 가능, 상금은 과연? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

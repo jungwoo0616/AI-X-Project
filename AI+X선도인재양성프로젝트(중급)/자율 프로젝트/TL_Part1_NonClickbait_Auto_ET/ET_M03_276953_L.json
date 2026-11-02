@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276953",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'프로듀스101' 전직 아이돌 하성운·노태현, 우월한 실력으로 '올A'",
+		"newsSubTitle": "",
+		"newsContent": "'프로듀스101 시즌2'에 출연 중인 하성운과 노태현이 깜짝 놀랄만한 실력으로 A등급을 받았다.\n14일 방송된 Mnet '프로듀스101 시즌2'에서는 지난주에 이어 A-F레벨 테스트가 진행됐다.\n이날 전직 아이돌 '핫샷'의 하성운과 노태현이 등장했다.\n하성운은 \\\"2016년도까지 한 것 같다\\\"며 연습한 무대를 선보였다.\n노태현은 크럼프를 완벽하게 소화했다.\n무대가 끝나자 보아는 \\\"이렇게 실력이 좋은데 왜 성공하지 못했을까\\\"라며 아쉬워했다.\n심사위원들은 이들에게 A등급을 줬다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'프로듀스101 시즌2'에 출연 중인 하성운과 노태현이 깜짝 놀랄만한 실력으로 A등급을 받았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 방송된 Mnet '프로듀스101 시즌2'에서는 지난주에 이어 A-F레벨 테스트가 진행됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 전직 아이돌 '핫샷'의 하성운과 노태현이 등장했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하성운은 \\\"2016년도까지 한 것 같다\\\"며 연습한 무대를 선보였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노태현은 크럼프를 완벽하게 소화했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "무대가 끝나자 보아는 \\\"이렇게 실력이 좋은데 왜 성공하지 못했을까\\\"라며 아쉬워했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "심사위원들은 이들에게 A등급을 줬다.",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'프로듀스101' 전직 아이돌 하성운·노태현, 우월한 실력으로 '올A'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

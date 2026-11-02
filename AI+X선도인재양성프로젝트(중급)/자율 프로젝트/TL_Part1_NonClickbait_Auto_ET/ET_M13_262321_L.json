@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262321",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘오징어게임’, 비영어권·한국 최초 美 SAG 스턴트상 수상",
+		"newsSubTitle": "",
+		"newsContent": "넷플릭스의 한국 드라마 ‘오징어 게임’이 27일(현지시간) 제28회 미국배우조합(SAG Awards)이 수여하는 TV 드라마 스턴트 부문에서 스턴트 앙상블상을 받았다.\n비영어권 드라마가 미국 배우조합 시상식 후보로 오른 것은 ‘오징어 게임’이 처음이다.\n한국 드라마로 최초이기도 하다.\nSAG는 이날 시상식 시작에 앞서 이 부문 수상작에 ‘오징어 게임’을 선정했다.\n2008년 신설된 이 부문은 그해 최고 액션 연기가 담긴 작품과 배우들에게 주는 상이다. ‘오징어 게임’은 ‘코브라 카이’, ‘팰컨 앤드 윈터 솔져’, ‘로키’, ‘메어 오브 이스트 타운’을 제치고 수상의 영예를 안았다.\n한편, 미국 배우조합상은 세계 최대 규모의 배우 노조인 배우조합이 개최하는 시상식이다.\n제작가조합상(PGA), 감독조합상(DGA), 작가조합상(WAG)과 함께 4대 조합상으로 손꼽히며, ‘오스카 바로미터’로 불린다. ‘오징어 게임’은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담은 넷플릭스 시리즈로 지난 9월 공개됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷플릭스의 한국 드라마 ‘오징어 게임’이 27일(현지시간) 제28회 미국배우조합(SAG Awards)이 수여하는 TV 드라마 스턴트 부문에서 스턴트 앙상블상을 받았다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비영어권 드라마가 미국 배우조합 시상식 후보로 오른 것은 ‘오징어 게임’이 처음이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국 드라마로 최초이기도 하다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SAG는 이날 시상식 시작에 앞서 이 부문 수상작에 ‘오징어 게임’을 선정했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2008년 신설된 이 부문은 그해 최고 액션 연기가 담긴 작품과 배우들에게 주는 상이다. ‘오징어 게임’은 ‘코브라 카이’, ‘팰컨 앤드 윈터 솔져’, ‘로키’, ‘메어 오브 이스트 타운’을 제치고 수상의 영예를 안았다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 미국 배우조합상은 세계 최대 규모의 배우 노조인 배우조합이 개최하는 시상식이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제작가조합상(PGA), 감독조합상(DGA), 작가조합상(WAG)과 함께 4대 조합상으로 손꼽히며, ‘오스카 바로미터’로 불린다. ‘오징어 게임’은 456억 원의 상금이 걸린 의문의 서바이벌에 참가한 사람들이 최후의 승자가 되기 위해 목숨을 걸고 극한의 게임에 도전하는 이야기를 담은 넷플릭스 시리즈로 지난 9월 공개됐다.",
+				"sentenceSize": 179
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘오징어게임’, 비영어권·한국 최초 美 SAG 스턴트상 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

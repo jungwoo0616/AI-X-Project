@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_283472",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "IS에 사이버 공격 예고, 어나니머스 \\\"IS에 대대적인 공격 실시할 것\\\"",
+		"newsSubTitle": "",
+		"newsContent": "IS에 사이버 공격 예고, 어나니머스 \\\"IS에 대대적인 공격 실시할 것\\\" 국제 해커조직 어나니머스가 수니파 극단주의 무장조직 IS에 사이버 공격을 예고했다.\n어나니머스는 지난 13일(현지시각) 프랑스 파리에서 테러를 자행한 IS를 응징하기 위해 공격을 할 것이라고 16일 밝혔다.\n어나니머스는 \\\"프랑스 국민은 강하다. 전세계 어나니머스 회원들이 IS에 대한 대대적인 공격을 조만간 실시할 것\\\"이라며 \\\"IS의 본거지를 찾아내 더이상의 테러를 하지못하도록 막겠다\\\"고 강조했다.\n어나니머스가 IS에 공격을 하는 것은 이번이 처음은 아니다.\n어나니머스는 지난 1월 프랑스 파리에 위치한 풍자 주간지 '샤를리 에브도'에 테러를 감행, 10여 명을 살해한 IS의 트위터와 페이스북 등 소셜네트워크(SNS) 계정을 해킹해 마비시켰다.\n한편 13일 프랑스 파리에서는 IS에 의한 동시다발 테러로 120여 명의 사상자가 발생했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IS에 사이버 공격 예고, 어나니머스 \\\"IS에 대대적인 공격 실시할 것\\\" 국제 해커조직 어나니머스가 수니파 극단주의 무장조직 IS에 사이버 공격을 예고했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "어나니머스는 지난 13일(현지시각) 프랑스 파리에서 테러를 자행한 IS를 응징하기 위해 공격을 할 것이라고 16일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "어나니머스는 \\\"프랑스 국민은 강하다. 전세계 어나니머스 회원들이 IS에 대한 대대적인 공격을 조만간 실시할 것\\\"이라며 \\\"IS의 본거지를 찾아내 더이상의 테러를 하지못하도록 막겠다\\\"고 강조했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어나니머스가 IS에 공격을 하는 것은 이번이 처음은 아니다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어나니머스는 지난 1월 프랑스 파리에 위치한 풍자 주간지 '샤를리 에브도'에 테러를 감행, 10여 명을 살해한 IS의 트위터와 페이스북 등 소셜네트워크(SNS) 계정을 해킹해 마비시켰다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 13일 프랑스 파리에서는 IS에 의한 동시다발 테러로 120여 명의 사상자가 발생했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IS에 사이버 공격 예고, 어나니머스 \\\"IS에 대대적인 공격 실시할 것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

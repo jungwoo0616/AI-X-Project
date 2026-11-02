@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167059",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배우 이시우, 채연 ‘난 가끔 눈물을 흘린다’ 뮤비서 애절한 연기",
+    "newsSubTitle": "",
+    "newsContent": "배우 이시우가 가수 채연의 신곡 ‘난 가끔 눈물을 흘린다’ 뮤직비디오의 주인공으로 등장, 애절한 연기를 선보였다.\n지난 18일 공개된 채연의 신곡 ‘난 가끔 눈물을 흘린다’는 서정적인 현악기와 피아노 연주가 듣는 이들의 감성을 자극하는 정통 발라드 곡으로 이시우는 이 곡 뮤직비디오의 주인공을 맡았다.\n이시우는 뮤직비디오에서 기쁨, 슬픔, 공허함 등 다양한 감정을 표현해내며 곡 몰입도를 높이고 애절한 감정을 극대화하며 듣고 보는 재미를 더했다.\n이시우는 앞서 JTBC ‘시지프스’로 데뷔와 동시에 웹드라마 ‘오늘부터 계약연애’에 출연하며 눈도장을 찍었다.\n최근영화 ‘롱디’에서 SNS 스타 가은 역을 맡아 스크린에도 도전, 다양한 방면으로 활약하고 있다.\n또 특유의 맑은 이미지로 휴대폰 광고는 물론 패션, 뷰티 등 다양한 분야의 광고까지 꿰차며 광고계에서도 사랑을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이시우가 가수 채연의 신곡 ‘난 가끔 눈물을 흘린다’ 뮤직비디오의 주인공으로 등장, 애절한 연기를 선보였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 18일 공개된 채연의 신곡 ‘난 가끔 눈물을 흘린다’는 서정적인 현악기와 피아노 연주가 듣는 이들의 감성을 자극하는 정통 발라드 곡으로 이시우는 이 곡 뮤직비디오의 주인공을 맡았다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이시우는 뮤직비디오에서 기쁨, 슬픔, 공허함 등 다양한 감정을 표현해내며 곡 몰입도를 높이고 애절한 감정을 극대화하며 듣고 보는 재미를 더했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이시우는 앞서 JTBC ‘시지프스’로 데뷔와 동시에 웹드라마 ‘오늘부터 계약연애’에 출연하며 눈도장을 찍었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근영화 ‘롱디’에서 SNS 스타 가은 역을 맡아 스크린에도 도전, 다양한 방면으로 활약하고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 특유의 맑은 이미지로 휴대폰 광고는 물론 패션, 뷰티 등 다양한 분야의 광고까지 꿰차며 광고계에서도 사랑을 받고 있다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "채연의 신곡 '난 가끔 눈물을 흘린다' 뮤직비디오에서 애절한 연기 보여준 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

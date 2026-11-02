@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169657",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'정글의 법칙' 서강준, 과거 졸업사진 화제 ‘일진 포스?’",
+    "newsSubTitle": "",
+    "newsContent": "'정글의 법칙' 서강준 '정글의 법칙' 서강준, 과거 졸업사진 화제 ‘일진 포스?’ 5일 시청률 조사회사 닐슨코리아에 따르면 지난 4일 방송된 SBS 예능프로그램 '정글의 법칙 in 통가'는 전국기준 13.5%의 시청률을 기록했다.\n이는 지난 방송분이 기록한 11.6%에 비해 1.9%포인트 상승한 수치다.\n이날 방송에는 설현 서강준 B1A4 산들 인피니트 성종 2PM 찬성 홍윤화 매드타운 조타 등이 출연하는 통가 편을 그려졌다.\n한편 정글의 법칙에 출연한 서강준이 화제가 되면서 온라인 커뮤니티에서는 과거 서강준의 졸업 사진이 다시금 누리꾼들 사이에서 인기를 끌고 있다.\n지금과 다르지 않은 뽀얀 피부와 날카로운 눈매가 돋보인다는 평이다.\n누리꾼들은 이에 대해 “잘생긴 일진 포스가 나네요~”, “훈훈하다, 여전히 잘생김”이라며 반응하였다.\n서강준은 1993년 10월 12일 출생 탤런트로서 최근 tvN ‘치즈인더트랩’에서 백인호 역으로 사랑을 받은 바 있다.\n온라인 중앙일보 [사진 온라인 커뮤니티 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'정글의 법칙' 서강준 '정글의 법칙' 서강준, 과거 졸업사진 화제 ‘일진 포스?’ 5일 시청률 조사회사 닐슨코리아에 따르면 지난 4일 방송된 SBS 예능프로그램 '정글의 법칙 in 통가'는 전국기준 13.5%의 시청률을 기록했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 지난 방송분이 기록한 11.6%에 비해 1.9%포인트 상승한 수치다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에는 설현 서강준 B1A4 산들 인피니트 성종 2PM 찬성 홍윤화 매드타운 조타 등이 출연하는 통가 편을 그려졌다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 정글의 법칙에 출연한 서강준이 화제가 되면서 온라인 커뮤니티에서는 과거 서강준의 졸업 사진이 다시금 누리꾼들 사이에서 인기를 끌고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지금과 다르지 않은 뽀얀 피부와 날카로운 눈매가 돋보인다는 평이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "누리꾼들은 이에 대해 “잘생긴 일진 포스가 나네요~”, “훈훈하다, 여전히 잘생김”이라며 반응하였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서강준은 1993년 10월 12일 출생 탤런트로서 최근 tvN ‘치즈인더트랩’에서 백인호 역으로 사랑을 받은 바 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 온라인 커뮤니티 캡처]",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서강준 졸업 사진 공개 후 누리꾼들 '과거 일진 설' 제기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

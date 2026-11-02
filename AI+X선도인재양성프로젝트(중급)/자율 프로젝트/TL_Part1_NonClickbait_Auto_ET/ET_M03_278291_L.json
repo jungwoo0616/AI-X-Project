@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278291",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'이혼' 정겨운, 과거 아내 향한 안타까운 편지… \\\"가장 행복했던 결혼생활\\\"",
+		"newsSubTitle": "",
+		"newsContent": "정겨운의 이혼 소식이 전해져 안타까움을 주고 있는 가운데 그의 과거 편지도 눈길을 끈다.\n지난해 4월 방송된 MBC '일밤-진짜사나이2'에서 정겨운은 출장을 앞두고 아내를 향한 사랑을 드러내는 손편지를 썼다.\n이날 방송에서 정겨운은 \\\"내가 당신 곁으로 다시 돌아가지 못하는 상황이 벌어질까 봐 편지를 쓴다\\\"라며 \\\"내 인생에 가장 잘한 일이 당신과 결혼 한 것이고, 가장 즐겁고 행복했던 시간이 당신과의 결혼 생활이다. 내 인생의 제일 소중한 사람 당신\\\"이라고 해 시청자들의 심금을 울렸다.\n한편 정겨운은 지난 2014년 4월 결혼했다.\n정겨운 소속사 관계자는 한 언론 매체를 통해 \\\"이혼 소송을 낸 건 맞다. 배우 사생활이라 그 이상은 언급하기 어렵다\\\"고 전했다.\n온라인 중앙일보 [사진 MBC '진짜사나이2' 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정겨운의 이혼 소식이 전해져 안타까움을 주고 있는 가운데 그의 과거 편지도 눈길을 끈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 4월 방송된 MBC '일밤-진짜사나이2'에서 정겨운은 출장을 앞두고 아내를 향한 사랑을 드러내는 손편지를 썼다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 방송에서 정겨운은 \\\"내가 당신 곁으로 다시 돌아가지 못하는 상황이 벌어질까 봐 편지를 쓴다\\\"라며 \\\"내 인생에 가장 잘한 일이 당신과 결혼 한 것이고, 가장 즐겁고 행복했던 시간이 당신과의 결혼 생활이다. 내 인생의 제일 소중한 사람 당신\\\"이라고 해 시청자들의 심금을 울렸다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편 정겨운은 지난 2014년 4월 결혼했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정겨운 소속사 관계자는 한 언론 매체를 통해 \\\"이혼 소송을 낸 건 맞다. 배우 사생활이라 그 이상은 언급하기 어렵다\\\"고 전했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인 중앙일보 [사진 MBC '진짜사나이2' 캡처]",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'이혼' 정겨운, 과거 아내 향한 안타까운 편지… \\\"가장 행복했던 결혼생활\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

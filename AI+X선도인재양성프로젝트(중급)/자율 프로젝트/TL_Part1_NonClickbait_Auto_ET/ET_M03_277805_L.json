@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277805",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'옆자리에 송중기가?' 소녀팬의 뛰어난 위치선정",
+		"newsSubTitle": "",
+		"newsContent": "방탄소년단 팬으로 추정되는 여성이 송중기와도 대화를 나눠 팬들의 부러움을 샀다.\n27일 서울 중구 장충동 국립극장 해오름극장에서는 '2016 대한민국 대중문화 예술상' 시상식이 열렸다.\n네이버 V앱으로 생중계된 시상식에서 방탄소년단은 축하공연을 진행했다.\n방송 화면에는 카메라로 공연을 찍는 한 여성팬과 카메라에 관심을 보이는 송중기의 모습이 포착됐다.\n소위 \\\"계 탄\\\" 소녀팬을 보고 네티즌들은 부러움을 표현하고 있다.\n또한 소탈한 송중기의 모습에 신선함을 느낀다는 의견도 있었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방탄소년단 팬으로 추정되는 여성이 송중기와도 대화를 나눠 팬들의 부러움을 샀다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 서울 중구 장충동 국립극장 해오름극장에서는 '2016 대한민국 대중문화 예술상' 시상식이 열렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버 V앱으로 생중계된 시상식에서 방탄소년단은 축하공연을 진행했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방송 화면에는 카메라로 공연을 찍는 한 여성팬과 카메라에 관심을 보이는 송중기의 모습이 포착됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소위 \\\"계 탄\\\" 소녀팬을 보고 네티즌들은 부러움을 표현하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 소탈한 송중기의 모습에 신선함을 느낀다는 의견도 있었다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'옆자리에 송중기가?' 소녀팬의 뛰어난 위치선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

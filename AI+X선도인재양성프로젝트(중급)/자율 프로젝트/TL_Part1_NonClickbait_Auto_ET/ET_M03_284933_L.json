@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_284933",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "후지이 미나, 한국과 일본의 가장 큰 차이점은…",
+		"newsSubTitle": "",
+		"newsContent": "'후지이 미나' 27일 방송된 JTBC '학교 다녀오겠습니다'에서 후지이 미나가 수업 도중 졸다가 선생님께 \\\"언제 사랑이 처음 시작됐냐, 생겼냐”고 물어, 시청자들의 웃음을 자아냈다.\n이에 과학 선생님은 물질이 만나야 사랑이 생긴다며 최초 물질이 만난 시점에 사랑이 생겼을 것이다라고 답했다.\n이와 관련, 과거 후지이 미나의 이색적인 한국과 일본의 문화 차이 발언에 눈길이 쏠린다.\n후지이 미나는 지난달 17일 방송된 KBS2 '해피투게더3'에서 한국과 일본의 문화차이를 묻는 질문에 가장 큰 차이점은 '감정 표현'이라고 밝혔다.\n후지이 미나가 느끼기에 한국 사람들은 일본 사람들에 비해 감정을 숨기지 않고, 직설적인 표현을 자주 한다는 것. 일례로 후지이 미나는 자신의 얼굴에 뾰루지가 올라왔을 때, 이를 가리키며 \\\"후지이 미나, 너 뭐(뾰루지) 났어\\\"라고 말한 한국인 때문에 얼굴이 붉어졌던 경험을 고백했다.\n후지이 미나는 덧붙여 일본 사람들은 그런 것(뾰루지)을 알아도 눈 감아주는 것이 예의라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'후지이 미나' 27일 방송된 JTBC '학교 다녀오겠습니다'에서 후지이 미나가 수업 도중 졸다가 선생님께 \\\"언제 사랑이 처음 시작됐냐, 생겼냐”고 물어, 시청자들의 웃음을 자아냈다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 과학 선생님은 물질이 만나야 사랑이 생긴다며 최초 물질이 만난 시점에 사랑이 생겼을 것이다라고 답했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 관련, 과거 후지이 미나의 이색적인 한국과 일본의 문화 차이 발언에 눈길이 쏠린다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "후지이 미나는 지난달 17일 방송된 KBS2 '해피투게더3'에서 한국과 일본의 문화차이를 묻는 질문에 가장 큰 차이점은 '감정 표현'이라고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "후지이 미나가 느끼기에 한국 사람들은 일본 사람들에 비해 감정을 숨기지 않고, 직설적인 표현을 자주 한다는 것. 일례로 후지이 미나는 자신의 얼굴에 뾰루지가 올라왔을 때, 이를 가리키며 \\\"후지이 미나, 너 뭐(뾰루지) 났어\\\"라고 말한 한국인 때문에 얼굴이 붉어졌던 경험을 고백했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "후지이 미나는 덧붙여 일본 사람들은 그런 것(뾰루지)을 알아도 눈 감아주는 것이 예의라고 말했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "후지이 미나, 한국과 일본의 가장 큰 차이점은…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

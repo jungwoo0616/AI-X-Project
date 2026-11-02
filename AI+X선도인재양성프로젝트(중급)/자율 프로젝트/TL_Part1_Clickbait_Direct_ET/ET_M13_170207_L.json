@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_170207",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "강소라 ‘새얼굴’ 컴백 임박?",
+    "newsSubTitle": "",
+    "newsContent": "배우 강소라가 출산 후 복귀를 알렸다.\n강소라는 17일 자신의 사회관계망서비스(SNS)에 새로운 프로필 사진 3장을 공개했다.\n강소라는 사진과 함께 “2022 new profile”라고 짧게 덧붙였다.\n사진 속 강소라는 화이트 셔츠, 블랙 터틀넥 니트를 입고 정면과 측면 얼굴을 클로즈업 시켰다.\n강소라는 2020년 8월, 여덟살 연상의 한의사 남편과 결혼해 지난해 4월 득녀했다.\n출산 후 약 10개월 간 휴식기를 거쳐 프로필 사진과 함께 복귀를 예고한 것. 한편 강소라는 영화 ‘써니’로 주목 받은 후 tvN 드라마 ‘미생’, MBC 드라마 ‘맨도롱또똣’, KBS 2TV 드라마 ‘동네변호사 조들호’, 영화 ‘파파로티’, ‘해치지 않아’ 등에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 강소라가 출산 후 복귀를 알렸다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강소라는 17일 자신의 사회관계망서비스(SNS)에 새로운 프로필 사진 3장을 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강소라는 사진과 함께 “2022 new profile”라고 짧게 덧붙였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 강소라는 화이트 셔츠, 블랙 터틀넥 니트를 입고 정면과 측면 얼굴을 클로즈업 시켰다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강소라는 2020년 8월, 여덟살 연상의 한의사 남편과 결혼해 지난해 4월 득녀했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "출산 후 약 10개월 간 휴식기를 거쳐 프로필 사진과 함께 복귀를 예고한 것. 한편 강소라는 영화 ‘써니’로 주목 받은 후 tvN 드라마 ‘미생’, MBC 드라마 ‘맨도롱또똣’, KBS 2TV 드라마 ‘동네변호사 조들호’, 영화 ‘파파로티’, ‘해치지 않아’ 등에 출연했다.",
+        "sentenceSize": 153
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여전한 볼륨감... 배우 강소라 출산 후 복귀한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

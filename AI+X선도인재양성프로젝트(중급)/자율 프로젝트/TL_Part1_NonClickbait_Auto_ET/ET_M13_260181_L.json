@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_260181",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "휘인, 카카오웹툰 ‘N번째 연애’와 음원 컬래버",
+		"newsSubTitle": "",
+		"newsContent": "가수 휘인이 카카오웹툰 ‘N번째 연애’와 음원 컬래버레이션을 펼친다. 7일 TOON STUDIO는 “휘인과 카카오웹툰 ‘N번째 연애’의 컬래버레이션 음원 ‘너, 너’가 오는 13일 발매된다”라고 밝혔다. ‘너, 너’는 2016년 밴드 스트레이(The Stray)의 ‘her’ 타이틀곡으로 발매된 곡이다.\n독보적인 음색의 아티스트 휘인이 카카오웹툰 ‘N번째 연애’를 위해 자신만의 스타일로 원곡을 재해석해 가창에 참여했다.\n다비치 이해리, 전상근, 멜로망스, 백지영, 허각, 카더가든에 이어 휘인이 ‘N번째 연애’와 어떤 시너지를 보여줄지 관심이 모아진다.\n율로 작가의 ‘N번째 연애’는 전 남자친구의 바람으로 장기 연애를 마무리 지은 나리가 소개팅에서 만난 매력남 무기와 연애를 시작하면서 벌어지는 현실 로맨스를 다룬 작품이다.\n카카오웹툰에서 연재된 이후, 누적 1.3억 뷰를 돌파하는 등 2030 독자들의 큰 공감대와 호응을 얻었다.\n휘인과 ‘N번째 연애’의 컬래버레이션 음원 ‘너, 너’는 오는 13일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 휘인이 카카오웹툰 ‘N번째 연애’와 음원 컬래버레이션을 펼친다. 7일 TOON STUDIO는 “휘인과 카카오웹툰 ‘N번째 연애’의 컬래버레이션 음원 ‘너, 너’가 오는 13일 발매된다”라고 밝혔다. ‘너, 너’는 2016년 밴드 스트레이(The Stray)의 ‘her’ 타이틀곡으로 발매된 곡이다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "독보적인 음색의 아티스트 휘인이 카카오웹툰 ‘N번째 연애’를 위해 자신만의 스타일로 원곡을 재해석해 가창에 참여했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다비치 이해리, 전상근, 멜로망스, 백지영, 허각, 카더가든에 이어 휘인이 ‘N번째 연애’와 어떤 시너지를 보여줄지 관심이 모아진다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "율로 작가의 ‘N번째 연애’는 전 남자친구의 바람으로 장기 연애를 마무리 지은 나리가 소개팅에서 만난 매력남 무기와 연애를 시작하면서 벌어지는 현실 로맨스를 다룬 작품이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오웹툰에서 연재된 이후, 누적 1.3억 뷰를 돌파하는 등 2030 독자들의 큰 공감대와 호응을 얻었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "휘인과 ‘N번째 연애’의 컬래버레이션 음원 ‘너, 너’는 오는 13일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "휘인, 카카오웹툰 ‘N번째 연애’와 음원 컬래버",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

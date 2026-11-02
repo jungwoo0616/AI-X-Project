@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269811",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘월드 스타’ 강수연, 11일 오전 발인·영결식",
+		"newsSubTitle": "",
+		"newsContent": "55세를 일기로 타계한 배우 강수연이 11일 영면에 든다. 고 강수연 장례위원회는 이날 오전 10시 삼성서울병원 장례식장에서 영결식을 엄수한다.\n김동호 전 부산국제영화제 이사장(현 강릉국제영화제 이사장)과 임권택·연상호 감독, 문소리·설경구 배우가 추도사를 하고 동료 영화인들의 추도영상이 상영된다.\n사회는 후배 유지태가 맡았다.\n장례위원회는 영결식을 영화진흥위원회 공식 유튜브 채널에서 생중계할 예정이다. ‘원조 월드스타’ 강수연은 지난 5일 오후 뇌출혈로 쓰러져 병원 치료를 받다가 7일 별세했다.\n영화계는 김동호 전 이사장을 위원장으로 장례위원회를 구성해 영화인장으로 장례를 치르고 있다.\n고인 유해는 서울추모공원에서 화장돼 용인공원에 안치된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "55세를 일기로 타계한 배우 강수연이 11일 영면에 든다. 고 강수연 장례위원회는 이날 오전 10시 삼성서울병원 장례식장에서 영결식을 엄수한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김동호 전 부산국제영화제 이사장(현 강릉국제영화제 이사장)과 임권택·연상호 감독, 문소리·설경구 배우가 추도사를 하고 동료 영화인들의 추도영상이 상영된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사회는 후배 유지태가 맡았다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장례위원회는 영결식을 영화진흥위원회 공식 유튜브 채널에서 생중계할 예정이다. ‘원조 월드스타’ 강수연은 지난 5일 오후 뇌출혈로 쓰러져 병원 치료를 받다가 7일 별세했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영화계는 김동호 전 이사장을 위원장으로 장례위원회를 구성해 영화인장으로 장례를 치르고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고인 유해는 서울추모공원에서 화장돼 용인공원에 안치된다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘월드 스타’ 강수연, 11일 오전 발인·영결식",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

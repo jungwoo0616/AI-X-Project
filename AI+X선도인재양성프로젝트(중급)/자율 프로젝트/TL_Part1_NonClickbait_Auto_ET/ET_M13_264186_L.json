@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264186",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "OTT 넷플릭스, 계정 공유에 추가 요금 부과…중남미 3개국 시행",
+		"newsSubTitle": "",
+		"newsContent": "OTT 넷플릭스가 한 가구에 함께 살지 않는 가족, 친구와 함께 콘텐츠 시청 계정을 공유하는 가입자를 대상으로 추가 요금을 부과하기로 했다.\n넷플릭스는 16일(현지시간) 블로그를 통해 새 요금제를 공개했다고 블룸버그 통신 등이 전했다.\n이 요금제는 칠레, 페루, 코스타리카에서 먼저 시행된다.\n중남미 3개 나라 가입자는 동거하지 않는 계정 공유자를 최대 2명까지 추가할 수 있고 이때 부과되는 요금은 칠레 2.97달러, 코스타리카 2.99달러, 페루 2.11달러다.\n넷플릭스는 계정 공유 추가 요금제를 다른 곳으로 확대하기에 앞서 이들 3개국 가입자를 대상으로 이 요금제의 유용성을 납득시키기 위해 노력하겠다고 밝혔다.\n영화 전문 매체 데드라인은 스트리밍 시장에서 경쟁이 치열해지고 가입자 확보도 정체되기 시작하자 넷플릭스가 수익 확대 수단으로 계정 공유 추가 요금제를 도입했다고 진단했다.\n넷플릭스는 최근 미국과 캐나다에서 서비스 요금을 인상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "OTT 넷플릭스가 한 가구에 함께 살지 않는 가족, 친구와 함께 콘텐츠 시청 계정을 공유하는 가입자를 대상으로 추가 요금을 부과하기로 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷플릭스는 16일(현지시간) 블로그를 통해 새 요금제를 공개했다고 블룸버그 통신 등이 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 요금제는 칠레, 페루, 코스타리카에서 먼저 시행된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중남미 3개 나라 가입자는 동거하지 않는 계정 공유자를 최대 2명까지 추가할 수 있고 이때 부과되는 요금은 칠레 2.97달러, 코스타리카 2.99달러, 페루 2.11달러다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "넷플릭스는 계정 공유 추가 요금제를 다른 곳으로 확대하기에 앞서 이들 3개국 가입자를 대상으로 이 요금제의 유용성을 납득시키기 위해 노력하겠다고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영화 전문 매체 데드라인은 스트리밍 시장에서 경쟁이 치열해지고 가입자 확보도 정체되기 시작하자 넷플릭스가 수익 확대 수단으로 계정 공유 추가 요금제를 도입했다고 진단했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "넷플릭스는 최근 미국과 캐나다에서 서비스 요금을 인상했다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "OTT 넷플릭스, 계정 공유에 추가 요금 부과…중남미 3개국 시행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

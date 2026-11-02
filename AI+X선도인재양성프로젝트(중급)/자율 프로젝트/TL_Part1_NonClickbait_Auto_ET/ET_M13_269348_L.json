@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269348",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "日 배우 와타나베 히로유키, 극단적 선택 사망",
+		"newsSubTitle": "",
+		"newsContent": "일본 배우 와타나베 히로유키가 자택에서 사망한 채 발견됐다.\n5일 일본 매체는 와타나베 히로유키가 3일 향년 66세로 사망했다고 보도했다.\n관계자에 따르면 고인은 자택의 지하에 있는 트레이닝룸에서 쓰러진 채로 발견됐다고 한다.\n소속사 측은 “와타나베 히로유키가 자택에서 목을 매 사망했다. 3일 낮 가족들에 의해 발견됐다”고 밝혔다.\n현지 매체에 따르면 고인은 생전 우울증을 앓고 있었으며 최근 투자 실패로 1억 엔의 경제적 손실을 보았다고 한다.\n고인의 아내 배우 하라 히데코는 소속사를 통해 “너무 갑작스러운 사건에 망연자실한 상황이다. 뭔가 답변을 드릴 수 있는 상황이 아니다. 마음의 정리가 된 후 다시 코멘트를 올릴 것”이라고 전했다.\n한편, 와타나베 히로유키는 1982년 영화 ‘온더로드’ 주연으로 데뷔했다.\n그는 배우 하라 히데코와 1994년 결혼하며 슬하에 1남 1녀를 뒀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 배우 와타나베 히로유키가 자택에서 사망한 채 발견됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 일본 매체는 와타나베 히로유키가 3일 향년 66세로 사망했다고 보도했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관계자에 따르면 고인은 자택의 지하에 있는 트레이닝룸에서 쓰러진 채로 발견됐다고 한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사 측은 “와타나베 히로유키가 자택에서 목을 매 사망했다. 3일 낮 가족들에 의해 발견됐다”고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현지 매체에 따르면 고인은 생전 우울증을 앓고 있었으며 최근 투자 실패로 1억 엔의 경제적 손실을 보았다고 한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고인의 아내 배우 하라 히데코는 소속사를 통해 “너무 갑작스러운 사건에 망연자실한 상황이다. 뭔가 답변을 드릴 수 있는 상황이 아니다. 마음의 정리가 된 후 다시 코멘트를 올릴 것”이라고 전했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 와타나베 히로유키는 1982년 영화 ‘온더로드’ 주연으로 데뷔했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 배우 하라 히데코와 1994년 결혼하며 슬하에 1남 1녀를 뒀다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日 배우 와타나베 히로유키, 극단적 선택 사망",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

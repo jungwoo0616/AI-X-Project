@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277053",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'학교에서 바로' 교복입고 출근하는 여자 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "'아이오아이' 출신 김소혜가 교복을 입고 방송국에 모습을 드러내 화제다.\n29일 오후 김소혜는 SBS '게임쇼-유희낙락' 녹화에 참석하기 위해 서울 양천구에 위치한 목동 SBS로 출근했다.\n김소혜는 교복에 검정색 패딩을 입고 한 손에는 대본을 든 채 모습을 드러냈다.\n어깨에는 큰 가방을 매고 한 손에는 대본을 든 채 팬들을 향해 인사를 건내며 웃기도 했다.\n하교 후 바로 온 듯한 이 모습은 영락없는 고등학생 소녀였다.\n한편 이날 촬영을 마친 SBS '게임쇼-유희낙락'은 오는 토요일 밤 1시에 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'아이오아이' 출신 김소혜가 교복을 입고 방송국에 모습을 드러내 화제다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 오후 김소혜는 SBS '게임쇼-유희낙락' 녹화에 참석하기 위해 서울 양천구에 위치한 목동 SBS로 출근했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김소혜는 교복에 검정색 패딩을 입고 한 손에는 대본을 든 채 모습을 드러냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어깨에는 큰 가방을 매고 한 손에는 대본을 든 채 팬들을 향해 인사를 건내며 웃기도 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하교 후 바로 온 듯한 이 모습은 영락없는 고등학생 소녀였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이날 촬영을 마친 SBS '게임쇼-유희낙락'은 오는 토요일 밤 1시에 방송된다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'학교에서 바로' 교복입고 출근하는 여자 아이돌",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

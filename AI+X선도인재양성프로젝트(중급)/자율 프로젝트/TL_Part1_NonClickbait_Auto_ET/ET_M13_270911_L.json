@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270911",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘범죄도시2’ 일일관객수 100만명↑…강력한 1위",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘범죄도시2’(감독 이상용) 일일관객수가 100만명이 넘었다.\n22일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘범죄도시2’는 21일 103만7033명이 관람해 박스오피스 1위에 올랐다.\n누적관객수 257만6930명이다. ‘범죄도시2’는 지난 18일 개봉해 개봉 4일만에 200만 관객을 돌파했다.\n이런 흥행 추이는 지난 팬데믹 이후 최고 흥행작인 ‘스파이더맨: 노 웨이 홈’(750만명)과 동일한 속도다.\n또한 2020년 ‘반도’의 7일, ‘다만 악에서 구하소서’ 5일째 200만 돌파 기록보다 빠르다. 2위는 ‘닥터 스트레인지: 대혼돈의 멀티버스’다. 14만3930명이 선택해 누적관객수 535만5655명을 완성했다. ‘배드 가이즈’와 ‘극장판 엉덩이 탐정: 수플레 섬의 비밀’은 나란히 3, 4위를 차지했다.\n각각 1만5983명, 3605명이 극장을 찾았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘범죄도시2’(감독 이상용) 일일관객수가 100만명이 넘었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘범죄도시2’는 21일 103만7033명이 관람해 박스오피스 1위에 올랐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누적관객수 257만6930명이다. ‘범죄도시2’는 지난 18일 개봉해 개봉 4일만에 200만 관객을 돌파했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이런 흥행 추이는 지난 팬데믹 이후 최고 흥행작인 ‘스파이더맨: 노 웨이 홈’(750만명)과 동일한 속도다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 2020년 ‘반도’의 7일, ‘다만 악에서 구하소서’ 5일째 200만 돌파 기록보다 빠르다. 2위는 ‘닥터 스트레인지: 대혼돈의 멀티버스’다. 14만3930명이 선택해 누적관객수 535만5655명을 완성했다. ‘배드 가이즈’와 ‘극장판 엉덩이 탐정: 수플레 섬의 비밀’은 나란히 3, 4위를 차지했다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각각 1만5983명, 3605명이 극장을 찾았다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘범죄도시2’ 일일관객수 100만명↑…강력한 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277141",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'가을동화가 나의 흑역사'... 한채영 눈물흘린 이유",
+		"newsSubTitle": "",
+		"newsContent": "배우 한채영이 드라마 '가을동화' 출연 당시 겪은 마음고생을 털어놨다.\n17일 방송될 KBS2 '언니들의 슬램덩크2'에서 한채영은 자신의 데뷔작이었던 '가을동화'를 촬영하며 겪었던 힘들었던 시간을 언급했다.\n이날 \\\"한국말도 서툴고 아무것도 모르는 상태에서 캐스팅됐다\\\"고 말문을 연 한채영은 \\\"시청률이 올라가는 것에 비례해 '연기 못 봐주겠다' '드라마 망친다' 등 욕을 많이 먹었다\\\"고 고백했다.\n이어 \\\"점점 비중이 줄었다\\\"며 \\\"많이 창피하고 죄송스러웠지만 모든것이 다 나 때문이었다. 그래서 아무에게도 털어놓을 수 없었다\\\"고 털어놓으며 눈물을 훔쳐 안타까움을 자아냈다.\n그러나 한채영은 이내 웃어보이며 \\\"당시 나는 '이 모든 것이 연습하는 시간'이라고 생각했기 때문에 그 또한 좋은 기억이다\\\"라고 말했다.\n한채영이 출연하는 '언니들의 슬램덩크2는' 매주 금요일 밤 11시10분 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한채영이 드라마 '가을동화' 출연 당시 겪은 마음고생을 털어놨다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 방송될 KBS2 '언니들의 슬램덩크2'에서 한채영은 자신의 데뷔작이었던 '가을동화'를 촬영하며 겪었던 힘들었던 시간을 언급했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 \\\"한국말도 서툴고 아무것도 모르는 상태에서 캐스팅됐다\\\"고 말문을 연 한채영은 \\\"시청률이 올라가는 것에 비례해 '연기 못 봐주겠다' '드라마 망친다' 등 욕을 많이 먹었다\\\"고 고백했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"점점 비중이 줄었다\\\"며 \\\"많이 창피하고 죄송스러웠지만 모든것이 다 나 때문이었다. 그래서 아무에게도 털어놓을 수 없었다\\\"고 털어놓으며 눈물을 훔쳐 안타까움을 자아냈다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 한채영은 이내 웃어보이며 \\\"당시 나는 '이 모든 것이 연습하는 시간'이라고 생각했기 때문에 그 또한 좋은 기억이다\\\"라고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한채영이 출연하는 '언니들의 슬램덩크2는' 매주 금요일 밤 11시10분 방송된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가을동화가 나의 흑역사'... 한채영 눈물흘린 이유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

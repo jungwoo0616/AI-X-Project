@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258917",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정창욱 셰프, 지인 폭행·흉기 위협 혐의 입건",
+		"newsSubTitle": "",
+		"newsContent": "유명 쉐프 정창욱이 지인을 폭행하고 흉기로 위협한 혐의로 경찰에 입건이 됐다.\n서울 종로경찰서는 21일 정창욱을 특수폭행·특수협박·모욕 등 혐의로 입건해 수사 중인 것으로 알려졌다.\n앞서 정창욱 지인 A씨는 지난해 8월 개인방송 촬영차 방문한 미국 하와이에서 정창욱이 자신과 다른 동료를 폭행했다며 경찰에 고소장을 낸 것으로 전해졌다.\n경찰에 따르면 정창욱은 경찰 조사에서 일부 혐의를 인정한 것으로 알려졌다.\n정창욱은 JTBC ‘냉장고를 부탁해’에 출연해 단맛과 짠맛이 조화를 이룬 요리로 주목을 받았다.\n정창욱은 지난해 5월 9일 새벽 서울 중구 한 도로에서 면허 취소 기준을 넘긴 만취 상태로 운전하다가 적발돼 벌금형을 받은 사실이 뒤늦게 전해지기도 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유명 쉐프 정창욱이 지인을 폭행하고 흉기로 위협한 혐의로 경찰에 입건이 됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울 종로경찰서는 21일 정창욱을 특수폭행·특수협박·모욕 등 혐의로 입건해 수사 중인 것으로 알려졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 정창욱 지인 A씨는 지난해 8월 개인방송 촬영차 방문한 미국 하와이에서 정창욱이 자신과 다른 동료를 폭행했다며 경찰에 고소장을 낸 것으로 전해졌다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경찰에 따르면 정창욱은 경찰 조사에서 일부 혐의를 인정한 것으로 알려졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정창욱은 JTBC ‘냉장고를 부탁해’에 출연해 단맛과 짠맛이 조화를 이룬 요리로 주목을 받았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정창욱은 지난해 5월 9일 새벽 서울 중구 한 도로에서 면허 취소 기준을 넘긴 만취 상태로 운전하다가 적발돼 벌금형을 받은 사실이 뒤늦게 전해지기도 했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정창욱 셰프, 지인 폭행·흉기 위협 혐의 입건",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

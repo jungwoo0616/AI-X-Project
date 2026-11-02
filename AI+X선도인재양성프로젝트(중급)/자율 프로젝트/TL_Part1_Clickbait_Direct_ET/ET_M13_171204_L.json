@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171204",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "에이티즈, 빌보드 차트인에 “욕심 생겨, 더 열심히 하겠다”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에이티즈(ATEEZ)가 신곡 성적에 대해 소감을 전했다.\n소속사 KQ엔터테인먼트는 에이티즈가 22일 KBS Cool FM ‘강한나의 볼륨을 높여요’에 출연해 신곡 성적에 대한 소감을 말했다고 23일 밝혔다.\n에이티즈는 빌보드 메인 차트인 ‘빌보드 200’ 42위에 진입했으며 MBC M ‘쇼! 챔피언’에서 음악 방송 첫 1위를 수상했다.\n이들은 “예상할 수 없었다. 특히 ‘빌보드 200’에 진입하는 건 꿈으로만 생각했기에 놀랐다. 한 단계 목표에 올라선 만큼 더 열심히 해서 ‘핫 100’까지 가고 싶다는 욕심이 생겼다”라며 당찬 포부를 밝혔다.\n마지막으로 에이티즈는 “좋은 프로그램에 초대되어서 즐겁고 행복한 시간이었다. 에이티즈로서 좋은 모습 보여드리겠다. 앞으로도 기대 많이 해달라”라며 인사를 전했다.\n한편 에이티즈는 지난 22일 MBC M ‘쇼! 챔피언’에서 컴백과 동시에 첫 1위의 영광을 안았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에이티즈(ATEEZ)가 신곡 성적에 대해 소감을 전했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 KQ엔터테인먼트는 에이티즈가 22일 KBS Cool FM ‘강한나의 볼륨을 높여요’에 출연해 신곡 성적에 대한 소감을 말했다고 23일 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "에이티즈는 빌보드 메인 차트인 ‘빌보드 200’ 42위에 진입했으며 MBC M ‘쇼! 챔피언’에서 음악 방송 첫 1위를 수상했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 “예상할 수 없었다. 특히 ‘빌보드 200’에 진입하는 건 꿈으로만 생각했기에 놀랐다. 한 단계 목표에 올라선 만큼 더 열심히 해서 ‘핫 100’까지 가고 싶다는 욕심이 생겼다”라며 당찬 포부를 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마지막으로 에이티즈는 “좋은 프로그램에 초대되어서 즐겁고 행복한 시간이었다. 에이티즈로서 좋은 모습 보여드리겠다. 앞으로도 기대 많이 해달라”라며 인사를 전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 에이티즈는 지난 22일 MBC M ‘쇼! 챔피언’에서 컴백과 동시에 첫 1위의 영광을 안았다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 에이티즈(ATEEZ) 음악방송 첫 1위에 `이 발언`해 눈길",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278116",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'롤챔스' 조은정 하차 \\\"아직 대학교 3학년…학업 미룰 수 없어\\\"",
+		"newsSubTitle": "",
+		"newsContent": "리그 오브 레전드 챔피언스 코리아(이하 롤챔스)의 조은정 아나운서가 하차한다. 24일 OGN은 공식 유튜브 채널을 통해 “‘롤챔스 여신’ 조은정 아나운서, 이번 롤챔스 서머시즌부터는 학업에 열중하고자 팬 여러분들 곁을 잠시 떠납니다”라며 조은정의 인터뷰 영상을 공개했다.\n그는 영상을 통해 “많은 분들이 내가 나이가 들어보여서 인지 아직도 학교를 다닌다고 생각을 못한다. 하지만 아직 3학년이고 학업을 미룰 수는 없어 하차한다”며 하차 이유를 설명했다.\n이어서 그는 팬들에게 “못 보게 되는 아쉬움이 가장 크다”면서“‘롤챔스 여신’이라는 과분한 별칭을 얻은 것도 팬들 덕분이다.\n팬분들한테서 힘을 얻었다\\\"며 감사의 말을 전했다.\n한편 조은정 아나운서는 2015년 7월부터 게임 채널 OGN 소속 아나운서로 활동했다.\n그는 '롤챔스 여신'이라는 별명으로 많은 사랑을 받았다.\n온라인 중앙일보 [사진 유튜브 캡처]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "리그 오브 레전드 챔피언스 코리아(이하 롤챔스)의 조은정 아나운서가 하차한다. 24일 OGN은 공식 유튜브 채널을 통해 “‘롤챔스 여신’ 조은정 아나운서, 이번 롤챔스 서머시즌부터는 학업에 열중하고자 팬 여러분들 곁을 잠시 떠납니다”라며 조은정의 인터뷰 영상을 공개했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 영상을 통해 “많은 분들이 내가 나이가 들어보여서 인지 아직도 학교를 다닌다고 생각을 못한다. 하지만 아직 3학년이고 학업을 미룰 수는 없어 하차한다”며 하차 이유를 설명했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어서 그는 팬들에게 “못 보게 되는 아쉬움이 가장 크다”면서“‘롤챔스 여신’이라는 과분한 별칭을 얻은 것도 팬들 덕분이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬분들한테서 힘을 얻었다\\\"며 감사의 말을 전했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 조은정 아나운서는 2015년 7월부터 게임 채널 OGN 소속 아나운서로 활동했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 '롤챔스 여신'이라는 별명으로 많은 사랑을 받았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 유튜브 캡처]",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'롤챔스' 조은정 하차 \\\"아직 대학교 3학년…학업 미룰 수 없어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

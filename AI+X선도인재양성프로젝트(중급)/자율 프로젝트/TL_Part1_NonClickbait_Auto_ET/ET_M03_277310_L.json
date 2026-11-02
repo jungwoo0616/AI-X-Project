@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277310",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'모태 마름' 자랑하는 아이린의 졸업 사진",
+		"newsSubTitle": "",
+		"newsContent": "걸그룹 레드벨벳 아이린(26)의 졸업 사진이 공개돼 눈길을 모으고 있다.\n14일 한 온라인 커뮤니티에는 '아이린 졸업사진'이라는 제목의 게시글이 올라왔다.\n사진에는 맨 앞줄에 다소곳하게 앉아있는 아이린과 단체 사진을 찍고 있는 그의 모습이 담겨 있다.\n아이린은 지금과 다름없는 새하얀 피부와 뚜렷한 이목구비를 자랑해 감탄을 자아냈다.\n한편 레드벨벳은 지난 1일 네 번째 미니 앨범 '루키'(Rookie)를 내고 활발하게 활동하고 있다.\n지난주 신곡 '루키'는 SBS MTV '더쇼', MBC MUSIC '쇼! 챔피언', Mnet '엠카운트다운', KBS 2TV '뮤직뱅크', SBS '인기가요' 등 음악 방송 1위를 싹쓸이, 총 5관왕에 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "걸그룹 레드벨벳 아이린(26)의 졸업 사진이 공개돼 눈길을 모으고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 한 온라인 커뮤니티에는 '아이린 졸업사진'이라는 제목의 게시글이 올라왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진에는 맨 앞줄에 다소곳하게 앉아있는 아이린과 단체 사진을 찍고 있는 그의 모습이 담겨 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이린은 지금과 다름없는 새하얀 피부와 뚜렷한 이목구비를 자랑해 감탄을 자아냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 레드벨벳은 지난 1일 네 번째 미니 앨범 '루키'(Rookie)를 내고 활발하게 활동하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난주 신곡 '루키'는 SBS MTV '더쇼', MBC MUSIC '쇼! 챔피언', Mnet '엠카운트다운', KBS 2TV '뮤직뱅크', SBS '인기가요' 등 음악 방송 1위를 싹쓸이, 총 5관왕에 올랐다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'모태 마름' 자랑하는 아이린의 졸업 사진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

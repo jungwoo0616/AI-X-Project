@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259978",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "홍현희, 임신 축하선물 공개 “홍쓴주니어 축 잉태”",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 홍현희가 동료 박슬기에 대한 고마음을 나타냈다.\n홍현희는 3일 자신의 SNS에 박슬기가 임신을 축하하며 보낸 과일 바구니 사진을 공개했다.\n박슬기와 남편 공문성은 2세를 가진 홍현희, 제이쓴에게 과일바구니를 선물했다.\n과일바구니에는 “홍쓴주니어 축 잉태”라는 문구가 달린 리본을 달아 두 사람을 축하했다.\n홍현희와 제이쓴은 2018년 결혼했다.\n지난달 28일 두 사람은 SNS에 2세 초음파 사진을 공개하고 임신 11주차라는 소식을 전한 바 있다.\n홍현희는 채널A ‘요즘 남자 라이프-신랑수업’에 출연 중이며 제이쓴은 iHQ ‘돈쭐내러 왔습니다’에 출연 중이다.\n이들 부부가 운영하는 유튜브 채널 ‘홍쓴TV’‘는 구독자는 약 47만명에 달한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 홍현희가 동료 박슬기에 대한 고마음을 나타냈다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홍현희는 3일 자신의 SNS에 박슬기가 임신을 축하하며 보낸 과일 바구니 사진을 공개했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박슬기와 남편 공문성은 2세를 가진 홍현희, 제이쓴에게 과일바구니를 선물했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "과일바구니에는 “홍쓴주니어 축 잉태”라는 문구가 달린 리본을 달아 두 사람을 축하했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홍현희와 제이쓴은 2018년 결혼했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난달 28일 두 사람은 SNS에 2세 초음파 사진을 공개하고 임신 11주차라는 소식을 전한 바 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "홍현희는 채널A ‘요즘 남자 라이프-신랑수업’에 출연 중이며 제이쓴은 iHQ ‘돈쭐내러 왔습니다’에 출연 중이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 부부가 운영하는 유튜브 채널 ‘홍쓴TV’‘는 구독자는 약 47만명에 달한다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍현희, 임신 축하선물 공개 “홍쓴주니어 축 잉태”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

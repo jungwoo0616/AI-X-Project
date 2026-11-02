@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270065",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "유민상 “난 살 빼면 배우 해야 한다”(맛있는 녀석들)",
+		"newsSubTitle": "",
+		"newsContent": "‘맛있는 녀석들’ 유민상의 소싯적 미모가 베일을 벗는다.\n오늘(13일) 저녁 8시 방송되는 채널 IHQ 예능프로그램 ‘맛있는 녀석들’ 377회에서는 쪽갈비와 막국수 먹방을 선보이는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 전파를 탄다.\n뚱5는 최근 진행된 녹화에서 막국수를 먹으며 외모에 대한 이야기를 나눴다.\n홍윤화가 “살이 빠지면 코가 설까?”라고 묻자 문세윤이 “당연하다. 유민상 형도 살이 빠지면 코가 오뚝하다”라고 증언한 것. 이를 들은 유민상은 “내가 살 빠지면 개그맨 못한다. 배우 해야 한다”라고 자신했고, 제작진이 공개한 소싯적 사진을 본 홍윤화가 “약간 백종원 대표님 닮았다”라고 평해 웃음을 안겼다.\n곧이어 유민상이 “중3 아니면 고1 때인데 여학생들에게 인기가 좀 있었다”라고 설명한 학창 시절 사진이 추가로 베일을 벗었고, 이를 본 김태원이 “미군 아니냐?”라고 되물어 다시 한번 폭소를 유발했다는 후문이다.\n한편 쪽갈비 25인분에 이어 막국수까지 종류별로 평정한 ‘맛있는 녀석들’의 활약은 오늘(13일) 저녁 8시, 채널 IHQ에서 방송되는 377회에서 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘맛있는 녀석들’ 유민상의 소싯적 미모가 베일을 벗는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오늘(13일) 저녁 8시 방송되는 채널 IHQ 예능프로그램 ‘맛있는 녀석들’ 377회에서는 쪽갈비와 막국수 먹방을 선보이는 뚱5(유민상, 김민경, 문세윤, 홍윤화, 김태원)의 모습이 전파를 탄다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뚱5는 최근 진행된 녹화에서 막국수를 먹으며 외모에 대한 이야기를 나눴다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홍윤화가 “살이 빠지면 코가 설까?”라고 묻자 문세윤이 “당연하다. 유민상 형도 살이 빠지면 코가 오뚝하다”라고 증언한 것. 이를 들은 유민상은 “내가 살 빠지면 개그맨 못한다. 배우 해야 한다”라고 자신했고, 제작진이 공개한 소싯적 사진을 본 홍윤화가 “약간 백종원 대표님 닮았다”라고 평해 웃음을 안겼다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "곧이어 유민상이 “중3 아니면 고1 때인데 여학생들에게 인기가 좀 있었다”라고 설명한 학창 시절 사진이 추가로 베일을 벗었고, 이를 본 김태원이 “미군 아니냐?”라고 되물어 다시 한번 폭소를 유발했다는 후문이다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 쪽갈비 25인분에 이어 막국수까지 종류별로 평정한 ‘맛있는 녀석들’의 활약은 오늘(13일) 저녁 8시, 채널 IHQ에서 방송되는 377회에서 확인 가능하다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유민상 “난 살 빼면 배우 해야 한다”(맛있는 녀석들)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

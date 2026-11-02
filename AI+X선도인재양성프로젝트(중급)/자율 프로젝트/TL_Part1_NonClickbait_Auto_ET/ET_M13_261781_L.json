@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261781",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘더쇼’ 한승윤, ‘러벤더’ 무대 공개",
+		"newsSubTitle": "",
+		"newsContent": "가수 한승윤이 ‘더쇼’에서 감동을 선사했다.\n한승윤은 22일 오후 6시 방송한 SBS MTV ‘더쇼’에서 신곡 ‘Lovender’ 무대를 꾸몄다.\n베이지색 수트로 고급스런 분위기를 더하며 등장한 한승윤. 그는 감미로운 음색으로 ‘Lovender’를 열창하며 애절한 감성을 전했다.\n깊은 눈빛과 강렬한 연주로 곡에 대한 몰입도를 높인 것은 물론 리스너들에게 깊은 여운을 남겼다.\n한승윤은 지난 15일 자신의 첫 미니앨범 ‘Lovender’를 발매하고 팬들 곁을 찾았다.\n동명의 타이틀곡 ‘Lovender’는 사랑이 끝났음을 애써 외면하며 이별을 거부하는 남자의 마음을 묵직하고 몽환적인 밴드 사운드로 풀어낸 모던 록 발라드 넘버다.\n한승윤은 2021년 종영한 ‘싱어게인’ 시즌 1에서 뛰어난 실력과 훈훈한 외모로 눈도장을 찍었다.\n더불어 드라마 ‘경찰수업’, ‘멀리서 보면 푸른 봄’의 OST에 참여하며 폭넓은 음악 스펙트럼을 선보인 바 있다. ‘Lovender’로 컴백한 한승윤은 음악 방송 및 다양한 온·오프라인 콘텐츠로 팬들과 소통할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 한승윤이 ‘더쇼’에서 감동을 선사했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한승윤은 22일 오후 6시 방송한 SBS MTV ‘더쇼’에서 신곡 ‘Lovender’ 무대를 꾸몄다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "베이지색 수트로 고급스런 분위기를 더하며 등장한 한승윤. 그는 감미로운 음색으로 ‘Lovender’를 열창하며 애절한 감성을 전했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "깊은 눈빛과 강렬한 연주로 곡에 대한 몰입도를 높인 것은 물론 리스너들에게 깊은 여운을 남겼다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한승윤은 지난 15일 자신의 첫 미니앨범 ‘Lovender’를 발매하고 팬들 곁을 찾았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "동명의 타이틀곡 ‘Lovender’는 사랑이 끝났음을 애써 외면하며 이별을 거부하는 남자의 마음을 묵직하고 몽환적인 밴드 사운드로 풀어낸 모던 록 발라드 넘버다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한승윤은 2021년 종영한 ‘싱어게인’ 시즌 1에서 뛰어난 실력과 훈훈한 외모로 눈도장을 찍었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "더불어 드라마 ‘경찰수업’, ‘멀리서 보면 푸른 봄’의 OST에 참여하며 폭넓은 음악 스펙트럼을 선보인 바 있다. ‘Lovender’로 컴백한 한승윤은 음악 방송 및 다양한 온·오프라인 콘텐츠로 팬들과 소통할 예정이다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘더쇼’ 한승윤, ‘러벤더’ 무대 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

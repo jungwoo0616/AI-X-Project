@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_274940",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "오늘은 몬스타엑스 ‘If with U’ 듣는 날",
+		"newsSubTitle": "",
+		"newsContent": "그룹 몬스타엑스(MONSTA X)의 신곡이 오늘 발매된다.\n글로벌 팬덤플랫폼 유니버스(UNIVERSE)는 오늘(7일) 오후 6시 각종 온라인 음원 사이트를 통해 그룹 몬스타엑스 ‘If with U(이프 위드유)’를 발매하고 어플을 통해 뮤직비디오를 공개한다.\n몬스타엑스의 신곡 ‘If with U’는 감미로운 보컬과 기타 스트링세션이 돋보이는 팝넘버 곡이다.\n몬스타엑스는 운명적 낙원을 노래하며 여름밤에 어울리는 곡의 분위기를 완성해냈다.\n음원과 함께 공개될 ‘If with U’ 뮤직비디오는 ‘결국은 서로를 향한다’라는 메시지를 담았다.\n부드러운 색감의 영상미와 판타지 영화같은 미장센이 돋보이는 뮤직비디오는 멤버들의 로맨틱한 비주얼과 조화를 이루며 한순간도 눈을 뗄 수 없는 몰입감을 선사한다.\n한편, 몬스타엑스 ‘If with U’는 7일오후 6시 각종 온라인 음원 사이트에서 감상할 수 있다.\n뮤직비디오는 음원 발매와 동시에 유니버스 어플에서 독점 공개되며, 오는 12일 유니버스 유튜브 채널에서도 만나볼 수있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 몬스타엑스(MONSTA X)의 신곡이 오늘 발매된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 팬덤플랫폼 유니버스(UNIVERSE)는 오늘(7일) 오후 6시 각종 온라인 음원 사이트를 통해 그룹 몬스타엑스 ‘If with U(이프 위드유)’를 발매하고 어플을 통해 뮤직비디오를 공개한다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "몬스타엑스의 신곡 ‘If with U’는 감미로운 보컬과 기타 스트링세션이 돋보이는 팝넘버 곡이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "몬스타엑스는 운명적 낙원을 노래하며 여름밤에 어울리는 곡의 분위기를 완성해냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "음원과 함께 공개될 ‘If with U’ 뮤직비디오는 ‘결국은 서로를 향한다’라는 메시지를 담았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "부드러운 색감의 영상미와 판타지 영화같은 미장센이 돋보이는 뮤직비디오는 멤버들의 로맨틱한 비주얼과 조화를 이루며 한순간도 눈을 뗄 수 없는 몰입감을 선사한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 몬스타엑스 ‘If with U’는 7일오후 6시 각종 온라인 음원 사이트에서 감상할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "뮤직비디오는 음원 발매와 동시에 유니버스 어플에서 독점 공개되며, 오는 12일 유니버스 유튜브 채널에서도 만나볼 수있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오늘은 몬스타엑스 ‘If with U’ 듣는 날",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

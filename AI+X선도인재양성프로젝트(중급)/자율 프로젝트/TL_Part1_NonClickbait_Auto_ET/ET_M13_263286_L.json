@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263286",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "지상파 대선 출구조사 결과, 9일 오후 7시30분 발표…JTBC 단독조사",
+		"newsSubTitle": "",
+		"newsContent": "KBS·MBC·SBS 지상파 3사가 9일 치러지는 제20대 대통령선거 공동 출구조사 결과를 당일 오후 7시 30분에 발표한다. 8일 한국방송협회에 따르면 지상파 3사는 9일 오전 6시부터 오후 6시까지 출구조사를 실시해 오후 7시 30분 결과를 공개한다.\n이에 따라 오후 6시부터 이뤄지는 확진자와 격리자 투표는 출구조사에 반영되지 않는다.\n출구조사는 330개 투표소에서 투표를 마치고 나오는 투표자를 대상으로 하며, 5명 간격으로 조사하는 방식으로 진행된다.\n출구조사 응답자 수는 약 8만 5000명이 될 것으로 지상파 3사는 예상한다.\n이번 선거는 종합편성채널인 JTBC가 단독으로 출구조사를 한다.\n조사 시간, 결과 발표 시간은 지상파와 같다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS·MBC·SBS 지상파 3사가 9일 치러지는 제20대 대통령선거 공동 출구조사 결과를 당일 오후 7시 30분에 발표한다. 8일 한국방송협회에 따르면 지상파 3사는 9일 오전 6시부터 오후 6시까지 출구조사를 실시해 오후 7시 30분 결과를 공개한다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따라 오후 6시부터 이뤄지는 확진자와 격리자 투표는 출구조사에 반영되지 않는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "출구조사는 330개 투표소에서 투표를 마치고 나오는 투표자를 대상으로 하며, 5명 간격으로 조사하는 방식으로 진행된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "출구조사 응답자 수는 약 8만 5000명이 될 것으로 지상파 3사는 예상한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 선거는 종합편성채널인 JTBC가 단독으로 출구조사를 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조사 시간, 결과 발표 시간은 지상파와 같다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지상파 대선 출구조사 결과, 9일 오후 7시30분 발표…JTBC 단독조사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

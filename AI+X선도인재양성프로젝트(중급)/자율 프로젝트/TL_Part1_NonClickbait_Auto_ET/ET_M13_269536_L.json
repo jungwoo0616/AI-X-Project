@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269536",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘닥터 스트레인지2’, 개봉 5일만에 350만 ‘눈앞’",
+		"newsSubTitle": "",
+		"newsContent": "영화 ‘닥터 스트레인지: 대혼돈의 멀티버스’(이하 ‘닥터 스트레인지2’)가 개봉 5일만에 350만 고지를 눈앞에 뒀다.\n9일 영화관진흥위원회 영화관입장권 통합전산망 집계 결과 ‘닥터스트레인지2’는 8일 48만 1919명이 관람해 박스오피스 1위에 올랐다.\n누적관객수 349만 5712명이다. ‘닥터 스트레인지2’는 지난 5일 개봉 이틀 만에 올해 최고 흥행작에 등극한 것은 물론, 일일 관객수 106만명 이상을 동원하며 역대 어린이날 최다 관객수 기록, 개봉 3일 만에 200만 관객 돌파에 이어 개봉 4일째 누적 관객 수 300만을 넘어서며 강력한 흥행세를 보여줬다.\n코로나19 사회적 거리두기 단계 완화와 함께 극장가에 활력을 불어넣어줄지 관심이 쏠린다. ‘배드 가이즈’는 이날 2만 7979명이 찾아 2위에 올랐다.\n3위는 ‘극장판 엉덩이 탐정 : 수플레 섬의 비밀’로 1만 2884명이 선택했다.\n이어 4위와 5위엔 ‘니 부모 얼굴이 보고 싶다’, ‘신비한 동물들과 덤블도어의 비밀’이 이름을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화 ‘닥터 스트레인지: 대혼돈의 멀티버스’(이하 ‘닥터 스트레인지2’)가 개봉 5일만에 350만 고지를 눈앞에 뒀다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 영화관진흥위원회 영화관입장권 통합전산망 집계 결과 ‘닥터스트레인지2’는 8일 48만 1919명이 관람해 박스오피스 1위에 올랐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누적관객수 349만 5712명이다. ‘닥터 스트레인지2’는 지난 5일 개봉 이틀 만에 올해 최고 흥행작에 등극한 것은 물론, 일일 관객수 106만명 이상을 동원하며 역대 어린이날 최다 관객수 기록, 개봉 3일 만에 200만 관객 돌파에 이어 개봉 4일째 누적 관객 수 300만을 넘어서며 강력한 흥행세를 보여줬다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19 사회적 거리두기 단계 완화와 함께 극장가에 활력을 불어넣어줄지 관심이 쏠린다. ‘배드 가이즈’는 이날 2만 7979명이 찾아 2위에 올랐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3위는 ‘극장판 엉덩이 탐정 : 수플레 섬의 비밀’로 1만 2884명이 선택했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 4위와 5위엔 ‘니 부모 얼굴이 보고 싶다’, ‘신비한 동물들과 덤블도어의 비밀’이 이름을 올렸다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘닥터 스트레인지2’, 개봉 5일만에 350만 ‘눈앞’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

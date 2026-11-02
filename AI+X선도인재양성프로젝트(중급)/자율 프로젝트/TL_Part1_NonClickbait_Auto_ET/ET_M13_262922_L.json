@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262922",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "루시, 오늘(5일) 단독콘서트 개최…코로나19 의료진 응원",
+		"newsSubTitle": "",
+		"newsContent": "밴드 루시(LUCY)가 단독 콘서트로 의료진을 응원한다.\n소속사 미스틱스토리는 루시가 5일 오후 3시와 7시 서울 노들섬 라이브하우스에서 온·오프라인 단독 콘서트 ‘Connect with LUCY’(커넥트 위드 루시)를 연다고 밝혔다. ‘Connect with LUCY’는 루시의 밴드 사운드를 즐길 수 있는 공연으로 온라인과 오프라인 동시에 개최된다.\n지난해 ‘LUCY ISLAND: First Landing’(루시 아일랜드: 퍼스트 랜딩)과 ‘All kind of’(올 카인드 오브)까지 두 차례 단독 콘서트를 성료한 루시가 어떤 무대를 준비했을지 궁금증이 더해진다.\n특히 이번 공연은 국내 병원 10곳에서 2,000명의 의료진에게 온라인 공연실황을 무료로 관람할 수 있도록 기획됐다.\n루시는 코로나19 환자 치료를 위해 혼신의 힘을 다하고 있는 의료진에게 감사를 표현하고자 온라인 공연을 무료로 제공한 것으로 알려졌다.\n한편 루시가 선보일 또 한 번의 단독 콘서트 ‘Connect with LUCY’는 이날 오후 3시와 7시 노들섬 라이브하우스에서 개최되며, 라이브커넥트를 통해 온라인으로도 동시 송출된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "밴드 루시(LUCY)가 단독 콘서트로 의료진을 응원한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 미스틱스토리는 루시가 5일 오후 3시와 7시 서울 노들섬 라이브하우스에서 온·오프라인 단독 콘서트 ‘Connect with LUCY’(커넥트 위드 루시)를 연다고 밝혔다. ‘Connect with LUCY’는 루시의 밴드 사운드를 즐길 수 있는 공연으로 온라인과 오프라인 동시에 개최된다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 ‘LUCY ISLAND: First Landing’(루시 아일랜드: 퍼스트 랜딩)과 ‘All kind of’(올 카인드 오브)까지 두 차례 단독 콘서트를 성료한 루시가 어떤 무대를 준비했을지 궁금증이 더해진다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이번 공연은 국내 병원 10곳에서 2,000명의 의료진에게 온라인 공연실황을 무료로 관람할 수 있도록 기획됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "루시는 코로나19 환자 치료를 위해 혼신의 힘을 다하고 있는 의료진에게 감사를 표현하고자 온라인 공연을 무료로 제공한 것으로 알려졌다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 루시가 선보일 또 한 번의 단독 콘서트 ‘Connect with LUCY’는 이날 오후 3시와 7시 노들섬 라이브하우스에서 개최되며, 라이브커넥트를 통해 온라인으로도 동시 송출된다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "루시, 오늘(5일) 단독콘서트 개최…코로나19 의료진 응원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

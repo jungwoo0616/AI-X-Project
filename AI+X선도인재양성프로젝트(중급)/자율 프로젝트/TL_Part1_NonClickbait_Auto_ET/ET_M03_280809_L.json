@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_280809",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "법원, 故 김화란 남편 박상원에 금고 4개월·집유 1년 선고…이유는 무엇?",
+		"newsSubTitle": "",
+		"newsContent": "'故 김화란 남편 박상원' 법원이 故김화란의 남편 박상원에게 금고 4개월·집행유예 1년을 선고했다.\n광주지법 목포지원 형사1단독 한종환 판사는 24일 교통사고처리특례법 위반 혐의로 기소된 배우 고 김화란(53·여)씨의 남편 박상원(47)씨에 대해 금고 4개월에 집행유예 1년을 선고했다.\n박씨가 운전하던 1t 트럭은 지난 9월18일 오후 전남 신안군 자은도 모 농장 인근 편도 1차선 곡선도로를 지나던 중 미끄러지면서 전도된 것으로 조사됐다.\n이 사고의 충격으로 트럭에 함께 타고 있던 부인 김씨가 숨졌다.\n경찰은 교통사고처리특례법을 적용, 운전자 박씨를 검찰에 불구속 송치했었다.\n故김화란은 1980년 MBC 공채 탤런트 12기로 데뷔했다.\n인기 드라마 '수사반장'에서 여형사 역을 맡아 이름을 알렸다.\n최근 귀농생활을 하면서 MBC '휴먼다큐 사람이 좋다'에 남편과 출연해 근황을 알린 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'故 김화란 남편 박상원' 법원이 故김화란의 남편 박상원에게 금고 4개월·집행유예 1년을 선고했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "광주지법 목포지원 형사1단독 한종환 판사는 24일 교통사고처리특례법 위반 혐의로 기소된 배우 고 김화란(53·여)씨의 남편 박상원(47)씨에 대해 금고 4개월에 집행유예 1년을 선고했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박씨가 운전하던 1t 트럭은 지난 9월18일 오후 전남 신안군 자은도 모 농장 인근 편도 1차선 곡선도로를 지나던 중 미끄러지면서 전도된 것으로 조사됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 사고의 충격으로 트럭에 함께 타고 있던 부인 김씨가 숨졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경찰은 교통사고처리특례법을 적용, 운전자 박씨를 검찰에 불구속 송치했었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "故김화란은 1980년 MBC 공채 탤런트 12기로 데뷔했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인기 드라마 '수사반장'에서 여형사 역을 맡아 이름을 알렸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 귀농생활을 하면서 MBC '휴먼다큐 사람이 좋다'에 남편과 출연해 근황을 알린 바 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "법원, 故 김화란 남편 박상원에 금고 4개월·집유 1년 선고…이유는 무엇?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276433",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "이불에 실례한 대박이를 위해 '설수아 자매'가 한 행동",
+		"newsSubTitle": "",
+		"newsContent": "'슈퍼맨이 돌아왔다' 설수아 자매가 동생 대박이(시안이)를 챙기며 다정한 누나의 면모를 드러냈다.\n30일 방송된 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다'에서는 이불에 실례한 대박이를 챙기는 이들 자매의 모습이 그려졌다.\n방송에서 대박이는 침대에 소변을 본 후 발뺌했지만, 설수아 자매의 집요한 추궁에 덜미를 잡혔다.\n며칠 전 대박이가 같은 실수를 저질렀던 탓에 이들 자매는 아빠 이동국의 야단을 걱정했고, 직접 이불 빨래에 나섰다.\n이들 자매는 고사리 같은 손으로 이불을 빨았으나, 제대로 짜지 않고 빨래를 널면서 온 사방을 물바다로 만들었다.\n빨래를 마친 설수아 자매는 대박이를 목욕시키고 속옷을 입혀주는 등 다정다감한 모습을 보였다.\n이를 알게 된 아빠 이동국은 아이들을 이해하며 \\\"그런 일 있으면 엄마한테 말하면 된다\\\"고 설명했다.\n이어 대박이에게 \\\"좋은 누나들을 가졌다. 다시 태어나면 시안이로 태어나고 싶다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'슈퍼맨이 돌아왔다' 설수아 자매가 동생 대박이(시안이)를 챙기며 다정한 누나의 면모를 드러냈다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 방송된 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다'에서는 이불에 실례한 대박이를 챙기는 이들 자매의 모습이 그려졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송에서 대박이는 침대에 소변을 본 후 발뺌했지만, 설수아 자매의 집요한 추궁에 덜미를 잡혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "며칠 전 대박이가 같은 실수를 저질렀던 탓에 이들 자매는 아빠 이동국의 야단을 걱정했고, 직접 이불 빨래에 나섰다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 자매는 고사리 같은 손으로 이불을 빨았으나, 제대로 짜지 않고 빨래를 널면서 온 사방을 물바다로 만들었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빨래를 마친 설수아 자매는 대박이를 목욕시키고 속옷을 입혀주는 등 다정다감한 모습을 보였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 알게 된 아빠 이동국은 아이들을 이해하며 \\\"그런 일 있으면 엄마한테 말하면 된다\\\"고 설명했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 대박이에게 \\\"좋은 누나들을 가졌다. 다시 태어나면 시안이로 태어나고 싶다\\\"고 말했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이불에 실례한 대박이를 위해 '설수아 자매'가 한 행동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

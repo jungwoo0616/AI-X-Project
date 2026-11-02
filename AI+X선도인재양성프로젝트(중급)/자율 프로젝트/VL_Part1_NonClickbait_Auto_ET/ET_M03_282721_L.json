@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_282721",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'함부로 애틋하게' 김우빈, 연인 신민아 질문에 \\\"잘 안들려요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'함부로 애틋하게' 김우빈이 연인 신민아 질문을 회피했다.\n11월 25일 방송된 MBC ‘황금어장-라디오스타’(이하 라스)에서는 배우 김우빈과의 전화 연결이 깜짝 성사됐다.\n이날 황미영의 전화를 받아 친분을 과시한 김우빈은 \\\"솔직함과 깨끗함, 순수함 이런 것들이 누나의 매력이 아닐까 싶다\\\"고 황미영의 매력을 공개했다.\n이어 MC들은 김우빈에게 '라스' 출연을 제안한 뒤 \\\"'라스' 나오기 두렵죠?\\\"라고 물었고, 김우빈은 \\\"잘 안 들린다\\\"고 즉답을 피했다.\n뿐만 아니라 김우빈은 \\\"연애는 잘 하고 있냐\\\"는 윤종신의 끈질긴 질문에도 \\\"잘 안들린다\\\"는 말만 반복해 모두를 폭소케 했다.\n그러면서도 김우빈은 \\\"'라스' 불러주시면 언제든 나가겠다\\\"고 약속한 뒤 전화를 끊어 '라스' 출연에 대한 기대감을 높였다.\n한편 이날 방송에는 나르샤, 박준면, 홍윤화, 황미영이 게스트로 출연했다. [사진=MBC ‘황금어장-라디오스타’ 캡처] '함부로 애틋하게' 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'함부로 애틋하게' 김우빈이 연인 신민아 질문을 회피했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11월 25일 방송된 MBC ‘황금어장-라디오스타’(이하 라스)에서는 배우 김우빈과의 전화 연결이 깜짝 성사됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 황미영의 전화를 받아 친분을 과시한 김우빈은 \\\"솔직함과 깨끗함, 순수함 이런 것들이 누나의 매력이 아닐까 싶다\\\"고 황미영의 매력을 공개했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 MC들은 김우빈에게 '라스' 출연을 제안한 뒤 \\\"'라스' 나오기 두렵죠?\\\"라고 물었고, 김우빈은 \\\"잘 안 들린다\\\"고 즉답을 피했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뿐만 아니라 김우빈은 \\\"연애는 잘 하고 있냐\\\"는 윤종신의 끈질긴 질문에도 \\\"잘 안들린다\\\"는 말만 반복해 모두를 폭소케 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서도 김우빈은 \\\"'라스' 불러주시면 언제든 나가겠다\\\"고 약속한 뒤 전화를 끊어 '라스' 출연에 대한 기대감을 높였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이날 방송에는 나르샤, 박준면, 홍윤화, 황미영이 게스트로 출연했다. [사진=MBC ‘황금어장-라디오스타’ 캡처] '함부로 애틋하게' 온라인 중앙일보",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'함부로 애틋하게' 김우빈, 연인 신민아 질문에 \\\"잘 안들려요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

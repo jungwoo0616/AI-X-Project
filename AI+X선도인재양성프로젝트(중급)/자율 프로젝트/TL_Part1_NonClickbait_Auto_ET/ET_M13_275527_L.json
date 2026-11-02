@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275527",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "‘엠카’ 청하, 새 노래 ‘Sparkling’ 컴백 무대",
+		"newsSubTitle": "",
+		"newsContent": "아티스트 청하가 컴백 첫 음악 방송 무대를 화려하게 장식했다.\n청하는 14일 오후 방송된 Mnet ‘엠카운트다운’에 출연해 두 번째 정규앨범 ‘Bare&Rare Pt.1(베어&레어 파트.1)’의 타이틀곡 ‘Sparkling(스파클링)’으로 컴백 무대를 꾸몄다.\n컴백 인터뷰에서 밝은 미소로 인사를 전한 청하는 안무팀 라치카가 참여한 포인트 안무를 선보였다.\n이어 “탄산수처럼 스파클링한 곡이다. 많이 사랑해달라”며 제시어를 활용한 센스 넘치는 신곡 홍보로 인터뷰를 마무리했다.\n무대에서 청하는 패턴이 돋보이는 인상적인 레드 컬러의 의상을 입고 톡톡 쏘는 비트와 어우러지는 퍼포먼스로 자신만의 매력을 마음껏 발산했다.\n당당하고 여유로운 무대 매너로 독보적인 아우라를 선사하는가 하면, 손가락을 튕기며 스파클링이 터지는 느낌을 표현한 포인트 안무로 청량함까지 더하며 시청자들의 시선을 사로잡았다.\n타이틀곡 ‘Sparkling’은 BPM 160의 속도감 넘치는 비트 위로 청하의 단단한 보컬이 더해진 곡으로, 아날로그 신디사이저의 아르페지오 멜로디와 레트로한 감성의 드럼라인, 일렉트로닉 기타의 거친 사운드가 어우러져 재치 넘치는 분위기를 완성했다. ‘엠카운트다운’을 통해 음악 방송 최초로 무대를 공개한 청하는 앞으로 다양한 방송에 출연하며 활발한 활동을 이어갈 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아티스트 청하가 컴백 첫 음악 방송 무대를 화려하게 장식했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "청하는 14일 오후 방송된 Mnet ‘엠카운트다운’에 출연해 두 번째 정규앨범 ‘Bare&Rare Pt.1(베어&레어 파트.1)’의 타이틀곡 ‘Sparkling(스파클링)’으로 컴백 무대를 꾸몄다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "컴백 인터뷰에서 밝은 미소로 인사를 전한 청하는 안무팀 라치카가 참여한 포인트 안무를 선보였다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “탄산수처럼 스파클링한 곡이다. 많이 사랑해달라”며 제시어를 활용한 센스 넘치는 신곡 홍보로 인터뷰를 마무리했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무대에서 청하는 패턴이 돋보이는 인상적인 레드 컬러의 의상을 입고 톡톡 쏘는 비트와 어우러지는 퍼포먼스로 자신만의 매력을 마음껏 발산했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당당하고 여유로운 무대 매너로 독보적인 아우라를 선사하는가 하면, 손가락을 튕기며 스파클링이 터지는 느낌을 표현한 포인트 안무로 청량함까지 더하며 시청자들의 시선을 사로잡았다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "타이틀곡 ‘Sparkling’은 BPM 160의 속도감 넘치는 비트 위로 청하의 단단한 보컬이 더해진 곡으로, 아날로그 신디사이저의 아르페지오 멜로디와 레트로한 감성의 드럼라인, 일렉트로닉 기타의 거친 사운드가 어우러져 재치 넘치는 분위기를 완성했다. ‘엠카운트다운’을 통해 음악 방송 최초로 무대를 공개한 청하는 앞으로 다양한 방송에 출연하며 활발한 활동을 이어갈 예정이다.",
+				"sentenceSize": 210
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘엠카’ 청하, 새 노래 ‘Sparkling’ 컴백 무대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

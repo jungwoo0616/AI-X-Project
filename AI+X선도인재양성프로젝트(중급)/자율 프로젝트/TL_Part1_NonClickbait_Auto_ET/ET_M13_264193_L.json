@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264193",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "극장업계 “상영관 내 취식 허용해달라“",
+		"newsSubTitle": "",
+		"newsContent": "극장업계가 지난해부터 시행된 영화 상영관 내 취식 금지 조치를 해제해달라고 정부에 거듭 요구했다.\n한국상영관협회는 17일 긴급성명을 내고 “고사 직전의 영화관 업계를 살릴 수 있도록 상영관 내 취식을 허용해줄 것을 강력히 요구한다”고 밝혔다.\n협회는 정부가 최근 사회적 거리두기 완화를 고려하면서도 “유독 영화관 내 취식에 대해 부정적”이라고 지적했다.\n그러면서 “식당이나 카페 등에서는 마스크를 벗고 자유롭게 먹고 마시는 분위기가 일상화됐다”며 “이런 상황에서 왜 영화관만 제한을 두는지 묻고 싶다”고 말했다.\n또 “관객이 음식을 먹는 동안에만 잠시 마스크를 벗게 하고, 객석 띄어 앉기도 유지하는 등 방역에 더 힘을 기울이겠다”며 “부디 어려운 영화관 업계의 입장을 한 번 더 고려해주길 요청한다”고 덧붙였다.\n정부는 지난해 3월부터 코로나19 확산 방지를 위해 거리두기 단계와 관계없이 영화 상영관 안에서의 음식 섭취를 전면 금지했다.\n극장업계는 관객이 상영관 밖에 지정된 구역에서 팝콘 등 음식을 먹도록 하고, 포장이나 배달 서비스를 시작하기도 했다.\n코로나19 이후 영화 티켓 수익이 감소한 데다, 극장 수익의 30%가량을 차지했던 음식 판매 수익 역시 급감하면서 음식 섭취를 다시 허용해달라는 극장업계 요구가 꾸준히 나왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "극장업계가 지난해부터 시행된 영화 상영관 내 취식 금지 조치를 해제해달라고 정부에 거듭 요구했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국상영관협회는 17일 긴급성명을 내고 “고사 직전의 영화관 업계를 살릴 수 있도록 상영관 내 취식을 허용해줄 것을 강력히 요구한다”고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "협회는 정부가 최근 사회적 거리두기 완화를 고려하면서도 “유독 영화관 내 취식에 대해 부정적”이라고 지적했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “식당이나 카페 등에서는 마스크를 벗고 자유롭게 먹고 마시는 분위기가 일상화됐다”며 “이런 상황에서 왜 영화관만 제한을 두는지 묻고 싶다”고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 “관객이 음식을 먹는 동안에만 잠시 마스크를 벗게 하고, 객석 띄어 앉기도 유지하는 등 방역에 더 힘을 기울이겠다”며 “부디 어려운 영화관 업계의 입장을 한 번 더 고려해주길 요청한다”고 덧붙였다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정부는 지난해 3월부터 코로나19 확산 방지를 위해 거리두기 단계와 관계없이 영화 상영관 안에서의 음식 섭취를 전면 금지했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "극장업계는 관객이 상영관 밖에 지정된 구역에서 팝콘 등 음식을 먹도록 하고, 포장이나 배달 서비스를 시작하기도 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코로나19 이후 영화 티켓 수익이 감소한 데다, 극장 수익의 30%가량을 차지했던 음식 판매 수익 역시 급감하면서 음식 섭취를 다시 허용해달라는 극장업계 요구가 꾸준히 나왔다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "극장업계 “상영관 내 취식 허용해달라“",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

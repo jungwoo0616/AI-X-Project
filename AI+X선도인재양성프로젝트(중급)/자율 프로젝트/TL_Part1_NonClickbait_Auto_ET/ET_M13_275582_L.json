@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275582",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘케플러’ 강예서, 코로나19 확진…내일(16일) 팬 사인회 연기",
+		"newsSubTitle": "",
+		"newsContent": "9인조 걸그룹 케플러 멤버 강예서가 코로나19에 확진됐다.\n소속사 스윙엔터테인먼트는 15일 “케플러 멤버 강예서가 14일 코로나19 확진 판정을 받았다”고 밝혔다.\n이어 “다른 케플러 멤버들은 전원 음성 판정을 받았다”며 “현재 멤버들은 발열 등 감염 의심 증상을 보이지 않았다”고 덧붙였다.\n소속사에 따르면 오는 16일 예정된 케플러의 영상 통화 및 대면 팬 사인회 일정은 연기됐다.\n소속사는 “확진된 아티스트의 건강 회복과 전 아티스트 및 스태프들의 안전을 최우선으로 고려해 코로나19 확산 방지에 필요한 조치를 다 하겠다”고 전했다.\n케플러는 지난해 10월 미니 1집 ‘FIRST IMPACT’로 데뷔해 현재까지 활발히 활동하고 있다.\n최근에는 미니 2집 ‘DOUBLAST’를 발매했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "9인조 걸그룹 케플러 멤버 강예서가 코로나19에 확진됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 스윙엔터테인먼트는 15일 “케플러 멤버 강예서가 14일 코로나19 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “다른 케플러 멤버들은 전원 음성 판정을 받았다”며 “현재 멤버들은 발열 등 감염 의심 증상을 보이지 않았다”고 덧붙였다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사에 따르면 오는 16일 예정된 케플러의 영상 통화 및 대면 팬 사인회 일정은 연기됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사는 “확진된 아티스트의 건강 회복과 전 아티스트 및 스태프들의 안전을 최우선으로 고려해 코로나19 확산 방지에 필요한 조치를 다 하겠다”고 전했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "케플러는 지난해 10월 미니 1집 ‘FIRST IMPACT’로 데뷔해 현재까지 활발히 활동하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에는 미니 2집 ‘DOUBLAST’를 발매했다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘케플러’ 강예서, 코로나19 확진…내일(16일) 팬 사인회 연기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

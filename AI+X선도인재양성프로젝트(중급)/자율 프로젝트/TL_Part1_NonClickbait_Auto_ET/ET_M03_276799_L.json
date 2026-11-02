@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276799",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "예고 입학했던 이경실 아들 손보승 근황",
+		"newsSubTitle": "",
+		"newsContent": "개그우먼 이경실의 아들 손보승이 본격적으로 배우 활동에 나선다.\n손보승은 최근 지앤지프로덕션과 전속계약을 체결했다.\n손보승이 최근 MBC 주말 드라마 '아버님 제가 모실게요'에 출연했으며 그가 둥지를 튼 지앤지프로덕션은 이 드라마의 제작사이기도 하다.\n손보승은 \\\"지앤지 프로덕션과 작품을 함께하며 가족적인 분위기와 성장할 수 있는 발판을 만들어줄 수 있을 것으로 보여 시작을 함께하게 됐다\\\"며 \\\"연기력은 물론 다양한 모습을 보여주기 위해 노력하겠다\\\"고 밝혔다.\n과거 JTBC '유자식 상팔자'에 어머니 이경실과 함께 출연했던 손보승은 안양예술고등학교 입학 후 \\\"현대 무용이 재미있다\\\"고 밝혀 주목받기도 했다.\n배우로 인생 2막을 열게 된 손보승은 한고은, 심형탁, 박시은, 진태현, 차화연, 오승아, 한기웅 등 배우들이 소속된 지앤지프로덕션에서 본격적인 연기 활동을 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개그우먼 이경실의 아들 손보승이 본격적으로 배우 활동에 나선다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손보승은 최근 지앤지프로덕션과 전속계약을 체결했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손보승이 최근 MBC 주말 드라마 '아버님 제가 모실게요'에 출연했으며 그가 둥지를 튼 지앤지프로덕션은 이 드라마의 제작사이기도 하다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손보승은 \\\"지앤지 프로덕션과 작품을 함께하며 가족적인 분위기와 성장할 수 있는 발판을 만들어줄 수 있을 것으로 보여 시작을 함께하게 됐다\\\"며 \\\"연기력은 물론 다양한 모습을 보여주기 위해 노력하겠다\\\"고 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과거 JTBC '유자식 상팔자'에 어머니 이경실과 함께 출연했던 손보승은 안양예술고등학교 입학 후 \\\"현대 무용이 재미있다\\\"고 밝혀 주목받기도 했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배우로 인생 2막을 열게 된 손보승은 한고은, 심형탁, 박시은, 진태현, 차화연, 오승아, 한기웅 등 배우들이 소속된 지앤지프로덕션에서 본격적인 연기 활동을 펼칠 예정이다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "예고 입학했던 이경실 아들 손보승 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

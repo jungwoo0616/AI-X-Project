@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275590",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘앞머리 수지’ 데뷔 초랑 똑같네",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 수지가 근황을 공개했다.\n수지는 15일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.\n사진 속 수지는 자신이 모델을 하고 있는 한 브랜드와 5주년을 맞이하여 파티를 즐기는 모습이다.\n수지는 편안한 옷차림에 앞머리를 내린 헤어스타일로 시선을 사로잡았다.\n해당 게시물을 본 누리꾼들은 “앞머리 너무 사랑스럽다” “이두나 그 자체. 정말 예쁘다” “언니 정말 너무 에쁘다. 사랑한다”며 극찬했다.\n한편 수지는 최근 쿠팡플레이 시리즈 ‘안나’에 출연했다.\n그는 올해 하반기 예정인 ‘원더랜드’에 출연하며, 넷플릭스 드라마 ‘이두나!’의 주연 이두나 역으로 캐스팅됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 수지가 근황을 공개했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수지는 15일 자신의 사회관계망서비스(SNS) 인스타그램에 사진 여러 장을 공개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 수지는 자신이 모델을 하고 있는 한 브랜드와 5주년을 맞이하여 파티를 즐기는 모습이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수지는 편안한 옷차림에 앞머리를 내린 헤어스타일로 시선을 사로잡았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 게시물을 본 누리꾼들은 “앞머리 너무 사랑스럽다” “이두나 그 자체. 정말 예쁘다” “언니 정말 너무 에쁘다. 사랑한다”며 극찬했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 수지는 최근 쿠팡플레이 시리즈 ‘안나’에 출연했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 올해 하반기 예정인 ‘원더랜드’에 출연하며, 넷플릭스 드라마 ‘이두나!’의 주연 이두나 역으로 캐스팅됐다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘앞머리 수지’ 데뷔 초랑 똑같네",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

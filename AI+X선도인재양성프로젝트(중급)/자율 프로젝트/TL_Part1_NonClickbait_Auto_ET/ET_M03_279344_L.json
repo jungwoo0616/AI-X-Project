@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_279344",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'복면가왕' 어우동 대체 누구길래?",
+		"newsSubTitle": "",
+		"newsContent": "'복면가왕'은 가면을 쓰고 정체를 숨기면서 오로지 목소리와 노래 실력으로 평가받는 음악 버라이어티 프로그램이다.\n지금까지 '복면가왕'은 생각지도 못한 스타들이 등장해 시청자를 흥미진진하게 했다.\n지난 17일 방송된 '복면가왕'도 지금까지의 컨셉에 맞게 '어우동'이라는 닉네임의 출연자가 나와서 화제가 되고있다.\n네티즌들은 어우동이 남자라는 추측이 이어지고 있다.\n소녀시대 태연과 포미닛 허가윤, 달샤벳 수빈 등의 추론이 이어지고 있는 가운데, 특히 보이그룹 업텐션 멤버 선율이라는 반응도 꽤 있다.\n사진 MBC 방송화면 캡처 온라인 중앙일보",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'복면가왕'은 가면을 쓰고 정체를 숨기면서 오로지 목소리와 노래 실력으로 평가받는 음악 버라이어티 프로그램이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지금까지 '복면가왕'은 생각지도 못한 스타들이 등장해 시청자를 흥미진진하게 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 17일 방송된 '복면가왕'도 지금까지의 컨셉에 맞게 '어우동'이라는 닉네임의 출연자가 나와서 화제가 되고있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네티즌들은 어우동이 남자라는 추측이 이어지고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소녀시대 태연과 포미닛 허가윤, 달샤벳 수빈 등의 추론이 이어지고 있는 가운데, 특히 보이그룹 업텐션 멤버 선율이라는 반응도 꽤 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사진 MBC 방송화면 캡처 온라인 중앙일보",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'복면가왕' 어우동 대체 누구길래?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

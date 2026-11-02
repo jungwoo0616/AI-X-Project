@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276657",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "김세정이 '이상한 행동'할 때 친한 친구만 보이는 반응",
+		"newsSubTitle": "",
+		"newsContent": "'구구단' 멤버 김세정의 예측불허한 행동에 주변 반응이 갈렸다.\n지난해 방송된 Mnet '프로듀스101'에 출연한 김세정은 밝고 털털한 모습을 선보이며 확실한 분위기 메이커로 활약했다.\n특히 네티즌은 전소미를 향해 사랑의 총을 쏘는 김세정의 모습에 집중하며 \\\"김세정이 이상한 행동을 할 때 오래 봐온 사람과 아닌 사람의 차이가 있다\\\"고 주장했다.\n당시 김세정은 센터로 뽑힌 전소미를 향해 입으로 이상한 소리를 내며 사랑의 총을 날렸다.\n장난기 가득한 김세정의 모습을 본 다른 연습생은 이를 신기해하며 미소 지었다.\n하지만 그런 김세정의 장난이 부끄러웠던 멤버도 있었다.\n김세정과 함께 연습생 생활을 했던 김나영은 그만 고개를 숙이고 말았던 것. 한편 이를 본 네티즌은 \\\"귀엽다ㅋㅋ\\\" \\\"나옹이ㅜㅜ\\\" \\\"나영이ㅋㅋㅋㅋ\\\" 등 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'구구단' 멤버 김세정의 예측불허한 행동에 주변 반응이 갈렸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 방송된 Mnet '프로듀스101'에 출연한 김세정은 밝고 털털한 모습을 선보이며 확실한 분위기 메이커로 활약했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 네티즌은 전소미를 향해 사랑의 총을 쏘는 김세정의 모습에 집중하며 \\\"김세정이 이상한 행동을 할 때 오래 봐온 사람과 아닌 사람의 차이가 있다\\\"고 주장했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 김세정은 센터로 뽑힌 전소미를 향해 입으로 이상한 소리를 내며 사랑의 총을 날렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장난기 가득한 김세정의 모습을 본 다른 연습생은 이를 신기해하며 미소 지었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 그런 김세정의 장난이 부끄러웠던 멤버도 있었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김세정과 함께 연습생 생활을 했던 김나영은 그만 고개를 숙이고 말았던 것. 한편 이를 본 네티즌은 \\\"귀엽다ㅋㅋ\\\" \\\"나옹이ㅜㅜ\\\" \\\"나영이ㅋㅋㅋㅋ\\\" 등 반응을 보였다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김세정이 '이상한 행동'할 때 친한 친구만 보이는 반응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

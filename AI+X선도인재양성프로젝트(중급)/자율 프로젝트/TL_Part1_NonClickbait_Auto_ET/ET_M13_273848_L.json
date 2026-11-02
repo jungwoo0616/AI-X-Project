@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273848",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "“라필루스 떴다” 필리핀이 난리났다",
+		"newsSubTitle": "",
+		"newsContent": "“라필루스 떴다” 필리핀이 뜨겁다.\n필리핀 유력 언론 매체들이 라필루스(Lapillus) 데뷔를 앞다투어 대서특필했다.\n지난 22일, 필리핀 CNN(Philippines Cable News Network)을 비롯한 ManilaBulletin(마닐라 불러틴), Rappler(래플러) 등 필리핀 유력 언론 매체들은 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)의 공식 데뷔를 대대적으로 보도했다.\n특히 필리핀 CNN은 “라필루스의 멤버들은 국적도, 개성도 다양하다. 세계 어느 나라를 가도 현지의 팬들과 교류할 수 있는 그룹이다”며 “어떤 콘셉트라도 소화할 수 있는 다채로운 매력의그룹”이라고 찬사했다.\n또한 이들 매체는 “K팝 시장의 높은 경쟁률을 뚫고 데뷔한 샨티의 활약이 기대된다”며 필리핀 하이틴 스타이자 배우 출신 샨티가 라필루스의 멤버로 합류한데 대해 큰 관심을 표했다. 라필루스는 지난 20일 미디어 쇼케이스를 통해 데뷔곡 ‘HIT YA!(힛야!)’를 공개하고 가요계에 전격 데뷔했다. 라필루스의 데뷔곡 ‘HITYA!’는 발매 직후 주요 음원사이트 실시간 차트 최상위권을 기록하며 K팝 팬들의 이목을 집중시켰다.\n또한 ‘HIT YA!’의 뮤직비디오는 공개 이틀 만에 800만 뷰를 기록하며 글로벌 돌풍을 일으켰다. ‘라이브의 황제’ 이승철이 데뷔 이후 처음 보컬 디렉터로 참여해 화제를 모았다.\n한편 라필루스는 디지털 싱글 앨범 ‘HIT YA!’를 발매하고 본격 데뷔 활동에 나섰다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "“라필루스 떴다” 필리핀이 뜨겁다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "필리핀 유력 언론 매체들이 라필루스(Lapillus) 데뷔를 앞다투어 대서특필했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 22일, 필리핀 CNN(Philippines Cable News Network)을 비롯한 ManilaBulletin(마닐라 불러틴), Rappler(래플러) 등 필리핀 유력 언론 매체들은 라필루스(샨티, 샤나, 유에, 베시, 서원, 하은)의 공식 데뷔를 대대적으로 보도했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 필리핀 CNN은 “라필루스의 멤버들은 국적도, 개성도 다양하다. 세계 어느 나라를 가도 현지의 팬들과 교류할 수 있는 그룹이다”며 “어떤 콘셉트라도 소화할 수 있는 다채로운 매력의그룹”이라고 찬사했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 이들 매체는 “K팝 시장의 높은 경쟁률을 뚫고 데뷔한 샨티의 활약이 기대된다”며 필리핀 하이틴 스타이자 배우 출신 샨티가 라필루스의 멤버로 합류한데 대해 큰 관심을 표했다. 라필루스는 지난 20일 미디어 쇼케이스를 통해 데뷔곡 ‘HIT YA!(힛야!)’를 공개하고 가요계에 전격 데뷔했다. 라필루스의 데뷔곡 ‘HITYA!’는 발매 직후 주요 음원사이트 실시간 차트 최상위권을 기록하며 K팝 팬들의 이목을 집중시켰다.",
+				"sentenceSize": 235
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 ‘HIT YA!’의 뮤직비디오는 공개 이틀 만에 800만 뷰를 기록하며 글로벌 돌풍을 일으켰다. ‘라이브의 황제’ 이승철이 데뷔 이후 처음 보컬 디렉터로 참여해 화제를 모았다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 라필루스는 디지털 싱글 앨범 ‘HIT YA!’를 발매하고 본격 데뷔 활동에 나섰다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“라필루스 떴다” 필리핀이 난리났다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_171279",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "노제, 인기 총성 ‘서든어택’ 뜬다",
+    "newsSubTitle": "",
+    "newsContent": "안무가 노제(NO:ZE)가 ‘서든어택’에 등장한다.\n노제는 30일 넥슨 온라인 슈팅게임(FPS) ‘서든어택’ 캐릭터를 출시하며 게임 팬들과의 활발한 소통을 예고했다. ‘서든어택’ 캐릭터에서 노제는 뚜렷한 이목구비와 강렬한 카리스마를 고스란히 담아냈다.\n여기에 노제 승리 포즈 등의 다양한 효과와 감정 표현들이 더해져 게임에 대한 몰입도를 높인다.\n팔색조 매력으로 큰 사랑을 받고 있는 노제. ‘서든어택’에서는 어떤 모습으로 게임 팬들의 마음을 사로잡을지 관심이 모아지고 있다.\n노제는 Mnet ‘스트릿 우먼 파이터’에서 팀 웨이비의 리더로 활약하며 눈도장을 찍었다.\n노제의 비주얼과 탄탄한 실력은 보는 이들의 감탄을 자아냈고, 각종 패러디물과 커버 영상까지 양산 시키며 멈출 줄 모르는 인기를 입증했다.\n한편, 노제 캐릭터에 관한 자세한 정보는 ‘서든어택’ 공식 홈페이지에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "안무가 노제(NO:ZE)가 ‘서든어택’에 등장한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노제는 30일 넥슨 온라인 슈팅게임(FPS) ‘서든어택’ 캐릭터를 출시하며 게임 팬들과의 활발한 소통을 예고했다. ‘서든어택’ 캐릭터에서 노제는 뚜렷한 이목구비와 강렬한 카리스마를 고스란히 담아냈다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여기에 노제 승리 포즈 등의 다양한 효과와 감정 표현들이 더해져 게임에 대한 몰입도를 높인다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "팔색조 매력으로 큰 사랑을 받고 있는 노제. ‘서든어택’에서는 어떤 모습으로 게임 팬들의 마음을 사로잡을지 관심이 모아지고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노제는 Mnet ‘스트릿 우먼 파이터’에서 팀 웨이비의 리더로 활약하며 눈도장을 찍었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "노제의 비주얼과 탄탄한 실력은 보는 이들의 감탄을 자아냈고, 각종 패러디물과 커버 영상까지 양산 시키며 멈출 줄 모르는 인기를 입증했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 노제 캐릭터에 관한 자세한 정보는 ‘서든어택’ 공식 홈페이지에서 확인할 수 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인기 댄서 노제(NO:ZE), 곧 이 게임 캐릭터로 등장한다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

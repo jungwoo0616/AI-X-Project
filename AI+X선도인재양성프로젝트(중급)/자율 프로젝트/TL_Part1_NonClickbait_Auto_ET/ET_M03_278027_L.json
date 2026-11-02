@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278027",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "여자친구 속옷 사진을 본 빈지노의 댓글은?",
+		"newsSubTitle": "",
+		"newsContent": "래퍼 빈지노가 외국인 여차진구의 속옷 사진에 댓글을 달았다.\n빈자노의 여자친구로 알려진 독일 모델 스테파니 미초바는 자신의 인스타그램에 \\\"성빈 오빠 몰래 올려야지\\\"라는 글과 함께 속옷만 입은 상반신 사진을 올렸다.\n사진속 미초바는 분홍색 속옷 상의에 노란 머리를 만지며 뇌새적인 표정으로 카메라를 응시하고 있다.\n이 사진을 본 네티즌들은 빈지노를 소환했다.\n이에 빈지노는 경찰차와 엠뷸런스모양 이모티콘으로 여자친구 미초바의 사진을 봤다는 표식을 남겼다.\n두 사람은 지난해 5월 열애 사실을 인정한 뒤 SNS에 데이트 사진들을 올리며 공개 연애를 즐기고 있다.\n온라인 중앙일보 [사진 미초바 인스타그램]",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래퍼 빈지노가 외국인 여차진구의 속옷 사진에 댓글을 달았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빈자노의 여자친구로 알려진 독일 모델 스테파니 미초바는 자신의 인스타그램에 \\\"성빈 오빠 몰래 올려야지\\\"라는 글과 함께 속옷만 입은 상반신 사진을 올렸다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진속 미초바는 분홍색 속옷 상의에 노란 머리를 만지며 뇌새적인 표정으로 카메라를 응시하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 사진을 본 네티즌들은 빈지노를 소환했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 빈지노는 경찰차와 엠뷸런스모양 이모티콘으로 여자친구 미초바의 사진을 봤다는 표식을 남겼다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 사람은 지난해 5월 열애 사실을 인정한 뒤 SNS에 데이트 사진들을 올리며 공개 연애를 즐기고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인 중앙일보 [사진 미초바 인스타그램]",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "여자친구 속옷 사진을 본 빈지노의 댓글은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

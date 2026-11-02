@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276562",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태어날 때부터 '미모 완성' 아기…'인생 치트키' 쓴 근황",
+		"newsSubTitle": "",
+		"newsContent": "'태어날 때부터 미모가 완성됐다'며 화제를 일으켰던 한소율 양이 아기 때 얼굴 그대로 예쁘게 자라고 있는 근황을 공개했다.\n소율 양의 부모가 운영하는 것으로 추정되는 페이스북 페이지에는 소율 양이 최근 모델 컷으로 찍은 사진들이 게재됐다.\n사진 설명에 따르면 소율 양은 최근 한 유아 화장품 모델로 발탁됐다.\n소율 양은 2012년 9월생으로 올해 한국 나이 6세의 유아다.\n아기 때부터 화제였던 큰 눈과 긴 속눈썹은 여전히 소율 양의 트레이드 마크다.\n소율 양의 일상 사진과 모델 활동 사진을 볼 수 있는 페이스북 페이지는 11만 8천여명이 구독 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'태어날 때부터 미모가 완성됐다'며 화제를 일으켰던 한소율 양이 아기 때 얼굴 그대로 예쁘게 자라고 있는 근황을 공개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소율 양의 부모가 운영하는 것으로 추정되는 페이스북 페이지에는 소율 양이 최근 모델 컷으로 찍은 사진들이 게재됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 설명에 따르면 소율 양은 최근 한 유아 화장품 모델로 발탁됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소율 양은 2012년 9월생으로 올해 한국 나이 6세의 유아다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아기 때부터 화제였던 큰 눈과 긴 속눈썹은 여전히 소율 양의 트레이드 마크다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소율 양의 일상 사진과 모델 활동 사진을 볼 수 있는 페이스북 페이지는 11만 8천여명이 구독 중이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "태어날 때부터 '미모 완성' 아기…'인생 치트키' 쓴 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

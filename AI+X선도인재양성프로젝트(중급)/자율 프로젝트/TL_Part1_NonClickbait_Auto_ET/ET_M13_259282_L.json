@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259282",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘2월3일 데뷔’ 송수우, 순수한 카리스마",
+		"newsSubTitle": "",
+		"newsContent": "Mnet 서바이벌 오디션 프로그램 ‘캡틴 (CAP-TEEN)’ 우승자 송수우가 매력을 드러냈다.\n송수우는 최근 3일간 공식 트위터 계정을 통해 첫 번째 싱글 ‘Love Me or Hate Me (러브 미 올 헤이트 미)’의 다섯 가지 버전의 콘셉트 포토를 차례로 공개했다.\n송수우의 데뷔 싱글 ‘Love Me or Hate Me’는 10대의 끝과 20대의 시작을 지나는 혼란스러움을 그런지한 밴드 사운드와 송수우의 매력적인 중저음 보이스로 그려낸 팝 펑크 장르의 곡이다.\n지난해 1월 종영된 Mnet 서바이벌 오디션 프로그램 ‘캡틴 (CAP-TEEN)’ 우승자로 대중의 이목을 모은 송수우는 참가 당시 청초한 외모와 반전되는 중저음 보컬로 많은 사랑을 받았다.\n데뷔 싱글 콘셉트 포토를 통해 순수하고 청량한 아름다움부터 강렬한 락시크적인 카리스마까지 가감 없이 보여준 송수우는 데뷔 싱글 ‘Love Me or Hate Me’를 통해 낯설고 벅찬 20대의 고민을 한층 매력적으로 풀어낼 예정이다.\n한편, 송수우의 첫 번째 싱글 ‘Love Me or Hate Me’는 오는 2월 3일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Mnet 서바이벌 오디션 프로그램 ‘캡틴 (CAP-TEEN)’ 우승자 송수우가 매력을 드러냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "송수우는 최근 3일간 공식 트위터 계정을 통해 첫 번째 싱글 ‘Love Me or Hate Me (러브 미 올 헤이트 미)’의 다섯 가지 버전의 콘셉트 포토를 차례로 공개했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송수우의 데뷔 싱글 ‘Love Me or Hate Me’는 10대의 끝과 20대의 시작을 지나는 혼란스러움을 그런지한 밴드 사운드와 송수우의 매력적인 중저음 보이스로 그려낸 팝 펑크 장르의 곡이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 1월 종영된 Mnet 서바이벌 오디션 프로그램 ‘캡틴 (CAP-TEEN)’ 우승자로 대중의 이목을 모은 송수우는 참가 당시 청초한 외모와 반전되는 중저음 보컬로 많은 사랑을 받았다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데뷔 싱글 콘셉트 포토를 통해 순수하고 청량한 아름다움부터 강렬한 락시크적인 카리스마까지 가감 없이 보여준 송수우는 데뷔 싱글 ‘Love Me or Hate Me’를 통해 낯설고 벅찬 20대의 고민을 한층 매력적으로 풀어낼 예정이다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 송수우의 첫 번째 싱글 ‘Love Me or Hate Me’는 오는 2월 3일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘2월3일 데뷔’ 송수우, 순수한 카리스마",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

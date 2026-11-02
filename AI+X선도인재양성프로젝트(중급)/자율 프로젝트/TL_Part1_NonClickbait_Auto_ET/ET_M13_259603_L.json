@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259603",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "정선아, 코로나19 확진…백신2차 미접종[공식]",
+		"newsSubTitle": "",
+		"newsContent": "뮤지컬 배우 정선아가 코로나19 확진 판정을 받았다.\n소속사 팜트리아일랜드 측은 28일 “정선아가 27일 코로나19 확진 판정을 받았다”고 밝혔다.\n소속사에 따르면 정선아는 지난 26일 개인 스케줄을 앞두고 선제적으로 PCR 검사를 진행했고, 27일 오전 보건당국으로부터 코로나19 최종 확진 판정을 통보받았다.\n정선아는 백신을 맞지 않은 것으로 알려졌다.\n이 관계자는 “정선아가 1차 백신 접종 후, 추가 접종을 기다리는 던 중 임신 사실을 알게 되어 코로나 백신 접종에 대해 신중할 수밖에 없었기에 현재 백신 미접종 상태인 점을 함께 밝힌다”고 말했다.\n이어 “현재 정선아는 예정된 모든 일정을 취소하고 방역당국의 지침에 따른 필요한 조치를 취하고 있으며, 앞으로도 당사는 보건당국의 방역 지침을 준수하여 소속 아티스트들의 건강과 안전을 위해 최선을 다하겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뮤지컬 배우 정선아가 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 팜트리아일랜드 측은 28일 “정선아가 27일 코로나19 확진 판정을 받았다”고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사에 따르면 정선아는 지난 26일 개인 스케줄을 앞두고 선제적으로 PCR 검사를 진행했고, 27일 오전 보건당국으로부터 코로나19 최종 확진 판정을 통보받았다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정선아는 백신을 맞지 않은 것으로 알려졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 관계자는 “정선아가 1차 백신 접종 후, 추가 접종을 기다리는 던 중 임신 사실을 알게 되어 코로나 백신 접종에 대해 신중할 수밖에 없었기에 현재 백신 미접종 상태인 점을 함께 밝힌다”고 말했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 “현재 정선아는 예정된 모든 일정을 취소하고 방역당국의 지침에 따른 필요한 조치를 취하고 있으며, 앞으로도 당사는 보건당국의 방역 지침을 준수하여 소속 아티스트들의 건강과 안전을 위해 최선을 다하겠다”고 덧붙였다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정선아, 코로나19 확진…백신2차 미접종[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

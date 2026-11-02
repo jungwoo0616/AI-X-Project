@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_263081",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "AOA출신 유나, 요가 강사 된 근황",
+		"newsSubTitle": "",
+		"newsContent": "AOA 출신 유나가 이너웨어 차림으로 과감한 매력을 발산했다.\n유나는 최근 자신의 SNS 인스타그램에 “#유나쌤 #요가 #필라테스”라는 해시태그와 함께 여러 장의 사진을 올렸다.\n사진 속 유나는 언더웨어를 입고 가슴골을 드러낸 채 포즈를 취하고 있다.\n운동으로 다져진 탄력있는 몸매와 잘록한 허리 라인이 시선을 끌었다.\n유나는 지난 2012년 AOA로 데뷔해 ‘심쿵해’ ‘짧은 치마’ 등의 히트곡으로 큰 사랑을 받았으나, 지난해 1월 소속사 FNC엔터테인먼트와의 전속계약이 만료, AOA에서 탈퇴했다.\n이후 그는 요가 지도자 자격증 취득 사실을 알려 화제를 모은 바 있다.\n최근 SNS를 통해 운동하는 모습을 공개하는 등 대중과 소통 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AOA 출신 유나가 이너웨어 차림으로 과감한 매력을 발산했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유나는 최근 자신의 SNS 인스타그램에 “#유나쌤 #요가 #필라테스”라는 해시태그와 함께 여러 장의 사진을 올렸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 유나는 언더웨어를 입고 가슴골을 드러낸 채 포즈를 취하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "운동으로 다져진 탄력있는 몸매와 잘록한 허리 라인이 시선을 끌었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유나는 지난 2012년 AOA로 데뷔해 ‘심쿵해’ ‘짧은 치마’ 등의 히트곡으로 큰 사랑을 받았으나, 지난해 1월 소속사 FNC엔터테인먼트와의 전속계약이 만료, AOA에서 탈퇴했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 그는 요가 지도자 자격증 취득 사실을 알려 화제를 모은 바 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 SNS를 통해 운동하는 모습을 공개하는 등 대중과 소통 중이다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AOA출신 유나, 요가 강사 된 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

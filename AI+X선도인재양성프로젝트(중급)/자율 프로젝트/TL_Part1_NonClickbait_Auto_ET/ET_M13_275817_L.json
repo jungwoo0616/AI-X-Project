@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275817",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "고소영, 여전히 반짝반짝 빛나는 미모",
+		"newsSubTitle": "",
+		"newsContent": "배우 고소영이 여전히 아름다운 미모를 과시했다.\n고소영은 19일 자신의 사회관계망서비스(SNS)에 한 장의 사진을 게재했다.\n공개한 사진에서 고소영은 골프장을 배경 삼아 포즈를 취했다.\n슬리퍼만 신었음에도 날씬한 몸매와 각선미는 물론, 여전한 미모를 과시했다.\n한국 최고 미녀라는 수식어가 전혀 어색하지 않은 모습이었다.\n한편 고소영은 지난 2010년 배우 장동건과 결혼해 한국 연예계 세기의 커플로 주목 받았다.\n결혼 후에는 2017년 KBS 드라마 ‘완벽한 아내’에 출연했으며, 현재는 휴식을 취하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 고소영이 여전히 아름다운 미모를 과시했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고소영은 19일 자신의 사회관계망서비스(SNS)에 한 장의 사진을 게재했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개한 사진에서 고소영은 골프장을 배경 삼아 포즈를 취했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "슬리퍼만 신었음에도 날씬한 몸매와 각선미는 물론, 여전한 미모를 과시했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국 최고 미녀라는 수식어가 전혀 어색하지 않은 모습이었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 고소영은 지난 2010년 배우 장동건과 결혼해 한국 연예계 세기의 커플로 주목 받았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결혼 후에는 2017년 KBS 드라마 ‘완벽한 아내’에 출연했으며, 현재는 휴식을 취하고 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고소영, 여전히 반짝반짝 빛나는 미모",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

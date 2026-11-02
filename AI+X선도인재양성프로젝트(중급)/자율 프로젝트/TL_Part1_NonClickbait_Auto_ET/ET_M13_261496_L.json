@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_261496",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "비비지 엄지, 물오른 미모[화보]",
+		"newsSubTitle": "",
+		"newsContent": "‘8년차 신인’ 걸그룹 비비지 엄지(김예원·24)가 물오른 미모를 과시했다.\n엄지는 20일 자신의 SNS인스타그램에 “오랜만에 만난 코스모”라는 글과 함께 화보 촬영 중인 사진을 올렸다.\n사진 속 엄지는 매끈한 어깨와 등을 드러내며 아름다운 뒤태를 뽐내 눈길을 끌었다.\n해당 사진은 패션지 코스모폴리탄 화보 촬영 현장에서 찍은 것으로 보인다.\n같은 날 매체 공식 SNS에도 “공백을 깨고 새로운 챕터를 시작한 ‘비비지’의 가장 빛나는 순간”이라는 문구와 함께 이들의 화보 사진이 올라왔다.\n비비지는 여자친구 멤버중 은하, 신비, 엄지가 뭉쳐 재데뷔한 3인조 걸그룹이다.\n지난 17일 Mnet ‘엠카운트다운’에서 2월 셋째 주 1위에 오르는 등 호성적을 내며 활발한 활동을 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘8년차 신인’ 걸그룹 비비지 엄지(김예원·24)가 물오른 미모를 과시했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엄지는 20일 자신의 SNS인스타그램에 “오랜만에 만난 코스모”라는 글과 함께 화보 촬영 중인 사진을 올렸다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 엄지는 매끈한 어깨와 등을 드러내며 아름다운 뒤태를 뽐내 눈길을 끌었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 사진은 패션지 코스모폴리탄 화보 촬영 현장에서 찍은 것으로 보인다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 날 매체 공식 SNS에도 “공백을 깨고 새로운 챕터를 시작한 ‘비비지’의 가장 빛나는 순간”이라는 문구와 함께 이들의 화보 사진이 올라왔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비비지는 여자친구 멤버중 은하, 신비, 엄지가 뭉쳐 재데뷔한 3인조 걸그룹이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 17일 Mnet ‘엠카운트다운’에서 2월 셋째 주 1위에 오르는 등 호성적을 내며 활발한 활동을 펼치고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비비지 엄지, 물오른 미모[화보]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

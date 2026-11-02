@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259580",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "정동하, 2022 새해 인사 “복 많이 받으세요”",
+		"newsSubTitle": "",
+		"newsContent": "가수 정동하가 새해 인사를 남겼다.\n정동하가 28일 공식 SNS 채널을 통해 2022년 새해 인사 영상을 공개했다.\n공개된 영상 속에는 설날을 맞아 새해 인사를 전하는 정동하가 담겨 있다.\n그는 “2022년 새해가 밝고, 또 이렇게 ‘민족의 대명절’ 설날이 다가왔다. 참 시간이 빠르고 그렇다. 2022년을 여러분들 덕분에, 여러분의 사랑 덕분에 너무나 행복하게 시작하게 됐다”며 팬들에게 감사 인사를 남겼다.\n이어 “너무나 감사하고, 2022년에는 우리 모두에게 좋은 일만 더 많이 일어나고, 또 저도 여러분에게 좋은 에너지로, 행복의 에너지로 다가갈 수 있도록 더 노력하겠다”면서 “여러분 새해 복 많이 받으세요. 감사합니다”라고 전했다.\n정동하는 지난 23일 진행된 ‘제31회 하이원 서울가요대상’에서 심사위원 특별상을 수상했다.\n지난해 ‘추억은 만남보다 이별에 남아’, ‘너의 모습’으로 활발히 활동을 펼친 정동하는 독보적인 가창력과 매력적인 보이스로 리스너들의 많은 사랑을 받고 있다.\n특히 ‘추억은 만남보다 이별에 남아’는 지난해 1월 발매 이후 노래방 인기차트 상위권을 유지했으며, 각종 음원차트에 꾸준히 머무르는 등 식지 않는 인기를 자랑했다.\n한편, 정동하는 다양한 방송 프로그램뿐만 아니라 유튜브 활동을 통해 꾸준히 팬들과 소통하고 있으며 트렌디한 콘텐츠로 색다른 매력을 나타내고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 정동하가 새해 인사를 남겼다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정동하가 28일 공식 SNS 채널을 통해 2022년 새해 인사 영상을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 영상 속에는 설날을 맞아 새해 인사를 전하는 정동하가 담겨 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 “2022년 새해가 밝고, 또 이렇게 ‘민족의 대명절’ 설날이 다가왔다. 참 시간이 빠르고 그렇다. 2022년을 여러분들 덕분에, 여러분의 사랑 덕분에 너무나 행복하게 시작하게 됐다”며 팬들에게 감사 인사를 남겼다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “너무나 감사하고, 2022년에는 우리 모두에게 좋은 일만 더 많이 일어나고, 또 저도 여러분에게 좋은 에너지로, 행복의 에너지로 다가갈 수 있도록 더 노력하겠다”면서 “여러분 새해 복 많이 받으세요. 감사합니다”라고 전했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정동하는 지난 23일 진행된 ‘제31회 하이원 서울가요대상’에서 심사위원 특별상을 수상했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 ‘추억은 만남보다 이별에 남아’, ‘너의 모습’으로 활발히 활동을 펼친 정동하는 독보적인 가창력과 매력적인 보이스로 리스너들의 많은 사랑을 받고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 ‘추억은 만남보다 이별에 남아’는 지난해 1월 발매 이후 노래방 인기차트 상위권을 유지했으며, 각종 음원차트에 꾸준히 머무르는 등 식지 않는 인기를 자랑했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 정동하는 다양한 방송 프로그램뿐만 아니라 유튜브 활동을 통해 꾸준히 팬들과 소통하고 있으며 트렌디한 콘텐츠로 색다른 매력을 나타내고 있다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정동하, 2022 새해 인사 “복 많이 받으세요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

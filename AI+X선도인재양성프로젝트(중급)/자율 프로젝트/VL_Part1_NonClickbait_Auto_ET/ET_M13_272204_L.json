@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272204",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "아이키, JTBC ‘플라이 투 더 댄스’ 출연…3일 첫 방송",
+		"newsSubTitle": "",
+		"newsContent": "크리에이터 겸 댄서 아이키가 출연하는 JTBC 새 예능 프로그램 ‘플라이 투 더 댄스(Fly to the Dance)’(이하 ‘플투댄’)가 3일 첫 방송된다. ‘플투댄’은 대한민국을 대표하는 댄서들이 모여 스트릿 댄스의 본고장인 미국에서 댄스 버스킹을 펼치는 리얼리티 여행 예능 프로그램이다.\n댄스 크루 훅(HOOK)의 리더이자 다양한 장르의 댄스를 선보이는 아이키가 방송을 통해 여러 댄서들과 함께 선보일 케미스트리에 많은 기대가 모아지고 있다.\n공개된 예고 영상에는 관객을 압도하는 버스킹 현장은 물론 긴장을 멈출 수 없는 현지 댄서들과의 댄스 배틀과 훈훈한 컬래버레이션 무대, 그리고 댄스 꿈나무들과 함께 하는 워크숍 등 다채로운 모습이 담겨 있어 방송 프로그램에 대한 관심 또한 증폭되는 중이다.\nMZ 세대 뜨거운 관심을 받고 있는 트렌드세터 아이키는 최근 여러 방송 프로그램을 통해 카멜레온 같은 모습으로 많은 사랑을 받고 있다.\n이에 ‘플투댄’을 통해 보일 모습에도 귀추가 주목된다.\n아이키가 출연하는 JTBC 새 예능 프로그램 ‘플라이 투 더 댄스’는 3일 오후 10시 50분 첫 방송된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "크리에이터 겸 댄서 아이키가 출연하는 JTBC 새 예능 프로그램 ‘플라이 투 더 댄스(Fly to the Dance)’(이하 ‘플투댄’)가 3일 첫 방송된다. ‘플투댄’은 대한민국을 대표하는 댄서들이 모여 스트릿 댄스의 본고장인 미국에서 댄스 버스킹을 펼치는 리얼리티 여행 예능 프로그램이다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "댄스 크루 훅(HOOK)의 리더이자 다양한 장르의 댄스를 선보이는 아이키가 방송을 통해 여러 댄서들과 함께 선보일 케미스트리에 많은 기대가 모아지고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 예고 영상에는 관객을 압도하는 버스킹 현장은 물론 긴장을 멈출 수 없는 현지 댄서들과의 댄스 배틀과 훈훈한 컬래버레이션 무대, 그리고 댄스 꿈나무들과 함께 하는 워크숍 등 다채로운 모습이 담겨 있어 방송 프로그램에 대한 관심 또한 증폭되는 중이다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MZ 세대 뜨거운 관심을 받고 있는 트렌드세터 아이키는 최근 여러 방송 프로그램을 통해 카멜레온 같은 모습으로 많은 사랑을 받고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 ‘플투댄’을 통해 보일 모습에도 귀추가 주목된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이키가 출연하는 JTBC 새 예능 프로그램 ‘플라이 투 더 댄스’는 3일 오후 10시 50분 첫 방송된다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이키, JTBC ‘플라이 투 더 댄스’ 출연…3일 첫 방송",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

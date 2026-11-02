@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_278419",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "[화보] 이게 누구야? 이렇게 예뻤나? 권진영, 웨딩화보 반전 매력 뽐내",
+		"newsSubTitle": "",
+		"newsContent": "결혼을 3일 앞둔 개그우먼 권진영이 '행복한 3월의 신부'의 자태를 드러냈다.\n권진영은 16일 소속사 H.W 엔터프라이즈를 통해 웨딩 화보 일부를 공개했다.\n공개된 화보 속 권진영은 순백의 웨딩드레스를 입고 고혹적인 자태를 뽐내고 있다.\n늘씬한 각선미에 아찔한 쇄골라인을 드러내며 반전 매력을 발산했다.\n권진영은 오는 19일 1년여의 교제 끝에 2세 연하의 일반인 남성과 서울 강남 소재의 교회에서 결혼식을 올린다.\n일반인인 예비신랑을 배려해 양가 가족, 친지, 지인들만 초대해 비공개로 치러진다.\n이날 권진영의 결혼식에는 선배 개그우먼 박미선이 사회를, 유리상자의 이세준이 축가를 맡는다.\n권진영은 결혼 후에도 활발한 방송 활동을 펼칠 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "결혼을 3일 앞둔 개그우먼 권진영이 '행복한 3월의 신부'의 자태를 드러냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "권진영은 16일 소속사 H.W 엔터프라이즈를 통해 웨딩 화보 일부를 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 화보 속 권진영은 순백의 웨딩드레스를 입고 고혹적인 자태를 뽐내고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "늘씬한 각선미에 아찔한 쇄골라인을 드러내며 반전 매력을 발산했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "권진영은 오는 19일 1년여의 교제 끝에 2세 연하의 일반인 남성과 서울 강남 소재의 교회에서 결혼식을 올린다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반인인 예비신랑을 배려해 양가 가족, 친지, 지인들만 초대해 비공개로 치러진다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 권진영의 결혼식에는 선배 개그우먼 박미선이 사회를, 유리상자의 이세준이 축가를 맡는다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "권진영은 결혼 후에도 활발한 방송 활동을 펼칠 예정이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[화보] 이게 누구야? 이렇게 예뻤나? 권진영, 웨딩화보 반전 매력 뽐내",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

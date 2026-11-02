@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277078",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"다이어트 중\\\"…'볼살 쏙 빠진' 조혜정 근황",
+		"newsSubTitle": "",
+		"newsContent": "배우 조재현의 딸이자 배우로 활약하고 있는 조혜정(25)의 근황이 눈길을 끌고 있다.\n27일 조혜정은 이날 자신이 게스트로 출연하는 예능 프로그램을 홍보하며 사진 두 장과 동영상을 공개했다.\n사진 속 조혜정은 지난 1월 종영한 MBC '역도요정 김복주' 출연 때와 달리 몰라보게 날씬한 상반신을 자랑했다.\n통통했던 볼살도 어느 정도 빠진 모습이었다.\n이를 본 팬들은 \\\"귀엽다\\\" \\\"예쁘다\\\" 등 반응을 보이며 조혜정의 미모를 극찬했다.\n그는 지난 3일 KBS 2TV '해피투게더3'에 출연해 \\\"'역도요정 김복주' 종영 이후 7kg을 감량했다\\\"고 밝힌 바 있다.\n조혜정은 27일 tvN '편의점을 털어라'에 출연해서도 \\\"다이어트를 열심히 하고 있다\\\"며 근황을 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 조재현의 딸이자 배우로 활약하고 있는 조혜정(25)의 근황이 눈길을 끌고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 조혜정은 이날 자신이 게스트로 출연하는 예능 프로그램을 홍보하며 사진 두 장과 동영상을 공개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 조혜정은 지난 1월 종영한 MBC '역도요정 김복주' 출연 때와 달리 몰라보게 날씬한 상반신을 자랑했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "통통했던 볼살도 어느 정도 빠진 모습이었다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 본 팬들은 \\\"귀엽다\\\" \\\"예쁘다\\\" 등 반응을 보이며 조혜정의 미모를 극찬했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 지난 3일 KBS 2TV '해피투게더3'에 출연해 \\\"'역도요정 김복주' 종영 이후 7kg을 감량했다\\\"고 밝힌 바 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조혜정은 27일 tvN '편의점을 털어라'에 출연해서도 \\\"다이어트를 열심히 하고 있다\\\"며 근황을 전했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"다이어트 중\\\"…'볼살 쏙 빠진' 조혜정 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

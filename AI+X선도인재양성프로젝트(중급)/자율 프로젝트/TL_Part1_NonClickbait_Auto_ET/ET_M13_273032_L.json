@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_273032",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "김나영 선한 영향력 발휘, 1억 원 기부",
+		"newsSubTitle": "",
+		"newsContent": "방송인 김나영이 다시 한번 선한 영향력을 보여줬다.\n김나영은 13일 자신의 사회관계망서비스(SNS)에 기부증명서를 게재했다.\n기부 금액은 무려 1억 원에 달했다.\n특히 기부자 이름을 김나영 유튜브 구독자로 한 것이 눈길을 끌었다.\n김나영은 “이번 기부도 노필터 티비 구독자 여러분이 해주신 거에요. 제가 아름다운 재단에 잘 전달했습니다. 이번 기부금은 한부모 여성 가장들의 건강하고 행복한 마음을 위한 심리상담 치료 비용으로 쓰일 예정입니다. 투명하고 깨끗하고 쓸모 있게 쓰이도록 제가 잘 살피겠습니다. 고맙습니다”라고 밝혔다.\n김나영은 유튜브를 통해 발생하는 수익을 꾸준히 기부했다.\n팬들과 구독자의 관심과 사랑으로 만들어지는 유튜브이기 때문에, 유튜브에서 나오는 수익은 기부하겠다고 밝혔고, 그 약속을 지키면서 선한 영향력을 과시했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 김나영이 다시 한번 선한 영향력을 보여줬다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김나영은 13일 자신의 사회관계망서비스(SNS)에 기부증명서를 게재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기부 금액은 무려 1억 원에 달했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 기부자 이름을 김나영 유튜브 구독자로 한 것이 눈길을 끌었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김나영은 “이번 기부도 노필터 티비 구독자 여러분이 해주신 거에요. 제가 아름다운 재단에 잘 전달했습니다. 이번 기부금은 한부모 여성 가장들의 건강하고 행복한 마음을 위한 심리상담 치료 비용으로 쓰일 예정입니다. 투명하고 깨끗하고 쓸모 있게 쓰이도록 제가 잘 살피겠습니다. 고맙습니다”라고 밝혔다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김나영은 유튜브를 통해 발생하는 수익을 꾸준히 기부했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "팬들과 구독자의 관심과 사랑으로 만들어지는 유튜브이기 때문에, 유튜브에서 나오는 수익은 기부하겠다고 밝혔고, 그 약속을 지키면서 선한 영향력을 과시했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김나영 선한 영향력 발휘, 1억 원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

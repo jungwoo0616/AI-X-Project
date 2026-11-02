@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_258481",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "‘솔로지옥’ 김현중, 프리지아 언팔·결별 의혹도…",
+		"newsSubTitle": "",
+		"newsContent": "‘솔로지옥’ 출연진 김현중이 유튜버 프리지아를 언팔했다.\n18일 김현중은 자신의 인스타 계정에서 유튜버 프리지아(본명 송지아)와의 팔로우를 끊었다.\n김현중은 지난달 18일 첫 공개된 넷플릭스 예능 ‘솔로지옥’에 출연, 프리지아와 최종 커플이 됐다.\n이후 두 사람이 실제 커플로 발전할 가능성에도 관심이 모였으나, 교제 여부에 대해서는 알려지지 않았다.\n실제 ‘솔로지옥’ 두 PD 역시 인터뷰에서 출연자들의 실제 교제와 관련해서는 말을 아꼈다.\n그러던 와중 최근 김현중이 인스타그램에서 프리지아를 언팔로우한 것이 알려지며, 두사람의 결별 의혹도 나오고 있다.\n일부 누리꾼들은 “짝퉁(가품) 논란이 영향을 끼친 것이 아니냐”라고 추측했으나, 프리지아는 김현중을 팔로우 한 적이 없는 것으로 전해졌다.\n한편, 프리지아는 ‘솔로지옥’ 출연 이후 인스타그램과 유튜브 구독자 수가 급증하며 폭발적인 인기를 얻었다.\n그러나 그가 착용한 많은 의상과 제품이 가품이라는 사실이 밝혀지며 인스타에 사과문을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘솔로지옥’ 출연진 김현중이 유튜버 프리지아를 언팔했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 김현중은 자신의 인스타 계정에서 유튜버 프리지아(본명 송지아)와의 팔로우를 끊었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김현중은 지난달 18일 첫 공개된 넷플릭스 예능 ‘솔로지옥’에 출연, 프리지아와 최종 커플이 됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 두 사람이 실제 커플로 발전할 가능성에도 관심이 모였으나, 교제 여부에 대해서는 알려지지 않았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 ‘솔로지옥’ 두 PD 역시 인터뷰에서 출연자들의 실제 교제와 관련해서는 말을 아꼈다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러던 와중 최근 김현중이 인스타그램에서 프리지아를 언팔로우한 것이 알려지며, 두사람의 결별 의혹도 나오고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일부 누리꾼들은 “짝퉁(가품) 논란이 영향을 끼친 것이 아니냐”라고 추측했으나, 프리지아는 김현중을 팔로우 한 적이 없는 것으로 전해졌다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 프리지아는 ‘솔로지옥’ 출연 이후 인스타그램과 유튜브 구독자 수가 급증하며 폭발적인 인기를 얻었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그러나 그가 착용한 많은 의상과 제품이 가품이라는 사실이 밝혀지며 인스타에 사과문을 올렸다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘솔로지옥’ 김현중, 프리지아 언팔·결별 의혹도…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

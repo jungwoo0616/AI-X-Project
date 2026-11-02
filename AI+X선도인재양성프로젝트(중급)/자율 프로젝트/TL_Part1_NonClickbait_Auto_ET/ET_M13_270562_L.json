@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_270562",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "한소희, 이런 독보적인 ‘팜 파탈’ 매력 아무나 흉내 못 낼걸",
+		"newsSubTitle": "",
+		"newsContent": "배우 한소희가 자신만의 매력이 담긴 사진을 공개했다.\n한소희는 18일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 별다른 문구 없이 사진 7장을 게재했다.\n한소희는 한 쪽 어깨가 드러나는 홀터넥 나시와 트렌치코트를 매치, 스모키 화장까지 더해 독보적인 아우라를 자아냈다.\n또 다양한 포즈로 사진을 다채롭게 만들었다.\n특히 한소희는 선글라스까지 패션 아이템으로 이용하며, 단순히 섹시하지 않은 ‘팜 파탈’ 매력을 뿜어냈다.\n한편 한소희는 지난 9일 스위스 럭셔리 브랜드의 글로벌 엠버서더로 발탁되는 등 독보적인 매력을 인정받고 있다.\n또 한소희는 지난달 종영한 디즈니+ 오리지널 ‘사운드트랙#1’에 출연해 짝사랑을 알아가는 캐릭터를 열연했다.\n차기작으로는 ‘경성 크리처’를 선택했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 한소희가 자신만의 매력이 담긴 사진을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한소희는 18일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 별다른 문구 없이 사진 7장을 게재했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한소희는 한 쪽 어깨가 드러나는 홀터넥 나시와 트렌치코트를 매치, 스모키 화장까지 더해 독보적인 아우라를 자아냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 다양한 포즈로 사진을 다채롭게 만들었다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 한소희는 선글라스까지 패션 아이템으로 이용하며, 단순히 섹시하지 않은 ‘팜 파탈’ 매력을 뿜어냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 한소희는 지난 9일 스위스 럭셔리 브랜드의 글로벌 엠버서더로 발탁되는 등 독보적인 매력을 인정받고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 한소희는 지난달 종영한 디즈니+ 오리지널 ‘사운드트랙#1’에 출연해 짝사랑을 알아가는 캐릭터를 열연했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "차기작으로는 ‘경성 크리처’를 선택했다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한소희, 이런 독보적인 ‘팜 파탈’ 매력 아무나 흉내 못 낼걸",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

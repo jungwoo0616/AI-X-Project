@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_275265",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "청주 ‘김수현드라마아트홀’, 희귀 방송 자료 등 960점 수집",
+		"newsSubTitle": "",
+		"newsContent": "청주시문화산업진흥재단이 운영하는 김수현드라마아트홀은 지난 4월부터 진행한 ‘드라마 자료 기증 캠페인’을 통해 960점의 귀중한 자료를 수집했다고 11일 밝혔다.\n이번 캠페인은 국내 드라마의 체계적 연구 기반 마련 등을 목적으로 진행됐다.\n2011년 한국방송대상 수상자인 장영철 작가는 자신이 집필한 드라마의 연출대본 59점을 보내왔다.\n김영현 작가는 자신이 맡았던 연출대본 등 드라마 소장품 80점을 내놨고, 노희경 작가도 ‘우리들의 블루스 연출대본 전집’을 기증했다.\n배우 노주현은 1970년대 TBC 드라마인 청춘극장과 마부에 출연한 배우들의 모습이 담긴 흑백사진을 흔쾌히 보냈다.\n아트홀은 “캠페인을 통해 확보한 자료들을 목록화하고 체계화해 드라마 콘텐츠 연구에 귀중한 자료로 활용할 것”이라며 “자료 수집은 지속적으로 이어나갈 것”이라고 덧붙였다.\n아트홀은 내년 기증품 특별전을 열어 수집이 된 자료를 공개할 계획이다.\n김수현 작가 이름을 딴 이 아트홀은 청주 수암골에 있다.\n청주시는 옛 청주시장 관사 일대를 리모델링, 2020년 8월 아트홀을 조성했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "청주시문화산업진흥재단이 운영하는 김수현드라마아트홀은 지난 4월부터 진행한 ‘드라마 자료 기증 캠페인’을 통해 960점의 귀중한 자료를 수집했다고 11일 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 캠페인은 국내 드라마의 체계적 연구 기반 마련 등을 목적으로 진행됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2011년 한국방송대상 수상자인 장영철 작가는 자신이 집필한 드라마의 연출대본 59점을 보내왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김영현 작가는 자신이 맡았던 연출대본 등 드라마 소장품 80점을 내놨고, 노희경 작가도 ‘우리들의 블루스 연출대본 전집’을 기증했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배우 노주현은 1970년대 TBC 드라마인 청춘극장과 마부에 출연한 배우들의 모습이 담긴 흑백사진을 흔쾌히 보냈다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아트홀은 “캠페인을 통해 확보한 자료들을 목록화하고 체계화해 드라마 콘텐츠 연구에 귀중한 자료로 활용할 것”이라며 “자료 수집은 지속적으로 이어나갈 것”이라고 덧붙였다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아트홀은 내년 기증품 특별전을 열어 수집이 된 자료를 공개할 계획이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김수현 작가 이름을 딴 이 아트홀은 청주 수암골에 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "청주시는 옛 청주시장 관사 일대를 리모델링, 2020년 8월 아트홀을 조성했다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청주 ‘김수현드라마아트홀’, 희귀 방송 자료 등 960점 수집",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

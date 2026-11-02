@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_272712",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "리정, 노제와의 G사 커플링 인증 “고마워요”",
+		"newsSubTitle": "",
+		"newsContent": "댄서 리정이 노제와의 우정을 자랑했다.\n리정은 9일 자신의 사회관계망서비스(SNS) 인스타그램에 노제를 태그하며 “고마워요. 삼커플링 드디어 완성”이라는 글과 함께 G사 반지 사진을 올렸다.\n이를 본 노제는 해당 게시물을 자신의 인스타그램에 공유하며 “FOREVER LOVE(영원한 사랑)”이라는 글과 함께 리정에 대한 애정을 표현했다.\n리정과 노제는 Mnet 예능 프로그램 ‘스트릿 우먼 파이터’에 출연하며 스타덤에 올랐다.\n한편 리정은 현재 JTBC 예능 프로그램 ‘플라이 투 더 댄스’와 Mnet 예능 프로그램 ‘뚝딱이의 역습’에 출연중이다.\n노제는 채널A 예능 프로그램 ‘청춘스타’와 Mnet 예능 프로그램 ‘뚝딱이의 역습’에 출연하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "댄서 리정이 노제와의 우정을 자랑했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "리정은 9일 자신의 사회관계망서비스(SNS) 인스타그램에 노제를 태그하며 “고마워요. 삼커플링 드디어 완성”이라는 글과 함께 G사 반지 사진을 올렸다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 본 노제는 해당 게시물을 자신의 인스타그램에 공유하며 “FOREVER LOVE(영원한 사랑)”이라는 글과 함께 리정에 대한 애정을 표현했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리정과 노제는 Mnet 예능 프로그램 ‘스트릿 우먼 파이터’에 출연하며 스타덤에 올랐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 리정은 현재 JTBC 예능 프로그램 ‘플라이 투 더 댄스’와 Mnet 예능 프로그램 ‘뚝딱이의 역습’에 출연중이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노제는 채널A 예능 프로그램 ‘청춘스타’와 Mnet 예능 프로그램 ‘뚝딱이의 역습’에 출연하고 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "리정, 노제와의 G사 커플링 인증 “고마워요”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277829",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "유해진의 힘…'럭키' 4일만에 200만 돌파, 역대 코미디 1위",
+		"newsSubTitle": "",
+		"newsContent": "유해진 주연 영화 '럭키'가 개봉 4일 만에 관객수 200만명을 돌파하며 순조로운 출발을 보이고 있다.\n17일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날인 16일 영화 '럭키'는 전국 관객 수 69만명을 동원해 누적 관객 수 200만명을 돌파했다.\n개봉 4일만에 200만을 돌파한 '럭키'는 새로운 '천만 영화'의 가능성을 높였다.\n유해진의 코믹 연기가 관객들의 마음을 사로잡고 있다. '럭키'는 코미디 장르의 흥행사를 새로 쓰고 있다.\n이전까지 최단 기간 200만 돌파 기록을 보유했던 '전우치'(2009)의 7일을 가뿐하게 넘어선 상승세다.\n럭키는 성공률 100%인 완벽한 카리스마의 킬러가 목욕탕 열쇠 때문에 무명배우로 운명이 바뀌면서 펼쳐지는 반전 코미디 영화다.\n극의 중심에서 자연스러운 웃음을 이끌어내는 '유해진의 힘'이 돋보인다.\n박스오피스 2위는 '미스 페레그린과 이상한 아이들의 집' , 3위는 '맨 인 더 다크'가 차지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유해진 주연 영화 '럭키'가 개봉 4일 만에 관객수 200만명을 돌파하며 순조로운 출발을 보이고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날인 16일 영화 '럭키'는 전국 관객 수 69만명을 동원해 누적 관객 수 200만명을 돌파했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개봉 4일만에 200만을 돌파한 '럭키'는 새로운 '천만 영화'의 가능성을 높였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유해진의 코믹 연기가 관객들의 마음을 사로잡고 있다. '럭키'는 코미디 장르의 흥행사를 새로 쓰고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이전까지 최단 기간 200만 돌파 기록을 보유했던 '전우치'(2009)의 7일을 가뿐하게 넘어선 상승세다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "럭키는 성공률 100%인 완벽한 카리스마의 킬러가 목욕탕 열쇠 때문에 무명배우로 운명이 바뀌면서 펼쳐지는 반전 코미디 영화다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "극의 중심에서 자연스러운 웃음을 이끌어내는 '유해진의 힘'이 돋보인다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박스오피스 2위는 '미스 페레그린과 이상한 아이들의 집' , 3위는 '맨 인 더 다크'가 차지했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유해진의 힘…'럭키' 4일만에 200만 돌파, 역대 코미디 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

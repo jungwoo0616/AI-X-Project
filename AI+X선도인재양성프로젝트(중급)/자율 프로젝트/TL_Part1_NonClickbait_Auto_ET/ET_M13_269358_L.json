@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_269358",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "이유비, 의외의 인맥과 엽기적인 투샷 “쌍둥이 같아”",
+		"newsSubTitle": "",
+		"newsContent": "배우 이유비가 미국에서 여유로운 일상을 즐기고 있는 가운데, 의외의 인물과 엽기적인 투샷을 찍은 근황을 공개했다.\n이유비는 6일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 “We are like twins”(우리는 쌍둥이 같아)라는 글과 함께 사진 2장을 게재했다.\n이유비와 사진을 찍은 의외의 인맥은 ‘실크소닉’의 멤버이자 올해 그래미에서 ‘올해의 레코드’와 ‘올해의 노래 부문’에서 수상한 앤더스 팩이었다.\n두 사람은 쌍둥이 같은 똑단발을 한 채 새끼손가락을 입에 가져다 두는 엽기적인 포즈를 동시에 취하고 있는 모습을 사진으로 담았다.\n이유비는 어깨가 드러나는 드레스를 입은 채 뽀얀 피부로, 앤더슨 팩은 웃음기 가득한 표정으로 보는 이들의 시선을 끌었다.\n한편 이유비는 미국에서의 일상을 즐기며 폭풍 먹방을 선보여 화제가 되고 있다.\n그는 영화 ‘러브 어페어’를 차기작으로 선택했다.\n또 티빙 오리지널 ‘유미의 세포들’ 시즌2 공개를 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 이유비가 미국에서 여유로운 일상을 즐기고 있는 가운데, 의외의 인물과 엽기적인 투샷을 찍은 근황을 공개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이유비는 6일 오후 자신의 사회관계망서비스(SNS) 인스타그램 계정에 “We are like twins”(우리는 쌍둥이 같아)라는 글과 함께 사진 2장을 게재했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이유비와 사진을 찍은 의외의 인맥은 ‘실크소닉’의 멤버이자 올해 그래미에서 ‘올해의 레코드’와 ‘올해의 노래 부문’에서 수상한 앤더스 팩이었다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 사람은 쌍둥이 같은 똑단발을 한 채 새끼손가락을 입에 가져다 두는 엽기적인 포즈를 동시에 취하고 있는 모습을 사진으로 담았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이유비는 어깨가 드러나는 드레스를 입은 채 뽀얀 피부로, 앤더슨 팩은 웃음기 가득한 표정으로 보는 이들의 시선을 끌었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 이유비는 미국에서의 일상을 즐기며 폭풍 먹방을 선보여 화제가 되고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 영화 ‘러브 어페어’를 차기작으로 선택했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 티빙 오리지널 ‘유미의 세포들’ 시즌2 공개를 앞두고 있다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이유비, 의외의 인맥과 엽기적인 투샷 “쌍둥이 같아”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

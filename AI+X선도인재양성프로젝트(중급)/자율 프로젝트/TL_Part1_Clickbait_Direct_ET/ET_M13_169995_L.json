@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169995",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "MBC ‘전참시’ 김용명, 의외의 마당발…이진호X홍윤화X김해준 놀라게 한 주인공은?",
+    "newsSubTitle": "",
+    "newsContent": "‘전지적 참견 시점’ 김용명이 마당발 면모를 드러낸다.\n4일 방송되는 MBC ‘전지적 참견 시점’(기획 박정규 / 연출 노시용, 채현석 / 이하 ‘전참시’) 168회에서는 김용명과 동료 개그맨들의 포복절도 일상이 그려진다.\n이날 김용명은 이진호, 홍윤화, 김해준과 만나 녹화 전 유쾌한 시간을 즐긴다.\n특히, 김용명은 깜짝 놀랄 사람과 친분을 드러내 모두를 놀라게 만든다.\n모두가 “거짓말이지?”라며 믿기 어렵다는 반응을 보이자 김용명은 그분(?)에게 직접 전화를 건다고. 김용명과 그분의 화기애애한 대화에 이진호, 홍윤화, 김해준 세 사람은 입을 다물지 못했다는 후문. 모두를 깜짝 놀라게 한 반전 인맥의 주인공은 누구였을지 시청자들의 궁금증이 더해진다.\n그런가 하면 김용명은 개그맨들에게 깜짝 선물을 나눠줘 훈훈함을 자아냈다는데.\n김용명이 준비한 선물의 출처를 알게 된 동료들은 그가 촬영장에서 갈치, 과일 등 버려지는 소품을 챙겨간다고 밝혀 웃음을 유발한다.\n과연 촬영장의 하이에나 김용명의 진실은 무엇일지 이목이 집중된다.\n대세 중의 대세 김용명의 웃음 넘치는 하루는 4일 밤 10시 50분 방송되는 MBC ‘전지적 참견 시점’ 168회에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘전지적 참견 시점’ 김용명이 마당발 면모를 드러낸다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 방송되는 MBC ‘전지적 참견 시점’(기획 박정규 / 연출 노시용, 채현석 / 이하 ‘전참시’) 168회에서는 김용명과 동료 개그맨들의 포복절도 일상이 그려진다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김용명은 이진호, 홍윤화, 김해준과 만나 녹화 전 유쾌한 시간을 즐긴다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 김용명은 깜짝 놀랄 사람과 친분을 드러내 모두를 놀라게 만든다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모두가 “거짓말이지?”라며 믿기 어렵다는 반응을 보이자 김용명은 그분(?)에게 직접 전화를 건다고. 김용명과 그분의 화기애애한 대화에 이진호, 홍윤화, 김해준 세 사람은 입을 다물지 못했다는 후문. 모두를 깜짝 놀라게 한 반전 인맥의 주인공은 누구였을지 시청자들의 궁금증이 더해진다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런가 하면 김용명은 개그맨들에게 깜짝 선물을 나눠줘 훈훈함을 자아냈다는데.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김용명이 준비한 선물의 출처를 알게 된 동료들은 그가 촬영장에서 갈치, 과일 등 버려지는 소품을 챙겨간다고 밝혀 웃음을 유발한다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "과연 촬영장의 하이에나 김용명의 진실은 무엇일지 이목이 집중된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대세 중의 대세 김용명의 웃음 넘치는 하루는 4일 밤 10시 50분 방송되는 MBC ‘전지적 참견 시점’ 168회에서 확인할 수 있다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'그분'까지? 입이 쩍 벌어지는 관리... 김용명의 남다른 인맥 유지 비법",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

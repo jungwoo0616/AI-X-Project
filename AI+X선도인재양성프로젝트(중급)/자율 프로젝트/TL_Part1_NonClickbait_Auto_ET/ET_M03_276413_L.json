@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276413",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"강간범과의 강제 결혼 멈춰주세요\\\" 성폭행해도 결혼하면 죄가 없어지는 나라",
+		"newsSubTitle": "",
+		"newsContent": "최근 시민단체 아바즈(AVAAZ)에 \\\"강간범과의 강제 결혼, 이제는 그만!\\\"이라는 제목의 청원서가 올라왔다.\n청원서에는 요르단에 사는 14살 소녀 루브나의 사연이 소개됐다.\n루브나는 학교생활을 열심히 하는 평범한 14살 소녀였다.\n루브나의 부모님은 그녀가 커서 의사가 되길 바랐다고 한다.\n그런데 그 꿈은 사촌에게 강간당하고 결혼을 강요당하며 짓밟혔다.\n\\\"가족의 명예를 지킨다\\\"는 명목으로 만들어진 법 때문이다.\n청원인은 \\\"압둘라 국왕님, 그리고 요르단 국회의원들께 강간범들이 법적 처벌을 피할 수 있도록 하는 형법 308조를 완전히 폐지할 것을 강력히 촉구합니다. 308조의 완전한 폐지 외에는 어떠한 정도의 수정도 요르단의 여성들을 보호할 수 없습니다.\\\"라며 시민들에게 서명 운동에 동참해 달라고 요청했다.\n해당 법은 강간범이 피해자와 결혼을 하면 어떤 처벌도 받지 않도록 면죄부를 준다고 한다. 2일 오전 10시 21분 기준으로 해당 청원에 대해 48만 9433명이 동참했다.\n목표인 50만 명에 거의 근접한 수치이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 시민단체 아바즈(AVAAZ)에 \\\"강간범과의 강제 결혼, 이제는 그만!\\\"이라는 제목의 청원서가 올라왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "청원서에는 요르단에 사는 14살 소녀 루브나의 사연이 소개됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "루브나는 학교생활을 열심히 하는 평범한 14살 소녀였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "루브나의 부모님은 그녀가 커서 의사가 되길 바랐다고 한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런데 그 꿈은 사촌에게 강간당하고 결혼을 강요당하며 짓밟혔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "\\\"가족의 명예를 지킨다\\\"는 명목으로 만들어진 법 때문이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "청원인은 \\\"압둘라 국왕님, 그리고 요르단 국회의원들께 강간범들이 법적 처벌을 피할 수 있도록 하는 형법 308조를 완전히 폐지할 것을 강력히 촉구합니다. 308조의 완전한 폐지 외에는 어떠한 정도의 수정도 요르단의 여성들을 보호할 수 없습니다.\\\"라며 시민들에게 서명 운동에 동참해 달라고 요청했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해당 법은 강간범이 피해자와 결혼을 하면 어떤 처벌도 받지 않도록 면죄부를 준다고 한다. 2일 오전 10시 21분 기준으로 해당 청원에 대해 48만 9433명이 동참했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "목표인 50만 명에 거의 근접한 수치이다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"강간범과의 강제 결혼 멈춰주세요\\\" 성폭행해도 결혼하면 죄가 없어지는 나라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

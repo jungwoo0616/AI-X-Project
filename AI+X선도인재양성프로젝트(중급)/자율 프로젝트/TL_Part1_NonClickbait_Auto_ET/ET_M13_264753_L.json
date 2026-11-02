@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_264753",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "‘쇼챔’ 템페스트, 가요계 폭풍주의보 발령 ‘Bad News’",
+		"newsSubTitle": "",
+		"newsContent": "7인조 신예 템페스트(TEMPEST)가 가요계 판도를 흔드는 바람을 선사했다.\n템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 23일 방송된 MBC M ‘쇼! 챔피언’에 출연해 데뷔 앨범 ‘It’s ME, It‘s WE(잇츠 미, 잇츠 위)’ 타이틀곡 ‘Bad News(배드 뉴스)’ 무대를 선보였다.\n템페스트는 청량한 비주얼과 힙한 무드의 스타일링으로 시선을 사로잡았다.\n무대에 등장한 템페스트는 기분 좋은 에너지를 선사하며 K팝 팬들에게 강렬한 인상을 남겼다.\n템페스트는 청량한 느낌이 풍기는 ‘Bad News’를 통해 가요계에 데뷔하는 포부와 패기를 보였다.\n풋풋해 보이지만 패기와 열정 가득한 템페스트의 퍼포먼스가 무대를 채웠다.\n템페스트 데뷔 타이틀곡 ‘Bad News’에는 K팝을 평정하겠다는 템페스트 포부와 출사표가 담겼다.\n이에 템페스트는 데뷔 직후부터 글로벌 음악 팬들의 취향을 저격하며 많은 사랑을 받고 있다.\n템페스트는 각종 음악 방송 및 다채로운 콘텐츠를 통해 활발한 데뷔 앨범 ‘It’s ME, It’s WE’ 활동을 이어간다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "7인조 신예 템페스트(TEMPEST)가 가요계 판도를 흔드는 바람을 선사했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 23일 방송된 MBC M ‘쇼! 챔피언’에 출연해 데뷔 앨범 ‘It’s ME, It‘s WE(잇츠 미, 잇츠 위)’ 타이틀곡 ‘Bad News(배드 뉴스)’ 무대를 선보였다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "템페스트는 청량한 비주얼과 힙한 무드의 스타일링으로 시선을 사로잡았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무대에 등장한 템페스트는 기분 좋은 에너지를 선사하며 K팝 팬들에게 강렬한 인상을 남겼다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "템페스트는 청량한 느낌이 풍기는 ‘Bad News’를 통해 가요계에 데뷔하는 포부와 패기를 보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "풋풋해 보이지만 패기와 열정 가득한 템페스트의 퍼포먼스가 무대를 채웠다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "템페스트 데뷔 타이틀곡 ‘Bad News’에는 K팝을 평정하겠다는 템페스트 포부와 출사표가 담겼다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 템페스트는 데뷔 직후부터 글로벌 음악 팬들의 취향을 저격하며 많은 사랑을 받고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "템페스트는 각종 음악 방송 및 다채로운 콘텐츠를 통해 활발한 데뷔 앨범 ‘It’s ME, It’s WE’ 활동을 이어간다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘쇼챔’ 템페스트, 가요계 폭풍주의보 발령 ‘Bad News’",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

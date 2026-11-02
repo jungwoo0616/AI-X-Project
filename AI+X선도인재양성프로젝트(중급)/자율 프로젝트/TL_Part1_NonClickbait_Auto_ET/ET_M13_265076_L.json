@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_265076",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "안성훈 “박군, ‘식구당’에 왜 왔을까요?”",
+		"newsSubTitle": "",
+		"newsContent": "가수 안성훈이 ‘우리는 식구당’ 홍보에 나섰다.\n안성훈은 26일 오후 자신의 공식 SNS 채널을 통해 한 장의 사진을 공개했다.\n공개된 사진에는 안성훈을 비롯해 영기, 정다경, 박군이 함께 환한 미소를 짓고 있어 훈훈함을 자아냈다.\n특히 안성훈은 “과연 박군 형님이 ‘식구당’에 왜 왔을까요?”라며 오는 29일 첫방송 예정인 ‘우리는 식구당’에 대한 궁금증을 한껏 높였다.\n이외에도 안성훈은 “MBC ‘우리는 식구당’ 첫방송, 29일 밤 11시 30분 기대해주세요”라며 적극적인 홍보에 나서기도 했다.\n한편, ‘우리는 식구당’은 트바로티 김호중부터 배우 손호준 등이 속한 소속사 생각엔터테인먼트에서 펼쳐지는 보이그룹 TAN(탄) 멤버 7인의 적응기를 그린 프로그램이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 안성훈이 ‘우리는 식구당’ 홍보에 나섰다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안성훈은 26일 오후 자신의 공식 SNS 채널을 통해 한 장의 사진을 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공개된 사진에는 안성훈을 비롯해 영기, 정다경, 박군이 함께 환한 미소를 짓고 있어 훈훈함을 자아냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 안성훈은 “과연 박군 형님이 ‘식구당’에 왜 왔을까요?”라며 오는 29일 첫방송 예정인 ‘우리는 식구당’에 대한 궁금증을 한껏 높였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이외에도 안성훈은 “MBC ‘우리는 식구당’ 첫방송, 29일 밤 11시 30분 기대해주세요”라며 적극적인 홍보에 나서기도 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, ‘우리는 식구당’은 트바로티 김호중부터 배우 손호준 등이 속한 소속사 생각엔터테인먼트에서 펼쳐지는 보이그룹 TAN(탄) 멤버 7인의 적응기를 그린 프로그램이다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안성훈 “박군, ‘식구당’에 왜 왔을까요?”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

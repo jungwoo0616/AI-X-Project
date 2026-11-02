@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_262844",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "배우 확진 ‘신사와 아가씨’ 측 “이번주 결방 無…추후 일정은 논의중”[공식]",
+		"newsSubTitle": "",
+		"newsContent": "KBS 2TV 주말드라마 ‘신사와 아가씨’ 주연 배우인 이세희가 코로나19에 확진된 가운데, 향후 방송 일정에 이목이 쏠렸다.\nKBS 측은 4일 스포츠경향에 “이번 주 방영 예정인 ‘신사와 아가씨’ 45회, 46회는 정상적으로 방송된다”고 밝혔다.\n이어 “‘신사와 아가씨’ 확진자 발생 소식을 접한 뒤 곧장 촬영을 중단했다”며 “향후 상황을 지켜본 뒤 촬영 재개 여부 및 일정을 결정할 예정”이라고 덧붙였다.\n이세희 소속사 가족엔터테인먼트 측은 4일 스포츠경향에 “이세희가 오늘 오전 PCR 검사에서 코로나19 양성 판정을 받았다”며 “현재 자가격리 중”이라고 전했다.\n여기에 출연 배우 오현경 또한 4일 코로나19 자가키트검사에서 양성 반응이 나와 즉각 일정을 중단하고 PCR 검사를 받은 것으로 알려졌다.\n한편 연예계에서는 연이은 코로나19 확진 소식이 들리고 있다.\n지난 2일에는 방송인 김용만, 코미디언 박나래, 배우 김태리 등이 소속사를 통해 코로나19에 확진됐다고 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KBS 2TV 주말드라마 ‘신사와 아가씨’ 주연 배우인 이세희가 코로나19에 확진된 가운데, 향후 방송 일정에 이목이 쏠렸다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KBS 측은 4일 스포츠경향에 “이번 주 방영 예정인 ‘신사와 아가씨’ 45회, 46회는 정상적으로 방송된다”고 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “‘신사와 아가씨’ 확진자 발생 소식을 접한 뒤 곧장 촬영을 중단했다”며 “향후 상황을 지켜본 뒤 촬영 재개 여부 및 일정을 결정할 예정”이라고 덧붙였다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이세희 소속사 가족엔터테인먼트 측은 4일 스포츠경향에 “이세희가 오늘 오전 PCR 검사에서 코로나19 양성 판정을 받았다”며 “현재 자가격리 중”이라고 전했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 출연 배우 오현경 또한 4일 코로나19 자가키트검사에서 양성 반응이 나와 즉각 일정을 중단하고 PCR 검사를 받은 것으로 알려졌다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 연예계에서는 연이은 코로나19 확진 소식이 들리고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 2일에는 방송인 김용만, 코미디언 박나래, 배우 김태리 등이 소속사를 통해 코로나19에 확진됐다고 알렸다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 확진 ‘신사와 아가씨’ 측 “이번주 결방 無…추후 일정은 논의중”[공식]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

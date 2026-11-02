@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172545",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'엽기적인 그녀2' 차태현, '스태프들에게 금 두돈 선물…5000만원 썼다'",
+    "newsSubTitle": "",
+    "newsContent": "배우 차태현이 ‘엽기적인 그녀2’에 출연하는 가운데 촬영이 끝나는 날 동료배우와 스태프들에게 통큰 선물을 돌렸다는 소식이 관심을 모은다.\n차태현은 6일 서울 롯데시네마 건대입구점에서 열린 ‘엽기적인 그녀2’ 제작발표회에서 “금이 박힌 카드를 동료배우와 스태프들에게 선물했다고” 말했다.\n이어서 차태현은“영화가 끝날 때마다 선물을 준비하는데 올해는 중국 스태프들도 고려해 금을 준비했다. ”두 돈을 카드로 만들어서 돌렸다.\n한 3000만원인가 5000만원 들었다“고 밝혔다.\n전편에 이어 또다시 차태현이 출연하는 ‘엽기적인 그녀2’는 엽기적인 부부생활을 다룬다.\n걸그룹 f(x)의 중국인 멤버 빅토리아가 엽기적인 그녀역을 맡았다.\n중국에서는 4월22일 개봉하며 국내에서는 5월초 개봉 예정이다.\n온라인 중앙일보 [사진 '엽기적인 그녀2' 스틸컷]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 차태현이 ‘엽기적인 그녀2’에 출연하는 가운데 촬영이 끝나는 날 동료배우와 스태프들에게 통큰 선물을 돌렸다는 소식이 관심을 모은다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "차태현은 6일 서울 롯데시네마 건대입구점에서 열린 ‘엽기적인 그녀2’ 제작발표회에서 “금이 박힌 카드를 동료배우와 스태프들에게 선물했다고” 말했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어서 차태현은“영화가 끝날 때마다 선물을 준비하는데 올해는 중국 스태프들도 고려해 금을 준비했다. ”두 돈을 카드로 만들어서 돌렸다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 3000만원인가 5000만원 들었다“고 밝혔다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전편에 이어 또다시 차태현이 출연하는 ‘엽기적인 그녀2’는 엽기적인 부부생활을 다룬다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "걸그룹 f(x)의 중국인 멤버 빅토리아가 엽기적인 그녀역을 맡았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "중국에서는 4월22일 개봉하며 국내에서는 5월초 개봉 예정이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 '엽기적인 그녀2' 스틸컷]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 촬영 후 금 두 돈 돌린 '이 배우', \"총 5천 들었다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

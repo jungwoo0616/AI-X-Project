@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_277192",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "JYJ 김준수, 한결 여유로워진 근황",
+		"newsSubTitle": "",
+		"newsContent": "그룹 JYJ의 멤버 김준수의 늠름한 근황이 공개됐다.\n6일 육군훈련소 공식 홈페이지 훈련병 스케치에는 김준수의 모습이 담긴 사진이 게재됐다.\n사진 속 김준수는 훈련소 동기들과 함께 벤치에 둘러앉아 늠름한 모습으로 카메라를 응시하고 있다.\n지난달 15일 공개된 사진에서 김준수는 손가락 하트를 만들기도 하고, 엄지를 치켜세우며입대 후 첫 근황을 전했다.\n당시 사진보다 2차로 공개된 사진 속 김준수는 한결 여유로워진 모습이다.\n지난달 입소한 김준수는 약 4주간 기초군사훈련을 받고, 경기남부지방경찰청 홍보단으로 현역복무한다. 2018년 11월 8일 전역한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 JYJ의 멤버 김준수의 늠름한 근황이 공개됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 육군훈련소 공식 홈페이지 훈련병 스케치에는 김준수의 모습이 담긴 사진이 게재됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 김준수는 훈련소 동기들과 함께 벤치에 둘러앉아 늠름한 모습으로 카메라를 응시하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 15일 공개된 사진에서 김준수는 손가락 하트를 만들기도 하고, 엄지를 치켜세우며입대 후 첫 근황을 전했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 사진보다 2차로 공개된 사진 속 김준수는 한결 여유로워진 모습이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난달 입소한 김준수는 약 4주간 기초군사훈련을 받고, 경기남부지방경찰청 홍보단으로 현역복무한다. 2018년 11월 8일 전역한다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "JYJ 김준수, 한결 여유로워진 근황",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

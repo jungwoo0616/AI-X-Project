@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_259903",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "공간디자이너 임성빈, 2일 음주운전 혐의로 입건",
+		"newsSubTitle": "",
+		"newsContent": "공간디자이너 임성빈이 음주운전을 하다 경찰에 적발됐다.\n3일 연합뉴스에 따르면 서울 강남경찰서는 지난 2일 임씨를 도로교통법상 음주운전 혐의로 입건했다.\n임씨는 2일 오후 11시 10분쯤 강남구 역삼동의 왕복 8차선 도로에서 승용차를 몰다 오토바이에 승용차 측면을 들이받히는 사고를 당했다.\n현장에 출동한 경찰은 임씨와 오토바이 운전자의 음주 측정을 진행했고, 임씨에게서 면허 정지 수준의 혈중알코올농도 수치가 나온 것으로 알려졌다.\n당시 임씨의 차량에 탑승한 동승자는 없었으며 다친 사람도 없는 것으로 확인됐다.\n경찰은 임씨의 신원을 파악한 뒤 귀가 조처한 상태로 경찰 관계자는 “임씨를 불러 조사하고 면허 정지 처분할 계획”이라고 밝혔다.\n한편 임씨는 MBC 예능 프로그램 ‘구해줘! 홈즈’, SBS TV ‘동상이몽 2- 너는 내 운명’ 등에 출연해 얼굴을 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공간디자이너 임성빈이 음주운전을 하다 경찰에 적발됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 연합뉴스에 따르면 서울 강남경찰서는 지난 2일 임씨를 도로교통법상 음주운전 혐의로 입건했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임씨는 2일 오후 11시 10분쯤 강남구 역삼동의 왕복 8차선 도로에서 승용차를 몰다 오토바이에 승용차 측면을 들이받히는 사고를 당했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현장에 출동한 경찰은 임씨와 오토바이 운전자의 음주 측정을 진행했고, 임씨에게서 면허 정지 수준의 혈중알코올농도 수치가 나온 것으로 알려졌다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 임씨의 차량에 탑승한 동승자는 없었으며 다친 사람도 없는 것으로 확인됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰은 임씨의 신원을 파악한 뒤 귀가 조처한 상태로 경찰 관계자는 “임씨를 불러 조사하고 면허 정지 처분할 계획”이라고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 임씨는 MBC 예능 프로그램 ‘구해줘! 홈즈’, SBS TV ‘동상이몽 2- 너는 내 운명’ 등에 출연해 얼굴을 알렸다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공간디자이너 임성빈, 2일 음주운전 혐의로 입건",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

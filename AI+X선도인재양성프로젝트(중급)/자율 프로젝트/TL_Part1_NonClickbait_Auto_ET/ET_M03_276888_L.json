@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_276888",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'백상' 공유, 김고은에 \\\"너무 고마워\\\" 수상 소감",
+		"newsSubTitle": "",
+		"newsContent": "'백상예술대상'에서 최우수연기상을 수상한 공유가 김고은에게 감사 인사를 전했다.\n공유는 3일 열린 '제53회 백상예술대상'에서 TV부문 남자 최우수 연기상을 수상했다.\n이날 tvN 드라 '도깨비'의 김은숙 작가, 공유는 각각 '백상예술대상' 남자 최우수 연기상, 대상을 수상하면서 2관왕의 쾌거를 이뤘다.\n공유는 김은숙 작가와 이응복 감독에게 가장 먼저 감사 인사를 전했다.\n이어 김고은에게 \\\"쓸쓸한 김신에게 너무나 큰 사랑을 줬던 은탁이에게도 너무 고맙단 이야기를 하고 싶다\\\"고 전했다.\n공유가 김고은에게 감사 인사를 전하는 순간 객석에 앉아있던 그의 환한 미소가 포착돼 호응을 받기도 했다.\n공유는 \\\"마치 전쟁터에서 전쟁을 치루듯 현장을 함께 했던 스태프들에게 하고 싶은 말이 있다. 그대들과 함께여서 모든 시간이 좋았다\\\"며 \\\"무겁고 큰 상은 나약해져 있는 저에게 정신차리라고 주는 상으로 감사하게 받겠다 '도깨비'를 애청해주신 수많은 시청자분들 진심으로 감사드린다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'백상예술대상'에서 최우수연기상을 수상한 공유가 김고은에게 감사 인사를 전했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공유는 3일 열린 '제53회 백상예술대상'에서 TV부문 남자 최우수 연기상을 수상했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 tvN 드라 '도깨비'의 김은숙 작가, 공유는 각각 '백상예술대상' 남자 최우수 연기상, 대상을 수상하면서 2관왕의 쾌거를 이뤘다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공유는 김은숙 작가와 이응복 감독에게 가장 먼저 감사 인사를 전했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 김고은에게 \\\"쓸쓸한 김신에게 너무나 큰 사랑을 줬던 은탁이에게도 너무 고맙단 이야기를 하고 싶다\\\"고 전했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공유가 김고은에게 감사 인사를 전하는 순간 객석에 앉아있던 그의 환한 미소가 포착돼 호응을 받기도 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공유는 \\\"마치 전쟁터에서 전쟁을 치루듯 현장을 함께 했던 스태프들에게 하고 싶은 말이 있다. 그대들과 함께여서 모든 시간이 좋았다\\\"며 \\\"무겁고 큰 상은 나약해져 있는 저에게 정신차리라고 주는 상으로 감사하게 받겠다 '도깨비'를 애청해주신 수많은 시청자분들 진심으로 감사드린다\\\"고 밝혔다.",
+				"sentenceSize": 164
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'백상' 공유, 김고은에 \\\"너무 고마워\\\" 수상 소감",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}
